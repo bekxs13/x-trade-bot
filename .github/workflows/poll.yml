@@ -1,0 +1,61 @@
+name: poll
+
+on:
+  schedule:
+    # Every 5 minutes, offset from the top of the hour when GitHub is busiest.
+    # On a PRIVATE repo change this to "7,37 * * * *" (twice an hour) to stay inside the free minutes.
+    - cron: "2-59/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      test_notify:
+        description: "Only send a test TRADE and VIEW ping to your phone (no X or Claude calls)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: poll
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Poll accounts and send alerts
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Notifiers: set any of these. TRADE and VIEW pings go to separate ntfy topics
+          # (or Discord channels) when the *_VIEWS_* / *_BIAS_* one is set, otherwise both share one.
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_VIEWS_TOPIC: ${{ secrets.NTFY_VIEWS_TOPIC }}
+          NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_BIAS_WEBHOOK_URL: ${{ secrets.DISCORD_BIAS_WEBHOOK_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MODEL: ${{ vars.MODEL || 'claude-opus-5-5' }}
+          MIN_CONFIDENCE: ${{ vars.MIN_CONFIDENCE || '0.7' }}
+          SELF_REPLIES_PER_POST: ${{ vars.SELF_REPLIES_PER_POST || '1' }}
+        run: python bot.py ${{ inputs.test_notify && '--test-notify' || '' }}
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "x-trade-bot"
+          git config user.email "x-trade-bot@users.noreply.github.com"
+          [ -f state.json ] || exit 0
+          git add state.json
+          if [ -f alerts.jsonl ]; then git add alerts.jsonl; fi
+          git diff --cached --quiet && exit 0
+          git commit -m "update state [skip ci]"
+          git pull --rebase
+          git push
