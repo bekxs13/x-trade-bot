@@ -134,7 +134,7 @@ ol { padding-left: 20px; margin: 6px 0; font-size: 14px; }
         <ol>
           <li>Open <a id="pat-link" target="_blank" rel="noopener">GitHub → new fine-grained token</a>.</li>
           <li>Name it anything, pick the longest expiration, and under <b>Repository access</b> choose <b>Only select repositories</b> → <span id="repo-name"></span>.</li>
-          <li>Under <b>Permissions → Repository permissions</b>, set <b>Contents</b> to <b>Read and write</b>.</li>
+          <li>Under <b>Permissions</b>, add <b>Contents</b> and switch it from Read-only to <b>Read and write</b> (it starts as Read-only).</li>
           <li>Generate it, copy it, and paste it here.</li>
         </ol>
         <div class="addrow">
@@ -348,7 +348,13 @@ async function editAccounts(change, message) {
       committer: {name: "x-trade-bot", email: "x-trade-bot@users.noreply.github.com"},
     })});
     if (put.ok) { accounts = parseAccounts(next); return; }
-    if (put.status !== 409 && put.status !== 422) throw new Error(`Couldn't save (HTTP ${put.status})`);
+    if (put.status === 403 || put.status === 404) throw new Error("This token can read the repo but not edit it. "
+      + "On GitHub open Settings → Developer settings → Fine-grained tokens, click this token, change Contents from "
+      + "Read-only to Read and write, and save. The token itself stays the same, so just tap Add again.");
+    if (put.status !== 409 && put.status !== 422) {
+      const why = await put.json().then(j => j.message).catch(() => "");
+      throw new Error(`Couldn't save (HTTP ${put.status}${why ? `: ${why}` : ""})`);
+    }
   }
   throw new Error("The file changed while saving. Try again.");
 }
@@ -384,10 +390,13 @@ $("acct-list").onclick = async e => {
 $("save-token").onclick = async () => {
   const t = $("token").value.trim();
   if (!t) return;
-  const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}`, {headers: {Authorization: `Bearer ${t}`}});
-  const repo = res.ok ? await res.json() : null;
-  if (!repo || !(repo.permissions && repo.permissions.push)) {
-    $("token-state").textContent = "That token can't edit this repo. Check the repository and Contents permission.";
+  // This only proves the token can read the repo's files; GitHub has no way to test write access without
+  // writing, so a read-only token is caught (with fix-it steps) on the first add or remove.
+  const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/accounts.txt?ref=${BRANCH}`,
+    {headers: {Authorization: `Bearer ${t}`}, cache: "no-store"});
+  if (!res.ok) {
+    $("token-state").textContent = "GitHub didn't accept that token for this repo. Check it's limited to "
+      + `${OWNER}/${REPO} and has Contents access.`;
     return;
   }
   setToken(t);
