@@ -1,10 +1,26 @@
 {
   "accounts": {
     "based16z": {
+      "backfilled": true,
       "biases": {},
       "handle": "based16z",
       "last_id": "2108280900525891669",
-      "positions": {},
+      "positions": {
+        "BTC": {
+          "asset": "BTC",
+          "chain": "",
+          "confidence": 0.75,
+          "contract_address": "",
+          "direction": "short",
+          "entry": "",
+          "horizon": "2d-2w",
+          "post_id": "2108084087499952409",
+          "reason": "Same thread as his earlier '(Discl long puts) 2d-2w' on BTC as an 'ai loser' story; quoting 'we might lose public key cryptography' with a sarcastic 'didn't fw it anyway' is him leaning into that bearish BTC thesis.",
+          "since": "2026-10-08T06:36:27.000Z",
+          "structure": "long puts",
+          "url": "https://x.com/based16z/status/2108084087499952409"
+        }
+      },
       "posts": [
         {
           "created_at": "2026-10-08T06:19:37.000Z",
@@ -115,7 +131,9 @@
           "self_replies": 0
         },
         "2108084087499952409": {
-          "alerted": [],
+          "alerted": [
+            "trade:BTC:short"
+          ],
           "self_replies": 0
         },
         "2108091122069418392": {
@@ -152,12 +170,13 @@
         },
         "2108278472581980385": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "user_id": "1446541960181858315"
     },
     "cl207": {
+      "backfilled": true,
       "biases": {},
       "handle": "cl207",
       "last_id": "2108332270205698100",
@@ -267,9 +286,33 @@
         }
       ],
       "threads": {
-        "2106096996574765205": {
+        "2100762707796664598": {
+          "alerted": [],
+          "self_replies": 1
+        },
+        "2100886008829264086": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2102294043044585772": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2102623135107527071": {
+          "alerted": [],
+          "self_replies": 1
+        },
+        "2102626860630974508": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2102682616952656187": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2106096996574765205": {
+          "alerted": [],
+          "self_replies": 1
         },
         "2106598378595631130": {
           "alerted": [],
@@ -287,7 +330,17 @@
       "user_id": "1073132650309726208"
     },
     "lbattlerhino": {
-      "biases": {},
+      "backfilled": true,
+      "biases": {
+        "alts": {
+          "post_id": "2107794528887615691",
+          "reason": "Says structures on previously strong coins 'remain very broken', 'alts looking worse now', and in the reply 'picture on alts continues to look worse'.",
+          "scope": "alts",
+          "since": "2026-10-07",
+          "stance": "bearish",
+          "updated_at": "2026-10-07T11:25:51.000Z"
+        }
+      },
       "handle": "lbattlerhino",
       "last_id": "2108309796445409325",
       "positions": {},
@@ -396,6 +449,20 @@
         }
       ],
       "threads": {
+        "2107623890898038961": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2107794528887615691": {
+          "alerted": [
+            "bias:alts:bearish"
+          ],
+          "self_replies": 1
+        },
+        "2107909797718917132": {
+          "alerted": [],
+          "self_replies": 1
+        },
         "2107994669020025063": {
           "alerted": [],
           "self_replies": 0
@@ -408,10 +475,63 @@
       "user_id": "953032269433745408"
     },
     "moneyprinter0x": {
-      "biases": {},
+      "backfilled": true,
+      "biases": {
+        "stocks/macro": {
+          "post_id": "2108239413411242002",
+          "reason": "\"this is going to destroy forward looking sentiment across the markets\" on the OpenAI revenue miss is a broad bearish market call, matching the recorded bearish stocks/macro view.",
+          "scope": "stocks/macro",
+          "since": "2026-10-08",
+          "stance": "bearish",
+          "updated_at": "2026-10-08T16:53:40.000Z"
+        }
+      },
       "handle": "MoneyPrinter0x",
       "last_id": "2108272735973679386",
-      "positions": {},
+      "positions": {
+        "NVDA": {
+          "asset": "NVDA",
+          "chain": "",
+          "confidence": 0.92,
+          "contract_address": "",
+          "direction": "short",
+          "entry": "",
+          "horizon": "",
+          "post_id": "2108238771796001138",
+          "reason": "Author says \"shorted nvda\" quoting FT headline that OpenAI annualised revenue is $20B below prior signals.",
+          "since": "2026-10-08T16:51:07.000Z",
+          "structure": "unknown",
+          "url": "https://x.com/MoneyPrinter0x/status/2108238771796001138"
+        },
+        "NVDA, SOXL, MU": {
+          "asset": "NVDA, SOXL, MU",
+          "chain": "",
+          "confidence": 0.88,
+          "contract_address": "",
+          "direction": "short",
+          "entry": "~235 NVDA, ~150 SOXL, ~1068 MU (around 16:51 UTC)",
+          "horizon": "",
+          "post_id": "2108248166764314906",
+          "reason": "Quotes his own 'shorted nvda soxl mu' and the charts show all three dumping since then; 'Moneyprinter Mode' is a brag that he's still in the shorts and they're paying.",
+          "since": "2026-10-08T17:28:26.000Z",
+          "structure": "unknown",
+          "url": "https://x.com/MoneyPrinter0x/status/2108248166764314906"
+        },
+        "STRK": {
+          "asset": "STRK",
+          "chain": "",
+          "confidence": 0.82,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "cycle",
+          "post_id": "2108156892279456072",
+          "reason": "\"my kingmaker bet is $STRK\" and calls 500m FDV undervalued as the play on quantum/encryption fears; strongly implies a long position though no explicit buy.",
+          "since": "2026-10-08T11:25:45.000Z",
+          "structure": "spot",
+          "url": "https://x.com/MoneyPrinter0x/status/2108156892279456072"
+        }
+      },
       "posts": [
         {
           "created_at": "2026-10-08T08:31:52.000Z",
@@ -512,6 +632,14 @@
         }
       ],
       "threads": {
+        "2108104887988826209": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2108107620594942352": {
+          "alerted": [],
+          "self_replies": 0
+        },
         "2108113133994942588": {
           "alerted": [],
           "self_replies": 0
@@ -525,15 +653,22 @@
           "self_replies": 0
         },
         "2108156892279456072": {
-          "alerted": [],
+          "alerted": [
+            "trade:STRK:long"
+          ],
           "self_replies": 0
         },
         "2108238771796001138": {
-          "alerted": [],
+          "alerted": [
+            "trade:NVDA:short"
+          ],
           "self_replies": 0
         },
         "2108238926725190008": {
-          "alerted": [],
+          "alerted": [
+            "bias:stocks/macro:bearish",
+            "trade:NVDA, SOXL, MU:short"
+          ],
           "self_replies": 0
         },
         "2108239413411242002": {
@@ -541,17 +676,49 @@
           "self_replies": 0
         },
         "2108248166764314906": {
-          "alerted": [],
+          "alerted": [
+            "trade:NVDA, SOXL, MU:short"
+          ],
           "self_replies": 0
         }
       },
       "user_id": "1653080265294757890"
     },
     "thecryptonexus": {
+      "backfilled": true,
       "biases": {},
       "handle": "thecryptonexus",
       "last_id": "2107897550825037907",
-      "positions": {},
+      "positions": {
+        "FREN PET (FP)": {
+          "asset": "Fren Pet (FP)",
+          "chain": "base",
+          "confidence": 0.9,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "$1.94 average cost",
+          "horizon": "",
+          "post_id": "2107277220171669870",
+          "reason": "Replying \"Nope \ud83d\ude0f\" to \"you didnt sell right\" with a portfolio screenshot showing 27,406 Fren Pet at a $1.94 average cost confirms they are still holding.",
+          "since": "2026-10-06T01:10:15.000Z",
+          "structure": "spot",
+          "url": "https://x.com/thecryptonexus/status/2107277220171669870"
+        },
+        "HYPE": {
+          "asset": "HYPE",
+          "chain": "other",
+          "confidence": 0.85,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "",
+          "post_id": "2107333331968835746",
+          "reason": "The portfolio screenshot shows HYPE at 55.49% of holdings, with smaller META, UBTC and FP positions. Paired with \"Life is good\", it reads as a disclosed, happy HYPE holder.",
+          "since": "2026-10-06T04:53:13.000Z",
+          "structure": "spot",
+          "url": "https://x.com/thecryptonexus/status/2107333331968835746"
+        }
+      },
       "posts": [
         {
           "created_at": "2026-10-06T01:04:56.000Z",
@@ -657,12 +824,34 @@
         }
       ],
       "threads": {
+        "2105363302423437318": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2105389307024539718": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2105391106511065424": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2107207299555270949": {
+          "alerted": [],
+          "self_replies": 1
+        },
+        "2107271138199920642": {
+          "alerted": [],
+          "self_replies": 0
+        },
         "2107275881777639547": {
           "alerted": [],
           "self_replies": 0
         },
         "2107277220171669870": {
-          "alerted": [],
+          "alerted": [
+            "trade:FREN PET (FP):long"
+          ],
           "self_replies": 0
         },
         "2107288860699099415": {
@@ -670,7 +859,9 @@
           "self_replies": 0
         },
         "2107333331968835746": {
-          "alerted": [],
+          "alerted": [
+            "trade:HYPE:long"
+          ],
           "self_replies": 0
         },
         "2107896878436077724": {
@@ -681,6 +872,7 @@
       "user_id": "1392152416854765571"
     },
     "thinkingusd": {
+      "backfilled": true,
       "biases": {},
       "handle": "thinkingusd",
       "last_id": "2108214861054284161",
@@ -837,5 +1029,5 @@
       "user_id": "809191427645181952"
     }
   },
-  "updated_at": "2026-10-08T23:43:41+00:00"
+  "updated_at": "2026-10-08T23:55:14+00:00"
 }
