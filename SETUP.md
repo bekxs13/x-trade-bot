@@ -16,7 +16,8 @@ Pings arrive on your phone through **ntfy**, a free notification app. Discord an
 | File | What it does |
 |---|---|
 | `bot.py` | The whole bot: reads X, looks up live prices, asks Claude, sends pings |
-| `prompt.md` | The instructions Claude follows to read a post, plus per-account notes. This is the file you tune |
+| `prompt.md` | The instructions Claude follows to read a post. This is the file you tune |
+| `notes/` | One file per account (`notes/based16z.md`) with what you know about how they post. Sent with every post from that account; editable from the dashboard |
 | `accounts.txt` | The handles to watch, one per line (based16z and lbattlerhino) |
 | `tests/cases.json` | Example posts with the answer you expect, for tuning `prompt.md` |
 | `tests/test_offline.py` | Checks the plumbing without calling any paid API |
@@ -134,7 +135,7 @@ python bot.py --test-cases
 
 The loop:
 1. Paste 20 or so real posts from both accounts into `cases.json`, including jokes, shitposts and sarcasm.
-2. Run `--test-cases`. For each MISS, read the reason and add a line to `prompt.md`. The **Account notes** section at the bottom is the place for how each account talks: slang, how they tag positions, which jokes they repeat.
+2. Run `--test-cases`. For each MISS, read the reason and add a line to `prompt.md`. How each account talks (slang, how they tag positions, which jokes they repeat) goes in that account's notes, from the dashboard's Accounts tab or in `notes/<handle>.md`.
 3. Repeat until it passes, then upload `prompt.md` to the repo.
 
 The long-puts case is paraphrased from Grok's summary, so replace it with the real text. Cases can pin prices with a `prices` list so results don't drift as the market moves.
@@ -143,7 +144,7 @@ To check the plumbing without spending anything, run `python -m unittest discove
 
 ## Step 8: The dashboard (optional)
 
-A simple page you can open on your phone: who's bullish or bearish on what, who's in a trade right now, the recent calls, and a list to add or remove accounts.
+A simple page you can open on your phone: who's bullish or bearish on what, who's in a trade right now, the recent calls, and a list to add or remove accounts and write notes for each one.
 
 1. In the repo, go to **Settings → Pages**, and under **Build and deployment → Source** pick **GitHub Actions**.
 2. Go to **Actions → dashboard → Run workflow** once. After that it republishes by itself whenever `docs/index.html` changes.

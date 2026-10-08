@@ -84,6 +84,7 @@ class Base(unittest.TestCase):
             mock.patch.object(bot, "STATE_PATH", self.tmp / "state.json"),
             mock.patch.object(bot, "ALERTS_PATH", self.tmp / "alerts.jsonl"),
             mock.patch.object(bot, "ACCOUNTS_PATH", self.tmp / "accounts.txt"),
+            mock.patch.object(bot, "NOTES_DIR", self.tmp / "notes"),
             mock.patch.object(bot, "price_context", lambda text: ["BTC: $84,000.00"]),
             mock.patch.dict(os.environ, self.env, clear=False),
         ]
@@ -201,6 +202,13 @@ class PollTest(Base):
         lookup = [c for c in self.calls if c[0].endswith("/2/tweets")]
         self.assertEqual(lookup[0][1]["ids"], "7")
         self.assertIn("old thesis post about $ETH", self.prompts()[0])
+
+    def test_account_notes_are_included(self):
+        self.set_state()
+        (self.tmp / "notes").mkdir()
+        (self.tmp / "notes" / "based16z.md").write_text("tags positions with (Discl ...)\n")
+        self.run_poll({"data": [tweet("30", "gm")]}, NOTHING)
+        self.assertIn("Notes about @based16z:\ntags positions with (Discl ...)\n", self.prompts()[0])
 
     def test_quoted_post_text_is_included(self):
         self.set_state()

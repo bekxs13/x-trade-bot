@@ -35,9 +35,6 @@ Set needs_more_context to true when the post looks like it refers to a position 
 
 Keep each "reason" to one or two plain sentences a trader can check against the post at a glance, naming the words or image that gave it away.
 
-## Account notes
+## Notes about the author
 
-Edit this section with anything you learn about how each account posts. It is read on every call.
-
-- @based16z: often talks his book indirectly (which price "would benefit" him) and tags positions with "(Discl ...)".
-- @lbattlerhino: (add notes as you learn how this account posts)
+You may be given notes about the author, written by the person you alert: how they talk, how they tag positions, their running jokes, what they usually trade. Use them as background from someone who has followed the account for a long time. The post itself still decides what you report.

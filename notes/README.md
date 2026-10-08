@@ -1,0 +1,1 @@
+One file per account, named after the handle in lowercase (for example `based16z.md`). Write anything that helps read their posts: slang, how they tag positions, running jokes, what they usually trade. The bot passes the file to Claude with every post from that account. You can edit these from the dashboard's Accounts tab.

@@ -28,6 +28,7 @@ STATE_PATH = ROOT / "state.json"
 ALERTS_PATH = ROOT / "alerts.jsonl"
 ACCOUNTS_PATH = ROOT / "accounts.txt"
 PROMPT_PATH = ROOT / "prompt.md"
+NOTES_DIR = ROOT / "notes"  # notes/<handle>.md: what the user knows about how each account posts
 CASES_PATH = ROOT / "tests" / "cases.json"
 
 X_API = "https://api.x.com/2"
@@ -338,10 +339,18 @@ def unit_images(unit):
     return imgs[:MAX_IMAGES]
 
 
+def load_notes(handle):
+    path = NOTES_DIR / f"{handle.lower()}.md"
+    return path.read_text().strip() if path.exists() else ""
+
+
 def build_prompt_text(handle, unit, ctx, prices, deep, first_read=None):
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     main, reply = unit.get("main"), unit.get("reply")
     lines = [f"Author: @{handle}", f"Now: {now}", ""]
+    notes = load_notes(handle)
+    if notes:
+        lines += [f"Notes about @{handle}:", notes, ""]
 
     def show(label, p):
         lines.append(f"{label} (posted {p.get('created_at') or 'unknown'}):")
