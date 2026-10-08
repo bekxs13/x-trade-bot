@@ -77,7 +77,7 @@ class Base(unittest.TestCase):
     def setUp(self):
         self.tmp = Path(tempfile.mkdtemp())
         (self.tmp / "accounts.txt").write_text("# comment\n@based16z\n")
-        self.env = {"X_BEARER_TOKEN": "x", "DISCORD_WEBHOOK_URL": "https://discord.test/trades",
+        self.env = {"X_BEARER_TOKEN": "x", "ANTHROPIC_API_KEY": "k", "DISCORD_WEBHOOK_URL": "https://discord.test/trades",
                     "DISCORD_BIAS_WEBHOOK_URL": "https://discord.test/views"}
         self.patches = [
             mock.patch.object(bot, "STATE_PATH", self.tmp / "state.json"),
@@ -229,6 +229,12 @@ class PollTest(Base):
         self.set_state()
         self.run_poll({"data": [tweet("70", "79k would benefit me")]}, SHORT_BTC)
         self.assertEqual(bot._client.beta.messages.create.call_count, 1)
+
+    def test_skips_cleanly_until_secrets_are_set(self):
+        with mock.patch.dict(os.environ, {"X_BEARER_TOKEN": ""}):
+            self.assertEqual(self.run_poll({"data": []}), 0)
+        self.assertEqual(self.calls, [])
+        self.assertFalse((self.tmp / "state.json").exists())
 
     def test_low_confidence_is_not_sent(self):
         self.set_state()

@@ -702,6 +702,12 @@ def process_account(x, handle, acct, posts, dry_run=False):
 
 
 def poll(dry_run=False):
+    missing = [k for k in ("X_BEARER_TOKEN", "ANTHROPIC_API_KEY") if not os.environ.get(k)]
+    if missing:
+        # Keeps the 5-minute schedule from failing (and emailing you) until the secrets are added.
+        print(f"::warning::Skipping this run: {', '.join(missing)} not set yet. "
+              "Add them under Settings > Secrets and variables > Actions.")
+        return 0
     x = XClient(os.environ["X_BEARER_TOKEN"])
     state = load_state()
     accounts = state.setdefault("accounts", {})
