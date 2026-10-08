@@ -490,18 +490,26 @@ def record_bias(biases, b, post):
                      "updated_at": post.get("created_at", ""), "reason": b["reason"]}
 
 
+def split_assets(asset):
+    """'NVDA, SOXL, MU' is three positions. 'ETH/BTC' stays one (a pair)."""
+    return [a.strip() for a in re.split(r",|&|\band\b", asset or "") if a.strip()]
+
+
 def record_position(positions, t, post, url):
     """Keep the account's open trades: long/short opens or flips a position, exit closes it."""
-    key = (t["asset"] or t["contract_address"] or "?").upper()
-    if t["direction"] == "exit":
-        positions.pop(key, None)
-        return
-    positions[key] = {
-        "asset": t["asset"], "direction": t["direction"], "structure": t["structure"], "entry": t["entry"],
-        "horizon": t["horizon"], "chain": t["chain"], "contract_address": t["contract_address"],
-        "confidence": t["confidence"], "reason": t["reason"], "since": post.get("created_at", ""),
-        "post_id": post["id"], "url": url,
-    }
+    assets = split_assets(t["asset"])
+    for asset in assets or [t["contract_address"] or "?"]:
+        key = asset.upper()
+        if t["direction"] == "exit":
+            positions.pop(key, None)
+            continue
+        positions[key] = {
+            "asset": asset if assets else t["asset"], "direction": t["direction"], "structure": t["structure"],
+            "entry": t["entry"] if len(assets) <= 1 else "", "horizon": t["horizon"], "chain": t["chain"],
+            "contract_address": t["contract_address"] if len(assets) <= 1 else "",
+            "confidence": t["confidence"], "reason": t["reason"], "since": post.get("created_at", ""),
+            "post_id": post["id"], "url": url,
+        }
 
 
 # ---------- notifiers ----------

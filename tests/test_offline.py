@@ -315,6 +315,17 @@ class PollTest(Base):
             bot.save_state(bot.load_state())
             self.assertNotEqual(bot.load_state()["updated_at"], second)  # hourly heartbeat
 
+    def test_multi_asset_trade_is_one_position_each(self):
+        positions = {}
+        t = dict(asset="NVDA, SOXL, MU", direction="short", structure="puts", entry="", horizon="", chain="",
+                 contract_address="", confidence=0.9, reason="r")
+        bot.record_position(positions, t, {"id": "1", "created_at": "c"}, "u")
+        self.assertEqual(sorted(positions), ["MU", "NVDA", "SOXL"])
+        bot.record_position(positions, {**t, "asset": "SOXL and MU", "direction": "exit"}, {"id": "2"}, "u")
+        self.assertEqual(sorted(positions), ["NVDA"])
+        bot.record_position(positions, {**t, "asset": "ETH/BTC", "direction": "long"}, {"id": "3"}, "u")
+        self.assertIn("ETH/BTC", positions)
+
     def test_positions_open_flip_and_close(self):
         self.set_state()
         long_ = result(trade={"present": True, "asset": "SOL", "direction": "long", "confidence": 0.9, "entry": "180"})
