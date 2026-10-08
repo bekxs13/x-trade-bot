@@ -395,6 +395,12 @@ class NtfyTest(Base):
 
 
 class UnitTest(unittest.TestCase):
+    def test_secrets_are_stripped(self):
+        with mock.patch.dict(os.environ, {"X_BEARER_TOKEN": "AAAA%3Dtok\n", "NTFY_TOPIC": " topic \n"}):
+            bot.clean_env()
+            self.assertEqual(os.environ["X_BEARER_TOKEN"], "AAAA%3Dtok")
+            self.assertEqual(os.environ["NTFY_TOPIC"], "topic")
+
     def test_find_assets(self):
         majors, tags, addrs = bot.find_assets(
             "79k btc, also $ETH and $WIF. CA 7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr and 0x4200000000000000000000000000000000000006"

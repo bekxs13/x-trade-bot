@@ -808,7 +808,19 @@ def run_cases():
     return misses
 
 
+SECRET_ENV = ("X_BEARER_TOKEN", "ANTHROPIC_API_KEY", "NTFY_TOPIC", "NTFY_VIEWS_TOPIC", "NTFY_TOKEN",
+              "DISCORD_WEBHOOK_URL", "DISCORD_BIAS_WEBHOOK_URL", "TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID")
+
+
+def clean_env():
+    """Strip stray spaces/newlines that sneak in when pasting secrets into GitHub."""
+    for key in SECRET_ENV:
+        if key in os.environ:
+            os.environ[key] = os.environ[key].strip()
+
+
 def main():
+    clean_env()
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--test", metavar="TEXT")
