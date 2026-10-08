@@ -21,8 +21,10 @@ Pings arrive on your phone through **ntfy**, a free notification app. Discord an
 | `tests/cases.json` | Example posts with the answer you expect, for tuning `prompt.md` |
 | `tests/test_offline.py` | Checks the plumbing without calling any paid API |
 | `.github/workflows/poll.yml` | The GitHub timer that runs the bot every 5 minutes |
-| `state.json` | Created by the bot: last post seen, recent posts for context, each account's recorded views |
-| `alerts.jsonl` | Created by the bot: every alert it has sent, one per line (useful later for a dashboard) |
+| `docs/index.html` | The dashboard: who's bullish or bearish, who's in a trade, recent calls, add or remove accounts |
+| `.github/workflows/pages.yml` | Publishes the dashboard to GitHub Pages when it changes |
+| `state.json` | Created by the bot: last post seen, recent posts for context, each account's current views and open trades |
+| `alerts.jsonl` | Created by the bot: every alert it has sent, one per line (the dashboard's feed) |
 
 ## How a post gets read
 
@@ -138,6 +140,23 @@ The loop:
 The long-puts case is paraphrased from Grok's summary, so replace it with the real text. Cases can pin prices with a `prices` list so results don't drift as the market moves.
 
 To check the plumbing without spending anything, run `python -m unittest discover -s tests`.
+
+## Step 8: The dashboard (optional)
+
+A simple page you can open on your phone: who's bullish or bearish on what, who's in a trade right now, the recent calls, and a list to add or remove accounts.
+
+1. In the repo, go to **Settings → Pages**, and under **Build and deployment → Source** pick **GitHub Actions**.
+2. Go to **Actions → dashboard → Run workflow** once. After that it republishes by itself whenever `docs/index.html` changes.
+3. Open `https://<your-username>.github.io/x-trade-bot/`. On iPhone, tap Share → **Add to Home Screen** so it opens like an app.
+
+It reads the bot's files straight from the repo and refreshes every minute, so it's never more than a few minutes behind the bot.
+
+**Adding and removing accounts from the page** needs a GitHub token, made once per phone or browser and stored only on that device. The **Accounts** tab walks you through it: a fine-grained token limited to this one repo, with **Contents: Read and write**. Without a token the page is view-only, and you can still edit `accounts.txt` on github.com.
+
+How it tracks things:
+- **In a trade** comes from TRADE pings. A long or short opens or replaces the position for that asset, and an exit ping closes it. If they close a trade without posting about it, it stays listed until they post an exit or flip.
+- **Views** come from what Claude reads in their posts, one per topic (BTC, alts, majors, and so on), with the date the view started. A restated view keeps its original date.
+- A newly added account starts quietly: its recent posts are saved as context and only new posts can ping you.
 
 ## Things to know
 

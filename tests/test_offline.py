@@ -236,6 +236,22 @@ class PollTest(Base):
         self.assertEqual(self.calls, [])
         self.assertFalse((self.tmp / "state.json").exists())
 
+    def test_positions_open_flip_and_close(self):
+        self.set_state()
+        long_ = result(trade={"present": True, "asset": "SOL", "direction": "long", "confidence": 0.9, "entry": "180"})
+        self.run_poll({"data": [tweet("2", "long sol 180")]}, long_)
+        pos = self.state()["positions"]["SOL"]
+        self.assertEqual((pos["direction"], pos["entry"], pos["url"]), ("long", "180", "https://x.com/based16z/status/2"))
+        self.assertIn("updated_at", json.loads((self.tmp / "state.json").read_text()))
+
+        short = result(trade={"present": True, "asset": "sol", "direction": "short", "confidence": 0.9})
+        self.run_poll({"data": [tweet("3", "flipped short sol")]}, short)
+        self.assertEqual(self.state()["positions"]["SOL"]["direction"], "short")
+
+        exit_ = result(trade={"present": True, "asset": "SOL", "direction": "exit", "confidence": 0.9})
+        self.run_poll({"data": [tweet("4", "closed my sol")]}, exit_)
+        self.assertEqual(self.state()["positions"], {})
+
     def test_low_confidence_is_not_sent(self):
         self.set_state()
         weak = result(trade={"present": True, "asset": "BTC", "direction": "short", "confidence": 0.3})

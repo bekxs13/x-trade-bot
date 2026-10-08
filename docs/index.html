@@ -1,0 +1,424 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0f1115">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Trade Bot">
+<title>X Trade Bot</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📈</text></svg>">
+<style>
+:root {
+  --bg: #f6f7f9; --panel: #ffffff; --text: #14171c; --muted: #646b76; --line: #e3e6eb;
+  --accent: #2f6fed; --long: #138a4b; --long-bg: #e3f5ea; --short: #c0352b; --short-bg: #fbe7e5;
+  --exit: #9a6a00; --exit-bg: #fbf1d9; --neutral: #5d6470; --neutral-bg: #eceef2;
+  --radius: 12px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1115; --panel: #171a21; --text: #e8eaee; --muted: #9aa1ad; --line: #262b35;
+    --accent: #6c9cff; --long: #4cd18a; --long-bg: #12301f; --short: #ff7a6e; --short-bg: #3a1714;
+    --exit: #f2c14e; --exit-bg: #352a10; --neutral: #a9b0bc; --neutral-bg: #232833;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text);
+  font: 15px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+a { color: var(--accent); text-decoration: none; }
+.wrap { max-width: 760px; margin: 0 auto; padding: 16px 16px 48px; }
+header { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; flex-wrap: wrap; }
+h1 { font-size: 20px; margin: 4px 0; }
+.status { color: var(--muted); font-size: 13px; }
+.status.stale { color: var(--short); }
+nav { display: flex; gap: 6px; margin: 14px 0; position: sticky; top: 0; background: var(--bg); padding: 6px 0; z-index: 2; }
+nav button { flex: 1; padding: 9px 0; border-radius: 999px; border: 1px solid var(--line); background: var(--panel);
+  color: var(--text); font: inherit; font-weight: 600; cursor: pointer; }
+nav button.on { background: var(--text); color: var(--bg); border-color: var(--text); }
+.stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 14px; }
+.stat { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 12px; }
+.stat b { display: block; font-size: 22px; }
+.stat span { color: var(--muted); font-size: 12px; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px; margin-bottom: 10px; }
+.card h2 { font-size: 16px; margin: 0 0 2px; display: flex; justify-content: space-between; gap: 8px; }
+.sub { color: var(--muted); font-size: 13px; }
+.label { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; margin: 12px 0 6px; }
+.row { display: flex; align-items: center; gap: 8px; padding: 7px 0; border-top: 1px solid var(--line); flex-wrap: wrap; }
+.row:first-of-type { border-top: 0; }
+.pill { font-size: 12px; font-weight: 700; padding: 2px 8px; border-radius: 999px; white-space: nowrap; }
+.long, .bullish { color: var(--long); background: var(--long-bg); }
+.short, .bearish { color: var(--short); background: var(--short-bg); }
+.exit { color: var(--exit); background: var(--exit-bg); }
+.neutral { color: var(--neutral); background: var(--neutral-bg); }
+.asset { font-weight: 700; }
+.grow { flex: 1; min-width: 0; }
+.time { color: var(--muted); font-size: 12px; white-space: nowrap; }
+.empty { color: var(--muted); font-size: 14px; padding: 4px 0; }
+.chips { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+.chips button, select { padding: 6px 12px; border-radius: 999px; border: 1px solid var(--line); background: var(--panel);
+  color: var(--text); font: inherit; font-size: 13px; cursor: pointer; }
+.chips button.on { border-color: var(--accent); color: var(--accent); font-weight: 600; }
+.item .title { font-weight: 700; margin: 2px 0 4px; }
+.item .reason { margin: 0 0 6px; }
+.post { color: var(--muted); font-size: 13px; white-space: pre-wrap; word-break: break-word; border-left: 3px solid var(--line);
+  padding-left: 8px; margin: 6px 0; max-height: 7.5em; overflow: hidden; }
+.post.open { max-height: none; }
+.meta { display: flex; gap: 12px; flex-wrap: wrap; font-size: 13px; color: var(--muted); }
+.mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12px; word-break: break-all; }
+.btn { padding: 9px 14px; border-radius: 10px; border: 1px solid var(--line); background: var(--panel); color: var(--text);
+  font: inherit; font-weight: 600; cursor: pointer; }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+.btn.danger { color: var(--short); }
+.btn:disabled { opacity: .5; cursor: default; }
+input[type=text], input[type=password] { width: 100%; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--line);
+  background: var(--bg); color: var(--text); font: inherit; }
+.addrow { display: flex; gap: 8px; margin-top: 10px; }
+.note { font-size: 13px; color: var(--muted); margin: 8px 0 0; }
+.msg { font-size: 13px; margin-top: 8px; }
+.msg.err { color: var(--short); }
+.msg.ok { color: var(--long); }
+ol { padding-left: 20px; margin: 6px 0; font-size: 14px; }
+.hidden { display: none; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>📈 X Trade Bot</h1>
+    <div id="status" class="status">Loading…</div>
+  </header>
+
+  <nav>
+    <button data-tab="board" class="on">Board</button>
+    <button data-tab="feed">Feed</button>
+    <button data-tab="accounts">Accounts</button>
+  </nav>
+
+  <section id="tab-board">
+    <div class="stats">
+      <div class="stat"><b id="s-trades">–</b><span>open trades</span></div>
+      <div class="stat"><b id="s-bull">–</b><span>bullish views</span></div>
+      <div class="stat"><b id="s-bear">–</b><span>bearish views</span></div>
+    </div>
+    <div id="board"></div>
+  </section>
+
+  <section id="tab-feed" class="hidden">
+    <div class="chips" id="kind-chips">
+      <button data-kind="all" class="on">All</button>
+      <button data-kind="trade">Trades</button>
+      <button data-kind="bias">Views</button>
+      <select id="who"><option value="">Everyone</option></select>
+    </div>
+    <div id="feed"></div>
+  </section>
+
+  <section id="tab-accounts" class="hidden">
+    <div class="card">
+      <h2>Watched accounts</h2>
+      <div id="acct-list"></div>
+      <div id="acct-edit">
+        <div class="addrow">
+          <input id="new-handle" type="text" placeholder="@handle or x.com link" autocomplete="off" autocapitalize="off">
+          <button id="add-btn" class="btn primary">Add</button>
+        </div>
+        <div id="acct-msg" class="msg"></div>
+        <p class="note">Changes apply on the bot's next check (within about 5 minutes). A new account starts quietly: its recent posts are saved as context and only new posts can ping you.</p>
+      </div>
+    </div>
+    <div class="card" id="token-card">
+      <h2>Editing access</h2>
+      <div id="token-state" class="sub"></div>
+      <div id="token-setup">
+        <p class="note">To add or remove accounts from this page, it needs a GitHub token that can edit this one repo. You only do this once per phone or browser, and it's stored only on this device.</p>
+        <ol>
+          <li>Open <a id="pat-link" target="_blank" rel="noopener">GitHub → new fine-grained token</a>.</li>
+          <li>Name it anything, pick the longest expiration, and under <b>Repository access</b> choose <b>Only select repositories</b> → <span id="repo-name"></span>.</li>
+          <li>Under <b>Permissions → Repository permissions</b>, set <b>Contents</b> to <b>Read and write</b>.</li>
+          <li>Generate it, copy it, and paste it here.</li>
+        </ol>
+        <div class="addrow">
+          <input id="token" type="password" placeholder="github_pat_…" autocomplete="off">
+          <button id="save-token" class="btn primary">Save</button>
+        </div>
+        <p class="note">No token? You can still <a id="edit-link" target="_blank" rel="noopener">edit accounts.txt on GitHub</a> directly.</p>
+      </div>
+      <button id="forget-token" class="btn danger hidden">Remove token from this device</button>
+    </div>
+  </section>
+</div>
+
+<script>
+// Repo comes from the Pages URL (owner.github.io/repo/), with a fallback for opening the file directly.
+const OWNER = location.hostname.endsWith(".github.io") ? location.hostname.split(".")[0] : "bekxs13";
+const REPO = location.hostname.endsWith(".github.io") ? (location.pathname.split("/")[1] || "x-trade-bot") : "x-trade-bot";
+const BRANCH = "main";
+const TOKEN_KEY = `xtb-token-${OWNER}-${REPO}`;
+
+let state = null, alerts = [], accounts = [], feedKind = "all", feedWho = "";
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"}[c]));
+function getToken() { try { return localStorage.getItem(TOKEN_KEY) || ""; } catch { return ""; } }
+function setToken(t) { try { t ? localStorage.setItem(TOKEN_KEY, t) : localStorage.removeItem(TOKEN_KEY); } catch {} }
+
+function ago(iso) {
+  if (!iso) return "";
+  const s = (Date.now() - new Date(iso).getTime()) / 1000;
+  if (isNaN(s)) return "";
+  if (s < 60) return "just now";
+  if (s < 3600) return `${Math.floor(s / 60)}m ago`;
+  if (s < 86400) return `${Math.floor(s / 3600)}h ago`;
+  return `${Math.floor(s / 86400)}d ago`;
+}
+
+async function getFile(path) {
+  const token = getToken();
+  const res = token
+    ? await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}?ref=${BRANCH}`,
+        {headers: {Authorization: `Bearer ${token}`, Accept: "application/vnd.github.raw+json"}, cache: "no-store"})
+    : await fetch(`https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/${path}?t=${Date.now()}`, {cache: "no-store"});
+  if (res.status === 404) return null;
+  if (!res.ok) throw new Error(`${path}: HTTP ${res.status}`);
+  return res.text();
+}
+
+function parseAccounts(text) {
+  return (text || "").split("\n").map(l => l.split("#")[0].trim().replace(/^@/, "")).filter(Boolean);
+}
+
+async function load() {
+  try {
+    const [s, a, acc] = await Promise.all([getFile("state.json"), getFile("alerts.jsonl"), getFile("accounts.txt")]);
+    state = s ? JSON.parse(s) : {accounts: {}};
+    alerts = (a || "").split("\n").filter(Boolean).map(l => { try { return JSON.parse(l); } catch { return null; } })
+      .filter(Boolean).reverse();
+    accounts = parseAccounts(acc);
+    render();
+  } catch (e) {
+    $("status").textContent = `Couldn't load data (${e.message}). Retrying…`;
+    $("status").className = "status stale";
+  }
+}
+
+function acctState(handle) {
+  return (state.accounts || {})[handle.toLowerCase()] || {};
+}
+
+function render() {
+  const updated = state.updated_at;
+  const mins = updated ? (Date.now() - new Date(updated)) / 60000 : Infinity;
+  $("status").textContent = updated ? `Last check ${ago(updated)}` : "Waiting for the first check";
+  const stale = updated && mins > 30;
+  $("status").className = "status" + (stale ? " stale" : "");
+  if (stale) $("status").textContent += " · the bot may be paused";
+  renderBoard();
+  renderFeed();
+  renderAccounts();
+}
+
+function positionRow(p) {
+  const struct = p.structure && !["spot", "unknown", ""].includes(p.structure) ? ` <span class="sub">${esc(p.structure)}</span>` : "";
+  const entry = p.entry ? ` <span class="sub">@ ${esc(p.entry)}</span>` : "";
+  return `<div class="row">
+    <span class="pill ${esc(p.direction)}">${esc(p.direction.toUpperCase())}</span>
+    <span class="grow"><span class="asset">${esc(p.asset || p.contract_address || "?")}</span>${struct}${entry}</span>
+    <a class="time" href="${esc(p.url)}" target="_blank" rel="noopener">${ago(p.since)} ↗</a>
+  </div>`;
+}
+
+function viewRow(handle, v) {
+  const url = v.post_id ? `https://x.com/${handle}/status/${v.post_id}` : `https://x.com/${handle}`;
+  return `<div class="row">
+    <span class="pill ${esc(v.stance)}">${esc(v.stance.toUpperCase())}</span>
+    <span class="grow">${esc(v.scope)}</span>
+    <a class="time" href="${esc(url)}" target="_blank" rel="noopener">since ${esc(v.since || "?")} ↗</a>
+  </div>`;
+}
+
+function renderBoard() {
+  let trades = 0, bull = 0, bear = 0;
+  const cards = accounts.map(handle => {
+    const a = acctState(handle);
+    const positions = Object.values(a.positions || {}).sort((x, y) => (y.since || "").localeCompare(x.since || ""));
+    const views = Object.values(a.biases || {}).sort((x, y) => (y.updated_at || y.since || "").localeCompare(x.updated_at || x.since || ""));
+    trades += positions.length;
+    bull += views.filter(v => v.stance === "bullish").length;
+    bear += views.filter(v => v.stance === "bearish").length;
+    const last = alerts.find(x => x.handle.toLowerCase() === handle.toLowerCase());
+    const summary = !a.user_id ? "Starts on the next check"
+      : last ? `Last call ${ago(last.sent_at)}` : "No calls yet since tracking started";
+    return `<div class="card">
+      <h2><a href="https://x.com/${esc(handle)}" target="_blank" rel="noopener">@${esc(handle)}</a><span class="time">${esc(summary)}</span></h2>
+      <div class="label">In a trade</div>
+      ${positions.length ? positions.map(positionRow).join("") : `<div class="empty">No open trades</div>`}
+      <div class="label">Views</div>
+      ${views.length ? views.map(v => viewRow(handle, v)).join("") : `<div class="empty">No views recorded</div>`}
+    </div>`;
+  });
+  $("board").innerHTML = cards.join("") || `<div class="empty">No accounts yet. Add one in the Accounts tab.</div>`;
+  $("s-trades").textContent = trades;
+  $("s-bull").textContent = bull;
+  $("s-bear").textContent = bear;
+}
+
+function alertTitle(a) {
+  if (a.kind === "trade") {
+    const struct = a.structure && !["spot", "unknown", ""].includes(a.structure) ? ` (${a.structure})` : "";
+    return [`${a.direction.toUpperCase()}`, `${a.asset || "?"}${struct}`, a.direction];
+  }
+  return [`${a.stance.toUpperCase()}`, `on ${a.scope}`, a.stance];
+}
+
+function renderFeed() {
+  const who = $("who");
+  const current = who.value;
+  who.innerHTML = `<option value="">Everyone</option>` + accounts.map(h => `<option value="${esc(h)}">@${esc(h)}</option>`).join("");
+  who.value = accounts.includes(current) ? current : "";
+  const items = alerts.filter(a => (feedKind === "all" || a.kind === feedKind)
+    && (!feedWho || a.handle.toLowerCase() === feedWho.toLowerCase())).slice(0, 100);
+  $("feed").innerHTML = items.map((a, i) => {
+    const [label, what, cls] = alertTitle(a);
+    const facts = [];
+    if (a.kind === "trade") {
+      facts.push(`conf ${Number(a.confidence).toFixed(2)} · ${esc(a.source)}`);
+      if (a.entry) facts.push(`entry ${esc(a.entry)}`);
+      if (a.horizon) facts.push(esc(a.horizon));
+    } else {
+      facts.push(`conf ${Number(a.confidence).toFixed(2)}`);
+      if (a.horizon) facts.push(esc(a.horizon));
+    }
+    const ca = a.contract_address ? `<div class="mono">CA ${esc(a.contract_address)} ${esc(a.chain || "")}</div>` : "";
+    return `<div class="card item">
+      <div class="meta"><span>${a.kind === "trade" ? "TRADE" : "VIEW"} · @${esc(a.handle)}</span><span>${ago(a.sent_at)}</span></div>
+      <div class="title"><span class="pill ${esc(cls)}">${esc(label)}</span> ${esc(what)}</div>
+      <p class="reason">${esc(a.reason)}</p>
+      <div class="meta">${facts.map(f => `<span>${f}</span>`).join("")}</div>
+      ${ca}
+      ${a.post ? `<div class="post" data-i="${i}">${esc(a.post)}</div>` : ""}
+      <div class="meta"><a href="${esc(a.url)}" target="_blank" rel="noopener">Open post ↗</a>${(a.prices || []).length ? `<span>${esc(a.prices[0])}</span>` : ""}</div>
+    </div>`;
+  }).join("") || `<div class="empty">No alerts yet. They'll show up here as the bot sends them.</div>`;
+}
+
+function renderAccounts() {
+  const token = getToken();
+  $("acct-list").innerHTML = accounts.map(h => {
+    const a = acctState(h);
+    const note = a.user_id ? `${Object.keys(a.positions || {}).length} open trades · ${Object.keys(a.biases || {}).length} views` : "starts on the next check";
+    return `<div class="row">
+      <span class="grow"><a href="https://x.com/${esc(h)}" target="_blank" rel="noopener">@${esc(h)}</a> <span class="sub">${esc(note)}</span></span>
+      ${token ? `<button class="btn danger" data-remove="${esc(h)}">Remove</button>` : ""}
+    </div>`;
+  }).join("") || `<div class="empty">No accounts</div>`;
+  $("acct-edit").classList.toggle("hidden", !token);
+  $("token-setup").classList.toggle("hidden", !!token);
+  $("forget-token").classList.toggle("hidden", !token);
+  $("token-state").textContent = token ? "This device can add and remove accounts." : "View-only on this device.";
+  $("pat-link").href = "https://github.com/settings/personal-access-tokens/new";
+  $("edit-link").href = `https://github.com/${OWNER}/${REPO}/edit/${BRANCH}/accounts.txt`;
+  $("repo-name").textContent = `${OWNER}/${REPO}`;
+}
+
+// ---- editing accounts.txt through the GitHub API ----
+const b64encode = s => btoa(String.fromCharCode(...new TextEncoder().encode(s)));
+const b64decode = s => new TextDecoder().decode(Uint8Array.from(atob(s.replace(/\n/g, "")), c => c.charCodeAt(0)));
+
+function normalizeHandle(input) {
+  let h = input.trim();
+  const m = h.match(/(?:x|twitter)\.com\/([^/?#]+)/i);
+  if (m) h = m[1];
+  h = h.replace(/^@/, "");
+  return /^[A-Za-z0-9_]{1,15}$/.test(h) ? h : null;
+}
+
+async function editAccounts(change, message) {
+  const token = getToken();
+  const url = `https://api.github.com/repos/${OWNER}/${REPO}/contents/accounts.txt`;
+  const headers = {Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json"};
+  for (let attempt = 0; attempt < 2; attempt++) {
+    const cur = await fetch(`${url}?ref=${BRANCH}`, {headers, cache: "no-store"});
+    if (cur.status === 401 || cur.status === 403) throw new Error("GitHub refused the token. Check it has Contents: Read and write on this repo.");
+    if (!cur.ok) throw new Error(`Couldn't read accounts.txt (HTTP ${cur.status})`);
+    const file = await cur.json();
+    const next = change(b64decode(file.content));
+    const put = await fetch(url, {method: "PUT", headers, body: JSON.stringify({
+      message, content: b64encode(next), sha: file.sha, branch: BRANCH,
+      committer: {name: "x-trade-bot", email: "x-trade-bot@users.noreply.github.com"},
+    })});
+    if (put.ok) { accounts = parseAccounts(next); return; }
+    if (put.status !== 409 && put.status !== 422) throw new Error(`Couldn't save (HTTP ${put.status})`);
+  }
+  throw new Error("The file changed while saving. Try again.");
+}
+
+function showMsg(text, kind) { const m = $("acct-msg"); m.textContent = text; m.className = `msg ${kind || ""}`; }
+
+$("add-btn").onclick = async () => {
+  const h = normalizeHandle($("new-handle").value);
+  if (!h) return showMsg("That doesn't look like an X handle.", "err");
+  if (accounts.some(a => a.toLowerCase() === h.toLowerCase())) return showMsg(`@${h} is already watched.`, "err");
+  $("add-btn").disabled = true;
+  try {
+    await editAccounts(text => text.replace(/\n*$/, "\n") + h + "\n", `Watch @${h}`);
+    $("new-handle").value = "";
+    showMsg(`Added @${h}. The bot picks it up on its next check.`, "ok");
+    render();
+  } catch (e) { showMsg(e.message, "err"); }
+  $("add-btn").disabled = false;
+};
+
+$("acct-list").onclick = async e => {
+  const h = e.target.dataset.remove;
+  if (!h || !confirm(`Stop watching @${h}?`)) return;
+  e.target.disabled = true;
+  try {
+    await editAccounts(text => text.split("\n").filter(l => l.split("#")[0].trim().replace(/^@/, "").toLowerCase() !== h.toLowerCase()).join("\n"),
+      `Stop watching @${h}`);
+    showMsg(`Removed @${h}.`, "ok");
+    render();
+  } catch (err) { showMsg(err.message, "err"); e.target.disabled = false; }
+};
+
+$("save-token").onclick = async () => {
+  const t = $("token").value.trim();
+  if (!t) return;
+  const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}`, {headers: {Authorization: `Bearer ${t}`}});
+  const repo = res.ok ? await res.json() : null;
+  if (!repo || !(repo.permissions && repo.permissions.push)) {
+    $("token-state").textContent = "That token can't edit this repo. Check the repository and Contents permission.";
+    return;
+  }
+  setToken(t);
+  $("token").value = "";
+  render();
+};
+$("forget-token").onclick = () => { setToken(""); render(); };
+
+// ---- tabs, filters, refresh ----
+document.querySelector("nav").onclick = e => {
+  const tab = e.target.dataset.tab;
+  if (!tab) return;
+  document.querySelectorAll("nav button").forEach(b => b.classList.toggle("on", b === e.target));
+  ["board", "feed", "accounts"].forEach(t => $(`tab-${t}`).classList.toggle("hidden", t !== tab));
+  try { localStorage.setItem("xtb-tab", tab); } catch {}
+};
+$("kind-chips").onclick = e => {
+  if (!e.target.dataset.kind) return;
+  feedKind = e.target.dataset.kind;
+  document.querySelectorAll("#kind-chips button").forEach(b => b.classList.toggle("on", b === e.target));
+  renderFeed();
+};
+$("who").onchange = e => { feedWho = e.target.value; renderFeed(); };
+$("feed").onclick = e => { if (e.target.classList.contains("post")) e.target.classList.toggle("open"); };
+
+try {
+  const saved = localStorage.getItem("xtb-tab");
+  if (saved) document.querySelector(`nav button[data-tab="${saved}"]`)?.click();
+} catch {}
+load();
+setInterval(load, 60000);
+document.addEventListener("visibilitychange", () => { if (!document.hidden) load(); });
+</script>
+</body>
+</html>

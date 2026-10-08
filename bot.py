@@ -112,6 +112,7 @@ def load_state():
 
 
 def save_state(state):
+    state["updated_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")  # shown on the dashboard
     STATE_PATH.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n")
 
 
@@ -128,7 +129,8 @@ def new_account(handle):
     # posts: their main posts and self-replies. replies: their replies to other people (context only).
     # threads: per main post, how many self-replies were handled and which alerts already went out.
     # biases: their last recorded view per scope, so view pings only fire on a new or changed view.
-    return {"handle": handle, "posts": [], "replies": [], "threads": {}, "biases": {}}
+    # positions: trades they're in, per asset, from TRADE alerts; an exit alert closes one.
+    return {"handle": handle, "posts": [], "replies": [], "threads": {}, "biases": {}, "positions": {}}
 
 
 def slim(p):
@@ -461,7 +463,22 @@ def record_bias(biases, b, post):
     scope = b["scope"].lower()
     prev = biases.get(scope)
     since = prev["since"] if prev and prev["stance"] == b["stance"] else (post.get("created_at") or "")[:10]
-    biases[scope] = {"scope": b["scope"], "stance": b["stance"], "since": since, "post_id": post["id"]}
+    biases[scope] = {"scope": b["scope"], "stance": b["stance"], "since": since, "post_id": post["id"],
+                     "updated_at": post.get("created_at", ""), "reason": b["reason"]}
+
+
+def record_position(positions, t, post, url):
+    """Keep the account's open trades: long/short opens or flips a position, exit closes it."""
+    key = (t["asset"] or t["contract_address"] or "?").upper()
+    if t["direction"] == "exit":
+        positions.pop(key, None)
+        return
+    positions[key] = {
+        "asset": t["asset"], "direction": t["direction"], "structure": t["structure"], "entry": t["entry"],
+        "horizon": t["horizon"], "chain": t["chain"], "contract_address": t["contract_address"],
+        "confidence": t["confidence"], "reason": t["reason"], "since": post.get("created_at", ""),
+        "post_id": post["id"], "url": url,
+    }
 
 
 # ---------- notifiers ----------
@@ -685,10 +702,13 @@ def process_account(x, handle, acct, posts, dry_run=False):
         alerts = decide(res, acct["biases"], already)
         summary = json.dumps({k: res[k] for k in ("trade", "bias", "needs_more_context")}) if res else "model declined"
         print(f"@{handle} {p['id']}: {', '.join(a[1] for a in alerts) or 'no alert'} {summary}")
+        target = unit["reply"] if unit["late"] else unit["main"]
         for kind, _key, part, prev in alerts:
             notify(kind, handle, unit, part, prev, res["prices"], dry_run)
+            if kind == "trade":
+                record_position(acct["positions"], part, target, f"https://x.com/{handle}/status/{target['id']}")
         if res:
-            record_bias(acct["biases"], res["bias"], unit["reply"] if unit["late"] else unit["main"])
+            record_bias(acct["biases"], res["bias"], target)
         thread = acct["threads"].setdefault(thread_id, {"self_replies": 0, "alerted": []})
         thread["self_replies"] += 1 if unit["reply"] else 0
         thread["alerted"] += [a[1] for a in alerts]
