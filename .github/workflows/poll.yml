@@ -11,6 +11,10 @@ on:
         description: "Only send a test TRADE and VIEW ping to your phone (no X or Claude calls)"
         type: boolean
         default: false
+      test_cases:
+        description: "Only run tests/cases.json through Claude and show PASS/MISS in the log (about $0.30, no pings)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -46,7 +50,7 @@ jobs:
           MODEL: ${{ vars.MODEL || 'claude-opus-5-5' }}
           MIN_CONFIDENCE: ${{ vars.MIN_CONFIDENCE || '0.7' }}
           SELF_REPLIES_PER_POST: ${{ vars.SELF_REPLIES_PER_POST || '1' }}
-        run: python bot.py ${{ inputs.test_notify && '--test-notify' || '' }}
+        run: python bot.py ${{ inputs.test_cases && '--test-cases' || inputs.test_notify && '--test-notify' || '' }}
       - name: Save state
         if: always()
         run: |

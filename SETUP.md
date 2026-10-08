@@ -112,7 +112,9 @@ If a handle is misspelled, the run log shows `@handle: fetch failed` for that ac
 
 ## Step 7: Tune it (this is where the quality comes from)
 
-You can run the classifier on your own computer to test the prompt. You need Python 3.10+ and only the Anthropic key:
+**Without a computer:** in **Actions → poll → Run workflow**, tick **"Only run tests/cases.json through Claude"**. When it finishes, open the run and the **Poll accounts and send alerts** step to see PASS or MISS for each case with Claude's reasoning. It costs about $0.30 a run and sends no pings. You can edit `tests/cases.json` and `prompt.md` right on github.com (pencil icon) and run it again.
+
+**On a computer:** you can also run the classifier locally to test the prompt. You need Python 3.10+ and only the Anthropic key:
 
 ```
 pip install -r requirements.txt
@@ -139,6 +141,7 @@ To check the plumbing without spending anything, run `python -m unittest discove
 
 ## Things to know
 
+- **If something breaks:** a run that hits any error (a bad key, an empty credit balance, X being down) shows a red X in the Actions tab and GitHub emails you. Posts it couldn't read are retried on the next run, so nothing is skipped.
 - **Delay:** GitHub's timer can run a few minutes late when it's busy, so pings arrive roughly 5 to 10 minutes after the post. For near-instant pings, the same `bot.py` can run in a loop on a $5/month always-on host (Railway, Fly.io) instead.
 - **GitHub pauses timers on repos with no activity for 60 days.** The bot commits `state.json` whenever there's a new post, which counts as activity, so this only matters if both accounts go silent for two months.
 - **Views are remembered per topic** (crypto market, btc, alts, memecoins, a ticker...) in `state.json`. To make it ping on a view again, delete that entry under `biases`.

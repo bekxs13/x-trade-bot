@@ -837,8 +837,9 @@ def main():
     elif a.test_cases:
         sys.exit(1 if run_cases() else 0)
     else:
-        errors = poll(dry_run=a.dry_run)
-        sys.exit(1 if errors and errors >= len(load_accounts()) else 0)
+        # Any failure marks the run red in GitHub (and emails you), so a bad key or empty credit
+        # balance can't go unnoticed while posts quietly pile up for retry.
+        sys.exit(1 if poll(dry_run=a.dry_run) else 0)
 
 
 if __name__ == "__main__":
