@@ -103,7 +103,8 @@ class Base(unittest.TestCase):
 
     def set_state(self, posts=(), threads=None, biases=None, last_id="1"):
         acct = bot.new_account("based16z")
-        acct.update(user_id=UID, last_id=last_id, posts=list(posts), threads=threads or {}, biases=biases or {})
+        acct.update(user_id=UID, last_id=last_id, posts=list(posts), threads=threads or {}, biases=biases or {},
+                    backfilled=True)
         (self.tmp / "state.json").write_text(json.dumps({"accounts": {"based16z": acct}}))
 
     def state(self):
@@ -132,9 +133,10 @@ class Base(unittest.TestCase):
 class PollTest(Base):
     def test_baseline_then_trade_alert(self):
         old = {"data": [tweet("100", "gm"), tweet("101", "lol same", reply_to="900", to_user="999", conv="900")]}
-        self.assertEqual(self.run_poll(old), 0)
+        self.assertEqual(self.run_poll(old, NOTHING), 0)  # one history read of "gm"
         self.assertEqual(self.sent, [], "first run must not alert on old posts")
         st = self.state()
+        self.assertTrue(st["backfilled"])
         self.assertEqual(st["last_id"], "101")
         self.assertEqual([p["id"] for p in st["posts"]], ["100"])
         self.assertEqual([p["id"] for p in st["replies"]], ["101"])
@@ -202,6 +204,57 @@ class PollTest(Base):
         lookup = [c for c in self.calls if c[0].endswith("/2/tweets")]
         self.assertEqual(lookup[0][1]["ids"], "7")
         self.assertIn("old thesis post about $ETH", self.prompts()[0])
+
+    def test_history_read_fills_board_without_pinging(self):
+        # An account added before this feature: baseline saved, history not read yet.
+        self.set_state(last_id="20")
+        st = json.loads((self.tmp / "state.json").read_text())
+        del st["accounts"]["based16z"]["backfilled"]
+        (self.tmp / "state.json").write_text(json.dumps(st))
+        history = {"data": [
+            tweet("10", "alts look cooked for weeks"),
+            tweet("12", "this one is going to be fun"),
+            tweet("13", "aped 7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr", reply_to="12", to_user=UID, conv="12"),
+            tweet("15", "lol", reply_to="900", to_user="999", conv="900"),
+            tweet("20", "took profit on the rest of my popcat"),
+        ]}
+        bearish_alts = result(bias=dict(present=True, scope="alts", stance="bearish", change="new", horizon="weeks",
+                                        confidence=0.85, reason="says alts are cooked"))
+        long_popcat = result(trade=dict(present=True, asset="POPCAT", chain="solana", contract_address="7GC",
+                                        direction="long", structure="spot", entry="", horizon="", source="stated",
+                                        confidence=0.9, reason="aped the CA in the first reply"))
+        timeline = lambda params: FakeResp(200, history if "until_id" in params else {"data": []})
+        self.assertEqual(self.run_poll(timeline, bearish_alts, long_popcat, NOTHING), 0)
+        self.assertEqual(self.sent, [], "history finds must not ping")
+        until = [c[1] for c in self.calls if "until_id" in c[1]]
+        self.assertEqual(until[0]["until_id"], "21")
+        prompts = self.prompts()
+        self.assertEqual(len(prompts), 3, "three main posts read; the self-reply rides with its post")
+        self.assertIn("first reply to this post (posted", prompts[1])
+        self.assertNotIn("took profit", prompts[0], "no look-ahead into later posts")
+        st = self.state()
+        self.assertTrue(st["backfilled"])
+        self.assertEqual(st["positions"]["POPCAT"]["direction"], "long")
+        self.assertEqual(st["biases"]["alts"]["stance"], "bearish")
+        self.assertEqual(st["threads"]["12"]["alerted"], ["trade:POPCAT:long"])
+        logged = [json.loads(line) for line in (self.tmp / "alerts.jsonl").read_text().splitlines()]
+        self.assertEqual([(a["kind"], a["backfill"]) for a in logged], [("bias", True), ("trade", True)])
+        # Runs once: the next poll doesn't read history again.
+        self.assertEqual(self.run_poll(timeline), 0)
+        self.assertFalse([c for c in self.calls if "until_id" in c[1]])
+
+    def test_history_read_failure_saves_nothing_and_retries(self):
+        self.set_state(last_id="20")
+        st = json.loads((self.tmp / "state.json").read_text())
+        del st["accounts"]["based16z"]["backfilled"]
+        (self.tmp / "state.json").write_text(json.dumps(st))
+        history = {"data": [tweet("10", "short btc here"), tweet("12", "gm")]}
+        timeline = lambda params: FakeResp(200, history if "until_id" in params else {"data": []})
+        self.assertEqual(self.run_poll(timeline, SHORT_BTC), 1)  # second post: Claude fails
+        st = self.state()
+        self.assertNotIn("backfilled", st)
+        self.assertEqual(st["positions"], {})
+        self.assertFalse((self.tmp / "alerts.jsonl").exists())
 
     def test_account_notes_are_included(self):
         self.set_state()

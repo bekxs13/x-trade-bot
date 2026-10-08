@@ -41,7 +41,8 @@ CONTEXT_POSTS = int(os.environ.get("CONTEXT_POSTS", "5"))  # own posts shown on 
 DEEP_CONTEXT_POSTS = int(os.environ.get("DEEP_CONTEXT_POSTS", "15"))  # own posts shown on the deeper look
 DEEP_CONTEXT_REPLIES = int(os.environ.get("DEEP_CONTEXT_REPLIES", "10"))  # replies to others on the deeper look
 SELF_REPLIES_PER_POST = int(os.environ.get("SELF_REPLIES_PER_POST", "1"))
-BASELINE_POSTS = 20
+BACKFILL_POSTS = 10  # when an account is added, its last 10 main posts are read once to fill in the dashboard
+BACKFILL_FETCH = 50  # posts and replies fetched to find those 10 main posts
 KEEP_POSTS, KEEP_REPLIES, KEEP_THREADS = 20, 15, 100
 MAX_IMAGES = 4
 # Models that accept server-side refusal fallbacks. Haiku does not.
@@ -191,11 +192,14 @@ class XClient:
         r.raise_for_status()
         return r.json()["data"]["id"]
 
-    def timeline(self, user_id, since_id=None):
-        """New posts and replies (not reposts), oldest first. Replies are needed to spot self-replies."""
-        params = {"exclude": "retweets", "max_results": BASELINE_POSTS}
+    def timeline(self, user_id, since_id=None, until_id=None, max_results=BACKFILL_FETCH):
+        """Posts and replies (not reposts), oldest first. Replies are needed to spot self-replies.
+        since_id: only newer posts. until_id: only older posts (exclusive)."""
+        params = {"exclude": "retweets", "max_results": max_results}
         if since_id:
             params.update(since_id=since_id, max_results=100)
+        if until_id:
+            params["until_id"] = until_id
         return self._get_posts(f"/users/{user_id}/tweets", params)
 
     def lookup(self, ids):
@@ -644,11 +648,17 @@ def notify(kind, handle, unit, part, prev, prices, dry_run=False, log=True):
             print(f"  {name} send failed: {e}", file=sys.stderr)
     if not log:
         return sent
+    log_alert(kind, handle, unit, part, prices)
+    return sent
+
+
+def log_alert(kind, handle, unit, part, prices, **extra):
+    """Append to alerts.jsonl, which the dashboard's feed reads."""
+    target = unit["reply"] if unit.get("late") else unit["main"]
     with ALERTS_PATH.open("a") as f:
         f.write(json.dumps({"sent_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-                            "kind": kind, "handle": handle, "url": url, "post": unit_post_text(unit),
-                            "prices": prices, **part}) + "\n")
-    return sent
+                            "kind": kind, "handle": handle, "url": f"https://x.com/{handle}/status/{target['id']}",
+                            "post": unit_post_text(unit), "prices": prices, **part, **extra}) + "\n")
 
 
 # ---------- main loop ----------
@@ -740,6 +750,62 @@ def process_account(x, handle, acct, posts, dry_run=False):
     return 0 if failed_at is None else 1
 
 
+def backfill(x, handle, acct, posts=None, dry_run=False):
+    """Read an account's last BACKFILL_POSTS main posts once, oldest first, to fill in its open trades and
+    views on the dashboard. Finds go to the feed marked as history; no pings. Same reading as live posts:
+    their first self-reply, images, quoted posts, and a deeper look when unsure. Nothing is saved unless
+    every post was read, so a failure is retried in full on the next run."""
+    uid = acct["user_id"]
+    if posts is None:
+        posts = x.timeline(uid, until_id=str(int(acct["last_id"]) + 1))
+    mains = [p for p in posts if not p["reply_to_id"]][-BACKFILL_POSTS:]
+    selfs = [p for p in posts if is_self_reply(p, uid)]
+    replies = {}
+    for m in mains:
+        replies[m["id"]] = next((r for r in selfs if r["reply_to_id"] == m["id"]), None)
+    need = {p["quoted_id"] for p in mains + [r for r in replies.values() if r] if p["quoted_id"]}
+    try:
+        fetched = x.lookup(need)
+    except (requests.RequestException, RuntimeError) as e:
+        print(f"@{handle}: history lookup of quoted posts failed: {e}", file=sys.stderr)
+        fetched = {}
+    for p in posts:
+        if p["quoted_id"] in fetched:
+            p["quoted_text"] = fetched[p["quoted_id"]]["text"]
+
+    own = [slim(p) for p in posts if is_own_post(p, uid)]
+    others = [slim(p) for p in posts if not is_own_post(p, uid)]
+    positions, biases, found, threads = {}, {}, [], {}
+    for m in mains:
+        unit = {"main": m, "reply": replies[m["id"]], "late": False}
+        before = lambda items: [h for h in items if int(h["id"]) < int(m["id"])]
+        ctx = {"posts": before(own), "replies": before(others), "biases": biases}
+        res = classify(handle, unit, ctx)
+        alerts = decide(res, biases)
+        print(f"@{handle} {m['id']} (history): {', '.join(a[1] for a in alerts) or 'nothing'}")
+        for kind, _key, part, _prev in alerts:
+            found.append((kind, unit, part, res["prices"]))
+            if kind == "trade":
+                record_position(positions, part, m, f"https://x.com/{handle}/status/{m['id']}")
+        if res:
+            record_bias(biases, res["bias"], m)
+        threads[m["id"]] = {"self_replies": 1 if unit["reply"] else 0, "alerted": [a[1] for a in alerts]}
+
+    if dry_run:
+        return
+    for kind, unit, part, prices in found:
+        log_alert(kind, handle, unit, part, prices, backfill=True, sent_at=unit["main"].get("created_at", ""))
+    # Anything recorded from live posts since the account was added is newer, so it wins.
+    acct["positions"] = {**positions, **acct["positions"]}
+    acct["biases"] = {**biases, **acct["biases"]}
+    for tid, t in threads.items():
+        cur = acct["threads"].setdefault(tid, {"self_replies": 0, "alerted": []})
+        cur["self_replies"] = max(cur["self_replies"], t["self_replies"])
+        cur["alerted"] = sorted(set(cur["alerted"]) | set(t["alerted"]))
+    acct["backfilled"] = True
+    print(f"@{handle}: read last {len(mains)} post(s) once: {len(positions)} open trade(s), {len(biases)} view(s)")
+
+
 def poll(dry_run=False):
     missing = [k for k in ("X_BEARER_TOKEN", "ANTHROPIC_API_KEY") if not os.environ.get(k)]
     if missing:
@@ -772,6 +838,14 @@ def poll(dry_run=False):
             store(acct, posts)
             acct["last_id"] = posts[-1]["id"] if posts else "0"
             print(f"@{handle}: baseline saved from {len(posts)} recent post(s), no alerts")
+        if not acct.get("backfilled") and acct["last_id"] != "0":
+            try:
+                backfill(x, handle, acct, posts if first_run else None, dry_run)
+            except (requests.RequestException, RuntimeError, anthropic.APIError, json.JSONDecodeError,
+                    StopIteration) as e:
+                print(f"@{handle}: reading recent history failed, will retry next run: {e}", file=sys.stderr)
+                errors += 1
+        if first_run:
             continue
         print(f"@{handle}: {len(posts)} new post(s) and replies")
         errors += process_account(x, handle, acct, posts, dry_run)

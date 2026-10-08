@@ -108,7 +108,7 @@ Under **Variables** (all optional):
 1. Go to the **Actions** tab, enable workflows if asked, and open **poll**.
 2. Click **Run workflow**, tick **"Only send a test TRADE and VIEW ping to your phone"**, and run it. You should get one sample ping in each ntfy topic, marked TEST PING. This checks your secrets and topics without touching X or Claude.
 3. Click **Run workflow** again with the box unticked. That's the real first run.
-4. The first run only takes a baseline. It saves each account's last 20 posts and replies as context and sends **no pings**, so old posts won't spam you.
+4. The first run for each account saves its recent posts and replies as context, and reads its last 10 posts once to fill in the dashboard's open trades, views and feed. It sends **no pings** for those, so old posts won't spam you.
 5. From then on it runs on the timer. Open any run to see one line per post: which alerts it sent (or `no alert`), plus Claude's full reading, so you can see why.
 
 If a handle is misspelled, the run log shows `@handle: fetch failed` for that account and keeps going with the others.
@@ -157,7 +157,7 @@ It reads the bot's files straight from the repo and refreshes every minute, so i
 How it tracks things:
 - **In a trade** comes from TRADE pings. A long or short opens or replaces the position for that asset, and an exit ping closes it. If they close a trade without posting about it, it stays listed until they post an exit or flip.
 - **Views** come from what Claude reads in their posts, one per topic (BTC, alts, majors, and so on), with the date the view started. A restated view keeps its original date.
-- A newly added account starts quietly: its recent posts are saved as context and only new posts can ping you.
+- A newly added account starts with a one-time read of its last 10 posts (with the same deeper look when a post is unclear), so the board isn't empty. Those finds show in the feed marked HISTORY and don't ping you; only new posts do.
 
 ## Things to know
 

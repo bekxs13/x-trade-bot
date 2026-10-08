@@ -235,7 +235,7 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
         <button id="add-btn" class="btn primary">Add</button>
       </div>
       <div id="acct-msg" class="msg"></div>
-      <p class="hint">The bot picks it up on its next check. It saves their recent posts as background, and only new posts can ping you.</p>
+      <p class="hint">The bot picks it up on its next check. It reads their last 10 posts once to fill in the board and feed (no pings for those), then pings you on new posts.</p>
     </div>
     <div class="section-title"><h2>Watching</h2><span id="acct-count"></span></div>
     <div class="card" id="acct-list"></div>
@@ -337,8 +337,9 @@ async function load() {
   try {
     const [s, a, acc] = await Promise.all([getFile("state.json"), getFile("alerts.jsonl"), getFile("accounts.txt")]);
     state = s ? JSON.parse(s) : {accounts: {}};
+    // Newest first. History finds carry the post's time, so they slot in where they happened.
     alerts = (a || "").split("\n").filter(Boolean).map(l => { try { return JSON.parse(l); } catch { return null; } })
-      .filter(Boolean).reverse();
+      .filter(Boolean).reverse().sort((x, y) => (Date.parse(y.sent_at) || 0) - (Date.parse(x.sent_at) || 0));
     accounts = parseAccounts(acc);
     loaded = true;
     render();
@@ -407,7 +408,8 @@ function renderBoard() {
     const lean = !views.length ? ["none", "No views yet"] : ups && downs ? ["mixed", "Mixed"] : ups ? ["bullish", "Bullish"]
       : downs ? ["bearish", "Bearish"] : ["neutral", "Neutral"];
     const last = alerts.find(x => low(x.handle) === low(h));
-    const sub = !acctState(h).user_id ? "Starts on next check" : last ? `Last call ${ago(last.sent_at)}` : "No calls since tracking started";
+    const sub = !acctState(h).user_id ? "Starts on next check" : last ? `Last call ${ago(last.sent_at)}`
+      : acctState(h).backfilled ? "No calls in their last 10 posts or since" : "No calls yet";
     const chips = views.map(v => {
       const arrow = v.stance === "bullish" ? "▲" : v.stance === "bearish" ? "▼" : "●";
       const url = v.post_id ? `https://x.com/${h}/status/${v.post_id}` : `https://x.com/${h}`;
@@ -447,7 +449,7 @@ function renderFeed() {
     ].join("");
     return `${header}<div class="card call">
       <div class="call-head">${avatar(a.handle, "sm")}<span class="handle">@${esc(a.handle)}</span><span>${ago(a.sent_at)}</span>
-        <span class="grow"></span><span class="kind">${trade ? "TRADE" : "VIEW"}</span></div>
+        <span class="grow"></span>${a.backfill ? `<span class="kind" title="Found when the account was added, from their last 10 posts. No ping was sent.">HISTORY</span>` : ""}<span class="kind">${trade ? "TRADE" : "VIEW"}</span></div>
       <div class="call-title"><span class="badge ${esc(cls)}">${esc(cls)}</span><span class="what">${esc(what)}</span></div>
       <div class="reason">${esc(a.reason)}</div>
       ${a.post ? `<div class="quote">${esc(a.post)}</div>` : ""}
