@@ -17,7 +17,7 @@ import os
 import re
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import anthropic
@@ -111,8 +111,18 @@ def load_state():
     return {"accounts": {}}
 
 
-def save_state(state):
-    state["updated_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")  # shown on the dashboard
+def save_state(state, heartbeat=timedelta(hours=1)):
+    # updated_at shows on the dashboard that the bot is alive. It's refreshed when anything changed, or
+    # hourly on quiet runs, so a quiet run doesn't make a commit every 5 minutes.
+    now = datetime.now(timezone.utc)
+    old = load_state()
+    prev = old.pop("updated_at", "")
+    state.pop("updated_at", None)
+    same = json.dumps(old, sort_keys=True) == json.dumps(state, sort_keys=True)
+    if same and prev and now - datetime.fromisoformat(prev) < heartbeat:
+        state["updated_at"] = prev
+    else:
+        state["updated_at"] = now.isoformat(timespec="seconds")
     STATE_PATH.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n")
 
 

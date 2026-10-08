@@ -208,8 +208,9 @@ function acctState(handle) {
 function render() {
   const updated = state.updated_at;
   const mins = updated ? (Date.now() - new Date(updated)) / 60000 : Infinity;
-  $("status").textContent = updated ? `Last check ${ago(updated)}` : "Waiting for the first check";
-  const stale = updated && mins > 30;
+  // The bot refreshes updated_at when anything changes, and at least hourly while it's running.
+  $("status").textContent = updated ? `Updated ${ago(updated)}` : "Waiting for the bot";
+  const stale = updated && mins > 90;
   $("status").className = "status" + (stale ? " stale" : "");
   if (stale) $("status").textContent += " · the bot may be paused";
   renderBoard();

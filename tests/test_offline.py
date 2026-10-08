@@ -9,6 +9,7 @@ import os
 import sys
 import tempfile
 import unittest
+from datetime import datetime, timedelta
 from pathlib import Path
 from types import SimpleNamespace
 from unittest import mock
@@ -235,6 +236,23 @@ class PollTest(Base):
             self.assertEqual(self.run_poll({"data": []}), 0)
         self.assertEqual(self.calls, [])
         self.assertFalse((self.tmp / "state.json").exists())
+
+    def test_save_state_only_bumps_timestamp_on_change_or_hourly(self):
+        state = {"accounts": {"a": {"last_id": "1"}}}
+        bot.save_state(state)
+        first = json.loads((self.tmp / "state.json").read_text())["updated_at"]
+        state = bot.load_state()
+        with mock.patch.object(bot, "datetime", wraps=datetime) as dt:
+            dt.now.return_value = datetime.fromisoformat(first) + timedelta(minutes=5)
+            bot.save_state(state)
+            self.assertEqual(bot.load_state()["updated_at"], first)  # quiet run: no change, no commit
+            state["accounts"]["a"]["last_id"] = "2"
+            bot.save_state(state)
+            self.assertNotEqual(bot.load_state()["updated_at"], first)  # something changed
+            second = bot.load_state()["updated_at"]
+            dt.now.return_value = datetime.fromisoformat(second) + timedelta(minutes=61)
+            bot.save_state(bot.load_state())
+            self.assertNotEqual(bot.load_state()["updated_at"], second)  # hourly heartbeat
 
     def test_positions_open_flip_and_close(self):
         self.set_state()
