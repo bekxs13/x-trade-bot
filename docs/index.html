@@ -134,7 +134,7 @@ ol { padding-left: 20px; margin: 6px 0; font-size: 14px; }
         <ol>
           <li>Open <a id="pat-link" target="_blank" rel="noopener">GitHub → new fine-grained token</a>.</li>
           <li>Name it anything, pick the longest expiration, and under <b>Repository access</b> choose <b>Only select repositories</b> → <span id="repo-name"></span>.</li>
-          <li>Under <b>Permissions</b>, add <b>Contents</b> and switch it from Read-only to <b>Read and write</b> (it starts as Read-only).</li>
+          <li>Under <b>Permissions</b>, click <b>+ Add permissions</b>, pick <b>Contents</b>, and set its access to <b>Read and write</b> (it starts as Read-only). Metadata is added automatically; nothing else is needed.</li>
           <li>Generate it, copy it, and paste it here.</li>
         </ol>
         <div class="addrow">
@@ -349,8 +349,9 @@ async function editAccounts(change, message) {
     })});
     if (put.ok) { accounts = parseAccounts(next); return; }
     if (put.status === 403 || put.status === 404) throw new Error("This token can read the repo but not edit it. "
-      + "On GitHub open Settings → Developer settings → Fine-grained tokens, click this token, change Contents from "
-      + "Read-only to Read and write, and save. The token itself stays the same, so just tap Add again.");
+      + "On GitHub open Settings → Developer settings → Fine-grained tokens and click this token. Under Permissions, "
+      + "make sure Contents is listed (+ Add permissions → Contents) with access set to Read and write, then save. "
+      + "The token itself stays the same, so just tap Add again.");
     if (put.status !== 409 && put.status !== 422) {
       const why = await put.json().then(j => j.message).catch(() => "");
       throw new Error(`Couldn't save (HTTP ${put.status}${why ? `: ${why}` : ""})`);

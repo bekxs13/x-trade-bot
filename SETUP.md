@@ -151,7 +151,7 @@ A simple page you can open on your phone: who's bullish or bearish on what, who'
 
 It reads the bot's files straight from the repo and refreshes every minute, so it's never more than a few minutes behind the bot.
 
-**Adding and removing accounts from the page** needs a GitHub token, made once per phone or browser and stored only on that device. The **Accounts** tab walks you through it: a fine-grained token limited to this one repo, with **Contents: Read and write**. Without a token the page is view-only, and you can still edit `accounts.txt` on github.com.
+**Adding and removing accounts from the page** needs a GitHub token, made once per phone or browser and stored only on that device. The **Accounts** tab walks you through it: a fine-grained token limited to this one repo. Under Permissions, click **+ Add permissions**, pick **Contents**, and set it to **Read and write** (it starts as Read-only). Without a token the page is view-only, and you can still edit `accounts.txt` on github.com.
 
 How it tracks things:
 - **In a trade** comes from TRADE pings. A long or short opens or replaces the position for that asset, and an exit ping closes it. If they close a trade without posting about it, it stays listed until they post an exit or flip.
