@@ -104,13 +104,26 @@ a.item-row:active { background: var(--surface-2); }
 .exit { color: var(--exit); background: var(--exit-soft); }
 .neutral, .mixed, .none { color: var(--flat); background: var(--flat-soft); }
 
-.av { --h: 240; width: 40px; height: 40px; border-radius: 50%; flex: none; position: relative; overflow: hidden;
-  display: grid; place-items: center; font-weight: 800; font-size: 15px; color: #fff;
-  background: linear-gradient(135deg, hsl(var(--h) 70% 58%), hsl(calc(var(--h) + 40) 70% 46%)); }
+.av { width: 40px; height: 40px; border-radius: 50%; flex: none; position: relative; overflow: hidden;
+  display: grid; place-items: center; font-weight: 800; font-size: 15px; color: var(--muted); background: var(--surface-2); }
 .av img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 .av.sm { width: 32px; height: 32px; font-size: 13px; }
+/* Lean ring: green bullish, red bearish, split for mixed, grey for neutral or no current view. */
+.ring { --ring: var(--flat); display: inline-grid; flex: none; padding: 3px; border-radius: 50%; background: var(--ring); }
+.ring .av { box-shadow: 0 0 0 2px var(--surface); }
+.ring-bullish { --ring: var(--up); } .ring-bearish { --ring: var(--down); }
+.ring-mixed { background: conic-gradient(var(--up) 0 50%, var(--down) 0 100%); }
+.ring-neutral, .ring-none { --ring: color-mix(in srgb, var(--flat) 55%, transparent); }
 
-.who { padding: 14px; }
+.who { padding: 14px 14px 14px 18px; position: relative; }
+.who::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: var(--flat); opacity: .5; }
+.who.lean-bullish { background: linear-gradient(90deg, color-mix(in srgb, var(--up) 13%, transparent), transparent 75%); }
+.who.lean-bullish::before { background: var(--up); opacity: 1; }
+.who.lean-bearish { background: linear-gradient(90deg, color-mix(in srgb, var(--down) 13%, transparent), transparent 75%); }
+.who.lean-bearish::before { background: var(--down); opacity: 1; }
+.who.lean-mixed::before { background: linear-gradient(var(--up) 50%, var(--down) 50%); opacity: 1; }
+#views { overflow: hidden; }
+.legend { display: flex; gap: 12px; font-size: 12px; color: var(--faint); }
 .who-head { display: flex; align-items: center; gap: 12px; }
 .who-head .handle { font-weight: 700; color: var(--text); }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
@@ -211,7 +224,8 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
     </div>
     <div class="section-title"><h2>In a trade</h2><span id="trades-sub"></span></div>
     <div class="card list" id="trades"></div>
-    <div class="section-title"><h2>Who thinks what</h2></div>
+    <div class="section-title"><h2>Who thinks what</h2>
+      <span class="legend"><span><span class="sw" style="background:var(--up)"></span>bullish</span><span><span class="sw" style="background:var(--down)"></span>bearish</span><span><span class="sw" style="background:var(--flat)"></span>no view</span></span></div>
     <div class="card" id="views"></div>
   </section>
 
@@ -305,11 +319,18 @@ function dayLabel(iso) {
   if (days === 1) return "Yesterday";
   return d.toLocaleDateString(undefined, {weekday: "short", month: "short", day: "numeric"});
 }
-function hue(handle) { let h = 0; for (const c of low(handle)) h = (h * 31 + c.charCodeAt(0)) % 360; return h; }
 function avatar(handle, cls = "") {
-  // Initials underneath; the real X avatar covers them when it loads.
-  return `<span class="av ${cls}" style="--h:${hue(handle)}">${esc((handle[0] || "?").toUpperCase())}` +
-    `<img src="https://unavatar.io/x/${encodeURIComponent(handle)}?fallback=false" alt="" loading="lazy" onerror="this.remove()"></span>`;
+  // Initials underneath; the real X avatar covers them when it loads. The ring shows their current lean.
+  const [lean, label] = leanOf(handle);
+  return `<span class="ring ring-${lean}" title="${esc(label)}"><span class="av ${cls}">${esc((handle[0] || "?").toUpperCase())}` +
+    `<img src="https://unavatar.io/x/${encodeURIComponent(handle)}?fallback=false" alt="" loading="lazy" onerror="this.remove()"></span></span>`;
+}
+// Overall lean from their current views: bullish or bearish when they all point one way, mixed when both.
+function leanOf(handle) {
+  const views = viewsOf(handle);
+  const ups = views.filter(v => v.stance === "bullish").length, downs = views.filter(v => v.stance === "bearish").length;
+  return !views.length ? ["none", "No current view"] : ups && downs ? ["mixed", "Mixed"] : ups ? ["bullish", "Bullish"]
+    : downs ? ["bearish", "Bearish"] : ["neutral", "Neutral"];
 }
 const CHEV = `<svg class="chev" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M9 6l6 6-6 6"/></svg>`;
 function toast(text) {
@@ -403,10 +424,7 @@ function renderBoard() {
   }).join("") || `<div class="empty"><span class="em">🪑</span>Nobody's in a trade right now.<br>Positions show up here when someone posts an entry, and leave when they post an exit.</div>`;
 
   $("views").innerHTML = accounts.map(h => {
-    const views = viewsOf(h);
-    const ups = views.filter(v => v.stance === "bullish").length, downs = views.filter(v => v.stance === "bearish").length;
-    const lean = !views.length ? ["none", "No views yet"] : ups && downs ? ["mixed", "Mixed"] : ups ? ["bullish", "Bullish"]
-      : downs ? ["bearish", "Bearish"] : ["neutral", "Neutral"];
+    const views = viewsOf(h), lean = leanOf(h);
     const last = alerts.find(x => low(x.handle) === low(h));
     const sub = !acctState(h).user_id ? "Starts on next check" : last ? `Last call ${ago(last.sent_at)}`
       : acctState(h).backfilled ? "No calls in their last 10 posts or since" : "No calls yet";
@@ -415,7 +433,7 @@ function renderBoard() {
       const url = v.post_id ? `https://x.com/${h}/status/${v.post_id}` : `https://x.com/${h}`;
       return `<a class="chip ${esc(v.stance)}" href="${esc(url)}" target="_blank" rel="noopener" title="${esc(v.reason || "")}">${arrow} ${esc(v.scope)} <small>since ${esc((v.since || "").slice(5) || "?")}</small></a>`;
     }).join("");
-    return `<div class="who">
+    return `<div class="who lean-${lean[0]}">
       <div class="who-head">${avatar(h)}
         <div class="grow"><a class="handle" href="https://x.com/${esc(h)}" target="_blank" rel="noopener">@${esc(h)}</a><div class="line2">${esc(sub)}</div></div>
         <span class="badge ${lean[0]}">${lean[1]}</span>
@@ -469,7 +487,7 @@ function renderAccounts() {
   $("acct-count").textContent = accounts.length ? `${accounts.length}` : "";
   $("acct-list").innerHTML = accounts.map(h => {
     const a = acctState(h), key = low(h);
-    const sub = a.user_id ? `${positionsOf(h).length} open trades · ${viewsOf(h).length} views` : "Starts on next check";
+    const sub = a.user_id ? `${leanOf(h)[1]} · ${positionsOf(h).length} open trades` : "Starts on next check";
     const open = openNotes.has(key);
     const text = notes[key];
     let body = "";
