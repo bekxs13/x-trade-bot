@@ -1192,7 +1192,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108572562448154759",
+      "last_id": "2108577788781531289",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1407,12 +1407,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-09T08:41:05.000Z",
-          "id": "2108477840614441401",
-          "reply_to_id": "2108475647966470434",
-          "text": "@jords and yes i agree, this is going to be one of the main themes this cycle imo\n\nthis kind of industry-level threat narratives in confluence with anth ipo + oai ipo headwinds are likelier than not to be up-only &amp; very sticky"
-        },
-        {
           "created_at": "2026-10-09T09:01:45.000Z",
           "id": "2108483042214019327",
           "reply_to_id": "2108482213784514875",
@@ -1498,6 +1492,12 @@
           "id": "2108572562448154759",
           "reply_to_id": "2108551366645887082",
           "text": "@matthew_d_green publish a paper then"
+        },
+        {
+          "created_at": "2026-10-09T15:18:14.000Z",
+          "id": "2108577788781531289",
+          "reply_to_id": "2108577288472465770",
+          "text": "@SkiTheWeast low lev / spot, imo lev is rarely good"
         }
       ],
       "threads": {
@@ -1653,7 +1653,6 @@
         "2108467127783154171": true,
         "2108470411361178094": false,
         "2108472561889943559": true,
-        "2108477840614441401": true,
         "2108481061042929887": true,
         "2108482904116560301": true,
         "2108483042214019327": false,
@@ -1678,7 +1677,8 @@
         "2108546087221125578": true,
         "2108548969962115421": true,
         "2108569245093417100": true,
-        "2108572562448154759": false
+        "2108572562448154759": false,
+        "2108577788781531289": true
       },
       "user_id": "1653080265294757890"
     },
@@ -2796,5 +2796,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T15:18:19+00:00"
+  "updated_at": "2026-10-09T15:20:21+00:00"
 }
