@@ -649,7 +649,7 @@
       "biases": {},
       "closed": [],
       "handle": "cl207",
-      "last_id": "2108472255152099705",
+      "last_id": "2108474171470860635",
       "positions": {},
       "posts": [
         {
@@ -691,11 +691,6 @@
         "2108472255152099705": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-09-25T00:50:11.000Z",
-          "id": "2103285906186924227",
-          "text": "@0xMerp theres cheap + very nice apartment hotel chains\n\nmonday\nsection L\nmimaru"
-        },
         {
           "created_at": "2026-09-27T13:05:39.000Z",
           "id": "2104195768316051965",
@@ -765,6 +760,12 @@
           "created_at": "2026-10-08T23:02:38.000Z",
           "id": "2108332270205698100",
           "text": "@zoomerfied citrini 100% sold his account\n\ncomparing his early tweets to his tweets now it\u2019s completely different in almost every way, the language, the nomenclature, the phrasing, practically everything"
+        },
+        {
+          "created_at": "2026-10-09T08:26:30.000Z",
+          "id": "2108474171470860635",
+          "reply_to_id": "2108342150337376514",
+          "text": "@fermatslibrary ai could never do this"
         }
       ],
       "threads": {
@@ -814,7 +815,6 @@
         }
       },
       "trading": {
-        "2103285906186924227": false,
         "2104195768316051965": false,
         "2105596563724853572": false,
         "2106096996574765205": false,
@@ -834,7 +834,8 @@
         "2108114860626059731": false,
         "2108138915563794488": false,
         "2108332270205698100": false,
-        "2108472255152099705": false
+        "2108472255152099705": false,
+        "2108474171470860635": false
       },
       "user_id": "1073132650309726208"
     },
@@ -2509,5 +2510,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T08:24:16+00:00"
+  "updated_at": "2026-10-09T08:28:24+00:00"
 }
