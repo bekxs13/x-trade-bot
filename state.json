@@ -21,14 +21,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2108690651164405900",
+      "last_id": "2108703912429793418",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-08T06:19:37.000Z",
-          "id": "2108079852439904621",
-          "text": "Oh I mean bro https://t.co/0Y9W8fpvgo"
-        },
         {
           "created_at": "2026-10-08T06:23:39.000Z",
           "id": "2108080868602392998",
@@ -126,6 +121,11 @@
           "created_at": "2026-10-09T19:59:18.000Z",
           "id": "2108648518285934654",
           "text": "I'm drinking Red Bull summer edition in the fall"
+        },
+        {
+          "created_at": "2026-10-09T23:39:25.000Z",
+          "id": "2108703912429793418",
+          "text": "Jenna Ortega rated herself a 9/10 and Clavicular immediately humbled her \ud83d\udc80\n\nBro did NOT agree with that rating \ud83d\ude2d\ud83d\udc40"
         }
       ],
       "reads": {
@@ -145,7 +145,8 @@
         "2108589553397469263": "No call",
         "2108629710317969520": "No call",
         "2108631075895333285": "No call",
-        "2108648518285934654": "No call"
+        "2108648518285934654": "No call",
+        "2108703912429793418": "No call"
       },
       "replies": [
         {
@@ -292,10 +293,13 @@
         "2108648518285934654": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108703912429793418": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108079852439904621": false,
         "2108080868602392998": false,
         "2108084087499952409": false,
         "2108085191000428591": false,
@@ -327,7 +331,8 @@
         "2108629710317969520": false,
         "2108631075895333285": false,
         "2108648518285934654": false,
-        "2108690651164405900": false
+        "2108690651164405900": false,
+        "2108703912429793418": false
       },
       "user_id": "1446541960181858315"
     },
@@ -2974,5 +2979,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T22:48:22+00:00"
+  "updated_at": "2026-10-09T23:40:24+00:00"
 }
