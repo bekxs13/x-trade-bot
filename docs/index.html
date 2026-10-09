@@ -657,7 +657,7 @@ function callCard(a) {
     ${a.contract_address ? `<div class="ca">${esc(a.chain || "CA")} · ${esc(a.contract_address)}</div>` : ""}
     <div class="facts num">${facts}</div>
     ${chart ? `<div class="chart-actions"><button class="btn small" data-chart="${esc(id)}">${openCharts.has(id) ? "Hide chart" : "Show chart"}</button>
-      <a class="btn small" href="${esc(chart.url)}" target="_blank" rel="noopener">Open in ${chart.name} ↗</a></div><div class="chart-slot"></div>` : ""}
+      <a class="btn small" href="${esc(chart.open || chart.url)}" target="_blank" rel="noopener">Open in ${chart.name} ↗</a></div><div class="chart-slot"></div>` : ""}
     <div class="post-foot"><a class="open-x" style="margin:0" href="${esc(a.url)}" target="_blank" rel="noopener">Open on X ${CHEV}</a>
       <button class="linkish" data-teach-url="${esc(a.url)}" data-teach-who="${esc(a.handle)}">Wrong? Teach the bot</button></div>
   </div>`;
@@ -678,8 +678,13 @@ function chartOf(a) {
     const t = m[1].toUpperCase();
     symbol = marketOf(a) !== "crypto" || /USDT?$/.test(t) ? t : `${t}USDT`;
   }
-  return {name: "TradingView", url: `https://www.tradingview.com/chart/?symbol=${encodeURIComponent(symbol).replace("%3A", ":")}`, symbol};
+  const url = `https://www.tradingview.com/chart/?symbol=${encodeURIComponent(symbol).replace("%3A", ":")}`;
+  return {name: "TradingView", url, open: appLink(url), symbol};
 }
+// On Android, open the TradingView app straight from the button (the website if it isn't installed). iPhone has no
+// equivalent for web apps, so it gets the website.
+const appLink = url => !/Android/.test(navigator.userAgent) ? url
+  : `intent://${url.replace(/^https:\/\//, "")}#Intent;scheme=https;package=com.tradingview.tradingviewapp;S.browser_fallback_url=${encodeURIComponent(url)};end`;
 function fillChart(slot, a) {
   const chart = chartOf(a);
   if (!chart || slot.childElementCount) return;
