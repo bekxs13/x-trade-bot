@@ -649,7 +649,7 @@
       "biases": {},
       "closed": [],
       "handle": "cl207",
-      "last_id": "2108474171470860635",
+      "last_id": "2108474973149135135",
       "positions": {},
       "posts": [
         {
@@ -691,11 +691,6 @@
         "2108472255152099705": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-09-27T13:05:39.000Z",
-          "id": "2104195768316051965",
-          "text": "@heart_ now try shipping it back to where you are, redo the interior, put a new powerful engine, and repaint it nicely \ud83d\ude0e"
-        },
         {
           "created_at": "2026-10-01T09:51:55.000Z",
           "id": "2105596563724853572",
@@ -766,6 +761,12 @@
           "id": "2108474171470860635",
           "reply_to_id": "2108342150337376514",
           "text": "@fermatslibrary ai could never do this"
+        },
+        {
+          "created_at": "2026-10-09T08:29:41.000Z",
+          "id": "2108474973149135135",
+          "reply_to_id": "2108356871686086798",
+          "text": "@simonfang83 @Leo_Glisic @kevinschawinski oh"
         }
       ],
       "threads": {
@@ -815,7 +816,6 @@
         }
       },
       "trading": {
-        "2104195768316051965": false,
         "2105596563724853572": false,
         "2106096996574765205": false,
         "2106097653667025375": false,
@@ -835,7 +835,8 @@
         "2108138915563794488": false,
         "2108332270205698100": false,
         "2108472255152099705": false,
-        "2108474171470860635": false
+        "2108474171470860635": false,
+        "2108474973149135135": false
       },
       "user_id": "1073132650309726208"
     },
@@ -2510,5 +2511,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T08:28:24+00:00"
+  "updated_at": "2026-10-09T08:30:19+00:00"
 }
