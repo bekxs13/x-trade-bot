@@ -979,12 +979,38 @@
           "since": "2026-10-07",
           "stance": "bearish",
           "updated_at": "2026-10-09T01:09:01.000Z"
+        },
+        "crypto market": {
+          "market": "crypto",
+          "post_id": "2108616630343504339",
+          "reason": "\"Crypto still ugly and needs patience\" is a bearish-to-wait stance on crypto overall, broader than his recorded bearish view on alts.",
+          "scope": "crypto market",
+          "since": "2026-10-09",
+          "stance": "bearish",
+          "updated_at": "2026-10-09T17:52:35.000Z"
         }
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2108426947412017409",
-      "positions": {},
+      "last_id": "2108616630343504339",
+      "positions": {
+        "EWY": {
+          "asset": "EWY",
+          "chain": "",
+          "confidence": 0.9,
+          "contract_address": "",
+          "direction": "short",
+          "entry": "",
+          "horizon": "",
+          "market": "stocks",
+          "open_price": null,
+          "post_id": "2108616630343504339",
+          "reason": "\"adding some ewy shorts to go against mag longs\" is a stated new short on EWY, a Korea ETF, hedging GOOG/AMZN longs. He also says he cut ASTS and holds spot longs in GOOG and AMZN plus BRK leaps.",
+          "since": "2026-10-09T17:52:35.000Z",
+          "structure": "unknown",
+          "url": "https://x.com/lbattlerhino/status/2108616630343504339"
+        }
+      },
       "posts": [
         {
           "created_at": "2026-10-07T21:22:44.000Z",
@@ -1035,6 +1061,11 @@
           "quoted_text": "@AstroXBT Many OGs felt the same about ZEC for a long time",
           "reply_to_id": "2104390418591043848",
           "text": "Hmmm https://t.co/xYsRVPDS3s"
+        },
+        {
+          "created_at": "2026-10-09T17:52:35.000Z",
+          "id": "2108616630343504339",
+          "text": "Goog amzn going well, holding spot trad still good (brk leaps also performing again lmfao SOMEDAY), cut ASTS today got fkd on that, adding some ewy shorts to go against mag longs (again mostly goog amzn), mostly still just riding spot long trad as I think good setup for higher \n\nCrypto still ugly and needs patience imo \n\nEnjoy your weekends bros"
         }
       ],
       "reads": {
@@ -1043,7 +1074,8 @@
         "2108364075583635727": "No call: bearish on alts (same view as before)",
         "2108374505039307132": "No call",
         "2108378376771928218": "No call",
-        "2108408467048599633": "No call"
+        "2108408467048599633": "No call",
+        "2108616630343504339": "TRADE SHORT EWY \u00b7 VIEW bearish on crypto market"
       },
       "replies": [
         {
@@ -1167,6 +1199,13 @@
         "2108374505039307132": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2108616630343504339": {
+          "alerted": [
+            "trade:EWY:short",
+            "bias:crypto market:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1193,7 +1232,8 @@
         "2108416588299022424": true,
         "2108419165325533342": false,
         "2108420838232146130": false,
-        "2108426947412017409": false
+        "2108426947412017409": false,
+        "2108616630343504339": true
       },
       "user_id": "953032269433745408"
     },
@@ -2837,5 +2877,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T17:50:21+00:00"
+  "updated_at": "2026-10-09T17:54:27+00:00"
 }
