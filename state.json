@@ -242,7 +242,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2108385054166843479",
+      "last_id": "2108405452770066463",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -262,11 +262,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-06T23:06:21.000Z",
-          "id": "2107608427220570453",
-          "text": "why the fuck is it so hot"
-        },
         {
           "created_at": "2026-10-07T01:21:09.000Z",
           "id": "2107642352684949537",
@@ -380,6 +375,14 @@
           "id": "2108381006973817054",
           "quoted_text": "papertrade pre-deposits are live!\n\nhttps://t.co/AdIx336QsD\n\nin order to avoid the launch trading congestion, deposit during the next two days to secure your spot at the starting line. once trading begins, account creation/deposits will be heavily deprioritized.\n\nno need to rush - there is no advantage to depositing earlier during this period.\n\nwhen on 10.10 will papertrade go live?\n\nlive trading will begin approximately one hour after the expected hyperevm network upgrade on 10.10. the exact upg",
           "text": "believe it will be very +EV to deposit some capital here and trade on this starting tomorrow\n\nread the docs &amp; you will understand why https://t.co/7B8tGUvBey"
+        },
+        {
+          "created_at": "2026-10-09T03:53:26.000Z",
+          "id": "2108405452770066463",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2108405191213228032/img/Atxu2rNvZINC_kfT.jpg"
+          ],
+          "text": "i expect culture and collective belief to become increasingly valuable as AI continues to scale\n\nif quantum risk becomes a serious concern for Bitcoin, i can see a path where Zcash attracts a much larger valuation through its privacy and store-of-value thesis\n\ni also think Murad's broader thesis is directionally correct, even if a pure memecoin flipping Bitcoin seems extremely unlikely\n\nin a world where AI commoditizes intelligence, attention, culture and assets people genuinely believe in could command an enormous premium"
         }
       ],
       "reads": {
@@ -393,7 +396,8 @@
         "2108378051985985755": "VIEW bullish on sol",
         "2108380342608712030": "TRADE LONG BTC",
         "2108380821682065433": "No call",
-        "2108381006973817054": "No call"
+        "2108381006973817054": "No call",
+        "2108405452770066463": "No call: bullish on ZEC (55%, too unsure)"
       },
       "replies": [
         {
@@ -581,10 +585,13 @@
         "2108381006973817054": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108405452770066463": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2107608427220570453": false,
         "2107611539108741536": false,
         "2107613807228944490": false,
         "2107616603437179008": true,
@@ -618,7 +625,8 @@
         "2108381006973817054": true,
         "2108384526795747789": false,
         "2108384719675277547": false,
-        "2108385054166843479": true
+        "2108385054166843479": true,
+        "2108405452770066463": true
       },
       "user_id": "973261472"
     },
@@ -2347,5 +2355,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T03:48:29+00:00"
+  "updated_at": "2026-10-09T03:54:25+00:00"
 }
