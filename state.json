@@ -1131,7 +1131,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108511782201708573",
+      "last_id": "2108512022623383969",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1196,11 +1196,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-08T16:51:43.000Z",
-          "id": "2108238926725190008",
-          "text": "shorted nvda soxl mu https://t.co/gE9Rb2vozO"
-        },
         {
           "created_at": "2026-10-08T16:53:40.000Z",
           "id": "2108239413411242002",
@@ -1316,10 +1311,14 @@
           "created_at": "2026-10-09T10:55:57.000Z",
           "id": "2108511782201708573",
           "text": "no the industry is not going down because of some invisible encryption breakthrough that doesnt even exist yet (this take is absolutely ridiculous)\n\nyes it looks like media will keep on parroting this narrative for the near future\n\nyes ai will keep on flaunting math breakthroughs"
+        },
+        {
+          "created_at": "2026-10-09T10:56:55.000Z",
+          "id": "2108512022623383969",
+          "text": "1. no the industry is not going down because of some invisible encryption breakthrough that doesnt even exist yet (this take is absolutely ridiculous)\n\n2. yes it looks like media will keep on parroting this narrative for the near future\n\n3. yes ai labs will keep on flaunting math breakthroughs since its directly proportional to performance kpis into ipo schedule"
         }
       ],
       "reads": {
-        "2108238926725190008": "TRADE SHORT NVDA, SOXL, MU \u00b7 VIEW bearish on stocks/macro",
         "2108239413411242002": "No call",
         "2108248166764314906": "TRADE SHORT NVDA, SOXL, MU",
         "2108360350404112612": "TRADE LONG STRK",
@@ -1338,7 +1337,8 @@
         "2108509703852757277": "No call: bullish on crypto market (60%, too unsure)",
         "2108510056358744202": "No call",
         "2108510657201279308": "No call",
-        "2108511782201708573": "No call"
+        "2108511782201708573": "No call",
+        "2108512022623383969": "No call"
       },
       "replies": [
         {
@@ -1566,10 +1566,13 @@
         "2108511782201708573": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108512022623383969": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108238926725190008": true,
         "2108239413411242002": true,
         "2108248166764314906": false,
         "2108360350404112612": true,
@@ -1603,7 +1606,8 @@
         "2108509703852757277": true,
         "2108510056358744202": true,
         "2108510657201279308": true,
-        "2108511782201708573": true
+        "2108511782201708573": true,
+        "2108512022623383969": true
       },
       "user_id": "1653080265294757890"
     },
@@ -2623,5 +2627,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T10:56:21+00:00"
+  "updated_at": "2026-10-09T10:58:23+00:00"
 }
