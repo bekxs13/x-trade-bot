@@ -1028,7 +1028,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108360350404112612",
+      "last_id": "2108388306526544075",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1209,6 +1209,12 @@
           "created_at": "2026-10-08T19:06:04.000Z",
           "id": "2108272735973679386",
           "text": "@DonAlt its like when u close the lights and u cant see whats happening so basically everyone assumes the worst lol\n\nno cryptography breakthroughs published &amp; some ppl in academia with weak publications this year needs attention"
+        },
+        {
+          "created_at": "2026-10-09T02:45:18.000Z",
+          "id": "2108388306526544075",
+          "reply_to_id": "2108379653702320197",
+          "text": "@Credib1eGuy lets hope! \ud83d\ude4f"
         }
       ],
       "threads": {
@@ -1288,7 +1294,8 @@
         "2108250187772973474": false,
         "2108254850085777619": false,
         "2108272735973679386": true,
-        "2108360350404112612": true
+        "2108360350404112612": true,
+        "2108388306526544075": false
       },
       "user_id": "1653080265294757890"
     },
@@ -1555,6 +1562,307 @@
       },
       "user_id": "1426732252768182281"
     },
+    "taikimaeda2": {
+      "backfilled": true,
+      "biases": {
+        "var": {
+          "market": "crypto",
+          "post_id": "2102939239390343286",
+          "reason": "Calls $100/pt reasonable, which implies a launch FDV above $3B per the table, and adds \"we can't stop winning\".",
+          "scope": "VAR",
+          "since": "2026-09-24",
+          "stance": "bullish",
+          "updated_at": "2026-09-24T01:52:40.000Z"
+        },
+        "zec": {
+          "market": "crypto",
+          "post_id": "2108376406308909287",
+          "reason": "The video is titled \"How Zcash Flips Bitcoin This Cycle\" and has a chapter on \"How Zcash gets to $20k\". That matches his recorded bullish ZEC view.",
+          "scope": "ZEC",
+          "since": "2026-09-18",
+          "stance": "bullish",
+          "updated_at": "2026-10-09T01:58:01.000Z"
+        }
+      },
+      "closed": [],
+      "handle": "taikimaeda2",
+      "last_id": "2108376406308909287",
+      "positions": {
+        "ZEC": {
+          "asset": "ZEC",
+          "chain": "",
+          "confidence": 0.9,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "~1336",
+          "horizon": "",
+          "market": "crypto",
+          "open_price": null,
+          "post_id": "2107265085433606342",
+          "reason": "\"hedging my $ZEC longs with more longs\" and a ZEC-PERP chart with multiple buy markers around 1,300-1,400 show he is adding to perp longs.",
+          "since": "2026-10-06T00:22:02.000Z",
+          "structure": "perp",
+          "url": "https://x.com/taikimaeda2/status/2107265085433606342"
+        }
+      },
+      "posts": [
+        {
+          "created_at": "2026-09-16T13:50:06.000Z",
+          "id": "2100220687302717852",
+          "text": "In 2017, $BCH hit 30% the mcap of BTC. $LTC hit 8%. Both behind the \"better version of Bitcoin\" narrative.\n\n$ZEC currently sits at 1.6%. Getting to 15-20% is not unreasonable. At $100k BTC, that would price $ZEC at $15 - 20k. 5 digit Zcash.\n\nMost are not ready for this scenario."
+        },
+        {
+          "created_at": "2026-09-18T16:29:12.000Z",
+          "id": "2100985500085731560",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2100978234062249984/img/DNNphMzPoGohwyFR.jpg"
+          ],
+          "text": "Zcash: Can ZEC hit $20,000 this cycle?\n\n0:00 Bull Market Pep Talk\n3:20 $ZEC Price Targets: Is $20k possible?\n16:52 Understanding and Monetizing Risk\n27:30 Trading Styles, Position Sizing &amp; Construction\n30:40 Inject the Bullishness in Your Veins https://t.co/PiRlCDb1sc https://t.co/90W3zL5mIH"
+        },
+        {
+          "created_at": "2026-09-18T23:13:35.000Z",
+          "id": "2101087265405685923",
+          "text": "$20,000 $ZEC is possible.\n\nI am being 100% serious. Zigher. https://t.co/FN0iQ4PhnT"
+        },
+        {
+          "created_at": "2026-09-24T01:52:40.000Z",
+          "id": "2102939239390343286",
+          "images": [
+            "https://pbs.twimg.com/media/HS8j5jXXcAA6QVV.png"
+          ],
+          "text": "$100/pt for $VAR is totally reasonable assuming ~11M pts\n\nwe can't stop winning https://t.co/Z2hwUrUEJu https://t.co/1IBTwZZNjf"
+        },
+        {
+          "created_at": "2026-09-30T17:17:30.000Z",
+          "id": "2105346309108719825",
+          "text": "Very excited to be one of the hosts on the night.\n\nWatch live to hear my questionable commentary.\n\nSee you all in Singapore!\n\n#CoinbasePartner https://t.co/BVojcLC5Nv"
+        },
+        {
+          "created_at": "2026-10-04T06:47:24.000Z",
+          "id": "2106637291267764557",
+          "text": "Who wants to grab dinner tonight in SG?"
+        },
+        {
+          "created_at": "2026-10-06T00:22:02.000Z",
+          "id": "2107265085433606342",
+          "images": [
+            "https://pbs.twimg.com/media/HT6CbIfaYAEWiUu.jpg"
+          ],
+          "text": "Last month, I hedged my $ZEC longs with more longs\n\nThis month, I am hedging my $ZEC longs with more longs\n\nTexas Hedge https://t.co/8wOxikVrOo https://t.co/ACTDdbBoao"
+        },
+        {
+          "created_at": "2026-10-08T18:10:47.000Z",
+          "id": "2108258820992774570",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2108258730861338624/img/4_I-pN2JRxpQNDzC.jpg"
+          ],
+          "text": "This is the real reason ZEC is dumping\n\nThe Taiki curse is back. There\u2019s still time to unfollow me. Save yourself.\n\nThere\u2019s always an expiration date to my happiness. https://t.co/hl6RwA9w6k https://t.co/mvWIPP8w64"
+        },
+        {
+          "created_at": "2026-10-08T18:20:33.000Z",
+          "id": "2108261279383380471",
+          "text": "This was actually an insane ending.\n\nThanks for the positive feedback, it was very fun and would love to commentate again!\n\n#CoinbasePartner https://t.co/3lKVtVOrNR"
+        },
+        {
+          "created_at": "2026-10-09T01:51:27.000Z",
+          "id": "2108374752536756724",
+          "text": "what does it say about our industry when the one guy that pivoted to robotics out-traded 9 crypto bros \ud83d\ude2d https://t.co/3lKVtVOrNR"
+        },
+        {
+          "created_at": "2026-10-09T01:58:01.000Z",
+          "id": "2108376406308909287",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2108372971278794752/img/UBp0iJPI9ZciY3y2.jpg"
+          ],
+          "text": "How Zcash Flips Bitcoin This Cycle\n\n0:00 $ZEC flipping BTC?\n1:20 Second Mover Advantage\n3:41 Project Tachyon: Path to 50k TPS\n5:39 How To Think About Zcash\n13:05 How Zcash gets to $20k\n15:13 Their Bias is Your Opportunity https://t.co/osxE0UNUlb https://t.co/90W3zL5mIH"
+        }
+      ],
+      "reads": {
+        "2100985500085731560": "VIEW bullish on ZEC",
+        "2101087265405685923": "No call: bullish on ZEC (same view as before)",
+        "2102939239390343286": "VIEW bullish on VAR",
+        "2105346309108719825": "No call",
+        "2106637291267764557": "No call",
+        "2107265085433606342": "TRADE LONG ZEC",
+        "2108258820992774570": "No call",
+        "2108261279383380471": "No call",
+        "2108374752536756724": "No call",
+        "2108376406308909287": "No call: bullish on ZEC (same view as before)"
+      },
+      "replies": [
+        {
+          "created_at": "2026-09-24T02:39:09.000Z",
+          "id": "2102950937379955013",
+          "reply_to_id": "2102950577042756036",
+          "text": "@XtineFang @variational_lvs @Mattixbt 3 months left!"
+        },
+        {
+          "created_at": "2026-09-24T11:13:12.000Z",
+          "id": "2103080303283851359",
+          "reply_to_id": "2102959015735033931",
+          "text": "@Quanterty Well I think it\u2019s quite telling that the #1 and #2 on the leaderboard spells out \u201ccounter taiki\u201d"
+        },
+        {
+          "created_at": "2026-09-24T13:51:33.000Z",
+          "id": "2103120155165552715",
+          "reply_to_id": "2103119650313970054",
+          "text": "@izebel_eth @0xMerp Wagmi"
+        },
+        {
+          "created_at": "2026-09-25T16:58:37.000Z",
+          "id": "2103529618128974095",
+          "reply_to_id": "2103529237840077101",
+          "text": "@Credib1eGuy Is the picture related in any way to the context of your post"
+        },
+        {
+          "created_at": "2026-10-04T00:04:33.000Z",
+          "id": "2106535913501372702",
+          "reply_to_id": "2106421823764099416",
+          "text": "@tulipking @zenrastaa @lex_node @kelxyz_ Gud take, agreed"
+        },
+        {
+          "created_at": "2026-10-04T03:36:24.000Z",
+          "id": "2106589224078348299",
+          "reply_to_id": "2106259317842444605",
+          "text": "@sershokunin @tradexyz dm'd!"
+        },
+        {
+          "created_at": "2026-10-04T12:21:57.000Z",
+          "id": "2106721484077211662",
+          "reply_to_id": "2106682648815108301",
+          "text": "@SinoCrypto What\u2019s your tg"
+        },
+        {
+          "created_at": "2026-10-06T00:52:08.000Z",
+          "id": "2107272663953748415",
+          "reply_to_id": "2107272260231090426",
+          "text": "@dcfgod @DeriveXYZ not a huge fan of options, mostly b/c i'm not that smart\n\nmaybe i'll buy deep OTM puts when zec is 5k or something tho to hedge"
+        },
+        {
+          "created_at": "2026-10-06T00:54:34.000Z",
+          "id": "2107273272698294674",
+          "reply_to_id": "2107273167849009309",
+          "text": "@dcfgod @DeriveXYZ In reality I just wanna farm more variational points"
+        },
+        {
+          "created_at": "2026-10-06T00:58:00.000Z",
+          "id": "2107274140201984259",
+          "reply_to_id": "2107273707509137415",
+          "text": "@gammichan wow gammi went from \"I don't look at zcash\" to buying it?\n\nInteresting"
+        },
+        {
+          "created_at": "2026-10-06T23:11:17.000Z",
+          "id": "2107609670290726956",
+          "reply_to_id": "2107295000199606549",
+          "text": "@trader1sz I\u2019ve been eating shit my entire life so yes"
+        },
+        {
+          "created_at": "2026-10-07T03:34:51.000Z",
+          "id": "2107675997411868898",
+          "reply_to_id": "2107485918672117815",
+          "text": "@gabrielhaines Congrats man!"
+        },
+        {
+          "created_at": "2026-10-08T18:16:22.000Z",
+          "id": "2108260226508169349",
+          "reply_to_id": "2108259423399596344",
+          "text": "@KellyMinkinFan at this point tachyon is bearish because it kinda sounds like my name"
+        },
+        {
+          "created_at": "2026-10-09T01:56:14.000Z",
+          "id": "2108375955412828190",
+          "reply_to_id": "2108375638759653657",
+          "text": "@PedroFounder Idk making 40% in an hour isn't too bad"
+        },
+        {
+          "created_at": "2026-10-09T01:56:23.000Z",
+          "id": "2108375996361744520",
+          "reply_to_id": "2108375294151360882",
+          "text": "@simononchain fap it"
+        }
+      ],
+      "threads": {
+        "2100220687302717852": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2100985500085731560": {
+          "alerted": [
+            "bias:zec:bullish"
+          ],
+          "self_replies": 0
+        },
+        "2101087265405685923": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2102939239390343286": {
+          "alerted": [
+            "bias:var:bullish"
+          ],
+          "self_replies": 0
+        },
+        "2105346309108719825": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2106637291267764557": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2107265085433606342": {
+          "alerted": [
+            "trade:ZEC:long"
+          ],
+          "self_replies": 0
+        },
+        "2108258820992774570": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2108261279383380471": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2108374752536756724": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2108376406308909287": {
+          "alerted": [],
+          "self_replies": 0
+        }
+      },
+      "trading": {
+        "2100220687302717852": true,
+        "2100985500085731560": true,
+        "2101087265405685923": true,
+        "2102939239390343286": true,
+        "2102950937379955013": false,
+        "2103080303283851359": true,
+        "2103120155165552715": false,
+        "2103529618128974095": false,
+        "2105346309108719825": false,
+        "2106535913501372702": false,
+        "2106589224078348299": false,
+        "2106637291267764557": false,
+        "2106721484077211662": false,
+        "2107265085433606342": true,
+        "2107272663953748415": true,
+        "2107273272698294674": true,
+        "2107274140201984259": true,
+        "2107609670290726956": false,
+        "2107675997411868898": false,
+        "2108258820992774570": true,
+        "2108260226508169349": true,
+        "2108261279383380471": false,
+        "2108374752536756724": true,
+        "2108375955412828190": true,
+        "2108375996361744520": false,
+        "2108376406308909287": true
+      },
+      "user_id": "1064421325186359296"
+    },
     "thecryptonexus": {
       "backfilled": true,
       "biases": {},
@@ -1779,7 +2087,7 @@
       "biases": {},
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2108368465883230243",
+      "last_id": "2108388001386537404",
       "positions": {},
       "posts": [
         {
@@ -1851,6 +2159,11 @@
           "created_at": "2026-10-09T01:26:28.000Z",
           "id": "2108368465883230243",
           "text": "Feels like I just woke up from a trance.\n\nExciting news to come into end of year."
+        },
+        {
+          "created_at": "2026-10-09T02:44:06.000Z",
+          "id": "2108388001386537404",
+          "text": "Speculation feels the easiest when it\u2019s at it\u2019s most dangerous"
         }
       ],
       "reads": {
@@ -1864,7 +2177,8 @@
         "2107893628349956318": "No call",
         "2107941658998309343": "No call",
         "2108214861054284161": "No call",
-        "2108368465883230243": "No call"
+        "2108368465883230243": "No call",
+        "2108388001386537404": "No call: bearish on stocks/macro (62%, too unsure)"
       },
       "replies": [
         {
@@ -1950,6 +2264,10 @@
         "2108368465883230243": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108388001386537404": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1972,12 +2290,13 @@
         "2107906207881232630": false,
         "2107941658998309343": false,
         "2108214861054284161": true,
-        "2108368465883230243": false
+        "2108368465883230243": false,
+        "2108388001386537404": true
       },
       "user_id": "809191427645181952"
     }
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T02:32:54+00:00"
+  "updated_at": "2026-10-09T02:47:24+00:00"
 }
