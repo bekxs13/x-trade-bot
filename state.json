@@ -1071,7 +1071,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108460800361070653",
+      "last_id": "2108466723259392012",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1208,6 +1208,12 @@
           ],
           "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
           "text": "Moneyprinter Mode. https://t.co/Bb95PWYAJR https://t.co/birrKDo6ue"
+        },
+        {
+          "created_at": "2026-10-09T07:56:54.000Z",
+          "id": "2108466723259392012",
+          "quoted_text": "> called the biggest stock pump in all 100 years of hk market history with thesis\n\n> called the largest qqq crash of the quarter two days it happened with thesis\n\n> called the largest memory -> robotics rotation the day before it happened with thesis\n\n> called the biggest qnx rotation two days before it happened with thesis\n\n> called the financially engineered btc bond wrapper bottom with thesis\n\n> called the exact largest macro oil crash week the day before it happened with thesis\n\nno fundament",
+          "text": "&gt; called pico cycle bottom of btc\n\n&gt; called pico start of strk bullrun https://t.co/GIQ4cZkHAK"
         }
       ],
       "reads": {
@@ -1222,7 +1228,8 @@
         "2108360350404112612": "TRADE LONG STRK",
         "2108396870783631448": "TRADE LONG STRK",
         "2108397149964898395": "TRADE LONG STRK",
-        "2108419458947817696": "TRADE LONG STRK"
+        "2108419458947817696": "TRADE LONG STRK",
+        "2108466723259392012": "No call"
       },
       "replies": [
         {
@@ -1388,6 +1395,10 @@
             "trade:STRK:long"
           ],
           "self_replies": 0
+        },
+        "2108466723259392012": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1417,7 +1428,8 @@
         "2108436185639202941": false,
         "2108457057632629102": false,
         "2108459580468744505": false,
-        "2108460800361070653": true
+        "2108460800361070653": true,
+        "2108466723259392012": true
       },
       "user_id": "1653080265294757890"
     },
@@ -2432,5 +2444,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T07:46:18+00:00"
+  "updated_at": "2026-10-09T07:58:20+00:00"
 }
