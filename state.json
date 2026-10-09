@@ -1131,7 +1131,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108514343327604992",
+      "last_id": "2108521212347613538",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1342,18 +1342,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-09T05:55:34.000Z",
-          "id": "2108436185639202941",
-          "reply_to_id": "2108431972309909915",
-          "text": "@0xRiver8 \ud83d\udc10\ud83d\udc10\ud83d\udc10"
-        },
-        {
-          "created_at": "2026-10-09T07:18:30.000Z",
-          "id": "2108457057632629102",
-          "reply_to_id": "2108453633520206257",
-          "text": "@dotiryaki Kingmaker"
-        },
-        {
           "created_at": "2026-10-09T07:28:31.000Z",
           "id": "2108459580468744505",
           "reply_to_id": "2108457217343250436",
@@ -1433,6 +1421,18 @@
           "id": "2108514343327604992",
           "reply_to_id": "2108513740224373039",
           "text": "@lecurvecapital @jords where did i literally ever call for btc getting rekt \ud83d\udc80"
+        },
+        {
+          "created_at": "2026-10-09T11:33:01.000Z",
+          "id": "2108521111080042532",
+          "reply_to_id": "2108501245795147972",
+          "text": "@ThePumponomics @beracap @playrisk this\ud83d\udcaf\ud83d\udcaf"
+        },
+        {
+          "created_at": "2026-10-09T11:33:26.000Z",
+          "id": "2108521212347613538",
+          "reply_to_id": "2108486006089597264",
+          "text": "@Nomi10339 @ThePumponomics @beracap @playrisk \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f"
         }
       ],
       "threads": {
@@ -1579,8 +1579,6 @@
         "2108396870783631448": true,
         "2108397149964898395": true,
         "2108419458947817696": true,
-        "2108436185639202941": false,
-        "2108457057632629102": false,
         "2108459580468744505": false,
         "2108460800361070653": true,
         "2108466723259392012": true,
@@ -1607,7 +1605,9 @@
         "2108511782201708573": true,
         "2108512022623383969": true,
         "2108513270684323863": false,
-        "2108514343327604992": true
+        "2108514343327604992": true,
+        "2108521111080042532": false,
+        "2108521212347613538": false
       },
       "user_id": "1653080265294757890"
     },
@@ -2638,5 +2638,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T11:18:24+00:00"
+  "updated_at": "2026-10-09T11:34:44+00:00"
 }
