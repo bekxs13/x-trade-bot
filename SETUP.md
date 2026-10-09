@@ -52,7 +52,7 @@ Each topic shows up as its own feed in the app, so trades and views stay separat
 What a ping looks like:
 - **Title:** `TRADE · @based16z: SHORT BTC (long puts)` or `VIEW · @lbattlerhino: BEARISH on alts`
 - **Body:** Claude's one-line reason, then confidence, entry, horizon and contract address if there is one (or what their view was before, for views), then the post itself.
-- **Buttons:** tapping the ping opens the dashboard on that account's profile (once the dashboard is set up; before that it opens the post). **Open post** opens it on X. Trade pings with a contract address also get a **Chart** button that opens DexScreener.
+- **Buttons:** tapping the ping opens the dashboard on that account's profile (once the dashboard is set up; before that it opens the post). **Open post** opens it on X. Trade pings with a contract address also get a **Chart** button that opens DexScreener; other trades get a **TradingView** button.
 - Chart images in the post are attached, so you can see them in the notification.
 
 **Other options (optional, can run alongside ntfy):**
@@ -159,6 +159,16 @@ It reads the bot's files straight from the repo and refreshes every minute, so i
 **Check now** (the ⚡ button at the top) runs the bot right away instead of waiting for its timer, then reloads the page when it's done, usually within a minute or two.
 
 **Teach the bot** (the sparkle button at the top, or "Wrong? Teach the bot" under any call or post): say what it missed or got wrong, and optionally paste the post's link. On its next check the bot turns that into a one or two sentence lesson it reads before every post, and if you linked a post it reads that post again and fixes the board (adds the missed trade or view, or removes a wrong one). Lessons are listed in the Accounts tab, where you can forget one.
+
+**Notifications from the dashboard app:** instead of (or as well as) ntfy, the dashboard can send pings itself, and tapping one opens the app on that account with the call's chart showing.
+1. Add one secret, `VAPID_PRIVATE_KEY` (Settings → Secrets and variables → Actions). It's the private half of the key in `VAPID_PUBLIC` in `docs/index.html`; the bot signs every ping with it. To make a new pair, generate a P-256 key and put the private number (base64url) in the secret and the public point in the page.
+2. iPhone (iOS 16.4 or newer): open the dashboard in Safari, tap Share → **Add to Home Screen**, then open **Trade Bot** from the home screen. Android: open it in Chrome (installing it is optional).
+3. In the app, paste your token in the Accounts tab (the home-screen app on iPhone keeps its own copy), then tap **Turn on** under Notifications and allow them. **Send a test** sends a sample trade and view ping.
+4. Optional: untick **View changes too** to get trades only on that phone, or **Also send pings to ntfy** to stop ntfy once you're happy with the app.
+
+Phones that turn on notifications are saved in `push.json`. The addresses there only work with the bot's private key, which lives in the secret. If a phone stops (reinstalled the app, turned notifications off), the dashboard shows it and one tap turns it back on.
+
+**Charts:** trade calls in the dashboard have **Show chart** (a live chart right in the card) and **Open in TradingView** or **Open in DexScreener**. Coins with a contract address use DexScreener; stocks, macro tickers and coins without one use TradingView (coins as the USDT pair). ntfy trade pings get the same button.
 
 **Profiles:** tap any name or avatar on the dashboard to open that account's page: what they think, the trades they're in and have closed, their calls, and their recent posts (trading-only by default, with All and replies a tap away). Profiles have their own link (the page address ending in `#@handle`), so you can bookmark one.
 

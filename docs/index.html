@@ -10,7 +10,8 @@
 <meta name="apple-mobile-web-app-title" content="Trade Bot">
 <title>X Trade Bot</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%236d6aff'/%3E%3Cstop offset='1' stop-color='%2322c1a4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='16' fill='url(%23g)'/%3E%3Cpath d='M12 42l12-12 9 8 18-19' fill='none' stroke='white' stroke-width='6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
-<link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%236d6aff'/%3E%3Cstop offset='1' stop-color='%2322c1a4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' fill='url(%23g)'/%3E%3Cpath d='M12 42l12-12 9 8 18-19' fill='none' stroke='white' stroke-width='6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -154,6 +155,17 @@ a.item-row:active { background: var(--surface-2); }
 .group-label { font-size: 11px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--faint); padding: 12px 14px 2px; }
 .list > .group-label + * { border-top: 0; }
 .line2.wrap { white-space: normal; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+
+/* ---- charts and pings ---- */
+.chart-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+.chart-slot { height: 340px; margin-top: 10px; border-radius: 12px; overflow: hidden; background: var(--surface-2); border: 1px solid var(--line); }
+.chart-slot:empty { display: none; }
+.chart-slot iframe { width: 100%; height: 100%; border: 0; display: block; }
+.chart-slot .tradingview-widget-container, .chart-slot .tradingview-widget-container__widget { height: 100%; width: 100%; }
+.call.pinged { box-shadow: 0 0 0 2px var(--accent), var(--shadow); }
+.call { scroll-margin-top: 84px; }  /* clear the sticky header when a ping scrolls to its call */
+.push-row { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+.push-on { font-weight: 650; display: flex; align-items: center; gap: 8px; }
 
 /* ---- profile ---- */
 .back-btn { border: 0; background: none; color: var(--accent); font-weight: 650; font-size: 15px; display: inline-flex; align-items: center;
@@ -337,6 +349,9 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
   <section id="tab-profile" class="hidden"></section>
 
   <section id="tab-accounts" class="hidden">
+    <div class="section-title"><h2>Notifications</h2></div>
+    <div class="card pad" id="push-card"></div>
+
     <div class="section-title"><h2>Add an account</h2></div>
     <div class="card pad">
       <div class="field">
@@ -413,6 +428,11 @@ try { market = localStorage.getItem("xtb-market") || "all"; } catch {}
 // The open profile (#@handle in the address), and its own post filters.
 let profile = "", currentTab = "board", profileFromApp = false, tabScroll = 0, profileAllPosts = false, profileReplies = false;
 const profileNotesLoading = new Set();
+let pushCfg = {}, lastSig = "";  // push.json: phones getting the app's notifications, and the ntfy switch
+const VAPID_PUBLIC = "BBiefNcPiXHPIYpWMLYqBmUvYML4NYmmY9XxIcgRhDbR9jFB5m99hZFNR7zJmVNxKyS6Qg-srKgIzQNmdlIOI-I";  // the bot signs pings with the matching private key (a GitHub secret)
+const pingedPost = new URLSearchParams(location.search).get("post");  // opened from a ping about this post
+let pingScrolled = false;
+const openCharts = new Set();  // call cards with their chart open
 const lessons = {};  // lessons file name -> its text
 const notes = {};          // handle(lower) -> text, or null when there's no notes file yet
 const openNotes = new Set();  // accounts whose notes editor is open
@@ -499,8 +519,13 @@ function parseAccounts(text) {
 async function load() {
   $("refresh").classList.add("spin");
   try {
-    const [s, a, acc, fb] = await Promise.all([getFile("state.json"), getFile("alerts.jsonl"), getFile("accounts.txt"),
-      getFile("feedback.jsonl")]);
+    const [s, a, acc, fb, pj] = await Promise.all([getFile("state.json"), getFile("alerts.jsonl"), getFile("accounts.txt"),
+      getFile("feedback.jsonl"), getFile("push.json").catch(() => null)]);
+    // An open chart would reload on every refresh, so leave the page alone while nothing has changed.
+    const sig = [s, a, acc, fb, pj].join("\u0000");
+    if (sig === lastSig && openCharts.size) { renderStatus(); return; }
+    lastSig = sig;
+    try { pushCfg = pj ? JSON.parse(pj) : {}; } catch { pushCfg = {}; }
     feedback = (fb || "").split("\n").filter(Boolean).map(l => { try { return JSON.parse(l); } catch { return null; } }).filter(Boolean);
     state = s ? JSON.parse(s) : {accounts: {}};
     // Newest first. History finds carry the post's time, so they slot in where they happened.
@@ -556,13 +581,7 @@ const closedOf = (handle, m = market) => (acctState(handle).closed || []).filter
 const notHere = s => !s || ["spot", "unknown"].includes(s);
 
 function render() {
-  const updated = state.updated_at;
-  const mins = updated ? (Date.now() - new Date(updated)) / 60000 : Infinity;
-  // The bot refreshes updated_at when anything changes, and at least hourly while it's running.
-  const stale = updated && mins > 90;
-  $("status").textContent = checking || (!updated ? "Waiting for the bot" : stale ? `No update for ${ago(updated).replace(" ago", "")} · the bot may be paused`
-    : `Live · ${ago(updated)}`);
-  $("dot").className = "dot " + (!updated ? "" : stale ? "stale" : "live");
+  renderStatus();
   document.querySelectorAll("[data-market-seg] button").forEach(b => b.classList.toggle("on", b.dataset.market === market));
   renderBoard();
   renderFeed();
@@ -570,6 +589,16 @@ function render() {
   renderAccounts();
   renderLearned();
   if (profile) renderProfile();
+  restoreCharts();
+}
+function renderStatus() {
+  const updated = state.updated_at;
+  const mins = updated ? (Date.now() - new Date(updated)) / 60000 : Infinity;
+  // The bot refreshes updated_at when anything changes, and at least hourly while it's running.
+  const stale = updated && mins > 90;
+  $("status").textContent = checking || (!updated ? "Waiting for the bot" : stale ? `No update for ${ago(updated).replace(" ago", "")} · the bot may be paused`
+    : `Live · ${ago(updated)}`);
+  $("dot").className = "dot " + (!updated ? "" : stale ? "stale" : "live");
 }
 
 // ---- rows and cards, shared by the tabs and the profile page ----
@@ -616,7 +645,9 @@ function callCard(a) {
     a.horizon ? `<span>${esc(a.horizon)}</span>` : "",
     (a.prices || [])[0] ? `<span>${esc(a.prices[0])}</span>` : "",
   ].join("");
-  return `<div class="card call">
+  const id = (a.url || "").split("/status/")[1] || "";
+  const chart = trade ? chartOf(a) : null;
+  return `<div class="card call${id && id === pingedPost ? " pinged" : ""}" data-post="${esc(id)}">
     <div class="call-head">${avatar(a.handle, "sm")}<span class="handle" data-profile="${esc(a.handle)}">@${esc(a.handle)}</span><span>${ago(a.sent_at)}</span>
       <span class="grow"></span>${a.backfill ? `<span class="kind" title="Found when the account was added, from their last 10 posts. No ping was sent.">HISTORY</span>` : ""}<span class="kind">${trade ? "TRADE" : "VIEW"}</span></div>
     <div class="call-title"><span class="badge ${esc(cls)}">${esc(label)}</span><span class="what">${esc(what)}</span>${marketTag(a)}</div>
@@ -625,10 +656,67 @@ function callCard(a) {
     ${a.post ? `<div class="quote">${esc(a.post)}</div>` : ""}
     ${a.contract_address ? `<div class="ca">${esc(a.chain || "CA")} · ${esc(a.contract_address)}</div>` : ""}
     <div class="facts num">${facts}</div>
+    ${chart ? `<div class="chart-actions"><button class="btn small" data-chart="${esc(id)}">${openCharts.has(id) ? "Hide chart" : "Show chart"}</button>
+      <a class="btn small" href="${esc(chart.url)}" target="_blank" rel="noopener">Open in ${chart.name} ↗</a></div><div class="chart-slot"></div>` : ""}
     <div class="post-foot"><a class="open-x" style="margin:0" href="${esc(a.url)}" target="_blank" rel="noopener">Open on X ${CHEV}</a>
       <button class="linkish" data-teach-url="${esc(a.url)}" data-teach-who="${esc(a.handle)}">Wrong? Teach the bot</button></div>
   </div>`;
 }
+
+// ---- charts: DexScreener for coins with a contract address, TradingView for the rest ----
+const DEX_CHAINS = {solana: "solana", base: "base", eth: "ethereum", ethereum: "ethereum", bnb: "bsc", bsc: "bsc"};
+const TV_MACRO = {gold: "TVC:GOLD", xau: "TVC:GOLD", silver: "TVC:SILVER", oil: "TVC:USOIL", wti: "TVC:USOIL", dxy: "TVC:DXY",
+  dollar: "TVC:DXY", us10y: "TVC:US10Y", "10y": "TVC:US10Y", spx: "SP:SPX", "s&p": "SP:SPX", "s&p 500": "SP:SPX", nasdaq: "NASDAQ:NDX", vix: "TVC:VIX"};
+function chartOf(a) {
+  const chain = DEX_CHAINS[low(a.chain)];
+  if (a.contract_address) return chain ? {name: "DexScreener", url: `https://dexscreener.com/${chain}/${a.contract_address}`, chain, ca: a.contract_address} : null;
+  const asset = String(a.asset || "").trim();
+  let symbol = TV_MACRO[low(asset)];
+  if (!symbol) {
+    const m = asset.match(/\(\$?([A-Za-z0-9]{1,10})\)/) || asset.match(/^\$?([A-Za-z0-9.]{1,10})\b/);
+    if (!m) return null;
+    const t = m[1].toUpperCase();
+    symbol = marketOf(a) !== "crypto" || /USDT?$/.test(t) ? t : `${t}USDT`;
+  }
+  return {name: "TradingView", url: `https://www.tradingview.com/chart/?symbol=${encodeURIComponent(symbol).replace("%3A", ":")}`, symbol};
+}
+function fillChart(slot, a) {
+  const chart = chartOf(a);
+  if (!chart || slot.childElementCount) return;
+  const theme = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  if (chart.ca) {
+    const f = document.createElement("iframe");
+    f.src = `https://dexscreener.com/${chart.chain}/${chart.ca}?embed=1&loadChartSettings=0&trades=0&tabs=0&info=0&chartLeftToolbar=0&chartTheme=${theme}&theme=${theme}&chartStyle=1&chartType=usd&interval=15`;
+    f.title = `${a.asset || "Token"} chart`;
+    slot.append(f);
+    return;
+  }
+  const box = document.createElement("div"), inner = document.createElement("div"), sc = document.createElement("script");
+  box.className = "tradingview-widget-container";
+  inner.className = "tradingview-widget-container__widget";
+  sc.src = "https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js";
+  sc.async = true;
+  sc.textContent = JSON.stringify({symbol: chart.symbol, interval: "60", theme, style: "1", locale: "en", autosize: true,
+    hide_side_toolbar: true, allow_symbol_change: false, save_image: false, calendar: false, support_host: "https://www.tradingview.com"});
+  box.append(inner, sc);
+  slot.append(box);
+}
+const alertByPost = id => alerts.find(a => a.kind === "trade" && (a.url || "").endsWith(`/status/${id}`));
+function restoreCharts() {
+  document.querySelectorAll(".call[data-post]").forEach(card => {
+    const a = openCharts.has(card.dataset.post) && alertByPost(card.dataset.post);
+    if (a && card.offsetParent) fillChart(card.querySelector(".chart-slot"), a);
+  });
+}
+document.addEventListener("click", e => {
+  const b = e.target.closest("[data-chart]");
+  if (!b) return;
+  const id = b.dataset.chart, card = b.closest(".call"), slot = card.querySelector(".chart-slot");
+  if (openCharts.has(id)) { openCharts.delete(id); slot.replaceChildren(); b.textContent = "Show chart"; return; }
+  openCharts.add(id);
+  b.textContent = "Hide chart";
+  fillChart(slot, alertByPost(id));
+});
 function alertsByPost() {
   const byPost = {};
   alerts.forEach(a => { const id = (a.url || "").split("/status/")[1]; if (id && !byPost[id]) byPost[id] = a; });
@@ -730,6 +818,7 @@ function renderFeed() {
     return header + callCard(a);
   }).join("") || `<div class="card empty" style="margin-top:12px"><span class="em">📭</span>${alerts.length ? "Nothing matches this filter." : "No calls yet. Every ping the bot sends shows up here."}</div>`;
   clampLong("#feed .quote");
+  restoreCharts();
 }
 
 // ---- posts ----
@@ -814,6 +903,16 @@ function renderProfile() {
     <div style="margin-top:10px">${shownPosts.map(p => postCard(p, byPost)).join("") || `<div class="card empty">${posts.length ? "No trading posts saved. Tap All to see everything." : "No posts saved yet."}</div>`}</div>
     ${watched ? section("Your notes", "", `<div class="card pad"><div class="notes-preview ${notes[key] ? "" : "none"}">${notes[key] === undefined ? "Loading…" : notes[key] ? esc(notes[key]) : "No notes yet. Notes tell the bot how this account talks."}</div></div>`) : ""}`;
   clampLong("#tab-profile .quote");
+  const pinged = pingedPost && !pingScrolled && document.querySelector(`#tab-profile .call[data-post="${CSS.escape(pingedPost)}"]`);
+  if (pinged) {
+    pingScrolled = true;
+    if (pinged.querySelector("[data-chart]")) openCharts.add(pingedPost);
+    restoreCharts();
+    const b = pinged.querySelector("[data-chart]");
+    if (b) b.textContent = "Hide chart";
+    setTimeout(() => pinged.scrollIntoView({block: "start", behavior: "smooth"}), 50);
+  }
+  restoreCharts();
   clampLong("#tab-profile .post-text");
 }
 
@@ -880,6 +979,7 @@ function renderAccounts() {
   $("edit-link").href = `https://github.com/${OWNER}/${REPO}/edit/${BRANCH}/accounts.txt`;
   $("notes-link").href = `https://github.com/${OWNER}/${REPO}/tree/${BRANCH}/notes`;
   $("repo-name").textContent = `${OWNER}/${REPO}`;
+  renderPush();
 }
 function notesUrl(key, exists) {
   return exists ? `https://github.com/${OWNER}/${REPO}/edit/${BRANCH}/notes/${key}.md`
@@ -1071,7 +1171,7 @@ function showTab(tab) {
   TABS.forEach(t => $(`tab-${t}`).classList.toggle("hidden", t !== tab));
   try { localStorage.setItem("xtb-tab", tab); } catch {}
   window.scrollTo({top: 0});
-  if (tab === "feed") renderFeed();  // measure post clamps once visible
+  if (tab === "feed") renderFeed();  // measure post clamps once visible (and fill open charts)
   if (tab === "posts") renderPosts();
 }
 document.querySelector(".tabbar").onclick = e => { const b = e.target.closest("button"); if (b) showTab(b.dataset.tab); };
@@ -1198,6 +1298,114 @@ $("check-btn").onclick = async () => {
   }
 };
 $("new-handle").onkeydown = e => { if (e.key === "Enter") $("add-btn").click(); };
+
+// ---- notifications from this app (Web Push) ----
+// Turning them on saves this phone's push address in push.json; the bot encrypts each ping for it and signs it
+// with a key only the bot has, so the saved address is no use to anyone else.
+const isIOS = /iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+const isApp = () => navigator.standalone === true || matchMedia("(display-mode: standalone)").matches;
+const pushSupported = () => "serviceWorker" in navigator && "PushManager" in window && "Notification" in window && window.isSecureContext;
+function deviceId() {
+  let id = "";
+  try { id = localStorage.getItem("xtb-device") || ""; } catch {}
+  if (!id) { id = Math.random().toString(36).slice(2, 10); try { localStorage.setItem("xtb-device", id); } catch {} }
+  return id;
+}
+const deviceName = () => /iPhone/.test(navigator.userAgent) ? "iPhone" : /iPad/.test(navigator.userAgent) || isIOS ? "iPad"
+  : /Android/.test(navigator.userAgent) ? "Android phone" : "Computer";
+const b64uBytes = s => Uint8Array.from(atob(s.replace(/-/g, "+").replace(/_/g, "/")), c => c.charCodeAt(0));
+async function editPush(change, message) {
+  const next = await editFile("push.json", cur => {
+    let cfg = {};
+    try { cfg = cur ? JSON.parse(cur) : {}; } catch {}
+    cfg.devices = cfg.devices || {};
+    change(cfg);
+    return JSON.stringify(cfg, null, 2) + "\n";
+  }, message);
+  try { pushCfg = JSON.parse(next); } catch {}
+}
+let pushBusy = "";
+async function renderPush() {
+  const card = $("push-card");
+  const mine = (pushCfg.devices || {})[deviceId()];
+  const gone = mine && (state.push_gone || []).includes(mine.sub?.endpoint);
+  const anyPhone = Object.keys(pushCfg.devices || {}).length > 0;
+  const ntfyRow = anyPhone ? `<label class="toggle"><input type="checkbox" id="push-ntfy" ${pushCfg.ntfy === false ? "" : "checked"} ${getToken() ? "" : "disabled"}> Also send pings to ntfy</label>` : "";
+  let html;
+  if (pushBusy) html = `<div class="push-on">${esc(pushBusy)}</div>`;
+  else if (!pushSupported() && isIOS && !isApp()) html = `<div class="line1" style="font-weight:650">Get pings from this app</div>
+    <p class="hint">On iPhone, notifications only work from the home-screen app: tap <b>Share</b> → <b>Add to Home Screen</b>, open <b>Trade Bot</b> from your home screen, and turn them on there. The home-screen app keeps its own copy of your token, so paste it again there (bottom of this tab).</p>`;
+  else if (!pushSupported()) html = `<p class="hint" style="margin:0">This browser can't get notifications from web pages. On Android use Chrome; on iPhone add this page to your home screen.</p>`;
+  else if (Notification.permission === "denied") html = `<p class="hint" style="margin:0">Notifications are blocked for this app. Turn them on in your phone's Settings → Notifications → Trade Bot, then come back here.</p>`;
+  else if (mine && !gone && Notification.permission === "granted") html = `<div class="push-row"><div class="push-on"><span class="dot live"></span>On for this ${esc(mine.name || "device")}</div>
+      <span><button class="btn small" id="push-test">Send a test</button> <button class="btn small danger" id="push-off">Turn off</button></span></div>
+    <label class="toggle"><input type="checkbox" id="push-views" ${mine.views === false ? "" : "checked"}> View changes too (not just trades)</label>${ntfyRow}
+    <p class="hint">Tapping a ping opens this app on the account it's about, with that call's chart.</p>`;
+  else html = `<div class="push-row"><div><div class="line1" style="font-weight:650">${gone ? "Stopped working on this phone" : "Get pings from this app"}</div>
+      <div class="line2">${gone ? "Tap to turn them back on" : "Tapping one opens the account it's about"}</div></div>
+      <button class="btn primary small" id="push-on" ${getToken() ? "" : "disabled"}>Turn on</button></div>
+    ${getToken() ? "" : `<p class="hint">Needs a token on this device first (bottom of this tab).</p>`}${ntfyRow}`;
+  card.innerHTML = html;
+}
+$("push-card").onclick = async e => {
+  const b = e.target.closest("button");
+  if (!b || pushBusy) return;
+  try {
+    if (b.id === "push-on") {
+      // Ask first, straight from the tap: iPhone only shows the prompt for a tap.
+      const perm = await Notification.requestPermission();
+      if (perm !== "granted") { toast("Notifications weren't allowed"); return renderPush(); }
+      pushBusy = "Turning on…"; renderPush();
+      const reg = await navigator.serviceWorker.register("sw.js");
+      await navigator.serviceWorker.ready;
+      let sub = await reg.pushManager.getSubscription();
+      const mine = (pushCfg.devices || {})[deviceId()];
+      if (sub && mine && (state.push_gone || []).includes(sub.endpoint)) { await sub.unsubscribe(); sub = null; }
+      sub = sub || await reg.pushManager.subscribe({userVisibleOnly: true, applicationServerKey: b64uBytes(VAPID_PUBLIC)});
+      const {endpoint, keys} = sub.toJSON();
+      await editPush(cfg => {
+        const old = cfg.devices[deviceId()] || {};
+        cfg.devices[deviceId()] = {name: deviceName(), added: new Date().toISOString(), views: old.views ?? true, sub: {endpoint, keys}};
+      }, `Turn on notifications for a ${deviceName()}`);
+      toast("Notifications on. Tap Send a test to try one");
+    } else if (b.id === "push-off") {
+      pushBusy = "Turning off…"; renderPush();
+      const reg = await navigator.serviceWorker.getRegistration();
+      const sub = reg && await reg.pushManager.getSubscription();
+      if (sub) await sub.unsubscribe();
+      await editPush(cfg => { delete cfg.devices[deviceId()]; }, `Turn off notifications for a ${deviceName()}`);
+      toast("Notifications off for this phone");
+    } else if (b.id === "push-test") {
+      pushBusy = "Sending a test…"; renderPush();
+      const res = await fetch(`${ACTIONS}/dispatches`, {method: "POST", body: JSON.stringify({ref: BRANCH, inputs: {test_notify: "true"}}),
+        headers: {Authorization: `Bearer ${getToken()}`, Accept: "application/vnd.github+json"}});
+      if (res.status === 403 || res.status === 404) throw new Error(ACTIONS_HELP);
+      if (!res.ok) throw new Error(`GitHub wouldn't start the test (HTTP ${res.status})`);
+      toast("Test sent. Two pings should arrive in under a minute", 4000);
+    }
+  } catch (err) {
+    toast(err.message, err.message === ACTIONS_HELP ? 14000 : 5000);
+  } finally {
+    pushBusy = "";
+    renderPush();
+  }
+};
+$("push-card").onchange = async e => {
+  const t = e.target;
+  if (!["push-views", "push-ntfy"].includes(t.id)) return;
+  t.disabled = true;
+  try {
+    if (t.id === "push-views") await editPush(cfg => { if (cfg.devices[deviceId()]) cfg.devices[deviceId()].views = t.checked; }, "Change which pings this phone gets");
+    else await editPush(cfg => { cfg.ntfy = t.checked; }, t.checked ? "Send pings to ntfy too" : "Stop sending pings to ntfy");
+    toast("Saved. The bot uses it from its next check");
+  } catch (err) { toast(err.message, 5000); t.checked = !t.checked; }
+  renderPush();
+};
+if (pushSupported()) {
+  navigator.serviceWorker.register("sw.js").catch(() => {});
+  // A ping tapped while the app is already open: go where it points.
+  navigator.serviceWorker.addEventListener("message", e => { if (e.data?.type === "open" && e.data.url) location.href = e.data.url; });
+}
 
 try { const saved = localStorage.getItem("xtb-tab"); if (saved) showTab(saved); } catch {}
 if (profileFromHash()) applyRoute();

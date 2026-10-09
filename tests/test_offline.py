@@ -6,6 +6,7 @@
 import copy
 import json
 import os
+import struct
 import sys
 import tempfile
 import unittest
@@ -89,6 +90,7 @@ class Base(unittest.TestCase):
             mock.patch.object(bot, "NOTES_DIR", self.tmp / "notes"),
             mock.patch.object(bot, "FEEDBACK_PATH", self.tmp / "feedback.jsonl"),
             mock.patch.object(bot, "LESSONS_DIR", self.tmp / "lessons"),
+            mock.patch.object(bot, "PUSH_PATH", self.tmp / "push.json"),
             mock.patch.object(bot, "price_context", lambda text: ["BTC: $84,000.00"]),
             mock.patch.object(bot, "coinbase_price", lambda sym: None),
             mock.patch.object(bot, "dexscreener_lookup", lambda q: None),
@@ -98,6 +100,7 @@ class Base(unittest.TestCase):
         ]
         for p in self.patches:
             p.start()
+        bot.PUSH_GONE.clear()
         self.sent = []
         self.post_patch = mock.patch.object(
             bot.requests, "post",
@@ -609,7 +612,118 @@ class NtfyTest(Base):
         self.assertFalse((self.tmp / "alerts.jsonl").exists(), "test pings are not logged as alerts")
 
 
+def ua_decrypt(body, ua_key, auth):
+    """What the phone does with a push: undo push_encrypt (RFC 8291) using its own private key."""
+    from cryptography.hazmat.primitives.asymmetric import ec
+    from cryptography.hazmat.primitives.ciphers.aead import AESGCM
+    from cryptography.hazmat.primitives.kdf.hkdf import HKDF
+    from cryptography.hazmat.primitives import hashes, serialization
+    salt, n = body[:16], body[20]
+    as_pub, ct = body[21:21 + n], body[21 + n:]
+    ua_pub = ua_key.public_key().public_bytes(serialization.Encoding.X962, serialization.PublicFormat.UncompressedPoint)
+    hkdf = lambda salt, ikm, info, n: HKDF(algorithm=hashes.SHA256(), length=n, salt=salt, info=info).derive(ikm)
+    shared = ua_key.exchange(ec.ECDH(), ec.EllipticCurvePublicKey.from_encoded_point(ec.SECP256R1(), as_pub))
+    ikm = hkdf(auth, shared, b"WebPush: info\x00" + ua_pub + as_pub, 32)
+    plain = AESGCM(hkdf(salt, ikm, b"Content-Encoding: aes128gcm\x00", 16)).decrypt(
+        hkdf(salt, ikm, b"Content-Encoding: nonce\x00", 12), ct, None)
+    assert plain.endswith(b"\x02")
+    return json.loads(plain[:-1])
+
+
+class PushTest(Base):
+    """Notifications from the dashboard app: phones saved in push.json get encrypted, signed pushes."""
+
+    def setUp(self):
+        super().setUp()
+        from cryptography.hazmat.primitives.asymmetric import ec
+        from cryptography.hazmat.primitives import serialization
+        self.ec, self.ser = ec, serialization
+        self.vapid = ec.generate_private_key(ec.SECP256R1())
+        self.phones = {}
+        devices = {}
+        for name, host, views in (("iPhone", "https://web.push.apple.com/QAbc", False),
+                                  ("Old phone", "https://fcm.googleapis.com/fcm/send/gone", True)):
+            key, auth = ec.generate_private_key(ec.SECP256R1()), os.urandom(16)
+            pub = key.public_key().public_bytes(serialization.Encoding.X962, serialization.PublicFormat.UncompressedPoint)
+            self.phones[host] = (key, auth)
+            devices[name] = {"name": name, "views": views,
+                             "sub": {"endpoint": host, "keys": {"p256dh": bot.b64u(pub), "auth": bot.b64u(auth)}}}
+        (self.tmp / "push.json").write_text(json.dumps({"ntfy": False, "devices": devices}))
+        self.pushes = []
+
+        def post(url, json=None, data=None, headers=None, timeout=None):
+            if url in self.phones:
+                self.pushes.append((url, data, headers))
+                return FakeResp(410 if "gone" in url else 201, {})
+            self.sent.append((url, json))
+            return FakeResp(204, {})
+
+        self.post_patch.stop()
+        self.post_patch = mock.patch.object(bot.requests, "post", side_effect=post)
+        self.post_patch.start()
+        scalar = self.vapid.private_numbers().private_value.to_bytes(32, "big")
+        self.env_patch = mock.patch.dict(os.environ, {"VAPID_PRIVATE_KEY": bot.b64u(scalar), "NTFY_TOPIC": "my-secret-topic",
+                                                      "GITHUB_REPOSITORY": "Someone/x-trade-bot"})
+        self.env_patch.start()
+
+    def tearDown(self):
+        self.env_patch.stop()
+        super().tearDown()
+
+    def test_encryption_matches_the_rfc_example(self):
+        as_key = self.ec.derive_private_key(int.from_bytes(bot.unb64u("yfWPiYE-n46HLnH0KqZOF1fJJU3MYrct3AELtAQ-oRw"), "big"),
+                                            self.ec.SECP256R1())
+        with mock.patch.object(bot.ec, "generate_private_key", lambda curve: as_key), \
+                mock.patch.object(bot.os, "urandom", lambda n: bot.unb64u("DGv6ra1nlYgDCS1FRnbzlw")):
+            out = bot.push_encrypt(b"When I grow up, I want to be a watermelon",
+                                   "BCVxsr7N_eNgVRqvHtD0zTZsEc6-VV-JvLexhqUzORcxaOzi6-AYWXvTBHm4bjyPjs7Vd8pZGH6SRpkNtoIAiw4",
+                                   "BTBZMqHH6r4Tts7J_aSIgg")
+        self.assertEqual(bot.b64u(out), "DGv6ra1nlYgDCS1FRnbzlwAAEABBBP4z9KsN6nGRTbVYI_c7VJSPQTBtkgcy27mlmlMoZIIgDll6e3vCYLo"
+                         "cInmYWAmS6TlzAC8wEqKK6PBru3jl7A_yl95bQpu6cVPTpK4Mqgkf1CXztLVBSt2Ks3oZwbuwXPXLWyouBWLVWGNWQexSgSxs"
+                         "j_Qulcy4a-fN")
+
+    def test_trade_goes_to_the_app_and_skips_ntfy_when_switched_off(self):
+        self.set_state()
+        self.assertEqual(self.run_poll({"data": [tweet("2", "79k")]}, SHORT_BTC), 0)
+        self.assertFalse([u for u, _ in self.sent if "ntfy" in u], "ntfy is switched off in push.json")
+        self.assertEqual([u for u, _, _ in self.pushes], list(self.phones))
+        url, body, headers = self.pushes[0]
+        msg = ua_decrypt(body, *self.phones[url])
+        self.assertTrue(msg["title"].startswith("TRADE · @based16z"))
+        self.assertEqual(msg["url"], "https://someone.github.io/x-trade-bot/?post=2#@based16z")
+        self.assertEqual(headers["Content-Encoding"], "aes128gcm")
+        # Signed with the bot's key for that push service, so the saved addresses can't be used by anyone else.
+        from cryptography.hazmat.primitives import hashes
+        from cryptography.hazmat.primitives.asymmetric.utils import encode_dss_signature
+        token, key = headers["Authorization"].removeprefix("vapid t=").split(", k=")
+        head, claims, sig = token.split(".")
+        pub = self.ec.EllipticCurvePublicKey.from_encoded_point(self.ec.SECP256R1(), bot.unb64u(key))
+        raw = bot.unb64u(sig)
+        pub.verify(encode_dss_signature(int.from_bytes(raw[:32], "big"), int.from_bytes(raw[32:], "big")),
+                   f"{head}.{claims}".encode(), self.ec.ECDSA(hashes.SHA256()))
+        self.assertEqual(json.loads(bot.unb64u(claims))["aud"], "https://web.push.apple.com")
+        self.assertEqual(bot.unb64u(key), self.vapid.public_key().public_bytes(
+            self.ser.Encoding.X962, self.ser.PublicFormat.UncompressedPoint))
+        # The phone that's gone is remembered and skipped from now on.
+        state = json.loads((self.tmp / "state.json").read_text())
+        self.assertEqual(state["push_gone"], ["https://fcm.googleapis.com/fcm/send/gone"])
+
+    def test_views_respect_the_phone_setting(self):
+        bot.PUSH_GONE.add("https://fcm.googleapis.com/fcm/send/gone")
+        self.assertEqual(bot.push_devices("bias"), [])
+        self.assertEqual([d["name"] for d in bot.push_devices("trade")], ["iPhone"])
+
+
 class UnitTest(unittest.TestCase):
+    def test_tradingview_links(self):
+        tv = lambda **p: bot.tradingview_url(p).removeprefix("https://www.tradingview.com/chart/?symbol=")
+        self.assertEqual(tv(asset="NVDA", market="stocks"), "NVDA")
+        self.assertEqual(tv(asset="$hype", market="crypto"), "HYPEUSDT")
+        self.assertEqual(tv(asset="FREN PET (FP)", market="crypto"), "FPUSDT")
+        self.assertEqual(tv(asset="gold", market="macro"), "TVC:GOLD")
+        self.assertEqual(tv(asset="NVDA, SOXL, MU", market="stocks"), "NVDA")
+        self.assertEqual(bot.tradingview_url({"asset": "WIF", "contract_address": "abc"}), "", "coins with a CA use DexScreener")
+
     def test_secrets_are_stripped(self):
         with mock.patch.dict(os.environ, {"X_BEARER_TOKEN": "AAAA%3Dtok\n", "NTFY_TOPIC": " topic \n"}):
             bot.clean_env()

@@ -11,22 +11,31 @@ Run once per schedule tick (GitHub Actions cron). State lives in state.json, sen
 """
 
 import argparse
+import base64
 import html
 import json
 import os
 import re
 import sys
+import struct
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import urlparse
 from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 import anthropic
 import requests
+from cryptography.hazmat.primitives import hashes, serialization
+from cryptography.hazmat.primitives.asymmetric import ec
+from cryptography.hazmat.primitives.asymmetric.utils import decode_dss_signature
+from cryptography.hazmat.primitives.ciphers.aead import AESGCM
+from cryptography.hazmat.primitives.kdf.hkdf import HKDF
 
 ROOT = Path(__file__).parent
 STATE_PATH = ROOT / "state.json"
 ALERTS_PATH = ROOT / "alerts.jsonl"
+PUSH_PATH = ROOT / "push.json"  # phones that turned on notifications in the dashboard (the page writes it)
 ACCOUNTS_PATH = ROOT / "accounts.txt"
 PROMPT_PATH = ROOT / "prompt.md"
 NOTES_DIR = ROOT / "notes"  # notes/<handle>.md: what the user knows about how each account posts
@@ -821,6 +830,8 @@ def send_ntfy(kind, part, title, body, url, images, app=""):
     if kind == "trade" and part.get("contract_address") and chain:
         actions.append({"action": "view", "label": "Chart",
                         "url": f"https://dexscreener.com/{chain}/{part['contract_address']}"})
+    elif kind == "trade" and tradingview_url(part):
+        actions.append({"action": "view", "label": "TradingView", "url": tradingview_url(part)})
     msg = {
         "topic": topic,
         "title": title,
@@ -835,6 +846,127 @@ def send_ntfy(kind, part, title, body, url, images, app=""):
         msg["attach"] = images[0]  # shows the chart in the notification
     headers = {"Authorization": f"Bearer {env['NTFY_TOKEN']}"} if env.get("NTFY_TOKEN") else {}
     requests.post(env.get("NTFY_SERVER") or "https://ntfy.sh", json=msg, headers=headers, timeout=15).raise_for_status()
+
+
+# ---------- notifications from the dashboard app (Web Push) ----------
+# The dashboard is a home-screen web app. A phone that turns on notifications there is saved in push.json,
+# and the bot sends to it directly: payloads are encrypted for that phone (RFC 8291) and signed with the
+# VAPID_PRIVATE_KEY secret (RFC 8292), so the saved addresses are useless to anyone without that key.
+
+PUSH_GONE = set()  # addresses the push service says no longer work; kept in state["push_gone"]
+
+
+def b64u(b):
+    return base64.urlsafe_b64encode(b).rstrip(b"=").decode()
+
+
+def unb64u(s):
+    return base64.urlsafe_b64decode(s + "=" * (-len(s) % 4))
+
+
+def push_config():
+    try:
+        return json.loads(PUSH_PATH.read_text())
+    except (FileNotFoundError, ValueError):
+        return {}
+
+
+def ntfy_on():
+    """The dashboard can switch ntfy off once the app's own notifications are on."""
+    return push_config().get("ntfy", True) is not False
+
+
+def push_devices(kind=None):
+    devices = (push_config().get("devices") or {}).values()
+    return [d for d in devices if isinstance(d, dict) and (d.get("sub") or {}).get("endpoint")
+            and d["sub"]["endpoint"] not in PUSH_GONE and (kind != "bias" or d.get("views", True))]
+
+
+def push_encrypt(payload, p256dh, auth):
+    """aes128gcm Web Push encryption for one phone's keys."""
+    ua_pub = unb64u(p256dh)
+    ua_key = ec.EllipticCurvePublicKey.from_encoded_point(ec.SECP256R1(), ua_pub)
+    key = ec.generate_private_key(ec.SECP256R1())
+    as_pub = key.public_key().public_bytes(serialization.Encoding.X962, serialization.PublicFormat.UncompressedPoint)
+    hkdf = lambda salt, ikm, info, n: HKDF(algorithm=hashes.SHA256(), length=n, salt=salt, info=info).derive(ikm)
+    ikm = hkdf(unb64u(auth), key.exchange(ec.ECDH(), ua_key), b"WebPush: info\x00" + ua_pub + as_pub, 32)
+    salt = os.urandom(16)
+    cek = hkdf(salt, ikm, b"Content-Encoding: aes128gcm\x00", 16)
+    nonce = hkdf(salt, ikm, b"Content-Encoding: nonce\x00", 12)
+    return salt + struct.pack(">I", 4096) + bytes([len(as_pub)]) + as_pub + AESGCM(cek).encrypt(nonce, payload + b"\x02", None)
+
+
+def vapid_auth(endpoint, private_key):
+    """Authorization header proving the ping comes from this bot (the page subscribed with its public key)."""
+    key = ec.derive_private_key(int.from_bytes(unb64u(private_key), "big"), ec.SECP256R1())
+    pub = key.public_key().public_bytes(serialization.Encoding.X962, serialization.PublicFormat.UncompressedPoint)
+    u = urlparse(endpoint)
+    head = b64u(json.dumps({"typ": "JWT", "alg": "ES256"}).encode())
+    claims = b64u(json.dumps({"aud": f"{u.scheme}://{u.netloc}", "exp": int(time.time()) + 12 * 3600,
+                              "sub": dashboard_url() or "https://github.com"}).encode())
+    r, s = decode_dss_signature(key.sign(f"{head}.{claims}".encode(), ec.ECDSA(hashes.SHA256())))
+    return f"vapid t={head}.{claims}.{b64u(r.to_bytes(32, 'big') + s.to_bytes(32, 'big'))}, k={b64u(pub)}"
+
+
+def send_push(devices, title, body, url, tag=""):
+    """Send one notification to each phone. Raises if none of them took it."""
+    payload = json.dumps({"title": title, "body": body.encode()[:900].decode(errors="ignore"), "url": url,
+                          "tag": tag, "ts": datetime.now(timezone.utc).isoformat(timespec="seconds")}).encode()
+    sent, errors = 0, []
+    for d in devices:
+        sub = d["sub"]
+        try:
+            res = requests.post(sub["endpoint"], data=push_encrypt(payload, sub["keys"]["p256dh"], sub["keys"]["auth"]),
+                                headers={"Authorization": vapid_auth(sub["endpoint"], os.environ["VAPID_PRIVATE_KEY"]),
+                                         "Content-Encoding": "aes128gcm", "Content-Type": "application/octet-stream",
+                                         "TTL": "86400", "Urgency": "high"}, timeout=15)
+        except (requests.RequestException, KeyError, ValueError) as e:
+            errors.append(f"{d.get('name') or 'phone'}: {e}")
+            continue
+        if res.status_code in (404, 410):
+            PUSH_GONE.add(sub["endpoint"])  # turned off or reinstalled; the dashboard shows it as stopped
+            errors.append(f"{d.get('name') or 'phone'}: no longer subscribed")
+        elif res.status_code >= 300:
+            errors.append(f"{d.get('name') or 'phone'}: HTTP {res.status_code} {res.text[:200]}")
+        else:
+            sent += 1
+    for e in errors:
+        print(f"  app push: {e}", file=sys.stderr)
+    if not sent:
+        raise requests.RequestException("; ".join(errors) or "no phones")
+
+
+def remember_push_gone(state):
+    live = {d["sub"]["endpoint"] for d in (push_config().get("devices") or {}).values()
+            if isinstance(d, dict) and (d.get("sub") or {}).get("endpoint")}
+    gone = sorted(PUSH_GONE & live)
+    if gone:
+        state["push_gone"] = gone
+    else:
+        state.pop("push_gone", None)
+
+
+# TradingView chart for a trade, when it's a stock, a macro ticker, or a coin without a contract address
+# (those open on DexScreener instead).
+TV_MACRO = {"gold": "TVC:GOLD", "xau": "TVC:GOLD", "silver": "TVC:SILVER", "oil": "TVC:USOIL", "wti": "TVC:USOIL",
+            "dxy": "TVC:DXY", "dollar": "TVC:DXY", "us10y": "TVC:US10Y", "10y": "TVC:US10Y", "spx": "SP:SPX",
+            "s&p": "SP:SPX", "s&p 500": "SP:SPX", "nasdaq": "NASDAQ:NDX", "vix": "TVC:VIX"}
+
+
+def tradingview_url(part):
+    asset = (part.get("asset") or "").strip()
+    if not asset or part.get("contract_address"):
+        return ""
+    market = part.get("market", "crypto")
+    if asset.lower() in TV_MACRO:
+        symbol = TV_MACRO[asset.lower()]
+    else:
+        m = re.search(r"\(\$?([A-Za-z0-9]{1,10})\)", asset) or re.match(r"\$?([A-Za-z0-9.]{1,10})\b", asset)
+        if not m:
+            return ""
+        ticker = m.group(1).upper()
+        symbol = ticker if market != "crypto" else ticker if ticker.endswith(("USD", "USDT")) else f"{ticker}USDT"
+    return f"https://www.tradingview.com/chart/?symbol={requests.utils.quote(symbol, safe=':')}"
 
 
 def send_telegram(token, chat_id, title, body, url):
@@ -858,14 +990,18 @@ def notify(kind, handle, unit, part, prev, prices, dry_run=False, log=True):
     env = os.environ
     hook = (env.get("DISCORD_BIAS_WEBHOOK_URL") if kind == "bias" else None) or env.get("DISCORD_WEBHOOK_URL")
     senders = []
-    if env.get("NTFY_TOPIC"):
+    if env.get("NTFY_TOPIC") and ntfy_on():
         senders.append(("ntfy", lambda: send_ntfy(kind, part, title, body, url, unit_images(unit), app)))
+    devices = push_devices(kind) if env.get("VAPID_PRIVATE_KEY") else []
+    if devices:
+        senders.append(("app", lambda: send_push(devices, title, body, app or url, target["id"])))
     if hook:
         senders.append(("discord", lambda: send_discord(hook, payload)))
     if env.get("TELEGRAM_BOT_TOKEN") and env.get("TELEGRAM_CHAT_ID"):
         senders.append(("telegram", lambda: send_telegram(env["TELEGRAM_BOT_TOKEN"], env["TELEGRAM_CHAT_ID"], title, body, url)))
     if not senders:
-        print("  no notifier configured (set NTFY_TOPIC, DISCORD_WEBHOOK_URL or TELEGRAM_*)", file=sys.stderr)
+        print("  no notifier configured (turn on notifications in the dashboard, or set NTFY_TOPIC, "
+              "DISCORD_WEBHOOK_URL or TELEGRAM_*)", file=sys.stderr)
     sent = 0
     for name, send in senders:
         try:
@@ -1297,7 +1433,13 @@ def morning_summary(state, now=None, dry_run=False):
 def send_summary(title, body, url):
     """The morning summary goes to the same places as trade pings, at normal priority."""
     env = os.environ
-    if env.get("NTFY_TOPIC"):
+    devices = push_devices() if env.get("VAPID_PRIVATE_KEY") else []
+    if devices:
+        try:
+            send_push(devices, title, body, url or dashboard_url(), "summary")
+        except requests.RequestException as e:
+            print(f"  app push failed: {e}", file=sys.stderr)
+    if env.get("NTFY_TOPIC") and ntfy_on():
         msg = {"topic": env["NTFY_TOPIC"], "title": title, "message": body.encode()[:3500].decode(errors="ignore"),
                "priority": 3, "tags": ["sunrise"]}
         if url:
@@ -1394,6 +1536,7 @@ def poll(dry_run=False):
         return 0
     x = XClient(os.environ["X_BEARER_TOKEN"])
     state = load_state()
+    PUSH_GONE.update(state.get("push_gone", []))
     accounts = state.setdefault("accounts", {})
     errors = process_feedback(x, state, dry_run)
     if not dry_run:
@@ -1433,6 +1576,7 @@ def poll(dry_run=False):
             tag_topics(handle, acct)
     morning_summary(state, dry_run=dry_run)
     if not dry_run:
+        remember_push_gone(state)
         save_state(state)
     return errors
 
