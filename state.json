@@ -834,7 +834,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2108420838232146130",
+      "last_id": "2108426947412017409",
       "positions": {},
       "posts": [
         {
@@ -897,11 +897,6 @@
         "2108408467048599633": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-07T23:05:05.000Z",
-          "id": "2107970499448037788",
-          "text": "@DonPleb Very curious opinion but yeah ct things"
-        },
         {
           "created_at": "2026-10-08T04:51:56.000Z",
           "id": "2108057787020579179",
@@ -978,6 +973,15 @@
           "id": "2108420838232146130",
           "reply_to_id": "2107913373241528420",
           "text": "@chitchatmac If I ever speak in public again ya I will probably not be anywhere near as reserved lmfao"
+        },
+        {
+          "created_at": "2026-10-09T05:18:51.000Z",
+          "id": "2108426947412017409",
+          "images": [
+            "https://pbs.twimg.com/media/HUKjIrsacAEeA6T.jpg"
+          ],
+          "reply_to_id": "2108424399565283494",
+          "text": "@naniXBT @chitchatmac https://t.co/xIpvljEIsn"
         }
       ],
       "threads": {
@@ -1019,7 +1023,6 @@
       "trading": {
         "2107944740977287271": true,
         "2107964940585967656": false,
-        "2107970499448037788": false,
         "2107994669020025063": false,
         "2108057787020579179": false,
         "2108059678802657617": true,
@@ -1040,7 +1043,8 @@
         "2108408690793763014": false,
         "2108416588299022424": true,
         "2108419165325533342": false,
-        "2108420838232146130": false
+        "2108420838232146130": false,
+        "2108426947412017409": false
       },
       "user_id": "953032269433745408"
     },
@@ -2413,5 +2417,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T05:12:22+00:00"
+  "updated_at": "2026-10-09T05:20:18+00:00"
 }
