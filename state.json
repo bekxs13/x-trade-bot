@@ -15,6 +15,7 @@
           "direction": "short",
           "entry": "",
           "horizon": "2d-2w",
+          "market": "crypto",
           "post_id": "2108084087499952409",
           "reason": "Same thread as his earlier '(Discl long puts) 2d-2w' on BTC as an 'ai loser' story; quoting 'we might lose public key cryptography' with a sarcastic 'didn't fw it anyway' is him leaning into that bearish BTC thesis.",
           "since": "2026-10-08T06:36:27.000Z",
@@ -221,6 +222,7 @@
       "backfilled": true,
       "biases": {
         "btc": {
+          "market": "crypto",
           "post_id": "2108371977291636754",
           "reason": "Calls the BTC pullback from $87.5k to ~$81.7k an accumulation zone, with $75k as invalidation and a reclaim of $87.5k as bullish confirmation. BTC is at ~$81.9k, inside that range.",
           "scope": "btc",
@@ -229,6 +231,7 @@
           "updated_at": "2026-10-09T01:40:25.000Z"
         },
         "sol": {
+          "market": "crypto",
           "post_id": "2108378051985985755",
           "reason": "Argues SOL is becoming competitive with centralized exchanges via onchain spot trading and tokenized stocks, a constructive view on the SOL ecosystem.",
           "scope": "sol",
@@ -249,6 +252,7 @@
           "direction": "long",
           "entry": "$82k",
           "horizon": "swing to ATHs",
+          "market": "crypto",
           "open_price": null,
           "post_id": "2108380342608712030",
           "reason": "Post says \"long $BTC entry: $82k stop: $74.6k target: ATHs\" with a long position box drawn on the BTC 3D chart.",
@@ -805,6 +809,7 @@
       "backfilled": true,
       "biases": {
         "alts": {
+          "market": "crypto",
           "post_id": "2108364075583635727",
           "reason": "Says market structure on strong coins is broken, things look much worse with ETH below 25s, and can't expect alts to trend strongly again.",
           "scope": "alts",
@@ -1012,6 +1017,7 @@
       "backfilled": true,
       "biases": {
         "stocks/macro": {
+          "market": "macro",
           "post_id": "2108239413411242002",
           "reason": "\"this is going to destroy forward looking sentiment across the markets\" on the OpenAI revenue miss is a broad bearish market call, matching the recorded bearish stocks/macro view.",
           "scope": "stocks/macro",
@@ -1032,6 +1038,7 @@
           "direction": "short",
           "entry": "",
           "horizon": "",
+          "market": "stocks",
           "post_id": "2108248166764314906",
           "reason": "Quotes his own 'shorted nvda soxl mu' and the charts show all three dumping since then; 'Moneyprinter Mode' is a brag that he's still in the shorts and they're paying.",
           "since": "2026-10-08T17:28:26.000Z",
@@ -1046,6 +1053,7 @@
           "direction": "short",
           "entry": "",
           "horizon": "",
+          "market": "stocks",
           "post_id": "2108248166764314906",
           "reason": "Quotes his own 'shorted nvda soxl mu' and the charts show all three dumping since then; 'Moneyprinter Mode' is a brag that he's still in the shorts and they're paying.",
           "since": "2026-10-08T17:28:26.000Z",
@@ -1060,6 +1068,7 @@
           "direction": "short",
           "entry": "",
           "horizon": "",
+          "market": "stocks",
           "post_id": "2108248166764314906",
           "reason": "Quotes his own 'shorted nvda soxl mu' and the charts show all three dumping since then; 'Moneyprinter Mode' is a brag that he's still in the shorts and they're paying.",
           "since": "2026-10-08T17:28:26.000Z",
@@ -1074,6 +1083,7 @@
           "direction": "long",
           "entry": "~0.057",
           "horizon": "",
+          "market": "crypto",
           "open_price": null,
           "post_id": "2108360350404112612",
           "reason": "\"longed an extreme amount for now - thesis remains the same\" on $STRK, with the STRKUSDT chart at 0.05699. This adds to the STRK long already on record.",
@@ -1560,6 +1570,7 @@
           "direction": "long",
           "entry": "$1.94 average cost",
           "horizon": "",
+          "market": "crypto",
           "post_id": "2107277220171669870",
           "reason": "Replying \"Nope \ud83d\ude0f\" to \"you didnt sell right\" with a portfolio screenshot showing 27,406 Fren Pet at a $1.94 average cost confirms they are still holding.",
           "since": "2026-10-06T01:10:15.000Z",
@@ -1574,6 +1585,7 @@
           "direction": "long",
           "entry": "",
           "horizon": "",
+          "market": "crypto",
           "post_id": "2107333331968835746",
           "reason": "The portfolio screenshot shows HYPE at 55.49% of holdings, with smaller META, UBTC and FP positions. Paired with \"Life is good\", it reads as a disclosed, happy HYPE holder.",
           "since": "2026-10-06T04:53:13.000Z",
@@ -1965,6 +1977,7 @@
       "user_id": "809191427645181952"
     }
   },
+  "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T02:18:22+00:00"
+  "updated_at": "2026-10-09T02:20:36+00:00"
 }
