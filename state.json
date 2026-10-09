@@ -1687,7 +1687,7 @@
       "biases": {},
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2108573123222340068",
+      "last_id": "2108575724546486725",
       "positions": {},
       "posts": [
         {
@@ -1813,12 +1813,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-09T12:08:35.000Z",
-          "id": "2108530058549997942",
-          "reply_to_id": "2108229898657575372",
-          "text": "@raver_science @blockgraze i would probably trade better if i didn\u2019t have to physically stream the info, but i think i would if i was strictly consuming it. something about being forced to have a take rather than just consume makes flip flopping too easy"
-        },
-        {
           "created_at": "2026-10-09T12:09:16.000Z",
           "id": "2108530229790511413",
           "reply_to_id": "2108530160915939452",
@@ -1901,6 +1895,12 @@
           "id": "2108573123222340068",
           "reply_to_id": "2108572844342825297",
           "text": "@thebestylefty ?"
+        },
+        {
+          "created_at": "2026-10-09T15:10:02.000Z",
+          "id": "2108575724546486725",
+          "reply_to_id": "2108575558619578411",
+          "text": "@intern @DeeZe can we use stats from the deeze league"
         }
       ],
       "threads": {
@@ -1978,7 +1978,6 @@
         "2108516937643049365": true,
         "2108527971648602479": true,
         "2108528245364924482": true,
-        "2108530058549997942": true,
         "2108530229790511413": false,
         "2108530715898069140": false,
         "2108531369290715435": false,
@@ -1994,7 +1993,8 @@
         "2108560641153745337": false,
         "2108563059434488256": true,
         "2108563395951694176": false,
-        "2108573123222340068": false
+        "2108573123222340068": false,
+        "2108575724546486725": false
       },
       "user_id": "1426732252768182281"
     },
@@ -2796,5 +2796,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T15:04:29+00:00"
+  "updated_at": "2026-10-09T15:10:24+00:00"
 }
