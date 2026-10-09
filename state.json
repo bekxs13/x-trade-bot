@@ -1015,7 +1015,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2108619491349602367",
+      "last_id": "2108637867329384826",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1089,6 +1089,12 @@
           "created_at": "2026-10-09T17:52:35.000Z",
           "id": "2108616630343504339",
           "text": "Goog amzn going well, holding spot trad still good (brk leaps also performing again lmfao SOMEDAY), cut ASTS today got fkd on that, adding some ewy shorts to go against mag longs (again mostly goog amzn), mostly still just riding spot long trad as I think good setup for higher \n\nCrypto still ugly and needs patience imo \n\nEnjoy your weekends bros"
+        },
+        {
+          "created_at": "2026-10-09T19:16:58.000Z",
+          "id": "2108637867329384826",
+          "reply_to_id": "2108616630343504339",
+          "text": "Listened to jez interview, funny to see him talk about traders being uber competitive self critical and usually respond with anger to any losses as I sit in a rage over ASTS \n\nOn the real tho it is fucking hilarious how I can do well repeatedly but anytime I lose at all I drive myself into a temporary rage, I just can\u2019t turn that part of my brain off"
         }
       ],
       "reads": {
@@ -1098,7 +1104,8 @@
         "2108374505039307132": "No call",
         "2108378376771928218": "No call",
         "2108408467048599633": "No call",
-        "2108616630343504339": "TRADE SHORT EWY \u00b7 VIEW bearish on crypto market"
+        "2108616630343504339": "TRADE SHORT EWY \u00b7 VIEW bearish on crypto market",
+        "2108637867329384826": "No call"
       },
       "replies": [
         {
@@ -1229,7 +1236,7 @@
             "trade:EWY:short",
             "bias:crypto market:bearish"
           ],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
@@ -1257,7 +1264,8 @@
         "2108420838232146130": false,
         "2108426947412017409": false,
         "2108616630343504339": true,
-        "2108619491349602367": true
+        "2108619491349602367": true,
+        "2108637867329384826": true
       },
       "user_id": "953032269433745408"
     },
@@ -2901,5 +2909,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T18:54:21+00:00"
+  "updated_at": "2026-10-09T19:18:22+00:00"
 }
