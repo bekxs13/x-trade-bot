@@ -828,7 +828,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2108381256560054540",
+      "last_id": "2108408467048599633",
       "positions": {},
       "posts": [
         {
@@ -873,6 +873,13 @@
           "id": "2108378376771928218",
           "reply_to_id": "2108374505039307132",
           "text": "The yearly open being the ceiling is just me coordinating as many sells as I can to save my foreskin"
+        },
+        {
+          "created_at": "2026-10-09T04:05:25.000Z",
+          "id": "2108408467048599633",
+          "quoted_text": "@AstroXBT Many OGs felt the same about ZEC for a long time",
+          "reply_to_id": "2104390418591043848",
+          "text": "Hmmm https://t.co/xYsRVPDS3s"
         }
       ],
       "reads": {
@@ -880,7 +887,8 @@
         "2108306849481281915": "No call",
         "2108364075583635727": "No call: bearish on alts (same view as before)",
         "2108374505039307132": "No call",
-        "2108378376771928218": "No call"
+        "2108378376771928218": "No call",
+        "2108408467048599633": "No call"
       },
       "replies": [
         {
@@ -963,6 +971,10 @@
         }
       ],
       "threads": {
+        "2104390418591043848": {
+          "alerted": [],
+          "self_replies": 1
+        },
         "2107623890898038961": {
           "alerted": [],
           "self_replies": 0
@@ -1017,7 +1029,8 @@
         "2108374505039307132": true,
         "2108375543624474780": false,
         "2108378376771928218": true,
-        "2108381256560054540": false
+        "2108381256560054540": false,
+        "2108408467048599633": true
       },
       "user_id": "953032269433745408"
     },
@@ -2355,5 +2368,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T03:54:25+00:00"
+  "updated_at": "2026-10-09T04:06:28+00:00"
 }
