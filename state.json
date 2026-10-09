@@ -2548,10 +2548,20 @@
     },
     "thinkingusd": {
       "backfilled": true,
-      "biases": {},
+      "biases": {
+        "stocks/macro": {
+          "market": "stocks",
+          "post_id": "2108574034916999548",
+          "reason": "\"Increasingly getting more and more bearish equities\", plus recent posts about speculation being dangerous and sitting in cash. He expects a short setup soon, possibly around an Anthropic IPO filing.",
+          "scope": "stocks/macro",
+          "since": "2026-10-09",
+          "stance": "bearish",
+          "updated_at": "2026-10-09T15:03:19.000Z"
+        }
+      },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2108403707645764048",
+      "last_id": "2108574034916999548",
       "positions": {},
       "posts": [
         {
@@ -2633,6 +2643,11 @@
           "created_at": "2026-10-09T03:46:30.000Z",
           "id": "2108403707645764048",
           "text": "We\u2019re going to look back at this time and say \u201cit was so obvious\u201d"
+        },
+        {
+          "created_at": "2026-10-09T15:03:19.000Z",
+          "id": "2108574034916999548",
+          "text": "Increasingly getting more and more bearish equities but the time to short is not now, but coming up soon.\n\nLet's see that Anthropic S1"
         }
       ],
       "reads": {
@@ -2648,7 +2663,8 @@
         "2108214861054284161": "No call",
         "2108368465883230243": "No call",
         "2108388001386537404": "No call: bearish on stocks/macro (62%, too unsure)",
-        "2108403707645764048": "No call: bearish on stocks/macro (60%, too unsure)"
+        "2108403707645764048": "No call: bearish on stocks/macro (60%, too unsure)",
+        "2108574034916999548": "VIEW bearish on stocks/macro"
       },
       "replies": [
         {
@@ -2742,6 +2758,12 @@
         "2108403707645764048": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108574034916999548": {
+          "alerted": [
+            "bias:stocks/macro:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -2766,12 +2788,13 @@
         "2108214861054284161": true,
         "2108368465883230243": false,
         "2108388001386537404": true,
-        "2108403707645764048": true
+        "2108403707645764048": true,
+        "2108574034916999548": true
       },
       "user_id": "809191427645181952"
     }
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T15:00:27+00:00"
+  "updated_at": "2026-10-09T15:04:29+00:00"
 }
