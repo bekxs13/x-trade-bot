@@ -21,7 +21,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2108629710317969520",
+      "last_id": "2108631075895333285",
       "positions": {},
       "posts": [
         {
@@ -116,6 +116,11 @@
           "id": "2108629710317969520",
           "quoted_text": "*PHILADELPHIA POLICE SAY ANTHROPIC AI SUBMITTED A \"FALSE HOMICIDE TIP\": CBS\n\n*PHILADELPHIA POLICE DEPARTMENT DISCLOSED THE INCIDENT FOLLOWING NOTIFICATION BY ANTHROPIC ON OCT. 7",
           "text": "? https://t.co/nIXrWs95j5"
+        },
+        {
+          "created_at": "2026-10-09T18:49:59.000Z",
+          "id": "2108631075895333285",
+          "text": "My face when when I ask Claude to do my math homework and instead it calls in a false homicide in Philadelphia"
         }
       ],
       "reads": {
@@ -133,7 +138,8 @@
         "2108565991215267977": "No call",
         "2108566272644419692": "TRADE EXIT BTC",
         "2108589553397469263": "No call",
-        "2108629710317969520": "No call"
+        "2108629710317969520": "No call",
+        "2108631075895333285": "No call"
       },
       "replies": [
         {
@@ -266,6 +272,10 @@
         "2108629710317969520": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108631075895333285": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -298,7 +308,8 @@
         "2108568310761594997": true,
         "2108588713567744394": true,
         "2108589553397469263": false,
-        "2108629710317969520": false
+        "2108629710317969520": false,
+        "2108631075895333285": false
       },
       "user_id": "1446541960181858315"
     },
@@ -2890,5 +2901,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T18:46:23+00:00"
+  "updated_at": "2026-10-09T18:50:24+00:00"
 }
