@@ -242,7 +242,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2108381006973817054",
+      "last_id": "2108385054166843479",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -397,24 +397,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-06T21:35:23.000Z",
-          "id": "2107585535430864963",
-          "reply_to_id": "2107585135961104399",
-          "text": "@Quanterty ONE TIME BABY"
-        },
-        {
-          "created_at": "2026-10-06T21:35:59.000Z",
-          "id": "2107585686098559366",
-          "reply_to_id": "2107506560016470106",
-          "text": "@MAGANI1255952 @BlackBullSol bulls flip dogs."
-        },
-        {
-          "created_at": "2026-10-06T22:30:10.000Z",
-          "id": "2107599322414289267",
-          "reply_to_id": "2107596672586899466",
-          "text": "@remusofmars \ud83d\udc02\ud83c\udc04\ufe0f"
-        },
-        {
           "created_at": "2026-10-06T23:18:43.000Z",
           "id": "2107611539108741536",
           "reply_to_id": "2107608371709042752",
@@ -485,6 +467,24 @@
           "id": "2108367089480450090",
           "reply_to_id": "2108248513549406695",
           "text": "@_TJRTrades lmao"
+        },
+        {
+          "created_at": "2026-10-09T02:30:17.000Z",
+          "id": "2108384526795747789",
+          "reply_to_id": "2108383432321708229",
+          "text": "@Quanterty lmao"
+        },
+        {
+          "created_at": "2026-10-09T02:31:03.000Z",
+          "id": "2108384719675277547",
+          "reply_to_id": "2108356806854824190",
+          "text": "@gazza_jenks i am realizing that maybe i need to do more educational content instead of just bullposting \ud83d\ude02"
+        },
+        {
+          "created_at": "2026-10-09T02:32:23.000Z",
+          "id": "2108385054166843479",
+          "reply_to_id": "2108384805456900138",
+          "text": "@Quanterty @sunrise i shilled ur position on mb just now haha"
         }
       ],
       "threads": {
@@ -584,9 +584,6 @@
         }
       },
       "trading": {
-        "2107585535430864963": false,
-        "2107585686098559366": true,
-        "2107599322414289267": true,
         "2107608427220570453": false,
         "2107611539108741536": false,
         "2107613807228944490": false,
@@ -618,7 +615,10 @@
         "2108378051985985755": true,
         "2108380342608712030": true,
         "2108380821682065433": true,
-        "2108381006973817054": true
+        "2108381006973817054": true,
+        "2108384526795747789": false,
+        "2108384719675277547": false,
+        "2108385054166843479": true
       },
       "user_id": "973261472"
     },
@@ -1979,5 +1979,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T02:20:36+00:00"
+  "updated_at": "2026-10-09T02:32:54+00:00"
 }
