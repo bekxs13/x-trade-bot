@@ -1616,7 +1616,7 @@
       "biases": {},
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2108534059064336679",
+      "last_id": "2108538101950005277",
       "positions": {},
       "posts": [
         {
@@ -1709,6 +1709,11 @@
           "id": "2108528245364924482",
           "reply_to_id": "2108527971648602479",
           "text": "every person that doom posted this deserves to be microwaved off the face of the earth"
+        },
+        {
+          "created_at": "2026-10-09T12:40:32.000Z",
+          "id": "2108538101950005277",
+          "text": "MARKET OPEN: Revisiting the WORST DAY in Crypto History, The 10/10 ANNIVERSARY, OpenAI SUCKS https://t.co/ewNLsGU5MI"
         }
       ],
       "reads": {
@@ -1726,7 +1731,8 @@
         "2108363050353148354": "Read together with the post it replies to",
         "2108516937643049365": "No call",
         "2108527971648602479": "No call",
-        "2108528245364924482": "Read together with the post it replies to"
+        "2108528245364924482": "Read together with the post it replies to",
+        "2108538101950005277": "No call"
       },
       "replies": [
         {
@@ -1868,6 +1874,10 @@
         "2108527971648602479": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2108538101950005277": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1901,7 +1911,8 @@
         "2108532114530443470": true,
         "2108532419963834784": false,
         "2108533795003719848": false,
-        "2108534059064336679": false
+        "2108534059064336679": false,
+        "2108538101950005277": true
       },
       "user_id": "1426732252768182281"
     },
@@ -2680,5 +2691,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T12:26:16+00:00"
+  "updated_at": "2026-10-09T12:42:22+00:00"
 }
