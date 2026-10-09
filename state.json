@@ -5,7 +5,7 @@
       "biases": {},
       "closed": [],
       "handle": "based16z",
-      "last_id": "2108280900525891669",
+      "last_id": "2108375017696473543",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -136,6 +136,12 @@
           "created_at": "2026-10-08T19:17:53.000Z",
           "id": "2108275708770333103",
           "text": "@RealAZKicks I aint even closed too much tbh we still riding 1h trend"
+        },
+        {
+          "created_at": "2026-10-09T01:52:30.000Z",
+          "id": "2108375017696473543",
+          "reply_to_id": "2108374352039424256",
+          "text": "@simononchain send it"
         }
       ],
       "threads": {
@@ -206,7 +212,8 @@
         "2108277005666120065": true,
         "2108277867687690430": false,
         "2108278472581980385": false,
-        "2108280900525891669": false
+        "2108280900525891669": false,
+        "2108375017696473543": true
       },
       "user_id": "1446541960181858315"
     },
@@ -407,7 +414,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2108374505039307132",
+      "last_id": "2108375543624474780",
       "positions": {},
       "posts": [
         {
@@ -455,11 +462,6 @@
         "2108374505039307132": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-07T22:45:30.000Z",
-          "id": "2107965567546302881",
-          "text": "@ShadowySuperDot Just goes back to ct generally being bad at discerning skilled participants and truths, just let narratives and recency bias inform their longer term views"
-        },
         {
           "created_at": "2026-10-07T22:53:57.000Z",
           "id": "2107967694582804536",
@@ -530,6 +532,12 @@
           "id": "2108364401392955456",
           "reply_to_id": "2108364256986952040",
           "text": "@nzz_07 Unfortunately yes"
+        },
+        {
+          "created_at": "2026-10-09T01:54:35.000Z",
+          "id": "2108375543624474780",
+          "reply_to_id": "2108374702934626679",
+          "text": "@firebombpk Ngl it wasn\u2019t very well thought through"
         }
       ],
       "threads": {
@@ -567,7 +575,6 @@
       "trading": {
         "2107944740977287271": true,
         "2107964940585967656": false,
-        "2107965567546302881": false,
         "2107967694582804536": false,
         "2107967727399002485": false,
         "2107967769979609373": false,
@@ -586,7 +593,8 @@
         "2108309796445409325": false,
         "2108364075583635727": true,
         "2108364401392955456": false,
-        "2108374505039307132": true
+        "2108374505039307132": true,
+        "2108375543624474780": false
       },
       "user_id": "953032269433745408"
     },
@@ -1548,5 +1556,5 @@
     }
   },
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T01:52:52+00:00"
+  "updated_at": "2026-10-09T01:56:26+00:00"
 }
