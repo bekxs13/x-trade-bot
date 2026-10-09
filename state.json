@@ -1112,11 +1112,20 @@
           "since": "2026-10-08",
           "stance": "bearish",
           "updated_at": "2026-10-08T16:53:40.000Z"
+        },
+        "strk": {
+          "market": "crypto",
+          "post_id": "2108485846647333345",
+          "reason": "'price wise - looks like its still very early!' with STRK at $0.069 is an explicit bullish call. There is no recorded STRK view, though it matches the long already on record.",
+          "scope": "STRK",
+          "since": "2026-10-09",
+          "stance": "bullish",
+          "updated_at": "2026-10-09T09:12:54.000Z"
         }
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108485584792563931",
+      "last_id": "2108485846647333345",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1291,6 +1300,12 @@
           "created_at": "2026-10-09T09:11:51.000Z",
           "id": "2108485584792563931",
           "text": "shoutout to the (very) sharp ppl who discovered $STRK early as well \ud83d\ude4f\n\n@ThePumponomics @beracap @playrisk \n\nthink most of them are at 0.045-0.06 average entry"
+        },
+        {
+          "created_at": "2026-10-09T09:12:54.000Z",
+          "id": "2108485846647333345",
+          "reply_to_id": "2108485584792563931",
+          "text": "@ThePumponomics @beracap @playrisk price wise - looks like its still very early!"
         }
       ],
       "reads": {
@@ -1312,7 +1327,8 @@
         "2108472561889943559": "TRADE LONG STRK",
         "2108481061042929887": "TRADE LONG STRK",
         "2108482904116560301": "TRADE LONG STRK",
-        "2108485584792563931": "No call"
+        "2108485584792563931": "No call",
+        "2108485846647333345": "VIEW bullish on STRK"
       },
       "replies": [
         {
@@ -1513,8 +1529,10 @@
           "self_replies": 0
         },
         "2108485584792563931": {
-          "alerted": [],
-          "self_replies": 0
+          "alerted": [
+            "bias:strk:bullish"
+          ],
+          "self_replies": 1
         }
       },
       "trading": {
@@ -1551,7 +1569,8 @@
         "2108481061042929887": true,
         "2108482904116560301": true,
         "2108483042214019327": false,
-        "2108485584792563931": true
+        "2108485584792563931": true,
+        "2108485846647333345": true
       },
       "user_id": "1653080265294757890"
     },
@@ -2571,5 +2590,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T09:12:23+00:00"
+  "updated_at": "2026-10-09T09:14:22+00:00"
 }
