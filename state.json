@@ -302,6 +302,15 @@
           "stance": "bullish",
           "updated_at": "2026-10-09T01:40:25.000Z"
         },
+        "memecoins": {
+          "market": "crypto",
+          "post_id": "2108610728278298674",
+          "reason": "Says he's extremely bullish on capital moving onchain and expects some of the strongest opportunities this cycle from MemeFi projects combining memes with financial products.",
+          "scope": "memecoins",
+          "since": "2026-10-09",
+          "stance": "bullish",
+          "updated_at": "2026-10-09T17:29:08.000Z"
+        },
         "sol": {
           "market": "crypto",
           "post_id": "2108378051985985755",
@@ -314,7 +323,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2108556288162402327",
+      "last_id": "2108610728278298674",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -334,11 +343,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-08T08:24:53.000Z",
-          "id": "2108111376409636884",
-          "text": "if you guys dont vote for me to win $150k today all of you are fake \ud83e\udee9 https://t.co/Rl7cNbjtla"
-        },
         {
           "created_at": "2026-10-08T08:25:05.000Z",
           "id": "2108111428037284203",
@@ -463,6 +467,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2108543597998202880/img/pDDPs1u9uetaRCqE.jpg"
           ],
           "text": "The energy at TOKEN2049 Singapore has been incredible, with strong institutional interest and some of the smartest builders in crypto coming together\n\nFeeling increasingly bullish on where this industry is headed, especially with the progress we've made in tokenization, stablecoins, and perpetual futures"
+        },
+        {
+          "created_at": "2026-10-09T17:29:08.000Z",
+          "id": "2108610728278298674",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2108610350904172544/img/yLdZWhrsBpwSpmaL.jpg"
+          ],
+          "text": "i'm extremely bullish on the amount of capital that's going to move onchain this cycle\n\nstablecoins, RWAs and tokenized assets are bringing new liquidity into crypto, and that creates a much bigger opportunity for developers to build around speculation\n\nthat's why i keep coming back to MemeFi\n\nmemes already have the attention and communities, but adding financial products, new mechanics and creative ways to speculate around them opens up a lot more possibilities\n\ni expect some of the strongest opportunities this cycle to come from projects that combine both"
         }
       ],
       "reads": {
@@ -481,7 +493,8 @@
         "2108424862570361285": "No call",
         "2108443167758364916": "No call",
         "2108502379289088395": "No call",
-        "2108543735932031467": "No call: bullish on crypto market (60%, too unsure)"
+        "2108543735932031467": "No call: bullish on crypto market (60%, too unsure)",
+        "2108610728278298674": "VIEW bullish on memecoins"
       },
       "replies": [
         {
@@ -689,10 +702,15 @@
         "2108543735932031467": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108610728278298674": {
+          "alerted": [
+            "bias:memecoins:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108111376409636884": false,
         "2108111428037284203": false,
         "2108112551833981326": false,
         "2108135151565930823": false,
@@ -726,7 +744,8 @@
         "2108454230248042798": false,
         "2108502379289088395": false,
         "2108543735932031467": true,
-        "2108556288162402327": false
+        "2108556288162402327": false,
+        "2108610728278298674": true
       },
       "user_id": "973261472"
     },
@@ -2818,5 +2837,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T17:24:18+00:00"
+  "updated_at": "2026-10-09T17:30:28+00:00"
 }
