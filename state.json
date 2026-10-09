@@ -242,7 +242,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2108405452770066463",
+      "last_id": "2108420340925751675",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -401,18 +401,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-06T23:18:43.000Z",
-          "id": "2107611539108741536",
-          "reply_to_id": "2107608371709042752",
-          "text": "@pierre_crypt0 lemme get some lessons bruv"
-        },
-        {
-          "created_at": "2026-10-06T23:27:43.000Z",
-          "id": "2107613807228944490",
-          "reply_to_id": "2107514088305705143",
-          "text": "@dario187x marathon not a sprint"
-        },
-        {
           "created_at": "2026-10-06T23:38:50.000Z",
           "id": "2107616603437179008",
           "reply_to_id": "2107615408392114286",
@@ -489,6 +477,18 @@
           "id": "2108385054166843479",
           "reply_to_id": "2108384805456900138",
           "text": "@Quanterty @sunrise i shilled ur position on mb just now haha"
+        },
+        {
+          "created_at": "2026-10-09T04:52:24.000Z",
+          "id": "2108420292506697935",
+          "reply_to_id": "2108394539354374583",
+          "text": "@CryptojunkieOCJ jez is my friend\n\n&amp; it's an equal opportunity launch nobody is paid nor holds any tokens no vcs no team no kols etc, paper can only be minted by using papertrade, its fully transparent"
+        },
+        {
+          "created_at": "2026-10-09T04:52:36.000Z",
+          "id": "2108420340925751675",
+          "reply_to_id": "2108419063659798770",
+          "text": "@mirror_web3 yea"
         }
       ],
       "threads": {
@@ -592,8 +592,6 @@
         }
       },
       "trading": {
-        "2107611539108741536": false,
-        "2107613807228944490": false,
         "2107616603437179008": true,
         "2107642352684949537": true,
         "2107642741777911934": true,
@@ -626,7 +624,9 @@
         "2108384526795747789": false,
         "2108384719675277547": false,
         "2108385054166843479": true,
-        "2108405452770066463": true
+        "2108405452770066463": true,
+        "2108420292506697935": true,
+        "2108420340925751675": false
       },
       "user_id": "973261472"
     },
@@ -1052,7 +1052,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108419458947817696",
+      "last_id": "2108420514003980679",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1207,11 +1207,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-08T08:21:56.000Z",
-          "id": "2108110635200631122",
-          "text": "@0xdoug beautiful algo but not factorization"
-        },
-        {
           "created_at": "2026-10-08T12:57:15.000Z",
           "id": "2108179921147236446",
           "text": "@botblastcap imo i think no, our sector is very far into the risk curve &amp; many other projects in the top 40 have less revenue than that\n\nactually based on the ss u sent it looks like daily revenue is curling up"
@@ -1285,6 +1280,12 @@
           "id": "2108418862547161537",
           "reply_to_id": "2108418503426646372",
           "text": "@kidponga you can easily say the same thing about cardano, qnt, near, hbar\n\nand all of those are 5bil-10bil+ \n\nwe're a tail risk sector"
+        },
+        {
+          "created_at": "2026-10-09T04:53:17.000Z",
+          "id": "2108420514003980679",
+          "reply_to_id": "2108419281390325763",
+          "text": "@kidponga nobody knows what will happen in 10-15 days other than the team themselves.. its an alt not btc. i purchased my position in the open market and will be trading it ad-hoc reacting to the mkts\n\ninterested to see u risk a view rather than straight up attacking ppl\n\nspot is up +40%"
         }
       ],
       "threads": {
@@ -1363,7 +1364,6 @@
         }
       },
       "trading": {
-        "2108110635200631122": false,
         "2108113133994942588": true,
         "2108120012640907580": true,
         "2108122637561954352": true,
@@ -1389,7 +1389,8 @@
         "2108409662966280327": true,
         "2108411600848015747": true,
         "2108418862547161537": true,
-        "2108419458947817696": true
+        "2108419458947817696": true,
+        "2108420514003980679": true
       },
       "user_id": "1653080265294757890"
     },
@@ -2403,5 +2404,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T04:50:25+00:00"
+  "updated_at": "2026-10-09T04:54:25+00:00"
 }
