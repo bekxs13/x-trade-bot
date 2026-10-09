@@ -649,7 +649,7 @@
       "biases": {},
       "closed": [],
       "handle": "cl207",
-      "last_id": "2108332270205698100",
+      "last_id": "2108472255152099705",
       "positions": {},
       "posts": [
         {
@@ -676,13 +676,19 @@
           "created_at": "2026-10-08T08:38:44.000Z",
           "id": "2108114860626059731",
           "text": "the singapore fire smoke with insane architecture covered by plants is such a unqiue aesthetic\n\nabsolute cinema"
+        },
+        {
+          "created_at": "2026-10-09T08:18:53.000Z",
+          "id": "2108472255152099705",
+          "text": "chemistry is just physics on a cuter scale"
         }
       ],
       "reads": {
         "2106096996574765205": "No call",
         "2106598378595631130": "No call",
         "2107823975724192158": "No call",
-        "2108114860626059731": "No call"
+        "2108114860626059731": "No call",
+        "2108472255152099705": "No call"
       },
       "replies": [
         {
@@ -801,6 +807,10 @@
         "2108114860626059731": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108472255152099705": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -823,7 +833,8 @@
         "2107830920275210551": false,
         "2108114860626059731": false,
         "2108138915563794488": false,
-        "2108332270205698100": false
+        "2108332270205698100": false,
+        "2108472255152099705": false
       },
       "user_id": "1073132650309726208"
     },
@@ -1080,7 +1091,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108470411361178094",
+      "last_id": "2108472561889943559",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1130,18 +1141,18 @@
         "STRK": {
           "asset": "STRK",
           "chain": "",
-          "confidence": 0.8,
+          "confidence": 0.85,
           "contract_address": "",
           "direction": "long",
           "entry": "",
-          "horizon": "",
+          "horizon": "cycle",
           "market": "crypto",
           "open_price": null,
-          "post_id": "2108419458947817696",
-          "reason": "\"Moneyprinter Mode\" flexing a STRK chart pumping to 0.069, quoting their own \"kingmaker bet is $STRK\" post; this restates the existing STRK long perp.",
+          "post_id": "2108472561889943559",
+          "reason": "Quotes their own 'my kingmaker bet is $STRK' post and restates 'kingmaker. $strk'; already on record long STRK perp, so this reaffirms the existing long.",
           "since": "2026-10-08T11:25:45.000Z",
           "structure": "perp",
-          "url": "https://x.com/MoneyPrinter0x/status/2108419458947817696"
+          "url": "https://x.com/MoneyPrinter0x/status/2108472561889943559"
         }
       },
       "posts": [
@@ -1234,6 +1245,12 @@
           "created_at": "2026-10-09T08:11:34.000Z",
           "id": "2108470411361178094",
           "text": "kingmaker."
+        },
+        {
+          "created_at": "2026-10-09T08:20:06.000Z",
+          "id": "2108472561889943559",
+          "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
+          "text": "kingmaker.\n\n$strk https://t.co/birrKDo6ue"
         }
       ],
       "reads": {
@@ -1251,7 +1268,8 @@
         "2108419458947817696": "TRADE LONG STRK",
         "2108466723259392012": "No call",
         "2108467127783154171": "VIEW bullish on btc",
-        "2108470411361178094": "No call"
+        "2108470411361178094": "No call",
+        "2108472561889943559": "TRADE LONG STRK"
       },
       "replies": [
         {
@@ -1432,6 +1450,12 @@
         "2108470411361178094": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108472561889943559": {
+          "alerted": [
+            "trade:STRK:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1464,7 +1488,8 @@
         "2108466723259392012": true,
         "2108467127783154171": true,
         "2108468831375220749": true,
-        "2108470411361178094": false
+        "2108470411361178094": false,
+        "2108472561889943559": true
       },
       "user_id": "1653080265294757890"
     },
@@ -2037,7 +2062,7 @@
       "biases": {},
       "closed": [],
       "handle": "thecryptonexus",
-      "last_id": "2108463994940035561",
+      "last_id": "2108472086935052501",
       "positions": {
         "FREN PET (FP)": {
           "asset": "Fren Pet (FP)",
@@ -2105,11 +2130,6 @@
         "2107896878436077724": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-06T01:02:00.000Z",
-          "id": "2107275146612424770",
-          "text": "@pumpdotit https://t.co/Gg2kpkZgUR https://t.co/7c2tPv4t8d"
-        },
         {
           "created_at": "2026-10-06T03:19:30.000Z",
           "id": "2107309749721350248",
@@ -2180,6 +2200,15 @@
           "id": "2108463994940035561",
           "reply_to_id": "2108257848572665942",
           "text": "@KumaCapxbt What an absurd take"
+        },
+        {
+          "created_at": "2026-10-09T08:18:13.000Z",
+          "id": "2108472086935052501",
+          "images": [
+            "https://pbs.twimg.com/media/HULML_TWAAAPZDO.jpg"
+          ],
+          "reply_to_id": "2108258153959919811",
+          "text": "@KumaCapxbt So true king https://t.co/sHIdACg4k4"
         }
       ],
       "threads": {
@@ -2229,7 +2258,6 @@
         }
       },
       "trading": {
-        "2107275146612424770": false,
         "2107275881777639547": false,
         "2107277220171669870": false,
         "2107288860699099415": false,
@@ -2248,7 +2276,8 @@
         "2107660132419280926": false,
         "2107896878436077724": true,
         "2107897550825037907": false,
-        "2108463994940035561": false
+        "2108463994940035561": false,
+        "2108472086935052501": false
       },
       "user_id": "1392152416854765571"
     },
@@ -2479,5 +2508,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T08:12:29+00:00"
+  "updated_at": "2026-10-09T08:20:35+00:00"
 }
