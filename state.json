@@ -242,7 +242,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2108502379289088395",
+      "last_id": "2108543735932031467",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -262,11 +262,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-08T07:21:06.000Z",
-          "id": "2108095324535521745",
-          "text": "\ud83e\udee1 https://t.co/iaHujSVtwN"
-        },
         {
           "created_at": "2026-10-08T08:24:53.000Z",
           "id": "2108111376409636884",
@@ -388,6 +383,14 @@
           "id": "2108502379289088395",
           "quoted_text": "\u725b\u521d\u8981\u72e0\u72e0\u76f8\u4fe1\u9ed1\u9b3c\u7684\u5224\u65ad\uff0c\u8fd9\u5c4c\u6bdb\u76ee\u524d\u662fmeme\u6700\u5927\u7684\u8f66\u5934\u3002\u5bf9\u8d44\u91d1\u9884\u5224\u6bd4\u4e00\u822c\u4eba\u51c6 https://t.co/FskVGvxAFw",
           "text": "\ud83d\ude02 https://t.co/IKZYkwLSIN"
+        },
+        {
+          "created_at": "2026-10-09T13:02:56.000Z",
+          "id": "2108543735932031467",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2108543597998202880/img/pDDPs1u9uetaRCqE.jpg"
+          ],
+          "text": "The energy at TOKEN2049 Singapore has been incredible, with strong institutional interest and some of the smartest builders in crypto coming together\n\nFeeling increasingly bullish on where this industry is headed, especially with the progress we've made in tokenization, stablecoins, and perpetual futures"
         }
       ],
       "reads": {
@@ -405,7 +408,8 @@
         "2108405452770066463": "No call: bullish on ZEC (55%, too unsure)",
         "2108424862570361285": "No call",
         "2108443167758364916": "No call",
-        "2108502379289088395": "No call"
+        "2108502379289088395": "No call",
+        "2108543735932031467": "No call: bullish on crypto market (60%, too unsure)"
       },
       "replies": [
         {
@@ -609,10 +613,13 @@
         "2108502379289088395": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108543735932031467": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108095324535521745": false,
         "2108111376409636884": false,
         "2108111428037284203": false,
         "2108111542239772705": false,
@@ -646,7 +653,8 @@
         "2108444123527344415": true,
         "2108445176431776151": false,
         "2108454230248042798": false,
-        "2108502379289088395": false
+        "2108502379289088395": false,
+        "2108543735932031467": true
       },
       "user_id": "973261472"
     },
@@ -2691,5 +2699,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T12:42:22+00:00"
+  "updated_at": "2026-10-09T13:04:24+00:00"
 }
