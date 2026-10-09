@@ -828,7 +828,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2108416588299022424",
+      "last_id": "2108419165325533342",
       "positions": {},
       "posts": [
         {
@@ -891,11 +891,6 @@
         "2108408467048599633": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-07T22:54:34.000Z",
-          "id": "2107967853093929154",
-          "text": "@OrderflowBrizzy Wat the FUCK"
-        },
         {
           "created_at": "2026-10-07T23:03:22.000Z",
           "id": "2107970067246072267",
@@ -970,6 +965,12 @@
           "id": "2108416588299022424",
           "reply_to_id": "2108414440450253191",
           "text": "@cornd0gman This is #investing"
+        },
+        {
+          "created_at": "2026-10-09T04:47:56.000Z",
+          "id": "2108419165325533342",
+          "reply_to_id": "2108380388750229871",
+          "text": "@_hizzim Incredible"
         }
       ],
       "threads": {
@@ -1011,7 +1012,6 @@
       "trading": {
         "2107944740977287271": true,
         "2107964940585967656": false,
-        "2107967853093929154": false,
         "2107970067246072267": false,
         "2107970499448037788": false,
         "2107994669020025063": false,
@@ -1032,7 +1032,8 @@
         "2108381256560054540": false,
         "2108408467048599633": true,
         "2108408690793763014": false,
-        "2108416588299022424": true
+        "2108416588299022424": true,
+        "2108419165325533342": false
       },
       "user_id": "953032269433745408"
     },
@@ -1051,7 +1052,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108411600848015747",
+      "last_id": "2108418862547161537",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1196,11 +1197,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-08T08:18:10.000Z",
-          "id": "2108109686193238292",
-          "text": "@VitalikButerin temporal ephemereal key generation to be used for one-off disposable txs -&gt; keeps pubkey hidden"
-        },
-        {
           "created_at": "2026-10-08T08:21:56.000Z",
           "id": "2108110635200631122",
           "text": "@0xdoug beautiful algo but not factorization"
@@ -1273,6 +1269,12 @@
           "id": "2108411600848015747",
           "reply_to_id": "2108410966098788857",
           "text": "@DreiGlas3r mostly waiting on whats next on what they ship on product side - their roadmap is good just waiting &amp; seeing on execution"
+        },
+        {
+          "created_at": "2026-10-09T04:46:44.000Z",
+          "id": "2108418862547161537",
+          "reply_to_id": "2108418503426646372",
+          "text": "@kidponga you can easily say the same thing about cardano, qnt, near, hbar\n\nand all of those are 5bil-10bil+ \n\nwe're a tail risk sector"
         }
       ],
       "threads": {
@@ -1345,7 +1347,6 @@
         }
       },
       "trading": {
-        "2108109686193238292": false,
         "2108110635200631122": false,
         "2108113133994942588": true,
         "2108120012640907580": true,
@@ -1370,7 +1371,8 @@
         "2108397149964898395": true,
         "2108402676111384662": false,
         "2108409662966280327": true,
-        "2108411600848015747": true
+        "2108411600848015747": true,
+        "2108418862547161537": true
       },
       "user_id": "1653080265294757890"
     },
@@ -2384,5 +2386,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T04:38:18+00:00"
+  "updated_at": "2026-10-09T04:48:16+00:00"
 }
