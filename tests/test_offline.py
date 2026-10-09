@@ -531,7 +531,8 @@ class PollTest(Base):
 
     def test_other_notifiers_and_failures(self):
         self.set_state()
-        env = {"NTFY_TOPIC": "my-secret-topic", "TELEGRAM_BOT_TOKEN": "tok", "TELEGRAM_CHAT_ID": "42"}
+        env = {"NTFY_TOPIC": "my-secret-topic", "TELEGRAM_BOT_TOKEN": "tok", "TELEGRAM_CHAT_ID": "42",
+               "GITHUB_REPOSITORY": "Someone/x-trade-bot"}
 
         def post(url, json, timeout, headers=None):
             self.sent.append((url, json))
@@ -546,7 +547,9 @@ class PollTest(Base):
         self.assertEqual(urls, ["https://ntfy.sh", "https://discord.test/trades", "https://api.telegram.org/bottok/sendMessage"])
         ntfy = self.sent[0][1]
         self.assertEqual(ntfy["topic"], "my-secret-topic")
-        self.assertEqual(ntfy["click"], "https://x.com/based16z/status/2")
+        # Tapping the ping opens the dashboard on their profile; the post is a button.
+        self.assertEqual(ntfy["click"], "https://someone.github.io/x-trade-bot/?post=2#@based16z")
+        self.assertEqual(ntfy["actions"][0]["url"], "https://x.com/based16z/status/2")
         self.assertEqual(self.state()["last_id"], "2", "a failed Discord send must not block the run")
 
 

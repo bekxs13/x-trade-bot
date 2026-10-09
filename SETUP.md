@@ -52,7 +52,7 @@ Each topic shows up as its own feed in the app, so trades and views stay separat
 What a ping looks like:
 - **Title:** `TRADE · @based16z: SHORT BTC (long puts)` or `VIEW · @lbattlerhino: BEARISH on alts`
 - **Body:** Claude's one-line reason, then confidence, entry, horizon and contract address if there is one (or what their view was before, for views), then the post itself.
-- **Buttons:** tap the ping or **Open post** to open it on X. Trade pings with a contract address also get a **Chart** button that opens DexScreener.
+- **Buttons:** tapping the ping opens the dashboard on that account's profile (once the dashboard is set up; before that it opens the post). **Open post** opens it on X. Trade pings with a contract address also get a **Chart** button that opens DexScreener.
 - Chart images in the post are attached, so you can see them in the notification.
 
 **Other options (optional, can run alongside ntfy):**

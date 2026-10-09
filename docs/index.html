@@ -513,11 +513,24 @@ async function load() {
     const texts = await Promise.all(files.map(f => getFile(`lessons/${f}.md`).catch(() => null)));
     files.forEach((f, i) => { lessons[f] = texts[i] || ""; });
     render();
+    waitForPinged();
   } catch (e) {
     $("status").textContent = `Couldn't load data (${e.message}). Retrying…`;
     $("dot").className = "dot stale";
   }
   $("refresh").classList.remove("spin");
+}
+
+// Opened from a ping (?post=id): the bot saves the call a few seconds after the ping goes out, so check again until it's here.
+let pingWaits = 0;
+function waitForPinged() {
+  const id = new URLSearchParams(location.search).get("post");
+  if (!id) return;
+  if (alerts.some(a => (a.url || "").endsWith(`/status/${id}`)) || ++pingWaits > 15) {
+    history.replaceState(null, "", location.pathname + location.hash);
+    return;
+  }
+  setTimeout(load, 6000);
 }
 
 // ---- markets: crypto, stocks, macro ----

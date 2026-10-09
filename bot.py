@@ -811,7 +811,8 @@ def alert_body(kind, part, prev, unit):
     return f"{part['reason']}\n{' · '.join(facts)}\n\n{unit_post_text(unit)}"
 
 
-def send_ntfy(kind, part, title, body, url, images):
+def send_ntfy(kind, part, title, body, url, images, app=""):
+    """Tapping the ping opens the dashboard on that account (app), with the post a button away."""
     env = os.environ
     topic = (env.get("NTFY_VIEWS_TOPIC") if kind == "bias" else None) or env["NTFY_TOPIC"]
     up = (part.get("direction") or part.get("stance")) in ("long", "bullish")
@@ -824,7 +825,7 @@ def send_ntfy(kind, part, title, body, url, images):
         "topic": topic,
         "title": title,
         "message": body.encode()[:3500].decode(errors="ignore"),  # ntfy caps messages at 4,096 bytes
-        "click": url,
+        "click": app or url,
         "priority": 4 if kind == "trade" else 3,
         "tags": [{"exit": "checkered_flag", "trim": "scissors"}.get(part.get("direction"))
                  or ("chart_with_upwards_trend" if up else "chart_with_downwards_trend")],
@@ -847,6 +848,7 @@ def notify(kind, handle, unit, part, prev, prices, dry_run=False, log=True):
     """Send one alert to every notifier that's configured. A failed send is logged, not fatal."""
     target = unit["reply"] if unit.get("late") else unit["main"]
     url = f"https://x.com/{handle}/status/{target['id']}"
+    app = app_link(handle, target["id"])
     title = alert_title(kind, handle, part, prev)
     body = alert_body(kind, part, prev, unit)
     payload = discord_payload(kind, handle, unit, part, prev, prices, url)
@@ -857,7 +859,7 @@ def notify(kind, handle, unit, part, prev, prices, dry_run=False, log=True):
     hook = (env.get("DISCORD_BIAS_WEBHOOK_URL") if kind == "bias" else None) or env.get("DISCORD_WEBHOOK_URL")
     senders = []
     if env.get("NTFY_TOPIC"):
-        senders.append(("ntfy", lambda: send_ntfy(kind, part, title, body, url, unit_images(unit))))
+        senders.append(("ntfy", lambda: send_ntfy(kind, part, title, body, url, unit_images(unit), app)))
     if hook:
         senders.append(("discord", lambda: send_discord(hook, payload)))
     if env.get("TELEGRAM_BOT_TOKEN") and env.get("TELEGRAM_CHAT_ID"):
@@ -1226,6 +1228,13 @@ def dashboard_url():
     repo = os.environ.get("GITHUB_REPOSITORY", "")
     owner, _, name = repo.partition("/")
     return f"https://{owner.lower()}.github.io/{name}/" if owner and name else ""
+
+
+def app_link(handle, post_id=""):
+    """The dashboard opened on an account's profile. post= has the page wait for that call, which is
+    saved a few seconds after the ping goes out."""
+    base = dashboard_url()
+    return f"{base}{f'?post={post_id}' if post_id else ''}#@{handle}" if base else ""
 
 
 def summary_line(a):
