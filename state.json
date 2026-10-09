@@ -1192,7 +1192,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108548969962115421",
+      "last_id": "2108569245093417100",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1242,26 +1242,21 @@
         "STRK": {
           "asset": "STRK",
           "chain": "",
-          "confidence": 0.8,
+          "confidence": 0.9,
           "contract_address": "",
           "direction": "long",
           "entry": "",
-          "horizon": "cycle",
+          "horizon": "",
           "market": "crypto",
           "open_price": null,
-          "post_id": "2108482904116560301",
-          "reason": "Restates a bullish STRK thesis calling it the 'kingmaker play', which matches the open STRK long on record. No new entry is given.",
+          "post_id": "2108569245093417100",
+          "reason": "\"been averaging on the way up $STRK\" says they are adding to their existing STRK long; the chart is STRKUSDT on Binance, near 0.069-0.073.",
           "since": "2026-10-08T11:25:45.000Z",
-          "structure": "perp",
-          "url": "https://x.com/MoneyPrinter0x/status/2108482904116560301"
+          "structure": "unknown",
+          "url": "https://x.com/MoneyPrinter0x/status/2108569245093417100"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-08T16:53:40.000Z",
-          "id": "2108239413411242002",
-          "text": "yeah this is going to destroy forward looking sentiment across the markets\n\neverything else was just a scapegoat to wash the narrative https://t.co/gE9Rb2vozO"
-        },
         {
           "created_at": "2026-10-08T17:28:26.000Z",
           "id": "2108248166764314906",
@@ -1377,10 +1372,18 @@
           "created_at": "2026-10-09T10:56:55.000Z",
           "id": "2108512022623383969",
           "text": "1. no the industry is not going down because of some invisible encryption breakthrough that doesnt even exist yet (this take is absolutely ridiculous)\n\n2. yes it looks like media will keep on parroting this narrative for the near future\n\n3. yes ai labs will keep on flaunting math breakthroughs since its directly proportional to performance kpis into ipo schedule"
+        },
+        {
+          "created_at": "2026-10-09T14:44:18.000Z",
+          "id": "2108569245093417100",
+          "images": [
+            "https://pbs.twimg.com/media/HUMkjPZbsAALbIX.jpg"
+          ],
+          "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
+          "text": "ngl looks incredible $STRK\n\nbeen averaging on the way up https://t.co/GOQTxqahKY https://t.co/birrKDo6ue"
         }
       ],
       "reads": {
-        "2108239413411242002": "No call",
         "2108248166764314906": "TRADE SHORT NVDA, SOXL, MU",
         "2108360350404112612": "TRADE LONG STRK",
         "2108396870783631448": "TRADE LONG STRK",
@@ -1399,7 +1402,8 @@
         "2108510056358744202": "No call",
         "2108510657201279308": "No call",
         "2108511782201708573": "No call",
-        "2108512022623383969": "No call"
+        "2108512022623383969": "No call",
+        "2108569245093417100": "TRADE LONG STRK"
       },
       "replies": [
         {
@@ -1631,10 +1635,15 @@
         "2108512022623383969": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108569245093417100": {
+          "alerted": [
+            "trade:STRK:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108239413411242002": true,
         "2108248166764314906": false,
         "2108360350404112612": true,
         "2108396870783631448": true,
@@ -1668,7 +1677,8 @@
         "2108523635585532051": true,
         "2108545335178186988": true,
         "2108546087221125578": true,
-        "2108548969962115421": true
+        "2108548969962115421": true,
+        "2108569245093417100": true
       },
       "user_id": "1653080265294757890"
     },
@@ -2763,5 +2773,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T14:42:24+00:00"
+  "updated_at": "2026-10-09T14:46:33+00:00"
 }
