@@ -1616,7 +1616,7 @@
       "biases": {},
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2108516125621227600",
+      "last_id": "2108516937643049365",
       "positions": {},
       "posts": [
         {
@@ -1692,6 +1692,11 @@
           "id": "2108363050353148354",
           "reply_to_id": "2108363007856128483",
           "text": "@GRITCULT stolen ty"
+        },
+        {
+          "created_at": "2026-10-09T11:16:26.000Z",
+          "id": "2108516937643049365",
+          "text": "panic selling the pico bottom just so my brain knows it's possible to lose money"
         }
       ],
       "reads": {
@@ -1706,7 +1711,8 @@
         "2108244221136138304": "No call",
         "2108274102997786818": "No call",
         "2108363007856128483": "No call",
-        "2108363050353148354": "Read together with the post it replies to"
+        "2108363050353148354": "Read together with the post it replies to",
+        "2108516937643049365": "No call"
       },
       "replies": [
         {
@@ -1840,6 +1846,10 @@
         "2108363007856128483": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2108516937643049365": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1870,7 +1880,8 @@
         "2108366222924329024": false,
         "2108376536881762475": false,
         "2108515928489005230": false,
-        "2108516125621227600": false
+        "2108516125621227600": false,
+        "2108516937643049365": true
       },
       "user_id": "1426732252768182281"
     },
@@ -2627,5 +2638,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T11:14:17+00:00"
+  "updated_at": "2026-10-09T11:18:24+00:00"
 }
