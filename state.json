@@ -1080,7 +1080,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108468831375220749",
+      "last_id": "2108470411361178094",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1229,6 +1229,11 @@
           "id": "2108467127783154171",
           "quoted_text": "> called the biggest stock pump in all 100 years of hk market history with thesis\n\n> called the largest qqq crash of the quarter two days it happened with thesis\n\n> called the largest memory -> robotics rotation the day before it happened with thesis\n\n> called the biggest qnx rotation two days before it happened with thesis\n\n> called the financially engineered btc bond wrapper bottom with thesis\n\n> called the exact largest macro oil crash week the day before it happened with thesis\n\nno fundament",
           "text": "&gt; called pico cycle bottom of $btc\n\n&gt; called pico start of $strk bullrun\n\nno fundamental can replace being at the right place, at the right time. https://t.co/GIQ4cZkHAK"
+        },
+        {
+          "created_at": "2026-10-09T08:11:34.000Z",
+          "id": "2108470411361178094",
+          "text": "kingmaker."
         }
       ],
       "reads": {
@@ -1245,7 +1250,8 @@
         "2108397149964898395": "TRADE LONG STRK",
         "2108419458947817696": "TRADE LONG STRK",
         "2108466723259392012": "No call",
-        "2108467127783154171": "VIEW bullish on btc"
+        "2108467127783154171": "VIEW bullish on btc",
+        "2108470411361178094": "No call"
       },
       "replies": [
         {
@@ -1422,6 +1428,10 @@
             "bias:btc:bullish"
           ],
           "self_replies": 0
+        },
+        "2108470411361178094": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1453,7 +1463,8 @@
         "2108460800361070653": true,
         "2108466723259392012": true,
         "2108467127783154171": true,
-        "2108468831375220749": true
+        "2108468831375220749": true,
+        "2108470411361178094": false
       },
       "user_id": "1653080265294757890"
     },
@@ -2468,5 +2479,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T08:06:18+00:00"
+  "updated_at": "2026-10-09T08:12:29+00:00"
 }
