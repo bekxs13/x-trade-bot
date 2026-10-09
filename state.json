@@ -1192,7 +1192,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108577788781531289",
+      "last_id": "2108578519232180533",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1257,11 +1257,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-08T17:28:26.000Z",
-          "id": "2108248166764314906",
-          "text": "Moneyprinter Mode. https://t.co/zlu84wP2aY https://t.co/vZBoCvWC9u"
-        },
         {
           "created_at": "2026-10-09T00:54:13.000Z",
           "id": "2108360350404112612",
@@ -1381,10 +1376,15 @@
           ],
           "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
           "text": "ngl looks incredible $STRK\n\nbeen averaging on the way up https://t.co/GOQTxqahKY https://t.co/birrKDo6ue"
+        },
+        {
+          "created_at": "2026-10-09T15:20:23.000Z",
+          "id": "2108578329574133898",
+          "quoted_text": "Ledger is investigating reports of loss of funds from users in South East Asia who purchased products from a reseller named CryptoBillis. As a precaution, and pending the results of our investigation, we have asked CryptoBilis to pause all sales and shipments of Ledger devices. We recommend Ledger users who purchased from this reseller in the last 90 days to not initiate set up if you have not done so yet. If you have set up your Ledger device, consider moving assets to a new Ledger signer (with",
+          "text": "stop using hardware wallets\n\nuse multisigs and spread your seed across the globe https://t.co/NxqNxCSJWj"
         }
       ],
       "reads": {
-        "2108248166764314906": "TRADE SHORT NVDA, SOXL, MU",
         "2108360350404112612": "TRADE LONG STRK",
         "2108396870783631448": "TRADE LONG STRK",
         "2108397149964898395": "TRADE LONG STRK",
@@ -1403,15 +1403,10 @@
         "2108510657201279308": "No call",
         "2108511782201708573": "No call",
         "2108512022623383969": "No call",
-        "2108569245093417100": "TRADE LONG STRK"
+        "2108569245093417100": "TRADE LONG STRK",
+        "2108578329574133898": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-09T09:01:45.000Z",
-          "id": "2108483042214019327",
-          "reply_to_id": "2108482213784514875",
-          "text": "@wulftrades \ud83d\ude4f\ud83d\ude4f still learning a lot from my personal goats @GiganticRebirth @HsakaTrades @blknoiz06"
-        },
         {
           "created_at": "2026-10-09T09:18:06.000Z",
           "id": "2108487155571970110",
@@ -1498,6 +1493,12 @@
           "id": "2108577788781531289",
           "reply_to_id": "2108577288472465770",
           "text": "@SkiTheWeast low lev / spot, imo lev is rarely good"
+        },
+        {
+          "created_at": "2026-10-09T15:21:09.000Z",
+          "id": "2108578519232180533",
+          "reply_to_id": "2108578070580051993",
+          "text": "@Oriel90 @SkiTheWeast sensei \ud83d\ude4f @sershokunin"
         }
       ],
       "threads": {
@@ -1641,10 +1642,13 @@
             "trade:STRK:long"
           ],
           "self_replies": 0
+        },
+        "2108578329574133898": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108248166764314906": false,
         "2108360350404112612": true,
         "2108396870783631448": true,
         "2108397149964898395": true,
@@ -1655,7 +1659,6 @@
         "2108472561889943559": true,
         "2108481061042929887": true,
         "2108482904116560301": true,
-        "2108483042214019327": false,
         "2108485584792563931": true,
         "2108485846647333345": true,
         "2108487155571970110": false,
@@ -1678,7 +1681,9 @@
         "2108548969962115421": true,
         "2108569245093417100": true,
         "2108572562448154759": false,
-        "2108577788781531289": true
+        "2108577788781531289": true,
+        "2108578329574133898": false,
+        "2108578519232180533": false
       },
       "user_id": "1653080265294757890"
     },
@@ -2796,5 +2801,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T15:20:21+00:00"
+  "updated_at": "2026-10-09T15:22:23+00:00"
 }
