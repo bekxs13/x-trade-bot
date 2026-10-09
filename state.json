@@ -1026,7 +1026,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2108658816946692600",
+      "last_id": "2108672138546987087",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1132,12 +1132,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-09T01:54:35.000Z",
-          "id": "2108375543624474780",
-          "reply_to_id": "2108374702934626679",
-          "text": "@firebombpk Ngl it wasn\u2019t very well thought through"
-        },
-        {
           "created_at": "2026-10-09T02:17:18.000Z",
           "id": "2108381256560054540",
           "reply_to_id": "2108149099350405616",
@@ -1223,6 +1217,12 @@
           "id": "2108658816946692600",
           "reply_to_id": "2108648353357873169",
           "text": "@ol_chunka_coal Hahahaha"
+        },
+        {
+          "created_at": "2026-10-09T21:33:09.000Z",
+          "id": "2108672138546987087",
+          "reply_to_id": "2108668756348018827",
+          "text": "@btcbongo At the time the coins that were leading were coins such as hype lit zec ena vvv etc etc which are considerably lower now"
         }
       ],
       "threads": {
@@ -1280,7 +1280,6 @@
         "2108306849481281915": true,
         "2108364075583635727": true,
         "2108374505039307132": true,
-        "2108375543624474780": false,
         "2108378376771928218": true,
         "2108381256560054540": false,
         "2108408467048599633": true,
@@ -1300,7 +1299,8 @@
         "2108645201929757038": true,
         "2108645604368978262": true,
         "2108645995873796099": true,
-        "2108658816946692600": false
+        "2108658816946692600": false,
+        "2108672138546987087": true
       },
       "user_id": "953032269433745408"
     },
@@ -2951,5 +2951,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T21:20:22+00:00"
+  "updated_at": "2026-10-09T21:34:17+00:00"
 }
