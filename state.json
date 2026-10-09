@@ -1616,7 +1616,7 @@
       "biases": {},
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2108516937643049365",
+      "last_id": "2108528245364924482",
       "positions": {},
       "posts": [
         {
@@ -1697,6 +1697,18 @@
           "created_at": "2026-10-09T11:16:26.000Z",
           "id": "2108516937643049365",
           "text": "panic selling the pico bottom just so my brain knows it's possible to lose money"
+        },
+        {
+          "created_at": "2026-10-09T12:00:17.000Z",
+          "id": "2108527971648602479",
+          "quoted_text": "so i\u2019m supposed to sell my bitcoin because of a math equation?",
+          "text": "honestly fuck you https://t.co/3yFqOO5m6w"
+        },
+        {
+          "created_at": "2026-10-09T12:01:22.000Z",
+          "id": "2108528245364924482",
+          "reply_to_id": "2108527971648602479",
+          "text": "every person that doom posted this deserves to be microwaved off the face of the earth"
         }
       ],
       "reads": {
@@ -1712,7 +1724,9 @@
         "2108274102997786818": "No call",
         "2108363007856128483": "No call",
         "2108363050353148354": "Read together with the post it replies to",
-        "2108516937643049365": "No call"
+        "2108516937643049365": "No call",
+        "2108527971648602479": "No call",
+        "2108528245364924482": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -1850,6 +1864,10 @@
         "2108516937643049365": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108527971648602479": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
@@ -1881,7 +1899,9 @@
         "2108376536881762475": false,
         "2108515928489005230": false,
         "2108516125621227600": false,
-        "2108516937643049365": true
+        "2108516937643049365": true,
+        "2108527971648602479": true,
+        "2108528245364924482": true
       },
       "user_id": "1426732252768182281"
     },
@@ -2638,5 +2658,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T12:00:25+00:00"
+  "updated_at": "2026-10-09T12:02:37+00:00"
 }
