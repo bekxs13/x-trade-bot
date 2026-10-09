@@ -3,6 +3,7 @@
     "based16z": {
       "backfilled": true,
       "biases": {},
+      "closed": [],
       "handle": "based16z",
       "last_id": "2108280900525891669",
       "positions": {
@@ -185,11 +186,34 @@
           "self_replies": 1
         }
       },
+      "trading": {
+        "2108079852439904621": false,
+        "2108080868602392998": false,
+        "2108084087499952409": false,
+        "2108085191000428591": false,
+        "2108086090565358039": false,
+        "2108091122069418392": false,
+        "2108103599700210127": true,
+        "2108224361476076011": true,
+        "2108224883108790436": true,
+        "2108227696991842636": false,
+        "2108256908301959203": true,
+        "2108267026493964492": false,
+        "2108267578745606649": true,
+        "2108274908275044490": false,
+        "2108275708770333103": true,
+        "2108276195674697735": true,
+        "2108277005666120065": true,
+        "2108277867687690430": false,
+        "2108278472581980385": false,
+        "2108280900525891669": false
+      },
       "user_id": "1446541960181858315"
     },
     "cl207": {
       "backfilled": true,
       "biases": {},
+      "closed": [],
       "handle": "cl207",
       "last_id": "2108332270205698100",
       "positions": {},
@@ -345,22 +369,45 @@
           "self_replies": 0
         }
       },
+      "trading": {
+        "2103285906186924227": false,
+        "2104195768316051965": false,
+        "2105596563724853572": false,
+        "2106096996574765205": false,
+        "2106097653667025375": false,
+        "2106106814404391337": false,
+        "2106395133516361837": false,
+        "2106598378595631130": true,
+        "2107139728223162468": false,
+        "2107141456267981183": true,
+        "2107158171379011956": false,
+        "2107713686102298822": false,
+        "2107751013574758631": false,
+        "2107751627117752661": false,
+        "2107758534545092677": false,
+        "2107823975724192158": false,
+        "2107830920275210551": false,
+        "2108114860626059731": false,
+        "2108138915563794488": false,
+        "2108332270205698100": false
+      },
       "user_id": "1073132650309726208"
     },
     "lbattlerhino": {
       "backfilled": true,
       "biases": {
         "alts": {
-          "post_id": "2107794528887615691",
-          "reason": "Says structures on previously strong coins 'remain very broken', 'alts looking worse now', and in the reply 'picture on alts continues to look worse'.",
+          "post_id": "2108364075583635727",
+          "reason": "Says market structure on strong coins is broken, things look much worse with ETH below 25s, and can't expect alts to trend strongly again.",
           "scope": "alts",
           "since": "2026-10-07",
           "stance": "bearish",
-          "updated_at": "2026-10-07T11:25:51.000Z"
+          "updated_at": "2026-10-09T01:09:01.000Z"
         }
       },
+      "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2108309796445409325",
+      "last_id": "2108364401392955456",
       "positions": {},
       "posts": [
         {
@@ -387,18 +434,20 @@
           "created_at": "2026-10-08T21:21:38.000Z",
           "id": "2108306849481281915",
           "text": "So OpenAI essentially went \u201chaha woopsie we are breaking all cryptography and mathematics\u201d only to then also say \u201cwe don\u2019t make any money tho\u201d just to max rape markets huh"
+        },
+        {
+          "created_at": "2026-10-09T01:09:01.000Z",
+          "id": "2108364075583635727",
+          "quoted_text": "Market structure on previously strong coins are very broken while majors are respecting ceilings at yearly opens. Best case would rangebound PA 81-89 ish, worst case we start to find acceptance below btc 81. \n\nLose as little as possible between your good ideas https://t.co/OER1gaxLjs",
+          "text": "Market structure on previously strong coins was indeed broken and yearly opens continued to get respected. Things look much worse with eth below 25s. Btc above 81 sure but can\u2019t really expect alts to go for strong trends again. \n\nLose as little as possible between your good ideas https://t.co/9VlJlOo6MN"
         }
       ],
       "reads": {
         "2107994669020025063": "No call",
-        "2108306849481281915": "No call"
+        "2108306849481281915": "No call",
+        "2108364075583635727": "No call: bearish on alts (same view as before)"
       },
       "replies": [
-        {
-          "created_at": "2026-10-07T20:36:36.000Z",
-          "id": "2107933129080230346",
-          "text": "@saysosaysosays @notthreadguy Le vampire been goin crazy"
-        },
         {
           "created_at": "2026-10-07T22:45:30.000Z",
           "id": "2107965567546302881",
@@ -468,6 +517,12 @@
           "created_at": "2026-10-08T21:33:20.000Z",
           "id": "2108309796445409325",
           "text": "@Brian_A_E Ain\u2019t even enough to retire"
+        },
+        {
+          "created_at": "2026-10-09T01:10:19.000Z",
+          "id": "2108364401392955456",
+          "reply_to_id": "2108364256986952040",
+          "text": "@nzz_07 Unfortunately yes"
         }
       ],
       "threads": {
@@ -492,7 +547,34 @@
         "2108306849481281915": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108364075583635727": {
+          "alerted": [],
+          "self_replies": 0
         }
+      },
+      "trading": {
+        "2107944740977287271": true,
+        "2107964940585967656": false,
+        "2107965567546302881": false,
+        "2107967694582804536": false,
+        "2107967727399002485": false,
+        "2107967769979609373": false,
+        "2107967853093929154": false,
+        "2107970067246072267": false,
+        "2107970499448037788": false,
+        "2107994669020025063": false,
+        "2108057787020579179": false,
+        "2108059678802657617": true,
+        "2108270109139808690": false,
+        "2108270995530490169": true,
+        "2108271202875969933": true,
+        "2108275367505256659": false,
+        "2108306849481281915": true,
+        "2108309703059243057": false,
+        "2108309796445409325": false,
+        "2108364075583635727": true,
+        "2108364401392955456": false
       },
       "user_id": "953032269433745408"
     },
@@ -508,8 +590,9 @@
           "updated_at": "2026-10-08T16:53:40.000Z"
         }
       },
+      "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108272735973679386",
+      "last_id": "2108360350404112612",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -555,17 +638,18 @@
         },
         "STRK": {
           "asset": "STRK",
-          "chain": "",
-          "confidence": 0.82,
-          "contract_address": "",
+          "chain": "bnb",
+          "confidence": 0.92,
+          "contract_address": "0xE9aBFCfEcedCd30079d4c30D17d4E2baC0d20a6D",
           "direction": "long",
-          "entry": "",
-          "horizon": "cycle",
-          "post_id": "2108156892279456072",
-          "reason": "\"my kingmaker bet is $STRK\" and calls 500m FDV undervalued as the play on quantum/encryption fears; strongly implies a long position though no explicit buy.",
+          "entry": "~0.057",
+          "horizon": "",
+          "open_price": null,
+          "post_id": "2108360350404112612",
+          "reason": "\"longed an extreme amount for now - thesis remains the same\" on $STRK, with the STRKUSDT chart at 0.05699. This adds to the STRK long already on record.",
           "since": "2026-10-08T11:25:45.000Z",
-          "structure": "spot",
-          "url": "https://x.com/MoneyPrinter0x/status/2108156892279456072"
+          "structure": "perp",
+          "url": "https://x.com/MoneyPrinter0x/status/2108360350404112612"
         }
       },
       "posts": [
@@ -608,6 +692,15 @@
           "created_at": "2026-10-08T17:28:26.000Z",
           "id": "2108248166764314906",
           "text": "Moneyprinter Mode. https://t.co/zlu84wP2aY https://t.co/vZBoCvWC9u"
+        },
+        {
+          "created_at": "2026-10-09T00:54:13.000Z",
+          "id": "2108360350404112612",
+          "images": [
+            "https://pbs.twimg.com/media/HUJmkDUa4AAdyAf.jpg"
+          ],
+          "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
+          "text": "looks incredible\n\n$STRK\n\nlonged an extreme amount for now - thesis remains the same.\n\nNFA DYOR https://t.co/PBi0hZp8J6 https://t.co/birrKDo6ue"
         }
       ],
       "reads": {
@@ -618,7 +711,8 @@
         "2108238771796001138": "TRADE SHORT NVDA",
         "2108238926725190008": "TRADE SHORT NVDA, SOXL, MU \u00b7 VIEW bearish on stocks/macro",
         "2108239413411242002": "No call",
-        "2108248166764314906": "TRADE SHORT NVDA, SOXL, MU"
+        "2108248166764314906": "TRADE SHORT NVDA, SOXL, MU",
+        "2108360350404112612": "TRADE LONG STRK"
       },
       "replies": [
         {
@@ -726,13 +820,305 @@
             "trade:NVDA, SOXL, MU:short"
           ],
           "self_replies": 0
+        },
+        "2108360350404112612": {
+          "alerted": [
+            "trade:STRK:long"
+          ],
+          "self_replies": 0
         }
       },
+      "trading": {
+        "2108109686193238292": false,
+        "2108110635200631122": false,
+        "2108113133994942588": true,
+        "2108120012640907580": true,
+        "2108122637561954352": true,
+        "2108156892279456072": true,
+        "2108179921147236446": true,
+        "2108183593512276208": true,
+        "2108194824755224948": false,
+        "2108203748317393048": false,
+        "2108216644116038078": true,
+        "2108217469798437097": false,
+        "2108238771796001138": true,
+        "2108238926725190008": true,
+        "2108239413411242002": true,
+        "2108248166764314906": false,
+        "2108250187772973474": false,
+        "2108254850085777619": false,
+        "2108272735973679386": true,
+        "2108360350404112612": true
+      },
       "user_id": "1653080265294757890"
+    },
+    "notthreadguy": {
+      "backfilled": true,
+      "biases": {},
+      "closed": [],
+      "handle": "notthreadguy",
+      "last_id": "2108363050353148354",
+      "positions": {},
+      "posts": [
+        {
+          "created_at": "2026-10-08T11:10:49.000Z",
+          "id": "2108153135499751747",
+          "text": "i am down a lot of money today but the chart looked good yesterday how could this happen"
+        },
+        {
+          "created_at": "2026-10-08T12:44:13.000Z",
+          "id": "2108176640652226900",
+          "text": "MARKET OPEN: Crypto is in TROUBLE, AI is BREAKING EVERYTHING, HAPPY 10/10 https://t.co/GvNQejRwmm"
+        },
+        {
+          "created_at": "2026-10-08T13:37:07.000Z",
+          "id": "2108189953905635365",
+          "text": "i feel like if they're going to really kill bitcoin today is the day"
+        },
+        {
+          "created_at": "2026-10-08T14:10:19.000Z",
+          "id": "2108198308762325357",
+          "text": "i am genuinely insulted at how horrific this trailer is https://t.co/8nWtI9d95W"
+        },
+        {
+          "created_at": "2026-10-08T14:12:39.000Z",
+          "id": "2108198895843266844",
+          "images": [
+            "https://pbs.twimg.com/media/HUHTqd5XQAAsYlu.png"
+          ],
+          "text": "and in the darkest moment, a final bull rose from the ashes https://t.co/pBAexcTd1e https://t.co/b86sp25BZ3"
+        },
+        {
+          "created_at": "2026-10-08T14:17:50.000Z",
+          "id": "2108200197465448491",
+          "text": "going live with Doug right now. pull up https://t.co/83B8l25WoD"
+        },
+        {
+          "created_at": "2026-10-08T15:26:22.000Z",
+          "id": "2108217447010509101",
+          "reply_to_id": "2108189953905635365",
+          "text": "well"
+        },
+        {
+          "created_at": "2026-10-08T16:49:37.000Z",
+          "id": "2108238398289031272",
+          "text": "what else do you want for me https://t.co/uYqR78tZcc"
+        },
+        {
+          "created_at": "2026-10-08T17:12:46.000Z",
+          "id": "2108244221136138304",
+          "text": "ed zitron would be way cooler if he was verifiably short everything"
+        },
+        {
+          "created_at": "2026-10-08T17:50:57.000Z",
+          "id": "2108253833310744642",
+          "reply_to_id": "2108245458812592530",
+          "text": "@SoskaKyle yo @HansonBirringer why didn\u2019t you tell me to sell everything last night"
+        },
+        {
+          "created_at": "2026-10-08T19:11:30.000Z",
+          "id": "2108274102997786818",
+          "text": "I wake up every day and it's like, hey Threadguy, you are going to have to cover one of a couple topics. It could be anything in a long list of meme coins, how to trade perps, how to trade memes, how to trade big alts, understanding quantum, understanding cryptography, understanding AI, cracking math. We can move over to the stock market, talk about bonds, yields, treasury, the Fed, rates, FOMC, Kevin Warsh, photonics, talk about neoclouds, talk about compute, inference, GPUs, CPUs. We can maybe talk about AI bottlenecks. We can talk about the SaaSpocalypse. We can talk about the Citrini article. We can talk about the SF housing market. We can talk about Iran, geopolitics, American politics, midterms, oil. Is it crude? Is it Brent? Is it front-dated? Is it backdated? What month is the contract roll over? What does the funding look like on Hyperliquid? How do we trade those perps versus how we trade them on Lighter, versus how do we trade them on Variational, versus how do we trade them on Avantis, how do we trade them on Aster, how do we trade them on Drift? We can talk about the fucking Nigerian stock market today. Oh, you heard about gaming? Oh, do you know about AI gaming? Oh, what about Unity? Oh, what about Roblox? Do you know about kimchi kimchi, cupsy cupsy, six seven six seven, woo? Okay, cool. We're going to have a guest on. You're going to interview Rhino. Then you're going to interview Hans Niemann and talk about grandmaster chess. Then we're going to talk to Arthur Hayes about the Fed, talk about liquidity, talk about M2, Raoul Pal, AI coins, cupsy cupsy six seven six seven, woo. Then I need you to film TikToks. I also need you to film YouTube videos. You also have to stream every day. Oh, and on your tweet today, you've got to figure out how to talk about Pokemon. Then we're going to do T-bills. Then we're going to do treasury auctions. Then we're going to bring it back, bring it back, bring it back. You have to understand how to cover Kevin Warsh and Jack Duvall at the same time. You need to deeply, intricately understand Jack Duvall while also being able to watch a Fed meeting and talk about why rate hikes matter on Polymarket. Because you bet on no hike, but a hike happened because PPI came in hot. The reason PPI came in hot is because CPI came in hot. And CPI came in hot because the jobs report was bad, which means inflation, which is led by the yen intervention in Japan by Scott Bessent, the treasury secretary. But does nobody want to buy bonds because they don't trust the U.S. and they're losing faith in the admin? Or does nobody want to buy bonds because we're in a supercycle, and the risk to holding 5.5% over 30 years is so high when the Nasdaq goes up 15% a year? And the Nasdaq goes up 15% a year because after the ZIRP era there's this money flood, which you can see in the M2 chart, which we cover. You can also see it in the price action of the launchpad trade on Solana. But when I say the launchpad trade, am I talking about Agency? Am I talking about Paid? Am I talking about Pump fun? Is it Stonk? Is it Pawns? Are we moving over to a different chain? What chain are we talking about? Also there's quantum and Bitcoin, that's a problem. But the problem about quantum and Bitcoin is you can go over to Zcash. But the Zcash problem is that it's quantum resistant but it's not cryptography resistant, and you would know that if you read the Justin Drake paper on cryptography. And you wouldn't know who Justin Drake is unless you read the quantum paper from Google, which he also co-authored. And you wouldn't know who that was if you didn't know who the Ethereum Foundation was, if you didn't know who Vitalik was. Who? Welcome back to the stream, guys. It's so good to see your beautiful faces. I missed you. I love you. I appreciate you. Look, at the end of the day, somebody's got to do it. At the end of the day, it's like, who else is going to do it? I don't really want to be here. Do I want to be here? Not really."
+        },
+        {
+          "created_at": "2026-10-09T01:04:47.000Z",
+          "id": "2108363007856128483",
+          "images": [
+            "https://pbs.twimg.com/media/HUJo-5aW0AAzH79.jpg"
+          ],
+          "text": "https://t.co/Qlf6kMSOo9 https://t.co/ZFSzfn7p9b"
+        },
+        {
+          "created_at": "2026-10-09T01:04:57.000Z",
+          "id": "2108363050353148354",
+          "reply_to_id": "2108363007856128483",
+          "text": "@GRITCULT stolen ty"
+        }
+      ],
+      "reads": {
+        "2108153135499751747": "No call",
+        "2108176640652226900": "No call",
+        "2108189953905635365": "No call: bearish on btc (60%, too unsure)",
+        "2108198308762325357": "No call",
+        "2108198895843266844": "No call",
+        "2108200197465448491": "No call",
+        "2108217447010509101": "Read together with the post it replies to",
+        "2108238398289031272": "No call",
+        "2108244221136138304": "No call",
+        "2108274102997786818": "No call",
+        "2108363007856128483": "No call",
+        "2108363050353148354": "Read together with the post it replies to"
+      },
+      "replies": [
+        {
+          "created_at": "2026-10-08T19:08:20.000Z",
+          "id": "2108273306855940289",
+          "reply_to_id": "2108273225394516052",
+          "text": "@kni_ksfan thanks g"
+        },
+        {
+          "created_at": "2026-10-08T19:14:08.000Z",
+          "id": "2108274763294560538",
+          "reply_to_id": "2108274480636440592",
+          "text": "@darran0x watch it on 2x it\u2019s great"
+        },
+        {
+          "created_at": "2026-10-08T19:21:34.000Z",
+          "id": "2108276636013777090",
+          "reply_to_id": "1977858518763147726",
+          "text": "@counterpartytv almost one year ago @0xdoug"
+        },
+        {
+          "created_at": "2026-10-08T19:36:21.000Z",
+          "id": "2108280355182559407",
+          "reply_to_id": "2108279878436954578",
+          "text": "@clementetv_ i pretty much am just uber focused on where i think the highest r/r is to make money at any moment"
+        },
+        {
+          "created_at": "2026-10-08T20:40:55.000Z",
+          "id": "2108296605564821672",
+          "reply_to_id": "2108276174262858236",
+          "text": "@samuraix @CryptoMikli profound"
+        },
+        {
+          "created_at": "2026-10-08T21:02:54.000Z",
+          "id": "2108302138975887546",
+          "reply_to_id": "2108301735915884759",
+          "text": "@SACC23K @CryptoMikli what else lmao"
+        },
+        {
+          "created_at": "2026-10-08T21:18:40.000Z",
+          "id": "2108306106078425203",
+          "reply_to_id": "2108305843091374117",
+          "text": "@DrNickA lmaooo"
+        },
+        {
+          "created_at": "2026-10-08T22:11:25.000Z",
+          "id": "2108319380157444306",
+          "reply_to_id": "2108280128740745557",
+          "text": "@fillzorkillz thanks g"
+        },
+        {
+          "created_at": "2026-10-08T22:17:27.000Z",
+          "id": "2108320896310276221",
+          "reply_to_id": "2108320228203532716",
+          "text": "@RealCostef thanks g"
+        },
+        {
+          "created_at": "2026-10-08T22:47:26.000Z",
+          "id": "2108328443389906987",
+          "reply_to_id": "2108328224862458055",
+          "text": "@chooserich appreciate you Nick"
+        },
+        {
+          "created_at": "2026-10-08T23:15:52.000Z",
+          "id": "2108335600243728669",
+          "reply_to_id": "2108333429934698715",
+          "text": "@NewsyJohnson you got us"
+        },
+        {
+          "created_at": "2026-10-08T23:21:12.000Z",
+          "id": "2108336942194499839",
+          "reply_to_id": "2108336863895556266",
+          "text": "@sweetbellic__ \ud83e\udee1"
+        },
+        {
+          "created_at": "2026-10-08T23:22:11.000Z",
+          "id": "2108337190522458153",
+          "reply_to_id": "2108302556959035699",
+          "text": "@docXBT @CryptoMikli lmao thanks bruv"
+        },
+        {
+          "created_at": "2026-10-09T00:44:27.000Z",
+          "id": "2108357891342147982",
+          "reply_to_id": "2108357482997576130",
+          "text": "@DeeZe @darran0x \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23"
+        },
+        {
+          "created_at": "2026-10-09T00:47:21.000Z",
+          "id": "2108358621318783202",
+          "reply_to_id": "2108358271367369027",
+          "text": "@B0bakaBOBO classic d&amp;b ta"
+        }
+      ],
+      "threads": {
+        "2108153135499751747": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2108176640652226900": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2108189953905635365": {
+          "alerted": [],
+          "self_replies": 1
+        },
+        "2108198308762325357": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2108198895843266844": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2108200197465448491": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2108238398289031272": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2108244221136138304": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2108274102997786818": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2108363007856128483": {
+          "alerted": [],
+          "self_replies": 1
+        }
+      },
+      "trading": {
+        "2108153135499751747": true,
+        "2108176640652226900": true,
+        "2108189953905635365": true,
+        "2108198308762325357": false,
+        "2108198895843266844": true,
+        "2108200197465448491": false,
+        "2108217447010509101": false,
+        "2108238398289031272": false,
+        "2108244221136138304": true,
+        "2108253833310744642": true,
+        "2108273306855940289": false,
+        "2108274102997786818": true,
+        "2108274763294560538": false,
+        "2108276636013777090": false,
+        "2108280355182559407": true,
+        "2108296605564821672": false,
+        "2108302138975887546": false,
+        "2108306106078425203": false,
+        "2108319380157444306": false,
+        "2108320896310276221": false,
+        "2108328443389906987": false,
+        "2108335600243728669": false,
+        "2108336942194499839": false,
+        "2108337190522458153": false,
+        "2108357891342147982": false,
+        "2108358621318783202": true,
+        "2108363007856128483": false,
+        "2108363050353148354": false
+      },
+      "user_id": "1426732252768182281"
     },
     "thecryptonexus": {
       "backfilled": true,
       "biases": {},
+      "closed": [],
       "handle": "thecryptonexus",
       "last_id": "2107897550825037907",
       "positions": {
@@ -922,11 +1308,34 @@
           "self_replies": 0
         }
       },
+      "trading": {
+        "2107275115461230864": false,
+        "2107275146612424770": false,
+        "2107275881777639547": false,
+        "2107277220171669870": false,
+        "2107288860699099415": false,
+        "2107309749721350248": false,
+        "2107324697910055120": true,
+        "2107329282011963557": false,
+        "2107329600720134609": false,
+        "2107330701712331206": false,
+        "2107331599138439447": false,
+        "2107332053725507698": false,
+        "2107333331968835746": false,
+        "2107541359615701358": false,
+        "2107541492143169722": false,
+        "2107542581118685587": false,
+        "2107659862649757810": false,
+        "2107660132419280926": false,
+        "2107896878436077724": true,
+        "2107897550825037907": false
+      },
       "user_id": "1392152416854765571"
     },
     "thinkingusd": {
       "backfilled": true,
       "biases": {},
+      "closed": [],
       "handle": "thinkingusd",
       "last_id": "2108214861054284161",
       "positions": {},
@@ -1091,8 +1500,30 @@
           "self_replies": 0
         }
       },
+      "trading": {
+        "2105350026885259661": true,
+        "2105350262517043708": true,
+        "2105386100391084082": false,
+        "2105387090519183839": true,
+        "2105415950094762065": false,
+        "2105505706413899839": false,
+        "2106072786095722791": true,
+        "2106084747008967039": true,
+        "2107105108479619524": false,
+        "2107240927408607705": true,
+        "2107304442760462642": false,
+        "2107510357468287076": true,
+        "2107852339638128755": true,
+        "2107871088717726010": false,
+        "2107893628349956318": true,
+        "2107894568507085235": false,
+        "2107906207881232630": false,
+        "2107941658998309343": false,
+        "2108214861054284161": true
+      },
       "user_id": "809191427645181952"
     }
   },
-  "updated_at": "2026-10-08T23:55:14+00:00"
+  "summary_date": "2026-10-08",
+  "updated_at": "2026-10-09T01:12:00+00:00"
 }
