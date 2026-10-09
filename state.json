@@ -5,7 +5,7 @@
       "biases": {},
       "closed": [],
       "handle": "based16z",
-      "last_id": "2108545894438355143",
+      "last_id": "2108546941294412084",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -88,6 +88,11 @@
           "created_at": "2026-10-08T19:38:31.000Z",
           "id": "2108280900525891669",
           "text": "we don't even got Nikita no more idk who runs this shit atp https://t.co/JrMrQfPyw6"
+        },
+        {
+          "created_at": "2026-10-09T13:15:40.000Z",
+          "id": "2108546941294412084",
+          "text": "You know what you should listen to your wife man she\u2019s right you are an asshole"
         }
       ],
       "reads": {
@@ -100,7 +105,8 @@
         "2108276195674697735": "No call",
         "2108277005666120065": "No call",
         "2108277867687690430": "No call",
-        "2108278472581980385": "No call"
+        "2108278472581980385": "No call",
+        "2108546941294412084": "No call"
       },
       "replies": [
         {
@@ -197,6 +203,10 @@
         "2108278472581980385": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2108546941294412084": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -221,7 +231,8 @@
         "2108278472581980385": false,
         "2108280900525891669": false,
         "2108375017696473543": true,
-        "2108545894438355143": false
+        "2108545894438355143": false,
+        "2108546941294412084": false
       },
       "user_id": "1446541960181858315"
     },
@@ -2706,5 +2717,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T13:14:17+00:00"
+  "updated_at": "2026-10-09T13:16:22+00:00"
 }
