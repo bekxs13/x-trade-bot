@@ -21,7 +21,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2108588713567744394",
+      "last_id": "2108589553397469263",
       "positions": {},
       "posts": [
         {
@@ -104,6 +104,12 @@
           "id": "2108566272644419692",
           "reply_to_id": "2108565991215267977",
           "text": "Round tripped a good chunk on ibit got out of puts there for small pnl which I gave some back on native btc. Not really sure. Gotta move fast these days seems"
+        },
+        {
+          "created_at": "2026-10-09T16:04:59.000Z",
+          "id": "2108589553397469263",
+          "quoted_text": "Many #Ledger users who bought their devices from reseller CryptoBillis have had their funds stolen, with losses totaling nearly $90M.\n\nStay safe!\ud83d\udea8\n\nOne user (TY24Ya) bought a Ledger device from CryptoBillis 3 weeks ago and deposited 7M $USDT into it.\n\nJust 10 hours ago, all 7M $USDT was stolen, possibly the largest loss among the victims.\n\nhttps://t.co/VARjqxL2Tn",
+          "text": "Why tf buying a third party ledger and throwing 7 mil in it? https://t.co/EihhKAhodL"
         }
       ],
       "reads": {
@@ -119,7 +125,8 @@
         "2108278472581980385": "No call",
         "2108546941294412084": "No call",
         "2108565991215267977": "No call",
-        "2108566272644419692": "TRADE EXIT BTC"
+        "2108566272644419692": "TRADE EXIT BTC",
+        "2108589553397469263": "No call"
       },
       "replies": [
         {
@@ -244,6 +251,10 @@
             "trade:BTC:exit"
           ],
           "self_replies": 1
+        },
+        "2108589553397469263": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -274,7 +285,8 @@
         "2108565991215267977": true,
         "2108566272644419692": true,
         "2108568310761594997": true,
-        "2108588713567744394": true
+        "2108588713567744394": true,
+        "2108589553397469263": false
       },
       "user_id": "1446541960181858315"
     },
@@ -2805,5 +2817,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T16:02:21+00:00"
+  "updated_at": "2026-10-09T16:06:23+00:00"
 }
