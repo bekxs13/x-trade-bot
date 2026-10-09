@@ -154,16 +154,21 @@ A simple page you can open on your phone: who's bullish or bearish on what, who'
 
 It reads the bot's files straight from the repo and refreshes every minute, so it's never more than a few minutes behind the bot.
 
-**Adding and removing accounts from the page** needs a GitHub token, made once per phone or browser and stored only on that device. The **Accounts** tab walks you through it: a fine-grained token limited to this one repo. Under Permissions, click **+ Add permissions**, pick **Contents**, and set it to **Read and write** (it starts as Read-only). Without a token the page is view-only, and you can still edit `accounts.txt` on github.com.
+**Adding and removing accounts from the page** needs a GitHub token, made once per phone or browser and stored only on that device. The **Accounts** tab walks you through it: a fine-grained token limited to this one repo. Under Permissions, click **+ Add permissions**, pick **Contents** and **Actions**, and set both to **Read and write** (they start as Read-only). Contents is for editing accounts and notes, Actions is for **Check now**. Without a token the page is view-only, and you can still edit `accounts.txt` on github.com.
+
+**Check now** (the ⚡ button at the top) runs the bot right away instead of waiting for its timer, then reloads the page when it's done, usually within a minute or two.
 
 **Teach the bot** (the sparkle button at the top, or "Wrong? Teach the bot" under any call or post): say what it missed or got wrong, and optionally paste the post's link. On its next check the bot turns that into a one or two sentence lesson it reads before every post, and if you linked a post it reads that post again and fixes the board (adds the missed trade or view, or removes a wrong one). Lessons are listed in the Accounts tab, where you can forget one.
 
-**Posts tab:** the latest posts the bot has already read for each account, with what it made of each one. It only shows what the bot saved while reading, so it costs nothing extra.
+**Posts tab:** the latest posts the bot has already read for each account, with what it made of each one. It only shows what the bot saved while reading, so it costs nothing extra. **Trading** (the default) hides posts that aren't about trading or markets; the bot sorts each saved post with one short Claude call per account per run, only when there are new posts. **All** shows everything.
 
 How it tracks things:
 - **In a trade** comes from TRADE pings. A long or short opens or replaces the position for that asset, and an exit ping closes it. If they close a trade without posting about it, it stays listed until they post an exit or flip.
+- **Closing a trade** gets its own ping: **CLOSED** when they're fully out, **TRIMMED** when they took some off and still hold the rest. Claude is shown their open trades, so "closed it" or "out here" is matched to the right one. The ping says when they got in, how long they held, and, for coins, the price when the bot saw the entry and the exit and how far it moved their way (stocks get no price, rather than a wrong one). Full exits and flips go to **Recently closed** on the board for two weeks.
 - **Views** come from what Claude reads in their posts, one per topic (BTC, alts, majors, and so on), with the date the view started. A restated view keeps its original date.
 - A newly added account starts with a one-time read of its last 10 posts (with the same deeper look when a post is unclear), so the board isn't empty. Those finds show in the feed marked HISTORY and don't ping you; only new posts do.
+
+**Morning summary:** at the first run after 8am New York time, one ping lists every call from 8pm to 8am (trades, exits, view changes). Nothing is sent after a quiet night, or if the bot doesn't run until after noon. To change the time, add repo variables under **Settings → Secrets and variables → Actions → Variables**: `SUMMARY_TZ` (your time zone, like `Europe/London` or `America/Los_Angeles`) and `SUMMARY_HOUR` (0 to 23).
 
 ## Things to know
 

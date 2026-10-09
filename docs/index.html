@@ -50,8 +50,9 @@ button { font: inherit; color: inherit; }
 .logo { width: 40px; height: 40px; border-radius: 12px; flex: none; display: grid; place-items: center;
   background: linear-gradient(135deg, #6d6aff, #22c1a4); box-shadow: 0 6px 16px rgba(91, 87, 245, .35); }
 .brand { flex: 1; min-width: 0; }
-.brand h1 { font-size: 18px; font-weight: 800; letter-spacing: -.02em; margin: 0; }
-.status { display: flex; align-items: center; gap: 6px; font-size: 12.5px; color: var(--muted); margin-top: 1px; }
+.brand h1 { font-size: 18px; font-weight: 800; letter-spacing: -.02em; margin: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.status { display: flex; align-items: center; gap: 6px; font-size: 12.5px; color: var(--muted); margin-top: 1px; min-width: 0; }
+#status { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--faint); flex: none; }
 .dot.live { background: var(--up); box-shadow: 0 0 0 0 color-mix(in srgb, var(--up) 60%, transparent); animation: pulse 2s infinite; }
 .dot.stale { background: var(--exit); }
@@ -63,7 +64,7 @@ button { font: inherit; color: inherit; }
 
 /* ---- layout ---- */
 main { max-width: 720px; margin: 0 auto; padding: 4px 16px calc(env(safe-area-inset-bottom) + 112px); }
-.section-title { display: flex; align-items: baseline; justify-content: space-between; margin: 22px 4px 10px; }
+.section-title { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 4px 12px; margin: 22px 4px 10px; }
 .section-title h2 { font-size: 13px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 0; }
 .section-title span { font-size: 12.5px; color: var(--faint); }
 .card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); }
@@ -101,7 +102,17 @@ a.item-row:active { background: var(--surface-2); }
   padding: 3px 8px; border-radius: 8px; white-space: nowrap; text-transform: uppercase; }
 .long, .bullish { color: var(--up); background: var(--up-soft); }
 .short, .bearish { color: var(--down); background: var(--down-soft); }
-.exit { color: var(--exit); background: var(--exit-soft); }
+.exit, .trim { color: var(--exit); background: var(--exit-soft); }
+.move-up { color: var(--up); font-weight: 700; } .move-down { color: var(--down); font-weight: 700; }
+.ended { margin-top: 8px; font-size: 13px; line-height: 1.5; color: var(--muted); }
+.check-btn { height: 38px; padding: 0 12px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface);
+  color: var(--text); font: inherit; font-size: 13px; font-weight: 700; display: inline-flex; align-items: center; gap: 6px; cursor: pointer; flex: none; }
+.check-btn:disabled { color: var(--muted); cursor: default; }
+.check-btn.busy svg { animation: spin .8s linear infinite; }
+/* On phones the button is just the bolt, so the name and status line keep their room. */
+@media (max-width: 480px) { .check-btn { width: 38px; padding: 0; justify-content: center; } .check-btn span { display: none; } }
+.toggle { display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--muted); margin: 10px 4px 0; cursor: pointer; }
+.toggle input { width: 16px; height: 16px; accent-color: var(--accent); }
 .neutral, .mixed, .none { color: var(--flat); background: var(--flat-soft); }
 
 .av { width: 40px; height: 40px; border-radius: 50%; flex: none; position: relative; overflow: hidden;
@@ -245,6 +256,7 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
       <h1>X Trade Bot</h1>
       <div class="status"><span id="dot" class="dot"></span><span id="status">Loading…</span></div>
     </div>
+    <button id="check-btn" class="check-btn" aria-label="Check now" title="Check now: run the bot instead of waiting for its next check"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L4 14h7l-1 8 9-12h-7z"/></svg><span>Check now</span></button>
     <button id="teach-btn" class="icon-btn" aria-label="Teach the bot" title="Teach the bot"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 4.6L18.5 9.5l-4.6 1.9L12 16l-1.9-4.6L5.5 9.5l4.6-1.9z"/><path d="M19 15l.9 2.1L22 18l-2.1.9L19 21l-.9-2.1L16 18l2.1-.9z"/></svg></button>
     <button id="refresh" class="icon-btn" aria-label="Refresh"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 4v5h-5"/></svg></button>
   </div>
@@ -260,6 +272,10 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
     </div>
     <div class="section-title"><h2>In a trade</h2><span id="trades-sub"></span></div>
     <div class="card list" id="trades"></div>
+    <div id="closed-wrap" class="hidden">
+      <div class="section-title"><h2>Recently closed</h2><span id="closed-sub"></span></div>
+      <div class="card list" id="closed"></div>
+    </div>
     <div class="section-title"><h2>Who thinks what</h2>
       <span class="legend"><span><span class="sw" style="background:var(--up)"></span>bullish</span><span><span class="sw" style="background:var(--down)"></span>bearish</span><span><span class="sw" style="background:var(--flat)"></span>no view</span></span></div>
     <div class="card" id="views"></div>
@@ -280,12 +296,13 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
   <section id="tab-posts" class="hidden">
     <div class="filters">
       <div class="seg" id="posts-seg">
-        <button data-replies="0" class="on">Posts</button>
-        <button data-replies="1">+ Replies</button>
+        <button data-only="1" class="on">Trading</button>
+        <button data-only="0">All</button>
       </div>
       <select id="posts-who"><option value="">Everyone</option></select>
     </div>
-    <p class="hint" style="margin:6px 4px 0">Their latest posts the bot has already read, with what it made of each. Loading this costs nothing extra.</p>
+    <label class="toggle"><input type="checkbox" id="posts-replies"> Include their replies to other people</label>
+    <p class="hint" id="posts-hint" style="margin:6px 4px 0"></p>
     <div id="posts" style="margin-top:12px"></div>
   </section>
 
@@ -315,7 +332,7 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
         <ol class="steps">
           <li>Open <a id="pat-link" target="_blank" rel="noopener">GitHub → new fine-grained token</a>.</li>
           <li>Name it anything, pick the longest expiration, and under <b>Repository access</b> choose <b>Only select repositories</b> → <span id="repo-name"></span>.</li>
-          <li>Under <b>Permissions</b>, click <b>+ Add permissions</b>, pick <b>Contents</b>, and set its access to <b>Read and write</b> (it starts as Read-only). Metadata is added automatically; nothing else is needed.</li>
+          <li>Under <b>Permissions</b>, click <b>+ Add permissions</b>, pick <b>Contents</b> and <b>Actions</b>, and set both to <b>Read and write</b> (they start as Read-only). Contents lets this page edit accounts and notes; Actions lets <b>Check now</b> start the bot. Metadata is added automatically.</li>
           <li>Generate it, copy it, and paste it here.</li>
         </ol>
         <div class="field">
@@ -360,7 +377,7 @@ const TOKEN_KEY = `xtb-token-${OWNER}-${REPO}`;
 const API = `https://api.github.com/repos/${OWNER}/${REPO}/contents`;
 
 let state = {accounts: {}}, alerts = [], accounts = [], loaded = false, feedKind = "all", feedWho = "";
-let feedback = [], postsReplies = false, postsWho = "";
+let feedback = [], postsReplies = false, postsWho = "", postsOnly = true, checking = "";
 const lessons = {};  // lessons file name -> its text
 const notes = {};          // handle(lower) -> text, or null when there's no notes file yet
 const openNotes = new Set();  // accounts whose notes editor is open
@@ -402,9 +419,31 @@ function leanOf(handle) {
     : downs ? ["bearish", "Bearish"] : ["neutral", "Neutral"];
 }
 const CHEV = `<svg class="chev" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M9 6l6 6-6 6"/></svg>`;
-function toast(text) {
+function toast(text, ms = 2600) {
   const t = $("toast"); t.textContent = text; t.classList.add("show");
-  clearTimeout(toast.timer); toast.timer = setTimeout(() => t.classList.remove("show"), 2600);
+  clearTimeout(toast.timer); toast.timer = setTimeout(() => t.classList.remove("show"), ms);
+}
+function heldFor(start, end) {
+  const mins = (Date.parse(end) - Date.parse(start)) / 60000;
+  if (!(mins >= 0)) return "";
+  const d = Math.floor(mins / 1440), h = Math.floor(mins % 1440 / 60);
+  return d ? (h ? `${d}d ${h}h` : `${d}d`) : h ? `${h}h` : `${Math.round(mins)}m`;
+}
+const money = p => p >= 1 ? "$" + p.toLocaleString("en-US", {minimumFractionDigits: 2, maximumFractionDigits: 2}) : "$" + Number(p.toPrecision(4));
+const moveHtml = m => m == null ? "" : `<span class="${m >= 0 ? "move-up" : "move-down"}">${m > 0 ? "+" : ""}${m}% their way</span>`;
+// One line about a trade an exit, trim or flip ended: how long they held it and how price moved.
+function endedLine(e) {
+  const bits = [`${e.flipped ? "Flipped from " : ""}${esc(e.asset)}${e.direction ? " " + esc(e.direction) : ""}`];
+  if (e.opened) {
+    const day = dayLabel(e.opened);
+    bits.push(`opened ${esc(/^(Today|Yesterday)$/.test(day) ? day.toLowerCase() : day)}`);
+    const held = heldFor(e.opened, e.closed);
+    if (held) bits.push(`held ${held}`);
+  } else bits.push("entry not seen by the bot");
+  if (e.open_price && e.close_price) bits.push(`${money(e.open_price)} → ${money(e.close_price)}`);
+  if (e.move != null) bits.push(moveHtml(e.move));
+  if (e.partial) bits.push("still in");
+  return bits.join(" · ");
 }
 
 // ---- reading the bot's files ----
@@ -457,8 +496,8 @@ function render() {
   const mins = updated ? (Date.now() - new Date(updated)) / 60000 : Infinity;
   // The bot refreshes updated_at when anything changes, and at least hourly while it's running.
   const stale = updated && mins > 90;
-  $("status").textContent = !updated ? "Waiting for the bot" : stale ? `No update for ${ago(updated).replace(" ago", "")} · the bot may be paused`
-    : `Live · updated ${ago(updated)}`;
+  $("status").textContent = checking || (!updated ? "Waiting for the bot" : stale ? `No update for ${ago(updated).replace(" ago", "")} · the bot may be paused`
+    : `Live · ${ago(updated)}`);
   $("dot").className = "dot " + (!updated ? "" : stale ? "stale" : "live");
   renderBoard();
   renderFeed();
@@ -500,6 +539,25 @@ function renderBoard() {
     </a>`;
   }).join("") || `<div class="empty"><span class="em">🪑</span>Nobody's in a trade right now.<br>Positions show up here when someone posts an entry, and leave when they post an exit.</div>`;
 
+  const closed = accounts.flatMap(h => (acctState(h).closed || []).map(c => ({...c, handle: h})))
+    .filter(c => Date.now() - Date.parse(c.closed) < 14 * 86400000)
+    .sort((x, y) => (y.closed || "").localeCompare(x.closed || "")).slice(0, 8);
+  $("closed-wrap").classList.toggle("hidden", !closed.length);
+  $("closed-sub").textContent = closed.length ? "last 2 weeks" : "";
+  $("closed").innerHTML = closed.map(c => {
+    const held = c.opened ? heldFor(c.opened, c.closed) : "";
+    const detail = [c.flipped ? "flipped" : "", held ? `held ${held}` : c.opened ? "" : "entry not seen"].filter(Boolean).map(esc);
+    const move = c.move == null ? "" : `<span class="${c.move >= 0 ? "move-up" : "move-down"}" title="How far price moved in their favour while they were in">${c.move > 0 ? "+" : ""}${c.move}%</span><br>`;
+    return `<a class="item-row" href="${esc(c.close_url)}" target="_blank" rel="noopener">
+      ${avatar(c.handle)}
+      <div class="grow">
+        <div class="line1"><span class="badge exit">closed</span>${c.direction ? `<span class="badge ${esc(c.direction)}">${esc(c.direction)}</span>` : ""}<span class="asset">${esc(c.asset)}</span></div>
+        <div class="line2">@${esc(c.handle)}${detail.length ? ` · ${detail.join(" · ")}` : ""}</div>
+      </div>
+      <div class="right">${move}${ago(c.closed)}</div>${CHEV}
+    </a>`;
+  }).join("");
+
   $("views").innerHTML = accounts.map(h => {
     const views = viewsOf(h), lean = leanOf(h);
     const last = alerts.find(x => low(x.handle) === low(h));
@@ -533,6 +591,7 @@ function renderFeed() {
     lastDay = day;
     const trade = a.kind === "trade";
     const cls = trade ? a.direction : a.stance;
+    const label = {exit: "closed", trim: "trimmed"}[cls] || cls;
     const what = trade ? `${a.asset || a.contract_address || "?"}${notHere(a.structure) ? "" : ` · ${a.structure}`}` : a.scope;
     const conf = Math.round(Number(a.confidence || 0) * 100);
     const facts = [
@@ -545,8 +604,9 @@ function renderFeed() {
     return `${header}<div class="card call">
       <div class="call-head">${avatar(a.handle, "sm")}<span class="handle">@${esc(a.handle)}</span><span>${ago(a.sent_at)}</span>
         <span class="grow"></span>${a.backfill ? `<span class="kind" title="Found when the account was added, from their last 10 posts. No ping was sent.">HISTORY</span>` : ""}<span class="kind">${trade ? "TRADE" : "VIEW"}</span></div>
-      <div class="call-title"><span class="badge ${esc(cls)}">${esc(cls)}</span><span class="what">${esc(what)}</span></div>
+      <div class="call-title"><span class="badge ${esc(cls)}">${esc(label)}</span><span class="what">${esc(what)}</span></div>
       <div class="reason">${esc(a.reason)}</div>
+      ${(a.ended || []).length ? `<div class="ended">${a.ended.map(endedLine).join("<br>")}</div>` : ""}
       ${a.post ? `<div class="quote">${esc(a.post)}</div>` : ""}
       ${a.contract_address ? `<div class="ca">${esc(a.chain || "CA")} · ${esc(a.contract_address)}</div>` : ""}
       <div class="facts num">${facts}</div>
@@ -564,12 +624,19 @@ function renderPosts() {
   who.value = accounts.includes(current) ? current : "";
   const byPost = {};
   alerts.forEach(a => { const id = (a.url || "").split("/status/")[1]; if (id && !byPost[id]) byPost[id] = a; });
-  const items = accounts.filter(h => !postsWho || low(h) === low(postsWho)).flatMap(h => {
+  // Trading only: posts with a call (or a near-call), or ones the bot marked as about trading or markets.
+  const isTrading = p => /^(TRADE|VIEW|Corrected|No call:)/.test(p.read || "") || !!byPost[p.id] || p.trading === true;
+  const all = accounts.filter(h => !postsWho || low(h) === low(postsWho)).flatMap(h => {
     const a = acctState(h);
     const own = (a.posts || []).map(p => ({...p, handle: h, reply: false}));
     const others = postsReplies ? (a.replies || []).map(p => ({...p, handle: h, reply: true})) : [];
-    return [...own, ...others].map(p => ({...p, read: (a.reads || {})[p.id]}));
-  }).sort((x, y) => (BigInt(y.id) > BigInt(x.id) ? 1 : -1)).slice(0, 200);
+    return [...own, ...others].map(p => ({...p, read: (a.reads || {})[p.id], trading: (a.trading || {})[p.id]}));
+  });
+  const kept = postsOnly ? all.filter(isTrading) : all;
+  const items = kept.sort((x, y) => (BigInt(y.id) > BigInt(x.id) ? 1 : -1)).slice(0, 200);
+  $("posts-hint").textContent = postsOnly
+    ? `Posts about trading or markets: ${kept.length} shown, ${all.length - kept.length} others hidden. Already read by the bot, so this costs nothing extra.`
+    : "Their latest posts the bot has already read, with what it made of each. Loading this costs nothing extra.";
   $("posts").innerHTML = items.map(p => {
     const url = `https://x.com/${p.handle}/status/${p.id}`;
     let v = p.read, cls = "no-call";
@@ -589,7 +656,7 @@ function renderPosts() {
       <div class="post-foot"><a class="open-x" style="margin:0" href="${esc(url)}" target="_blank" rel="noopener">Open on X ${CHEV}</a>
         ${p.reply ? "" : `<button class="linkish" data-teach-url="${esc(url)}" data-teach-who="${esc(p.handle)}">Wrong? Teach the bot</button>`}</div>
     </div>`;
-  }).join("") || `<div class="card empty"><span class="em">🗒️</span>No posts saved yet. They show up after the bot's first check of each account.</div>`;
+  }).join("") || `<div class="card empty"><span class="em">🗒️</span>${all.length ? "No trading posts here yet. Tap All to see everything." : "No posts saved yet. They show up after the bot's first check of each account."}</div>`;
   document.querySelectorAll("#posts .post-text").forEach(q => q.classList.toggle("clamped", q.scrollHeight > q.clientHeight + 2));
 }
 
@@ -860,12 +927,58 @@ $("posts").onclick = e => { const q = e.target.closest(".post-text"); if (q) { q
 $("posts-seg").onclick = e => {
   const b = e.target.closest("button");
   if (!b) return;
-  postsReplies = b.dataset.replies === "1";
+  postsOnly = b.dataset.only === "1";
   document.querySelectorAll("#posts-seg button").forEach(x => x.classList.toggle("on", x === b));
   renderPosts();
 };
+$("posts-replies").onchange = e => { postsReplies = e.target.checked; renderPosts(); };
 $("posts-who").onchange = e => { postsWho = e.target.value; renderPosts(); };
 $("refresh").onclick = load;
+
+// ---- check now: start the bot's workflow instead of waiting for its timer ----
+const ACTIONS = `https://api.github.com/repos/${OWNER}/${REPO}/actions/workflows/poll.yml`;
+const ACTIONS_HELP = "This token can't start the bot yet. On GitHub open Settings → Developer settings → Fine-grained "
+  + "tokens and click this token. Under Permissions, click + Add permissions, pick Actions, set it to Read and write, "
+  + "and save. The token stays the same, so just tap Check now again.";
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+function setChecking(text) {
+  checking = text;
+  $("check-btn").disabled = !!text;
+  $("check-btn").classList.toggle("busy", !!text);
+  if (text) { $("status").textContent = text; $("dot").className = "dot live"; } else render();
+}
+$("check-btn").onclick = async () => {
+  if (checking) return;
+  if (!getToken()) { showTab("accounts"); toast("Add a token first (bottom of this tab)"); return; }
+  const headers = {Authorization: `Bearer ${getToken()}`, Accept: "application/vnd.github+json"};
+  const started = Date.now();
+  setChecking("Starting a check…");
+  try {
+    const res = await fetch(`${ACTIONS}/dispatches`, {method: "POST", headers, body: JSON.stringify({ref: BRANCH})});
+    if (res.status === 401) throw new Error("GitHub refused the token. It may have expired; remove it and add a new one.");
+    if (res.status === 403 || res.status === 404) throw new Error(ACTIONS_HELP);
+    if (!res.ok) throw new Error(`GitHub wouldn't start the bot (HTTP ${res.status})`);
+    setChecking("Checking X now…");
+    // Find the run this started (a minute's slack for clock differences) and wait for it to finish.
+    for (let i = 0; i < 75; i++) {
+      await sleep(i < 3 ? 4000 : 8000);
+      const r = await fetch(`${ACTIONS}/runs?event=workflow_dispatch&per_page=5`, {headers, cache: "no-store"}).catch(() => null);
+      if (!r || !r.ok) continue;
+      const run = ((await r.json()).workflow_runs || []).find(x => Date.parse(x.created_at) >= started - 60000);
+      if (!run || run.status !== "completed") continue;
+      setChecking("Loading what it found…");
+      await load();
+      toast(run.conclusion === "success" ? "Check done. Everything here is up to date."
+        : "The check hit a problem. GitHub emails you the details.", 4000);
+      return;
+    }
+    toast("Still running. This page updates by itself when it's done.", 4000);
+  } catch (err) {
+    toast(err.message, err.message === ACTIONS_HELP ? 14000 : 4000);
+  } finally {
+    setChecking("");
+  }
+};
 $("new-handle").onkeydown = e => { if (e.key === "Enter") $("add-btn").click(); };
 
 try { const saved = localStorage.getItem("xtb-tab"); if (saved) showTab(saved); } catch {}

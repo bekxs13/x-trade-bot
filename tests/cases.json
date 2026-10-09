@@ -121,5 +121,31 @@
       "direction": "exit",
       "asset": "WIF"
     }
+  },
+  {
+    "name": "trim, still holding",
+    "text": "took some profit on $HYPE here, still holding most of it for 60",
+    "prices": [],
+    "expect_trade": {
+      "direction": "trim",
+      "asset": "HYPE"
+    }
+  },
+  {
+    "name": "exit that doesn't name the asset",
+    "text": "closed it. too choppy for me, will look again next week",
+    "prices": [],
+    "positions": {
+      "SOL": {
+        "asset": "SOL",
+        "direction": "long",
+        "structure": "spot",
+        "since": "2026-10-06T14:00:00Z"
+      }
+    },
+    "expect_trade": {
+      "direction": "exit",
+      "asset": "SOL"
+    }
   }
 ]

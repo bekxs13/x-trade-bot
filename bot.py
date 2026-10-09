@@ -19,6 +19,7 @@ import sys
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 import anthropic
 import requests
@@ -45,7 +46,10 @@ DEEP_CONTEXT_REPLIES = int(os.environ.get("DEEP_CONTEXT_REPLIES", "10"))  # repl
 SELF_REPLIES_PER_POST = int(os.environ.get("SELF_REPLIES_PER_POST", "1"))
 BACKFILL_POSTS = 10  # when an account is added, its last 10 main posts are read once to fill in the dashboard
 BACKFILL_FETCH = 50  # posts and replies fetched to find those 10 main posts
-KEEP_POSTS, KEEP_REPLIES, KEEP_THREADS = 20, 15, 100
+KEEP_POSTS, KEEP_REPLIES, KEEP_THREADS, KEEP_CLOSED = 20, 15, 100, 30
+# Morning roundup: at the first run after this hour (local time), one ping listing the night's calls, if any.
+SUMMARY_HOUR = int(os.environ.get("SUMMARY_HOUR") or 8)
+SUMMARY_TZ = os.environ.get("SUMMARY_TZ") or "America/New_York"
 MAX_IMAGES = 4
 # Models that accept server-side refusal fallbacks. Haiku does not.
 FALLBACK_MODELS = ("claude-opus-5-5", "claude-opus-5", "claude-fable-5-1", "claude-sonnet-5-5")
@@ -68,7 +72,7 @@ TRADE_SCHEMA = {
         "asset": {"type": "string", "description": "Ticker or name, empty if unknown"},
         "chain": {"type": "string", "description": "solana, base, eth, bnb, other, or empty"},
         "contract_address": {"type": "string"},
-        "direction": {"type": "string", "enum": ["long", "short", "exit"]},
+        "direction": {"type": "string", "enum": ["long", "short", "exit", "trim"]},
         "structure": {"type": "string", "description": "spot, perp, long puts, long calls, short puts, short calls, or unknown"},
         "entry": {"type": "string", "description": "Entry price or level if given, else empty"},
         "horizon": {"type": "string"},
@@ -163,8 +167,11 @@ def new_account(handle):
     # threads: per main post, how many self-replies were handled and which alerts already went out.
     # biases: their last recorded view per scope, so view pings only fire on a new or changed view.
     # positions: trades they're in, per asset, from TRADE alerts; an exit alert closes one.
+    # closed: trades they've exited, newest last, with how price moved while they were in.
     # reads: per stored post, a one-line verdict of what the bot made of it (the dashboard's Posts tab).
-    return {"handle": handle, "posts": [], "replies": [], "threads": {}, "biases": {}, "positions": {}, "reads": {}}
+    # trading: per stored post or reply, whether it's about trading or markets (the Posts tab's filter).
+    return {"handle": handle, "posts": [], "replies": [], "threads": {}, "biases": {}, "positions": {},
+            "closed": [], "reads": {}, "trading": {}}
 
 
 def slim(p):
@@ -446,6 +453,12 @@ def build_prompt_text(handle, unit, ctx, prices, deep, first_read=None):
     lines.append("Live prices for assets mentioned:")
     lines += [f"- {line}" for line in prices] or ["- none found"]
     lines.append("")
+    lines.append(f"@{handle}'s open trades on record (asset: direction, since):")
+    open_trades = (ctx.get("positions") or {}).values()
+    lines += [f"- {p.get('asset') or '?'}: {p.get('direction', '?')}"
+              f"{'' if p.get('structure') in (None, '', 'spot', 'unknown') else ' (' + p['structure'] + ')'}"
+              f" (since {(p.get('since') or '?')[:10]})" for p in open_trades] or ["- none recorded"]
+    lines.append("")
     lines.append(f"@{handle}'s recorded views (scope: stance, since):")
     views = ctx.get("biases") or {}
     lines += [f"- {v['scope']}: {v['stance']} (since {v.get('since', '?')})" for v in views.values()] or ["- none recorded yet"]
@@ -558,26 +571,147 @@ def split_assets(asset):
     return [a.strip() for a in re.split(r",|&|\band\b", asset or "") if a.strip()]
 
 
-def record_position(positions, t, post, url):
-    """Keep the account's open trades: long/short opens or flips a position, exit closes it."""
+def asset_price(asset, chain="", ca="", prices=()):
+    """Current USD price of a coin, or None. Majors come from Coinbase, other tokens from DexScreener by
+    contract address, or by ticker on the trade's chain. Stocks and anything else get None rather than a
+    guess, since a ticker alone can match an unrelated token. Uses the post's price lines when they have it."""
+    sym = (asset or "").upper().lstrip("$")
+    dex_chain = DEXSCREENER_CHAINS.get((chain or "").lower())
+    if sym in MAJORS:
+        line = next((x for x in prices if x.startswith(f"{sym}: $")), None)
+        try:
+            return float(line.split("$")[1].replace(",", "")) if line else coinbase_price(sym)
+        except (requests.RequestException, KeyError, ValueError):
+            return None
+    if ca:
+        match = lambda x: f"CA {ca}".lower() in x.lower()
+        query = ca
+    elif sym and dex_chain:
+        match = lambda x: x.upper().startswith(f"{sym} (") and f" on {dex_chain}," in x
+        query = sym
+    else:
+        return None
+    line = next((x for x in prices if match(x)), None)
+    if line is None:
+        try:
+            line = dexscreener_lookup(query)
+        except requests.RequestException:
+            return None
+    m = re.search(r"price \$([0-9.eE+-]+)", line or "") if line and match(line) else None
+    try:
+        return float(m.group(1)) if m else None
+    except ValueError:
+        return None
+
+
+def move_pct(direction, open_price, close_price):
+    """How far price moved in the trader's favour while they were in, in percent."""
+    if not (open_price and close_price):
+        return None
+    raw = (close_price / open_price - 1) * 100
+    return round(-raw if direction == "short" else raw, 1)
+
+
+def record_position(positions, t, post, url, prices=None):
+    """Keep the account's open trades: long/short opens or flips a position, exit closes it, trim (taking
+    some off) leaves it open. Returns what an exit or trim ended, for the alert and the closed list.
+
+    Pass the post's live prices (new posts) to note the price at entry and exit. History reads and re-reads
+    leave them out: today's price says nothing about an old post."""
     assets = split_assets(t["asset"])
+    live = prices is not None
+    ended = []
+
+    def end(was, asset, how):
+        ca = was.get("contract_address") or (t["contract_address"] if len(assets) <= 1 else "")
+        price = asset_price(asset, was.get("chain") or t["chain"], ca, prices) if live else None
+        ended.append({
+            "asset": was.get("asset") or asset, "direction": was.get("direction", ""),
+            "structure": was.get("structure", ""), "opened": was.get("since", ""), "open_url": was.get("url", ""),
+            "open_price": was.get("open_price"), "closed": post.get("created_at", ""), "close_url": url,
+            "close_price": price, "move": move_pct(was.get("direction"), was.get("open_price"), price),
+            "partial": how == "trim", "flipped": how == "flip",
+        })
+
     for asset in assets or [t["contract_address"] or "?"]:
         key = asset.upper()
         if t["direction"] == "exit":
-            positions.pop(key, None)
+            end(positions.pop(key, None) or {}, asset, "exit")
             continue
+        if t["direction"] == "trim":
+            end(positions.get(key) or {}, asset, "trim")
+            continue
+        held = positions.get(key)
+        if held and held["direction"] != t["direction"]:
+            end(held, asset, "flip")
+            held = None
+        ca = t["contract_address"] if len(assets) <= 1 else ""
         positions[key] = {
             "asset": asset if assets else t["asset"], "direction": t["direction"], "structure": t["structure"],
             "entry": t["entry"] if len(assets) <= 1 else "", "horizon": t["horizon"], "chain": t["chain"],
-            "contract_address": t["contract_address"] if len(assets) <= 1 else "",
-            "confidence": t["confidence"], "reason": t["reason"], "since": post.get("created_at", ""),
-            "post_id": post["id"], "url": url,
+            "contract_address": ca, "confidence": t["confidence"], "reason": t["reason"],
+            "since": post.get("created_at", ""), "post_id": post["id"], "url": url,
+            "open_price": asset_price(asset, t["chain"], ca, prices) if live and not held else None,
         }
+        if held:  # adding to a trade they're already in: keep when they first got in, and at what price
+            positions[key].update(since=held.get("since", ""), open_price=held.get("open_price"))
+    return ended
+
+
+def add_closed(acct, ended):
+    """Full exits go on the account's closed list (the dashboard's "Recently closed")."""
+    closed = acct.setdefault("closed", []) + [e for e in ended if not e["partial"]]
+    acct["closed"] = sorted(closed, key=lambda e: e.get("closed") or "")[-KEEP_CLOSED:]
+
+
+def fmt_price(p):
+    return f"${p:,.2f}" if p >= 1 else f"${p:.4g}"
+
+
+def held_for(start, end):
+    try:
+        secs = (datetime.fromisoformat(end.replace("Z", "+00:00")) - datetime.fromisoformat(start.replace("Z", "+00:00"))).total_seconds()
+    except (ValueError, AttributeError):
+        return ""
+    if secs < 0:
+        return ""
+    days, hours = int(secs // 86400), int(secs % 86400 // 3600)
+    if days:
+        return f"{days}d {hours}h" if hours else f"{days}d"
+    return f"{hours}h" if hours else f"{int(secs // 60)}m"
+
+
+def ended_lines(ended):
+    """One plain line per trade an exit or trim ended: when it was opened, how long, how price moved."""
+    out = []
+    for e in ended:
+        bits = [e["asset"] + (f" {e['direction']}" if e["direction"] else "")]
+        if e["opened"]:
+            bits.append(f"opened {e['opened'][:10]}")
+            held = held_for(e["opened"], e["closed"])
+            if held:
+                bits.append(f"held {held}")
+        else:
+            bits.append("entry not seen by the bot")
+        if e["open_price"] and e["close_price"]:
+            bits.append(f"{fmt_price(e['open_price'])} → {fmt_price(e['close_price'])} ({e['move']:+.1f}% their way)")
+        elif e["close_price"]:
+            bits.append(f"now {fmt_price(e['close_price'])}")
+        if e["partial"]:
+            bits.append("still in")
+        out.append(("Flipped from " if e.get("flipped") else "") + " · ".join(bits))
+    return out
 
 
 # ---------- notifiers ----------
 
-def alert_title(kind, handle, part):
+def alert_title(kind, handle, part, prev=None):
+    if kind == "trade" and part["direction"] in ("exit", "trim"):
+        # prev: the trades this ended, so the title can say which side they were on.
+        sides = {e["direction"] for e in prev or [] if e["direction"]}
+        side = f" {sides.pop()}" if len(sides) == 1 else ""
+        word = "CLOSED" if part["direction"] == "exit" else "TRIMMED"
+        return f"{word} · @{handle}: {part['asset'] or '?'}{side}"
     if kind == "trade":
         struct = f" ({part['structure']})" if part["structure"] not in ("", "spot", "unknown") else ""
         return f"TRADE · @{handle}: {part['direction'].upper()} {part['asset'] or '?'}{struct}"
@@ -607,6 +741,8 @@ def discord_payload(kind, handle, unit, part, prev, prices, url):
             fields.append({"name": "Horizon", "value": part["horizon"], "inline": True})
         if part["contract_address"]:
             fields.append({"name": "CA", "value": f"`{part['contract_address']}` {part['chain']}".strip(), "inline": False})
+        if prev:
+            fields.append({"name": "Trade", "value": "\n".join(ended_lines(prev))[:1000], "inline": False})
     else:
         was = f"was {prev['stance']} since {prev['since']}" if prev else "first recorded view"
         fields.append({"name": "Change", "value": was, "inline": True})
@@ -619,7 +755,7 @@ def discord_payload(kind, handle, unit, part, prev, prices, url):
     color = COLORS.get(part.get("direction") or part.get("stance"), 0x95A5A6)
     return {
         "username": "X Trade Bot",
-        "embeds": [{"title": alert_title(kind, handle, part)[:250], "url": url,
+        "embeds": [{"title": alert_title(kind, handle, part, prev)[:250], "url": url,
                     "description": part["reason"][:2000], "color": color, "fields": fields}],
     }
 
@@ -649,6 +785,8 @@ def alert_body(kind, part, prev, unit):
             facts.append(f"Horizon {part['horizon']}")
         if part["contract_address"]:
             facts.append(f"CA {part['contract_address']} {part['chain']}".strip())
+        if prev:
+            return f"{part['reason']}\n" + "\n".join(ended_lines(prev)) + f"\n{' · '.join(facts)}\n\n{unit_post_text(unit)}"
     else:
         facts.append(f"Was {prev['stance']} since {prev['since']}" if prev else "First recorded view on this")
         facts.append(f"Confidence {part['confidence']:.2f}")
@@ -672,7 +810,8 @@ def send_ntfy(kind, part, title, body, url, images):
         "message": body.encode()[:3500].decode(errors="ignore"),  # ntfy caps messages at 4,096 bytes
         "click": url,
         "priority": 4 if kind == "trade" else 3,
-        "tags": ["chart_with_upwards_trend" if up else "chart_with_downwards_trend"],
+        "tags": [{"exit": "checkered_flag", "trim": "scissors"}.get(part.get("direction"))
+                 or ("chart_with_upwards_trend" if up else "chart_with_downwards_trend")],
         "actions": actions,
     }
     if images:
@@ -692,7 +831,7 @@ def notify(kind, handle, unit, part, prev, prices, dry_run=False, log=True):
     """Send one alert to every notifier that's configured. A failed send is logged, not fatal."""
     target = unit["reply"] if unit.get("late") else unit["main"]
     url = f"https://x.com/{handle}/status/{target['id']}"
-    title = alert_title(kind, handle, part)
+    title = alert_title(kind, handle, part, prev)
     body = alert_body(kind, part, prev, unit)
     payload = discord_payload(kind, handle, unit, part, prev, prices, url)
     if dry_run:
@@ -719,7 +858,7 @@ def notify(kind, handle, unit, part, prev, prices, dry_run=False, log=True):
             print(f"  {name} send failed: {e}", file=sys.stderr)
     if not log:
         return sent
-    log_alert(kind, handle, unit, part, prices)
+    log_alert(kind, handle, unit, part, prices, **({"ended": prev} if kind == "trade" and prev else {}))
     return sent
 
 
@@ -750,6 +889,8 @@ def store(acct, posts):
     acct["replies"] = acct["replies"][-KEEP_REPLIES:]
     kept = {p["id"] for p in acct["posts"]}
     acct["reads"] = {k: v for k, v in acct.get("reads", {}).items() if k in kept}
+    kept |= {p["id"] for p in acct["replies"]}
+    acct["trading"] = {k: v for k, v in acct.get("trading", {}).items() if k in kept}
     acct["threads"] = dict(sorted(acct["threads"].items(), key=lambda kv: int(kv[0]))[-KEEP_THREADS:])
 
 
@@ -809,9 +950,12 @@ def process_account(x, handle, acct, posts, dry_run=False):
         if unit["reply"] and not unit["late"]:
             acct["reads"][unit["reply"]["id"]] = "Read together with the post it replies to"
         for kind, _key, part, prev in alerts:
-            notify(kind, handle, unit, part, prev, res["prices"], dry_run)
             if kind == "trade":
-                record_position(acct["positions"], part, target, f"https://x.com/{handle}/status/{target['id']}")
+                # Update the board first, so an exit's ping can say when they got in and how price moved.
+                prev = record_position(acct["positions"], part, target, f"https://x.com/{handle}/status/{target['id']}",
+                                       res["prices"])
+                add_closed(acct, prev)
+            notify(kind, handle, unit, part, prev, res["prices"], dry_run)
         if res:
             record_bias(acct["biases"], res["bias"], target)
         thread = acct["threads"].setdefault(thread_id, {"self_replies": 0, "alerted": []})
@@ -880,10 +1024,13 @@ def reread(handle, acct, post):
     found = []
     url = f"https://x.com/{handle}/status/{post['id']}"
     for kind, key, part, _prev in decide(res, acct["biases"], thread["alerted"]):
-        log_alert(kind, handle, unit, part, res["prices"], correction=True, sent_at=post.get("created_at", ""))
-        thread["alerted"].append(key)
+        ended = []
         if kind == "trade":
-            record_position(acct["positions"], part, post, url)
+            ended = record_position(acct["positions"], part, post, url)
+            add_closed(acct, ended)
+        log_alert(kind, handle, unit, part, res["prices"], correction=True, sent_at=post.get("created_at", ""),
+                  **({"ended": ended} if ended else {}))
+        thread["alerted"].append(key)
         found.append(f"{part['direction'].upper()} {part['asset']}" if kind == "trade" else f"{part['stance']} on {part['scope']}")
     t, b = res["trade"], res["bias"]
     if not (t["present"] and t["confidence"] >= MIN_CONFIDENCE):
@@ -947,6 +1094,145 @@ def process_feedback(x, state, dry_run=False):
     return errors
 
 
+TOPIC_SCHEMA = {
+    "type": "object",
+    "properties": {"trading_ids": {"type": "array", "items": {"type": "string"}}},
+    "required": ["trading_ids"],
+    "additionalProperties": False,
+}
+TOPIC_PROMPT = """You sort a trader's posts on X for a dashboard that shows only posts about trading and markets.
+
+Return the ids of the posts about trading or markets: a coin, token, stock or other asset; prices, charts, levels \
+or setups; positions, entries, exits or P&L; where the market is heading; macro or news discussed for its effect \
+on markets; launches, airdrops or protocols discussed as investments. Short reactions to price action ("we're so \
+back", "send it") count. Leave out everything else: jokes, life updates, politics, sports, banter, and replies \
+with no market content. A post marked [image] may be a chart; count it if the words fit."""
+
+
+def tag_topics(handle, acct):
+    """Mark which stored posts and replies are about trading or markets, for the Posts tab's filter. One
+    short call per account, only for posts not tagged yet. A failure just leaves them for the next run."""
+    tags = acct.setdefault("trading", {})
+    todo = [p for p in acct["posts"] + acct["replies"] if p["id"] not in tags]
+    if not todo:
+        return
+    lines = []
+    for p in todo:
+        line = f"[{p['id']}] {p['text']}"
+        if p.get("quoted_text"):
+            line += f"\n  (quoting: {p['quoted_text']})"
+        if p.get("images"):
+            line += " [image]"
+        lines.append(line)
+    kwargs = dict(model=MODEL, max_tokens=2000, system=TOPIC_PROMPT,
+                  messages=[{"role": "user", "content": [{"type": "text", "text": f"Posts by @{handle}:\n\n" + "\n\n".join(lines)}]}],
+                  output_config={"effort": "low", "format": {"type": "json_schema", "schema": TOPIC_SCHEMA}})
+    if MODEL in FALLBACK_MODELS:
+        kwargs.update(betas=["server-side-fallback-2026-07-01"], fallbacks="default")
+    try:
+        resp = claude().beta.messages.create(**kwargs)
+        if resp.stop_reason == "refusal":
+            return
+        ids = set(json.loads(next(b.text for b in resp.content if b.type == "text"))["trading_ids"])
+    except (anthropic.APIError, json.JSONDecodeError, StopIteration, KeyError) as e:
+        print(f"@{handle}: sorting posts for the dashboard failed, will retry next run: {e}", file=sys.stderr)
+        return
+    for p in todo:
+        tags[p["id"]] = p["id"] in ids
+    print(f"@{handle}: {len(ids & {p['id'] for p in todo})} of {len(todo)} newly saved post(s) are about trading")
+
+
+def dashboard_url():
+    repo = os.environ.get("GITHUB_REPOSITORY", "")
+    owner, _, name = repo.partition("/")
+    return f"https://{owner.lower()}.github.io/{name}/" if owner and name else ""
+
+
+def summary_line(a):
+    who = f"@{a['handle']}"
+    if a["kind"] == "bias":
+        return f"{who} now {a['stance']} on {a['scope']}"
+    d = a.get("direction", "")
+    if d in ("exit", "trim"):
+        word = "closed" if d == "exit" else "trimmed"
+        ended = a.get("ended") or []
+        moves = [f"{e['asset']} {e['move']:+.1f}%" for e in ended if e.get("move") is not None]
+        side = {e["direction"] for e in ended if e.get("direction")}
+        return f"{who} {word} {a.get('asset') or '?'}{' ' + side.pop() if len(side) == 1 else ''}" + (f" ({', '.join(moves)} their way)" if moves else "")
+    return f"{who} {d.upper()} {a.get('asset') or '?'}"
+
+
+def morning_summary(state, now=None, dry_run=False):
+    """Once a day, at the first run after SUMMARY_HOUR local time, one ping listing the calls from the 12
+    hours before (8pm to 8am by default). Nothing is sent on a quiet night, or if the bot first runs that
+    day after noon (by then it's old news)."""
+    try:
+        tz = ZoneInfo(SUMMARY_TZ)
+    except (ZoneInfoNotFoundError, ValueError):
+        print(f"::warning::SUMMARY_TZ {SUMMARY_TZ!r} isn't a known time zone; using UTC for the morning summary.")
+        tz = timezone.utc
+    local = (now or datetime.now(timezone.utc)).astimezone(tz)
+    today = local.date().isoformat()
+    if local.hour < SUMMARY_HOUR or state.get("summary_date") == today:
+        return
+    end = local.replace(hour=SUMMARY_HOUR, minute=0, second=0, microsecond=0)
+    start = end - timedelta(hours=12)
+
+    def when(a):
+        try:
+            return datetime.fromisoformat(a["sent_at"].replace("Z", "+00:00"))
+        except (KeyError, ValueError, AttributeError):
+            return None
+
+    night = [a for a in read_alerts() if not a.get("backfill") and not a.get("correction")
+             and when(a) and start <= when(a) < end]
+    state["summary_date"] = today
+    if local - end > timedelta(hours=4):
+        print("morning summary: skipped, the bot's first run today came too late for it")
+        return
+    if not night:
+        print("morning summary: quiet night, nothing sent")
+        return
+    trades = sum(a["kind"] == "trade" for a in night)
+    views = len(night) - trades
+    counts = [f"{trades} trade call{'s' * (trades != 1)}" if trades else "", f"{views} view change{'s' * (views != 1)}" if views else ""]
+    title = "Overnight: " + " and ".join(c for c in counts if c)
+    body = "\n".join(f"• {summary_line(a)}" for a in night)
+    if dry_run:
+        print(f"{title}\n{body}\n")
+        return
+    send_summary(title, body, dashboard_url())
+
+
+def send_summary(title, body, url):
+    """The morning summary goes to the same places as trade pings, at normal priority."""
+    env = os.environ
+    if env.get("NTFY_TOPIC"):
+        msg = {"topic": env["NTFY_TOPIC"], "title": title, "message": body.encode()[:3500].decode(errors="ignore"),
+               "priority": 3, "tags": ["sunrise"]}
+        if url:
+            msg.update(click=url, actions=[{"action": "view", "label": "Open dashboard", "url": url, "clear": True}])
+        headers = {"Authorization": f"Bearer {env['NTFY_TOKEN']}"} if env.get("NTFY_TOKEN") else {}
+        try:
+            requests.post(env.get("NTFY_SERVER") or "https://ntfy.sh", json=msg, headers=headers, timeout=15).raise_for_status()
+        except requests.RequestException as e:
+            print(f"  ntfy send failed: {e}", file=sys.stderr)
+    if env.get("DISCORD_WEBHOOK_URL"):
+        try:
+            embed = {"title": title[:250], "description": body[:4000], "color": COLORS["neutral"]}
+            if url:
+                embed["url"] = url
+            send_discord(env["DISCORD_WEBHOOK_URL"], {"username": "X Trade Bot", "embeds": [embed]})
+        except requests.RequestException as e:
+            print(f"  discord send failed: {e}", file=sys.stderr)
+    if env.get("TELEGRAM_BOT_TOKEN") and env.get("TELEGRAM_CHAT_ID"):
+        try:
+            send_telegram(env["TELEGRAM_BOT_TOKEN"], env["TELEGRAM_CHAT_ID"], title, body, url)
+        except requests.RequestException as e:
+            print(f"  telegram send failed: {e}", file=sys.stderr)
+    print(f"morning summary sent: {title}")
+
+
 def backfill(x, handle, acct, posts=None, dry_run=False):
     """Read an account's last BACKFILL_POSTS main posts once, oldest first, to fill in its open trades and
     views on the dashboard. Finds go to the feed marked as history; no pings. Same reading as live posts:
@@ -972,11 +1258,11 @@ def backfill(x, handle, acct, posts=None, dry_run=False):
 
     own = [slim(p) for p in posts if is_own_post(p, uid)]
     others = [slim(p) for p in posts if not is_own_post(p, uid)]
-    positions, biases, found, threads, reads = {}, {}, [], {}, {}
+    positions, biases, found, threads, reads, closed = {}, {}, [], {}, {}, []
     for m in mains:
         unit = {"main": m, "reply": replies[m["id"]], "late": False}
         before = lambda items: [h for h in items if int(h["id"]) < int(m["id"])]
-        ctx = {"posts": before(own), "replies": before(others), "biases": biases}
+        ctx = {"posts": before(own), "replies": before(others), "biases": biases, "positions": positions}
         res = classify(handle, unit, ctx)
         alerts = decide(res, biases)
         print(f"@{handle} {m['id']} (history): {', '.join(a[1] for a in alerts) or 'nothing'}")
@@ -984,17 +1270,19 @@ def backfill(x, handle, acct, posts=None, dry_run=False):
         if unit["reply"]:
             reads[unit["reply"]["id"]] = "Read together with the post it replies to"
         for kind, _key, part, _prev in alerts:
-            found.append((kind, unit, part, res["prices"]))
-            if kind == "trade":
-                record_position(positions, part, m, f"https://x.com/{handle}/status/{m['id']}")
+            ended = record_position(positions, part, m, f"https://x.com/{handle}/status/{m['id']}") if kind == "trade" else []
+            closed += ended
+            found.append((kind, unit, part, res["prices"], ended))
         if res:
             record_bias(biases, res["bias"], m)
         threads[m["id"]] = {"self_replies": 1 if unit["reply"] else 0, "alerted": [a[1] for a in alerts]}
 
     if dry_run:
         return
-    for kind, unit, part, prices in found:
-        log_alert(kind, handle, unit, part, prices, backfill=True, sent_at=unit["main"].get("created_at", ""))
+    for kind, unit, part, prices, ended in found:
+        log_alert(kind, handle, unit, part, prices, backfill=True, sent_at=unit["main"].get("created_at", ""),
+                  **({"ended": ended} if ended else {}))
+    add_closed(acct, closed)
     # Anything recorded from live posts since the account was added is newer, so it wins.
     acct["positions"] = {**positions, **acct["positions"]}
     acct["biases"] = {**biases, **acct["biases"]}
@@ -1046,10 +1334,12 @@ def poll(dry_run=False):
                     StopIteration) as e:
                 print(f"@{handle}: reading recent history failed, will retry next run: {e}", file=sys.stderr)
                 errors += 1
-        if first_run:
-            continue
-        print(f"@{handle}: {len(posts)} new post(s) and replies")
-        errors += process_account(x, handle, acct, posts, dry_run)
+        if not first_run:
+            print(f"@{handle}: {len(posts)} new post(s) and replies")
+            errors += process_account(x, handle, acct, posts, dry_run)
+        if not dry_run:
+            tag_topics(handle, acct)
+    morning_summary(state, dry_run=dry_run)
     if not dry_run:
         save_state(state)
     return errors
@@ -1108,7 +1398,7 @@ def run_cases():
         unit = {"main": test_post(c["text"], images=c.get("images"), created_at=c.get("created_at", "")),
                 "reply": test_post(c["reply"], "1") if c.get("reply") else None, "late": False}
         ctx = {"posts": [dict(h, id=f"h{i}") for i, h in enumerate(c.get("history", []))],
-               "replies": [], "biases": c.get("biases", {})}
+               "replies": [], "biases": c.get("biases", {}), "positions": c.get("positions", {})}
         res = classify(c.get("handle", "someone"), unit, ctx, c.get("prices"))
         problems = check_case(c, res) if res else ["model declined"]
         misses += bool(problems)

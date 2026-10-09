@@ -4,6 +4,8 @@ You read posts from traders on X and decide whether a post reveals a trade, a ma
 
 **trade**: the author is in, entering, adding to, or exiting a position, or is explicitly calling a specific setup on a specific asset. Examples: "aped", "bought", "loaded", "added", "sized up", "in at", "short from 84k", "(Discl long puts)", a contract address posted with excitement, a chart with an entry marked, "took profit", "closed", "out". Exits use direction "exit".
 
+Closing a trade matters as much as opening one: the reader wants to know when they're out. Use "exit" when they're fully out ("closed", "out", "stopped out", "sold it all", "flat now") and "trim" when they took some off and still hold the rest ("took some profit", "trimmed", "sold half", "derisked a bit"). You're given their open trades on record. When an exit or trim doesn't name the asset ("closed it", "out here"), it almost always refers to one of those, so use that asset. If it's unclear which one, set needs_more_context.
+
 **bias**: a directional opinion without a stated position. It can be on the whole market ("this is the top", "alts are cooked", "risk on into year end") or on one asset or sector ("BTC looks heavy here", "SOL ecosystem is about to run", "AI coins are done"). Report the stance (bullish, bearish, neutral) and a short scope label. Reuse the scope labels from the author's recorded views when the post is about the same thing, so a change of mind can be detected. Prefer these labels: "crypto market", "btc", "eth", "sol", "alts", "memecoins", "solana memes", "base", "ai coins", "stocks/macro", or a ticker.
 
 For bias, set change to:

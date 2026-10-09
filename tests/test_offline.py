@@ -18,6 +18,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 import bot  # noqa: E402
 
 UID = "123"
+REAL_TAG_TOPICS = bot.tag_topics  # Base stubs it out so other tests' fake Claude results line up
 
 
 class FakeResp:
@@ -88,6 +89,9 @@ class Base(unittest.TestCase):
             mock.patch.object(bot, "FEEDBACK_PATH", self.tmp / "feedback.jsonl"),
             mock.patch.object(bot, "LESSONS_DIR", self.tmp / "lessons"),
             mock.patch.object(bot, "price_context", lambda text: ["BTC: $84,000.00"]),
+            mock.patch.object(bot, "coinbase_price", lambda sym: None),
+            mock.patch.object(bot, "dexscreener_lookup", lambda q: None),
+            mock.patch.object(bot, "tag_topics", lambda handle, acct: None),  # has its own test
             mock.patch.dict(os.environ, self.env, clear=False),
         ]
         for p in self.patches:
@@ -387,6 +391,61 @@ class PollTest(Base):
         self.run_poll({"data": [tweet("4", "closed my sol")]}, exit_)
         self.assertEqual(self.state()["positions"], {})
 
+    def test_exit_ping_says_when_they_got_in_and_how_it_went(self):
+        self.set_state()
+        self.run_poll({"data": [tweet("2", "79k btc would benefit me")]}, SHORT_BTC)
+        self.assertEqual(self.state()["positions"]["BTC"]["open_price"], 84000.0)
+        self.sent.clear()
+
+        exit_ = result(trade={"present": True, "asset": "BTC", "direction": "exit", "confidence": 0.9,
+                              "reason": "Says closed."})
+        with mock.patch.object(bot, "price_context", lambda text: ["BTC: $80,000.00"]):
+            self.run_poll({"data": [tweet("3", "closed it, thanks for the dump")]}, exit_)
+        self.assertIn("open trades on record", self.prompts()[0])
+        self.assertIn("- BTC: short (since 2026-10-03)", self.prompts()[0])
+        embed = self.sent[0][1]["embeds"][0]
+        self.assertEqual(embed["title"], "CLOSED · @based16z: BTC short")
+        trade = next(f["value"] for f in embed["fields"] if f["name"] == "Trade")
+        self.assertIn("opened 2026-10-03 · held 1d", trade)
+        self.assertIn("$84,000.00 → $80,000.00 (+4.8% their way)", trade)
+        st = self.state()
+        self.assertEqual(st["positions"], {})
+        self.assertEqual([(c["asset"], c["direction"], c["move"]) for c in st["closed"]], [("BTC", "short", 4.8)])
+        logged = json.loads((self.tmp / "alerts.jsonl").read_text().splitlines()[-1])
+        self.assertEqual(logged["ended"][0]["close_price"], 80000.0)
+
+    def test_trim_keeps_the_trade_open_and_flip_closes_it(self):
+        self.set_state()
+        long_ = result(trade={"present": True, "asset": "BTC", "direction": "long", "confidence": 0.9})
+        self.run_poll({"data": [tweet("2", "long btc")]}, long_)
+        self.sent.clear()
+        trim = result(trade={"present": True, "asset": "BTC", "direction": "trim", "confidence": 0.9})
+        self.run_poll({"data": [tweet("3", "took some off")]}, trim)
+        self.assertEqual(self.sent[0][1]["embeds"][0]["title"], "TRIMMED · @based16z: BTC long")
+        self.assertIn("BTC", self.state()["positions"])
+        self.assertEqual(self.state()["closed"], [])
+
+        short = result(trade={"present": True, "asset": "BTC", "direction": "short", "confidence": 0.9})
+        self.run_poll({"data": [tweet("4", "flipped short")]}, short)
+        st = self.state()
+        self.assertEqual(st["positions"]["BTC"]["direction"], "short")
+        self.assertEqual([(c["direction"], c["flipped"]) for c in st["closed"]], [("long", True)])
+
+    def test_exit_of_a_trade_never_seen_still_pings(self):
+        self.set_state()
+        exit_ = result(trade={"present": True, "asset": "PEPE", "direction": "exit", "confidence": 0.9})
+        self.run_poll({"data": [tweet("2", "out of pepe")]}, exit_)
+        self.assertEqual(self.sent[0][1]["embeds"][0]["title"], "CLOSED · @based16z: PEPE")
+        trade = next(f["value"] for f in self.sent[0][1]["embeds"][0]["fields"] if f["name"] == "Trade")
+        self.assertIn("entry not seen by the bot", trade)
+
+    def test_asset_price_only_trusts_safe_matches(self):
+        dex = "WIF (dogwifhat) on solana, price $1.92, mcap $1,900,000,000, CA EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm"
+        self.assertEqual(bot.asset_price("BTC", prices=["BTC: $84,000.00"]), 84000.0)
+        self.assertEqual(bot.asset_price("WIF", "solana", prices=[dex]), 1.92)
+        self.assertIsNone(bot.asset_price("WIF", "base", prices=[dex]), "wrong chain")
+        self.assertIsNone(bot.asset_price("NVDA", prices=[dex]), "stocks aren't priced")
+
     def test_low_confidence_is_not_sent(self):
         self.set_state()
         weak = result(trade={"present": True, "asset": "BTC", "direction": "short", "confidence": 0.3})
@@ -582,3 +641,79 @@ class UnitTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class MorningSummaryTest(Base):
+    def alert(self, at, **kw):
+        a = {"sent_at": at, "kind": "trade", "handle": "based16z", "direction": "long", "asset": "SOL", **kw}
+        with (self.tmp / "alerts.jsonl").open("a") as f:
+            f.write(json.dumps(a) + "\n")
+
+    def test_sends_overnight_calls_once(self):
+        env = {"NTFY_TOPIC": "t", "DISCORD_WEBHOOK_URL": "", "GITHUB_REPOSITORY": "Someone/x-trade-bot"}
+        self.alert("2026-10-08T22:00:00+00:00")  # 6pm New York: before the night, already pinged live
+        self.alert("2026-10-09T03:00:00+00:00", asset="PEPE")
+        self.alert("2026-10-09T05:00:00+00:00", kind="bias", stance="bearish", scope="alts")
+        self.alert("2026-10-09T06:00:00+00:00", direction="exit", asset="BTC",
+                   ended=[{"asset": "BTC", "direction": "short", "move": 4.8}])
+        self.alert("2026-10-09T07:00:00+00:00", backfill=True)
+        state = {}
+        with mock.patch.dict(os.environ, env):
+            bot.morning_summary(state, now=datetime.fromisoformat("2026-10-09T11:30:00+00:00"))  # 7:30am NY
+            self.assertEqual(self.sent, [])
+            bot.morning_summary(state, now=datetime.fromisoformat("2026-10-09T12:05:00+00:00"))  # 8:05am NY
+            bot.morning_summary(state, now=datetime.fromisoformat("2026-10-09T12:10:00+00:00"))
+        self.assertEqual(len(self.sent), 1)
+        msg = self.sent[0][1]
+        self.assertEqual(msg["title"], "Overnight: 2 trade calls and 1 view change")
+        self.assertEqual(msg["message"], "• @based16z LONG PEPE\n• @based16z now bearish on alts\n"
+                                         "• @based16z closed BTC short (BTC +4.8% their way)")
+        self.assertEqual(msg["click"], "https://someone.github.io/x-trade-bot/")
+        self.assertEqual(state["summary_date"], "2026-10-09")
+
+    def test_quiet_night_or_late_start_sends_nothing(self):
+        self.alert("2026-10-09T03:00:00+00:00")
+        state = {"summary_date": "2026-10-08"}
+        with mock.patch.dict(os.environ, {"NTFY_TOPIC": "t"}):
+            bot.morning_summary(state, now=datetime.fromisoformat("2026-10-09T18:00:00+00:00"))  # 2pm NY
+            self.assertEqual(self.sent, [])
+            self.assertEqual(state["summary_date"], "2026-10-09")
+            bot.morning_summary(state, now=datetime.fromisoformat("2026-10-10T12:05:00+00:00"))
+        self.assertEqual(self.sent, [])
+
+
+class TagTopicsTest(Base):
+    def test_marks_trading_posts_once(self):
+        acct = bot.new_account("based16z")
+        acct["posts"] = [{"id": "1", "text": "btc to 100k"}, {"id": "2", "text": "happy birthday mom"}]
+        acct["replies"] = [{"id": "3", "text": "loaded more", "images": ["https://img/1.png"]}]
+        bot._client = fake_claude({"trading_ids": ["1", "3"]})
+        REAL_TAG_TOPICS("based16z", acct)
+        self.assertEqual(acct["trading"], {"1": True, "2": False, "3": True})
+        prompt = self.prompts()[0]
+        self.assertIn("[2] happy birthday mom", prompt)
+        self.assertIn("[3] loaded more [image]", prompt)
+        REAL_TAG_TOPICS("based16z", acct)  # nothing new: no second call
+        self.assertEqual(bot._client.beta.messages.create.call_count, 1)
+
+    def test_failure_leaves_posts_for_next_run(self):
+        acct = bot.new_account("based16z")
+        acct["posts"] = [{"id": "1", "text": "btc"}]
+        bot._client = fake_claude()  # no result: raises StopIteration
+        REAL_TAG_TOPICS("based16z", acct)
+        self.assertEqual(acct["trading"], {})
+
+
+class PositionTest(unittest.TestCase):
+    def test_adding_keeps_the_first_entry(self):
+        positions = {}
+        t = dict(asset="BTC", direction="long", structure="", entry="", horizon="", chain="", contract_address="",
+                 confidence=0.9, reason="r")
+        bot.record_position(positions, t, {"id": "1", "created_at": "2026-10-01T00:00:00Z"}, "u1", ["BTC: $80,000.00"])
+        bot.record_position(positions, t, {"id": "2", "created_at": "2026-10-03T00:00:00Z"}, "u2", ["BTC: $90,000.00"])
+        self.assertEqual((positions["BTC"]["since"], positions["BTC"]["open_price"], positions["BTC"]["url"]),
+                         ("2026-10-01T00:00:00Z", 80000.0, "u2"))
+        ended = bot.record_position(positions, {**t, "direction": "exit"}, {"id": "3", "created_at": "2026-10-04T00:00:00Z"},
+                                    "u3", ["BTC: $88,000.00"])
+        self.assertEqual(ended[0]["move"], 10.0)
+        self.assertEqual(bot.ended_lines(ended), ["BTC long · opened 2026-10-01 · held 3d · $80,000.00 → $88,000.00 (+10.0% their way)"])

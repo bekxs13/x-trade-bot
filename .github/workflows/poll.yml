@@ -50,6 +50,9 @@ jobs:
           MODEL: ${{ vars.MODEL || 'claude-opus-5-5' }}
           MIN_CONFIDENCE: ${{ vars.MIN_CONFIDENCE || '0.7' }}
           SELF_REPLIES_PER_POST: ${{ vars.SELF_REPLIES_PER_POST || '1' }}
+          # Morning summary of overnight calls: your time zone and the hour it's sent.
+          SUMMARY_TZ: ${{ vars.SUMMARY_TZ || 'America/New_York' }}
+          SUMMARY_HOUR: ${{ vars.SUMMARY_HOUR || '8' }}
         run: python bot.py ${{ inputs.test_cases && '--test-cases' || inputs.test_notify && '--test-notify' || '' }}
       - name: Save state
         if: always()
