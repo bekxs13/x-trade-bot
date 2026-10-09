@@ -407,7 +407,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2108364401392955456",
+      "last_id": "2108374505039307132",
       "positions": {},
       "posts": [
         {
@@ -440,12 +440,19 @@
           "id": "2108364075583635727",
           "quoted_text": "Market structure on previously strong coins are very broken while majors are respecting ceilings at yearly opens. Best case would rangebound PA 81-89 ish, worst case we start to find acceptance below btc 81. \n\nLose as little as possible between your good ideas https://t.co/OER1gaxLjs",
           "text": "Market structure on previously strong coins was indeed broken and yearly opens continued to get respected. Things look much worse with eth below 25s. Btc above 81 sure but can\u2019t really expect alts to go for strong trends again. \n\nLose as little as possible between your good ideas https://t.co/9VlJlOo6MN"
+        },
+        {
+          "created_at": "2026-10-09T01:50:28.000Z",
+          "id": "2108374505039307132",
+          "quoted_text": "Kinda forgot I guaranteed the groupchat that if btc closes green for the year I have to circumcise myself",
+          "text": "Please man just 3 more months https://t.co/QzzltGk63m"
         }
       ],
       "reads": {
         "2107994669020025063": "No call",
         "2108306849481281915": "No call",
-        "2108364075583635727": "No call: bearish on alts (same view as before)"
+        "2108364075583635727": "No call: bearish on alts (same view as before)",
+        "2108374505039307132": "No call"
       },
       "replies": [
         {
@@ -551,6 +558,10 @@
         "2108364075583635727": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108374505039307132": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -574,7 +585,8 @@
         "2108309703059243057": false,
         "2108309796445409325": false,
         "2108364075583635727": true,
-        "2108364401392955456": false
+        "2108364401392955456": false,
+        "2108374505039307132": true
       },
       "user_id": "953032269433745408"
     },
@@ -857,7 +869,7 @@
       "biases": {},
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2108363050353148354",
+      "last_id": "2108366222924329024",
       "positions": {},
       "posts": [
         {
@@ -951,12 +963,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-08T19:08:20.000Z",
-          "id": "2108273306855940289",
-          "reply_to_id": "2108273225394516052",
-          "text": "@kni_ksfan thanks g"
-        },
-        {
           "created_at": "2026-10-08T19:14:08.000Z",
           "id": "2108274763294560538",
           "reply_to_id": "2108274480636440592",
@@ -1039,6 +1045,12 @@
           "id": "2108358621318783202",
           "reply_to_id": "2108358271367369027",
           "text": "@B0bakaBOBO classic d&amp;b ta"
+        },
+        {
+          "created_at": "2026-10-09T01:17:33.000Z",
+          "id": "2108366222924329024",
+          "reply_to_id": "2108365184410525931",
+          "text": "@Buckerino \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d"
         }
       ],
       "threads": {
@@ -1094,7 +1106,6 @@
         "2108238398289031272": false,
         "2108244221136138304": true,
         "2108253833310744642": true,
-        "2108273306855940289": false,
         "2108274102997786818": true,
         "2108274763294560538": false,
         "2108276636013777090": false,
@@ -1111,7 +1122,8 @@
         "2108357891342147982": false,
         "2108358621318783202": true,
         "2108363007856128483": false,
-        "2108363050353148354": false
+        "2108363050353148354": false,
+        "2108366222924329024": false
       },
       "user_id": "1426732252768182281"
     },
@@ -1337,7 +1349,7 @@
       "biases": {},
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2108214861054284161",
+      "last_id": "2108368465883230243",
       "positions": {},
       "posts": [
         {
@@ -1404,6 +1416,11 @@
           "created_at": "2026-10-08T15:16:06.000Z",
           "id": "2108214861054284161",
           "text": "Do you have the patience to sit in cash for months?"
+        },
+        {
+          "created_at": "2026-10-09T01:26:28.000Z",
+          "id": "2108368465883230243",
+          "text": "Feels like I just woke up from a trance.\n\nExciting news to come into end of year."
         }
       ],
       "reads": {
@@ -1416,7 +1433,8 @@
         "2107871088717726010": "No call",
         "2107893628349956318": "No call",
         "2107941658998309343": "No call",
-        "2108214861054284161": "No call"
+        "2108214861054284161": "No call",
+        "2108368465883230243": "No call"
       },
       "replies": [
         {
@@ -1498,6 +1516,10 @@
         "2108214861054284161": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108368465883230243": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1519,11 +1541,12 @@
         "2107894568507085235": false,
         "2107906207881232630": false,
         "2107941658998309343": false,
-        "2108214861054284161": true
+        "2108214861054284161": true,
+        "2108368465883230243": false
       },
       "user_id": "809191427645181952"
     }
   },
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T01:12:00+00:00"
+  "updated_at": "2026-10-09T01:52:52+00:00"
 }
