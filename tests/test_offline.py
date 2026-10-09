@@ -18,7 +18,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 import bot  # noqa: E402
 
 UID = "123"
-REAL_TAG_TOPICS = bot.tag_topics  # Base stubs it out so other tests' fake Claude results line up
+REAL_TAG_TOPICS = bot.tag_topics  # Base stubs these out so other tests' fake Claude results line up
+REAL_LABEL_MARKETS = bot.label_markets
 
 
 class FakeResp:
@@ -38,9 +39,9 @@ class FakeResp:
 
 
 def result(trade=None, bias=None, needs_more=False):
-    t = {"present": False, "asset": "", "chain": "", "contract_address": "", "direction": "long", "structure": "",
+    t = {"present": False, "asset": "", "market": "crypto", "chain": "", "contract_address": "", "direction": "long", "structure": "",
          "entry": "", "horizon": "", "source": "inferred", "confidence": 0.0, "reason": ""}
-    b = {"present": False, "scope": "", "stance": "neutral", "change": "new", "horizon": "", "confidence": 0.0, "reason": ""}
+    b = {"present": False, "scope": "", "market": "crypto", "stance": "neutral", "change": "new", "horizon": "", "confidence": 0.0, "reason": ""}
     t.update(trade or {})
     b.update(bias or {})
     return {"trade": t, "bias": b, "needs_more_context": needs_more, "more_context_reason": ""}
@@ -92,6 +93,7 @@ class Base(unittest.TestCase):
             mock.patch.object(bot, "coinbase_price", lambda sym: None),
             mock.patch.object(bot, "dexscreener_lookup", lambda q: None),
             mock.patch.object(bot, "tag_topics", lambda handle, acct: None),  # has its own test
+            mock.patch.object(bot, "label_markets", lambda state: None),  # has its own test
             mock.patch.dict(os.environ, self.env, clear=False),
         ]
         for p in self.patches:
@@ -717,3 +719,38 @@ class PositionTest(unittest.TestCase):
                                     "u3", ["BTC: $88,000.00"])
         self.assertEqual(ended[0]["move"], 10.0)
         self.assertEqual(bot.ended_lines(ended), ["BTC long · opened 2026-10-01 · held 3d · $80,000.00 → $88,000.00 (+10.0% their way)"])
+
+
+class LabelMarketsTest(Base):
+    def test_labels_earlier_calls_once(self):
+        state = {"accounts": {"m": {
+            "positions": {"NVDA": {"asset": "NVDA", "direction": "short", "reason": "long puts"},
+                          "STRK": {"asset": "STRK", "chain": "bnb", "market": "crypto"}},
+            "biases": {"stocks/macro": {"scope": "stocks/macro", "stance": "bearish"}},
+            "closed": [{"asset": "NVDA", "direction": "short"}]}}}
+        (self.tmp / "alerts.jsonl").write_text(json.dumps({"kind": "trade", "asset": "NVDA"}) + "\n"
+                                               + json.dumps({"kind": "bias", "scope": "alts"}) + "\n")
+        bot._client = fake_claude({"labels": [{"id": "trade:nvda", "market": "stocks"},
+                                              {"id": "bias:stocks/macro", "market": "stocks"},
+                                              {"id": "bias:alts", "market": "crypto"}]})
+        REAL_LABEL_MARKETS(state)
+        acct = state["accounts"]["m"]
+        self.assertEqual(acct["positions"]["NVDA"]["market"], "stocks")
+        self.assertEqual(acct["closed"][0]["market"], "stocks")
+        self.assertEqual(acct["biases"]["stocks/macro"]["market"], "stocks")
+        logged = [json.loads(x) for x in (self.tmp / "alerts.jsonl").read_text().splitlines()]
+        self.assertEqual([a["market"] for a in logged], ["stocks", "crypto"])
+        prompt = self.prompts()[0]
+        self.assertIn("[trade:nvda] a trade in NVDA (long puts)", prompt)
+        self.assertNotIn("strk", prompt)
+        self.assertTrue(state["markets_labeled"])
+        REAL_LABEL_MARKETS(state)  # done: no second call
+        self.assertEqual(bot._client.beta.messages.create.call_count, 1)
+
+    def test_stock_calls_are_labelled_in_pings(self):
+        self.set_state()
+        nvda = result(trade={"present": True, "asset": "NVDA", "market": "stocks", "direction": "short",
+                             "structure": "long puts", "confidence": 0.9})
+        self.run_poll({"data": [tweet("2", "(Discl long puts) NVDA 2w")]}, nvda)
+        self.assertEqual(self.sent[0][1]["embeds"][0]["title"], "TRADE · @based16z: SHORT NVDA (long puts) · stocks")
+        self.assertEqual(self.state()["positions"]["NVDA"]["market"], "stocks")

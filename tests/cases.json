@@ -147,5 +147,15 @@
       "direction": "exit",
       "asset": "SOL"
     }
+  },
+  {
+    "name": "stock options disclosure",
+    "text": "(Discl long puts) $NVDA 2d-2w. this AI capex story is cooked",
+    "prices": [],
+    "expect_trade": {
+      "direction": "short",
+      "asset": "NVDA",
+      "market": "stocks"
+    }
   }
 ]

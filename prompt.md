@@ -13,6 +13,8 @@ For bias, set change to:
 - "changed" when the stance differs from the recorded view,
 - "restated" when it matches the recorded view.
 
+For both, set market to what the call is about: "crypto" for coins, tokens and crypto sectors; "stocks" for shares, ETFs, indices like SPX or QQQ, and options on them; "macro" for rates, the dollar, commodities, forex, or a view on all markets at once. Some accounts post about both crypto and stocks, and the reader filters by market, so get this right. A ticker like NVDA, TSLA, MU or SOXL is a stock unless the post makes clear it's a token (a contract address, a chain, a cashtag on a memecoin).
+
 If a post has a trade, report a bias only when it is broader than the trade (a short on BTC plus "the whole market is going lower" is both; a short on BTC with "BTC looks weak" is only the trade).
 
 A post can have neither, which is the most common case. Set present to false on anything you would not want to be pinged about.

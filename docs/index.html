@@ -119,6 +119,7 @@ a.item-row:active { background: var(--surface-2); }
   display: grid; place-items: center; font-weight: 800; font-size: 15px; color: var(--muted); background: var(--surface-2); }
 .av img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 .av.sm { width: 32px; height: 32px; font-size: 13px; }
+.av.lg { width: 56px; height: 56px; font-size: 21px; }
 /* Lean ring: green bullish, red bearish, split for mixed, grey for neutral or no current view. */
 .ring { --ring: var(--flat); display: inline-grid; flex: none; padding: 3px; border-radius: 50%; background: var(--ring); }
 .ring .av { box-shadow: 0 0 0 2px var(--surface); }
@@ -141,6 +142,27 @@ a.item-row:active { background: var(--surface-2); }
 .chip { display: inline-flex; align-items: center; gap: 6px; padding: 6px 10px; border-radius: 10px; font-size: 13px; font-weight: 600; }
 .chip small { font-weight: 500; opacity: .75; }
 .who + .who { border-top: 1px solid var(--line); }
+.who[data-profile], [data-profile] { cursor: pointer; }
+.who-more { padding: 12px 18px; font-size: 12.5px; color: var(--faint); border-top: 1px solid var(--line); }
+/* Small market label on stock and macro calls (crypto is the usual case, so it goes unlabelled). */
+.mkt { flex: none; font-size: 10px; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; padding: 2px 6px; border-radius: 6px;
+  color: var(--accent); background: var(--accent-soft); }
+.line2 .mkt { display: inline-block; margin-right: 6px; vertical-align: 1px; padding: 1px 5px; }
+.mkt-seg { display: flex; width: 100%; margin-top: 10px; }
+.mkt-seg button { flex: 1; }
+.small-seg button { padding: 5px 11px; font-size: 12.5px; }
+.group-label { font-size: 11px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--faint); padding: 12px 14px 2px; }
+.list > .group-label + * { border-top: 0; }
+.line2.wrap { white-space: normal; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+
+/* ---- profile ---- */
+.back-btn { border: 0; background: none; color: var(--accent); font-weight: 650; font-size: 15px; display: inline-flex; align-items: center;
+  gap: 2px; padding: 8px 4px 8px 0; margin: 2px 0 6px; cursor: pointer; }
+.profile-card { position: relative; overflow: hidden; padding: 16px 16px 16px 20px; }
+.profile-head { display: flex; align-items: center; gap: 14px; }
+.profile-head h2 { margin: 0; font-size: 21px; font-weight: 800; letter-spacing: -.02em; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.lean-chips, .profile-actions { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+.profile-actions { gap: 8px; margin-top: 14px; }
 .empty { padding: 22px 16px; text-align: center; color: var(--muted); font-size: 14px; }
 .empty .em { font-size: 26px; display: block; margin-bottom: 6px; }
 
@@ -264,6 +286,9 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
 
 <main>
   <section id="tab-board">
+    <div class="seg mkt-seg" data-market-seg style="margin:2px 0 10px">
+      <button data-market="all" class="on">All</button><button data-market="crypto">Crypto</button><button data-market="stocks">Stocks</button><button data-market="macro">Macro</button>
+    </div>
     <div class="card hero" id="mood"></div>
     <div class="stats">
       <div class="card stat"><b id="s-trades" class="num">–</b><span>open trades</span></div>
@@ -282,6 +307,9 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
   </section>
 
   <section id="tab-feed" class="hidden">
+    <div class="seg mkt-seg" data-market-seg>
+      <button data-market="all" class="on">All</button><button data-market="crypto">Crypto</button><button data-market="stocks">Stocks</button><button data-market="macro">Macro</button>
+    </div>
     <div class="filters">
       <div class="seg" id="kind-seg">
         <button data-kind="all" class="on">All</button>
@@ -305,6 +333,8 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
     <p class="hint" id="posts-hint" style="margin:6px 4px 0"></p>
     <div id="posts" style="margin-top:12px"></div>
   </section>
+
+  <section id="tab-profile" class="hidden"></section>
 
   <section id="tab-accounts" class="hidden">
     <div class="section-title"><h2>Add an account</h2></div>
@@ -378,6 +408,11 @@ const API = `https://api.github.com/repos/${OWNER}/${REPO}/contents`;
 
 let state = {accounts: {}}, alerts = [], accounts = [], loaded = false, feedKind = "all", feedWho = "";
 let feedback = [], postsReplies = false, postsWho = "", postsOnly = true, checking = "";
+let market = "all";  // all, crypto, stocks or macro: filters the Board and Calls
+try { market = localStorage.getItem("xtb-market") || "all"; } catch {}
+// The open profile (#@handle in the address), and its own post filters.
+let profile = "", currentTab = "board", profileFromApp = false, tabScroll = 0, profileAllPosts = false, profileReplies = false;
+const profileNotesLoading = new Set();
 const lessons = {};  // lessons file name -> its text
 const notes = {};          // handle(lower) -> text, or null when there's no notes file yet
 const openNotes = new Set();  // accounts whose notes editor is open
@@ -405,15 +440,15 @@ function dayLabel(iso) {
   if (days === 1) return "Yesterday";
   return d.toLocaleDateString(undefined, {weekday: "short", month: "short", day: "numeric"});
 }
-function avatar(handle, cls = "") {
-  // Initials underneath; the real X avatar covers them when it loads. The ring shows their current lean.
-  const [lean, label] = leanOf(handle);
-  return `<span class="ring ring-${lean}" title="${esc(label)}"><span class="av ${cls}">${esc((handle[0] || "?").toUpperCase())}` +
+function avatar(handle, cls = "", m = market) {
+  // Initials underneath; the real X avatar covers them when it loads. The ring shows their current lean. Tap for their profile.
+  const [lean, label] = leanOf(handle, m);
+  return `<span class="ring ring-${lean}" title="${esc(label)}" data-profile="${esc(handle)}"><span class="av ${cls}">${esc((handle[0] || "?").toUpperCase())}` +
     `<img src="https://unavatar.io/x/${encodeURIComponent(handle)}?fallback=false" alt="" loading="lazy" onerror="this.remove()"></span></span>`;
 }
-// Overall lean from their current views: bullish or bearish when they all point one way, mixed when both.
-function leanOf(handle) {
-  const views = viewsOf(handle);
+// Lean from their current views in a market: bullish or bearish when they all point one way, mixed when both.
+function leanOf(handle, m = market) {
+  const views = viewsOf(handle, m);
   const ups = views.filter(v => v.stance === "bullish").length, downs = views.filter(v => v.stance === "bearish").length;
   return !views.length ? ["none", "No current view"] : ups && downs ? ["mixed", "Mixed"] : ups ? ["bullish", "Bullish"]
     : downs ? ["bearish", "Bearish"] : ["neutral", "Neutral"];
@@ -485,10 +520,26 @@ async function load() {
   $("refresh").classList.remove("spin");
 }
 
+// ---- markets: crypto, stocks, macro ----
+const MARKETS = {crypto: "Crypto", stocks: "Stocks", macro: "Macro"};
+// The bot tags each trade and view with its market. Older ones are guessed until the bot labels them.
+function marketOf(x) {
+  if (MARKETS[x.market]) return x.market;
+  if (x.chain || x.contract_address) return "crypto";
+  const name = low(x.asset || x.scope);
+  if (/stock|equit|spx|spy\b|qqq|nasdaq|s&p|\bdow\b/.test(name)) return "stocks";
+  if (/macro|\brates?\b|\bfed\b|dollar|dxy|gold|oil|bond|yield|forex/.test(name)) return "macro";
+  return "crypto";
+}
+const inMarket = (x, m = market) => m === "all" || marketOf(x) === m;
+// In the All view, stock and macro calls get a small label (crypto is the usual case).
+const marketTag = (x, always = false) => (always || market === "all") && marketOf(x) !== "crypto" ? `<span class="mkt">${marketOf(x)}</span>` : "";
+
 const acctState = handle => (state.accounts || {})[low(handle)] || {};
-const positionsOf = handle => Object.values(acctState(handle).positions || {});
-const viewsOf = handle => Object.values(acctState(handle).biases || {})
+const positionsOf = (handle, m = market) => Object.values(acctState(handle).positions || {}).filter(p => inMarket(p, m));
+const viewsOf = (handle, m = market) => Object.values(acctState(handle).biases || {}).filter(v => inMarket(v, m))
   .sort((x, y) => (y.updated_at || y.since || "").localeCompare(x.updated_at || x.since || ""));
+const closedOf = (handle, m = market) => (acctState(handle).closed || []).filter(c => inMarket(c, m));
 const notHere = s => !s || ["spot", "unknown"].includes(s);
 
 function render() {
@@ -499,12 +550,107 @@ function render() {
   $("status").textContent = checking || (!updated ? "Waiting for the bot" : stale ? `No update for ${ago(updated).replace(" ago", "")} · the bot may be paused`
     : `Live · ${ago(updated)}`);
   $("dot").className = "dot " + (!updated ? "" : stale ? "stale" : "live");
+  document.querySelectorAll("[data-market-seg] button").forEach(b => b.classList.toggle("on", b.dataset.market === market));
   renderBoard();
   renderFeed();
   renderPosts();
   renderAccounts();
   renderLearned();
+  if (profile) renderProfile();
 }
+
+// ---- rows and cards, shared by the tabs and the profile page ----
+function tradeRow(p, showWho = true) {
+  const detail = [notHere(p.structure) ? "" : p.structure, p.entry ? `entry ${p.entry}` : "", p.horizon].filter(Boolean).join(" · ");
+  const sub = [showWho ? `@${p.handle}` : "", detail].filter(Boolean).join(" · ");
+  return `<a class="item-row" href="${esc(p.url)}" target="_blank" rel="noopener">
+    ${showWho ? avatar(p.handle) : ""}
+    <div class="grow">
+      <div class="line1"><span class="badge ${esc(p.direction)}">${esc(p.direction)}</span><span class="asset">${esc(p.asset || p.contract_address || "?")}</span></div>
+      <div class="line2">${marketTag(p, !showWho)}${esc(sub || "open")}</div>
+    </div>
+    <div class="right">${ago(p.since)}</div>${CHEV}
+  </a>`;
+}
+function closedRow(c, showWho = true) {
+  const held = c.opened ? heldFor(c.opened, c.closed) : "";
+  const detail = [showWho ? `@${c.handle}` : "", c.flipped ? "flipped" : "", held ? `held ${held}` : c.opened ? "" : "entry not seen"].filter(Boolean);
+  const move = c.move == null ? "" : `<span class="${c.move >= 0 ? "move-up" : "move-down"}" title="How far price moved in their favour while they were in">${c.move > 0 ? "+" : ""}${c.move}%</span><br>`;
+  return `<a class="item-row" href="${esc(c.close_url)}" target="_blank" rel="noopener">
+    ${showWho ? avatar(c.handle) : ""}
+    <div class="grow">
+      <div class="line1"><span class="badge exit">closed</span>${c.direction ? `<span class="badge ${esc(c.direction)}">${esc(c.direction)}</span>` : ""}<span class="asset">${esc(c.asset)}</span></div>
+      <div class="line2">${marketTag(c, !showWho)}${esc(detail.join(" · "))}</div>
+    </div>
+    <div class="right">${move}${ago(c.closed)}</div>${CHEV}
+  </a>`;
+}
+function viewChip(v, h) {
+  const arrow = v.stance === "bullish" ? "▲" : v.stance === "bearish" ? "▼" : "●";
+  const url = v.post_id ? `https://x.com/${h}/status/${v.post_id}` : `https://x.com/${h}`;
+  return `<a class="chip ${esc(v.stance)}" href="${esc(url)}" target="_blank" rel="noopener" title="${esc(v.reason || "")}">${arrow} ${esc(v.scope)} <small>since ${esc((v.since || "").slice(5) || "?")}</small></a>`;
+}
+function callCard(a) {
+  const trade = a.kind === "trade";
+  const cls = trade ? a.direction : a.stance;
+  const label = {exit: "closed", trim: "trimmed"}[cls] || cls;
+  const what = trade ? `${a.asset || a.contract_address || "?"}${notHere(a.structure) ? "" : ` · ${a.structure}`}` : a.scope;
+  const conf = Math.round(Number(a.confidence || 0) * 100);
+  const facts = [
+    `<span class="conf"><i><b style="width:${conf}%"></b></i>${conf}% sure</span>`,
+    trade && a.source ? `<span>${esc(a.source)}</span>` : "",
+    a.entry ? `<span>entry ${esc(a.entry)}</span>` : "",
+    a.horizon ? `<span>${esc(a.horizon)}</span>` : "",
+    (a.prices || [])[0] ? `<span>${esc(a.prices[0])}</span>` : "",
+  ].join("");
+  return `<div class="card call">
+    <div class="call-head">${avatar(a.handle, "sm")}<span class="handle" data-profile="${esc(a.handle)}">@${esc(a.handle)}</span><span>${ago(a.sent_at)}</span>
+      <span class="grow"></span>${a.backfill ? `<span class="kind" title="Found when the account was added, from their last 10 posts. No ping was sent.">HISTORY</span>` : ""}<span class="kind">${trade ? "TRADE" : "VIEW"}</span></div>
+    <div class="call-title"><span class="badge ${esc(cls)}">${esc(label)}</span><span class="what">${esc(what)}</span>${marketTag(a)}</div>
+    <div class="reason">${esc(a.reason)}</div>
+    ${(a.ended || []).length ? `<div class="ended">${a.ended.map(endedLine).join("<br>")}</div>` : ""}
+    ${a.post ? `<div class="quote">${esc(a.post)}</div>` : ""}
+    ${a.contract_address ? `<div class="ca">${esc(a.chain || "CA")} · ${esc(a.contract_address)}</div>` : ""}
+    <div class="facts num">${facts}</div>
+    <div class="post-foot"><a class="open-x" style="margin:0" href="${esc(a.url)}" target="_blank" rel="noopener">Open on X ${CHEV}</a>
+      <button class="linkish" data-teach-url="${esc(a.url)}" data-teach-who="${esc(a.handle)}">Wrong? Teach the bot</button></div>
+  </div>`;
+}
+function alertsByPost() {
+  const byPost = {};
+  alerts.forEach(a => { const id = (a.url || "").split("/status/")[1]; if (id && !byPost[id]) byPost[id] = a; });
+  return byPost;
+}
+// A post counts as trading if it has a call (or a near-call), or the bot marked it as about trading or markets.
+const isTrading = (p, byPost) => /^(TRADE|VIEW|Corrected|No call:)/.test(p.read || "") || !!byPost[p.id] || p.trading === true;
+function savedPosts(h, withReplies) {
+  const a = acctState(h);
+  const own = (a.posts || []).map(p => ({...p, handle: h, reply: false}));
+  const others = withReplies ? (a.replies || []).map(p => ({...p, handle: h, reply: true})) : [];
+  return [...own, ...others].map(p => ({...p, read: (a.reads || {})[p.id], trading: (a.trading || {})[p.id]}));
+}
+const newestFirst = (x, y) => (BigInt(y.id) > BigInt(x.id) ? 1 : -1);
+function postCard(p, byPost) {
+  const url = `https://x.com/${p.handle}/status/${p.id}`;
+  let v = p.read, cls = "no-call";
+  if (!v && byPost[p.id]) {
+    const a = byPost[p.id];
+    v = a.kind === "trade" ? `TRADE ${String(a.direction).toUpperCase()} ${a.asset}` : `VIEW ${a.stance} on ${a.scope}`;
+  }
+  if (v) cls = v.startsWith("Corrected") ? "fixed" : v.startsWith("TRADE") ? "call-trade" : v.startsWith("VIEW") ? "call-view" : "no-call";
+  const tag = p.reply ? (p.reply_to_id ? "replying" : "reply") : (p.reply_to_id ? "thread" : "");
+  return `<div class="card post-card">
+    <div class="call-head">${avatar(p.handle, "sm")}<span class="handle" data-profile="${esc(p.handle)}">@${esc(p.handle)}</span><span>${ago(p.created_at)}</span>
+      ${tag ? `<span class="reply-tag">· ${tag}</span>` : ""}</div>
+    <div class="post-text">${esc(p.text)}</div>
+    ${p.quoted_text ? `<div class="post-quote">${esc(p.quoted_text)}</div>` : ""}
+    ${(p.images || []).length ? `<div class="thumbs">${p.images.map(u => `<a href="${esc(u)}" target="_blank" rel="noopener"><img src="${esc(u)}" alt="" loading="lazy" onerror="this.parentNode.remove()"></a>`).join("")}</div>` : ""}
+    ${v ? `<div class="verdict ${cls}">${esc(v)}</div>` : ""}
+    <div class="post-foot"><a class="open-x" style="margin:0" href="${esc(url)}" target="_blank" rel="noopener">Open on X ${CHEV}</a>
+      ${p.reply ? "" : `<button class="linkish" data-teach-url="${esc(url)}" data-teach-who="${esc(p.handle)}">Wrong? Teach the bot</button>`}</div>
+  </div>`;
+}
+const clampLong = sel => document.querySelectorAll(sel).forEach(q => q.classList.toggle("clamped", q.scrollHeight > q.clientHeight + 2));
 
 // ---- board ----
 function renderBoard() {
@@ -512,7 +658,7 @@ function renderBoard() {
   accounts.forEach(h => viewsOf(h).forEach(v => v.stance === "bullish" ? up++ : v.stance === "bearish" ? down++ : flat++));
   const total = up + down + flat;
   const mood = !total ? ["No views yet", ""] : up > down ? ["Leaning bullish", "up"] : down > up ? ["Leaning bearish", "down"] : ["Split", ""];
-  $("mood").innerHTML = `<div class="hero-label">Mood across the accounts you watch</div>
+  $("mood").innerHTML = `<div class="hero-label">${market === "all" ? "Mood" : `${MARKETS[market]} mood`} across the accounts you watch</div>
     <div class="hero-mood ${mood[1]}">${mood[0]}</div>
     <div class="meter">${[["m-up", up], ["m-flat", flat], ["m-down", down]].filter(([, n]) => n).map(([c, n]) => `<i class="${c}" style="flex-grow:${n}"></i>`).join("")}</div>
     <div class="meter-legend num">
@@ -524,97 +670,53 @@ function renderBoard() {
   const trades = accounts.flatMap(h => positionsOf(h).map(p => ({...p, handle: h})))
     .sort((x, y) => (y.since || "").localeCompare(x.since || ""));
   $("s-trades").textContent = trades.length;
-  $("s-calls").textContent = alerts.filter(a => Date.now() - new Date(a.sent_at) < 86400000).length;
+  $("s-calls").textContent = alerts.filter(a => inMarket(a) && Date.now() - new Date(a.sent_at) < 86400000).length;
   $("s-accts").textContent = accounts.length;
   $("trades-sub").textContent = trades.length ? `${new Set(trades.map(t => low(t.handle))).size} of ${accounts.length} accounts` : "";
-  $("trades").innerHTML = trades.map(p => {
-    const detail = [notHere(p.structure) ? "" : p.structure, p.entry ? `entry ${p.entry}` : "", p.horizon].filter(Boolean).join(" · ");
-    return `<a class="item-row" href="${esc(p.url)}" target="_blank" rel="noopener">
-      ${avatar(p.handle)}
-      <div class="grow">
-        <div class="line1"><span class="badge ${esc(p.direction)}">${esc(p.direction)}</span><span class="asset">${esc(p.asset || p.contract_address || "?")}</span></div>
-        <div class="line2">@${esc(p.handle)}${detail ? ` · ${esc(detail)}` : ""}</div>
-      </div>
-      <div class="right">${ago(p.since)}</div>${CHEV}
-    </a>`;
-  }).join("") || `<div class="empty"><span class="em">🪑</span>Nobody's in a trade right now.<br>Positions show up here when someone posts an entry, and leave when they post an exit.</div>`;
+  $("trades").innerHTML = trades.map(p => tradeRow(p)).join("")
+    || `<div class="empty"><span class="em">🪑</span>Nobody's in a${market === "all" ? "" : ` ${low(MARKETS[market])}`} trade right now.<br>Positions show up here when someone posts an entry, and leave when they post an exit.</div>`;
 
-  const closed = accounts.flatMap(h => (acctState(h).closed || []).map(c => ({...c, handle: h})))
+  const closed = accounts.flatMap(h => closedOf(h).map(c => ({...c, handle: h})))
     .filter(c => Date.now() - Date.parse(c.closed) < 14 * 86400000)
     .sort((x, y) => (y.closed || "").localeCompare(x.closed || "")).slice(0, 8);
   $("closed-wrap").classList.toggle("hidden", !closed.length);
   $("closed-sub").textContent = closed.length ? "last 2 weeks" : "";
-  $("closed").innerHTML = closed.map(c => {
-    const held = c.opened ? heldFor(c.opened, c.closed) : "";
-    const detail = [c.flipped ? "flipped" : "", held ? `held ${held}` : c.opened ? "" : "entry not seen"].filter(Boolean).map(esc);
-    const move = c.move == null ? "" : `<span class="${c.move >= 0 ? "move-up" : "move-down"}" title="How far price moved in their favour while they were in">${c.move > 0 ? "+" : ""}${c.move}%</span><br>`;
-    return `<a class="item-row" href="${esc(c.close_url)}" target="_blank" rel="noopener">
-      ${avatar(c.handle)}
-      <div class="grow">
-        <div class="line1"><span class="badge exit">closed</span>${c.direction ? `<span class="badge ${esc(c.direction)}">${esc(c.direction)}</span>` : ""}<span class="asset">${esc(c.asset)}</span></div>
-        <div class="line2">@${esc(c.handle)}${detail.length ? ` · ${detail.join(" · ")}` : ""}</div>
-      </div>
-      <div class="right">${move}${ago(c.closed)}</div>${CHEV}
-    </a>`;
-  }).join("");
+  $("closed").innerHTML = closed.map(c => closedRow(c)).join("");
 
-  $("views").innerHTML = accounts.map(h => {
+  // With a market picked, list only the accounts with a view or trade in it.
+  const shown = market === "all" ? accounts : accounts.filter(h => viewsOf(h).length || positionsOf(h).length);
+  const others = accounts.length - shown.length;
+  $("views").innerHTML = shown.map(h => {
     const views = viewsOf(h), lean = leanOf(h);
-    const last = alerts.find(x => low(x.handle) === low(h));
+    const last = alerts.find(x => low(x.handle) === low(h) && inMarket(x));
     const sub = !acctState(h).user_id ? "Starts on next check" : last ? `Last call ${ago(last.sent_at)}`
       : acctState(h).backfilled ? "No calls in their last 10 posts or since" : "No calls yet";
-    const chips = views.map(v => {
-      const arrow = v.stance === "bullish" ? "▲" : v.stance === "bearish" ? "▼" : "●";
-      const url = v.post_id ? `https://x.com/${h}/status/${v.post_id}` : `https://x.com/${h}`;
-      return `<a class="chip ${esc(v.stance)}" href="${esc(url)}" target="_blank" rel="noopener" title="${esc(v.reason || "")}">${arrow} ${esc(v.scope)} <small>since ${esc((v.since || "").slice(5) || "?")}</small></a>`;
-    }).join("");
-    return `<div class="who lean-${lean[0]}">
+    const chips = views.map(v => viewChip(v, h)).join("");
+    return `<div class="who lean-${lean[0]}" data-profile="${esc(h)}">
       <div class="who-head">${avatar(h)}
-        <div class="grow"><a class="handle" href="https://x.com/${esc(h)}" target="_blank" rel="noopener">@${esc(h)}</a><div class="line2">${esc(sub)}</div></div>
-        <span class="badge ${lean[0]}">${lean[1]}</span>
+        <div class="grow"><span class="handle">@${esc(h)}</span><div class="line2">${esc(sub)}</div></div>
+        <span class="badge ${lean[0]}">${lean[1]}</span>${CHEV}
       </div>
       ${chips ? `<div class="chips">${chips}</div>` : ""}
     </div>`;
-  }).join("") || `<div class="empty">No accounts yet. Add one in the Accounts tab.</div>`;
+  }).join("") + (others && shown.length ? `<div class="who-more">${others} other account${others > 1 ? "s have" : " has"} no ${low(MARKETS[market])} calls right now</div>` : "")
+    || `<div class="empty">${accounts.length ? `Nobody has a ${low(MARKETS[market])} view or trade right now.` : "No accounts yet. Add one in the Accounts tab."}</div>`;
 }
 
-// ---- feed ----
+// ---- calls ----
 function renderFeed() {
   const who = $("who"), current = who.value;
   who.innerHTML = `<option value="">Everyone</option>` + accounts.map(h => `<option value="${esc(h)}">@${esc(h)}</option>`).join("");
   who.value = accounts.includes(current) ? current : "";
-  const items = alerts.filter(a => (feedKind === "all" || a.kind === feedKind) && (!feedWho || low(a.handle) === low(feedWho))).slice(0, 150);
+  const items = alerts.filter(a => inMarket(a) && (feedKind === "all" || a.kind === feedKind) && (!feedWho || low(a.handle) === low(feedWho))).slice(0, 150);
   let lastDay = "";
   $("feed").innerHTML = items.map(a => {
     const day = dayLabel(a.sent_at);
     const header = day !== lastDay ? `<div class="day">${esc(day)}</div>` : "";
     lastDay = day;
-    const trade = a.kind === "trade";
-    const cls = trade ? a.direction : a.stance;
-    const label = {exit: "closed", trim: "trimmed"}[cls] || cls;
-    const what = trade ? `${a.asset || a.contract_address || "?"}${notHere(a.structure) ? "" : ` · ${a.structure}`}` : a.scope;
-    const conf = Math.round(Number(a.confidence || 0) * 100);
-    const facts = [
-      `<span class="conf"><i><b style="width:${conf}%"></b></i>${conf}% sure</span>`,
-      trade && a.source ? `<span>${esc(a.source)}</span>` : "",
-      a.entry ? `<span>entry ${esc(a.entry)}</span>` : "",
-      a.horizon ? `<span>${esc(a.horizon)}</span>` : "",
-      (a.prices || [])[0] ? `<span>${esc(a.prices[0])}</span>` : "",
-    ].join("");
-    return `${header}<div class="card call">
-      <div class="call-head">${avatar(a.handle, "sm")}<span class="handle">@${esc(a.handle)}</span><span>${ago(a.sent_at)}</span>
-        <span class="grow"></span>${a.backfill ? `<span class="kind" title="Found when the account was added, from their last 10 posts. No ping was sent.">HISTORY</span>` : ""}<span class="kind">${trade ? "TRADE" : "VIEW"}</span></div>
-      <div class="call-title"><span class="badge ${esc(cls)}">${esc(label)}</span><span class="what">${esc(what)}</span></div>
-      <div class="reason">${esc(a.reason)}</div>
-      ${(a.ended || []).length ? `<div class="ended">${a.ended.map(endedLine).join("<br>")}</div>` : ""}
-      ${a.post ? `<div class="quote">${esc(a.post)}</div>` : ""}
-      ${a.contract_address ? `<div class="ca">${esc(a.chain || "CA")} · ${esc(a.contract_address)}</div>` : ""}
-      <div class="facts num">${facts}</div>
-      <div class="post-foot"><a class="open-x" style="margin:0" href="${esc(a.url)}" target="_blank" rel="noopener">Open on X ${CHEV}</a>
-        <button class="linkish" data-teach-url="${esc(a.url)}" data-teach-who="${esc(a.handle)}">Wrong? Teach the bot</button></div>
-    </div>`;
+    return header + callCard(a);
   }).join("") || `<div class="card empty" style="margin-top:12px"><span class="em">📭</span>${alerts.length ? "Nothing matches this filter." : "No calls yet. Every ping the bot sends shows up here."}</div>`;
-  document.querySelectorAll("#feed .quote").forEach(q => q.classList.toggle("clamped", q.scrollHeight > q.clientHeight + 2));
+  clampLong("#feed .quote");
 }
 
 // ---- posts ----
@@ -622,42 +724,84 @@ function renderPosts() {
   const who = $("posts-who"), current = who.value;
   who.innerHTML = `<option value="">Everyone</option>` + accounts.map(h => `<option value="${esc(h)}">@${esc(h)}</option>`).join("");
   who.value = accounts.includes(current) ? current : "";
-  const byPost = {};
-  alerts.forEach(a => { const id = (a.url || "").split("/status/")[1]; if (id && !byPost[id]) byPost[id] = a; });
-  // Trading only: posts with a call (or a near-call), or ones the bot marked as about trading or markets.
-  const isTrading = p => /^(TRADE|VIEW|Corrected|No call:)/.test(p.read || "") || !!byPost[p.id] || p.trading === true;
-  const all = accounts.filter(h => !postsWho || low(h) === low(postsWho)).flatMap(h => {
-    const a = acctState(h);
-    const own = (a.posts || []).map(p => ({...p, handle: h, reply: false}));
-    const others = postsReplies ? (a.replies || []).map(p => ({...p, handle: h, reply: true})) : [];
-    return [...own, ...others].map(p => ({...p, read: (a.reads || {})[p.id], trading: (a.trading || {})[p.id]}));
-  });
-  const kept = postsOnly ? all.filter(isTrading) : all;
-  const items = kept.sort((x, y) => (BigInt(y.id) > BigInt(x.id) ? 1 : -1)).slice(0, 200);
+  const byPost = alertsByPost();
+  const all = accounts.filter(h => !postsWho || low(h) === low(postsWho)).flatMap(h => savedPosts(h, postsReplies));
+  const kept = postsOnly ? all.filter(p => isTrading(p, byPost)) : all;
+  const items = kept.sort(newestFirst).slice(0, 200);
   $("posts-hint").textContent = postsOnly
     ? `Posts about trading or markets: ${kept.length} shown, ${all.length - kept.length} others hidden. Already read by the bot, so this costs nothing extra.`
     : "Their latest posts the bot has already read, with what it made of each. Loading this costs nothing extra.";
-  $("posts").innerHTML = items.map(p => {
-    const url = `https://x.com/${p.handle}/status/${p.id}`;
-    let v = p.read, cls = "no-call";
-    if (!v && byPost[p.id]) {
-      const a = byPost[p.id];
-      v = a.kind === "trade" ? `TRADE ${String(a.direction).toUpperCase()} ${a.asset}` : `VIEW ${a.stance} on ${a.scope}`;
-    }
-    if (v) cls = v.startsWith("Corrected") ? "fixed" : v.startsWith("TRADE") ? "call-trade" : v.startsWith("VIEW") ? "call-view" : "no-call";
-    const tag = p.reply ? (p.reply_to_id ? "replying" : "reply") : (p.reply_to_id ? "thread" : "");
-    return `<div class="card post-card">
-      <div class="call-head">${avatar(p.handle, "sm")}<span class="handle">@${esc(p.handle)}</span><span>${ago(p.created_at)}</span>
-        ${tag ? `<span class="reply-tag">· ${tag}</span>` : ""}</div>
-      <div class="post-text">${esc(p.text)}</div>
-      ${p.quoted_text ? `<div class="post-quote">${esc(p.quoted_text)}</div>` : ""}
-      ${(p.images || []).length ? `<div class="thumbs">${p.images.map(u => `<a href="${esc(u)}" target="_blank" rel="noopener"><img src="${esc(u)}" alt="" loading="lazy" onerror="this.parentNode.remove()"></a>`).join("")}</div>` : ""}
-      ${v ? `<div class="verdict ${cls}">${esc(v)}</div>` : ""}
-      <div class="post-foot"><a class="open-x" style="margin:0" href="${esc(url)}" target="_blank" rel="noopener">Open on X ${CHEV}</a>
-        ${p.reply ? "" : `<button class="linkish" data-teach-url="${esc(url)}" data-teach-who="${esc(p.handle)}">Wrong? Teach the bot</button>`}</div>
-    </div>`;
-  }).join("") || `<div class="card empty"><span class="em">🗒️</span>${all.length ? "No trading posts here yet. Tap All to see everything." : "No posts saved yet. They show up after the bot's first check of each account."}</div>`;
-  document.querySelectorAll("#posts .post-text").forEach(q => q.classList.toggle("clamped", q.scrollHeight > q.clientHeight + 2));
+  $("posts").innerHTML = items.map(p => postCard(p, byPost)).join("")
+    || `<div class="card empty"><span class="em">🗒️</span>${all.length ? "No trading posts here yet. Tap All to see everything." : "No posts saved yet. They show up after the bot's first check of each account."}</div>`;
+  clampLong("#posts .post-text");
+}
+
+// ---- profile: one account's views, trades, calls and posts (#@handle) ----
+function renderProfile() {
+  const h = accounts.find(x => low(x) === low(profile)) || profile;
+  const a = acctState(h), key = low(h);
+  const watched = accounts.some(x => low(x) === key);
+  const views = viewsOf(h, "all"), trades = positionsOf(h, "all").map(p => ({...p, handle: h}));
+  const closed = closedOf(h, "all").slice().sort((x, y) => (y.closed || "").localeCompare(x.closed || "")).slice(0, 8).map(c => ({...c, handle: h}));
+  const calls = alerts.filter(x => low(x.handle) === key).slice(0, 15);
+  const week = alerts.filter(x => low(x.handle) === key && Date.now() - new Date(x.sent_at) < 7 * 86400000).length;
+  const byPost = alertsByPost();
+  const posts = savedPosts(h, profileReplies);
+  const shownPosts = (profileAllPosts ? posts : posts.filter(p => isTrading(p, byPost))).sort(newestFirst).slice(0, 40);
+  const markets = Object.keys(MARKETS).filter(m => views.some(v => marketOf(v) === m) || trades.some(p => marketOf(p) === m));
+  const leans = markets.length > 1 ? markets.map(m => { const [l, label] = leanOf(h, m); return `<span class="badge ${l}">${MARKETS[m]} · ${label}</span>`; }).join("") : "";
+  const plural = (n, word) => `${n === 1 ? word : word + "s"}`;
+  const [lean, leanLabel] = leanOf(h, "all");
+  const last = calls[0];
+  const sub = !a.user_id ? (watched ? "Starts on the bot's next check" : "Not watched any more")
+    : last ? `Last call ${ago(last.sent_at)}` : a.backfilled ? "No calls in their last 10 posts or since" : "No calls yet";
+  if (notes[key] === undefined && watched && !profileNotesLoading.has(key)) {
+    profileNotesLoading.add(key);
+    loadNotes(key).then(() => { if (profile && low(profile) === key) renderProfile(); }).catch(() => {});
+  }
+  const groups = markets.map(m => {
+    const vs = views.filter(v => marketOf(v) === m);
+    if (!vs.length) return "";
+    return `<div class="group-label">${MARKETS[m]}</div>` + vs.map(v => {
+      const url = v.post_id ? `https://x.com/${h}/status/${v.post_id}` : `https://x.com/${h}`;
+      return `<a class="item-row" href="${esc(url)}" target="_blank" rel="noopener">
+        <span class="badge ${esc(v.stance)}">${esc(v.stance)}</span>
+        <div class="grow"><div class="line1"><span class="asset">${esc(v.scope)}</span></div>
+          <div class="line2 wrap">since ${esc(v.since || "?")}${v.reason ? ` · ${esc(v.reason)}` : ""}</div></div>${CHEV}
+      </a>`;
+    }).join("");
+  }).join("");
+  const section = (title, sub, body) => `<div class="section-title"><h2>${title}</h2>${sub ? `<span>${sub}</span>` : ""}</div>${body}`;
+  $("tab-profile").innerHTML = `
+    <button class="back-btn" id="profile-back"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M15 6l-6 6 6 6"/></svg>Back</button>
+    <div class="card pad profile-card lean-${lean}">
+      <div class="profile-head">${avatar(h, "lg", "all")}
+        <div class="grow"><h2>@${esc(h)}</h2><div class="line2">${esc(sub)}</div></div>
+        ${leans ? "" : `<span class="badge ${lean}">${markets.length ? `${MARKETS[markets[0]]} · ` : ""}${leanLabel}</span>`}
+      </div>
+      ${leans ? `<div class="lean-chips">${leans}</div>` : ""}
+      <div class="profile-actions">
+        <a class="btn small" href="https://x.com/${esc(h)}" target="_blank" rel="noopener">Open on X</a>
+        <button class="btn small" data-teach-url="" data-teach-who="${esc(h)}">Teach the bot</button>
+        ${watched ? `<button class="btn small" id="profile-notes">Notes</button>` : ""}
+      </div>
+    </div>
+    <div class="stats">
+      <div class="card stat"><b class="num">${trades.length}</b><span>open ${plural(trades.length, "trade")}</span></div>
+      <div class="card stat"><b class="num">${week}</b><span>${plural(week, "call")}, last 7 days</span></div>
+      <div class="card stat"><b class="num">${closedOf(h, "all").length}</b><span>closed ${plural(closedOf(h, "all").length, "trade")}</span></div>
+    </div>
+    ${section("What they think", "", `<div class="card list">${groups || `<div class="empty">No current views on record.</div>`}</div>`)}
+    ${section("In a trade", "", `<div class="card list">${trades.map(p => tradeRow(p, false)).join("") || `<div class="empty">No open trades on record.</div>`}</div>`)}
+    ${closed.length ? section("Recently closed", "", `<div class="card list">${closed.map(c => closedRow(c, false)).join("")}</div>`) : ""}
+    ${section("Calls", calls.length ? `latest ${calls.length}` : "", calls.map(callCard).join("") || `<div class="card empty">No calls yet. Every ping for @${esc(h)} shows up here.</div>`)}
+    <div class="section-title"><h2>Posts</h2>
+      <div class="seg small-seg" id="profile-posts-seg"><button data-only="1" class="${profileAllPosts ? "" : "on"}">Trading</button><button data-only="0" class="${profileAllPosts ? "on" : ""}">All</button></div></div>
+    <label class="toggle" style="margin-top:0"><input type="checkbox" id="profile-replies" ${profileReplies ? "checked" : ""}> Include their replies to other people</label>
+    <div style="margin-top:10px">${shownPosts.map(p => postCard(p, byPost)).join("") || `<div class="card empty">${posts.length ? "No trading posts saved. Tap All to see everything." : "No posts saved yet."}</div>`}</div>
+    ${watched ? section("Your notes", "", `<div class="card pad"><div class="notes-preview ${notes[key] ? "" : "none"}">${notes[key] === undefined ? "Loading…" : notes[key] ? esc(notes[key]) : "No notes yet. Notes tell the bot how this account talks."}</div></div>`) : ""}`;
+  clampLong("#tab-profile .quote");
+  clampLong("#tab-profile .post-text");
 }
 
 // ---- what the bot has learned ----
@@ -690,7 +834,7 @@ function renderAccounts() {
   $("acct-count").textContent = accounts.length ? `${accounts.length}` : "";
   $("acct-list").innerHTML = accounts.map(h => {
     const a = acctState(h), key = low(h);
-    const sub = a.user_id ? `${leanOf(h)[1]} · ${positionsOf(h).length} open trades` : "Starts on next check";
+    const sub = a.user_id ? `${leanOf(h, "all")[1]} · ${positionsOf(h, "all").length} open trades` : "Starts on next check";
     const open = openNotes.has(key);
     const text = notes[key];
     let body = "";
@@ -704,7 +848,7 @@ function renderAccounts() {
         <p class="hint">Add a token below to edit notes here, or <a href="${esc(notesUrl(key, text != null))}" target="_blank" rel="noopener">edit on GitHub</a>.</p>`;
     return `<div class="acct">
       <div class="acct-head">${avatar(h)}
-        <div class="grow"><a class="handle" style="font-weight:700;color:var(--text)" href="https://x.com/${esc(h)}" target="_blank" rel="noopener">@${esc(h)}</a><div class="line2">${esc(sub)}</div></div>
+        <div class="grow" data-profile="${esc(h)}"><span class="handle" style="font-weight:700">@${esc(h)}</span><div class="line2">${esc(sub)}</div></div>
         <div class="acct-actions">
           <button class="btn small" data-toggle="${esc(key)}">${open ? "Hide notes" : "Notes"}</button>
           ${token ? `<button class="btn small danger" data-remove="${esc(h)}" aria-label="Remove @${esc(h)}" title="Stop watching"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 7h16M10 11v6M14 11v6M6 7l1 13h10l1-13M9 7V4h6v3"/></svg></button>` : ""}
@@ -905,9 +1049,13 @@ $("learned").onclick = async e => {
 };
 
 // ---- tabs, filters, refresh ----
+const TABS = ["board", "feed", "posts", "accounts"];
 function showTab(tab) {
+  if (!TABS.includes(tab)) tab = "board";
+  currentTab = tab;
+  if (profile) { history.replaceState(null, "", location.pathname + location.search); profile = ""; profileFromApp = false; $("tab-profile").classList.add("hidden"); }
   document.querySelectorAll(".tabbar button").forEach(b => b.classList.toggle("on", b.dataset.tab === tab));
-  ["board", "feed", "posts", "accounts"].forEach(t => $(`tab-${t}`).classList.toggle("hidden", t !== tab));
+  TABS.forEach(t => $(`tab-${t}`).classList.toggle("hidden", t !== tab));
   try { localStorage.setItem("xtb-tab", tab); } catch {}
   window.scrollTo({top: 0});
   if (tab === "feed") renderFeed();  // measure post clamps once visible
@@ -934,6 +1082,63 @@ $("posts-seg").onclick = e => {
 $("posts-replies").onchange = e => { postsReplies = e.target.checked; renderPosts(); };
 $("posts-who").onchange = e => { postsWho = e.target.value; renderPosts(); };
 $("refresh").onclick = load;
+document.addEventListener("click", e => {
+  const b = e.target.closest("[data-market-seg] button");
+  if (!b) return;
+  market = b.dataset.market;
+  try { localStorage.setItem("xtb-market", market); } catch {}
+  render();
+});
+
+// ---- profiles: tap any name or avatar ----
+const profileFromHash = () => (decodeURIComponent(location.hash).match(/^#@([A-Za-z0-9_]{1,15})$/) || [])[1] || "";
+function applyRoute() {
+  const h = profileFromHash();
+  const wasOpen = !!profile;
+  profile = h;
+  TABS.forEach(t => $(`tab-${t}`).classList.toggle("hidden", !!h || t !== currentTab));
+  $("tab-profile").classList.toggle("hidden", !h);
+  if (h) { renderProfile(); window.scrollTo({top: 0}); }
+  else if (wasOpen) { profileFromApp = false; renderFeed(); renderPosts(); window.scrollTo({top: tabScroll}); }
+}
+function openProfile(h) {
+  if (!profile) tabScroll = window.scrollY;
+  profileAllPosts = false; profileReplies = false;
+  profileFromApp = true;
+  location.hash = "@" + h;
+}
+function closeProfile() {
+  if (profileFromApp) return history.back();
+  history.replaceState(null, "", location.pathname + location.search);
+  applyRoute();
+}
+window.addEventListener("hashchange", applyRoute);
+document.addEventListener("click", e => {
+  // Links and buttons inside a tappable row (a chip, Open on X) keep doing their own thing.
+  const el = e.target.closest("[data-profile], a, button");
+  const h = el && el.dataset.profile;
+  if (!h || (profile && low(profile) === low(h))) return;
+  e.preventDefault();
+  openProfile(h);
+});
+$("tab-profile").onclick = e => {
+  if (e.target.closest("#profile-back")) return closeProfile();
+  const seg = e.target.closest("#profile-posts-seg button");
+  if (seg) { profileAllPosts = seg.dataset.only === "0"; return renderProfile(); }
+  if (e.target.closest("#profile-notes")) {
+    const key = low(profile);
+    openNotes.add(key);
+    if (notes[key] === undefined) loadNotes(key);
+    showTab("accounts");
+    renderAccounts();
+    const row = document.querySelector(`[data-toggle="${CSS.escape(key)}"]`);
+    if (row) row.closest(".acct").scrollIntoView({block: "start"});
+    return;
+  }
+  const q = e.target.closest(".quote, .post-text");
+  if (q) { q.classList.toggle("open"); q.classList.remove("clamped"); }
+};
+$("tab-profile").onchange = e => { if (e.target.id === "profile-replies") { profileReplies = e.target.checked; renderProfile(); } };
 
 // ---- check now: start the bot's workflow instead of waiting for its timer ----
 const ACTIONS = `https://api.github.com/repos/${OWNER}/${REPO}/actions/workflows/poll.yml`;
@@ -982,6 +1187,7 @@ $("check-btn").onclick = async () => {
 $("new-handle").onkeydown = e => { if (e.key === "Enter") $("add-btn").click(); };
 
 try { const saved = localStorage.getItem("xtb-tab"); if (saved) showTab(saved); } catch {}
+if (profileFromHash()) applyRoute();
 renderAccounts();
 load();
 setInterval(() => { if (!document.hidden && !document.querySelector("textarea:focus") && !$("sheet").classList.contains("show")) load(); }, 60000);

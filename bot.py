@@ -65,6 +65,13 @@ MAJORS = {
     "HYPE": ["hyperliquid"],
 }
 
+# Which market a trade or view is about, so the dashboard can split someone's crypto calls from their stock calls.
+MARKETS = ["crypto", "stocks", "macro"]
+MARKET_FIELD = {"type": "string", "enum": MARKETS,
+                "description": "crypto (coins, tokens, crypto sectors), stocks (shares, ETFs, indices like SPX or "
+                               "QQQ, options on them), or macro (rates, the dollar, commodities, forex, or all "
+                               "markets at once)"}
+
 TRADE_SCHEMA = {
     "type": "object",
     "properties": {
@@ -72,6 +79,7 @@ TRADE_SCHEMA = {
         "asset": {"type": "string", "description": "Ticker or name, empty if unknown"},
         "chain": {"type": "string", "description": "solana, base, eth, bnb, other, or empty"},
         "contract_address": {"type": "string"},
+        "market": MARKET_FIELD,
         "direction": {"type": "string", "enum": ["long", "short", "exit", "trim"]},
         "structure": {"type": "string", "description": "spot, perp, long puts, long calls, short puts, short calls, or unknown"},
         "entry": {"type": "string", "description": "Entry price or level if given, else empty"},
@@ -80,7 +88,7 @@ TRADE_SCHEMA = {
         "confidence": {"type": "number"},
         "reason": {"type": "string"},
     },
-    "required": ["present", "asset", "chain", "contract_address", "direction", "structure", "entry",
+    "required": ["present", "asset", "market", "chain", "contract_address", "direction", "structure", "entry",
                  "horizon", "source", "confidence", "reason"],
     "additionalProperties": False,
 }
@@ -89,13 +97,14 @@ BIAS_SCHEMA = {
     "properties": {
         "present": {"type": "boolean"},
         "scope": {"type": "string", "description": "Short label: crypto market, btc, alts, memecoins, a ticker..."},
+        "market": MARKET_FIELD,
         "stance": {"type": "string", "enum": ["bullish", "bearish", "neutral"]},
         "change": {"type": "string", "enum": ["new", "changed", "restated"]},
         "horizon": {"type": "string"},
         "confidence": {"type": "number"},
         "reason": {"type": "string"},
     },
-    "required": ["present", "scope", "stance", "change", "horizon", "confidence", "reason"],
+    "required": ["present", "scope", "market", "stance", "change", "horizon", "confidence", "reason"],
     "additionalProperties": False,
 }
 RESULT_SCHEMA = {
@@ -562,8 +571,8 @@ def record_bias(biases, b, post):
     scope = b["scope"].lower()
     prev = biases.get(scope)
     since = prev["since"] if prev and prev["stance"] == b["stance"] else (post.get("created_at") or "")[:10]
-    biases[scope] = {"scope": b["scope"], "stance": b["stance"], "since": since, "post_id": post["id"],
-                     "updated_at": post.get("created_at", ""), "reason": b["reason"]}
+    biases[scope] = {"scope": b["scope"], "stance": b["stance"], "market": b.get("market", ""), "since": since,
+                     "post_id": post["id"], "updated_at": post.get("created_at", ""), "reason": b["reason"]}
 
 
 def split_assets(asset):
@@ -619,7 +628,7 @@ def record_position(positions, t, post, url, prices=None):
     Pass the post's live prices (new posts) to note the price at entry and exit. History reads and re-reads
     leave them out: today's price says nothing about an old post."""
     assets = split_assets(t["asset"])
-    live = prices is not None
+    live = prices is not None and t.get("market", "crypto") == "crypto"  # stocks aren't priced, see asset_price
     ended = []
 
     def end(was, asset, how):
@@ -627,6 +636,7 @@ def record_position(positions, t, post, url, prices=None):
         price = asset_price(asset, was.get("chain") or t["chain"], ca, prices) if live else None
         ended.append({
             "asset": was.get("asset") or asset, "direction": was.get("direction", ""),
+            "market": was.get("market") or t.get("market", ""),
             "structure": was.get("structure", ""), "opened": was.get("since", ""), "open_url": was.get("url", ""),
             "open_price": was.get("open_price"), "closed": post.get("created_at", ""), "close_url": url,
             "close_price": price, "move": move_pct(was.get("direction"), was.get("open_price"), price),
@@ -648,6 +658,7 @@ def record_position(positions, t, post, url, prices=None):
         ca = t["contract_address"] if len(assets) <= 1 else ""
         positions[key] = {
             "asset": asset if assets else t["asset"], "direction": t["direction"], "structure": t["structure"],
+            "market": t.get("market", ""),
             "entry": t["entry"] if len(assets) <= 1 else "", "horizon": t["horizon"], "chain": t["chain"],
             "contract_address": ca, "confidence": t["confidence"], "reason": t["reason"],
             "since": post.get("created_at", ""), "post_id": post["id"], "url": url,
@@ -711,11 +722,16 @@ def alert_title(kind, handle, part, prev=None):
         sides = {e["direction"] for e in prev or [] if e["direction"]}
         side = f" {sides.pop()}" if len(sides) == 1 else ""
         word = "CLOSED" if part["direction"] == "exit" else "TRIMMED"
-        return f"{word} · @{handle}: {part['asset'] or '?'}{side}"
+        return f"{word} · @{handle}: {part['asset'] or '?'}{side}{market_tag(part)}"
     if kind == "trade":
         struct = f" ({part['structure']})" if part["structure"] not in ("", "spot", "unknown") else ""
-        return f"TRADE · @{handle}: {part['direction'].upper()} {part['asset'] or '?'}{struct}"
-    return f"VIEW · @{handle}: {part['stance'].upper()} on {part['scope']}"
+        return f"TRADE · @{handle}: {part['direction'].upper()} {part['asset'] or '?'}{struct}{market_tag(part)}"
+    return f"VIEW · @{handle}: {part['stance'].upper()} on {part['scope']}{market_tag(part)}"
+
+
+def market_tag(part):
+    """Crypto is the usual case, so only stock and macro calls get a label."""
+    return f" · {part['market']}" if part.get("market") in ("stocks", "macro") else ""
 
 
 def unit_post_text(unit):
@@ -1142,6 +1158,70 @@ def tag_topics(handle, acct):
     print(f"@{handle}: {len(ids & {p['id'] for p in todo})} of {len(todo)} newly saved post(s) are about trading")
 
 
+MARKET_SCHEMA = {
+    "type": "object",
+    "properties": {"labels": {"type": "array", "items": {
+        "type": "object",
+        "properties": {"id": {"type": "string"}, "market": {"type": "string", "enum": MARKETS}},
+        "required": ["id", "market"], "additionalProperties": False}}},
+    "required": ["labels"],
+    "additionalProperties": False,
+}
+
+
+def label_markets(state):
+    """One time: tag the trades and views recorded before markets were tracked as crypto, stocks or macro,
+    in state.json and alerts.jsonl. New reads get their market from the classifier."""
+    if state.get("markets_labeled"):
+        return
+    alerts = read_alerts()
+    found = {}  # id -> description shown to Claude
+    tagged = []  # (record, id) pairs to fill in
+
+    def want(rec, kind):
+        if rec.get("market"):
+            return
+        name = rec.get("asset") or rec.get("contract_address") if kind == "trade" else rec.get("scope")
+        key = f"{kind}:{(name or '?').lower()}"
+        hint = ", ".join(x for x in (rec.get("chain"), rec.get("contract_address"), (rec.get("reason") or "")[:160]) if x)
+        found.setdefault(key, f"{'a trade in' if kind == 'trade' else 'a view on'} {name or '?'}" + (f" ({hint})" if hint else ""))
+        tagged.append((rec, key))
+
+    for acct in state.get("accounts", {}).values():
+        for rec in acct.get("positions", {}).values():
+            want(rec, "trade")
+        for rec in acct.get("closed", []):
+            want(rec, "trade")
+        for rec in acct.get("biases", {}).values():
+            want(rec, "bias")
+    for a in alerts:
+        want(a, a.get("kind", "trade"))
+    if found:
+        text = "\n".join(f"[{k}] {v}" for k, v in found.items())
+        kwargs = dict(model=MODEL, max_tokens=2000,
+                      system="Label each trade or market view by the market it's about: crypto (coins, tokens, "
+                             "crypto sectors), stocks (shares, ETFs, indices like SPX or QQQ, options on them), or "
+                             "macro (rates, the dollar, commodities, forex, or all markets at once). Return one "
+                             "label per id.",
+                      messages=[{"role": "user", "content": [{"type": "text", "text": text}]}],
+                      output_config={"effort": "low", "format": {"type": "json_schema", "schema": MARKET_SCHEMA}})
+        if MODEL in FALLBACK_MODELS:
+            kwargs.update(betas=["server-side-fallback-2026-07-01"], fallbacks="default")
+        try:
+            resp = claude().beta.messages.create(**kwargs)
+            labels = {x["id"]: x["market"] for x in json.loads(next(b.text for b in resp.content if b.type == "text"))["labels"]}
+        except (anthropic.APIError, json.JSONDecodeError, StopIteration, KeyError) as e:
+            print(f"labelling earlier calls by market failed, will retry next run: {e}", file=sys.stderr)
+            return
+        for rec, key in tagged:
+            if labels.get(key) in MARKETS:
+                rec["market"] = labels[key]
+        if alerts:
+            ALERTS_PATH.write_text("".join(json.dumps(a) + "\n" for a in alerts))
+        print(f"labelled {len(labels)} earlier trade(s) and view(s) by market")
+    state["markets_labeled"] = True
+
+
 def dashboard_url():
     repo = os.environ.get("GITHUB_REPOSITORY", "")
     owner, _, name = repo.partition("/")
@@ -1151,15 +1231,16 @@ def dashboard_url():
 def summary_line(a):
     who = f"@{a['handle']}"
     if a["kind"] == "bias":
-        return f"{who} now {a['stance']} on {a['scope']}"
+        return f"{who} now {a['stance']} on {a['scope']}{market_tag(a)}"
     d = a.get("direction", "")
     if d in ("exit", "trim"):
         word = "closed" if d == "exit" else "trimmed"
         ended = a.get("ended") or []
         moves = [f"{e['asset']} {e['move']:+.1f}%" for e in ended if e.get("move") is not None]
         side = {e["direction"] for e in ended if e.get("direction")}
-        return f"{who} {word} {a.get('asset') or '?'}{' ' + side.pop() if len(side) == 1 else ''}" + (f" ({', '.join(moves)} their way)" if moves else "")
-    return f"{who} {d.upper()} {a.get('asset') or '?'}"
+        return (f"{who} {word} {a.get('asset') or '?'}{' ' + side.pop() if len(side) == 1 else ''}{market_tag(a)}"
+                + (f" ({', '.join(moves)} their way)" if moves else ""))
+    return f"{who} {d.upper()} {a.get('asset') or '?'}{market_tag(a)}"
 
 
 def morning_summary(state, now=None, dry_run=False):
@@ -1306,6 +1387,8 @@ def poll(dry_run=False):
     state = load_state()
     accounts = state.setdefault("accounts", {})
     errors = process_feedback(x, state, dry_run)
+    if not dry_run:
+        label_markets(state)
     for handle in load_accounts():
         acct = accounts.setdefault(handle.lower(), new_account(handle))
         for key, val in new_account(handle).items():

@@ -160,6 +160,10 @@ It reads the bot's files straight from the repo and refreshes every minute, so i
 
 **Teach the bot** (the sparkle button at the top, or "Wrong? Teach the bot" under any call or post): say what it missed or got wrong, and optionally paste the post's link. On its next check the bot turns that into a one or two sentence lesson it reads before every post, and if you linked a post it reads that post again and fixes the board (adds the missed trade or view, or removes a wrong one). Lessons are listed in the Accounts tab, where you can forget one.
 
+**Profiles:** tap any name or avatar on the dashboard to open that account's page: what they think, the trades they're in and have closed, their calls, and their recent posts (trading-only by default, with All and replies a tap away). Profiles have their own link (the page address ending in `#@handle`), so you can bookmark one.
+
+**Crypto, stocks and macro:** every trade and view is tagged with its market. The **All / Crypto / Stocks / Macro** switch at the top of the Board and Calls filters both, and the mood and each account's lean are worked out per market, so someone bearish on stocks and bullish on coins isn't shown as "mixed". Pings for stocks and macro calls end with "· stocks" or "· macro"; crypto pings are unchanged.
+
 **Posts tab:** the latest posts the bot has already read for each account, with what it made of each one. It only shows what the bot saved while reading, so it costs nothing extra. **Trading** (the default) hides posts that aren't about trading or markets; the bot sorts each saved post with one short Claude call per account per run, only when there are new posts. **All** shows everything.
 
 How it tracks things:
