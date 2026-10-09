@@ -1211,7 +1211,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108608450091713018",
+      "last_id": "2108609061642211626",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1424,12 +1424,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-09T11:33:01.000Z",
-          "id": "2108521111080042532",
-          "reply_to_id": "2108501245795147972",
-          "text": "@ThePumponomics @beracap @playrisk this\ud83d\udcaf\ud83d\udcaf"
-        },
-        {
           "created_at": "2026-10-09T11:33:26.000Z",
           "id": "2108521212347613538",
           "reply_to_id": "2108486006089597264",
@@ -1512,6 +1506,12 @@
           "id": "2108608450091713018",
           "reply_to_id": "2108606129974473104",
           "text": "@javierbh522 @0x_Yamal @safe @safe"
+        },
+        {
+          "created_at": "2026-10-09T17:22:31.000Z",
+          "id": "2108609061642211626",
+          "reply_to_id": "2108608550042059097",
+          "text": "@Soulgear trade-only perms with 24h withdraw locks baked into multisig\n\nbasically smart contractified brokerage account\n\nbut realistically imo prefer to just always offramp and keep minimal onchain"
         }
       ],
       "threads": {
@@ -1683,7 +1683,6 @@
         "2108510657201279308": true,
         "2108511782201708573": true,
         "2108512022623383969": true,
-        "2108521111080042532": false,
         "2108521212347613538": false,
         "2108523635585532051": true,
         "2108545335178186988": true,
@@ -1700,7 +1699,8 @@
         "2108596603766657452": true,
         "2108598860297936949": false,
         "2108603217403838708": false,
-        "2108608450091713018": false
+        "2108608450091713018": false,
+        "2108609061642211626": true
       },
       "user_id": "1653080265294757890"
     },
@@ -2818,5 +2818,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T17:20:20+00:00"
+  "updated_at": "2026-10-09T17:24:18+00:00"
 }
