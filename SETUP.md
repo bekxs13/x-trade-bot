@@ -22,6 +22,8 @@ Pings arrive on your phone through **ntfy**, a free notification app. Discord an
 | `tests/cases.json` | Example posts with the answer you expect, for tuning `prompt.md` |
 | `tests/test_offline.py` | Checks the plumbing without calling any paid API |
 | `.github/workflows/poll.yml` | The GitHub timer that runs the bot every 5 minutes |
+| `feedback.jsonl` | Corrections you send with the dashboard's **Teach the bot** button |
+| `lessons/` | Short lessons the bot writes from your corrections (`_all.md` for every account, `<handle>.md` for one). Read before every post |
 | `docs/index.html` | The dashboard: who's bullish or bearish, who's in a trade, recent calls, add or remove accounts |
 | `.github/workflows/pages.yml` | Publishes the dashboard to GitHub Pages when it changes |
 | `state.json` | Created by the bot: last post seen, recent posts for context, each account's current views and open trades |
@@ -153,6 +155,10 @@ A simple page you can open on your phone: who's bullish or bearish on what, who'
 It reads the bot's files straight from the repo and refreshes every minute, so it's never more than a few minutes behind the bot.
 
 **Adding and removing accounts from the page** needs a GitHub token, made once per phone or browser and stored only on that device. The **Accounts** tab walks you through it: a fine-grained token limited to this one repo. Under Permissions, click **+ Add permissions**, pick **Contents**, and set it to **Read and write** (it starts as Read-only). Without a token the page is view-only, and you can still edit `accounts.txt` on github.com.
+
+**Teach the bot** (the sparkle button at the top, or "Wrong? Teach the bot" under any call or post): say what it missed or got wrong, and optionally paste the post's link. On its next check the bot turns that into a one or two sentence lesson it reads before every post, and if you linked a post it reads that post again and fixes the board (adds the missed trade or view, or removes a wrong one). Lessons are listed in the Accounts tab, where you can forget one.
+
+**Posts tab:** the latest posts the bot has already read for each account, with what it made of each one. It only shows what the bot saved while reading, so it costs nothing extra.
 
 How it tracks things:
 - **In a trade** comes from TRADE pings. A long or short opens or replaces the position for that asset, and an exit ping closes it. If they close a trade without posting about it, it stays listed until they post an exit or flip.

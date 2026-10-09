@@ -29,6 +29,8 @@ ALERTS_PATH = ROOT / "alerts.jsonl"
 ACCOUNTS_PATH = ROOT / "accounts.txt"
 PROMPT_PATH = ROOT / "prompt.md"
 NOTES_DIR = ROOT / "notes"  # notes/<handle>.md: what the user knows about how each account posts
+FEEDBACK_PATH = ROOT / "feedback.jsonl"  # corrections sent from the dashboard's "Teach the bot" button
+LESSONS_DIR = ROOT / "lessons"  # lessons/<handle>.md and lessons/_all.md: written by the bot from corrections
 CASES_PATH = ROOT / "tests" / "cases.json"
 
 X_API = "https://api.x.com/2"
@@ -103,6 +105,25 @@ RESULT_SCHEMA = {
     "required": ["trade", "bias", "needs_more_context", "more_context_reason"],
     "additionalProperties": False,
 }
+LESSON_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "lesson": {"type": "string"},
+        "applies_to": {"type": "string", "enum": ["this account", "all accounts"]},
+    },
+    "required": ["lesson", "applies_to"],
+    "additionalProperties": False,
+}
+LESSON_PROMPT = """You maintain the reading rules of a bot that reads traders' posts on X and pings its owner when \
+one reveals a trade (a position entered, added to or exited) or a market view (bullish, bearish or neutral on \
+something). The owner has flagged something the bot missed or got wrong.
+
+Turn the correction into one lesson the bot will read before every future post: one or two plain sentences, a \
+general rule about how to read this account (or posts like this), not a retelling of this one post. Good: "When \
+@x says 'loading' under a chart, treat it as a long on the charted asset." Bad: "The post on Oct 8 was a HYPE \
+long." Use applies_to "this account" when it's about how this person posts, "all accounts" when it's a general \
+reading rule. Don't repeat a rule the bot already has. If the correction only fixes a one-off fact with nothing \
+general to learn, return an empty lesson; the bot will still re-read the post."""
 
 
 # ---------- state ----------
@@ -142,11 +163,36 @@ def new_account(handle):
     # threads: per main post, how many self-replies were handled and which alerts already went out.
     # biases: their last recorded view per scope, so view pings only fire on a new or changed view.
     # positions: trades they're in, per asset, from TRADE alerts; an exit alert closes one.
-    return {"handle": handle, "posts": [], "replies": [], "threads": {}, "biases": {}, "positions": {}}
+    # reads: per stored post, a one-line verdict of what the bot made of it (the dashboard's Posts tab).
+    return {"handle": handle, "posts": [], "replies": [], "threads": {}, "biases": {}, "positions": {}, "reads": {}}
 
 
 def slim(p):
-    return {"id": p["id"], "created_at": p.get("created_at", ""), "text": p["text"]}
+    """What's kept of a post: context for later reads, and the dashboard's Posts tab."""
+    out = {"id": p["id"], "created_at": p.get("created_at", ""), "text": p["text"]}
+    for key in ("reply_to_id", "quoted_text"):
+        if p.get(key):
+            out[key] = p[key][:500]
+    if p.get("images"):
+        out["images"] = p["images"][:MAX_IMAGES]
+    return out
+
+
+def verdict(res, alerts):
+    """One line for the Posts tab: what the bot made of a post."""
+    if not res:
+        return "Couldn't read"
+    if alerts:
+        return " · ".join(f"TRADE {p['direction'].upper()} {p['asset']}" if kind == "trade" else f"VIEW {p['stance']} on {p['scope']}"
+                          for kind, _key, p, _prev in alerts)
+    t, b, bits = res["trade"], res["bias"], []
+    if t["present"]:
+        bits.append(f"maybe {t['direction']} {t['asset']} ({t['confidence']:.0%}, too unsure)" if t["confidence"] < MIN_CONFIDENCE
+                    else f"{t['direction']} {t['asset']} (already called)")
+    if b["present"]:
+        bits.append(f"{b['stance']} on {b['scope']} ({b['confidence']:.0%}, too unsure)" if b["confidence"] < MIN_CONFIDENCE
+                    else f"{b['stance']} on {b['scope']} (same view as before)")
+    return "No call" + (": " + "; ".join(bits) if bits else "")
 
 
 # ---------- X API ----------
@@ -155,12 +201,12 @@ class XClient:
     # X's current docs show "post" names (post.fields, note_post) while the API has long used
     # "tweet" names. Try the long-standing names first and switch once if X rejects them.
     TWEET_FIELDS = {
-        "tweet.fields": "created_at,note_tweet,referenced_tweets,conversation_id,in_reply_to_user_id,attachments",
+        "tweet.fields": "created_at,note_tweet,referenced_tweets,conversation_id,in_reply_to_user_id,attachments,author_id",
         "expansions": "attachments.media_keys",
         "media.fields": "type,url,preview_image_url",
     }
     POST_FIELDS = {
-        "post.fields": "created_at,note_post,referenced_posts,conversation_id,in_reply_to_user_id,attachments",
+        "post.fields": "created_at,note_post,referenced_posts,conversation_id,in_reply_to_user_id,attachments,author_id",
         "expansions": "attachments.media_keys",
         "media.fields": "type,url,preview_image_url",
     }
@@ -233,6 +279,7 @@ def parse_posts(body):
             "created_at": p.get("created_at", ""),
             "conversation_id": p.get("conversation_id", p["id"]),
             "in_reply_to_user_id": p.get("in_reply_to_user_id", ""),
+            "author_id": p.get("author_id", ""),
             "reply_to_id": refs.get("replied_to", ""),
             "quoted_id": refs.get("quoted", ""),
             "images": images,
@@ -348,6 +395,19 @@ def load_notes(handle):
     return path.read_text().strip() if path.exists() else ""
 
 
+def lesson_file(handle):
+    return LESSONS_DIR / f"{handle.lower() if handle else '_all'}.md"
+
+
+def load_lessons(handle):
+    """Lessons for every account, then this account's own."""
+    out = []
+    for path in (lesson_file(""), lesson_file(handle)):
+        if path.exists():
+            out += [line[2:].strip() for line in path.read_text().splitlines() if line.startswith("- ")]
+    return out
+
+
 def build_prompt_text(handle, unit, ctx, prices, deep, first_read=None):
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     main, reply = unit.get("main"), unit.get("reply")
@@ -355,6 +415,9 @@ def build_prompt_text(handle, unit, ctx, prices, deep, first_read=None):
     notes = load_notes(handle)
     if notes:
         lines += [f"Notes about @{handle}:", notes, ""]
+    lessons = load_lessons(handle)
+    if lessons:
+        lines += ["Lessons from the reader's past corrections (follow them):"] + [f"- {x}" for x in lessons] + [""]
 
     def show(label, p):
         lines.append(f"{label} (posted {p.get('created_at') or 'unknown'}):")
@@ -685,6 +748,8 @@ def store(acct, posts):
         acct["posts" if is_own_post(p, uid) else "replies"].append(slim(p))
     acct["posts"] = acct["posts"][-KEEP_POSTS:]
     acct["replies"] = acct["replies"][-KEEP_REPLIES:]
+    kept = {p["id"] for p in acct["posts"]}
+    acct["reads"] = {k: v for k, v in acct.get("reads", {}).items() if k in kept}
     acct["threads"] = dict(sorted(acct["threads"].items(), key=lambda kv: int(kv[0]))[-KEEP_THREADS:])
 
 
@@ -740,6 +805,9 @@ def process_account(x, handle, acct, posts, dry_run=False):
         summary = json.dumps({k: res[k] for k in ("trade", "bias", "needs_more_context")}) if res else "model declined"
         print(f"@{handle} {p['id']}: {', '.join(a[1] for a in alerts) or 'no alert'} {summary}")
         target = unit["reply"] if unit["late"] else unit["main"]
+        acct["reads"][target["id"]] = verdict(res, alerts)
+        if unit["reply"] and not unit["late"]:
+            acct["reads"][unit["reply"]["id"]] = "Read together with the post it replies to"
         for kind, _key, part, prev in alerts:
             notify(kind, handle, unit, part, prev, res["prices"], dry_run)
             if kind == "trade":
@@ -756,6 +824,127 @@ def process_account(x, handle, acct, posts, dry_run=False):
     if done:
         acct["last_id"] = done[-1]["id"]
     return 0 if failed_at is None else 1
+
+
+STATUS_RE = re.compile(r"(?:x|twitter)\.com/([A-Za-z0-9_]{1,15})/status/(\d+)", re.I)
+
+
+def learn(handle, fb, post, acct):
+    """Ask Claude for a general lesson from one correction."""
+    lines = [f"The owner's correction: {fb['text'].strip()}", ""]
+    if handle:
+        lines.append(f"Account: @{handle}")
+    if post:
+        lines += [f"The post they mean (posted {post.get('created_at') or 'unknown'}):", post["text"], ""]
+        logged = [a for a in read_alerts() if a.get("url", "").endswith(f"/status/{post['id']}")]
+        did = [f"{a['kind']}: {a.get('direction') or a.get('stance')} {a.get('asset') or a.get('scope')}" for a in logged]
+        lines.append("What the bot reported for it: " + ("; ".join(did) if did else "nothing"))
+    if acct is not None:
+        views = [f"{v['scope']}: {v['stance']}" for v in acct.get("biases", {}).values()]
+        lines.append("Views the bot has recorded for them: " + (", ".join(views) or "none"))
+    if handle and load_notes(handle):
+        lines += ["", f"The owner's notes about @{handle}:", load_notes(handle)]
+    have = load_lessons(handle)
+    lines += ["", "Lessons the bot already has:"] + ([f"- {x}" for x in have] or ["- none"])
+    kwargs = dict(model=MODEL, max_tokens=1000, system=LESSON_PROMPT,
+                  messages=[{"role": "user", "content": [{"type": "text", "text": "\n".join(lines)}]}],
+                  output_config={"effort": EFFORT, "format": {"type": "json_schema", "schema": LESSON_SCHEMA}})
+    if MODEL in FALLBACK_MODELS:
+        kwargs.update(betas=["server-side-fallback-2026-07-01"], fallbacks="default")
+    resp = claude().beta.messages.create(**kwargs)
+    if resp.stop_reason == "refusal":
+        return {"lesson": "", "applies_to": "this account"}
+    return json.loads(next(b.text for b in resp.content if b.type == "text"))
+
+
+def read_alerts():
+    if not ALERTS_PATH.exists():
+        return []
+    out = []
+    for line in ALERTS_PATH.read_text().splitlines():
+        try:
+            out.append(json.loads(line))
+        except json.JSONDecodeError:
+            pass
+    return out
+
+
+def reread(handle, acct, post):
+    """Read a flagged post again (now with the new lesson) and put the board right: add what it finds, and
+    drop a trade or view that came from this post if the new read no longer sees it. No pings."""
+    unit = {"main": post, "reply": None, "late": False}
+    res = classify(handle, unit, acct)
+    if not res:
+        return "Re-read the post: Claude declined to read it."
+    thread = acct["threads"].setdefault(post["id"], {"self_replies": 0, "alerted": []})
+    found = []
+    url = f"https://x.com/{handle}/status/{post['id']}"
+    for kind, key, part, _prev in decide(res, acct["biases"], thread["alerted"]):
+        log_alert(kind, handle, unit, part, res["prices"], correction=True, sent_at=post.get("created_at", ""))
+        thread["alerted"].append(key)
+        if kind == "trade":
+            record_position(acct["positions"], part, post, url)
+        found.append(f"{part['direction'].upper()} {part['asset']}" if kind == "trade" else f"{part['stance']} on {part['scope']}")
+    t, b = res["trade"], res["bias"]
+    if not (t["present"] and t["confidence"] >= MIN_CONFIDENCE):
+        for k in [k for k, p in acct["positions"].items() if p.get("post_id") == post["id"]]:
+            del acct["positions"][k]
+            found.append(f"removed the {k} trade")
+    if not (b["present"] and b["confidence"] >= MIN_CONFIDENCE):
+        for k in [k for k, v in acct["biases"].items() if v.get("post_id") == post["id"]]:
+            del acct["biases"][k]
+            found.append(f"removed the {k} view")
+    record_bias(acct["biases"], b, post)
+    acct.setdefault("reads", {})[post["id"]] = "Corrected: " + (", ".join(found) if found else verdict(res, []))
+    return "Re-read the post: " + (", ".join(found) if found else "nothing to change") + "."
+
+
+def process_feedback(x, state, dry_run=False):
+    """Handle new corrections from the dashboard: save a lesson the bot reads from now on, and re-read the
+    post they point at. Done ones are tracked in state (feedback.jsonl itself is only written by the page)."""
+    if not FEEDBACK_PATH.exists():
+        return 0
+    done = state.setdefault("feedback", {})
+    errors = 0
+    for line in FEEDBACK_PATH.read_text().splitlines():
+        try:
+            fb = json.loads(line)
+        except json.JSONDecodeError:
+            continue
+        if not fb.get("id") or fb["id"] in done or not str(fb.get("text", "")).strip():
+            continue
+        m = STATUS_RE.search(fb.get("url") or "")
+        handle = (m.group(1) if m else fb.get("handle") or "").lstrip("@")
+        acct = state["accounts"].get(handle.lower()) if handle else None
+        post = None
+        try:
+            if m:
+                post = x.lookup({m.group(2)}).get(m.group(2))
+            res = learn(handle, fb, post, acct)
+        except (requests.RequestException, RuntimeError, anthropic.APIError, json.JSONDecodeError, StopIteration) as e:
+            print(f"correction {fb['id']}: failed, will retry next run: {e}", file=sys.stderr)
+            errors += 1
+            continue
+        lesson = res["lesson"].strip()
+        target = lesson_file(handle if res["applies_to"] == "this account" else "")
+        print(f"correction {fb['id']} (@{handle or 'all'}): lesson for {target.stem}: {lesson or '(none)'}")
+        if dry_run:
+            continue
+        if lesson:
+            LESSONS_DIR.mkdir(exist_ok=True)
+            with target.open("a") as f:
+                f.write(f"- {lesson}\n")
+        outcome = ""
+        if post and acct is not None and acct.get("user_id") and (post.get("author_id") or acct["user_id"]) == acct["user_id"]:
+            try:
+                outcome = reread(handle, acct, post)
+            except (anthropic.APIError, json.JSONDecodeError, StopIteration) as e:
+                outcome = f"Couldn't re-read the post: {e}"
+            print(f"  {outcome}")
+        done[fb["id"]] = {"lesson": lesson, "file": target.stem, "handle": handle, "outcome": outcome,
+                          "done_at": datetime.now(timezone.utc).isoformat(timespec="seconds")}
+    state["feedback"] = dict(sorted(done.items(), key=lambda kv: kv[1].get("done_at", ""))[-200:])
+    return errors
 
 
 def backfill(x, handle, acct, posts=None, dry_run=False):
@@ -783,7 +972,7 @@ def backfill(x, handle, acct, posts=None, dry_run=False):
 
     own = [slim(p) for p in posts if is_own_post(p, uid)]
     others = [slim(p) for p in posts if not is_own_post(p, uid)]
-    positions, biases, found, threads = {}, {}, [], {}
+    positions, biases, found, threads, reads = {}, {}, [], {}, {}
     for m in mains:
         unit = {"main": m, "reply": replies[m["id"]], "late": False}
         before = lambda items: [h for h in items if int(h["id"]) < int(m["id"])]
@@ -791,6 +980,9 @@ def backfill(x, handle, acct, posts=None, dry_run=False):
         res = classify(handle, unit, ctx)
         alerts = decide(res, biases)
         print(f"@{handle} {m['id']} (history): {', '.join(a[1] for a in alerts) or 'nothing'}")
+        reads[m["id"]] = verdict(res, alerts)
+        if unit["reply"]:
+            reads[unit["reply"]["id"]] = "Read together with the post it replies to"
         for kind, _key, part, _prev in alerts:
             found.append((kind, unit, part, res["prices"]))
             if kind == "trade":
@@ -806,6 +998,7 @@ def backfill(x, handle, acct, posts=None, dry_run=False):
     # Anything recorded from live posts since the account was added is newer, so it wins.
     acct["positions"] = {**positions, **acct["positions"]}
     acct["biases"] = {**biases, **acct["biases"]}
+    acct["reads"] = {**reads, **acct["reads"]}
     for tid, t in threads.items():
         cur = acct["threads"].setdefault(tid, {"self_replies": 0, "alerted": []})
         cur["self_replies"] = max(cur["self_replies"], t["self_replies"])
@@ -824,7 +1017,7 @@ def poll(dry_run=False):
     x = XClient(os.environ["X_BEARER_TOKEN"])
     state = load_state()
     accounts = state.setdefault("accounts", {})
-    errors = 0
+    errors = process_feedback(x, state, dry_run)
     for handle in load_accounts():
         acct = accounts.setdefault(handle.lower(), new_account(handle))
         for key, val in new_account(handle).items():

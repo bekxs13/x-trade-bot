@@ -38,3 +38,5 @@ Keep each "reason" to one or two plain sentences a trader can check against the 
 ## Notes about the author
 
 You may be given notes about the author, written by the person you alert: how they talk, how they tag positions, their running jokes, what they usually trade. Use them as background from someone who has followed the account for a long time. The post itself still decides what you report.
+
+You may also be given lessons from the reader's past corrections, where an earlier read missed something or got it wrong. Follow them.

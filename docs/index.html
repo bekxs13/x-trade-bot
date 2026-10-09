@@ -187,13 +187,48 @@ textarea { min-height: 110px; resize: vertical; line-height: 1.5; }
 .msg.err { color: var(--down); } .msg.ok { color: var(--up); }
 ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { margin: 4px 0; }
 
+/* ---- posts ---- */
+.post-card { padding: 14px; margin-bottom: 10px; }
+.post-text { margin: 10px 0 0; white-space: pre-wrap; word-break: break-word; max-height: 9.5em; overflow: hidden; position: relative; cursor: pointer; }
+.post-text.clamped::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 2.4em; background: linear-gradient(transparent, var(--surface)); }
+.post-text.open { max-height: none; }
+.post-quote { margin-top: 8px; font-size: 13px; color: var(--muted); border: 1px solid var(--line); border-radius: 12px; padding: 8px 10px; white-space: pre-wrap; word-break: break-word; }
+.thumbs { display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 6px; margin-top: 10px; }
+.thumbs img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 10px; background: var(--surface-2); }
+.verdict { display: inline-flex; align-items: center; gap: 6px; margin-top: 10px; font-size: 12.5px; font-weight: 600; padding: 5px 10px; border-radius: 10px; }
+.verdict.call-trade { color: var(--accent); background: var(--accent-soft); }
+.verdict.call-view { color: var(--text); background: var(--surface-2); }
+.verdict.no-call { color: var(--faint); background: transparent; border: 1px dashed var(--line); }
+.verdict.fixed { color: var(--exit); background: var(--exit-soft); }
+.post-foot { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-top: 10px; flex-wrap: wrap; }
+.linkish { border: 0; background: none; padding: 0; color: var(--muted); font-size: 13px; font-weight: 600; cursor: pointer; display: inline-flex; align-items: center; gap: 5px; }
+.linkish:hover { color: var(--accent); }
+.reply-tag { font-size: 11.5px; color: var(--faint); }
+
+/* ---- teach sheet ---- */
+.scrim { position: fixed; inset: 0; background: rgba(0, 0, 0, .45); z-index: 9; opacity: 0; pointer-events: none; transition: opacity .2s; }
+.scrim.show { opacity: 1; pointer-events: auto; }
+.sheet { position: fixed; left: 50%; bottom: 0; width: min(560px, 100%); transform: translate(-50%, 100%); z-index: 10;
+  background: var(--surface); border-radius: 22px 22px 0 0; border: 1px solid var(--line); box-shadow: 0 -10px 40px rgba(0, 0, 0, .3);
+  padding: 10px 18px calc(env(safe-area-inset-bottom) + 18px); transition: transform .25s ease; max-height: 92vh; overflow: auto; }
+.sheet.show { transform: translate(-50%, 0); visibility: visible; }
+.sheet:not(.show) { visibility: hidden; transition: transform .25s ease, visibility 0s .25s; }
+.grab { width: 40px; height: 5px; border-radius: 9px; background: var(--line); margin: 0 auto 12px; }
+.sheet h3 { margin: 0 0 4px; font-size: 18px; letter-spacing: -.02em; }
+.sheet label { display: block; font-size: 12.5px; font-weight: 700; color: var(--muted); margin: 14px 2px 6px; }
+.sheet select { width: 100%; }
+.learned { padding: 12px 14px; }
+.learned + .learned { border-top: 1px solid var(--line); }
+.learned .lesson { font-weight: 600; }
+.learned .meta { font-size: 12.5px; color: var(--muted); margin-top: 3px; }
+
 /* ---- tab bar ---- */
 .tabbar { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(env(safe-area-inset-bottom) + 14px); z-index: 6;
   display: flex; gap: 4px; padding: 6px; border-radius: 22px; background: color-mix(in srgb, var(--surface) 88%, transparent);
   backdrop-filter: saturate(160%) blur(16px); -webkit-backdrop-filter: saturate(160%) blur(16px);
   border: 1px solid var(--line); box-shadow: 0 10px 30px rgba(0, 0, 0, .18); }
 .tabbar button { border: 0; background: transparent; display: flex; flex-direction: column; align-items: center; gap: 2px;
-  padding: 8px 18px; border-radius: 16px; font-size: 11.5px; font-weight: 650; color: var(--faint); cursor: pointer; min-width: 84px; }
+  padding: 8px 10px; border-radius: 16px; font-size: 11.5px; font-weight: 650; color: var(--faint); cursor: pointer; min-width: 72px; }
 .tabbar button.on { color: var(--accent); background: var(--accent-soft); }
 .toast { position: fixed; left: 50%; bottom: calc(env(safe-area-inset-bottom) + 92px); transform: translate(-50%, 20px); opacity: 0;
   background: var(--text); color: var(--bg); padding: 10px 16px; border-radius: 12px; font-size: 13.5px; font-weight: 600;
@@ -210,6 +245,7 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
       <h1>X Trade Bot</h1>
       <div class="status"><span id="dot" class="dot"></span><span id="status">Loading…</span></div>
     </div>
+    <button id="teach-btn" class="icon-btn" aria-label="Teach the bot" title="Teach the bot"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 4.6L18.5 9.5l-4.6 1.9L12 16l-1.9-4.6L5.5 9.5l4.6-1.9z"/><path d="M19 15l.9 2.1L22 18l-2.1.9L19 21l-.9-2.1L16 18l2.1-.9z"/></svg></button>
     <button id="refresh" class="icon-btn" aria-label="Refresh"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 4v5h-5"/></svg></button>
   </div>
 </header>
@@ -241,6 +277,18 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
     <div id="feed"></div>
   </section>
 
+  <section id="tab-posts" class="hidden">
+    <div class="filters">
+      <div class="seg" id="posts-seg">
+        <button data-replies="0" class="on">Posts</button>
+        <button data-replies="1">+ Replies</button>
+      </div>
+      <select id="posts-who"><option value="">Everyone</option></select>
+    </div>
+    <p class="hint" style="margin:6px 4px 0">Their latest posts the bot has already read, with what it made of each. Loading this costs nothing extra.</p>
+    <div id="posts" style="margin-top:12px"></div>
+  </section>
+
   <section id="tab-accounts" class="hidden">
     <div class="section-title"><h2>Add an account</h2></div>
     <div class="card pad">
@@ -254,6 +302,10 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
     <div class="section-title"><h2>Watching</h2><span id="acct-count"></span></div>
     <div class="card" id="acct-list"></div>
     <p class="hint">Notes help the bot read an account: slang, how they tag positions, running jokes, what they usually trade. They're sent with every post from that account.</p>
+
+    <div class="section-title"><h2>What the bot has learned</h2><button class="btn small" id="teach-btn-2">Teach the bot</button></div>
+    <div class="card" id="learned"></div>
+    <p class="hint">Each correction you send becomes a short lesson the bot reads before every post. If a lesson is wrong, tap Forget.</p>
 
     <div class="section-title"><h2>Editing access</h2></div>
     <div class="card pad" id="token-card">
@@ -279,10 +331,25 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
 
 <nav class="tabbar">
   <button data-tab="board" class="on"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="9" rx="2"/><rect x="14" y="3" width="7" height="5" rx="2"/><rect x="14" y="12" width="7" height="9" rx="2"/><rect x="3" y="16" width="7" height="5" rx="2"/></svg>Board</button>
-  <button data-tab="feed"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Feed</button>
+  <button data-tab="feed"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Calls</button>
+  <button data-tab="posts"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>Posts</button>
   <button data-tab="accounts"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="4"/><path d="M2 21c0-3.9 3.1-7 7-7s7 3.1 7 7"/><path d="M17 4a4 4 0 0 1 0 8M22 21c0-3-1.8-5.6-4.5-6.6"/></svg>Accounts</button>
 </nav>
 <div id="toast" class="toast"></div>
+<div id="scrim" class="scrim"></div>
+<div id="sheet" class="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title">
+  <div class="grab"></div>
+  <h3 id="sheet-title">Teach the bot</h3>
+  <div class="hint" style="margin:0 2px">Tell it what it missed or got wrong. It turns this into a lesson it reads before every post, and if you link a post it reads that post again and fixes the board.</div>
+  <label for="t-url">Post link (optional)</label>
+  <input id="t-url" type="text" placeholder="https://x.com/handle/status/…" autocomplete="off" autocapitalize="off" spellcheck="false">
+  <label for="t-who">Account</label>
+  <select id="t-who"></select>
+  <label for="t-text">What did it miss or get wrong?</label>
+  <textarea id="t-text" placeholder="e.g. He was long HYPE here. When he posts a chart and says 'loading', he's buying."></textarea>
+  <div id="t-msg" class="msg"></div>
+  <div class="row-end" style="margin-top:12px"><button class="btn ghost" id="t-cancel">Cancel</button><button class="btn primary" id="t-send">Send to the bot</button></div>
+</div>
 
 <script>
 // Repo comes from the Pages URL (owner.github.io/repo/), with a fallback for opening the file directly.
@@ -293,6 +360,8 @@ const TOKEN_KEY = `xtb-token-${OWNER}-${REPO}`;
 const API = `https://api.github.com/repos/${OWNER}/${REPO}/contents`;
 
 let state = {accounts: {}}, alerts = [], accounts = [], loaded = false, feedKind = "all", feedWho = "";
+let feedback = [], postsReplies = false, postsWho = "";
+const lessons = {};  // lessons file name -> its text
 const notes = {};          // handle(lower) -> text, or null when there's no notes file yet
 const openNotes = new Set();  // accounts whose notes editor is open
 const drafts = {};            // unsaved text in open notes editors
@@ -356,13 +425,19 @@ function parseAccounts(text) {
 async function load() {
   $("refresh").classList.add("spin");
   try {
-    const [s, a, acc] = await Promise.all([getFile("state.json"), getFile("alerts.jsonl"), getFile("accounts.txt")]);
+    const [s, a, acc, fb] = await Promise.all([getFile("state.json"), getFile("alerts.jsonl"), getFile("accounts.txt"),
+      getFile("feedback.jsonl")]);
+    feedback = (fb || "").split("\n").filter(Boolean).map(l => { try { return JSON.parse(l); } catch { return null; } }).filter(Boolean);
     state = s ? JSON.parse(s) : {accounts: {}};
     // Newest first. History finds carry the post's time, so they slot in where they happened.
     alerts = (a || "").split("\n").filter(Boolean).map(l => { try { return JSON.parse(l); } catch { return null; } })
       .filter(Boolean).reverse().sort((x, y) => (Date.parse(y.sent_at) || 0) - (Date.parse(x.sent_at) || 0));
     accounts = parseAccounts(acc);
     loaded = true;
+    // Lesson files, to show which lessons are still in force (and let you forget one).
+    const files = [...new Set(Object.values(state.feedback || {}).filter(f => f.lesson).map(f => f.file))];
+    const texts = await Promise.all(files.map(f => getFile(`lessons/${f}.md`).catch(() => null)));
+    files.forEach((f, i) => { lessons[f] = texts[i] || ""; });
     render();
   } catch (e) {
     $("status").textContent = `Couldn't load data (${e.message}). Retrying…`;
@@ -387,7 +462,9 @@ function render() {
   $("dot").className = "dot " + (!updated ? "" : stale ? "stale" : "live");
   renderBoard();
   renderFeed();
+  renderPosts();
   renderAccounts();
+  renderLearned();
 }
 
 // ---- board ----
@@ -473,10 +550,69 @@ function renderFeed() {
       ${a.post ? `<div class="quote">${esc(a.post)}</div>` : ""}
       ${a.contract_address ? `<div class="ca">${esc(a.chain || "CA")} · ${esc(a.contract_address)}</div>` : ""}
       <div class="facts num">${facts}</div>
-      <a class="open-x" href="${esc(a.url)}" target="_blank" rel="noopener">Open on X ${CHEV}</a>
+      <div class="post-foot"><a class="open-x" style="margin:0" href="${esc(a.url)}" target="_blank" rel="noopener">Open on X ${CHEV}</a>
+        <button class="linkish" data-teach-url="${esc(a.url)}" data-teach-who="${esc(a.handle)}">Wrong? Teach the bot</button></div>
     </div>`;
   }).join("") || `<div class="card empty" style="margin-top:12px"><span class="em">📭</span>${alerts.length ? "Nothing matches this filter." : "No calls yet. Every ping the bot sends shows up here."}</div>`;
   document.querySelectorAll("#feed .quote").forEach(q => q.classList.toggle("clamped", q.scrollHeight > q.clientHeight + 2));
+}
+
+// ---- posts ----
+function renderPosts() {
+  const who = $("posts-who"), current = who.value;
+  who.innerHTML = `<option value="">Everyone</option>` + accounts.map(h => `<option value="${esc(h)}">@${esc(h)}</option>`).join("");
+  who.value = accounts.includes(current) ? current : "";
+  const byPost = {};
+  alerts.forEach(a => { const id = (a.url || "").split("/status/")[1]; if (id && !byPost[id]) byPost[id] = a; });
+  const items = accounts.filter(h => !postsWho || low(h) === low(postsWho)).flatMap(h => {
+    const a = acctState(h);
+    const own = (a.posts || []).map(p => ({...p, handle: h, reply: false}));
+    const others = postsReplies ? (a.replies || []).map(p => ({...p, handle: h, reply: true})) : [];
+    return [...own, ...others].map(p => ({...p, read: (a.reads || {})[p.id]}));
+  }).sort((x, y) => (BigInt(y.id) > BigInt(x.id) ? 1 : -1)).slice(0, 200);
+  $("posts").innerHTML = items.map(p => {
+    const url = `https://x.com/${p.handle}/status/${p.id}`;
+    let v = p.read, cls = "no-call";
+    if (!v && byPost[p.id]) {
+      const a = byPost[p.id];
+      v = a.kind === "trade" ? `TRADE ${String(a.direction).toUpperCase()} ${a.asset}` : `VIEW ${a.stance} on ${a.scope}`;
+    }
+    if (v) cls = v.startsWith("Corrected") ? "fixed" : v.startsWith("TRADE") ? "call-trade" : v.startsWith("VIEW") ? "call-view" : "no-call";
+    const tag = p.reply ? (p.reply_to_id ? "replying" : "reply") : (p.reply_to_id ? "thread" : "");
+    return `<div class="card post-card">
+      <div class="call-head">${avatar(p.handle, "sm")}<span class="handle">@${esc(p.handle)}</span><span>${ago(p.created_at)}</span>
+        ${tag ? `<span class="reply-tag">· ${tag}</span>` : ""}</div>
+      <div class="post-text">${esc(p.text)}</div>
+      ${p.quoted_text ? `<div class="post-quote">${esc(p.quoted_text)}</div>` : ""}
+      ${(p.images || []).length ? `<div class="thumbs">${p.images.map(u => `<a href="${esc(u)}" target="_blank" rel="noopener"><img src="${esc(u)}" alt="" loading="lazy" onerror="this.parentNode.remove()"></a>`).join("")}</div>` : ""}
+      ${v ? `<div class="verdict ${cls}">${esc(v)}</div>` : ""}
+      <div class="post-foot"><a class="open-x" style="margin:0" href="${esc(url)}" target="_blank" rel="noopener">Open on X ${CHEV}</a>
+        ${p.reply ? "" : `<button class="linkish" data-teach-url="${esc(url)}" data-teach-who="${esc(p.handle)}">Wrong? Teach the bot</button>`}</div>
+    </div>`;
+  }).join("") || `<div class="card empty"><span class="em">🗒️</span>No posts saved yet. They show up after the bot's first check of each account.</div>`;
+  document.querySelectorAll("#posts .post-text").forEach(q => q.classList.toggle("clamped", q.scrollHeight > q.clientHeight + 2));
+}
+
+// ---- what the bot has learned ----
+function renderLearned() {
+  const done = state.feedback || {};
+  const pending = feedback.filter(f => f.id && !done[f.id]);
+  const learned = Object.entries(done).sort((x, y) => (y[1].done_at || "").localeCompare(x[1].done_at || ""));
+  const rows = pending.reverse().map(f => `<div class="learned">
+      <div class="lesson">${esc(f.text)}</div>
+      <div class="meta">Waiting for the bot's next check${f.handle ? ` · @${esc(f.handle)}` : ""}</div></div>`);
+  learned.forEach(([id, f]) => {
+    const active = f.lesson && (lessons[f.file] || "").split("\n").includes(`- ${f.lesson}`);
+    if (f.lesson && !active && lessons[f.file] !== undefined) return;  // forgotten
+    const sent = feedback.find(x => x.id === id);
+    rows.push(`<div class="learned">
+      <div class="lesson">${f.lesson ? esc(f.lesson) : "No general lesson from this one"}</div>
+      <div class="meta">${f.file === "_all" ? "All accounts" : `@${esc(f.handle || f.file)}`} · ${ago(f.done_at)}${f.outcome ? ` · ${esc(f.outcome)}` : ""}</div>
+      ${sent ? `<div class="meta">You said: “${esc(sent.text)}”</div>` : ""}
+      ${f.lesson && getToken() ? `<div class="row-end" style="justify-content:flex-end"><button class="btn small danger" data-forget="${esc(id)}">Forget</button></div>` : ""}
+    </div>`);
+  });
+  $("learned").innerHTML = rows.join("") || `<div class="empty">Nothing yet. When the bot misses something, tap “Teach the bot” and tell it.</div>`;
 }
 
 // ---- accounts ----
@@ -645,13 +781,70 @@ $("save-token").onclick = async () => {
 };
 $("forget-token").onclick = () => { setToken(""); toast("Token removed"); renderAccounts(); };
 
+// ---- teach the bot ----
+function openTeach(url = "", who = "") {
+  if (!getToken()) { showTab("accounts"); toast("Add a token first (bottom of this tab)"); return; }
+  $("t-who").innerHTML = `<option value="">All accounts</option>` + accounts.map(h => `<option value="${esc(h)}">@${esc(h)}</option>`).join("");
+  $("t-url").value = url;
+  $("t-who").value = accounts.find(h => low(h) === low(who)) || "";
+  $("t-text").value = "";
+  showMsg($("t-msg"), "", "");
+  $("scrim").classList.add("show"); $("sheet").classList.add("show");
+  setTimeout(() => $("t-text").focus(), 250);
+}
+function closeTeach() { $("scrim").classList.remove("show"); $("sheet").classList.remove("show"); }
+$("t-url").oninput = () => {
+  const m = $("t-url").value.match(/(?:x|twitter)\.com\/([A-Za-z0-9_]{1,15})\/status\/\d+/i);
+  if (m) $("t-who").value = accounts.find(h => low(h) === low(m[1])) || "";
+};
+$("t-send").onclick = async () => {
+  const text = $("t-text").value.trim(), url = $("t-url").value.trim();
+  if (!text) return showMsg($("t-msg"), "Say what it missed or got wrong.", "err");
+  if (url && !/(?:x|twitter)\.com\/[A-Za-z0-9_]{1,15}\/status\/\d+/i.test(url)) return showMsg($("t-msg"), "That link doesn't look like an X post.", "err");
+  const entry = {id: `${Date.now().toString(36)}${Math.random().toString(36).slice(2, 6)}`, at: new Date().toISOString(),
+    handle: $("t-who").value, url, text};
+  $("t-send").disabled = true;
+  try {
+    await editFile("feedback.jsonl", cur => (cur || "") + JSON.stringify(entry) + "\n", `Teach the bot${entry.handle ? ` about @${entry.handle}` : ""}`);
+    feedback.push(entry);
+    closeTeach();
+    toast("Sent. The bot learns it on its next check");
+    renderLearned();
+  } catch (e) { showMsg($("t-msg"), e.message, "err"); }
+  $("t-send").disabled = false;
+};
+$("t-cancel").onclick = closeTeach;
+$("scrim").onclick = closeTeach;
+$("teach-btn").onclick = () => openTeach();
+$("teach-btn-2").onclick = () => openTeach();
+document.addEventListener("click", e => {
+  const b = e.target.closest("[data-teach-url]");
+  if (b) openTeach(b.dataset.teachUrl, b.dataset.teachWho);
+});
+$("learned").onclick = async e => {
+  const b = e.target.closest("[data-forget]");
+  if (!b) return;
+  const f = (state.feedback || {})[b.dataset.forget];
+  if (!f || !confirm(`Forget this lesson?\n\n${f.lesson}`)) return;
+  b.disabled = true;
+  try {
+    const next = await editFile(`lessons/${f.file}.md`,
+      cur => { const left = (cur || "").split("\n").filter(l => l && l !== `- ${f.lesson}`); return left.length ? left.join("\n") + "\n" : null; },
+      "Forget a lesson");
+    lessons[f.file] = next || "";
+    toast("Forgotten");
+    renderLearned();
+  } catch (err) { toast(err.message); b.disabled = false; }
+};
+
 // ---- tabs, filters, refresh ----
 function showTab(tab) {
   document.querySelectorAll(".tabbar button").forEach(b => b.classList.toggle("on", b.dataset.tab === tab));
-  ["board", "feed", "accounts"].forEach(t => $(`tab-${t}`).classList.toggle("hidden", t !== tab));
+  ["board", "feed", "posts", "accounts"].forEach(t => $(`tab-${t}`).classList.toggle("hidden", t !== tab));
   try { localStorage.setItem("xtb-tab", tab); } catch {}
   window.scrollTo({top: 0});
   if (tab === "feed") renderFeed();  // measure post clamps once visible
+  if (tab === "posts") renderPosts();
 }
 document.querySelector(".tabbar").onclick = e => { const b = e.target.closest("button"); if (b) showTab(b.dataset.tab); };
 $("kind-seg").onclick = e => {
@@ -663,13 +856,22 @@ $("kind-seg").onclick = e => {
 };
 $("who").onchange = e => { feedWho = e.target.value; renderFeed(); };
 $("feed").onclick = e => { const q = e.target.closest(".quote"); if (q) { q.classList.toggle("open"); q.classList.remove("clamped"); } };
+$("posts").onclick = e => { const q = e.target.closest(".post-text"); if (q) { q.classList.toggle("open"); q.classList.remove("clamped"); } };
+$("posts-seg").onclick = e => {
+  const b = e.target.closest("button");
+  if (!b) return;
+  postsReplies = b.dataset.replies === "1";
+  document.querySelectorAll("#posts-seg button").forEach(x => x.classList.toggle("on", x === b));
+  renderPosts();
+};
+$("posts-who").onchange = e => { postsWho = e.target.value; renderPosts(); };
 $("refresh").onclick = load;
 $("new-handle").onkeydown = e => { if (e.key === "Enter") $("add-btn").click(); };
 
 try { const saved = localStorage.getItem("xtb-tab"); if (saved) showTab(saved); } catch {}
 renderAccounts();
 load();
-setInterval(() => { if (!document.hidden && !document.querySelector("textarea:focus")) load(); }, 60000);
+setInterval(() => { if (!document.hidden && !document.querySelector("textarea:focus") && !$("sheet").classList.contains("show")) load(); }, 60000);
 document.addEventListener("visibilitychange", () => { if (!document.hidden) load(); });
 </script>
 </body>

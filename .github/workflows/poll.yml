@@ -59,6 +59,7 @@ jobs:
           [ -f state.json ] || exit 0
           git add state.json
           if [ -f alerts.jsonl ]; then git add alerts.jsonl; fi
+          if [ -d lessons ]; then git add lessons; fi
           git diff --cached --quiet && exit 0
           git commit -m "update state [skip ci]"
           git pull --rebase

@@ -85,6 +85,8 @@ class Base(unittest.TestCase):
             mock.patch.object(bot, "ALERTS_PATH", self.tmp / "alerts.jsonl"),
             mock.patch.object(bot, "ACCOUNTS_PATH", self.tmp / "accounts.txt"),
             mock.patch.object(bot, "NOTES_DIR", self.tmp / "notes"),
+            mock.patch.object(bot, "FEEDBACK_PATH", self.tmp / "feedback.jsonl"),
+            mock.patch.object(bot, "LESSONS_DIR", self.tmp / "lessons"),
             mock.patch.object(bot, "price_context", lambda text: ["BTC: $84,000.00"]),
             mock.patch.dict(os.environ, self.env, clear=False),
         ]
@@ -207,7 +209,7 @@ class PollTest(Base):
 
     def test_history_read_fills_board_without_pinging(self):
         # An account added before this feature: baseline saved, history not read yet.
-        self.set_state(last_id="20")
+        self.set_state(last_id="20", posts=[{"id": i, "created_at": "", "text": "t"} for i in ("10", "12", "13", "20")])
         st = json.loads((self.tmp / "state.json").read_text())
         del st["accounts"]["based16z"]["backfilled"]
         (self.tmp / "state.json").write_text(json.dumps(st))
@@ -237,6 +239,9 @@ class PollTest(Base):
         self.assertEqual(st["positions"]["POPCAT"]["direction"], "long")
         self.assertEqual(st["biases"]["alts"]["stance"], "bearish")
         self.assertEqual(st["threads"]["12"]["alerted"], ["trade:POPCAT:long"])
+        self.assertEqual(st["reads"]["12"], "TRADE LONG POPCAT")
+        self.assertEqual(st["reads"]["13"], "Read together with the post it replies to")
+        self.assertEqual(st["reads"]["20"], "No call")
         logged = [json.loads(line) for line in (self.tmp / "alerts.jsonl").read_text().splitlines()]
         self.assertEqual([(a["kind"], a["backfill"]) for a in logged], [("bias", True), ("trade", True)])
         # Runs once: the next poll doesn't read history again.
@@ -255,6 +260,46 @@ class PollTest(Base):
         self.assertNotIn("backfilled", st)
         self.assertEqual(st["positions"], {})
         self.assertFalse((self.tmp / "alerts.jsonl").exists())
+
+    def test_correction_becomes_lesson_and_fixes_board(self):
+        self.set_state(last_id="50", posts=[{"id": "40", "created_at": "", "text": "loading"}])
+        (self.tmp / "feedback.jsonl").write_text(json.dumps({
+            "id": "f1", "at": "t", "handle": "", "url": "https://x.com/based16z/status/40?s=20",
+            "text": "he was long hype here, 'loading' means buying"}) + "\n")
+        lesson = {"lesson": "When @based16z says 'loading', treat it as a long.", "applies_to": "this account"}
+        long_hype = result(trade={"present": True, "asset": "HYPE", "direction": "long", "confidence": 0.85, "reason": "loading"})
+        lookup = {"data": [dict(tweet("40", "loading"), author_id=UID)]}
+        self.assertEqual(self.run_poll({"data": []}, lesson, long_hype, lookup_body=lookup), 0)
+        self.assertEqual(self.sent, [], "corrections don't ping")
+        self.assertIn("The owner's correction: he was long hype here", self.prompts()[0])
+        self.assertIn("What the bot reported for it: nothing", self.prompts()[0])
+        self.assertIn("Lessons from the reader's past corrections (follow them):\n- When @based16z says 'loading'",
+                      self.prompts()[1], "the re-read already uses the new lesson")
+        self.assertEqual((self.tmp / "lessons" / "based16z.md").read_text(),
+                         "- When @based16z says 'loading', treat it as a long.\n")
+        st = self.state()
+        self.assertEqual(st["positions"]["HYPE"]["post_id"], "40")
+        done = json.loads((self.tmp / "state.json").read_text())["feedback"]["f1"]
+        self.assertEqual(done["file"], "based16z")
+        self.assertEqual(done["outcome"], "Re-read the post: LONG HYPE.")
+        self.assertEqual(st["reads"]["40"], "Corrected: LONG HYPE")
+        logged = [json.loads(line) for line in (self.tmp / "alerts.jsonl").read_text().splitlines()]
+        self.assertTrue(logged[0]["correction"])
+        # Handled once.
+        self.assertEqual(self.run_poll({"data": []}), 0)
+
+    def test_correction_of_a_false_call_removes_it(self):
+        self.set_state(last_id="50")
+        st = json.loads((self.tmp / "state.json").read_text())
+        st["accounts"]["based16z"]["positions"] = {"BTC": {"asset": "BTC", "direction": "short", "post_id": "40", "since": ""}}
+        (self.tmp / "state.json").write_text(json.dumps(st))
+        (self.tmp / "feedback.jsonl").write_text(json.dumps({
+            "id": "f2", "handle": "based16z", "url": "https://x.com/based16z/status/40", "text": "that was a joke"}) + "\n")
+        lesson = {"lesson": "Numbers followed by 'lol' are jokes.", "applies_to": "all accounts"}
+        lookup = {"data": [tweet("40", "379k btc would benefit me lol")]}
+        self.assertEqual(self.run_poll({"data": []}, lesson, NOTHING, lookup_body=lookup), 0)
+        self.assertEqual(self.state()["positions"], {})
+        self.assertEqual((self.tmp / "lessons" / "_all.md").read_text(), "- Numbers followed by 'lol' are jokes.\n")
 
     def test_account_notes_are_included(self):
         self.set_state()
