@@ -4,7 +4,7 @@ on:
   schedule:
     # Every 5 minutes, offset from the top of the hour when GitHub is busiest.
     # On a PRIVATE repo change this to "7,37 * * * *" (twice an hour) to stay inside the free minutes.
-    - cron: "2,7,12,17,22,27,32,37,42,47,52,57 * * * *"
+    - cron: "3,8,13,18,23,28,33,38,43,48,53,58 * * * *"
   workflow_dispatch:
     inputs:
       test_notify:
