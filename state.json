@@ -1005,17 +1005,17 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2108616630343504339",
-          "reason": "\"Crypto still ugly and needs patience\" is a bearish-to-wait stance on crypto overall, broader than his recorded bearish view on alts.",
+          "post_id": "2108642063260831803",
+          "reason": "\"things look quite ugly\", ETH back in the prior range, alts with broken structure trending lower, and \"no reason to press risk\". This matches his recorded bearish crypto view.",
           "scope": "crypto market",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-09T17:52:35.000Z"
+          "updated_at": "2026-10-09T19:33:39.000Z"
         }
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2108637867329384826",
+      "last_id": "2108642171230552162",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1095,6 +1095,11 @@
           "id": "2108637867329384826",
           "reply_to_id": "2108616630343504339",
           "text": "Listened to jez interview, funny to see him talk about traders being uber competitive self critical and usually respond with anger to any losses as I sit in a rage over ASTS \n\nOn the real tho it is fucking hilarious how I can do well repeatedly but anytime I lose at all I drive myself into a temporary rage, I just can\u2019t turn that part of my brain off"
+        },
+        {
+          "created_at": "2026-10-09T19:33:39.000Z",
+          "id": "2108642063260831803",
+          "text": "I still think for crypto you can use these yearly open levels on majors as pivots and look to rerisk back above there should it occur\n\nAs it stands things look quite ugly with eth going back into prior range and alts continuing to have broken structures trending lower\n\nSame update for a couple weeks really, no reason to press risk into a changed market dynamic"
         }
       ],
       "reads": {
@@ -1105,14 +1110,10 @@
         "2108378376771928218": "No call",
         "2108408467048599633": "No call",
         "2108616630343504339": "TRADE SHORT EWY \u00b7 VIEW bearish on crypto market",
-        "2108637867329384826": "No call"
+        "2108637867329384826": "No call",
+        "2108642063260831803": "No call: bearish on crypto market (same view as before)"
       },
       "replies": [
-        {
-          "created_at": "2026-10-08T04:59:27.000Z",
-          "id": "2108059678802657617",
-          "text": "@TradeRansoze Always good to wait when it\u2019s time to wait!"
-        },
         {
           "created_at": "2026-10-08T18:55:38.000Z",
           "id": "2108270109139808690",
@@ -1194,6 +1195,12 @@
           "id": "2108619491349602367",
           "reply_to_id": "2108617714545590422",
           "text": "@Bobin618 The sun will shine on us again for trad lev\u2026"
+        },
+        {
+          "created_at": "2026-10-09T19:34:04.000Z",
+          "id": "2108642171230552162",
+          "reply_to_id": "2108639347389919249",
+          "text": "@stogolp So real"
         }
       ],
       "threads": {
@@ -1237,13 +1244,16 @@
             "bias:crypto market:bearish"
           ],
           "self_replies": 1
+        },
+        "2108642063260831803": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2107944740977287271": true,
         "2107964940585967656": false,
         "2107994669020025063": false,
-        "2108059678802657617": true,
         "2108270109139808690": false,
         "2108270995530490169": true,
         "2108271202875969933": true,
@@ -1265,7 +1275,9 @@
         "2108426947412017409": false,
         "2108616630343504339": true,
         "2108619491349602367": true,
-        "2108637867329384826": true
+        "2108637867329384826": true,
+        "2108642063260831803": true,
+        "2108642171230552162": false
       },
       "user_id": "953032269433745408"
     },
@@ -2909,5 +2921,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T19:18:22+00:00"
+  "updated_at": "2026-10-09T19:34:27+00:00"
 }
