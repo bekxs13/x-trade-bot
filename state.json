@@ -1990,7 +1990,7 @@
       "biases": {},
       "closed": [],
       "handle": "thecryptonexus",
-      "last_id": "2107897550825037907",
+      "last_id": "2108463994940035561",
       "positions": {
         "FREN PET (FP)": {
           "asset": "Fren Pet (FP)",
@@ -2058,11 +2058,6 @@
         "2107896878436077724": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-06T01:01:53.000Z",
-          "id": "2107275115461230864",
-          "text": "@The_Big_Jugg https://t.co/Gg2kpkZgUR https://t.co/7c2tPv4t8d"
-        },
         {
           "created_at": "2026-10-06T01:02:00.000Z",
           "id": "2107275146612424770",
@@ -2132,6 +2127,12 @@
           "created_at": "2026-10-07T18:15:13.000Z",
           "id": "2107897550825037907",
           "text": "@based16z @golfwangsnorlax Jesus christ i thought $15k for 3 bed townhouse in best london area was bad\n\nWow\u2026"
+        },
+        {
+          "created_at": "2026-10-09T07:46:04.000Z",
+          "id": "2108463994940035561",
+          "reply_to_id": "2108257848572665942",
+          "text": "@KumaCapxbt What an absurd take"
         }
       ],
       "threads": {
@@ -2181,7 +2182,6 @@
         }
       },
       "trading": {
-        "2107275115461230864": false,
         "2107275146612424770": false,
         "2107275881777639547": false,
         "2107277220171669870": false,
@@ -2200,7 +2200,8 @@
         "2107659862649757810": false,
         "2107660132419280926": false,
         "2107896878436077724": true,
-        "2107897550825037907": false
+        "2107897550825037907": false,
+        "2108463994940035561": false
       },
       "user_id": "1392152416854765571"
     },
@@ -2431,5 +2432,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T07:34:17+00:00"
+  "updated_at": "2026-10-09T07:46:18+00:00"
 }
