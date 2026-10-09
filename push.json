@@ -1,0 +1,16 @@
+{
+  "devices": {
+    "jln5f0a8": {
+      "name": "iPhone",
+      "added": "2026-10-09T03:40:05.301Z",
+      "views": true,
+      "sub": {
+        "endpoint": "https://web.push.apple.com/QPDszW0hS06vBHdftAUX3LhXEGOKW8uUpOAYNwpLxtUiDBPRQVHW3QkIdOo5yuy0cGFcTA9bVlVBTTpXNVt0QrhqIPGaWNbiM7gPd-eLjEAP_mr2WLJSExsADor-1tJxeON97e_ca0WA0M6BCuX_aMAZ32m5OYRc5dX5dIH1r9w",
+        "keys": {
+          "p256dh": "BEdoXnK6HzS5KOM5wnLqdAKzOMB2XPKxKnNu0UnspNWyWkJQRuI6KKkEdjSGG2VRZfSZ489Su44Xs0ZYhJCMzXw",
+          "auth": "8768fKDJ6a2yNqTjSFaMeQ"
+        }
+      }
+    }
+  }
+}
