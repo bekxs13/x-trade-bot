@@ -649,7 +649,7 @@
       "biases": {},
       "closed": [],
       "handle": "cl207",
-      "last_id": "2108474973149135135",
+      "last_id": "2108477226870296592",
       "positions": {},
       "posts": [
         {
@@ -681,6 +681,11 @@
           "created_at": "2026-10-09T08:18:53.000Z",
           "id": "2108472255152099705",
           "text": "chemistry is just physics on a cuter scale"
+        },
+        {
+          "created_at": "2026-10-09T08:38:39.000Z",
+          "id": "2108477226870296592",
+          "text": "since ai started generating math / science progress\n\nits feeling futuristic, maybe similar to how we thought we'd have flying cars\n\nnot sure why, when ai was just trying to do art, coding, it didnt give that vibe"
         }
       ],
       "reads": {
@@ -688,7 +693,8 @@
         "2106598378595631130": "No call",
         "2107823975724192158": "No call",
         "2108114860626059731": "No call",
-        "2108472255152099705": "No call"
+        "2108472255152099705": "No call",
+        "2108477226870296592": "No call"
       },
       "replies": [
         {
@@ -813,6 +819,10 @@
         "2108472255152099705": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108477226870296592": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -836,7 +846,8 @@
         "2108332270205698100": false,
         "2108472255152099705": false,
         "2108474171470860635": false,
-        "2108474973149135135": false
+        "2108474973149135135": false,
+        "2108477226870296592": false
       },
       "user_id": "1073132650309726208"
     },
@@ -1093,7 +1104,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108476746198929705",
+      "last_id": "2108477105013129384",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1275,12 +1286,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-09T03:42:24.000Z",
-          "id": "2108402676111384662",
-          "reply_to_id": "2108398183672135897",
-          "text": "@5quab \ud83d\ude02\ud83d\ude02\ud83d\ude02"
-        },
-        {
           "created_at": "2026-10-09T04:10:10.000Z",
           "id": "2108409662966280327",
           "reply_to_id": "2108404659563966770",
@@ -1363,6 +1368,12 @@
           "id": "2108476746198929705",
           "reply_to_id": "2108475647966470434",
           "text": "@jords basically the best expression of going long on industry-level threat + math catalysts accelerating in the near-medium term imo as ai gets better &amp; mindshare grows into anth ipo\n\northogonal long ai coz tech wise theyre positioning themselves very well into this wave"
+        },
+        {
+          "created_at": "2026-10-09T08:38:10.000Z",
+          "id": "2108477105013129384",
+          "reply_to_id": "2108476367620985079",
+          "text": "@grisimoli94 glad to be back! \ud83d\udd25\ud83d\udd25\ud83d\ude4f"
         }
       ],
       "threads": {
@@ -1472,7 +1483,6 @@
         "2108360350404112612": true,
         "2108396870783631448": true,
         "2108397149964898395": true,
-        "2108402676111384662": false,
         "2108409662966280327": true,
         "2108411600848015747": true,
         "2108418862547161537": true,
@@ -1491,7 +1501,8 @@
         "2108468831375220749": true,
         "2108470411361178094": false,
         "2108472561889943559": true,
-        "2108476746198929705": true
+        "2108476746198929705": true,
+        "2108477105013129384": false
       },
       "user_id": "1653080265294757890"
     },
@@ -2511,5 +2522,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T08:38:20+00:00"
+  "updated_at": "2026-10-09T08:40:23+00:00"
 }
