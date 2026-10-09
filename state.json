@@ -1131,7 +1131,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108510056358744202",
+      "last_id": "2108510657201279308",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1196,11 +1196,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-08T11:25:45.000Z",
-          "id": "2108156892279456072",
-          "text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI threat that VB and many other brilliant minds in cryptography sector are talking about.\n\n500m fdv for the main & up-only industry-level threat just doesn't seem anywhere close to correct valuation\n\nNFA DYOR"
-        },
         {
           "created_at": "2026-10-08T16:51:07.000Z",
           "id": "2108238771796001138",
@@ -1315,10 +1310,15 @@
           "id": "2108510056358744202",
           "quoted_text": "this i agree, i dont think that ecdsa is going to be broken & even in the case it might there would be much bigger things to worry about re: TLS, have been very public about this from the beginning \n\nhttps://t.co/4XDCuzaDiM\n\nhttps://t.co/Dri4a4E6RE\n\nhttps://t.co/wNooo6xMmQ\n\ni dont agree with the view that ppl think that the industry will crash from unknown encryption breakthroughs. otherwise, whats the point of holding btc - obviously we're still here and until proven otherwise this is another r",
           "text": "wish to make this extra clear coz i dont wish for ppl to misunderstand the view lol\n\n1. no the crypto industry is not going to be hacked by some unknown encryption breakthrough. have never expressed anything close to that  anything near that is misleading imo https://t.co/wNooo6xMmQ\n\n2. even if such algos were developed, default case is -> https://t.co/Dri4a4E6RE\n\n3. media doesnt seem like theyll stop talking about this theme anytime soon due to anth ipo & oai ipo headwinds \n\nMP\n\n// appreciate it jords i wouldnt have noticed a possibility of ppl possibly digesting it that way & wish to continue making this clear as we have since the beginning"
+        },
+        {
+          "created_at": "2026-10-09T10:51:29.000Z",
+          "id": "2108510657201279308",
+          "quoted_text": "this i agree, i dont think that ecdsa is going to be broken & even in the case it might there would be much bigger things to worry about re: TLS, have been very public about this from the beginning \n\nhttps://t.co/4XDCuzaDiM\n\nhttps://t.co/Dri4a4E6RE\n\nhttps://t.co/wNooo6xMmQ\n\ni dont agree with the view that ppl think that the industry will crash from unknown encryption breakthroughs. otherwise, whats the point of holding btc - obviously we're still here and until proven otherwise this is another r",
+          "text": "wish to make this extra clear coz i dont wish for ppl to misunderstand the view lol\n\n1. no the crypto industry is not going to be hacked by some unknown encryption breakthrough. have never expressed anything close to that  anything near that is misleading imo https://t.co/wNooo6xMmQ\n\n2. even if such algos were developed, default case is -> https://t.co/Dri4a4E6RE\n\n3. media doesnt seem like theyll stop talking about this theme anytime soon due to anth ipo & oai ipo headwinds \n\nMP\n\n// appreciate it jords wouldnt have noticed a possibility of  possibly digesting it that way (\ud83d\ude02) & wish to continue making this clear as we have since the beginning"
         }
       ],
       "reads": {
-        "2108156892279456072": "TRADE LONG STRK",
         "2108238771796001138": "TRADE SHORT NVDA",
         "2108238926725190008": "TRADE SHORT NVDA, SOXL, MU \u00b7 VIEW bearish on stocks/macro",
         "2108239413411242002": "No call",
@@ -1337,7 +1337,8 @@
         "2108485846647333345": "VIEW bullish on STRK",
         "2108509180000653422": "No call",
         "2108509703852757277": "No call: bullish on crypto market (60%, too unsure)",
-        "2108510056358744202": "No call"
+        "2108510056358744202": "No call",
+        "2108510657201279308": "No call"
       },
       "replies": [
         {
@@ -1557,10 +1558,13 @@
         "2108510056358744202": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108510657201279308": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108156892279456072": true,
         "2108238771796001138": true,
         "2108238926725190008": true,
         "2108239413411242002": true,
@@ -1594,7 +1598,8 @@
         "2108506679910518847": true,
         "2108509180000653422": true,
         "2108509703852757277": true,
-        "2108510056358744202": true
+        "2108510056358744202": true,
+        "2108510657201279308": true
       },
       "user_id": "1653080265294757890"
     },
@@ -2614,5 +2619,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T10:50:25+00:00"
+  "updated_at": "2026-10-09T10:52:22+00:00"
 }
