@@ -2125,7 +2125,7 @@
       "biases": {},
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2108388001386537404",
+      "last_id": "2108403707645764048",
       "positions": {},
       "posts": [
         {
@@ -2202,6 +2202,11 @@
           "created_at": "2026-10-09T02:44:06.000Z",
           "id": "2108388001386537404",
           "text": "Speculation feels the easiest when it\u2019s at it\u2019s most dangerous"
+        },
+        {
+          "created_at": "2026-10-09T03:46:30.000Z",
+          "id": "2108403707645764048",
+          "text": "We\u2019re going to look back at this time and say \u201cit was so obvious\u201d"
         }
       ],
       "reads": {
@@ -2216,7 +2221,8 @@
         "2107941658998309343": "No call",
         "2108214861054284161": "No call",
         "2108368465883230243": "No call",
-        "2108388001386537404": "No call: bearish on stocks/macro (62%, too unsure)"
+        "2108388001386537404": "No call: bearish on stocks/macro (62%, too unsure)",
+        "2108403707645764048": "No call: bearish on stocks/macro (60%, too unsure)"
       },
       "replies": [
         {
@@ -2306,6 +2312,10 @@
         "2108388001386537404": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108403707645764048": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -2329,12 +2339,13 @@
         "2107941658998309343": false,
         "2108214861054284161": true,
         "2108368465883230243": false,
-        "2108388001386537404": true
+        "2108388001386537404": true,
+        "2108403707645764048": true
       },
       "user_id": "809191427645181952"
     }
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T03:44:27+00:00"
+  "updated_at": "2026-10-09T03:48:29+00:00"
 }
