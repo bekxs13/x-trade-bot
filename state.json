@@ -1116,7 +1116,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108481061042929887",
+      "last_id": "2108483042214019327",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1165,19 +1165,19 @@
         },
         "STRK": {
           "asset": "STRK",
-          "chain": "solana",
-          "confidence": 0.88,
-          "contract_address": "2Wvx5194AsgaNLZQNuPgouedETePyVcZMrasMLbohdhA",
+          "chain": "",
+          "confidence": 0.8,
+          "contract_address": "",
           "direction": "long",
-          "entry": "0.07",
+          "entry": "",
           "horizon": "cycle",
           "market": "crypto",
           "open_price": null,
-          "post_id": "2108481061042929887",
-          "reason": "Calls $STRK 'my kingmaker play'. Earlier posts say 'longed an extreme amount' and replies say 'added more at .07', so this restates the existing STRK long.",
+          "post_id": "2108482904116560301",
+          "reason": "Restates a bullish STRK thesis calling it the 'kingmaker play', which matches the open STRK long on record. No new entry is given.",
           "since": "2026-10-08T11:25:45.000Z",
           "structure": "perp",
-          "url": "https://x.com/MoneyPrinter0x/status/2108481061042929887"
+          "url": "https://x.com/MoneyPrinter0x/status/2108482904116560301"
         }
       },
       "posts": [
@@ -1281,6 +1281,11 @@
           "created_at": "2026-10-09T08:53:53.000Z",
           "id": "2108481061042929887",
           "text": "the only things that are definite over the coming near future are:\n\n1. the entire risk-on climate depends on ai headwinds\n\n2. the capabilities of ai is directly proportional to its mathematical capabilities \n\n3. the success of the entire risk-on climate depends on ai mindshare - and NOTHING drives speculation better than fear. look at the GTM playbook leading to every anthropic & openai model release and it is very much obvious.\n\none chain is years ahead of the others and hit the lottery on their tech positioning which is specifically designed to beat this - in other words the alpha runner of this theme of the cycle. we spotted it extremely early with full tech thesis re:exact cryptography mechanisms.\n\nseptember unlocks not moving price at all leads me to think that incentives are pro-token.\n\nif my read is correct - and i think it is - this is going to be my kingmaker play.\n\nWelcome to the hated cryptography rally.\n\n$STRK\n\nMoneyPrinter0x"
+        },
+        {
+          "created_at": "2026-10-09T09:01:12.000Z",
+          "id": "2108482904116560301",
+          "text": "the only things that are definite over the coming near future are:\n\n1. the entire risk-on climate depends on ai headwinds\n\n2. the capabilities of ai is directly proportional to its mathematical capabilities \n\n3. the success of the entire risk-on climate depends on ai mindshare - and NOTHING drives speculation better than fear. look at the GTM playbook leading to every anthropic & openai model release and it is very much obvious.\n\none chain is years ahead of the others and hit the lottery on their tech positioning which is specifically designed to beat this - in other words the alpha runner of this theme of the cycle. we spotted it extremely early with full tech thesis re:exact cryptography mechanisms.\n\nseptember unlocks not moving price at all leads me to think that incentives are pro-token.\n\nif my read is correct - and i think it is - this is going to be the kingmaker play.\n\nWelcome to the hated cryptography rally.\n\n$STRK\n\nMoneyPrinter0x"
         }
       ],
       "reads": {
@@ -1300,15 +1305,10 @@
         "2108467127783154171": "VIEW bullish on btc",
         "2108470411361178094": "No call",
         "2108472561889943559": "TRADE LONG STRK",
-        "2108481061042929887": "TRADE LONG STRK"
+        "2108481061042929887": "TRADE LONG STRK",
+        "2108482904116560301": "TRADE LONG STRK"
       },
       "replies": [
-        {
-          "created_at": "2026-10-09T04:17:52.000Z",
-          "id": "2108411600848015747",
-          "reply_to_id": "2108410966098788857",
-          "text": "@DreiGlas3r mostly waiting on whats next on what they ship on product side - their roadmap is good just waiting &amp; seeing on execution"
-        },
         {
           "created_at": "2026-10-09T04:46:44.000Z",
           "id": "2108418862547161537",
@@ -1392,6 +1392,12 @@
           "id": "2108477840614441401",
           "reply_to_id": "2108475647966470434",
           "text": "@jords and yes i agree, this is going to be one of the main themes this cycle imo\n\nthis kind of industry-level threat narratives in confluence with anth ipo + oai ipo headwinds are likelier than not to be up-only &amp; very sticky"
+        },
+        {
+          "created_at": "2026-10-09T09:01:45.000Z",
+          "id": "2108483042214019327",
+          "reply_to_id": "2108482213784514875",
+          "text": "@wulftrades \ud83d\ude4f\ud83d\ude4f still learning a lot from my personal goats @GiganticRebirth @HsakaTrades @blknoiz06"
         }
       ],
       "threads": {
@@ -1493,6 +1499,12 @@
             "trade:STRK:long"
           ],
           "self_replies": 0
+        },
+        "2108482904116560301": {
+          "alerted": [
+            "trade:STRK:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1507,7 +1519,6 @@
         "2108360350404112612": true,
         "2108396870783631448": true,
         "2108397149964898395": true,
-        "2108411600848015747": true,
         "2108418862547161537": true,
         "2108419458947817696": true,
         "2108420514003980679": true,
@@ -1527,7 +1538,9 @@
         "2108476746198929705": true,
         "2108477105013129384": false,
         "2108477840614441401": true,
-        "2108481061042929887": true
+        "2108481061042929887": true,
+        "2108482904116560301": true,
+        "2108483042214019327": false
       },
       "user_id": "1653080265294757890"
     },
@@ -2547,5 +2560,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T08:54:31+00:00"
+  "updated_at": "2026-10-09T09:02:22+00:00"
 }
