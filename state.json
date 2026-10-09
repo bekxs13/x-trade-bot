@@ -239,7 +239,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2108380821682065433",
+      "last_id": "2108381006973817054",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -258,11 +258,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-06T20:31:37.000Z",
-          "id": "2107569488392544610",
-          "text": "how did everyone pivot to being an ai doomer so fast"
-        },
         {
           "created_at": "2026-10-06T23:06:21.000Z",
           "id": "2107608427220570453",
@@ -375,6 +370,12 @@
           "created_at": "2026-10-09T02:15:34.000Z",
           "id": "2108380821682065433",
           "text": "who is hosting the papertrade 1000x live trading comp and can i get an invite"
+        },
+        {
+          "created_at": "2026-10-09T02:16:18.000Z",
+          "id": "2108381006973817054",
+          "quoted_text": "papertrade pre-deposits are live!\n\nhttps://t.co/AdIx336QsD\n\nin order to avoid the launch trading congestion, deposit during the next two days to secure your spot at the starting line. once trading begins, account creation/deposits will be heavily deprioritized.\n\nno need to rush - there is no advantage to depositing earlier during this period.\n\nwhen on 10.10 will papertrade go live?\n\nlive trading will begin approximately one hour after the expected hyperevm network upgrade on 10.10. the exact upg",
+          "text": "believe it will be very +EV to deposit some capital here and trade on this starting tomorrow\n\nread the docs &amp; you will understand why https://t.co/7B8tGUvBey"
         }
       ],
       "reads": {
@@ -387,7 +388,8 @@
         "2108371977291636754": "VIEW bullish on btc",
         "2108378051985985755": "VIEW bullish on sol",
         "2108380342608712030": "TRADE LONG BTC",
-        "2108380821682065433": "No call"
+        "2108380821682065433": "No call",
+        "2108381006973817054": "No call"
       },
       "replies": [
         {
@@ -571,10 +573,13 @@
         "2108380821682065433": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108381006973817054": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2107569488392544610": false,
         "2107585535430864963": false,
         "2107585686098559366": true,
         "2107599322414289267": true,
@@ -608,7 +613,8 @@
         "2108371977291636754": true,
         "2108378051985985755": true,
         "2108380342608712030": true,
-        "2108380821682065433": true
+        "2108380821682065433": true,
+        "2108381006973817054": true
       },
       "user_id": "973261472"
     },
@@ -809,7 +815,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2108378376771928218",
+      "last_id": "2108381256560054540",
       "positions": {},
       "posts": [
         {
@@ -864,11 +870,6 @@
         "2108378376771928218": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-07T22:53:57.000Z",
-          "id": "2107967694582804536",
-          "text": "@defluge_ @notthreadguy Barbarossa"
-        },
         {
           "created_at": "2026-10-07T22:54:05.000Z",
           "id": "2107967727399002485",
@@ -940,6 +941,12 @@
           "id": "2108375543624474780",
           "reply_to_id": "2108374702934626679",
           "text": "@firebombpk Ngl it wasn\u2019t very well thought through"
+        },
+        {
+          "created_at": "2026-10-09T02:17:18.000Z",
+          "id": "2108381256560054540",
+          "reply_to_id": "2108149099350405616",
+          "text": "@ChampionsA13751 @_tolks Goes to Singapore for crypto stuff, yeah inevitable"
         }
       ],
       "threads": {
@@ -977,7 +984,6 @@
       "trading": {
         "2107944740977287271": true,
         "2107964940585967656": false,
-        "2107967694582804536": false,
         "2107967727399002485": false,
         "2107967769979609373": false,
         "2107967853093929154": false,
@@ -997,7 +1003,8 @@
         "2108364401392955456": false,
         "2108374505039307132": true,
         "2108375543624474780": false,
-        "2108378376771928218": true
+        "2108378376771928218": true,
+        "2108381256560054540": false
       },
       "user_id": "953032269433745408"
     },
@@ -1959,5 +1966,5 @@
     }
   },
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T02:17:15+00:00"
+  "updated_at": "2026-10-09T02:18:22+00:00"
 }
