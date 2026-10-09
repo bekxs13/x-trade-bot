@@ -1050,7 +1050,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108402676111384662",
+      "last_id": "2108409662966280327",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1260,6 +1260,12 @@
           "id": "2108402676111384662",
           "reply_to_id": "2108398183672135897",
           "text": "@5quab \ud83d\ude02\ud83d\ude02\ud83d\ude02"
+        },
+        {
+          "created_at": "2026-10-09T04:10:10.000Z",
+          "id": "2108409662966280327",
+          "reply_to_id": "2108404659563966770",
+          "text": "@Mystic_Ether historically cant deny that but atm theyre at the right place at the right time\n\nas long as they play their cards even semi-correctly this should have legs"
         }
       ],
       "threads": {
@@ -1355,7 +1361,8 @@
         "2108388306526544075": false,
         "2108396870783631448": true,
         "2108397149964898395": true,
-        "2108402676111384662": false
+        "2108402676111384662": false,
+        "2108409662966280327": true
       },
       "user_id": "1653080265294757890"
     },
@@ -2369,5 +2376,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T04:08:17+00:00"
+  "updated_at": "2026-10-09T04:12:23+00:00"
 }
