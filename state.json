@@ -1028,7 +1028,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108388306526544075",
+      "last_id": "2108396870783631448",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1077,19 +1077,19 @@
         },
         "STRK": {
           "asset": "STRK",
-          "chain": "bnb",
-          "confidence": 0.92,
-          "contract_address": "0xE9aBFCfEcedCd30079d4c30D17d4E2baC0d20a6D",
+          "chain": "",
+          "confidence": 0.85,
+          "contract_address": "",
           "direction": "long",
-          "entry": "~0.057",
+          "entry": "",
           "horizon": "",
           "market": "crypto",
           "open_price": null,
-          "post_id": "2108360350404112612",
-          "reason": "\"longed an extreme amount for now - thesis remains the same\" on $STRK, with the STRKUSDT chart at 0.05699. This adds to the STRK long already on record.",
+          "post_id": "2108396870783631448",
+          "reason": "Quotes own post 'longed an extreme amount' of $STRK and reiterates thesis with 'up-only on every math catalyst'; restating the existing long.",
           "since": "2026-10-08T11:25:45.000Z",
           "structure": "perp",
-          "url": "https://x.com/MoneyPrinter0x/status/2108360350404112612"
+          "url": "https://x.com/MoneyPrinter0x/status/2108396870783631448"
         }
       },
       "posts": [
@@ -1141,6 +1141,12 @@
           ],
           "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
           "text": "looks incredible\n\n$STRK\n\nlonged an extreme amount for now - thesis remains the same.\n\nNFA DYOR https://t.co/PBi0hZp8J6 https://t.co/birrKDo6ue"
+        },
+        {
+          "created_at": "2026-10-09T03:19:20.000Z",
+          "id": "2108396870783631448",
+          "quoted_text": "looks incredible\n\n$STRK\n\nlonged an extreme amount for now - thesis remains the same.\n\nNFA DYOR https://t.co/PBi0hZp8J6 https://t.co/birrKDo6ue",
+          "text": "technical research re: $strk actually checks out\n\nimo this is bigger than us - sooner or later academia & industry guys will likely bring it to light after they get filled\n\nthis kind of industry-level threat is likely just going to go up-only on every single math news/catalyst\n\nwhich isnt going to slow down anytime soon"
         }
       ],
       "reads": {
@@ -1152,7 +1158,8 @@
         "2108238926725190008": "TRADE SHORT NVDA, SOXL, MU \u00b7 VIEW bearish on stocks/macro",
         "2108239413411242002": "No call",
         "2108248166764314906": "TRADE SHORT NVDA, SOXL, MU",
-        "2108360350404112612": "TRADE LONG STRK"
+        "2108360350404112612": "TRADE LONG STRK",
+        "2108396870783631448": "TRADE LONG STRK"
       },
       "replies": [
         {
@@ -1272,6 +1279,12 @@
             "trade:STRK:long"
           ],
           "self_replies": 0
+        },
+        "2108396870783631448": {
+          "alerted": [
+            "trade:STRK:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1295,7 +1308,8 @@
         "2108254850085777619": false,
         "2108272735973679386": true,
         "2108360350404112612": true,
-        "2108388306526544075": false
+        "2108388306526544075": false,
+        "2108396870783631448": true
       },
       "user_id": "1653080265294757890"
     },
@@ -2298,5 +2312,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T02:47:24+00:00"
+  "updated_at": "2026-10-09T03:20:24+00:00"
 }
