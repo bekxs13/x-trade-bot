@@ -1059,6 +1059,15 @@
     "moneyprinter0x": {
       "backfilled": true,
       "biases": {
+        "btc": {
+          "market": "crypto",
+          "post_id": "2108467127783154171",
+          "reason": "\"called pico cycle bottom of $btc\" implies he thinks BTC has bottomed and is bullish from here.",
+          "scope": "btc",
+          "since": "2026-10-09",
+          "stance": "bullish",
+          "updated_at": "2026-10-09T07:58:31.000Z"
+        },
         "stocks/macro": {
           "market": "macro",
           "post_id": "2108239413411242002",
@@ -1071,7 +1080,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108466723259392012",
+      "last_id": "2108467127783154171",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1214,6 +1223,12 @@
           "id": "2108466723259392012",
           "quoted_text": "> called the biggest stock pump in all 100 years of hk market history with thesis\n\n> called the largest qqq crash of the quarter two days it happened with thesis\n\n> called the largest memory -> robotics rotation the day before it happened with thesis\n\n> called the biggest qnx rotation two days before it happened with thesis\n\n> called the financially engineered btc bond wrapper bottom with thesis\n\n> called the exact largest macro oil crash week the day before it happened with thesis\n\nno fundament",
           "text": "&gt; called pico cycle bottom of btc\n\n&gt; called pico start of strk bullrun https://t.co/GIQ4cZkHAK"
+        },
+        {
+          "created_at": "2026-10-09T07:58:31.000Z",
+          "id": "2108467127783154171",
+          "quoted_text": "> called the biggest stock pump in all 100 years of hk market history with thesis\n\n> called the largest qqq crash of the quarter two days it happened with thesis\n\n> called the largest memory -> robotics rotation the day before it happened with thesis\n\n> called the biggest qnx rotation two days before it happened with thesis\n\n> called the financially engineered btc bond wrapper bottom with thesis\n\n> called the exact largest macro oil crash week the day before it happened with thesis\n\nno fundament",
+          "text": "&gt; called pico cycle bottom of $btc\n\n&gt; called pico start of $strk bullrun\n\nno fundamental can replace being at the right place, at the right time. https://t.co/GIQ4cZkHAK"
         }
       ],
       "reads": {
@@ -1229,7 +1244,8 @@
         "2108396870783631448": "TRADE LONG STRK",
         "2108397149964898395": "TRADE LONG STRK",
         "2108419458947817696": "TRADE LONG STRK",
-        "2108466723259392012": "No call"
+        "2108466723259392012": "No call",
+        "2108467127783154171": "VIEW bullish on btc"
       },
       "replies": [
         {
@@ -1399,6 +1415,12 @@
         "2108466723259392012": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108467127783154171": {
+          "alerted": [
+            "bias:btc:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1429,7 +1451,8 @@
         "2108457057632629102": false,
         "2108459580468744505": false,
         "2108460800361070653": true,
-        "2108466723259392012": true
+        "2108466723259392012": true,
+        "2108467127783154171": true
       },
       "user_id": "1653080265294757890"
     },
@@ -2444,5 +2467,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-08",
-  "updated_at": "2026-10-09T07:58:20+00:00"
+  "updated_at": "2026-10-09T08:00:36+00:00"
 }
