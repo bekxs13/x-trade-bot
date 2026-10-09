@@ -1929,7 +1929,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2108530042913579048",
+      "last_id": "2108533021964152971",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -2050,12 +2050,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-09-24T11:13:12.000Z",
-          "id": "2103080303283851359",
-          "reply_to_id": "2102959015735033931",
-          "text": "@Quanterty Well I think it\u2019s quite telling that the #1 and #2 on the leaderboard spells out \u201ccounter taiki\u201d"
-        },
-        {
           "created_at": "2026-09-24T13:51:33.000Z",
           "id": "2103120155165552715",
           "reply_to_id": "2103119650313970054",
@@ -2138,6 +2132,12 @@
           "id": "2108448253897535948",
           "reply_to_id": "2108447680838160528",
           "text": "@osf_rekt What a 3% bounce on zec feels like after it\u2019s already down 20%"
+        },
+        {
+          "created_at": "2026-10-09T12:20:21.000Z",
+          "id": "2108533021964152971",
+          "reply_to_id": "2108532789473652964",
+          "text": "@samuraix @izebel_eth ofc man I got a few more from the singapore trip"
         }
       ],
       "threads": {
@@ -2201,7 +2201,6 @@
         "2100985500085731560": true,
         "2101087265405685923": true,
         "2102939239390343286": true,
-        "2103080303283851359": true,
         "2103120155165552715": false,
         "2103529618128974095": false,
         "2105346309108719825": false,
@@ -2224,7 +2223,8 @@
         "2108376406308909287": true,
         "2108448253897535948": true,
         "2108529897144828181": true,
-        "2108530042913579048": false
+        "2108530042913579048": false,
+        "2108533021964152971": false
       },
       "user_id": "1064421325186359296"
     },
@@ -2680,5 +2680,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-09T12:18:16+00:00"
+  "updated_at": "2026-10-09T12:22:17+00:00"
 }
