@@ -21,7 +21,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2108981758951821449",
+      "last_id": "2108982163375096097",
       "positions": {},
       "posts": [
         {
@@ -161,11 +161,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-08T18:45:35.000Z",
-          "id": "2108267578745606649",
-          "text": "@icyponds well I mean yeah the ai names are priced 100-200x higher than this one was ppl definitely acknowledged the diff"
-        },
-        {
           "created_at": "2026-10-08T19:17:53.000Z",
           "id": "2108275708770333103",
           "text": "@RealAZKicks I aint even closed too much tbh we still riding 1h trend"
@@ -256,6 +251,12 @@
           "id": "2108981758951821449",
           "reply_to_id": "2108981643847307704",
           "text": "@Market__Theory @justachillelite Maybe yeah let\u2019s do one @notthreadguy"
+        },
+        {
+          "created_at": "2026-10-10T18:05:05.000Z",
+          "id": "2108982163375096097",
+          "reply_to_id": "2108982047167443275",
+          "text": "@notthreadguy @Market__Theory @justachillelite Just might be\u2026 sorry I missed the rage"
         }
       ],
       "threads": {
@@ -365,7 +366,6 @@
         }
       },
       "trading": {
-        "2108267578745606649": true,
         "2108275708770333103": true,
         "2108277005666120065": true,
         "2108277867687690430": false,
@@ -399,7 +399,8 @@
         "2108976473554264501": false,
         "2108976727443513849": false,
         "2108981238375546919": false,
-        "2108981758951821449": false
+        "2108981758951821449": false,
+        "2108982163375096097": false
       },
       "user_id": "1446541960181858315"
     },
@@ -2112,7 +2113,7 @@
       "biases": {},
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2108971274902855947",
+      "last_id": "2108982338587926686",
       "positions": {},
       "posts": [
         {
@@ -2251,18 +2252,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-09T16:11:43.000Z",
-          "id": "2108591245933047852",
-          "reply_to_id": "2108477351474647295",
-          "text": "@Joey98188739738 @kai_xbt i got us"
-        },
-        {
-          "created_at": "2026-10-09T17:49:34.000Z",
-          "id": "2108615872990327035",
-          "reply_to_id": "2108615659579969592",
-          "text": "@DeepDishEnjoyer @kai_xbt i was saving my net worth so i could buy her more filler"
-        },
-        {
           "created_at": "2026-10-09T18:12:43.000Z",
           "id": "2108621696748175612",
           "reply_to_id": "2108564117262860586",
@@ -2339,6 +2328,18 @@
           "id": "2108971274902855947",
           "reply_to_id": "2108934579461767575",
           "text": "@Moonbl0x \ud83d\ude2d"
+        },
+        {
+          "created_at": "2026-10-10T18:04:37.000Z",
+          "id": "2108982047167443275",
+          "reply_to_id": "2108981758951821449",
+          "text": "@based16z @Market__Theory @justachillelite wow is it really time"
+        },
+        {
+          "created_at": "2026-10-10T18:05:47.000Z",
+          "id": "2108982338587926686",
+          "reply_to_id": "2108982163375096097",
+          "text": "@based16z @Market__Theory @justachillelite we going up pt2 for the b16z stream dw\n\nwill hit you on the side"
         }
       ],
       "threads": {
@@ -2422,8 +2423,6 @@
         "2108528245364924482": true,
         "2108538101950005277": true,
         "2108549683283144734": false,
-        "2108591245933047852": false,
-        "2108615872990327035": false,
         "2108621696748175612": false,
         "2108631740558270779": false,
         "2108653216132997436": false,
@@ -2438,7 +2437,9 @@
         "2108741947263242661": false,
         "2108800312987504807": false,
         "2108968997542891854": true,
-        "2108971274902855947": false
+        "2108971274902855947": false,
+        "2108982047167443275": false,
+        "2108982338587926686": false
       },
       "user_id": "1426732252768182281"
     },
@@ -3256,5 +3257,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T18:04:16+00:00"
+  "updated_at": "2026-10-10T18:06:18+00:00"
 }
