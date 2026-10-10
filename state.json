@@ -21,14 +21,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2108982163375096097",
+      "last_id": "2109000361914609787",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-08T19:23:02.000Z",
-          "id": "2108277005666120065",
-          "text": "Yeah so basically we paired the memecoin with like, a stock, instead of a coin. well it's like a coin stock. you know what an LP is? anyway"
-        },
         {
           "created_at": "2026-10-08T19:26:28.000Z",
           "id": "2108277867687690430",
@@ -136,10 +131,17 @@
           "created_at": "2026-10-10T17:43:29.000Z",
           "id": "2108976727443513849",
           "text": "S550 2018"
+        },
+        {
+          "created_at": "2026-10-10T19:17:05.000Z",
+          "id": "2109000285268132335",
+          "images": [
+            "https://pbs.twimg.com/media/HUSslNyXoAIlYOd.jpg"
+          ],
+          "text": "https://t.co/xZg9pcwBxW"
         }
       ],
       "reads": {
-        "2108277005666120065": "No call",
         "2108277867687690430": "No call",
         "2108278472581980385": "No call",
         "2108546941294412084": "No call",
@@ -157,14 +159,10 @@
         "2108941422502301936": "No call",
         "2108963537532186879": "No call",
         "2108965025444688007": "No call",
-        "2108976727443513849": "No call"
+        "2108976727443513849": "No call",
+        "2109000285268132335": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-08T19:17:53.000Z",
-          "id": "2108275708770333103",
-          "text": "@RealAZKicks I aint even closed too much tbh we still riding 1h trend"
-        },
         {
           "created_at": "2026-10-09T01:52:30.000Z",
           "id": "2108375017696473543",
@@ -257,6 +255,12 @@
           "id": "2108982163375096097",
           "reply_to_id": "2108982047167443275",
           "text": "@notthreadguy @Market__Theory @justachillelite Just might be\u2026 sorry I missed the rage"
+        },
+        {
+          "created_at": "2026-10-10T19:17:24.000Z",
+          "id": "2109000361914609787",
+          "reply_to_id": "2108976952862482709",
+          "text": "@s1aydon Indianapolis typeshit"
         }
       ],
       "threads": {
@@ -363,11 +367,13 @@
         "2108976727443513849": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109000285268132335": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108275708770333103": true,
-        "2108277005666120065": true,
         "2108277867687690430": false,
         "2108278472581980385": false,
         "2108280900525891669": false,
@@ -400,7 +406,9 @@
         "2108976727443513849": false,
         "2108981238375546919": false,
         "2108981758951821449": false,
-        "2108982163375096097": false
+        "2108982163375096097": false,
+        "2109000285268132335": false,
+        "2109000361914609787": false
       },
       "user_id": "1446541960181858315"
     },
@@ -3262,5 +3270,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T19:12:22+00:00"
+  "updated_at": "2026-10-10T19:18:21+00:00"
 }
