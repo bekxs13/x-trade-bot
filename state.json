@@ -389,7 +389,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2108923271894941699",
+      "last_id": "2108924069806747667",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -409,11 +409,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-08T10:00:20.000Z",
-          "id": "2108135397746475145",
-          "text": "gm https://t.co/ngRIOak64k"
-        },
         {
           "created_at": "2026-10-08T12:45:40.000Z",
           "id": "2108177006030385475",
@@ -547,6 +542,12 @@
             "https://pbs.twimg.com/media/HURmiNGWEAAb_Ef.jpg"
           ],
           "text": "son $2B OI??? LMAO https://t.co/6TNhTqpJnJ"
+        },
+        {
+          "created_at": "2026-10-10T14:14:14.000Z",
+          "id": "2108924069806747667",
+          "quoted_text": "@blknoiz06 $24B volume IN 10 MINUTES WTFFF https://t.co/HsKXb8Kb2r",
+          "text": "bro https://t.co/STeBFwZQIB https://t.co/HweFSyw7Cx"
         }
       ],
       "reads": {
@@ -568,7 +569,8 @@
         "2108543735932031467": "No call: bullish on crypto market (60%, too unsure)",
         "2108610728278298674": "VIEW bullish on memecoins",
         "2108836968272744589": "No call: bullish on GRASS (60%, too unsure)",
-        "2108923271894941699": "No call"
+        "2108923271894941699": "No call",
+        "2108924069806747667": "No call"
       },
       "replies": [
         {
@@ -790,10 +792,13 @@
         "2108923271894941699": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108924069806747667": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108135397746475145": false,
         "2108177006030385475": true,
         "2108183930490728854": true,
         "2108188479389626604": true,
@@ -827,7 +832,8 @@
         "2108916374240379077": false,
         "2108916678130335954": true,
         "2108918275354800331": false,
-        "2108923271894941699": true
+        "2108923271894941699": true,
+        "2108924069806747667": true
       },
       "user_id": "973261472"
     },
@@ -3080,5 +3086,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T14:12:18+00:00"
+  "updated_at": "2026-10-10T14:16:27+00:00"
 }
