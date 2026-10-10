@@ -21,14 +21,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2108939215665062167",
+      "last_id": "2108941422502301936",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-08T18:03:11.000Z",
-          "id": "2108256908301959203",
-          "text": "Catalyst told me to buy $250m notional weekly bitcoin  puts or something like that based16z is an investor in catalyst check it out https://t.co/qXUnZTEXNE"
-        },
         {
           "created_at": "2026-10-08T18:43:23.000Z",
           "id": "2108267026493964492",
@@ -133,10 +128,14 @@
             "https://pbs.twimg.com/media/HUR1CXHWkAAXbCZ.jpg"
           ],
           "text": "https://t.co/V11cLOUvx6"
+        },
+        {
+          "created_at": "2026-10-10T15:23:12.000Z",
+          "id": "2108941422502301936",
+          "text": "Scottsdale Fashion Week"
         }
       ],
       "reads": {
-        "2108256908301959203": "No call",
         "2108267026493964492": "No call",
         "2108274908275044490": "No call",
         "2108276195674697735": "No call",
@@ -154,7 +153,8 @@
         "2108717415286850013": "No call",
         "2108717832657838507": "No call",
         "2108776549789093932": "No call",
-        "2108939215665062167": "No call"
+        "2108939215665062167": "No call",
+        "2108941422502301936": "No call"
       },
       "replies": [
         {
@@ -323,6 +323,10 @@
         "2108939215665062167": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108941422502301936": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -331,7 +335,6 @@
         "2108103599700210127": true,
         "2108224361476076011": true,
         "2108224883108790436": true,
-        "2108256908301959203": true,
         "2108267026493964492": false,
         "2108267578745606649": true,
         "2108274908275044490": false,
@@ -359,7 +362,8 @@
         "2108717832657838507": false,
         "2108720915894669591": false,
         "2108776549789093932": false,
-        "2108939215665062167": false
+        "2108939215665062167": false,
+        "2108941422502301936": false
       },
       "user_id": "1446541960181858315"
     },
@@ -1463,7 +1467,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108937660824002680",
+      "last_id": "2108941654908625014",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1673,18 +1677,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-09T17:22:31.000Z",
-          "id": "2108609061642211626",
-          "reply_to_id": "2108608550042059097",
-          "text": "@Soulgear trade-only perms with 24h withdraw locks baked into multisig\n\nbasically smart contractified brokerage account\n\nbut realistically imo prefer to just always offramp and keep minimal onchain"
-        },
-        {
-          "created_at": "2026-10-10T02:28:48.000Z",
-          "id": "2108746539812454855",
-          "reply_to_id": "2108613922513096734",
-          "text": "@0xdoug https://t.co/MovziJo5nR"
-        },
-        {
           "created_at": "2026-10-10T02:57:49.000Z",
           "id": "2108753841126793236",
           "reply_to_id": "2108729021668450768",
@@ -1767,6 +1759,21 @@
           ],
           "reply_to_id": "2108936191722787252",
           "text": "@papexyz https://t.co/Xzvte5Qedz"
+        },
+        {
+          "created_at": "2026-10-10T15:23:00.000Z",
+          "id": "2108941373185696019",
+          "images": [
+            "https://pbs.twimg.com/tweet_video_thumb/HUR2-XzbAAA5z6W.jpg"
+          ],
+          "reply_to_id": "2108937720840241535",
+          "text": "@revival_trades My brother https://t.co/bj2cTABmE4"
+        },
+        {
+          "created_at": "2026-10-10T15:24:07.000Z",
+          "id": "2108941654908625014",
+          "reply_to_id": "2108936975692828834",
+          "text": "@caww_caww can break larger positions across venues both spot and perp, its listed everywhere both cex and dex"
         }
       ],
       "threads": {
@@ -1986,8 +1993,6 @@
         "2108569245093417100": true,
         "2108578329574133898": false,
         "2108596603766657452": true,
-        "2108609061642211626": true,
-        "2108746539812454855": false,
         "2108753841126793236": false,
         "2108803213898272778": false,
         "2108815415979991253": false,
@@ -2013,7 +2018,9 @@
         "2108934824933359978": true,
         "2108935346771955756": true,
         "2108937215929647168": false,
-        "2108937660824002680": false
+        "2108937660824002680": false,
+        "2108941373185696019": false,
+        "2108941654908625014": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3145,5 +3152,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T15:16:20+00:00"
+  "updated_at": "2026-10-10T15:24:26+00:00"
 }
