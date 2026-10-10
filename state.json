@@ -1442,7 +1442,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108925965778972962",
+      "last_id": "2108927466358321652",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1507,11 +1507,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T09:11:51.000Z",
-          "id": "2108485584792563931",
-          "text": "shoutout to the (very) sharp ppl who discovered $STRK early as well \ud83d\ude4f\n\n@ThePumponomics @beracap @playrisk \n\nthink most of them are at 0.045-0.06 average entry"
-        },
         {
           "created_at": "2026-10-09T09:12:54.000Z",
           "id": "2108485846647333345",
@@ -1627,10 +1622,14 @@
           ],
           "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
           "text": "Moneyprinter Mode.\n\n$STRK https://t.co/jqWmm44zp6 https://t.co/birrKDo6ue"
+        },
+        {
+          "created_at": "2026-10-10T14:27:44.000Z",
+          "id": "2108927466358321652",
+          "text": "all glory to God"
         }
       ],
       "reads": {
-        "2108485584792563931": "No call",
         "2108485846647333345": "VIEW bullish on STRK",
         "2108509180000653422": "No call",
         "2108509703852757277": "No call: bullish on crypto market (60%, too unsure)",
@@ -1649,7 +1648,8 @@
         "2108921463923408962": "No call",
         "2108922234521759769": "No call",
         "2108925626556330006": "No call",
-        "2108925965778972962": "TRADE LONG STRK"
+        "2108925965778972962": "TRADE LONG STRK",
+        "2108927466358321652": "No call"
       },
       "replies": [
         {
@@ -1932,10 +1932,13 @@
             "trade:STRK:long"
           ],
           "self_replies": 0
+        },
+        "2108927466358321652": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108485584792563931": true,
         "2108485846647333345": true,
         "2108509180000653422": true,
         "2108509703852757277": true,
@@ -1969,7 +1972,8 @@
         "2108922234521759769": true,
         "2108924792749576343": false,
         "2108925626556330006": true,
-        "2108925965778972962": true
+        "2108925965778972962": true,
+        "2108927466358321652": false
       },
       "user_id": "1653080265294757890"
     },
@@ -3101,5 +3105,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T14:22:28+00:00"
+  "updated_at": "2026-10-10T14:28:22+00:00"
 }
