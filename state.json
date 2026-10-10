@@ -2118,7 +2118,7 @@
       "biases": {},
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2108982338587926686",
+      "last_id": "2108998843098595669",
       "positions": {},
       "posts": [
         {
@@ -2257,12 +2257,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-09T18:12:43.000Z",
-          "id": "2108621696748175612",
-          "reply_to_id": "2108564117262860586",
-          "text": "@meechie @WordsayT honestly could not have possibly been worse"
-        },
-        {
           "created_at": "2026-10-09T18:52:38.000Z",
           "id": "2108631740558270779",
           "reply_to_id": "2108620951361302882",
@@ -2345,6 +2339,12 @@
           "id": "2108982338587926686",
           "reply_to_id": "2108982163375096097",
           "text": "@based16z @Market__Theory @justachillelite we going up pt2 for the b16z stream dw\n\nwill hit you on the side"
+        },
+        {
+          "created_at": "2026-10-10T19:11:22.000Z",
+          "id": "2108998843098595669",
+          "reply_to_id": "2108988125074563284",
+          "text": "@Pumpfun bro"
         }
       ],
       "threads": {
@@ -2428,7 +2428,6 @@
         "2108528245364924482": true,
         "2108538101950005277": true,
         "2108549683283144734": false,
-        "2108621696748175612": false,
         "2108631740558270779": false,
         "2108653216132997436": false,
         "2108656122169041282": false,
@@ -2444,7 +2443,8 @@
         "2108968997542891854": true,
         "2108971274902855947": false,
         "2108982047167443275": false,
-        "2108982338587926686": false
+        "2108982338587926686": false,
+        "2108998843098595669": false
       },
       "user_id": "1426732252768182281"
     },
@@ -3262,5 +3262,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T18:36:23+00:00"
+  "updated_at": "2026-10-10T19:12:22+00:00"
 }
