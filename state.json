@@ -828,7 +828,7 @@
       "biases": {},
       "closed": [],
       "handle": "cl207",
-      "last_id": "2108899592553341068",
+      "last_id": "2108900596506145265",
       "positions": {
         "RTX 5090 GPUS": {
           "asset": "RTX 5090 GPUs",
@@ -907,11 +907,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-05T16:10:46.000Z",
-          "id": "2107141456267981183",
-          "text": "@MuyaoShen mmm i guess if you look at the HYPE circulating market cap, which is $27 billion, and that was entirely airdropped"
-        },
-        {
           "created_at": "2026-10-05T17:17:11.000Z",
           "id": "2107158171379011956",
           "text": "@PlutonicXBT april 2023"
@@ -986,6 +981,12 @@
           "id": "2108899592553341068",
           "reply_to_id": "2108897321631232359",
           "text": "@Mtrl_Scientist physical ya"
+        },
+        {
+          "created_at": "2026-10-10T12:40:58.000Z",
+          "id": "2108900596506145265",
+          "reply_to_id": "2108900307308576781",
+          "text": "@Mtrl_Scientist give them away for free already \ud83d\udc80"
         }
       ],
       "threads": {
@@ -1052,7 +1053,6 @@
         "2106096996574765205": false,
         "2106395133516361837": false,
         "2106598378595631130": true,
-        "2107141456267981183": true,
         "2107158171379011956": false,
         "2107713686102298822": false,
         "2107751013574758631": false,
@@ -1072,7 +1072,8 @@
         "2108870394799390943": false,
         "2108888297481359861": true,
         "2108894015655748004": true,
-        "2108899592553341068": false
+        "2108899592553341068": false,
+        "2108900596506145265": false
       },
       "user_id": "1073132650309726208"
     },
@@ -3052,5 +3053,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T12:38:20+00:00"
+  "updated_at": "2026-10-10T12:42:18+00:00"
 }
