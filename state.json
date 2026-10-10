@@ -389,7 +389,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2108918275354800331",
+      "last_id": "2108923271894941699",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -409,11 +409,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-08T08:29:33.000Z",
-          "id": "2108112551833981326",
-          "text": "vote here https://t.co/0zpi5RNxWR https://t.co/aOw8N9MMTQ"
-        },
         {
           "created_at": "2026-10-08T10:00:20.000Z",
           "id": "2108135397746475145",
@@ -544,6 +539,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2108836147812261888/img/yMbvl77kMqLPtxI1.jpg"
           ],
           "text": "one thing i find interesting about Grass is the growing importance of data infrastructure as AI scales\n\nAI labs need massive amounts of data, but accessing public web data is becoming increasingly difficult\n\nGrass uses a distributed network of internet connections to help collect that data and make it available to AI companies\n\ni believe access to high-quality data will become an increasingly important competitive advantage in AI, which makes this an interesting area to follow"
+        },
+        {
+          "created_at": "2026-10-10T14:11:04.000Z",
+          "id": "2108923271894941699",
+          "images": [
+            "https://pbs.twimg.com/media/HURmiNGWEAAb_Ef.jpg"
+          ],
+          "text": "son $2B OI??? LMAO https://t.co/6TNhTqpJnJ"
         }
       ],
       "reads": {
@@ -564,7 +567,8 @@
         "2108502379289088395": "No call",
         "2108543735932031467": "No call: bullish on crypto market (60%, too unsure)",
         "2108610728278298674": "VIEW bullish on memecoins",
-        "2108836968272744589": "No call: bullish on GRASS (60%, too unsure)"
+        "2108836968272744589": "No call: bullish on GRASS (60%, too unsure)",
+        "2108923271894941699": "No call"
       },
       "replies": [
         {
@@ -782,10 +786,13 @@
         "2108836968272744589": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108923271894941699": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108112551833981326": false,
         "2108135397746475145": false,
         "2108177006030385475": true,
         "2108183930490728854": true,
@@ -819,7 +826,8 @@
         "2108916178530046336": false,
         "2108916374240379077": false,
         "2108916678130335954": true,
-        "2108918275354800331": false
+        "2108918275354800331": false,
+        "2108923271894941699": true
       },
       "user_id": "973261472"
     },
@@ -3072,5 +3080,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T14:08:19+00:00"
+  "updated_at": "2026-10-10T14:12:18+00:00"
 }
