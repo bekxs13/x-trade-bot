@@ -21,14 +21,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2108954541106344446",
+      "last_id": "2108963590124286272",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-08T18:43:23.000Z",
-          "id": "2108267026493964492",
-          "text": "https://t.co/3S1vrKqc8U"
-        },
         {
           "created_at": "2026-10-08T19:14:42.000Z",
           "id": "2108274908275044490",
@@ -133,10 +128,14 @@
           "created_at": "2026-10-10T15:23:12.000Z",
           "id": "2108941422502301936",
           "text": "Scottsdale Fashion Week"
+        },
+        {
+          "created_at": "2026-10-10T16:51:04.000Z",
+          "id": "2108963537532186879",
+          "text": "Wildcat Offense"
         }
       ],
       "reads": {
-        "2108267026493964492": "No call",
         "2108274908275044490": "No call",
         "2108276195674697735": "No call",
         "2108277005666120065": "No call",
@@ -154,14 +153,10 @@
         "2108717832657838507": "No call",
         "2108776549789093932": "No call",
         "2108939215665062167": "No call",
-        "2108941422502301936": "No call"
+        "2108941422502301936": "No call",
+        "2108963537532186879": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-08T06:40:50.000Z",
-          "id": "2108085191000428591",
-          "text": "@KumaCapxbt \u2026besties"
-        },
         {
           "created_at": "2026-10-08T06:44:24.000Z",
           "id": "2108086090565358039",
@@ -242,6 +237,12 @@
           ],
           "reply_to_id": "2108953678438871155",
           "text": "@Investor_NICK_ No idea this girl from the club ln said she\u2019s gonna put me on https://t.co/Fqnu7N6JTm"
+        },
+        {
+          "created_at": "2026-10-10T16:51:17.000Z",
+          "id": "2108963590124286272",
+          "reply_to_id": "2108960619093176785",
+          "text": "@swansonbenson0 Gen run"
         }
       ],
       "threads": {
@@ -336,15 +337,17 @@
         "2108941422502301936": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108963537532186879": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108085191000428591": false,
         "2108086090565358039": false,
         "2108103599700210127": true,
         "2108224361476076011": true,
         "2108224883108790436": true,
-        "2108267026493964492": false,
         "2108267578745606649": true,
         "2108274908275044490": false,
         "2108275708770333103": true,
@@ -373,7 +376,9 @@
         "2108776549789093932": false,
         "2108939215665062167": false,
         "2108941422502301936": false,
-        "2108954541106344446": false
+        "2108954541106344446": false,
+        "2108963537532186879": false,
+        "2108963590124286272": false
       },
       "user_id": "1446541960181858315"
     },
@@ -1478,7 +1483,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108960586424009160",
+      "last_id": "2108963734551220353",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1528,33 +1533,21 @@
         "STRK": {
           "asset": "STRK",
           "chain": "eth",
-          "confidence": 0.88,
+          "confidence": 0.75,
           "contract_address": "0xb39C8A5Dd737D0985BFEBA879f3d3c506d60F08e",
           "direction": "long",
-          "entry": "above 0.045 (avg entry not given)",
+          "entry": "",
           "horizon": "",
           "market": "crypto",
           "open_price": null,
-          "post_id": "2108960586424009160",
-          "reason": "Says $STRK at 0.045 is 'even lower than my avg entry', confirming he still holds the STRK long already on record.",
+          "post_id": "2108963734551220353",
+          "reason": "\"kingmaker mode. $strk\" is a hype post on STRK, which he holds long on record and recently said he bought more of and has an avg entry. This reads as a restatement of the existing long.",
           "since": "2026-10-08T11:25:45.000Z",
           "structure": "spot",
-          "url": "https://x.com/MoneyPrinter0x/status/2108960586424009160"
+          "url": "https://x.com/MoneyPrinter0x/status/2108963734551220353"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T15:20:23.000Z",
-          "id": "2108578329574133898",
-          "quoted_text": "Ledger is investigating reports of loss of funds from users in South East Asia who purchased products from a reseller named CryptoBillis. As a precaution, and pending the results of our investigation, we have asked CryptoBilis to pause all sales and shipments of Ledger devices. We recommend Ledger users who purchased from this reseller in the last 90 days to not initiate set up if you have not done so yet. If you have set up your Ledger device, consider moving assets to a new Ledger signer (with",
-          "text": "stop using hardware wallets\n\nuse multisigs and spread your seed across the globe https://t.co/NxqNxCSJWj"
-        },
-        {
-          "created_at": "2026-10-09T16:33:00.000Z",
-          "id": "2108596603766657452",
-          "quoted_text": "ansem discusses starkware (startknet / $STRK ) as an underdiscussed project with one of the most technically sound teams in crypto and a chart that is starting to turn around.\n \n\"starkware is an interesting one because right now people are super concerned with the quantum stuff...\"\n\n\"starkware is one of the coins... one of the co-founders of starkware is also one of the co-founders of zcash and they're like one of the most technically sound teams in crypto...\"\n\n\"and so the chart is like really b",
-          "text": "Holy shit https://t.co/TRPy8a2pvr"
-        },
         {
           "created_at": "2026-10-10T09:01:51.000Z",
           "id": "2108845453978882514",
@@ -1665,11 +1658,19 @@
           "id": "2108960586424009160",
           "quoted_text": "shoutout to the (very) sharp ppl who discovered $STRK early as well \ud83d\ude4f\n\n@ThePumponomics @beracap @playrisk \n\nthink most of them are at 0.045-0.06 average entry",
           "text": "i just realized @MarketBubble @blknoiz06 literally brought up $STRK at 0.045 on thursday, thats even lower than my avg entry \n\nactually crazy. going to tune into every market bubble episode from here on, highly recommend u guys to as well \n\nvery good podcast from a very smart friend\n\nnote: this isnt paid or sponsored or anything, i genuinely think its very high EV - u lose nothing by watching and i could've found out about this play even earlier"
+        },
+        {
+          "created_at": "2026-10-10T16:51:37.000Z",
+          "id": "2108963673700172274",
+          "text": "now then"
+        },
+        {
+          "created_at": "2026-10-10T16:51:51.000Z",
+          "id": "2108963734551220353",
+          "text": "kingmaker mode.\n\n$strk"
         }
       ],
       "reads": {
-        "2108578329574133898": "No call",
-        "2108596603766657452": "No call: bullish on STRK (same view as before)",
         "2108845453978882514": "No call",
         "2108886690396029389": "No call",
         "2108900955106467873": "TRADE LONG STRK",
@@ -1687,7 +1688,9 @@
         "2108952993479766128": "TRADE LONG STRK",
         "2108955051570114834": "No call",
         "2108960235037835666": "TRADE LONG STRK",
-        "2108960586424009160": "TRADE LONG STRK"
+        "2108960586424009160": "TRADE LONG STRK",
+        "2108963673700172274": "No call",
+        "2108963734551220353": "TRADE LONG STRK"
       },
       "replies": [
         {
@@ -2021,11 +2024,19 @@
             "trade:STRK:long"
           ],
           "self_replies": 0
+        },
+        "2108963673700172274": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2108963734551220353": {
+          "alerted": [
+            "trade:STRK:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108578329574133898": false,
-        "2108596603766657452": true,
         "2108845453978882514": true,
         "2108886690396029389": true,
         "2108900955106467873": true,
@@ -2058,7 +2069,9 @@
         "2108955051570114834": false,
         "2108955749280109025": false,
         "2108960235037835666": true,
-        "2108960586424009160": true
+        "2108960586424009160": true,
+        "2108963673700172274": false,
+        "2108963734551220353": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3190,5 +3203,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T16:40:22+00:00"
+  "updated_at": "2026-10-10T16:52:34+00:00"
 }
