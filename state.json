@@ -1442,7 +1442,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108924792749576343",
+      "last_id": "2108925965778972962",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1492,31 +1492,21 @@
         "STRK": {
           "asset": "STRK",
           "chain": "",
-          "confidence": 0.95,
+          "confidence": 0.8,
           "contract_address": "",
           "direction": "long",
-          "entry": "~0.0718",
-          "horizon": "near term (into Anthropic/OpenAI IPO schedule)",
+          "entry": "",
+          "horizon": "",
           "market": "crypto",
           "open_price": null,
-          "post_id": "2108900955106467873",
-          "reason": "\"added more low lev / spot $strk\" adds to the existing STRK long. The chart shows STRKUSDT on Binance at 0.07183.",
+          "post_id": "2108925965778972962",
+          "reason": "\"Moneyprinter Mode. $STRK\" over a chart of STRK ripping to 0.08, quoting his own \"kingmaker bet is $STRK\" post. He added spot/low-lev STRK earlier today, so this is him celebrating a long he still holds.",
           "since": "2026-10-08T11:25:45.000Z",
           "structure": "spot and low-leverage perp",
-          "url": "https://x.com/MoneyPrinter0x/status/2108900955106467873"
+          "url": "https://x.com/MoneyPrinter0x/status/2108925965778972962"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T08:53:53.000Z",
-          "id": "2108481061042929887",
-          "text": "the only things that are definite over the coming near future are:\n\n1. the entire risk-on climate depends on ai headwinds\n\n2. the capabilities of ai is directly proportional to its mathematical capabilities \n\n3. the success of the entire risk-on climate depends on ai mindshare - and NOTHING drives speculation better than fear. look at the GTM playbook leading to every anthropic & openai model release and it is very much obvious.\n\none chain is years ahead of the others and hit the lottery on their tech positioning which is specifically designed to beat this - in other words the alpha runner of this theme of the cycle. we spotted it extremely early with full tech thesis re:exact cryptography mechanisms.\n\nseptember unlocks not moving price at all leads me to think that incentives are pro-token.\n\nif my read is correct - and i think it is - this is going to be my kingmaker play.\n\nWelcome to the hated cryptography rally.\n\n$STRK\n\nMoneyPrinter0x"
-        },
-        {
-          "created_at": "2026-10-09T09:01:12.000Z",
-          "id": "2108482904116560301",
-          "text": "the only things that are definite over the coming near future are:\n\n1. the entire risk-on climate depends on ai headwinds\n\n2. the capabilities of ai is directly proportional to its mathematical capabilities \n\n3. the success of the entire risk-on climate depends on ai mindshare - and NOTHING drives speculation better than fear. look at the GTM playbook leading to every anthropic & openai model release and it is very much obvious.\n\none chain is years ahead of the others and hit the lottery on their tech positioning which is specifically designed to beat this - in other words the alpha runner of this theme of the cycle. we spotted it extremely early with full tech thesis re:exact cryptography mechanisms.\n\nseptember unlocks not moving price at all leads me to think that incentives are pro-token.\n\nif my read is correct - and i think it is - this is going to be the kingmaker play.\n\nWelcome to the hated cryptography rally.\n\n$STRK\n\nMoneyPrinter0x"
-        },
         {
           "created_at": "2026-10-09T09:11:51.000Z",
           "id": "2108485584792563931",
@@ -1622,11 +1612,24 @@
           "created_at": "2026-10-10T14:06:57.000Z",
           "id": "2108922234521759769",
           "text": "IM LIQUIDATED\n\nLFG PAPER"
+        },
+        {
+          "created_at": "2026-10-10T14:20:25.000Z",
+          "id": "2108925626556330006",
+          "quoted_text": "added more low lev / spot $strk\n\nflow looks like there's very healthy accumulation going on atm\n\nsector leader of one of the main & rapidly growing - if not the fastest growing - sectors this cycle shouldnt be 700m fdv imo\n\nespecially when its in direct confluence w/ anth & OAI ipo schedule in the immediate-to-near term",
+          "text": "holy fuck. https://t.co/OScbqWVP8g"
+        },
+        {
+          "created_at": "2026-10-10T14:21:46.000Z",
+          "id": "2108925965778972962",
+          "images": [
+            "https://pbs.twimg.com/media/HURo_NJbwAAF5r-.jpg"
+          ],
+          "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
+          "text": "Moneyprinter Mode.\n\n$STRK https://t.co/jqWmm44zp6 https://t.co/birrKDo6ue"
         }
       ],
       "reads": {
-        "2108481061042929887": "TRADE LONG STRK",
-        "2108482904116560301": "TRADE LONG STRK",
         "2108485584792563931": "No call",
         "2108485846647333345": "VIEW bullish on STRK",
         "2108509180000653422": "No call",
@@ -1644,7 +1647,9 @@
         "2108919459486527699": "No call",
         "2108920984501887487": "No call",
         "2108921463923408962": "No call",
-        "2108922234521759769": "No call"
+        "2108922234521759769": "No call",
+        "2108925626556330006": "No call",
+        "2108925965778972962": "TRADE LONG STRK"
       },
       "replies": [
         {
@@ -1917,11 +1922,19 @@
         "2108922234521759769": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108925626556330006": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2108925965778972962": {
+          "alerted": [
+            "trade:STRK:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108481061042929887": true,
-        "2108482904116560301": true,
         "2108485584792563931": true,
         "2108485846647333345": true,
         "2108509180000653422": true,
@@ -1954,7 +1967,9 @@
         "2108920984501887487": true,
         "2108921463923408962": true,
         "2108922234521759769": true,
-        "2108924792749576343": false
+        "2108924792749576343": false,
+        "2108925626556330006": true,
+        "2108925965778972962": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3086,5 +3101,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T14:18:16+00:00"
+  "updated_at": "2026-10-10T14:22:28+00:00"
 }
