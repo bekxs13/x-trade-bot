@@ -1478,7 +1478,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108960235037835666",
+      "last_id": "2108960586424009160",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1531,27 +1531,18 @@
           "confidence": 0.88,
           "contract_address": "0xb39C8A5Dd737D0985BFEBA879f3d3c506d60F08e",
           "direction": "long",
-          "entry": "",
+          "entry": "above 0.045 (avg entry not given)",
           "horizon": "",
           "market": "crypto",
           "open_price": null,
-          "post_id": "2108960235037835666",
-          "reason": "Says $STRK at 0.045 is 'even lower than my avg entry', confirming he still holds his recorded STRK long.",
+          "post_id": "2108960586424009160",
+          "reason": "Says $STRK at 0.045 is 'even lower than my avg entry', confirming he still holds the STRK long already on record.",
           "since": "2026-10-08T11:25:45.000Z",
           "structure": "spot",
-          "url": "https://x.com/MoneyPrinter0x/status/2108960235037835666"
+          "url": "https://x.com/MoneyPrinter0x/status/2108960586424009160"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T14:44:18.000Z",
-          "id": "2108569245093417100",
-          "images": [
-            "https://pbs.twimg.com/media/HUMkjPZbsAALbIX.jpg"
-          ],
-          "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
-          "text": "ngl looks incredible $STRK\n\nbeen averaging on the way up https://t.co/GOQTxqahKY https://t.co/birrKDo6ue"
-        },
         {
           "created_at": "2026-10-09T15:20:23.000Z",
           "id": "2108578329574133898",
@@ -1668,10 +1659,15 @@
           "id": "2108960235037835666",
           "quoted_text": "shoutout to the (very) sharp ppl who discovered $STRK early as well \ud83d\ude4f\n\n@ThePumponomics @beracap @playrisk \n\nthink most of them are at 0.045-0.06 average entry",
           "text": "i just realized @MarketBubble @blknoiz06 literally brought up $STRK at 0.045 on thursday, thats even lower than my avg entry \n\nactually crazy. going to tune into every market bubble episode from here on, highly recommend u guys to as well \n\nvery good podcast from a very smart friend\n\nnote: this isnt paid or sponsored or anything, i legit think its very high EV"
+        },
+        {
+          "created_at": "2026-10-10T16:39:21.000Z",
+          "id": "2108960586424009160",
+          "quoted_text": "shoutout to the (very) sharp ppl who discovered $STRK early as well \ud83d\ude4f\n\n@ThePumponomics @beracap @playrisk \n\nthink most of them are at 0.045-0.06 average entry",
+          "text": "i just realized @MarketBubble @blknoiz06 literally brought up $STRK at 0.045 on thursday, thats even lower than my avg entry \n\nactually crazy. going to tune into every market bubble episode from here on, highly recommend u guys to as well \n\nvery good podcast from a very smart friend\n\nnote: this isnt paid or sponsored or anything, i genuinely think its very high EV - u lose nothing by watching and i could've found out about this play even earlier"
         }
       ],
       "reads": {
-        "2108569245093417100": "TRADE LONG STRK",
         "2108578329574133898": "No call",
         "2108596603766657452": "No call: bullish on STRK (same view as before)",
         "2108845453978882514": "No call",
@@ -1690,7 +1686,8 @@
         "2108948592237097100": "TRADE LONG STRK",
         "2108952993479766128": "TRADE LONG STRK",
         "2108955051570114834": "No call",
-        "2108960235037835666": "TRADE LONG STRK"
+        "2108960235037835666": "TRADE LONG STRK",
+        "2108960586424009160": "TRADE LONG STRK"
       },
       "replies": [
         {
@@ -2018,10 +2015,15 @@
             "trade:STRK:long"
           ],
           "self_replies": 0
+        },
+        "2108960586424009160": {
+          "alerted": [
+            "trade:STRK:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108569245093417100": true,
         "2108578329574133898": false,
         "2108596603766657452": true,
         "2108845453978882514": true,
@@ -2055,7 +2057,8 @@
         "2108954781398315176": false,
         "2108955051570114834": false,
         "2108955749280109025": false,
-        "2108960235037835666": true
+        "2108960235037835666": true,
+        "2108960586424009160": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3187,5 +3190,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T16:38:30+00:00"
+  "updated_at": "2026-10-10T16:40:22+00:00"
 }
