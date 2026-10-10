@@ -1428,7 +1428,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108920398171758650",
+      "last_id": "2108920984501887487",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1493,12 +1493,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T07:58:31.000Z",
-          "id": "2108467127783154171",
-          "quoted_text": "> called the biggest stock pump in all 100 years of hk market history with thesis\n\n> called the largest qqq crash of the quarter two days it happened with thesis\n\n> called the largest memory -> robotics rotation the day before it happened with thesis\n\n> called the biggest qnx rotation two days before it happened with thesis\n\n> called the financially engineered btc bond wrapper bottom with thesis\n\n> called the exact largest macro oil crash week the day before it happened with thesis\n\nno fundament",
-          "text": "&gt; called pico cycle bottom of $btc\n\n&gt; called pico start of $strk bullrun\n\nno fundamental can replace being at the right place, at the right time. https://t.co/GIQ4cZkHAK"
-        },
         {
           "created_at": "2026-10-09T08:11:34.000Z",
           "id": "2108470411361178094",
@@ -1610,10 +1604,14 @@
           "created_at": "2026-10-10T13:55:55.000Z",
           "id": "2108919459486527699",
           "text": "last second alpha re:playing papertrade launch\n\npapertrade blocked direct orders to rpc (frontend-only)\n\nbut u can still bot the browser (lol) with playwright\n\nGLHF"
+        },
+        {
+          "created_at": "2026-10-10T14:01:59.000Z",
+          "id": "2108920984501887487",
+          "text": "LFG"
         }
       ],
       "reads": {
-        "2108467127783154171": "VIEW bullish on btc",
         "2108470411361178094": "No call",
         "2108472561889943559": "TRADE LONG STRK",
         "2108481061042929887": "TRADE LONG STRK",
@@ -1632,7 +1630,8 @@
         "2108845453978882514": "No call",
         "2108886690396029389": "No call",
         "2108900955106467873": "TRADE LONG STRK",
-        "2108919459486527699": "No call"
+        "2108919459486527699": "No call",
+        "2108920984501887487": "No call"
       },
       "replies": [
         {
@@ -1893,10 +1892,13 @@
         "2108919459486527699": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108920984501887487": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108467127783154171": true,
         "2108470411361178094": false,
         "2108472561889943559": true,
         "2108481061042929887": true,
@@ -1930,7 +1932,8 @@
         "2108900955106467873": true,
         "2108919459486527699": true,
         "2108919813544559010": true,
-        "2108920398171758650": true
+        "2108920398171758650": true,
+        "2108920984501887487": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3062,5 +3065,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T14:00:27+00:00"
+  "updated_at": "2026-10-10T14:02:26+00:00"
 }
