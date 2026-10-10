@@ -1432,17 +1432,17 @@
         },
         "strk": {
           "market": "crypto",
-          "post_id": "2108596603766657452",
-          "reason": "Excited \"Holy shit\" reaction to a big account shilling STRK, which they already hold and called incredible earlier today.",
+          "post_id": "2108929562478531012",
+          "reason": "Re-shares the 'my kingmaker bet is $STRK' thesis (500m FDV undervalued, quantum-safe tech) alongside a list of past winning calls, restating the bullish STRK view.",
           "scope": "STRK",
           "since": "2026-10-09",
           "stance": "bullish",
-          "updated_at": "2026-10-09T16:33:00.000Z"
+          "updated_at": "2026-10-10T14:36:04.000Z"
         }
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108927466358321652",
+      "last_id": "2108929562478531012",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1507,12 +1507,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T09:12:54.000Z",
-          "id": "2108485846647333345",
-          "reply_to_id": "2108485584792563931",
-          "text": "@ThePumponomics @beracap @playrisk price wise - looks like its still very early!"
-        },
         {
           "created_at": "2026-10-09T10:45:37.000Z",
           "id": "2108509180000653422",
@@ -1627,10 +1621,15 @@
           "created_at": "2026-10-10T14:27:44.000Z",
           "id": "2108927466358321652",
           "text": "all glory to God"
+        },
+        {
+          "created_at": "2026-10-10T14:36:04.000Z",
+          "id": "2108929562478531012",
+          "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
+          "text": "was on holidays from the mkts for a bit\n\nbut have never called anything kingmaker since hyperliquid @ 35 , intel @ 20.5 , btc @ 68k cycle bottom , blackberry @ 5 , gold @ 2.8k , glm stock before biggest pump in hk history , sol exit @ 255 \n\nglad to be back boys\n\nMoneyPrinter0x. https://t.co/birrKDo6ue"
         }
       ],
       "reads": {
-        "2108485846647333345": "VIEW bullish on STRK",
         "2108509180000653422": "No call",
         "2108509703852757277": "No call: bullish on crypto market (60%, too unsure)",
         "2108510056358744202": "No call",
@@ -1649,7 +1648,8 @@
         "2108922234521759769": "No call",
         "2108925626556330006": "No call",
         "2108925965778972962": "TRADE LONG STRK",
-        "2108927466358321652": "No call"
+        "2108927466358321652": "No call",
+        "2108929562478531012": "No call: bullish on STRK (same view as before)"
       },
       "replies": [
         {
@@ -1936,10 +1936,13 @@
         "2108927466358321652": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108929562478531012": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108485846647333345": true,
         "2108509180000653422": true,
         "2108509703852757277": true,
         "2108510056358744202": true,
@@ -1973,7 +1976,8 @@
         "2108924792749576343": false,
         "2108925626556330006": true,
         "2108925965778972962": true,
-        "2108927466358321652": false
+        "2108927466358321652": false,
+        "2108929562478531012": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3105,5 +3109,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T14:28:22+00:00"
+  "updated_at": "2026-10-10T14:36:23+00:00"
 }
