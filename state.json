@@ -389,7 +389,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2108836712894157025",
+      "last_id": "2108836968272744589",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -409,11 +409,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-08T08:25:05.000Z",
-          "id": "2108111428037284203",
-          "text": "see yall soon https://t.co/FpmkvPGLrk"
-        },
         {
           "created_at": "2026-10-08T08:29:33.000Z",
           "id": "2108112551833981326",
@@ -541,6 +536,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2108610350904172544/img/yLdZWhrsBpwSpmaL.jpg"
           ],
           "text": "i'm extremely bullish on the amount of capital that's going to move onchain this cycle\n\nstablecoins, RWAs and tokenized assets are bringing new liquidity into crypto, and that creates a much bigger opportunity for developers to build around speculation\n\nthat's why i keep coming back to MemeFi\n\nmemes already have the attention and communities, but adding financial products, new mechanics and creative ways to speculate around them opens up a lot more possibilities\n\ni expect some of the strongest opportunities this cycle to come from projects that combine both"
+        },
+        {
+          "created_at": "2026-10-10T08:28:08.000Z",
+          "id": "2108836968272744589",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2108836147812261888/img/yMbvl77kMqLPtxI1.jpg"
+          ],
+          "text": "one thing i find interesting about Grass is the growing importance of data infrastructure as AI scales\n\nAI labs need massive amounts of data, but accessing public web data is becoming increasingly difficult\n\nGrass uses a distributed network of internet connections to help collect that data and make it available to AI companies\n\ni believe access to high-quality data will become an increasingly important competitive advantage in AI, which makes this an interesting area to follow"
         }
       ],
       "reads": {
@@ -560,7 +563,8 @@
         "2108443167758364916": "No call",
         "2108502379289088395": "No call",
         "2108543735932031467": "No call: bullish on crypto market (60%, too unsure)",
-        "2108610728278298674": "VIEW bullish on memecoins"
+        "2108610728278298674": "VIEW bullish on memecoins",
+        "2108836968272744589": "No call: bullish on GRASS (60%, too unsure)"
       },
       "replies": [
         {
@@ -774,10 +778,13 @@
             "bias:memecoins:bullish"
           ],
           "self_replies": 0
+        },
+        "2108836968272744589": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108111428037284203": false,
         "2108112551833981326": false,
         "2108135397746475145": false,
         "2108177006030385475": true,
@@ -811,7 +818,8 @@
         "2108556288162402327": false,
         "2108610728278298674": true,
         "2108820267976056979": true,
-        "2108836712894157025": false
+        "2108836712894157025": false,
+        "2108836968272744589": true
       },
       "user_id": "973261472"
     },
@@ -3006,5 +3014,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-10T08:28:19+00:00"
+  "updated_at": "2026-10-10T08:32:25+00:00"
 }
