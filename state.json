@@ -423,7 +423,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2108959592676053478",
+      "last_id": "2108973219302772787",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -443,14 +443,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-08T13:31:16.000Z",
-          "id": "2108188479389626604",
-          "images": [
-            "https://pbs.twimg.com/media/HUHKPX2XIAAs9GI.jpg"
-          ],
-          "text": "jarvis, liquidate these niggas https://t.co/End279605Q"
-        },
         {
           "created_at": "2026-10-08T16:00:36.000Z",
           "id": "2108226061574054357",
@@ -580,10 +572,17 @@
           "created_at": "2026-10-10T16:35:24.000Z",
           "id": "2108959592676053478",
           "text": "i think ive somehow already made 50% back of what i burned minting paper in rewards"
+        },
+        {
+          "created_at": "2026-10-10T17:29:32.000Z",
+          "id": "2108973219302772787",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2108972914464985088/img/likvwFA9qKo9ghza.jpg"
+          ],
+          "text": "$STRK +53% since I called it the trade of the week\n\nwelcome to the show \ud83e\udee7 https://t.co/4ecGC7VlsE"
         }
       ],
       "reads": {
-        "2108188479389626604": "No call",
         "2108226061574054357": "No call",
         "2108360362089414810": "No call: bullish on solana memes (60%, too unsure)",
         "2108360500446953743": "No call",
@@ -602,7 +601,8 @@
         "2108923271894941699": "No call",
         "2108924069806747667": "No call",
         "2108930537788453096": "No call",
-        "2108959592676053478": "No call"
+        "2108959592676053478": "No call",
+        "2108973219302772787": "No call"
       },
       "replies": [
         {
@@ -836,10 +836,13 @@
         "2108959592676053478": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108973219302772787": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108188479389626604": true,
         "2108226061574054357": false,
         "2108360362089414810": false,
         "2108360500446953743": true,
@@ -873,7 +876,8 @@
         "2108923271894941699": true,
         "2108924069806747667": true,
         "2108930537788453096": true,
-        "2108959592676053478": true
+        "2108959592676053478": true,
+        "2108973219302772787": true
       },
       "user_id": "973261472"
     },
@@ -3237,5 +3241,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T17:22:32+00:00"
+  "updated_at": "2026-10-10T17:30:20+00:00"
 }
