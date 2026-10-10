@@ -1477,7 +1477,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108954491169247484",
+      "last_id": "2108955051570114834",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1542,11 +1542,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T10:55:57.000Z",
-          "id": "2108511782201708573",
-          "text": "no the industry is not going down because of some invisible encryption breakthrough that doesnt even exist yet (this take is absolutely ridiculous)\n\nyes it looks like media will keep on parroting this narrative for the near future\n\nyes ai will keep on flaunting math breakthroughs"
-        },
         {
           "created_at": "2026-10-09T10:56:55.000Z",
           "id": "2108512022623383969",
@@ -1664,10 +1659,16 @@
           ],
           "quoted_text": "added more low lev / spot $strk\n\nflow looks like there's very healthy accumulation going on atm\n\nsector leader of one of the main & rapidly growing - if not the fastest growing - sectors this cycle shouldnt be 700m fdv imo\n\nespecially when its in direct confluence w/ anth & OAI ipo schedule in the immediate-to-near term",
           "text": "https://t.co/lHPVkh5d7x https://t.co/OScbqWVP8g"
+        },
+        {
+          "created_at": "2026-10-10T16:17:21.000Z",
+          "id": "2108955051570114834",
+          "quoted_text": "@divotends_ @Credib1eGuy nono Guy is a really cool dude, i very often follow his read on things",
+          "reply_to_id": "2108948592237097100",
+          "text": "https://t.co/Hd5XIGZyWr"
         }
       ],
       "reads": {
-        "2108511782201708573": "No call",
         "2108512022623383969": "No call",
         "2108569245093417100": "TRADE LONG STRK",
         "2108578329574133898": "No call",
@@ -1686,15 +1687,10 @@
         "2108933002864861656": "No call",
         "2108934824933359978": "VIEW bullish on crypto market",
         "2108948592237097100": "TRADE LONG STRK",
-        "2108952993479766128": "TRADE LONG STRK"
+        "2108952993479766128": "TRADE LONG STRK",
+        "2108955051570114834": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-10T14:17:07.000Z",
-          "id": "2108924792749576343",
-          "reply_to_id": "2108913658718040422",
-          "text": "@izebel_eth time to cook"
-        },
         {
           "created_at": "2026-10-10T14:51:43.000Z",
           "id": "2108933500502159579",
@@ -1787,6 +1783,12 @@
           "id": "2108954491169247484",
           "reply_to_id": "2108953042154582134",
           "text": "@Credib1eGuy \ud83e\udd23\ud83e\udd23"
+        },
+        {
+          "created_at": "2026-10-10T16:16:17.000Z",
+          "id": "2108954781398315176",
+          "reply_to_id": "2108954494751096873",
+          "text": "@divotends_ @Credib1eGuy \ud83e\udee1\ud83e\udee1"
         }
       ],
       "threads": {
@@ -2001,7 +2003,7 @@
           "alerted": [
             "trade:STRK:long"
           ],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2108952993479766128": {
           "alerted": [
@@ -2011,7 +2013,6 @@
         }
       },
       "trading": {
-        "2108511782201708573": true,
         "2108512022623383969": true,
         "2108569245093417100": true,
         "2108578329574133898": false,
@@ -2023,7 +2024,6 @@
         "2108920984501887487": true,
         "2108921463923408962": true,
         "2108922234521759769": true,
-        "2108924792749576343": false,
         "2108925626556330006": true,
         "2108925965778972962": true,
         "2108927466358321652": false,
@@ -2045,7 +2045,9 @@
         "2108952993479766128": true,
         "2108954257286439398": false,
         "2108954393420964314": false,
-        "2108954491169247484": false
+        "2108954491169247484": false,
+        "2108954781398315176": false,
+        "2108955051570114834": false
       },
       "user_id": "1653080265294757890"
     },
@@ -3177,5 +3179,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T16:16:21+00:00"
+  "updated_at": "2026-10-10T16:18:25+00:00"
 }
