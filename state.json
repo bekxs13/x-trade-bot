@@ -1522,7 +1522,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109046732403495217",
+      "last_id": "2109047125938208858",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1587,11 +1587,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T14:03:53.000Z",
-          "id": "2108921463923408962",
-          "text": "IM LIQUIDATED\n\nLFG"
-        },
         {
           "created_at": "2026-10-10T14:06:57.000Z",
           "id": "2108922234521759769",
@@ -1719,10 +1714,18 @@
           ],
           "quoted_text": "@dotiryaki \u201cI can\u2019t buy i already missed the move\u201d - guy who doesn\u2019t make it",
           "text": "https://t.co/dP5yVIgAyR https://t.co/f4fC6ta4vl"
+        },
+        {
+          "created_at": "2026-10-10T22:23:13.000Z",
+          "id": "2109047125938208858",
+          "images": [
+            "https://pbs.twimg.com/media/HUTXLmpa4AAS5G2.jpg"
+          ],
+          "quoted_text": "@dotiryaki \u201cI can\u2019t buy i already missed the move\u201d - guy who doesn\u2019t make it",
+          "text": "kingmaker. $strk https://t.co/fNQfcdcdx3 https://t.co/f4fC6ta4vl"
         }
       ],
       "reads": {
-        "2108921463923408962": "No call",
         "2108922234521759769": "No call",
         "2108925626556330006": "No call",
         "2108925965778972962": "TRADE LONG STRK",
@@ -1741,7 +1744,8 @@
         "2108988940653076661": "No call",
         "2108989887022285149": "No call",
         "2109030124100427988": "No call",
-        "2109046732403495217": "No call"
+        "2109046732403495217": "No call",
+        "2109047125938208858": "No call"
       },
       "replies": [
         {
@@ -2102,10 +2106,13 @@
         "2109046732403495217": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109047125938208858": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108921463923408962": true,
         "2108922234521759769": true,
         "2108925626556330006": true,
         "2108925965778972962": true,
@@ -2139,7 +2146,8 @@
         "2109033096394019290": false,
         "2109035187535532366": false,
         "2109039238478233726": false,
-        "2109046732403495217": true
+        "2109046732403495217": true,
+        "2109047125938208858": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3292,5 +3300,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T22:22:22+00:00"
+  "updated_at": "2026-10-10T22:24:21+00:00"
 }
