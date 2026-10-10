@@ -2093,7 +2093,7 @@
       "biases": {},
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2108800312987504807",
+      "last_id": "2108968997542891854",
       "positions": {},
       "posts": [
         {
@@ -2202,6 +2202,12 @@
           "id": "2108741947263242661",
           "reply_to_id": "2108741913956459002",
           "text": "@ercwl i did the math but i\u2019m really really bad at math"
+        },
+        {
+          "created_at": "2026-10-10T17:12:46.000Z",
+          "id": "2108968997542891854",
+          "quoted_text": "my full interview with @blurr, co founder of @papertrade_xyz \n\n0:46 origins of papertrade\n3:46 how papertrade works\n11:29 learning from broken launches\n13:35 why build on HyperEVM?\n10:04 no funding fees on a $20M position?\n25:00 how $Paper emissions work\n32:59 I love jez\n35:24 onchain wizard with no socials\n39:18 super dead, super rich, or supermax\n42:36 Tether on a phone was a Godsend\n48:21 breeding CryptoKitties for profit\n54:01 farming Curve for 3 hours\n57:23 crypto can't be a social movement",
+          "text": "relevant https://t.co/9E8LmlkM0B"
         }
       ],
       "reads": {
@@ -2221,7 +2227,8 @@
         "2108527971648602479": "No call",
         "2108528245364924482": "Read together with the post it replies to",
         "2108538101950005277": "No call",
-        "2108549683283144734": "No call"
+        "2108549683283144734": "No call",
+        "2108968997542891854": "No call"
       },
       "replies": [
         {
@@ -2371,6 +2378,10 @@
         "2108549683283144734": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108968997542891854": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -2407,7 +2418,8 @@
         "2108730220954153140": false,
         "2108741913956459002": false,
         "2108741947263242661": false,
-        "2108800312987504807": false
+        "2108800312987504807": false,
+        "2108968997542891854": true
       },
       "user_id": "1426732252768182281"
     },
@@ -3225,5 +3237,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T17:08:28+00:00"
+  "updated_at": "2026-10-10T17:14:20+00:00"
 }
