@@ -389,7 +389,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2108924069806747667",
+      "last_id": "2108930537788453096",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -409,11 +409,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-08T12:45:40.000Z",
-          "id": "2108177006030385475",
-          "text": "it's time \ud83d\udc02\ud83c\udc04\ufe0f https://t.co/EmIZs6bIUt"
-        },
         {
           "created_at": "2026-10-08T13:13:11.000Z",
           "id": "2108183930490728854",
@@ -548,10 +543,15 @@
           "id": "2108924069806747667",
           "quoted_text": "@blknoiz06 $24B volume IN 10 MINUTES WTFFF https://t.co/HsKXb8Kb2r",
           "text": "bro https://t.co/STeBFwZQIB https://t.co/HweFSyw7Cx"
+        },
+        {
+          "created_at": "2026-10-10T14:39:56.000Z",
+          "id": "2108930537788453096",
+          "quoted_text": "@captain_kole im going 1000x long on paper trade and nobody can stop me",
+          "text": "WOOOOOOOOOOOOOOOO https://t.co/mAgVV50Oxa"
         }
       ],
       "reads": {
-        "2108177006030385475": "No call",
         "2108183930490728854": "No call",
         "2108188479389626604": "No call",
         "2108226061574054357": "No call",
@@ -570,7 +570,8 @@
         "2108610728278298674": "VIEW bullish on memecoins",
         "2108836968272744589": "No call: bullish on GRASS (60%, too unsure)",
         "2108923271894941699": "No call",
-        "2108924069806747667": "No call"
+        "2108924069806747667": "No call",
+        "2108930537788453096": "No call"
       },
       "replies": [
         {
@@ -796,10 +797,13 @@
         "2108924069806747667": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108930537788453096": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108177006030385475": true,
         "2108183930490728854": true,
         "2108188479389626604": true,
         "2108226061574054357": false,
@@ -833,7 +837,8 @@
         "2108916678130335954": true,
         "2108918275354800331": false,
         "2108923271894941699": true,
-        "2108924069806747667": true
+        "2108924069806747667": true,
+        "2108930537788453096": true
       },
       "user_id": "973261472"
     },
@@ -3109,5 +3114,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T14:36:23+00:00"
+  "updated_at": "2026-10-10T14:40:22+00:00"
 }
