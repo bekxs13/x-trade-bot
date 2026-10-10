@@ -1467,7 +1467,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108948592237097100",
+      "last_id": "2108952993479766128",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1516,28 +1516,22 @@
         },
         "STRK": {
           "asset": "STRK",
-          "chain": "",
-          "confidence": 0.8,
-          "contract_address": "",
+          "chain": "eth",
+          "confidence": 0.85,
+          "contract_address": "0xb39C8A5Dd737D0985BFEBA879f3d3c506d60F08e",
           "direction": "long",
           "entry": "",
           "horizon": "",
           "market": "crypto",
           "open_price": null,
-          "post_id": "2108948592237097100",
-          "reason": "Replying to a follower taking profits on the run, he says \"i bought more\"; his recent posts are all about $STRK, his open long.",
+          "post_id": "2108952993479766128",
+          "reason": "Quote-posts his own 'added more low lev / spot $strk' with a STRKUSDT chart showing it ripping to 0.0979, flexing an existing long already on record.",
           "since": "2026-10-08T11:25:45.000Z",
           "structure": "spot",
-          "url": "https://x.com/MoneyPrinter0x/status/2108948592237097100"
+          "url": "https://x.com/MoneyPrinter0x/status/2108952993479766128"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T10:51:29.000Z",
-          "id": "2108510657201279308",
-          "quoted_text": "this i agree, i dont think that ecdsa is going to be broken & even in the case it might there would be much bigger things to worry about re: TLS, have been very public about this from the beginning \n\nhttps://t.co/4XDCuzaDiM\n\nhttps://t.co/Dri4a4E6RE\n\nhttps://t.co/wNooo6xMmQ\n\ni dont agree with the view that ppl think that the industry will crash from unknown encryption breakthroughs. otherwise, whats the point of holding btc - obviously we're still here and until proven otherwise this is another r",
-          "text": "wish to make this extra clear coz i dont wish for ppl to misunderstand the view lol\n\n1. no the crypto industry is not going to be hacked by some unknown encryption breakthrough. have never expressed anything close to that  anything near that is misleading imo https://t.co/wNooo6xMmQ\n\n2. even if such algos were developed, default case is -> https://t.co/Dri4a4E6RE\n\n3. media doesnt seem like theyll stop talking about this theme anytime soon due to anth ipo & oai ipo headwinds \n\nMP\n\n// appreciate it jords wouldnt have noticed a possibility of  possibly digesting it that way (\ud83d\ude02) & wish to continue making this clear as we have since the beginning"
-        },
         {
           "created_at": "2026-10-09T10:55:57.000Z",
           "id": "2108511782201708573",
@@ -1651,10 +1645,18 @@
           "id": "2108948592237097100",
           "quoted_text": "@MoneyPrinter0x Taking some profits here dude wtf man this was insane",
           "text": "i bought more https://t.co/FpxARgA4P4"
+        },
+        {
+          "created_at": "2026-10-10T16:09:10.000Z",
+          "id": "2108952993479766128",
+          "images": [
+            "https://pbs.twimg.com/media/HUSBkcObAAEvwu4.jpg"
+          ],
+          "quoted_text": "added more low lev / spot $strk\n\nflow looks like there's very healthy accumulation going on atm\n\nsector leader of one of the main & rapidly growing - if not the fastest growing - sectors this cycle shouldnt be 700m fdv imo\n\nespecially when its in direct confluence w/ anth & OAI ipo schedule in the immediate-to-near term",
+          "text": "https://t.co/lHPVkh5d7x https://t.co/OScbqWVP8g"
         }
       ],
       "reads": {
-        "2108510657201279308": "No call",
         "2108511782201708573": "No call",
         "2108512022623383969": "No call",
         "2108569245093417100": "TRADE LONG STRK",
@@ -1673,7 +1675,8 @@
         "2108929562478531012": "No call: bullish on STRK (same view as before)",
         "2108933002864861656": "No call",
         "2108934824933359978": "VIEW bullish on crypto market",
-        "2108948592237097100": "TRADE LONG STRK"
+        "2108948592237097100": "TRADE LONG STRK",
+        "2108952993479766128": "TRADE LONG STRK"
       },
       "replies": [
         {
@@ -1989,10 +1992,15 @@
             "trade:STRK:long"
           ],
           "self_replies": 0
+        },
+        "2108952993479766128": {
+          "alerted": [
+            "trade:STRK:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108510657201279308": true,
         "2108511782201708573": true,
         "2108512022623383969": true,
         "2108569245093417100": true,
@@ -2026,7 +2034,8 @@
         "2108948264074830296": true,
         "2108948314473611650": false,
         "2108948390633742533": false,
-        "2108948592237097100": true
+        "2108948592237097100": true,
+        "2108952993479766128": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3158,5 +3167,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T15:52:20+00:00"
+  "updated_at": "2026-10-10T16:10:23+00:00"
 }
