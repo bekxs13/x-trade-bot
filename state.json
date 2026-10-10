@@ -1467,7 +1467,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108946148375556575",
+      "last_id": "2108948592237097100",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1524,20 +1524,14 @@
           "horizon": "",
           "market": "crypto",
           "open_price": null,
-          "post_id": "2108925965778972962",
-          "reason": "\"Moneyprinter Mode. $STRK\" over a chart of STRK ripping to 0.08, quoting his own \"kingmaker bet is $STRK\" post. He added spot/low-lev STRK earlier today, so this is him celebrating a long he still holds.",
+          "post_id": "2108948592237097100",
+          "reason": "Replying to a follower taking profits on the run, he says \"i bought more\"; his recent posts are all about $STRK, his open long.",
           "since": "2026-10-08T11:25:45.000Z",
-          "structure": "spot and low-leverage perp",
-          "url": "https://x.com/MoneyPrinter0x/status/2108925965778972962"
+          "structure": "spot",
+          "url": "https://x.com/MoneyPrinter0x/status/2108948592237097100"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T10:49:06.000Z",
-          "id": "2108510056358744202",
-          "quoted_text": "this i agree, i dont think that ecdsa is going to be broken & even in the case it might there would be much bigger things to worry about re: TLS, have been very public about this from the beginning \n\nhttps://t.co/4XDCuzaDiM\n\nhttps://t.co/Dri4a4E6RE\n\nhttps://t.co/wNooo6xMmQ\n\ni dont agree with the view that ppl think that the industry will crash from unknown encryption breakthroughs. otherwise, whats the point of holding btc - obviously we're still here and until proven otherwise this is another r",
-          "text": "wish to make this extra clear coz i dont wish for ppl to misunderstand the view lol\n\n1. no the crypto industry is not going to be hacked by some unknown encryption breakthrough. have never expressed anything close to that  anything near that is misleading imo https://t.co/wNooo6xMmQ\n\n2. even if such algos were developed, default case is -> https://t.co/Dri4a4E6RE\n\n3. media doesnt seem like theyll stop talking about this theme anytime soon due to anth ipo & oai ipo headwinds \n\nMP\n\n// appreciate it jords i wouldnt have noticed a possibility of ppl possibly digesting it that way & wish to continue making this clear as we have since the beginning"
-        },
         {
           "created_at": "2026-10-09T10:51:29.000Z",
           "id": "2108510657201279308",
@@ -1651,10 +1645,15 @@
           "created_at": "2026-10-10T14:56:59.000Z",
           "id": "2108934824933359978",
           "text": "Welcome to the hated cryptography rally."
+        },
+        {
+          "created_at": "2026-10-10T15:51:41.000Z",
+          "id": "2108948592237097100",
+          "quoted_text": "@MoneyPrinter0x Taking some profits here dude wtf man this was insane",
+          "text": "i bought more https://t.co/FpxARgA4P4"
         }
       ],
       "reads": {
-        "2108510056358744202": "No call",
         "2108510657201279308": "No call",
         "2108511782201708573": "No call",
         "2108512022623383969": "No call",
@@ -1673,27 +1672,10 @@
         "2108927466358321652": "No call",
         "2108929562478531012": "No call: bullish on STRK (same view as before)",
         "2108933002864861656": "No call",
-        "2108934824933359978": "VIEW bullish on crypto market"
+        "2108934824933359978": "VIEW bullish on crypto market",
+        "2108948592237097100": "TRADE LONG STRK"
       },
       "replies": [
-        {
-          "created_at": "2026-10-10T07:02:29.000Z",
-          "id": "2108815415979991253",
-          "reply_to_id": "2108702919943991451",
-          "text": "@0xdoug least boilerplate n nicer to maintain tbh"
-        },
-        {
-          "created_at": "2026-10-10T09:02:18.000Z",
-          "id": "2108845568168792279",
-          "reply_to_id": "2108845514472980688",
-          "text": "@tanjirocrypto /time_to_liquidate"
-        },
-        {
-          "created_at": "2026-10-10T11:25:32.000Z",
-          "id": "2108881613392400577",
-          "reply_to_id": "2108833727040389619",
-          "text": "@charlitohl is this a subtle flex on reverse engineering hyperliquid binaries lmfao"
-        },
         {
           "created_at": "2026-10-10T11:57:08.000Z",
           "id": "2108889567835169278",
@@ -1774,6 +1756,24 @@
           "id": "2108946148375556575",
           "reply_to_id": "2108932819892470092",
           "text": "@papexyz \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f"
+        },
+        {
+          "created_at": "2026-10-10T15:50:23.000Z",
+          "id": "2108948264074830296",
+          "reply_to_id": "2108944218324619479",
+          "text": "@Credib1eGuy i bought more"
+        },
+        {
+          "created_at": "2026-10-10T15:50:35.000Z",
+          "id": "2108948314473611650",
+          "reply_to_id": "2108945033839718503",
+          "text": "@GalleonCrypto \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f"
+        },
+        {
+          "created_at": "2026-10-10T15:50:53.000Z",
+          "id": "2108948390633742533",
+          "reply_to_id": "2108945333736948222",
+          "text": "@Nomi10339 @cbnpickem \ud83e\udef6\ud83e\udef6\ud83e\udef6"
         }
       ],
       "threads": {
@@ -1983,20 +1983,22 @@
             "bias:crypto market:bullish"
           ],
           "self_replies": 0
+        },
+        "2108948592237097100": {
+          "alerted": [
+            "trade:STRK:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108510056358744202": true,
         "2108510657201279308": true,
         "2108511782201708573": true,
         "2108512022623383969": true,
         "2108569245093417100": true,
         "2108578329574133898": false,
         "2108596603766657452": true,
-        "2108815415979991253": false,
         "2108845453978882514": true,
-        "2108845568168792279": true,
-        "2108881613392400577": false,
         "2108886690396029389": true,
         "2108889567835169278": false,
         "2108900955106467873": true,
@@ -2020,7 +2022,11 @@
         "2108941373185696019": false,
         "2108941654908625014": true,
         "2108942485263397166": false,
-        "2108946148375556575": false
+        "2108946148375556575": false,
+        "2108948264074830296": true,
+        "2108948314473611650": false,
+        "2108948390633742533": false,
+        "2108948592237097100": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3152,5 +3158,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T15:42:20+00:00"
+  "updated_at": "2026-10-10T15:52:20+00:00"
 }
