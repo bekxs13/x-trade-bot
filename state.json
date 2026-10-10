@@ -1491,7 +1491,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108963734551220353",
+      "last_id": "2108967595663921456",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1556,11 +1556,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T09:01:51.000Z",
-          "id": "2108845453978882514",
-          "text": "can't wait for jez's protocol\n\narchitecture wise its brilliant"
-        },
         {
           "created_at": "2026-10-10T11:45:42.000Z",
           "id": "2108886690396029389",
@@ -1676,10 +1671,15 @@
           "created_at": "2026-10-10T16:51:51.000Z",
           "id": "2108963734551220353",
           "text": "kingmaker mode.\n\n$strk"
+        },
+        {
+          "created_at": "2026-10-10T17:07:12.000Z",
+          "id": "2108967595663921456",
+          "quoted_text": "One of the most cracked traders on CT btw https://t.co/IqlmtdB28z",
+          "text": "\ud83d\ude4f\ud83d\ude4f https://t.co/lPhJUpQYnt"
         }
       ],
       "reads": {
-        "2108845453978882514": "No call",
         "2108886690396029389": "No call",
         "2108900955106467873": "TRADE LONG STRK",
         "2108919459486527699": "No call",
@@ -1698,7 +1698,8 @@
         "2108960235037835666": "TRADE LONG STRK",
         "2108960586424009160": "TRADE LONG STRK",
         "2108963673700172274": "No call",
-        "2108963734551220353": "TRADE LONG STRK"
+        "2108963734551220353": "TRADE LONG STRK",
+        "2108967595663921456": "No call"
       },
       "replies": [
         {
@@ -2042,10 +2043,13 @@
             "trade:STRK:long"
           ],
           "self_replies": 0
+        },
+        "2108967595663921456": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108845453978882514": true,
         "2108886690396029389": true,
         "2108900955106467873": true,
         "2108919459486527699": true,
@@ -2079,7 +2083,8 @@
         "2108960235037835666": true,
         "2108960586424009160": true,
         "2108963673700172274": false,
-        "2108963734551220353": true
+        "2108963734551220353": true,
+        "2108967595663921456": false
       },
       "user_id": "1653080265294757890"
     },
@@ -3220,5 +3225,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T17:02:19+00:00"
+  "updated_at": "2026-10-10T17:08:28+00:00"
 }
