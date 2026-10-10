@@ -1428,7 +1428,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108900955106467873",
+      "last_id": "2108919459486527699",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1493,12 +1493,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T07:56:54.000Z",
-          "id": "2108466723259392012",
-          "quoted_text": "> called the biggest stock pump in all 100 years of hk market history with thesis\n\n> called the largest qqq crash of the quarter two days it happened with thesis\n\n> called the largest memory -> robotics rotation the day before it happened with thesis\n\n> called the biggest qnx rotation two days before it happened with thesis\n\n> called the financially engineered btc bond wrapper bottom with thesis\n\n> called the exact largest macro oil crash week the day before it happened with thesis\n\nno fundament",
-          "text": "&gt; called pico cycle bottom of btc\n\n&gt; called pico start of strk bullrun https://t.co/GIQ4cZkHAK"
-        },
         {
           "created_at": "2026-10-09T07:58:31.000Z",
           "id": "2108467127783154171",
@@ -1611,10 +1605,14 @@
           ],
           "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
           "text": "added more low lev / spot $strk\n\nflow looks like there's very healthy accumulation going on atm\n\nsector leader of one of the main & rapidly growing - if not the fastest growing - sectors this cycle shouldnt be 700m fdv imo\n\nespecially when its in direct confluence w/ anth & OAI ipo schedule in the immediate-to-near term"
+        },
+        {
+          "created_at": "2026-10-10T13:55:55.000Z",
+          "id": "2108919459486527699",
+          "text": "last second alpha re:playing papertrade launch\n\npapertrade blocked direct orders to rpc (frontend-only)\n\nbut u can still bot the browser (lol) with playwright\n\nGLHF"
         }
       ],
       "reads": {
-        "2108466723259392012": "No call",
         "2108467127783154171": "VIEW bullish on btc",
         "2108470411361178094": "No call",
         "2108472561889943559": "TRADE LONG STRK",
@@ -1633,7 +1631,8 @@
         "2108596603766657452": "No call: bullish on STRK (same view as before)",
         "2108845453978882514": "No call",
         "2108886690396029389": "No call",
-        "2108900955106467873": "TRADE LONG STRK"
+        "2108900955106467873": "TRADE LONG STRK",
+        "2108919459486527699": "No call"
       },
       "replies": [
         {
@@ -1890,10 +1889,13 @@
             "trade:STRK:long"
           ],
           "self_replies": 0
+        },
+        "2108919459486527699": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108466723259392012": true,
         "2108467127783154171": true,
         "2108470411361178094": false,
         "2108472561889943559": true,
@@ -1927,7 +1929,8 @@
         "2108881613392400577": false,
         "2108886690396029389": true,
         "2108889567835169278": false,
-        "2108900955106467873": true
+        "2108900955106467873": true,
+        "2108919459486527699": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3059,5 +3062,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T13:52:16+00:00"
+  "updated_at": "2026-10-10T13:56:25+00:00"
 }
