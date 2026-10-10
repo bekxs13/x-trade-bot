@@ -1,0 +1,1 @@
+- @moneyprinter often posts repeatedly about the same open position (e.g. STRK). Only flag a post if it reports a new entry, an add, a trim or an exit, or a changed view. Treat updates, PnL brags and reminders about an already-reported position as not new.

@@ -21,7 +21,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2108965025444688007",
+      "last_id": "2108966186616820104",
       "positions": {},
       "posts": [
         {
@@ -161,11 +161,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-08T06:44:24.000Z",
-          "id": "2108086090565358039",
-          "text": "@yieldyumi So true"
-        },
-        {
           "created_at": "2026-10-08T07:53:59.000Z",
           "id": "2108103599700210127",
           "text": "@BittexXBT Ok let\u2019s stay under 83 to be comfy agree"
@@ -246,6 +241,12 @@
           "id": "2108963590124286272",
           "reply_to_id": "2108960619093176785",
           "text": "@swansonbenson0 Gen run"
+        },
+        {
+          "created_at": "2026-10-10T17:01:36.000Z",
+          "id": "2108966186616820104",
+          "reply_to_id": "2108966058799362200",
+          "text": "@blancxbt Mint"
         }
       ],
       "threads": {
@@ -351,7 +352,6 @@
         }
       },
       "trading": {
-        "2108086090565358039": false,
         "2108103599700210127": true,
         "2108224361476076011": true,
         "2108224883108790436": true,
@@ -385,7 +385,8 @@
         "2108954541106344446": false,
         "2108963537532186879": false,
         "2108963590124286272": false,
-        "2108965025444688007": false
+        "2108965025444688007": false,
+        "2108966186616820104": false
       },
       "user_id": "1446541960181858315"
     },
@@ -3208,7 +3209,16 @@
       "user_id": "809191427645181952"
     }
   },
+  "feedback": {
+    "mv2n577hsrfu": {
+      "done_at": "2026-10-10T17:02:16+00:00",
+      "file": "_all",
+      "handle": "",
+      "lesson": "@moneyprinter often posts repeatedly about the same open position (e.g. STRK). Only flag a post if it reports a new entry, an add, a trim or an exit, or a changed view. Treat updates, PnL brags and reminders about an already-reported position as not new.",
+      "outcome": ""
+    }
+  },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T16:58:25+00:00"
+  "updated_at": "2026-10-10T17:02:19+00:00"
 }
