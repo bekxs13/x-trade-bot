@@ -1394,7 +1394,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108881613392400577",
+      "last_id": "2108886690396029389",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1459,15 +1459,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T03:20:27.000Z",
-          "id": "2108397149964898395",
-          "images": [
-            "https://pbs.twimg.com/media/HUKICEjaIAA7_LZ.jpg"
-          ],
-          "quoted_text": "looks incredible\n\n$STRK\n\nlonged an extreme amount for now - thesis remains the same.\n\nNFA DYOR https://t.co/PBi0hZp8J6 https://t.co/birrKDo6ue",
-          "text": "technical research re: $strk actually checks out\n\nimo this is bigger than us - sooner or later academia & industry guys will likely bring it to light after they get filled\n\nthis kind of industry-level threat is likely just going to go up-only on every single math news/catalyst\n\nwhich isnt going to slow down anytime soon"
-        },
         {
           "created_at": "2026-10-09T04:49:06.000Z",
           "id": "2108419458947817696",
@@ -1580,10 +1571,15 @@
           "created_at": "2026-10-10T09:01:51.000Z",
           "id": "2108845453978882514",
           "text": "can't wait for jez's protocol\n\narchitecture wise its brilliant"
+        },
+        {
+          "created_at": "2026-10-10T11:45:42.000Z",
+          "id": "2108886690396029389",
+          "quoted_text": "to be honest in the beginning i used agents a lot but nowadays theyre more like tools to deploy in a broader system more than for raw agent-led alpha discovery \n\nhave not made edu content yet - atm markets & building seems to be most fun but open to the idea.. though i think i still have a lot to learn before i deserve to do such a thing, haha\n\nmitigating downside -> really depends on the rest of your book, complex books factor hedging is a must, but to be realistic i think most can/should consi",
+          "text": "most would benefit more from having a standardized framework / system re: capital management\n\nit doesnt have to be complicated. you can start from realistic steps https://t.co/3HKGPVb1BV"
         }
       ],
       "reads": {
-        "2108397149964898395": "TRADE LONG STRK",
         "2108419458947817696": "TRADE LONG STRK",
         "2108466723259392012": "No call",
         "2108467127783154171": "VIEW bullish on btc",
@@ -1602,7 +1598,8 @@
         "2108569245093417100": "TRADE LONG STRK",
         "2108578329574133898": "No call",
         "2108596603766657452": "No call: bullish on STRK (same view as before)",
-        "2108845453978882514": "No call"
+        "2108845453978882514": "No call",
+        "2108886690396029389": "No call"
       },
       "replies": [
         {
@@ -1849,10 +1846,13 @@
         "2108845453978882514": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108886690396029389": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108397149964898395": true,
         "2108419458947817696": true,
         "2108466723259392012": true,
         "2108467127783154171": true,
@@ -1886,7 +1886,8 @@
         "2108815415979991253": false,
         "2108845453978882514": true,
         "2108845568168792279": true,
-        "2108881613392400577": false
+        "2108881613392400577": false,
+        "2108886690396029389": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3018,5 +3019,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-10T11:26:23+00:00"
+  "updated_at": "2026-10-10T11:46:22+00:00"
 }
