@@ -1428,7 +1428,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108919813544559010",
+      "last_id": "2108920398171758650",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1636,12 +1636,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-09T15:22:44.000Z",
-          "id": "2108578919020691960",
-          "reply_to_id": "2108578498621423705",
-          "text": "@BagCalls \ud83d\ude02"
-        },
-        {
           "created_at": "2026-10-09T15:24:39.000Z",
           "id": "2108579401055240682",
           "reply_to_id": "2108579247698886729",
@@ -1724,6 +1718,12 @@
           "id": "2108919813544559010",
           "reply_to_id": "2108919612469359081",
           "text": "@CampendonkP tranches of 100x, 500x l/s delta neutral across accounts, turning off bots at lp above 5m"
+        },
+        {
+          "created_at": "2026-10-10T13:59:39.000Z",
+          "id": "2108920398171758650",
+          "reply_to_id": "2108919758003519908",
+          "text": "@CryptoMadbad 125m tvl in 48h thats majority not retail, well capitalized players &amp; desks who wanna have fun are all participating\n\nthat means that the level of bagwork on paper will be insane in the near to medium future\n\nbest part: you get a deterministic equal entry price to them at lp &lt; 5m"
         }
       ],
       "threads": {
@@ -1911,7 +1911,6 @@
         "2108512022623383969": true,
         "2108569245093417100": true,
         "2108578329574133898": false,
-        "2108578919020691960": false,
         "2108579401055240682": false,
         "2108596530257305607": false,
         "2108596603766657452": true,
@@ -1930,7 +1929,8 @@
         "2108889567835169278": false,
         "2108900955106467873": true,
         "2108919459486527699": true,
-        "2108919813544559010": true
+        "2108919813544559010": true,
+        "2108920398171758650": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3062,5 +3062,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T13:58:18+00:00"
+  "updated_at": "2026-10-10T14:00:27+00:00"
 }
