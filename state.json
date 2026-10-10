@@ -389,7 +389,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2108820267976056979",
+      "last_id": "2108836712894157025",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -564,12 +564,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-08T10:01:16.000Z",
-          "id": "2108135630048043054",
-          "reply_to_id": "2107877870106222941",
-          "text": "@grok @AeonDubbing @ilyaeon_alt @cryptomanran @MustStopMurad @paulerlanger lmao"
-        },
-        {
           "created_at": "2026-10-08T13:01:56.000Z",
           "id": "2108181099419705744",
           "reply_to_id": "2108177206656545063",
@@ -652,6 +646,12 @@
           "id": "2108820267976056979",
           "reply_to_id": "2108502538538606945",
           "text": "@degengambleh that 2023 dip was driven by svb blow up &amp; associated usdc depeg\n\n2019"
+        },
+        {
+          "created_at": "2026-10-10T08:27:07.000Z",
+          "id": "2108836712894157025",
+          "reply_to_id": "2108829662260482557",
+          "text": "@Fibonacci69 my goat"
         }
       ],
       "threads": {
@@ -780,7 +780,6 @@
         "2108111428037284203": false,
         "2108112551833981326": false,
         "2108135397746475145": false,
-        "2108135630048043054": false,
         "2108177006030385475": true,
         "2108181099419705744": true,
         "2108183930490728854": true,
@@ -811,7 +810,8 @@
         "2108543735932031467": true,
         "2108556288162402327": false,
         "2108610728278298674": true,
-        "2108820267976056979": true
+        "2108820267976056979": true,
+        "2108836712894157025": false
       },
       "user_id": "973261472"
     },
@@ -3006,5 +3006,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-10T08:24:14+00:00"
+  "updated_at": "2026-10-10T08:28:19+00:00"
 }
