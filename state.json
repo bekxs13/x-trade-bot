@@ -1467,7 +1467,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108941654908625014",
+      "last_id": "2108942485263397166",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1677,12 +1677,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-10T02:57:49.000Z",
-          "id": "2108753841126793236",
-          "reply_to_id": "2108729021668450768",
-          "text": "@frankdegods the real pokemon card"
-        },
-        {
           "created_at": "2026-10-10T06:14:00.000Z",
           "id": "2108803213898272778",
           "reply_to_id": "2108607674246164897",
@@ -1774,6 +1768,12 @@
           "id": "2108941654908625014",
           "reply_to_id": "2108936975692828834",
           "text": "@caww_caww can break larger positions across venues both spot and perp, its listed everywhere both cex and dex"
+        },
+        {
+          "created_at": "2026-10-10T15:27:25.000Z",
+          "id": "2108942485263397166",
+          "reply_to_id": "2108937745708061112",
+          "text": "@cbnpickem \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f still a long way to go!"
         }
       ],
       "threads": {
@@ -1993,7 +1993,6 @@
         "2108569245093417100": true,
         "2108578329574133898": false,
         "2108596603766657452": true,
-        "2108753841126793236": false,
         "2108803213898272778": false,
         "2108815415979991253": false,
         "2108845453978882514": true,
@@ -2020,7 +2019,8 @@
         "2108937215929647168": false,
         "2108937660824002680": false,
         "2108941373185696019": false,
-        "2108941654908625014": true
+        "2108941654908625014": true,
+        "2108942485263397166": false
       },
       "user_id": "1653080265294757890"
     },
@@ -3152,5 +3152,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T15:24:26+00:00"
+  "updated_at": "2026-10-10T15:28:16+00:00"
 }
