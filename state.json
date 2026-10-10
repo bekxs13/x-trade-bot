@@ -1522,7 +1522,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109030124100427988",
+      "last_id": "2109033096394019290",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1741,18 +1741,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-10T16:14:12.000Z",
-          "id": "2108954257286439398",
-          "reply_to_id": "2108951172379967584",
-          "text": "@divotends_ @Credib1eGuy nono Guy is a really cool dude, i very often follow his read on things"
-        },
-        {
-          "created_at": "2026-10-10T16:14:44.000Z",
-          "id": "2108954393420964314",
-          "reply_to_id": "2108951347160916092",
-          "text": "@AustinC04528474 @Credib1eGuy \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f"
-        },
-        {
           "created_at": "2026-10-10T16:15:07.000Z",
           "id": "2108954491169247484",
           "reply_to_id": "2108953042154582134",
@@ -1829,6 +1817,21 @@
           "id": "2109005394060497373",
           "reply_to_id": "2108992014205493516",
           "text": "@revival_trades \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\ude4f"
+        },
+        {
+          "created_at": "2026-10-10T21:27:16.000Z",
+          "id": "2109033044816646545",
+          "images": [
+            "https://pbs.twimg.com/tweet_video_thumb/HUTKXafbwAAcIKo.jpg"
+          ],
+          "reply_to_id": "2109015364701151404",
+          "text": "@insomniacxbt https://t.co/HghVLPfuHU"
+        },
+        {
+          "created_at": "2026-10-10T21:27:28.000Z",
+          "id": "2109033096394019290",
+          "reply_to_id": "2108957414137716933",
+          "text": "@ryandcrypto \ud83e\udd23\ud83e\udd23"
         }
       ],
       "threads": {
@@ -2102,8 +2105,6 @@
         "2108934824933359978": true,
         "2108948592237097100": true,
         "2108952993479766128": true,
-        "2108954257286439398": false,
-        "2108954393420964314": false,
         "2108954491169247484": false,
         "2108954781398315176": false,
         "2108955051570114834": false,
@@ -2125,7 +2126,9 @@
         "2109001907188728315": true,
         "2109003305062207950": false,
         "2109005394060497373": false,
-        "2109030124100427988": true
+        "2109030124100427988": true,
+        "2109033044816646545": false,
+        "2109033096394019290": false
       },
       "user_id": "1653080265294757890"
     },
@@ -3278,5 +3281,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T21:16:21+00:00"
+  "updated_at": "2026-10-10T21:28:16+00:00"
 }
