@@ -1514,7 +1514,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108981226212348260",
+      "last_id": "2108988940653076661",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1579,12 +1579,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T11:45:42.000Z",
-          "id": "2108886690396029389",
-          "quoted_text": "to be honest in the beginning i used agents a lot but nowadays theyre more like tools to deploy in a broader system more than for raw agent-led alpha discovery \n\nhave not made edu content yet - atm markets & building seems to be most fun but open to the idea.. though i think i still have a lot to learn before i deserve to do such a thing, haha\n\nmitigating downside -> really depends on the rest of your book, complex books factor hedging is a must, but to be realistic i think most can/should consi",
-          "text": "most would benefit more from having a standardized framework / system re: capital management\n\nit doesnt have to be complicated. you can start from realistic steps https://t.co/3HKGPVb1BV"
-        },
         {
           "created_at": "2026-10-10T12:42:23.000Z",
           "id": "2108900955106467873",
@@ -1700,10 +1694,18 @@
           "id": "2108967595663921456",
           "quoted_text": "One of the most cracked traders on CT btw https://t.co/IqlmtdB28z",
           "text": "\ud83d\ude4f\ud83d\ude4f https://t.co/lPhJUpQYnt"
+        },
+        {
+          "created_at": "2026-10-10T18:32:01.000Z",
+          "id": "2108988940653076661",
+          "images": [
+            "https://pbs.twimg.com/media/HUSiQwxbwAAZ87Q.jpg"
+          ],
+          "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
+          "text": "Moneyprinter Mode.\n\n$STRK https://t.co/jCEUJtASD2 https://t.co/birrKDo6ue"
         }
       ],
       "reads": {
-        "2108886690396029389": "No call",
         "2108900955106467873": "TRADE LONG STRK",
         "2108919459486527699": "No call",
         "2108920984501887487": "No call",
@@ -1722,7 +1724,8 @@
         "2108960586424009160": "TRADE LONG STRK",
         "2108963673700172274": "No call",
         "2108963734551220353": "TRADE LONG STRK",
-        "2108967595663921456": "No call"
+        "2108967595663921456": "No call",
+        "2108988940653076661": "No call"
       },
       "replies": [
         {
@@ -2067,10 +2070,13 @@
         "2108967595663921456": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108988940653076661": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108886690396029389": true,
         "2108900955106467873": true,
         "2108919459486527699": true,
         "2108920984501887487": true,
@@ -2104,7 +2110,8 @@
         "2108963734551220353": true,
         "2108967595663921456": false,
         "2108969858058932457": false,
-        "2108981226212348260": false
+        "2108981226212348260": false,
+        "2108988940653076661": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3257,5 +3264,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T18:06:18+00:00"
+  "updated_at": "2026-10-10T18:32:27+00:00"
 }
