@@ -1428,7 +1428,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108921463923408962",
+      "last_id": "2108922234521759769",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1493,12 +1493,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T08:20:06.000Z",
-          "id": "2108472561889943559",
-          "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
-          "text": "kingmaker.\n\n$strk https://t.co/birrKDo6ue"
-        },
         {
           "created_at": "2026-10-09T08:53:53.000Z",
           "id": "2108481061042929887",
@@ -1609,10 +1603,14 @@
           "created_at": "2026-10-10T14:03:53.000Z",
           "id": "2108921463923408962",
           "text": "IM LIQUIDATED\n\nLFG"
+        },
+        {
+          "created_at": "2026-10-10T14:06:57.000Z",
+          "id": "2108922234521759769",
+          "text": "IM LIQUIDATED\n\nLFG PAPER"
         }
       ],
       "reads": {
-        "2108472561889943559": "TRADE LONG STRK",
         "2108481061042929887": "TRADE LONG STRK",
         "2108482904116560301": "TRADE LONG STRK",
         "2108485584792563931": "No call",
@@ -1631,7 +1629,8 @@
         "2108900955106467873": "TRADE LONG STRK",
         "2108919459486527699": "No call",
         "2108920984501887487": "No call",
-        "2108921463923408962": "No call"
+        "2108921463923408962": "No call",
+        "2108922234521759769": "No call"
       },
       "replies": [
         {
@@ -1900,10 +1899,13 @@
         "2108921463923408962": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108922234521759769": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108472561889943559": true,
         "2108481061042929887": true,
         "2108482904116560301": true,
         "2108485584792563931": true,
@@ -1937,7 +1939,8 @@
         "2108919813544559010": true,
         "2108920398171758650": true,
         "2108920984501887487": true,
-        "2108921463923408962": true
+        "2108921463923408962": true,
+        "2108922234521759769": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3069,5 +3072,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T14:04:22+00:00"
+  "updated_at": "2026-10-10T14:08:19+00:00"
 }
