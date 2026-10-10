@@ -21,7 +21,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2108976727443513849",
+      "last_id": "2108981238375546919",
       "positions": {},
       "posts": [
         {
@@ -161,11 +161,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-08T15:53:51.000Z",
-          "id": "2108224361476076011",
-          "text": "@udiWertheimer lol original tweet said something else. but I don't think he meant to also nuke his eth bags lol"
-        },
-        {
           "created_at": "2026-10-08T15:55:55.000Z",
           "id": "2108224883108790436",
           "text": "@stoicsavage who's really gonna buy 75 tho. I guess we got everything 200ma etc"
@@ -248,6 +243,18 @@
           "id": "2108976473554264501",
           "reply_to_id": "2108976084351963387",
           "text": "@justachillelite Did yeah"
+        },
+        {
+          "created_at": "2026-10-10T18:01:24.000Z",
+          "id": "2108981238375546919",
+          "images": [
+            "https://pbs.twimg.com/media/HUSa5s6WoAAUHO1.jpg",
+            "https://pbs.twimg.com/media/HUSbP7TXcAAHyx_.jpg",
+            "https://pbs.twimg.com/media/HUSbP7fWUAA8tmx.jpg",
+            "https://pbs.twimg.com/media/HUSbP7RWEAAFyYu.jpg"
+          ],
+          "reply_to_id": "2108979874761408575",
+          "text": "@justachillelite 2020 photos https://t.co/zdoOn8G93B"
         }
       ],
       "threads": {
@@ -357,7 +364,6 @@
         }
       },
       "trading": {
-        "2108224361476076011": true,
         "2108224883108790436": true,
         "2108267578745606649": true,
         "2108275708770333103": true,
@@ -391,7 +397,8 @@
         "2108965025444688007": false,
         "2108966186616820104": false,
         "2108976473554264501": false,
-        "2108976727443513849": false
+        "2108976727443513849": false,
+        "2108981238375546919": false
       },
       "user_id": "1446541960181858315"
     },
@@ -1505,7 +1512,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108969858058932457",
+      "last_id": "2108981226212348260",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1717,15 +1724,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-10T15:06:29.000Z",
-          "id": "2108937215929647168",
-          "images": [
-            "https://pbs.twimg.com/tweet_video_thumb/HURzNXNaAAA_YTZ.jpg"
-          ],
-          "reply_to_id": "2108935283421094311",
-          "text": "@0xRiver8 https://t.co/PexSatVJR4"
-        },
-        {
           "created_at": "2026-10-10T15:08:15.000Z",
           "id": "2108937660824002680",
           "images": [
@@ -1814,6 +1812,12 @@
           "id": "2108969858058932457",
           "reply_to_id": "2108952366523564095",
           "text": "@ToyoItori @Credib1eGuy \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f"
+        },
+        {
+          "created_at": "2026-10-10T18:01:21.000Z",
+          "id": "2108981226212348260",
+          "reply_to_id": "2108973219302772787",
+          "text": "@blknoiz06 crazy work"
         }
       ],
       "threads": {
@@ -2076,7 +2080,6 @@
         "2108929562478531012": true,
         "2108933002864861656": true,
         "2108934824933359978": true,
-        "2108937215929647168": false,
         "2108937660824002680": false,
         "2108941373185696019": false,
         "2108941654908625014": true,
@@ -2098,7 +2101,8 @@
         "2108963673700172274": false,
         "2108963734551220353": true,
         "2108967595663921456": false,
-        "2108969858058932457": false
+        "2108969858058932457": false,
+        "2108981226212348260": false
       },
       "user_id": "1653080265294757890"
     },
@@ -3251,5 +3255,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T17:48:21+00:00"
+  "updated_at": "2026-10-10T18:02:20+00:00"
 }
