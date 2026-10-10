@@ -1428,7 +1428,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108889567835169278",
+      "last_id": "2108900955106467873",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1478,30 +1478,21 @@
         "STRK": {
           "asset": "STRK",
           "chain": "",
-          "confidence": 0.9,
+          "confidence": 0.95,
           "contract_address": "",
           "direction": "long",
-          "entry": "",
-          "horizon": "",
+          "entry": "~0.0718",
+          "horizon": "near term (into Anthropic/OpenAI IPO schedule)",
           "market": "crypto",
           "open_price": null,
-          "post_id": "2108569245093417100",
-          "reason": "\"been averaging on the way up $STRK\" says they are adding to their existing STRK long; the chart is STRKUSDT on Binance, near 0.069-0.073.",
+          "post_id": "2108900955106467873",
+          "reason": "\"added more low lev / spot $strk\" adds to the existing STRK long. The chart shows STRKUSDT on Binance at 0.07183.",
           "since": "2026-10-08T11:25:45.000Z",
-          "structure": "unknown",
-          "url": "https://x.com/MoneyPrinter0x/status/2108569245093417100"
+          "structure": "spot and low-leverage perp",
+          "url": "https://x.com/MoneyPrinter0x/status/2108900955106467873"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T04:49:06.000Z",
-          "id": "2108419458947817696",
-          "images": [
-            "https://pbs.twimg.com/media/HUKcUexaMAAgRHx.jpg"
-          ],
-          "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
-          "text": "Moneyprinter Mode. https://t.co/Bb95PWYAJR https://t.co/birrKDo6ue"
-        },
         {
           "created_at": "2026-10-09T07:56:54.000Z",
           "id": "2108466723259392012",
@@ -1611,10 +1602,18 @@
           "id": "2108886690396029389",
           "quoted_text": "to be honest in the beginning i used agents a lot but nowadays theyre more like tools to deploy in a broader system more than for raw agent-led alpha discovery \n\nhave not made edu content yet - atm markets & building seems to be most fun but open to the idea.. though i think i still have a lot to learn before i deserve to do such a thing, haha\n\nmitigating downside -> really depends on the rest of your book, complex books factor hedging is a must, but to be realistic i think most can/should consi",
           "text": "most would benefit more from having a standardized framework / system re: capital management\n\nit doesnt have to be complicated. you can start from realistic steps https://t.co/3HKGPVb1BV"
+        },
+        {
+          "created_at": "2026-10-10T12:42:23.000Z",
+          "id": "2108900955106467873",
+          "images": [
+            "https://pbs.twimg.com/media/HURSPUSawAE5n9g.jpg"
+          ],
+          "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
+          "text": "added more low lev / spot $strk\n\nflow looks like there's very healthy accumulation going on atm\n\nsector leader of one of the main & rapidly growing - if not the fastest growing - sectors this cycle shouldnt be 700m fdv imo\n\nespecially when its in direct confluence w/ anth & OAI ipo schedule in the immediate-to-near term"
         }
       ],
       "reads": {
-        "2108419458947817696": "TRADE LONG STRK",
         "2108466723259392012": "No call",
         "2108467127783154171": "VIEW bullish on btc",
         "2108470411361178094": "No call",
@@ -1633,7 +1632,8 @@
         "2108578329574133898": "No call",
         "2108596603766657452": "No call: bullish on STRK (same view as before)",
         "2108845453978882514": "No call",
-        "2108886690396029389": "No call"
+        "2108886690396029389": "No call",
+        "2108900955106467873": "TRADE LONG STRK"
       },
       "replies": [
         {
@@ -1884,10 +1884,15 @@
         "2108886690396029389": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2108900955106467873": {
+          "alerted": [
+            "trade:STRK:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108419458947817696": true,
         "2108466723259392012": true,
         "2108467127783154171": true,
         "2108470411361178094": false,
@@ -1921,7 +1926,8 @@
         "2108845568168792279": true,
         "2108881613392400577": false,
         "2108886690396029389": true,
-        "2108889567835169278": false
+        "2108889567835169278": false,
+        "2108900955106467873": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3053,5 +3059,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-10T12:42:18+00:00"
+  "updated_at": "2026-10-10T12:44:21+00:00"
 }
