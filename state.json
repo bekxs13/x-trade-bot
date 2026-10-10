@@ -1385,7 +1385,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2108803213898272778",
+      "last_id": "2108815415979991253",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1598,12 +1598,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-09T13:12:16.000Z",
-          "id": "2108546087221125578",
-          "reply_to_id": "2108545667933131023",
-          "text": "@bigpaulie115 @wulftrades @GiganticRebirth @HsakaTrades @blknoiz06 sol cycle bottom, coin, hood all with thesis"
-        },
-        {
           "created_at": "2026-10-09T13:23:44.000Z",
           "id": "2108548969962115421",
           "reply_to_id": "2108547835495157990",
@@ -1686,6 +1680,12 @@
           "id": "2108803213898272778",
           "reply_to_id": "2108607674246164897",
           "text": "@unusual_whales catastrophic for their term sheets maybe"
+        },
+        {
+          "created_at": "2026-10-10T07:02:29.000Z",
+          "id": "2108815415979991253",
+          "reply_to_id": "2108702919943991451",
+          "text": "@0xdoug least boilerplate n nicer to maintain tbh"
         }
       ],
       "threads": {
@@ -1857,7 +1857,6 @@
         "2108510657201279308": true,
         "2108511782201708573": true,
         "2108512022623383969": true,
-        "2108546087221125578": true,
         "2108548969962115421": true,
         "2108569245093417100": true,
         "2108572562448154759": false,
@@ -1874,7 +1873,8 @@
         "2108609061642211626": true,
         "2108746539812454855": false,
         "2108753841126793236": false,
-        "2108803213898272778": false
+        "2108803213898272778": false,
+        "2108815415979991253": false
       },
       "user_id": "1653080265294757890"
     },
@@ -3006,5 +3006,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-09",
-  "updated_at": "2026-10-10T06:14:19+00:00"
+  "updated_at": "2026-10-10T07:04:17+00:00"
 }
