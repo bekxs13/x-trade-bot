@@ -476,7 +476,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2109188850966757704",
+      "last_id": "2109258057075351629",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -496,14 +496,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T02:04:34.000Z",
-          "id": "2108378051985985755",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2108377806828883969/img/t0nps0AsO6pnoZv3.jpg"
-          ],
-          "text": "one of the more under-discussed developments this cycle is how competitive SOL is becoming with centralized exchanges\n\nwith platforms like Sunrise and Backpack expanding access to crypto assets and tokenized stocks, more spot trading activity can move directly onchain\n\nSolana's low fees and fast execution make it possible to build trading infrastructure that can compete with centralized venues, sometimes even offering better spreads\n\ni'm also keeping an eye on Wormhole, which plays an important role in cross-chain infrastructure and looks interesting after such a significant drawdown\n\nhaven't bought any yet, but it's worth watching as tokenized assets continue gaining traction on SOL"
-        },
         {
           "created_at": "2026-10-09T02:13:40.000Z",
           "id": "2108380342608712030",
@@ -633,10 +625,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2109188625309310976/img/Mjl6KD2aIfLmuza2.jpg"
           ],
           "text": "i believe the strongest communities in crypto are built around relationships that can survive price volatility\n\n$ANSEM is an interesting example of that thesis playing out\n\ni've spent years building relationships with people through trading, sharing ideas and being active onchain\n\nas social trading grows, i expect attention, reputation and community loyalty to become increasingly important drivers of value"
+        },
+        {
+          "created_at": "2026-10-11T12:21:23.000Z",
+          "id": "2109258057075351629",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2109257736475316224/img/WU9JV95J4iAKPWaD.jpg"
+          ],
+          "text": "one of the biggest lessons i've learned trading crypto is that catching the right rotation means very little if you give all the gains back\n\nin 2017, i made significant profits trading alts but round-tripped a lot of them\n\nby 2020-21, i'd gotten much better at identifying narratives early, rotating between SOL, LUNA and AVAX, and compounding gains across different trades\n\ni believe finding opportunities early and knowing when to take profits are equally important skills"
         }
       ],
       "reads": {
-        "2108378051985985755": "VIEW bullish on sol",
         "2108380342608712030": "TRADE LONG BTC",
         "2108380821682065433": "No call",
         "2108381006973817054": "No call",
@@ -655,7 +654,8 @@
         "2108977096584462564": "No call",
         "2108977620604055751": "No call",
         "2109146373966925827": "No call",
-        "2109188850966757704": "No call: bullish on ANSEM (65%, too unsure)"
+        "2109188850966757704": "No call: bullish on ANSEM (65%, too unsure)",
+        "2109258057075351629": "No call"
       },
       "replies": [
         {
@@ -909,10 +909,13 @@
         "2109188850966757704": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109258057075351629": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108378051985985755": true,
         "2108380342608712030": true,
         "2108380821682065433": true,
         "2108381006973817054": true,
@@ -946,7 +949,8 @@
         "2108977096584462564": true,
         "2108977620604055751": true,
         "2109146373966925827": false,
-        "2109188850966757704": true
+        "2109188850966757704": true,
+        "2109258057075351629": true
       },
       "user_id": "973261472"
     },
@@ -3356,5 +3360,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-11T12:14:18+00:00"
+  "updated_at": "2026-10-11T12:22:21+00:00"
 }
