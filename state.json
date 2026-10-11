@@ -21,7 +21,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2109151545187332511",
+      "last_id": "2109158927502094781",
       "positions": {},
       "posts": [
         {
@@ -168,12 +168,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-09T14:40:35.000Z",
-          "id": "2108568310761594997",
-          "reply_to_id": "2108567821558878509",
-          "text": "@kling00000 By the time u can articulate the story ur counterparty is trading they\u2019re getting rekt the other way"
-        },
-        {
           "created_at": "2026-10-09T16:01:39.000Z",
           "id": "2108588713567744394",
           "reply_to_id": "2108586358864564382",
@@ -265,6 +259,12 @@
           "id": "2109141535380152442",
           "reply_to_id": "2108857570710716911",
           "text": "@jaxksaw 74 would work"
+        },
+        {
+          "created_at": "2026-10-11T05:47:29.000Z",
+          "id": "2109158927502094781",
+          "reply_to_id": "2109157570862788765",
+          "text": "@wolfofshelby @justachillelite Fairs.."
         }
       ],
       "threads": {
@@ -402,7 +402,6 @@
         }
       },
       "trading": {
-        "2108568310761594997": true,
         "2108588713567744394": true,
         "2108589553397469263": false,
         "2108629710317969520": false,
@@ -436,7 +435,8 @@
         "2109138910492438792": false,
         "2109140041129959671": false,
         "2109141535380152442": false,
-        "2109151545187332511": false
+        "2109151545187332511": false,
+        "2109158927502094781": false
       },
       "user_id": "1446541960181858315"
     },
@@ -3344,5 +3344,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-10",
-  "updated_at": "2026-10-11T05:18:26+00:00"
+  "updated_at": "2026-10-11T05:48:15+00:00"
 }
