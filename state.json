@@ -1593,7 +1593,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109311731545870588",
+      "last_id": "2109312317779558892",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1658,15 +1658,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T16:09:10.000Z",
-          "id": "2108952993479766128",
-          "images": [
-            "https://pbs.twimg.com/media/HUSBkcObAAEvwu4.jpg"
-          ],
-          "quoted_text": "added more low lev / spot $strk\n\nflow looks like there's very healthy accumulation going on atm\n\nsector leader of one of the main & rapidly growing - if not the fastest growing - sectors this cycle shouldnt be 700m fdv imo\n\nespecially when its in direct confluence w/ anth & OAI ipo schedule in the immediate-to-near term",
-          "text": "https://t.co/lHPVkh5d7x https://t.co/OScbqWVP8g"
-        },
         {
           "created_at": "2026-10-10T16:17:21.000Z",
           "id": "2108955051570114834",
@@ -1801,10 +1792,18 @@
           "id": "2109305791962558742",
           "reply_to_id": "2109304815138562548",
           "text": "*i meant bought more $strk at 0.116, not 0.0116 lol"
+        },
+        {
+          "created_at": "2026-10-11T15:57:00.000Z",
+          "id": "2109312317779558892",
+          "images": [
+            "https://pbs.twimg.com/tweet_video_thumb/HUXIW4CaYAAObFM.jpg"
+          ],
+          "quoted_text": "jarvis, liquidate the shorts.\n\nThe Hated Cryptography Rally.\n\n$STRK https://t.co/1fYOt63R1d https://t.co/birrKDo6ue",
+          "text": "jarvis.. https://t.co/vEpU6s40Bu https://t.co/HcpJvmkARE"
         }
       ],
       "reads": {
-        "2108952993479766128": "TRADE LONG STRK",
         "2108955051570114834": "No call",
         "2108960235037835666": "TRADE LONG STRK",
         "2108960586424009160": "TRADE LONG STRK",
@@ -1823,7 +1822,8 @@
         "2109271798634385669": "No call",
         "2109304195367272829": "TRADE LONG STRK",
         "2109304815138562548": "TRADE LONG STRK",
-        "2109305791962558742": "No call"
+        "2109305791962558742": "No call",
+        "2109312317779558892": "No call"
       },
       "replies": [
         {
@@ -2214,10 +2214,13 @@
             "trade:STRK:long"
           ],
           "self_replies": 1
+        },
+        "2109312317779558892": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108952993479766128": true,
         "2108955051570114834": false,
         "2108960235037835666": true,
         "2108960586424009160": true,
@@ -2251,7 +2254,8 @@
         "2109309477967286474": false,
         "2109309515825041755": false,
         "2109310291494478333": true,
-        "2109311731545870588": false
+        "2109311731545870588": false,
+        "2109312317779558892": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3431,5 +3435,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-11T15:56:17+00:00"
+  "updated_at": "2026-10-11T15:58:23+00:00"
 }
