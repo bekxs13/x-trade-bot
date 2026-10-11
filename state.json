@@ -1542,12 +1542,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2109254892682686718",
-          "reason": "\"Big cycle ahead of us\" after a run of \"hated cryptography rally\" posts reads as bullish on crypto, matching the recorded bullish crypto market view.",
+          "post_id": "2109258245022138455",
+          "reason": "\"New dawn\" quoting \"4 months away from a new dawn in the cryptocurrency industry\" endorses a bullish crypto outlook, matching the recorded bullish view.",
           "scope": "crypto market",
           "since": "2026-10-10",
           "stance": "bullish",
-          "updated_at": "2026-10-11T12:08:49.000Z"
+          "updated_at": "2026-10-11T12:22:08.000Z"
         },
         "stocks/macro": {
           "market": "macro",
@@ -1570,7 +1570,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109255819640643634",
+      "last_id": "2109258245022138455",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1635,15 +1635,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T14:21:46.000Z",
-          "id": "2108925965778972962",
-          "images": [
-            "https://pbs.twimg.com/media/HURo_NJbwAAF5r-.jpg"
-          ],
-          "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
-          "text": "Moneyprinter Mode.\n\n$STRK https://t.co/jqWmm44zp6 https://t.co/birrKDo6ue"
-        },
         {
           "created_at": "2026-10-10T14:27:44.000Z",
           "id": "2108927466358321652",
@@ -1774,10 +1765,15 @@
           "created_at": "2026-10-11T12:08:49.000Z",
           "id": "2109254892682686718",
           "text": "Big cycle ahead of us"
+        },
+        {
+          "created_at": "2026-10-11T12:22:08.000Z",
+          "id": "2109258245022138455",
+          "quoted_text": "we are 4 months away from a new dawn in the cryptocurrency industry.",
+          "text": "New dawn https://t.co/jQoYg8uAof"
         }
       ],
       "reads": {
-        "2108925965778972962": "TRADE LONG STRK",
         "2108927466358321652": "No call",
         "2108929562478531012": "No call: bullish on STRK (same view as before)",
         "2108933002864861656": "No call",
@@ -1796,7 +1792,8 @@
         "2109046732403495217": "No call",
         "2109047125938208858": "No call",
         "2109146497195667885": "No call",
-        "2109254892682686718": "No call: bullish on crypto market (same view as before)"
+        "2109254892682686718": "No call: bullish on crypto market (same view as before)",
+        "2109258245022138455": "No call: bullish on crypto market (same view as before)"
       },
       "replies": [
         {
@@ -2169,10 +2166,13 @@
         "2109254892682686718": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109258245022138455": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108925965778972962": true,
         "2108927466358321652": false,
         "2108929562478531012": true,
         "2108933002864861656": true,
@@ -2206,7 +2206,8 @@
         "2109147752500531373": false,
         "2109151564980208039": false,
         "2109254892682686718": true,
-        "2109255819640643634": false
+        "2109255819640643634": false,
+        "2109258245022138455": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3360,5 +3361,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-11T12:22:21+00:00"
+  "updated_at": "2026-10-11T12:24:20+00:00"
 }
