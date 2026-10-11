@@ -449,6 +449,15 @@
     "blknoiz06": {
       "backfilled": true,
       "biases": {
+        "alts": {
+          "market": "crypto",
+          "post_id": "2109417992740343814",
+          "reason": "States 'Q4 will be the best quarter for crypto alts in a very long time' and says people with bear ptsd can't see what's coming.",
+          "scope": "alts",
+          "since": "2026-10-11",
+          "stance": "bullish",
+          "updated_at": "2026-10-11T22:56:55.000Z"
+        },
         "btc": {
           "market": "crypto",
           "post_id": "2108371977291636754",
@@ -479,7 +488,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2109288381767462951",
+      "last_id": "2109417992740343814",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -515,11 +524,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T02:15:34.000Z",
-          "id": "2108380821682065433",
-          "text": "who is hosting the papertrade 1000x live trading comp and can i get an invite"
-        },
         {
           "created_at": "2026-10-09T02:16:18.000Z",
           "id": "2108381006973817054",
@@ -653,10 +657,14 @@
           ],
           "quoted_text": "one thing i find interesting about Grass is the growing importance of data infrastructure as AI scales\n\nAI labs need massive amounts of data, but accessing public web data is becoming increasingly difficult\n\nGrass uses a distributed network of internet connections to help collect that data and make it available to AI companies\n\ni believe access to high-quality data will become an increasingly important competitive advantage in AI, which makes this an interesting area to follow",
           "text": "smash this for Q4, many dont understand what Grass is or their position in the market\n\nhttps://t.co/btd5jX5piP\n\nhttps://t.co/lzSqmi36cg https://t.co/j7CE4hvYGT"
+        },
+        {
+          "created_at": "2026-10-11T22:56:55.000Z",
+          "id": "2109417992740343814",
+          "text": "people still have so much bear ptsd that they can't even see what's coming\n\nQ4 will be the best quarter for crypto alts in a very long time"
         }
       ],
       "reads": {
-        "2108380821682065433": "No call",
         "2108381006973817054": "No call",
         "2108405452770066463": "No call: bullish on ZEC (55%, too unsure)",
         "2108424862570361285": "No call",
@@ -675,7 +683,8 @@
         "2109146373966925827": "No call",
         "2109188850966757704": "No call: bullish on ANSEM (65%, too unsure)",
         "2109258057075351629": "No call",
-        "2109288381767462951": "TRADE LONG GRASS"
+        "2109288381767462951": "TRADE LONG GRASS",
+        "2109417992740343814": "VIEW bullish on alts"
       },
       "replies": [
         {
@@ -939,10 +948,15 @@
             "trade:GRASS:long"
           ],
           "self_replies": 0
+        },
+        "2109417992740343814": {
+          "alerted": [
+            "bias:alts:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108380821682065433": true,
         "2108381006973817054": true,
         "2108405452770066463": true,
         "2108420340925751675": false,
@@ -976,7 +990,8 @@
         "2109146373966925827": false,
         "2109188850966757704": true,
         "2109258057075351629": true,
-        "2109288381767462951": true
+        "2109288381767462951": true,
+        "2109417992740343814": true
       },
       "user_id": "973261472"
     },
@@ -3444,5 +3459,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-11T22:22:20+00:00"
+  "updated_at": "2026-10-11T22:58:24+00:00"
 }
