@@ -1593,7 +1593,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109273467766092023",
+      "last_id": "2109289093964476540",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1819,12 +1819,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-10T19:20:37.000Z",
-          "id": "2109001174389309576",
-          "reply_to_id": "2108954630445297783",
-          "text": "@0xMensa @divotends_ @Credib1eGuy hard disagree, i followed him for a long time his stuff is very respectable\n\ni like his stuff"
-        },
-        {
           "created_at": "2026-10-10T19:21:38.000Z",
           "id": "2109001426294943972",
           "reply_to_id": "2108952800730190218",
@@ -1913,6 +1907,12 @@
           "id": "2109273467766092023",
           "reply_to_id": "2109273130711605554",
           "text": "@krybharat \ud83d\udd25"
+        },
+        {
+          "created_at": "2026-10-11T14:24:43.000Z",
+          "id": "2109289093964476540",
+          "reply_to_id": "2109278181219762591",
+          "text": "@aibaldking @solangelestv would be an honor! \ud83e\udee1"
         }
       ],
       "threads": {
@@ -2215,7 +2215,6 @@
         "2108967595663921456": false,
         "2108988940653076661": true,
         "2108989887022285149": true,
-        "2109001174389309576": false,
         "2109001426294943972": false,
         "2109001907188728315": true,
         "2109003305062207950": false,
@@ -2237,7 +2236,8 @@
         "2109267884983845150": true,
         "2109271798634385669": false,
         "2109272519052341398": false,
-        "2109273467766092023": false
+        "2109273467766092023": false,
+        "2109289093964476540": false
       },
       "user_id": "1653080265294757890"
     },
@@ -2904,7 +2904,7 @@
       "biases": {},
       "closed": [],
       "handle": "thecryptonexus",
-      "last_id": "2109194969650979273",
+      "last_id": "2109289019242868954",
       "positions": {
         "FREN PET (FP)": {
           "asset": "Fren Pet (FP)",
@@ -2962,6 +2962,14 @@
           "created_at": "2026-10-07T18:12:33.000Z",
           "id": "2107896878436077724",
           "text": "Mkts nuking on quantum fud, scary fed, rates ahhh!! war(!!!) 10y bond yields!!!!! \n\n366 days since-\n\nIt\u2019s so over\n\nBetter sell everything https://t.co/2SXXjo1FiN"
+        },
+        {
+          "created_at": "2026-10-11T14:24:25.000Z",
+          "id": "2109289019242868954",
+          "images": [
+            "https://pbs.twimg.com/media/HUWzKHWWsAAvNK5.jpg"
+          ],
+          "text": "Go birdss https://t.co/dcVX8uK9Ma"
         }
       ],
       "reads": {
@@ -2969,7 +2977,8 @@
         "2107277220171669870": "TRADE LONG FREN PET (FP)",
         "2107288860699099415": "No call",
         "2107333331968835746": "TRADE LONG HYPE",
-        "2107896878436077724": "No call"
+        "2107896878436077724": "No call",
+        "2109289019242868954": "No call"
       },
       "replies": [
         {
@@ -3099,6 +3108,10 @@
         "2107896878436077724": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109289019242868954": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -3121,7 +3134,8 @@
         "2108463994940035561": false,
         "2108472086935052501": false,
         "2108473468115144744": false,
-        "2109194969650979273": false
+        "2109194969650979273": false,
+        "2109289019242868954": false
       },
       "user_id": "1392152416854765571"
     },
@@ -3391,5 +3405,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-11T14:22:21+00:00"
+  "updated_at": "2026-10-11T14:26:23+00:00"
 }
