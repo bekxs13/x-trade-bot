@@ -1593,7 +1593,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109303424701653132",
+      "last_id": "2109304195367272829",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1642,28 +1642,22 @@
         },
         "STRK": {
           "asset": "STRK",
-          "chain": "eth",
-          "confidence": 0.75,
-          "contract_address": "0xb39C8A5Dd737D0985BFEBA879f3d3c506d60F08e",
+          "chain": "",
+          "confidence": 0.92,
+          "contract_address": "",
           "direction": "long",
-          "entry": "",
+          "entry": "0.115",
           "horizon": "",
           "market": "crypto",
           "open_price": null,
-          "post_id": "2108963734551220353",
-          "reason": "\"kingmaker mode. $strk\" is a hype post on STRK, which he holds long on record and recently said he bought more of and has an avg entry. This reads as a restatement of the existing long.",
+          "post_id": "2109304195367272829",
+          "reason": "\"bought more $strk at .0115\" is an add to the existing STRK long; chart shows STRKUSDT around 0.1167, so .0115 likely means 0.115.",
           "since": "2026-10-08T11:25:45.000Z",
           "structure": "spot",
-          "url": "https://x.com/MoneyPrinter0x/status/2108963734551220353"
+          "url": "https://x.com/MoneyPrinter0x/status/2109304195367272829"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T14:49:44.000Z",
-          "id": "2108933002864861656",
-          "quoted_text": "> called the biggest stock pump in all 100 years of hk market history with thesis\n\n> called the largest qqq crash of the quarter two days it happened with thesis\n\n> called the largest memory -> robotics rotation the day before it happened with thesis\n\n> called the biggest qnx rotation two days before it happened with thesis\n\n> called the financially engineered btc bond wrapper bottom with thesis\n\n> called the exact largest macro oil crash week the day before it happened with thesis\n\nno fundament",
-          "text": "nothing beats being at the right place,\n\nat the right time.\n\nKingmaker.\n\nMoneyPrinter0x. https://t.co/GIQ4cZkHAK"
-        },
         {
           "created_at": "2026-10-10T14:56:59.000Z",
           "id": "2108934824933359978",
@@ -1793,10 +1787,18 @@
           "created_at": "2026-10-11T13:15:59.000Z",
           "id": "2109271798634385669",
           "text": "prolly talk more on current positions on monday\n\ngonna rest today, happy Sunday bros"
+        },
+        {
+          "created_at": "2026-10-11T15:24:43.000Z",
+          "id": "2109304195367272829",
+          "images": [
+            "https://pbs.twimg.com/media/HUXA_AAbcAAuDjR.jpg"
+          ],
+          "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
+          "text": "for now though \n\nbought more $strk at .0115 before the week starts https://t.co/NFYvmtzBRY https://t.co/birrKDo6ue"
         }
       ],
       "reads": {
-        "2108933002864861656": "No call",
         "2108934824933359978": "VIEW bullish on crypto market",
         "2108948592237097100": "TRADE LONG STRK",
         "2108952993479766128": "TRADE LONG STRK",
@@ -1815,7 +1817,8 @@
         "2109254892682686718": "No call: bullish on crypto market (same view as before)",
         "2109258245022138455": "No call: bullish on crypto market (same view as before)",
         "2109267884983845150": "No call: bullish on hyperevm (55%, too unsure)",
-        "2109271798634385669": "No call"
+        "2109271798634385669": "No call",
+        "2109304195367272829": "TRADE LONG STRK"
       },
       "replies": [
         {
@@ -2197,10 +2200,15 @@
         "2109271798634385669": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109304195367272829": {
+          "alerted": [
+            "trade:STRK:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108933002864861656": true,
         "2108934824933359978": true,
         "2108948592237097100": true,
         "2108952993479766128": true,
@@ -2234,7 +2242,8 @@
         "2109289593887690964": false,
         "2109289681263395090": false,
         "2109289839883690387": false,
-        "2109303424701653132": false
+        "2109303424701653132": false,
+        "2109304195367272829": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3414,5 +3423,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-11T15:22:17+00:00"
+  "updated_at": "2026-10-11T15:26:24+00:00"
 }
