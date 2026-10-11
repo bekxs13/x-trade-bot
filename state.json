@@ -1593,7 +1593,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109312317779558892",
+      "last_id": "2109317895742513278",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1658,13 +1658,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T16:17:21.000Z",
-          "id": "2108955051570114834",
-          "quoted_text": "@divotends_ @Credib1eGuy nono Guy is a really cool dude, i very often follow his read on things",
-          "reply_to_id": "2108948592237097100",
-          "text": "https://t.co/Hd5XIGZyWr"
-        },
         {
           "created_at": "2026-10-10T16:37:57.000Z",
           "id": "2108960235037835666",
@@ -1801,10 +1794,15 @@
           ],
           "quoted_text": "jarvis, liquidate the shorts.\n\nThe Hated Cryptography Rally.\n\n$STRK https://t.co/1fYOt63R1d https://t.co/birrKDo6ue",
           "text": "jarvis.. https://t.co/vEpU6s40Bu https://t.co/HcpJvmkARE"
+        },
+        {
+          "created_at": "2026-10-11T16:19:10.000Z",
+          "id": "2109317895742513278",
+          "reply_to_id": "2109304815138562548",
+          "text": "note: flat oi denominated in strk not dollars"
         }
       ],
       "reads": {
-        "2108955051570114834": "No call",
         "2108960235037835666": "TRADE LONG STRK",
         "2108960586424009160": "TRADE LONG STRK",
         "2108963673700172274": "No call",
@@ -2221,7 +2219,6 @@
         }
       },
       "trading": {
-        "2108955051570114834": false,
         "2108960235037835666": true,
         "2108960586424009160": true,
         "2108963673700172274": false,
@@ -2255,7 +2252,8 @@
         "2109309515825041755": false,
         "2109310291494478333": true,
         "2109311731545870588": false,
-        "2109312317779558892": true
+        "2109312317779558892": true,
+        "2109317895742513278": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3439,5 +3437,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-11T16:18:15+00:00"
+  "updated_at": "2026-10-11T16:20:19+00:00"
 }
