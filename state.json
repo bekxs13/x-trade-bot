@@ -476,7 +476,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2109258057075351629",
+      "last_id": "2109288381767462951",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -493,17 +493,25 @@
           "since": "2026-10-09T02:13:40.000Z",
           "structure": "unknown",
           "url": "https://x.com/blknoiz06/status/2108380342608712030"
+        },
+        "GRASS": {
+          "asset": "GRASS",
+          "chain": "solana",
+          "confidence": 0.72,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "Q4",
+          "market": "crypto",
+          "open_price": null,
+          "post_id": "2109288381767462951",
+          "reason": "\"smash this for Q4\" with a GRASSUSDT chart showing a breakout above the 0.62-0.64 range is a clear long call; no explicit position disclosure, though he is likely in.",
+          "since": "2026-10-11T14:21:53.000Z",
+          "structure": "spot",
+          "url": "https://x.com/blknoiz06/status/2109288381767462951"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T02:13:40.000Z",
-          "id": "2108380342608712030",
-          "images": [
-            "https://pbs.twimg.com/media/HUJ4rKKaAAAXQSn.jpg"
-          ],
-          "text": "long $BTC \n\nentry: $82k\nstop: $74.6k\ntarget: ATHs https://t.co/nm039lKNjv"
-        },
         {
           "created_at": "2026-10-09T02:15:34.000Z",
           "id": "2108380821682065433",
@@ -633,10 +641,18 @@
             "https://pbs.twimg.com/amplify_video_thumb/2109257736475316224/img/WU9JV95J4iAKPWaD.jpg"
           ],
           "text": "one of the biggest lessons i've learned trading crypto is that catching the right rotation means very little if you give all the gains back\n\nin 2017, i made significant profits trading alts but round-tripped a lot of them\n\nby 2020-21, i'd gotten much better at identifying narratives early, rotating between SOL, LUNA and AVAX, and compounding gains across different trades\n\ni believe finding opportunities early and knowing when to take profits are equally important skills"
+        },
+        {
+          "created_at": "2026-10-11T14:21:53.000Z",
+          "id": "2109288381767462951",
+          "images": [
+            "https://pbs.twimg.com/media/HUWyQxPaAAA0nsY.jpg"
+          ],
+          "quoted_text": "one thing i find interesting about Grass is the growing importance of data infrastructure as AI scales\n\nAI labs need massive amounts of data, but accessing public web data is becoming increasingly difficult\n\nGrass uses a distributed network of internet connections to help collect that data and make it available to AI companies\n\ni believe access to high-quality data will become an increasingly important competitive advantage in AI, which makes this an interesting area to follow",
+          "text": "smash this for Q4, many dont understand what Grass is or their position in the market\n\nhttps://t.co/btd5jX5piP\n\nhttps://t.co/lzSqmi36cg https://t.co/j7CE4hvYGT"
         }
       ],
       "reads": {
-        "2108380342608712030": "TRADE LONG BTC",
         "2108380821682065433": "No call",
         "2108381006973817054": "No call",
         "2108405452770066463": "No call: bullish on ZEC (55%, too unsure)",
@@ -655,7 +671,8 @@
         "2108977620604055751": "No call",
         "2109146373966925827": "No call",
         "2109188850966757704": "No call: bullish on ANSEM (65%, too unsure)",
-        "2109258057075351629": "No call"
+        "2109258057075351629": "No call",
+        "2109288381767462951": "TRADE LONG GRASS"
       },
       "replies": [
         {
@@ -913,10 +930,15 @@
         "2109258057075351629": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109288381767462951": {
+          "alerted": [
+            "trade:GRASS:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108380342608712030": true,
         "2108380821682065433": true,
         "2108381006973817054": true,
         "2108405452770066463": true,
@@ -950,7 +972,8 @@
         "2108977620604055751": true,
         "2109146373966925827": false,
         "2109188850966757704": true,
-        "2109258057075351629": true
+        "2109258057075351629": true,
+        "2109288381767462951": true
       },
       "user_id": "973261472"
     },
@@ -3368,5 +3391,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-11T13:24:17+00:00"
+  "updated_at": "2026-10-11T14:22:21+00:00"
 }
