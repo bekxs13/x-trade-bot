@@ -451,12 +451,12 @@
       "biases": {
         "alts": {
           "market": "crypto",
-          "post_id": "2109417992740343814",
-          "reason": "States 'Q4 will be the best quarter for crypto alts in a very long time' and says people with bear ptsd can't see what's coming.",
+          "post_id": "2109420927427789123",
+          "reason": "'alt szn' quoting a dino coins rotation post matches his earlier bullish alts view for Q4.",
           "scope": "alts",
           "since": "2026-10-11",
           "stance": "bullish",
-          "updated_at": "2026-10-11T22:56:55.000Z"
+          "updated_at": "2026-10-11T23:08:34.000Z"
         },
         "btc": {
           "market": "crypto",
@@ -488,7 +488,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2109417992740343814",
+      "last_id": "2109420927427789123",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -524,12 +524,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T02:16:18.000Z",
-          "id": "2108381006973817054",
-          "quoted_text": "papertrade pre-deposits are live!\n\nhttps://t.co/AdIx336QsD\n\nin order to avoid the launch trading congestion, deposit during the next two days to secure your spot at the starting line. once trading begins, account creation/deposits will be heavily deprioritized.\n\nno need to rush - there is no advantage to depositing earlier during this period.\n\nwhen on 10.10 will papertrade go live?\n\nlive trading will begin approximately one hour after the expected hyperevm network upgrade on 10.10. the exact upg",
-          "text": "believe it will be very +EV to deposit some capital here and trade on this starting tomorrow\n\nread the docs &amp; you will understand why https://t.co/7B8tGUvBey"
-        },
         {
           "created_at": "2026-10-09T03:53:26.000Z",
           "id": "2108405452770066463",
@@ -662,10 +656,15 @@
           "created_at": "2026-10-11T22:56:55.000Z",
           "id": "2109417992740343814",
           "text": "people still have so much bear ptsd that they can't even see what's coming\n\nQ4 will be the best quarter for crypto alts in a very long time"
+        },
+        {
+          "created_at": "2026-10-11T23:08:34.000Z",
+          "id": "2109420927427789123",
+          "quoted_text": "the return to dino coins trend is prob just rediscovery of old vintage projects from a time when crypto actually tried to do things (relative to now) and prior to brain drain to AI/tech (rightly so tbh)\n\ncryptography, quantum resistance, cross chain protocols, defi, tokenization, etc\n\nlots of junk back then also. but post 2021 environment for crypto has really just been a slew of projects that are rehashes of existing ideas (but now on chain x!) or just plain low effort; many exceptions ofc but ",
+          "text": "alt szn https://t.co/4KvGCx07zx"
         }
       ],
       "reads": {
-        "2108381006973817054": "No call",
         "2108405452770066463": "No call: bullish on ZEC (55%, too unsure)",
         "2108424862570361285": "No call",
         "2108443167758364916": "No call",
@@ -684,7 +683,8 @@
         "2109188850966757704": "No call: bullish on ANSEM (65%, too unsure)",
         "2109258057075351629": "No call",
         "2109288381767462951": "TRADE LONG GRASS",
-        "2109417992740343814": "VIEW bullish on alts"
+        "2109417992740343814": "VIEW bullish on alts",
+        "2109420927427789123": "No call: bullish on alts (same view as before)"
       },
       "replies": [
         {
@@ -954,10 +954,13 @@
             "bias:alts:bullish"
           ],
           "self_replies": 0
+        },
+        "2109420927427789123": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108381006973817054": true,
         "2108405452770066463": true,
         "2108420340925751675": false,
         "2108424862570361285": true,
@@ -991,7 +994,8 @@
         "2109188850966757704": true,
         "2109258057075351629": true,
         "2109288381767462951": true,
-        "2109417992740343814": true
+        "2109417992740343814": true,
+        "2109420927427789123": true
       },
       "user_id": "973261472"
     },
@@ -1278,7 +1282,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2109420420235739258",
+      "last_id": "2109420829926953299",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1383,6 +1387,12 @@
           "quoted_text": "I\u2019m just selling equities and mostly sidelined crypto with what I haven\u2019t offramped, am waiting for free plays that take 0 effort, besides that yeah just burn it all down and let me buy lower I\u2019d be very happy",
           "reply_to_id": "2108681575479316576",
           "text": "@broccolierabe @0xchartistic @btcbongo I mean legitimately what are we really talking about. I can and have openly acknowledged how I\u2019ve misplayed tradfi this past year in various ways and I\u2019ve been very critical of myself for that. \n\nI don\u2019t think I\u2019ve misplayed crypto markets in the slightest https://t.co/YNfJV9zq1l"
+        },
+        {
+          "created_at": "2026-10-11T23:08:11.000Z",
+          "id": "2109420829926953299",
+          "reply_to_id": "2109420420235739258",
+          "text": "@Evan_ss6 On the flip side genuine relationships already formed and engaging with people you already respect / have rapport with has probably never been more valuable"
         }
       ],
       "reads": {
@@ -1568,7 +1578,8 @@
         "2108676675097817424": true,
         "2108681575479316576": true,
         "2108683125761130908": true,
-        "2109420420235739258": false
+        "2109420420235739258": false,
+        "2109420829926953299": false
       },
       "user_id": "953032269433745408"
     },
@@ -3459,5 +3470,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-11T23:08:19+00:00"
+  "updated_at": "2026-10-11T23:10:24+00:00"
 }
