@@ -1570,7 +1570,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109258930543280157",
+      "last_id": "2109267884983845150",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1635,11 +1635,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T14:27:44.000Z",
-          "id": "2108927466358321652",
-          "text": "all glory to God"
-        },
         {
           "created_at": "2026-10-10T14:36:04.000Z",
           "id": "2108929562478531012",
@@ -1771,10 +1766,14 @@
           "id": "2109258245022138455",
           "quoted_text": "we are 4 months away from a new dawn in the cryptocurrency industry.",
           "text": "New dawn https://t.co/jQoYg8uAof"
+        },
+        {
+          "created_at": "2026-10-11T13:00:26.000Z",
+          "id": "2109267884983845150",
+          "text": "hyperevm season?"
         }
       ],
       "reads": {
-        "2108927466358321652": "No call",
         "2108929562478531012": "No call: bullish on STRK (same view as before)",
         "2108933002864861656": "No call",
         "2108934824933359978": "VIEW bullish on crypto market",
@@ -1793,7 +1792,8 @@
         "2109047125938208858": "No call",
         "2109146497195667885": "No call",
         "2109254892682686718": "No call: bullish on crypto market (same view as before)",
-        "2109258245022138455": "No call: bullish on crypto market (same view as before)"
+        "2109258245022138455": "No call: bullish on crypto market (same view as before)",
+        "2109267884983845150": "No call: bullish on hyperevm (55%, too unsure)"
       },
       "replies": [
         {
@@ -2170,10 +2170,13 @@
         "2109258245022138455": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109267884983845150": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108927466358321652": false,
         "2108929562478531012": true,
         "2108933002864861656": true,
         "2108934824933359978": true,
@@ -2207,7 +2210,8 @@
         "2109254892682686718": true,
         "2109255819640643634": false,
         "2109258245022138455": true,
-        "2109258930543280157": false
+        "2109258930543280157": false,
+        "2109267884983845150": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3361,5 +3365,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-11T12:26:17+00:00"
+  "updated_at": "2026-10-11T13:02:21+00:00"
 }
