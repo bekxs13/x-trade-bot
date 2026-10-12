@@ -1657,7 +1657,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109571042712916015",
+      "last_id": "2109577356981780686",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1900,12 +1900,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-11T15:54:40.000Z",
-          "id": "2109311731545870588",
-          "reply_to_id": "2109309072235258073",
-          "text": "@dotiryaki Kingmaker"
-        },
-        {
           "created_at": "2026-10-11T21:08:16.000Z",
           "id": "2109390650844340226",
           "reply_to_id": "2109322756286497066",
@@ -1995,6 +1989,12 @@
           "id": "2109560943567093827",
           "reply_to_id": "2109559662706311445",
           "text": "@ieaturfoods if they are faking the numbers then i agree its not tradeable at all\n\nbut atm its an assumption and sentiment wise its ~rock bottom"
+        },
+        {
+          "created_at": "2026-10-12T09:30:10.000Z",
+          "id": "2109577356981780686",
+          "reply_to_id": "2109575945455534537",
+          "text": "@HexPTP september unlocks didnt move price at all, actually moved price up now vs september -&gt; looks like incentives are currently pro-token\n\nmost major vcs invested at higher implied valuation than current valuation so they should still be underwater"
         }
       ],
       "threads": {
@@ -2358,7 +2358,6 @@
         "2109304195367272829": true,
         "2109304815138562548": true,
         "2109305791962558742": true,
-        "2109311731545870588": false,
         "2109312317779558892": true,
         "2109317895742513278": true,
         "2109390650844340226": false,
@@ -2385,7 +2384,8 @@
         "2109550485833408965": true,
         "2109551297531920688": false,
         "2109560943567093827": true,
-        "2109571042712916015": true
+        "2109571042712916015": true,
+        "2109577356981780686": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3570,5 +3570,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-12T09:24:18+00:00"
+  "updated_at": "2026-10-12T09:30:23+00:00"
 }
