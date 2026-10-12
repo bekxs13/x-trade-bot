@@ -21,14 +21,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2109742181821149470",
+      "last_id": "2109743802550534193",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-10T16:51:04.000Z",
-          "id": "2108963537532186879",
-          "text": "Wildcat Offense"
-        },
         {
           "created_at": "2026-10-10T16:56:59.000Z",
           "id": "2108965025444688007",
@@ -140,10 +135,15 @@
           "id": "2109732411739373841",
           "quoted_text": "SpaceX will capture an asteroid with more gold than Earth's crust and land Optimus robots carrying American flags on Mars within 8 years.\n\nStarship parks Psyche in geosynchronous orbit over an American Pacific atoll. No humans within 50 miles. Optimus robots extract the metals. Delivery to Earth is free though some burns up on entry.\n\nBezos said 15 years ago Earth gets zoned residential as heavy industry moves to space. Vast distances make emissions irrelevant.\n\nThe same fleet lands on Mars in 8",
           "text": "We gonna dump gold on asteroid mining or market not that silly rn https://t.co/pc1W1vhF4s"
+        },
+        {
+          "created_at": "2026-10-12T20:31:34.000Z",
+          "id": "2109743802550534193",
+          "reply_to_id": "2109743662821445926",
+          "text": "@DeepDishEnjoyer Ideally IPO gets blocked and nuked tho"
         }
       ],
       "reads": {
-        "2108963537532186879": "No call",
         "2108965025444688007": "No call",
         "2108976727443513849": "No call",
         "2109000285268132335": "No call",
@@ -165,18 +165,6 @@
         "2109732411739373841": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-10T18:01:24.000Z",
-          "id": "2108981238375546919",
-          "images": [
-            "https://pbs.twimg.com/media/HUSa5s6WoAAUHO1.jpg",
-            "https://pbs.twimg.com/media/HUSbP7TXcAAHyx_.jpg",
-            "https://pbs.twimg.com/media/HUSbP7fWUAA8tmx.jpg",
-            "https://pbs.twimg.com/media/HUSbP7RWEAAFyYu.jpg"
-          ],
-          "reply_to_id": "2108979874761408575",
-          "text": "@justachillelite 2020 photos https://t.co/zdoOn8G93B"
-        },
         {
           "created_at": "2026-10-10T18:03:28.000Z",
           "id": "2108981758951821449",
@@ -260,6 +248,12 @@
           "id": "2109742181821149470",
           "reply_to_id": "2109741483368558914",
           "text": "@toptickcrypto When he references the cost of production of tokens here I guess I would include training but ya maybe was meant to be only about inference"
+        },
+        {
+          "created_at": "2026-10-12T20:31:01.000Z",
+          "id": "2109743662821445926",
+          "reply_to_id": "2109740805418373424",
+          "text": "@DeepDishEnjoyer Real estate"
         }
       ],
       "threads": {
@@ -437,10 +431,8 @@
         }
       },
       "trading": {
-        "2108963537532186879": false,
         "2108965025444688007": false,
         "2108976727443513849": false,
-        "2108981238375546919": false,
         "2108981758951821449": false,
         "2108982163375096097": false,
         "2109000285268132335": false,
@@ -471,7 +463,9 @@
         "2109723741030846479": true,
         "2109728009544687860": true,
         "2109732411739373841": true,
-        "2109742181821149470": false
+        "2109742181821149470": false,
+        "2109743662821445926": true,
+        "2109743802550534193": true
       },
       "user_id": "1446541960181858315"
     },
@@ -3782,5 +3776,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T20:26:20+00:00"
+  "updated_at": "2026-10-12T20:32:22+00:00"
 }
