@@ -1378,7 +1378,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2109776912101101992",
+      "last_id": "2109778066151207408",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1536,18 +1536,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-09T19:47:43.000Z",
-          "id": "2108645604368978262",
-          "reply_to_id": "2108514733791846653",
-          "text": "@real_y22 Alt szn is a term that should have been retired for 5+ years now, not something I actively think about! I track majors cuz viewing whole market picture to time strength and then picking the alts that will shine during those periods all paints a picture together"
-        },
-        {
-          "created_at": "2026-10-09T19:49:16.000Z",
-          "id": "2108645995873796099",
-          "reply_to_id": "2108626922930667909",
-          "text": "@gumsays Have some spot and calls of varying expiries"
-        },
-        {
           "created_at": "2026-10-09T20:40:13.000Z",
           "id": "2108658816946692600",
           "reply_to_id": "2108648353357873169",
@@ -1627,6 +1615,18 @@
           "id": "2109776912101101992",
           "reply_to_id": "2109776627089703114",
           "text": "@dounbug Doun"
+        },
+        {
+          "created_at": "2026-10-12T22:47:12.000Z",
+          "id": "2109777937117704260",
+          "reply_to_id": "2109777617268203910",
+          "text": "@notthreadguy @CookerFlips A casual followers inferred vague post is a devout followers explicit advice"
+        },
+        {
+          "created_at": "2026-10-12T22:47:43.000Z",
+          "id": "2109778066151207408",
+          "reply_to_id": "2109777524926689305",
+          "text": "@Itsmeeee2170 @notthreadguy @CookerFlips I assure you at least one person in this conversation cares"
         }
       ],
       "threads": {
@@ -1703,8 +1703,6 @@
         "2108637867329384826": true,
         "2108642063260831803": true,
         "2108643999506669597": false,
-        "2108645604368978262": true,
-        "2108645995873796099": true,
         "2108658816946692600": false,
         "2108672138546987087": true,
         "2108673793099247684": true,
@@ -1727,7 +1725,9 @@
         "2109711687503007938": false,
         "2109775773188194396": true,
         "2109776806710853911": true,
-        "2109776912101101992": false
+        "2109776912101101992": false,
+        "2109777937117704260": false,
+        "2109778066151207408": false
       },
       "user_id": "953032269433745408"
     },
@@ -2528,7 +2528,7 @@
       "biases": {},
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2109777617268203910",
+      "last_id": "2109777807836328043",
       "positions": {},
       "posts": [
         {
@@ -2669,12 +2669,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T17:13:17.000Z",
-          "id": "2109693902437416984",
-          "reply_to_id": "2109618043387015372",
-          "text": "@_tolks that was, really bad"
-        },
-        {
           "created_at": "2026-10-12T17:22:03.000Z",
           "id": "2109696108851020074",
           "reply_to_id": "2109647326310551788",
@@ -2757,6 +2751,12 @@
           "id": "2109777617268203910",
           "reply_to_id": "2109777525010567326",
           "text": "@CookerFlips @lBattleRhino i got us"
+        },
+        {
+          "created_at": "2026-10-12T22:46:41.000Z",
+          "id": "2109777807836328043",
+          "reply_to_id": "2109777205551378929",
+          "text": "@lazyvillager1 would chumba lie?"
         }
       ],
       "threads": {
@@ -2848,7 +2848,6 @@
         "2108741947263242661": false,
         "2108968997542891854": true,
         "2109677343610425650": true,
-        "2109693902437416984": false,
         "2109696108851020074": false,
         "2109697947172557254": false,
         "2109714673545228532": false,
@@ -2868,7 +2867,8 @@
         "2109769334516281773": false,
         "2109769976470990874": false,
         "2109777387407733069": true,
-        "2109777617268203910": false
+        "2109777617268203910": false,
+        "2109777807836328043": false
       },
       "user_id": "1426732252768182281"
     },
@@ -3789,5 +3789,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T22:46:24+00:00"
+  "updated_at": "2026-10-12T22:48:21+00:00"
 }
