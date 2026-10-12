@@ -1383,7 +1383,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2109783596571787389",
+      "last_id": "2109784269363298781",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1558,12 +1558,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-11T23:14:21.000Z",
-          "id": "2109422381546803602",
-          "reply_to_id": "2109355682424107038",
-          "text": "@stogolp If you didn\u2019t hit the near to strk to Tia rotation with your full port it\u2019s time to end it all"
-        },
-        {
           "created_at": "2026-10-12T18:05:45.000Z",
           "id": "2109707108384121307",
           "reply_to_id": "2109706617122160927",
@@ -1649,6 +1643,12 @@
           "id": "2109783596571787389",
           "reply_to_id": "2109781731582578701",
           "text": "@notthreadguy These interaction types are why I have sometimes debated paywalling throughout the years lmfao \n\n#RPG"
+        },
+        {
+          "created_at": "2026-10-12T23:12:22.000Z",
+          "id": "2109784269363298781",
+          "reply_to_id": "2109783726406484222",
+          "text": "@hypevillager Unless I click the buttons for them it isn\u2019t enough"
         }
       ],
       "threads": {
@@ -1733,7 +1733,6 @@
         "2108673793099247684": true,
         "2108683125761130908": true,
         "2109420829926953299": false,
-        "2109422381546803602": true,
         "2109703293270364304": true,
         "2109703958189240494": true,
         "2109705839263326634": true,
@@ -1755,7 +1754,8 @@
         "2109781100046565801": false,
         "2109782099079413989": true,
         "2109782493834711430": false,
-        "2109783596571787389": false
+        "2109783596571787389": false,
+        "2109784269363298781": false
       },
       "user_id": "953032269433745408"
     },
@@ -3822,5 +3822,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T23:10:20+00:00"
+  "updated_at": "2026-10-12T23:14:17+00:00"
 }
