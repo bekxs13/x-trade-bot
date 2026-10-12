@@ -1674,7 +1674,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109669028604309522",
+      "last_id": "2109671430258577427",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1913,15 +1913,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T07:46:37.000Z",
-          "id": "2109551297531920688",
-          "images": [
-            "https://pbs.twimg.com/media/HUahuPUboAAlRHI.jpg"
-          ],
-          "reply_to_id": "2109513685039190337",
-          "text": "@ieaturfoods https://t.co/2pknJmDflt"
-        },
-        {
           "created_at": "2026-10-12T08:24:57.000Z",
           "id": "2109560943567093827",
           "reply_to_id": "2109559662706311445",
@@ -2004,6 +1995,12 @@
           "id": "2109666936535892397",
           "reply_to_id": "2109666130969473484",
           "text": "@0xMensa probably not a good idea atm, tradfi is crashing risk assets today - gonna  assess before overtrading"
+        },
+        {
+          "created_at": "2026-10-12T15:43:59.000Z",
+          "id": "2109671430258577427",
+          "reply_to_id": "2109670844448301086",
+          "text": "@REALchadOmara strk is still nearly +100% from initial call\n\nnote that it stayed at the same price for 4 hours after initial call"
         }
       ],
       "threads": {
@@ -2390,7 +2387,6 @@
         "2109542569201766712": true,
         "2109547099931168876": true,
         "2109548842873929932": true,
-        "2109551297531920688": false,
         "2109560943567093827": true,
         "2109571042712916015": true,
         "2109577356981780686": true,
@@ -2411,7 +2407,8 @@
         "2109663652630647111": true,
         "2109664845356482863": true,
         "2109666936535892397": true,
-        "2109669028604309522": false
+        "2109669028604309522": false,
+        "2109671430258577427": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3628,5 +3625,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T15:36:31+00:00"
+  "updated_at": "2026-10-12T15:44:21+00:00"
 }
