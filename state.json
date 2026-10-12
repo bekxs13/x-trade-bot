@@ -488,7 +488,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2109445598252568828",
+      "last_id": "2109446775861899417",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -524,20 +524,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T06:23:18.000Z",
-          "id": "2108443167758364916",
-          "images": [
-            "https://pbs.twimg.com/media/HUKx4aHXMAAB13N.jpg"
-          ],
-          "text": "a bit of irony here https://t.co/YDRfjLY3BA"
-        },
-        {
-          "created_at": "2026-10-09T10:18:35.000Z",
-          "id": "2108502379289088395",
-          "quoted_text": "\u725b\u521d\u8981\u72e0\u72e0\u76f8\u4fe1\u9ed1\u9b3c\u7684\u5224\u65ad\uff0c\u8fd9\u5c4c\u6bdb\u76ee\u524d\u662fmeme\u6700\u5927\u7684\u8f66\u5934\u3002\u5bf9\u8d44\u91d1\u9884\u5224\u6bd4\u4e00\u822c\u4eba\u51c6 https://t.co/FskVGvxAFw",
-          "text": "\ud83d\ude02 https://t.co/IKZYkwLSIN"
-        },
         {
           "created_at": "2026-10-09T13:02:56.000Z",
           "id": "2108543735932031467",
@@ -660,11 +646,19 @@
           "id": "2109445598252568828",
           "quoted_text": "setup:\n\nworst cross-asset undeperformance in crypto's history past few years driven by \n\n\u2022 brain drain to AI\n\u2022 lack of innovation post-defi cambrian explosion\n\u2022 gold exceptional once in decade deca-trillions rerating\n\nadd on top 10/10 worst liquidation day for alts ever\n\nsentiment and positioning on crypto from insti & retail side at this bottom on altcoins are at multi year lows, maybe the lowest ever\n\nonly one direction to go, up, in an asset class where it is heavily momentum driven\n\n----\n\nno",
           "text": "this is why crypto is currently one of the most asymmetric bets you can make as a capital allocator https://t.co/4Dq3SZDWAz"
+        },
+        {
+          "created_at": "2026-10-12T00:50:53.000Z",
+          "id": "2109446675245019260",
+          "text": "you can only hold 3 memecoins going into Q4, which do you hold and what are your targets by December 25th, 2026"
+        },
+        {
+          "created_at": "2026-10-12T00:51:17.000Z",
+          "id": "2109446775861899417",
+          "text": "you can only hold 3 altcoins &gt; 500M FDV going into Q4, which do you hold and what are your targets by December 25th, 2026"
         }
       ],
       "reads": {
-        "2108443167758364916": "No call",
-        "2108502379289088395": "No call",
         "2108543735932031467": "No call: bullish on crypto market (60%, too unsure)",
         "2108610728278298674": "VIEW bullish on memecoins",
         "2108836968272744589": "No call: bullish on GRASS (60%, too unsure)",
@@ -682,7 +676,9 @@
         "2109417992740343814": "VIEW bullish on alts",
         "2109420927427789123": "No call: bullish on alts (same view as before)",
         "2109423308240490601": "No call",
-        "2109445598252568828": "No call: bullish on alts (same view as before)"
+        "2109445598252568828": "No call: bullish on alts (same view as before)",
+        "2109446675245019260": "No call",
+        "2109446775861899417": "No call"
       },
       "replies": [
         {
@@ -964,13 +960,19 @@
         "2109445598252568828": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109446675245019260": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2109446775861899417": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108443167758364916": false,
         "2108445176431776151": false,
         "2108454230248042798": false,
-        "2108502379289088395": false,
         "2108543735932031467": true,
         "2108556288162402327": false,
         "2108610728278298674": true,
@@ -1001,7 +1003,9 @@
         "2109423308240490601": true,
         "2109424483308298713": true,
         "2109443278601109928": true,
-        "2109445598252568828": true
+        "2109445598252568828": true,
+        "2109446675245019260": true,
+        "2109446775861899417": true
       },
       "user_id": "973261472"
     },
@@ -3473,5 +3477,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-12T00:48:22+00:00"
+  "updated_at": "2026-10-12T00:52:22+00:00"
 }
