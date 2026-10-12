@@ -1644,7 +1644,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109513553816502278",
+      "last_id": "2109520896541208928",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1900,12 +1900,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-11T14:26:42.000Z",
-          "id": "2109289593887690964",
-          "reply_to_id": "2109272645342490756",
-          "text": "@InvestsCletus thank you \ud83d\ude4f still learning!"
-        },
-        {
           "created_at": "2026-10-11T14:27:03.000Z",
           "id": "2109289681263395090",
           "reply_to_id": "2109272531848835544",
@@ -1988,6 +1982,16 @@
           "id": "2109513553816502278",
           "reply_to_id": "2109392444936659119",
           "text": "@LarpyCoperstein every asset is just beta stacked spx, its not a secret lol"
+        },
+        {
+          "created_at": "2026-10-12T05:45:49.000Z",
+          "id": "2109520896541208928",
+          "images": [
+            "https://pbs.twimg.com/media/HUaGEICaoAAp-AO.jpg",
+            "https://pbs.twimg.com/media/HUaGEpAbEAALAWL.jpg"
+          ],
+          "reply_to_id": "2109519975341760605",
+          "text": "@aft3rthechains theres a problem with oi atm, ppl cant open longs they can only close longs https://t.co/tuBXUdCpoD"
         }
       ],
       "threads": {
@@ -2326,7 +2330,6 @@
         "2109258245022138455": true,
         "2109267884983845150": true,
         "2109271798634385669": false,
-        "2109289593887690964": false,
         "2109289681263395090": false,
         "2109289839883690387": false,
         "2109303424701653132": false,
@@ -2350,7 +2353,8 @@
         "2109480793978642732": true,
         "2109486529106362694": true,
         "2109507577336004946": false,
-        "2109513553816502278": true
+        "2109513553816502278": true,
+        "2109520896541208928": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3535,5 +3539,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-12T05:18:25+00:00"
+  "updated_at": "2026-10-12T05:46:19+00:00"
 }
