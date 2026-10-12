@@ -1383,7 +1383,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2109785858287239553",
+      "last_id": "2109795750964322418",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1419,11 +1419,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-08T21:21:38.000Z",
-          "id": "2108306849481281915",
-          "text": "So OpenAI essentially went \u201chaha woopsie we are breaking all cryptography and mathematics\u201d only to then also say \u201cwe don\u2019t make any money tho\u201d just to max rape markets huh"
-        },
         {
           "created_at": "2026-10-09T01:09:01.000Z",
           "id": "2108364075583635727",
@@ -1538,10 +1533,14 @@
           "created_at": "2026-10-12T22:49:41.000Z",
           "id": "2109778560567402878",
           "text": "\u201cThat rhino guy is always vagueposting\u201d \n\nHello I am buying goog and amzn here, ok now I\u2019m hedging with ewy shorts. They\u2019re all in profit. I think top range is yearly open and we gonna spike sub 81. \nIm longing hype and eth after clarity. O im still holding after fomc. \n\nMaybe you\u2019re just RETARDED"
+        },
+        {
+          "created_at": "2026-10-12T23:57:59.000Z",
+          "id": "2109795750964322418",
+          "text": "The great plumber MOAS of Fall 2026"
         }
       ],
       "reads": {
-        "2108306849481281915": "No call",
         "2108364075583635727": "No call: bearish on alts (same view as before)",
         "2108374505039307132": "No call",
         "2108378376771928218": "No call",
@@ -1554,7 +1553,8 @@
         "2109710662536745312": "No call",
         "2109711246241251589": "No call",
         "2109776806710853911": "No call",
-        "2109778560567402878": "TRADE LONG GOOG"
+        "2109778560567402878": "TRADE LONG GOOG",
+        "2109795750964322418": "No call"
       },
       "replies": [
         {
@@ -1718,10 +1718,13 @@
             "trade:GOOG:long"
           ],
           "self_replies": 0
+        },
+        "2109795750964322418": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108306849481281915": true,
         "2108364075583635727": true,
         "2108374505039307132": true,
         "2108378376771928218": true,
@@ -1755,7 +1758,8 @@
         "2109782493834711430": false,
         "2109783596571787389": false,
         "2109784269363298781": false,
-        "2109785858287239553": true
+        "2109785858287239553": true,
+        "2109795750964322418": true
       },
       "user_id": "953032269433745408"
     },
@@ -3854,5 +3858,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T23:38:24+00:00"
+  "updated_at": "2026-10-12T23:58:27+00:00"
 }
