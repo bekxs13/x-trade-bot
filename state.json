@@ -2553,17 +2553,39 @@
     },
     "notthreadguy": {
       "backfilled": true,
-      "biases": {},
+      "biases": {
+        "crypto market": {
+          "market": "crypto",
+          "post_id": "2109787880365203583",
+          "reason": "Calls crypto a \"locally exhausted asset class\" after the flush that can't V back to ATH and \"has to build a base\". Longer term he is bullish (\"golden era\"), but the near-term lean is bearish or chop.",
+          "scope": "crypto market",
+          "since": "2026-10-12",
+          "stance": "bearish",
+          "updated_at": "2026-10-12T23:26:43.000Z"
+        }
+      },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2109781731582578701",
-      "positions": {},
+      "last_id": "2109787880365203583",
+      "positions": {
+        "ALTS": {
+          "asset": "alts",
+          "chain": "",
+          "confidence": 0.85,
+          "contract_address": "",
+          "direction": "short",
+          "entry": "",
+          "horizon": "hold for a bit",
+          "market": "crypto",
+          "open_price": null,
+          "post_id": "2109787880365203583",
+          "reason": "\"i opened a few alts shorts this am... im down to hold it\" plus the earlier \"I'm short right now\"; specific tickers aren't named.",
+          "since": "2026-10-12T23:26:43.000Z",
+          "structure": "unknown",
+          "url": "https://x.com/notthreadguy/status/2109787880365203583"
+        }
+      },
       "posts": [
-        {
-          "created_at": "2026-10-08T19:11:30.000Z",
-          "id": "2108274102997786818",
-          "text": "I wake up every day and it's like, hey Threadguy, you are going to have to cover one of a couple topics. It could be anything in a long list of meme coins, how to trade perps, how to trade memes, how to trade big alts, understanding quantum, understanding cryptography, understanding AI, cracking math. We can move over to the stock market, talk about bonds, yields, treasury, the Fed, rates, FOMC, Kevin Warsh, photonics, talk about neoclouds, talk about compute, inference, GPUs, CPUs. We can maybe talk about AI bottlenecks. We can talk about the SaaSpocalypse. We can talk about the Citrini article. We can talk about the SF housing market. We can talk about Iran, geopolitics, American politics, midterms, oil. Is it crude? Is it Brent? Is it front-dated? Is it backdated? What month is the contract roll over? What does the funding look like on Hyperliquid? How do we trade those perps versus how we trade them on Lighter, versus how do we trade them on Variational, versus how do we trade them on Avantis, how do we trade them on Aster, how do we trade them on Drift? We can talk about the fucking Nigerian stock market today. Oh, you heard about gaming? Oh, do you know about AI gaming? Oh, what about Unity? Oh, what about Roblox? Do you know about kimchi kimchi, cupsy cupsy, six seven six seven, woo? Okay, cool. We're going to have a guest on. You're going to interview Rhino. Then you're going to interview Hans Niemann and talk about grandmaster chess. Then we're going to talk to Arthur Hayes about the Fed, talk about liquidity, talk about M2, Raoul Pal, AI coins, cupsy cupsy six seven six seven, woo. Then I need you to film TikToks. I also need you to film YouTube videos. You also have to stream every day. Oh, and on your tweet today, you've got to figure out how to talk about Pokemon. Then we're going to do T-bills. Then we're going to do treasury auctions. Then we're going to bring it back, bring it back, bring it back. You have to understand how to cover Kevin Warsh and Jack Duvall at the same time. You need to deeply, intricately understand Jack Duvall while also being able to watch a Fed meeting and talk about why rate hikes matter on Polymarket. Because you bet on no hike, but a hike happened because PPI came in hot. The reason PPI came in hot is because CPI came in hot. And CPI came in hot because the jobs report was bad, which means inflation, which is led by the yen intervention in Japan by Scott Bessent, the treasury secretary. But does nobody want to buy bonds because they don't trust the U.S. and they're losing faith in the admin? Or does nobody want to buy bonds because we're in a supercycle, and the risk to holding 5.5% over 30 years is so high when the Nasdaq goes up 15% a year? And the Nasdaq goes up 15% a year because after the ZIRP era there's this money flood, which you can see in the M2 chart, which we cover. You can also see it in the price action of the launchpad trade on Solana. But when I say the launchpad trade, am I talking about Agency? Am I talking about Paid? Am I talking about Pump fun? Is it Stonk? Is it Pawns? Are we moving over to a different chain? What chain are we talking about? Also there's quantum and Bitcoin, that's a problem. But the problem about quantum and Bitcoin is you can go over to Zcash. But the Zcash problem is that it's quantum resistant but it's not cryptography resistant, and you would know that if you read the Justin Drake paper on cryptography. And you wouldn't know who Justin Drake is unless you read the quantum paper from Google, which he also co-authored. And you wouldn't know who that was if you didn't know who the Ethereum Foundation was, if you didn't know who Vitalik was. Who? Welcome back to the stream, guys. It's so good to see your beautiful faces. I missed you. I love you. I appreciate you. Look, at the end of the day, somebody's got to do it. At the end of the day, it's like, who else is going to do it? I don't really want to be here. Do I want to be here? Not really."
-        },
         {
           "created_at": "2026-10-09T01:04:47.000Z",
           "id": "2108363007856128483",
@@ -2676,10 +2698,14 @@
           "id": "2109779201754828950",
           "reply_to_id": "2109779144452059636",
           "text": "would evan ss the 2009 crypto og lie?"
+        },
+        {
+          "created_at": "2026-10-12T23:26:43.000Z",
+          "id": "2109787880365203583",
+          "text": "off the dome crypto market thoughts: \n\ngenerally speaking i think im really good at sizing up early late into a trend before it gets euphoric, ive made most of my money this way. pump, zec etc. i am extremely bad at playing the last 20% near the top and holding the middle boring slow part, as are most. \n\ni want to be in as few middle boring slow trades as possible at all times \n\nkind of impossible to argue that we\u2019re anywhere else but there right now with coins. euphoric pumps on alts last 90 days. honestly kinda weaker than ideal pump on btc but it still worked. onchain grasping for life then we get the death narrative with the ai justin drake whatever blah blah \n\nat a baseline whenever we get a flush like we had wednesday/thursday it\u2019s just not possible to V back to ath. look what happened to dram soxl or any other crypto wipeout in the past. it almost can\u2019t happen and has to build a base for a while. then the few people with opinions decide what we think about the assets who wants out etc etc\n\nas it relates to crypto i actually believe in the frank thesis. best bull case is becoming the frontier hub for cryptography again, which the entire world needs more than ever, solving it first as would be tradition with crypto and achieving this \u201cperfect defi/security\u201d idea. hard to not be impressed with the collective response to justin drake and a market unifying common enemy is powerful. it\u2019s the final boss of wall of worry to climb. anything other than death is good\n\ni think there will be a select few coins that achieve this state and they will be labeled \u201cai winners\u201d (cc based16z post)\n\nbeing labeled an ai winner is infinitely better than \u201cai loser\u201d (obviously, but what\u2019s what we are right now) and much much better than being ignored. ai winner category means you can pump infinitely. \n\ni think we\u2019re (my stream) gonna have a period here to get smart and think about what does that mean, what is possible, what are our goal posts etc \n\nuntil some breakthroughs or narrative vibe shifts with crypto i think it\u2019s gonna be really hard for what feels like a locally exhausted asset class in a locally exhausted broader market with stocks/yields/oil/blah blah blah blah blah etc (i know, i know)\n\nafter torching 150k on zec i promised myself i wouldn\u2019t touch trades until monday (today), and was all cash. honestly thought id come back to the board ready to fire but instead find myself pretty uninspired atm \n\nfeels like a game of who can stay patient long enough without dying that we\u2019re in right now. i really think there is so much upside to be had and we\u2019re entering the golden era of crypto, every time i try to intellectualize every move i realize im retarded that\u2019s never how i make money and its too easy to get microwaved  \n\ni opened a few alts shorts this am which has played rather well, because i\u2019m bored, im down to hold it, and plan to do nothing for a little bit but whatever \n\nas always i flip on a dime but we are in no mans land rn\n\nalso you guys pumped wormhole lol"
         }
       ],
       "reads": {
-        "2108274102997786818": "No call",
         "2108363007856128483": "No call",
         "2108363050353148354": "Read together with the post it replies to",
         "2108516937643049365": "No call",
@@ -2694,7 +2720,8 @@
         "2109728935252537749": "No call",
         "2109765724897997154": "No call",
         "2109778835851952500": "No call: maybe short  (55%, too unsure)",
-        "2109779144452059636": "Read together with the post it replies to"
+        "2109779144452059636": "Read together with the post it replies to",
+        "2109787880365203583": "TRADE SHORT alts \u00b7 VIEW bearish on crypto market"
       },
       "replies": [
         {
@@ -2864,10 +2891,16 @@
         "2109778835851952500": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2109787880365203583": {
+          "alerted": [
+            "trade:ALTS:short",
+            "bias:crypto market:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108274102997786818": true,
         "2108363007856128483": false,
         "2108363050353148354": false,
         "2108516937643049365": true,
@@ -2901,7 +2934,8 @@
         "2109779496492581173": false,
         "2109779623538233788": false,
         "2109779841562399091": false,
-        "2109781731582578701": true
+        "2109781731582578701": true,
+        "2109787880365203583": true
       },
       "user_id": "1426732252768182281"
     },
@@ -3822,5 +3856,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T23:20:21+00:00"
+  "updated_at": "2026-10-12T23:28:24+00:00"
 }
