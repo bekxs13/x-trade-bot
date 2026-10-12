@@ -2494,14 +2494,9 @@
       "biases": {},
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2109728676539769027",
+      "last_id": "2109728935252537749",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-08T14:10:19.000Z",
-          "id": "2108198308762325357",
-          "text": "i am genuinely insulted at how horrific this trailer is https://t.co/8nWtI9d95W"
-        },
         {
           "created_at": "2026-10-08T14:12:39.000Z",
           "id": "2108198895843266844",
@@ -2613,10 +2608,15 @@
             "https://pbs.twimg.com/amplify_video_thumb/2109725543486947328/img/BLpa6tYxbGfQuBQ1.jpg"
           ],
           "text": "Full story: a deep dive into the worst day of my life and just how bad 10/10 really was https://t.co/BKK01IbkDH"
+        },
+        {
+          "created_at": "2026-10-12T19:32:29.000Z",
+          "id": "2109728935252537749",
+          "reply_to_id": "2109728676539769027",
+          "text": "watch the full video on youtube! https://t.co/s9u1ImmX6d"
         }
       ],
       "reads": {
-        "2108198308762325357": "No call",
         "2108198895843266844": "No call",
         "2108200197465448491": "No call",
         "2108217447010509101": "Read together with the post it replies to",
@@ -2633,7 +2633,8 @@
         "2108968997542891854": "No call",
         "2109677343610425650": "No call",
         "2109714673545228532": "No call",
-        "2109728676539769027": "No call"
+        "2109728676539769027": "No call",
+        "2109728935252537749": "No call"
       },
       "replies": [
         {
@@ -2794,11 +2795,10 @@
         },
         "2109728676539769027": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2108198308762325357": false,
         "2108198895843266844": true,
         "2108200197465448491": false,
         "2108217447010509101": false,
@@ -2832,7 +2832,8 @@
         "2109697947172557254": false,
         "2109714673545228532": false,
         "2109722494492094909": true,
-        "2109728676539769027": true
+        "2109728676539769027": true,
+        "2109728935252537749": false
       },
       "user_id": "1426732252768182281"
     },
@@ -3753,5 +3754,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T19:32:23+00:00"
+  "updated_at": "2026-10-12T19:34:19+00:00"
 }
