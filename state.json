@@ -2494,14 +2494,9 @@
       "biases": {},
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2109722494492094909",
+      "last_id": "2109728676539769027",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-08T13:37:07.000Z",
-          "id": "2108189953905635365",
-          "text": "i feel like if they're going to really kill bitcoin today is the day"
-        },
         {
           "created_at": "2026-10-08T14:10:19.000Z",
           "id": "2108198308762325357",
@@ -2610,10 +2605,17 @@
           "id": "2109714673545228532",
           "reply_to_id": "2109677343610425650",
           "text": "@mert and @zkDragon locked\n\nWorking on a couple others"
+        },
+        {
+          "created_at": "2026-10-12T19:31:28.000Z",
+          "id": "2109728676539769027",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2109725543486947328/img/BLpa6tYxbGfQuBQ1.jpg"
+          ],
+          "text": "Full story: a deep dive into the worst day of my life and just how bad 10/10 really was https://t.co/BKK01IbkDH"
         }
       ],
       "reads": {
-        "2108189953905635365": "No call: bearish on btc (60%, too unsure)",
         "2108198308762325357": "No call",
         "2108198895843266844": "No call",
         "2108200197465448491": "No call",
@@ -2630,7 +2632,8 @@
         "2108549683283144734": "No call",
         "2108968997542891854": "No call",
         "2109677343610425650": "No call",
-        "2109714673545228532": "No call"
+        "2109714673545228532": "No call",
+        "2109728676539769027": "No call"
       },
       "replies": [
         {
@@ -2788,10 +2791,13 @@
         "2109677343610425650": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2109728676539769027": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108189953905635365": true,
         "2108198308762325357": false,
         "2108198895843266844": true,
         "2108200197465448491": false,
@@ -2825,7 +2831,8 @@
         "2109696108851020074": false,
         "2109697947172557254": false,
         "2109714673545228532": false,
-        "2109722494492094909": true
+        "2109722494492094909": true,
+        "2109728676539769027": true
       },
       "user_id": "1426732252768182281"
     },
@@ -3746,5 +3753,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T19:30:28+00:00"
+  "updated_at": "2026-10-12T19:32:23+00:00"
 }
