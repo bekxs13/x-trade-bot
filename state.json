@@ -1637,7 +1637,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109390650844340226",
+      "last_id": "2109471948963209652",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1699,21 +1699,25 @@
           "since": "2026-10-08T11:25:45.000Z",
           "structure": "spot",
           "url": "https://x.com/MoneyPrinter0x/status/2109304815138562548"
+        },
+        "W": {
+          "asset": "W",
+          "chain": "solana",
+          "confidence": 0.93,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "0.0243",
+          "horizon": "",
+          "market": "crypto",
+          "open_price": null,
+          "post_id": "2109471730746155266",
+          "reason": "\"bought an insane amount of wormhole $W\" is an explicit new entry; the chart shows WUSDT at 0.0243, which the author argues is too cheap at a 150m market cap.",
+          "since": "2026-10-12T02:30:27.000Z",
+          "structure": "spot",
+          "url": "https://x.com/MoneyPrinter0x/status/2109471730746155266"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T16:37:57.000Z",
-          "id": "2108960235037835666",
-          "quoted_text": "shoutout to the (very) sharp ppl who discovered $STRK early as well \ud83d\ude4f\n\n@ThePumponomics @beracap @playrisk \n\nthink most of them are at 0.045-0.06 average entry",
-          "text": "i just realized @MarketBubble @blknoiz06 literally brought up $STRK at 0.045 on thursday, thats even lower than my avg entry \n\nactually crazy. going to tune into every market bubble episode from here on, highly recommend u guys to as well \n\nvery good podcast from a very smart friend\n\nnote: this isnt paid or sponsored or anything, i legit think its very high EV"
-        },
-        {
-          "created_at": "2026-10-10T16:39:21.000Z",
-          "id": "2108960586424009160",
-          "quoted_text": "shoutout to the (very) sharp ppl who discovered $STRK early as well \ud83d\ude4f\n\n@ThePumponomics @beracap @playrisk \n\nthink most of them are at 0.045-0.06 average entry",
-          "text": "i just realized @MarketBubble @blknoiz06 literally brought up $STRK at 0.045 on thursday, thats even lower than my avg entry \n\nactually crazy. going to tune into every market bubble episode from here on, highly recommend u guys to as well \n\nvery good podcast from a very smart friend\n\nnote: this isnt paid or sponsored or anything, i genuinely think its very high EV - u lose nothing by watching and i could've found out about this play even earlier"
-        },
         {
           "created_at": "2026-10-10T16:51:37.000Z",
           "id": "2108963673700172274",
@@ -1844,11 +1848,22 @@
           "id": "2109317895742513278",
           "reply_to_id": "2109304815138562548",
           "text": "note: flat oi denominated in strk not dollars"
+        },
+        {
+          "created_at": "2026-10-12T02:30:27.000Z",
+          "id": "2109471730746155266",
+          "images": [
+            "https://pbs.twimg.com/media/HUZZWqPbgAEwJgb.jpg"
+          ],
+          "text": "bought an insane amount of wormhole $W\n\ntop 1 rwa dominance infra + interoperability of everything shouldnt be anywhere near 150m mc imo\n\nsecond kingmaker. https://t.co/jWYb3QmQTQ"
+        },
+        {
+          "created_at": "2026-10-12T02:31:19.000Z",
+          "id": "2109471948963209652",
+          "text": "filled the hole"
         }
       ],
       "reads": {
-        "2108960235037835666": "TRADE LONG STRK",
-        "2108960586424009160": "TRADE LONG STRK",
         "2108963673700172274": "No call",
         "2108963734551220353": "TRADE LONG STRK",
         "2108967595663921456": "No call",
@@ -1865,7 +1880,9 @@
         "2109304195367272829": "TRADE LONG STRK",
         "2109304815138562548": "TRADE LONG STRK",
         "2109305791962558742": "No call",
-        "2109312317779558892": "No call"
+        "2109312317779558892": "No call",
+        "2109471730746155266": "TRADE LONG W",
+        "2109471948963209652": "No call"
       },
       "replies": [
         {
@@ -2260,11 +2277,19 @@
         "2109312317779558892": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109471730746155266": {
+          "alerted": [
+            "trade:W:long"
+          ],
+          "self_replies": 0
+        },
+        "2109471948963209652": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108960235037835666": true,
-        "2108960586424009160": true,
         "2108963673700172274": false,
         "2108963734551220353": true,
         "2108967595663921456": false,
@@ -2297,7 +2322,9 @@
         "2109311731545870588": false,
         "2109312317779558892": true,
         "2109317895742513278": true,
-        "2109390650844340226": false
+        "2109390650844340226": false,
+        "2109471730746155266": true,
+        "2109471948963209652": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3482,5 +3509,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-12T01:50:22+00:00"
+  "updated_at": "2026-10-12T02:32:30+00:00"
 }
