@@ -21,14 +21,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2109575775204847961",
+      "last_id": "2109587377954189402",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-09T19:59:18.000Z",
-          "id": "2108648518285934654",
-          "text": "I'm drinking Red Bull summer edition in the fall"
-        },
         {
           "created_at": "2026-10-09T23:39:25.000Z",
           "id": "2108703912429793418",
@@ -140,10 +135,15 @@
           "created_at": "2026-10-12T09:21:34.000Z",
           "id": "2109575191492010236",
           "text": "Stocks are open today while the bond market is closed because indigenous peoples were notoriously high volume bond traders"
+        },
+        {
+          "created_at": "2026-10-12T10:09:59.000Z",
+          "id": "2109587377954189402",
+          "quoted_text": "How to check if your ledger device has been hacked by opening it up to search for modifications. Welcome to the future of finance. It ain\u2019t easy being your own bank.  https://t.co/PnFa8fyl9A",
+          "text": "\u2026 https://t.co/yszVVJlOvk"
         }
       ],
       "reads": {
-        "2108648518285934654": "No call",
         "2108703912429793418": "No call",
         "2108717415286850013": "No call",
         "2108717832657838507": "No call",
@@ -162,7 +162,8 @@
         "2109151545187332511": "No call",
         "2109212028057612367": "No call",
         "2109409060634440186": "No call",
-        "2109575191492010236": "No call"
+        "2109575191492010236": "No call",
+        "2109587377954189402": "No call"
       },
       "replies": [
         {
@@ -409,10 +410,13 @@
         "2109575191492010236": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109587377954189402": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108648518285934654": false,
         "2108703912429793418": false,
         "2108717415286850013": false,
         "2108717832657838507": false,
@@ -446,7 +450,8 @@
         "2109409060634440186": true,
         "2109482654378987937": true,
         "2109575191492010236": true,
-        "2109575775204847961": false
+        "2109575775204847961": false,
+        "2109587377954189402": false
       },
       "user_id": "1446541960181858315"
     },
@@ -3577,5 +3582,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-12T10:00:25+00:00"
+  "updated_at": "2026-10-12T10:10:22+00:00"
 }
