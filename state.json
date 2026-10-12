@@ -492,7 +492,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2109502703147855922",
+      "last_id": "2109577662507454790",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -528,12 +528,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T14:39:56.000Z",
-          "id": "2108930537788453096",
-          "quoted_text": "@captain_kole im going 1000x long on paper trade and nobody can stop me",
-          "text": "WOOOOOOOOOOOOOOOO https://t.co/mAgVV50Oxa"
-        },
         {
           "created_at": "2026-10-10T16:35:24.000Z",
           "id": "2108959592676053478",
@@ -652,10 +646,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2109502522125873153/img/1fg8OdHc1VwUk9oT.jpg"
           ],
           "text": "one thing i find interesting about Grass is its potential expansion beyond AI training data\n\nthey've already built infrastructure to collect and process web data at scale, and now they're looking to make those tools available directly to AI agents and LLMs\n\ni expect real-time access to web data to become increasingly important as AI agents grow more capable\n\nthat could open up an entirely different market for infrastructure providers like Grass"
+        },
+        {
+          "created_at": "2026-10-12T09:31:23.000Z",
+          "id": "2109577662507454790",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2109577374950109184/img/UaRKYbPtuHvwboGu.jpg"
+          ],
+          "text": "i pay more attention to how a memecoin community behaves during a 70-80% drawdown than when the price is going up\n\nthe strongest communities tend to stay active, keep creating content and bring in new people even when momentum disappears\n\nattention drives memecoins, but i believe the ability to sustain that attention through difficult periods is one of the most important things to look for"
         }
       ],
       "reads": {
-        "2108930537788453096": "No call",
         "2108959592676053478": "No call",
         "2108973219302772787": "No call",
         "2108977096584462564": "No call",
@@ -674,7 +675,8 @@
         "2109456714772722064": "No call",
         "2109458016118645023": "No call",
         "2109472464246079912": "No call: bullish on btc (same view as before)",
-        "2109502703147855922": "No call"
+        "2109502703147855922": "No call",
+        "2109577662507454790": "No call"
       },
       "replies": [
         {
@@ -984,6 +986,10 @@
         "2109502703147855922": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109577662507454790": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -994,7 +1000,6 @@
         "2108916374240379077": false,
         "2108916678130335954": true,
         "2108918275354800331": false,
-        "2108930537788453096": true,
         "2108959592676053478": true,
         "2108973219302772787": true,
         "2108977096584462564": true,
@@ -1021,7 +1026,8 @@
         "2109458880451252310": true,
         "2109461045307961762": false,
         "2109472464246079912": true,
-        "2109502703147855922": true
+        "2109502703147855922": true,
+        "2109577662507454790": true
       },
       "user_id": "973261472"
     },
@@ -3570,5 +3576,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-12T09:30:23+00:00"
+  "updated_at": "2026-10-12T09:32:25+00:00"
 }
