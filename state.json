@@ -1383,7 +1383,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2109778560567402878",
+      "last_id": "2109779401487593682",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1558,12 +1558,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-09T20:40:13.000Z",
-          "id": "2108658816946692600",
-          "reply_to_id": "2108648353357873169",
-          "text": "@ol_chunka_coal Hahahaha"
-        },
-        {
           "created_at": "2026-10-09T21:33:09.000Z",
           "id": "2108672138546987087",
           "reply_to_id": "2108668756348018827",
@@ -1649,6 +1643,12 @@
           "id": "2109778066151207408",
           "reply_to_id": "2109777524926689305",
           "text": "@Itsmeeee2170 @notthreadguy @CookerFlips I assure you at least one person in this conversation cares"
+        },
+        {
+          "created_at": "2026-10-12T22:53:01.000Z",
+          "id": "2109779401487593682",
+          "reply_to_id": "2109778835851952500",
+          "text": "@notthreadguy O youre not gonna update? Sounds pretty fucking VAGUE"
         }
       ],
       "threads": {
@@ -1730,7 +1730,6 @@
         "2108637867329384826": true,
         "2108642063260831803": true,
         "2108643999506669597": false,
-        "2108658816946692600": false,
         "2108672138546987087": true,
         "2108673793099247684": true,
         "2108675995876413850": true,
@@ -1755,7 +1754,8 @@
         "2109776912101101992": false,
         "2109777937117704260": false,
         "2109778066151207408": false,
-        "2109778560567402878": true
+        "2109778560567402878": true,
+        "2109779401487593682": false
       },
       "user_id": "953032269433745408"
     },
@@ -2556,15 +2556,9 @@
       "biases": {},
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2109779144452059636",
+      "last_id": "2109779623538233788",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-08T17:50:57.000Z",
-          "id": "2108253833310744642",
-          "reply_to_id": "2108245458812592530",
-          "text": "@SoskaKyle yo @HansonBirringer why didn\u2019t you tell me to sell everything last night"
-        },
         {
           "created_at": "2026-10-08T19:11:30.000Z",
           "id": "2108274102997786818",
@@ -2676,6 +2670,12 @@
           "id": "2109779144452059636",
           "reply_to_id": "2109778835851952500",
           "text": "would chumba lie?"
+        },
+        {
+          "created_at": "2026-10-12T22:52:14.000Z",
+          "id": "2109779201754828950",
+          "reply_to_id": "2109779144452059636",
+          "text": "would evan ss the 2009 crypto og lie?"
         }
       ],
       "reads": {
@@ -2697,18 +2697,6 @@
         "2109779144452059636": "Read together with the post it replies to"
       },
       "replies": [
-        {
-          "created_at": "2026-10-12T17:22:03.000Z",
-          "id": "2109696108851020074",
-          "reply_to_id": "2109647326310551788",
-          "text": "@iWillTheGamer bro i got absolutely torched lmao"
-        },
-        {
-          "created_at": "2026-10-12T17:29:21.000Z",
-          "id": "2109697947172557254",
-          "reply_to_id": "2109697808412627240",
-          "text": "@ThinkingUSD @SoskaKyle @SoskaKyle \ud83d\ude01"
-        },
         {
           "created_at": "2026-10-12T19:06:54.000Z",
           "id": "2109722494492094909",
@@ -2786,6 +2774,18 @@
           "id": "2109777807836328043",
           "reply_to_id": "2109777205551378929",
           "text": "@lazyvillager1 would chumba lie?"
+        },
+        {
+          "created_at": "2026-10-12T22:53:24.000Z",
+          "id": "2109779496492581173",
+          "reply_to_id": "2109779401487593682",
+          "text": "@lBattleRhino pretty rich from the vague post guy to complain about this don\u2019t you think"
+        },
+        {
+          "created_at": "2026-10-12T22:53:54.000Z",
+          "id": "2109779623538233788",
+          "reply_to_id": "2109779465240769003",
+          "text": "@json1444 there\u2019s no such thing as enough"
         }
       ],
       "threads": {
@@ -2867,7 +2867,6 @@
         }
       },
       "trading": {
-        "2108253833310744642": true,
         "2108274102997786818": true,
         "2108363007856128483": false,
         "2108363050353148354": false,
@@ -2879,8 +2878,6 @@
         "2108741947263242661": false,
         "2108968997542891854": true,
         "2109677343610425650": true,
-        "2109696108851020074": false,
-        "2109697947172557254": false,
         "2109714673545228532": false,
         "2109722494492094909": true,
         "2109728676539769027": true,
@@ -2901,7 +2898,10 @@
         "2109777617268203910": false,
         "2109777807836328043": false,
         "2109778835851952500": true,
-        "2109779144452059636": false
+        "2109779144452059636": false,
+        "2109779201754828950": false,
+        "2109779496492581173": false,
+        "2109779623538233788": false
       },
       "user_id": "1426732252768182281"
     },
@@ -3822,5 +3822,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T22:52:25+00:00"
+  "updated_at": "2026-10-12T22:54:20+00:00"
 }
