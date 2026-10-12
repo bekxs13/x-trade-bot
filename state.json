@@ -1674,7 +1674,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109672824009117846",
+      "last_id": "2109674208242667863",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1913,12 +1913,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T09:30:10.000Z",
-          "id": "2109577356981780686",
-          "reply_to_id": "2109575945455534537",
-          "text": "@HexPTP september unlocks didnt move price at all, actually moved price up now vs september -&gt; looks like incentives are currently pro-token\n\nmost major vcs invested at higher implied valuation than current valuation so they should still be underwater"
-        },
-        {
           "created_at": "2026-10-12T11:16:10.000Z",
           "id": "2109604031354249681",
           "reply_to_id": "2109603199489593438",
@@ -2001,6 +1995,12 @@
           "id": "2109671632780628020",
           "reply_to_id": "2109670844448301086",
           "text": "@REALchadOmara strk is still nearly +100% from initial call\n\nnote that it stayed at the same price for 4 hours after initial call\n\nhttps://t.co/oybW2lB9sL"
+        },
+        {
+          "created_at": "2026-10-12T15:55:01.000Z",
+          "id": "2109674208242667863",
+          "reply_to_id": "2109672917294567604",
+          "text": "@noisetradez yes switched to full spot / 1x lev but have to note that my overall entry was at ~0.06 average so my risk is not equal to someone entering here especially after the risk assets crash today \n\nif entering probably safer to twap over days"
         }
       ],
       "threads": {
@@ -2393,7 +2393,6 @@
         "2109547099931168876": true,
         "2109548842873929932": true,
         "2109571042712916015": true,
-        "2109577356981780686": true,
         "2109590662803075360": false,
         "2109604031354249681": false,
         "2109605374353359197": true,
@@ -2414,7 +2413,8 @@
         "2109669028604309522": false,
         "2109671430258577427": true,
         "2109671632780628020": true,
-        "2109672824009117846": true
+        "2109672824009117846": true,
+        "2109674208242667863": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3631,5 +3631,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T15:50:28+00:00"
+  "updated_at": "2026-10-12T15:56:22+00:00"
 }
