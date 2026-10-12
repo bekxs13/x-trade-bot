@@ -1383,7 +1383,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2109782493834711430",
+      "last_id": "2109783596571787389",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1558,12 +1558,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-11T23:06:33.000Z",
-          "id": "2109420420235739258",
-          "reply_to_id": "2109418749736423847",
-          "text": "@Evan_ss6 People are overly combative and constantly providing advice despite generally performing horrifically themselves, most back and forth conversation has become a waste of time imo \n\nPost and go is the way"
-        },
-        {
           "created_at": "2026-10-11T23:14:21.000Z",
           "id": "2109422381546803602",
           "reply_to_id": "2109355682424107038",
@@ -1649,6 +1643,12 @@
           "id": "2109782493834711430",
           "reply_to_id": "2109781966367096888",
           "text": "@Brian_A_E Da fuq I feel like my voice is pretty normal"
+        },
+        {
+          "created_at": "2026-10-12T23:09:41.000Z",
+          "id": "2109783596571787389",
+          "reply_to_id": "2109781731582578701",
+          "text": "@notthreadguy These interaction types are why I have sometimes debated paywalling throughout the years lmfao \n\n#RPG"
         }
       ],
       "threads": {
@@ -1732,7 +1732,6 @@
         "2108643999506669597": false,
         "2108673793099247684": true,
         "2108683125761130908": true,
-        "2109420420235739258": false,
         "2109420829926953299": false,
         "2109422381546803602": true,
         "2109703293270364304": true,
@@ -1755,7 +1754,8 @@
         "2109779883182452830": false,
         "2109781100046565801": false,
         "2109782099079413989": true,
-        "2109782493834711430": false
+        "2109782493834711430": false,
+        "2109783596571787389": false
       },
       "user_id": "953032269433745408"
     },
@@ -3822,5 +3822,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T23:06:26+00:00"
+  "updated_at": "2026-10-12T23:10:20+00:00"
 }
