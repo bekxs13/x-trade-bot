@@ -451,12 +451,12 @@
       "biases": {
         "alts": {
           "market": "crypto",
-          "post_id": "2109420927427789123",
-          "reason": "'alt szn' quoting a dino coins rotation post matches his earlier bullish alts view for Q4.",
+          "post_id": "2109445598252568828",
+          "reason": "Calls crypto 'one of the most asymmetric bets' while quoting a thesis that alts are at the bottom with 'only one direction to go, up', matching his recorded bullish alts view.",
           "scope": "alts",
           "since": "2026-10-11",
           "stance": "bullish",
-          "updated_at": "2026-10-11T23:08:34.000Z"
+          "updated_at": "2026-10-12T00:46:36.000Z"
         },
         "btc": {
           "market": "crypto",
@@ -488,7 +488,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2109443278601109928",
+      "last_id": "2109445598252568828",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -524,12 +524,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T05:10:34.000Z",
-          "id": "2108424862570361285",
-          "quoted_text": "Cobie reveals his crypto strategy that helped him catch opportunities like Hyperliquid before everyone else\n\n\u201cIn Crypto, you isolate your risk and you try every novel thing.\u201d\n\n\u201cWhen there\u2019s something that\u2019s novel, instead of trying to figure out why this won\u2019t work, you may as well just give it a go.\u201d\n\n\u201cIf you did this with Hyperliquid, you ended up a millionaire from the Hyperliquid airdrop.\u201d\n\n\u201cPeople\u2019s instinct is to go, \u2018This is stupid. This is dumb. This won\u2019t work.\u2019\u201d\n\n\u201cYou just sort of need",
-          "text": "\u26a1\ufe0f https://t.co/SFEWCQiFTP"
-        },
         {
           "created_at": "2026-10-09T06:23:18.000Z",
           "id": "2108443167758364916",
@@ -660,10 +654,15 @@
           "id": "2109423308240490601",
           "quoted_text": "Looks like people are starting to realize that a network that sits at the center of AI model pre-training and inference only trades at such a discount to its peers because it has a token (which btw accrues all value and free cash flow), and it probably shouldn\u2019t be priced that way.\n\n$GRASS up from $190M to $750M fully diluted valuation since just February. \n\nExa valued at $2.2B\nParallel Web Systems at $2B\nFirecrawl undisclosed valuation at last $75M raise (likely multi-billion dollar valuation)",
           "text": "free https://t.co/CmTHVF0if2"
+        },
+        {
+          "created_at": "2026-10-12T00:46:36.000Z",
+          "id": "2109445598252568828",
+          "quoted_text": "setup:\n\nworst cross-asset undeperformance in crypto's history past few years driven by \n\n\u2022 brain drain to AI\n\u2022 lack of innovation post-defi cambrian explosion\n\u2022 gold exceptional once in decade deca-trillions rerating\n\nadd on top 10/10 worst liquidation day for alts ever\n\nsentiment and positioning on crypto from insti & retail side at this bottom on altcoins are at multi year lows, maybe the lowest ever\n\nonly one direction to go, up, in an asset class where it is heavily momentum driven\n\n----\n\nno",
+          "text": "this is why crypto is currently one of the most asymmetric bets you can make as a capital allocator https://t.co/4Dq3SZDWAz"
         }
       ],
       "reads": {
-        "2108424862570361285": "No call",
         "2108443167758364916": "No call",
         "2108502379289088395": "No call",
         "2108543735932031467": "No call: bullish on crypto market (60%, too unsure)",
@@ -682,7 +681,8 @@
         "2109288381767462951": "TRADE LONG GRASS",
         "2109417992740343814": "VIEW bullish on alts",
         "2109420927427789123": "No call: bullish on alts (same view as before)",
-        "2109423308240490601": "No call"
+        "2109423308240490601": "No call",
+        "2109445598252568828": "No call: bullish on alts (same view as before)"
       },
       "replies": [
         {
@@ -960,10 +960,13 @@
         "2109423308240490601": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109445598252568828": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108424862570361285": true,
         "2108443167758364916": false,
         "2108445176431776151": false,
         "2108454230248042798": false,
@@ -997,7 +1000,8 @@
         "2109420927427789123": true,
         "2109423308240490601": true,
         "2109424483308298713": true,
-        "2109443278601109928": true
+        "2109443278601109928": true,
+        "2109445598252568828": true
       },
       "user_id": "973261472"
     },
@@ -3469,5 +3473,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-12T00:38:19+00:00"
+  "updated_at": "2026-10-12T00:48:22+00:00"
 }
