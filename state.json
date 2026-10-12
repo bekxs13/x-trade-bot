@@ -1638,7 +1638,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109480793978642732",
+      "last_id": "2109486529106362694",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1719,12 +1719,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T17:07:12.000Z",
-          "id": "2108967595663921456",
-          "quoted_text": "One of the most cracked traders on CT btw https://t.co/IqlmtdB28z",
-          "text": "\ud83d\ude4f\ud83d\ude4f https://t.co/lPhJUpQYnt"
-        },
         {
           "created_at": "2026-10-10T18:32:01.000Z",
           "id": "2108988940653076661",
@@ -1870,10 +1864,14 @@
           ],
           "quoted_text": "bought an insane amount of wormhole $W\n\ntop 1 rwa dominance infra + interoperability of everything shouldnt be anywhere near 150m mc imo\n\nsecond kingmaker. https://t.co/jWYb3QmQTQ",
           "text": "wtf it maxed out hyperliquid oi\n\ni wanted to buy more https://t.co/ZdMywnOYo0 https://t.co/hXUBn4JEoe"
+        },
+        {
+          "created_at": "2026-10-12T03:29:15.000Z",
+          "id": "2109486529106362694",
+          "text": "Welcome back to 2021"
         }
       ],
       "reads": {
-        "2108967595663921456": "No call",
         "2108988940653076661": "No call",
         "2108989887022285149": "No call",
         "2109030124100427988": "No call",
@@ -1891,7 +1889,8 @@
         "2109471730746155266": "TRADE LONG W",
         "2109471948963209652": "No call",
         "2109479031863394733": "No call",
-        "2109479266299916444": "No call"
+        "2109479266299916444": "No call",
+        "2109486529106362694": "No call"
       },
       "replies": [
         {
@@ -2304,10 +2303,13 @@
         "2109479266299916444": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109486529106362694": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108967595663921456": false,
         "2108988940653076661": true,
         "2108989887022285149": true,
         "2109030124100427988": true,
@@ -2341,7 +2343,8 @@
         "2109479266299916444": true,
         "2109480232386519502": true,
         "2109480361743032711": true,
-        "2109480793978642732": true
+        "2109480793978642732": true,
+        "2109486529106362694": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3526,5 +3529,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-12T03:14:19+00:00"
+  "updated_at": "2026-10-12T03:30:30+00:00"
 }
