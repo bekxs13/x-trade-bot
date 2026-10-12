@@ -1644,7 +1644,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109541794874798446",
+      "last_id": "2109542569201766712",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1725,15 +1725,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T21:15:40.000Z",
-          "id": "2109030124100427988",
-          "images": [
-            "https://pbs.twimg.com/media/HUTHt9UbkAEsykS.jpg"
-          ],
-          "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
-          "text": "fyi paradigm's entry is at 0.2 and 0.8 respectively\n\nhigher imo $STRK https://t.co/mgm9ibgfZD https://t.co/birrKDo6ue"
-        },
         {
           "created_at": "2026-10-10T22:21:39.000Z",
           "id": "2109046732403495217",
@@ -1872,10 +1863,15 @@
           ],
           "quoted_text": "bought an insane amount of wormhole $W\n\ntop 1 rwa dominance infra + interoperability of everything shouldnt be anywhere near 150m mc imo\n\nsecond kingmaker. https://t.co/jWYb3QmQTQ",
           "text": "finally managed to buy more spot & low lev $w at 0.028 across 5 venues both cex and dex\n\nfor spot: this is currently available in binance, bybit, uniswap, upbit, coinbase, gate, mexc, etc\n\nwill not be surprised if we see $w to 0.1-0.5 range this quarter.\n\npeople don't realize that every single trade thats executed by securitize (top 1 rwa protocol in the entire industry) is exclusively powered by wormhole + the interoperability of everything going into a major crypto cycle will and should never be valued anywhere near 200m mc.\n\nopen interest is at max at all venues atm so the moment that is fixed this might likely move extremely hard to the upside\n\nfor now, had to move to multiple cexes and dexes to bid spot (only spot available now) & low lev\n\nthink that this is an industry-level kingmaker play for this quarter - theres no such thing as a major crypto cycle with the core interoperability layer being anywhere near 200m mc\n\nNFA DYOR"
+        },
+        {
+          "created_at": "2026-10-12T07:11:56.000Z",
+          "id": "2109542569201766712",
+          "quoted_text": "finally managed to buy more spot & low lev $w at 0.028 across 5 venues both cex and dex\n\nfor spot: this is currently available in binance, bybit, uniswap, upbit, coinbase, gate, mexc, etc\n\nwill not be surprised if we see $w to 0.1-0.5 range this quarter.\n\npeople don't realize that every single trade thats executed by securitize (top 1 rwa protocol in the entire industry) is exclusively powered by wormhole + the interoperability of everything going into a major crypto cycle will and should never ",
+          "text": "and also since a lot of ppl are asking\n\n$w spot is available on jupiter https://t.co/qQfG557YSj"
         }
       ],
       "reads": {
-        "2109030124100427988": "No call",
         "2109046732403495217": "No call",
         "2109047125938208858": "No call",
         "2109146497195667885": "No call",
@@ -1893,7 +1889,8 @@
         "2109479266299916444": "No call",
         "2109486529106362694": "No call",
         "2109523378264846593": "No call",
-        "2109540880973787414": "TRADE LONG W"
+        "2109540880973787414": "TRADE LONG W",
+        "2109542569201766712": "No call"
       },
       "replies": [
         {
@@ -2324,10 +2321,13 @@
             "trade:W:long"
           ],
           "self_replies": 0
+        },
+        "2109542569201766712": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109030124100427988": true,
         "2109046732403495217": true,
         "2109047125938208858": true,
         "2109146497195667885": true,
@@ -2361,7 +2361,8 @@
         "2109523378264846593": true,
         "2109540880973787414": true,
         "2109541755645526385": true,
-        "2109541794874798446": true
+        "2109541794874798446": true,
+        "2109542569201766712": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3546,5 +3547,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-12T07:10:21+00:00"
+  "updated_at": "2026-10-12T07:12:26+00:00"
 }
