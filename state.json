@@ -3344,7 +3344,7 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2109664493479637119",
+      "last_id": "2109665744988643349",
       "positions": {},
       "posts": [
         {
@@ -3436,6 +3436,14 @@
           "created_at": "2026-10-12T15:16:25.000Z",
           "id": "2109664493479637119",
           "text": "https://t.co/VY8Wlx7dMA"
+        },
+        {
+          "created_at": "2026-10-12T15:21:23.000Z",
+          "id": "2109665744988643349",
+          "images": [
+            "https://pbs.twimg.com/media/HUcJ0CLWQAADzJ3.jpg"
+          ],
+          "text": "https://t.co/DCqgHlzCs7 https://t.co/UISLK962GA"
         }
       ],
       "reads": {
@@ -3453,7 +3461,8 @@
         "2108388001386537404": "No call: bearish on stocks/macro (62%, too unsure)",
         "2108403707645764048": "No call: bearish on stocks/macro (60%, too unsure)",
         "2108574034916999548": "VIEW bearish on stocks/macro",
-        "2109664493479637119": "No call"
+        "2109664493479637119": "No call",
+        "2109665744988643349": "No call: bearish on stocks/macro (60%, too unsure)"
       },
       "replies": [
         {
@@ -3569,6 +3578,10 @@
         "2109664493479637119": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109665744988643349": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -3597,7 +3610,8 @@
         "2108574034916999548": true,
         "2108668472196841823": false,
         "2109662643053371875": false,
-        "2109664493479637119": false
+        "2109664493479637119": false,
+        "2109665744988643349": false
       },
       "user_id": "809191427645181952"
     }
@@ -3613,5 +3627,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T15:18:39+00:00"
+  "updated_at": "2026-10-12T15:22:25+00:00"
 }
