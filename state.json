@@ -21,14 +21,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2109728009544687860",
+      "last_id": "2109732411739373841",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-10T15:23:12.000Z",
-          "id": "2108941422502301936",
-          "text": "Scottsdale Fashion Week"
-        },
         {
           "created_at": "2026-10-10T16:51:04.000Z",
           "id": "2108963537532186879",
@@ -139,10 +134,15 @@
           "created_at": "2026-10-12T19:28:48.000Z",
           "id": "2109728009544687860",
           "text": "Strc gonna get buys in before Thurs? (Probly not)"
+        },
+        {
+          "created_at": "2026-10-12T19:46:18.000Z",
+          "id": "2109732411739373841",
+          "quoted_text": "SpaceX will capture an asteroid with more gold than Earth's crust and land Optimus robots carrying American flags on Mars within 8 years.\n\nStarship parks Psyche in geosynchronous orbit over an American Pacific atoll. No humans within 50 miles. Optimus robots extract the metals. Delivery to Earth is free though some burns up on entry.\n\nBezos said 15 years ago Earth gets zoned residential as heavy industry moves to space. Vast distances make emissions irrelevant.\n\nThe same fleet lands on Mars in 8",
+          "text": "We gonna dump gold on asteroid mining or market not that silly rn https://t.co/pc1W1vhF4s"
         }
       ],
       "reads": {
-        "2108941422502301936": "No call",
         "2108963537532186879": "No call",
         "2108965025444688007": "No call",
         "2108976727443513849": "No call",
@@ -161,7 +161,8 @@
         "2109714720127365189": "No call",
         "2109715263763718226": "No call",
         "2109723006591529102": "No call",
-        "2109728009544687860": "No call"
+        "2109728009544687860": "No call",
+        "2109732411739373841": "No call"
       },
       "replies": [
         {
@@ -429,10 +430,13 @@
         "2109728009544687860": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109732411739373841": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108941422502301936": false,
         "2108963537532186879": false,
         "2108965025444688007": false,
         "2108976473554264501": false,
@@ -466,7 +470,8 @@
         "2109720733995941950": true,
         "2109723006591529102": true,
         "2109723741030846479": true,
-        "2109728009544687860": true
+        "2109728009544687860": true,
+        "2109732411739373841": true
       },
       "user_id": "1446541960181858315"
     },
@@ -512,7 +517,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2109731537252139228",
+      "last_id": "2109732366390538422",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -702,12 +707,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-10T13:44:52.000Z",
-          "id": "2108916678130335954",
-          "reply_to_id": "2108848142351585406",
-          "text": "@Jawsol_ i like kled!"
-        },
-        {
           "created_at": "2026-10-10T13:51:13.000Z",
           "id": "2108918275354800331",
           "reply_to_id": "2108912939113775347",
@@ -790,6 +789,15 @@
           "id": "2109731537252139228",
           "reply_to_id": "2109728505873502218",
           "text": "@icobeast same"
+        },
+        {
+          "created_at": "2026-10-12T19:46:07.000Z",
+          "id": "2109732366390538422",
+          "images": [
+            "https://pbs.twimg.com/media/HUdGZojaIAAktca.jpg"
+          ],
+          "reply_to_id": "2109728044839588031",
+          "text": "@seyong when collab \ud83d\ude33 https://t.co/yGLVqmrMkb"
         }
       ],
       "threads": {
@@ -1027,7 +1035,6 @@
         }
       },
       "trading": {
-        "2108916678130335954": true,
         "2108918275354800331": false,
         "2108977620604055751": true,
         "2109146373966925827": false,
@@ -1061,7 +1068,8 @@
         "2109688136351863257": false,
         "2109689601376018710": false,
         "2109701956440891883": true,
-        "2109731537252139228": false
+        "2109731537252139228": false,
+        "2109732366390538422": false
       },
       "user_id": "973261472"
     },
@@ -3754,5 +3762,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T19:44:19+00:00"
+  "updated_at": "2026-10-12T19:48:26+00:00"
 }
