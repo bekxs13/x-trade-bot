@@ -482,12 +482,12 @@
         },
         "memecoins": {
           "market": "crypto",
-          "post_id": "2108610728278298674",
-          "reason": "Says he's extremely bullish on capital moving onchain and expects some of the strongest opportunities this cycle from MemeFi projects combining memes with financial products.",
+          "post_id": "2109701956440891883",
+          "reason": "\"one of my strongest convictions this cycle is the social token thesis\" is bullish on influencer-driven memecoins, matching his recorded bullish memecoins view.",
           "scope": "memecoins",
           "since": "2026-10-09",
           "stance": "bullish",
-          "updated_at": "2026-10-09T17:29:08.000Z"
+          "updated_at": "2026-10-12T17:45:17.000Z"
         },
         "sol": {
           "market": "crypto",
@@ -501,7 +501,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2109689601376018710",
+      "last_id": "2109701956440891883",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -537,11 +537,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T17:44:57.000Z",
-          "id": "2108977096584462564",
-          "text": "this might be the best ponzi of all time"
-        },
         {
           "created_at": "2026-10-10T17:47:02.000Z",
           "id": "2108977620604055751",
@@ -662,10 +657,17 @@
           "id": "2109689601376018710",
           "quoted_text": "Ansem says Coinbase CEO Brian Armstrong is an absolute killer\n\n\u201cI feel like he's way, way more relatable on camera than he is on the timeline. Super smart guy. People don't realize, with his position, how fucking diehard you have to be to succeed in doing that, bro\u201d\n\n\u201cEvery single crypto exchange from around 2012 is dead besides him, in the US. They crushed it, and they've done a great job in the US for crypto\u201d",
           "text": "my goat https://t.co/uGGA0abK8M"
+        },
+        {
+          "created_at": "2026-10-12T17:45:17.000Z",
+          "id": "2109701956440891883",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2109701866116497408/img/xrbYw0KOlTnszvf-.jpg"
+          ],
+          "text": "one of my strongest convictions this cycle is the social token thesis\n\nDOGE showed how powerful distribution can become when someone with Elon\u2019s reach brings sustained attention to a community\n\ni expect influential individuals and their audiences to play an increasingly important role in how memecoins grow\n\nthe projects that develop their own identity and culture have a much more interesting setup than those simply copying what already worked"
         }
       ],
       "reads": {
-        "2108977096584462564": "No call",
         "2108977620604055751": "No call",
         "2109146373966925827": "No call",
         "2109188850966757704": "No call: bullish on ANSEM (65%, too unsure)",
@@ -684,7 +686,8 @@
         "2109502703147855922": "No call",
         "2109577662507454790": "No call",
         "2109595727404089816": "No call",
-        "2109689601376018710": "No call"
+        "2109689601376018710": "No call",
+        "2109701956440891883": "No call: bullish on memecoins (same view as before)"
       },
       "replies": [
         {
@@ -1006,13 +1009,16 @@
         "2109689601376018710": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109701956440891883": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2108916374240379077": false,
         "2108916678130335954": true,
         "2108918275354800331": false,
-        "2108977096584462564": true,
         "2108977620604055751": true,
         "2109146373966925827": false,
         "2109188850966757704": true,
@@ -1043,7 +1049,8 @@
         "2109629108028379603": false,
         "2109686654768464192": false,
         "2109688136351863257": false,
-        "2109689601376018710": false
+        "2109689601376018710": false,
+        "2109701956440891883": true
       },
       "user_id": "973261472"
     },
@@ -3645,5 +3652,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T17:36:18+00:00"
+  "updated_at": "2026-10-12T17:46:23+00:00"
 }
