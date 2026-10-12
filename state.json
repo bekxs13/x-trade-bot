@@ -21,17 +21,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2109703041574387981",
+      "last_id": "2109714720127365189",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-10T00:33:04.000Z",
-          "id": "2108717415286850013",
-          "images": [
-            "https://pbs.twimg.com/media/HUOrTpVXYAAvp3I.jpg"
-          ],
-          "text": "https://t.co/5P9jc1QUoY"
-        },
         {
           "created_at": "2026-10-10T00:34:44.000Z",
           "id": "2108717832657838507",
@@ -141,10 +133,17 @@
           "created_at": "2026-10-12T17:05:50.000Z",
           "id": "2109692028447834274",
           "text": "https://t.co/GQqxWZ7zAi"
+        },
+        {
+          "created_at": "2026-10-12T18:36:00.000Z",
+          "id": "2109714720127365189",
+          "images": [
+            "https://pbs.twimg.com/media/HUc2WZSa8AAKJk1.jpg"
+          ],
+          "text": "Glad to see everyone having a good time https://t.co/mPdasxxwQp"
         }
       ],
       "reads": {
-        "2108717415286850013": "No call",
         "2108717832657838507": "No call",
         "2108776549789093932": "No call",
         "2108939215665062167": "No call",
@@ -163,7 +162,8 @@
         "2109409060634440186": "No call",
         "2109575191492010236": "No call",
         "2109587377954189402": "No call",
-        "2109692028447834274": "No call"
+        "2109692028447834274": "No call",
+        "2109714720127365189": "No call"
       },
       "replies": [
         {
@@ -415,10 +415,13 @@
         "2109692028447834274": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109714720127365189": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108717415286850013": false,
         "2108717832657838507": false,
         "2108776549789093932": false,
         "2108939215665062167": false,
@@ -452,7 +455,8 @@
         "2109575775204847961": false,
         "2109587377954189402": false,
         "2109692028447834274": false,
-        "2109703041574387981": false
+        "2109703041574387981": false,
+        "2109714720127365189": false
       },
       "user_id": "1446541960181858315"
     },
@@ -2480,14 +2484,9 @@
       "biases": {},
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2109697947172557254",
+      "last_id": "2109714673545228532",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-08T12:44:13.000Z",
-          "id": "2108176640652226900",
-          "text": "MARKET OPEN: Crypto is in TROUBLE, AI is BREAKING EVERYTHING, HAPPY 10/10 https://t.co/GvNQejRwmm"
-        },
         {
           "created_at": "2026-10-08T13:37:07.000Z",
           "id": "2108189953905635365",
@@ -2595,10 +2594,15 @@
           "created_at": "2026-10-12T16:07:29.000Z",
           "id": "2109677343610425650",
           "text": "who should i invite on stream for a cryptography panel to discuss if ai will actually destroy our beloved coins forever"
+        },
+        {
+          "created_at": "2026-10-12T18:35:49.000Z",
+          "id": "2109714673545228532",
+          "reply_to_id": "2109677343610425650",
+          "text": "@mert and @zkDragon locked\n\nWorking on a couple others"
         }
       ],
       "reads": {
-        "2108176640652226900": "No call",
         "2108189953905635365": "No call: bearish on btc (60%, too unsure)",
         "2108198308762325357": "No call",
         "2108198895843266844": "No call",
@@ -2615,7 +2619,8 @@
         "2108538101950005277": "No call",
         "2108549683283144734": "No call",
         "2108968997542891854": "No call",
-        "2109677343610425650": "No call"
+        "2109677343610425650": "No call",
+        "2109714673545228532": "No call"
       },
       "replies": [
         {
@@ -2772,11 +2777,10 @@
         },
         "2109677343610425650": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2108176640652226900": true,
         "2108189953905635365": true,
         "2108198308762325357": false,
         "2108198895843266844": true,
@@ -2810,7 +2814,8 @@
         "2109690302307164626": false,
         "2109693902437416984": false,
         "2109696108851020074": false,
-        "2109697947172557254": false
+        "2109697947172557254": false,
+        "2109714673545228532": false
       },
       "user_id": "1426732252768182281"
     },
@@ -3710,5 +3715,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T18:24:22+00:00"
+  "updated_at": "2026-10-12T18:36:34+00:00"
 }
