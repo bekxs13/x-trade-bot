@@ -1628,12 +1628,12 @@
       "biases": {
         "alts": {
           "market": "crypto",
-          "post_id": "2109547099931168876",
-          "reason": "\"alts are the new memes\" plus \"few\" implies alts will pump like memes did, after pump.fun drained the meme trade; no recorded alts view.",
+          "post_id": "2109669028604309522",
+          "reason": "Says the SOXL/MU crash muting risk sentiment 'is probably not going to make short term for tail risk pairs look pretty'. That is a short-term cautious turn from the recorded bullish alts view.",
           "scope": "alts",
           "since": "2026-10-12",
-          "stance": "bullish",
-          "updated_at": "2026-10-12T07:29:56.000Z"
+          "stance": "neutral",
+          "updated_at": "2026-10-12T15:34:26.000Z"
         },
         "btc": {
           "market": "crypto",
@@ -1674,7 +1674,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109666936535892397",
+      "last_id": "2109669028604309522",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1755,16 +1755,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-11T15:27:11.000Z",
-          "id": "2109304815138562548",
-          "images": [
-            "https://pbs.twimg.com/media/HUXBiataoAA8obQ.jpg",
-            "https://pbs.twimg.com/media/HUXBi8cbsAECcaR.jpg"
-          ],
-          "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
-          "text": "for now though \n\nbought more $strk at .0116 before the week starts\n\nhave to say it looks incredible, i dont think that ppl realized that the move from 0.07 -&gt; 0.12 was on flat oi which is absolutely insane - that means we have fuel for far higher\n\n+500m move was spot-driven.\n\nfew https://t.co/c5EHAKQR2o https://t.co/birrKDo6ue"
-        },
         {
           "created_at": "2026-10-11T15:31:04.000Z",
           "id": "2109305791962558742",
@@ -1890,10 +1880,18 @@
           "created_at": "2026-10-12T15:13:05.000Z",
           "id": "2109663652630647111",
           "text": "moving all crypto lev positions to spot for now, soxl crashing -10% , mu crashing -4.5% today seems like it might mute risk sentiment for a bit"
+        },
+        {
+          "created_at": "2026-10-12T15:34:26.000Z",
+          "id": "2109669028604309522",
+          "images": [
+            "https://pbs.twimg.com/media/HUcMzCracAARMAf.jpg"
+          ],
+          "reply_to_id": "2109471730746155266",
+          "text": "https://t.co/g9vP0ftcz6"
         }
       ],
       "reads": {
-        "2109304815138562548": "TRADE LONG STRK",
         "2109305791962558742": "No call",
         "2109312317779558892": "No call",
         "2109471730746155266": "TRADE LONG W",
@@ -1910,7 +1908,8 @@
         "2109590662803075360": "No call",
         "2109611372359377271": "No call",
         "2109623750056645100": "No call",
-        "2109663652630647111": "TRADE TRIM crypto leveraged positions \u00b7 VIEW neutral on crypto market"
+        "2109663652630647111": "TRADE TRIM crypto leveraged positions \u00b7 VIEW neutral on crypto market",
+        "2109669028604309522": "TRADE TRIM W \u00b7 VIEW neutral on alts"
       },
       "replies": [
         {
@@ -2311,9 +2310,11 @@
         },
         "2109471730746155266": {
           "alerted": [
-            "trade:W:long"
+            "trade:W:long",
+            "trade:W:trim",
+            "bias:alts:neutral"
           ],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2109471948963209652": {
           "alerted": [],
@@ -2376,7 +2377,6 @@
         }
       },
       "trading": {
-        "2109304815138562548": true,
         "2109305791962558742": true,
         "2109312317779558892": true,
         "2109317895742513278": true,
@@ -2410,7 +2410,8 @@
         "2109654888238170557": false,
         "2109663652630647111": true,
         "2109664845356482863": true,
-        "2109666936535892397": true
+        "2109666936535892397": true,
+        "2109669028604309522": false
       },
       "user_id": "1653080265294757890"
     },
@@ -3627,5 +3628,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T15:30:21+00:00"
+  "updated_at": "2026-10-12T15:36:31+00:00"
 }
