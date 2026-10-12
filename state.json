@@ -1605,6 +1605,15 @@
     "moneyprinter0x": {
       "backfilled": true,
       "biases": {
+        "alts": {
+          "market": "crypto",
+          "post_id": "2109547099931168876",
+          "reason": "\"alts are the new memes\" plus \"few\" implies alts will pump like memes did, after pump.fun drained the meme trade; no recorded alts view.",
+          "scope": "alts",
+          "since": "2026-10-12",
+          "stance": "bullish",
+          "updated_at": "2026-10-12T07:29:56.000Z"
+        },
         "btc": {
           "market": "crypto",
           "post_id": "2108467127783154171",
@@ -1644,7 +1653,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109542569201766712",
+      "last_id": "2109547099931168876",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1725,15 +1734,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T22:21:39.000Z",
-          "id": "2109046732403495217",
-          "images": [
-            "https://pbs.twimg.com/media/HUTW0pvbwAAjiMz.jpg"
-          ],
-          "quoted_text": "@dotiryaki \u201cI can\u2019t buy i already missed the move\u201d - guy who doesn\u2019t make it",
-          "text": "https://t.co/dP5yVIgAyR https://t.co/f4fC6ta4vl"
-        },
         {
           "created_at": "2026-10-10T22:23:13.000Z",
           "id": "2109047125938208858",
@@ -1869,10 +1869,14 @@
           "id": "2109542569201766712",
           "quoted_text": "finally managed to buy more spot & low lev $w at 0.028 across 5 venues both cex and dex\n\nfor spot: this is currently available in binance, bybit, uniswap, upbit, coinbase, gate, mexc, etc\n\nwill not be surprised if we see $w to 0.1-0.5 range this quarter.\n\npeople don't realize that every single trade thats executed by securitize (top 1 rwa protocol in the entire industry) is exclusively powered by wormhole + the interoperability of everything going into a major crypto cycle will and should never ",
           "text": "and also since a lot of ppl are asking\n\n$w spot is available on jupiter https://t.co/qQfG557YSj"
+        },
+        {
+          "created_at": "2026-10-12T07:29:56.000Z",
+          "id": "2109547099931168876",
+          "text": "alts are the new memes after what happened with pf this cycle\n\nfew"
         }
       ],
       "reads": {
-        "2109046732403495217": "No call",
         "2109047125938208858": "No call",
         "2109146497195667885": "No call",
         "2109254892682686718": "No call: bullish on crypto market (same view as before)",
@@ -1890,7 +1894,8 @@
         "2109486529106362694": "No call",
         "2109523378264846593": "No call",
         "2109540880973787414": "TRADE LONG W",
-        "2109542569201766712": "No call"
+        "2109542569201766712": "No call",
+        "2109547099931168876": "VIEW bullish on alts"
       },
       "replies": [
         {
@@ -2325,10 +2330,15 @@
         "2109542569201766712": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109547099931168876": {
+          "alerted": [
+            "bias:alts:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109046732403495217": true,
         "2109047125938208858": true,
         "2109146497195667885": true,
         "2109254892682686718": true,
@@ -2362,7 +2372,8 @@
         "2109540880973787414": true,
         "2109541755645526385": true,
         "2109541794874798446": true,
-        "2109542569201766712": true
+        "2109542569201766712": true,
+        "2109547099931168876": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3547,5 +3558,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-12T07:12:26+00:00"
+  "updated_at": "2026-10-12T07:30:25+00:00"
 }
