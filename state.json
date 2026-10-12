@@ -21,17 +21,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2109761803874193894",
+      "last_id": "2109771182757269823",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-10T19:17:05.000Z",
-          "id": "2109000285268132335",
-          "images": [
-            "https://pbs.twimg.com/media/HUSslNyXoAIlYOd.jpg"
-          ],
-          "text": "https://t.co/xZg9pcwBxW"
-        },
         {
           "created_at": "2026-10-11T01:18:40.000Z",
           "id": "2109091278000623693",
@@ -143,10 +135,19 @@
           "created_at": "2026-10-12T21:43:06.000Z",
           "id": "2109761803874193894",
           "text": "Anthropic S-1: Risk Factors\n\nAnthropic is designated as a Supply Chain Risk to National Security by the United States Government.\n\nCompanies sharing similar designations include Hikvision and Dahua, for enabling repression and arbitrary mass detention of the Uyghurs in Xinjang"
+        },
+        {
+          "created_at": "2026-10-12T22:20:22.000Z",
+          "id": "2109771182757269823",
+          "images": [
+            "https://pbs.twimg.com/media/HUdpsrEaEAAAxmo.jpg",
+            "https://pbs.twimg.com/media/HUdptARboAACD-e.png"
+          ],
+          "reply_to_id": "2109409060634440186",
+          "text": "https://t.co/VWLy4bTzrn"
         }
       ],
       "reads": {
-        "2109000285268132335": "No call",
         "2109091278000623693": "No call",
         "2109092758602613218": "No call",
         "2109136416370467023": "No call",
@@ -163,7 +164,8 @@
         "2109723006591529102": "No call",
         "2109728009544687860": "No call",
         "2109732411739373841": "No call",
-        "2109761803874193894": "No call"
+        "2109761803874193894": "No call",
+        "2109771182757269823": "No call"
       },
       "replies": [
         {
@@ -396,7 +398,7 @@
         },
         "2109409060634440186": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2109575191492010236": {
           "alerted": [],
@@ -436,7 +438,6 @@
         }
       },
       "trading": {
-        "2109000285268132335": false,
         "2109091278000623693": false,
         "2109092758602613218": false,
         "2109134798505840763": false,
@@ -470,7 +471,8 @@
         "2109745013567672574": true,
         "2109746332294590490": false,
         "2109750500803608831": false,
-        "2109761803874193894": false
+        "2109761803874193894": false,
+        "2109771182757269823": false
       },
       "user_id": "1446541960181858315"
     },
@@ -3782,5 +3784,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T22:16:20+00:00"
+  "updated_at": "2026-10-12T22:22:28+00:00"
 }
