@@ -1674,7 +1674,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109605374353359197",
+      "last_id": "2109611372359377271",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1755,12 +1755,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-11T12:22:08.000Z",
-          "id": "2109258245022138455",
-          "quoted_text": "we are 4 months away from a new dawn in the cryptocurrency industry.",
-          "text": "New dawn https://t.co/jQoYg8uAof"
-        },
         {
           "created_at": "2026-10-11T13:00:26.000Z",
           "id": "2109267884983845150",
@@ -1893,10 +1887,15 @@
           "id": "2109590662803075360",
           "reply_to_id": "2109523378264846593",
           "text": "guys, i meant that i wanted to join more privates\n\ni havent made my own private yet\ud83d\ude02"
+        },
+        {
+          "created_at": "2026-10-12T11:45:20.000Z",
+          "id": "2109611372359377271",
+          "quoted_text": "bought an insane amount of wormhole $W\n\ntop 1 rwa dominance infra + interoperability of everything shouldnt be anywhere near 150m mc imo\n\nsecond kingmaker. https://t.co/jWYb3QmQTQ",
+          "text": "after further research it looks like theres some points that needs to be pointed out:\n\n1. apparently $W the company has faked volume numbers before - personally my pov is that this is priced in and sentiment is at ~rock bottom, but i think this is still a point that should be brought up regardless \n\n2. stressed again that 4.5bil rwa value on securitize, not wormhole - wormhole is the interop layer, securitize is the rwa layer\n\nsecuritize is the strongest rwa player at the moment and their exclusive partner is wormhole\n\nthe trade is that going into a new cycle where both rwas and interop is likely to be (very) sticky sectors, $w is a deserving play at 200m mc \n\nhowever until rwa picks up further and sentiment around w improves, perhaps it might be best to re-classify this closer to a viable asymmetric bet than a second kingmaker \n\nhoping it cooks!"
         }
       ],
       "reads": {
-        "2109258245022138455": "No call: bullish on crypto market (same view as before)",
         "2109267884983845150": "No call: bullish on hyperevm (55%, too unsure)",
         "2109271798634385669": "No call",
         "2109304195367272829": "TRADE LONG STRK",
@@ -1914,7 +1913,8 @@
         "2109547099931168876": "VIEW bullish on alts",
         "2109548842873929932": "No call",
         "2109571042712916015": "No call",
-        "2109590662803075360": "No call"
+        "2109590662803075360": "No call",
+        "2109611372359377271": "No call"
       },
       "replies": [
         {
@@ -2366,10 +2366,13 @@
         "2109571042712916015": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109611372359377271": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109258245022138455": true,
         "2109267884983845150": true,
         "2109271798634385669": false,
         "2109304195367272829": true,
@@ -2403,7 +2406,8 @@
         "2109577356981780686": true,
         "2109590662803075360": false,
         "2109604031354249681": false,
-        "2109605374353359197": true
+        "2109605374353359197": true,
+        "2109611372359377271": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3588,5 +3592,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-12T11:22:22+00:00"
+  "updated_at": "2026-10-12T11:46:24+00:00"
 }
