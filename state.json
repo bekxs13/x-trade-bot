@@ -1674,7 +1674,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109650279549558935",
+      "last_id": "2109650519979598207",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1755,11 +1755,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-11T13:15:59.000Z",
-          "id": "2109271798634385669",
-          "text": "prolly talk more on current positions on monday\n\ngonna rest today, happy Sunday bros"
-        },
         {
           "created_at": "2026-10-11T15:24:43.000Z",
           "id": "2109304195367272829",
@@ -1893,10 +1888,15 @@
           "created_at": "2026-10-12T12:34:31.000Z",
           "id": "2109623750056645100",
           "text": "reminder to turn down leverage"
+        },
+        {
+          "created_at": "2026-10-12T14:20:54.000Z",
+          "id": "2109650519979598207",
+          "reply_to_id": "2109650279549558935",
+          "text": "@UnpumpedGems @0xFent_ but with that being said its best to not trade bcs someone else is trading something"
         }
       ],
       "reads": {
-        "2109271798634385669": "No call",
         "2109304195367272829": "TRADE LONG STRK",
         "2109304815138562548": "TRADE LONG STRK",
         "2109305791962558742": "No call",
@@ -2373,7 +2373,6 @@
         }
       },
       "trading": {
-        "2109271798634385669": false,
         "2109304195367272829": true,
         "2109304815138562548": true,
         "2109305791962558742": true,
@@ -2407,7 +2406,8 @@
         "2109615231009726539": false,
         "2109623750056645100": true,
         "2109626152155509235": true,
-        "2109650279549558935": true
+        "2109650279549558935": true,
+        "2109650519979598207": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3592,5 +3592,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T14:20:24+00:00"
+  "updated_at": "2026-10-12T14:22:20+00:00"
 }
