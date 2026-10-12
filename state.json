@@ -3379,7 +3379,7 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2109698195953692702",
+      "last_id": "2109704848866459700",
       "positions": {},
       "posts": [
         {
@@ -3479,6 +3479,11 @@
             "https://pbs.twimg.com/media/HUcJ0CLWQAADzJ3.jpg"
           ],
           "text": "https://t.co/DCqgHlzCs7 https://t.co/UISLK962GA"
+        },
+        {
+          "created_at": "2026-10-12T17:56:47.000Z",
+          "id": "2109704848866459700",
+          "text": "Still don't understand why Hyperliquid/Unit doesn't drop spot trading to fees to 0 so it's the cheapest place onchain to trade spot.\n\nFeels incredibly obvious as growth has stagnated on spot volumes."
         }
       ],
       "reads": {
@@ -3497,7 +3502,8 @@
         "2108403707645764048": "No call: bearish on stocks/macro (60%, too unsure)",
         "2108574034916999548": "VIEW bearish on stocks/macro",
         "2109664493479637119": "No call",
-        "2109665744988643349": "No call: bearish on stocks/macro (60%, too unsure)"
+        "2109665744988643349": "No call: bearish on stocks/macro (60%, too unsure)",
+        "2109704848866459700": "No call"
       },
       "replies": [
         {
@@ -3623,6 +3629,10 @@
         "2109665744988643349": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109704848866459700": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -3653,7 +3663,8 @@
         "2109662643053371875": false,
         "2109664493479637119": false,
         "2109665744988643349": false,
-        "2109698195953692702": false
+        "2109698195953692702": false,
+        "2109704848866459700": true
       },
       "user_id": "809191427645181952"
     }
@@ -3669,5 +3680,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T17:54:24+00:00"
+  "updated_at": "2026-10-12T17:58:21+00:00"
 }
