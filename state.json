@@ -1674,7 +1674,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109623750056645100",
+      "last_id": "2109626152155509235",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1918,12 +1918,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T05:16:38.000Z",
-          "id": "2109513553816502278",
-          "reply_to_id": "2109392444936659119",
-          "text": "@LarpyCoperstein every asset is just beta stacked spx, its not a secret lol"
-        },
-        {
           "created_at": "2026-10-12T05:45:49.000Z",
           "id": "2109520896541208928",
           "images": [
@@ -2013,6 +2007,12 @@
           "id": "2109615231009726539",
           "reply_to_id": "2109614524114616689",
           "text": "@issacley theyre good too!"
+        },
+        {
+          "created_at": "2026-10-12T12:44:04.000Z",
+          "id": "2109626152155509235",
+          "reply_to_id": "2109624687009345805",
+          "text": "@AndorinhasQ still valid\n\nbut seeing some ppl go crazy with lev on high volatility plays atm"
         }
       ],
       "threads": {
@@ -2388,7 +2388,6 @@
         "2109479031863394733": true,
         "2109479266299916444": true,
         "2109486529106362694": true,
-        "2109513553816502278": true,
         "2109520896541208928": true,
         "2109523378264846593": true,
         "2109540880973787414": true,
@@ -2411,7 +2410,8 @@
         "2109612170795249908": true,
         "2109614144685257139": false,
         "2109615231009726539": false,
-        "2109623750056645100": true
+        "2109623750056645100": true,
+        "2109626152155509235": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3596,5 +3596,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T12:36:22+00:00"
+  "updated_at": "2026-10-12T12:44:21+00:00"
 }
