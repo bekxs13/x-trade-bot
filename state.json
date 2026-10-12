@@ -1653,7 +1653,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109551297531920688",
+      "last_id": "2109560943567093827",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1896,12 +1896,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-11T15:48:57.000Z",
-          "id": "2109310291494478333",
-          "reply_to_id": "2109309884084699366",
-          "text": "@Timeisup77 i hope they can unlock my pnl"
-        },
-        {
           "created_at": "2026-10-11T15:54:40.000Z",
           "id": "2109311731545870588",
           "reply_to_id": "2109309072235258073",
@@ -1991,6 +1985,12 @@
           ],
           "reply_to_id": "2109513685039190337",
           "text": "@ieaturfoods https://t.co/2pknJmDflt"
+        },
+        {
+          "created_at": "2026-10-12T08:24:57.000Z",
+          "id": "2109560943567093827",
+          "reply_to_id": "2109559662706311445",
+          "text": "@ieaturfoods if they are faking the numbers then i agree its not tradeable at all\n\nbut atm its an assumption and sentiment wise its ~rock bottom"
         }
       ],
       "threads": {
@@ -2351,7 +2351,6 @@
         "2109304195367272829": true,
         "2109304815138562548": true,
         "2109305791962558742": true,
-        "2109310291494478333": true,
         "2109311731545870588": false,
         "2109312317779558892": true,
         "2109317895742513278": true,
@@ -2377,7 +2376,8 @@
         "2109549587270877564": true,
         "2109550361182650769": true,
         "2109550485833408965": true,
-        "2109551297531920688": false
+        "2109551297531920688": false,
+        "2109560943567093827": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3562,5 +3562,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-12T07:48:16+00:00"
+  "updated_at": "2026-10-12T08:26:18+00:00"
 }
