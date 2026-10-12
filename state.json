@@ -1335,7 +1335,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2109703293270364304",
+      "last_id": "2109703958189240494",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1452,6 +1452,12 @@
           "id": "2109703293270364304",
           "quoted_text": "Goog amzn going well, holding spot trad still good (brk leaps also performing again lmfao SOMEDAY), cut ASTS today got fkd on that, adding some ewy shorts to go against mag longs (again mostly goog amzn), mostly still just riding spot long trad as I think good setup for higher \n\nCrypto still ugly and needs patience imo \n\nEnjoy your weekends bros",
           "text": "Long mags short memory going swimmingly (memory stuff seems to be on a knife\u2019s edge right now) \n\nCrypto I still believe needs more patience especially after the weekend musical chairs of microcap perps being the best we could do, eth rejected range high of former range it fell in https://t.co/See7RU3pj0"
+        },
+        {
+          "created_at": "2026-10-12T17:53:14.000Z",
+          "id": "2109703958189240494",
+          "reply_to_id": "2109703293270364304",
+          "text": "Ewy sndk intc type stuff look like brutal complacency shoulders while goog amzn msft meta type stuff continues to look favourable and hold the index at a nice spot \n\nNo reason to rush to act beyond this, will continue monitoring"
         }
       ],
       "reads": {
@@ -1464,7 +1470,8 @@
         "2108616630343504339": "TRADE SHORT EWY \u00b7 VIEW bearish on crypto market",
         "2108637867329384826": "No call",
         "2108642063260831803": "No call: bearish on crypto market (same view as before)",
-        "2109703293270364304": "No call: bearish on crypto market (same view as before)"
+        "2109703293270364304": "No call: bearish on crypto market (same view as before)",
+        "2109703958189240494": "No call"
       },
       "replies": [
         {
@@ -1606,7 +1613,7 @@
         },
         "2109703293270364304": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
@@ -1641,7 +1648,8 @@
         "2109420420235739258": false,
         "2109420829926953299": false,
         "2109422381546803602": true,
-        "2109703293270364304": true
+        "2109703293270364304": true,
+        "2109703958189240494": true
       },
       "user_id": "953032269433745408"
     },
@@ -3661,5 +3669,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T17:52:27+00:00"
+  "updated_at": "2026-10-12T17:54:24+00:00"
 }
