@@ -1674,7 +1674,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109653936269611049",
+      "last_id": "2109654888238170557",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1918,12 +1918,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T07:39:49.000Z",
-          "id": "2109549587270877564",
-          "reply_to_id": "2109549057979146442",
-          "text": "@Monaco2027 crypto and liquidity is far better now and people are rotating into alts\n\nmemes has destroyed the industry and people want to return to real tech\n\nin crypto, there is only a few things that will always remain sticky - interoperability &amp; rwas is one definite thing this cycle"
-        },
-        {
           "created_at": "2026-10-12T07:42:54.000Z",
           "id": "2109550361182650769",
           "reply_to_id": "2109549057979146442",
@@ -2009,6 +2003,12 @@
           "id": "2109653936269611049",
           "reply_to_id": "2109653772553064629",
           "text": "@Lyskey @EliBenSasson nice nice"
+        },
+        {
+          "created_at": "2026-10-12T14:38:15.000Z",
+          "id": "2109654888238170557",
+          "reply_to_id": "2109654112962793874",
+          "text": "@Calcutat @EliBenSasson nice nice"
         }
       ],
       "threads": {
@@ -2388,7 +2388,6 @@
         "2109542569201766712": true,
         "2109547099931168876": true,
         "2109548842873929932": true,
-        "2109549587270877564": true,
         "2109550361182650769": true,
         "2109550485833408965": true,
         "2109551297531920688": false,
@@ -2407,7 +2406,8 @@
         "2109650279549558935": true,
         "2109650519979598207": true,
         "2109653261599010857": true,
-        "2109653936269611049": false
+        "2109653936269611049": false,
+        "2109654888238170557": false
       },
       "user_id": "1653080265294757890"
     },
@@ -3592,5 +3592,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T14:36:18+00:00"
+  "updated_at": "2026-10-12T14:40:21+00:00"
 }
