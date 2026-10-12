@@ -1335,7 +1335,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2109710662536745312",
+      "last_id": "2109711687503007938",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1355,11 +1355,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-07T21:22:44.000Z",
-          "id": "2107944740977287271",
-          "text": "Only offensive thing was calling me the face of vague posting when I\u2019m one of the only people who explicitly updates entries on exits on every single trade but I didn\u2019t care to argue the point lmfao"
-        },
         {
           "created_at": "2026-10-07T22:43:00.000Z",
           "id": "2107964940585967656",
@@ -1473,6 +1468,11 @@
           "created_at": "2026-10-12T18:19:53.000Z",
           "id": "2109710662536745312",
           "text": "No crying in the casino!"
+        },
+        {
+          "created_at": "2026-10-12T18:22:12.000Z",
+          "id": "2109711246241251589",
+          "text": "When the coins price was going up I ascertained that the fundamentals were rapidly improving but when the coin reversed this move within a few hours I realized they were in fact not any better \n\n#investing"
         }
       ],
       "reads": {
@@ -1487,15 +1487,10 @@
         "2108642063260831803": "No call: bearish on crypto market (same view as before)",
         "2109703293270364304": "No call: bearish on crypto market (same view as before)",
         "2109703958189240494": "No call",
-        "2109710662536745312": "No call"
+        "2109710662536745312": "No call",
+        "2109711246241251589": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-09T19:45:25.000Z",
-          "id": "2108645025966178340",
-          "reply_to_id": "2108623731945836872",
-          "text": "@RipRogus https://t.co/RbH4wrcfd8 https://t.co/xe1FaqHTIm"
-        },
         {
           "created_at": "2026-10-09T19:46:07.000Z",
           "id": "2108645201929757038",
@@ -1582,6 +1577,12 @@
           "id": "2109710435519987781",
           "reply_to_id": "2109709983407579418",
           "text": "@TraderCMZ Indeed"
+        },
+        {
+          "created_at": "2026-10-12T18:23:57.000Z",
+          "id": "2109711687503007938",
+          "reply_to_id": "2109711427368001639",
+          "text": "@DeepDishEnjoyer @chumbawamba22 @icyponds ^^"
         }
       ],
       "threads": {
@@ -1637,10 +1638,13 @@
         "2109710662536745312": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109711246241251589": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2107944740977287271": true,
         "2107964940585967656": false,
         "2107994669020025063": false,
         "2108271202875969933": true,
@@ -1653,7 +1657,6 @@
         "2108637867329384826": true,
         "2108642063260831803": true,
         "2108643999506669597": false,
-        "2108645025966178340": false,
         "2108645201929757038": true,
         "2108645604368978262": true,
         "2108645995873796099": true,
@@ -1674,7 +1677,9 @@
         "2109707108384121307": false,
         "2109708194956345393": false,
         "2109710435519987781": false,
-        "2109710662536745312": true
+        "2109710662536745312": true,
+        "2109711246241251589": true,
+        "2109711687503007938": false
       },
       "user_id": "953032269433745408"
     },
@@ -3705,5 +3710,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T18:20:23+00:00"
+  "updated_at": "2026-10-12T18:24:22+00:00"
 }
