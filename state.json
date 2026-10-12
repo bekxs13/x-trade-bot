@@ -21,7 +21,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2109744329376117246",
+      "last_id": "2109745013567672574",
       "positions": {},
       "posts": [
         {
@@ -167,12 +167,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-10T18:05:05.000Z",
-          "id": "2108982163375096097",
-          "reply_to_id": "2108982047167443275",
-          "text": "@notthreadguy @Market__Theory @justachillelite Just might be\u2026 sorry I missed the rage"
-        },
-        {
           "created_at": "2026-10-10T19:17:24.000Z",
           "id": "2109000361914609787",
           "reply_to_id": "2108976952862482709",
@@ -255,6 +249,12 @@
           "id": "2109744329376117246",
           "reply_to_id": "2109744128154317125",
           "text": "@DeepDishEnjoyer Sacks definitely does not like Ant, anything is possible"
+        },
+        {
+          "created_at": "2026-10-12T20:36:23.000Z",
+          "id": "2109745013567672574",
+          "reply_to_id": "2109744843551637981",
+          "text": "@DeepDishEnjoyer It may be worse to have them ipo and go to zero than just block it and kingmake OAI / Meta"
         }
       ],
       "threads": {
@@ -433,7 +433,6 @@
       },
       "trading": {
         "2108976727443513849": false,
-        "2108982163375096097": false,
         "2109000285268132335": false,
         "2109000361914609787": false,
         "2109091278000623693": false,
@@ -466,7 +465,8 @@
         "2109743662821445926": true,
         "2109743802550534193": true,
         "2109744199063285853": false,
-        "2109744329376117246": false
+        "2109744329376117246": false,
+        "2109745013567672574": true
       },
       "user_id": "1446541960181858315"
     },
@@ -3777,5 +3777,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T20:34:21+00:00"
+  "updated_at": "2026-10-12T20:38:22+00:00"
 }
