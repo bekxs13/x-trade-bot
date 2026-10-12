@@ -488,7 +488,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2109454998547353639",
+      "last_id": "2109455732659863732",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -524,14 +524,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T13:02:56.000Z",
-          "id": "2108543735932031467",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2108543597998202880/img/pDDPs1u9uetaRCqE.jpg"
-          ],
-          "text": "The energy at TOKEN2049 Singapore has been incredible, with strong institutional interest and some of the smartest builders in crypto coming together\n\nFeeling increasingly bullish on where this industry is headed, especially with the progress we've made in tokenization, stablecoins, and perpetual futures"
-        },
         {
           "created_at": "2026-10-09T17:29:08.000Z",
           "id": "2108610728278298674",
@@ -656,10 +648,15 @@
           "created_at": "2026-10-12T00:51:17.000Z",
           "id": "2109446775861899417",
           "text": "you can only hold 3 altcoins &gt; 500M FDV going into Q4, which do you hold and what are your targets by December 25th, 2026"
+        },
+        {
+          "created_at": "2026-10-12T01:26:53.000Z",
+          "id": "2109455732659863732",
+          "quoted_text": "JUST IN: TRADERS CALLING FOR A PUMPFUN VS FOMO FIGHT NIGHT https://t.co/f83ABBQMFO",
+          "text": "ok i have an idea\n\nwe host a CT Olympics event\n\nevents are:\n\n\u2022 perps trading\n\u2022 boxing\n\u2022 memecoin trading\n\u2022 100M dash\n\u2022 5k\n\none in NYC, one in Dubai\n\nsponsors: coinbase, kraken, okx, binance, bybit\n\nwe draft teams and let people bet on them\n\nwho says yes https://t.co/lJuLIftZkz"
         }
       ],
       "reads": {
-        "2108543735932031467": "No call: bullish on crypto market (60%, too unsure)",
         "2108610728278298674": "VIEW bullish on memecoins",
         "2108836968272744589": "No call: bullish on GRASS (60%, too unsure)",
         "2108923271894941699": "No call",
@@ -678,7 +675,8 @@
         "2109423308240490601": "No call",
         "2109445598252568828": "No call: bullish on alts (same view as before)",
         "2109446675245019260": "No call",
-        "2109446775861899417": "No call"
+        "2109446775861899417": "No call",
+        "2109455732659863732": "No call"
       },
       "replies": [
         {
@@ -968,11 +966,14 @@
         "2109446775861899417": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109455732659863732": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2108454230248042798": false,
-        "2108543735932031467": true,
         "2108556288162402327": false,
         "2108610728278298674": true,
         "2108820267976056979": true,
@@ -1005,7 +1006,8 @@
         "2109445598252568828": true,
         "2109446675245019260": true,
         "2109446775861899417": true,
-        "2109454998547353639": true
+        "2109454998547353639": true,
+        "2109455732659863732": false
       },
       "user_id": "973261472"
     },
@@ -3477,5 +3479,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-12T01:24:17+00:00"
+  "updated_at": "2026-10-12T01:28:24+00:00"
 }
