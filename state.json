@@ -505,6 +505,15 @@
           "stance": "bullish",
           "updated_at": "2026-10-12T17:45:17.000Z"
         },
+        "pump": {
+          "market": "crypto",
+          "post_id": "2109734999708831885",
+          "reason": "Says people are not accurately tracking how much money pump makes and gives back, on track for ~$1B/year. That is a bullish fundamental case on PUMP.",
+          "scope": "PUMP",
+          "since": "2026-10-12",
+          "stance": "bullish",
+          "updated_at": "2026-10-12T19:56:35.000Z"
+        },
         "sol": {
           "market": "crypto",
           "post_id": "2108378051985985755",
@@ -517,7 +526,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2109732366390538422",
+      "last_id": "2109734999708831885",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -553,11 +562,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T17:47:02.000Z",
-          "id": "2108977620604055751",
-          "text": "paper stakers have made 15M in 3 hours LOL"
-        },
         {
           "created_at": "2026-10-11T04:57:36.000Z",
           "id": "2109146373966925827",
@@ -681,10 +685,15 @@
             "https://pbs.twimg.com/amplify_video_thumb/2109701866116497408/img/xrbYw0KOlTnszvf-.jpg"
           ],
           "text": "one of my strongest convictions this cycle is the social token thesis\n\nDOGE showed how powerful distribution can become when someone with Elon\u2019s reach brings sustained attention to a community\n\ni expect influential individuals and their audiences to play an increasingly important role in how memecoins grow\n\nthe projects that develop their own identity and culture have a much more interesting setup than those simply copying what already worked"
+        },
+        {
+          "created_at": "2026-10-12T19:56:35.000Z",
+          "id": "2109734999708831885",
+          "quoted_text": "$26,750,000 was paid out to users in the Pumpfun ecosystem over the past week. That's:\n\n- $3.82M every day\n- $159,261 every hour\n- $2,654 every minute\n\nThe rewarding ecosystem.",
+          "text": "insane amount of cash returned directly back to users, on track for ~$1B/year at this rate\n\nhave been saying people are not accurately tracking how much money pump not only makes but also gives back to its ecosystem https://t.co/scvkE2SrzE"
         }
       ],
       "reads": {
-        "2108977620604055751": "No call",
         "2109146373966925827": "No call",
         "2109188850966757704": "No call: bullish on ANSEM (65%, too unsure)",
         "2109258057075351629": "No call",
@@ -703,7 +712,8 @@
         "2109577662507454790": "No call",
         "2109595727404089816": "No call",
         "2109689601376018710": "No call",
-        "2109701956440891883": "No call: bullish on memecoins (same view as before)"
+        "2109701956440891883": "No call: bullish on memecoins (same view as before)",
+        "2109734999708831885": "VIEW bullish on PUMP"
       },
       "replies": [
         {
@@ -1032,11 +1042,16 @@
         "2109701956440891883": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109734999708831885": {
+          "alerted": [
+            "bias:pump:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
         "2108918275354800331": false,
-        "2108977620604055751": true,
         "2109146373966925827": false,
         "2109188850966757704": true,
         "2109258057075351629": true,
@@ -1069,7 +1084,8 @@
         "2109689601376018710": false,
         "2109701956440891883": true,
         "2109731537252139228": false,
-        "2109732366390538422": false
+        "2109732366390538422": false,
+        "2109734999708831885": true
       },
       "user_id": "973261472"
     },
@@ -3762,5 +3778,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T19:48:26+00:00"
+  "updated_at": "2026-10-12T19:58:22+00:00"
 }
