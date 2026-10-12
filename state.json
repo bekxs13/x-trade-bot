@@ -21,14 +21,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2109774027598467379",
+      "last_id": "2109778482662400314",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-11T01:24:33.000Z",
-          "id": "2109092758602613218",
-          "text": "https://t.co/tkvEkgb5KD"
-        },
         {
           "created_at": "2026-10-11T04:18:02.000Z",
           "id": "2109136416370467023",
@@ -141,10 +136,15 @@
           "created_at": "2026-10-12T22:31:40.000Z",
           "id": "2109774027598467379",
           "text": "Anthropic S-1: Risk Factors\n\nOur Series B was led by Sam Bankman-Fried. Our governance trust has included the CEO of the Centre for Effective Altruism."
+        },
+        {
+          "created_at": "2026-10-12T22:49:22.000Z",
+          "id": "2109778482662400314",
+          "quoted_text": "The stock market feels different right now because it is different. Winners keep winning, losers get pounded, earnings reactions are increasingly unpredictable and larger.\n\u00a0\nThe tremendous growth in passive investing combined with the fact that HFT, retail, and short-duration capital dominate trading volumes has meaningfully changed \"price discovery\" in the short term.\n\u00a0\nThis creates short-term risk and volatility, but it also creates some interesting opportunities for those who can identity val",
+          "text": "What I do for work? \n\nI identify value, assist with narrative, and drive improvements https://t.co/STPtyA4H7v"
         }
       ],
       "reads": {
-        "2109092758602613218": "No call",
         "2109136416370467023": "No call",
         "2109138910492438792": "No call",
         "2109140041129959671": "No call",
@@ -161,7 +161,8 @@
         "2109732411739373841": "No call",
         "2109761803874193894": "No call",
         "2109771182757269823": "No call",
-        "2109774027598467379": "No call"
+        "2109774027598467379": "No call",
+        "2109778482662400314": "No call"
       },
       "replies": [
         {
@@ -435,10 +436,13 @@
         "2109774027598467379": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109778482662400314": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109092758602613218": false,
         "2109134798505840763": false,
         "2109136416370467023": false,
         "2109138910492438792": false,
@@ -472,7 +476,8 @@
         "2109750500803608831": false,
         "2109761803874193894": false,
         "2109771182757269823": false,
-        "2109774027598467379": false
+        "2109774027598467379": false,
+        "2109778482662400314": true
       },
       "user_id": "1446541960181858315"
     },
@@ -1368,17 +1373,17 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2109703293270364304",
-          "reason": "\"Crypto I still believe needs more patience\" and \"eth rejected range high\" repeat his recorded bearish, wait-and-see crypto stance.",
+          "post_id": "2109778560567402878",
+          "reason": "'top range is yearly open and we gonna spike sub 81' fits his repeated use of yearly opens on majors as pivots. He'd only long HYPE and ETH 'after clarity', which matches his ongoing 'crypto needs patience' view.",
           "scope": "crypto market",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-12T17:50:36.000Z"
+          "updated_at": "2026-10-12T22:49:41.000Z"
         }
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2109778066151207408",
+      "last_id": "2109778560567402878",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1395,14 +1400,25 @@
           "since": "2026-10-09T17:52:35.000Z",
           "structure": "unknown",
           "url": "https://x.com/lbattlerhino/status/2108616630343504339"
+        },
+        "GOOG": {
+          "asset": "GOOG",
+          "chain": "",
+          "confidence": 0.75,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "",
+          "market": "stocks",
+          "open_price": null,
+          "post_id": "2109778560567402878",
+          "reason": "In a sarcastic reply to 'vagueposting' critics he spells it out: long GOOG and AMZN, hedged with the EWY shorts already on record, 'all in profit'. This recaps longs first mentioned on 10-09, but the GOOG/AMZN long isn't on record yet.",
+          "since": "2026-10-12T22:49:41.000Z",
+          "structure": "spot",
+          "url": "https://x.com/lbattlerhino/status/2109778560567402878"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-08T18:59:59.000Z",
-          "id": "2108271202875969933",
-          "text": "Called for that spike sub 81 for weeks finally got it but picture on alts continues to look worse, didn\u2019t end up grabbing longs"
-        },
         {
           "created_at": "2026-10-08T21:21:38.000Z",
           "id": "2108306849481281915",
@@ -1517,6 +1533,11 @@
           "created_at": "2026-10-12T22:42:43.000Z",
           "id": "2109776806710853911",
           "text": "They will never breach the circumcision level \n\n#investing"
+        },
+        {
+          "created_at": "2026-10-12T22:49:41.000Z",
+          "id": "2109778560567402878",
+          "text": "\u201cThat rhino guy is always vagueposting\u201d \n\nHello I am buying goog and amzn here, ok now I\u2019m hedging with ewy shorts. They\u2019re all in profit. I think top range is yearly open and we gonna spike sub 81. \nIm longing hype and eth after clarity. O im still holding after fomc. \n\nMaybe you\u2019re just RETARDED"
         }
       ],
       "reads": {
@@ -1532,7 +1553,8 @@
         "2109703958189240494": "No call",
         "2109710662536745312": "No call",
         "2109711246241251589": "No call",
-        "2109776806710853911": "No call"
+        "2109776806710853911": "No call",
+        "2109778560567402878": "TRADE LONG GOOG"
       },
       "replies": [
         {
@@ -1690,10 +1712,15 @@
         "2109776806710853911": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109778560567402878": {
+          "alerted": [
+            "trade:GOOG:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108271202875969933": true,
         "2108306849481281915": true,
         "2108364075583635727": true,
         "2108374505039307132": true,
@@ -1727,7 +1754,8 @@
         "2109776806710853911": true,
         "2109776912101101992": false,
         "2109777937117704260": false,
-        "2109778066151207408": false
+        "2109778066151207408": false,
+        "2109778560567402878": true
       },
       "user_id": "953032269433745408"
     },
@@ -3789,5 +3817,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T22:48:21+00:00"
+  "updated_at": "2026-10-12T22:50:37+00:00"
 }
