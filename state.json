@@ -1674,7 +1674,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109675370442309715",
+      "last_id": "2109676797076144526",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1755,12 +1755,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-11T16:19:10.000Z",
-          "id": "2109317895742513278",
-          "reply_to_id": "2109304815138562548",
-          "text": "note: flat oi denominated in strk not dollars"
-        },
         {
           "created_at": "2026-10-12T02:30:27.000Z",
           "id": "2109471730746155266",
@@ -1886,6 +1880,15 @@
           "id": "2109675370442309715",
           "reply_to_id": "2109675161456935015",
           "text": "@noisetradez to be realistic we just had a huge move, do not wish to see ppl overleveraged and unprepared for retraces which would be very normal (if any)"
+        },
+        {
+          "created_at": "2026-10-12T16:05:18.000Z",
+          "id": "2109676797076144526",
+          "images": [
+            "https://pbs.twimg.com/media/HUcT3PuasAETxN8.jpg"
+          ],
+          "reply_to_id": "2109672824009117846",
+          "text": "https://t.co/O5apov0lM0"
         }
       ],
       "reads": {
@@ -1905,7 +1908,8 @@
         "2109623750056645100": "No call",
         "2109663652630647111": "TRADE TRIM crypto leveraged positions \u00b7 VIEW neutral on crypto market",
         "2109669028604309522": "TRADE TRIM W \u00b7 VIEW neutral on alts",
-        "2109672824009117846": "VIEW bearish on crypto market"
+        "2109672824009117846": "VIEW bearish on crypto market",
+        "2109676797076144526": "No call"
       },
       "replies": [
         {
@@ -2372,11 +2376,10 @@
           "alerted": [
             "bias:crypto market:bearish"
           ],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2109317895742513278": true,
         "2109471730746155266": true,
         "2109471948963209652": true,
         "2109479031863394733": true,
@@ -2410,7 +2413,8 @@
         "2109672824009117846": true,
         "2109674208242667863": true,
         "2109675161456935015": true,
-        "2109675370442309715": true
+        "2109675370442309715": true,
+        "2109676797076144526": false
       },
       "user_id": "1653080265294757890"
     },
@@ -3627,5 +3631,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T16:00:27+00:00"
+  "updated_at": "2026-10-12T16:06:24+00:00"
 }
