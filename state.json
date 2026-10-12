@@ -1674,7 +1674,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109615231009726539",
+      "last_id": "2109623750056645100",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1755,11 +1755,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-11T13:00:26.000Z",
-          "id": "2109267884983845150",
-          "text": "hyperevm season?"
-        },
         {
           "created_at": "2026-10-11T13:15:59.000Z",
           "id": "2109271798634385669",
@@ -1893,10 +1888,14 @@
           "id": "2109611372359377271",
           "quoted_text": "bought an insane amount of wormhole $W\n\ntop 1 rwa dominance infra + interoperability of everything shouldnt be anywhere near 150m mc imo\n\nsecond kingmaker. https://t.co/jWYb3QmQTQ",
           "text": "after further research it looks like theres some points that needs to be pointed out:\n\n1. apparently $W the company has faked volume numbers before - personally my pov is that this is priced in and sentiment is at ~rock bottom, but i think this is still a point that should be brought up regardless \n\n2. stressed again that 4.5bil rwa value on securitize, not wormhole - wormhole is the interop layer, securitize is the rwa layer\n\nsecuritize is the strongest rwa player at the moment and their exclusive partner is wormhole\n\nthe trade is that going into a new cycle where both rwas and interop is likely to be (very) sticky sectors, $w is a deserving play at 200m mc \n\nhowever until rwa picks up further and sentiment around w improves, perhaps it might be best to re-classify this closer to a viable asymmetric bet than a second kingmaker \n\nhoping it cooks!"
+        },
+        {
+          "created_at": "2026-10-12T12:34:31.000Z",
+          "id": "2109623750056645100",
+          "text": "reminder to turn down leverage"
         }
       ],
       "reads": {
-        "2109267884983845150": "No call: bullish on hyperevm (55%, too unsure)",
         "2109271798634385669": "No call",
         "2109304195367272829": "TRADE LONG STRK",
         "2109304815138562548": "TRADE LONG STRK",
@@ -1914,7 +1913,8 @@
         "2109548842873929932": "No call",
         "2109571042712916015": "No call",
         "2109590662803075360": "No call",
-        "2109611372359377271": "No call"
+        "2109611372359377271": "No call",
+        "2109623750056645100": "No call"
       },
       "replies": [
         {
@@ -2370,10 +2370,13 @@
         "2109611372359377271": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109623750056645100": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109267884983845150": true,
         "2109271798634385669": false,
         "2109304195367272829": true,
         "2109304815138562548": true,
@@ -2407,7 +2410,8 @@
         "2109611372359377271": true,
         "2109612170795249908": true,
         "2109614144685257139": false,
-        "2109615231009726539": false
+        "2109615231009726539": false,
+        "2109623750056645100": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3592,5 +3596,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T12:10:23+00:00"
+  "updated_at": "2026-10-12T12:36:22+00:00"
 }
