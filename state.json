@@ -2521,15 +2521,9 @@
       "biases": {},
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2109769010677977110",
+      "last_id": "2109769334516281773",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-08T15:26:22.000Z",
-          "id": "2108217447010509101",
-          "reply_to_id": "2108189953905635365",
-          "text": "well"
-        },
         {
           "created_at": "2026-10-08T16:49:37.000Z",
           "id": "2108238398289031272",
@@ -2640,10 +2634,15 @@
           "id": "2109767061819842705",
           "reply_to_id": "2109714673545228532",
           "text": "@mert @zkDragon plus illia from near \n\ni got us"
+        },
+        {
+          "created_at": "2026-10-12T22:13:01.000Z",
+          "id": "2109769334516281773",
+          "reply_to_id": "2109769305067770112",
+          "text": "@VentureCoinist @Delphi_Digital also classic @anildelphi w"
         }
       ],
       "reads": {
-        "2108217447010509101": "Read together with the post it replies to",
         "2108238398289031272": "No call",
         "2108244221136138304": "No call",
         "2108274102997786818": "No call",
@@ -2662,12 +2661,6 @@
         "2109765724897997154": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-12T16:42:50.000Z",
-          "id": "2109686239750504488",
-          "reply_to_id": "2109686064181072127",
-          "text": "@rectalglizzy we need ironclad narrative to make the coins go up pal"
-        },
         {
           "created_at": "2026-10-12T16:49:21.000Z",
           "id": "2109687882659332538",
@@ -2751,6 +2744,12 @@
           "id": "2109769010677977110",
           "reply_to_id": "2109767649274069106",
           "text": "@Rhynotic my quant g"
+        },
+        {
+          "created_at": "2026-10-12T22:12:54.000Z",
+          "id": "2109769305067770112",
+          "reply_to_id": "2109689817978011809",
+          "text": "@VentureCoinist @Delphi_Digital extremely excited for this. you\u2019re gonna crush it man, nobody better suited"
         }
       ],
       "threads": {
@@ -2828,7 +2827,6 @@
         }
       },
       "trading": {
-        "2108217447010509101": false,
         "2108238398289031272": false,
         "2108244221136138304": true,
         "2108253833310744642": true,
@@ -2843,7 +2841,6 @@
         "2108741947263242661": false,
         "2108968997542891854": true,
         "2109677343610425650": true,
-        "2109686239750504488": true,
         "2109687882659332538": false,
         "2109688751324910071": false,
         "2109690302307164626": false,
@@ -2862,7 +2859,9 @@
         "2109765724897997154": true,
         "2109766493994987658": false,
         "2109767061819842705": false,
-        "2109769010677977110": false
+        "2109769010677977110": false,
+        "2109769305067770112": false,
+        "2109769334516281773": false
       },
       "user_id": "1426732252768182281"
     },
@@ -3783,5 +3782,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T22:12:17+00:00"
+  "updated_at": "2026-10-12T22:14:21+00:00"
 }
