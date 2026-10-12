@@ -1674,7 +1674,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109626152155509235",
+      "last_id": "2109650279549558935",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1918,16 +1918,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T05:45:49.000Z",
-          "id": "2109520896541208928",
-          "images": [
-            "https://pbs.twimg.com/media/HUaGEICaoAAp-AO.jpg",
-            "https://pbs.twimg.com/media/HUaGEpAbEAALAWL.jpg"
-          ],
-          "reply_to_id": "2109519975341760605",
-          "text": "@aft3rthechains theres a problem with oi atm, ppl cant open longs they can only close longs https://t.co/tuBXUdCpoD"
-        },
-        {
           "created_at": "2026-10-12T07:08:42.000Z",
           "id": "2109541755645526385",
           "reply_to_id": "2109540977958600802",
@@ -2013,6 +2003,12 @@
           "id": "2109626152155509235",
           "reply_to_id": "2109624687009345805",
           "text": "@AndorinhasQ still valid\n\nbut seeing some ppl go crazy with lev on high volatility plays atm"
+        },
+        {
+          "created_at": "2026-10-12T14:19:56.000Z",
+          "id": "2109650279549558935",
+          "reply_to_id": "2109649426109091955",
+          "text": "@UnpumpedGems @0xFent_ im still in -_- its a -15% retrace after a nearly +200% move"
         }
       ],
       "threads": {
@@ -2388,7 +2384,6 @@
         "2109479031863394733": true,
         "2109479266299916444": true,
         "2109486529106362694": true,
-        "2109520896541208928": true,
         "2109523378264846593": true,
         "2109540880973787414": true,
         "2109541755645526385": true,
@@ -2411,7 +2406,8 @@
         "2109614144685257139": false,
         "2109615231009726539": false,
         "2109623750056645100": true,
-        "2109626152155509235": true
+        "2109626152155509235": true,
+        "2109650279549558935": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3596,5 +3592,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T14:00:30+00:00"
+  "updated_at": "2026-10-12T14:20:24+00:00"
 }
