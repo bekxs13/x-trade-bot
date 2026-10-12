@@ -1669,7 +1669,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109577356981780686",
+      "last_id": "2109590662803075360",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1750,11 +1750,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-11T12:08:49.000Z",
-          "id": "2109254892682686718",
-          "text": "Big cycle ahead of us"
-        },
         {
           "created_at": "2026-10-11T12:22:08.000Z",
           "id": "2109258245022138455",
@@ -1887,10 +1882,15 @@
           ],
           "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
           "text": "first healthy retracement $strk\n\nlooks incredible for next move\n\nthesis remains the same re: mathematical breakthroughs keep accelerating in frequency &amp; mindshare -&gt; confluence with anth ipo schedule in the near future -&gt; media heavily incentivized to keep pushing this narrative https://t.co/va3sS2YsuE https://t.co/birrKDo6ue"
+        },
+        {
+          "created_at": "2026-10-12T10:23:02.000Z",
+          "id": "2109590662803075360",
+          "reply_to_id": "2109523378264846593",
+          "text": "guys, i meant that i wanted to join more privates\n\ni havent made my own private yet\ud83d\ude02"
         }
       ],
       "reads": {
-        "2109254892682686718": "No call: bullish on crypto market (same view as before)",
         "2109258245022138455": "No call: bullish on crypto market (same view as before)",
         "2109267884983845150": "No call: bullish on hyperevm (55%, too unsure)",
         "2109271798634385669": "No call",
@@ -1908,7 +1908,8 @@
         "2109542569201766712": "No call",
         "2109547099931168876": "VIEW bullish on alts",
         "2109548842873929932": "No call",
-        "2109571042712916015": "No call"
+        "2109571042712916015": "No call",
+        "2109590662803075360": "No call"
       },
       "replies": [
         {
@@ -2335,7 +2336,7 @@
         },
         "2109523378264846593": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2109540880973787414": {
           "alerted": [
@@ -2363,7 +2364,6 @@
         }
       },
       "trading": {
-        "2109254892682686718": true,
         "2109258245022138455": true,
         "2109267884983845150": true,
         "2109271798634385669": false,
@@ -2397,7 +2397,8 @@
         "2109551297531920688": false,
         "2109560943567093827": true,
         "2109571042712916015": true,
-        "2109577356981780686": true
+        "2109577356981780686": true,
+        "2109590662803075360": false
       },
       "user_id": "1653080265294757890"
     },
@@ -3582,5 +3583,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-11",
-  "updated_at": "2026-10-12T10:10:22+00:00"
+  "updated_at": "2026-10-12T10:24:23+00:00"
 }
