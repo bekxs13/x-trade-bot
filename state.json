@@ -2521,7 +2521,7 @@
       "biases": {},
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2109769334516281773",
+      "last_id": "2109769976470990874",
       "positions": {},
       "posts": [
         {
@@ -2662,12 +2662,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T16:49:21.000Z",
-          "id": "2109687882659332538",
-          "reply_to_id": "2109686703422091576",
-          "text": "@fullportmatt @who15DAT taking my boat out for a spin in honor"
-        },
-        {
           "created_at": "2026-10-12T16:52:49.000Z",
           "id": "2109688751324910071",
           "reply_to_id": "2109688347102986747",
@@ -2750,6 +2744,12 @@
           "id": "2109769305067770112",
           "reply_to_id": "2109689817978011809",
           "text": "@VentureCoinist @Delphi_Digital extremely excited for this. you\u2019re gonna crush it man, nobody better suited"
+        },
+        {
+          "created_at": "2026-10-12T22:15:34.000Z",
+          "id": "2109769976470990874",
+          "reply_to_id": "2109758963537555689",
+          "text": "@fullportmatt yuh"
         }
       ],
       "threads": {
@@ -2841,7 +2841,6 @@
         "2108741947263242661": false,
         "2108968997542891854": true,
         "2109677343610425650": true,
-        "2109687882659332538": false,
         "2109688751324910071": false,
         "2109690302307164626": false,
         "2109693902437416984": false,
@@ -2861,7 +2860,8 @@
         "2109767061819842705": false,
         "2109769010677977110": false,
         "2109769305067770112": false,
-        "2109769334516281773": false
+        "2109769334516281773": false,
+        "2109769976470990874": false
       },
       "user_id": "1426732252768182281"
     },
@@ -3782,5 +3782,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-12T22:14:21+00:00"
+  "updated_at": "2026-10-12T22:16:20+00:00"
 }
