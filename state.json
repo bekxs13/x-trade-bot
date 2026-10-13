@@ -1919,7 +1919,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109936636251558280",
+      "last_id": "2109940078600695928",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -2165,12 +2165,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T03:46:41.000Z",
-          "id": "2109853305249874403",
-          "reply_to_id": "2109852395337642454",
-          "text": "@sinutrades hope so too, that was just straight up ptsd"
-        },
-        {
           "created_at": "2026-10-13T04:19:31.000Z",
           "id": "2109861566091071727",
           "reply_to_id": "2109861230915748243",
@@ -2253,6 +2247,12 @@
           "id": "2109936636251558280",
           "reply_to_id": "2109935101664547161",
           "text": "@Earthling875 @QuantumCGI actually bought some too"
+        },
+        {
+          "created_at": "2026-10-13T09:31:30.000Z",
+          "id": "2109940078600695928",
+          "reply_to_id": "2109938730010108183",
+          "text": "@tosh1kz thank you but i genuinely think this continues higher. w was a blunder (which i re-assessed to re-classify near the top at .28 before it eventually chopped to crash down to .19 over the next 6 hours) but this isnt."
         }
       ],
       "threads": {
@@ -2667,7 +2667,6 @@
         "2109677322903404726": false,
         "2109721245742952581": false,
         "2109850256947175750": true,
-        "2109853305249874403": false,
         "2109859230996132303": true,
         "2109859501612392746": true,
         "2109861566091071727": false,
@@ -2688,7 +2687,8 @@
         "2109935600191307986": false,
         "2109936173082960174": true,
         "2109936251663257815": false,
-        "2109936636251558280": true
+        "2109936636251558280": true,
+        "2109940078600695928": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4011,5 +4011,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T09:18:19+00:00"
+  "updated_at": "2026-10-13T09:32:20+00:00"
 }
