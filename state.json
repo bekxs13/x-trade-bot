@@ -31,19 +31,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2109971264781881637",
+      "last_id": "2110079299609145355",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-12T20:33:08.000Z",
-          "id": "2109744199063285853",
-          "images": [
-            "https://pbs.twimg.com/media/HUdRKrQaIAAOXyt.jpg",
-            "https://pbs.twimg.com/media/HUdRKrPbMAA4Rjm.jpg"
-          ],
-          "reply_to_id": "2109743802550534193",
-          "text": "@DeepDishEnjoyer Call your congressman we need to flip these 2 https://t.co/OJvO0V8CkZ"
-        },
         {
           "created_at": "2026-10-12T21:43:06.000Z",
           "id": "2109761803874193894",
@@ -157,6 +147,12 @@
           "created_at": "2026-10-13T10:07:32.000Z",
           "id": "2109949149353316861",
           "text": "Mused\n\nOn Bending Spoons layoff celebrations, Arizona, and niche microbrands\n\nhttps://t.co/rHocmb9zGV"
+        },
+        {
+          "created_at": "2026-10-13T18:44:43.000Z",
+          "id": "2110079299609145355",
+          "quoted_text": "New on our Engineering blog: Creating in-house source control. \n\nIn May, we merged around 2,500 code changes per day. In September, we merged more than 30,000 per day. As a result, we became bottlenecked by developer infrastructure built for human (rather than agent) scale.  \n\nHere, we share how we built a new version control system\u2014and fully migrated our monorepo from git\u2014in five months: https://t.co/wzNkwHs7IN",
+          "text": "Hmm https://t.co/QtyfZ2Pnp1"
         }
       ],
       "reads": {
@@ -174,7 +170,8 @@
         "2109929255631196330": "No call",
         "2109930633304879522": "No call",
         "2109930806974243185": "No call",
-        "2109949149353316861": "No call"
+        "2109949149353316861": "No call",
+        "2110079299609145355": "No call"
       },
       "replies": [
         {
@@ -493,10 +490,13 @@
         "2109949149353316861": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110079299609145355": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109744199063285853": false,
         "2109761803874193894": false,
         "2109771182757269823": false,
         "2109774027598467379": false,
@@ -530,7 +530,8 @@
         "2109949149353316861": false,
         "2109952218849767731": false,
         "2109966164743135409": false,
-        "2109971264781881637": false
+        "2109971264781881637": false,
+        "2110079299609145355": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4133,5 +4134,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T18:14:31+00:00"
+  "updated_at": "2026-10-13T18:46:20+00:00"
 }
