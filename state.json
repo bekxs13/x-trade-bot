@@ -31,14 +31,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110079299609145355",
+      "last_id": "2110084364017230177",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-12T21:43:06.000Z",
-          "id": "2109761803874193894",
-          "text": "Anthropic S-1: Risk Factors\n\nAnthropic is designated as a Supply Chain Risk to National Security by the United States Government.\n\nCompanies sharing similar designations include Hikvision and Dahua, for enabling repression and arbitrary mass detention of the Uyghurs in Xinjang"
-        },
         {
           "created_at": "2026-10-12T22:20:22.000Z",
           "id": "2109771182757269823",
@@ -153,10 +148,15 @@
           "id": "2110079299609145355",
           "quoted_text": "New on our Engineering blog: Creating in-house source control. \n\nIn May, we merged around 2,500 code changes per day. In September, we merged more than 30,000 per day. As a result, we became bottlenecked by developer infrastructure built for human (rather than agent) scale.  \n\nHere, we share how we built a new version control system\u2014and fully migrated our monorepo from git\u2014in five months: https://t.co/wzNkwHs7IN",
           "text": "Hmm https://t.co/QtyfZ2Pnp1"
+        },
+        {
+          "created_at": "2026-10-13T19:04:50.000Z",
+          "id": "2110084364017230177",
+          "reply_to_id": "2110079299609145355",
+          "text": "Everyone gonna vibe code their own source and version control"
         }
       ],
       "reads": {
-        "2109761803874193894": "No call",
         "2109771182757269823": "No call",
         "2109774027598467379": "No call",
         "2109778482662400314": "No call",
@@ -171,7 +171,8 @@
         "2109930633304879522": "No call",
         "2109930806974243185": "No call",
         "2109949149353316861": "No call",
-        "2110079299609145355": "No call"
+        "2110079299609145355": "No call",
+        "2110084364017230177": "No call"
       },
       "replies": [
         {
@@ -493,11 +494,10 @@
         },
         "2110079299609145355": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2109761803874193894": false,
         "2109771182757269823": false,
         "2109774027598467379": false,
         "2109778482662400314": true,
@@ -531,7 +531,8 @@
         "2109952218849767731": false,
         "2109966164743135409": false,
         "2109971264781881637": false,
-        "2110079299609145355": false
+        "2110079299609145355": false,
+        "2110084364017230177": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4138,5 +4139,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T18:50:22+00:00"
+  "updated_at": "2026-10-13T19:06:23+00:00"
 }
