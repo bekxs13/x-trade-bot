@@ -2723,7 +2723,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2109987664388907042",
+      "last_id": "2109996101528862889",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -2879,12 +2879,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T22:46:41.000Z",
-          "id": "2109777807836328043",
-          "reply_to_id": "2109777205551378929",
-          "text": "@lazyvillager1 would chumba lie?"
-        },
-        {
           "created_at": "2026-10-12T22:53:24.000Z",
           "id": "2109779496492581173",
           "reply_to_id": "2109779401487593682",
@@ -2970,6 +2964,12 @@
           "id": "2109969099757441156",
           "reply_to_id": "2109861707854352759",
           "text": "@ThinkingUSD lmfaoiaoaoo"
+        },
+        {
+          "created_at": "2026-10-13T13:14:07.000Z",
+          "id": "2109996101528862889",
+          "reply_to_id": "2109995229788918147",
+          "text": "@filtheewill what topic"
         }
       ],
       "threads": {
@@ -3075,7 +3075,6 @@
         "2109765724897997154": true,
         "2109767061819842705": false,
         "2109769334516281773": false,
-        "2109777807836328043": false,
         "2109778835851952500": true,
         "2109779144452059636": false,
         "2109779201754828950": false,
@@ -3096,7 +3095,8 @@
         "2109968504292323646": false,
         "2109968922262880595": false,
         "2109969099757441156": false,
-        "2109987664388907042": true
+        "2109987664388907042": true,
+        "2109996101528862889": false
       },
       "user_id": "1426732252768182281"
     },
@@ -3124,7 +3124,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2108533021964152971",
+      "last_id": "2109995821613961284",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -3227,6 +3227,14 @@
           "id": "2108530042913579048",
           "reply_to_id": "2108529897144828181",
           "text": "@izebel_eth Please take a second to like the video and give feedback in the comments!!! I don\u2019t take sponsors to give you unbiased content focused on quality over quantity. Just a simple click could help support me so I could invite more amazing guests in the future. Thank you!"
+        },
+        {
+          "created_at": "2026-10-13T13:13:00.000Z",
+          "id": "2109995821613961284",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2109783670072487937/img/nSbrKqpBbKx-qZFE.jpg"
+          ],
+          "text": "Interview with @SoskaKyle to discuss the generational HYPE trade, what it's like trading with @ThinkingUSD, and how to make it this cycle.\n\n0:00 Bull or Bear Market?\n2:49 Kyle\u2019s Journey into Crypto\n8:44 \u201cWould You Be Right or Make Money?\u201d\n15:52 Teaming up with Flood\n21:01 The Famous $HYPE Trade\n36:02 Bitcoin and the Quantum Problem\n43:20 $ZEC vs $BTC\n46:30 Selling All Their $ETH\n52:53 Crypto\u2019s Real PMF\n1:00:05 Are Great Traders Born or Made?\n1:11:11 Memorable Trade (A Painful One)\n1:21:39 Cycle Skip Theory vs 4 Year Cycle\n1:26:50 Midcurve Traps & Onchain Metas\n1:31:40 Hardest Lessons & How to Make It\n1:37:55 Managing Tilt & the Art of Selling\n1:49:02 Regrets and Final Words of Wisdom"
         }
       ],
       "reads": {
@@ -3241,7 +3249,8 @@
         "2108374752536756724": "No call",
         "2108376406308909287": "No call: bullish on ZEC (same view as before)",
         "2108529897144828181": "No call",
-        "2108530042913579048": "No call"
+        "2108530042913579048": "No call",
+        "2109995821613961284": "No call"
       },
       "replies": [
         {
@@ -3389,6 +3398,10 @@
         "2108529897144828181": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2109995821613961284": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -3419,7 +3432,8 @@
         "2108448253897535948": true,
         "2108529897144828181": true,
         "2108530042913579048": false,
-        "2108533021964152971": false
+        "2108533021964152971": false,
+        "2109995821613961284": true
       },
       "user_id": "1064421325186359296"
     },
@@ -4041,5 +4055,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T13:02:24+00:00"
+  "updated_at": "2026-10-13T13:14:25+00:00"
 }
