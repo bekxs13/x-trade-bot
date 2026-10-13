@@ -2574,7 +2574,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2109799055492780324",
+      "last_id": "2109800685239775631",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -2731,12 +2731,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T21:22:14.000Z",
-          "id": "2109756554895302846",
-          "reply_to_id": "2109755827305513166",
-          "text": "@Evan_ss6 @Fred_qf1 which do you think would be more profitable for me to reply with"
-        },
-        {
           "created_at": "2026-10-12T21:31:43.000Z",
           "id": "2109758939927609495",
           "reply_to_id": "2109758036046950639",
@@ -2819,6 +2813,12 @@
           "id": "2109799055492780324",
           "reply_to_id": "2109798586468925632",
           "text": "@zkmattwyatt @chang_defi extremely bullish on this thesis"
+        },
+        {
+          "created_at": "2026-10-13T00:17:36.000Z",
+          "id": "2109800685239775631",
+          "reply_to_id": "2109800390392717582",
+          "text": "@reaIityobserver @dominicscorner this is cinema"
         }
       ],
       "threads": {
@@ -2919,7 +2919,6 @@
         "2109714673545228532": false,
         "2109728676539769027": true,
         "2109728935252537749": false,
-        "2109756554895302846": false,
         "2109758939927609495": false,
         "2109764117317800186": true,
         "2109765724897997154": true,
@@ -2941,7 +2940,8 @@
         "2109781731582578701": true,
         "2109787880365203583": true,
         "2109790593685520394": true,
-        "2109799055492780324": true
+        "2109799055492780324": true,
+        "2109800685239775631": false
       },
       "user_id": "1426732252768182281"
     },
@@ -3862,5 +3862,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T00:12:19+00:00"
+  "updated_at": "2026-10-13T00:18:18+00:00"
 }
