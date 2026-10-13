@@ -2763,7 +2763,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110098064773890275",
+      "last_id": "2110099636820054153",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -2783,11 +2783,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T12:40:32.000Z",
-          "id": "2108538101950005277",
-          "text": "MARKET OPEN: Revisiting the WORST DAY in Crypto History, The 10/10 ANNIVERSARY, OpenAI SUCKS https://t.co/ewNLsGU5MI"
-        },
         {
           "created_at": "2026-10-09T13:26:34.000Z",
           "id": "2108549683283144734",
@@ -2898,10 +2893,15 @@
           "id": "2110098064773890275",
           "quoted_text": "boy next to me asked chat gpt can he bring his cava on the flight and now he\u2019s having a full on kii with the bot https://t.co/R3m6iJuiG9",
           "text": "i\u2019m sorry but this is not a blackpill it\u2019s exactly what llms are for https://t.co/dq4gBGZkYh"
+        },
+        {
+          "created_at": "2026-10-13T20:05:31.000Z",
+          "id": "2110099636820054153",
+          "reply_to_id": "2110098064773890275",
+          "text": "oh my god i can\u2019t believe people still live like thissssss \n\nlike what? asking a fucking ai if they can bring food on a plane? does nobody go outside i don\u2019t get it? is it because it said TWIN? yours convinced you your startup was a good idea and let you waste a year of your life who\u2019s is worse here \n\nthis is what consumer ai looks like buddy"
         }
       ],
       "reads": {
-        "2108538101950005277": "No call",
         "2108549683283144734": "No call",
         "2108968997542891854": "No call",
         "2109677343610425650": "No call",
@@ -2915,7 +2915,8 @@
         "2109790593685520394": "No call",
         "2109987664388907042": "No call",
         "2110088724310589484": "No call",
-        "2110098064773890275": "No call"
+        "2110098064773890275": "No call",
+        "2110099636820054153": "No call"
       },
       "replies": [
         {
@@ -3106,11 +3107,10 @@
         },
         "2110098064773890275": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2108538101950005277": true,
         "2108549683283144734": false,
         "2108741947263242661": false,
         "2108968997542891854": true,
@@ -3144,7 +3144,8 @@
         "2109996101528862889": false,
         "2110043712646676920": false,
         "2110088724310589484": false,
-        "2110098064773890275": false
+        "2110098064773890275": false,
+        "2110099636820054153": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4149,5 +4150,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T20:00:38+00:00"
+  "updated_at": "2026-10-13T20:06:24+00:00"
 }
