@@ -31,19 +31,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110084364017230177",
+      "last_id": "2110097434668073139",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-12T22:20:22.000Z",
-          "id": "2109771182757269823",
-          "images": [
-            "https://pbs.twimg.com/media/HUdpsrEaEAAAxmo.jpg",
-            "https://pbs.twimg.com/media/HUdptARboAACD-e.png"
-          ],
-          "reply_to_id": "2109409060634440186",
-          "text": "https://t.co/VWLy4bTzrn"
-        },
         {
           "created_at": "2026-10-12T22:31:40.000Z",
           "id": "2109774027598467379",
@@ -154,10 +144,18 @@
           "id": "2110084364017230177",
           "reply_to_id": "2110079299609145355",
           "text": "Everyone gonna vibe code their own source and version control"
+        },
+        {
+          "created_at": "2026-10-13T19:56:46.000Z",
+          "id": "2110097434668073139",
+          "images": [
+            "https://pbs.twimg.com/media/HUiSbyca8AANBe4.jpg"
+          ],
+          "reply_to_id": "2110084364017230177",
+          "text": "(Yes I was the weekly put flow td) https://t.co/kSC5rR27Jq"
         }
       ],
       "reads": {
-        "2109771182757269823": "No call",
         "2109774027598467379": "No call",
         "2109778482662400314": "No call",
         "2109797701344981039": "No call",
@@ -498,7 +496,6 @@
         }
       },
       "trading": {
-        "2109771182757269823": false,
         "2109774027598467379": false,
         "2109778482662400314": true,
         "2109797701344981039": true,
@@ -532,7 +529,8 @@
         "2109966164743135409": false,
         "2109971264781881637": false,
         "2110079299609145355": false,
-        "2110084364017230177": false
+        "2110084364017230177": false,
+        "2110097434668073139": true
       },
       "user_id": "1446541960181858315"
     },
@@ -4147,5 +4145,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T19:44:25+00:00"
+  "updated_at": "2026-10-13T19:58:23+00:00"
 }
