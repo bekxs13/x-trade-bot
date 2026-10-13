@@ -1865,7 +1865,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109897204165132397",
+      "last_id": "2109901331037409474",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -2108,12 +2108,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T15:55:01.000Z",
-          "id": "2109674208242667863",
-          "reply_to_id": "2109672917294567604",
-          "text": "@noisetradez yes switched to full spot / 1x lev but have to note that my overall entry was at ~0.06 average so my risk is not equal to someone entering here especially after the risk assets crash today \n\nif entering probably safer to twap over days"
-        },
-        {
           "created_at": "2026-10-12T15:58:49.000Z",
           "id": "2109675161456935015",
           "reply_to_id": "2109672917294567604",
@@ -2196,6 +2190,12 @@
           "id": "2109893513274184003",
           "reply_to_id": "2109890804315799953",
           "text": "no, i confirm that this is 100% not me. \n\npeople started tagging me on x on this yesterday which i initially thought was flattering (in the beginning, at least), but i didnt think much of it\n\nno that is not me. and no for both strk and w i am not aware of some liquid token underwrite. for these two plays specifically i hunted it down, strk being early at .052 range w being very late after i saw asta & others being very bullish on it and believing that the tail risk trade was there to continue (which would have continued if venues didnt cap oi that fast for 12h right before all major alts crashed right at uncap)"
+        },
+        {
+          "created_at": "2026-10-13T06:57:32.000Z",
+          "id": "2109901331037409474",
+          "reply_to_id": "2109878272096170347",
+          "text": "@nobilis \ud83d\ude4f\ud83d\ude4f"
         }
       ],
       "threads": {
@@ -2602,7 +2602,6 @@
         "2109663652630647111": true,
         "2109669028604309522": false,
         "2109672824009117846": true,
-        "2109674208242667863": true,
         "2109675161456935015": true,
         "2109675370442309715": true,
         "2109676797076144526": false,
@@ -2627,7 +2626,8 @@
         "2109891561689624912": true,
         "2109893513274184003": true,
         "2109893851347362122": false,
-        "2109897204165132397": true
+        "2109897204165132397": true,
+        "2109901331037409474": false
       },
       "user_id": "1653080265294757890"
     },
@@ -3950,5 +3950,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T06:42:17+00:00"
+  "updated_at": "2026-10-13T06:58:20+00:00"
 }
