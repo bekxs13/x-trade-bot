@@ -1865,7 +1865,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109893851347362122",
+      "last_id": "2109897204165132397",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1962,11 +1962,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T07:29:56.000Z",
-          "id": "2109547099931168876",
-          "text": "alts are the new memes after what happened with pf this cycle\n\nfew"
-        },
         {
           "created_at": "2026-10-12T07:36:52.000Z",
           "id": "2109548842873929932",
@@ -2088,10 +2083,15 @@
           "id": "2109893851347362122",
           "reply_to_id": "2109893513274184003",
           "text": "@kidponga if anything its very fucked up people on the tl literally switch up and assume this"
+        },
+        {
+          "created_at": "2026-10-13T06:41:08.000Z",
+          "id": "2109897204165132397",
+          "reply_to_id": "2109893513274184003",
+          "text": "@kidponga also that wallet literally already closed strk"
         }
       ],
       "reads": {
-        "2109547099931168876": "VIEW bullish on alts",
         "2109548842873929932": "No call",
         "2109571042712916015": "No call",
         "2109590662803075360": "No call",
@@ -2593,7 +2593,6 @@
         }
       },
       "trading": {
-        "2109547099931168876": true,
         "2109548842873929932": true,
         "2109571042712916015": true,
         "2109590662803075360": false,
@@ -2627,7 +2626,8 @@
         "2109890364559823275": true,
         "2109891561689624912": true,
         "2109893513274184003": true,
-        "2109893851347362122": false
+        "2109893851347362122": false,
+        "2109897204165132397": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3950,5 +3950,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T06:28:16+00:00"
+  "updated_at": "2026-10-13T06:42:17+00:00"
 }
