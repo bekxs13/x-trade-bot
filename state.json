@@ -31,15 +31,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2109855756329930770",
+      "last_id": "2109929255631196330",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-12T18:38:10.000Z",
-          "id": "2109715263763718226",
-          "quoted_text": "Technical moats are mostly over at this point. If you\u2019re building something that is meant to be durable, the only moats now are:\n\n\u2022 Proprietary data\n\u2022 Network effects\n\u2022 A physical component",
-          "text": "The stock that shall not be named\u2026 https://t.co/U7QeHxqEfO"
-        },
         {
           "created_at": "2026-10-12T19:08:56.000Z",
           "id": "2109723006591529102",
@@ -159,10 +153,14 @@
           "created_at": "2026-10-13T03:48:26.000Z",
           "id": "2109853746020958350",
           "text": "Good btc theses next 20 days:\n\n- growth story is cooked = debasement and sovereign exit back \n- midterms = last 20 days to deploy the pump tech for the donors"
+        },
+        {
+          "created_at": "2026-10-13T08:48:29.000Z",
+          "id": "2109929255631196330",
+          "text": "A lot of stuff is MDE moms now"
         }
       ],
       "reads": {
-        "2109715263763718226": "No call",
         "2109723006591529102": "No call",
         "2109728009544687860": "No call",
         "2109732411739373841": "No call",
@@ -176,7 +174,8 @@
         "2109822997737709736": "No call",
         "2109825441041178656": "No call: bearish on stocks/macro (60%, too unsure)",
         "2109826673164357710": "No call: bearish on stocks/macro (65%, too unsure)",
-        "2109853746020958350": "VIEW bullish on btc"
+        "2109853746020958350": "VIEW bullish on btc",
+        "2109929255631196330": "No call"
       },
       "replies": [
         {
@@ -483,10 +482,13 @@
             "bias:btc:bullish"
           ],
           "self_replies": 0
+        },
+        "2109929255631196330": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109715263763718226": true,
         "2109723006591529102": true,
         "2109728009544687860": true,
         "2109732411739373841": true,
@@ -520,7 +522,8 @@
         "2109853746020958350": true,
         "2109855119584211308": true,
         "2109855682761834561": true,
-        "2109855756329930770": false
+        "2109855756329930770": false,
+        "2109929255631196330": false
       },
       "user_id": "1446541960181858315"
     },
@@ -3998,5 +4001,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T08:48:24+00:00"
+  "updated_at": "2026-10-13T08:50:26+00:00"
 }
