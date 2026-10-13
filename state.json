@@ -21,14 +21,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2109820418098168231",
+      "last_id": "2109820551837659181",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-11T22:21:25.000Z",
-          "id": "2109409060634440186",
-          "text": "Gavin Baker Bullish on AI Infrastructure"
-        },
         {
           "created_at": "2026-10-12T09:21:34.000Z",
           "id": "2109575191492010236",
@@ -148,10 +143,15 @@
           "id": "2109820418098168231",
           "reply_to_id": "2109820378348720412",
           "text": "@SlabDotETH @Evan_ss6 But I\u2019d like to find opps to be short again"
+        },
+        {
+          "created_at": "2026-10-13T01:36:32.000Z",
+          "id": "2109820551837659181",
+          "reply_to_id": "2109820418098168231",
+          "text": "@SlabDotETH @Evan_ss6 Was mostly out by Friday hit a lil scrap today back to nothing. Have cheeky gold weekly puts for space mining that are working for diff reason I\u2019ll probly bail lol"
         }
       ],
       "reads": {
-        "2109409060634440186": "No call",
         "2109575191492010236": "No call",
         "2109587377954189402": "No call",
         "2109692028447834274": "No call",
@@ -459,7 +459,6 @@
         }
       },
       "trading": {
-        "2109409060634440186": true,
         "2109575191492010236": true,
         "2109575775204847961": false,
         "2109587377954189402": false,
@@ -493,7 +492,8 @@
         "2109813183041200442": true,
         "2109814691698798654": true,
         "2109820378348720412": false,
-        "2109820418098168231": true
+        "2109820418098168231": true,
+        "2109820551837659181": true
       },
       "user_id": "1446541960181858315"
     },
@@ -3879,5 +3879,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T01:36:16+00:00"
+  "updated_at": "2026-10-13T01:38:16+00:00"
 }
