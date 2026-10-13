@@ -1909,17 +1909,17 @@
         },
         "strk": {
           "market": "crypto",
-          "post_id": "2108929562478531012",
-          "reason": "Re-shares the 'my kingmaker bet is $STRK' thesis (500m FDV undervalued, quantum-safe tech) alongside a list of past winning calls, restating the bullish STRK view.",
+          "post_id": "2109935458566512869",
+          "reason": "'Bottom is in for $STRK' and 'the consensus is wrong' repeat the bullish STRK view already on record.",
           "scope": "STRK",
           "since": "2026-10-09",
           "stance": "bullish",
-          "updated_at": "2026-10-10T14:36:04.000Z"
+          "updated_at": "2026-10-13T09:13:08.000Z"
         }
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109919279248531943",
+      "last_id": "2109935600191307986",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -2016,12 +2016,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T07:36:52.000Z",
-          "id": "2109548842873929932",
-          "quoted_text": "finally managed to buy more spot & low lev $w at 0.028 across 5 venues both cex and dex\n\nfor spot: this is currently available in binance, bybit, uniswap, upbit, coinbase, gate, mexc, etc\n\nwill not be surprised if we see $w to 0.1-0.5 range this quarter.\n\npeople don't realize that every single trade thats executed by securitize (top 1 rwa protocol in the entire industry) is exclusively powered by wormhole + the interoperability of everything going into a major crypto cycle will and should never ",
-          "text": "1. you cant vibecode a 4.5billion$ tvl exclusive partnership\n\n2. in crypto, market cap is always an extreme multiplier of tvl\n\nthis shouldnt be valued anywhere near 200m mc\n\nwill be obvious in hindsight - too many has bear ptsd and forgot what a real crypto cycle looks like\n\n$W https://t.co/qQfG557YSj"
-        },
         {
           "created_at": "2026-10-12T09:05:05.000Z",
           "id": "2109571042712916015",
@@ -2143,10 +2137,18 @@
           "id": "2109897204165132397",
           "reply_to_id": "2109893513274184003",
           "text": "@kidponga also that wallet literally already closed strk"
+        },
+        {
+          "created_at": "2026-10-13T09:13:08.000Z",
+          "id": "2109935458566512869",
+          "images": [
+            "https://pbs.twimg.com/media/HUf_HZ3bUAAtYGU.jpg"
+          ],
+          "quoted_text": "Welcome to Starklana https://t.co/cp7lWSyIxE",
+          "text": "no.\n\nthe consensus is wrong.\n\nThe Hated Cryptography Rally.\n\ni dont see a single trencher here - let it be clear to not mix this up with other plays.\n\nBottom is in for $STRK.\n\nthey have superior tech and they are going for the best distribution GTM in the market atm.\n\nfew. https://t.co/7zzv2oV0d7 https://t.co/7wlOKBnNZm"
         }
       ],
       "reads": {
-        "2109548842873929932": "No call",
         "2109571042712916015": "No call",
         "2109590662803075360": "No call",
         "2109611372359377271": "No call",
@@ -2158,15 +2160,10 @@
         "2109850256947175750": "TRADE LONG STX",
         "2109859230996132303": "No call: bullish on stocks/macro (55%, too unsure)",
         "2109859501612392746": "No call: bullish on stocks/macro (60%, too unsure)",
-        "2109863340189286485": "No call"
+        "2109863340189286485": "No call",
+        "2109935458566512869": "No call: bullish on STRK (same view as before)"
       },
       "replies": [
-        {
-          "created_at": "2026-10-12T16:39:52.000Z",
-          "id": "2109685495626383691",
-          "reply_to_id": "2109674502217240942",
-          "text": "@lifeinblw closed most of them already"
-        },
         {
           "created_at": "2026-10-12T17:35:30.000Z",
           "id": "2109699494787125708",
@@ -2250,6 +2247,12 @@
           "id": "2109919279248531943",
           "reply_to_id": "2109918342828192024",
           "text": "@null_user135468 low 6f"
+        },
+        {
+          "created_at": "2026-10-13T09:13:42.000Z",
+          "id": "2109935600191307986",
+          "reply_to_id": "2109933217427947591",
+          "text": "@Ralp_wiggum1 thank you ralph \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f"
         }
       ],
       "threads": {
@@ -2644,10 +2647,13 @@
         "2109863340189286485": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109935458566512869": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109548842873929932": true,
         "2109571042712916015": true,
         "2109590662803075360": false,
         "2109611372359377271": true,
@@ -2659,7 +2665,6 @@
         "2109675370442309715": true,
         "2109676797076144526": false,
         "2109677322903404726": false,
-        "2109685495626383691": true,
         "2109699494787125708": true,
         "2109720822911029388": false,
         "2109721144341549229": false,
@@ -2681,7 +2686,9 @@
         "2109897204165132397": true,
         "2109901331037409474": false,
         "2109910565166752156": false,
-        "2109919279248531943": false
+        "2109919279248531943": false,
+        "2109935458566512869": true,
+        "2109935600191307986": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4004,5 +4011,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T08:56:25+00:00"
+  "updated_at": "2026-10-13T09:14:22+00:00"
 }
