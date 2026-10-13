@@ -21,14 +21,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2109820551837659181",
+      "last_id": "2109822997737709736",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-12T09:21:34.000Z",
-          "id": "2109575191492010236",
-          "text": "Stocks are open today while the bond market is closed because indigenous peoples were notoriously high volume bond traders"
-        },
         {
           "created_at": "2026-10-12T10:09:59.000Z",
           "id": "2109587377954189402",
@@ -149,10 +144,17 @@
           "id": "2109820551837659181",
           "reply_to_id": "2109820418098168231",
           "text": "@SlabDotETH @Evan_ss6 Was mostly out by Friday hit a lil scrap today back to nothing. Have cheeky gold weekly puts for space mining that are working for diff reason I\u2019ll probly bail lol"
+        },
+        {
+          "created_at": "2026-10-13T01:46:15.000Z",
+          "id": "2109822997737709736",
+          "images": [
+            "https://pbs.twimg.com/media/HUeY0kWbYAAEv_c.jpg"
+          ],
+          "text": "QQQETHAN https://t.co/BdCdvc4UJO"
         }
       ],
       "reads": {
-        "2109575191492010236": "No call",
         "2109587377954189402": "No call",
         "2109692028447834274": "No call",
         "2109714720127365189": "No call",
@@ -166,7 +168,8 @@
         "2109778482662400314": "No call",
         "2109797701344981039": "No call",
         "2109800901447934366": "No call",
-        "2109803429778632778": "No call"
+        "2109803429778632778": "No call",
+        "2109822997737709736": "No call"
       },
       "replies": [
         {
@@ -456,10 +459,13 @@
         "2109803429778632778": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109822997737709736": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109575191492010236": true,
         "2109575775204847961": false,
         "2109587377954189402": false,
         "2109692028447834274": false,
@@ -493,7 +499,8 @@
         "2109814691698798654": true,
         "2109820378348720412": false,
         "2109820418098168231": true,
-        "2109820551837659181": true
+        "2109820551837659181": true,
+        "2109822997737709736": false
       },
       "user_id": "1446541960181858315"
     },
@@ -2591,7 +2598,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2109807700976496951",
+      "last_id": "2109823189991715173",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -2611,12 +2618,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T01:04:57.000Z",
-          "id": "2108363050353148354",
-          "reply_to_id": "2108363007856128483",
-          "text": "@GRITCULT stolen ty"
-        },
         {
           "created_at": "2026-10-09T11:16:26.000Z",
           "id": "2108516937643049365",
@@ -2726,10 +2727,15 @@
           "id": "2109790593685520394",
           "reply_to_id": "2109787880365203583",
           "text": "am i mid curving this so hard probably but i feel a deep desire to protect my money that i didn\u2019t really feel a few mknths ago im down to be patient"
+        },
+        {
+          "created_at": "2026-10-13T01:47:01.000Z",
+          "id": "2109823189991715173",
+          "reply_to_id": "2109790593685520394",
+          "text": "closed my lil shorts let\u2019s see how long i can do nothing for"
         }
       ],
       "reads": {
-        "2108363050353148354": "Read together with the post it replies to",
         "2108516937643049365": "No call",
         "2108527971648602479": "No call",
         "2108528245364924482": "Read together with the post it replies to",
@@ -2924,7 +2930,6 @@
         }
       },
       "trading": {
-        "2108363050353148354": false,
         "2108516937643049365": true,
         "2108527971648602479": true,
         "2108528245364924482": true,
@@ -2958,7 +2963,8 @@
         "2109799055492780324": true,
         "2109800685239775631": false,
         "2109803645843689567": false,
-        "2109807700976496951": false
+        "2109807700976496951": false,
+        "2109823189991715173": true
       },
       "user_id": "1426732252768182281"
     },
@@ -3879,5 +3885,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T01:38:16+00:00"
+  "updated_at": "2026-10-13T01:48:22+00:00"
 }
