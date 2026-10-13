@@ -538,12 +538,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2109472464246079912",
-          "reason": "\"$90k by end of the week\" is a BTC price target, matching the recorded bullish btc view.",
+          "post_id": "2109915465485332883",
+          "reason": "\"all time highs by christmas\" on a BTC weekly chart (~83.9k, ATH 126k) restates the recorded bullish BTC view.",
           "scope": "btc",
           "since": "2026-10-09",
           "stance": "bullish",
-          "updated_at": "2026-10-12T02:33:22.000Z"
+          "updated_at": "2026-10-13T07:53:41.000Z"
         },
         "memecoins": {
           "market": "crypto",
@@ -575,7 +575,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2109911341356273792",
+      "last_id": "2109915465485332883",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -611,14 +611,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-11T12:21:23.000Z",
-          "id": "2109258057075351629",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2109257736475316224/img/WU9JV95J4iAKPWaD.jpg"
-          ],
-          "text": "one of the biggest lessons i've learned trading crypto is that catching the right rotation means very little if you give all the gains back\n\nin 2017, i made significant profits trading alts but round-tripped a lot of them\n\nby 2020-21, i'd gotten much better at identifying narratives early, rotating between SOL, LUNA and AVAX, and compounding gains across different trades\n\ni believe finding opportunities early and knowing when to take profits are equally important skills"
-        },
         {
           "created_at": "2026-10-11T14:21:53.000Z",
           "id": "2109288381767462951",
@@ -737,10 +729,17 @@
           "created_at": "2026-10-13T07:37:18.000Z",
           "id": "2109911341356273792",
           "text": "pain trade is up"
+        },
+        {
+          "created_at": "2026-10-13T07:53:41.000Z",
+          "id": "2109915465485332883",
+          "images": [
+            "https://pbs.twimg.com/media/HUfs6SabMAAFbB0.jpg"
+          ],
+          "text": "all time highs by christmas https://t.co/XJpEdUjIdr"
         }
       ],
       "reads": {
-        "2109258057075351629": "No call",
         "2109288381767462951": "TRADE LONG GRASS",
         "2109417992740343814": "VIEW bullish on alts",
         "2109420927427789123": "No call: bullish on alts (same view as before)",
@@ -759,7 +758,8 @@
         "2109701956440891883": "No call: bullish on memecoins (same view as before)",
         "2109734999708831885": "VIEW bullish on PUMP",
         "2109736979932008805": "No call: bullish on PUMP (60%, too unsure)",
-        "2109911341356273792": "No call: bullish on btc (65%, too unsure)"
+        "2109911341356273792": "No call: bullish on btc (65%, too unsure)",
+        "2109915465485332883": "No call: bullish on btc (same view as before)"
       },
       "replies": [
         {
@@ -1102,11 +1102,14 @@
         "2109911341356273792": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109915465485332883": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2108918275354800331": false,
-        "2109258057075351629": true,
         "2109288381767462951": true,
         "2109417992740343814": true,
         "2109420927427789123": true,
@@ -1139,7 +1142,8 @@
         "2109732366390538422": false,
         "2109734999708831885": true,
         "2109736979932008805": true,
-        "2109911341356273792": true
+        "2109911341356273792": true,
+        "2109915465485332883": true
       },
       "user_id": "973261472"
     },
@@ -3951,5 +3955,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T07:38:25+00:00"
+  "updated_at": "2026-10-13T07:54:25+00:00"
 }
