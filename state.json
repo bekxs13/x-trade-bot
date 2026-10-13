@@ -1519,7 +1519,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2110006485019484457",
+      "last_id": "2110031187049873462",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1695,12 +1695,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T22:47:12.000Z",
-          "id": "2109777937117704260",
-          "reply_to_id": "2109777617268203910",
-          "text": "@notthreadguy @CookerFlips A casual followers inferred vague post is a devout followers explicit advice"
-        },
-        {
           "created_at": "2026-10-12T22:47:43.000Z",
           "id": "2109778066151207408",
           "reply_to_id": "2109777524926689305",
@@ -1783,6 +1777,12 @@
           "id": "2109864660723999213",
           "reply_to_id": "2109854137341124913",
           "text": "@naniXBT Kospi down 7% btw trade never drew down for a second btw"
+        },
+        {
+          "created_at": "2026-10-13T15:33:32.000Z",
+          "id": "2110031187049873462",
+          "reply_to_id": "2110027728112021765",
+          "text": "@blknoiz06 Wow what a great idea!"
         }
       ],
       "threads": {
@@ -1884,7 +1884,6 @@
         "2109711246241251589": true,
         "2109775773188194396": true,
         "2109776806710853911": true,
-        "2109777937117704260": false,
         "2109778066151207408": false,
         "2109778560567402878": true,
         "2109779401487593682": false,
@@ -1907,7 +1906,8 @@
         "2109864856690348426": true,
         "2109871082987786632": true,
         "2110005247536222698": false,
-        "2110006485019484457": true
+        "2110006485019484457": true,
+        "2110031187049873462": false
       },
       "user_id": "953032269433745408"
     },
@@ -4093,5 +4093,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T15:20:27+00:00"
+  "updated_at": "2026-10-13T15:34:22+00:00"
 }
