@@ -2763,7 +2763,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110099636820054153",
+      "last_id": "2110100532094234942",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -2783,11 +2783,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T13:26:34.000Z",
-          "id": "2108549683283144734",
-          "text": "no ledger post yet? hello?"
-        },
         {
           "created_at": "2026-10-10T02:10:33.000Z",
           "id": "2108741947263242661",
@@ -2899,10 +2894,15 @@
           "id": "2110099636820054153",
           "reply_to_id": "2110098064773890275",
           "text": "oh my god i can\u2019t believe people still live like thissssss \n\nlike what? asking a fucking ai if they can bring food on a plane? does nobody go outside i don\u2019t get it? is it because it said TWIN? yours convinced you your startup was a good idea and let you waste a year of your life who\u2019s is worse here \n\nthis is what consumer ai looks like buddy"
+        },
+        {
+          "created_at": "2026-10-13T20:09:05.000Z",
+          "id": "2110100532094234942",
+          "reply_to_id": "2110099636820054153",
+          "text": "i mean seriously what do you think people are using muse for"
         }
       ],
       "reads": {
-        "2108549683283144734": "No call",
         "2108968997542891854": "No call",
         "2109677343610425650": "No call",
         "2109714673545228532": "No call",
@@ -2919,18 +2919,6 @@
         "2110099636820054153": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-12T22:53:54.000Z",
-          "id": "2109779623538233788",
-          "reply_to_id": "2109779465240769003",
-          "text": "@json1444 there\u2019s no such thing as enough"
-        },
-        {
-          "created_at": "2026-10-12T22:54:46.000Z",
-          "id": "2109779841562399091",
-          "reply_to_id": "2109779724339663325",
-          "text": "@HansonBirringer \ud83e\udeea"
-        },
         {
           "created_at": "2026-10-12T23:02:17.000Z",
           "id": "2109781731582578701",
@@ -3011,6 +2999,18 @@
           "id": "2110043712646676920",
           "reply_to_id": "2110042786439495863",
           "text": "@2cardtito LESGO"
+        },
+        {
+          "created_at": "2026-10-13T20:08:10.000Z",
+          "id": "2110100302246387995",
+          "reply_to_id": "2110099032832131500",
+          "text": "@ratwell they already do which makes it funnier"
+        },
+        {
+          "created_at": "2026-10-13T20:08:47.000Z",
+          "id": "2110100457662144827",
+          "reply_to_id": "2110100098575487412",
+          "text": "@tenitoka_eth it\u2019s actually nuts"
         }
       ],
       "threads": {
@@ -3111,7 +3111,6 @@
         }
       },
       "trading": {
-        "2108549683283144734": false,
         "2108741947263242661": false,
         "2108968997542891854": true,
         "2109677343610425650": true,
@@ -3124,8 +3123,6 @@
         "2109778835851952500": true,
         "2109779144452059636": false,
         "2109779201754828950": false,
-        "2109779623538233788": false,
-        "2109779841562399091": false,
         "2109781731582578701": true,
         "2109787880365203583": true,
         "2109790593685520394": true,
@@ -3145,7 +3142,10 @@
         "2110043712646676920": false,
         "2110088724310589484": false,
         "2110098064773890275": false,
-        "2110099636820054153": false
+        "2110099636820054153": false,
+        "2110100302246387995": false,
+        "2110100457662144827": false,
+        "2110100532094234942": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4150,5 +4150,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T20:06:24+00:00"
+  "updated_at": "2026-10-13T20:10:22+00:00"
 }
