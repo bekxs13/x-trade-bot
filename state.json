@@ -1865,7 +1865,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109901331037409474",
+      "last_id": "2109910565166752156",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -2108,12 +2108,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T15:58:49.000Z",
-          "id": "2109675161456935015",
-          "reply_to_id": "2109672917294567604",
-          "text": "@noisetradez yes switched to full spot / 1x lev but have to note that my overall entry was at ~0.06 average re: initial thesis so my risk is not equal to someone entering here especially after the risk assets crash today \n\nif entering probably safer to twap over days\n\nhttps://t.co/oybW2lB9sL"
-        },
-        {
           "created_at": "2026-10-12T16:07:01.000Z",
           "id": "2109677226858062325",
           "reply_to_id": "2109675067735196140",
@@ -2196,6 +2190,12 @@
           "id": "2109901331037409474",
           "reply_to_id": "2109878272096170347",
           "text": "@nobilis \ud83d\ude4f\ud83d\ude4f"
+        },
+        {
+          "created_at": "2026-10-13T07:34:13.000Z",
+          "id": "2109910565166752156",
+          "reply_to_id": "2109909930602017247",
+          "text": "@ToyoItori thank you, appreciate you toyo! \ud83d\ude4f"
         }
       ],
       "threads": {
@@ -2602,7 +2602,6 @@
         "2109663652630647111": true,
         "2109669028604309522": false,
         "2109672824009117846": true,
-        "2109675161456935015": true,
         "2109675370442309715": true,
         "2109676797076144526": false,
         "2109677226858062325": true,
@@ -2627,7 +2626,8 @@
         "2109893513274184003": true,
         "2109893851347362122": false,
         "2109897204165132397": true,
-        "2109901331037409474": false
+        "2109901331037409474": false,
+        "2109910565166752156": false
       },
       "user_id": "1653080265294757890"
     },
@@ -3950,5 +3950,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T06:58:20+00:00"
+  "updated_at": "2026-10-13T07:36:24+00:00"
 }
