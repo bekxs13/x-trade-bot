@@ -1928,7 +1928,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109951735666020559",
+      "last_id": "2109957018547368347",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -2025,12 +2025,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T11:45:20.000Z",
-          "id": "2109611372359377271",
-          "quoted_text": "bought an insane amount of wormhole $W\n\ntop 1 rwa dominance infra + interoperability of everything shouldnt be anywhere near 150m mc imo\n\nsecond kingmaker. https://t.co/jWYb3QmQTQ",
-          "text": "after further research it looks like theres some points that needs to be pointed out:\n\n1. apparently $W the company has faked volume numbers before - personally my pov is that this is priced in and sentiment is at ~rock bottom, but i think this is still a point that should be brought up regardless \n\n2. stressed again that 4.5bil rwa value on securitize, not wormhole - wormhole is the interop layer, securitize is the rwa layer\n\nsecuritize is the strongest rwa player at the moment and their exclusive partner is wormhole\n\nthe trade is that going into a new cycle where both rwas and interop is likely to be (very) sticky sectors, $w is a deserving play at 200m mc \n\nhowever until rwa picks up further and sentiment around w improves, perhaps it might be best to re-classify this closer to a viable asymmetric bet than a second kingmaker \n\nhoping it cooks!"
-        },
         {
           "created_at": "2026-10-12T12:34:31.000Z",
           "id": "2109623750056645100",
@@ -2151,10 +2145,15 @@
           "created_at": "2026-10-13T09:43:57.000Z",
           "id": "2109943214233063890",
           "text": "i dont care if gcr himself comes back and says strk is shit\n\ni did my research. in the domain where i best specialize in.\n\ni will be the new gcr if i have to.\n\ni dont care and im not going to care anytime soon.\n\nstarknet is my kingmaker.\n\nMP"
+        },
+        {
+          "created_at": "2026-10-13T10:38:48.000Z",
+          "id": "2109957018547368347",
+          "quoted_text": "The Bunker\n\nEli Ben-Sasson | @EliBenSasson said Bitcoin isn't safe from quantum, and he's building Starknet as the place Bitcoin, Ethereum and Zcash holders can run to if their keys break. A chapter from The Cat in the Maze, our Wisemen article on @Starknet and its cat.\n\nJustin Drake | @drakefjustin posted that the industry needs to get into \"bunker mode.\" His advice was simple. Park your coins at an address that has never spent, and when you do spend, push the change to a fresh one, because a s",
+          "text": "Read this\n\n$STRK https://t.co/Oq4niovyn7"
         }
       ],
       "reads": {
-        "2109611372359377271": "No call",
         "2109623750056645100": "No call",
         "2109663652630647111": "TRADE TRIM crypto leveraged positions \u00b7 VIEW neutral on crypto market",
         "2109669028604309522": "TRADE TRIM W \u00b7 VIEW neutral on alts",
@@ -2165,7 +2164,8 @@
         "2109859501612392746": "No call: bullish on stocks/macro (60%, too unsure)",
         "2109863340189286485": "No call",
         "2109935458566512869": "No call: bullish on STRK (same view as before)",
-        "2109943214233063890": "No call"
+        "2109943214233063890": "No call",
+        "2109957018547368347": "No call"
       },
       "replies": [
         {
@@ -2659,10 +2659,13 @@
         "2109943214233063890": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109957018547368347": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109611372359377271": true,
         "2109623750056645100": true,
         "2109650519979598207": true,
         "2109663652630647111": true,
@@ -2696,7 +2699,8 @@
         "2109945121290715369": false,
         "2109948573437841690": true,
         "2109949136443425178": true,
-        "2109951735666020559": false
+        "2109951735666020559": false,
+        "2109957018547368347": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4019,5 +4023,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T10:20:23+00:00"
+  "updated_at": "2026-10-13T10:40:21+00:00"
 }
