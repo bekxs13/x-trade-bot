@@ -1812,12 +1812,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2108467127783154171",
-          "reason": "\"called pico cycle bottom of $btc\" implies he thinks BTC has bottomed and is bullish from here.",
+          "post_id": "2109850256947175750",
+          "reason": "\"going into new btc cycle\" implies a bullish BTC view, matching the recorded bullish btc stance.",
           "scope": "btc",
           "since": "2026-10-09",
           "stance": "bullish",
-          "updated_at": "2026-10-09T07:58:31.000Z"
+          "updated_at": "2026-10-13T03:34:35.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -1849,7 +1849,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109721245742952581",
+      "last_id": "2109850256947175750",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1912,6 +1912,22 @@
           "structure": "spot",
           "url": "https://x.com/MoneyPrinter0x/status/2109304815138562548"
         },
+        "STX": {
+          "asset": "STX",
+          "chain": "",
+          "confidence": 0.92,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "0.4283",
+          "horizon": "new btc cycle",
+          "market": "crypto",
+          "open_price": null,
+          "post_id": "2109850256947175750",
+          "reason": "\"bought $stx\" with Binance STXUSDT charts showing about 0.43; the thesis is BTC staking exposure for the new BTC cycle.",
+          "since": "2026-10-13T03:34:35.000Z",
+          "structure": "spot",
+          "url": "https://x.com/MoneyPrinter0x/status/2109850256947175750"
+        },
         "W": {
           "asset": "W",
           "chain": "",
@@ -1930,15 +1946,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T02:59:28.000Z",
-          "id": "2109479031863394733",
-          "images": [
-            "https://pbs.twimg.com/media/HUZf_sUbEAE6aoD.jpg"
-          ],
-          "quoted_text": "bought an insane amount of wormhole $W\n\ntop 1 rwa dominance infra + interoperability of everything shouldnt be anywhere near 150m mc imo\n\nsecond kingmaker. https://t.co/jWYb3QmQTQ",
-          "text": "wtf i cant even buy more https://t.co/6RhoxaQSWK https://t.co/hXUBn4JEoe"
-        },
         {
           "created_at": "2026-10-12T03:00:23.000Z",
           "id": "2109479266299916444",
@@ -2063,10 +2070,18 @@
           "id": "2109721245742952581",
           "reply_to_id": "2109699494787125708",
           "text": "@ieaturfoods *it was a terrible call"
+        },
+        {
+          "created_at": "2026-10-13T03:34:35.000Z",
+          "id": "2109850256947175750",
+          "images": [
+            "https://pbs.twimg.com/media/HUexnc6bgAA_OyW.jpg",
+            "https://pbs.twimg.com/media/HUexn2-bEAADYcW.jpg"
+          ],
+          "text": "bought $stx , btc staking exposure going into new btc cycle\n\nstrongest relative strength when all other pairs are crashing https://t.co/3iApg05bpW"
         }
       ],
       "reads": {
-        "2109479031863394733": "No call",
         "2109479266299916444": "No call",
         "2109486529106362694": "No call",
         "2109523378264846593": "No call",
@@ -2081,7 +2096,8 @@
         "2109663652630647111": "TRADE TRIM crypto leveraged positions \u00b7 VIEW neutral on crypto market",
         "2109669028604309522": "TRADE TRIM W \u00b7 VIEW neutral on alts",
         "2109672824009117846": "VIEW bearish on crypto market",
-        "2109676797076144526": "No call"
+        "2109676797076144526": "No call",
+        "2109850256947175750": "TRADE LONG STX"
       },
       "replies": [
         {
@@ -2549,10 +2565,15 @@
             "bias:crypto market:bearish"
           ],
           "self_replies": 1
+        },
+        "2109850256947175750": {
+          "alerted": [
+            "trade:STX:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109479031863394733": true,
         "2109479266299916444": true,
         "2109486529106362694": true,
         "2109523378264846593": true,
@@ -2586,7 +2607,8 @@
         "2109699494787125708": true,
         "2109720822911029388": false,
         "2109721144341549229": false,
-        "2109721245742952581": false
+        "2109721245742952581": false,
+        "2109850256947175750": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3892,5 +3914,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T02:40:28+00:00"
+  "updated_at": "2026-10-13T03:36:25+00:00"
 }
