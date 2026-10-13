@@ -3793,14 +3793,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110046712131936390",
+      "last_id": "2110080396587065760",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-07T15:15:34.000Z",
-          "id": "2107852339638128755",
-          "text": "Biggest tell of someone being new to trading is over-indexing on backtests"
-        },
         {
           "created_at": "2026-10-07T16:30:04.000Z",
           "id": "2107871088717726010",
@@ -3901,10 +3896,14 @@
           "created_at": "2026-10-13T16:35:13.000Z",
           "id": "2110046712131936390",
           "text": "Sometimes I feel like Errol Flynn reincarnated"
+        },
+        {
+          "created_at": "2026-10-13T18:49:04.000Z",
+          "id": "2110080396587065760",
+          "text": "Had some recently ask what they should read to become a better investor.\n\nHighly recommend reading BRK-A shareholder letters +/- 1 year around a significant crash.\n\nhttps://t.co/z8Gafpziku"
         }
       ],
       "reads": {
-        "2107852339638128755": "No call",
         "2107871088717726010": "No call",
         "2107893628349956318": "No call",
         "2107941658998309343": "No call",
@@ -3923,7 +3922,8 @@
         "2109860304587030768": "No call: bearish on stocks/macro (same view as before)",
         "2109861707854352759": "No call: maybe short  (60%, too unsure); bearish on stocks/macro (same view as before)",
         "2109992995642544144": "No call",
-        "2110046712131936390": "No call"
+        "2110046712131936390": "No call",
+        "2110080396587065760": "No call"
       },
       "replies": [
         {
@@ -4087,6 +4087,10 @@
         "2110046712131936390": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110080396587065760": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4094,7 +4098,6 @@
         "2105415950094762065": false,
         "2106072786095722791": true,
         "2106084747008967039": true,
-        "2107852339638128755": true,
         "2107871088717726010": false,
         "2107893628349956318": true,
         "2107894568507085235": false,
@@ -4118,7 +4121,8 @@
         "2109860304587030768": true,
         "2109861707854352759": true,
         "2109992995642544144": false,
-        "2110046712131936390": false
+        "2110046712131936390": false,
+        "2110080396587065760": true
       },
       "user_id": "809191427645181952"
     }
@@ -4134,5 +4138,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T18:46:20+00:00"
+  "updated_at": "2026-10-13T18:50:22+00:00"
 }
