@@ -1493,7 +1493,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2110005247536222698",
+      "last_id": "2110006485019484457",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1529,11 +1529,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T19:33:39.000Z",
-          "id": "2108642063260831803",
-          "text": "I still think for crypto you can use these yearly open levels on majors as pivots and look to rerisk back above there should it occur\n\nAs it stands things look quite ugly with eth going back into prior range and alts continuing to have broken structures trending lower\n\nSame update for a couple weeks really, no reason to press risk into a changed market dynamic"
-        },
         {
           "created_at": "2026-10-09T19:41:20.000Z",
           "id": "2108643999506669597",
@@ -1649,10 +1644,15 @@
           "created_at": "2026-10-13T13:50:27.000Z",
           "id": "2110005247536222698",
           "text": "Gooood moooorniiing yeaaaaah"
+        },
+        {
+          "created_at": "2026-10-13T13:55:22.000Z",
+          "id": "2110006485019484457",
+          "reply_to_id": "2110005247536222698",
+          "text": "Another mags up mem down start holy fuk"
         }
       ],
       "reads": {
-        "2108642063260831803": "No call: bearish on crypto market (same view as before)",
         "2109703293270364304": "No call: bearish on crypto market (same view as before)",
         "2109703958189240494": "No call",
         "2109710662536745312": "No call",
@@ -1664,7 +1664,8 @@
         "2109802343827214627": "TRADE SHORT EWY",
         "2109802796107350151": "Read together with the post it replies to",
         "2109864856690348426": "No call",
-        "2110005247536222698": "No call"
+        "2110005247536222698": "No call",
+        "2110006485019484457": "No call"
       },
       "replies": [
         {
@@ -1842,11 +1843,10 @@
         },
         "2110005247536222698": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2108642063260831803": true,
         "2108643999506669597": false,
         "2108673793099247684": true,
         "2108683125761130908": true,
@@ -1880,7 +1880,8 @@
         "2109864660723999213": true,
         "2109864856690348426": true,
         "2109871082987786632": true,
-        "2110005247536222698": false
+        "2110005247536222698": false,
+        "2110006485019484457": true
       },
       "user_id": "953032269433745408"
     },
@@ -4066,5 +4067,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T13:52:20+00:00"
+  "updated_at": "2026-10-13T13:56:24+00:00"
 }
