@@ -1862,7 +1862,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109853305249874403",
+      "last_id": "2109859230996132303",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -1959,15 +1959,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T03:00:23.000Z",
-          "id": "2109479266299916444",
-          "images": [
-            "https://pbs.twimg.com/media/HUZgNYlaEAAm8Y9.jpg"
-          ],
-          "quoted_text": "bought an insane amount of wormhole $W\n\ntop 1 rwa dominance infra + interoperability of everything shouldnt be anywhere near 150m mc imo\n\nsecond kingmaker. https://t.co/jWYb3QmQTQ",
-          "text": "wtf it maxed out hyperliquid oi\n\ni wanted to buy more https://t.co/ZdMywnOYo0 https://t.co/hXUBn4JEoe"
-        },
         {
           "created_at": "2026-10-12T03:29:15.000Z",
           "id": "2109486529106362694",
@@ -2092,10 +2083,14 @@
             "https://pbs.twimg.com/media/HUexn2-bEAADYcW.jpg"
           ],
           "text": "bought $stx , btc staking exposure going into new btc cycle\n\nstrongest relative strength when all other pairs are crashing https://t.co/3iApg05bpW"
+        },
+        {
+          "created_at": "2026-10-13T04:10:14.000Z",
+          "id": "2109859230996132303",
+          "text": "cpi frontrun crash into decent print"
         }
       ],
       "reads": {
-        "2109479266299916444": "No call",
         "2109486529106362694": "No call",
         "2109523378264846593": "No call",
         "2109540880973787414": "TRADE LONG W",
@@ -2110,7 +2105,8 @@
         "2109669028604309522": "TRADE TRIM W \u00b7 VIEW neutral on alts",
         "2109672824009117846": "VIEW bearish on crypto market",
         "2109676797076144526": "No call",
-        "2109850256947175750": "TRADE LONG STX"
+        "2109850256947175750": "TRADE LONG STX",
+        "2109859230996132303": "No call: bullish on stocks/macro (55%, too unsure)"
       },
       "replies": [
         {
@@ -2584,10 +2580,13 @@
             "trade:STX:long"
           ],
           "self_replies": 0
+        },
+        "2109859230996132303": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109479266299916444": true,
         "2109486529106362694": true,
         "2109523378264846593": true,
         "2109540880973787414": true,
@@ -2621,7 +2620,8 @@
         "2109721144341549229": false,
         "2109721245742952581": false,
         "2109850256947175750": true,
-        "2109853305249874403": false
+        "2109853305249874403": false,
+        "2109859230996132303": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3604,24 +3604,19 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2109858600910983320",
-          "reason": "'Recursive spending', opaque commitments, 'valuations so high' and 'left holding the bag' read as a bearish take on the AI capex bubble. That matches the recent posts about getting more bearish on equities and waiting on the Anthropic S1.",
+          "post_id": "2109858808428376287",
+          "reason": "Talks of recursive vendor financing, opaque spending commitments and high valuations with someone 'left holding the bag', a bearish take on the AI capex/stock bubble that matches the recorded bearish stocks/macro view.",
           "scope": "stocks/macro",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-13T04:07:44.000Z"
+          "updated_at": "2026-10-13T04:08:33.000Z"
         }
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2109858600910983320",
+      "last_id": "2109858808428376287",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-01T03:50:53.000Z",
-          "id": "2105505706413899839",
-          "text": "Been 2 years since someone asked me who I was"
-        },
         {
           "created_at": "2026-10-05T13:46:20.000Z",
           "id": "2107105108479619524",
@@ -3719,10 +3714,14 @@
           "created_at": "2026-10-13T04:07:44.000Z",
           "id": "2109858600910983320",
           "text": "The problem is all the spending is so recursive, the contracts and spending commitments so opaque, valuations so high that it\u2019s almost anyone\u2019s guess as to who\u2019s left holding the bag."
+        },
+        {
+          "created_at": "2026-10-13T04:08:33.000Z",
+          "id": "2109858808428376287",
+          "text": "The problem is all the vendor financing is so recursive, the contracts and spending commitments so opaque, valuations so high that it\u2019s almost anyone\u2019s guess as to who\u2019s left holding the bag."
         }
       ],
       "reads": {
-        "2105505706413899839": "No call",
         "2107105108479619524": "No call",
         "2107240927408607705": "No call",
         "2107304442760462642": "No call",
@@ -3741,7 +3740,8 @@
         "2109704848866459700": "No call",
         "2109722179432812640": "No call",
         "2109723930533466580": "VIEW bearish on alts",
-        "2109858600910983320": "No call: bearish on stocks/macro (same view as before)"
+        "2109858600910983320": "No call: bearish on stocks/macro (same view as before)",
+        "2109858808428376287": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -3885,12 +3885,15 @@
         "2109858600910983320": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2109858808428376287": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2105386100391084082": false,
         "2105415950094762065": false,
-        "2105505706413899839": false,
         "2106072786095722791": true,
         "2106084747008967039": true,
         "2107105108479619524": false,
@@ -3916,7 +3919,8 @@
         "2109704848866459700": true,
         "2109722179432812640": false,
         "2109723930533466580": true,
-        "2109858600910983320": true
+        "2109858600910983320": true,
+        "2109858808428376287": true
       },
       "user_id": "809191427645181952"
     }
@@ -3932,5 +3936,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T04:08:26+00:00"
+  "updated_at": "2026-10-13T04:10:40+00:00"
 }
