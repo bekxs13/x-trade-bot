@@ -1519,7 +1519,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2110031187049873462",
+      "last_id": "2110033888332681447",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1555,12 +1555,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T19:41:20.000Z",
-          "id": "2108643999506669597",
-          "reply_to_id": "2108643712184250807",
-          "text": "@the_walkerdog2 Balls tingling"
-        },
         {
           "created_at": "2026-10-09T21:39:44.000Z",
           "id": "2108673793099247684",
@@ -1676,6 +1670,11 @@
           "id": "2110006485019484457",
           "reply_to_id": "2110005247536222698",
           "text": "Another mags up mem down start holy fuk"
+        },
+        {
+          "created_at": "2026-10-13T15:44:16.000Z",
+          "id": "2110033888332681447",
+          "text": "Tpd some ewy shorts, nearly 10% move in just a few days is too fat to not reel it in especially shorter dates \n\nHedge ended up being the main profitable position\n\nRest of stuff is unchanged"
         }
       ],
       "reads": {
@@ -1691,7 +1690,8 @@
         "2109802796107350151": "Read together with the post it replies to",
         "2109864856690348426": "No call",
         "2110005247536222698": "No call",
-        "2110006485019484457": "No call"
+        "2110006485019484457": "No call",
+        "2110033888332681447": "TRADE TRIM EWY"
       },
       "replies": [
         {
@@ -1870,10 +1870,15 @@
         "2110005247536222698": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2110033888332681447": {
+          "alerted": [
+            "trade:EWY:trim"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108643999506669597": false,
         "2108673793099247684": true,
         "2108683125761130908": true,
         "2109420829926953299": false,
@@ -1907,7 +1912,8 @@
         "2109871082987786632": true,
         "2110005247536222698": false,
         "2110006485019484457": true,
-        "2110031187049873462": false
+        "2110031187049873462": false,
+        "2110033888332681447": true
       },
       "user_id": "953032269433745408"
     },
@@ -4093,5 +4099,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T15:34:22+00:00"
+  "updated_at": "2026-10-13T15:46:23+00:00"
 }
