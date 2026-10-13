@@ -1493,7 +1493,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2109871082987786632",
+      "last_id": "2110005247536222698",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1529,12 +1529,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T19:16:58.000Z",
-          "id": "2108637867329384826",
-          "reply_to_id": "2108616630343504339",
-          "text": "Listened to jez interview, funny to see him talk about traders being uber competitive self critical and usually respond with anger to any losses as I sit in a rage over ASTS \n\nOn the real tho it is fucking hilarious how I can do well repeatedly but anytime I lose at all I drive myself into a temporary rage, I just can\u2019t turn that part of my brain off"
-        },
         {
           "created_at": "2026-10-09T19:33:39.000Z",
           "id": "2108642063260831803",
@@ -1650,10 +1644,14 @@
           "quoted_text": "@anaturalcat Looks bad mags look good \n\n#investing",
           "reply_to_id": "2109802796107350151",
           "text": "@chumbawamba22 They don\u2019t want you to know you can just look at something and decide where it\u2019s going https://t.co/tBANuBjePS"
+        },
+        {
+          "created_at": "2026-10-13T13:50:27.000Z",
+          "id": "2110005247536222698",
+          "text": "Gooood moooorniiing yeaaaaah"
         }
       ],
       "reads": {
-        "2108637867329384826": "No call",
         "2108642063260831803": "No call: bearish on crypto market (same view as before)",
         "2109703293270364304": "No call: bearish on crypto market (same view as before)",
         "2109703958189240494": "No call",
@@ -1665,7 +1663,8 @@
         "2109798740760633507": "No call",
         "2109802343827214627": "TRADE SHORT EWY",
         "2109802796107350151": "Read together with the post it replies to",
-        "2109864856690348426": "No call"
+        "2109864856690348426": "No call",
+        "2110005247536222698": "No call"
       },
       "replies": [
         {
@@ -1840,10 +1839,13 @@
         "2109864856690348426": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110005247536222698": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108637867329384826": true,
         "2108642063260831803": true,
         "2108643999506669597": false,
         "2108673793099247684": true,
@@ -1877,7 +1879,8 @@
         "2109807928492556366": false,
         "2109864660723999213": true,
         "2109864856690348426": true,
-        "2109871082987786632": true
+        "2109871082987786632": true,
+        "2110005247536222698": false
       },
       "user_id": "953032269433745408"
     },
@@ -4063,5 +4066,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T13:22:20+00:00"
+  "updated_at": "2026-10-13T13:52:20+00:00"
 }
