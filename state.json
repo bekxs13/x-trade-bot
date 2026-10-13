@@ -1519,7 +1519,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2110126405879275995",
+      "last_id": "2110126855886151736",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1555,19 +1555,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T22:16:49.000Z",
-          "id": "2108683125761130908",
-          "quoted_text": "I\u2019m just selling equities and mostly sidelined crypto with what I haven\u2019t offramped, am waiting for free plays that take 0 effort, besides that yeah just burn it all down and let me buy lower I\u2019d be very happy",
-          "reply_to_id": "2108681575479316576",
-          "text": "@broccolierabe @0xchartistic @btcbongo I mean legitimately what are we really talking about. I can and have openly acknowledged how I\u2019ve misplayed tradfi this past year in various ways and I\u2019ve been very critical of myself for that. \n\nI don\u2019t think I\u2019ve misplayed crypto markets in the slightest https://t.co/YNfJV9zq1l"
-        },
-        {
-          "created_at": "2026-10-11T23:08:11.000Z",
-          "id": "2109420829926953299",
-          "reply_to_id": "2109420420235739258",
-          "text": "@Evan_ss6 On the flip side genuine relationships already formed and engaging with people you already respect / have rapport with has probably never been more valuable"
-        },
         {
           "created_at": "2026-10-12T17:50:36.000Z",
           "id": "2109703293270364304",
@@ -1674,6 +1661,17 @@
           "id": "2110094006281736323",
           "quoted_text": "Me to the next Korean I see https://t.co/s1kXNccCTq",
           "text": "The next Korean who sees me https://t.co/fDAFBfJigP"
+        },
+        {
+          "created_at": "2026-10-13T21:52:09.000Z",
+          "id": "2110126472363229416",
+          "text": "Floyd mayweather made a fomo account \n\nWALLAHI we are finished"
+        },
+        {
+          "created_at": "2026-10-13T21:52:44.000Z",
+          "id": "2110126618689847606",
+          "reply_to_id": "2110126472363229416",
+          "text": "Prepare for another celeb extraction season LETS GOOOO"
         }
       ],
       "reads": {
@@ -1691,15 +1689,11 @@
         "2110005247536222698": "No call",
         "2110006485019484457": "No call",
         "2110033888332681447": "TRADE TRIM EWY",
-        "2110094006281736323": "No call"
+        "2110094006281736323": "No call",
+        "2110126472363229416": "No call",
+        "2110126618689847606": "Read together with the post it replies to"
       },
       "replies": [
-        {
-          "created_at": "2026-10-12T23:03:44.000Z",
-          "id": "2109782099079413989",
-          "reply_to_id": "2109776386139566138",
-          "text": "@stoicsavage At this point they fucking deserve to be raped by the MOAS"
-        },
         {
           "created_at": "2026-10-12T23:05:19.000Z",
           "id": "2109782493834711430",
@@ -1783,6 +1777,12 @@
           "id": "2110126405879275995",
           "reply_to_id": "2110126060839051446",
           "text": "@fejau_inc EHHHHH?"
+        },
+        {
+          "created_at": "2026-10-13T21:53:41.000Z",
+          "id": "2110126855886151736",
+          "reply_to_id": "2110126512007680039",
+          "text": "@fejau_inc I hit an ewy short in trad land and logged off to have tea in the sun I will close my eyes re crypto\u2026"
         }
       ],
       "threads": {
@@ -1880,11 +1880,13 @@
         "2110094006281736323": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110126472363229416": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2108683125761130908": true,
-        "2109420829926953299": false,
         "2109703293270364304": true,
         "2109703958189240494": true,
         "2109705839263326634": true,
@@ -1893,7 +1895,6 @@
         "2109775773188194396": true,
         "2109776806710853911": true,
         "2109778560567402878": true,
-        "2109782099079413989": true,
         "2109782493834711430": false,
         "2109783596571787389": false,
         "2109784269363298781": false,
@@ -1917,7 +1918,10 @@
         "2110035243826921746": true,
         "2110091995012350348": true,
         "2110094006281736323": false,
-        "2110126405879275995": false
+        "2110126405879275995": false,
+        "2110126472363229416": true,
+        "2110126618689847606": true,
+        "2110126855886151736": true
       },
       "user_id": "953032269433745408"
     },
@@ -4155,5 +4159,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T21:52:18+00:00"
+  "updated_at": "2026-10-13T21:54:22+00:00"
 }
