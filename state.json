@@ -1426,7 +1426,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2109864660723999213",
+      "last_id": "2109864856690348426",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1462,13 +1462,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T04:05:25.000Z",
-          "id": "2108408467048599633",
-          "quoted_text": "@AstroXBT Many OGs felt the same about ZEC for a long time",
-          "reply_to_id": "2104390418591043848",
-          "text": "Hmmm https://t.co/xYsRVPDS3s"
-        },
         {
           "created_at": "2026-10-09T17:52:35.000Z",
           "id": "2108616630343504339",
@@ -1583,10 +1576,14 @@
           "id": "2109802796107350151",
           "reply_to_id": "2109802343827214627",
           "text": "@chumbawamba22 chart looked bad and teleported down what the HELL"
+        },
+        {
+          "created_at": "2026-10-13T04:32:35.000Z",
+          "id": "2109864856690348426",
+          "text": "Kospi down 7% Hynix down 10% yeah I\u2019m thinking I\u2019m fucking BACK"
         }
       ],
       "reads": {
-        "2108408467048599633": "No call",
         "2108616630343504339": "TRADE SHORT EWY \u00b7 VIEW bearish on crypto market",
         "2108637867329384826": "No call",
         "2108642063260831803": "No call: bearish on crypto market (same view as before)",
@@ -1599,7 +1596,8 @@
         "2109795750964322418": "No call",
         "2109798740760633507": "No call",
         "2109802343827214627": "TRADE SHORT EWY",
-        "2109802796107350151": "Read together with the post it replies to"
+        "2109802796107350151": "Read together with the post it replies to",
+        "2109864856690348426": "No call"
       },
       "replies": [
         {
@@ -1770,10 +1768,13 @@
             "trade:EWY:short"
           ],
           "self_replies": 1
+        },
+        "2109864856690348426": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108408467048599633": true,
         "2108616630343504339": true,
         "2108637867329384826": true,
         "2108642063260831803": true,
@@ -1807,7 +1808,8 @@
         "2109802796107350151": true,
         "2109803962216182016": false,
         "2109807928492556366": false,
-        "2109864660723999213": true
+        "2109864660723999213": true,
+        "2109864856690348426": true
       },
       "user_id": "953032269433745408"
     },
@@ -3953,5 +3955,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T04:32:18+00:00"
+  "updated_at": "2026-10-13T04:34:24+00:00"
 }
