@@ -573,6 +573,15 @@
           "stance": "bullish",
           "updated_at": "2026-10-12T17:45:17.000Z"
         },
+        "mu": {
+          "market": "stocks",
+          "post_id": "2110027728112021765",
+          "reason": "\"memory top, mags bottom\": he flips his earlier call that the memory bottom was in to a memory top (MU chart), while calling a bottom in mega caps like META.",
+          "scope": "MU",
+          "since": "2026-10-13",
+          "stance": "bearish",
+          "updated_at": "2026-10-13T15:19:47.000Z"
+        },
         "pump": {
           "market": "crypto",
           "post_id": "2109734999708831885",
@@ -594,7 +603,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110026265088712962",
+      "last_id": "2110027728112021765",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -630,12 +639,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T01:26:53.000Z",
-          "id": "2109455732659863732",
-          "quoted_text": "JUST IN: TRADERS CALLING FOR A PUMPFUN VS FOMO FIGHT NIGHT https://t.co/f83ABBQMFO",
-          "text": "ok i have an idea\n\nwe host a CT Olympics event\n\nevents are:\n\n\u2022 perps trading\n\u2022 boxing\n\u2022 memecoin trading\n\u2022 100M dash\n\u2022 5k\n\none in NYC, one in Dubai\n\nsponsors: coinbase, kraken, okx, binance, bybit\n\nwe draft teams and let people bet on them\n\nwho says yes https://t.co/lJuLIftZkz"
-        },
         {
           "created_at": "2026-10-12T01:30:47.000Z",
           "id": "2109456714772722064",
@@ -755,10 +758,18 @@
           ],
           "quoted_text": "\"max pain is up\" oh yeah man i bet it would hurt everyone so much if their bags just started omega sending to infinity ahh ohh omg it would hurt so bad please no",
           "text": "https://t.co/qjOgDshV7l https://t.co/av8iJq1Dor"
+        },
+        {
+          "created_at": "2026-10-13T15:19:47.000Z",
+          "id": "2110027728112021765",
+          "images": [
+            "https://pbs.twimg.com/media/HUhTBUSW8AEU3Dl.jpg",
+            "https://pbs.twimg.com/media/HUhTBUrWwAASNpG.jpg"
+          ],
+          "text": "memory top\nmags bottom\n\npurely off vibes & charts, but im sure there will be some fundamental analysts who provide substantive reasoning for this shift in the next few months\n\nsaid a few weeks ago thought memory bottom was in, think that is wrong now, was expecting HL into ATHs\n\naug 2025: $META $760 $MU $100\noct 2026: $META $760 $MU $940"
         }
       ],
       "reads": {
-        "2109455732659863732": "No call",
         "2109456714772722064": "No call",
         "2109458016118645023": "No call",
         "2109472464246079912": "No call: bullish on btc (same view as before)",
@@ -776,7 +787,8 @@
         "2109943171694407765": "No call",
         "2109947683935014953": "No call",
         "2109984830230261923": "No call",
-        "2110020788229214374": "No call"
+        "2110020788229214374": "No call",
+        "2110027728112021765": "VIEW bearish on MU"
       },
       "replies": [
         {
@@ -1149,10 +1161,15 @@
         "2110020788229214374": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110027728112021765": {
+          "alerted": [
+            "bias:mu:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109455732659863732": false,
         "2109456714772722064": false,
         "2109458016118645023": true,
         "2109472464246079912": true,
@@ -1186,7 +1203,8 @@
         "2109996205199499430": false,
         "2110020605722378516": false,
         "2110020788229214374": true,
-        "2110026265088712962": true
+        "2110026265088712962": true,
+        "2110027728112021765": true
       },
       "user_id": "973261472"
     },
@@ -4075,5 +4093,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T15:14:20+00:00"
+  "updated_at": "2026-10-13T15:20:27+00:00"
 }
