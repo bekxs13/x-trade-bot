@@ -1149,10 +1149,20 @@
     },
     "cl207": {
       "backfilled": true,
-      "biases": {},
+      "biases": {
+        "crypto market": {
+          "market": "crypto",
+          "post_id": "2109921404644892981",
+          "reason": "Calls it a likely cycle bottom after the year-long drawdown and expects sideways 'before more upside'; the total market cap chart is drawn chopping then rising.",
+          "scope": "crypto market",
+          "since": "2026-10-13",
+          "stance": "bullish",
+          "updated_at": "2026-10-13T08:17:17.000Z"
+        }
+      },
       "closed": [],
       "handle": "cl207",
-      "last_id": "2109584422374936769",
+      "last_id": "2109921404644892981",
       "positions": {
         "RTX 5090 GPUS": {
           "asset": "RTX 5090 GPUs",
@@ -1217,6 +1227,15 @@
           "id": "2108888297481359861",
           "quoted_text": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series \n\n\ud83d\udd17https://t.co/LtX5R3NeaG https://t.co/U823nWqRvm",
           "text": "its truly unfortunate never managed to put the 5090 trade on in size...\n\nwanted maybe 500k exposure but only got 20k (worth 40+ now) https://t.co/dQuP2kzutf"
+        },
+        {
+          "created_at": "2026-10-13T08:17:17.000Z",
+          "id": "2109921404644892981",
+          "images": [
+            "https://pbs.twimg.com/media/HUfhHTkawAAuezC.png"
+          ],
+          "quoted_text": "cat general guidance for q2 is upside\n\nunfortunate that the world that is in a mess, but should be a long term force for cryptographic means of moving wealth around, lines up with multi month selling off and sideways now https://t.co/Cc6vnJkq1Y https://t.co/jz4UzJ3K9J",
+          "text": "q4 remaining of year no strong opinions, big recovery after a prolonged year ish draw down, for a cycle bottom it looks good and feels okay, no idea if it will retest\n\nbut probably now on gana be some sideways before more upside https://t.co/4H2l0bDIHM https://t.co/6bRvvIbU6h"
         }
       ],
       "reads": {
@@ -1227,7 +1246,8 @@
         "2108472255152099705": "No call",
         "2108477226870296592": "No call",
         "2108477739917508975": "No call",
-        "2108888297481359861": "TRADE LONG RTX 5090 GPUs"
+        "2108888297481359861": "TRADE LONG RTX 5090 GPUs",
+        "2109921404644892981": "VIEW bullish on crypto market"
       },
       "replies": [
         {
@@ -1377,6 +1397,12 @@
             "trade:RTX 5090 GPUS:long"
           ],
           "self_replies": 0
+        },
+        "2109921404644892981": {
+          "alerted": [
+            "bias:crypto market:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1403,7 +1429,8 @@
         "2109345282274283658": false,
         "2109347725087211977": false,
         "2109366381045228023": false,
-        "2109584422374936769": false
+        "2109584422374936769": false,
+        "2109921404644892981": true
       },
       "user_id": "1073132650309726208"
     },
@@ -3955,5 +3982,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T08:10:20+00:00"
+  "updated_at": "2026-10-13T08:18:26+00:00"
 }
