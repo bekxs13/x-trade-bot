@@ -2767,7 +2767,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110142715900182843",
+      "last_id": "2110144405151555773",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -2787,12 +2787,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T02:10:33.000Z",
-          "id": "2108741947263242661",
-          "reply_to_id": "2108741913956459002",
-          "text": "@ercwl i did the math but i\u2019m really really bad at math"
-        },
         {
           "created_at": "2026-10-10T17:12:46.000Z",
           "id": "2108968997542891854",
@@ -2904,6 +2898,14 @@
           "id": "2110100532094234942",
           "reply_to_id": "2110099636820054153",
           "text": "i mean seriously what do you think people are using muse for"
+        },
+        {
+          "created_at": "2026-10-13T23:03:25.000Z",
+          "id": "2110144405151555773",
+          "images": [
+            "https://pbs.twimg.com/media/HUi86FoXkAAuRmX.jpg"
+          ],
+          "text": "TOMORROW. Live on stream with @ilblackdragon, @mert, @zkDragon and @tulipking AT 1015am est \n\nWhat does the future look like for our coins https://t.co/t9AiJfdvpD"
         }
       ],
       "reads": {
@@ -2920,7 +2922,8 @@
         "2109987664388907042": "No call",
         "2110088724310589484": "No call",
         "2110098064773890275": "No call",
-        "2110099636820054153": "No call"
+        "2110099636820054153": "No call",
+        "2110144405151555773": "No call"
       },
       "replies": [
         {
@@ -3109,10 +3112,13 @@
         "2110098064773890275": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2110144405151555773": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108741947263242661": false,
         "2108968997542891854": true,
         "2109677343610425650": true,
         "2109714673545228532": false,
@@ -3146,7 +3152,8 @@
         "2110116421418078713": false,
         "2110117123548721572": false,
         "2110132837018182014": false,
-        "2110142715900182843": false
+        "2110142715900182843": false,
+        "2110144405151555773": true
       },
       "user_id": "1426732252768182281"
     },
@@ -4156,5 +4163,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T22:58:24+00:00"
+  "updated_at": "2026-10-13T23:04:20+00:00"
 }
