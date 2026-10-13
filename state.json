@@ -1865,7 +1865,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109885252265210238",
+      "last_id": "2109889739683934439",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -2114,12 +2114,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T15:26:08.000Z",
-          "id": "2109666936535892397",
-          "reply_to_id": "2109666130969473484",
-          "text": "@0xMensa probably not a good idea atm, tradfi is crashing risk assets today - gonna  assess before overtrading"
-        },
-        {
           "created_at": "2026-10-12T15:43:59.000Z",
           "id": "2109671430258577427",
           "reply_to_id": "2109670844448301086",
@@ -2202,6 +2196,12 @@
           "id": "2109885252265210238",
           "reply_to_id": "2109866464270553270",
           "text": "nobody knows other than the team. but by that logic every play that has an unlock incoming should be discredited, which has proven time and time again to not always be the case.\n\nwhat we can see at the moment is that:\n\n1. september unlocks didnt dump the price, we are actually higher now\n\n2. majority of vcs have entries at implied valuations far above current  price/fdv (0.2$ , 0.8$)"
+        },
+        {
+          "created_at": "2026-10-13T06:11:28.000Z",
+          "id": "2109889739683934439",
+          "reply_to_id": "2109885881574429090",
+          "text": "i actually like flood a lot, own up that wormhole is a terrible call \n\nand although i called to derisk and re-classified the play before price crashed by -50% over the next 6 hours alongside all major alts crashing -5%~-15%, \n\non top of venues unexpectedly blocking people from opening longs for 12h (only allowing closing longs) just for majors to crash the moment that orders were enabled,\n\nit doesnt change the fact that it was a terrible call that deserved more indexing in non-technology dd, it was a terrible call and overconfidence in thematic momentum trades translating well in alts. \n\nstarknet i have never revised my assessment on. there are a lot of plays in the market and i respect taking other plays or not taking this\n\nbut i still believe that as long as team holds the unlocks like they did in september, the thesis of being at the right place at the right time holds true for starknet."
         }
       ],
       "threads": {
@@ -2609,7 +2609,6 @@
         "2109623750056645100": true,
         "2109650519979598207": true,
         "2109663652630647111": true,
-        "2109666936535892397": true,
         "2109669028604309522": false,
         "2109671430258577427": true,
         "2109671632780628020": true,
@@ -2633,7 +2632,8 @@
         "2109863340189286485": true,
         "2109869539525890113": true,
         "2109876884565889330": true,
-        "2109885252265210238": true
+        "2109885252265210238": true,
+        "2109889739683934439": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3956,5 +3956,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T05:54:20+00:00"
+  "updated_at": "2026-10-13T06:12:19+00:00"
 }
