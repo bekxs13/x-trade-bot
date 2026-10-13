@@ -594,7 +594,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110020605722378516",
+      "last_id": "2110020788229214374",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -630,11 +630,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T00:51:17.000Z",
-          "id": "2109446775861899417",
-          "text": "you can only hold 3 altcoins &gt; 500M FDV going into Q4, which do you hold and what are your targets by December 25th, 2026"
-        },
         {
           "created_at": "2026-10-12T01:26:53.000Z",
           "id": "2109455732659863732",
@@ -751,10 +746,18 @@
           "created_at": "2026-10-13T12:29:19.000Z",
           "id": "2109984830230261923",
           "text": "if i streamed trading ny open on 100x lev would you guys watch it"
+        },
+        {
+          "created_at": "2026-10-13T14:52:12.000Z",
+          "id": "2110020788229214374",
+          "images": [
+            "https://pbs.twimg.com/media/HUhMt9XX0AAiu-v.jpg"
+          ],
+          "quoted_text": "\"max pain is up\" oh yeah man i bet it would hurt everyone so much if their bags just started omega sending to infinity ahh ohh omg it would hurt so bad please no",
+          "text": "https://t.co/qjOgDshV7l https://t.co/av8iJq1Dor"
         }
       ],
       "reads": {
-        "2109446775861899417": "No call",
         "2109455732659863732": "No call",
         "2109456714772722064": "No call",
         "2109458016118645023": "No call",
@@ -772,7 +775,8 @@
         "2109928752092500155": "VIEW bullish on crypto market",
         "2109943171694407765": "No call",
         "2109947683935014953": "No call",
-        "2109984830230261923": "No call"
+        "2109984830230261923": "No call",
+        "2110020788229214374": "No call"
       },
       "replies": [
         {
@@ -1141,10 +1145,13 @@
         "2109984830230261923": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110020788229214374": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109446775861899417": true,
         "2109455732659863732": false,
         "2109456714772722064": false,
         "2109458016118645023": true,
@@ -1178,7 +1185,8 @@
         "2109984830230261923": true,
         "2109984872013988256": false,
         "2109996205199499430": false,
-        "2110020605722378516": false
+        "2110020605722378516": false,
+        "2110020788229214374": true
       },
       "user_id": "973261472"
     },
@@ -4067,5 +4075,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T14:52:18+00:00"
+  "updated_at": "2026-10-13T14:54:28+00:00"
 }
