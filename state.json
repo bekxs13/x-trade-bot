@@ -2,7 +2,17 @@
   "accounts": {
     "based16z": {
       "backfilled": true,
-      "biases": {},
+      "biases": {
+        "btc": {
+          "market": "crypto",
+          "post_id": "2109853746020958350",
+          "reason": "\"Good btc theses next 20 days\" lists debasement/sovereign exit and a pre-midterm pump as bullish catalysts.",
+          "scope": "btc",
+          "since": "2026-10-13",
+          "stance": "bullish",
+          "updated_at": "2026-10-13T03:48:26.000Z"
+        }
+      },
       "closed": [
         {
           "asset": "BTC",
@@ -21,17 +31,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2109851574004846860",
+      "last_id": "2109853746020958350",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-12T18:36:00.000Z",
-          "id": "2109714720127365189",
-          "images": [
-            "https://pbs.twimg.com/media/HUc2WZSa8AAKJk1.jpg"
-          ],
-          "text": "Glad to see everyone having a good time https://t.co/mPdasxxwQp"
-        },
         {
           "created_at": "2026-10-12T18:38:10.000Z",
           "id": "2109715263763718226",
@@ -152,10 +154,14 @@
           "id": "2109826673164357710",
           "reply_to_id": "2109825441041178656",
           "text": "I'm no sentiment expert but"
+        },
+        {
+          "created_at": "2026-10-13T03:48:26.000Z",
+          "id": "2109853746020958350",
+          "text": "Good btc theses next 20 days:\n\n- growth story is cooked = debasement and sovereign exit back \n- midterms = last 20 days to deploy the pump tech for the donors"
         }
       ],
       "reads": {
-        "2109714720127365189": "No call",
         "2109715263763718226": "No call",
         "2109723006591529102": "No call",
         "2109728009544687860": "No call",
@@ -169,7 +175,8 @@
         "2109803429778632778": "No call",
         "2109822997737709736": "No call",
         "2109825441041178656": "No call: bearish on stocks/macro (60%, too unsure)",
-        "2109826673164357710": "No call: bearish on stocks/macro (65%, too unsure)"
+        "2109826673164357710": "No call: bearish on stocks/macro (65%, too unsure)",
+        "2109853746020958350": "VIEW bullish on btc"
       },
       "replies": [
         {
@@ -470,10 +477,15 @@
         "2109825441041178656": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2109853746020958350": {
+          "alerted": [
+            "bias:btc:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109714720127365189": false,
         "2109715263763718226": true,
         "2109723006591529102": true,
         "2109728009544687860": true,
@@ -507,7 +519,8 @@
         "2109826673164357710": false,
         "2109831325293125788": true,
         "2109836080086389027": true,
-        "2109851574004846860": true
+        "2109851574004846860": true,
+        "2109853746020958350": true
       },
       "user_id": "1446541960181858315"
     },
@@ -3914,5 +3927,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T03:48:25+00:00"
+  "updated_at": "2026-10-13T03:50:25+00:00"
 }
