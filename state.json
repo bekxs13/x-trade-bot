@@ -1521,7 +1521,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2110091995012350348",
+      "last_id": "2110094006281736323",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1557,13 +1557,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T21:39:44.000Z",
-          "id": "2108673793099247684",
-          "quoted_text": "Majors expansion plus rotations into old coins, take the shine off fotm actual good coins for a bit, good spot to look for entries again the next little while if this btc expansion above 82 holds \n\nWatch your fav coins for consols and ltf pa this next bit \n\nOfc if btc back below 82 its time to worry but I don\u2019t think that\u2019s the case",
-          "reply_to_id": "2108672138546987087",
-          "text": "@btcbongo You could see the moves on the coins that were leading were about gone from here and there was going to be a rotation out of those https://t.co/miz1Cie7iQ"
-        },
         {
           "created_at": "2026-10-09T22:16:49.000Z",
           "id": "2108683125761130908",
@@ -1677,6 +1670,12 @@
           "created_at": "2026-10-13T15:44:16.000Z",
           "id": "2110033888332681447",
           "text": "Tpd some ewy shorts, nearly 10% move in just a few days is too fat to not reel it in especially shorter dates \n\nHedge ended up being the main profitable position\n\nRest of stuff is unchanged"
+        },
+        {
+          "created_at": "2026-10-13T19:43:09.000Z",
+          "id": "2110094006281736323",
+          "quoted_text": "Me to the next Korean I see https://t.co/s1kXNccCTq",
+          "text": "The next Korean who sees me https://t.co/fDAFBfJigP"
         }
       ],
       "reads": {
@@ -1693,7 +1692,8 @@
         "2109864856690348426": "No call",
         "2110005247536222698": "No call",
         "2110006485019484457": "No call",
-        "2110033888332681447": "TRADE TRIM EWY"
+        "2110033888332681447": "TRADE TRIM EWY",
+        "2110094006281736323": "No call"
       },
       "replies": [
         {
@@ -1878,10 +1878,13 @@
             "trade:EWY:trim"
           ],
           "self_replies": 0
+        },
+        "2110094006281736323": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108673793099247684": true,
         "2108683125761130908": true,
         "2109420829926953299": false,
         "2109703293270364304": true,
@@ -1915,7 +1918,8 @@
         "2110034578509606952": true,
         "2110034666157904071": false,
         "2110035243826921746": true,
-        "2110091995012350348": true
+        "2110091995012350348": true,
+        "2110094006281736323": false
       },
       "user_id": "953032269433745408"
     },
@@ -4143,5 +4147,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T19:36:24+00:00"
+  "updated_at": "2026-10-13T19:44:25+00:00"
 }
