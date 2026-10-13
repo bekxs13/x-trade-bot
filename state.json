@@ -603,7 +603,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110027728112021765",
+      "last_id": "2110034525325783538",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -792,12 +792,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T12:55:49.000Z",
-          "id": "2109629108028379603",
-          "reply_to_id": "2109579789296160981",
-          "text": "@Tradermayne @LomahCrypto wow bismuth what a throwback"
-        },
-        {
           "created_at": "2026-10-12T16:44:29.000Z",
           "id": "2109686654768464192",
           "reply_to_id": "2109681362349506608",
@@ -883,6 +877,12 @@
           "id": "2110026265088712962",
           "reply_to_id": "2110021428183781536",
           "text": "@avgcryptoguy max pain is up"
+        },
+        {
+          "created_at": "2026-10-13T15:46:48.000Z",
+          "id": "2110034525325783538",
+          "reply_to_id": "2110031187049873462",
+          "text": "@lBattleRhino did u share this already am i late lol"
         }
       ],
       "threads": {
@@ -1176,7 +1176,6 @@
         "2109502703147855922": true,
         "2109577662507454790": true,
         "2109595727404089816": true,
-        "2109629108028379603": false,
         "2109686654768464192": false,
         "2109688136351863257": false,
         "2109689601376018710": false,
@@ -1204,7 +1203,8 @@
         "2110020605722378516": false,
         "2110020788229214374": true,
         "2110026265088712962": true,
-        "2110027728112021765": true
+        "2110027728112021765": true,
+        "2110034525325783538": false
       },
       "user_id": "973261472"
     },
@@ -1519,7 +1519,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2110033888332681447",
+      "last_id": "2110034666157904071",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1695,18 +1695,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T22:47:43.000Z",
-          "id": "2109778066151207408",
-          "reply_to_id": "2109777524926689305",
-          "text": "@Itsmeeee2170 @notthreadguy @CookerFlips I assure you at least one person in this conversation cares"
-        },
-        {
-          "created_at": "2026-10-12T22:53:01.000Z",
-          "id": "2109779401487593682",
-          "reply_to_id": "2109778835851952500",
-          "text": "@notthreadguy O youre not gonna update? Sounds pretty fucking VAGUE"
-        },
-        {
           "created_at": "2026-10-12T22:54:21.000Z",
           "id": "2109779735731675423",
           "reply_to_id": "2109779248617832774",
@@ -1783,6 +1771,18 @@
           "id": "2110031187049873462",
           "reply_to_id": "2110027728112021765",
           "text": "@blknoiz06 Wow what a great idea!"
+        },
+        {
+          "created_at": "2026-10-13T15:47:00.000Z",
+          "id": "2110034578509606952",
+          "reply_to_id": "2110034025301639340",
+          "text": "@TradeRansoze Ye, majority of market actually look worse than before somehow and eth still in prior range only btc had solid move up"
+        },
+        {
+          "created_at": "2026-10-13T15:47:21.000Z",
+          "id": "2110034666157904071",
+          "reply_to_id": "2110034191651946950",
+          "text": "@SpicyNFT Compoundoooor"
         }
       ],
       "threads": {
@@ -1889,9 +1889,7 @@
         "2109711246241251589": true,
         "2109775773188194396": true,
         "2109776806710853911": true,
-        "2109778066151207408": false,
         "2109778560567402878": true,
-        "2109779401487593682": false,
         "2109779735731675423": false,
         "2109779883182452830": false,
         "2109781100046565801": false,
@@ -1913,7 +1911,9 @@
         "2110005247536222698": false,
         "2110006485019484457": true,
         "2110031187049873462": false,
-        "2110033888332681447": true
+        "2110033888332681447": true,
+        "2110034578509606952": true,
+        "2110034666157904071": false
       },
       "user_id": "953032269433745408"
     },
@@ -4099,5 +4099,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T15:46:23+00:00"
+  "updated_at": "2026-10-13T15:48:21+00:00"
 }
