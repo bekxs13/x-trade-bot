@@ -1864,7 +1864,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109863340189286485",
+      "last_id": "2109869539525890113",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -2113,12 +2113,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T14:34:28.000Z",
-          "id": "2109653936269611049",
-          "reply_to_id": "2109653772553064629",
-          "text": "@Lyskey @EliBenSasson nice nice"
-        },
-        {
           "created_at": "2026-10-12T14:38:15.000Z",
           "id": "2109654888238170557",
           "reply_to_id": "2109654112962793874",
@@ -2201,6 +2195,12 @@
           "id": "2109861566091071727",
           "reply_to_id": "2109861230915748243",
           "text": "@pointfarmcap perhaps"
+        },
+        {
+          "created_at": "2026-10-13T04:51:12.000Z",
+          "id": "2109869539525890113",
+          "reply_to_id": "2109865960559780332",
+          "text": "@TulipSeller its not tech for the sake of tech\n\nthey are at the right place at the right time at the moment, and people marry the bias they had from 2025 while metrics have been growing\n\nhttps://t.co/6lYz55EmHr"
         }
       ],
       "threads": {
@@ -2607,7 +2607,6 @@
         "2109611372359377271": true,
         "2109623750056645100": true,
         "2109650519979598207": true,
-        "2109653936269611049": false,
         "2109654888238170557": false,
         "2109663652630647111": true,
         "2109664845356482863": true,
@@ -2632,7 +2631,8 @@
         "2109859230996132303": true,
         "2109859501612392746": true,
         "2109861566091071727": false,
-        "2109863340189286485": true
+        "2109863340189286485": true,
+        "2109869539525890113": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3955,5 +3955,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T04:34:24+00:00"
+  "updated_at": "2026-10-13T04:52:20+00:00"
 }
