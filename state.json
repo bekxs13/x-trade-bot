@@ -3604,24 +3604,19 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2108574034916999548",
-          "reason": "\"Increasingly getting more and more bearish equities\", plus recent posts about speculation being dangerous and sitting in cash. He expects a short setup soon, possibly around an Anthropic IPO filing.",
+          "post_id": "2109858600910983320",
+          "reason": "'Recursive spending', opaque commitments, 'valuations so high' and 'left holding the bag' read as a bearish take on the AI capex bubble. That matches the recent posts about getting more bearish on equities and waiting on the Anthropic S1.",
           "scope": "stocks/macro",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-09T15:03:19.000Z"
+          "updated_at": "2026-10-13T04:07:44.000Z"
         }
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2109723930533466580",
+      "last_id": "2109858600910983320",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-09-30T19:59:33.000Z",
-          "id": "2105387090519183839",
-          "text": "One exchange just got knifed by their largest integration partner, with massive unlocks coming from investors up 10x from the last round.\n\nAnother exchange just had their entire vesting clip for a year OTC'd with hundreds of millions of dollars of buy pressure coming.\n\nWonder which is a long?"
-        },
         {
           "created_at": "2026-10-01T03:50:53.000Z",
           "id": "2105505706413899839",
@@ -3719,6 +3714,11 @@
           "created_at": "2026-10-12T19:12:36.000Z",
           "id": "2109723930533466580",
           "text": "They're trying to get you to long Wormhole (Jump rape coin) and Starknet (dead coin) and you're bullish?"
+        },
+        {
+          "created_at": "2026-10-13T04:07:44.000Z",
+          "id": "2109858600910983320",
+          "text": "The problem is all the spending is so recursive, the contracts and spending commitments so opaque, valuations so high that it\u2019s almost anyone\u2019s guess as to who\u2019s left holding the bag."
         }
       ],
       "reads": {
@@ -3740,7 +3740,8 @@
         "2109665744988643349": "No call: bearish on stocks/macro (60%, too unsure)",
         "2109704848866459700": "No call",
         "2109722179432812640": "No call",
-        "2109723930533466580": "VIEW bearish on alts"
+        "2109723930533466580": "VIEW bearish on alts",
+        "2109858600910983320": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -3880,11 +3881,14 @@
             "bias:alts:bearish"
           ],
           "self_replies": 0
+        },
+        "2109858600910983320": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2105386100391084082": false,
-        "2105387090519183839": true,
         "2105415950094762065": false,
         "2105505706413899839": false,
         "2106072786095722791": true,
@@ -3911,7 +3915,8 @@
         "2109698195953692702": false,
         "2109704848866459700": true,
         "2109722179432812640": false,
-        "2109723930533466580": true
+        "2109723930533466580": true,
+        "2109858600910983320": true
       },
       "user_id": "809191427645181952"
     }
@@ -3927,5 +3932,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T03:58:14+00:00"
+  "updated_at": "2026-10-13T04:08:26+00:00"
 }
