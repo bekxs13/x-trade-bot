@@ -21,7 +21,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2109822997737709736",
+      "last_id": "2109823476181942641",
       "positions": {},
       "posts": [
         {
@@ -173,12 +173,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T09:23:53.000Z",
-          "id": "2109575775204847961",
-          "reply_to_id": "2109575368894201967",
-          "text": "@themadhodler Yeah"
-        },
-        {
           "created_at": "2026-10-12T17:49:36.000Z",
           "id": "2109703041574387981",
           "reply_to_id": "2109683050833465666",
@@ -261,6 +255,15 @@
           "id": "2109820378348720412",
           "reply_to_id": "2109819999468859694",
           "text": "@SlabDotETH @Evan_ss6 No"
+        },
+        {
+          "created_at": "2026-10-13T01:48:10.000Z",
+          "id": "2109823476181942641",
+          "images": [
+            "https://pbs.twimg.com/media/HUeZRJFaIAA-pgL.jpg"
+          ],
+          "reply_to_id": "2109798973598773694",
+          "text": "@DeepDishEnjoyer The quants are discretionary vibe trading with us now? https://t.co/hKRPU2dKxZ"
         }
       ],
       "threads": {
@@ -466,7 +469,6 @@
         }
       },
       "trading": {
-        "2109575775204847961": false,
         "2109587377954189402": false,
         "2109692028447834274": false,
         "2109703041574387981": false,
@@ -500,7 +502,8 @@
         "2109820378348720412": false,
         "2109820418098168231": true,
         "2109820551837659181": true,
-        "2109822997737709736": false
+        "2109822997737709736": false,
+        "2109823476181942641": true
       },
       "user_id": "1446541960181858315"
     },
@@ -3885,5 +3888,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T01:48:22+00:00"
+  "updated_at": "2026-10-13T01:50:21+00:00"
 }
