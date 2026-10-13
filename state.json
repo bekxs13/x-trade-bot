@@ -31,15 +31,9 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2109930952885678249",
+      "last_id": "2109949149353316861",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-12T20:31:34.000Z",
-          "id": "2109743802550534193",
-          "reply_to_id": "2109743662821445926",
-          "text": "@DeepDishEnjoyer Ideally IPO gets blocked and nuked tho"
-        },
         {
           "created_at": "2026-10-12T20:33:08.000Z",
           "id": "2109744199063285853",
@@ -158,6 +152,11 @@
           "id": "2109930952885678249",
           "reply_to_id": "2109930806974243185",
           "text": "Like a maximalist parody of having to go on cheeky pint for your data center business"
+        },
+        {
+          "created_at": "2026-10-13T10:07:32.000Z",
+          "id": "2109949149353316861",
+          "text": "Mused\n\nOn Bending Spoons layoff celebrations, Arizona, and niche microbrands\n\nhttps://t.co/rHocmb9zGV"
         }
       ],
       "reads": {
@@ -174,7 +173,8 @@
         "2109853746020958350": "VIEW bullish on btc",
         "2109929255631196330": "No call",
         "2109930633304879522": "No call",
-        "2109930806974243185": "No call"
+        "2109930806974243185": "No call",
+        "2109949149353316861": "No call"
       },
       "replies": [
         {
@@ -489,10 +489,13 @@
         "2109930633304879522": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2109949149353316861": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109743802550534193": true,
         "2109744199063285853": false,
         "2109745013567672574": true,
         "2109746332294590490": false,
@@ -526,7 +529,8 @@
         "2109929255631196330": false,
         "2109930633304879522": true,
         "2109930806974243185": false,
-        "2109930952885678249": false
+        "2109930952885678249": false,
+        "2109949149353316861": false
       },
       "user_id": "1446541960181858315"
     },
@@ -1925,7 +1929,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109948573437841690",
+      "last_id": "2109949136443425178",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -2166,12 +2170,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T06:11:28.000Z",
-          "id": "2109889739683934439",
-          "reply_to_id": "2109885881574429090",
-          "text": "i actually like flood a lot, own up that wormhole is a terrible call \n\nand although i called to derisk and re-classified the play before price crashed by -50% over the next 6 hours alongside all major alts crashing -5%~-15%, \n\non top of venues unexpectedly blocking people from opening longs for 12h (only allowing closing longs) just for majors to crash the moment that orders were enabled,\n\nit doesnt change the fact that it was a terrible call that deserved more indexing in non-technology dd, it was a terrible call and overconfidence in thematic momentum trades translating well in alts. \n\nstarknet i have never revised my assessment on. there are a lot of plays in the market and i respect taking other plays or not taking this\n\nbut i still believe that as long as team holds the unlocks like they did in september, the thesis of being at the right place at the right time holds true for starknet."
-        },
-        {
           "created_at": "2026-10-13T06:13:57.000Z",
           "id": "2109890364559823275",
           "reply_to_id": "2109885881574429090",
@@ -2254,6 +2252,12 @@
           "id": "2109948573437841690",
           "reply_to_id": "2109945262495969380",
           "text": "@Rugart3 timing and positioning.\n\nai was always a thing.\n\nit didnt take until 2022 for it to become the main thing.\n\nmathematical breakthroughs were always a thing.\n\nit didnt take until october, 2026 for it to heavily accelerate."
+        },
+        {
+          "created_at": "2026-10-13T10:07:29.000Z",
+          "id": "2109949136443425178",
+          "reply_to_id": "2109945262495969380",
+          "text": "@Rugart3 timing and positioning.\n\nai was always a thing.\n\nit didnt take until 2022 for it to become the main thing.\n\nmathematical innovations were always a thing.\n\nit didnt take until oct 2026 for it to heavily accelerate 100x.\n\nand to become THE main thing over the foreseeable future."
         }
       ],
       "threads": {
@@ -2673,7 +2677,6 @@
         "2109859230996132303": true,
         "2109859501612392746": true,
         "2109863340189286485": true,
-        "2109889739683934439": true,
         "2109890364559823275": true,
         "2109891561689624912": true,
         "2109893513274184003": true,
@@ -2693,7 +2696,8 @@
         "2109940958251114761": false,
         "2109943214233063890": true,
         "2109945121290715369": false,
-        "2109948573437841690": true
+        "2109948573437841690": true,
+        "2109949136443425178": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4016,5 +4020,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T10:06:18+00:00"
+  "updated_at": "2026-10-13T10:08:24+00:00"
 }
