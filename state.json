@@ -2763,7 +2763,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110088724310589484",
+      "last_id": "2110098064773890275",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -2783,12 +2783,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T12:01:22.000Z",
-          "id": "2108528245364924482",
-          "reply_to_id": "2108527971648602479",
-          "text": "every person that doom posted this deserves to be microwaved off the face of the earth"
-        },
         {
           "created_at": "2026-10-09T12:40:32.000Z",
           "id": "2108538101950005277",
@@ -2898,10 +2892,15 @@
           "id": "2110088724310589484",
           "quoted_text": "Introducing The Cheeky Pint Benchmark.\n\nWe made our intern watch every episode of Cheeky Pint to bring you this breakdown of pints drank by guests to the nearest sixth.\n\nCongratulations to @elonmusk who is currently in the lead with three full pints of Guinness. https://t.co/YTTP4P6BSA",
           "text": "shoutout Zuck for powering through. patriot https://t.co/54HdJl1Qnc"
+        },
+        {
+          "created_at": "2026-10-13T19:59:17.000Z",
+          "id": "2110098064773890275",
+          "quoted_text": "boy next to me asked chat gpt can he bring his cava on the flight and now he\u2019s having a full on kii with the bot https://t.co/R3m6iJuiG9",
+          "text": "i\u2019m sorry but this is not a blackpill it\u2019s exactly what llms are for https://t.co/dq4gBGZkYh"
         }
       ],
       "reads": {
-        "2108528245364924482": "Read together with the post it replies to",
         "2108538101950005277": "No call",
         "2108549683283144734": "No call",
         "2108968997542891854": "No call",
@@ -2915,7 +2914,8 @@
         "2109787880365203583": "TRADE SHORT alts \u00b7 VIEW bearish on crypto market",
         "2109790593685520394": "No call",
         "2109987664388907042": "No call",
-        "2110088724310589484": "No call"
+        "2110088724310589484": "No call",
+        "2110098064773890275": "No call"
       },
       "replies": [
         {
@@ -3103,10 +3103,13 @@
         "2110088724310589484": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110098064773890275": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108528245364924482": true,
         "2108538101950005277": true,
         "2108549683283144734": false,
         "2108741947263242661": false,
@@ -3140,7 +3143,8 @@
         "2109987664388907042": true,
         "2109996101528862889": false,
         "2110043712646676920": false,
-        "2110088724310589484": false
+        "2110088724310589484": false,
+        "2110098064773890275": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4145,5 +4149,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T19:58:23+00:00"
+  "updated_at": "2026-10-13T20:00:38+00:00"
 }
