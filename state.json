@@ -3762,14 +3762,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2109992995642544144",
+      "last_id": "2110046712131936390",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-06T16:36:39.000Z",
-          "id": "2107510357468287076",
-          "text": "Market makes very little sense to me here at these levels"
-        },
         {
           "created_at": "2026-10-07T15:15:34.000Z",
           "id": "2107852339638128755",
@@ -3870,10 +3865,14 @@
             "https://pbs.twimg.com/media/HUgzcmfXQAAkoep.jpg"
           ],
           "text": "Tuesday https://t.co/42c4AUqwVR"
+        },
+        {
+          "created_at": "2026-10-13T16:35:13.000Z",
+          "id": "2110046712131936390",
+          "text": "Sometimes I feel like Errol Flynn reincarnated"
         }
       ],
       "reads": {
-        "2107510357468287076": "No call",
         "2107852339638128755": "No call",
         "2107871088717726010": "No call",
         "2107893628349956318": "No call",
@@ -3892,7 +3891,8 @@
         "2109858808428376287": "No call: bearish on stocks/macro (same view as before)",
         "2109860304587030768": "No call: bearish on stocks/macro (same view as before)",
         "2109861707854352759": "No call: maybe short  (60%, too unsure); bearish on stocks/macro (same view as before)",
-        "2109992995642544144": "No call"
+        "2109992995642544144": "No call",
+        "2110046712131936390": "No call"
       },
       "replies": [
         {
@@ -4052,6 +4052,10 @@
         "2109992995642544144": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110046712131936390": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4059,7 +4063,6 @@
         "2105415950094762065": false,
         "2106072786095722791": true,
         "2106084747008967039": true,
-        "2107510357468287076": true,
         "2107852339638128755": true,
         "2107871088717726010": false,
         "2107893628349956318": true,
@@ -4083,7 +4086,8 @@
         "2109858808428376287": true,
         "2109860304587030768": true,
         "2109861707854352759": true,
-        "2109992995642544144": false
+        "2109992995642544144": false,
+        "2110046712131936390": false
       },
       "user_id": "809191427645181952"
     }
@@ -4099,5 +4103,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-13T16:24:19+00:00"
+  "updated_at": "2026-10-13T16:36:21+00:00"
 }
