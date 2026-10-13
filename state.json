@@ -1928,7 +1928,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109957018547368347",
+      "last_id": "2109957648812851340",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -2169,12 +2169,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T06:26:28.000Z",
-          "id": "2109893513274184003",
-          "reply_to_id": "2109890804315799953",
-          "text": "no, i confirm that this is 100% not me. \n\npeople started tagging me on x on this yesterday which i initially thought was flattering (in the beginning, at least), but i didnt think much of it\n\nno that is not me. and no for both strk and w i am not aware of some liquid token underwrite. for these two plays specifically i hunted it down, strk being early at .052 range w being very late after i saw asta & others being very bullish on it and believing that the tail risk trade was there to continue (which would have continued if venues didnt cap oi that fast for 12h right before all major alts crashed right at uncap)"
-        },
-        {
           "created_at": "2026-10-13T06:57:32.000Z",
           "id": "2109901331037409474",
           "reply_to_id": "2109878272096170347",
@@ -2257,6 +2251,12 @@
           "id": "2109951735666020559",
           "reply_to_id": "2109951289597538777",
           "text": "@VikingXBT \ud83d\udd25\ud83d\udd25\ud83d\udd25"
+        },
+        {
+          "created_at": "2026-10-13T10:41:19.000Z",
+          "id": "2109957648812851340",
+          "reply_to_id": "2109957248864960998",
+          "text": "@spacepixel This\n\nPeople called longing a perp dex retarded until hyperliquid went to 95$+"
         }
       ],
       "threads": {
@@ -2680,7 +2680,6 @@
         "2109859501612392746": true,
         "2109863340189286485": true,
         "2109891561689624912": true,
-        "2109893513274184003": true,
         "2109893851347362122": false,
         "2109897204165132397": true,
         "2109901331037409474": false,
@@ -2700,7 +2699,8 @@
         "2109948573437841690": true,
         "2109949136443425178": true,
         "2109951735666020559": false,
-        "2109957018547368347": true
+        "2109957018547368347": true,
+        "2109957648812851340": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4023,5 +4023,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T10:40:21+00:00"
+  "updated_at": "2026-10-13T10:42:20+00:00"
 }
