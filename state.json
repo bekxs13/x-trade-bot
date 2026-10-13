@@ -590,7 +590,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2109947683935014953",
+      "last_id": "2109948534606987503",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -773,12 +773,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T00:37:23.000Z",
-          "id": "2109443278601109928",
-          "reply_to_id": "2109419381822468348",
-          "text": "setup:\n\nworst cross-asset undeperformance in crypto's history past few years driven by \n\n\u2022 brain drain to AI\n\u2022 lack of innovation post-defi cambrian explosion\n\u2022 gold exceptional once in decade deca-trillions rerating\n\nadd on top 10/10 worst liquidation day for alts ever\n\nsentiment and positioning on crypto from insti & retail side at this bottom on altcoins are at multi year lows, maybe the lowest ever\n\nonly one direction to go, up, in an asset class where it is heavily momentum driven\n\n----\n\nnow on the flip side, for the first time in crypto's history, there are altcoins with\n\n\u2022 zero to little VC overhang\n\u2022 real pmf uniquely powered by crypto rails\n\u2022 regulatory environment finally leaning positive\n\u2022 everyone sitting on infinite unrealized gains from AI supercycle\n\nthe industry is no longer spray and pray, and the coins that will receive bids are going to move extremely quickly"
-        },
-        {
           "created_at": "2026-10-12T01:23:58.000Z",
           "id": "2109454998547353639",
           "reply_to_id": "2109431453939646716",
@@ -864,6 +858,12 @@
           "id": "2109927235327316031",
           "reply_to_id": "2109910315311759631",
           "text": "@Jxjethro ok!"
+        },
+        {
+          "created_at": "2026-10-13T10:05:06.000Z",
+          "id": "2109948534606987503",
+          "reply_to_id": "2109937892625678535",
+          "text": "believe people arent doing the math on how much paper stakers will make if it captures -5-10% of hyperliquid's flow, trader losses are a much higher revenue stream than the small fee on each trade, curious what other future mechanisms jez & co are thinking of to make the 1000x casino even more enticing\n\n~31M paid out to stakers first few days, ~12.6B max paper supply & ~50% already distro'd, will be interesting to track"
         }
       ],
       "threads": {
@@ -1137,7 +1137,6 @@
         }
       },
       "trading": {
-        "2109443278601109928": true,
         "2109445598252568828": true,
         "2109446675245019260": true,
         "2109446775861899417": true,
@@ -1171,7 +1170,8 @@
         "2109927235327316031": false,
         "2109928752092500155": true,
         "2109943171694407765": true,
-        "2109947683935014953": true
+        "2109947683935014953": true,
+        "2109948534606987503": true
       },
       "user_id": "973261472"
     },
@@ -1925,7 +1925,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109945121290715369",
+      "last_id": "2109948573437841690",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -2166,12 +2166,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T05:53:38.000Z",
-          "id": "2109885252265210238",
-          "reply_to_id": "2109866464270553270",
-          "text": "nobody knows other than the team. but by that logic every play that has an unlock incoming should be discredited, which has proven time and time again to not always be the case.\n\nwhat we can see at the moment is that:\n\n1. september unlocks didnt dump the price, we are actually higher now\n\n2. majority of vcs have entries at implied valuations far above current  price/fdv (0.2$ , 0.8$)"
-        },
-        {
           "created_at": "2026-10-13T06:11:28.000Z",
           "id": "2109889739683934439",
           "reply_to_id": "2109885881574429090",
@@ -2254,6 +2248,12 @@
           "id": "2109945121290715369",
           "reply_to_id": "2109943102983061922",
           "text": "@Jack_Kodesh @tosh1kz this"
+        },
+        {
+          "created_at": "2026-10-13T10:05:15.000Z",
+          "id": "2109948573437841690",
+          "reply_to_id": "2109945262495969380",
+          "text": "@Rugart3 timing and positioning.\n\nai was always a thing.\n\nit didnt take until 2022 for it to become the main thing.\n\nmathematical breakthroughs were always a thing.\n\nit didnt take until october, 2026 for it to heavily accelerate."
         }
       ],
       "threads": {
@@ -2673,7 +2673,6 @@
         "2109859230996132303": true,
         "2109859501612392746": true,
         "2109863340189286485": true,
-        "2109885252265210238": true,
         "2109889739683934439": true,
         "2109890364559823275": true,
         "2109891561689624912": true,
@@ -2693,7 +2692,8 @@
         "2109940865888325842": false,
         "2109940958251114761": false,
         "2109943214233063890": true,
-        "2109945121290715369": false
+        "2109945121290715369": false,
+        "2109948573437841690": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4016,5 +4016,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T10:02:22+00:00"
+  "updated_at": "2026-10-13T10:06:18+00:00"
 }
