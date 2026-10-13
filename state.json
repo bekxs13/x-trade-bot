@@ -1865,7 +1865,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2109876884565889330",
+      "last_id": "2109885252265210238",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -2114,12 +2114,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T15:17:49.000Z",
-          "id": "2109664845356482863",
-          "reply_to_id": "2109664049407705099",
-          "text": "@dont_farm_ranch we are entering a new cycle, not a peak inning bull mkt"
-        },
-        {
           "created_at": "2026-10-12T15:26:08.000Z",
           "id": "2109666936535892397",
           "reply_to_id": "2109666130969473484",
@@ -2202,6 +2196,12 @@
           "id": "2109876884565889330",
           "reply_to_id": "2109876245840498698",
           "text": "@deainode this. they suffered a lack of developer adoption before but now that engineering is language-agnostic thanks to ai, that wont be an issue anymore\n\nmarket gap leads tech leads adoption leads narrative leads price"
+        },
+        {
+          "created_at": "2026-10-13T05:53:38.000Z",
+          "id": "2109885252265210238",
+          "reply_to_id": "2109866464270553270",
+          "text": "nobody knows other than the team. but by that logic every play that has an unlock incoming should be discredited, which has proven time and time again to not always be the case.\n\nwhat we can see at the moment is that:\n\n1. september unlocks didnt dump the price, we are actually higher now\n\n2. majority of vcs have entries at implied valuations far above current  price/fdv (0.2$ , 0.8$)"
         }
       ],
       "threads": {
@@ -2609,7 +2609,6 @@
         "2109623750056645100": true,
         "2109650519979598207": true,
         "2109663652630647111": true,
-        "2109664845356482863": true,
         "2109666936535892397": true,
         "2109669028604309522": false,
         "2109671430258577427": true,
@@ -2633,7 +2632,8 @@
         "2109861566091071727": false,
         "2109863340189286485": true,
         "2109869539525890113": true,
-        "2109876884565889330": true
+        "2109876884565889330": true,
+        "2109885252265210238": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3956,5 +3956,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-12",
-  "updated_at": "2026-10-13T05:22:19+00:00"
+  "updated_at": "2026-10-13T05:54:20+00:00"
 }
