@@ -2962,7 +2962,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110462485312725189",
+      "last_id": "2110502904083693808",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -2982,18 +2982,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T22:03:59.000Z",
-          "id": "2109767061819842705",
-          "reply_to_id": "2109714673545228532",
-          "text": "@mert @zkDragon plus illia from near \n\ni got us"
-        },
-        {
-          "created_at": "2026-10-12T22:13:01.000Z",
-          "id": "2109769334516281773",
-          "reply_to_id": "2109769305067770112",
-          "text": "@VentureCoinist @Delphi_Digital also classic @anildelphi w"
-        },
         {
           "created_at": "2026-10-12T22:50:46.000Z",
           "id": "2109778835851952500",
@@ -3101,6 +3089,20 @@
           "id": "2110462485312725189",
           "reply_to_id": "2110462447995826535",
           "text": "@CryptoEthan @chumbawamba22 are you happy now?"
+        },
+        {
+          "created_at": "2026-10-14T22:47:09.000Z",
+          "id": "2110502700999942172",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2110487002378567680/img/0guX8aAZNMA6z1E7.jpg"
+          ],
+          "text": "Why your coins are safe from AI and quantum: FULL PANEL with @mert @ilblackdragon @zkDragon and @tulipking \n\n1:37 Threadguy explains the cryptography panic\n5:29 why cryptography hasn\u2019t broken\n9:04 how close is AI to cracking it?\n15:39 upgrading chains for quantum\n26:30 what if OpenAI cracks cryptography tomorrow?\n34:03 AI hacks are the real threat\n41:05 why Justin Drake posted bunker mode\n51:17 who could actually crack cryptography?\n1:06:11 smart contract hacks > quantum\n1:09:40 debrief with Tulip King"
+        },
+        {
+          "created_at": "2026-10-14T22:47:11.000Z",
+          "id": "2110502707383668934",
+          "reply_to_id": "2110502700999942172",
+          "text": "Watch on YT!\nhttps://t.co/zaJczCmRhI"
         }
       ],
       "reads": {
@@ -3117,15 +3119,11 @@
         "2110349236495851934": "No call",
         "2110373655167537538": "No call",
         "2110396209575972907": "No call",
-        "2110405623711953046": "No call"
+        "2110405623711953046": "No call",
+        "2110502700999942172": "No call",
+        "2110502707383668934": "Read together with the post it replies to"
       },
       "replies": [
-        {
-          "created_at": "2026-10-14T12:35:50.000Z",
-          "id": "2110348855782883369",
-          "reply_to_id": "2110348097377427739",
-          "text": "@andyyy @ilblackdragon @mert @zkDragon @tulipking @ilblackdragon thoughts"
-        },
         {
           "created_at": "2026-10-14T14:39:45.000Z",
           "id": "2110380040919904524",
@@ -3209,6 +3207,12 @@
           "id": "2110462447995826535",
           "reply_to_id": "2110447045018583172",
           "text": "@CryptoEthan \ud83d\ude14"
+        },
+        {
+          "created_at": "2026-10-14T22:47:58.000Z",
+          "id": "2110502904083693808",
+          "reply_to_id": "2110500998146085162",
+          "text": "@spunosounds \ud83d\udcaa"
         }
       ],
       "threads": {
@@ -3330,11 +3334,13 @@
         "2110405623711953046": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110502700999942172": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2109767061819842705": false,
-        "2109769334516281773": false,
         "2109778835851952500": true,
         "2109779144452059636": false,
         "2109779201754828950": false,
@@ -3348,7 +3354,6 @@
         "2110100532094234942": false,
         "2110144405151555773": true,
         "2110344475679785118": true,
-        "2110348855782883369": false,
         "2110349236495851934": true,
         "2110373655167537538": true,
         "2110380040919904524": false,
@@ -3367,7 +3372,10 @@
         "2110457166276825577": false,
         "2110461335918023045": false,
         "2110462447995826535": false,
-        "2110462485312725189": false
+        "2110462485312725189": false,
+        "2110502700999942172": true,
+        "2110502707383668934": false,
+        "2110502904083693808": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4536,5 +4544,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T22:38:23+00:00"
+  "updated_at": "2026-10-14T22:48:22+00:00"
 }
