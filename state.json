@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110419221222129947",
+      "last_id": "2110422699663376604",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -67,15 +67,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T00:28:30.000Z",
-          "id": "2109803429778632778",
-          "images": [
-            "https://pbs.twimg.com/media/HUeHCVEa8AAV7Sp.jpg"
-          ],
-          "quoted_text": "WTF is a SOTA Wife?\n\nSOTA Wives is a podcast exploring the unfiltered side of Silicon Valley.\n\nWe built it as an antidote to the performative polish of tech Twitter.\n\nBrought to you by @MilksandMatcha x @vivianmshen.\n\nEpisode 1 goes live on Monday, 12th October at 9 AM PT on everywhere you get your podcasts \ud83d\udc99",
-          "text": "https://t.co/CYWSkuQp62 https://t.co/UccX4zxyH8"
-        },
         {
           "created_at": "2026-10-13T01:07:15.000Z",
           "id": "2109813183041200442",
@@ -195,10 +186,17 @@
             "https://pbs.twimg.com/media/HUmj3ofaYAAI0GU.jpg"
           ],
           "text": "https://t.co/gudjc7egiY"
+        },
+        {
+          "created_at": "2026-10-14T17:29:16.000Z",
+          "id": "2110422699663376604",
+          "images": [
+            "https://pbs.twimg.com/media/HUm6QobaYAIUrgM.jpg"
+          ],
+          "text": "Wow insane sell off https://t.co/odML2PZmxu"
         }
       ],
       "reads": {
-        "2109803429778632778": "No call",
         "2109822997737709736": "No call",
         "2109825441041178656": "No call: bearish on stocks/macro (60%, too unsure)",
         "2109826673164357710": "No call: bearish on stocks/macro (65%, too unsure)",
@@ -212,7 +210,8 @@
         "2110288062261711186": "No call: bullish on stocks/macro (55%, too unsure)",
         "2110289205565989218": "No call",
         "2110396115543810439": "TRADE LONG BSP",
-        "2110398080029966763": "TRADE LONG QQQ"
+        "2110398080029966763": "TRADE LONG QQQ",
+        "2110422699663376604": "No call"
       },
       "replies": [
         {
@@ -551,10 +550,13 @@
             "trade:QQQ:long"
           ],
           "self_replies": 0
+        },
+        "2110422699663376604": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109803429778632778": false,
         "2109813183041200442": true,
         "2109820418098168231": true,
         "2109820551837659181": true,
@@ -588,7 +590,8 @@
         "2110406758875419056": false,
         "2110412002359480759": true,
         "2110419018431729838": true,
-        "2110419221222129947": true
+        "2110419221222129947": true,
+        "2110422699663376604": true
       },
       "user_id": "1446541960181858315"
     },
@@ -4493,5 +4496,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T17:18:29+00:00"
+  "updated_at": "2026-10-14T17:30:27+00:00"
 }
