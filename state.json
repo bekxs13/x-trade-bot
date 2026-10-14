@@ -3921,29 +3921,19 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2110364504332575207",
-          "reason": "He calls AI potentially 'a terrible business' and compares it to the long-run returns of airline stocks. This fits his recent posts on opaque AI vendor financing, 'stay liquid', and 'I'm short right now'.",
+          "post_id": "2110367079408738509",
+          "reason": "Mocks bulls 'coping on recursive fake funding deals' and hoping for 'a chance to sell higher', which implies the AI-driven stock market is heading lower. This matches the recorded bearish view.",
           "scope": "stocks/macro",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-14T13:38:01.000Z"
+          "updated_at": "2026-10-14T13:48:15.000Z"
         }
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110364504332575207",
+      "last_id": "2110367222241878277",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-09T02:44:06.000Z",
-          "id": "2108388001386537404",
-          "text": "Speculation feels the easiest when it\u2019s at it\u2019s most dangerous"
-        },
-        {
-          "created_at": "2026-10-09T03:46:30.000Z",
-          "id": "2108403707645764048",
-          "text": "We\u2019re going to look back at this time and say \u201cit was so obvious\u201d"
-        },
         {
           "created_at": "2026-10-09T15:03:19.000Z",
           "id": "2108574034916999548",
@@ -4044,11 +4034,19 @@
           "created_at": "2026-10-14T13:38:01.000Z",
           "id": "2110364504332575207",
           "text": "AI can simultaneously be completely world changing technology but a terrible business.\n\nLook at how Airline stocks have performed over the past few decades."
+        },
+        {
+          "created_at": "2026-10-14T13:48:15.000Z",
+          "id": "2110367079408738509",
+          "text": "If you're bullish you probably hope Anthropic delays their IPO and the market can continue coping on recursive fake funding deals and you'll have a chance to sell higher."
+        },
+        {
+          "created_at": "2026-10-14T13:48:49.000Z",
+          "id": "2110367222241878277",
+          "text": "https://t.co/Lgn3n2JVTM"
         }
       ],
       "reads": {
-        "2108388001386537404": "No call: bearish on stocks/macro (62%, too unsure)",
-        "2108403707645764048": "No call: bearish on stocks/macro (60%, too unsure)",
         "2108574034916999548": "VIEW bearish on stocks/macro",
         "2109664493479637119": "No call",
         "2109665744988643349": "No call: bearish on stocks/macro (60%, too unsure)",
@@ -4066,7 +4064,9 @@
         "2110191182311518685": "No call",
         "2110363201078788487": "No call",
         "2110364014827983245": "No call",
-        "2110364504332575207": "No call: bearish on stocks/macro (same view as before)"
+        "2110364504332575207": "No call: bearish on stocks/macro (same view as before)",
+        "2110367079408738509": "No call: bearish on stocks/macro (same view as before)",
+        "2110367222241878277": "No call"
       },
       "replies": [
         {
@@ -4254,6 +4254,14 @@
         "2110364504332575207": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110367079408738509": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2110367222241878277": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4263,8 +4271,6 @@
         "2106084747008967039": true,
         "2107894568507085235": false,
         "2107906207881232630": false,
-        "2108388001386537404": true,
-        "2108403707645764048": true,
         "2108574034916999548": true,
         "2108668472196841823": false,
         "2109662643053371875": false,
@@ -4285,7 +4291,9 @@
         "2110191182311518685": true,
         "2110363201078788487": false,
         "2110364014827983245": true,
-        "2110364504332575207": true
+        "2110364504332575207": true,
+        "2110367079408738509": true,
+        "2110367222241878277": false
       },
       "user_id": "809191427645181952"
     }
@@ -4301,5 +4309,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T13:38:28+00:00"
+  "updated_at": "2026-10-14T13:50:34+00:00"
 }
