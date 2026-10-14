@@ -3935,14 +3935,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110381830369354028",
+      "last_id": "2110386688325239130",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-12T19:05:38.000Z",
-          "id": "2109722179432812640",
-          "text": "7"
-        },
         {
           "created_at": "2026-10-12T19:12:36.000Z",
           "id": "2109723930533466580",
@@ -4045,10 +4040,14 @@
           "created_at": "2026-10-14T14:46:52.000Z",
           "id": "2110381830369354028",
           "text": "What color is the CN tower?..."
+        },
+        {
+          "created_at": "2026-10-14T15:06:10.000Z",
+          "id": "2110386688325239130",
+          "text": "Price is definitely worth the spite"
         }
       ],
       "reads": {
-        "2109722179432812640": "No call",
         "2109723930533466580": "VIEW bearish on alts",
         "2109858600910983320": "No call: bearish on stocks/macro (same view as before)",
         "2109858808428376287": "No call: bearish on stocks/macro (same view as before)",
@@ -4067,7 +4066,8 @@
         "2110367788061876276": "No call",
         "2110368324102045867": "No call: bearish on btc (65%, too unsure)",
         "2110369624021930336": "No call: bearish on stocks/macro (same view as before)",
-        "2110381830369354028": "No call"
+        "2110381830369354028": "No call",
+        "2110386688325239130": "No call"
       },
       "replies": [
         {
@@ -4279,6 +4279,10 @@
         "2110381830369354028": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110386688325239130": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4291,7 +4295,6 @@
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
-        "2109722179432812640": false,
         "2109723930533466580": true,
         "2109858600910983320": true,
         "2109858808428376287": true,
@@ -4310,7 +4313,8 @@
         "2110367788061876276": true,
         "2110368324102045867": true,
         "2110369624021930336": true,
-        "2110381830369354028": false
+        "2110381830369354028": false,
+        "2110386688325239130": false
       },
       "user_id": "809191427645181952"
     }
@@ -4326,5 +4330,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T14:52:24+00:00"
+  "updated_at": "2026-10-14T15:08:20+00:00"
 }
