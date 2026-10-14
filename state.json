@@ -3935,14 +3935,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110386688325239130",
+      "last_id": "2110387994574360997",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-12T19:12:36.000Z",
-          "id": "2109723930533466580",
-          "text": "They're trying to get you to long Wormhole (Jump rape coin) and Starknet (dead coin) and you're bullish?"
-        },
         {
           "created_at": "2026-10-13T04:07:44.000Z",
           "id": "2109858600910983320",
@@ -4045,10 +4040,14 @@
           "created_at": "2026-10-14T15:06:10.000Z",
           "id": "2110386688325239130",
           "text": "Price is definitely worth the spite"
+        },
+        {
+          "created_at": "2026-10-14T15:11:21.000Z",
+          "id": "2110387994574360997",
+          "text": "Girl I'm a fan in real life..."
         }
       ],
       "reads": {
-        "2109723930533466580": "VIEW bearish on alts",
         "2109858600910983320": "No call: bearish on stocks/macro (same view as before)",
         "2109858808428376287": "No call: bearish on stocks/macro (same view as before)",
         "2109860304587030768": "No call: bearish on stocks/macro (same view as before)",
@@ -4067,7 +4066,8 @@
         "2110368324102045867": "No call: bearish on btc (65%, too unsure)",
         "2110369624021930336": "No call: bearish on stocks/macro (same view as before)",
         "2110381830369354028": "No call",
-        "2110386688325239130": "No call"
+        "2110386688325239130": "No call",
+        "2110387994574360997": "No call"
       },
       "replies": [
         {
@@ -4283,6 +4283,10 @@
         "2110386688325239130": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110387994574360997": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4295,7 +4299,6 @@
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
-        "2109723930533466580": true,
         "2109858600910983320": true,
         "2109858808428376287": true,
         "2109860304587030768": true,
@@ -4314,7 +4317,8 @@
         "2110368324102045867": true,
         "2110369624021930336": true,
         "2110381830369354028": false,
-        "2110386688325239130": false
+        "2110386688325239130": false,
+        "2110387994574360997": false
       },
       "user_id": "809191427645181952"
     }
@@ -4330,5 +4334,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T15:08:20+00:00"
+  "updated_at": "2026-10-14T15:12:21+00:00"
 }
