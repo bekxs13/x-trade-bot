@@ -2005,7 +2005,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110291433441960131",
+      "last_id": "2110346169541148845",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2135,15 +2135,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-12T15:34:26.000Z",
-          "id": "2109669028604309522",
-          "images": [
-            "https://pbs.twimg.com/media/HUcMzCracAARMAf.jpg"
-          ],
-          "reply_to_id": "2109471730746155266",
-          "text": "https://t.co/g9vP0ftcz6"
-        },
-        {
           "created_at": "2026-10-12T15:49:31.000Z",
           "id": "2109672824009117846",
           "quoted_text": "moving all crypto lev positions to spot for now, soxl crashing -10% , mu crashing -4.5% today seems like it might mute risk sentiment for a bit",
@@ -2265,10 +2256,17 @@
           ],
           "quoted_text": "cpi frontrun crash due to recent fed moves causing ppl to derisk far more than recent 8 prints\n\ninto decent print",
           "text": "bought qcom, arm spot https://t.co/nPXAhorI6D https://t.co/YQz6t3uNPo"
+        },
+        {
+          "created_at": "2026-10-14T12:25:09.000Z",
+          "id": "2110346169541148845",
+          "images": [
+            "https://pbs.twimg.com/media/HUl0mzLbIAASD4U.jpg"
+          ],
+          "text": "crypto/semis https://t.co/232GpiObgC"
         }
       ],
       "reads": {
-        "2109669028604309522": "TRADE TRIM W \u00b7 VIEW neutral on alts",
         "2109672824009117846": "VIEW bearish on crypto market",
         "2109676797076144526": "No call",
         "2109850256947175750": "TRADE LONG STX",
@@ -2280,7 +2278,8 @@
         "2109957018547368347": "No call",
         "2110233875582689514": "No call",
         "2110254737048358916": "No call: bullish on stocks/macro (65%, too unsure)",
-        "2110291433441960131": "TRADE LONG QCOM, ARM \u00b7 VIEW bullish on stocks/macro"
+        "2110291433441960131": "TRADE LONG QCOM, ARM \u00b7 VIEW bullish on stocks/macro",
+        "2110346169541148845": "No call"
       },
       "replies": [
         {
@@ -2793,10 +2792,13 @@
             "bias:stocks/macro:bullish"
           ],
           "self_replies": 0
+        },
+        "2110346169541148845": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109669028604309522": false,
         "2109672824009117846": true,
         "2109675370442309715": true,
         "2109676797076144526": false,
@@ -2830,7 +2832,8 @@
         "2110163970405655005": true,
         "2110233875582689514": true,
         "2110254737048358916": true,
-        "2110291433441960131": true
+        "2110291433441960131": true,
+        "2110346169541148845": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4254,5 +4257,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T12:24:19+00:00"
+  "updated_at": "2026-10-14T12:26:22+00:00"
 }
