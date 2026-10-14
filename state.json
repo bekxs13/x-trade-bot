@@ -3921,24 +3921,19 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2109861707854352759",
-          "reason": "Being short, after recent posts saying to 'stay as liquid as possible' and warning about who's 'left holding the bag', repeats the existing bearish equities view.",
+          "post_id": "2110364504332575207",
+          "reason": "He calls AI potentially 'a terrible business' and compares it to the long-run returns of airline stocks. This fits his recent posts on opaque AI vendor financing, 'stay liquid', and 'I'm short right now'.",
           "scope": "stocks/macro",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-13T04:20:05.000Z"
+          "updated_at": "2026-10-14T13:38:01.000Z"
         }
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110364014827983245",
+      "last_id": "2110364504332575207",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-09T01:26:28.000Z",
-          "id": "2108368465883230243",
-          "text": "Feels like I just woke up from a trance.\n\nExciting news to come into end of year."
-        },
         {
           "created_at": "2026-10-09T02:44:06.000Z",
           "id": "2108388001386537404",
@@ -4044,10 +4039,14 @@
             "https://pbs.twimg.com/media/HUmE3XoXEAAOdnC.jpg"
           ],
           "text": "Watching Data center names https://t.co/44ya45pwYx"
+        },
+        {
+          "created_at": "2026-10-14T13:38:01.000Z",
+          "id": "2110364504332575207",
+          "text": "AI can simultaneously be completely world changing technology but a terrible business.\n\nLook at how Airline stocks have performed over the past few decades."
         }
       ],
       "reads": {
-        "2108368465883230243": "No call",
         "2108388001386537404": "No call: bearish on stocks/macro (62%, too unsure)",
         "2108403707645764048": "No call: bearish on stocks/macro (60%, too unsure)",
         "2108574034916999548": "VIEW bearish on stocks/macro",
@@ -4066,7 +4065,8 @@
         "2110115587825471879": "No call",
         "2110191182311518685": "No call",
         "2110363201078788487": "No call",
-        "2110364014827983245": "No call"
+        "2110364014827983245": "No call",
+        "2110364504332575207": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -4250,6 +4250,10 @@
         "2110364014827983245": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110364504332575207": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4259,7 +4263,6 @@
         "2106084747008967039": true,
         "2107894568507085235": false,
         "2107906207881232630": false,
-        "2108368465883230243": false,
         "2108388001386537404": true,
         "2108403707645764048": true,
         "2108574034916999548": true,
@@ -4281,7 +4284,8 @@
         "2110115587825471879": true,
         "2110191182311518685": true,
         "2110363201078788487": false,
-        "2110364014827983245": true
+        "2110364014827983245": true,
+        "2110364504332575207": true
       },
       "user_id": "809191427645181952"
     }
@@ -4297,5 +4301,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T13:36:21+00:00"
+  "updated_at": "2026-10-14T13:38:28+00:00"
 }
