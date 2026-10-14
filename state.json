@@ -4061,24 +4061,19 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2110424262620103125",
-          "reason": "The sarcastic \"Things you see at the bottom /s\" on Anduril insiders selling at a $90B valuation implies froth near a top, matching their bearish stocks view.",
+          "post_id": "2110494346646630545",
+          "reason": "Earlier today he said \"the entire market hinges on\" Anthropic's numbers and noted QQQ +19% YTD. \"Game Over\" and \"Nowhere near 100B Revenue\" read as bearish on the AI-driven equity market, restating his bearish stocks/macro view.",
           "scope": "stocks/macro",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-14T17:35:28.000Z"
+          "updated_at": "2026-10-14T22:13:57.000Z"
         }
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110482457686315161",
+      "last_id": "2110494346646630545",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-14T13:38:01.000Z",
-          "id": "2110364504332575207",
-          "text": "AI can simultaneously be completely world changing technology but a terrible business.\n\nLook at how Airline stocks have performed over the past few decades."
-        },
         {
           "created_at": "2026-10-14T13:48:15.000Z",
           "id": "2110367079408738509",
@@ -4182,10 +4177,15 @@
           "created_at": "2026-10-14T21:26:43.000Z",
           "id": "2110482457686315161",
           "text": "Everyone is a trading whether they realize it or not"
+        },
+        {
+          "created_at": "2026-10-14T22:13:57.000Z",
+          "id": "2110494346646630545",
+          "quoted_text": "*ANTHROPIC Q3 REVENUE JUMPS TO $16.8B, UP NEARLY 50% FROM Q2\n\n*ANTHROPIC REPORTS ADJUSTED PROFITABILITY, POSITIVE CASH FLOW IN Q3\n\n*ANTHROPIC DRAFT S-1 WARNS AI COULD POSE 'EXISTENTIAL RISKS TO HUMANITY'",
+          "text": "Game Over\n\n100B ARR my ass \n\nNowhere near 100B Revenue\n\n\ud83e\uddf8\ud83c\udfaf https://t.co/4lfT2ZqIoU"
         }
       ],
       "reads": {
-        "2110364504332575207": "No call: bearish on stocks/macro (same view as before)",
         "2110367079408738509": "No call: bearish on stocks/macro (same view as before)",
         "2110367222241878277": "No call",
         "2110367788061876276": "No call",
@@ -4204,7 +4204,8 @@
         "2110419528148517101": "No call",
         "2110424262620103125": "No call: bearish on stocks/macro (same view as before)",
         "2110429740612075788": "No call",
-        "2110482457686315161": "No call"
+        "2110482457686315161": "No call",
+        "2110494346646630545": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -4472,6 +4473,10 @@
         "2110482457686315161": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110494346646630545": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4484,7 +4489,6 @@
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
-        "2110364504332575207": true,
         "2110367079408738509": true,
         "2110367222241878277": false,
         "2110367788061876276": true,
@@ -4504,7 +4508,8 @@
         "2110419528148517101": false,
         "2110424262620103125": true,
         "2110429740612075788": false,
-        "2110482457686315161": true
+        "2110482457686315161": true,
+        "2110494346646630545": true
       },
       "user_id": "809191427645181952"
     }
@@ -4520,5 +4525,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T21:32:18+00:00"
+  "updated_at": "2026-10-14T22:14:28+00:00"
 }
