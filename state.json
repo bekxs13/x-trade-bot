@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110457497903620432",
+      "last_id": "2110476939488322037",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -67,12 +67,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T01:36:00.000Z",
-          "id": "2109820418098168231",
-          "reply_to_id": "2109820378348720412",
-          "text": "@SlabDotETH @Evan_ss6 But I\u2019d like to find opps to be short again"
-        },
         {
           "created_at": "2026-10-13T01:36:32.000Z",
           "id": "2109820551837659181",
@@ -193,6 +187,12 @@
           "created_at": "2026-10-14T19:47:32.000Z",
           "id": "2110457497903620432",
           "text": "Anthropic as a shrinking biz would be hilarious like yeah ok slight negative growth negative 80% margins 2 trillion plz"
+        },
+        {
+          "created_at": "2026-10-14T21:04:47.000Z",
+          "id": "2110476939488322037",
+          "quoted_text": "Leonardo DiCaprio enjoys a beach outing with BFF Tobey Maguire in Hawaii https://t.co/4DgVCD9uM6",
+          "text": "Lookmaxing guys in shambles https://t.co/SgTNxyeQkC"
         }
       ],
       "reads": {
@@ -211,7 +211,8 @@
         "2110396115543810439": "TRADE LONG BSP",
         "2110398080029966763": "TRADE LONG QQQ",
         "2110422699663376604": "No call",
-        "2110457497903620432": "No call"
+        "2110457497903620432": "No call",
+        "2110476939488322037": "No call"
       },
       "replies": [
         {
@@ -558,10 +559,13 @@
         "2110457497903620432": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110476939488322037": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109820418098168231": true,
         "2109820551837659181": true,
         "2109822997737709736": false,
         "2109823476181942641": true,
@@ -595,7 +599,8 @@
         "2110419018431729838": true,
         "2110419221222129947": true,
         "2110422699663376604": true,
-        "2110457497903620432": true
+        "2110457497903620432": true,
+        "2110476939488322037": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4512,5 +4517,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T20:22:19+00:00"
+  "updated_at": "2026-10-14T21:06:24+00:00"
 }
