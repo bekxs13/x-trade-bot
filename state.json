@@ -3920,28 +3920,20 @@
           "updated_at": "2026-10-12T19:12:36.000Z"
         },
         "stocks/macro": {
-          "market": "stocks",
-          "post_id": "2110367079408738509",
-          "reason": "Mocks bulls 'coping on recursive fake funding deals' and hoping for 'a chance to sell higher', which implies the AI-driven stock market is heading lower. This matches the recorded bearish view.",
+          "market": "macro",
+          "post_id": "2110369624021930336",
+          "reason": "\"Holding cash when the market nukes\" plus recent posts on the AI bear thesis and \"Equities -10%\" imply he expects a broad selloff, matching his recorded bearish stocks/macro view.",
           "scope": "stocks/macro",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-14T13:48:15.000Z"
+          "updated_at": "2026-10-14T13:58:21.000Z"
         }
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110368324102045867",
+      "last_id": "2110369624021930336",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-12T15:21:23.000Z",
-          "id": "2109665744988643349",
-          "images": [
-            "https://pbs.twimg.com/media/HUcJ0CLWQAADzJ3.jpg"
-          ],
-          "text": "https://t.co/DCqgHlzCs7 https://t.co/UISLK962GA"
-        },
         {
           "created_at": "2026-10-12T17:56:47.000Z",
           "id": "2109704848866459700",
@@ -4044,10 +4036,14 @@
           "created_at": "2026-10-14T13:53:11.000Z",
           "id": "2110368324102045867",
           "text": "Equities -10% and Bitcoin is trading at: ?"
+        },
+        {
+          "created_at": "2026-10-14T13:58:21.000Z",
+          "id": "2110369624021930336",
+          "text": "Holding cash when the market nukes is the fastest way to jump in the networth rankings leaderboard"
         }
       ],
       "reads": {
-        "2109665744988643349": "No call: bearish on stocks/macro (60%, too unsure)",
         "2109704848866459700": "No call",
         "2109722179432812640": "No call",
         "2109723930533466580": "VIEW bearish on alts",
@@ -4066,7 +4062,8 @@
         "2110367079408738509": "No call: bearish on stocks/macro (same view as before)",
         "2110367222241878277": "No call",
         "2110367788061876276": "No call",
-        "2110368324102045867": "No call: bearish on btc (65%, too unsure)"
+        "2110368324102045867": "No call: bearish on btc (65%, too unsure)",
+        "2110369624021930336": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -4270,6 +4267,10 @@
         "2110368324102045867": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110369624021930336": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4281,7 +4282,6 @@
         "2107906207881232630": false,
         "2108668472196841823": false,
         "2109662643053371875": false,
-        "2109665744988643349": false,
         "2109698195953692702": false,
         "2109704848866459700": true,
         "2109722179432812640": false,
@@ -4301,7 +4301,8 @@
         "2110367079408738509": true,
         "2110367222241878277": false,
         "2110367788061876276": true,
-        "2110368324102045867": true
+        "2110368324102045867": true,
+        "2110369624021930336": true
       },
       "user_id": "809191427645181952"
     }
@@ -4317,5 +4318,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T13:54:31+00:00"
+  "updated_at": "2026-10-14T14:00:34+00:00"
 }
