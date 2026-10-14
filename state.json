@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110511421029228725",
+      "last_id": "2110518129210351764",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -67,12 +67,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T02:00:52.000Z",
-          "id": "2109826673164357710",
-          "reply_to_id": "2109825441041178656",
-          "text": "I'm no sentiment expert but"
-        },
         {
           "created_at": "2026-10-13T03:48:26.000Z",
           "id": "2109853746020958350",
@@ -192,10 +186,17 @@
             "https://pbs.twimg.com/media/HUn_ssYawAA-A2C.jpg"
           ],
           "text": "Very cheap on a price to earnings basis! https://t.co/lmFFscUPxn"
+        },
+        {
+          "created_at": "2026-10-14T23:48:28.000Z",
+          "id": "2110518129210351764",
+          "images": [
+            "https://pbs.twimg.com/media/HUoRDd1aIAA0-tw.jpg"
+          ],
+          "text": "https://t.co/bmJv8GdjjA"
         }
       ],
       "reads": {
-        "2109826673164357710": "No call: bearish on stocks/macro (65%, too unsure)",
         "2109853746020958350": "VIEW bullish on btc",
         "2109929255631196330": "No call",
         "2109930633304879522": "No call",
@@ -212,7 +213,8 @@
         "2110476939488322037": "No call",
         "2110482820556861542": "No call",
         "2110483608737857969": "No call",
-        "2110499057219383709": "No call: bullish on MU (60%, too unsure)"
+        "2110499057219383709": "No call: bullish on MU (60%, too unsure)",
+        "2110518129210351764": "No call"
       },
       "replies": [
         {
@@ -572,10 +574,13 @@
         "2110499057219383709": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110518129210351764": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109826673164357710": false,
         "2109851574004846860": true,
         "2109853746020958350": true,
         "2109855119584211308": true,
@@ -609,7 +614,8 @@
         "2110483608737857969": false,
         "2110499057219383709": true,
         "2110508818698580349": false,
-        "2110511421029228725": false
+        "2110511421029228725": false,
+        "2110518129210351764": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4544,5 +4550,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T23:22:21+00:00"
+  "updated_at": "2026-10-14T23:50:32+00:00"
 }
