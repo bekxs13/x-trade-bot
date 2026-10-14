@@ -603,7 +603,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110038725665464392",
+      "last_id": "2110252627799966022",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -639,12 +639,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T01:30:47.000Z",
-          "id": "2109456714772722064",
-          "quoted_text": "@blknoiz06 Add basketball and you got it",
-          "text": "&amp; 3v3 @notthreadguy https://t.co/BwHlSDVIkO"
-        },
         {
           "created_at": "2026-10-12T01:35:57.000Z",
           "id": "2109458016118645023",
@@ -767,10 +761,17 @@
             "https://pbs.twimg.com/media/HUhTBUrWwAASNpG.jpg"
           ],
           "text": "memory top\nmags bottom\n\npurely off vibes & charts, but im sure there will be some fundamental analysts who provide substantive reasoning for this shift in the next few months\n\nsaid a few weeks ago thought memory bottom was in, think that is wrong now, was expecting HL into ATHs\n\naug 2025: $META $760 $MU $100\noct 2026: $META $760 $MU $940"
+        },
+        {
+          "created_at": "2026-10-14T06:13:27.000Z",
+          "id": "2110252627799966022",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2110252239143206912/img/zG5iz7r37qA2QFr3.jpg"
+          ],
+          "text": "Market Bubble ep.23: my full conversation\n\non the first major pullback, portfolio strategy, the Coinbase perps showdown and my outlook on BTC, Zcash, Pump and HYPE\n\n0:00 - The first pullback and 70/30 strategy\n5:45 - Coinbase perps showdown and trading lessons\n10:48 - Bitcoin, Zcash and the MemeFi thesis\n18:12 - StarkWare, Pump and SOL targets\n26:48 - HYPE, momentum and taking profits"
         }
       ],
       "reads": {
-        "2109456714772722064": "No call",
         "2109458016118645023": "No call",
         "2109472464246079912": "No call: bullish on btc (same view as before)",
         "2109502703147855922": "No call",
@@ -788,7 +789,8 @@
         "2109947683935014953": "No call",
         "2109984830230261923": "No call",
         "2110020788229214374": "No call",
-        "2110027728112021765": "VIEW bearish on MU"
+        "2110027728112021765": "VIEW bearish on MU",
+        "2110252627799966022": "No call"
       },
       "replies": [
         {
@@ -1167,10 +1169,13 @@
             "bias:mu:bearish"
           ],
           "self_replies": 0
+        },
+        "2110252627799966022": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109456714772722064": false,
         "2109458016118645023": true,
         "2109472464246079912": true,
         "2109502703147855922": true,
@@ -1204,7 +1209,8 @@
         "2110027728112021765": true,
         "2110034525325783538": false,
         "2110035710871024121": true,
-        "2110038725665464392": false
+        "2110038725665464392": false,
+        "2110252627799966022": true
       },
       "user_id": "973261472"
     },
@@ -4173,5 +4179,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-14T06:02:15+00:00"
+  "updated_at": "2026-10-14T06:14:21+00:00"
 }
