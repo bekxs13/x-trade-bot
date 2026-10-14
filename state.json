@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110398080029966763",
+      "last_id": "2110406758875419056",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -216,18 +216,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T00:08:16.000Z",
-          "id": "2109798338925359600",
-          "reply_to_id": "2109797920988107188",
-          "text": "@coopernicus01 I look forward to purchasing from your cleaning company https://t.co/A11TE3UKYz"
-        },
-        {
-          "created_at": "2026-10-13T00:24:56.000Z",
-          "id": "2109802530490450245",
-          "reply_to_id": "2109802195277455581",
-          "text": "@lake_168 Yeah as a kid I was a book every 2 days guy now more like book a month"
-        },
-        {
           "created_at": "2026-10-13T01:06:53.000Z",
           "id": "2109813088073756888",
           "reply_to_id": "2109813008667181213",
@@ -307,6 +295,18 @@
           "id": "2109971264781881637",
           "reply_to_id": "2109966964919541791",
           "text": "@notthreadguy Can\u2019t tell if people have been talking about Gen Z dating culture since that boomer advice tweet or that was a one off that I clicked too many comments"
+        },
+        {
+          "created_at": "2026-10-14T16:24:21.000Z",
+          "id": "2110406366666129558",
+          "reply_to_id": "2110405739974201631",
+          "text": "@unreachablexbt @notthreadguy When I picked this pfp as a derivative of the jingtao poker pfp I never imagined it as an ai generated full body image"
+        },
+        {
+          "created_at": "2026-10-14T16:25:55.000Z",
+          "id": "2110406758875419056",
+          "reply_to_id": "2110406517883023569",
+          "text": "@notthreadguy @unreachablexbt Deeply unsettling https://t.co/vcgmjjVIoW"
         }
       ],
       "threads": {
@@ -554,8 +554,6 @@
         }
       },
       "trading": {
-        "2109798338925359600": false,
-        "2109802530490450245": false,
         "2109803429778632778": false,
         "2109813088073756888": true,
         "2109813183041200442": true,
@@ -588,7 +586,9 @@
         "2110288062261711186": true,
         "2110289205565989218": false,
         "2110396115543810439": true,
-        "2110398080029966763": false
+        "2110398080029966763": false,
+        "2110406366666129558": false,
+        "2110406758875419056": false
       },
       "user_id": "1446541960181858315"
     },
@@ -1605,7 +1605,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2110404903390892262",
+      "last_id": "2110406716168999079",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1641,21 +1641,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T18:00:43.000Z",
-          "id": "2109705839263326634",
-          "images": [
-            "https://pbs.twimg.com/media/HUcuR9ZasAA96hf.jpg",
-            "https://pbs.twimg.com/media/HUcuR9SboAAAbZu.jpg"
-          ],
-          "reply_to_id": "2109703958189240494",
-          "text": "Ewy sndk for reference https://t.co/fTACXJv6lF"
-        },
-        {
-          "created_at": "2026-10-12T18:19:53.000Z",
-          "id": "2109710662536745312",
-          "text": "No crying in the casino!"
-        },
         {
           "created_at": "2026-10-12T18:22:12.000Z",
           "id": "2109711246241251589",
@@ -1758,10 +1743,20 @@
           "id": "2110404903390892262",
           "reply_to_id": "2110033888332681447",
           "text": "Idk when I\u2019ll close rest market looks very shaky, short mem and adjacent ended up being extremely timely, shit is being obliterated"
+        },
+        {
+          "created_at": "2026-10-14T16:24:41.000Z",
+          "id": "2110406447486120042",
+          "text": "Goog amzn basically at entries while mem adjacent stuff has been totally obliterated, extremely timely shorts there \n\nCrypto post cpi shorts made perfect sense and still think overall needs more patience there with Y/O having held as clear areas to flip if want risk back on\n\nNice"
+        },
+        {
+          "created_at": "2026-10-14T16:25:45.000Z",
+          "id": "2110406716168999079",
+          "reply_to_id": "2110406447486120042",
+          "text": "Getting back into my flow very nicely, even got some friends to sell their spot names in tradfi they can rebuy 20%+ lower now lmfao \n\nRhino up only wooo I missed this feeling"
         }
       ],
       "reads": {
-        "2109710662536745312": "No call",
         "2109711246241251589": "No call",
         "2109776806710853911": "No call",
         "2109778560567402878": "TRADE LONG GOOG",
@@ -1776,7 +1771,9 @@
         "2110094006281736323": "No call",
         "2110126472363229416": "No call",
         "2110126618689847606": "Read together with the post it replies to",
-        "2110404903390892262": "VIEW bearish on stocks/macro"
+        "2110404903390892262": "VIEW bearish on stocks/macro",
+        "2110406447486120042": "No call",
+        "2110406716168999079": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -1970,11 +1967,13 @@
         "2110126472363229416": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2110406447486120042": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2109705839263326634": true,
-        "2109710662536745312": true,
         "2109711246241251589": true,
         "2109775773188194396": true,
         "2109776806710853911": true,
@@ -2007,7 +2006,9 @@
         "2110137912285413465": false,
         "2110403253859172431": false,
         "2110403608009466014": false,
-        "2110404903390892262": true
+        "2110404903390892262": true,
+        "2110406447486120042": true,
+        "2110406716168999079": true
       },
       "user_id": "953032269433745408"
     },
@@ -2934,7 +2935,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110405623711953046",
+      "last_id": "2110406517883023569",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3094,12 +3095,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T21:09:36.000Z",
-          "id": "2110115761234804980",
-          "reply_to_id": "2110115587825471879",
-          "text": "@ThinkingUSD @SoskaKyle generational pod icl"
-        },
-        {
           "created_at": "2026-10-13T21:12:13.000Z",
           "id": "2110116421418078713",
           "reply_to_id": "2110115988436033747",
@@ -3182,6 +3177,12 @@
           "id": "2110401397480894508",
           "reply_to_id": "2110401153779347586",
           "text": "@apewoodx hell yeah thanks man"
+        },
+        {
+          "created_at": "2026-10-14T16:24:57.000Z",
+          "id": "2110406517883023569",
+          "reply_to_id": "2110406366666129558",
+          "text": "@based16z @unreachablexbt can\u2019t say i love it"
         }
       ],
       "threads": {
@@ -3320,7 +3321,6 @@
         "2110098064773890275": false,
         "2110099636820054153": false,
         "2110100532094234942": false,
-        "2110115761234804980": false,
         "2110116421418078713": false,
         "2110117123548721572": false,
         "2110132837018182014": false,
@@ -3340,7 +3340,8 @@
         "2110396209575972907": true,
         "2110399337222078855": false,
         "2110401397480894508": false,
-        "2110405623711953046": false
+        "2110405623711953046": false,
+        "2110406517883023569": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4447,5 +4448,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T16:22:32+00:00"
+  "updated_at": "2026-10-14T16:26:29+00:00"
 }
