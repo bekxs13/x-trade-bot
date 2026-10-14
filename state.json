@@ -1596,7 +1596,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2110137912285413465",
+      "last_id": "2110403253859172431",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1632,12 +1632,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T17:50:36.000Z",
-          "id": "2109703293270364304",
-          "quoted_text": "Goog amzn going well, holding spot trad still good (brk leaps also performing again lmfao SOMEDAY), cut ASTS today got fkd on that, adding some ewy shorts to go against mag longs (again mostly goog amzn), mostly still just riding spot long trad as I think good setup for higher \n\nCrypto still ugly and needs patience imo \n\nEnjoy your weekends bros",
-          "text": "Long mags short memory going swimmingly (memory stuff seems to be on a knife\u2019s edge right now) \n\nCrypto I still believe needs more patience especially after the weekend musical chairs of microcap perps being the best we could do, eth rejected range high of former range it fell in https://t.co/See7RU3pj0"
-        },
         {
           "created_at": "2026-10-12T17:53:14.000Z",
           "id": "2109703958189240494",
@@ -1749,10 +1743,15 @@
           "id": "2110126618689847606",
           "reply_to_id": "2110126472363229416",
           "text": "Prepare for another celeb extraction season LETS GOOOO"
+        },
+        {
+          "created_at": "2026-10-14T16:11:59.000Z",
+          "id": "2110403253859172431",
+          "reply_to_id": "2110137912285413465",
+          "text": "@chumbawamba22 @m_omahato Yeah made sense"
         }
       ],
       "reads": {
-        "2109703293270364304": "No call: bearish on crypto market (same view as before)",
         "2109703958189240494": "No call",
         "2109710662536745312": "No call",
         "2109711246241251589": "No call",
@@ -1964,7 +1963,6 @@
         }
       },
       "trading": {
-        "2109703293270364304": true,
         "2109703958189240494": true,
         "2109705839263326634": true,
         "2109710662536745312": true,
@@ -1998,7 +1996,8 @@
         "2110126855886151736": true,
         "2110131277429117053": true,
         "2110132707279901044": true,
-        "2110137912285413465": false
+        "2110137912285413465": false,
+        "2110403253859172431": false
       },
       "user_id": "953032269433745408"
     },
@@ -4422,5 +4421,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T16:06:29+00:00"
+  "updated_at": "2026-10-14T16:12:21+00:00"
 }
