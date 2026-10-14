@@ -613,7 +613,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110304660192117229",
+      "last_id": "2110318790793642277",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -649,11 +649,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T02:33:22.000Z",
-          "id": "2109472464246079912",
-          "text": "$90k by end of the week"
-        },
         {
           "created_at": "2026-10-12T04:33:31.000Z",
           "id": "2109502703147855922",
@@ -780,10 +775,15 @@
           "id": "2110304660192117229",
           "quoted_text": "Togi thinks making millions from stocks is much cooler than getting rich trading memecoins, saying memecoin traders have no aura\n\n\u201cNo shade to Kimchi but he made $40,000,000 off of TRUMP. It\u2019s so not cool\u201d\n\n\u201cYou know who's cool? The Big Short guy. Roaring Kitty. Wolf of Wall Street. The point is it's very cool to make money the old fashioned way in the stock market\u201d\n\n\u201cHow legendary is it to want to be that guy that made $10,000,000 doing stocks, the guy that made $5,000,000 fishing? It's much co",
           "text": "top public pnl from now till 2028 will be a \"crypto\" trader who trades both memecoins &amp; perps on stocks &amp; crypto assets https://t.co/4UPupPDNIa"
+        },
+        {
+          "created_at": "2026-10-14T10:36:22.000Z",
+          "id": "2110318790793642277",
+          "quoted_text": "hyperliquid is killing the idea of a \"crypto trader\" imo\n\nif i can trade btc, hype, nvidia, gold and whatever comes next from the same venue, im not really just trading crypto anymore\n\nim trading markets and i think thats increasingly how people will behave\n\nfollow the hot ball of money, the destination stays the same",
+          "text": "correct, there will be traders, and there will be content creators, & then there will be people who are good at both\n\nbelieve the combination will accrue an immense amount of value in a world where everyone can trade any asset immediately on their phones, & everyone wants to learn"
         }
       ],
       "reads": {
-        "2109472464246079912": "No call: bullish on btc (same view as before)",
         "2109502703147855922": "No call",
         "2109577662507454790": "No call",
         "2109595727404089816": "No call",
@@ -801,7 +801,8 @@
         "2110020788229214374": "No call",
         "2110027728112021765": "VIEW bearish on MU",
         "2110252627799966022": "No call",
-        "2110304660192117229": "No call"
+        "2110304660192117229": "No call",
+        "2110318790793642277": "No call"
       },
       "replies": [
         {
@@ -1188,10 +1189,13 @@
         "2110304660192117229": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110318790793642277": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109472464246079912": true,
         "2109502703147855922": true,
         "2109577662507454790": true,
         "2109595727404089816": true,
@@ -1225,7 +1229,8 @@
         "2110035710871024121": true,
         "2110038725665464392": false,
         "2110252627799966022": true,
-        "2110304660192117229": true
+        "2110304660192117229": true,
+        "2110318790793642277": true
       },
       "user_id": "973261472"
     },
@@ -4242,5 +4247,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-14T09:42:24+00:00"
+  "updated_at": "2026-10-14T10:38:27+00:00"
 }
