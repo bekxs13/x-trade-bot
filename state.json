@@ -3944,14 +3944,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110389680533393762",
+      "last_id": "2110391755179004395",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-13T04:14:30.000Z",
-          "id": "2109860304587030768",
-          "text": "All I\u2019m going to say is you probably want to stay as liquid as possible, for as long as possible.\n\nBe patient."
-        },
         {
           "created_at": "2026-10-13T04:20:05.000Z",
           "id": "2109861707854352759",
@@ -4058,10 +4053,17 @@
           "id": "2110389680533393762",
           "reply_to_id": "2110388488344641752",
           "text": "This is support though to be clear, not an ideal short right now."
+        },
+        {
+          "created_at": "2026-10-14T15:26:18.000Z",
+          "id": "2110391755179004395",
+          "images": [
+            "https://pbs.twimg.com/media/HUmeGvqXoAAnpKs.jpg"
+          ],
+          "text": "Hm https://t.co/9TkwbJmM1K"
         }
       ],
       "reads": {
-        "2109860304587030768": "No call: bearish on stocks/macro (same view as before)",
         "2109861707854352759": "No call: maybe short  (60%, too unsure); bearish on stocks/macro (same view as before)",
         "2109992995642544144": "No call",
         "2110046712131936390": "No call",
@@ -4080,7 +4082,8 @@
         "2110386688325239130": "No call",
         "2110387994574360997": "No call",
         "2110388488344641752": "VIEW bearish on btc",
-        "2110389680533393762": "No call"
+        "2110389680533393762": "No call",
+        "2110391755179004395": "No call"
       },
       "replies": [
         {
@@ -4306,6 +4309,10 @@
             "bias:btc:bearish"
           ],
           "self_replies": 1
+        },
+        "2110391755179004395": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4318,7 +4325,6 @@
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
-        "2109860304587030768": true,
         "2109861707854352759": true,
         "2109992995642544144": false,
         "2110046712131936390": false,
@@ -4337,7 +4343,8 @@
         "2110386688325239130": false,
         "2110387994574360997": false,
         "2110388488344641752": true,
-        "2110389680533393762": true
+        "2110389680533393762": true,
+        "2110391755179004395": false
       },
       "user_id": "809191427645181952"
     }
@@ -4353,5 +4360,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T15:20:21+00:00"
+  "updated_at": "2026-10-14T15:28:25+00:00"
 }
