@@ -613,7 +613,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110327073961119900",
+      "last_id": "2110345342084587766",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -804,18 +804,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T08:40:28.000Z",
-          "id": "2109927235327316031",
-          "reply_to_id": "2109910315311759631",
-          "text": "@Jxjethro ok!"
-        },
-        {
-          "created_at": "2026-10-13T10:05:06.000Z",
-          "id": "2109948534606987503",
-          "reply_to_id": "2109937892625678535",
-          "text": "believe people arent doing the math on how much paper stakers will make if it captures -5-10% of hyperliquid's flow, trader losses are a much higher revenue stream than the small fee on each trade, curious what other future mechanisms jez & co are thinking of to make the 1000x casino even more enticing\n\n~31M paid out to stakers first few days, ~12.6B max paper supply & ~50% already distro'd, will be interesting to track"
-        },
-        {
           "created_at": "2026-10-13T10:12:32.000Z",
           "id": "2109950407812563452",
           "reply_to_id": "2109949149353316861",
@@ -892,6 +880,18 @@
           "id": "2110325911627174294",
           "reply_to_id": "2110076974916120806",
           "text": "you dont have to use 1000x, you can use whatever leverage you want\n\npeople will use papertrade because it has a distinctly different feature set from other exchanges\n\nthere is novelty in\n\n\u2022 no funding rate on positions\n\u2022 no fees on opening of positions or on losses\n\u2022 no necessary user counterparty for your trades because the house is your counterparty\n\u2022 losers paid out in token\n\u2022 99% of revenue over certain cap to paper stakers\n\nthis makes it both a fantastic venue for high frequency perps leverage day trading, & also a great investment proposition for nontraders who just want to own the casino"
+        },
+        {
+          "created_at": "2026-10-14T12:21:17.000Z",
+          "id": "2110345195543822652",
+          "reply_to_id": "2110342262022386097",
+          "text": "@mochains \ud83d\udca1"
+        },
+        {
+          "created_at": "2026-10-14T12:21:52.000Z",
+          "id": "2110345342084587766",
+          "reply_to_id": "2110336420556734552",
+          "text": "@rektober you are yes"
         }
       ],
       "threads": {
@@ -1207,11 +1207,9 @@
         "2109911341356273792": true,
         "2109915465485332883": true,
         "2109927211604275273": true,
-        "2109927235327316031": false,
         "2109928752092500155": true,
         "2109943171694407765": true,
         "2109947683935014953": true,
-        "2109948534606987503": true,
         "2109950407812563452": false,
         "2109950575102373992": false,
         "2109950815452778905": false,
@@ -1233,7 +1231,9 @@
         "2110324688249393574": true,
         "2110325911627174294": true,
         "2110326122655404263": false,
-        "2110327073961119900": true
+        "2110327073961119900": true,
+        "2110345195543822652": false,
+        "2110345342084587766": false
       },
       "user_id": "973261472"
     },
@@ -4254,5 +4254,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T12:20:23+00:00"
+  "updated_at": "2026-10-14T12:22:16+00:00"
 }
