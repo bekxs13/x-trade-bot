@@ -4078,14 +4078,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110494346646630545",
+      "last_id": "2110500007421890959",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-14T13:48:15.000Z",
-          "id": "2110367079408738509",
-          "text": "If you're bullish you probably hope Anthropic delays their IPO and the market can continue coping on recursive fake funding deals and you'll have a chance to sell higher."
-        },
         {
           "created_at": "2026-10-14T13:48:49.000Z",
           "id": "2110367222241878277",
@@ -4190,10 +4185,14 @@
           "id": "2110494346646630545",
           "quoted_text": "*ANTHROPIC Q3 REVENUE JUMPS TO $16.8B, UP NEARLY 50% FROM Q2\n\n*ANTHROPIC REPORTS ADJUSTED PROFITABILITY, POSITIVE CASH FLOW IN Q3\n\n*ANTHROPIC DRAFT S-1 WARNS AI COULD POSE 'EXISTENTIAL RISKS TO HUMANITY'",
           "text": "Game Over\n\n100B ARR my ass \n\nNowhere near 100B Revenue\n\n\ud83e\uddf8\ud83c\udfaf https://t.co/4lfT2ZqIoU"
+        },
+        {
+          "created_at": "2026-10-14T22:36:27.000Z",
+          "id": "2110500007421890959",
+          "text": "Don't worry about equities selling off, people are just making room in their portfolio for the Anthropic IPO"
         }
       ],
       "reads": {
-        "2110367079408738509": "No call: bearish on stocks/macro (same view as before)",
         "2110367222241878277": "No call",
         "2110367788061876276": "No call",
         "2110368324102045867": "No call: bearish on btc (65%, too unsure)",
@@ -4212,7 +4211,8 @@
         "2110424262620103125": "No call: bearish on stocks/macro (same view as before)",
         "2110429740612075788": "No call",
         "2110482457686315161": "No call",
-        "2110494346646630545": "No call: bearish on stocks/macro (same view as before)"
+        "2110494346646630545": "No call: bearish on stocks/macro (same view as before)",
+        "2110500007421890959": "No call"
       },
       "replies": [
         {
@@ -4484,6 +4484,10 @@
         "2110494346646630545": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110500007421890959": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4496,7 +4500,6 @@
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
-        "2110367079408738509": true,
         "2110367222241878277": false,
         "2110367788061876276": true,
         "2110368324102045867": true,
@@ -4516,7 +4519,8 @@
         "2110424262620103125": true,
         "2110429740612075788": false,
         "2110482457686315161": true,
-        "2110494346646630545": true
+        "2110494346646630545": true,
+        "2110500007421890959": true
       },
       "user_id": "809191427645181952"
     }
@@ -4532,5 +4536,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T22:34:39+00:00"
+  "updated_at": "2026-10-14T22:38:23+00:00"
 }
