@@ -1608,7 +1608,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2110447305740742802",
+      "last_id": "2110447905224159264",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1644,11 +1644,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T22:49:41.000Z",
-          "id": "2109778560567402878",
-          "text": "\u201cThat rhino guy is always vagueposting\u201d \n\nHello I am buying goog and amzn here, ok now I\u2019m hedging with ewy shorts. They\u2019re all in profit. I think top range is yearly open and we gonna spike sub 81. \nIm longing hype and eth after clarity. O im still holding after fomc. \n\nMaybe you\u2019re just RETARDED"
-        },
         {
           "created_at": "2026-10-12T23:57:59.000Z",
           "id": "2109795750964322418",
@@ -1759,10 +1754,15 @@
           "id": "2110447305740742802",
           "reply_to_id": "2110446822707929422",
           "text": "The changes to app itself have done a pretty solid job of disincentivizing much interaction tho, feels much more like reading headlines from accts as opposed to discussion platform \n\nChanges to how you post long running ideas killed a lot of it for me personally, also ragebait posts all over"
+        },
+        {
+          "created_at": "2026-10-14T19:08:23.000Z",
+          "id": "2110447643642245266",
+          "reply_to_id": "2110447305740742802",
+          "text": "So much stupidity and false info all over plus hate is rewarded with max engagement, it feels like retard tier shit 40 yr olds on Facebook get mad about lmfao"
         }
       ],
       "reads": {
-        "2109778560567402878": "TRADE LONG GOOG",
         "2109795750964322418": "No call",
         "2109798740760633507": "No call",
         "2109802343827214627": "TRADE SHORT EWY",
@@ -1781,12 +1781,6 @@
         "2110447305740742802": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-13T04:31:49.000Z",
-          "id": "2109864660723999213",
-          "reply_to_id": "2109854137341124913",
-          "text": "@naniXBT Kospi down 7% btw trade never drew down for a second btw"
-        },
         {
           "created_at": "2026-10-13T15:33:32.000Z",
           "id": "2110031187049873462",
@@ -1870,6 +1864,12 @@
           "id": "2110413267474719200",
           "reply_to_id": "2110412216906256851",
           "text": "@VentureCoinist Guy shilling Tia for multi year downtrend -99.9%"
+        },
+        {
+          "created_at": "2026-10-14T19:09:25.000Z",
+          "id": "2110447905224159264",
+          "reply_to_id": "2110447301311517058",
+          "text": "@WonWonCapital This not about me, most people who interact with me are actually very kind and chill"
         }
       ],
       "threads": {
@@ -1983,12 +1983,10 @@
         }
       },
       "trading": {
-        "2109778560567402878": true,
         "2109795750964322418": true,
         "2109798740760633507": true,
         "2109802343827214627": true,
         "2109802796107350151": true,
-        "2109864660723999213": true,
         "2109864856690348426": true,
         "2109871082987786632": true,
         "2110005247536222698": false,
@@ -2017,7 +2015,9 @@
         "2110408203188183236": true,
         "2110413267474719200": true,
         "2110446822707929422": false,
-        "2110447305740742802": false
+        "2110447305740742802": false,
+        "2110447643642245266": false,
+        "2110447905224159264": false
       },
       "user_id": "953032269433745408"
     },
@@ -4509,5 +4509,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T19:08:23+00:00"
+  "updated_at": "2026-10-14T19:10:21+00:00"
 }
