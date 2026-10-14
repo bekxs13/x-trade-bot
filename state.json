@@ -2849,7 +2849,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110330213892870218",
+      "last_id": "2110339810447474817",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3009,12 +3009,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T13:14:07.000Z",
-          "id": "2109996101528862889",
-          "reply_to_id": "2109995229788918147",
-          "text": "@filtheewill what topic"
-        },
-        {
           "created_at": "2026-10-13T16:23:18.000Z",
           "id": "2110043712646676920",
           "reply_to_id": "2110042786439495863",
@@ -3097,6 +3091,12 @@
           "id": "2110330213892870218",
           "reply_to_id": "2110211738427855287",
           "text": "@ShaneStoffer every second i ever spent worrying about macro was a waste of time"
+        },
+        {
+          "created_at": "2026-10-14T11:59:53.000Z",
+          "id": "2110339810447474817",
+          "reply_to_id": "2110194351750234325",
+          "text": "@mert @ilblackdragon @zkDragon @tulipking i thought there was only one bald guy"
         }
       ],
       "threads": {
@@ -3216,7 +3216,6 @@
         "2109790593685520394": true,
         "2109823189991715173": true,
         "2109987664388907042": true,
-        "2109996101528862889": false,
         "2110043712646676920": false,
         "2110088724310589484": false,
         "2110098064773890275": false,
@@ -3235,7 +3234,8 @@
         "2110146233230676232": false,
         "2110146748845048172": false,
         "2110329391402418323": false,
-        "2110330213892870218": true
+        "2110330213892870218": true,
+        "2110339810447474817": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4249,6 +4249,6 @@
     }
   },
   "markets_labeled": true,
-  "summary_date": "2026-10-13",
-  "updated_at": "2026-10-14T11:22:21+00:00"
+  "summary_date": "2026-10-14",
+  "updated_at": "2026-10-14T12:00:27+00:00"
 }
