@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110508818698580349",
+      "last_id": "2110511421029228725",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -216,12 +216,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T02:38:15.000Z",
-          "id": "2109836080086389027",
-          "reply_to_id": "2109835454660935758",
-          "text": "@felipexbt Correct it hasn\u2019t gone up for a year really"
-        },
-        {
           "created_at": "2026-10-13T03:39:49.000Z",
           "id": "2109851574004846860",
           "reply_to_id": "2109850578092179713",
@@ -304,6 +298,12 @@
           "id": "2110508818698580349",
           "reply_to_id": "2110508280598438131",
           "text": "@ExPostGigaChad @tolstoybb Yeah hes chillasf although it\u2019s borderline impossible to defend anthropic so creates some contradictions"
+        },
+        {
+          "created_at": "2026-10-14T23:21:48.000Z",
+          "id": "2110511421029228725",
+          "reply_to_id": "2110504083903664562",
+          "text": "@kromit_ Retweet"
         }
       ],
       "threads": {
@@ -576,7 +576,6 @@
       },
       "trading": {
         "2109826673164357710": false,
-        "2109836080086389027": true,
         "2109851574004846860": true,
         "2109853746020958350": true,
         "2109855119584211308": true,
@@ -609,7 +608,8 @@
         "2110482820556861542": false,
         "2110483608737857969": false,
         "2110499057219383709": true,
-        "2110508818698580349": false
+        "2110508818698580349": false,
+        "2110511421029228725": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4544,5 +4544,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T23:12:16+00:00"
+  "updated_at": "2026-10-14T23:22:21+00:00"
 }
