@@ -2849,7 +2849,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110339810447474817",
+      "last_id": "2110344475679785118",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -2869,12 +2869,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-10T17:12:46.000Z",
-          "id": "2108968997542891854",
-          "quoted_text": "my full interview with @blurr, co founder of @papertrade_xyz \n\n0:46 origins of papertrade\n3:46 how papertrade works\n11:29 learning from broken launches\n13:35 why build on HyperEVM?\n10:04 no funding fees on a $20M position?\n25:00 how $Paper emissions work\n32:59 I love jez\n35:24 onchain wizard with no socials\n39:18 super dead, super rich, or supermax\n42:36 Tether on a phone was a Godsend\n48:21 breeding CryptoKitties for profit\n54:01 farming Curve for 3 hours\n57:23 crypto can't be a social movement",
-          "text": "relevant https://t.co/9E8LmlkM0B"
-        },
         {
           "created_at": "2026-10-12T16:07:29.000Z",
           "id": "2109677343610425650",
@@ -2988,10 +2982,15 @@
             "https://pbs.twimg.com/media/HUi86FoXkAAuRmX.jpg"
           ],
           "text": "TOMORROW. Live on stream with @ilblackdragon, @mert, @zkDragon and @tulipking AT 1015am est \n\nWhat does the future look like for our coins https://t.co/t9AiJfdvpD"
+        },
+        {
+          "created_at": "2026-10-14T12:18:25.000Z",
+          "id": "2110344475679785118",
+          "quoted_text": "TOMORROW. Live on stream with @ilblackdragon, @mert, @zkDragon and @tulipking AT 1015am est \n\nWhat does the future look like for our coins https://t.co/t9AiJfdvpD",
+          "text": "this will be fun today https://t.co/4I8SLOzbwL"
         }
       ],
       "reads": {
-        "2108968997542891854": "No call",
         "2109677343610425650": "No call",
         "2109714673545228532": "No call",
         "2109728676539769027": "No call",
@@ -3005,7 +3004,8 @@
         "2110088724310589484": "No call",
         "2110098064773890275": "No call",
         "2110099636820054153": "No call",
-        "2110144405151555773": "No call"
+        "2110144405151555773": "No call",
+        "2110344475679785118": "No call"
       },
       "replies": [
         {
@@ -3198,10 +3198,13 @@
         "2110144405151555773": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110344475679785118": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108968997542891854": true,
         "2109677343610425650": true,
         "2109714673545228532": false,
         "2109728676539769027": true,
@@ -3235,7 +3238,8 @@
         "2110146748845048172": false,
         "2110329391402418323": false,
         "2110330213892870218": true,
-        "2110339810447474817": false
+        "2110339810447474817": false,
+        "2110344475679785118": true
       },
       "user_id": "1426732252768182281"
     },
@@ -4250,5 +4254,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T12:00:27+00:00"
+  "updated_at": "2026-10-14T12:20:23+00:00"
 }
