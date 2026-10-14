@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110422699663376604",
+      "last_id": "2110457497903620432",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -67,12 +67,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T01:07:15.000Z",
-          "id": "2109813183041200442",
-          "reply_to_id": "2109813088073756888",
-          "text": "@Evan_ss6 Wouldn\u2019t be surprised to move through this wk tho"
-        },
         {
           "created_at": "2026-10-13T01:36:00.000Z",
           "id": "2109820418098168231",
@@ -194,6 +188,11 @@
             "https://pbs.twimg.com/media/HUm6QobaYAIUrgM.jpg"
           ],
           "text": "Wow insane sell off https://t.co/odML2PZmxu"
+        },
+        {
+          "created_at": "2026-10-14T19:47:32.000Z",
+          "id": "2110457497903620432",
+          "text": "Anthropic as a shrinking biz would be hilarious like yeah ok slight negative growth negative 80% margins 2 trillion plz"
         }
       ],
       "reads": {
@@ -211,7 +210,8 @@
         "2110289205565989218": "No call",
         "2110396115543810439": "TRADE LONG BSP",
         "2110398080029966763": "TRADE LONG QQQ",
-        "2110422699663376604": "No call"
+        "2110422699663376604": "No call",
+        "2110457497903620432": "No call"
       },
       "replies": [
         {
@@ -554,10 +554,13 @@
         "2110422699663376604": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110457497903620432": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109813183041200442": true,
         "2109820418098168231": true,
         "2109820551837659181": true,
         "2109822997737709736": false,
@@ -591,7 +594,8 @@
         "2110412002359480759": true,
         "2110419018431729838": true,
         "2110419221222129947": true,
-        "2110422699663376604": true
+        "2110422699663376604": true,
+        "2110457497903620432": true
       },
       "user_id": "1446541960181858315"
     },
@@ -2944,7 +2948,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110450803072778387",
+      "last_id": "2110457166276825577",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3104,12 +3108,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T11:18:29.000Z",
-          "id": "2110329391402418323",
-          "reply_to_id": "2110279019941798344",
-          "text": "@iholdyoufold @Sybiliooo @AzFlin dog"
-        },
-        {
           "created_at": "2026-10-14T11:21:45.000Z",
           "id": "2110330213892870218",
           "reply_to_id": "2110211738427855287",
@@ -3192,6 +3190,12 @@
           "id": "2110450803072778387",
           "reply_to_id": "2110442660108317104",
           "text": "@MrketInsider lmao"
+        },
+        {
+          "created_at": "2026-10-14T19:46:13.000Z",
+          "id": "2110457166276825577",
+          "reply_to_id": "2110456934608367749",
+          "text": "@boredHirshy thanks g"
         }
       ],
       "threads": {
@@ -3331,7 +3335,6 @@
         "2110099636820054153": false,
         "2110100532094234942": false,
         "2110144405151555773": true,
-        "2110329391402418323": false,
         "2110330213892870218": true,
         "2110339810447474817": false,
         "2110344475679785118": true,
@@ -3350,7 +3353,8 @@
         "2110419755639149023": false,
         "2110433067001372859": false,
         "2110433720494641461": false,
-        "2110450803072778387": false
+        "2110450803072778387": false,
+        "2110457166276825577": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4509,5 +4513,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T19:38:23+00:00"
+  "updated_at": "2026-10-14T19:48:24+00:00"
 }
