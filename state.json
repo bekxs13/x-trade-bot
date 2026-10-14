@@ -4045,26 +4045,20 @@
           "updated_at": "2026-10-14T15:13:19.000Z"
         },
         "stocks/macro": {
-          "market": "macro",
-          "post_id": "2110369624021930336",
-          "reason": "\"Holding cash when the market nukes\" plus recent posts on the AI bear thesis and \"Equities -10%\" imply he expects a broad selloff, matching his recorded bearish stocks/macro view.",
+          "market": "stocks",
+          "post_id": "2110424262620103125",
+          "reason": "The sarcastic \"Things you see at the bottom /s\" on Anduril insiders selling at a $90B valuation implies froth near a top, matching their bearish stocks view.",
           "scope": "stocks/macro",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-14T13:58:21.000Z"
+          "updated_at": "2026-10-14T17:35:28.000Z"
         }
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110419528148517101",
+      "last_id": "2110424262620103125",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-14T02:09:17.000Z",
-          "id": "2110191182311518685",
-          "quoted_text": "Lmao. See you guys after midterms https://t.co/DfEhnBJqUb",
-          "text": "Lone Pine Q3 PnL (colorized, 2026) https://t.co/tDhMUrh5Vi"
-        },
         {
           "created_at": "2026-10-14T13:32:50.000Z",
           "id": "2110363201078788487",
@@ -4170,10 +4164,15 @@
           "created_at": "2026-10-14T17:16:39.000Z",
           "id": "2110419528148517101",
           "text": "https://t.co/Z5fDOaIznI"
+        },
+        {
+          "created_at": "2026-10-14T17:35:28.000Z",
+          "id": "2110424262620103125",
+          "quoted_text": "*ANDURIL TO SELL INSIDER SHARES AT ROUGHLY $90 BILLION VALUATION",
+          "text": "Things you see at the bottom /s https://t.co/lxOPi6zirH"
         }
       ],
       "reads": {
-        "2110191182311518685": "No call",
         "2110363201078788487": "No call",
         "2110364014827983245": "No call",
         "2110364504332575207": "No call: bearish on stocks/macro (same view as before)",
@@ -4192,7 +4191,8 @@
         "2110403945885520049": "No call",
         "2110404181945405916": "No call",
         "2110415518566105110": "No call",
-        "2110419528148517101": "No call"
+        "2110419528148517101": "No call",
+        "2110424262620103125": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -4448,6 +4448,10 @@
         "2110419528148517101": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110424262620103125": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4460,7 +4464,6 @@
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
-        "2110191182311518685": true,
         "2110363201078788487": false,
         "2110364014827983245": true,
         "2110364504332575207": true,
@@ -4480,7 +4483,8 @@
         "2110404181945405916": true,
         "2110411948982460824": true,
         "2110415518566105110": false,
-        "2110419528148517101": false
+        "2110419528148517101": false,
+        "2110424262620103125": true
       },
       "user_id": "809191427645181952"
     }
@@ -4496,5 +4500,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T17:30:27+00:00"
+  "updated_at": "2026-10-14T17:36:23+00:00"
 }
