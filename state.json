@@ -613,7 +613,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110324688249393574",
+      "last_id": "2110326122655404263",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -649,14 +649,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T04:33:31.000Z",
-          "id": "2109502703147855922",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2109502522125873153/img/1fg8OdHc1VwUk9oT.jpg"
-          ],
-          "text": "one thing i find interesting about Grass is its potential expansion beyond AI training data\n\nthey've already built infrastructure to collect and process web data at scale, and now they're looking to make those tools available directly to AI agents and LLMs\n\ni expect real-time access to web data to become increasingly important as AI agents grow more capable\n\nthat could open up an entirely different market for infrastructure providers like Grass"
-        },
         {
           "created_at": "2026-10-12T09:31:23.000Z",
           "id": "2109577662507454790",
@@ -781,10 +773,18 @@
           "id": "2110318790793642277",
           "quoted_text": "hyperliquid is killing the idea of a \"crypto trader\" imo\n\nif i can trade btc, hype, nvidia, gold and whatever comes next from the same venue, im not really just trading crypto anymore\n\nim trading markets and i think thats increasingly how people will behave\n\nfollow the hot ball of money, the destination stays the same",
           "text": "correct, there will be traders, and there will be content creators, & then there will be people who are good at both\n\nbelieve the combination will accrue an immense amount of value in a world where everyone can trade any asset immediately on their phones, & everyone wants to learn"
+        },
+        {
+          "created_at": "2026-10-14T11:05:30.000Z",
+          "id": "2110326122655404263",
+          "images": [
+            "https://pbs.twimg.com/media/HUliaf7XgAAmIJJ.jpg",
+            "https://pbs.twimg.com/media/HUliaf3WMAAWgj8.jpg"
+          ],
+          "text": "white pepper alaskan king crab https://t.co/JYdHwGjSzl"
         }
       ],
       "reads": {
-        "2109502703147855922": "No call",
         "2109577662507454790": "No call",
         "2109595727404089816": "No call",
         "2109689601376018710": "No call",
@@ -802,15 +802,10 @@
         "2110027728112021765": "VIEW bearish on MU",
         "2110252627799966022": "No call",
         "2110304660192117229": "No call",
-        "2110318790793642277": "No call"
+        "2110318790793642277": "No call",
+        "2110326122655404263": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-13T07:59:47.000Z",
-          "id": "2109917000621531556",
-          "reply_to_id": "2109916096891699505",
-          "text": "@RoysharkCrypto since forever \ud83d\ude02"
-        },
         {
           "created_at": "2026-10-13T08:40:28.000Z",
           "id": "2109927235327316031",
@@ -894,6 +889,12 @@
           "id": "2110324688249393574",
           "reply_to_id": "2110076193269588416",
           "text": "never have we before seen a protocol this directly aligned with users IMO\n\n0 starting supply\n\nall supply goes directly to users of the protocol\n\n99% of all revenue does not go to buybacks of the coin, but instead cash goes directly to stakers who are holding the coin, which will directly impact how this coin trades because so much of supply will be staked \n\ncurrent circulating unstaked float is less than 1%, first week revenue numbers are ~$35M, supply rn is ~7B & its gets increasingly harder to mint supply as time passes, & the incentive to stake only increases as the protocol makes more money"
+        },
+        {
+          "created_at": "2026-10-14T11:04:39.000Z",
+          "id": "2110325911627174294",
+          "reply_to_id": "2110076974916120806",
+          "text": "you dont have to use 1000x, you can use whatever leverage you want\n\npeople will use papertrade because it has a distinctly different feature set from other exchanges\n\nthere is novelty in\n\n\u2022 no funding rate on positions\n\u2022 no fees on opening of positions or on losses\n\u2022 no necessary user counterparty for your trades because the house is your counterparty\n\u2022 losers paid out in token\n\u2022 99% of revenue over certain cap to paper stakers\n\nthis makes it both a fantastic venue for high frequency perps leverage day trading, & also a great investment proposition for nontraders who just want to own the casino"
         }
       ],
       "threads": {
@@ -1190,10 +1191,13 @@
         "2110318790793642277": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110326122655404263": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109502703147855922": true,
         "2109577662507454790": true,
         "2109595727404089816": true,
         "2109689601376018710": false,
@@ -1202,7 +1206,6 @@
         "2109736979932008805": true,
         "2109911341356273792": true,
         "2109915465485332883": true,
-        "2109917000621531556": false,
         "2109927211604275273": true,
         "2109927235327316031": false,
         "2109928752092500155": true,
@@ -1227,7 +1230,9 @@
         "2110304660192117229": true,
         "2110318790793642277": true,
         "2110322846509699531": false,
-        "2110324688249393574": true
+        "2110324688249393574": true,
+        "2110325911627174294": true,
+        "2110326122655404263": false
       },
       "user_id": "973261472"
     },
@@ -4244,5 +4249,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-14T11:00:27+00:00"
+  "updated_at": "2026-10-14T11:06:20+00:00"
 }
