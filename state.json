@@ -3935,14 +3935,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110369624021930336",
+      "last_id": "2110381830369354028",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-12T17:56:47.000Z",
-          "id": "2109704848866459700",
-          "text": "Still don't understand why Hyperliquid/Unit doesn't drop spot trading to fees to 0 so it's the cheapest place onchain to trade spot.\n\nFeels incredibly obvious as growth has stagnated on spot volumes."
-        },
         {
           "created_at": "2026-10-12T19:05:38.000Z",
           "id": "2109722179432812640",
@@ -4045,10 +4040,14 @@
           "created_at": "2026-10-14T13:58:21.000Z",
           "id": "2110369624021930336",
           "text": "Holding cash when the market nukes is the fastest way to jump in the networth rankings leaderboard"
+        },
+        {
+          "created_at": "2026-10-14T14:46:52.000Z",
+          "id": "2110381830369354028",
+          "text": "What color is the CN tower?..."
         }
       ],
       "reads": {
-        "2109704848866459700": "No call",
         "2109722179432812640": "No call",
         "2109723930533466580": "VIEW bearish on alts",
         "2109858600910983320": "No call: bearish on stocks/macro (same view as before)",
@@ -4067,7 +4066,8 @@
         "2110367222241878277": "No call",
         "2110367788061876276": "No call",
         "2110368324102045867": "No call: bearish on btc (65%, too unsure)",
-        "2110369624021930336": "No call: bearish on stocks/macro (same view as before)"
+        "2110369624021930336": "No call: bearish on stocks/macro (same view as before)",
+        "2110381830369354028": "No call"
       },
       "replies": [
         {
@@ -4275,6 +4275,10 @@
         "2110369624021930336": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110381830369354028": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4287,7 +4291,6 @@
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
-        "2109704848866459700": true,
         "2109722179432812640": false,
         "2109723930533466580": true,
         "2109858600910983320": true,
@@ -4306,7 +4309,8 @@
         "2110367222241878277": false,
         "2110367788061876276": true,
         "2110368324102045867": true,
-        "2110369624021930336": true
+        "2110369624021930336": true,
+        "2110381830369354028": false
       },
       "user_id": "809191427645181952"
     }
@@ -4322,5 +4326,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T14:40:23+00:00"
+  "updated_at": "2026-10-14T14:48:22+00:00"
 }
