@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110482820556861542",
+      "last_id": "2110483608737857969",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -67,14 +67,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T01:46:15.000Z",
-          "id": "2109822997737709736",
-          "images": [
-            "https://pbs.twimg.com/media/HUeY0kWbYAAEv_c.jpg"
-          ],
-          "text": "QQQETHAN https://t.co/BdCdvc4UJO"
-        },
         {
           "created_at": "2026-10-13T01:55:58.000Z",
           "id": "2109825441041178656",
@@ -192,10 +184,14 @@
           "created_at": "2026-10-14T21:28:09.000Z",
           "id": "2110482820556861542",
           "text": "Anthropic\u2019s core ethic is that robots have the same rights as humans which in my view is against human rights"
+        },
+        {
+          "created_at": "2026-10-14T21:31:17.000Z",
+          "id": "2110483608737857969",
+          "text": "Just because someone works for anthropic doesn\u2019t necessarily imply they are an evil terrorist"
         }
       ],
       "reads": {
-        "2109822997737709736": "No call",
         "2109825441041178656": "No call: bearish on stocks/macro (60%, too unsure)",
         "2109826673164357710": "No call: bearish on stocks/macro (65%, too unsure)",
         "2109853746020958350": "VIEW bullish on btc",
@@ -212,7 +208,8 @@
         "2110422699663376604": "No call",
         "2110457497903620432": "No call",
         "2110476939488322037": "No call",
-        "2110482820556861542": "No call"
+        "2110482820556861542": "No call",
+        "2110483608737857969": "No call"
       },
       "replies": [
         {
@@ -564,10 +561,13 @@
         "2110482820556861542": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110483608737857969": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109822997737709736": false,
         "2109825441041178656": false,
         "2109826673164357710": false,
         "2109831325293125788": true,
@@ -601,7 +601,8 @@
         "2110457497903620432": true,
         "2110476939488322037": false,
         "2110482709827219965": false,
-        "2110482820556861542": false
+        "2110482820556861542": false,
+        "2110483608737857969": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4519,5 +4520,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T21:30:27+00:00"
+  "updated_at": "2026-10-14T21:32:18+00:00"
 }
