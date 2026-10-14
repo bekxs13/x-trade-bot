@@ -2005,7 +2005,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110346169541148845",
+      "last_id": "2110347830837620869",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2068,6 +2068,22 @@
           "since": "2026-10-14T08:47:39.000Z",
           "structure": "spot",
           "url": "https://x.com/MoneyPrinter0x/status/2110291433441960131"
+        },
+        "SOL": {
+          "asset": "SOL",
+          "chain": "solana",
+          "confidence": 0.9,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "106",
+          "horizon": "short-term",
+          "market": "crypto",
+          "open_price": 106.65,
+          "post_id": "2110347830837620869",
+          "reason": "\"filled sol 106 stop 105.5\" is a new fill on SOL with a stop below the entry, which means a long. SOL is at 106.65, just above the fill.",
+          "since": "2026-10-14T12:31:45.000Z",
+          "structure": "unknown",
+          "url": "https://x.com/MoneyPrinter0x/status/2110347830837620869"
         },
         "SOXL": {
           "asset": "SOXL",
@@ -2134,12 +2150,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T15:49:31.000Z",
-          "id": "2109672824009117846",
-          "quoted_text": "moving all crypto lev positions to spot for now, soxl crashing -10% , mu crashing -4.5% today seems like it might mute risk sentiment for a bit",
-          "text": "tail risk pairs might not look pretty in the near term after how tradfi risk assets crashed across the board today\n\nusually a leading indicator https://t.co/SmNdbjD35D"
-        },
         {
           "created_at": "2026-10-12T15:59:38.000Z",
           "id": "2109675370442309715",
@@ -2264,10 +2274,14 @@
             "https://pbs.twimg.com/media/HUl0mzLbIAASD4U.jpg"
           ],
           "text": "crypto/semis https://t.co/232GpiObgC"
+        },
+        {
+          "created_at": "2026-10-14T12:31:45.000Z",
+          "id": "2110347830837620869",
+          "text": "filled sol 106 stop 105.5"
         }
       ],
       "reads": {
-        "2109672824009117846": "VIEW bearish on crypto market",
         "2109676797076144526": "No call",
         "2109850256947175750": "TRADE LONG STX",
         "2109859230996132303": "No call: bullish on stocks/macro (55%, too unsure)",
@@ -2279,7 +2293,8 @@
         "2110233875582689514": "No call",
         "2110254737048358916": "No call: bullish on stocks/macro (65%, too unsure)",
         "2110291433441960131": "TRADE LONG QCOM, ARM \u00b7 VIEW bullish on stocks/macro",
-        "2110346169541148845": "No call"
+        "2110346169541148845": "No call",
+        "2110347830837620869": "TRADE LONG SOL"
       },
       "replies": [
         {
@@ -2796,10 +2811,15 @@
         "2110346169541148845": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110347830837620869": {
+          "alerted": [
+            "trade:SOL:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109672824009117846": true,
         "2109675370442309715": true,
         "2109676797076144526": false,
         "2109677322903404726": false,
@@ -2833,7 +2853,8 @@
         "2110233875582689514": true,
         "2110254737048358916": true,
         "2110291433441960131": true,
-        "2110346169541148845": true
+        "2110346169541148845": true,
+        "2110347830837620869": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4257,5 +4278,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T12:26:22+00:00"
+  "updated_at": "2026-10-14T12:32:21+00:00"
 }
