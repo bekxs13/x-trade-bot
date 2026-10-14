@@ -1596,7 +1596,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2110403253859172431",
+      "last_id": "2110403608009466014",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1771,12 +1771,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T23:18:41.000Z",
-          "id": "2109785858287239553",
-          "reply_to_id": "2109782132197589456",
-          "text": "@anaturalcat Looks bad mags look good \n\n#investing"
-        },
-        {
           "created_at": "2026-10-13T00:19:24.000Z",
           "id": "2109801138551984243",
           "reply_to_id": "2109793410605519274",
@@ -1859,6 +1853,12 @@
           "id": "2110137912285413465",
           "reply_to_id": "2110133323540709739",
           "text": "@chumbawamba22 @m_omahato Hey wait a second\u2026"
+        },
+        {
+          "created_at": "2026-10-14T16:13:24.000Z",
+          "id": "2110403608009466014",
+          "reply_to_id": "2110367934438687150",
+          "text": "@chumbawamba22 True, be well!"
         }
       ],
       "threads": {
@@ -1970,7 +1970,6 @@
         "2109775773188194396": true,
         "2109776806710853911": true,
         "2109778560567402878": true,
-        "2109785858287239553": true,
         "2109795750964322418": true,
         "2109798740760633507": true,
         "2109801138551984243": true,
@@ -1997,7 +1996,8 @@
         "2110131277429117053": true,
         "2110132707279901044": true,
         "2110137912285413465": false,
-        "2110403253859172431": false
+        "2110403253859172431": false,
+        "2110403608009466014": false
       },
       "user_id": "953032269433745408"
     },
@@ -4005,14 +4005,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110391755179004395",
+      "last_id": "2110403399208562717",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-13T04:20:05.000Z",
-          "id": "2109861707854352759",
-          "text": "I'm short right now. That could change at any moment and then my opinions will completely reverse. I will not update you when this happens."
-        },
         {
           "created_at": "2026-10-13T13:01:46.000Z",
           "id": "2109992995642544144",
@@ -4122,10 +4117,15 @@
             "https://pbs.twimg.com/media/HUmeGvqXoAAnpKs.jpg"
           ],
           "text": "Hm https://t.co/9TkwbJmM1K"
+        },
+        {
+          "created_at": "2026-10-14T16:12:34.000Z",
+          "id": "2110403399208562717",
+          "quoted_text": "*OPENAI COMPUTING CHIEF TO DEPART: WSJ",
+          "text": "Bullish https://t.co/k8GsdJ9zCX"
         }
       ],
       "reads": {
-        "2109861707854352759": "No call: maybe short  (60%, too unsure); bearish on stocks/macro (same view as before)",
         "2109992995642544144": "No call",
         "2110046712131936390": "No call",
         "2110080396587065760": "No call",
@@ -4144,7 +4144,8 @@
         "2110387994574360997": "No call",
         "2110388488344641752": "VIEW bearish on btc",
         "2110389680533393762": "No call",
-        "2110391755179004395": "No call"
+        "2110391755179004395": "No call",
+        "2110403399208562717": "No call"
       },
       "replies": [
         {
@@ -4374,6 +4375,10 @@
         "2110391755179004395": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110403399208562717": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4386,7 +4391,6 @@
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
-        "2109861707854352759": true,
         "2109992995642544144": false,
         "2110046712131936390": false,
         "2110080396587065760": true,
@@ -4405,7 +4409,8 @@
         "2110387994574360997": false,
         "2110388488344641752": true,
         "2110389680533393762": true,
-        "2110391755179004395": false
+        "2110391755179004395": false,
+        "2110403399208562717": true
       },
       "user_id": "809191427645181952"
     }
@@ -4421,5 +4426,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T16:12:21+00:00"
+  "updated_at": "2026-10-14T16:14:27+00:00"
 }
