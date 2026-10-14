@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110482709827219965",
+      "last_id": "2110482820556861542",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -67,12 +67,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T01:36:32.000Z",
-          "id": "2109820551837659181",
-          "reply_to_id": "2109820418098168231",
-          "text": "@SlabDotETH @Evan_ss6 Was mostly out by Friday hit a lil scrap today back to nothing. Have cheeky gold weekly puts for space mining that are working for diff reason I\u2019ll probly bail lol"
-        },
         {
           "created_at": "2026-10-13T01:46:15.000Z",
           "id": "2109822997737709736",
@@ -193,6 +187,11 @@
           "id": "2110476939488322037",
           "quoted_text": "Leonardo DiCaprio enjoys a beach outing with BFF Tobey Maguire in Hawaii https://t.co/4DgVCD9uM6",
           "text": "Lookmaxing guys in shambles https://t.co/SgTNxyeQkC"
+        },
+        {
+          "created_at": "2026-10-14T21:28:09.000Z",
+          "id": "2110482820556861542",
+          "text": "Anthropic\u2019s core ethic is that robots have the same rights as humans which in my view is against human rights"
         }
       ],
       "reads": {
@@ -212,7 +211,8 @@
         "2110398080029966763": "TRADE LONG QQQ",
         "2110422699663376604": "No call",
         "2110457497903620432": "No call",
-        "2110476939488322037": "No call"
+        "2110476939488322037": "No call",
+        "2110482820556861542": "No call"
       },
       "replies": [
         {
@@ -560,10 +560,13 @@
         "2110476939488322037": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110482820556861542": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109820551837659181": true,
         "2109822997737709736": false,
         "2109825441041178656": false,
         "2109826673164357710": false,
@@ -597,7 +600,8 @@
         "2110422699663376604": true,
         "2110457497903620432": true,
         "2110476939488322037": false,
-        "2110482709827219965": false
+        "2110482709827219965": false,
+        "2110482820556861542": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4515,5 +4519,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T21:28:24+00:00"
+  "updated_at": "2026-10-14T21:30:27+00:00"
 }
