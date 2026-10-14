@@ -1982,7 +1982,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110233875582689514",
+      "last_id": "2110254737048358916",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -2079,12 +2079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T14:20:54.000Z",
-          "id": "2109650519979598207",
-          "reply_to_id": "2109650279549558935",
-          "text": "@UnpumpedGems @0xFent_ but with that being said its best to not trade bcs someone else is trading something"
-        },
         {
           "created_at": "2026-10-12T15:13:05.000Z",
           "id": "2109663652630647111",
@@ -2206,6 +2200,12 @@
           "id": "2110233875582689514",
           "quoted_text": "*OPENAI EYES ACQUISITION OF CRYPTO SECURITY COMPANY TRAIL OF BITS: THE INFORMATION",
           "text": "watch https://t.co/Y74733LevV"
+        },
+        {
+          "created_at": "2026-10-14T06:21:50.000Z",
+          "id": "2110254737048358916",
+          "quoted_text": "cpi frontrun crash due to recent fed moves causing ppl to derisk far more than recent 8 prints\n\ninto decent print",
+          "text": "should be a good cpi print https://t.co/YQz6t3uNPo"
         }
       ],
       "reads": {
@@ -2220,7 +2220,8 @@
         "2109935458566512869": "No call: bullish on STRK (same view as before)",
         "2109943214233063890": "No call",
         "2109957018547368347": "No call",
-        "2110233875582689514": "No call"
+        "2110233875582689514": "No call",
+        "2110254737048358916": "No call: bullish on stocks/macro (65%, too unsure)"
       },
       "replies": [
         {
@@ -2722,10 +2723,13 @@
         "2110233875582689514": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110254737048358916": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109650519979598207": true,
         "2109663652630647111": true,
         "2109669028604309522": false,
         "2109672824009117846": true,
@@ -2759,7 +2763,8 @@
         "2110069960466911578": true,
         "2110107672611803295": false,
         "2110163970405655005": true,
-        "2110233875582689514": true
+        "2110233875582689514": true,
+        "2110254737048358916": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4179,5 +4184,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-14T06:14:21+00:00"
+  "updated_at": "2026-10-14T06:22:28+00:00"
 }
