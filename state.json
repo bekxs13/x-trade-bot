@@ -3931,14 +3931,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110367222241878277",
+      "last_id": "2110367788061876276",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-09T15:03:19.000Z",
-          "id": "2108574034916999548",
-          "text": "Increasingly getting more and more bearish equities but the time to short is not now, but coming up soon.\n\nLet's see that Anthropic S1"
-        },
         {
           "created_at": "2026-10-12T15:16:25.000Z",
           "id": "2109664493479637119",
@@ -4044,10 +4039,14 @@
           "created_at": "2026-10-14T13:48:49.000Z",
           "id": "2110367222241878277",
           "text": "https://t.co/Lgn3n2JVTM"
+        },
+        {
+          "created_at": "2026-10-14T13:51:04.000Z",
+          "id": "2110367788061876276",
+          "text": "Bear thesis: AI revenues are not increasing fast enough to fulfill CAPEX obligations and growth is slowing ++ opensource margin compression\n\nBull thesis: AI labs will eventually be able to stop pretraining, demand for intelligence is infinite and margins are very high"
         }
       ],
       "reads": {
-        "2108574034916999548": "VIEW bearish on stocks/macro",
         "2109664493479637119": "No call",
         "2109665744988643349": "No call: bearish on stocks/macro (60%, too unsure)",
         "2109704848866459700": "No call",
@@ -4066,7 +4065,8 @@
         "2110364014827983245": "No call",
         "2110364504332575207": "No call: bearish on stocks/macro (same view as before)",
         "2110367079408738509": "No call: bearish on stocks/macro (same view as before)",
-        "2110367222241878277": "No call"
+        "2110367222241878277": "No call",
+        "2110367788061876276": "No call"
       },
       "replies": [
         {
@@ -4262,6 +4262,10 @@
         "2110367222241878277": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110367788061876276": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4271,7 +4275,6 @@
         "2106084747008967039": true,
         "2107894568507085235": false,
         "2107906207881232630": false,
-        "2108574034916999548": true,
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109664493479637119": false,
@@ -4293,7 +4296,8 @@
         "2110364014827983245": true,
         "2110364504332575207": true,
         "2110367079408738509": true,
-        "2110367222241878277": false
+        "2110367222241878277": false,
+        "2110367788061876276": true
       },
       "user_id": "809191427645181952"
     }
@@ -4309,5 +4313,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T13:50:34+00:00"
+  "updated_at": "2026-10-14T13:52:24+00:00"
 }
