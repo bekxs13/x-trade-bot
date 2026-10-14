@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110396115543810439",
+      "last_id": "2110398080029966763",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -48,14 +48,25 @@
           "since": "2026-10-14T15:43:37.000Z",
           "structure": "unknown",
           "url": "https://x.com/based16z/status/2110396115543810439"
+        },
+        "QQQ": {
+          "asset": "QQQ",
+          "chain": "",
+          "confidence": 0.85,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "1.70",
+          "horizon": "Oct 30 expiry",
+          "market": "stocks",
+          "open_price": null,
+          "post_id": "2110398080029966763",
+          "reason": "Screenshot of DMs where the author (blue bubbles) says he bought QQQ Oct30 calls at 1.70, 1% of book, after being convinced to buy QQQ 800 calls.",
+          "since": "2026-10-14T15:51:26.000Z",
+          "structure": "long calls",
+          "url": "https://x.com/based16z/status/2110398080029966763"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T00:18:27.000Z",
-          "id": "2109800901447934366",
-          "text": "\u201cI mean, most people don\u2019t actually like reading that much, right?\u201d - Mark Zuckerberg"
-        },
         {
           "created_at": "2026-10-13T00:28:30.000Z",
           "id": "2109803429778632778",
@@ -176,10 +187,17 @@
           ],
           "reply_to_id": "2109949149353316861",
           "text": "Lmao random lick https://t.co/4hICm8Q2U2"
+        },
+        {
+          "created_at": "2026-10-14T15:51:26.000Z",
+          "id": "2110398080029966763",
+          "images": [
+            "https://pbs.twimg.com/media/HUmj3ofaYAAI0GU.jpg"
+          ],
+          "text": "https://t.co/gudjc7egiY"
         }
       ],
       "reads": {
-        "2109800901447934366": "No call",
         "2109803429778632778": "No call",
         "2109822997737709736": "No call",
         "2109825441041178656": "No call: bearish on stocks/macro (60%, too unsure)",
@@ -193,7 +211,8 @@
         "2110084364017230177": "No call",
         "2110288062261711186": "No call: bullish on stocks/macro (55%, too unsure)",
         "2110289205565989218": "No call",
-        "2110396115543810439": "TRADE LONG BSP"
+        "2110396115543810439": "TRADE LONG BSP",
+        "2110398080029966763": "TRADE LONG QQQ"
       },
       "replies": [
         {
@@ -526,11 +545,16 @@
         "2110289205565989218": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110398080029966763": {
+          "alerted": [
+            "trade:QQQ:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
         "2109798338925359600": false,
-        "2109800901447934366": false,
         "2109802530490450245": false,
         "2109803429778632778": false,
         "2109813088073756888": true,
@@ -563,7 +587,8 @@
         "2110097434668073139": true,
         "2110288062261711186": true,
         "2110289205565989218": false,
-        "2110396115543810439": true
+        "2110396115543810439": true,
+        "2110398080029966763": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4385,5 +4410,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T15:44:32+00:00"
+  "updated_at": "2026-10-14T15:52:25+00:00"
 }
