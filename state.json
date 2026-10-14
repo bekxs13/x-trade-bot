@@ -2936,7 +2936,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110417853262225506",
+      "last_id": "2110419755639149023",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3096,12 +3096,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T22:17:27.000Z",
-          "id": "2110132837018182014",
-          "reply_to_id": "2110129935369314571",
-          "text": "@ledgerstatus chad"
-        },
-        {
           "created_at": "2026-10-13T22:56:42.000Z",
           "id": "2110142715900182843",
           "reply_to_id": "2110135866312241500",
@@ -3184,6 +3178,12 @@
           "id": "2110417853262225506",
           "reply_to_id": "2110416552063357141",
           "text": "@0xjay my floor is high"
+        },
+        {
+          "created_at": "2026-10-14T17:17:34.000Z",
+          "id": "2110419755639149023",
+          "reply_to_id": "2110413452745510983",
+          "text": "@AlgodTrading context pls"
         }
       ],
       "threads": {
@@ -3322,7 +3322,6 @@
         "2110098064773890275": false,
         "2110099636820054153": false,
         "2110100532094234942": false,
-        "2110132837018182014": false,
         "2110142715900182843": false,
         "2110144405151555773": true,
         "2110146233230676232": false,
@@ -3342,7 +3341,8 @@
         "2110405623711953046": false,
         "2110406517883023569": false,
         "2110408368724591085": false,
-        "2110417853262225506": false
+        "2110417853262225506": false,
+        "2110419755639149023": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4053,15 +4053,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110415518566105110",
+      "last_id": "2110419528148517101",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-13T21:08:54.000Z",
-          "id": "2110115587825471879",
-          "quoted_text": "Interview with @SoskaKyle to discuss the generational HYPE trade, what it's like trading with @ThinkingUSD, and how to make it this cycle.\n\n0:00 Bull or Bear Market?\n2:49 Kyle\u2019s Journey into Crypto\n8:44 \u201cWould You Be Right or Make Money?\u201d\n15:52 Teaming up with Flood\n21:01 The Famous $HYPE Trade\n36:02 Bitcoin and the Quantum Problem\n43:20 $ZEC vs $BTC\n46:30 Selling All Their $ETH\n52:53 Crypto\u2019s Real PMF\n1:00:05 Are Great Traders Born or Made?\n1:11:11 Memorable Trade (A Painful One)\n1:21:39 Cycle ",
-          "text": "Kind of annoying how much more eloquent @SoskaKyle is than I am.\n\nIncredible interview and unbelievably thankful to work alongside my partner in crime for 7+ years! https://t.co/iamqpYsKOa"
-        },
         {
           "created_at": "2026-10-14T02:09:17.000Z",
           "id": "2110191182311518685",
@@ -4168,10 +4162,14 @@
           "created_at": "2026-10-14T17:00:43.000Z",
           "id": "2110415518566105110",
           "text": "I don't remember it going like that"
+        },
+        {
+          "created_at": "2026-10-14T17:16:39.000Z",
+          "id": "2110419528148517101",
+          "text": "https://t.co/Z5fDOaIznI"
         }
       ],
       "reads": {
-        "2110115587825471879": "No call",
         "2110191182311518685": "No call",
         "2110363201078788487": "No call",
         "2110364014827983245": "No call",
@@ -4190,7 +4188,8 @@
         "2110403399208562717": "No call",
         "2110403945885520049": "No call",
         "2110404181945405916": "No call",
-        "2110415518566105110": "No call"
+        "2110415518566105110": "No call",
+        "2110419528148517101": "No call"
       },
       "replies": [
         {
@@ -4442,6 +4441,10 @@
         "2110415518566105110": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110419528148517101": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4454,7 +4457,6 @@
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
-        "2110115587825471879": true,
         "2110191182311518685": true,
         "2110363201078788487": false,
         "2110364014827983245": true,
@@ -4474,7 +4476,8 @@
         "2110403945885520049": true,
         "2110404181945405916": true,
         "2110411948982460824": true,
-        "2110415518566105110": false
+        "2110415518566105110": false,
+        "2110419528148517101": false
       },
       "user_id": "809191427645181952"
     }
@@ -4490,5 +4493,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T17:16:21+00:00"
+  "updated_at": "2026-10-14T17:18:29+00:00"
 }
