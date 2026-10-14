@@ -2877,7 +2877,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110349236495851934",
+      "last_id": "2110373655167537538",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -2897,12 +2897,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T18:35:49.000Z",
-          "id": "2109714673545228532",
-          "reply_to_id": "2109677343610425650",
-          "text": "@mert and @zkDragon locked\n\nWorking on a couple others"
-        },
         {
           "created_at": "2026-10-12T19:31:28.000Z",
           "id": "2109728676539769027",
@@ -3016,10 +3010,15 @@
           "created_at": "2026-10-14T12:37:21.000Z",
           "id": "2110349236495851934",
           "text": "MARKET OPEN: Xbox EMBRACES AI Gaming, Crypto is in SHAMBLES, OpenAI &amp; Anthropic are FALLING APART https://t.co/9Ws0hWiamH"
+        },
+        {
+          "created_at": "2026-10-14T14:14:22.000Z",
+          "id": "2110373655167537538",
+          "quoted_text": "TOMORROW. Live on stream with @ilblackdragon, @mert, @zkDragon and @tulipking AT 1015am est \n\nWhat does the future look like for our coins https://t.co/t9AiJfdvpD",
+          "text": "going live right now will be a fun one https://t.co/4I8SLOzbwL"
         }
       ],
       "reads": {
-        "2109714673545228532": "No call",
         "2109728676539769027": "No call",
         "2109728935252537749": "No call",
         "2109765724897997154": "No call",
@@ -3033,7 +3032,8 @@
         "2110099636820054153": "No call",
         "2110144405151555773": "No call",
         "2110344475679785118": "No call",
-        "2110349236495851934": "No call"
+        "2110349236495851934": "No call",
+        "2110373655167537538": "No call"
       },
       "replies": [
         {
@@ -3234,10 +3234,13 @@
         "2110349236495851934": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110373655167537538": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109714673545228532": false,
         "2109728676539769027": true,
         "2109728935252537749": false,
         "2109765724897997154": true,
@@ -3271,7 +3274,8 @@
         "2110339810447474817": false,
         "2110344475679785118": true,
         "2110348855782883369": false,
-        "2110349236495851934": true
+        "2110349236495851934": true,
+        "2110373655167537538": true
       },
       "user_id": "1426732252768182281"
     },
@@ -4318,5 +4322,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T14:00:34+00:00"
+  "updated_at": "2026-10-14T14:16:25+00:00"
 }
