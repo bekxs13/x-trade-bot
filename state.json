@@ -1976,7 +1976,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110163970405655005",
+      "last_id": "2110233875582689514",
       "positions": {
         "MU": {
           "asset": "MU",
@@ -2073,11 +2073,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T12:34:31.000Z",
-          "id": "2109623750056645100",
-          "text": "reminder to turn down leverage"
-        },
         {
           "created_at": "2026-10-12T14:20:54.000Z",
           "id": "2109650519979598207",
@@ -2199,10 +2194,15 @@
           "id": "2109957018547368347",
           "quoted_text": "The Bunker\n\nEli Ben-Sasson | @EliBenSasson said Bitcoin isn't safe from quantum, and he's building Starknet as the place Bitcoin, Ethereum and Zcash holders can run to if their keys break. A chapter from The Cat in the Maze, our Wisemen article on @Starknet and its cat.\n\nJustin Drake | @drakefjustin posted that the industry needs to get into \"bunker mode.\" His advice was simple. Park your coins at an address that has never spent, and when you do spend, push the change to a fresh one, because a s",
           "text": "Read this\n\n$STRK https://t.co/Oq4niovyn7"
+        },
+        {
+          "created_at": "2026-10-14T04:58:56.000Z",
+          "id": "2110233875582689514",
+          "quoted_text": "*OPENAI EYES ACQUISITION OF CRYPTO SECURITY COMPANY TRAIL OF BITS: THE INFORMATION",
+          "text": "watch https://t.co/Y74733LevV"
         }
       ],
       "reads": {
-        "2109623750056645100": "No call",
         "2109663652630647111": "TRADE TRIM crypto leveraged positions \u00b7 VIEW neutral on crypto market",
         "2109669028604309522": "TRADE TRIM W \u00b7 VIEW neutral on alts",
         "2109672824009117846": "VIEW bearish on crypto market",
@@ -2213,7 +2213,8 @@
         "2109863340189286485": "No call",
         "2109935458566512869": "No call: bullish on STRK (same view as before)",
         "2109943214233063890": "No call",
-        "2109957018547368347": "No call"
+        "2109957018547368347": "No call",
+        "2110233875582689514": "No call"
       },
       "replies": [
         {
@@ -2711,10 +2712,13 @@
         "2109957018547368347": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110233875582689514": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109623750056645100": true,
         "2109650519979598207": true,
         "2109663652630647111": true,
         "2109669028604309522": false,
@@ -2748,7 +2752,8 @@
         "2110014727120154898": false,
         "2110069960466911578": true,
         "2110107672611803295": false,
-        "2110163970405655005": true
+        "2110163970405655005": true,
+        "2110233875582689514": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4168,5 +4173,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-14T04:12:16+00:00"
+  "updated_at": "2026-10-14T05:00:27+00:00"
 }
