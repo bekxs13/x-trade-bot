@@ -2005,7 +2005,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110356390967689620",
+      "last_id": "2110382224730386493",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2298,12 +2298,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T09:31:30.000Z",
-          "id": "2109940078600695928",
-          "reply_to_id": "2109938730010108183",
-          "text": "@tosh1kz thank you but i genuinely think this continues higher. w was a blunder (which i re-assessed to re-classify near the top at .28 before it eventually chopped to crash down to .19 over the next 6 hours) but this isnt."
-        },
-        {
           "created_at": "2026-10-13T09:34:37.000Z",
           "id": "2109940865888325842",
           "reply_to_id": "2109940236637868529",
@@ -2386,6 +2380,12 @@
           "id": "2110356390967689620",
           "reply_to_id": "2110354407305212381",
           "text": "@opieaccount4 i meant nvm for solana \ud83d\ude02\n\nstrk i have limit buys in case"
+        },
+        {
+          "created_at": "2026-10-14T14:48:26.000Z",
+          "id": "2110382224730386493",
+          "reply_to_id": "2110381426583752945",
+          "text": "@obsrvgmi https://t.co/XtTd2K0NGh"
         }
       ],
       "threads": {
@@ -2835,7 +2835,6 @@
         "2109893851347362122": false,
         "2109897204165132397": true,
         "2109935458566512869": true,
-        "2109940078600695928": true,
         "2109940685285556306": true,
         "2109940865888325842": false,
         "2109940958251114761": false,
@@ -2858,7 +2857,8 @@
         "2110346169541148845": true,
         "2110347830837620869": true,
         "2110348166394704207": false,
-        "2110356390967689620": true
+        "2110356390967689620": true,
+        "2110382224730386493": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4326,5 +4326,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T14:48:22+00:00"
+  "updated_at": "2026-10-14T14:50:22+00:00"
 }
