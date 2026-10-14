@@ -1608,7 +1608,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2110446822707929422",
+      "last_id": "2110447305740742802",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1644,11 +1644,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T22:42:43.000Z",
-          "id": "2109776806710853911",
-          "text": "They will never breach the circumcision level \n\n#investing"
-        },
         {
           "created_at": "2026-10-12T22:49:41.000Z",
           "id": "2109778560567402878",
@@ -1758,10 +1753,15 @@
           "created_at": "2026-10-14T19:05:07.000Z",
           "id": "2110446822707929422",
           "text": "Lotta people complain about current state of ct (valid) but all you can really do is post your authentic thoughts in a clear manner and interact with those you respect/like while completely ignoring those you do not \n\nI been trying to interact with people I like more rather than just pure post/go\n\nProbably a down only space but while you\u2019re here may as well try to make it halfway decent"
+        },
+        {
+          "created_at": "2026-10-14T19:07:02.000Z",
+          "id": "2110447305740742802",
+          "reply_to_id": "2110446822707929422",
+          "text": "The changes to app itself have done a pretty solid job of disincentivizing much interaction tho, feels much more like reading headlines from accts as opposed to discussion platform \n\nChanges to how you post long running ideas killed a lot of it for me personally, also ragebait posts all over"
         }
       ],
       "reads": {
-        "2109776806710853911": "No call",
         "2109778560567402878": "TRADE LONG GOOG",
         "2109795750964322418": "No call",
         "2109798740760633507": "No call",
@@ -1777,7 +1777,8 @@
         "2110404903390892262": "VIEW bearish on stocks/macro",
         "2110406447486120042": "No call",
         "2110406716168999079": "Read together with the post it replies to",
-        "2110446822707929422": "No call"
+        "2110446822707929422": "No call",
+        "2110447305740742802": "No call"
       },
       "replies": [
         {
@@ -1978,11 +1979,10 @@
         },
         "2110446822707929422": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2109776806710853911": true,
         "2109778560567402878": true,
         "2109795750964322418": true,
         "2109798740760633507": true,
@@ -2016,7 +2016,8 @@
         "2110407841232388107": true,
         "2110408203188183236": true,
         "2110413267474719200": true,
-        "2110446822707929422": false
+        "2110446822707929422": false,
+        "2110447305740742802": false
       },
       "user_id": "953032269433745408"
     },
@@ -4508,5 +4509,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T19:06:30+00:00"
+  "updated_at": "2026-10-14T19:08:23+00:00"
 }
