@@ -1972,13 +1972,13 @@
           "updated_at": "2026-10-12T15:49:31.000Z"
         },
         "stocks/macro": {
-          "market": "macro",
-          "post_id": "2108239413411242002",
-          "reason": "\"this is going to destroy forward looking sentiment across the markets\" on the OpenAI revenue miss is a broad bearish market call, matching the recorded bearish stocks/macro view.",
+          "market": "stocks",
+          "post_id": "2110291433441960131",
+          "reason": "The quoted post calls the selloff a CPI front-run derisk \"into decent print,\" and an earlier post said \"should be a good cpi print.\" That is a bullish turn from his recorded bearish stocks/macro view.",
           "scope": "stocks/macro",
-          "since": "2026-10-08",
-          "stance": "bearish",
-          "updated_at": "2026-10-08T16:53:40.000Z"
+          "since": "2026-10-14",
+          "stance": "bullish",
+          "updated_at": "2026-10-14T08:47:39.000Z"
         },
         "strk": {
           "market": "crypto",
@@ -1992,8 +1992,24 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110254737048358916",
+      "last_id": "2110291433441960131",
       "positions": {
+        "ARM": {
+          "asset": "ARM",
+          "chain": "",
+          "confidence": 0.9,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "into CPI print",
+          "market": "stocks",
+          "open_price": null,
+          "post_id": "2110291433441960131",
+          "reason": "Says \"bought qcom, arm spot\" while quoting his own view that the CPI front-run crash heads into a decent print.",
+          "since": "2026-10-14T08:47:39.000Z",
+          "structure": "spot",
+          "url": "https://x.com/MoneyPrinter0x/status/2110291433441960131"
+        },
         "MU": {
           "asset": "MU",
           "chain": "",
@@ -2023,6 +2039,22 @@
           "since": "2026-10-08T17:28:26.000Z",
           "structure": "unknown",
           "url": "https://x.com/MoneyPrinter0x/status/2108248166764314906"
+        },
+        "QCOM": {
+          "asset": "QCOM",
+          "chain": "",
+          "confidence": 0.9,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "into CPI print",
+          "market": "stocks",
+          "open_price": null,
+          "post_id": "2110291433441960131",
+          "reason": "Says \"bought qcom, arm spot\" while quoting his own view that the CPI front-run crash heads into a decent print.",
+          "since": "2026-10-14T08:47:39.000Z",
+          "structure": "spot",
+          "url": "https://x.com/MoneyPrinter0x/status/2110291433441960131"
         },
         "SOXL": {
           "asset": "SOXL",
@@ -2089,11 +2121,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T15:13:05.000Z",
-          "id": "2109663652630647111",
-          "text": "moving all crypto lev positions to spot for now, soxl crashing -10% , mu crashing -4.5% today seems like it might mute risk sentiment for a bit"
-        },
         {
           "created_at": "2026-10-12T15:34:26.000Z",
           "id": "2109669028604309522",
@@ -2216,10 +2243,18 @@
           "id": "2110254737048358916",
           "quoted_text": "cpi frontrun crash due to recent fed moves causing ppl to derisk far more than recent 8 prints\n\ninto decent print",
           "text": "should be a good cpi print https://t.co/YQz6t3uNPo"
+        },
+        {
+          "created_at": "2026-10-14T08:47:39.000Z",
+          "id": "2110291433441960131",
+          "images": [
+            "https://pbs.twimg.com/media/HUlC3F_agAAfNPY.jpg"
+          ],
+          "quoted_text": "cpi frontrun crash due to recent fed moves causing ppl to derisk far more than recent 8 prints\n\ninto decent print",
+          "text": "bought qcom, arm spot https://t.co/nPXAhorI6D https://t.co/YQz6t3uNPo"
         }
       ],
       "reads": {
-        "2109663652630647111": "TRADE TRIM crypto leveraged positions \u00b7 VIEW neutral on crypto market",
         "2109669028604309522": "TRADE TRIM W \u00b7 VIEW neutral on alts",
         "2109672824009117846": "VIEW bearish on crypto market",
         "2109676797076144526": "No call",
@@ -2231,7 +2266,8 @@
         "2109943214233063890": "No call",
         "2109957018547368347": "No call",
         "2110233875582689514": "No call",
-        "2110254737048358916": "No call: bullish on stocks/macro (65%, too unsure)"
+        "2110254737048358916": "No call: bullish on stocks/macro (65%, too unsure)",
+        "2110291433441960131": "TRADE LONG QCOM, ARM \u00b7 VIEW bullish on stocks/macro"
       },
       "replies": [
         {
@@ -2737,10 +2773,16 @@
         "2110254737048358916": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110291433441960131": {
+          "alerted": [
+            "trade:QCOM, ARM:long",
+            "bias:stocks/macro:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109663652630647111": true,
         "2109669028604309522": false,
         "2109672824009117846": true,
         "2109675370442309715": true,
@@ -2774,7 +2816,8 @@
         "2110107672611803295": false,
         "2110163970405655005": true,
         "2110233875582689514": true,
-        "2110254737048358916": true
+        "2110254737048358916": true,
+        "2110291433441960131": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4194,5 +4237,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-13",
-  "updated_at": "2026-10-14T08:40:24+00:00"
+  "updated_at": "2026-10-14T08:48:27+00:00"
 }
