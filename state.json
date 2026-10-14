@@ -3373,7 +3373,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2110409449953481203",
+      "last_id": "2110429847675969871",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -3550,12 +3550,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-04T00:04:33.000Z",
-          "id": "2106535913501372702",
-          "reply_to_id": "2106421823764099416",
-          "text": "@tulipking @zenrastaa @lex_node @kelxyz_ Gud take, agreed"
-        },
-        {
           "created_at": "2026-10-04T03:36:24.000Z",
           "id": "2106589224078348299",
           "reply_to_id": "2106259317842444605",
@@ -3638,6 +3632,12 @@
           "id": "2110128395728064978",
           "reply_to_id": "2110122277044117704",
           "text": "@frankdegods @SoskaKyle @ThinkingUSD thanks man"
+        },
+        {
+          "created_at": "2026-10-14T17:57:40.000Z",
+          "id": "2110429847675969871",
+          "reply_to_id": "2110429740612075788",
+          "text": "@ThinkingUSD @SoskaKyle how many followers did you gain after our pod @SoskaKyle"
         }
       ],
       "threads": {
@@ -3722,7 +3722,6 @@
         "2101087265405685923": true,
         "2102939239390343286": true,
         "2105346309108719825": false,
-        "2106535913501372702": false,
         "2106589224078348299": false,
         "2106637291267764557": false,
         "2106721484077211662": false,
@@ -3750,7 +3749,8 @@
         "2110071384026038470": true,
         "2110128395728064978": false,
         "2110407005235990565": true,
-        "2110409449953481203": true
+        "2110409449953481203": true,
+        "2110429847675969871": false
       },
       "user_id": "1064421325186359296"
     },
@@ -4056,14 +4056,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110424262620103125",
+      "last_id": "2110429740612075788",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-14T13:32:50.000Z",
-          "id": "2110363201078788487",
-          "text": ";)"
-        },
         {
           "created_at": "2026-10-14T13:36:04.000Z",
           "id": "2110364014827983245",
@@ -4170,10 +4165,14 @@
           "id": "2110424262620103125",
           "quoted_text": "*ANDURIL TO SELL INSIDER SHARES AT ROUGHLY $90 BILLION VALUATION",
           "text": "Things you see at the bottom /s https://t.co/lxOPi6zirH"
+        },
+        {
+          "created_at": "2026-10-14T17:57:14.000Z",
+          "id": "2110429740612075788",
+          "text": "Sunday Spaces returns this weekend at 7pm EST.\n\nWith my (now famous) cohost @SoskaKyle."
         }
       ],
       "reads": {
-        "2110363201078788487": "No call",
         "2110364014827983245": "No call",
         "2110364504332575207": "No call: bearish on stocks/macro (same view as before)",
         "2110367079408738509": "No call: bearish on stocks/macro (same view as before)",
@@ -4192,7 +4191,8 @@
         "2110404181945405916": "No call",
         "2110415518566105110": "No call",
         "2110419528148517101": "No call",
-        "2110424262620103125": "No call: bearish on stocks/macro (same view as before)"
+        "2110424262620103125": "No call: bearish on stocks/macro (same view as before)",
+        "2110429740612075788": "No call"
       },
       "replies": [
         {
@@ -4452,6 +4452,10 @@
         "2110424262620103125": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110429740612075788": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4464,7 +4468,6 @@
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
-        "2110363201078788487": false,
         "2110364014827983245": true,
         "2110364504332575207": true,
         "2110367079408738509": true,
@@ -4484,7 +4487,8 @@
         "2110411948982460824": true,
         "2110415518566105110": false,
         "2110419528148517101": false,
-        "2110424262620103125": true
+        "2110424262620103125": true,
+        "2110429740612075788": false
       },
       "user_id": "809191427645181952"
     }
@@ -4500,5 +4504,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T17:36:23+00:00"
+  "updated_at": "2026-10-14T17:58:22+00:00"
 }
