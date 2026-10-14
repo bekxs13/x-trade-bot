@@ -3931,14 +3931,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110367788061876276",
+      "last_id": "2110368324102045867",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-12T15:16:25.000Z",
-          "id": "2109664493479637119",
-          "text": "https://t.co/VY8Wlx7dMA"
-        },
         {
           "created_at": "2026-10-12T15:21:23.000Z",
           "id": "2109665744988643349",
@@ -4044,10 +4039,14 @@
           "created_at": "2026-10-14T13:51:04.000Z",
           "id": "2110367788061876276",
           "text": "Bear thesis: AI revenues are not increasing fast enough to fulfill CAPEX obligations and growth is slowing ++ opensource margin compression\n\nBull thesis: AI labs will eventually be able to stop pretraining, demand for intelligence is infinite and margins are very high"
+        },
+        {
+          "created_at": "2026-10-14T13:53:11.000Z",
+          "id": "2110368324102045867",
+          "text": "Equities -10% and Bitcoin is trading at: ?"
         }
       ],
       "reads": {
-        "2109664493479637119": "No call",
         "2109665744988643349": "No call: bearish on stocks/macro (60%, too unsure)",
         "2109704848866459700": "No call",
         "2109722179432812640": "No call",
@@ -4066,7 +4065,8 @@
         "2110364504332575207": "No call: bearish on stocks/macro (same view as before)",
         "2110367079408738509": "No call: bearish on stocks/macro (same view as before)",
         "2110367222241878277": "No call",
-        "2110367788061876276": "No call"
+        "2110367788061876276": "No call",
+        "2110368324102045867": "No call: bearish on btc (65%, too unsure)"
       },
       "replies": [
         {
@@ -4266,6 +4266,10 @@
         "2110367788061876276": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110368324102045867": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4277,7 +4281,6 @@
         "2107906207881232630": false,
         "2108668472196841823": false,
         "2109662643053371875": false,
-        "2109664493479637119": false,
         "2109665744988643349": false,
         "2109698195953692702": false,
         "2109704848866459700": true,
@@ -4297,7 +4300,8 @@
         "2110364504332575207": true,
         "2110367079408738509": true,
         "2110367222241878277": false,
-        "2110367788061876276": true
+        "2110367788061876276": true,
+        "2110368324102045867": true
       },
       "user_id": "809191427645181952"
     }
@@ -4313,5 +4317,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T13:52:24+00:00"
+  "updated_at": "2026-10-14T13:54:31+00:00"
 }
