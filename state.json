@@ -3923,6 +3923,15 @@
           "stance": "bearish",
           "updated_at": "2026-10-12T19:12:36.000Z"
         },
+        "btc": {
+          "market": "crypto",
+          "post_id": "2110388488344641752",
+          "reason": "'Back to mid 70s ?' on a BTC perp daily chart at ~81.7k points to an expected drop. The same day he posted 'Equities -10% and Bitcoin is trading at: ?' and talked about holding cash when the market nukes, which backs the bearish read.",
+          "scope": "btc",
+          "since": "2026-10-14",
+          "stance": "bearish",
+          "updated_at": "2026-10-14T15:13:19.000Z"
+        },
         "stocks/macro": {
           "market": "macro",
           "post_id": "2110369624021930336",
@@ -3935,14 +3944,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110387994574360997",
+      "last_id": "2110388488344641752",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-13T04:07:44.000Z",
-          "id": "2109858600910983320",
-          "text": "The problem is all the spending is so recursive, the contracts and spending commitments so opaque, valuations so high that it\u2019s almost anyone\u2019s guess as to who\u2019s left holding the bag."
-        },
         {
           "created_at": "2026-10-13T04:08:33.000Z",
           "id": "2109858808428376287",
@@ -4045,10 +4049,17 @@
           "created_at": "2026-10-14T15:11:21.000Z",
           "id": "2110387994574360997",
           "text": "Girl I'm a fan in real life..."
+        },
+        {
+          "created_at": "2026-10-14T15:13:19.000Z",
+          "id": "2110388488344641752",
+          "images": [
+            "https://pbs.twimg.com/media/HUmbF5bXYAAgXFC.jpg"
+          ],
+          "text": "Back to mid 70s ? https://t.co/X9Kl4eTTaB"
         }
       ],
       "reads": {
-        "2109858600910983320": "No call: bearish on stocks/macro (same view as before)",
         "2109858808428376287": "No call: bearish on stocks/macro (same view as before)",
         "2109860304587030768": "No call: bearish on stocks/macro (same view as before)",
         "2109861707854352759": "No call: maybe short  (60%, too unsure); bearish on stocks/macro (same view as before)",
@@ -4067,7 +4078,8 @@
         "2110369624021930336": "No call: bearish on stocks/macro (same view as before)",
         "2110381830369354028": "No call",
         "2110386688325239130": "No call",
-        "2110387994574360997": "No call"
+        "2110387994574360997": "No call",
+        "2110388488344641752": "VIEW bearish on btc"
       },
       "replies": [
         {
@@ -4287,6 +4299,12 @@
         "2110387994574360997": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110388488344641752": {
+          "alerted": [
+            "bias:btc:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4299,7 +4317,6 @@
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
-        "2109858600910983320": true,
         "2109858808428376287": true,
         "2109860304587030768": true,
         "2109861707854352759": true,
@@ -4318,7 +4335,8 @@
         "2110369624021930336": true,
         "2110381830369354028": false,
         "2110386688325239130": false,
-        "2110387994574360997": false
+        "2110387994574360997": false,
+        "2110388488344641752": true
       },
       "user_id": "809191427645181952"
     }
@@ -4334,5 +4352,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T15:12:21+00:00"
+  "updated_at": "2026-10-14T15:14:28+00:00"
 }
