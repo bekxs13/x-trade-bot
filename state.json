@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110499057219383709",
+      "last_id": "2110508818698580349",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -216,12 +216,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T02:19:21.000Z",
-          "id": "2109831325293125788",
-          "reply_to_id": "2109830495664017748",
-          "text": "@DeepDishEnjoyer getting pretty bullish crypto yeah equities seems like a chop fest"
-        },
-        {
           "created_at": "2026-10-13T02:38:15.000Z",
           "id": "2109836080086389027",
           "reply_to_id": "2109835454660935758",
@@ -304,6 +298,12 @@
           "id": "2110482709827219965",
           "reply_to_id": "2110481271625548152",
           "text": "@ContrarianCurse They think of themselves as gods and they also think of humans and machines as equivalent"
+        },
+        {
+          "created_at": "2026-10-14T23:11:28.000Z",
+          "id": "2110508818698580349",
+          "reply_to_id": "2110508280598438131",
+          "text": "@ExPostGigaChad @tolstoybb Yeah hes chillasf although it\u2019s borderline impossible to defend anthropic so creates some contradictions"
         }
       ],
       "threads": {
@@ -576,7 +576,6 @@
       },
       "trading": {
         "2109826673164357710": false,
-        "2109831325293125788": true,
         "2109836080086389027": true,
         "2109851574004846860": true,
         "2109853746020958350": true,
@@ -609,7 +608,8 @@
         "2110482709827219965": false,
         "2110482820556861542": false,
         "2110483608737857969": false,
-        "2110499057219383709": true
+        "2110499057219383709": true,
+        "2110508818698580349": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4544,5 +4544,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-14T23:00:30+00:00"
+  "updated_at": "2026-10-14T23:12:16+00:00"
 }
