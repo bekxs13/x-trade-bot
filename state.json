@@ -2130,7 +2130,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110650867338863059",
+      "last_id": "2110651371519349178",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2419,12 +2419,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T10:41:19.000Z",
-          "id": "2109957648812851340",
-          "reply_to_id": "2109957248864960998",
-          "text": "@spacepixel This\n\nPeople called longing a perp dex retarded until hyperliquid went to 95$+"
-        },
-        {
           "created_at": "2026-10-13T10:42:33.000Z",
           "id": "2109957961514987590",
           "reply_to_id": "2109947683935014953",
@@ -2507,6 +2501,12 @@
           "id": "2110649537929109829",
           "reply_to_id": "2110648644538159225",
           "text": "@M_Ajmal7771 \ud83d\udc4d\ud83d\udc4d \n\noutperformed many many alts too in the three day consecutive mkt wide crash\n\nthe tourists are out"
+        },
+        {
+          "created_at": "2026-10-15T08:37:55.000Z",
+          "id": "2110651371519349178",
+          "reply_to_id": "2110651293505032545",
+          "text": "@bobic_matej \ud83e\udee1\ud83e\udee1\ud83e\udee1"
         }
       ],
       "threads": {
@@ -2974,7 +2974,6 @@
         "2109940685285556306": true,
         "2109943214233063890": true,
         "2109957018547368347": true,
-        "2109957648812851340": true,
         "2109957961514987590": true,
         "2109983863170855208": false,
         "2110014727120154898": false,
@@ -2999,7 +2998,8 @@
         "2110648086766952731": true,
         "2110649345624490292": true,
         "2110649537929109829": true,
-        "2110650867338863059": true
+        "2110650867338863059": true,
+        "2110651371519349178": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4629,5 +4629,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T08:36:23+00:00"
+  "updated_at": "2026-10-15T08:38:18+00:00"
 }
