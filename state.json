@@ -734,7 +734,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110797401149645146",
+      "last_id": "2110810603417944213",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -770,11 +770,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T07:37:18.000Z",
-          "id": "2109911341356273792",
-          "text": "pain trade is up"
-        },
         {
           "created_at": "2026-10-13T07:53:41.000Z",
           "id": "2109915465485332883",
@@ -893,10 +888,15 @@
           "id": "2110783883998544197",
           "quoted_text": "@blknoiz06 When Ansem shrugs the move is already done",
           "text": "80k key support level stop run + retest\n\n$1B in longs liquidated\n\ncpi + ppi extremely bad &amp; no bearish follow through, + bond yields *down*\n\nanthropic rev numbers have nothing to do w/ btc\n\npain trade is up, nobody holds any bitcoin https://t.co/xl09ohBCRY"
+        },
+        {
+          "created_at": "2026-10-15T19:10:39.000Z",
+          "id": "2110810603417944213",
+          "quoted_text": "Cobie explains how he finds the next big thing in Crypto\n\n\u201cI\u2019ve never known what the next thing is gonna be, if you told me it would be pictures of apes in 2020, I would\u2019ve said that doesn\u2019t sound right\u201d\n\n\u201cMy mental model is you isolate your risk and you try novel things\u2026 instead of trying to figure out why something won\u2019t work, you might as well give it a go\u201d\n\n\u201cIf you did this with Hyperliquid, you ended up a millionaire from the airdrop\u2026 same with FriendTech and buying ape pictures\u201d\n\n\u201cPeople\u2019s",
+          "text": "papertrade https://t.co/zQF5ewuLKU"
         }
       ],
       "reads": {
-        "2109911341356273792": "No call: bullish on btc (65%, too unsure)",
         "2109915465485332883": "No call: bullish on btc (same view as before)",
         "2109927211604275273": "No call: bullish on btc (same view as before)",
         "2109928752092500155": "VIEW bullish on crypto market",
@@ -914,7 +914,8 @@
         "2110765762457809110": "No call",
         "2110767113673781312": "No call: bullish on btc (same view as before)",
         "2110767955630018575": "No call",
-        "2110783883998544197": "No call: bullish on btc (same view as before)"
+        "2110783883998544197": "No call: bullish on btc (same view as before)",
+        "2110810603417944213": "No call"
       },
       "replies": [
         {
@@ -1336,10 +1337,13 @@
         "2110783883998544197": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110810603417944213": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109911341356273792": true,
         "2109915465485332883": true,
         "2109927211604275273": true,
         "2109928752092500155": true,
@@ -1373,7 +1377,8 @@
         "2110783883998544197": true,
         "2110786493103140876": false,
         "2110787082734211269": false,
-        "2110797401149645146": false
+        "2110797401149645146": false,
+        "2110810603417944213": true
       },
       "user_id": "973261472"
     },
@@ -4746,5 +4751,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T19:04:23+00:00"
+  "updated_at": "2026-10-15T19:12:22+00:00"
 }
