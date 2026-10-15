@@ -671,12 +671,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2109927211604275273",
-          "reason": "\"bears are fake\" quoting a call for BTC to break 80k and hit 79k rejects that downside view, matching his recorded bullish BTC stance and \"all time highs by christmas\".",
+          "post_id": "2110767113673781312",
+          "reason": "'am highly convicted in $BTC face ripper rally' is an explicit bullish call that matches the recorded bullish btc view.",
           "scope": "btc",
           "since": "2026-10-09",
           "stance": "bullish",
-          "updated_at": "2026-10-13T08:40:22.000Z"
+          "updated_at": "2026-10-15T16:17:50.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -726,7 +726,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110765762457809110",
+      "last_id": "2110767113673781312",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -762,14 +762,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T17:45:17.000Z",
-          "id": "2109701956440891883",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2109701866116497408/img/xrbYw0KOlTnszvf-.jpg"
-          ],
-          "text": "one of my strongest convictions this cycle is the social token thesis\n\nDOGE showed how powerful distribution can become when someone with Elon\u2019s reach brings sustained attention to a community\n\ni expect influential individuals and their audiences to play an increasingly important role in how memecoins grow\n\nthe projects that develop their own identity and culture have a much more interesting setup than those simply copying what already worked"
-        },
         {
           "created_at": "2026-10-12T19:56:35.000Z",
           "id": "2109734999708831885",
@@ -890,10 +882,14 @@
           "created_at": "2026-10-15T16:12:28.000Z",
           "id": "2110765762457809110",
           "text": "it seems that it is difficult for ct to hold opposing opinions on different timeframes, you must realize that these markets can swing 10%+ intraday, if you're not prepared for this mentally you are never going to be able to make money in this market"
+        },
+        {
+          "created_at": "2026-10-15T16:17:50.000Z",
+          "id": "2110767113673781312",
+          "text": "am highly convicted in $BTC face ripper rally\n\nbelieve crypto natives currently have lowest conviction in this asset that theyve had in past ~decade\n\none of only assets not correlated to complex ai trade &amp; govt cash will need to fund ai buildout + inflation still sticky"
         }
       ],
       "reads": {
-        "2109701956440891883": "No call: bullish on memecoins (same view as before)",
         "2109734999708831885": "VIEW bullish on PUMP",
         "2109736979932008805": "No call: bullish on PUMP (60%, too unsure)",
         "2109911341356273792": "No call: bullish on btc (65%, too unsure)",
@@ -911,7 +907,8 @@
         "2110326122655404263": "No call",
         "2110327073961119900": "No call",
         "2110764707640689050": "No call",
-        "2110765762457809110": "No call"
+        "2110765762457809110": "No call",
+        "2110767113673781312": "No call: bullish on btc (same view as before)"
       },
       "replies": [
         {
@@ -1315,10 +1312,13 @@
         "2110765762457809110": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110767113673781312": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109701956440891883": true,
         "2109734999708831885": true,
         "2109736979932008805": true,
         "2109911341356273792": true,
@@ -1352,7 +1352,8 @@
         "2110345342084587766": false,
         "2110345457365102786": false,
         "2110764707640689050": true,
-        "2110765762457809110": true
+        "2110765762457809110": true,
+        "2110767113673781312": true
       },
       "user_id": "973261472"
     },
@@ -4712,5 +4713,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T16:14:31+00:00"
+  "updated_at": "2026-10-15T16:18:25+00:00"
 }
