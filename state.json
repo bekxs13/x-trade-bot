@@ -734,7 +734,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110816170794455390",
+      "last_id": "2110818272400818534",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -919,12 +919,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T12:21:52.000Z",
-          "id": "2110345342084587766",
-          "reply_to_id": "2110336420556734552",
-          "text": "@rektober you are yes"
-        },
-        {
           "created_at": "2026-10-14T12:22:20.000Z",
           "id": "2110345457365102786",
           "reply_to_id": "2110330478800580734",
@@ -1013,6 +1007,12 @@
           "id": "2110816170794455390",
           "reply_to_id": "2110774040654958793",
           "text": "@fluffyonchain fluffy on the big screen!"
+        },
+        {
+          "created_at": "2026-10-15T19:41:07.000Z",
+          "id": "2110818272400818534",
+          "reply_to_id": "2110813802702786726",
+          "text": "@404flipped believe the transparency + auditability of it all being onchain is what makes it novel\n\nbc the house-trader relationship is clear &amp; impacts how token will trade\n\nthe no fees / no funding / 1000x lev came from rollbit yea"
         }
       ],
       "threads": {
@@ -1358,7 +1358,6 @@
         "2110318790793642277": true,
         "2110326122655404263": false,
         "2110327073961119900": true,
-        "2110345342084587766": false,
         "2110345457365102786": false,
         "2110764707640689050": true,
         "2110765762457809110": true,
@@ -1378,7 +1377,8 @@
         "2110797401149645146": false,
         "2110810603417944213": true,
         "2110812024800436731": true,
-        "2110816170794455390": false
+        "2110816170794455390": false,
+        "2110818272400818534": true
       },
       "user_id": "973261472"
     },
@@ -4751,5 +4751,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T19:34:20+00:00"
+  "updated_at": "2026-10-15T19:42:19+00:00"
 }
