@@ -2130,7 +2130,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110703585352962385",
+      "last_id": "2110703923346756021",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2276,12 +2276,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-13T06:27:48.000Z",
-          "id": "2109893851347362122",
-          "reply_to_id": "2109893513274184003",
-          "text": "@kidponga if anything its very fucked up people on the tl literally switch up and assume this"
-        },
-        {
           "created_at": "2026-10-13T06:41:08.000Z",
           "id": "2109897204165132397",
           "reply_to_id": "2109893513274184003",
@@ -2396,6 +2390,12 @@
           "created_at": "2026-10-15T09:35:57.000Z",
           "id": "2110665974714360171",
           "text": "do you have what it takes to play the most hated play, at the moment where the road ahead shines the brightest?"
+        },
+        {
+          "created_at": "2026-10-15T12:06:44.000Z",
+          "id": "2110703923346756021",
+          "reply_to_id": "2110703585352962385",
+          "text": "@Route2FI mostly irrational coz the onchain unlocked tokens are worth less than 1mil"
         }
       ],
       "reads": {
@@ -2983,7 +2983,6 @@
         }
       },
       "trading": {
-        "2109893851347362122": false,
         "2109897204165132397": true,
         "2109935458566512869": true,
         "2109940685285556306": true,
@@ -3017,7 +3016,8 @@
         "2110665974714360171": true,
         "2110674961237147680": true,
         "2110675954422911363": false,
-        "2110703585352962385": true
+        "2110703585352962385": true,
+        "2110703923346756021": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4659,5 +4659,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T12:06:20+00:00"
+  "updated_at": "2026-10-15T12:08:17+00:00"
 }
