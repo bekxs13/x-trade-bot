@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110839567242977720",
+      "last_id": "2110840522822832236",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -67,15 +67,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T15:43:37.000Z",
-          "id": "2110396115543810439",
-          "images": [
-            "https://pbs.twimg.com/media/HUmiFUdboAAIWm6.jpg"
-          ],
-          "reply_to_id": "2109949149353316861",
-          "text": "Lmao random lick https://t.co/4hICm8Q2U2"
-        },
         {
           "created_at": "2026-10-14T15:51:26.000Z",
           "id": "2110398080029966763",
@@ -198,10 +189,15 @@
           "created_at": "2026-10-15T17:51:50.000Z",
           "id": "2110790768806027598",
           "text": "So when we get the OAI numbers Qs straight back to highs?"
+        },
+        {
+          "created_at": "2026-10-15T21:09:32.000Z",
+          "id": "2110840522822832236",
+          "reply_to_id": "2110840424684470385",
+          "text": "@Credib1eGuy Seems more bullish AI given don\u2019t need to pace the frontier (guy who also didn\u2019t read it)"
         }
       ],
       "reads": {
-        "2110396115543810439": "TRADE LONG BSP",
         "2110398080029966763": "TRADE LONG QQQ",
         "2110422699663376604": "No call",
         "2110457497903620432": "No call",
@@ -223,12 +219,6 @@
         "2110790768806027598": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-15T00:03:49.000Z",
-          "id": "2110521991690428573",
-          "reply_to_id": "2110332060753883639",
-          "text": "@anidesh7 This was a bit it\u2019s like late late late cycle"
-        },
         {
           "created_at": "2026-10-15T00:07:42.000Z",
           "id": "2110522969026089390",
@@ -312,6 +302,12 @@
           "id": "2110839567242977720",
           "reply_to_id": "2110839449026478296",
           "text": "@jaxksaw @itshd__ I made sure to never get diagnosed officially but everyone tells me"
+        },
+        {
+          "created_at": "2026-10-15T21:09:09.000Z",
+          "id": "2110840424684470385",
+          "reply_to_id": "2110827354423529480",
+          "text": "@Credib1eGuy Why so?"
         }
       ],
       "threads": {
@@ -627,7 +623,6 @@
         }
       },
       "trading": {
-        "2110396115543810439": true,
         "2110398080029966763": false,
         "2110422699663376604": true,
         "2110457497903620432": true,
@@ -637,7 +632,6 @@
         "2110499057219383709": true,
         "2110518129210351764": false,
         "2110520758036553771": true,
-        "2110521991690428573": true,
         "2110522969026089390": false,
         "2110568051511103706": false,
         "2110572256082743609": true,
@@ -661,7 +655,9 @@
         "2110835814850855132": false,
         "2110836286034747522": false,
         "2110839178732916810": false,
-        "2110839567242977720": false
+        "2110839567242977720": false,
+        "2110840424684470385": false,
+        "2110840522822832236": true
       },
       "user_id": "1446541960181858315"
     },
@@ -4772,5 +4768,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T21:06:17+00:00"
+  "updated_at": "2026-10-15T21:10:24+00:00"
 }
