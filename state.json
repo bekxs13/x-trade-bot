@@ -2105,7 +2105,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110417163823747153",
+      "last_id": "2110568719126839419",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2251,15 +2251,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-12T16:05:18.000Z",
-          "id": "2109676797076144526",
-          "images": [
-            "https://pbs.twimg.com/media/HUcT3PuasAETxN8.jpg"
-          ],
-          "reply_to_id": "2109672824009117846",
-          "text": "https://t.co/O5apov0lM0"
-        },
-        {
           "created_at": "2026-10-12T16:07:24.000Z",
           "id": "2109677322903404726",
           "reply_to_id": "2109677226858062325",
@@ -2378,10 +2369,14 @@
           "created_at": "2026-10-14T12:33:05.000Z",
           "id": "2110348166394704207",
           "text": "nvm"
+        },
+        {
+          "created_at": "2026-10-15T03:09:29.000Z",
+          "id": "2110568719126839419",
+          "text": "keep farming paper"
         }
       ],
       "reads": {
-        "2109676797076144526": "No call",
         "2109850256947175750": "TRADE LONG STX",
         "2109859230996132303": "No call: bullish on stocks/macro (55%, too unsure)",
         "2109859501612392746": "No call: bullish on stocks/macro (60%, too unsure)",
@@ -2394,7 +2389,8 @@
         "2110291433441960131": "TRADE LONG QCOM, ARM \u00b7 VIEW bullish on stocks/macro",
         "2110346169541148845": "No call",
         "2110347830837620869": "TRADE LONG SOL",
-        "2110348166394704207": "No call: maybe exit SOL (60%, too unsure)"
+        "2110348166394704207": "No call: maybe exit SOL (60%, too unsure)",
+        "2110568719126839419": "No call"
       },
       "replies": [
         {
@@ -2921,10 +2917,13 @@
         "2110348166394704207": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110568719126839419": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109676797076144526": false,
         "2109677322903404726": false,
         "2109721245742952581": false,
         "2109850256947175750": true,
@@ -2958,7 +2957,8 @@
         "2110356390967689620": true,
         "2110382224730386493": false,
         "2110382771822612605": true,
-        "2110417163823747153": true
+        "2110417163823747153": true,
+        "2110568719126839419": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4563,5 +4563,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T03:08:20+00:00"
+  "updated_at": "2026-10-15T03:10:26+00:00"
 }
