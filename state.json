@@ -3062,7 +3062,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110868916113473793",
+      "last_id": "2110870996337230266",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3082,12 +3082,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T12:18:25.000Z",
-          "id": "2110344475679785118",
-          "quoted_text": "TOMORROW. Live on stream with @ilblackdragon, @mert, @zkDragon and @tulipking AT 1015am est \n\nWhat does the future look like for our coins https://t.co/t9AiJfdvpD",
-          "text": "this will be fun today https://t.co/4I8SLOzbwL"
-        },
         {
           "created_at": "2026-10-14T12:37:21.000Z",
           "id": "2110349236495851934",
@@ -3205,10 +3199,14 @@
           "created_at": "2026-10-15T23:02:22.000Z",
           "id": "2110868916113473793",
           "text": "the amc &lt;&gt; robinhood beef is so funny because he\u2019s screaming at vlad and literally nobody cares"
+        },
+        {
+          "created_at": "2026-10-15T23:10:38.000Z",
+          "id": "2110870996337230266",
+          "text": "the amc &lt;&gt; robinhood beef is so funny because the ceo is screaming at vlad and literally nobody cares"
         }
       ],
       "reads": {
-        "2110344475679785118": "No call",
         "2110349236495851934": "No call",
         "2110373655167537538": "No call",
         "2110396209575972907": "No call",
@@ -3225,7 +3223,8 @@
         "2110799609127895292": "No call",
         "2110862128609681647": "No call",
         "2110862135320588461": "Read together with the post it replies to",
-        "2110868916113473793": "No call"
+        "2110868916113473793": "No call",
+        "2110870996337230266": "No call"
       },
       "replies": [
         {
@@ -3474,10 +3473,13 @@
         "2110868916113473793": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110870996337230266": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110344475679785118": true,
         "2110349236495851934": true,
         "2110373655167537538": true,
         "2110396209575972907": true,
@@ -3511,7 +3513,8 @@
         "2110862135320588461": false,
         "2110864503365574890": false,
         "2110865257791115467": true,
-        "2110868916113473793": true
+        "2110868916113473793": true,
+        "2110870996337230266": true
       },
       "user_id": "1426732252768182281"
     },
@@ -4780,5 +4783,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T23:04:23+00:00"
+  "updated_at": "2026-10-15T23:12:26+00:00"
 }
