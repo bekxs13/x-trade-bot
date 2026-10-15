@@ -734,7 +734,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110787082734211269",
+      "last_id": "2110797401149645146",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -918,12 +918,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T10:59:48.000Z",
-          "id": "2110324688249393574",
-          "reply_to_id": "2110076193269588416",
-          "text": "never have we before seen a protocol this directly aligned with users IMO\n\n0 starting supply\n\nall supply goes directly to users of the protocol\n\n99% of all revenue does not go to buybacks of the coin, but instead cash goes directly to stakers who are holding the coin, which will directly impact how this coin trades because so much of supply will be staked \n\ncurrent circulating unstaked float is less than 1%, first week revenue numbers are ~$35M, supply rn is ~7B & its gets increasingly harder to mint supply as time passes, & the incentive to stake only increases as the protocol makes more money"
-        },
-        {
           "created_at": "2026-10-14T11:04:39.000Z",
           "id": "2110325911627174294",
           "reply_to_id": "2110076974916120806",
@@ -1012,6 +1006,12 @@
           "id": "2110787082734211269",
           "reply_to_id": "2110786058007023688",
           "text": "@SACC23K i am."
+        },
+        {
+          "created_at": "2026-10-15T18:18:11.000Z",
+          "id": "2110797401149645146",
+          "reply_to_id": "2110796480697053278",
+          "text": "@osf_rekt what."
         }
       ],
       "threads": {
@@ -1352,7 +1352,6 @@
         "2110252627799966022": true,
         "2110304660192117229": true,
         "2110318790793642277": true,
-        "2110324688249393574": true,
         "2110325911627174294": true,
         "2110326122655404263": false,
         "2110327073961119900": true,
@@ -1373,7 +1372,8 @@
         "2110780824996208946": false,
         "2110783883998544197": true,
         "2110786493103140876": false,
-        "2110787082734211269": false
+        "2110787082734211269": false,
+        "2110797401149645146": false
       },
       "user_id": "973261472"
     },
@@ -4730,5 +4730,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T18:06:20+00:00"
+  "updated_at": "2026-10-15T18:20:18+00:00"
 }
