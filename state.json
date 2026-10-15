@@ -1712,7 +1712,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2110784200664404024",
+      "last_id": "2110787762983211381",
       "positions": {
         "GOOG": {
           "asset": "GOOG",
@@ -1867,12 +1867,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T19:16:04.000Z",
-          "id": "2110449577514213391",
-          "reply_to_id": "2110447922923934147",
-          "text": "@AJ151O I thankfully spotted the stuff that was going to lead the decline down but yeah prob could\u2019ve hit some outright index shorts too this morning"
-        },
-        {
           "created_at": "2026-10-14T19:16:08.000Z",
           "id": "2110449596497564134",
           "reply_to_id": "2110447573505098111",
@@ -1955,6 +1949,12 @@
           "id": "2110784200664404024",
           "reply_to_id": "2110782099297124815",
           "text": "@based16z In the first minute of my convo you can see me pause and laugh and it was because I received the same message live LMAO"
+        },
+        {
+          "created_at": "2026-10-15T17:39:53.000Z",
+          "id": "2110787762983211381",
+          "reply_to_id": "2110785599695429774",
+          "text": "@schemington That and someone added me to an AI list are legit part of reasoning for closes LMAO"
         }
       ],
       "threads": {
@@ -2097,7 +2097,6 @@
         "2110446822707929422": false,
         "2110447305740742802": false,
         "2110447643642245266": false,
-        "2110449577514213391": true,
         "2110449596497564134": false,
         "2110450730079510702": false,
         "2110453691023331590": false,
@@ -2120,7 +2119,8 @@
         "2110611535366431099": true,
         "2110770468592734263": true,
         "2110770912429838604": true,
-        "2110784200664404024": false
+        "2110784200664404024": false,
+        "2110787762983211381": true
       },
       "user_id": "953032269433745408"
     },
@@ -4728,5 +4728,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T17:38:21+00:00"
+  "updated_at": "2026-10-15T17:40:22+00:00"
 }
