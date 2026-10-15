@@ -1637,7 +1637,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2110526910442954926",
+      "last_id": "2110528172307697874",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1673,14 +1673,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T00:24:11.000Z",
-          "id": "2109802343827214627",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2109802329126158337/img/OZnLPm97nKnht58L.jpg"
-          ],
-          "text": "Adding the Korea short was fucking amazing holy fuck https://t.co/JPTxDOZyuv"
-        },
         {
           "created_at": "2026-10-13T00:25:59.000Z",
           "id": "2109802796107350151",
@@ -1789,10 +1781,15 @@
           "created_at": "2026-10-15T00:23:21.000Z",
           "id": "2110526910442954926",
           "text": "Yeah I nailed the timing this shit is getting fucking rocked lmfao"
+        },
+        {
+          "created_at": "2026-10-15T00:28:22.000Z",
+          "id": "2110528172307697874",
+          "reply_to_id": "1772859712490320351",
+          "text": "RAAAAAHHHH"
         }
       ],
       "reads": {
-        "2109802343827214627": "TRADE SHORT EWY",
         "2109802796107350151": "Read together with the post it replies to",
         "2109864856690348426": "No call",
         "2110005247536222698": "No call",
@@ -1806,7 +1803,8 @@
         "2110406716168999079": "Read together with the post it replies to",
         "2110446822707929422": "No call",
         "2110447305740742802": "No call",
-        "2110526910442954926": "No call"
+        "2110526910442954926": "No call",
+        "2110528172307697874": "No call"
       },
       "replies": [
         {
@@ -1901,6 +1899,10 @@
         }
       ],
       "threads": {
+        "1772859712490320351": {
+          "alerted": [],
+          "self_replies": 1
+        },
         "2104390418591043848": {
           "alerted": [],
           "self_replies": 1
@@ -2015,7 +2017,6 @@
         }
       },
       "trading": {
-        "2109802343827214627": true,
         "2109802796107350151": true,
         "2109864856690348426": true,
         "2109871082987786632": true,
@@ -2049,7 +2050,8 @@
         "2110465760720236931": false,
         "2110465822988828968": false,
         "2110482069294076009": false,
-        "2110526910442954926": true
+        "2110526910442954926": true,
+        "2110528172307697874": false
       },
       "user_id": "953032269433745408"
     },
@@ -4558,5 +4560,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T00:24:26+00:00"
+  "updated_at": "2026-10-15T00:30:25+00:00"
 }
