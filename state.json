@@ -2143,7 +2143,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110757954576433207",
+      "last_id": "2110758290674360679",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2289,14 +2289,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-14T12:25:09.000Z",
-          "id": "2110346169541148845",
-          "images": [
-            "https://pbs.twimg.com/media/HUl0mzLbIAASD4U.jpg"
-          ],
-          "text": "crypto/semis https://t.co/232GpiObgC"
-        },
-        {
           "created_at": "2026-10-14T12:31:45.000Z",
           "id": "2110347830837620869",
           "text": "filled sol 106 stop 105.5"
@@ -2401,10 +2393,15 @@
           "id": "2110757954576433207",
           "quoted_text": "@Rugart3 timing and positioning.\n\nai was always a thing.\n\nit didnt take until 2022 for it to become the main thing.\n\nmathematical innovations were always a thing.\n\nit didnt take until oct 2026 for it to heavily accelerate 100x.\n\nand to become THE main thing over the foreseeable future.",
           "text": "the thesis remains the same.\n\nthe tourists has left.\n\nthe fud has been fought off.\n\nthe unlock has just passed.\n\nthe road ahead\n\nis fucking bright.\n\nIts MoneyPrinter Mode, bitch.\n\n$STRK https://t.co/A5Op34QEC1"
+        },
+        {
+          "created_at": "2026-10-15T15:42:47.000Z",
+          "id": "2110758290674360679",
+          "quoted_text": "@Rugart3 timing and positioning.\n\nai was always a thing.\n\nit didnt take until 2022 for it to become the main thing.\n\nmathematical innovations were always a thing.\n\nit didnt take until oct 2026 for it to heavily accelerate 100x.\n\nand to become THE main thing over the foreseeable future.",
+          "text": "the thesis remains the same.\n\nthe tourists has left.\n\nthe fud has been fought off.\n\nthe unlock has just passed.\n\nthe road ahead\n\nis brighter than ever.\n\n$STRK https://t.co/A5Op34QEC1"
         }
       ],
       "reads": {
-        "2110346169541148845": "No call",
         "2110347830837620869": "TRADE LONG SOL",
         "2110348166394704207": "No call: maybe exit SOL (60%, too unsure)",
         "2110568719126839419": "No call",
@@ -2421,7 +2418,8 @@
         "2110750844757094713": "No call",
         "2110752242504720487": "No call: bullish on crypto market (same view as before)",
         "2110755781348057503": "TRADE LONG STRK",
-        "2110757954576433207": "No call"
+        "2110757954576433207": "No call",
+        "2110758290674360679": "No call"
       },
       "replies": [
         {
@@ -2534,12 +2532,6 @@
         }
       ],
       "threads": {
-        "2108238771796001138": {
-          "alerted": [
-            "trade:NVDA:short"
-          ],
-          "self_replies": 0
-        },
         "2108238926725190008": {
           "alerted": [
             "bias:stocks/macro:bearish",
@@ -3004,10 +2996,13 @@
         "2110757954576433207": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110758290674360679": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110346169541148845": true,
         "2110347830837620869": true,
         "2110348166394704207": false,
         "2110568719126839419": false,
@@ -3041,7 +3036,8 @@
         "2110753653711900948": false,
         "2110753681566261670": false,
         "2110755781348057503": true,
-        "2110757954576433207": true
+        "2110757954576433207": true,
+        "2110758290674360679": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4721,5 +4717,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T15:42:23+00:00"
+  "updated_at": "2026-10-15T15:44:24+00:00"
 }
