@@ -2130,7 +2130,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110651371519349178",
+      "last_id": "2110651836168614111",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2276,11 +2276,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-13T04:11:19.000Z",
-          "id": "2109859501612392746",
-          "text": "cpi frontrun crash due to recent fed moves causing ppl to derisk far more than recent 8 prints\n\ninto decent print"
-        },
-        {
           "created_at": "2026-10-13T04:26:34.000Z",
           "id": "2109863340189286485",
           "quoted_text": "re: the current encryption fears going widespread & likely going to be one of the main themes this cycle on every math news/catalyst in ai (which will likely only accelerate in the near future)\n\nmy kingmaker bet is $STRK.\n\nthey are the only one that's using the correct tech:\n\n1. No lattice commitments in proofs. Only merkle tree of hashes + FRI\n\n2. Verifier swap to WOTS / SPHINCS\n\n3. Pedersen getting removed  \n\nThey're the only chain that has production-grade readiness in response to the AI thre",
@@ -2397,10 +2392,15 @@
           "created_at": "2026-10-15T08:35:55.000Z",
           "id": "2110650867338863059",
           "text": "we will win.\n\n$strk"
+        },
+        {
+          "created_at": "2026-10-15T08:39:46.000Z",
+          "id": "2110651836168614111",
+          "quoted_text": "*OPENAI EYES ACQUISITION OF CRYPTO SECURITY COMPANY TRAIL OF BITS: THE INFORMATION",
+          "text": "$strk https://t.co/Y74733LevV"
         }
       ],
       "reads": {
-        "2109859501612392746": "No call: bullish on stocks/macro (60%, too unsure)",
         "2109863340189286485": "No call",
         "2109935458566512869": "No call: bullish on STRK (same view as before)",
         "2109943214233063890": "No call",
@@ -2415,7 +2415,8 @@
         "2110611974417740143": "No call",
         "2110621186308862378": "No call",
         "2110648086766952731": "No call",
-        "2110650867338863059": "No call"
+        "2110650867338863059": "No call",
+        "2110651836168614111": "No call"
       },
       "replies": [
         {
@@ -2962,10 +2963,13 @@
         "2110650867338863059": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110651836168614111": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109859501612392746": true,
         "2109863340189286485": true,
         "2109891561689624912": true,
         "2109893851347362122": false,
@@ -2999,7 +3003,8 @@
         "2110649345624490292": true,
         "2110649537929109829": true,
         "2110650867338863059": true,
-        "2110651371519349178": false
+        "2110651371519349178": false,
+        "2110651836168614111": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4629,5 +4634,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T08:38:18+00:00"
+  "updated_at": "2026-10-15T08:40:24+00:00"
 }
