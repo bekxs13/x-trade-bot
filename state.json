@@ -726,7 +726,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110767955630018575",
+      "last_id": "2110768714903900408",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -912,12 +912,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T11:49:03.000Z",
-          "id": "2109974695546163341",
-          "reply_to_id": "2109764076096418074",
-          "text": "@Evan_ss6 up or down"
-        },
-        {
           "created_at": "2026-10-13T12:29:29.000Z",
           "id": "2109984872013988256",
           "reply_to_id": "2109976295488782479",
@@ -1000,6 +994,15 @@
           "id": "2110767772062109768",
           "reply_to_id": "2110743864076329026",
           "text": "@chimpcap1tal did you accidentally add a zero?"
+        },
+        {
+          "created_at": "2026-10-15T16:24:12.000Z",
+          "id": "2110768714903900408",
+          "images": [
+            "https://pbs.twimg.com/media/HUr09KhbwAAldyg.jpg"
+          ],
+          "reply_to_id": "2110766361911673065",
+          "text": "@0xAvast i am not sure what more these people want from me tbh https://t.co/pW1TjbkUqL"
         }
       ],
       "threads": {
@@ -1331,7 +1334,6 @@
         "2109943171694407765": true,
         "2109947683935014953": true,
         "2109950575102373992": false,
-        "2109974695546163341": true,
         "2109984830230261923": true,
         "2109984872013988256": false,
         "2109996205199499430": false,
@@ -1357,7 +1359,8 @@
         "2110765762457809110": true,
         "2110767113673781312": true,
         "2110767772062109768": false,
-        "2110767955630018575": false
+        "2110767955630018575": false,
+        "2110768714903900408": false
       },
       "user_id": "973261472"
     },
@@ -4717,5 +4720,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T16:24:24+00:00"
+  "updated_at": "2026-10-15T16:26:22+00:00"
 }
