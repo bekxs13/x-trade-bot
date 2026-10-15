@@ -3065,7 +3065,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110750601764028899",
+      "last_id": "2110756931061068102",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3232,12 +3232,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T20:02:47.000Z",
-          "id": "2110461335918023045",
-          "reply_to_id": "2110460748237603179",
-          "text": "@Jackkk @Banks @blknoiz06 proud of you broest bro"
-        },
-        {
           "created_at": "2026-10-14T20:07:12.000Z",
           "id": "2110462447995826535",
           "reply_to_id": "2110447045018583172",
@@ -3320,6 +3314,12 @@
           "id": "2110750601764028899",
           "reply_to_id": "2110747376587575445",
           "text": "@ilblackdragon @mert this is definitely because i made the introduction yesterday! i got us (congrats!)"
+        },
+        {
+          "created_at": "2026-10-15T15:37:22.000Z",
+          "id": "2110756931061068102",
+          "reply_to_id": "2110725928133234814",
+          "text": "@LayahHeilpern you are my hero"
         }
       ],
       "threads": {
@@ -3471,7 +3471,6 @@
         "2110373655167537538": true,
         "2110396209575972907": true,
         "2110405623711953046": false,
-        "2110461335918023045": false,
         "2110462447995826535": false,
         "2110462485312725189": false,
         "2110502700999942172": true,
@@ -3494,7 +3493,8 @@
         "2110707875119263823": false,
         "2110712299170456020": true,
         "2110741626150899751": false,
-        "2110750601764028899": false
+        "2110750601764028899": false,
+        "2110756931061068102": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4719,5 +4719,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T15:34:28+00:00"
+  "updated_at": "2026-10-15T15:38:19+00:00"
 }
