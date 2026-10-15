@@ -2176,7 +2176,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110788447556559130",
+      "last_id": "2110801401500815670",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2322,12 +2322,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T08:39:46.000Z",
-          "id": "2110651836168614111",
-          "quoted_text": "*OPENAI EYES ACQUISITION OF CRYPTO SECURITY COMPANY TRAIL OF BITS: THE INFORMATION",
-          "text": "$strk https://t.co/Y74733LevV"
-        },
-        {
           "created_at": "2026-10-15T08:42:03.000Z",
           "id": "2110652410884440308",
           "text": "i know im right. i dont care what anyone else says."
@@ -2433,10 +2427,15 @@
           "id": "2110788447556559130",
           "quoted_text": "people complain about memes but when technology arrives nobody dares to take the first step forward\n\nbe the change you want to be",
           "text": "be brave and courageous. https://t.co/F6F1T2WGyG"
+        },
+        {
+          "created_at": "2026-10-15T18:33:57.000Z",
+          "id": "2110801368105861347",
+          "quoted_text": "[ ZOOMER ] \n\nGOOGLE MAKES MAJOR BREAKTHROUGH IN QUANTUM COMPUTING, SHOWING THAT \"MAGIC STATE CULTIVATION\" WORKS IN PRACTICE, REDUCING ERRORS BY 40X: BLOG",
+          "text": "Starknet.\n\n$strk https://t.co/0ySWecnsLA"
         }
       ],
       "reads": {
-        "2110651836168614111": "No call",
         "2110652410884440308": "No call",
         "2110665974714360171": "No call",
         "2110745870732083325": "VIEW bullish on crypto market",
@@ -2453,15 +2452,10 @@
         "2110774745964900646": "No call",
         "2110779659348812045": "No call",
         "2110786272390426864": "No call",
-        "2110788447556559130": "No call"
+        "2110788447556559130": "No call",
+        "2110801368105861347": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-15T15:08:55.000Z",
-          "id": "2110749770457526618",
-          "reply_to_id": "2110749334115418289",
-          "text": "@solanapoet \ud83d\udd25\ud83d\udd25\ud83d\udd25"
-        },
         {
           "created_at": "2026-10-15T15:19:05.000Z",
           "id": "2110752327569404380",
@@ -2545,13 +2539,15 @@
           "id": "2110779450690580988",
           "reply_to_id": "2110779228308513168",
           "text": "@ThePumponomics \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23"
+        },
+        {
+          "created_at": "2026-10-15T18:34:05.000Z",
+          "id": "2110801401500815670",
+          "reply_to_id": "2110799118906060842",
+          "text": "@zoomerfied Starknet."
         }
       ],
       "threads": {
-        "2108466723259392012": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108467127783154171": {
           "alerted": [
             "bias:btc:bullish"
@@ -3003,10 +2999,13 @@
         "2110788447556559130": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110801368105861347": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110651836168614111": true,
         "2110652410884440308": false,
         "2110665974714360171": true,
         "2110703923346756021": true,
@@ -3014,7 +3013,6 @@
         "2110745870732083325": true,
         "2110747081212309893": true,
         "2110749159196414419": true,
-        "2110749770457526618": false,
         "2110750844757094713": false,
         "2110752242504720487": true,
         "2110752327569404380": true,
@@ -3040,7 +3038,9 @@
         "2110779450690580988": false,
         "2110779659348812045": true,
         "2110786272390426864": false,
-        "2110788447556559130": false
+        "2110788447556559130": false,
+        "2110801368105861347": true,
+        "2110801401500815670": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4744,5 +4744,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T18:32:27+00:00"
+  "updated_at": "2026-10-15T18:34:22+00:00"
 }
