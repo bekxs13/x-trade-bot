@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110520758036553771",
+      "last_id": "2110521991690428573",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -219,12 +219,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T03:39:49.000Z",
-          "id": "2109851574004846860",
-          "reply_to_id": "2109850578092179713",
-          "text": "@mahasr199 @DeepDishEnjoyer Yeah just took a small calls posn a bit off the low after covering shorts, may size up strikes toward midterms expiry tmw on IBIT"
-        },
-        {
           "created_at": "2026-10-13T03:53:54.000Z",
           "id": "2109855119584211308",
           "reply_to_id": "2109853864300294160",
@@ -307,6 +301,12 @@
           "id": "2110511421029228725",
           "reply_to_id": "2110504083903664562",
           "text": "@kromit_ Retweet"
+        },
+        {
+          "created_at": "2026-10-15T00:03:49.000Z",
+          "id": "2110521991690428573",
+          "reply_to_id": "2110332060753883639",
+          "text": "@anidesh7 This was a bit it\u2019s like late late late cycle"
         }
       ],
       "threads": {
@@ -586,7 +586,6 @@
         }
       },
       "trading": {
-        "2109851574004846860": true,
         "2109855119584211308": true,
         "2109855682761834561": true,
         "2109855756329930770": false,
@@ -620,7 +619,8 @@
         "2110508818698580349": false,
         "2110511421029228725": false,
         "2110518129210351764": false,
-        "2110520758036553771": true
+        "2110520758036553771": true,
+        "2110521991690428573": true
       },
       "user_id": "1446541960181858315"
     },
@@ -4555,5 +4555,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T00:00:31+00:00"
+  "updated_at": "2026-10-15T00:04:22+00:00"
 }
