@@ -2143,7 +2143,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110753681566261670",
+      "last_id": "2110755781348057503",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2240,19 +2240,19 @@
         },
         "STRK": {
           "asset": "STRK",
-          "chain": "",
-          "confidence": 0.88,
-          "contract_address": "",
+          "chain": "eth",
+          "confidence": 0.92,
+          "contract_address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
           "direction": "long",
-          "entry": "0.116",
+          "entry": "$0.0862",
           "horizon": "",
           "market": "crypto",
           "open_price": null,
-          "post_id": "2109304815138562548",
-          "reason": "\"bought more $strk at .0116\" is an add to the existing STRK long. Charts show STRKUSDT on Binance near 0.117, and the 'spot-driven' comment suggests a spot position.",
+          "post_id": "2110755781348057503",
+          "reason": "\"bought more $strk\" is an explicit add to the existing STRK long, quoting Starknet governance news. The quoted post gives the Ethereum contract address.",
           "since": "2026-10-08T11:25:45.000Z",
           "structure": "spot",
-          "url": "https://x.com/MoneyPrinter0x/status/2109304815138562548"
+          "url": "https://x.com/MoneyPrinter0x/status/2110755781348057503"
         },
         "STX": {
           "asset": "STX",
@@ -2288,12 +2288,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T06:21:50.000Z",
-          "id": "2110254737048358916",
-          "quoted_text": "cpi frontrun crash due to recent fed moves causing ppl to derisk far more than recent 8 prints\n\ninto decent print",
-          "text": "should be a good cpi print https://t.co/YQz6t3uNPo"
-        },
         {
           "created_at": "2026-10-14T08:47:39.000Z",
           "id": "2110291433441960131",
@@ -2404,10 +2398,15 @@
           "created_at": "2026-10-15T15:18:45.000Z",
           "id": "2110752242504720487",
           "text": "The Hated Cryptography Rally."
+        },
+        {
+          "created_at": "2026-10-15T15:32:48.000Z",
+          "id": "2110755781348057503",
+          "quoted_text": "BREAKING: STARKNET TAKES ITS INDEPENDENT POST-QUANTUM L1 AMBITION INTO GOVERNANCE.\n\nA NEW GOVERNANCE POLL ASKS STRK HOLDERS TO BACK FURTHER RESEARCH INTO THE MOVE.\n\nethereum:0xca14007eff0db1f8135f4c25b34de49ab0d42766 \n\nhttps://t.co/yWH282iiqC",
+          "text": "bought more $strk https://t.co/IoFZxOZSJA"
         }
       ],
       "reads": {
-        "2110254737048358916": "No call: bullish on stocks/macro (65%, too unsure)",
         "2110291433441960131": "TRADE LONG QCOM, ARM \u00b7 VIEW bullish on stocks/macro",
         "2110346169541148845": "No call",
         "2110347830837620869": "TRADE LONG SOL",
@@ -2424,7 +2423,8 @@
         "2110747081212309893": "No call",
         "2110749159196414419": "No call",
         "2110750844757094713": "No call",
-        "2110752242504720487": "No call: bullish on crypto market (same view as before)"
+        "2110752242504720487": "No call: bullish on crypto market (same view as before)",
+        "2110755781348057503": "TRADE LONG STRK"
       },
       "replies": [
         {
@@ -2537,10 +2537,6 @@
         }
       ],
       "threads": {
-        "2108122637561954352": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108156892279456072": {
           "alerted": [
             "trade:STRK:long"
@@ -3007,10 +3003,15 @@
         "2110752242504720487": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110755781348057503": {
+          "alerted": [
+            "trade:STRK:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110254737048358916": true,
         "2110291433441960131": true,
         "2110346169541148845": true,
         "2110347830837620869": true,
@@ -3044,7 +3045,8 @@
         "2110753318720975156": false,
         "2110753439500370116": true,
         "2110753653711900948": false,
-        "2110753681566261670": false
+        "2110753681566261670": false,
+        "2110755781348057503": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4717,5 +4719,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T15:30:25+00:00"
+  "updated_at": "2026-10-15T15:34:28+00:00"
 }
