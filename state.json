@@ -2130,7 +2130,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110649537929109829",
+      "last_id": "2110650867338863059",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2276,11 +2276,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-13T04:10:14.000Z",
-          "id": "2109859230996132303",
-          "text": "cpi frontrun crash into decent print"
-        },
-        {
           "created_at": "2026-10-13T04:11:19.000Z",
           "id": "2109859501612392746",
           "text": "cpi frontrun crash due to recent fed moves causing ppl to derisk far more than recent 8 prints\n\ninto decent print"
@@ -2397,10 +2392,14 @@
           "id": "2110648086766952731",
           "quoted_text": "i dont care what anyone else says\n\ni will trade my trade\n\nstarknet tech is superior and if people dont understand it then i will take the opposing view no matter how unpopular it is. \n\none day youre a hero the next youre the villain\n\ni choose to be moneyprinter. https://t.co/birrKDo6ue",
           "text": "i believe in my thesis. https://t.co/lIAtHazWTU"
+        },
+        {
+          "created_at": "2026-10-15T08:35:55.000Z",
+          "id": "2110650867338863059",
+          "text": "we will win.\n\n$strk"
         }
       ],
       "reads": {
-        "2109859230996132303": "No call: bullish on stocks/macro (55%, too unsure)",
         "2109859501612392746": "No call: bullish on stocks/macro (60%, too unsure)",
         "2109863340189286485": "No call",
         "2109935458566512869": "No call: bullish on STRK (same view as before)",
@@ -2415,7 +2414,8 @@
         "2110568719126839419": "No call",
         "2110611974417740143": "No call",
         "2110621186308862378": "No call",
-        "2110648086766952731": "No call"
+        "2110648086766952731": "No call",
+        "2110650867338863059": "No call"
       },
       "replies": [
         {
@@ -2958,10 +2958,13 @@
         "2110648086766952731": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110650867338863059": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109859230996132303": true,
         "2109859501612392746": true,
         "2109863340189286485": true,
         "2109891561689624912": true,
@@ -2995,7 +2998,8 @@
         "2110643316111110534": false,
         "2110648086766952731": true,
         "2110649345624490292": true,
-        "2110649537929109829": true
+        "2110649537929109829": true,
+        "2110650867338863059": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4625,5 +4629,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T08:32:18+00:00"
+  "updated_at": "2026-10-15T08:36:23+00:00"
 }
