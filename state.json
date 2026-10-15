@@ -2130,12 +2130,12 @@
       "biases": {
         "alts": {
           "market": "crypto",
-          "post_id": "2109669028604309522",
-          "reason": "Says the SOXL/MU crash muting risk sentiment 'is probably not going to make short term for tail risk pairs look pretty'. That is a short-term cautious turn from the recorded bullish alts view.",
+          "post_id": "2110808534514651472",
+          "reason": "'bottom on tech in crypto' calls a bottom in crypto tech/infrastructure tokens, a bullish turn from his recorded neutral view on alts.",
           "scope": "alts",
-          "since": "2026-10-12",
-          "stance": "neutral",
-          "updated_at": "2026-10-12T15:34:26.000Z"
+          "since": "2026-10-15",
+          "stance": "bullish",
+          "updated_at": "2026-10-15T19:02:26.000Z"
         },
         "btc": {
           "market": "crypto",
@@ -2176,7 +2176,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110807712875614238",
+      "last_id": "2110808534514651472",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2322,11 +2322,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T09:35:57.000Z",
-          "id": "2110665974714360171",
-          "text": "do you have what it takes to play the most hated play, at the moment where the road ahead shines the brightest?"
-        },
-        {
           "created_at": "2026-10-15T12:06:44.000Z",
           "id": "2110703923346756021",
           "reply_to_id": "2110703585352962385",
@@ -2434,10 +2429,15 @@
           "id": "2110807712875614238",
           "quoted_text": "@MoneyPrinter0x Bitcoin is a meme bro. What you talking about. Web2 has solved everything always, and decentralisation? There ain\u2019t no decentralisation in 2026",
           "text": "tech bottom https://t.co/meQSnlB58L"
+        },
+        {
+          "created_at": "2026-10-15T19:02:26.000Z",
+          "id": "2110808534514651472",
+          "quoted_text": "@MoneyPrinter0x Bitcoin is a meme bro. What you talking about. Web2 has solved everything always, and decentralisation? There ain\u2019t no decentralisation in 2026",
+          "text": "bottom on tech in crypto https://t.co/meQSnlB58L"
         }
       ],
       "reads": {
-        "2110665974714360171": "No call",
         "2110745870732083325": "VIEW bullish on crypto market",
         "2110747081212309893": "No call",
         "2110749159196414419": "No call",
@@ -2454,7 +2454,8 @@
         "2110786272390426864": "No call",
         "2110788447556559130": "No call",
         "2110801368105861347": "No call",
-        "2110807712875614238": "No call"
+        "2110807712875614238": "No call",
+        "2110808534514651472": "VIEW bullish on alts"
       },
       "replies": [
         {
@@ -2549,10 +2550,6 @@
         }
       ],
       "threads": {
-        "2108470411361178094": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108472561889943559": {
           "alerted": [
             "trade:STRK:long"
@@ -3002,10 +2999,15 @@
         "2110807712875614238": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110808534514651472": {
+          "alerted": [
+            "bias:alts:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110665974714360171": true,
         "2110703923346756021": true,
         "2110708617100030329": true,
         "2110745870732083325": true,
@@ -3039,7 +3041,8 @@
         "2110801368105861347": true,
         "2110801401500815670": false,
         "2110807072073978312": true,
-        "2110807712875614238": true
+        "2110807712875614238": true,
+        "2110808534514651472": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4743,5 +4746,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T19:00:27+00:00"
+  "updated_at": "2026-10-15T19:04:23+00:00"
 }
