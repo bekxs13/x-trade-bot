@@ -2130,7 +2130,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110643316111110534",
+      "last_id": "2110648086766952731",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2276,15 +2276,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-13T03:34:35.000Z",
-          "id": "2109850256947175750",
-          "images": [
-            "https://pbs.twimg.com/media/HUexnc6bgAA_OyW.jpg",
-            "https://pbs.twimg.com/media/HUexn2-bEAADYcW.jpg"
-          ],
-          "text": "bought $stx , btc staking exposure going into new btc cycle\n\nstrongest relative strength when all other pairs are crashing https://t.co/3iApg05bpW"
-        },
-        {
           "created_at": "2026-10-13T04:10:14.000Z",
           "id": "2109859230996132303",
           "text": "cpi frontrun crash into decent print"
@@ -2400,10 +2391,15 @@
           "created_at": "2026-10-15T06:37:58.000Z",
           "id": "2110621186308862378",
           "text": "nobody gets to the top without experiencing failure \n\nhow you navigate it dictates more than how you navigate wins"
+        },
+        {
+          "created_at": "2026-10-15T08:24:52.000Z",
+          "id": "2110648086766952731",
+          "quoted_text": "i dont care what anyone else says\n\ni will trade my trade\n\nstarknet tech is superior and if people dont understand it then i will take the opposing view no matter how unpopular it is. \n\none day youre a hero the next youre the villain\n\ni choose to be moneyprinter. https://t.co/birrKDo6ue",
+          "text": "i believe in my thesis. https://t.co/lIAtHazWTU"
         }
       ],
       "reads": {
-        "2109850256947175750": "TRADE LONG STX",
         "2109859230996132303": "No call: bullish on stocks/macro (55%, too unsure)",
         "2109859501612392746": "No call: bullish on stocks/macro (60%, too unsure)",
         "2109863340189286485": "No call",
@@ -2418,7 +2414,8 @@
         "2110348166394704207": "No call: maybe exit SOL (60%, too unsure)",
         "2110568719126839419": "No call",
         "2110611974417740143": "No call",
-        "2110621186308862378": "No call"
+        "2110621186308862378": "No call",
+        "2110648086766952731": "No call"
       },
       "replies": [
         {
@@ -2957,10 +2954,13 @@
         "2110621186308862378": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110648086766952731": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109850256947175750": true,
         "2109859230996132303": true,
         "2109859501612392746": true,
         "2109863340189286485": true,
@@ -2994,7 +2994,8 @@
         "2110611974417740143": true,
         "2110621186308862378": false,
         "2110624077463584847": false,
-        "2110643316111110534": false
+        "2110643316111110534": false,
+        "2110648086766952731": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4624,5 +4625,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T08:06:19+00:00"
+  "updated_at": "2026-10-15T08:26:20+00:00"
 }
