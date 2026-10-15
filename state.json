@@ -1700,7 +1700,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2110770468592734263",
+      "last_id": "2110770912429838604",
       "positions": {
         "GOOG": {
           "asset": "GOOG",
@@ -1720,11 +1720,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T15:44:16.000Z",
-          "id": "2110033888332681447",
-          "text": "Tpd some ewy shorts, nearly 10% move in just a few days is too fat to not reel it in especially shorter dates \n\nHedge ended up being the main profitable position\n\nRest of stuff is unchanged"
-        },
         {
           "created_at": "2026-10-13T19:43:09.000Z",
           "id": "2110094006281736323",
@@ -1834,10 +1829,15 @@
           "created_at": "2026-10-15T16:31:10.000Z",
           "id": "2110770468592734263",
           "text": "Covered the remaining ewy short exposure, nearly a 20% nuke in under 7 trading days and Hynix tapped the bottom of the previous crash in July \n\nDunno if crash over but even if spike below prob some bounce off this at some point soon\n\nInsane trade played unexpectedly quickly gg"
+        },
+        {
+          "created_at": "2026-10-15T16:32:56.000Z",
+          "id": "2110770912429838604",
+          "reply_to_id": "2110770468592734263",
+          "text": "Funniest part was it was also to hedge goog amzn exposure both of which are still basically at their entry points \n\nWorked out beautifully"
         }
       ],
       "reads": {
-        "2110033888332681447": "TRADE TRIM EWY",
         "2110094006281736323": "No call",
         "2110126472363229416": "No call",
         "2110126618689847606": "Read together with the post it replies to",
@@ -1850,7 +1850,8 @@
         "2110528172307697874": "No call",
         "2110530132381516205": "No call",
         "2110611535366431099": "No call: bearish on alts (same view as before)",
-        "2110770468592734263": "TRADE EXIT EWY"
+        "2110770468592734263": "TRADE EXIT EWY",
+        "2110770912429838604": "No call"
       },
       "replies": [
         {
@@ -2069,11 +2070,10 @@
           "alerted": [
             "trade:EWY:exit"
           ],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2110033888332681447": true,
         "2110094006281736323": false,
         "2110126472363229416": true,
         "2110126618689847606": true,
@@ -2107,7 +2107,8 @@
         "2110556002307449191": false,
         "2110565242917007397": true,
         "2110611535366431099": true,
-        "2110770468592734263": true
+        "2110770468592734263": true,
+        "2110770912429838604": true
       },
       "user_id": "953032269433745408"
     },
@@ -4725,5 +4726,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T16:32:26+00:00"
+  "updated_at": "2026-10-15T16:34:22+00:00"
 }
