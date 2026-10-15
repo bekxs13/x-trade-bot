@@ -3066,7 +3066,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110826102344360043",
+      "last_id": "2110826806551216147",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3233,18 +3233,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T01:55:13.000Z",
-          "id": "2110550029425602790",
-          "reply_to_id": "2110549994738733342",
-          "text": "@ThinkingUSD \ud83d\ude14"
-        },
-        {
-          "created_at": "2026-10-15T11:18:09.000Z",
-          "id": "2110691695084150784",
-          "reply_to_id": "2110675619977855417",
-          "text": "@omsohuman dude wtf"
-        },
-        {
           "created_at": "2026-10-15T11:32:44.000Z",
           "id": "2110695363686412441",
           "reply_to_id": "2110406137367703766",
@@ -3321,6 +3309,18 @@
           "id": "2110826102344360043",
           "reply_to_id": "2110825756297466321",
           "text": "@strictrope @counterpartytv chalk it up to the game and we run that bitch back"
+        },
+        {
+          "created_at": "2026-10-15T20:14:42.000Z",
+          "id": "2110826723616911565",
+          "reply_to_id": "2110826212155330833",
+          "text": "@strictrope @counterpartytv chalk it up to the game and we run that bitch back"
+        },
+        {
+          "created_at": "2026-10-15T20:15:02.000Z",
+          "id": "2110826806551216147",
+          "reply_to_id": "2110825925160190060",
+          "text": "@Jackkk real tears lmao"
         }
       ],
       "threads": {
@@ -3485,8 +3485,6 @@
         "2110502700999942172": true,
         "2110502707383668934": false,
         "2110505577793114242": false,
-        "2110550029425602790": false,
-        "2110691695084150784": false,
         "2110693154429214765": true,
         "2110695363686412441": false,
         "2110699646641394005": false,
@@ -3507,7 +3505,9 @@
         "2110794032595214834": false,
         "2110798325805092991": false,
         "2110799609127895292": false,
-        "2110826102344360043": false
+        "2110826102344360043": false,
+        "2110826723616911565": false,
+        "2110826806551216147": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4756,5 +4756,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T20:14:18+00:00"
+  "updated_at": "2026-10-15T20:16:18+00:00"
 }
