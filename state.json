@@ -3059,7 +3059,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110798325805092991",
+      "last_id": "2110799609127895292",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3079,12 +3079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T19:59:17.000Z",
-          "id": "2110098064773890275",
-          "quoted_text": "boy next to me asked chat gpt can he bring his cava on the flight and now he\u2019s having a full on kii with the bot https://t.co/R3m6iJuiG9",
-          "text": "i\u2019m sorry but this is not a blackpill it\u2019s exactly what llms are for https://t.co/dq4gBGZkYh"
-        },
         {
           "created_at": "2026-10-13T20:05:31.000Z",
           "id": "2110099636820054153",
@@ -3203,10 +3197,15 @@
           "created_at": "2026-10-15T18:21:52.000Z",
           "id": "2110798325805092991",
           "text": "LIVE: The Based16z Interview https://t.co/zsvboM1oXg"
+        },
+        {
+          "created_at": "2026-10-15T18:26:58.000Z",
+          "id": "2110799609127895292",
+          "quoted_text": "LIVE: The Based16z Interview https://t.co/zsvboM1oXg",
+          "text": "starting now https://t.co/IBMpQgP6dS"
         }
       ],
       "reads": {
-        "2110098064773890275": "No call",
         "2110099636820054153": "No call",
         "2110144405151555773": "No call",
         "2110344475679785118": "No call",
@@ -3222,7 +3221,8 @@
         "2110705272830541887": "No call",
         "2110712299170456020": "No call",
         "2110762518495085033": "No call",
-        "2110798325805092991": "No call"
+        "2110798325805092991": "No call",
+        "2110799609127895292": "No call"
       },
       "replies": [
         {
@@ -3459,10 +3459,13 @@
         "2110798325805092991": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110799609127895292": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110098064773890275": false,
         "2110099636820054153": false,
         "2110100532094234942": false,
         "2110144405151555773": true,
@@ -3496,7 +3499,8 @@
         "2110770703062417682": false,
         "2110785091442204950": false,
         "2110794032595214834": false,
-        "2110798325805092991": false
+        "2110798325805092991": false,
+        "2110799609127895292": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4733,5 +4737,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T18:22:19+00:00"
+  "updated_at": "2026-10-15T18:28:30+00:00"
 }
