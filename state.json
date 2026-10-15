@@ -2130,7 +2130,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110611974417740143",
+      "last_id": "2110621186308862378",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2276,12 +2276,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-12T19:01:56.000Z",
-          "id": "2109721245742952581",
-          "reply_to_id": "2109699494787125708",
-          "text": "@ieaturfoods *it was a terrible call"
-        },
-        {
           "created_at": "2026-10-13T03:34:35.000Z",
           "id": "2109850256947175750",
           "images": [
@@ -2401,6 +2395,11 @@
             "https://pbs.twimg.com/media/HUpmZyLa0AETqnq.jpg"
           ],
           "text": "crypto/korea https://t.co/lEb5cS2LSL"
+        },
+        {
+          "created_at": "2026-10-15T06:37:58.000Z",
+          "id": "2110621186308862378",
+          "text": "nobody gets to the top without experiencing failure \n\nhow you navigate it dictates more than how you navigate wins"
         }
       ],
       "reads": {
@@ -2418,7 +2417,8 @@
         "2110347830837620869": "TRADE LONG SOL",
         "2110348166394704207": "No call: maybe exit SOL (60%, too unsure)",
         "2110568719126839419": "No call",
-        "2110611974417740143": "No call"
+        "2110611974417740143": "No call",
+        "2110621186308862378": "No call"
       },
       "replies": [
         {
@@ -2953,10 +2953,13 @@
         "2110611974417740143": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110621186308862378": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109721245742952581": false,
         "2109850256947175750": true,
         "2109859230996132303": true,
         "2109859501612392746": true,
@@ -2990,7 +2993,8 @@
         "2110382771822612605": true,
         "2110417163823747153": true,
         "2110568719126839419": false,
-        "2110611974417740143": true
+        "2110611974417740143": true,
+        "2110621186308862378": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4620,5 +4624,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T06:06:24+00:00"
+  "updated_at": "2026-10-15T06:38:21+00:00"
 }
