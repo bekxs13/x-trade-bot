@@ -2115,12 +2115,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2110745870732083325",
-          "reason": "Says the big3 held lows through the FUD, spot flows on BTC and SOL stayed strong, and expects a really noticeable HTF leg up in crypto majors (esp SOL) and IGV. That flips the recorded bearish crypto market view.",
+          "post_id": "2110752242504720487",
+          "reason": "\"The Hated Cryptography Rally\" frames crypto as rallying against sentiment, matching their recorded bullish crypto market view.",
           "scope": "crypto market",
           "since": "2026-10-15",
           "stance": "bullish",
-          "updated_at": "2026-10-15T14:53:26.000Z"
+          "updated_at": "2026-10-15T15:18:45.000Z"
         },
         "stocks/macro": {
           "market": "stocks",
@@ -2143,7 +2143,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110750844757094713",
+      "last_id": "2110752327569404380",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2289,12 +2289,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-14T04:58:56.000Z",
-          "id": "2110233875582689514",
-          "quoted_text": "*OPENAI EYES ACQUISITION OF CRYPTO SECURITY COMPANY TRAIL OF BITS: THE INFORMATION",
-          "text": "watch https://t.co/Y74733LevV"
-        },
-        {
           "created_at": "2026-10-14T06:21:50.000Z",
           "id": "2110254737048358916",
           "quoted_text": "cpi frontrun crash due to recent fed moves causing ppl to derisk far more than recent 8 prints\n\ninto decent print",
@@ -2405,10 +2399,14 @@
           "created_at": "2026-10-15T15:13:11.000Z",
           "id": "2110750844757094713",
           "text": "time to get into that mode again"
+        },
+        {
+          "created_at": "2026-10-15T15:18:45.000Z",
+          "id": "2110752242504720487",
+          "text": "The Hated Cryptography Rally."
         }
       ],
       "reads": {
-        "2110233875582689514": "No call",
         "2110254737048358916": "No call: bullish on stocks/macro (65%, too unsure)",
         "2110291433441960131": "TRADE LONG QCOM, ARM \u00b7 VIEW bullish on stocks/macro",
         "2110346169541148845": "No call",
@@ -2425,15 +2423,10 @@
         "2110745870732083325": "VIEW bullish on crypto market",
         "2110747081212309893": "No call",
         "2110749159196414419": "No call",
-        "2110750844757094713": "No call"
+        "2110750844757094713": "No call",
+        "2110752242504720487": "No call: bullish on crypto market (same view as before)"
       },
       "replies": [
-        {
-          "created_at": "2026-10-15T09:02:56.000Z",
-          "id": "2110657667463274872",
-          "reply_to_id": "2110652425375805639",
-          "text": "@_OH_71 its not short term. i have never revised my assessment on strk."
-        },
         {
           "created_at": "2026-10-15T09:05:57.000Z",
           "id": "2110658427785728379",
@@ -2535,13 +2528,15 @@
           "id": "2110749770457526618",
           "reply_to_id": "2110749334115418289",
           "text": "@solanapoet \ud83d\udd25\ud83d\udd25\ud83d\udd25"
+        },
+        {
+          "created_at": "2026-10-15T15:19:05.000Z",
+          "id": "2110752327569404380",
+          "reply_to_id": "2110752183591514410",
+          "text": "@dont_farm_ranch up and to the right bros"
         }
       ],
       "threads": {
-        "2108120012640907580": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108122637561954352": {
           "alerted": [],
           "self_replies": 0
@@ -3008,10 +3003,13 @@
         "2110750844757094713": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110752242504720487": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110233875582689514": true,
         "2110254737048358916": true,
         "2110291433441960131": true,
         "2110346169541148845": true,
@@ -3024,7 +3022,6 @@
         "2110650867338863059": true,
         "2110651836168614111": true,
         "2110652410884440308": false,
-        "2110657667463274872": true,
         "2110658427785728379": false,
         "2110663303274127787": true,
         "2110663617364529449": true,
@@ -3045,7 +3042,9 @@
         "2110747081212309893": true,
         "2110749159196414419": true,
         "2110749770457526618": false,
-        "2110750844757094713": false
+        "2110750844757094713": false,
+        "2110752242504720487": true,
+        "2110752327569404380": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4717,5 +4716,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T15:14:30+00:00"
+  "updated_at": "2026-10-15T15:20:23+00:00"
 }
