@@ -2130,7 +2130,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110663955815497863",
+      "last_id": "2110665974714360171",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2276,12 +2276,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-13T06:18:42.000Z",
-          "id": "2109891561689624912",
-          "reply_to_id": "2109890364559823275",
-          "text": "also on your other comments (which i appreciate)\n\ni re-classified and called for derisk when price was ~0.27-0.28, which is far above where it crashed afterwards over the next 6 hours\n\nre:cocky, i actually agree - this has been very humbling and actually broke a long streak of thesis plays \n\nre:previous cycles yes, i was far more active in stocks and defi with far less plays in alts\n\nw was a terrible call regardless, its not a good trade"
-        },
-        {
           "created_at": "2026-10-13T06:27:48.000Z",
           "id": "2109893851347362122",
           "reply_to_id": "2109893513274184003",
@@ -2397,6 +2391,11 @@
           "created_at": "2026-10-15T08:42:03.000Z",
           "id": "2110652410884440308",
           "text": "i know im right. i dont care what anyone else says."
+        },
+        {
+          "created_at": "2026-10-15T09:35:57.000Z",
+          "id": "2110665974714360171",
+          "text": "do you have what it takes to play the most hated play, at the moment where the road ahead shines the brightest?"
         }
       ],
       "reads": {
@@ -2415,7 +2414,8 @@
         "2110648086766952731": "No call",
         "2110650867338863059": "No call",
         "2110651836168614111": "No call",
-        "2110652410884440308": "No call"
+        "2110652410884440308": "No call",
+        "2110665974714360171": "No call"
       },
       "replies": [
         {
@@ -2970,10 +2970,13 @@
         "2110652410884440308": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110665974714360171": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109891561689624912": true,
         "2109893851347362122": false,
         "2109897204165132397": true,
         "2109935458566512869": true,
@@ -3007,7 +3010,8 @@
         "2110658427785728379": false,
         "2110663303274127787": true,
         "2110663617364529449": true,
-        "2110663955815497863": false
+        "2110663955815497863": false,
+        "2110665974714360171": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4637,5 +4641,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T09:28:20+00:00"
+  "updated_at": "2026-10-15T09:36:26+00:00"
 }
