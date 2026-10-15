@@ -2130,7 +2130,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110703923346756021",
+      "last_id": "2110705708643782835",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2419,12 +2419,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T06:49:28.000Z",
-          "id": "2110624077463584847",
-          "reply_to_id": "2110622584459124986",
-          "text": "@knotkoyun thank you brother \ud83d\ude4f"
-        },
-        {
           "created_at": "2026-10-15T08:05:55.000Z",
           "id": "2110643316111110534",
           "reply_to_id": "2110638713390661708",
@@ -2513,6 +2507,18 @@
           ],
           "reply_to_id": "2110692685212262470",
           "text": "looks like it might be panic sales, first flush happened at exactly 06:17 est coinciding with 06:16:23 est (first transfer of onchain unlocked tokens, before any sales were made) and second flush happened at exactly 06:43 est coinciding with 06:42:59 est (binance accepting the unlocked tokens deposited to it)\n\n$strk"
+        },
+        {
+          "created_at": "2026-10-15T12:13:50.000Z",
+          "id": "2110705708643782835",
+          "images": [
+            "https://pbs.twimg.com/media/HUq7omsaQAAOyzt.jpg",
+            "https://pbs.twimg.com/media/HUq7pA-bgAEdmxZ.jpg",
+            "https://pbs.twimg.com/media/HUq7pYEbQAELuQt.jpg",
+            "https://pbs.twimg.com/media/HUq7puka4AEnwsL.jpg"
+          ],
+          "reply_to_id": "2110692685212262470",
+          "text": "looks like it might be panic sales, first flush happened at exactly 06:17 est coinciding with 06:16:23 est (first transfer of onchain unlocked tokens, before any sales were made) and second flush happened at exactly 06:43 est coinciding with 06:42:59 est (binance accepting the unlocked tokens deposited to it)\n\nmight be irrational / panic sales reacting to onchain unlock tranche since the onchain part of the unlock is worth less than 1mil/borderline 1mil\n\n$strk"
         }
       ],
       "threads": {
@@ -2997,7 +3003,6 @@
         "2110568719126839419": false,
         "2110611974417740143": true,
         "2110621186308862378": false,
-        "2110624077463584847": false,
         "2110643316111110534": false,
         "2110648086766952731": true,
         "2110649345624490292": true,
@@ -3017,7 +3022,8 @@
         "2110674961237147680": true,
         "2110675954422911363": false,
         "2110703585352962385": true,
-        "2110703923346756021": true
+        "2110703923346756021": true,
+        "2110705708643782835": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3036,7 +3042,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110700931197419863",
+      "last_id": "2110705272830541887",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3056,12 +3062,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T23:37:30.000Z",
-          "id": "2109790593685520394",
-          "reply_to_id": "2109787880365203583",
-          "text": "am i mid curving this so hard probably but i feel a deep desire to protect my money that i didn\u2019t really feel a few mknths ago im down to be patient"
-        },
         {
           "created_at": "2026-10-13T01:47:01.000Z",
           "id": "2109823189991715173",
@@ -3181,10 +3181,15 @@
           "id": "2110700561821487517",
           "reply_to_id": "2110699646641394005",
           "text": "@LayahHeilpern 82k sweep now what..... ."
+        },
+        {
+          "created_at": "2026-10-15T12:12:06.000Z",
+          "id": "2110705272830541887",
+          "reply_to_id": "2110693154429214765",
+          "text": "oh cam reddish.., it was supposed to be you \ud83d\ude14"
         }
       ],
       "reads": {
-        "2109790593685520394": "No call",
         "2109987664388907042": "No call",
         "2110088724310589484": "No call",
         "2110098064773890275": "No call",
@@ -3199,7 +3204,8 @@
         "2110502707383668934": "Read together with the post it replies to",
         "2110693154429214765": "No call",
         "2110699646641394005": "No call",
-        "2110700561821487517": "No call"
+        "2110700561821487517": "No call",
+        "2110705272830541887": "No call"
       },
       "replies": [
         {
@@ -3419,7 +3425,7 @@
         },
         "2110693154429214765": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2110699646641394005": {
           "alerted": [],
@@ -3427,7 +3433,6 @@
         }
       },
       "trading": {
-        "2109790593685520394": true,
         "2109823189991715173": true,
         "2109987664388907042": true,
         "2110088724310589484": false,
@@ -3461,7 +3466,8 @@
         "2110695363686412441": false,
         "2110699646641394005": false,
         "2110700561821487517": true,
-        "2110700931197419863": false
+        "2110700931197419863": false,
+        "2110705272830541887": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4659,5 +4665,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T12:08:17+00:00"
+  "updated_at": "2026-10-15T12:14:27+00:00"
 }
