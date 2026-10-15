@@ -4208,14 +4208,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110724646974767398",
+      "last_id": "2110726826704154734",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-14T15:11:21.000Z",
-          "id": "2110387994574360997",
-          "text": "Girl I'm a fan in real life..."
-        },
         {
           "created_at": "2026-10-14T15:13:19.000Z",
           "id": "2110388488344641752",
@@ -4322,10 +4317,14 @@
           "created_at": "2026-10-15T13:29:05.000Z",
           "id": "2110724646974767398",
           "text": "Of course I wake up with a fever on one of the more important trading days of the year."
+        },
+        {
+          "created_at": "2026-10-15T13:37:45.000Z",
+          "id": "2110726826704154734",
+          "text": "Elon would love nothing more than Memory companies, or Neoclouds to go bust so he can acquire the using his 88x P/E SpaceX equity to acquire for them for nothing."
         }
       ],
       "reads": {
-        "2110387994574360997": "No call",
         "2110388488344641752": "VIEW bearish on btc",
         "2110389680533393762": "No call",
         "2110391755179004395": "No call",
@@ -4344,7 +4343,8 @@
         "2110602888271548814": "No call",
         "2110604448217124963": "No call: bearish on crypto market (60%, too unsure)",
         "2110607210997023097": "No call: bearish on stocks/macro (same view as before)",
-        "2110724646974767398": "No call"
+        "2110724646974767398": "No call",
+        "2110726826704154734": "No call"
       },
       "replies": [
         {
@@ -4650,6 +4650,10 @@
         "2110724646974767398": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110726826704154734": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4662,7 +4666,6 @@
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
-        "2110387994574360997": false,
         "2110388488344641752": true,
         "2110389680533393762": true,
         "2110391755179004395": false,
@@ -4683,7 +4686,8 @@
         "2110602888271548814": true,
         "2110604448217124963": false,
         "2110607210997023097": true,
-        "2110724646974767398": false
+        "2110724646974767398": false,
+        "2110726826704154734": true
       },
       "user_id": "809191427645181952"
     }
@@ -4699,5 +4703,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T13:30:26+00:00"
+  "updated_at": "2026-10-15T13:38:22+00:00"
 }
