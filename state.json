@@ -2172,7 +2172,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110779659348812045",
+      "last_id": "2110786272390426864",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2318,12 +2318,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T08:24:52.000Z",
-          "id": "2110648086766952731",
-          "quoted_text": "i dont care what anyone else says\n\ni will trade my trade\n\nstarknet tech is superior and if people dont understand it then i will take the opposing view no matter how unpopular it is. \n\none day youre a hero the next youre the villain\n\ni choose to be moneyprinter. https://t.co/birrKDo6ue",
-          "text": "i believe in my thesis. https://t.co/lIAtHazWTU"
-        },
-        {
           "created_at": "2026-10-15T08:35:55.000Z",
           "id": "2110650867338863059",
           "text": "we will win.\n\n$strk"
@@ -2429,10 +2423,14 @@
           "id": "2110779659348812045",
           "quoted_text": "@MoneyPrinter0x \u201cbut it\u2019s a pump and dump. lmao you got baited by insiders on the exit pump before the next unlock. enjoy bagholding to zero. Loser\u201d",
           "text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/gdRfVEg5dx"
+        },
+        {
+          "created_at": "2026-10-15T17:33:58.000Z",
+          "id": "2110786272390426864",
+          "text": "people complain about memes but when technology arrives nobody dares to take the first step forward\n\nbe the change you want to be"
         }
       ],
       "reads": {
-        "2110648086766952731": "No call",
         "2110650867338863059": "No call",
         "2110651836168614111": "No call",
         "2110652410884440308": "No call",
@@ -2449,7 +2447,8 @@
         "2110762136976986381": "No call",
         "2110771577298264131": "No call",
         "2110774745964900646": "No call",
-        "2110779659348812045": "No call"
+        "2110779659348812045": "No call",
+        "2110786272390426864": "No call"
       },
       "replies": [
         {
@@ -2544,12 +2543,6 @@
         }
       ],
       "threads": {
-        "2108397149964898395": {
-          "alerted": [
-            "trade:STRK:long"
-          ],
-          "self_replies": 0
-        },
         "2108419458947817696": {
           "alerted": [
             "trade:STRK:long"
@@ -3003,10 +2996,13 @@
         "2110779659348812045": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110786272390426864": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110648086766952731": true,
         "2110650867338863059": true,
         "2110651836168614111": true,
         "2110652410884440308": false,
@@ -3040,7 +3036,8 @@
         "2110775692992643484": false,
         "2110776477491020107": false,
         "2110779450690580988": false,
-        "2110779659348812045": true
+        "2110779659348812045": true,
+        "2110786272390426864": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4728,5 +4725,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T17:30:24+00:00"
+  "updated_at": "2026-10-15T17:34:23+00:00"
 }
