@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110521991690428573",
+      "last_id": "2110522969026089390",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -219,12 +219,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T03:53:54.000Z",
-          "id": "2109855119584211308",
-          "reply_to_id": "2109853864300294160",
-          "text": "@MavrodiSavva Yeah spot stopped selling here and 1d chart looks crazy + strength against Asian equities overnight was wild idk"
-        },
-        {
           "created_at": "2026-10-13T03:56:08.000Z",
           "id": "2109855682761834561",
           "reply_to_id": "2109854851832447413",
@@ -307,6 +301,12 @@
           "id": "2110521991690428573",
           "reply_to_id": "2110332060753883639",
           "text": "@anidesh7 This was a bit it\u2019s like late late late cycle"
+        },
+        {
+          "created_at": "2026-10-15T00:07:42.000Z",
+          "id": "2110522969026089390",
+          "reply_to_id": "2110522836590669910",
+          "text": "@notthreadguy My tweet delete bot has nuked all the gems if ur trynna find"
         }
       ],
       "threads": {
@@ -586,7 +586,6 @@
         }
       },
       "trading": {
-        "2109855119584211308": true,
         "2109855682761834561": true,
         "2109855756329930770": false,
         "2109929255631196330": false,
@@ -620,7 +619,8 @@
         "2110511421029228725": false,
         "2110518129210351764": false,
         "2110520758036553771": true,
-        "2110521991690428573": true
+        "2110521991690428573": true,
+        "2110522969026089390": false
       },
       "user_id": "1446541960181858315"
     },
@@ -2973,7 +2973,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110505577793114242",
+      "last_id": "2110522836590669910",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3136,12 +3136,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T15:56:25.000Z",
-          "id": "2110399337222078855",
-          "reply_to_id": "2110375534756528213",
-          "text": "@macdegods yeah"
-        },
-        {
           "created_at": "2026-10-14T16:04:37.000Z",
           "id": "2110401397480894508",
           "reply_to_id": "2110401153779347586",
@@ -3224,6 +3218,12 @@
           "id": "2110505273773449472",
           "reply_to_id": "2110504102660636949",
           "text": "@Evan_ss6 40k? non stop doom posting about how the world is gonna end every hour for 40k?"
+        },
+        {
+          "created_at": "2026-10-15T00:07:10.000Z",
+          "id": "2110522836590669910",
+          "reply_to_id": "2062257146771714262",
+          "text": "@based16z this was a good one icl"
         }
       ],
       "threads": {
@@ -3367,7 +3367,6 @@
         "2110349236495851934": true,
         "2110373655167537538": true,
         "2110396209575972907": true,
-        "2110399337222078855": false,
         "2110401397480894508": false,
         "2110405623711953046": false,
         "2110406517883023569": false,
@@ -3386,7 +3385,8 @@
         "2110502904083693808": false,
         "2110503330342748640": false,
         "2110505273773449472": false,
-        "2110505577793114242": false
+        "2110505577793114242": false,
+        "2110522836590669910": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4555,5 +4555,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T00:04:22+00:00"
+  "updated_at": "2026-10-15T00:08:24+00:00"
 }
