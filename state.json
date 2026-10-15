@@ -2115,12 +2115,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2109672824009117846",
-          "reason": "Says risk pairs 'might not look pretty in the near term' because the tradfi crash is 'usually a leading indicator'. That is a near-term bearish turn from the recorded neutral view.",
+          "post_id": "2110745870732083325",
+          "reason": "Says the big3 held lows through the FUD, spot flows on BTC and SOL stayed strong, and expects a really noticeable HTF leg up in crypto majors (esp SOL) and IGV. That flips the recorded bearish crypto market view.",
           "scope": "crypto market",
-          "since": "2026-10-12",
-          "stance": "bearish",
-          "updated_at": "2026-10-12T15:49:31.000Z"
+          "since": "2026-10-15",
+          "stance": "bullish",
+          "updated_at": "2026-10-15T14:53:26.000Z"
         },
         "stocks/macro": {
           "market": "stocks",
@@ -2143,7 +2143,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110711400666665086",
+      "last_id": "2110745870732083325",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2289,15 +2289,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-13T09:13:08.000Z",
-          "id": "2109935458566512869",
-          "images": [
-            "https://pbs.twimg.com/media/HUf_HZ3bUAAtYGU.jpg"
-          ],
-          "quoted_text": "Welcome to Starklana https://t.co/cp7lWSyIxE",
-          "text": "no.\n\nthe consensus is wrong.\n\nThe Hated Cryptography Rally.\n\ni dont see a single trencher here - let it be clear to not mix this up with other plays.\n\nBottom is in for $STRK.\n\nthey have superior tech and they are going for the best distribution GTM in the market atm.\n\nfew. https://t.co/7zzv2oV0d7 https://t.co/7wlOKBnNZm"
-        },
-        {
           "created_at": "2026-10-13T09:33:54.000Z",
           "id": "2109940685285556306",
           "reply_to_id": "2109940078600695928",
@@ -2409,10 +2400,14 @@
           "id": "2110708617100030329",
           "reply_to_id": "2110707479634211057",
           "text": "@Route2FI think that more ppl should tune down leverage tbh so panic wouldnt happen as easily\n\nbut at least its done"
+        },
+        {
+          "created_at": "2026-10-15T14:53:26.000Z",
+          "id": "2110745870732083325",
+          "text": "we didnt make any noticeable lows on the big3 even on ai fud + anth financials fud + cpi fud + ppi fud as risk assets crashed this week, while spot flows on btc, sol remained strong\n\nthink that next igv &amp; crypto majors (esp sol) leg up is going to be really noticeable htf"
         }
       ],
       "reads": {
-        "2109935458566512869": "No call: bullish on STRK (same view as before)",
         "2109943214233063890": "No call",
         "2109957018547368347": "No call",
         "2110233875582689514": "No call",
@@ -2428,7 +2423,8 @@
         "2110650867338863059": "No call",
         "2110651836168614111": "No call",
         "2110652410884440308": "No call",
-        "2110665974714360171": "No call"
+        "2110665974714360171": "No call",
+        "2110745870732083325": "VIEW bullish on crypto market"
       },
       "replies": [
         {
@@ -3005,10 +3001,15 @@
         "2110665974714360171": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110745870732083325": {
+          "alerted": [
+            "bias:crypto market:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109935458566512869": true,
         "2109940685285556306": true,
         "2109943214233063890": true,
         "2109957018547368347": true,
@@ -3042,7 +3043,8 @@
         "2110707479634211057": true,
         "2110708617100030329": true,
         "2110711008398639498": true,
-        "2110711400666665086": false
+        "2110711400666665086": false,
+        "2110745870732083325": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4714,5 +4716,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T14:50:26+00:00"
+  "updated_at": "2026-10-15T14:54:24+00:00"
 }
