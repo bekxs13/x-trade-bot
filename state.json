@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110790768806027598",
+      "last_id": "2110830265023254756",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -224,12 +224,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T16:25:55.000Z",
-          "id": "2110406758875419056",
-          "reply_to_id": "2110406517883023569",
-          "text": "@notthreadguy @unreachablexbt Deeply unsettling https://t.co/vcgmjjVIoW"
-        },
-        {
           "created_at": "2026-10-14T16:46:45.000Z",
           "id": "2110412002359480759",
           "reply_to_id": "2110367829283553726",
@@ -312,6 +306,12 @@
           "id": "2110747590455427335",
           "reply_to_id": "2110744841625944184",
           "text": "@P_Remarks if u think tcg is secular i guess"
+        },
+        {
+          "created_at": "2026-10-15T20:28:47.000Z",
+          "id": "2110830265023254756",
+          "reply_to_id": "2110829883219910953",
+          "text": "@rizzorbust We haven\u2019t reacted to quantum headlines in a while tbh"
         }
       ],
       "threads": {
@@ -629,7 +629,6 @@
       "trading": {
         "2110396115543810439": true,
         "2110398080029966763": false,
-        "2110406758875419056": false,
         "2110412002359480759": true,
         "2110419018431729838": true,
         "2110419221222129947": true,
@@ -661,7 +660,8 @@
         "2110739328850927841": true,
         "2110747590455427335": true,
         "2110782099297124815": false,
-        "2110790768806027598": true
+        "2110790768806027598": true,
+        "2110830265023254756": true
       },
       "user_id": "1446541960181858315"
     },
@@ -4761,5 +4761,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T20:24:30+00:00"
+  "updated_at": "2026-10-15T20:30:24+00:00"
 }
