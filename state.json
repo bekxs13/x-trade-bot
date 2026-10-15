@@ -3030,7 +3030,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110691695084150784",
+      "last_id": "2110693154429214765",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3050,12 +3050,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T22:52:00.000Z",
-          "id": "2109779144452059636",
-          "reply_to_id": "2109778835851952500",
-          "text": "would chumba lie?"
-        },
         {
           "created_at": "2026-10-12T22:52:14.000Z",
           "id": "2109779201754828950",
@@ -3172,10 +3166,18 @@
           "id": "2110505577793114242",
           "reply_to_id": "2110505273773449472",
           "text": "@Evan_ss6 oh i missed a comma sorry carry on"
+        },
+        {
+          "created_at": "2026-10-15T11:23:57.000Z",
+          "id": "2110693154429214765",
+          "images": [
+            "https://pbs.twimg.com/media/HUqwOyEW0AAt8kZ.jpg"
+          ],
+          "quoted_text": "(rant) why the Whitehouse, Google and Minecraft are posting memecoins: the social media interns are making more money trading than from their salary https://t.co/67DKIR91aU",
+          "text": "https://t.co/in0ljQCn8w https://t.co/jNKAGZNywg"
         }
       ],
       "reads": {
-        "2109779144452059636": "Read together with the post it replies to",
         "2109787880365203583": "TRADE SHORT alts \u00b7 VIEW bearish on crypto market",
         "2109790593685520394": "No call",
         "2109987664388907042": "No call",
@@ -3189,7 +3191,8 @@
         "2110396209575972907": "No call",
         "2110405623711953046": "No call",
         "2110502700999942172": "No call",
-        "2110502707383668934": "Read together with the post it replies to"
+        "2110502707383668934": "Read together with the post it replies to",
+        "2110693154429214765": "No call"
       },
       "replies": [
         {
@@ -3406,10 +3409,13 @@
         "2110502700999942172": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2110693154429214765": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109779144452059636": false,
         "2109779201754828950": false,
         "2109787880365203583": true,
         "2109790593685520394": true,
@@ -3443,7 +3449,8 @@
         "2110523218624659701": false,
         "2110537437219098900": false,
         "2110550029425602790": false,
-        "2110691695084150784": false
+        "2110691695084150784": false,
+        "2110693154429214765": true
       },
       "user_id": "1426732252768182281"
     },
@@ -4641,5 +4648,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T11:20:23+00:00"
+  "updated_at": "2026-10-15T11:24:22+00:00"
 }
