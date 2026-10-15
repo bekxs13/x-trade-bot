@@ -726,7 +726,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110768714903900408",
+      "last_id": "2110771254504640786",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -912,12 +912,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T12:29:29.000Z",
-          "id": "2109984872013988256",
-          "reply_to_id": "2109976295488782479",
-          "text": "@aaalex yea dont be wrong"
-        },
-        {
           "created_at": "2026-10-13T13:14:31.000Z",
           "id": "2109996205199499430",
           "reply_to_id": "2109990679187189843",
@@ -1003,6 +997,12 @@
           ],
           "reply_to_id": "2110766361911673065",
           "text": "@0xAvast i am not sure what more these people want from me tbh https://t.co/pW1TjbkUqL"
+        },
+        {
+          "created_at": "2026-10-15T16:34:17.000Z",
+          "id": "2110771254504640786",
+          "reply_to_id": "2110698207684813053",
+          "text": "@TheStalwart @tracyalloway nice"
         }
       ],
       "threads": {
@@ -1335,7 +1335,6 @@
         "2109947683935014953": true,
         "2109950575102373992": false,
         "2109984830230261923": true,
-        "2109984872013988256": false,
         "2109996205199499430": false,
         "2110020605722378516": false,
         "2110020788229214374": true,
@@ -1360,7 +1359,8 @@
         "2110767113673781312": true,
         "2110767772062109768": false,
         "2110767955630018575": false,
-        "2110768714903900408": false
+        "2110768714903900408": false,
+        "2110771254504640786": false
       },
       "user_id": "973261472"
     },
@@ -2163,7 +2163,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110764349107352063",
+      "last_id": "2110771577298264131",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2309,11 +2309,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T03:09:29.000Z",
-          "id": "2110568719126839419",
-          "text": "keep farming paper"
-        },
-        {
           "created_at": "2026-10-15T06:01:22.000Z",
           "id": "2110611974417740143",
           "images": [
@@ -2421,10 +2416,15 @@
           "id": "2110762136976986381",
           "quoted_text": "we will win.\n\n$strk",
           "text": "we will win.\n\n$strk https://t.co/YvttDVIMe6"
+        },
+        {
+          "created_at": "2026-10-15T16:35:34.000Z",
+          "id": "2110771577298264131",
+          "quoted_text": "legit very excited hahaha\n\nfinally\n\nwe are back in the cypherpunk era of crypto.",
+          "text": "Welcome back to the Cypherpunk Era of Crypto.\n\n$STRK https://t.co/FGoHICGdnj"
         }
       ],
       "reads": {
-        "2110568719126839419": "No call",
         "2110611974417740143": "No call",
         "2110621186308862378": "No call",
         "2110648086766952731": "No call",
@@ -2441,7 +2441,8 @@
         "2110757954576433207": "No call",
         "2110758290674360679": "No call",
         "2110761983754879252": "No call",
-        "2110762136976986381": "No call"
+        "2110762136976986381": "No call",
+        "2110771577298264131": "No call"
       },
       "replies": [
         {
@@ -2536,12 +2537,6 @@
         }
       ],
       "threads": {
-        "2108248166764314906": {
-          "alerted": [
-            "trade:NVDA, SOXL, MU:short"
-          ],
-          "self_replies": 0
-        },
         "2108360350404112612": {
           "alerted": [
             "trade:STRK:long"
@@ -3001,10 +2996,13 @@
         "2110762136976986381": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110771577298264131": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110568719126839419": false,
         "2110611974417740143": true,
         "2110621186308862378": false,
         "2110648086766952731": true,
@@ -3038,7 +3036,8 @@
         "2110761983754879252": true,
         "2110762136976986381": true,
         "2110763798579867832": true,
-        "2110764349107352063": false
+        "2110764349107352063": false,
+        "2110771577298264131": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4726,5 +4725,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T16:34:22+00:00"
+  "updated_at": "2026-10-15T16:36:22+00:00"
 }
