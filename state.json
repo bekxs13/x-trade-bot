@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110737528940843213",
+      "last_id": "2110739328850927841",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -67,15 +67,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T19:56:46.000Z",
-          "id": "2110097434668073139",
-          "images": [
-            "https://pbs.twimg.com/media/HUiSbyca8AANBe4.jpg"
-          ],
-          "reply_to_id": "2110084364017230177",
-          "text": "(Yes I was the weekly put flow td) https://t.co/kSC5rR27Jq"
-        },
         {
           "created_at": "2026-10-14T08:34:15.000Z",
           "id": "2110288062261711186",
@@ -202,6 +193,11 @@
             "https://pbs.twimg.com/media/HUrX6JEasAAbE58.jpg"
           ],
           "text": "Efficient X feed https://t.co/C4avFVQS0y"
+        },
+        {
+          "created_at": "2026-10-15T14:27:26.000Z",
+          "id": "2110739328850927841",
+          "text": "Hood clean setup off the 200d"
         }
       ],
       "reads": {
@@ -223,7 +219,8 @@
         "2110610653631398182": "No call",
         "2110612813400199640": "No call",
         "2110712424315961359": "No call",
-        "2110736773420810353": "No call"
+        "2110736773420810353": "No call",
+        "2110739328850927841": "No call: maybe long HOOD (62%, too unsure)"
       },
       "replies": [
         {
@@ -615,10 +612,13 @@
         "2110736773420810353": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110739328850927841": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110097434668073139": true,
         "2110288062261711186": true,
         "2110289205565989218": false,
         "2110396115543810439": true,
@@ -652,7 +652,8 @@
         "2110690086346232248": false,
         "2110712424315961359": false,
         "2110736773420810353": false,
-        "2110737528940843213": false
+        "2110737528940843213": false,
+        "2110739328850927841": true
       },
       "user_id": "1446541960181858315"
     },
@@ -4710,5 +4711,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T14:22:19+00:00"
+  "updated_at": "2026-10-15T14:28:24+00:00"
 }
