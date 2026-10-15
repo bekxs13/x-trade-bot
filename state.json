@@ -2143,7 +2143,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110745870732083325",
+      "last_id": "2110746612423389683",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2428,12 +2428,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T08:44:34.000Z",
-          "id": "2110653044790816985",
-          "reply_to_id": "2110652547648340381",
-          "text": "@MitchPederson \ud83d\ude4f\ud83d\ude4f\ud83e\udee1"
-        },
-        {
           "created_at": "2026-10-15T08:49:45.000Z",
           "id": "2110654347566817343",
           "reply_to_id": "2110653856573194420",
@@ -2534,6 +2528,12 @@
           "id": "2110711400666665086",
           "reply_to_id": "2110707682357162160",
           "text": "@EliBenSasson this, lattice based commitments &amp; ECDSA are still too brittle even without quantum compute, especially at the current rate that ai is accelerating \n\nvitalik himself mentioned this as well"
+        },
+        {
+          "created_at": "2026-10-15T14:56:22.000Z",
+          "id": "2110746612423389683",
+          "reply_to_id": "2110745964671582537",
+          "text": "@KaneCapz last night est imo"
         }
       ],
       "threads": {
@@ -3026,7 +3026,6 @@
         "2110650867338863059": true,
         "2110651836168614111": true,
         "2110652410884440308": false,
-        "2110653044790816985": false,
         "2110654347566817343": true,
         "2110657667463274872": true,
         "2110658427785728379": false,
@@ -3044,7 +3043,8 @@
         "2110708617100030329": true,
         "2110711008398639498": true,
         "2110711400666665086": false,
-        "2110745870732083325": true
+        "2110745870732083325": true,
+        "2110746612423389683": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4716,5 +4716,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T14:54:24+00:00"
+  "updated_at": "2026-10-15T14:58:19+00:00"
 }
