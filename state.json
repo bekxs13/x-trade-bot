@@ -726,7 +726,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110764707640689050",
+      "last_id": "2110765762457809110",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -762,12 +762,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T16:56:11.000Z",
-          "id": "2109689601376018710",
-          "quoted_text": "Ansem says Coinbase CEO Brian Armstrong is an absolute killer\n\n\u201cI feel like he's way, way more relatable on camera than he is on the timeline. Super smart guy. People don't realize, with his position, how fucking diehard you have to be to succeed in doing that, bro\u201d\n\n\u201cEvery single crypto exchange from around 2012 is dead besides him, in the US. They crushed it, and they've done a great job in the US for crypto\u201d",
-          "text": "my goat https://t.co/uGGA0abK8M"
-        },
         {
           "created_at": "2026-10-12T17:45:17.000Z",
           "id": "2109701956440891883",
@@ -891,10 +885,14 @@
           "created_at": "2026-10-15T16:08:17.000Z",
           "id": "2110764707640689050",
           "text": "think that was it"
+        },
+        {
+          "created_at": "2026-10-15T16:12:28.000Z",
+          "id": "2110765762457809110",
+          "text": "it seems that it is difficult for ct to hold opposing opinions on different timeframes, you must realize that these markets can swing 10%+ intraday, if you're not prepared for this mentally you are never going to be able to make money in this market"
         }
       ],
       "reads": {
-        "2109689601376018710": "No call",
         "2109701956440891883": "No call: bullish on memecoins (same view as before)",
         "2109734999708831885": "VIEW bullish on PUMP",
         "2109736979932008805": "No call: bullish on PUMP (60%, too unsure)",
@@ -912,7 +910,8 @@
         "2110318790793642277": "No call",
         "2110326122655404263": "No call",
         "2110327073961119900": "No call",
-        "2110764707640689050": "No call"
+        "2110764707640689050": "No call",
+        "2110765762457809110": "No call"
       },
       "replies": [
         {
@@ -1312,10 +1311,13 @@
         "2110764707640689050": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110765762457809110": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109689601376018710": false,
         "2109701956440891883": true,
         "2109734999708831885": true,
         "2109736979932008805": true,
@@ -1349,7 +1351,8 @@
         "2110345195543822652": false,
         "2110345342084587766": false,
         "2110345457365102786": false,
-        "2110764707640689050": true
+        "2110764707640689050": true,
+        "2110765762457809110": true
       },
       "user_id": "973261472"
     },
@@ -3040,7 +3043,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110765558815928619",
+      "last_id": "2110765879638274522",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3208,12 +3211,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T22:49:39.000Z",
-          "id": "2110503330342748640",
-          "reply_to_id": "2110495704976085489",
-          "text": "@Evan_ss6 slides in 2026?"
-        },
-        {
           "created_at": "2026-10-14T22:57:23.000Z",
           "id": "2110505273773449472",
           "reply_to_id": "2110504102660636949",
@@ -3296,6 +3293,12 @@
           "id": "2110765558815928619",
           "reply_to_id": "2110765332860473377",
           "text": "@BittexXBT i should have picked matt damon first"
+        },
+        {
+          "created_at": "2026-10-15T16:12:56.000Z",
+          "id": "2110765879638274522",
+          "reply_to_id": "2110765554147467548",
+          "text": "@selectivesnail the only one i\u2019ll ever say 1x for"
         }
       ],
       "threads": {
@@ -3453,7 +3456,6 @@
         "2110462485312725189": false,
         "2110502700999942172": true,
         "2110502707383668934": false,
-        "2110503330342748640": false,
         "2110505273773449472": false,
         "2110505577793114242": false,
         "2110522836590669910": false,
@@ -3474,7 +3476,8 @@
         "2110756931061068102": false,
         "2110762518495085033": false,
         "2110764924863685092": false,
-        "2110765558815928619": false
+        "2110765558815928619": false,
+        "2110765879638274522": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4709,5 +4712,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T16:12:22+00:00"
+  "updated_at": "2026-10-15T16:14:31+00:00"
 }
