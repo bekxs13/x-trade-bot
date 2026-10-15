@@ -2130,7 +2130,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110705708643782835",
+      "last_id": "2110706153718223077",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2419,12 +2419,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T08:05:55.000Z",
-          "id": "2110643316111110534",
-          "reply_to_id": "2110638713390661708",
-          "text": "@EliBenSasson do it"
-        },
-        {
           "created_at": "2026-10-15T08:29:52.000Z",
           "id": "2110649345624490292",
           "reply_to_id": "2110648644538159225",
@@ -2519,6 +2513,12 @@
           ],
           "reply_to_id": "2110692685212262470",
           "text": "looks like it might be panic sales, first flush happened at exactly 06:17 est coinciding with 06:16:23 est (first transfer of onchain unlocked tokens, before any sales were made) and second flush happened at exactly 06:43 est coinciding with 06:42:59 est (binance accepting the unlocked tokens deposited to it)\n\nmight be irrational / panic sales reacting to onchain unlock tranche since the onchain part of the unlock is worth less than 1mil/borderline 1mil\n\n$strk"
+        },
+        {
+          "created_at": "2026-10-15T12:15:36.000Z",
+          "id": "2110706153718223077",
+          "reply_to_id": "2110681661717258598",
+          "text": "@leihpares dont do that bro \ud83d\ude2d"
         }
       ],
       "threads": {
@@ -3003,7 +3003,6 @@
         "2110568719126839419": false,
         "2110611974417740143": true,
         "2110621186308862378": false,
-        "2110643316111110534": false,
         "2110648086766952731": true,
         "2110649345624490292": true,
         "2110649537929109829": true,
@@ -3023,7 +3022,8 @@
         "2110675954422911363": false,
         "2110703585352962385": true,
         "2110703923346756021": true,
-        "2110705708643782835": true
+        "2110705708643782835": true,
+        "2110706153718223077": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4665,5 +4665,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T12:14:27+00:00"
+  "updated_at": "2026-10-15T12:16:19+00:00"
 }
