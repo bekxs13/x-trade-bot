@@ -4230,14 +4230,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110838124645622210",
+      "last_id": "2110846742430408938",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-14T17:57:14.000Z",
-          "id": "2110429740612075788",
-          "text": "Sunday Spaces returns this weekend at 7pm EST.\n\nWith my (now famous) cohost @SoskaKyle."
-        },
         {
           "created_at": "2026-10-14T21:26:43.000Z",
           "id": "2110482457686315161",
@@ -4341,10 +4336,14 @@
           "id": "2110838124645622210",
           "quoted_text": "*ANTHROPIC INVESTORS WEIGH LOWER IPO VALUATION OF ~$1.5T VS EARLIER $2T: SOURCES\n\n*SOME ANTHROPIC INVESTORS DISAPPOINTED BY SEQUENTIAL GROWTH DECELERATION: SOURCES",
           "text": "\ud83d\ude0e\ud83d\udc4d https://t.co/nBwodl9Oz9"
+        },
+        {
+          "created_at": "2026-10-15T21:34:15.000Z",
+          "id": "2110846742430408938",
+          "text": "What should I be paying attention to that I\u2019m not currently look at?"
         }
       ],
       "reads": {
-        "2110429740612075788": "No call",
         "2110482457686315161": "No call",
         "2110494346646630545": "No call: bearish on stocks/macro (same view as before)",
         "2110500007421890959": "No call",
@@ -4363,7 +4362,8 @@
         "2110822350329671828": "No call",
         "2110828743505674266": "No call: bullish on crypto market (55%, too unsure)",
         "2110828898267140430": "Read together with the post it replies to",
-        "2110838124645622210": "No call: bearish on stocks/macro (60%, too unsure)"
+        "2110838124645622210": "No call: bearish on stocks/macro (60%, too unsure)",
+        "2110846742430408938": "No call"
       },
       "replies": [
         {
@@ -4717,6 +4717,10 @@
         "2110838124645622210": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110846742430408938": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4730,7 +4734,6 @@
         "2109662643053371875": false,
         "2109698195953692702": false,
         "2110411948982460824": true,
-        "2110429740612075788": false,
         "2110482457686315161": true,
         "2110494346646630545": true,
         "2110500007421890959": true,
@@ -4752,7 +4755,8 @@
         "2110828743505674266": true,
         "2110828898267140430": true,
         "2110832817840259528": false,
-        "2110838124645622210": true
+        "2110838124645622210": true,
+        "2110846742430408938": false
       },
       "user_id": "809191427645181952"
     }
@@ -4768,5 +4772,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T21:14:17+00:00"
+  "updated_at": "2026-10-15T21:36:23+00:00"
 }
