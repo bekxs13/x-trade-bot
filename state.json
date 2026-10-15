@@ -726,7 +726,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110345457365102786",
+      "last_id": "2110764707640689050",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -762,12 +762,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T10:43:10.000Z",
-          "id": "2109595727404089816",
-          "quoted_text": "$150,000 on the line for some of the best traders on CT.\n\nOur first live Coinbase Champions trading competition is officially complete.\n\nCrypto events are so back. https://t.co/RifhIySnN5",
-          "text": "had a lot of fun in Singapore @ the coinbase champions event, production was very well done all around and made it easy for us to just show up and trade\n\nalso s/o the crowd was lit \n\nlooking forward to seeing @coinbase's new pro product relaunching later this year \ud83c\udfcc\ud83c\udffe\u200d\u2642\ufe0f https://t.co/45ZXHkeYWC"
-        },
         {
           "created_at": "2026-10-12T16:56:11.000Z",
           "id": "2109689601376018710",
@@ -892,10 +886,14 @@
           "created_at": "2026-10-14T11:09:17.000Z",
           "id": "2110327073961119900",
           "text": "i sense turbulence ahead"
+        },
+        {
+          "created_at": "2026-10-15T16:08:17.000Z",
+          "id": "2110764707640689050",
+          "text": "think that was it"
         }
       ],
       "reads": {
-        "2109595727404089816": "No call",
         "2109689601376018710": "No call",
         "2109701956440891883": "No call: bullish on memecoins (same view as before)",
         "2109734999708831885": "VIEW bullish on PUMP",
@@ -913,7 +911,8 @@
         "2110304660192117229": "No call",
         "2110318790793642277": "No call",
         "2110326122655404263": "No call",
-        "2110327073961119900": "No call"
+        "2110327073961119900": "No call",
+        "2110764707640689050": "No call"
       },
       "replies": [
         {
@@ -1309,10 +1308,13 @@
         "2110327073961119900": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110764707640689050": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109595727404089816": true,
         "2109689601376018710": false,
         "2109701956440891883": true,
         "2109734999708831885": true,
@@ -1346,7 +1348,8 @@
         "2110327073961119900": true,
         "2110345195543822652": false,
         "2110345342084587766": false,
-        "2110345457365102786": false
+        "2110345457365102786": false,
+        "2110764707640689050": true
       },
       "user_id": "973261472"
     },
@@ -3037,7 +3040,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110762518495085033",
+      "last_id": "2110764924863685092",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3205,12 +3208,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T20:07:12.000Z",
-          "id": "2110462447995826535",
-          "reply_to_id": "2110447045018583172",
-          "text": "@CryptoEthan \ud83d\ude14"
-        },
-        {
           "created_at": "2026-10-14T22:47:58.000Z",
           "id": "2110502904083693808",
           "reply_to_id": "2110500998146085162",
@@ -3293,6 +3290,12 @@
           "id": "2110756931061068102",
           "reply_to_id": "2110725928133234814",
           "text": "@LayahHeilpern you are my hero"
+        },
+        {
+          "created_at": "2026-10-15T16:09:08.000Z",
+          "id": "2110764924863685092",
+          "reply_to_id": "2110764707640689050",
+          "text": "@blknoiz06 imagine"
         }
       ],
       "threads": {
@@ -3447,7 +3450,6 @@
         "2110373655167537538": true,
         "2110396209575972907": true,
         "2110405623711953046": false,
-        "2110462447995826535": false,
         "2110462485312725189": false,
         "2110502700999942172": true,
         "2110502707383668934": false,
@@ -3471,7 +3473,8 @@
         "2110741626150899751": false,
         "2110750601764028899": false,
         "2110756931061068102": false,
-        "2110762518495085033": false
+        "2110762518495085033": false,
+        "2110764924863685092": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4706,5 +4709,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T16:08:17+00:00"
+  "updated_at": "2026-10-15T16:10:26+00:00"
 }
