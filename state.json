@@ -2130,7 +2130,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110665974714360171",
+      "last_id": "2110674961237147680",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2419,12 +2419,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T14:48:26.000Z",
-          "id": "2110382224730386493",
-          "reply_to_id": "2110381426583752945",
-          "text": "@obsrvgmi https://t.co/XtTd2K0NGh"
-        },
-        {
           "created_at": "2026-10-14T14:50:36.000Z",
           "id": "2110382771822612605",
           "reply_to_id": "2110382334528917691",
@@ -2507,6 +2501,12 @@
           "id": "2110663955815497863",
           "reply_to_id": "2110662164172112273",
           "text": "@SingoPunk not a good trader yet, still a lot to learn haha"
+        },
+        {
+          "created_at": "2026-10-15T10:11:39.000Z",
+          "id": "2110674961237147680",
+          "reply_to_id": "2110639360995741894",
+          "text": "@Nadai02010 @Starknet @odin_free @EliBenSasson @omarespejel @Calcutat @haroldbillioner @SefirotWatch @0xKodawari @Buremo_irede @BlackAporia @uche2v @Lyskey Keep building! $strk\n\nBunker Mode."
         }
       ],
       "threads": {
@@ -2989,7 +2989,6 @@
         "2110346169541148845": true,
         "2110347830837620869": true,
         "2110348166394704207": false,
-        "2110382224730386493": false,
         "2110382771822612605": true,
         "2110417163823747153": true,
         "2110568719126839419": false,
@@ -3011,7 +3010,8 @@
         "2110663303274127787": true,
         "2110663617364529449": true,
         "2110663955815497863": false,
-        "2110665974714360171": true
+        "2110665974714360171": true,
+        "2110674961237147680": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4641,5 +4641,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T09:36:26+00:00"
+  "updated_at": "2026-10-15T10:12:19+00:00"
 }
