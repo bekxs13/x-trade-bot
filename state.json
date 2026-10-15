@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110835814850855132",
+      "last_id": "2110836286034747522",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -224,12 +224,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T21:27:43.000Z",
-          "id": "2110482709827219965",
-          "reply_to_id": "2110481271625548152",
-          "text": "@ContrarianCurse They think of themselves as gods and they also think of humans and machines as equivalent"
-        },
-        {
           "created_at": "2026-10-14T23:11:28.000Z",
           "id": "2110508818698580349",
           "reply_to_id": "2110508280598438131",
@@ -312,6 +306,12 @@
           "id": "2110835814850855132",
           "reply_to_id": "2110835457986818209",
           "text": "@yurtledot @itshd__ All natural tweak"
+        },
+        {
+          "created_at": "2026-10-15T20:52:42.000Z",
+          "id": "2110836286034747522",
+          "reply_to_id": "2110835764435062948",
+          "text": "@chucKing_ @itshd__ I did drink coffee today"
         }
       ],
       "threads": {
@@ -632,7 +632,6 @@
         "2110422699663376604": true,
         "2110457497903620432": true,
         "2110476939488322037": false,
-        "2110482709827219965": false,
         "2110482820556861542": false,
         "2110483608737857969": false,
         "2110499057219383709": true,
@@ -661,7 +660,8 @@
         "2110830265023254756": true,
         "2110832901067767900": false,
         "2110834913482285101": false,
-        "2110835814850855132": false
+        "2110835814850855132": false,
+        "2110836286034747522": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4768,5 +4768,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T20:52:20+00:00"
+  "updated_at": "2026-10-15T20:54:17+00:00"
 }
