@@ -2130,7 +2130,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110711008398639498",
+      "last_id": "2110711400666665086",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2419,12 +2419,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T08:37:55.000Z",
-          "id": "2110651371519349178",
-          "reply_to_id": "2110651293505032545",
-          "text": "@bobic_matej \ud83e\udee1\ud83e\udee1\ud83e\udee1"
-        },
-        {
           "created_at": "2026-10-15T08:44:34.000Z",
           "id": "2110653044790816985",
           "reply_to_id": "2110652547648340381",
@@ -2525,6 +2519,12 @@
           "id": "2110711008398639498",
           "reply_to_id": "2110710194674049264",
           "text": "@leihpares strk yes \n\non eq just got filled on soxl at 99 somehow, setting stops at 98.5 n seeing how it goes"
+        },
+        {
+          "created_at": "2026-10-15T12:36:27.000Z",
+          "id": "2110711400666665086",
+          "reply_to_id": "2110707682357162160",
+          "text": "@EliBenSasson this, lattice based commitments &amp; ECDSA are still too brittle even without quantum compute, especially at the current rate that ai is accelerating \n\nvitalik himself mentioned this as well"
         }
       ],
       "threads": {
@@ -3010,7 +3010,6 @@
         "2110621186308862378": false,
         "2110648086766952731": true,
         "2110650867338863059": true,
-        "2110651371519349178": false,
         "2110651836168614111": true,
         "2110652410884440308": false,
         "2110653044790816985": false,
@@ -3029,7 +3028,8 @@
         "2110706153718223077": false,
         "2110707479634211057": true,
         "2110708617100030329": true,
-        "2110711008398639498": true
+        "2110711008398639498": true,
+        "2110711400666665086": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4671,5 +4671,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T12:36:18+00:00"
+  "updated_at": "2026-10-15T12:38:17+00:00"
 }
