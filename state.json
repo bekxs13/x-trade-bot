@@ -2143,7 +2143,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110755781348057503",
+      "last_id": "2110757954576433207",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2289,15 +2289,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-14T08:47:39.000Z",
-          "id": "2110291433441960131",
-          "images": [
-            "https://pbs.twimg.com/media/HUlC3F_agAAfNPY.jpg"
-          ],
-          "quoted_text": "cpi frontrun crash due to recent fed moves causing ppl to derisk far more than recent 8 prints\n\ninto decent print",
-          "text": "bought qcom, arm spot https://t.co/nPXAhorI6D https://t.co/YQz6t3uNPo"
-        },
-        {
           "created_at": "2026-10-14T12:25:09.000Z",
           "id": "2110346169541148845",
           "images": [
@@ -2404,10 +2395,15 @@
           "id": "2110755781348057503",
           "quoted_text": "BREAKING: STARKNET TAKES ITS INDEPENDENT POST-QUANTUM L1 AMBITION INTO GOVERNANCE.\n\nA NEW GOVERNANCE POLL ASKS STRK HOLDERS TO BACK FURTHER RESEARCH INTO THE MOVE.\n\nethereum:0xca14007eff0db1f8135f4c25b34de49ab0d42766 \n\nhttps://t.co/yWH282iiqC",
           "text": "bought more $strk https://t.co/IoFZxOZSJA"
+        },
+        {
+          "created_at": "2026-10-15T15:41:27.000Z",
+          "id": "2110757954576433207",
+          "quoted_text": "@Rugart3 timing and positioning.\n\nai was always a thing.\n\nit didnt take until 2022 for it to become the main thing.\n\nmathematical innovations were always a thing.\n\nit didnt take until oct 2026 for it to heavily accelerate 100x.\n\nand to become THE main thing over the foreseeable future.",
+          "text": "the thesis remains the same.\n\nthe tourists has left.\n\nthe fud has been fought off.\n\nthe unlock has just passed.\n\nthe road ahead\n\nis fucking bright.\n\nIts MoneyPrinter Mode, bitch.\n\n$STRK https://t.co/A5Op34QEC1"
         }
       ],
       "reads": {
-        "2110291433441960131": "TRADE LONG QCOM, ARM \u00b7 VIEW bullish on stocks/macro",
         "2110346169541148845": "No call",
         "2110347830837620869": "TRADE LONG SOL",
         "2110348166394704207": "No call: maybe exit SOL (60%, too unsure)",
@@ -2424,7 +2420,8 @@
         "2110749159196414419": "No call",
         "2110750844757094713": "No call",
         "2110752242504720487": "No call: bullish on crypto market (same view as before)",
-        "2110755781348057503": "TRADE LONG STRK"
+        "2110755781348057503": "TRADE LONG STRK",
+        "2110757954576433207": "No call"
       },
       "replies": [
         {
@@ -2537,12 +2534,6 @@
         }
       ],
       "threads": {
-        "2108156892279456072": {
-          "alerted": [
-            "trade:STRK:long"
-          ],
-          "self_replies": 0
-        },
         "2108238771796001138": {
           "alerted": [
             "trade:NVDA:short"
@@ -3009,10 +3000,13 @@
             "trade:STRK:long"
           ],
           "self_replies": 0
+        },
+        "2110757954576433207": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110291433441960131": true,
         "2110346169541148845": true,
         "2110347830837620869": true,
         "2110348166394704207": false,
@@ -3046,7 +3040,8 @@
         "2110753439500370116": true,
         "2110753653711900948": false,
         "2110753681566261670": false,
-        "2110755781348057503": true
+        "2110755781348057503": true,
+        "2110757954576433207": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4726,5 +4721,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T15:40:28+00:00"
+  "updated_at": "2026-10-15T15:42:23+00:00"
 }
