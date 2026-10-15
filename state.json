@@ -2163,7 +2163,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110775692992643484",
+      "last_id": "2110776477491020107",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2443,12 +2443,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T12:36:27.000Z",
-          "id": "2110711400666665086",
-          "reply_to_id": "2110707682357162160",
-          "text": "@EliBenSasson this, lattice based commitments &amp; ECDSA are still too brittle even without quantum compute, especially at the current rate that ai is accelerating \n\nvitalik himself mentioned this as well"
-        },
-        {
           "created_at": "2026-10-15T14:56:22.000Z",
           "id": "2110746612423389683",
           "reply_to_id": "2110745964671582537",
@@ -2531,6 +2525,12 @@
           "id": "2110775692992643484",
           "reply_to_id": "2110775428881535044",
           "text": "@Brandonnovin @ChillDevl10 i meant chief technology officer\ud83d\ude02"
+        },
+        {
+          "created_at": "2026-10-15T16:55:03.000Z",
+          "id": "2110776477491020107",
+          "reply_to_id": "2110775845065232708",
+          "text": "@cryptouthred impossible"
         }
       ],
       "threads": {
@@ -3006,7 +3006,6 @@
         "2110665974714360171": true,
         "2110703923346756021": true,
         "2110708617100030329": true,
-        "2110711400666665086": false,
         "2110745870732083325": true,
         "2110746612423389683": false,
         "2110747081212309893": true,
@@ -3032,7 +3031,8 @@
         "2110764349107352063": false,
         "2110771577298264131": true,
         "2110774745964900646": true,
-        "2110775692992643484": false
+        "2110775692992643484": false,
+        "2110776477491020107": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4720,5 +4720,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T16:52:21+00:00"
+  "updated_at": "2026-10-15T16:56:18+00:00"
 }
