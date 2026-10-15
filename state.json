@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110609935969181778",
+      "last_id": "2110610263162618293",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -67,12 +67,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T08:54:39.000Z",
-          "id": "2109930806974243185",
-          "reply_to_id": "2109930633304879522",
-          "text": "Oh we have to do stock promotion on twitter for our company \n\nYeah man I just do the stock promotion and buy shit. Lotta content"
-        },
         {
           "created_at": "2026-10-13T08:55:14.000Z",
           "id": "2109930952885678249",
@@ -196,10 +190,18 @@
           "id": "2110609935969181778",
           "quoted_text": "China will be making a LOT of RAM in 2028 https://t.co/RiBFTe6JIC",
           "text": "Elon max incentivized to wreck the markets tbh. Republicans on the outs got his IPO out got what he needed trynna kill Dario etc https://t.co/R8jTiX4vJ9"
+        },
+        {
+          "created_at": "2026-10-15T05:54:34.000Z",
+          "id": "2110610263162618293",
+          "images": [
+            "https://pbs.twimg.com/media/HUpk2XAboAAtofb.jpg"
+          ],
+          "reply_to_id": "2110609935969181778",
+          "text": "Bro just tweeting fud and then no crying in the casino lmao https://t.co/17FUMF1GOu"
         }
       ],
       "reads": {
-        "2109930806974243185": "No call",
         "2109949149353316861": "No call",
         "2110079299609145355": "No call",
         "2110084364017230177": "No call",
@@ -216,7 +218,8 @@
         "2110518129210351764": "No call",
         "2110520758036553771": "No call: bullish on stocks/macro (60%, too unsure)",
         "2110572256082743609": "No call",
-        "2110609935969181778": "No call"
+        "2110609935969181778": "No call",
+        "2110610263162618293": "No call"
       },
       "replies": [
         {
@@ -591,11 +594,10 @@
         },
         "2110609935969181778": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2109930806974243185": false,
         "2109930952885678249": false,
         "2109949149353316861": false,
         "2109966164743135409": false,
@@ -629,7 +631,8 @@
         "2110572256082743609": true,
         "2110583082948706633": true,
         "2110596496215458137": false,
-        "2110609935969181778": true
+        "2110609935969181778": true,
+        "2110610263162618293": true
       },
       "user_id": "1446541960181858315"
     },
@@ -4597,5 +4600,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T05:54:24+00:00"
+  "updated_at": "2026-10-15T05:56:22+00:00"
 }
