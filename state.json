@@ -1637,7 +1637,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2110549132578554226",
+      "last_id": "2110555688523219037",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1673,13 +1673,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T04:57:20.000Z",
-          "id": "2109871082987786632",
-          "quoted_text": "@anaturalcat Looks bad mags look good \n\n#investing",
-          "reply_to_id": "2109802796107350151",
-          "text": "@chumbawamba22 They don\u2019t want you to know you can just look at something and decide where it\u2019s going https://t.co/tBANuBjePS"
-        },
         {
           "created_at": "2026-10-13T13:50:27.000Z",
           "id": "2110005247536222698",
@@ -1788,6 +1781,12 @@
           "id": "2110549132578554226",
           "reply_to_id": "2109778560567402878",
           "text": "Yeaaaaah"
+        },
+        {
+          "created_at": "2026-10-15T02:17:43.000Z",
+          "id": "2110555688523219037",
+          "reply_to_id": "2108271202875969933",
+          "text": "Kept getting worse, prob gets worse still, I imagine the next leg down sub 81 is a matter of when not if"
         }
       ],
       "reads": {
@@ -2017,7 +2016,6 @@
         }
       },
       "trading": {
-        "2109871082987786632": true,
         "2110005247536222698": false,
         "2110006485019484457": true,
         "2110033888332681447": true,
@@ -2051,7 +2049,8 @@
         "2110530030434693628": true,
         "2110530132381516205": false,
         "2110545727218946293": false,
-        "2110549132578554226": false
+        "2110549132578554226": false,
+        "2110555688523219037": true
       },
       "user_id": "953032269433745408"
     },
@@ -4564,5 +4563,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T01:56:35+00:00"
+  "updated_at": "2026-10-15T02:18:22+00:00"
 }
