@@ -2176,7 +2176,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110807072073978312",
+      "last_id": "2110807712875614238",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2322,11 +2322,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T08:42:03.000Z",
-          "id": "2110652410884440308",
-          "text": "i know im right. i dont care what anyone else says."
-        },
-        {
           "created_at": "2026-10-15T09:35:57.000Z",
           "id": "2110665974714360171",
           "text": "do you have what it takes to play the most hated play, at the moment where the road ahead shines the brightest?"
@@ -2433,10 +2428,15 @@
           "id": "2110801368105861347",
           "quoted_text": "[ ZOOMER ] \n\nGOOGLE MAKES MAJOR BREAKTHROUGH IN QUANTUM COMPUTING, SHOWING THAT \"MAGIC STATE CULTIVATION\" WORKS IN PRACTICE, REDUCING ERRORS BY 40X: BLOG",
           "text": "Starknet.\n\n$strk https://t.co/0ySWecnsLA"
+        },
+        {
+          "created_at": "2026-10-15T18:59:10.000Z",
+          "id": "2110807712875614238",
+          "quoted_text": "@MoneyPrinter0x Bitcoin is a meme bro. What you talking about. Web2 has solved everything always, and decentralisation? There ain\u2019t no decentralisation in 2026",
+          "text": "tech bottom https://t.co/meQSnlB58L"
         }
       ],
       "reads": {
-        "2110652410884440308": "No call",
         "2110665974714360171": "No call",
         "2110745870732083325": "VIEW bullish on crypto market",
         "2110747081212309893": "No call",
@@ -2453,7 +2453,8 @@
         "2110779659348812045": "No call",
         "2110786272390426864": "No call",
         "2110788447556559130": "No call",
-        "2110801368105861347": "No call"
+        "2110801368105861347": "No call",
+        "2110807712875614238": "No call"
       },
       "replies": [
         {
@@ -2548,12 +2549,6 @@
         }
       ],
       "threads": {
-        "2108467127783154171": {
-          "alerted": [
-            "bias:btc:bullish"
-          ],
-          "self_replies": 0
-        },
         "2108470411361178094": {
           "alerted": [],
           "self_replies": 0
@@ -3003,10 +2998,13 @@
         "2110801368105861347": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110807712875614238": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110652410884440308": false,
         "2110665974714360171": true,
         "2110703923346756021": true,
         "2110708617100030329": true,
@@ -3040,7 +3038,8 @@
         "2110788447556559130": false,
         "2110801368105861347": true,
         "2110801401500815670": false,
-        "2110807072073978312": true
+        "2110807072073978312": true,
+        "2110807712875614238": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4744,5 +4743,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T18:58:27+00:00"
+  "updated_at": "2026-10-15T19:00:27+00:00"
 }
