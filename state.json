@@ -4208,14 +4208,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110607210997023097",
+      "last_id": "2110724646974767398",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-14T15:06:10.000Z",
-          "id": "2110386688325239130",
-          "text": "Price is definitely worth the spite"
-        },
         {
           "created_at": "2026-10-14T15:11:21.000Z",
           "id": "2110387994574360997",
@@ -4322,10 +4317,14 @@
           "id": "2110607210997023097",
           "quoted_text": "No one - and I mean literally no one in the AI supply chain - takes the ridiculous $1 trillion of unfunded spending \u201ccommitments\u201d from OpenAI and Anthropic even vaguely seriously.\n\nHence the TSM executives dismissing Sam Altman as a nontechnical \u201cpodcast bro\u201d after he came to them to make a commitment.\n\nJust listen to the answers that public company executives give about these unfunded \u201ccommitments.\u201d They are functionally irrelevant and this should be obvious to everyone.",
           "text": "This will be my favorite and framed tweet from this cycle.\n\n\u201cDude lmao, imagine taking the $1T of planned spend and market moving announcement seriously\u201d\n\nSo we can just say anything now in public markets and everyone is okay with that? https://t.co/fXdqZU4DBR"
+        },
+        {
+          "created_at": "2026-10-15T13:29:05.000Z",
+          "id": "2110724646974767398",
+          "text": "Of course I wake up with a fever on one of the more important trading days of the year."
         }
       ],
       "reads": {
-        "2110386688325239130": "No call",
         "2110387994574360997": "No call",
         "2110388488344641752": "VIEW bearish on btc",
         "2110389680533393762": "No call",
@@ -4344,7 +4343,8 @@
         "2110589117792735525": "No call",
         "2110602888271548814": "No call",
         "2110604448217124963": "No call: bearish on crypto market (60%, too unsure)",
-        "2110607210997023097": "No call: bearish on stocks/macro (same view as before)"
+        "2110607210997023097": "No call: bearish on stocks/macro (same view as before)",
+        "2110724646974767398": "No call"
       },
       "replies": [
         {
@@ -4646,6 +4646,10 @@
         "2110607210997023097": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110724646974767398": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4658,7 +4662,6 @@
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
-        "2110386688325239130": false,
         "2110387994574360997": false,
         "2110388488344641752": true,
         "2110389680533393762": true,
@@ -4679,7 +4682,8 @@
         "2110589117792735525": true,
         "2110602888271548814": true,
         "2110604448217124963": false,
-        "2110607210997023097": true
+        "2110607210997023097": true,
+        "2110724646974767398": false
       },
       "user_id": "809191427645181952"
     }
@@ -4695,5 +4699,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T13:02:20+00:00"
+  "updated_at": "2026-10-15T13:30:26+00:00"
 }
