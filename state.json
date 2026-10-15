@@ -3059,7 +3059,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110794032595214834",
+      "last_id": "2110798325805092991",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3079,12 +3079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T19:22:10.000Z",
-          "id": "2110088724310589484",
-          "quoted_text": "Introducing The Cheeky Pint Benchmark.\n\nWe made our intern watch every episode of Cheeky Pint to bring you this breakdown of pints drank by guests to the nearest sixth.\n\nCongratulations to @elonmusk who is currently in the lead with three full pints of Guinness. https://t.co/YTTP4P6BSA",
-          "text": "shoutout Zuck for powering through. patriot https://t.co/54HdJl1Qnc"
-        },
         {
           "created_at": "2026-10-13T19:59:17.000Z",
           "id": "2110098064773890275",
@@ -3204,10 +3198,14 @@
           "id": "2110762518495085033",
           "quoted_text": "THE BASED16Z INTERVIEW. TOMORROW. 230PM EST.\n\nLIVE ON ALL PLATFORMS. https://t.co/EpM6YAAj69",
           "text": "today https://t.co/ejTEiIc4m9"
+        },
+        {
+          "created_at": "2026-10-15T18:21:52.000Z",
+          "id": "2110798325805092991",
+          "text": "LIVE: The Based16z Interview https://t.co/zsvboM1oXg"
         }
       ],
       "reads": {
-        "2110088724310589484": "No call",
         "2110098064773890275": "No call",
         "2110099636820054153": "No call",
         "2110144405151555773": "No call",
@@ -3223,7 +3221,8 @@
         "2110700561821487517": "No call",
         "2110705272830541887": "No call",
         "2110712299170456020": "No call",
-        "2110762518495085033": "No call"
+        "2110762518495085033": "No call",
+        "2110798325805092991": "No call"
       },
       "replies": [
         {
@@ -3456,10 +3455,13 @@
         "2110762518495085033": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110798325805092991": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110088724310589484": false,
         "2110098064773890275": false,
         "2110099636820054153": false,
         "2110100532094234942": false,
@@ -3493,7 +3495,8 @@
         "2110765879638274522": false,
         "2110770703062417682": false,
         "2110785091442204950": false,
-        "2110794032595214834": false
+        "2110794032595214834": false,
+        "2110798325805092991": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4730,5 +4733,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T18:20:18+00:00"
+  "updated_at": "2026-10-15T18:22:19+00:00"
 }
