@@ -2143,7 +2143,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110763798579867832",
+      "last_id": "2110764349107352063",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2425,18 +2425,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T12:20:52.000Z",
-          "id": "2110707479634211057",
-          "images": [
-            "https://pbs.twimg.com/media/HUq9PoxbAAI_W2V.jpg",
-            "https://pbs.twimg.com/media/HUq9QArbMAAWxgk.jpg",
-            "https://pbs.twimg.com/media/HUq9QaYbwAA8xY0.jpg",
-            "https://pbs.twimg.com/media/HUq9Q5VbQAAadWf.jpg"
-          ],
-          "reply_to_id": "2110692685212262470",
-          "text": "looks like it might be panic sales, first flush happened at exactly 06:17 est coinciding with 06:16:23 est (first transfer of onchain unlocked tokens, before any sales were made) and second flush happened at exactly 06:43 est coinciding with 06:42:59 est (binance accepting the unlocked tokens deposited to it)\n\nmight be irrational / panic sales reacting to onchain unlock tranche since the onchain part of the unlock (excluding custodian-held unlocks, which are not visible onchain) is worth less than 100k$/borderline 100k$\n\n$strk"
-        },
-        {
           "created_at": "2026-10-15T12:34:54.000Z",
           "id": "2110711008398639498",
           "reply_to_id": "2110710194674049264",
@@ -2519,6 +2507,12 @@
           "id": "2110763798579867832",
           "reply_to_id": "2110762279184879950",
           "text": "@dovahsupes what nice move\n\nthere is nothing good enough to be called nice yet\n\nthis is literally the best technology i can even ask or envision for this entire cycle"
+        },
+        {
+          "created_at": "2026-10-15T16:06:51.000Z",
+          "id": "2110764349107352063",
+          "reply_to_id": "2110764284854882752",
+          "text": "@dovahsupes \ud83e\udee1\ud83e\udee1\ud83e\udee1"
         }
       ],
       "threads": {
@@ -2999,7 +2993,6 @@
         "2110652410884440308": false,
         "2110665974714360171": true,
         "2110703923346756021": true,
-        "2110707479634211057": true,
         "2110708617100030329": true,
         "2110711008398639498": true,
         "2110711400666665086": false,
@@ -3024,7 +3017,8 @@
         "2110759859247603817": true,
         "2110761983754879252": true,
         "2110762136976986381": true,
-        "2110763798579867832": true
+        "2110763798579867832": true,
+        "2110764349107352063": false
       },
       "user_id": "1653080265294757890"
     },
@@ -3505,7 +3499,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2110717518860124206",
+      "last_id": "2110764534495646008",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -3691,12 +3685,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-06T00:52:08.000Z",
-          "id": "2107272663953748415",
-          "reply_to_id": "2107272260231090426",
-          "text": "@dcfgod @DeriveXYZ not a huge fan of options, mostly b/c i'm not that smart\n\nmaybe i'll buy deep OTM puts when zec is 5k or something tho to hedge"
-        },
-        {
           "created_at": "2026-10-06T00:54:34.000Z",
           "id": "2107273272698294674",
           "reply_to_id": "2107273167849009309",
@@ -3779,6 +3767,12 @@
           "id": "2110717518860124206",
           "reply_to_id": "2110717455933084020",
           "text": "@andyyy @arthur0x this is my last one i'm all tapped out now"
+        },
+        {
+          "created_at": "2026-10-15T16:07:35.000Z",
+          "id": "2110764534495646008",
+          "reply_to_id": "2110750648916685304",
+          "text": "@arthur0x /midcurves_unite"
         }
       ],
       "threads": {
@@ -3869,7 +3863,6 @@
         "2105346309108719825": false,
         "2106637291267764557": false,
         "2107265085433606342": true,
-        "2107272663953748415": true,
         "2107273272698294674": true,
         "2107274140201984259": true,
         "2107609670290726956": false,
@@ -3896,7 +3889,8 @@
         "2110429847675969871": false,
         "2110441332883730903": false,
         "2110715051250520551": true,
-        "2110717518860124206": false
+        "2110717518860124206": false,
+        "2110764534495646008": false
       },
       "user_id": "1064421325186359296"
     },
@@ -4712,5 +4706,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T16:06:19+00:00"
+  "updated_at": "2026-10-15T16:08:17+00:00"
 }
