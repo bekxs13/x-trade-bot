@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110736773420810353",
+      "last_id": "2110737528940843213",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -227,12 +227,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T11:35:25.000Z",
-          "id": "2109971264781881637",
-          "reply_to_id": "2109966964919541791",
-          "text": "@notthreadguy Can\u2019t tell if people have been talking about Gen Z dating culture since that boomer advice tweet or that was a one off that I clicked too many comments"
-        },
-        {
           "created_at": "2026-10-14T16:24:21.000Z",
           "id": "2110406366666129558",
           "reply_to_id": "2110405739974201631",
@@ -315,6 +309,12 @@
           "id": "2110690086346232248",
           "reply_to_id": "2110667338341384314",
           "text": "@izebel_eth @papertrade_xyz @nikitabier Why don\u2019t u buy a proxy that reroutes to it or smth?"
+        },
+        {
+          "created_at": "2026-10-15T14:20:17.000Z",
+          "id": "2110737528940843213",
+          "reply_to_id": "2110736919432659448",
+          "text": "@Fabian_v4 I thought it\u2019s at 2pm et I just woke up west coast"
         }
       ],
       "threads": {
@@ -618,7 +618,6 @@
         }
       },
       "trading": {
-        "2109971264781881637": false,
         "2110097434668073139": true,
         "2110288062261711186": true,
         "2110289205565989218": false,
@@ -652,7 +651,8 @@
         "2110612813400199640": true,
         "2110690086346232248": false,
         "2110712424315961359": false,
-        "2110736773420810353": false
+        "2110736773420810353": false,
+        "2110737528940843213": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4710,5 +4710,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T14:18:23+00:00"
+  "updated_at": "2026-10-15T14:22:19+00:00"
 }
