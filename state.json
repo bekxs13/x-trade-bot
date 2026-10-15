@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110712424315961359",
+      "last_id": "2110736773420810353",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -67,12 +67,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T19:04:50.000Z",
-          "id": "2110084364017230177",
-          "reply_to_id": "2110079299609145355",
-          "text": "Everyone gonna vibe code their own source and version control"
-        },
         {
           "created_at": "2026-10-13T19:56:46.000Z",
           "id": "2110097434668073139",
@@ -200,10 +194,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2110669150519447552/img/UTgMbi7Hui6u_ULO.jpg"
           ],
           "text": "https://t.co/zcWlBqe5xs"
+        },
+        {
+          "created_at": "2026-10-15T14:17:17.000Z",
+          "id": "2110736773420810353",
+          "images": [
+            "https://pbs.twimg.com/media/HUrX6JEasAAbE58.jpg"
+          ],
+          "text": "Efficient X feed https://t.co/C4avFVQS0y"
         }
       ],
       "reads": {
-        "2110084364017230177": "No call",
         "2110288062261711186": "No call: bullish on stocks/macro (55%, too unsure)",
         "2110289205565989218": "No call",
         "2110396115543810439": "TRADE LONG BSP",
@@ -221,7 +222,8 @@
         "2110610263162618293": "No call",
         "2110610653631398182": "No call",
         "2110612813400199640": "No call",
-        "2110712424315961359": "No call"
+        "2110712424315961359": "No call",
+        "2110736773420810353": "No call"
       },
       "replies": [
         {
@@ -609,11 +611,14 @@
         "2110712424315961359": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110736773420810353": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2109971264781881637": false,
-        "2110084364017230177": false,
         "2110097434668073139": true,
         "2110288062261711186": true,
         "2110289205565989218": false,
@@ -646,7 +651,8 @@
         "2110610653631398182": false,
         "2110612813400199640": true,
         "2110690086346232248": false,
-        "2110712424315961359": false
+        "2110712424315961359": false,
+        "2110736773420810353": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4704,5 +4710,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T14:14:42+00:00"
+  "updated_at": "2026-10-15T14:18:23+00:00"
 }
