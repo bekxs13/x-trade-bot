@@ -1625,12 +1625,12 @@
       "biases": {
         "alts": {
           "market": "crypto",
-          "post_id": "2108364075583635727",
-          "reason": "Says market structure on strong coins is broken, things look much worse with ETH below 25s, and can't expect alts to trend strongly again.",
+          "post_id": "2110611535366431099",
+          "reason": "'Assuming hold below 81 = blood would be much more severe soon for alts' with BTC at 80.5k matches the recorded bearish alts view.",
           "scope": "alts",
           "since": "2026-10-07",
           "stance": "bearish",
-          "updated_at": "2026-10-09T01:09:01.000Z"
+          "updated_at": "2026-10-15T05:59:37.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -1653,7 +1653,7 @@
       },
       "closed": [],
       "handle": "lbattlerhino",
-      "last_id": "2110565242917007397",
+      "last_id": "2110611535366431099",
       "positions": {
         "EWY": {
           "asset": "EWY",
@@ -1689,11 +1689,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T13:50:27.000Z",
-          "id": "2110005247536222698",
-          "text": "Gooood moooorniiing yeaaaaah"
-        },
         {
           "created_at": "2026-10-13T13:55:22.000Z",
           "id": "2110006485019484457",
@@ -1803,10 +1798,15 @@
           "id": "2110555688523219037",
           "reply_to_id": "2108271202875969933",
           "text": "Kept getting worse, prob gets worse still, I imagine the next leg down sub 81 is a matter of when not if"
+        },
+        {
+          "created_at": "2026-10-15T05:59:37.000Z",
+          "id": "2110611535366431099",
+          "reply_to_id": "2102215679617421371",
+          "text": "Just had to be patient, clear range and then updated views into more bearish into eventual breakdown and alts led that far before btc\n\nAssuming hold below 81 = yeah blood would be much more severe soon for alts"
         }
       ],
       "reads": {
-        "2110005247536222698": "No call",
         "2110006485019484457": "No call",
         "2110033888332681447": "TRADE TRIM EWY",
         "2110094006281736323": "No call",
@@ -1819,7 +1819,8 @@
         "2110447305740742802": "No call",
         "2110526910442954926": "No call",
         "2110528172307697874": "No call",
-        "2110530132381516205": "No call"
+        "2110530132381516205": "No call",
+        "2110611535366431099": "No call: bearish on alts (same view as before)"
       },
       "replies": [
         {
@@ -1915,6 +1916,10 @@
       ],
       "threads": {
         "1772859712490320351": {
+          "alerted": [],
+          "self_replies": 1
+        },
+        "2102215679617421371": {
           "alerted": [],
           "self_replies": 1
         },
@@ -2032,7 +2037,6 @@
         }
       },
       "trading": {
-        "2110005247536222698": false,
         "2110006485019484457": true,
         "2110033888332681447": true,
         "2110094006281736323": false,
@@ -2066,7 +2070,8 @@
         "2110549132578554226": false,
         "2110555688523219037": true,
         "2110556002307449191": false,
-        "2110565242917007397": true
+        "2110565242917007397": true,
+        "2110611535366431099": true
       },
       "user_id": "953032269433745408"
     },
@@ -4604,5 +4609,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T05:58:27+00:00"
+  "updated_at": "2026-10-15T06:00:28+00:00"
 }
