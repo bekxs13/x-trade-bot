@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110747590455427335",
+      "last_id": "2110782099297124815",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -67,11 +67,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T08:34:15.000Z",
-          "id": "2110288062261711186",
-          "text": "Often at the beginning of a broad equity rally Snapchat Roblox and GameStop start pumping"
-        },
         {
           "created_at": "2026-10-14T08:38:48.000Z",
           "id": "2110289205565989218",
@@ -198,10 +193,17 @@
           "created_at": "2026-10-15T14:27:26.000Z",
           "id": "2110739328850927841",
           "text": "Hood clean setup off the 200d"
+        },
+        {
+          "created_at": "2026-10-15T17:17:23.000Z",
+          "id": "2110782099297124815",
+          "images": [
+            "https://pbs.twimg.com/media/HUsBHXDacAAKvOy.jpg"
+          ],
+          "text": "Press tour https://t.co/MiQ6J3g2Ih"
         }
       ],
       "reads": {
-        "2110288062261711186": "No call: bullish on stocks/macro (55%, too unsure)",
         "2110289205565989218": "No call",
         "2110396115543810439": "TRADE LONG BSP",
         "2110398080029966763": "TRADE LONG QQQ",
@@ -220,7 +222,8 @@
         "2110612813400199640": "No call",
         "2110712424315961359": "No call",
         "2110736773420810353": "No call",
-        "2110739328850927841": "No call: maybe long HOOD (62%, too unsure)"
+        "2110739328850927841": "No call: maybe long HOOD (62%, too unsure)",
+        "2110782099297124815": "No call"
       },
       "replies": [
         {
@@ -616,10 +619,13 @@
         "2110739328850927841": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110782099297124815": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110288062261711186": true,
         "2110289205565989218": false,
         "2110396115543810439": true,
         "2110398080029966763": false,
@@ -653,7 +659,8 @@
         "2110736773420810353": false,
         "2110737528940843213": false,
         "2110739328850927841": true,
-        "2110747590455427335": true
+        "2110747590455427335": true,
+        "2110782099297124815": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4719,5 +4726,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T17:14:21+00:00"
+  "updated_at": "2026-10-15T17:18:28+00:00"
 }
