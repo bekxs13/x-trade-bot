@@ -3043,7 +3043,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110756931061068102",
+      "last_id": "2110762518495085033",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3063,11 +3063,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T12:40:35.000Z",
-          "id": "2109987664388907042",
-          "text": "MARKET OPEN: Crypto is an AI LOSER, Meta Muse is BACK, The Anthropic IPO https://t.co/61t0UaZKy9"
-        },
         {
           "created_at": "2026-10-13T19:22:10.000Z",
           "id": "2110088724310589484",
@@ -3187,10 +3182,15 @@
           "created_at": "2026-10-15T12:40:01.000Z",
           "id": "2110712299170456020",
           "text": "MARKET OPEN: Anthropic ARR is BAD, Markets in TROUBLE, Where Does Crypto Go NEXT?, Based16z TODAY https://t.co/7msk5nJXLy"
+        },
+        {
+          "created_at": "2026-10-15T15:59:35.000Z",
+          "id": "2110762518495085033",
+          "quoted_text": "THE BASED16Z INTERVIEW. TOMORROW. 230PM EST.\n\nLIVE ON ALL PLATFORMS. https://t.co/EpM6YAAj69",
+          "text": "today https://t.co/ejTEiIc4m9"
         }
       ],
       "reads": {
-        "2109987664388907042": "No call",
         "2110088724310589484": "No call",
         "2110098064773890275": "No call",
         "2110099636820054153": "No call",
@@ -3206,7 +3206,8 @@
         "2110699646641394005": "No call",
         "2110700561821487517": "No call",
         "2110705272830541887": "No call",
-        "2110712299170456020": "No call"
+        "2110712299170456020": "No call",
+        "2110762518495085033": "No call"
       },
       "replies": [
         {
@@ -3435,10 +3436,13 @@
         "2110712299170456020": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110762518495085033": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109987664388907042": true,
         "2110088724310589484": false,
         "2110098064773890275": false,
         "2110099636820054153": false,
@@ -3472,7 +3476,8 @@
         "2110712299170456020": true,
         "2110741626150899751": false,
         "2110750601764028899": false,
-        "2110756931061068102": false
+        "2110756931061068102": false,
+        "2110762518495085033": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4707,5 +4712,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T15:58:31+00:00"
+  "updated_at": "2026-10-15T16:00:31+00:00"
 }
