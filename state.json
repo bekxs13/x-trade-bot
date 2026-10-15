@@ -2143,7 +2143,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110759859247603817",
+      "last_id": "2110762136976986381",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2289,16 +2289,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-14T12:31:45.000Z",
-          "id": "2110347830837620869",
-          "text": "filled sol 106 stop 105.5"
-        },
-        {
-          "created_at": "2026-10-14T12:33:05.000Z",
-          "id": "2110348166394704207",
-          "text": "nvm"
-        },
-        {
           "created_at": "2026-10-15T03:09:29.000Z",
           "id": "2110568719126839419",
           "text": "keep farming paper"
@@ -2399,11 +2389,21 @@
           "id": "2110758290674360679",
           "quoted_text": "@Rugart3 timing and positioning.\n\nai was always a thing.\n\nit didnt take until 2022 for it to become the main thing.\n\nmathematical innovations were always a thing.\n\nit didnt take until oct 2026 for it to heavily accelerate 100x.\n\nand to become THE main thing over the foreseeable future.",
           "text": "the thesis remains the same.\n\nthe tourists has left.\n\nthe fud has been fought off.\n\nthe unlock has just passed.\n\nthe road ahead\n\nis brighter than ever.\n\n$STRK https://t.co/A5Op34QEC1"
+        },
+        {
+          "created_at": "2026-10-15T15:57:27.000Z",
+          "id": "2110761983754879252",
+          "quoted_text": "i believe in my thesis. https://t.co/lIAtHazWTU",
+          "text": "i believe in my thesis. https://t.co/XOgrMtyNjU"
+        },
+        {
+          "created_at": "2026-10-15T15:58:04.000Z",
+          "id": "2110762136976986381",
+          "quoted_text": "we will win.\n\n$strk",
+          "text": "we will win.\n\n$strk https://t.co/YvttDVIMe6"
         }
       ],
       "reads": {
-        "2110347830837620869": "TRADE LONG SOL",
-        "2110348166394704207": "No call: maybe exit SOL (60%, too unsure)",
         "2110568719126839419": "No call",
         "2110611974417740143": "No call",
         "2110621186308862378": "No call",
@@ -2419,7 +2419,9 @@
         "2110752242504720487": "No call: bullish on crypto market (same view as before)",
         "2110755781348057503": "TRADE LONG STRK",
         "2110757954576433207": "No call",
-        "2110758290674360679": "No call"
+        "2110758290674360679": "No call",
+        "2110761983754879252": "No call",
+        "2110762136976986381": "No call"
       },
       "replies": [
         {
@@ -2520,17 +2522,6 @@
         }
       ],
       "threads": {
-        "2108238926725190008": {
-          "alerted": [
-            "bias:stocks/macro:bearish",
-            "trade:NVDA, SOXL, MU:short"
-          ],
-          "self_replies": 0
-        },
-        "2108239413411242002": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108248166764314906": {
           "alerted": [
             "trade:NVDA, SOXL, MU:short"
@@ -2988,11 +2979,17 @@
         "2110758290674360679": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110761983754879252": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2110762136976986381": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110347830837620869": true,
-        "2110348166394704207": false,
         "2110568719126839419": false,
         "2110611974417740143": true,
         "2110621186308862378": false,
@@ -3025,7 +3022,9 @@
         "2110757954576433207": true,
         "2110758290674360679": true,
         "2110759452316168574": true,
-        "2110759859247603817": true
+        "2110759859247603817": true,
+        "2110761983754879252": true,
+        "2110762136976986381": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4198,15 +4197,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110757594923200856",
+      "last_id": "2110761940007915686",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-14T16:12:34.000Z",
-          "id": "2110403399208562717",
-          "quoted_text": "*OPENAI COMPUTING CHIEF TO DEPART: WSJ",
-          "text": "Bullish https://t.co/k8GsdJ9zCX"
-        },
         {
           "created_at": "2026-10-14T16:14:44.000Z",
           "id": "2110403945885520049",
@@ -4305,10 +4298,14 @@
           "created_at": "2026-10-15T15:28:08.000Z",
           "id": "2110754604027965635",
           "text": "That was fun, same time next week?"
+        },
+        {
+          "created_at": "2026-10-15T15:57:17.000Z",
+          "id": "2110761940007915686",
+          "text": "Find it pretty helpful to have multiple trading accounts focused on different timescales.\n\nHaving a degen account can help you stay patient on your main portfolio by feeling like you're not missing moves by sitting idly risk off. \n\nHaving long term portfolio structured as long only makes it so that you're never rooting for the market to go down for too long, and you're never coping while assets gradually drift higher due to inflation."
         }
       ],
       "reads": {
-        "2110403399208562717": "No call",
         "2110403945885520049": "No call",
         "2110404181945405916": "No call",
         "2110415518566105110": "No call",
@@ -4327,7 +4324,8 @@
         "2110726826704154734": "No call",
         "2110735678548164666": "No call: maybe trim equity shorts (memory/neoclouds/semis) (60%, too unsure); bullish on stocks/macro (65%, too unsure)",
         "2110744784365322598": "No call",
-        "2110754604027965635": "No call"
+        "2110754604027965635": "No call",
+        "2110761940007915686": "No call"
       },
       "replies": [
         {
@@ -4655,6 +4653,10 @@
         "2110754604027965635": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110761940007915686": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4667,7 +4669,6 @@
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
-        "2110403399208562717": true,
         "2110403945885520049": true,
         "2110404181945405916": true,
         "2110411948982460824": true,
@@ -4689,7 +4690,8 @@
         "2110735678548164666": true,
         "2110744784365322598": true,
         "2110754604027965635": false,
-        "2110757594923200856": false
+        "2110757594923200856": false,
+        "2110761940007915686": true
       },
       "user_id": "809191427645181952"
     }
@@ -4705,5 +4707,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T15:50:19+00:00"
+  "updated_at": "2026-10-15T15:58:31+00:00"
 }
