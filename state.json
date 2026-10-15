@@ -2143,7 +2143,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110746612423389683",
+      "last_id": "2110747081212309893",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2289,12 +2289,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-13T09:33:54.000Z",
-          "id": "2109940685285556306",
-          "reply_to_id": "2109940078600695928",
-          "text": "if you follow the ai space at all you know that these math proofs will only keep on accelerating in the near future and will continue to.\n\nthere is only one chain using the correct non-lattice tech and theyre gunning for the top. \n\nthe only way this goes wrong from my pov is if the team dumps the unlocks, but the september unlocks literally didnt move price."
-        },
-        {
           "created_at": "2026-10-13T09:43:57.000Z",
           "id": "2109943214233063890",
           "text": "i dont care if gcr himself comes back and says strk is shit\n\ni did my research. in the domain where i best specialize in.\n\ni will be the new gcr if i have to.\n\ni dont care and im not going to care anytime soon.\n\nstarknet is my kingmaker.\n\nMP"
@@ -2405,6 +2399,12 @@
           "created_at": "2026-10-15T14:53:26.000Z",
           "id": "2110745870732083325",
           "text": "we didnt make any noticeable lows on the big3 even on ai fud + anth financials fud + cpi fud + ppi fud as risk assets crashed this week, while spot flows on btc, sol remained strong\n\nthink that next igv &amp; crypto majors (esp sol) leg up is going to be really noticeable htf"
+        },
+        {
+          "created_at": "2026-10-15T14:58:14.000Z",
+          "id": "2110747081212309893",
+          "quoted_text": "crypto/korea https://t.co/lEb5cS2LSL",
+          "text": "korea fud https://t.co/jglfYWEMDO"
         }
       ],
       "reads": {
@@ -2424,7 +2424,8 @@
         "2110651836168614111": "No call",
         "2110652410884440308": "No call",
         "2110665974714360171": "No call",
-        "2110745870732083325": "VIEW bullish on crypto market"
+        "2110745870732083325": "VIEW bullish on crypto market",
+        "2110747081212309893": "No call"
       },
       "replies": [
         {
@@ -2537,10 +2538,6 @@
         }
       ],
       "threads": {
-        "2108104887988826209": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108107620594942352": {
           "alerted": [],
           "self_replies": 0
@@ -3007,10 +3004,13 @@
             "bias:crypto market:bullish"
           ],
           "self_replies": 0
+        },
+        "2110747081212309893": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109940685285556306": true,
         "2109943214233063890": true,
         "2109957018547368347": true,
         "2110233875582689514": true,
@@ -3044,7 +3044,8 @@
         "2110711008398639498": true,
         "2110711400666665086": false,
         "2110745870732083325": true,
-        "2110746612423389683": false
+        "2110746612423389683": false,
+        "2110747081212309893": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4716,5 +4717,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T14:58:19+00:00"
+  "updated_at": "2026-10-15T15:00:28+00:00"
 }
