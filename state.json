@@ -2130,7 +2130,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110624077463584847",
+      "last_id": "2110643316111110534",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2422,12 +2422,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T10:05:15.000Z",
-          "id": "2109948573437841690",
-          "reply_to_id": "2109945262495969380",
-          "text": "@Rugart3 timing and positioning.\n\nai was always a thing.\n\nit didnt take until 2022 for it to become the main thing.\n\nmathematical breakthroughs were always a thing.\n\nit didnt take until october, 2026 for it to heavily accelerate."
-        },
-        {
           "created_at": "2026-10-13T10:07:29.000Z",
           "id": "2109949136443425178",
           "reply_to_id": "2109945262495969380",
@@ -2510,6 +2504,12 @@
           "id": "2110624077463584847",
           "reply_to_id": "2110622584459124986",
           "text": "@knotkoyun thank you brother \ud83d\ude4f"
+        },
+        {
+          "created_at": "2026-10-15T08:05:55.000Z",
+          "id": "2110643316111110534",
+          "reply_to_id": "2110638713390661708",
+          "text": "@EliBenSasson do it"
         }
       ],
       "threads": {
@@ -2970,7 +2970,6 @@
         "2109935458566512869": true,
         "2109940685285556306": true,
         "2109943214233063890": true,
-        "2109948573437841690": true,
         "2109949136443425178": true,
         "2109951735666020559": false,
         "2109957018547368347": true,
@@ -2994,7 +2993,8 @@
         "2110568719126839419": false,
         "2110611974417740143": true,
         "2110621186308862378": false,
-        "2110624077463584847": false
+        "2110624077463584847": false,
+        "2110643316111110534": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4624,5 +4624,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T07:50:20+00:00"
+  "updated_at": "2026-10-15T08:06:19+00:00"
 }
