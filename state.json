@@ -4095,24 +4095,19 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2110494346646630545",
-          "reason": "Earlier today he said \"the entire market hinges on\" Anthropic's numbers and noted QQQ +19% YTD. \"Game Over\" and \"Nowhere near 100B Revenue\" read as bearish on the AI-driven equity market, restating his bearish stocks/macro view.",
+          "post_id": "2110607210997023097",
+          "reason": "Mocks the market for taking the unfunded $1T AI spend seriously, fitting his recent 'Game Over', 'January 2022' and Anthropic-hinging-market posts; this matches his recorded bearish stocks view.",
           "scope": "stocks/macro",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-14T22:13:57.000Z"
+          "updated_at": "2026-10-15T05:42:26.000Z"
         }
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110604448217124963",
+      "last_id": "2110607210997023097",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-14T14:46:52.000Z",
-          "id": "2110381830369354028",
-          "text": "What color is the CN tower?..."
-        },
         {
           "created_at": "2026-10-14T15:06:10.000Z",
           "id": "2110386688325239130",
@@ -4218,10 +4213,15 @@
           "created_at": "2026-10-15T05:31:28.000Z",
           "id": "2110604448217124963",
           "text": "January 2022"
+        },
+        {
+          "created_at": "2026-10-15T05:42:26.000Z",
+          "id": "2110607210997023097",
+          "quoted_text": "No one - and I mean literally no one in the AI supply chain - takes the ridiculous $1 trillion of unfunded spending \u201ccommitments\u201d from OpenAI and Anthropic even vaguely seriously.\n\nHence the TSM executives dismissing Sam Altman as a nontechnical \u201cpodcast bro\u201d after he came to them to make a commitment.\n\nJust listen to the answers that public company executives give about these unfunded \u201ccommitments.\u201d They are functionally irrelevant and this should be obvious to everyone.",
+          "text": "This will be my favorite and framed tweet from this cycle.\n\n\u201cDude lmao, imagine taking the $1T of planned spend and market moving announcement seriously\u201d\n\nSo we can just say anything now in public markets and everyone is okay with that? https://t.co/fXdqZU4DBR"
         }
       ],
       "reads": {
-        "2110381830369354028": "No call",
         "2110386688325239130": "No call",
         "2110387994574360997": "No call",
         "2110388488344641752": "VIEW bearish on btc",
@@ -4240,7 +4240,8 @@
         "2110549994738733342": "No call",
         "2110589117792735525": "No call",
         "2110602888271548814": "No call",
-        "2110604448217124963": "No call: bearish on crypto market (60%, too unsure)"
+        "2110604448217124963": "No call: bearish on crypto market (60%, too unsure)",
+        "2110607210997023097": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -4538,6 +4539,10 @@
         "2110604448217124963": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110607210997023097": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4550,7 +4555,6 @@
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
-        "2110381830369354028": false,
         "2110386688325239130": false,
         "2110387994574360997": false,
         "2110388488344641752": true,
@@ -4571,7 +4575,8 @@
         "2110572720375181652": false,
         "2110589117792735525": true,
         "2110602888271548814": true,
-        "2110604448217124963": false
+        "2110604448217124963": false,
+        "2110607210997023097": true
       },
       "user_id": "809191427645181952"
     }
@@ -4587,5 +4592,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T05:32:31+00:00"
+  "updated_at": "2026-10-15T05:44:24+00:00"
 }
