@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110596496215458137",
+      "last_id": "2110609935969181778",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -67,11 +67,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T08:53:58.000Z",
-          "id": "2109930633304879522",
-          "text": "The genius of saylor is demonstrating u can just print more stock and buy hard assets ad infinitum. \n\nPreferred stock fuck it. Common stock here u go. \n\nTry to rip me out the index. 90% IV bumping options market"
-        },
         {
           "created_at": "2026-10-13T08:54:39.000Z",
           "id": "2109930806974243185",
@@ -195,10 +190,15 @@
           "created_at": "2026-10-15T03:23:33.000Z",
           "id": "2110572256082743609",
           "text": "Sto shorted the range for 4 weeks and covered  candle before thr bkdown?"
+        },
+        {
+          "created_at": "2026-10-15T05:53:16.000Z",
+          "id": "2110609935969181778",
+          "quoted_text": "China will be making a LOT of RAM in 2028 https://t.co/RiBFTe6JIC",
+          "text": "Elon max incentivized to wreck the markets tbh. Republicans on the outs got his IPO out got what he needed trynna kill Dario etc https://t.co/R8jTiX4vJ9"
         }
       ],
       "reads": {
-        "2109930633304879522": "No call",
         "2109930806974243185": "No call",
         "2109949149353316861": "No call",
         "2110079299609145355": "No call",
@@ -215,7 +215,8 @@
         "2110499057219383709": "No call: bullish on MU (60%, too unsure)",
         "2110518129210351764": "No call",
         "2110520758036553771": "No call: bullish on stocks/macro (60%, too unsure)",
-        "2110572256082743609": "No call"
+        "2110572256082743609": "No call",
+        "2110609935969181778": "No call"
       },
       "replies": [
         {
@@ -587,10 +588,13 @@
         "2110572256082743609": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110609935969181778": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109930633304879522": true,
         "2109930806974243185": false,
         "2109930952885678249": false,
         "2109949149353316861": false,
@@ -624,7 +628,8 @@
         "2110568051511103706": false,
         "2110572256082743609": true,
         "2110583082948706633": true,
-        "2110596496215458137": false
+        "2110596496215458137": false,
+        "2110609935969181778": true
       },
       "user_id": "1446541960181858315"
     },
@@ -4592,5 +4597,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T05:44:24+00:00"
+  "updated_at": "2026-10-15T05:54:24+00:00"
 }
