@@ -3062,7 +3062,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110861166503162228",
+      "last_id": "2110862135320588461",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3082,18 +3082,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T20:05:31.000Z",
-          "id": "2110099636820054153",
-          "reply_to_id": "2110098064773890275",
-          "text": "oh my god i can\u2019t believe people still live like thissssss \n\nlike what? asking a fucking ai if they can bring food on a plane? does nobody go outside i don\u2019t get it? is it because it said TWIN? yours convinced you your startup was a good idea and let you waste a year of your life who\u2019s is worse here \n\nthis is what consumer ai looks like buddy"
-        },
-        {
-          "created_at": "2026-10-13T20:09:05.000Z",
-          "id": "2110100532094234942",
-          "reply_to_id": "2110099636820054153",
-          "text": "i mean seriously what do you think people are using muse for"
-        },
         {
           "created_at": "2026-10-13T23:03:25.000Z",
           "id": "2110144405151555773",
@@ -3206,10 +3194,23 @@
           "id": "2110799609127895292",
           "quoted_text": "LIVE: The Based16z Interview https://t.co/zsvboM1oXg",
           "text": "starting now https://t.co/IBMpQgP6dS"
+        },
+        {
+          "created_at": "2026-10-15T22:35:24.000Z",
+          "id": "2110862128609681647",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2110860219404431360/img/jULGx44BHHLR52cd.jpg"
+          ],
+          "text": "My full conversation with @based16z \n\n0:19 the Hyperliquid call\n5:01 almost losing his $HYPE airdrop\n8:27 life after life changing money\n10:12 dating a billionaire's daughter\n14:37 from online poker to Crypto\n16:40 two trades made his year\n20:56 the Snapchat trade\n27:43 Sydney Sweeney $AEO trade\n31:14 posters move markets\n41:42 loot and rob\n44:23 advice for a 20 year old\n47:23 math lore\n51:49 why he has no social media"
+        },
+        {
+          "created_at": "2026-10-15T22:35:25.000Z",
+          "id": "2110862135320588461",
+          "reply_to_id": "2110862128609681647",
+          "text": "Watch on YT!\nhttps://t.co/g4aX3voAh4"
         }
       ],
       "reads": {
-        "2110099636820054153": "No call",
         "2110144405151555773": "No call",
         "2110344475679785118": "No call",
         "2110349236495851934": "No call",
@@ -3225,7 +3226,9 @@
         "2110712299170456020": "No call",
         "2110762518495085033": "No call",
         "2110798325805092991": "No call",
-        "2110799609127895292": "No call"
+        "2110799609127895292": "No call",
+        "2110862128609681647": "No call",
+        "2110862135320588461": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -3466,11 +3469,13 @@
         "2110799609127895292": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110862128609681647": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2110099636820054153": false,
-        "2110100532094234942": false,
         "2110144405151555773": true,
         "2110344475679785118": true,
         "2110349236495851934": true,
@@ -3503,7 +3508,9 @@
         "2110826806551216147": false,
         "2110841484820025828": false,
         "2110853253986652199": false,
-        "2110861166503162228": false
+        "2110861166503162228": false,
+        "2110862128609681647": true,
+        "2110862135320588461": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4772,5 +4779,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T22:32:19+00:00"
+  "updated_at": "2026-10-15T22:36:23+00:00"
 }
