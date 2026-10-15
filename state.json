@@ -726,7 +726,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110767113673781312",
+      "last_id": "2110767955630018575",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -762,12 +762,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T19:56:35.000Z",
-          "id": "2109734999708831885",
-          "quoted_text": "$26,750,000 was paid out to users in the Pumpfun ecosystem over the past week. That's:\n\n- $3.82M every day\n- $159,261 every hour\n- $2,654 every minute\n\nThe rewarding ecosystem.",
-          "text": "insane amount of cash returned directly back to users, on track for ~$1B/year at this rate\n\nhave been saying people are not accurately tracking how much money pump not only makes but also gives back to its ecosystem https://t.co/scvkE2SrzE"
-        },
         {
           "created_at": "2026-10-12T20:04:27.000Z",
           "id": "2109736979932008805",
@@ -887,10 +881,15 @@
           "created_at": "2026-10-15T16:17:50.000Z",
           "id": "2110767113673781312",
           "text": "am highly convicted in $BTC face ripper rally\n\nbelieve crypto natives currently have lowest conviction in this asset that theyve had in past ~decade\n\none of only assets not correlated to complex ai trade &amp; govt cash will need to fund ai buildout + inflation still sticky"
+        },
+        {
+          "created_at": "2026-10-15T16:21:11.000Z",
+          "id": "2110767955630018575",
+          "quoted_text": "twitter not letting us post links to the site for @papertrade_xyz  is slowing down a product release we want to make\n\nif anyone can help, we've applied for gold etc, this is day 3 now",
+          "text": "somebody help my brudda https://t.co/nhGrM5g8PC"
         }
       ],
       "reads": {
-        "2109734999708831885": "VIEW bullish on PUMP",
         "2109736979932008805": "No call: bullish on PUMP (60%, too unsure)",
         "2109911341356273792": "No call: bullish on btc (65%, too unsure)",
         "2109915465485332883": "No call: bullish on btc (same view as before)",
@@ -908,15 +907,10 @@
         "2110327073961119900": "No call",
         "2110764707640689050": "No call",
         "2110765762457809110": "No call",
-        "2110767113673781312": "No call: bullish on btc (same view as before)"
+        "2110767113673781312": "No call: bullish on btc (same view as before)",
+        "2110767955630018575": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-13T10:14:10.000Z",
-          "id": "2109950815452778905",
-          "reply_to_id": "2109837448343888121",
-          "text": "@panicselling 6'6 215 8% bf no broccoli hair diamond handed manlet checking in"
-        },
         {
           "created_at": "2026-10-13T11:49:03.000Z",
           "id": "2109974695546163341",
@@ -1000,6 +994,12 @@
           "id": "2110345457365102786",
           "reply_to_id": "2110330478800580734",
           "text": "@Saint10Fourteen saint get me outta here ahhhhhhhhhh"
+        },
+        {
+          "created_at": "2026-10-15T16:20:27.000Z",
+          "id": "2110767772062109768",
+          "reply_to_id": "2110743864076329026",
+          "text": "@chimpcap1tal did you accidentally add a zero?"
         }
       ],
       "threads": {
@@ -1316,10 +1316,13 @@
         "2110767113673781312": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110767955630018575": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109734999708831885": true,
         "2109736979932008805": true,
         "2109911341356273792": true,
         "2109915465485332883": true,
@@ -1328,7 +1331,6 @@
         "2109943171694407765": true,
         "2109947683935014953": true,
         "2109950575102373992": false,
-        "2109950815452778905": false,
         "2109974695546163341": true,
         "2109984830230261923": true,
         "2109984872013988256": false,
@@ -1353,7 +1355,9 @@
         "2110345457365102786": false,
         "2110764707640689050": true,
         "2110765762457809110": true,
-        "2110767113673781312": true
+        "2110767113673781312": true,
+        "2110767772062109768": false,
+        "2110767955630018575": false
       },
       "user_id": "973261472"
     },
@@ -4713,5 +4717,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T16:18:25+00:00"
+  "updated_at": "2026-10-15T16:24:24+00:00"
 }
