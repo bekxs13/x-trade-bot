@@ -4217,17 +4217,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110744784365322598",
+      "last_id": "2110754604027965635",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-14T15:26:18.000Z",
-          "id": "2110391755179004395",
-          "images": [
-            "https://pbs.twimg.com/media/HUmeGvqXoAAnpKs.jpg"
-          ],
-          "text": "Hm https://t.co/9TkwbJmM1K"
-        },
         {
           "created_at": "2026-10-14T16:12:34.000Z",
           "id": "2110403399208562717",
@@ -4327,10 +4319,14 @@
           "created_at": "2026-10-15T14:49:06.000Z",
           "id": "2110744784365322598",
           "text": "Seems like some firms were short BTC//Majors and long AI?\n\nThat trade appears to be rapidly unwinding."
+        },
+        {
+          "created_at": "2026-10-15T15:28:08.000Z",
+          "id": "2110754604027965635",
+          "text": "That was fun, same time next week?"
         }
       ],
       "reads": {
-        "2110391755179004395": "No call",
         "2110403399208562717": "No call",
         "2110403945885520049": "No call",
         "2110404181945405916": "No call",
@@ -4349,7 +4345,8 @@
         "2110724646974767398": "No call",
         "2110726826704154734": "No call",
         "2110735678548164666": "No call: maybe trim equity shorts (memory/neoclouds/semis) (60%, too unsure); bullish on stocks/macro (65%, too unsure)",
-        "2110744784365322598": "No call"
+        "2110744784365322598": "No call",
+        "2110754604027965635": "No call"
       },
       "replies": [
         {
@@ -4667,6 +4664,10 @@
         "2110744784365322598": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110754604027965635": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4679,7 +4680,6 @@
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
-        "2110391755179004395": false,
         "2110403399208562717": true,
         "2110403945885520049": true,
         "2110404181945405916": true,
@@ -4700,7 +4700,8 @@
         "2110724646974767398": false,
         "2110726826704154734": true,
         "2110735678548164666": true,
-        "2110744784365322598": true
+        "2110744784365322598": true,
+        "2110754604027965635": false
       },
       "user_id": "809191427645181952"
     }
@@ -4716,5 +4717,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T15:26:17+00:00"
+  "updated_at": "2026-10-15T15:30:25+00:00"
 }
