@@ -678,12 +678,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2110767113673781312",
-          "reason": "'am highly convicted in $BTC face ripper rally' is an explicit bullish call that matches the recorded bullish btc view.",
+          "post_id": "2110783883998544197",
+          "reason": "\"80k key support stop run + retest\", \"pain trade is up, nobody holds any bitcoin\" restates the bullish BTC view.",
           "scope": "btc",
           "since": "2026-10-09",
           "stance": "bullish",
-          "updated_at": "2026-10-15T16:17:50.000Z"
+          "updated_at": "2026-10-15T17:24:29.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -733,7 +733,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110780824996208946",
+      "last_id": "2110783883998544197",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -769,14 +769,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-12T20:04:27.000Z",
-          "id": "2109736979932008805",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2109736480390393856/img/-YwqM2k56UxqHEDa.jpg"
-          ],
-          "text": "i'm interested in how @Pumpfun is positioning itself as more trading activity moves onchain\n\nthey've expanded from a token launchpad into PumpSwap and a mobile trading app, giving them exposure to both token creation and social trading\n\nif those markets continue growing, there's room for the platform to capture more activity across its products\n\nuser retention and execution will be important as competition increases"
-        },
         {
           "created_at": "2026-10-13T07:37:18.000Z",
           "id": "2109911341356273792",
@@ -894,10 +886,15 @@
           "id": "2110767955630018575",
           "quoted_text": "twitter not letting us post links to the site for @papertrade_xyz  is slowing down a product release we want to make\n\nif anyone can help, we've applied for gold etc, this is day 3 now",
           "text": "somebody help my brudda https://t.co/nhGrM5g8PC"
+        },
+        {
+          "created_at": "2026-10-15T17:24:29.000Z",
+          "id": "2110783883998544197",
+          "quoted_text": "@blknoiz06 When Ansem shrugs the move is already done",
+          "text": "80k key support level stop run + retest\n\n$1B in longs liquidated\n\ncpi + ppi extremely bad &amp; no bearish follow through, + bond yields *down*\n\nanthropic rev numbers have nothing to do w/ btc\n\npain trade is up, nobody holds any bitcoin https://t.co/xl09ohBCRY"
         }
       ],
       "reads": {
-        "2109736979932008805": "No call: bullish on PUMP (60%, too unsure)",
         "2109911341356273792": "No call: bullish on btc (65%, too unsure)",
         "2109915465485332883": "No call: bullish on btc (same view as before)",
         "2109927211604275273": "No call: bullish on btc (same view as before)",
@@ -915,7 +912,8 @@
         "2110764707640689050": "No call",
         "2110765762457809110": "No call",
         "2110767113673781312": "No call: bullish on btc (same view as before)",
-        "2110767955630018575": "No call"
+        "2110767955630018575": "No call",
+        "2110783883998544197": "No call: bullish on btc (same view as before)"
       },
       "replies": [
         {
@@ -1330,10 +1328,13 @@
         "2110767955630018575": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110783883998544197": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109736979932008805": true,
         "2109911341356273792": true,
         "2109915465485332883": true,
         "2109927211604275273": true,
@@ -1367,7 +1368,8 @@
         "2110775484451872816": true,
         "2110779592072138966": true,
         "2110780432182821346": false,
-        "2110780824996208946": false
+        "2110780824996208946": false,
+        "2110783883998544197": true
       },
       "user_id": "973261472"
     },
@@ -1707,7 +1709,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2110770912429838604",
+      "last_id": "2110784200664404024",
       "positions": {
         "GOOG": {
           "asset": "GOOG",
@@ -1862,12 +1864,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T19:09:25.000Z",
-          "id": "2110447905224159264",
-          "reply_to_id": "2110447301311517058",
-          "text": "@WonWonCapital This not about me, most people who interact with me are actually very kind and chill"
-        },
-        {
           "created_at": "2026-10-14T19:16:04.000Z",
           "id": "2110449577514213391",
           "reply_to_id": "2110447922923934147",
@@ -1950,6 +1946,12 @@
           "id": "2110565242917007397",
           "reply_to_id": "2110562401523302712",
           "text": "@mcgeecrypto99 Ye funny timing but I mean sustained action with a 7 handle"
+        },
+        {
+          "created_at": "2026-10-15T17:25:44.000Z",
+          "id": "2110784200664404024",
+          "reply_to_id": "2110782099297124815",
+          "text": "@based16z In the first minute of my convo you can see me pause and laugh and it was because I received the same message live LMAO"
         }
       ],
       "threads": {
@@ -2092,7 +2094,6 @@
         "2110446822707929422": false,
         "2110447305740742802": false,
         "2110447643642245266": false,
-        "2110447905224159264": false,
         "2110449577514213391": true,
         "2110449596497564134": false,
         "2110450730079510702": false,
@@ -2115,7 +2116,8 @@
         "2110565242917007397": true,
         "2110611535366431099": true,
         "2110770468592734263": true,
-        "2110770912429838604": true
+        "2110770912429838604": true,
+        "2110784200664404024": false
       },
       "user_id": "953032269433745408"
     },
@@ -4726,5 +4728,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T17:18:28+00:00"
+  "updated_at": "2026-10-15T17:26:26+00:00"
 }
