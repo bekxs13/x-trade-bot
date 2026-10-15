@@ -2143,7 +2143,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110753439500370116",
+      "last_id": "2110753681566261670",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2428,18 +2428,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T10:11:39.000Z",
-          "id": "2110674961237147680",
-          "reply_to_id": "2110639360995741894",
-          "text": "@Nadai02010 @Starknet @odin_free @EliBenSasson @omarespejel @Calcutat @haroldbillioner @SefirotWatch @0xKodawari @Buremo_irede @BlackAporia @uche2v @Lyskey Keep building! $strk\n\nBunker Mode."
-        },
-        {
-          "created_at": "2026-10-15T10:15:36.000Z",
-          "id": "2110675954422911363",
-          "reply_to_id": "2110665413432606930",
-          "text": "@Benny54541 far more perhaps"
-        },
-        {
           "created_at": "2026-10-15T12:05:24.000Z",
           "id": "2110703585352962385",
           "images": [
@@ -2534,6 +2522,18 @@
           "id": "2110753439500370116",
           "reply_to_id": "2110752962813284375",
           "text": "@0xFent_ the tourists have left\n\nits $STRK mode now"
+        },
+        {
+          "created_at": "2026-10-15T15:24:21.000Z",
+          "id": "2110753653711900948",
+          "reply_to_id": "2110751055218958506",
+          "text": "@beracap \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f"
+        },
+        {
+          "created_at": "2026-10-15T15:24:28.000Z",
+          "id": "2110753681566261670",
+          "reply_to_id": "2110751626386411862",
+          "text": "@xbtfast \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f"
         }
       ],
       "threads": {
@@ -3023,8 +3023,6 @@
         "2110651836168614111": true,
         "2110652410884440308": false,
         "2110665974714360171": true,
-        "2110674961237147680": true,
-        "2110675954422911363": false,
         "2110703585352962385": true,
         "2110703923346756021": true,
         "2110705708643782835": true,
@@ -3044,7 +3042,9 @@
         "2110752743212343735": false,
         "2110753057424441834": true,
         "2110753318720975156": false,
-        "2110753439500370116": true
+        "2110753439500370116": true,
+        "2110753653711900948": false,
+        "2110753681566261670": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4716,5 +4716,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T15:24:20+00:00"
+  "updated_at": "2026-10-15T15:26:17+00:00"
 }
