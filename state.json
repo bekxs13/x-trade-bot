@@ -2130,7 +2130,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110675954422911363",
+      "last_id": "2110703585352962385",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2419,12 +2419,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T17:07:16.000Z",
-          "id": "2110417163823747153",
-          "reply_to_id": "2110414655781011564",
-          "text": "@atiqkann @AltcoinSherpa we reclassified it at 0.28 https://t.co/LtQ4aOiArA\n\nstill a terrible call regardless"
-        },
-        {
           "created_at": "2026-10-15T06:49:28.000Z",
           "id": "2110624077463584847",
           "reply_to_id": "2110622584459124986",
@@ -2507,6 +2501,18 @@
           "id": "2110675954422911363",
           "reply_to_id": "2110665413432606930",
           "text": "@Benny54541 far more perhaps"
+        },
+        {
+          "created_at": "2026-10-15T12:05:24.000Z",
+          "id": "2110703585352962385",
+          "images": [
+            "https://pbs.twimg.com/media/HUq41ZubEAAa3EM.jpg",
+            "https://pbs.twimg.com/media/HUq47-oagAAZjjr.jpg",
+            "https://pbs.twimg.com/media/HUq5JsUaoAEqMj6.png",
+            "https://pbs.twimg.com/media/HUq5LjsaoAEqASY.png"
+          ],
+          "reply_to_id": "2110692685212262470",
+          "text": "looks like it might be panic sales, first flush happened at exactly 06:17 est coinciding with 06:16:23 est (first transfer of onchain unlocked tokens, before any sales were made) and second flush happened at exactly 06:43 est coinciding with 06:42:59 est (binance accepting the unlocked tokens deposited to it)\n\n$strk"
         }
       ],
       "threads": {
@@ -2989,7 +2995,6 @@
         "2110346169541148845": true,
         "2110347830837620869": true,
         "2110348166394704207": false,
-        "2110417163823747153": true,
         "2110568719126839419": false,
         "2110611974417740143": true,
         "2110621186308862378": false,
@@ -3011,7 +3016,8 @@
         "2110663955815497863": false,
         "2110665974714360171": true,
         "2110674961237147680": true,
-        "2110675954422911363": false
+        "2110675954422911363": false,
+        "2110703585352962385": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4653,5 +4659,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T12:00:26+00:00"
+  "updated_at": "2026-10-15T12:06:20+00:00"
 }
