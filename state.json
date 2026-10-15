@@ -734,7 +734,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110810603417944213",
+      "last_id": "2110812024800436731",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -919,12 +919,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T11:04:39.000Z",
-          "id": "2110325911627174294",
-          "reply_to_id": "2110076974916120806",
-          "text": "you dont have to use 1000x, you can use whatever leverage you want\n\npeople will use papertrade because it has a distinctly different feature set from other exchanges\n\nthere is novelty in\n\n\u2022 no funding rate on positions\n\u2022 no fees on opening of positions or on losses\n\u2022 no necessary user counterparty for your trades because the house is your counterparty\n\u2022 losers paid out in token\n\u2022 99% of revenue over certain cap to paper stakers\n\nthis makes it both a fantastic venue for high frequency perps leverage day trading, & also a great investment proposition for nontraders who just want to own the casino"
-        },
-        {
           "created_at": "2026-10-14T12:21:17.000Z",
           "id": "2110345195543822652",
           "reply_to_id": "2110342262022386097",
@@ -1013,6 +1007,12 @@
           "id": "2110797401149645146",
           "reply_to_id": "2110796480697053278",
           "text": "@osf_rekt what."
+        },
+        {
+          "created_at": "2026-10-15T19:16:18.000Z",
+          "id": "2110812024800436731",
+          "reply_to_id": "2110810947191439730",
+          "text": "@404flipped 100% supply to users\n99% revenue in cash to stakers"
         }
       ],
       "threads": {
@@ -1356,7 +1356,6 @@
         "2110252627799966022": true,
         "2110304660192117229": true,
         "2110318790793642277": true,
-        "2110325911627174294": true,
         "2110326122655404263": false,
         "2110327073961119900": true,
         "2110345195543822652": false,
@@ -1378,7 +1377,8 @@
         "2110786493103140876": false,
         "2110787082734211269": false,
         "2110797401149645146": false,
-        "2110810603417944213": true
+        "2110810603417944213": true,
+        "2110812024800436731": true
       },
       "user_id": "973261472"
     },
@@ -4751,5 +4751,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T19:12:22+00:00"
+  "updated_at": "2026-10-15T19:18:20+00:00"
 }
