@@ -726,7 +726,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110775484451872816",
+      "last_id": "2110779592072138966",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -912,12 +912,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T15:13:58.000Z",
-          "id": "2110026265088712962",
-          "reply_to_id": "2110021428183781536",
-          "text": "@avgcryptoguy max pain is up"
-        },
-        {
           "created_at": "2026-10-13T15:46:48.000Z",
           "id": "2110034525325783538",
           "reply_to_id": "2110031187049873462",
@@ -1003,6 +997,12 @@
           "id": "2110775484451872816",
           "reply_to_id": "2110751209967829331",
           "text": "keep seeing people say that volume will slow down after max supply is minted, & i dont understand their reasoning, if you own paper & you trade perps in size, why would you daytrade anywhere else other than papertrade when 99% of losses go back to paper stakers & theres no tx fees + no funding"
+        },
+        {
+          "created_at": "2026-10-15T17:07:25.000Z",
+          "id": "2110779592072138966",
+          "reply_to_id": "2110776799819112501",
+          "text": "@alex_hunter20 theres def ppl farming but if it was all farming you would not see the volatility spikes lead to a lot more revenue, &amp; you would think that rev would slow down as paper rewards decrease but rev has gone up every day since second day"
         }
       ],
       "threads": {
@@ -1336,7 +1336,6 @@
         "2109950575102373992": false,
         "2109984830230261923": true,
         "2110020788229214374": true,
-        "2110026265088712962": true,
         "2110027728112021765": true,
         "2110034525325783538": false,
         "2110035710871024121": true,
@@ -1360,7 +1359,8 @@
         "2110768714903900408": false,
         "2110771254504640786": false,
         "2110771875353882696": false,
-        "2110775484451872816": true
+        "2110775484451872816": true,
+        "2110779592072138966": true
       },
       "user_id": "973261472"
     },
@@ -2163,7 +2163,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110776477491020107",
+      "last_id": "2110779659348812045",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2309,11 +2309,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T06:37:58.000Z",
-          "id": "2110621186308862378",
-          "text": "nobody gets to the top without experiencing failure \n\nhow you navigate it dictates more than how you navigate wins"
-        },
-        {
           "created_at": "2026-10-15T08:24:52.000Z",
           "id": "2110648086766952731",
           "quoted_text": "i dont care what anyone else says\n\ni will trade my trade\n\nstarknet tech is superior and if people dont understand it then i will take the opposing view no matter how unpopular it is. \n\none day youre a hero the next youre the villain\n\ni choose to be moneyprinter. https://t.co/birrKDo6ue",
@@ -2419,10 +2414,15 @@
           "created_at": "2026-10-15T16:48:10.000Z",
           "id": "2110774745964900646",
           "text": "all the starknet guys need is literally a CTO who can communicate the true tech vision, the technology and designs are literally already there\n\nand its brilliant"
+        },
+        {
+          "created_at": "2026-10-15T17:07:41.000Z",
+          "id": "2110779659348812045",
+          "quoted_text": "@MoneyPrinter0x \u201cbut it\u2019s a pump and dump. lmao you got baited by insiders on the exit pump before the next unlock. enjoy bagholding to zero. Loser\u201d",
+          "text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 https://t.co/gdRfVEg5dx"
         }
       ],
       "reads": {
-        "2110621186308862378": "No call",
         "2110648086766952731": "No call",
         "2110650867338863059": "No call",
         "2110651836168614111": "No call",
@@ -2439,15 +2439,10 @@
         "2110761983754879252": "No call",
         "2110762136976986381": "No call",
         "2110771577298264131": "No call",
-        "2110774745964900646": "No call"
+        "2110774745964900646": "No call",
+        "2110779659348812045": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-15T14:56:22.000Z",
-          "id": "2110746612423389683",
-          "reply_to_id": "2110745964671582537",
-          "text": "@KaneCapz last night est imo"
-        },
         {
           "created_at": "2026-10-15T15:08:55.000Z",
           "id": "2110749770457526618",
@@ -2531,15 +2526,15 @@
           "id": "2110776477491020107",
           "reply_to_id": "2110775845065232708",
           "text": "@cryptouthred impossible"
+        },
+        {
+          "created_at": "2026-10-15T17:06:52.000Z",
+          "id": "2110779450690580988",
+          "reply_to_id": "2110779228308513168",
+          "text": "@ThePumponomics \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23"
         }
       ],
       "threads": {
-        "2108396870783631448": {
-          "alerted": [
-            "trade:STRK:long"
-          ],
-          "self_replies": 0
-        },
         "2108397149964898395": {
           "alerted": [
             "trade:STRK:long"
@@ -2995,10 +2990,13 @@
         "2110774745964900646": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110779659348812045": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110621186308862378": false,
         "2110648086766952731": true,
         "2110650867338863059": true,
         "2110651836168614111": true,
@@ -3007,7 +3005,6 @@
         "2110703923346756021": true,
         "2110708617100030329": true,
         "2110745870732083325": true,
-        "2110746612423389683": false,
         "2110747081212309893": true,
         "2110749159196414419": true,
         "2110749770457526618": false,
@@ -3032,7 +3029,9 @@
         "2110771577298264131": true,
         "2110774745964900646": true,
         "2110775692992643484": false,
-        "2110776477491020107": false
+        "2110776477491020107": false,
+        "2110779450690580988": false,
+        "2110779659348812045": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4720,5 +4719,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T16:56:18+00:00"
+  "updated_at": "2026-10-15T17:08:24+00:00"
 }
