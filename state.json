@@ -2143,7 +2143,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110749770457526618",
+      "last_id": "2110750844757094713",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2289,12 +2289,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-13T10:38:48.000Z",
-          "id": "2109957018547368347",
-          "quoted_text": "The Bunker\n\nEli Ben-Sasson | @EliBenSasson said Bitcoin isn't safe from quantum, and he's building Starknet as the place Bitcoin, Ethereum and Zcash holders can run to if their keys break. A chapter from The Cat in the Maze, our Wisemen article on @Starknet and its cat.\n\nJustin Drake | @drakefjustin posted that the industry needs to get into \"bunker mode.\" His advice was simple. Park your coins at an address that has never spent, and when you do spend, push the change to a fresh one, because a s",
-          "text": "Read this\n\n$STRK https://t.co/Oq4niovyn7"
-        },
-        {
           "created_at": "2026-10-14T04:58:56.000Z",
           "id": "2110233875582689514",
           "quoted_text": "*OPENAI EYES ACQUISITION OF CRYPTO SECURITY COMPANY TRAIL OF BITS: THE INFORMATION",
@@ -2406,10 +2400,14 @@
           "id": "2110749159196414419",
           "quoted_text": "i dont care if gcr himself comes back and says strk is shit\n\ni did my research. in the domain where i best specialize in.\n\ni will be the new gcr if i have to.\n\ni dont care and im not going to care anytime soon.\n\nstarknet is my kingmaker.\n\nMP",
           "text": "$strk https://t.co/eRX10b0izt"
+        },
+        {
+          "created_at": "2026-10-15T15:13:11.000Z",
+          "id": "2110750844757094713",
+          "text": "time to get into that mode again"
         }
       ],
       "reads": {
-        "2109957018547368347": "No call",
         "2110233875582689514": "No call",
         "2110254737048358916": "No call: bullish on stocks/macro (65%, too unsure)",
         "2110291433441960131": "TRADE LONG QCOM, ARM \u00b7 VIEW bullish on stocks/macro",
@@ -2426,7 +2424,8 @@
         "2110665974714360171": "No call",
         "2110745870732083325": "VIEW bullish on crypto market",
         "2110747081212309893": "No call",
-        "2110749159196414419": "No call"
+        "2110749159196414419": "No call",
+        "2110750844757094713": "No call"
       },
       "replies": [
         {
@@ -2539,10 +2538,6 @@
         }
       ],
       "threads": {
-        "2108113133994942588": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108120012640907580": {
           "alerted": [],
           "self_replies": 0
@@ -3009,10 +3004,13 @@
         "2110749159196414419": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110750844757094713": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109957018547368347": true,
         "2110233875582689514": true,
         "2110254737048358916": true,
         "2110291433441960131": true,
@@ -3046,7 +3044,8 @@
         "2110746612423389683": false,
         "2110747081212309893": true,
         "2110749159196414419": true,
-        "2110749770457526618": false
+        "2110749770457526618": false,
+        "2110750844757094713": false
       },
       "user_id": "1653080265294757890"
     },
@@ -3065,7 +3064,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110741626150899751",
+      "last_id": "2110750601764028899",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3232,12 +3231,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T19:46:13.000Z",
-          "id": "2110457166276825577",
-          "reply_to_id": "2110456934608367749",
-          "text": "@boredHirshy thanks g"
-        },
-        {
           "created_at": "2026-10-14T20:02:47.000Z",
           "id": "2110461335918023045",
           "reply_to_id": "2110460748237603179",
@@ -3320,6 +3313,12 @@
           "id": "2110741626150899751",
           "reply_to_id": "2110739064764948499",
           "text": "@0xMiaWallace \ud83e\udd1d"
+        },
+        {
+          "created_at": "2026-10-15T15:12:13.000Z",
+          "id": "2110750601764028899",
+          "reply_to_id": "2110747376587575445",
+          "text": "@ilblackdragon @mert this is definitely because i made the introduction yesterday! i got us (congrats!)"
         }
       ],
       "threads": {
@@ -3471,7 +3470,6 @@
         "2110373655167537538": true,
         "2110396209575972907": true,
         "2110405623711953046": false,
-        "2110457166276825577": false,
         "2110461335918023045": false,
         "2110462447995826535": false,
         "2110462485312725189": false,
@@ -3494,7 +3492,8 @@
         "2110705272830541887": false,
         "2110707875119263823": false,
         "2110712299170456020": true,
-        "2110741626150899751": false
+        "2110741626150899751": false,
+        "2110750601764028899": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4718,5 +4717,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T15:10:27+00:00"
+  "updated_at": "2026-10-15T15:14:30+00:00"
 }
