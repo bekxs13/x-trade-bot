@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110568051511103706",
+      "last_id": "2110572256082743609",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -67,11 +67,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T08:48:29.000Z",
-          "id": "2109929255631196330",
-          "text": "A lot of stuff is MDE moms now"
-        },
         {
           "created_at": "2026-10-13T08:53:58.000Z",
           "id": "2109930633304879522",
@@ -195,10 +190,14 @@
           "id": "2110520758036553771",
           "quoted_text": "shit is so bad I might have to re-brand to a dividend investor \ud83e\udd23",
           "text": "Spy 1.52% off all time high https://t.co/gF1WQMDiTy"
+        },
+        {
+          "created_at": "2026-10-15T03:23:33.000Z",
+          "id": "2110572256082743609",
+          "text": "Sto shorted the range for 4 weeks and covered  candle before thr bkdown?"
         }
       ],
       "reads": {
-        "2109929255631196330": "No call",
         "2109930633304879522": "No call",
         "2109930806974243185": "No call",
         "2109949149353316861": "No call",
@@ -215,7 +214,8 @@
         "2110483608737857969": "No call",
         "2110499057219383709": "No call: bullish on MU (60%, too unsure)",
         "2110518129210351764": "No call",
-        "2110520758036553771": "No call: bullish on stocks/macro (60%, too unsure)"
+        "2110520758036553771": "No call: bullish on stocks/macro (60%, too unsure)",
+        "2110572256082743609": "No call"
       },
       "replies": [
         {
@@ -583,11 +583,14 @@
         "2110520758036553771": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110572256082743609": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2109855756329930770": false,
-        "2109929255631196330": false,
         "2109930633304879522": true,
         "2109930806974243185": false,
         "2109930952885678249": false,
@@ -620,7 +623,8 @@
         "2110520758036553771": true,
         "2110521991690428573": true,
         "2110522969026089390": false,
-        "2110568051511103706": false
+        "2110568051511103706": false,
+        "2110572256082743609": true
       },
       "user_id": "1446541960181858315"
     },
@@ -4563,5 +4567,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-14",
-  "updated_at": "2026-10-15T03:10:26+00:00"
+  "updated_at": "2026-10-15T03:24:21+00:00"
 }
