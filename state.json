@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110830265023254756",
+      "last_id": "2110832901067767900",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -224,12 +224,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T16:46:45.000Z",
-          "id": "2110412002359480759",
-          "reply_to_id": "2110367829283553726",
-          "text": "@icyponds The way things are priced though only continuous expectation beats would help not mixed narratives"
-        },
-        {
           "created_at": "2026-10-14T17:14:38.000Z",
           "id": "2110419018431729838",
           "reply_to_id": "2110417929833508928",
@@ -312,6 +306,12 @@
           "id": "2110830265023254756",
           "reply_to_id": "2110829883219910953",
           "text": "@rizzorbust We haven\u2019t reacted to quantum headlines in a while tbh"
+        },
+        {
+          "created_at": "2026-10-15T20:39:15.000Z",
+          "id": "2110832901067767900",
+          "reply_to_id": "2110814999882912158",
+          "text": "@itshd__ I was like should I try to talk slower for an interview and then I was like naw I\u2019ll just speak normally"
         }
       ],
       "threads": {
@@ -629,7 +629,6 @@
       "trading": {
         "2110396115543810439": true,
         "2110398080029966763": false,
-        "2110412002359480759": true,
         "2110419018431729838": true,
         "2110419221222129947": true,
         "2110422699663376604": true,
@@ -661,7 +660,8 @@
         "2110747590455427335": true,
         "2110782099297124815": false,
         "2110790768806027598": true,
-        "2110830265023254756": true
+        "2110830265023254756": true,
+        "2110832901067767900": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4234,7 +4234,7 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110828898267140430",
+      "last_id": "2110832817840259528",
       "positions": {},
       "posts": [
         {
@@ -4435,6 +4435,12 @@
           "id": "2110757594923200856",
           "reply_to_id": "2110755623751299554",
           "text": "@degentral I post all my ideas even some I think are just okay because twitter is my journal"
+        },
+        {
+          "created_at": "2026-10-15T20:38:55.000Z",
+          "id": "2110832817840259528",
+          "reply_to_id": "2110829296935899440",
+          "text": "@blockchainz555 yeah that's why I'm hiring people to do that for me"
         }
       ],
       "threads": {
@@ -4745,7 +4751,8 @@
         "2110800906669453697": true,
         "2110822350329671828": true,
         "2110828743505674266": true,
-        "2110828898267140430": true
+        "2110828898267140430": true,
+        "2110832817840259528": false
       },
       "user_id": "809191427645181952"
     }
@@ -4761,5 +4768,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T20:30:24+00:00"
+  "updated_at": "2026-10-15T20:40:22+00:00"
 }
