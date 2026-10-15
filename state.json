@@ -1682,26 +1682,26 @@
           "updated_at": "2026-10-14T16:18:33.000Z"
         }
       },
-      "closed": [],
-      "handle": "lbattlerhino",
-      "last_id": "2110611535366431099",
-      "positions": {
-        "EWY": {
+      "closed": [
+        {
           "asset": "EWY",
-          "chain": "",
-          "confidence": 0.8,
-          "contract_address": "",
+          "close_price": null,
+          "close_url": "https://x.com/lbattlerhino/status/2110770468592734263",
+          "closed": "2026-10-15T16:31:10.000Z",
           "direction": "short",
-          "entry": "",
-          "horizon": "",
+          "flipped": false,
           "market": "stocks",
+          "move": null,
           "open_price": null,
-          "post_id": "2109802343827214627",
-          "reason": "\"Adding the Korea short was fucking amazing\" refers back to the add on the EWY short already on record; the reply says the chart \"teleported down\". This is a PnL brag on an existing position, not a new entry.",
-          "since": "2026-10-09T17:52:35.000Z",
-          "structure": "unknown",
-          "url": "https://x.com/lbattlerhino/status/2109802343827214627"
-        },
+          "open_url": "https://x.com/lbattlerhino/status/2109802343827214627",
+          "opened": "2026-10-09T17:52:35.000Z",
+          "partial": false,
+          "structure": "unknown"
+        }
+      ],
+      "handle": "lbattlerhino",
+      "last_id": "2110770468592734263",
+      "positions": {
         "GOOG": {
           "asset": "GOOG",
           "chain": "",
@@ -1720,12 +1720,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T13:55:22.000Z",
-          "id": "2110006485019484457",
-          "reply_to_id": "2110005247536222698",
-          "text": "Another mags up mem down start holy fuk"
-        },
         {
           "created_at": "2026-10-13T15:44:16.000Z",
           "id": "2110033888332681447",
@@ -1835,10 +1829,14 @@
           "id": "2110611535366431099",
           "reply_to_id": "2102215679617421371",
           "text": "Just had to be patient, clear range and then updated views into more bearish into eventual breakdown and alts led that far before btc\n\nAssuming hold below 81 = yeah blood would be much more severe soon for alts"
+        },
+        {
+          "created_at": "2026-10-15T16:31:10.000Z",
+          "id": "2110770468592734263",
+          "text": "Covered the remaining ewy short exposure, nearly a 20% nuke in under 7 trading days and Hynix tapped the bottom of the previous crash in July \n\nDunno if crash over but even if spike below prob some bounce off this at some point soon\n\nInsane trade played unexpectedly quickly gg"
         }
       ],
       "reads": {
-        "2110006485019484457": "No call",
         "2110033888332681447": "TRADE TRIM EWY",
         "2110094006281736323": "No call",
         "2110126472363229416": "No call",
@@ -1851,7 +1849,8 @@
         "2110526910442954926": "No call",
         "2110528172307697874": "No call",
         "2110530132381516205": "No call",
-        "2110611535366431099": "No call: bearish on alts (same view as before)"
+        "2110611535366431099": "No call: bearish on alts (same view as before)",
+        "2110770468592734263": "TRADE EXIT EWY"
       },
       "replies": [
         {
@@ -2065,10 +2064,15 @@
         "2110526910442954926": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2110770468592734263": {
+          "alerted": [
+            "trade:EWY:exit"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110006485019484457": true,
         "2110033888332681447": true,
         "2110094006281736323": false,
         "2110126472363229416": true,
@@ -2102,7 +2106,8 @@
         "2110555688523219037": true,
         "2110556002307449191": false,
         "2110565242917007397": true,
-        "2110611535366431099": true
+        "2110611535366431099": true,
+        "2110770468592734263": true
       },
       "user_id": "953032269433745408"
     },
@@ -3051,7 +3056,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110765879638274522",
+      "last_id": "2110770703062417682",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3219,12 +3224,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T22:57:23.000Z",
-          "id": "2110505273773449472",
-          "reply_to_id": "2110504102660636949",
-          "text": "@Evan_ss6 40k? non stop doom posting about how the world is gonna end every hour for 40k?"
-        },
-        {
           "created_at": "2026-10-15T00:07:10.000Z",
           "id": "2110522836590669910",
           "reply_to_id": "2062257146771714262",
@@ -3307,6 +3306,12 @@
           "id": "2110765879638274522",
           "reply_to_id": "2110765554147467548",
           "text": "@selectivesnail the only one i\u2019ll ever say 1x for"
+        },
+        {
+          "created_at": "2026-10-15T16:32:06.000Z",
+          "id": "2110770703062417682",
+          "reply_to_id": "2110769437225971744",
+          "text": "@BittexXBT what does it mean"
         }
       ],
       "threads": {
@@ -3464,7 +3469,6 @@
         "2110462485312725189": false,
         "2110502700999942172": true,
         "2110502707383668934": false,
-        "2110505273773449472": false,
         "2110505577793114242": false,
         "2110522836590669910": false,
         "2110523218624659701": false,
@@ -3485,7 +3489,8 @@
         "2110762518495085033": false,
         "2110764924863685092": false,
         "2110765558815928619": false,
-        "2110765879638274522": false
+        "2110765879638274522": false,
+        "2110770703062417682": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4720,5 +4725,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T16:26:22+00:00"
+  "updated_at": "2026-10-15T16:32:26+00:00"
 }
