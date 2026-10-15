@@ -3521,7 +3521,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2110764534495646008",
+      "last_id": "2110791692924399705",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -3541,11 +3541,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-09-16T13:50:06.000Z",
-          "id": "2100220687302717852",
-          "text": "In 2017, $BCH hit 30% the mcap of BTC. $LTC hit 8%. Both behind the \"better version of Bitcoin\" narrative.\n\n$ZEC currently sits at 1.6%. Getting to 15-20% is not unreasonable. At $100k BTC, that would price $ZEC at $15 - 20k. 5 digit Zcash.\n\nMost are not ready for this scenario."
-        },
         {
           "created_at": "2026-09-18T16:29:12.000Z",
           "id": "2100985500085731560",
@@ -3682,6 +3677,12 @@
             "https://pbs.twimg.com/amplify_video_thumb/2110543472365051904/img/ENtBVQyu70tbN8ON.jpg"
           ],
           "text": "Interview with @Arthur0x discussing the highs and lows of running a liquid crypto fund, and how he expects the next crypto bull market to play out.\n\n0:00 Bull Market or Bear Market?\n3:40 Running 8 Figs to 9 Figs in 2020-21\n11:57 Drawing Down 90% in 2022\n23:12 Bull Market Playbook\n33:15 $ZEC and Bitcoin\n41:30 Is $HYPE Overvalued?\n48:50 Why $NEAR is this Cycle\u2019s Winner\n56:00 \u201cYou\u2019re Only as Good as Your Last Trade\u201d\n1:01:38 Are Great Traders Born or Made?\n1:07:38 Identifying Edge & Position Sizing\n1:15:22 $100k to $1M and $1M to $10M\n1:21:00 How to Make it This Cycle"
+        },
+        {
+          "created_at": "2026-10-15T17:55:30.000Z",
+          "id": "2110791692924399705",
+          "reply_to_id": "2110715051250520551",
+          "text": "@arthur0x Please take a second to like the video and retweet!!! I don\u2019t take sponsors to give you unbiased content focused on quality over quantity. Just a simple click/comment could help support me so I could invite more amazing guests in the future. Thank you!"
         }
       ],
       "reads": {
@@ -3703,7 +3704,8 @@
         "2110071384026038470": "No call",
         "2110407005235990565": "No call",
         "2110409449953481203": "No call",
-        "2110715051250520551": "No call"
+        "2110715051250520551": "No call",
+        "2110791692924399705": "No call"
       },
       "replies": [
         {
@@ -3874,11 +3876,10 @@
         },
         "2110715051250520551": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2100220687302717852": true,
         "2100985500085731560": true,
         "2101087265405685923": true,
         "2102939239390343286": true,
@@ -3912,7 +3913,8 @@
         "2110441332883730903": false,
         "2110715051250520551": true,
         "2110717518860124206": false,
-        "2110764534495646008": false
+        "2110764534495646008": false,
+        "2110791692924399705": false
       },
       "user_id": "1064421325186359296"
     },
@@ -4728,5 +4730,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-15T17:52:26+00:00"
+  "updated_at": "2026-10-15T17:56:27+00:00"
 }
