@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110941962203447803",
+      "last_id": "2110948088773063060",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -67,14 +67,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T17:29:16.000Z",
-          "id": "2110422699663376604",
-          "images": [
-            "https://pbs.twimg.com/media/HUm6QobaYAIUrgM.jpg"
-          ],
-          "text": "Wow insane sell off https://t.co/odML2PZmxu"
-        },
         {
           "created_at": "2026-10-14T19:47:32.000Z",
           "id": "2110457497903620432",
@@ -192,10 +184,17 @@
           "created_at": "2026-10-16T00:34:10.000Z",
           "id": "2110892018490863686",
           "text": "It\u2019s funny to see what gets clipped out of something where u watched the whole thing like the most clickbaitable fried stuff only"
+        },
+        {
+          "created_at": "2026-10-16T04:16:58.000Z",
+          "id": "2110948088773063060",
+          "images": [
+            "https://pbs.twimg.com/media/HUuYGZxbsAA6xxh.jpg"
+          ],
+          "text": "https://t.co/p8pnzKBWSn"
         }
       ],
       "reads": {
-        "2110422699663376604": "No call",
         "2110457497903620432": "No call",
         "2110476939488322037": "No call",
         "2110482820556861542": "No call",
@@ -213,7 +212,8 @@
         "2110739328850927841": "No call: maybe long HOOD (62%, too unsure)",
         "2110782099297124815": "No call",
         "2110790768806027598": "No call",
-        "2110892018490863686": "No call"
+        "2110892018490863686": "No call",
+        "2110948088773063060": "No call"
       },
       "replies": [
         {
@@ -621,10 +621,13 @@
         "2110892018490863686": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110948088773063060": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110422699663376604": true,
         "2110457497903620432": true,
         "2110476939488322037": false,
         "2110482820556861542": false,
@@ -658,7 +661,8 @@
         "2110892018490863686": false,
         "2110926985270808959": false,
         "2110927173376999544": false,
-        "2110941962203447803": false
+        "2110941962203447803": false,
+        "2110948088773063060": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4787,5 +4791,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T03:54:19+00:00"
+  "updated_at": "2026-10-16T04:18:22+00:00"
 }
