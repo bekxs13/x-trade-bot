@@ -3063,7 +3063,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2110888853972107324",
+      "last_id": "2110900288483651945",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3083,11 +3083,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T12:37:21.000Z",
-          "id": "2110349236495851934",
-          "text": "MARKET OPEN: Xbox EMBRACES AI Gaming, Crypto is in SHAMBLES, OpenAI &amp; Anthropic are FALLING APART https://t.co/9Ws0hWiamH"
-        },
         {
           "created_at": "2026-10-14T14:14:22.000Z",
           "id": "2110373655167537538",
@@ -3205,10 +3200,14 @@
           "created_at": "2026-10-15T23:10:38.000Z",
           "id": "2110870996337230266",
           "text": "the amc &lt;&gt; robinhood beef is so funny because the ceo is screaming at vlad and literally nobody cares"
+        },
+        {
+          "created_at": "2026-10-16T01:07:02.000Z",
+          "id": "2110900288483651945",
+          "text": "oh my god what am i watching elon is actually the goat"
         }
       ],
       "reads": {
-        "2110349236495851934": "No call",
         "2110373655167537538": "No call",
         "2110396209575972907": "No call",
         "2110405623711953046": "No call",
@@ -3225,7 +3224,8 @@
         "2110862128609681647": "No call",
         "2110862135320588461": "Read together with the post it replies to",
         "2110868916113473793": "No call",
-        "2110870996337230266": "No call"
+        "2110870996337230266": "No call",
+        "2110900288483651945": "No call"
       },
       "replies": [
         {
@@ -3478,10 +3478,13 @@
         "2110870996337230266": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110900288483651945": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110349236495851934": true,
         "2110373655167537538": true,
         "2110396209575972907": true,
         "2110405623711953046": false,
@@ -3515,7 +3518,8 @@
         "2110868916113473793": true,
         "2110870996337230266": true,
         "2110884162332922222": false,
-        "2110888853972107324": false
+        "2110888853972107324": false,
+        "2110900288483651945": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4784,5 +4788,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T00:36:21+00:00"
+  "updated_at": "2026-10-16T01:08:23+00:00"
 }
