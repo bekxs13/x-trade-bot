@@ -2183,7 +2183,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110985237513859168",
+      "last_id": "2110986336081703232",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2345,12 +2345,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T14:58:14.000Z",
-          "id": "2110747081212309893",
-          "quoted_text": "crypto/korea https://t.co/lEb5cS2LSL",
-          "text": "korea fud https://t.co/jglfYWEMDO"
-        },
-        {
           "created_at": "2026-10-15T15:06:30.000Z",
           "id": "2110749159196414419",
           "quoted_text": "i dont care if gcr himself comes back and says strk is shit\n\ni did my research. in the domain where i best specialize in.\n\ni will be the new gcr if i have to.\n\ni dont care and im not going to care anytime soon.\n\nstarknet is my kingmaker.\n\nMP",
@@ -2461,10 +2455,14 @@
           "id": "2110977056171516095",
           "reply_to_id": "2110959944006771145",
           "text": "note: its kinda overextended atm, going spot no lev"
+        },
+        {
+          "created_at": "2026-10-16T06:48:57.000Z",
+          "id": "2110986336081703232",
+          "text": "looking good bros"
         }
       ],
       "reads": {
-        "2110747081212309893": "No call",
         "2110749159196414419": "No call",
         "2110750844757094713": "No call",
         "2110752242504720487": "No call: bullish on crypto market (same view as before)",
@@ -2483,7 +2481,8 @@
         "2110808534514651472": "VIEW bullish on alts",
         "2110908437332897804": "No call",
         "2110959944006771145": "TRADE LONG INJ",
-        "2110977056171516095": "No call"
+        "2110977056171516095": "No call",
+        "2110986336081703232": "No call"
       },
       "replies": [
         {
@@ -2578,12 +2577,6 @@
         }
       ],
       "threads": {
-        "2108482904116560301": {
-          "alerted": [
-            "trade:STRK:long"
-          ],
-          "self_replies": 0
-        },
         "2108485584792563931": {
           "alerted": [
             "bias:strk:bullish"
@@ -3031,10 +3024,13 @@
             "trade:INJ:long"
           ],
           "self_replies": 1
+        },
+        "2110986336081703232": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110747081212309893": true,
         "2110749159196414419": true,
         "2110750844757094713": false,
         "2110752242504720487": true,
@@ -3068,7 +3064,8 @@
         "2110962596123947115": false,
         "2110977056171516095": true,
         "2110982238930448482": true,
-        "2110985237513859168": false
+        "2110985237513859168": false,
+        "2110986336081703232": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4812,5 +4809,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T06:46:21+00:00"
+  "updated_at": "2026-10-16T06:50:31+00:00"
 }
