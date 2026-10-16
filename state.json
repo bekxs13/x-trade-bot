@@ -2277,7 +2277,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111174650604773834",
+      "last_id": "2111179770440630344",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2455,12 +2455,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T18:59:10.000Z",
-          "id": "2110807712875614238",
-          "quoted_text": "@MoneyPrinter0x Bitcoin is a meme bro. What you talking about. Web2 has solved everything always, and decentralisation? There ain\u2019t no decentralisation in 2026",
-          "text": "tech bottom https://t.co/meQSnlB58L"
-        },
-        {
           "created_at": "2026-10-15T19:02:26.000Z",
           "id": "2110808534514651472",
           "quoted_text": "@MoneyPrinter0x Bitcoin is a meme bro. What you talking about. Web2 has solved everything always, and decentralisation? There ain\u2019t no decentralisation in 2026",
@@ -2579,10 +2573,14 @@
           "created_at": "2026-10-16T19:17:15.000Z",
           "id": "2111174650604773834",
           "text": "both bonds n equities are getting sold off today"
+        },
+        {
+          "created_at": "2026-10-16T19:36:51.000Z",
+          "id": "2111179586835005866",
+          "text": "leos holdings highly correlated/nearly same to vara\n\nthink both of them blew up today"
         }
       ],
       "reads": {
-        "2110807712875614238": "No call",
         "2110808534514651472": "VIEW bullish on alts",
         "2110908437332897804": "No call",
         "2110959944006771145": "TRADE LONG INJ",
@@ -2598,15 +2596,10 @@
         "2111132623271862443": "TRADE EXIT INJ",
         "2111138614273101908": "No call",
         "2111171642449867008": "No call",
-        "2111174650604773834": "No call"
+        "2111174650604773834": "No call",
+        "2111179586835005866": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-16T10:46:25.000Z",
-          "id": "2111046097854714043",
-          "reply_to_id": "2111045747928191031",
-          "text": "@botblastcap this, i fully agree\n\nrecent structural changes in the market can create market gaps that allow direct pmf"
-        },
         {
           "created_at": "2026-10-16T10:59:35.000Z",
           "id": "2111049410021138858",
@@ -2695,13 +2688,15 @@
           "id": "2111146491838701586",
           "reply_to_id": "2111145406839070774",
           "text": "@sage_beastmode @GalleonCrypto yeah can probs see that, time to recharge and clear the mind\n\ni think seeing so many ppl making 200k$+ pnl from the strk call got to my head, in equities its usually not this fast\n\ntime to rest and get back to my usual rhythm"
+        },
+        {
+          "created_at": "2026-10-16T19:37:35.000Z",
+          "id": "2111179770440630344",
+          "reply_to_id": "2111172170491769338",
+          "text": "@RichardStrocher ?"
         }
       ],
       "threads": {
-        "2108886690396029389": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108900955106467873": {
           "alerted": [
             "trade:STRK:long"
@@ -3151,10 +3146,13 @@
         "2111174650604773834": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111179586835005866": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110807712875614238": true,
         "2110808534514651472": true,
         "2110908437332897804": true,
         "2110959944006771145": true,
@@ -3166,7 +3164,6 @@
         "2111024457200566379": true,
         "2111040774209159407": true,
         "2111044235860541566": true,
-        "2111046097854714043": false,
         "2111049410021138858": true,
         "2111053758948168091": true,
         "2111055132083568796": true,
@@ -3188,7 +3185,9 @@
         "2111145062751195270": false,
         "2111146491838701586": true,
         "2111171642449867008": true,
-        "2111174650604773834": true
+        "2111174650604773834": true,
+        "2111179586835005866": true,
+        "2111179770440630344": false
       },
       "user_id": "1653080265294757890"
     },
@@ -3207,7 +3206,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2111113680851268006",
+      "last_id": "2111179505331290411",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3372,12 +3371,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T20:14:42.000Z",
-          "id": "2110826723616911565",
-          "reply_to_id": "2110826212155330833",
-          "text": "@strictrope @counterpartytv chalk it up to the game and we run that bitch back"
-        },
-        {
           "created_at": "2026-10-15T20:15:02.000Z",
           "id": "2110826806551216147",
           "reply_to_id": "2110825925160190060",
@@ -3466,6 +3459,12 @@
           "id": "2111113680851268006",
           "reply_to_id": "2111097952848556341",
           "text": "@DeeZe i might need that council job soon icl"
+        },
+        {
+          "created_at": "2026-10-16T19:36:32.000Z",
+          "id": "2111179505331290411",
+          "reply_to_id": "2111179389362937999",
+          "text": "@ThinkingUSD @SoskaKyle take his phone i\u2019m tryna enjoy tonight \ud83d\ude2d"
         }
       ],
       "threads": {
@@ -3652,7 +3651,6 @@
         "2110762518495085033": false,
         "2110798325805092991": false,
         "2110799609127895292": false,
-        "2110826723616911565": false,
         "2110826806551216147": false,
         "2110841484820025828": false,
         "2110853253986652199": false,
@@ -3672,7 +3670,8 @@
         "2111067190250074568": false,
         "2111074640328262026": true,
         "2111092449980596379": false,
-        "2111113680851268006": false
+        "2111113680851268006": false,
+        "2111179505331290411": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5036,5 +5035,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T19:36:23+00:00"
+  "updated_at": "2026-10-16T19:38:26+00:00"
 }
