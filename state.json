@@ -4335,14 +4335,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2110846742430408938",
+      "last_id": "2111093318365196739",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-14T21:26:43.000Z",
-          "id": "2110482457686315161",
-          "text": "Everyone is a trading whether they realize it or not"
-        },
         {
           "created_at": "2026-10-14T22:13:57.000Z",
           "id": "2110494346646630545",
@@ -4446,10 +4441,14 @@
           "created_at": "2026-10-15T21:34:15.000Z",
           "id": "2110846742430408938",
           "text": "What should I be paying attention to that I\u2019m not currently look at?"
+        },
+        {
+          "created_at": "2026-10-16T13:54:03.000Z",
+          "id": "2111093318365196739",
+          "text": "25 sitting on 25 mill"
         }
       ],
       "reads": {
-        "2110482457686315161": "No call",
         "2110494346646630545": "No call: bearish on stocks/macro (same view as before)",
         "2110500007421890959": "No call",
         "2110549994738733342": "No call",
@@ -4468,7 +4467,8 @@
         "2110828743505674266": "No call: bullish on crypto market (55%, too unsure)",
         "2110828898267140430": "Read together with the post it replies to",
         "2110838124645622210": "No call: bearish on stocks/macro (60%, too unsure)",
-        "2110846742430408938": "No call"
+        "2110846742430408938": "No call",
+        "2111093318365196739": "No call"
       },
       "replies": [
         {
@@ -4826,6 +4826,10 @@
         "2110846742430408938": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111093318365196739": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4839,7 +4843,6 @@
         "2109662643053371875": false,
         "2109698195953692702": false,
         "2110411948982460824": true,
-        "2110482457686315161": true,
         "2110494346646630545": true,
         "2110500007421890959": true,
         "2110549994738733342": false,
@@ -4861,7 +4864,8 @@
         "2110828898267140430": true,
         "2110832817840259528": false,
         "2110838124645622210": true,
-        "2110846742430408938": false
+        "2110846742430408938": false,
+        "2111093318365196739": false
       },
       "user_id": "809191427645181952"
     }
@@ -4877,5 +4881,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T13:52:19+00:00"
+  "updated_at": "2026-10-16T13:54:25+00:00"
 }
