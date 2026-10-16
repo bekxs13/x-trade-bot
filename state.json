@@ -2183,7 +2183,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111045796787638705",
+      "last_id": "2111046097854714043",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2507,12 +2507,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T02:07:16.000Z",
-          "id": "2110915448573452728",
-          "reply_to_id": "2110910422358561071",
-          "text": "@unusual_whales bro"
-        },
-        {
           "created_at": "2026-10-16T05:14:02.000Z",
           "id": "2110962449025495284",
           "reply_to_id": "2110843239683297580",
@@ -2595,6 +2589,12 @@
           "id": "2111045796787638705",
           "reply_to_id": "2111044640451482023",
           "text": "Hyperliquid undisputable number 1, after hip5 i think itll break 100 after current round of rate hikes are over and into oai ipo schedule headwinds, financial layer\n\nI mean other than hyperliquid, theres so much good tech in crypto that has real ability to reach pmf but if ppl dont do anything about it we'll just be stuck being a degenerate meme industry with a good financial layer"
+        },
+        {
+          "created_at": "2026-10-16T10:46:25.000Z",
+          "id": "2111046097854714043",
+          "reply_to_id": "2111045747928191031",
+          "text": "@botblastcap this, i fully agree\n\nrecent structural changes in the market can create market gaps that allow direct pmf"
         }
       ],
       "threads": {
@@ -3063,7 +3063,6 @@
         "2110807712875614238": true,
         "2110808534514651472": true,
         "2110908437332897804": true,
-        "2110915448573452728": false,
         "2110959944006771145": true,
         "2110962449025495284": false,
         "2110962596123947115": false,
@@ -3086,7 +3085,8 @@
         "2111034624084517206": true,
         "2111040774209159407": true,
         "2111044235860541566": true,
-        "2111045796787638705": true
+        "2111045796787638705": true,
+        "2111046097854714043": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4830,5 +4830,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T10:46:27+00:00"
+  "updated_at": "2026-10-16T10:48:20+00:00"
 }
