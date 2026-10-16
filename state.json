@@ -739,7 +739,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2111105247699665407",
+      "last_id": "2111107183945420897",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -927,12 +927,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T16:51:06.000Z",
-          "id": "2110775484451872816",
-          "reply_to_id": "2110751209967829331",
-          "text": "keep seeing people say that volume will slow down after max supply is minted, & i dont understand their reasoning, if you own paper & you trade perps in size, why would you daytrade anywhere else other than papertrade when 99% of losses go back to paper stakers & theres no tx fees + no funding"
-        },
-        {
           "created_at": "2026-10-15T17:07:25.000Z",
           "id": "2110779592072138966",
           "reply_to_id": "2110776799819112501",
@@ -1018,6 +1012,12 @@
           "id": "2111069349788156236",
           "reply_to_id": "2111060152220803196",
           "text": "@RAP3MEFR nah"
+        },
+        {
+          "created_at": "2026-10-16T14:49:09.000Z",
+          "id": "2111107183945420897",
+          "reply_to_id": "2111107033546031602",
+          "text": "@sirceen @coinbase intern cooked"
         }
       ],
       "threads": {
@@ -1376,7 +1376,6 @@
         "2110765762457809110": true,
         "2110767113673781312": true,
         "2110767955630018575": false,
-        "2110775484451872816": true,
         "2110779592072138966": true,
         "2110780432182821346": false,
         "2110780824996208946": false,
@@ -1395,7 +1394,8 @@
         "2111062131437433031": true,
         "2111069349788156236": false,
         "2111095056778301444": true,
-        "2111105247699665407": true
+        "2111105247699665407": true,
+        "2111107183945420897": false
       },
       "user_id": "973261472"
     },
@@ -4898,5 +4898,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T14:42:24+00:00"
+  "updated_at": "2026-10-16T14:50:20+00:00"
 }
