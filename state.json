@@ -2224,7 +2224,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111123585502945449",
+      "last_id": "2111128021445017785",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2383,6 +2383,22 @@
           "structure": "spot",
           "url": "https://x.com/MoneyPrinter0x/status/2109850256947175750"
         },
+        "TIA": {
+          "asset": "TIA",
+          "chain": "",
+          "confidence": 0.9,
+          "contract_address": "",
+          "direction": "short",
+          "entry": "",
+          "horizon": "near term",
+          "market": "crypto",
+          "open_price": null,
+          "post_id": "2111128021445017785",
+          "reason": "Says \"shorting tia\" and \"looks like its happening again\", quoting the post that tail-risk pairs may suffer after tradfi risk assets crashed.",
+          "since": "2026-10-16T16:11:57.000Z",
+          "structure": "unknown",
+          "url": "https://x.com/MoneyPrinter0x/status/2111128021445017785"
+        },
         "W": {
           "asset": "W",
           "chain": "",
@@ -2401,12 +2417,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T16:35:34.000Z",
-          "id": "2110771577298264131",
-          "quoted_text": "legit very excited hahaha\n\nfinally\n\nwe are back in the cypherpunk era of crypto.",
-          "text": "Welcome back to the Cypherpunk Era of Crypto.\n\n$STRK https://t.co/FGoHICGdnj"
-        },
         {
           "created_at": "2026-10-15T16:48:10.000Z",
           "id": "2110774745964900646",
@@ -2522,10 +2532,20 @@
           "id": "2111061185315655710",
           "reply_to_id": "2111053758948168091",
           "text": "these kinds of things will only become obvious in hindsight when the bandwagon jumps in. but technologically they are perfect, and forward-looking sentiment wise the markets are perfect for this. the markets & ppl who gain engagement/joy from habitually attacking others might clown and attack me for this since its a hated play (i can see where they're coming from) and i wont lie that it doesnt suck. but ai-resistant cryptography is only going to heavily accelerate in both mindshare and size in the near and medium term. it is hated. but it is not wrong. and it will only become more correct in the near future due to anth ipo schedule <-> media headwinds."
+        },
+        {
+          "created_at": "2026-10-16T16:11:57.000Z",
+          "id": "2111128021445017785",
+          "images": [
+            "https://pbs.twimg.com/media/HUw7ulea8AAg3hB.jpg",
+            "https://pbs.twimg.com/media/HUw7vCaasAAx_1M.jpg",
+            "https://pbs.twimg.com/media/HUw7vmCaUAAA2Pn.jpg"
+          ],
+          "quoted_text": "tail risk pairs might not look pretty in the near term after how tradfi risk assets crashed across the board today\n\nusually a leading indicator https://t.co/SmNdbjD35D",
+          "text": "looks like its happening again \n\nshorting tia https://t.co/W75gt1GIS9 https://t.co/ARAAQEvz8j"
         }
       ],
       "reads": {
-        "2110771577298264131": "No call",
         "2110774745964900646": "No call",
         "2110779659348812045": "No call",
         "2110786272390426864": "No call",
@@ -2542,7 +2562,8 @@
         "2111020071149871233": "No call",
         "2111024457200566379": "TRADE LONG ARB",
         "2111040774209159407": "No call: bullish on STRK (same view as before)",
-        "2111044235860541566": "No call"
+        "2111044235860541566": "No call",
+        "2111128021445017785": "TRADE SHORT TIA"
       },
       "replies": [
         {
@@ -2642,10 +2663,6 @@
         }
       ],
       "threads": {
-        "2108512022623383969": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108569245093417100": {
           "alerted": [
             "trade:STRK:long"
@@ -3093,10 +3110,15 @@
         "2111044235860541566": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111128021445017785": {
+          "alerted": [
+            "trade:TIA:short"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110771577298264131": true,
         "2110774745964900646": true,
         "2110779659348812045": true,
         "2110786272390426864": false,
@@ -3130,7 +3152,8 @@
         "2111063166314766468": false,
         "2111104034828386370": false,
         "2111113162623959221": false,
-        "2111123585502945449": false
+        "2111123585502945449": false,
+        "2111128021445017785": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4944,5 +4967,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T16:10:23+00:00"
+  "updated_at": "2026-10-16T16:12:34+00:00"
 }
