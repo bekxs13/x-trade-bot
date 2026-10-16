@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110948088773063060",
+      "last_id": "2110966788494381488",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -67,11 +67,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T19:47:32.000Z",
-          "id": "2110457497903620432",
-          "text": "Anthropic as a shrinking biz would be hilarious like yeah ok slight negative growth negative 80% margins 2 trillion plz"
-        },
         {
           "created_at": "2026-10-14T21:04:47.000Z",
           "id": "2110476939488322037",
@@ -192,10 +187,14 @@
             "https://pbs.twimg.com/media/HUuYGZxbsAA6xxh.jpg"
           ],
           "text": "https://t.co/p8pnzKBWSn"
+        },
+        {
+          "created_at": "2026-10-16T05:31:16.000Z",
+          "id": "2110966788494381488",
+          "text": "Based16z reveals"
         }
       ],
       "reads": {
-        "2110457497903620432": "No call",
         "2110476939488322037": "No call",
         "2110482820556861542": "No call",
         "2110483608737857969": "No call",
@@ -213,7 +212,8 @@
         "2110782099297124815": "No call",
         "2110790768806027598": "No call",
         "2110892018490863686": "No call",
-        "2110948088773063060": "No call"
+        "2110948088773063060": "No call",
+        "2110966788494381488": "No call"
       },
       "replies": [
         {
@@ -625,10 +625,13 @@
         "2110948088773063060": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110966788494381488": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110457497903620432": true,
         "2110476939488322037": false,
         "2110482820556861542": false,
         "2110483608737857969": false,
@@ -662,7 +665,8 @@
         "2110926985270808959": false,
         "2110927173376999544": false,
         "2110941962203447803": false,
-        "2110948088773063060": false
+        "2110948088773063060": false,
+        "2110966788494381488": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4807,5 +4811,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T05:16:17+00:00"
+  "updated_at": "2026-10-16T05:32:23+00:00"
 }
