@@ -4408,24 +4408,19 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2111114374412636556",
-          "reason": "Comparing AI infra to 2021 L1 tokens reads as a bubble call. It fits his recent posts about an equities 'potential top', memory/neocloud shorts and mocking the $1T spend announcements.",
+          "post_id": "2111173105548931476",
+          "reason": "Expects an \"admin\" weekend pump of the market and plans to \"reshort Monday\", so the bearish equities view continues.",
           "scope": "stocks/macro",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-16T15:17:44.000Z"
+          "updated_at": "2026-10-16T19:11:06.000Z"
         }
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111172044972757120",
+      "last_id": "2111173105548931476",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-15T14:49:06.000Z",
-          "id": "2110744784365322598",
-          "text": "Seems like some firms were short BTC//Majors and long AI?\n\nThat trade appears to be rapidly unwinding."
-        },
         {
           "created_at": "2026-10-15T15:28:08.000Z",
           "id": "2110754604027965635",
@@ -4526,10 +4521,14 @@
           "created_at": "2026-10-16T19:06:53.000Z",
           "id": "2111172044972757120",
           "text": "ThinkingUSD"
+        },
+        {
+          "created_at": "2026-10-16T19:11:06.000Z",
+          "id": "2111173105548931476",
+          "text": "Think that was enough for today, now you can wait for the admin to try to pump the market through the weekend and reshort Monday."
         }
       ],
       "reads": {
-        "2110744784365322598": "No call",
         "2110754604027965635": "No call",
         "2110761940007915686": "No call",
         "2110800906669453697": "No call",
@@ -4548,7 +4547,8 @@
         "2111144786912522255": "No call",
         "2111161559317946701": "No call",
         "2111171350538666230": "No call",
-        "2111172044972757120": "No call"
+        "2111172044972757120": "No call",
+        "2111173105548931476": "No call: maybe exit  (60%, too unsure); bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -4956,6 +4956,10 @@
         "2111172044972757120": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111173105548931476": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4970,7 +4974,6 @@
         "2109698195953692702": false,
         "2110411948982460824": true,
         "2110572720375181652": false,
-        "2110744784365322598": true,
         "2110754604027965635": false,
         "2110757594923200856": false,
         "2110761940007915686": true,
@@ -4992,7 +4995,8 @@
         "2111144786912522255": false,
         "2111161559317946701": false,
         "2111171350538666230": true,
-        "2111172044972757120": false
+        "2111172044972757120": false,
+        "2111173105548931476": true
       },
       "user_id": "809191427645181952"
     }
@@ -5008,5 +5012,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T19:08:22+00:00"
+  "updated_at": "2026-10-16T19:12:25+00:00"
 }
