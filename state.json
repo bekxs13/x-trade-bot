@@ -2137,12 +2137,12 @@
       "biases": {
         "alts": {
           "market": "crypto",
-          "post_id": "2110991453858234518",
-          "reason": "\"early alt szn\" plus quoted call for crypto majors (esp SOL) leg up matches the recorded bullish alts view.",
+          "post_id": "2110991803566703085",
+          "reason": "'early alt szn' plus the quoted call for a big crypto majors leg up (esp SOL) matches the recorded bullish alts view.",
           "scope": "alts",
           "since": "2026-10-15",
           "stance": "bullish",
-          "updated_at": "2026-10-16T07:09:17.000Z"
+          "updated_at": "2026-10-16T07:10:40.000Z"
         },
         "btc": {
           "market": "crypto",
@@ -2183,7 +2183,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110991453858234518",
+      "last_id": "2110991803566703085",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2345,11 +2345,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T15:13:11.000Z",
-          "id": "2110750844757094713",
-          "text": "time to get into that mode again"
-        },
-        {
           "created_at": "2026-10-15T15:18:45.000Z",
           "id": "2110752242504720487",
           "text": "The Hated Cryptography Rally."
@@ -2460,10 +2455,15 @@
           "id": "2110991453858234518",
           "quoted_text": "we didnt make any noticeable lows on the big3 even on ai fud + anth financials fud + cpi fud + ppi fud as risk assets crashed this week, while spot flows on btc, sol remained strong\n\nthink that next igv &amp; crypto majors (esp sol) leg up is going to be really noticeable htf",
           "text": "early alt szn\n\nlearned a lot recently! adapting faster than ever to this asset class\n\ngoing back to cross-asset &amp; macro roots to generate edge\n\nMP https://t.co/j6QVxv239E"
+        },
+        {
+          "created_at": "2026-10-16T07:10:40.000Z",
+          "id": "2110991803566703085",
+          "quoted_text": "we didnt make any noticeable lows on the big3 even on ai fud + anth financials fud + cpi fud + ppi fud as risk assets crashed this week, while spot flows on btc, sol remained strong\n\nthink that next igv &amp; crypto majors (esp sol) leg up is going to be really noticeable htf",
+          "text": "early alt szn\n\nlearned a lot recently! adapting faster than ever to this asset class\n\ngoing back to cross-asset &amp; macro roots to continue generating edge\n\nMP https://t.co/j6QVxv239E"
         }
       ],
       "reads": {
-        "2110750844757094713": "No call",
         "2110752242504720487": "No call: bullish on crypto market (same view as before)",
         "2110755781348057503": "TRADE LONG STRK",
         "2110757954576433207": "No call",
@@ -2482,7 +2482,8 @@
         "2110959944006771145": "TRADE LONG INJ",
         "2110977056171516095": "No call",
         "2110986336081703232": "No call",
-        "2110991453858234518": "No call: bullish on alts (same view as before)"
+        "2110991453858234518": "No call: bullish on alts (same view as before)",
+        "2110991803566703085": "No call: bullish on alts (same view as before)"
       },
       "replies": [
         {
@@ -2577,10 +2578,6 @@
         }
       ],
       "threads": {
-        "2108509180000653422": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108509703852757277": {
           "alerted": [],
           "self_replies": 0
@@ -3026,10 +3023,13 @@
         "2110991453858234518": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110991803566703085": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110750844757094713": false,
         "2110752242504720487": true,
         "2110755781348057503": true,
         "2110757954576433207": true,
@@ -3063,7 +3063,8 @@
         "2110982238930448482": true,
         "2110985237513859168": false,
         "2110986336081703232": false,
-        "2110991453858234518": true
+        "2110991453858234518": true,
+        "2110991803566703085": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4807,5 +4808,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T07:10:23+00:00"
+  "updated_at": "2026-10-16T07:12:25+00:00"
 }
