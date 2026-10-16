@@ -1725,12 +1725,12 @@
       "biases": {
         "alts": {
           "market": "crypto",
-          "post_id": "2110611535366431099",
-          "reason": "'Assuming hold below 81 = blood would be much more severe soon for alts' with BTC at 80.5k matches the recorded bearish alts view.",
+          "post_id": "2111144245436506126",
+          "reason": "Says trends on main alts broke weeks ago and patience below Y/O (yearly open) continues to be the play, plus GRASS/TIA shills as a top signal; matches recorded bearish alts view.",
           "scope": "alts",
           "since": "2026-10-07",
           "stance": "bearish",
-          "updated_at": "2026-10-15T05:59:37.000Z"
+          "updated_at": "2026-10-16T17:16:25.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -1769,7 +1769,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2110787762983211381",
+      "last_id": "2111144621497799027",
       "positions": {
         "GOOG": {
           "asset": "GOOG",
@@ -1789,17 +1789,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T19:43:09.000Z",
-          "id": "2110094006281736323",
-          "quoted_text": "Me to the next Korean I see https://t.co/s1kXNccCTq",
-          "text": "The next Korean who sees me https://t.co/fDAFBfJigP"
-        },
-        {
-          "created_at": "2026-10-13T21:52:09.000Z",
-          "id": "2110126472363229416",
-          "text": "Floyd mayweather made a fomo account \n\nWALLAHI we are finished"
-        },
         {
           "created_at": "2026-10-13T21:52:44.000Z",
           "id": "2110126618689847606",
@@ -1904,11 +1893,20 @@
           "id": "2110770912429838604",
           "reply_to_id": "2110770468592734263",
           "text": "Funniest part was it was also to hedge goog amzn exposure both of which are still basically at their entry points \n\nWorked out beautifully"
+        },
+        {
+          "created_at": "2026-10-16T17:16:25.000Z",
+          "id": "2111144245436506126",
+          "text": "You guys gotta stop flipping bias over every daily candle man shit is embarrassing stop tweaking\n\nHas been clear trends on main alts broke weeks ago, patience has been and continues to be the play below Y/O \n\nEnjoy your weekends"
+        },
+        {
+          "created_at": "2026-10-16T17:17:55.000Z",
+          "id": "2111144621497799027",
+          "reply_to_id": "2111144245436506126",
+          "text": "When you start to get shilled grass and Tia seriously from multiple people, you know it\u2019s time to take some chips off the table lmao"
         }
       ],
       "reads": {
-        "2110094006281736323": "No call",
-        "2110126472363229416": "No call",
         "2110126618689847606": "Read together with the post it replies to",
         "2110404903390892262": "VIEW bearish on stocks/macro",
         "2110406447486120042": "No call",
@@ -1920,7 +1918,9 @@
         "2110530132381516205": "No call",
         "2110611535366431099": "No call: bearish on alts (same view as before)",
         "2110770468592734263": "TRADE EXIT EWY",
-        "2110770912429838604": "No call"
+        "2110770912429838604": "No call",
+        "2111144245436506126": "No call: bearish on alts (same view as before)",
+        "2111144621497799027": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -2140,11 +2140,13 @@
             "trade:EWY:exit"
           ],
           "self_replies": 1
+        },
+        "2111144245436506126": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2110094006281736323": false,
-        "2110126472363229416": true,
         "2110126618689847606": true,
         "2110403253859172431": false,
         "2110404903390892262": true,
@@ -2177,7 +2179,9 @@
         "2110770468592734263": true,
         "2110770912429838604": true,
         "2110784200664404024": false,
-        "2110787762983211381": true
+        "2110787762983211381": true,
+        "2111144245436506126": true,
+        "2111144621497799027": true
       },
       "user_id": "953032269433745408"
     },
@@ -4986,5 +4990,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T17:16:25+00:00"
+  "updated_at": "2026-10-16T17:18:21+00:00"
 }
