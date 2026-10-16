@@ -2183,7 +2183,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111056459811410137",
+      "last_id": "2111057277902020811",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2506,12 +2506,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T06:44:35.000Z",
-          "id": "2110985237513859168",
-          "reply_to_id": "2110936317064265768",
-          "text": "@Fatiu_onchain @solangelestv \ud83e\udef6\ud83e\udef6"
-        },
-        {
           "created_at": "2026-10-16T07:14:49.000Z",
           "id": "2110992844865597890",
           "reply_to_id": "2110992027458629751",
@@ -2594,6 +2588,12 @@
           "id": "2111056459811410137",
           "reply_to_id": "2111056060182405522",
           "text": "@ieaturfoods @botblastcap @LayerZero_Core from a markets perspective\n\nthat means that the only way from here is up"
+        },
+        {
+          "created_at": "2026-10-16T11:30:51.000Z",
+          "id": "2111057277902020811",
+          "reply_to_id": "2111056621942263921",
+          "text": "@ieaturfoods @botblastcap @LayerZero_Core thank you and i hope your plays goes well too\n\np.s. i actually didnt buy this because of quantum, i never believed in those because its a physics problem (physical qubit technology is just not there yet)\n\nbut this is a software &amp; math problem thats accelerated by ai"
         }
       ],
       "threads": {
@@ -3063,7 +3063,6 @@
         "2110908437332897804": true,
         "2110959944006771145": true,
         "2110977056171516095": true,
-        "2110985237513859168": false,
         "2110986336081703232": false,
         "2110991453858234518": true,
         "2110991803566703085": true,
@@ -3085,7 +3084,8 @@
         "2111049410021138858": true,
         "2111053758948168091": true,
         "2111055132083568796": true,
-        "2111056459811410137": true
+        "2111056459811410137": true,
+        "2111057277902020811": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4832,5 +4832,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T11:28:21+00:00"
+  "updated_at": "2026-10-16T11:32:18+00:00"
 }
