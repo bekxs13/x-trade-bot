@@ -2252,7 +2252,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111138614273101908",
+      "last_id": "2111145062751195270",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2579,18 +2579,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T09:55:00.000Z",
-          "id": "2111033158728565059",
-          "reply_to_id": "2111033030093766946",
-          "text": "@ika_xbt seems like it!"
-        },
-        {
-          "created_at": "2026-10-16T10:00:50.000Z",
-          "id": "2111034624084517206",
-          "reply_to_id": "2111033900290212050",
-          "text": "@weatherboi101 because im already in heavy"
-        },
-        {
           "created_at": "2026-10-16T10:45:13.000Z",
           "id": "2111045796787638705",
           "reply_to_id": "2111044640451482023",
@@ -2672,6 +2660,18 @@
           "id": "2111135759281660107",
           "reply_to_id": "2111132786195407310",
           "text": "@ChainTrek10 inj closed\n\nstrk has an actual chance of becoming something big, might as well bet on it than on some memecoin\n\narb -&gt; chart it against sol"
+        },
+        {
+          "created_at": "2026-10-16T17:19:27.000Z",
+          "id": "2111145006753005594",
+          "reply_to_id": "2111144693316592081",
+          "text": "@GalleonCrypto nah, it crashed another -5% further down past 30min"
+        },
+        {
+          "created_at": "2026-10-16T17:19:40.000Z",
+          "id": "2111145062751195270",
+          "reply_to_id": "2111144693316592081",
+          "text": "@GalleonCrypto or actually yeah, time to touch some grass"
         }
       ],
       "threads": {
@@ -3143,8 +3143,6 @@
         "2110991803566703085": true,
         "2111020071149871233": true,
         "2111024457200566379": true,
-        "2111033158728565059": false,
-        "2111034624084517206": true,
         "2111040774209159407": true,
         "2111044235860541566": true,
         "2111045796787638705": true,
@@ -3165,7 +3163,9 @@
         "2111131990410072116": true,
         "2111132623271862443": true,
         "2111135759281660107": true,
-        "2111138614273101908": true
+        "2111138614273101908": true,
+        "2111145006753005594": true,
+        "2111145062751195270": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4415,15 +4415,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111139510926893163",
+      "last_id": "2111144786912522255",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-15T05:42:26.000Z",
-          "id": "2110607210997023097",
-          "quoted_text": "No one - and I mean literally no one in the AI supply chain - takes the ridiculous $1 trillion of unfunded spending \u201ccommitments\u201d from OpenAI and Anthropic even vaguely seriously.\n\nHence the TSM executives dismissing Sam Altman as a nontechnical \u201cpodcast bro\u201d after he came to them to make a commitment.\n\nJust listen to the answers that public company executives give about these unfunded \u201ccommitments.\u201d They are functionally irrelevant and this should be obvious to everyone.",
-          "text": "This will be my favorite and framed tweet from this cycle.\n\n\u201cDude lmao, imagine taking the $1T of planned spend and market moving announcement seriously\u201d\n\nSo we can just say anything now in public markets and everyone is okay with that? https://t.co/fXdqZU4DBR"
-        },
         {
           "created_at": "2026-10-15T13:29:05.000Z",
           "id": "2110724646974767398",
@@ -4524,10 +4518,14 @@
           "created_at": "2026-10-16T16:57:37.000Z",
           "id": "2111139510926893163",
           "text": "https://t.co/ng8NCZiQyU"
+        },
+        {
+          "created_at": "2026-10-16T17:18:35.000Z",
+          "id": "2111144786912522255",
+          "text": "Thank you for your donations"
         }
       ],
       "reads": {
-        "2110607210997023097": "No call: bearish on stocks/macro (same view as before)",
         "2110724646974767398": "No call",
         "2110726826704154734": "No call",
         "2110735678548164666": "No call: maybe trim equity shorts (memory/neoclouds/semis) (60%, too unsure); bullish on stocks/macro (65%, too unsure)",
@@ -4546,7 +4544,8 @@
         "2111115012798296355": "No call",
         "2111116591400468819": "No call",
         "2111120109729407227": "No call: bearish on trading card companies (60%, too unsure)",
-        "2111139510926893163": "No call"
+        "2111139510926893163": "No call",
+        "2111144786912522255": "No call"
       },
       "replies": [
         {
@@ -4938,6 +4937,10 @@
         "2111139510926893163": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111144786912522255": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4952,7 +4955,6 @@
         "2109698195953692702": false,
         "2110411948982460824": true,
         "2110572720375181652": false,
-        "2110607210997023097": true,
         "2110724646974767398": false,
         "2110726826704154734": true,
         "2110735678548164666": true,
@@ -4974,7 +4976,8 @@
         "2111116591400468819": true,
         "2111120109729407227": true,
         "2111135946112397498": true,
-        "2111139510926893163": false
+        "2111139510926893163": false,
+        "2111144786912522255": false
       },
       "user_id": "809191427645181952"
     }
@@ -4990,5 +4993,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T17:18:21+00:00"
+  "updated_at": "2026-10-16T17:20:25+00:00"
 }
