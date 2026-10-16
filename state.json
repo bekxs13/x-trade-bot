@@ -3123,7 +3123,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2111092449980596379",
+      "last_id": "2111113680851268006",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3288,12 +3288,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T20:12:14.000Z",
-          "id": "2110826102344360043",
-          "reply_to_id": "2110825756297466321",
-          "text": "@strictrope @counterpartytv chalk it up to the game and we run that bitch back"
-        },
-        {
           "created_at": "2026-10-15T20:14:42.000Z",
           "id": "2110826723616911565",
           "reply_to_id": "2110826212155330833",
@@ -3382,6 +3376,12 @@
           ],
           "reply_to_id": "2110919728474833060",
           "text": "@rasmr_eth https://t.co/agWQHEhVeU"
+        },
+        {
+          "created_at": "2026-10-16T15:14:58.000Z",
+          "id": "2111113680851268006",
+          "reply_to_id": "2111097952848556341",
+          "text": "@DeeZe i might need that council job soon icl"
         }
       ],
       "threads": {
@@ -3568,7 +3568,6 @@
         "2110762518495085033": false,
         "2110798325805092991": false,
         "2110799609127895292": false,
-        "2110826102344360043": false,
         "2110826723616911565": false,
         "2110826806551216147": false,
         "2110841484820025828": false,
@@ -3588,7 +3587,8 @@
         "2111053723505954873": false,
         "2111067190250074568": false,
         "2111074640328262026": true,
-        "2111092449980596379": false
+        "2111092449980596379": false,
+        "2111113680851268006": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4903,5 +4903,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T15:14:21+00:00"
+  "updated_at": "2026-10-16T15:16:22+00:00"
 }
