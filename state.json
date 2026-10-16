@@ -31,7 +31,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2110840522822832236",
+      "last_id": "2110892018490863686",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -67,14 +67,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T15:51:26.000Z",
-          "id": "2110398080029966763",
-          "images": [
-            "https://pbs.twimg.com/media/HUmj3ofaYAAI0GU.jpg"
-          ],
-          "text": "https://t.co/gudjc7egiY"
-        },
         {
           "created_at": "2026-10-14T17:29:16.000Z",
           "id": "2110422699663376604",
@@ -195,10 +187,14 @@
           "id": "2110840522822832236",
           "reply_to_id": "2110840424684470385",
           "text": "@Credib1eGuy Seems more bullish AI given don\u2019t need to pace the frontier (guy who also didn\u2019t read it)"
+        },
+        {
+          "created_at": "2026-10-16T00:34:10.000Z",
+          "id": "2110892018490863686",
+          "text": "It\u2019s funny to see what gets clipped out of something where u watched the whole thing like the most clickbaitable fried stuff only"
         }
       ],
       "reads": {
-        "2110398080029966763": "TRADE LONG QQQ",
         "2110422699663376604": "No call",
         "2110457497903620432": "No call",
         "2110476939488322037": "No call",
@@ -216,7 +212,8 @@
         "2110736773420810353": "No call",
         "2110739328850927841": "No call: maybe long HOOD (62%, too unsure)",
         "2110782099297124815": "No call",
-        "2110790768806027598": "No call"
+        "2110790768806027598": "No call",
+        "2110892018490863686": "No call"
       },
       "replies": [
         {
@@ -620,10 +617,13 @@
         "2110790768806027598": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110892018490863686": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110398080029966763": false,
         "2110422699663376604": true,
         "2110457497903620432": true,
         "2110476939488322037": false,
@@ -657,7 +657,8 @@
         "2110839178732916810": false,
         "2110839567242977720": false,
         "2110840424684470385": false,
-        "2110840522822832236": true
+        "2110840522822832236": true,
+        "2110892018490863686": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4783,5 +4784,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T00:22:20+00:00"
+  "updated_at": "2026-10-16T00:36:21+00:00"
 }
