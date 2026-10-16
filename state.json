@@ -1770,7 +1770,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2111148084382306662",
+      "last_id": "2111161142244671905",
       "positions": {
         "GOOG": {
           "asset": "GOOG",
@@ -1925,12 +1925,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T19:53:24.000Z",
-          "id": "2110458973686313402",
-          "reply_to_id": "2110456677757829451",
-          "text": "@Crypto_tIdr Thanks dude"
-        },
-        {
           "created_at": "2026-10-14T20:20:22.000Z",
           "id": "2110465760720236931",
           "reply_to_id": "2110461655406805332",
@@ -2013,6 +2007,12 @@
           "id": "2111148084382306662",
           "reply_to_id": "2111146222119526665",
           "text": "@ferrumdeauratum Could be many things\noversized, no conviction, zoomed in, etc \n\nWho knows, no quick fixes for discipline"
+        },
+        {
+          "created_at": "2026-10-16T18:23:34.000Z",
+          "id": "2111161142244671905",
+          "reply_to_id": "2111158268437664165",
+          "text": "@0iqredact Constantly working towards this ideal https://t.co/XQCmlMPFRa"
         }
       ],
       "threads": {
@@ -2158,7 +2158,6 @@
         "2110447305740742802": false,
         "2110447643642245266": false,
         "2110450730079510702": false,
-        "2110458973686313402": false,
         "2110465760720236931": false,
         "2110465822988828968": false,
         "2110482069294076009": false,
@@ -2182,7 +2181,8 @@
         "2111147057612513395": true,
         "2111147104093770066": false,
         "2111147305869213770": true,
-        "2111148084382306662": true
+        "2111148084382306662": true,
+        "2111161142244671905": false
       },
       "user_id": "953032269433745408"
     },
@@ -4994,5 +4994,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T18:22:22+00:00"
+  "updated_at": "2026-10-16T18:24:20+00:00"
 }
