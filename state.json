@@ -739,7 +739,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2111107183945420897",
+      "last_id": "2111117359091957993",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -775,16 +775,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T09:43:47.000Z",
-          "id": "2109943171694407765",
-          "text": "what % of your portfolio is in bitcoin"
-        },
-        {
-          "created_at": "2026-10-13T10:01:43.000Z",
-          "id": "2109947683935014953",
-          "text": "send ticker requests and ill chart it and tell you if its going to zero or not"
-        },
         {
           "created_at": "2026-10-13T10:13:12.000Z",
           "id": "2109950575102373992",
@@ -902,11 +892,19 @@
             "https://pbs.twimg.com/amplify_video_thumb/2111105054598184960/img/x_qo_QZ_vqHYfTiJ.jpg"
           ],
           "text": "i spent a lot of 2020 and 2021 glued to the charts, constantly feeling like i was going to miss something if i logged off\n\nover time, i've learned that trading 24/7 can become a trap, even when you're making money\n\nthere are periods where being extremely active makes sense, and others where stepping away is the better decision\n\nhaving a life outside of trading is important bc knowing when to switch off is just as valuable as knowing when to trade"
+        },
+        {
+          "created_at": "2026-10-16T15:29:31.000Z",
+          "id": "2111117340779937937",
+          "text": "finally back in new york"
+        },
+        {
+          "created_at": "2026-10-16T15:29:35.000Z",
+          "id": "2111117359091957993",
+          "text": "jesus christ man"
         }
       ],
       "reads": {
-        "2109943171694407765": "No call",
-        "2109947683935014953": "No call",
         "2109984830230261923": "No call",
         "2110020788229214374": "No call",
         "2110027728112021765": "VIEW bearish on MU",
@@ -923,15 +921,11 @@
         "2110810603417944213": "No call",
         "2111062131437433031": "No call",
         "2111095056778301444": "No call",
-        "2111105247699665407": "No call"
+        "2111105247699665407": "No call",
+        "2111117340779937937": "No call",
+        "2111117359091957993": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-15T17:07:25.000Z",
-          "id": "2110779592072138966",
-          "reply_to_id": "2110776799819112501",
-          "text": "@alex_hunter20 theres def ppl farming but if it was all farming you would not see the volatility spikes lead to a lot more revenue, &amp; you would think that rev would slow down as paper rewards decrease but rev has gone up every day since second day"
-        },
         {
           "created_at": "2026-10-15T17:10:46.000Z",
           "id": "2110780432182821346",
@@ -1018,6 +1012,12 @@
           "id": "2111107183945420897",
           "reply_to_id": "2111107033546031602",
           "text": "@sirceen @coinbase intern cooked"
+        },
+        {
+          "created_at": "2026-10-16T15:29:25.000Z",
+          "id": "2111117316238819588",
+          "reply_to_id": "2111116734388371537",
+          "text": "@exitIiquidity he was roasting me lol"
         }
       ],
       "threads": {
@@ -1358,11 +1358,17 @@
         "2111105247699665407": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111117340779937937": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2111117359091957993": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109943171694407765": true,
-        "2109947683935014953": true,
         "2109950575102373992": false,
         "2109984830230261923": true,
         "2110020788229214374": true,
@@ -1376,7 +1382,6 @@
         "2110765762457809110": true,
         "2110767113673781312": true,
         "2110767955630018575": false,
-        "2110779592072138966": true,
         "2110780432182821346": false,
         "2110780824996208946": false,
         "2110783883998544197": true,
@@ -1395,7 +1400,10 @@
         "2111069349788156236": false,
         "2111095056778301444": true,
         "2111105247699665407": true,
-        "2111107183945420897": false
+        "2111107183945420897": false,
+        "2111117316238819588": false,
+        "2111117340779937937": false,
+        "2111117359091957993": false
       },
       "user_id": "973261472"
     },
@@ -4914,5 +4922,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T15:28:26+00:00"
+  "updated_at": "2026-10-16T15:30:29+00:00"
 }
