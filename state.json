@@ -2198,7 +2198,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111104034828386370",
+      "last_id": "2111113162623959221",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2520,12 +2520,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T09:02:32.000Z",
-          "id": "2111019955097616414",
-          "reply_to_id": "2110999826359844873",
-          "text": "@tokumatoshi false narrative, anyone can just make a plugin and publish it on codex"
-        },
-        {
           "created_at": "2026-10-16T09:21:11.000Z",
           "id": "2111024645650489408",
           "reply_to_id": "2111024549290762292",
@@ -2608,6 +2602,17 @@
           "id": "2111104034828386370",
           "reply_to_id": "2111102897811329319",
           "text": "@Southern__Duke @TMTLongShort Yeeup"
+        },
+        {
+          "created_at": "2026-10-16T15:12:55.000Z",
+          "id": "2111113162623959221",
+          "images": [
+            "https://pbs.twimg.com/media/HUwuNy6agAAQlIE.jpg",
+            "https://pbs.twimg.com/media/HUwuOQ2asAA7qwD.jpg",
+            "https://pbs.twimg.com/media/HUwuOsbboAAXC0j.jpg"
+          ],
+          "reply_to_id": "2111112337180787159",
+          "text": "@John2024Mo53628 everything is https://t.co/ZugfsPWCHL"
         }
       ],
       "threads": {
@@ -3079,7 +3084,6 @@
         "2110986336081703232": false,
         "2110991453858234518": true,
         "2110991803566703085": true,
-        "2111019955097616414": true,
         "2111020071149871233": true,
         "2111024457200566379": true,
         "2111024645650489408": false,
@@ -3099,7 +3103,8 @@
         "2111058472624398731": false,
         "2111061185315655710": true,
         "2111063166314766468": false,
-        "2111104034828386370": false
+        "2111104034828386370": false,
+        "2111113162623959221": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4898,5 +4903,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T14:50:20+00:00"
+  "updated_at": "2026-10-16T15:14:21+00:00"
 }
