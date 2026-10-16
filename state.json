@@ -46,7 +46,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2111144163320446998",
+      "last_id": "2111157738025988387",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -232,12 +232,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T20:28:47.000Z",
-          "id": "2110830265023254756",
-          "reply_to_id": "2110829883219910953",
-          "text": "@rizzorbust We haven\u2019t reacted to quantum headlines in a while tbh"
-        },
-        {
           "created_at": "2026-10-15T20:39:15.000Z",
           "id": "2110832901067767900",
           "reply_to_id": "2110814999882912158",
@@ -320,6 +314,12 @@
           "id": "2111130348646260892",
           "reply_to_id": "2111125037633950183",
           "text": "@tenobrus Yeah I mean u not making too much selling 95k calls way out here is p standard view"
+        },
+        {
+          "created_at": "2026-10-16T18:10:02.000Z",
+          "id": "2111157738025988387",
+          "reply_to_id": "2111143783006130539",
+          "text": "@Mike_Hunt_Sr Who needs corrs for realized when the index this concentrated"
         }
       ],
       "threads": {
@@ -673,7 +673,6 @@
         "2110739328850927841": true,
         "2110782099297124815": false,
         "2110790768806027598": true,
-        "2110830265023254756": true,
         "2110832901067767900": false,
         "2110834913482285101": false,
         "2110835814850855132": false,
@@ -695,7 +694,8 @@
         "2111127421957345609": true,
         "2111130348646260892": true,
         "2111133833689280878": false,
-        "2111144163320446998": true
+        "2111144163320446998": true,
+        "2111157738025988387": true
       },
       "user_id": "1446541960181858315"
     },
@@ -4993,5 +4993,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T17:32:19+00:00"
+  "updated_at": "2026-10-16T18:10:23+00:00"
 }
