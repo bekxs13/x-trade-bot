@@ -46,7 +46,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2111177082881613828",
+      "last_id": "2111197195013898412",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -82,15 +82,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T05:54:34.000Z",
-          "id": "2110610263162618293",
-          "images": [
-            "https://pbs.twimg.com/media/HUpk2XAboAAtofb.jpg"
-          ],
-          "reply_to_id": "2110609935969181778",
-          "text": "Bro just tweeting fud and then no crying in the casino lmao https://t.co/17FUMF1GOu"
-        },
         {
           "created_at": "2026-10-15T05:56:07.000Z",
           "id": "2110610653631398182",
@@ -209,10 +200,14 @@
           ],
           "quoted_text": "Think that was enough for today, now you can wait for the admin to try to pump the market through the weekend and reshort Monday.",
           "text": "Agree with this but also ppl like \"omg who's blowing up and a -30% on SOXX from here would still be a double digit positive year https://t.co/VrSrTO1VBD https://t.co/sKc9at5UZv"
+        },
+        {
+          "created_at": "2026-10-16T20:46:50.000Z",
+          "id": "2111197195013898412",
+          "text": "anthropic going public? what's next, hitler youth nasdaq listing?"
         }
       ],
       "reads": {
-        "2110610263162618293": "No call",
         "2110610653631398182": "No call",
         "2110612813400199640": "No call",
         "2110712424315961359": "No call",
@@ -230,7 +225,8 @@
         "2111159898813915507": "No call",
         "2111162402892869745": "No call",
         "2111175510852305037": "No call",
-        "2111176331354599769": "No call: bearish on SOXX (55%, too unsure)"
+        "2111176331354599769": "No call: bearish on SOXX (55%, too unsure)",
+        "2111197195013898412": "No call"
       },
       "replies": [
         {
@@ -676,10 +672,13 @@
         "2111176331354599769": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111197195013898412": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110610263162618293": true,
         "2110610653631398182": false,
         "2110612813400199640": true,
         "2110712424315961359": false,
@@ -713,7 +712,8 @@
         "2111175510852305037": true,
         "2111176331354599769": true,
         "2111176851729400122": false,
-        "2111177082881613828": false
+        "2111177082881613828": false,
+        "2111197195013898412": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5054,5 +5054,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T20:32:24+00:00"
+  "updated_at": "2026-10-16T20:48:27+00:00"
 }
