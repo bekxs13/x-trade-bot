@@ -786,7 +786,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2111192626690957681",
+      "last_id": "2111217534485877165",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -822,11 +822,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T12:29:19.000Z",
-          "id": "2109984830230261923",
-          "text": "if i streamed trading ny open on 100x lev would you guys watch it"
-        },
         {
           "created_at": "2026-10-13T14:52:12.000Z",
           "id": "2110020788229214374",
@@ -951,10 +946,15 @@
             "https://pbs.twimg.com/amplify_video_thumb/2111175622538244096/img/aT9e1onZ4HhGC_6I.jpg"
           ],
           "text": "i keep sharing my trades and thoughts on ct because i know how much it helped me when i was starting out\n\nback in 2017, there were traders who had already made it but still chose to share their knowledge and help others learn\n\ni benefited a lot from those people, and i want to do the same for the next generation of traders\n\nthe criticism comes with being public, but i've never felt that was a good enough reason to stop sharing what i've learned"
+        },
+        {
+          "created_at": "2026-10-16T22:07:39.000Z",
+          "id": "2111217534485877165",
+          "quoted_text": "We've been thinking a lot about how to grow the Pumpfun app to 10 million users in the fastest way possible.\n\nAfter dedicating significant resources to building the most performant product in the market and introducing crypto\u2019s most novel rewards system in callout rewards, the answer was obvious: reward the community who help us grow the Pumpfun App.\n\nDespite our relentless belief in our own ability to grow the app, strength in numbers >>>\n\nSo far, we\u2019ve spent nearly $20,000,000 in ~2 months rew",
+          "text": "this may end up being a $100M referral program, sign up + deposit $50 to trade &amp; get another $50 for free\n\nall new app fees going towards this referral program, also they just enabled perps trading in-app\n\ncode: ansemconzimp\n\nsent from my pumpfun app\n\nhttps://t.co/9QFLB8ckzn https://t.co/DlEzfm5VTK"
         }
       ],
       "reads": {
-        "2109984830230261923": "No call",
         "2110020788229214374": "No call",
         "2110027728112021765": "VIEW bearish on MU",
         "2110252627799966022": "No call",
@@ -973,7 +973,8 @@
         "2111105247699665407": "No call",
         "2111117340779937937": "No call",
         "2111117359091957993": "No call",
-        "2111175987350417649": "No call"
+        "2111175987350417649": "No call",
+        "2111217534485877165": "No call"
       },
       "replies": [
         {
@@ -1417,10 +1418,13 @@
         "2111175987350417649": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111217534485877165": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109984830230261923": true,
         "2110020788229214374": true,
         "2110027728112021765": true,
         "2110252627799966022": true,
@@ -1454,7 +1458,8 @@
         "2111129348296110530": false,
         "2111133549118038491": true,
         "2111175987350417649": false,
-        "2111192626690957681": false
+        "2111192626690957681": false,
+        "2111217534485877165": true
       },
       "user_id": "973261472"
     },
@@ -5058,5 +5063,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T21:54:21+00:00"
+  "updated_at": "2026-10-16T22:08:18+00:00"
 }
