@@ -2173,17 +2173,17 @@
         },
         "strk": {
           "market": "crypto",
-          "post_id": "2109935458566512869",
-          "reason": "'Bottom is in for $STRK' and 'the consensus is wrong' repeat the bullish STRK view already on record.",
+          "post_id": "2111040774209159407",
+          "reason": "'current bias' with a green path bouncing off the ~0.077 support box toward 0.11 is bullish, matching the recorded STRK view.",
           "scope": "STRK",
           "since": "2026-10-09",
           "stance": "bullish",
-          "updated_at": "2026-10-13T09:13:08.000Z"
+          "updated_at": "2026-10-16T10:25:16.000Z"
         }
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111034624084517206",
+      "last_id": "2111040774209159407",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2361,12 +2361,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T15:41:27.000Z",
-          "id": "2110757954576433207",
-          "quoted_text": "@Rugart3 timing and positioning.\n\nai was always a thing.\n\nit didnt take until 2022 for it to become the main thing.\n\nmathematical innovations were always a thing.\n\nit didnt take until oct 2026 for it to heavily accelerate 100x.\n\nand to become THE main thing over the foreseeable future.",
-          "text": "the thesis remains the same.\n\nthe tourists has left.\n\nthe fud has been fought off.\n\nthe unlock has just passed.\n\nthe road ahead\n\nis fucking bright.\n\nIts MoneyPrinter Mode, bitch.\n\n$STRK https://t.co/A5Op34QEC1"
-        },
-        {
           "created_at": "2026-10-15T15:42:47.000Z",
           "id": "2110758290674360679",
           "quoted_text": "@Rugart3 timing and positioning.\n\nai was always a thing.\n\nit didnt take until 2022 for it to become the main thing.\n\nmathematical innovations were always a thing.\n\nit didnt take until oct 2026 for it to heavily accelerate 100x.\n\nand to become THE main thing over the foreseeable future.",
@@ -2480,10 +2474,17 @@
             "https://pbs.twimg.com/media/HUvdjXba4AADa13.jpg"
           ],
           "text": "bought arbitrum\n\nhas been gaining relative strength on ltf the past two days, incredible chart on htf\n\n$arb https://t.co/rOlN5Tr0sq"
+        },
+        {
+          "created_at": "2026-10-16T10:25:16.000Z",
+          "id": "2111040774209159407",
+          "images": [
+            "https://pbs.twimg.com/media/HUvsZKPbkAAS9fr.jpg"
+          ],
+          "text": "current bias https://t.co/IqDjpjw6GH"
         }
       ],
       "reads": {
-        "2110757954576433207": "No call",
         "2110758290674360679": "No call",
         "2110761983754879252": "No call",
         "2110762136976986381": "No call",
@@ -2502,7 +2503,8 @@
         "2110991453858234518": "No call: bullish on alts (same view as before)",
         "2110991803566703085": "No call: bullish on alts (same view as before)",
         "2111020071149871233": "No call",
-        "2111024457200566379": "TRADE LONG ARB"
+        "2111024457200566379": "TRADE LONG ARB",
+        "2111040774209159407": "No call: bullish on STRK (same view as before)"
       },
       "replies": [
         {
@@ -2597,10 +2599,6 @@
         }
       ],
       "threads": {
-        "2108510657201279308": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108511782201708573": {
           "alerted": [],
           "self_replies": 0
@@ -3048,10 +3046,13 @@
             "trade:ARB:long"
           ],
           "self_replies": 0
+        },
+        "2111040774209159407": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110757954576433207": true,
         "2110758290674360679": true,
         "2110761983754879252": true,
         "2110762136976986381": true,
@@ -3085,7 +3086,8 @@
         "2111025776611209316": true,
         "2111032721309135178": true,
         "2111033158728565059": false,
-        "2111034624084517206": true
+        "2111034624084517206": true,
+        "2111040774209159407": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4829,5 +4831,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T10:02:17+00:00"
+  "updated_at": "2026-10-16T10:26:29+00:00"
 }
