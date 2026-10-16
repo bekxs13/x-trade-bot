@@ -2178,7 +2178,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110907764025458870",
+      "last_id": "2110908437332897804",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2324,12 +2324,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T12:06:44.000Z",
-          "id": "2110703923346756021",
-          "reply_to_id": "2110703585352962385",
-          "text": "@Route2FI mostly irrational coz the onchain unlocked tokens are worth less than 1mil"
-        },
-        {
           "created_at": "2026-10-15T12:25:24.000Z",
           "id": "2110708617100030329",
           "reply_to_id": "2110707479634211057",
@@ -2437,6 +2431,12 @@
           "id": "2110808534514651472",
           "quoted_text": "@MoneyPrinter0x Bitcoin is a meme bro. What you talking about. Web2 has solved everything always, and decentralisation? There ain\u2019t no decentralisation in 2026",
           "text": "bottom on tech in crypto https://t.co/meQSnlB58L"
+        },
+        {
+          "created_at": "2026-10-16T01:39:24.000Z",
+          "id": "2110908437332897804",
+          "quoted_text": "SOLANGELES TRADERS vol.01\n@MoneyPrinter0x latest bets \n\nWatching $STRK as a potential kingmaker, betting on a quantum-safe Layer 1 and the long-term value of censorship-resistant bunker money. He believes one thing: we will win https://t.co/lS5LvRGSAN",
+          "text": "yooooo this is sick \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udd25 https://t.co/D2K07aXzS1"
         }
       ],
       "reads": {
@@ -2457,7 +2457,8 @@
         "2110788447556559130": "No call",
         "2110801368105861347": "No call",
         "2110807712875614238": "No call",
-        "2110808534514651472": "VIEW bullish on alts"
+        "2110808534514651472": "VIEW bullish on alts",
+        "2110908437332897804": "No call"
       },
       "replies": [
         {
@@ -2552,12 +2553,6 @@
         }
       ],
       "threads": {
-        "2108472561889943559": {
-          "alerted": [
-            "trade:STRK:long"
-          ],
-          "self_replies": 0
-        },
         "2108481061042929887": {
           "alerted": [
             "trade:STRK:long"
@@ -3007,10 +3002,13 @@
             "bias:alts:bullish"
           ],
           "self_replies": 0
+        },
+        "2110908437332897804": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110703923346756021": true,
         "2110708617100030329": true,
         "2110745870732083325": true,
         "2110747081212309893": true,
@@ -3044,7 +3042,8 @@
         "2110807712875614238": true,
         "2110808534514651472": true,
         "2110907715405131893": false,
-        "2110907764025458870": false
+        "2110907764025458870": false,
+        "2110908437332897804": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4788,5 +4787,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T01:38:19+00:00"
+  "updated_at": "2026-10-16T01:40:32+00:00"
 }
