@@ -2183,8 +2183,24 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111020071149871233",
+      "last_id": "2111024645650489408",
       "positions": {
+        "ARB": {
+          "asset": "ARB",
+          "chain": "",
+          "confidence": 0.95,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "0.2012",
+          "horizon": "",
+          "market": "crypto",
+          "open_price": null,
+          "post_id": "2111024457200566379",
+          "reason": "\"bought arbitrum\" with $arb tag and ARBUSDT chart at 0.2012. New position, not among open trades. Likely spot given the earlier \"going spot no lev\" note.",
+          "since": "2026-10-16T09:20:26.000Z",
+          "structure": "spot",
+          "url": "https://x.com/MoneyPrinter0x/status/2111024457200566379"
+        },
         "ARM": {
           "asset": "ARM",
           "chain": "",
@@ -2345,12 +2361,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T15:32:48.000Z",
-          "id": "2110755781348057503",
-          "quoted_text": "BREAKING: STARKNET TAKES ITS INDEPENDENT POST-QUANTUM L1 AMBITION INTO GOVERNANCE.\n\nA NEW GOVERNANCE POLL ASKS STRK HOLDERS TO BACK FURTHER RESEARCH INTO THE MOVE.\n\nethereum:0xca14007eff0db1f8135f4c25b34de49ab0d42766 \n\nhttps://t.co/yWH282iiqC",
-          "text": "bought more $strk https://t.co/IoFZxOZSJA"
-        },
-        {
           "created_at": "2026-10-15T15:41:27.000Z",
           "id": "2110757954576433207",
           "quoted_text": "@Rugart3 timing and positioning.\n\nai was always a thing.\n\nit didnt take until 2022 for it to become the main thing.\n\nmathematical innovations were always a thing.\n\nit didnt take until oct 2026 for it to heavily accelerate 100x.\n\nand to become THE main thing over the foreseeable future.",
@@ -2462,10 +2472,17 @@
           "id": "2111020071149871233",
           "quoted_text": "Breaking: World ID plugin is already live in Codex \ud83d\udc40\nyou can now prove you're human right inside OpenAI's tools\nmuch more to come. this may be the beginning of something big \ud83c\udf0d $WLD\n\nhow to install: just tell Codex\n\"Install this plugin: https://t.co/lXLsqvWFgr\"\nthen say \"Connect my World ID\" \u2705",
           "text": "false, anyone can just make a plugin and publish in codex https://t.co/wfYlJPwRvc"
+        },
+        {
+          "created_at": "2026-10-16T09:20:26.000Z",
+          "id": "2111024457200566379",
+          "images": [
+            "https://pbs.twimg.com/media/HUvdjXba4AADa13.jpg"
+          ],
+          "text": "bought arbitrum\n\nhas been gaining relative strength on ltf the past two days, incredible chart on htf\n\n$arb https://t.co/rOlN5Tr0sq"
         }
       ],
       "reads": {
-        "2110755781348057503": "TRADE LONG STRK",
         "2110757954576433207": "No call",
         "2110758290674360679": "No call",
         "2110761983754879252": "No call",
@@ -2484,15 +2501,10 @@
         "2110986336081703232": "No call",
         "2110991453858234518": "No call: bullish on alts (same view as before)",
         "2110991803566703085": "No call: bullish on alts (same view as before)",
-        "2111020071149871233": "No call"
+        "2111020071149871233": "No call",
+        "2111024457200566379": "TRADE LONG ARB"
       },
       "replies": [
-        {
-          "created_at": "2026-10-15T17:06:52.000Z",
-          "id": "2110779450690580988",
-          "reply_to_id": "2110779228308513168",
-          "text": "@ThePumponomics \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23"
-        },
         {
           "created_at": "2026-10-15T18:34:05.000Z",
           "id": "2110801401500815670",
@@ -2576,13 +2588,15 @@
           "id": "2111019955097616414",
           "reply_to_id": "2110999826359844873",
           "text": "@tokumatoshi false narrative, anyone can just make a plugin and publish it on codex"
+        },
+        {
+          "created_at": "2026-10-16T09:21:11.000Z",
+          "id": "2111024645650489408",
+          "reply_to_id": "2111024549290762292",
+          "text": "@ika_xbt Gmgm"
         }
       ],
       "threads": {
-        "2108510056358744202": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108510657201279308": {
           "alerted": [],
           "self_replies": 0
@@ -3028,17 +3042,21 @@
         "2111020071149871233": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111024457200566379": {
+          "alerted": [
+            "trade:ARB:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110755781348057503": true,
         "2110757954576433207": true,
         "2110758290674360679": true,
         "2110761983754879252": true,
         "2110762136976986381": true,
         "2110771577298264131": true,
         "2110774745964900646": true,
-        "2110779450690580988": false,
         "2110779659348812045": true,
         "2110786272390426864": false,
         "2110788447556559130": false,
@@ -3065,7 +3083,9 @@
         "2110996297100787880": true,
         "2111001803953463358": false,
         "2111019955097616414": true,
-        "2111020071149871233": true
+        "2111020071149871233": true,
+        "2111024457200566379": true,
+        "2111024645650489408": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4809,5 +4829,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T09:04:29+00:00"
+  "updated_at": "2026-10-16T09:22:28+00:00"
 }
