@@ -739,7 +739,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2111095056778301444",
+      "last_id": "2111105247699665407",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -775,11 +775,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T08:46:29.000Z",
-          "id": "2109928752092500155",
-          "text": "you guys are panicking into the first slight pullback on majors in months that has not broken market structure even slightly\n\nremove the bear psychosis from your brains"
-        },
         {
           "created_at": "2026-10-13T09:43:47.000Z",
           "id": "2109943171694407765",
@@ -899,10 +894,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2111094493810491393/img/YvIU1T7a7ad9Pu0S.jpg"
           ],
           "text": "i've learned over the years that people care more about consistency and transparency than having a perfect track record\n\ni'm putting my own money behind the trades i share, so when something goes wrong, i'm taking the loss too\n\ni'd rather own my mistakes publicly than pretend they never happened\n\nthat's how i build trust over time"
+        },
+        {
+          "created_at": "2026-10-16T14:41:28.000Z",
+          "id": "2111105247699665407",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2111105054598184960/img/x_qo_QZ_vqHYfTiJ.jpg"
+          ],
+          "text": "i spent a lot of 2020 and 2021 glued to the charts, constantly feeling like i was going to miss something if i logged off\n\nover time, i've learned that trading 24/7 can become a trap, even when you're making money\n\nthere are periods where being extremely active makes sense, and others where stepping away is the better decision\n\nhaving a life outside of trading is important bc knowing when to switch off is just as valuable as knowing when to trade"
         }
       ],
       "reads": {
-        "2109928752092500155": "VIEW bullish on crypto market",
         "2109943171694407765": "No call",
         "2109947683935014953": "No call",
         "2109984830230261923": "No call",
@@ -920,7 +922,8 @@
         "2110783883998544197": "No call: bullish on btc (same view as before)",
         "2110810603417944213": "No call",
         "2111062131437433031": "No call",
-        "2111095056778301444": "No call"
+        "2111095056778301444": "No call",
+        "2111105247699665407": "No call"
       },
       "replies": [
         {
@@ -1351,10 +1354,13 @@
         "2111095056778301444": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111105247699665407": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109928752092500155": true,
         "2109943171694407765": true,
         "2109947683935014953": true,
         "2109950575102373992": false,
@@ -1388,7 +1394,8 @@
         "2111060480168972427": true,
         "2111062131437433031": true,
         "2111069349788156236": false,
-        "2111095056778301444": true
+        "2111095056778301444": true,
+        "2111105247699665407": true
       },
       "user_id": "973261472"
     },
@@ -4891,5 +4898,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T14:38:19+00:00"
+  "updated_at": "2026-10-16T14:42:24+00:00"
 }
