@@ -4428,24 +4428,19 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2111173105548931476",
-          "reason": "Expects an \"admin\" weekend pump of the market and plans to \"reshort Monday\", so the bearish equities view continues.",
+          "post_id": "2111179389362937999",
+          "reason": "Invoking Black Monday (Oct 19, 1987) right before Oct 19 hints at a stock crash, matching the recorded bearish stocks/macro view and the earlier 'reshort Monday' post.",
           "scope": "stocks/macro",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-16T19:11:06.000Z"
+          "updated_at": "2026-10-16T19:36:04.000Z"
         }
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111173105548931476",
+      "last_id": "2111179389362937999",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-15T15:28:08.000Z",
-          "id": "2110754604027965635",
-          "text": "That was fun, same time next week?"
-        },
         {
           "created_at": "2026-10-15T15:57:17.000Z",
           "id": "2110761940007915686",
@@ -4546,10 +4541,14 @@
           "created_at": "2026-10-16T19:11:06.000Z",
           "id": "2111173105548931476",
           "text": "Think that was enough for today, now you can wait for the admin to try to pump the market through the weekend and reshort Monday."
+        },
+        {
+          "created_at": "2026-10-16T19:36:04.000Z",
+          "id": "2111179389362937999",
+          "text": "Computah, what happened on October 19th, 1987?"
         }
       ],
       "reads": {
-        "2110754604027965635": "No call",
         "2110761940007915686": "No call",
         "2110800906669453697": "No call",
         "2110822350329671828": "No call",
@@ -4568,7 +4567,8 @@
         "2111161559317946701": "No call",
         "2111171350538666230": "No call",
         "2111172044972757120": "No call",
-        "2111173105548931476": "No call: maybe exit  (60%, too unsure); bearish on stocks/macro (same view as before)"
+        "2111173105548931476": "No call: maybe exit  (60%, too unsure); bearish on stocks/macro (same view as before)",
+        "2111179389362937999": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -4980,6 +4980,10 @@
         "2111173105548931476": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111179389362937999": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4994,7 +4998,6 @@
         "2109698195953692702": false,
         "2110411948982460824": true,
         "2110572720375181652": false,
-        "2110754604027965635": false,
         "2110757594923200856": false,
         "2110761940007915686": true,
         "2110800906669453697": true,
@@ -5016,7 +5019,8 @@
         "2111161559317946701": false,
         "2111171350538666230": true,
         "2111172044972757120": false,
-        "2111173105548931476": true
+        "2111173105548931476": true,
+        "2111179389362937999": true
       },
       "user_id": "809191427645181952"
     }
@@ -5032,5 +5036,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T19:28:23+00:00"
+  "updated_at": "2026-10-16T19:36:23+00:00"
 }
