@@ -4100,7 +4100,7 @@
       "biases": {},
       "closed": [],
       "handle": "thecryptonexus",
-      "last_id": "2111191959184474622",
+      "last_id": "2111193430021832892",
       "positions": {
         "FREN PET (FP)": {
           "asset": "Fren Pet (FP)",
@@ -4198,6 +4198,12 @@
           "id": "2111081232268177599",
           "reply_to_id": "2111073831523606867",
           "text": "@Pickle_cRypto Fuck nvm mfs cancelled it rip"
+        },
+        {
+          "created_at": "2026-10-16T20:31:52.000Z",
+          "id": "2111193430021832892",
+          "quoted_text": "Btw I know Tesla drivers hate to hear this but the experience in the back of a model 3 is genuinely awful and nauseating \n\n+ Uber drivers think it\u2019s a fucking go kart and keep pressing the pedal nonstop \n\nIt\u2019s overall bad experience for @uber",
+          "text": "Strangely don\u2019t have this with Teslas personally, but most other EVs I feel this for sure. \n\nWorst offender of all is the Mercedes EQS for me\n\nHave literally just switched to a chauffeur app because of it https://t.co/9CJJVumGja"
         }
       ],
       "reads": {
@@ -4209,7 +4215,8 @@
         "2109289019242868954": "No call",
         "2109291189648101436": "No call",
         "2110400557953208771": "No call",
-        "2111070616917102829": "No call"
+        "2111070616917102829": "No call",
+        "2111193430021832892": "No call"
       },
       "replies": [
         {
@@ -4372,6 +4379,10 @@
         "2111070616917102829": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111193430021832892": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4400,7 +4411,8 @@
         "2111081232268177599": false,
         "2111084399156658596": false,
         "2111099426391589168": true,
-        "2111191959184474622": false
+        "2111191959184474622": false,
+        "2111193430021832892": false
       },
       "user_id": "1392152416854765571"
     },
@@ -5042,5 +5054,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T20:30:22+00:00"
+  "updated_at": "2026-10-16T20:32:24+00:00"
 }
