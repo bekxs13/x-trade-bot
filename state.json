@@ -2183,7 +2183,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111049410021138858",
+      "last_id": "2111053758948168091",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2507,12 +2507,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T05:14:37.000Z",
-          "id": "2110962596123947115",
-          "reply_to_id": "2110914123563417667",
-          "text": "@mikaaalalala @solangelestv Much love!!"
-        },
-        {
           "created_at": "2026-10-16T06:32:40.000Z",
           "id": "2110982238930448482",
           "reply_to_id": "2110979214820381148",
@@ -2595,6 +2589,12 @@
           "id": "2111049410021138858",
           "reply_to_id": "2111047532868743247",
           "text": "tech that shouldnt be forced to compete against non-blockchain sectors / tech where crypto actually makes sense as in it has real moat against \"web2\"\n\nprivacy-enabled tech, rwas, single SoT trading layer, single SoT data layer, ai-resistant public ledger & compute\n\ntech that is product-first and tech-second, as in built to solve a market gap rather than built for the sake of being built"
+        },
+        {
+          "created_at": "2026-10-16T11:16:52.000Z",
+          "id": "2111053758948168091",
+          "reply_to_id": "2111048187696009272",
+          "text": "never said they did yet because market gap leads tech. and when the correct tech is used to solve a market gap like a glove, therein pmf is\n\nthey are solving a real market gap thats only going to accelerate in the near term (ai-resistant cryptosystems), for me this is the most direct exposure i can get on ai itself accelerating on math & cryptographical proofs. there are very well known precedents in authorities hiding cryptographical breakthroughs (RSA gchq), and with every math proof to be published i am sure that the public will only worry more and more. in fact crypto itself was became a thing due to large demand of the many who worry for financial sovereignty in the first place\n\nthe recent wave of ai acceleration worry is only the first, definitely not the last. ai is only going to accelerate. people are roasting me for picking starknet over algorand but algorand isnt even using the correct ai-resistant cryptography. their encryption systems are lattice-based, which is the exact system that vitalik warned to be far more brittle to ai acceleration\n\nmarket gap leads tech\n\ntech leads adoption (this is where pmf is)\n\nadoption leads narrative\n\nand narrative leads price.\n\nits not tech for the sake of tech, there's an actual incoming real problem to be solved that will only accelerate in the near future\n\nhttps://t.co/5n7MQaPvEt"
         }
       ],
       "threads": {
@@ -3064,7 +3064,6 @@
         "2110808534514651472": true,
         "2110908437332897804": true,
         "2110959944006771145": true,
-        "2110962596123947115": false,
         "2110977056171516095": true,
         "2110982238930448482": true,
         "2110985237513859168": false,
@@ -3086,7 +3085,8 @@
         "2111044235860541566": true,
         "2111045796787638705": true,
         "2111046097854714043": false,
-        "2111049410021138858": true
+        "2111049410021138858": true,
+        "2111053758948168091": true
       },
       "user_id": "1653080265294757890"
     },
@@ -3105,7 +3105,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2111053160043491618",
+      "last_id": "2111053723505954873",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3271,12 +3271,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T16:32:06.000Z",
-          "id": "2110770703062417682",
-          "reply_to_id": "2110769437225971744",
-          "text": "@BittexXBT what does it mean"
-        },
-        {
           "created_at": "2026-10-15T17:29:16.000Z",
           "id": "2110785091442204950",
           "reply_to_id": "2110784921669140700",
@@ -3362,6 +3356,12 @@
           ],
           "reply_to_id": "2110966788494381488",
           "text": "@based16z https://t.co/0Q4G168mpV"
+        },
+        {
+          "created_at": "2026-10-16T11:16:43.000Z",
+          "id": "2111053723505954873",
+          "reply_to_id": "2110971148636672025",
+          "text": "@FredWick7 @based16z fuck yeah"
         }
       ],
       "threads": {
@@ -3543,7 +3543,6 @@
         "2110705272830541887": false,
         "2110712299170456020": true,
         "2110762518495085033": false,
-        "2110770703062417682": false,
         "2110785091442204950": false,
         "2110794032595214834": false,
         "2110798325805092991": false,
@@ -3564,7 +3563,8 @@
         "2110888853972107324": false,
         "2110900288483651945": false,
         "2110919267868877156": false,
-        "2111053160043491618": false
+        "2111053160043491618": false,
+        "2111053723505954873": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4833,5 +4833,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T11:16:23+00:00"
+  "updated_at": "2026-10-16T11:18:26+00:00"
 }
