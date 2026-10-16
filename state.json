@@ -4410,14 +4410,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111135946112397498",
+      "last_id": "2111139510926893163",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-15T05:31:28.000Z",
-          "id": "2110604448217124963",
-          "text": "January 2022"
-        },
         {
           "created_at": "2026-10-15T05:42:26.000Z",
           "id": "2110607210997023097",
@@ -4519,10 +4514,14 @@
           "created_at": "2026-10-16T15:40:31.000Z",
           "id": "2111120109729407227",
           "text": "How do I short trading card companies"
+        },
+        {
+          "created_at": "2026-10-16T16:57:37.000Z",
+          "id": "2111139510926893163",
+          "text": "https://t.co/ng8NCZiQyU"
         }
       ],
       "reads": {
-        "2110604448217124963": "No call: bearish on crypto market (60%, too unsure)",
         "2110607210997023097": "No call: bearish on stocks/macro (same view as before)",
         "2110724646974767398": "No call",
         "2110726826704154734": "No call",
@@ -4541,7 +4540,8 @@
         "2111114374412636556": "No call: bearish on stocks/macro (same view as before)",
         "2111115012798296355": "No call",
         "2111116591400468819": "No call",
-        "2111120109729407227": "No call: bearish on trading card companies (60%, too unsure)"
+        "2111120109729407227": "No call: bearish on trading card companies (60%, too unsure)",
+        "2111139510926893163": "No call"
       },
       "replies": [
         {
@@ -4929,6 +4929,10 @@
         "2111120109729407227": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111139510926893163": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4943,7 +4947,6 @@
         "2109698195953692702": false,
         "2110411948982460824": true,
         "2110572720375181652": false,
-        "2110604448217124963": false,
         "2110607210997023097": true,
         "2110724646974767398": false,
         "2110726826704154734": true,
@@ -4965,7 +4968,8 @@
         "2111115012798296355": true,
         "2111116591400468819": true,
         "2111120109729407227": true,
-        "2111135946112397498": true
+        "2111135946112397498": true,
+        "2111139510926893163": false
       },
       "user_id": "809191427645181952"
     }
@@ -4981,5 +4985,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T16:54:22+00:00"
+  "updated_at": "2026-10-16T16:58:28+00:00"
 }
