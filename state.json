@@ -735,7 +735,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2110819278937342195",
+      "last_id": "2110953582128177604",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -920,15 +920,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T16:24:12.000Z",
-          "id": "2110768714903900408",
-          "images": [
-            "https://pbs.twimg.com/media/HUr09KhbwAAldyg.jpg"
-          ],
-          "reply_to_id": "2110766361911673065",
-          "text": "@0xAvast i am not sure what more these people want from me tbh https://t.co/pW1TjbkUqL"
-        },
-        {
           "created_at": "2026-10-15T16:34:17.000Z",
           "id": "2110771254504640786",
           "reply_to_id": "2110698207684813053",
@@ -1014,6 +1005,12 @@
           "id": "2110819278937342195",
           "reply_to_id": "2110818757497241877",
           "text": "@OnchainPeasant @WClemente why"
+        },
+        {
+          "created_at": "2026-10-16T04:38:48.000Z",
+          "id": "2110953582128177604",
+          "reply_to_id": "2110866139077304549",
+          "text": "@gneiffer07 @tacobell this is just incredibly greedy"
         }
       ],
       "threads": {
@@ -1363,7 +1360,6 @@
         "2110765762457809110": true,
         "2110767113673781312": true,
         "2110767955630018575": false,
-        "2110768714903900408": false,
         "2110771254504640786": false,
         "2110771875353882696": false,
         "2110775484451872816": true,
@@ -1379,7 +1375,8 @@
         "2110816170794455390": false,
         "2110818272400818534": true,
         "2110818625087230265": true,
-        "2110819278937342195": false
+        "2110819278937342195": false,
+        "2110953582128177604": false
       },
       "user_id": "973261472"
     },
@@ -4791,5 +4788,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T04:18:22+00:00"
+  "updated_at": "2026-10-16T04:40:26+00:00"
 }
