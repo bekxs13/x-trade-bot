@@ -739,7 +739,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2111069349788156236",
+      "last_id": "2111095056778301444",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -775,12 +775,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T08:40:22.000Z",
-          "id": "2109927211604275273",
-          "quoted_text": "80k has held twice\n\n80k is not gonna hold\n\n80k breaks this month\n\nget ready to se BTC at 79k",
-          "text": "bears are fake and gay https://t.co/ktsxYgJmBG"
-        },
         {
           "created_at": "2026-10-13T08:46:29.000Z",
           "id": "2109928752092500155",
@@ -897,10 +891,17 @@
           "id": "2111062131437433031",
           "quoted_text": "oh wow a skill based form of gambling where people use tools and every possible edge they can get is hard to win at and most people lose wow thanks for telling me I had absolutely no idea I just figured everyone showed up and was handed free money for trading meme coins and we were all going to make it together because obviously that\u2019s how competitive markets work wow this has been incredibly eye opening thank you so much",
           "text": "\ud83d\ude02 https://t.co/ow5RJXqUpq"
+        },
+        {
+          "created_at": "2026-10-16T14:00:58.000Z",
+          "id": "2111095056778301444",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2111094493810491393/img/YvIU1T7a7ad9Pu0S.jpg"
+          ],
+          "text": "i've learned over the years that people care more about consistency and transparency than having a perfect track record\n\ni'm putting my own money behind the trades i share, so when something goes wrong, i'm taking the loss too\n\ni'd rather own my mistakes publicly than pretend they never happened\n\nthat's how i build trust over time"
         }
       ],
       "reads": {
-        "2109927211604275273": "No call: bullish on btc (same view as before)",
         "2109928752092500155": "VIEW bullish on crypto market",
         "2109943171694407765": "No call",
         "2109947683935014953": "No call",
@@ -918,7 +919,8 @@
         "2110767955630018575": "No call",
         "2110783883998544197": "No call: bullish on btc (same view as before)",
         "2110810603417944213": "No call",
-        "2111062131437433031": "No call"
+        "2111062131437433031": "No call",
+        "2111095056778301444": "No call"
       },
       "replies": [
         {
@@ -1345,10 +1347,13 @@
         "2111062131437433031": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111095056778301444": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109927211604275273": true,
         "2109928752092500155": true,
         "2109943171694407765": true,
         "2109947683935014953": true,
@@ -1382,7 +1387,8 @@
         "2110953582128177604": false,
         "2111060480168972427": true,
         "2111062131437433031": true,
-        "2111069349788156236": false
+        "2111069349788156236": false,
+        "2111095056778301444": true
       },
       "user_id": "973261472"
     },
@@ -4881,5 +4887,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T13:54:25+00:00"
+  "updated_at": "2026-10-16T14:02:26+00:00"
 }
