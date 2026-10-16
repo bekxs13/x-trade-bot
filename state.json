@@ -3105,7 +3105,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2111067190250074568",
+      "last_id": "2111074640328262026",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3125,12 +3125,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T14:14:22.000Z",
-          "id": "2110373655167537538",
-          "quoted_text": "TOMORROW. Live on stream with @ilblackdragon, @mert, @zkDragon and @tulipking AT 1015am est \n\nWhat does the future look like for our coins https://t.co/t9AiJfdvpD",
-          "text": "going live right now will be a fun one https://t.co/4I8SLOzbwL"
-        },
         {
           "created_at": "2026-10-14T15:44:00.000Z",
           "id": "2110396209575972907",
@@ -3247,10 +3241,14 @@
           "created_at": "2026-10-16T01:07:02.000Z",
           "id": "2110900288483651945",
           "text": "oh my god what am i watching elon is actually the goat"
+        },
+        {
+          "created_at": "2026-10-16T12:39:50.000Z",
+          "id": "2111074640328262026",
+          "text": "MARKET OPEN: Elon Musk SAVED AMERICA, Crypto is BACK, Quantum is a SCAM, HAPPY FRIDAY https://t.co/i3uKvWXUDu"
         }
       ],
       "reads": {
-        "2110373655167537538": "No call",
         "2110396209575972907": "No call",
         "2110405623711953046": "No call",
         "2110502700999942172": "No call",
@@ -3267,7 +3265,8 @@
         "2110862135320588461": "Read together with the post it replies to",
         "2110868916113473793": "No call",
         "2110870996337230266": "No call",
-        "2110900288483651945": "No call"
+        "2110900288483651945": "No call",
+        "2111074640328262026": "No call"
       },
       "replies": [
         {
@@ -3527,10 +3526,13 @@
         "2110900288483651945": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111074640328262026": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110373655167537538": true,
         "2110396209575972907": true,
         "2110405623711953046": false,
         "2110462485312725189": false,
@@ -3564,7 +3566,8 @@
         "2110919267868877156": false,
         "2111053160043491618": false,
         "2111053723505954873": false,
-        "2111067190250074568": false
+        "2111067190250074568": false,
+        "2111074640328262026": true
       },
       "user_id": "1426732252768182281"
     },
@@ -4849,5 +4852,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T12:38:16+00:00"
+  "updated_at": "2026-10-16T12:40:22+00:00"
 }
