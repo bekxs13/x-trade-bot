@@ -46,7 +46,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2111238856221564984",
+      "last_id": "2111239776418640183",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -231,12 +231,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T21:05:44.000Z",
-          "id": "2110839567242977720",
-          "reply_to_id": "2110839449026478296",
-          "text": "@jaxksaw @itshd__ I made sure to never get diagnosed officially but everyone tells me"
-        },
-        {
           "created_at": "2026-10-15T21:09:09.000Z",
           "id": "2110840424684470385",
           "reply_to_id": "2110827354423529480",
@@ -319,6 +313,12 @@
           "id": "2111237894077899184",
           "reply_to_id": "2111174876987875604",
           "text": "@jbulltard1 Their fill was 33 tbf. I may get 1x long bsp at some pt in the next year"
+        },
+        {
+          "created_at": "2026-10-16T23:36:02.000Z",
+          "id": "2111239776418640183",
+          "reply_to_id": "2111238051213320384",
+          "text": "@0x_danb @jbulltard1 I mean one of the few asymmetries left in the market is the graveyard of assets left by venture capital retardation and seems like there\u2019s one such bidder rn with strong story to monetize then"
         }
       ],
       "threads": {
@@ -689,7 +689,6 @@
         "2110739328850927841": true,
         "2110782099297124815": false,
         "2110790768806027598": true,
-        "2110839567242977720": false,
         "2110840424684470385": false,
         "2110840522822832236": true,
         "2110892018490863686": false,
@@ -718,7 +717,8 @@
         "2111237772480585906": true,
         "2111237799059788100": true,
         "2111237894077899184": true,
-        "2111238856221564984": true
+        "2111238856221564984": true,
+        "2111239776418640183": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5069,5 +5069,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T23:34:22+00:00"
+  "updated_at": "2026-10-16T23:36:22+00:00"
 }
