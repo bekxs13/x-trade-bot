@@ -2178,7 +2178,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110808534514651472",
+      "last_id": "2110907764025458870",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2461,18 +2461,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T15:20:44.000Z",
-          "id": "2110752743212343735",
-          "reply_to_id": "2110751684947562884",
-          "text": "@sinutrades @beracap how about i top you"
-        },
-        {
-          "created_at": "2026-10-15T15:21:59.000Z",
-          "id": "2110753057424441834",
-          "reply_to_id": "2110751913046327626",
-          "text": "@sernimazaki $strk mode."
-        },
-        {
           "created_at": "2026-10-15T15:23:01.000Z",
           "id": "2110753318720975156",
           "reply_to_id": "2110752916751663329",
@@ -2549,6 +2537,18 @@
           "id": "2110807072073978312",
           "reply_to_id": "2110789228393329130",
           "text": "@0xbrokeXbt Bitcoin is a meme bro. What you talking about. Web2 has solved everything always, and decentralisation? There ain\u2019t no decentralisation in 2026"
+        },
+        {
+          "created_at": "2026-10-16T01:36:32.000Z",
+          "id": "2110907715405131893",
+          "reply_to_id": "2110831841217536340",
+          "text": "@solangelestv Yooooo this is sick\ud83d\ude02\ud83d\ude02\ud83d\ude02"
+        },
+        {
+          "created_at": "2026-10-16T01:36:44.000Z",
+          "id": "2110907764025458870",
+          "reply_to_id": "2110843892593504337",
+          "text": "@Fatiu_onchain @solangelestv I do\ud83e\udd23\ud83e\udd23"
         }
       ],
       "threads": {
@@ -3017,8 +3017,6 @@
         "2110749159196414419": true,
         "2110750844757094713": false,
         "2110752242504720487": true,
-        "2110752743212343735": false,
-        "2110753057424441834": true,
         "2110753318720975156": false,
         "2110753439500370116": true,
         "2110753653711900948": false,
@@ -3044,7 +3042,9 @@
         "2110801401500815670": false,
         "2110807072073978312": true,
         "2110807712875614238": true,
-        "2110808534514651472": true
+        "2110808534514651472": true,
+        "2110907715405131893": false,
+        "2110907764025458870": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4788,5 +4788,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T01:08:23+00:00"
+  "updated_at": "2026-10-16T01:38:19+00:00"
 }
