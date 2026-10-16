@@ -2183,7 +2183,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110991803566703085",
+      "last_id": "2110992844865597890",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2487,12 +2487,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T16:04:40.000Z",
-          "id": "2110763798579867832",
-          "reply_to_id": "2110762279184879950",
-          "text": "@dovahsupes what nice move\n\nthere is nothing good enough to be called nice yet\n\nthis is literally the best technology i can even ask or envision for this entire cycle"
-        },
-        {
           "created_at": "2026-10-15T16:06:51.000Z",
           "id": "2110764349107352063",
           "reply_to_id": "2110764284854882752",
@@ -2575,6 +2569,12 @@
           "id": "2110985237513859168",
           "reply_to_id": "2110936317064265768",
           "text": "@Fatiu_onchain @solangelestv \ud83e\udef6\ud83e\udef6"
+        },
+        {
+          "created_at": "2026-10-16T07:14:49.000Z",
+          "id": "2110992844865597890",
+          "reply_to_id": "2110992027458629751",
+          "text": "@0hxly Imo should be yes, chilling in low lev/spot"
         }
       ],
       "threads": {
@@ -3036,7 +3036,6 @@
         "2110758290674360679": true,
         "2110761983754879252": true,
         "2110762136976986381": true,
-        "2110763798579867832": true,
         "2110764349107352063": false,
         "2110771577298264131": true,
         "2110774745964900646": true,
@@ -3064,7 +3063,8 @@
         "2110985237513859168": false,
         "2110986336081703232": false,
         "2110991453858234518": true,
-        "2110991803566703085": true
+        "2110991803566703085": true,
+        "2110992844865597890": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4808,5 +4808,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T07:12:25+00:00"
+  "updated_at": "2026-10-16T07:16:23+00:00"
 }
