@@ -2224,7 +2224,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111130072090648772",
+      "last_id": "2111131990410072116",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2418,11 +2418,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T16:48:10.000Z",
-          "id": "2110774745964900646",
-          "text": "all the starknet guys need is literally a CTO who can communicate the true tech vision, the technology and designs are literally already there\n\nand its brilliant"
-        },
-        {
           "created_at": "2026-10-15T17:07:41.000Z",
           "id": "2110779659348812045",
           "quoted_text": "@MoneyPrinter0x \u201cbut it\u2019s a pump and dump. lmao you got baited by insiders on the exit pump before the next unlock. enjoy bagholding to zero. Loser\u201d",
@@ -2543,10 +2538,15 @@
           ],
           "quoted_text": "tail risk pairs might not look pretty in the near term after how tradfi risk assets crashed across the board today\n\nusually a leading indicator https://t.co/SmNdbjD35D",
           "text": "looks like its happening again \n\nshorting tia https://t.co/W75gt1GIS9 https://t.co/ARAAQEvz8j"
+        },
+        {
+          "created_at": "2026-10-16T16:27:44.000Z",
+          "id": "2111131990410072116",
+          "reply_to_id": "2110959944006771145",
+          "text": "exiting, going to be fading momentum trades for now"
         }
       ],
       "reads": {
-        "2110774745964900646": "No call",
         "2110779659348812045": "No call",
         "2110786272390426864": "No call",
         "2110788447556559130": "No call",
@@ -3119,7 +3119,6 @@
         }
       },
       "trading": {
-        "2110774745964900646": true,
         "2110779659348812045": true,
         "2110786272390426864": false,
         "2110788447556559130": false,
@@ -3153,7 +3152,8 @@
         "2111113162623959221": false,
         "2111123585502945449": false,
         "2111128021445017785": true,
-        "2111130072090648772": true
+        "2111130072090648772": true,
+        "2111131990410072116": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4967,5 +4967,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T16:22:22+00:00"
+  "updated_at": "2026-10-16T16:28:17+00:00"
 }
