@@ -46,7 +46,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2111175510852305037",
+      "last_id": "2111176331354599769",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -82,12 +82,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T05:53:16.000Z",
-          "id": "2110609935969181778",
-          "quoted_text": "China will be making a LOT of RAM in 2028 https://t.co/RiBFTe6JIC",
-          "text": "Elon max incentivized to wreck the markets tbh. Republicans on the outs got his IPO out got what he needed trynna kill Dario etc https://t.co/R8jTiX4vJ9"
-        },
         {
           "created_at": "2026-10-15T05:54:34.000Z",
           "id": "2110610263162618293",
@@ -206,10 +200,18 @@
             "https://pbs.twimg.com/media/HUxm7A5bIAA6Ds6.jpg"
           ],
           "text": "ramping https://t.co/E1DrJPmmEd"
+        },
+        {
+          "created_at": "2026-10-16T19:23:55.000Z",
+          "id": "2111176331354599769",
+          "images": [
+            "https://pbs.twimg.com/media/HUxnq_PbcAAa0kL.jpg"
+          ],
+          "quoted_text": "Think that was enough for today, now you can wait for the admin to try to pump the market through the weekend and reshort Monday.",
+          "text": "Agree with this but also ppl like \"omg who's blowing up and a -30% on SOXX from here would still be a double digit positive year https://t.co/VrSrTO1VBD https://t.co/sKc9at5UZv"
         }
       ],
       "reads": {
-        "2110609935969181778": "No call",
         "2110610263162618293": "No call",
         "2110610653631398182": "No call",
         "2110612813400199640": "No call",
@@ -227,7 +229,8 @@
         "2111144163320446998": "No call",
         "2111159898813915507": "No call",
         "2111162402892869745": "No call",
-        "2111175510852305037": "No call"
+        "2111175510852305037": "No call",
+        "2111176331354599769": "No call: bearish on SOXX (55%, too unsure)"
       },
       "replies": [
         {
@@ -669,10 +672,13 @@
         "2111175510852305037": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111176331354599769": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110609935969181778": true,
         "2110610263162618293": true,
         "2110610653631398182": false,
         "2110612813400199640": true,
@@ -706,7 +712,8 @@
         "2111157738025988387": true,
         "2111159898813915507": true,
         "2111162402892869745": true,
-        "2111175510852305037": true
+        "2111175510852305037": true,
+        "2111176331354599769": true
       },
       "user_id": "1446541960181858315"
     },
@@ -779,7 +786,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2111133549118038491",
+      "last_id": "2111175987350417649",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -815,12 +822,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T10:13:12.000Z",
-          "id": "2109950575102373992",
-          "reply_to_id": "2109950407812563452",
-          "text": "@based16z the advantage of tweeting hundreds of thousands of times is you are somewhat imprinted in the consciousness of a very large pool of ppl almost no matter what happens"
-        },
         {
           "created_at": "2026-10-13T12:29:19.000Z",
           "id": "2109984830230261923",
@@ -942,6 +943,14 @@
           "created_at": "2026-10-16T15:29:35.000Z",
           "id": "2111117359091957993",
           "text": "jesus christ man"
+        },
+        {
+          "created_at": "2026-10-16T19:22:33.000Z",
+          "id": "2111175987350417649",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2111175622538244096/img/aT9e1onZ4HhGC_6I.jpg"
+          ],
+          "text": "i keep sharing my trades and thoughts on ct because i know how much it helped me when i was starting out\n\nback in 2017, there were traders who had already made it but still chose to share their knowledge and help others learn\n\ni benefited a lot from those people, and i want to do the same for the next generation of traders\n\nthe criticism comes with being public, but i've never felt that was a good enough reason to stop sharing what i've learned"
         }
       ],
       "reads": {
@@ -963,7 +972,8 @@
         "2111095056778301444": "No call",
         "2111105247699665407": "No call",
         "2111117340779937937": "No call",
-        "2111117359091957993": "No call"
+        "2111117359091957993": "No call",
+        "2111175987350417649": "No call"
       },
       "replies": [
         {
@@ -1403,10 +1413,13 @@
         "2111117359091957993": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111175987350417649": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109950575102373992": false,
         "2109984830230261923": true,
         "2110020788229214374": true,
         "2110027728112021765": true,
@@ -1440,7 +1453,8 @@
         "2111124397163774432": false,
         "2111125249127600609": false,
         "2111129348296110530": false,
-        "2111133549118038491": true
+        "2111133549118038491": true,
+        "2111175987350417649": false
       },
       "user_id": "973261472"
     },
@@ -5018,5 +5032,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T19:22:20+00:00"
+  "updated_at": "2026-10-16T19:24:31+00:00"
 }
