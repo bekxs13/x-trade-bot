@@ -4452,14 +4452,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111183217843679578",
+      "last_id": "2111211900990054557",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-15T15:57:17.000Z",
-          "id": "2110761940007915686",
-          "text": "Find it pretty helpful to have multiple trading accounts focused on different timescales.\n\nHaving a degen account can help you stay patient on your main portfolio by feeling like you're not missing moves by sitting idly risk off. \n\nHaving long term portfolio structured as long only makes it so that you're never rooting for the market to go down for too long, and you're never coping while assets gradually drift higher due to inflation."
-        },
         {
           "created_at": "2026-10-15T18:32:07.000Z",
           "id": "2110800906669453697",
@@ -4560,10 +4555,14 @@
           "created_at": "2026-10-16T19:36:04.000Z",
           "id": "2111179389362937999",
           "text": "Computah, what happened on October 19th, 1987?"
+        },
+        {
+          "created_at": "2026-10-16T21:45:16.000Z",
+          "id": "2111211900990054557",
+          "text": "I think what we'll learn from this entire thing is that over a certain amount of revenue companies should be forced to go public."
         }
       ],
       "reads": {
-        "2110761940007915686": "No call",
         "2110800906669453697": "No call",
         "2110822350329671828": "No call",
         "2110828743505674266": "No call: bullish on crypto market (55%, too unsure)",
@@ -4582,7 +4581,8 @@
         "2111171350538666230": "No call",
         "2111172044972757120": "No call",
         "2111173105548931476": "No call: maybe exit  (60%, too unsure); bearish on stocks/macro (same view as before)",
-        "2111179389362937999": "No call: bearish on stocks/macro (same view as before)"
+        "2111179389362937999": "No call: bearish on stocks/macro (same view as before)",
+        "2111211900990054557": "No call"
       },
       "replies": [
         {
@@ -5004,6 +5004,10 @@
         "2111179389362937999": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111211900990054557": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5019,7 +5023,6 @@
         "2110411948982460824": true,
         "2110572720375181652": false,
         "2110757594923200856": false,
-        "2110761940007915686": true,
         "2110800906669453697": true,
         "2110822350329671828": true,
         "2110828743505674266": true,
@@ -5041,7 +5044,8 @@
         "2111172044972757120": false,
         "2111173105548931476": true,
         "2111179389362937999": true,
-        "2111183217843679578": false
+        "2111183217843679578": false,
+        "2111211900990054557": false
       },
       "user_id": "809191427645181952"
     }
@@ -5057,5 +5061,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T21:18:17+00:00"
+  "updated_at": "2026-10-16T21:46:24+00:00"
 }
