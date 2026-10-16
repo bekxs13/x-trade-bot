@@ -2256,7 +2256,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111146491838701586",
+      "last_id": "2111171642449867008",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2434,12 +2434,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T17:42:37.000Z",
-          "id": "2110788447556559130",
-          "quoted_text": "people complain about memes but when technology arrives nobody dares to take the first step forward\n\nbe the change you want to be",
-          "text": "be brave and courageous. https://t.co/F6F1T2WGyG"
-        },
-        {
           "created_at": "2026-10-15T18:33:57.000Z",
           "id": "2110801368105861347",
           "quoted_text": "[ ZOOMER ] \n\nGOOGLE MAKES MAJOR BREAKTHROUGH IN QUANTUM COMPUTING, SHOWING THAT \"MAGIC STATE CULTIVATION\" WORKS IN PRACTICE, REDUCING ERRORS BY 40X: BLOG",
@@ -2560,10 +2554,14 @@
           "created_at": "2026-10-16T16:54:03.000Z",
           "id": "2111138614273101908",
           "text": "igv crash today feels similar to july momo factor explosion for semis \n\nthat liquidated both leo and (nearly) serenity\n\nit was so bad she became serenity research"
+        },
+        {
+          "created_at": "2026-10-16T19:05:17.000Z",
+          "id": "2111171642449867008",
+          "text": "did leo just blow up his fund twice in the same year"
         }
       ],
       "reads": {
-        "2110788447556559130": "No call",
         "2110801368105861347": "No call",
         "2110807712875614238": "No call",
         "2110808534514651472": "VIEW bullish on alts",
@@ -2579,7 +2577,8 @@
         "2111044235860541566": "No call",
         "2111128021445017785": "TRADE SHORT TIA",
         "2111132623271862443": "TRADE EXIT INJ",
-        "2111138614273101908": "No call"
+        "2111138614273101908": "No call",
+        "2111171642449867008": "No call"
       },
       "replies": [
         {
@@ -2679,10 +2678,6 @@
         }
       ],
       "threads": {
-        "2108596603766657452": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108845453978882514": {
           "alerted": [],
           "self_replies": 0
@@ -3132,10 +3127,13 @@
         "2111138614273101908": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111171642449867008": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110788447556559130": false,
         "2110801368105861347": true,
         "2110807712875614238": true,
         "2110808534514651472": true,
@@ -3169,7 +3167,8 @@
         "2111138614273101908": true,
         "2111145006753005594": true,
         "2111145062751195270": false,
-        "2111146491838701586": true
+        "2111146491838701586": true,
+        "2111171642449867008": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4419,14 +4418,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111161559317946701",
+      "last_id": "2111171350538666230",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-15T13:37:45.000Z",
-          "id": "2110726826704154734",
-          "text": "Elon would love nothing more than Memory companies, or Neoclouds to go bust so he can acquire the using his 88x P/E SpaceX equity to acquire for them for nothing."
-        },
         {
           "created_at": "2026-10-15T14:12:55.000Z",
           "id": "2110735678548164666",
@@ -4527,10 +4521,14 @@
           "created_at": "2026-10-16T18:25:13.000Z",
           "id": "2111161559317946701",
           "text": "How are we feeling"
+        },
+        {
+          "created_at": "2026-10-16T19:04:08.000Z",
+          "id": "2111171350538666230",
+          "text": "Sentiment analysis:\n\n$SNDK still up +450% YTD"
         }
       ],
       "reads": {
-        "2110726826704154734": "No call",
         "2110735678548164666": "No call: maybe trim equity shorts (memory/neoclouds/semis) (60%, too unsure); bullish on stocks/macro (65%, too unsure)",
         "2110744784365322598": "No call",
         "2110754604027965635": "No call",
@@ -4549,7 +4547,8 @@
         "2111120109729407227": "No call: bearish on trading card companies (60%, too unsure)",
         "2111139510926893163": "No call",
         "2111144786912522255": "No call",
-        "2111161559317946701": "No call"
+        "2111161559317946701": "No call",
+        "2111171350538666230": "No call"
       },
       "replies": [
         {
@@ -4949,6 +4948,10 @@
         "2111161559317946701": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111171350538666230": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4963,7 +4966,6 @@
         "2109698195953692702": false,
         "2110411948982460824": true,
         "2110572720375181652": false,
-        "2110726826704154734": true,
         "2110735678548164666": true,
         "2110744784365322598": true,
         "2110754604027965635": false,
@@ -4985,7 +4987,8 @@
         "2111135946112397498": true,
         "2111139510926893163": false,
         "2111144786912522255": false,
-        "2111161559317946701": false
+        "2111161559317946701": false,
+        "2111171350538666230": true
       },
       "user_id": "809191427645181952"
     }
@@ -5001,5 +5004,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T18:30:43+00:00"
+  "updated_at": "2026-10-16T19:06:24+00:00"
 }
