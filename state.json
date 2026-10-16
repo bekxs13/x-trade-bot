@@ -46,7 +46,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2111237772480585906",
+      "last_id": "2111237894077899184",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -82,11 +82,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T05:56:07.000Z",
-          "id": "2110610653631398182",
-          "text": "Guy including private company stock options in his net worth"
-        },
         {
           "created_at": "2026-10-15T06:04:42.000Z",
           "id": "2110612813400199640",
@@ -205,10 +200,14 @@
           "created_at": "2026-10-16T20:46:50.000Z",
           "id": "2111197195013898412",
           "text": "anthropic going public? what's next, hitler youth nasdaq listing?"
+        },
+        {
+          "created_at": "2026-10-16T23:28:10.000Z",
+          "id": "2111237799059788100",
+          "text": "Ok paper trade is awesome"
         }
       ],
       "reads": {
-        "2110610653631398182": "No call",
         "2110612813400199640": "No call",
         "2110712424315961359": "No call",
         "2110736773420810353": "No call",
@@ -226,15 +225,10 @@
         "2111162402892869745": "No call",
         "2111175510852305037": "No call",
         "2111176331354599769": "No call: bearish on SOXX (55%, too unsure)",
-        "2111197195013898412": "No call"
+        "2111197195013898412": "No call",
+        "2111237799059788100": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-15T21:04:12.000Z",
-          "id": "2110839178732916810",
-          "reply_to_id": "2110838082664603761",
-          "text": "@spiritualgamblr @itshd__ I slept in the car from sf to la last night probly not sounding my best"
-        },
         {
           "created_at": "2026-10-15T21:05:44.000Z",
           "id": "2110839567242977720",
@@ -318,6 +312,12 @@
           "id": "2111237772480585906",
           "reply_to_id": "2111236390763856067",
           "text": "@0xMentalIllness I mean we\u2019ve had all the obvious reasons to top for 12 months and a bunch of processes keep getting more area under the curve (oil yields etc) so would make sense at some pt to just be climactic"
+        },
+        {
+          "created_at": "2026-10-16T23:28:33.000Z",
+          "id": "2111237894077899184",
+          "reply_to_id": "2111174876987875604",
+          "text": "@jbulltard1 Their fill was 33 tbf. I may get 1x long bsp at some pt in the next year"
         }
       ],
       "threads": {
@@ -676,17 +676,19 @@
         "2111197195013898412": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111237799059788100": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110610653631398182": false,
         "2110612813400199640": true,
         "2110712424315961359": false,
         "2110736773420810353": false,
         "2110739328850927841": true,
         "2110782099297124815": false,
         "2110790768806027598": true,
-        "2110839178732916810": false,
         "2110839567242977720": false,
         "2110840424684470385": false,
         "2110840522822832236": true,
@@ -713,7 +715,9 @@
         "2111177082881613828": false,
         "2111197195013898412": false,
         "2111202033323688134": false,
-        "2111237772480585906": true
+        "2111237772480585906": true,
+        "2111237799059788100": true,
+        "2111237894077899184": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5064,5 +5068,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T23:28:19+00:00"
+  "updated_at": "2026-10-16T23:30:21+00:00"
 }
