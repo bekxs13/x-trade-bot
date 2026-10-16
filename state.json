@@ -4344,24 +4344,19 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2110607210997023097",
-          "reason": "Mocks the market for taking the unfunded $1T AI spend seriously, fitting his recent 'Game Over', 'January 2022' and Anthropic-hinging-market posts; this matches his recorded bearish stocks view.",
+          "post_id": "2111114374412636556",
+          "reason": "Comparing AI infra to 2021 L1 tokens reads as a bubble call. It fits his recent posts about an equities 'potential top', memory/neocloud shorts and mocking the $1T spend announcements.",
           "scope": "stocks/macro",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-15T05:42:26.000Z"
+          "updated_at": "2026-10-16T15:17:44.000Z"
         }
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111098312845861289",
+      "last_id": "2111114374412636556",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-14T22:36:27.000Z",
-          "id": "2110500007421890959",
-          "text": "Don't worry about equities selling off, people are just making room in their portfolio for the Anthropic IPO"
-        },
         {
           "created_at": "2026-10-15T01:55:05.000Z",
           "id": "2110549994738733342",
@@ -4464,10 +4459,14 @@
           "created_at": "2026-10-16T14:13:54.000Z",
           "id": "2111098312845861289",
           "text": "Who are the most notorious memecoin bundlers?"
+        },
+        {
+          "created_at": "2026-10-16T15:17:44.000Z",
+          "id": "2111114374412636556",
+          "text": "AI infra companies look like 2021 L1 tokens"
         }
       ],
       "reads": {
-        "2110500007421890959": "No call",
         "2110549994738733342": "No call",
         "2110589117792735525": "No call",
         "2110602888271548814": "No call",
@@ -4486,7 +4485,8 @@
         "2110838124645622210": "No call: bearish on stocks/macro (60%, too unsure)",
         "2110846742430408938": "No call",
         "2111093318365196739": "No call",
-        "2111098312845861289": "No call"
+        "2111098312845861289": "No call",
+        "2111114374412636556": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -4852,6 +4852,10 @@
         "2111098312845861289": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111114374412636556": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4865,7 +4869,6 @@
         "2109662643053371875": false,
         "2109698195953692702": false,
         "2110411948982460824": true,
-        "2110500007421890959": true,
         "2110549994738733342": false,
         "2110572720375181652": false,
         "2110589117792735525": true,
@@ -4887,7 +4890,8 @@
         "2110838124645622210": true,
         "2110846742430408938": false,
         "2111093318365196739": false,
-        "2111098312845861289": true
+        "2111098312845861289": true,
+        "2111114374412636556": true
       },
       "user_id": "809191427645181952"
     }
@@ -4903,5 +4907,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T15:16:22+00:00"
+  "updated_at": "2026-10-16T15:18:36+00:00"
 }
