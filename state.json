@@ -2179,7 +2179,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110915448573452728",
+      "last_id": "2110959944006771145",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2196,6 +2196,22 @@
           "since": "2026-10-14T08:47:39.000Z",
           "structure": "spot",
           "url": "https://x.com/MoneyPrinter0x/status/2110291433441960131"
+        },
+        "INJ": {
+          "asset": "INJ",
+          "chain": "",
+          "confidence": 0.93,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "~9.24 (chart)",
+          "horizon": "",
+          "market": "crypto",
+          "open_price": null,
+          "post_id": "2110959944006771145",
+          "reason": "\"bought some spot $inj\" with an INJUSDT Binance chart showing price around 9.24. The live feed price of $4.65 is for a Solana token, so the Binance chart is used for entry.",
+          "since": "2026-10-16T05:04:05.000Z",
+          "structure": "spot",
+          "url": "https://x.com/MoneyPrinter0x/status/2110959944006771145"
         },
         "MU": {
           "asset": "MU",
@@ -2325,12 +2341,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T12:25:24.000Z",
-          "id": "2110708617100030329",
-          "reply_to_id": "2110707479634211057",
-          "text": "@Route2FI think that more ppl should tune down leverage tbh so panic wouldnt happen as easily\n\nbut at least its done"
-        },
-        {
           "created_at": "2026-10-15T14:53:26.000Z",
           "id": "2110745870732083325",
           "text": "we didnt make any noticeable lows on the big3 even on ai fud + anth financials fud + cpi fud + ppi fud as risk assets crashed this week, while spot flows on btc, sol remained strong\n\nthink that next igv &amp; crypto majors (esp sol) leg up is going to be really noticeable htf"
@@ -2438,6 +2448,14 @@
           "id": "2110908437332897804",
           "quoted_text": "SOLANGELES TRADERS vol.01\n@MoneyPrinter0x latest bets \n\nWatching $STRK as a potential kingmaker, betting on a quantum-safe Layer 1 and the long-term value of censorship-resistant bunker money. He believes one thing: we will win https://t.co/lS5LvRGSAN",
           "text": "yooooo this is sick \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udd25 https://t.co/D2K07aXzS1"
+        },
+        {
+          "created_at": "2026-10-16T05:04:05.000Z",
+          "id": "2110959944006771145",
+          "images": [
+            "https://pbs.twimg.com/media/HUui4T8akAA-guS.jpg"
+          ],
+          "text": "bought some spot $inj https://t.co/LJTK4VTERQ"
         }
       ],
       "reads": {
@@ -2459,7 +2477,8 @@
         "2110801368105861347": "No call",
         "2110807712875614238": "No call",
         "2110808534514651472": "VIEW bullish on alts",
-        "2110908437332897804": "No call"
+        "2110908437332897804": "No call",
+        "2110959944006771145": "TRADE LONG INJ"
       },
       "replies": [
         {
@@ -2554,12 +2573,6 @@
         }
       ],
       "threads": {
-        "2108481061042929887": {
-          "alerted": [
-            "trade:STRK:long"
-          ],
-          "self_replies": 0
-        },
         "2108482904116560301": {
           "alerted": [
             "trade:STRK:long"
@@ -3007,10 +3020,15 @@
         "2110908437332897804": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2110959944006771145": {
+          "alerted": [
+            "trade:INJ:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110708617100030329": true,
         "2110745870732083325": true,
         "2110747081212309893": true,
         "2110749159196414419": true,
@@ -3044,7 +3062,8 @@
         "2110907764025458870": false,
         "2110908437332897804": true,
         "2110914571183726783": false,
-        "2110915448573452728": false
+        "2110915448573452728": false,
+        "2110959944006771145": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4788,5 +4807,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T04:40:26+00:00"
+  "updated_at": "2026-10-16T05:04:25+00:00"
 }
