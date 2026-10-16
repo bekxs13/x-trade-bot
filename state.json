@@ -46,7 +46,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2111237894077899184",
+      "last_id": "2111238856221564984",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -82,11 +82,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T06:04:42.000Z",
-          "id": "2110612813400199640",
-          "text": "You don\u2019t need someone to choose to sell semiconductors if the price goes down 5% then SOXL sells $9B"
-        },
         {
           "created_at": "2026-10-15T12:40:31.000Z",
           "id": "2110712424315961359",
@@ -205,10 +200,15 @@
           "created_at": "2026-10-16T23:28:10.000Z",
           "id": "2111237799059788100",
           "text": "Ok paper trade is awesome"
+        },
+        {
+          "created_at": "2026-10-16T23:32:22.000Z",
+          "id": "2111238856221564984",
+          "reply_to_id": "2111237799059788100",
+          "text": "Using a small 400x leverage to try it out"
         }
       ],
       "reads": {
-        "2110612813400199640": "No call",
         "2110712424315961359": "No call",
         "2110736773420810353": "No call",
         "2110739328850927841": "No call: maybe long HOOD (62%, too unsure)",
@@ -226,7 +226,8 @@
         "2111175510852305037": "No call",
         "2111176331354599769": "No call: bearish on SOXX (55%, too unsure)",
         "2111197195013898412": "No call",
-        "2111237799059788100": "No call"
+        "2111237799059788100": "No call",
+        "2111238856221564984": "No call"
       },
       "replies": [
         {
@@ -679,11 +680,10 @@
         },
         "2111237799059788100": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2110612813400199640": true,
         "2110712424315961359": false,
         "2110736773420810353": false,
         "2110739328850927841": true,
@@ -717,7 +717,8 @@
         "2111202033323688134": false,
         "2111237772480585906": true,
         "2111237799059788100": true,
-        "2111237894077899184": true
+        "2111237894077899184": true,
+        "2111238856221564984": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5068,5 +5069,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T23:30:21+00:00"
+  "updated_at": "2026-10-16T23:34:22+00:00"
 }
