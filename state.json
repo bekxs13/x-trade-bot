@@ -2183,7 +2183,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111046097854714043",
+      "last_id": "2111049410021138858",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2507,12 +2507,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T05:14:02.000Z",
-          "id": "2110962449025495284",
-          "reply_to_id": "2110843239683297580",
-          "text": "@princejampunk @solangelestv \ud83d\ude4f\ud83d\ude4f"
-        },
-        {
           "created_at": "2026-10-16T05:14:37.000Z",
           "id": "2110962596123947115",
           "reply_to_id": "2110914123563417667",
@@ -2595,6 +2589,12 @@
           "id": "2111046097854714043",
           "reply_to_id": "2111045747928191031",
           "text": "@botblastcap this, i fully agree\n\nrecent structural changes in the market can create market gaps that allow direct pmf"
+        },
+        {
+          "created_at": "2026-10-16T10:59:35.000Z",
+          "id": "2111049410021138858",
+          "reply_to_id": "2111047532868743247",
+          "text": "tech that shouldnt be forced to compete against non-blockchain sectors / tech where crypto actually makes sense as in it has real moat against \"web2\"\n\nprivacy-enabled tech, rwas, single SoT trading layer, single SoT data layer, ai-resistant public ledger & compute\n\ntech that is product-first and tech-second, as in built to solve a market gap rather than built for the sake of being built"
         }
       ],
       "threads": {
@@ -3064,7 +3064,6 @@
         "2110808534514651472": true,
         "2110908437332897804": true,
         "2110959944006771145": true,
-        "2110962449025495284": false,
         "2110962596123947115": false,
         "2110977056171516095": true,
         "2110982238930448482": true,
@@ -3086,7 +3085,8 @@
         "2111040774209159407": true,
         "2111044235860541566": true,
         "2111045796787638705": true,
-        "2111046097854714043": false
+        "2111046097854714043": false,
+        "2111049410021138858": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4830,5 +4830,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T10:48:20+00:00"
+  "updated_at": "2026-10-16T11:00:28+00:00"
 }
