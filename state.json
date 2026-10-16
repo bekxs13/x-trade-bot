@@ -4362,14 +4362,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111116591400468819",
+      "last_id": "2111120109729407227",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-15T05:25:16.000Z",
-          "id": "2110602888271548814",
-          "text": "They\u2019re not going to bail them out, they\u2019re going to offer them 0% loans as a matter of national security.\n\nThat\u2019s when you back up the truck on BTC and ride off into the sunset."
-        },
         {
           "created_at": "2026-10-15T05:31:28.000Z",
           "id": "2110604448217124963",
@@ -4471,10 +4466,14 @@
           "created_at": "2026-10-16T15:26:32.000Z",
           "id": "2111116591400468819",
           "text": "Every time someone comments on BTC relative strength to equities God adds another 100mm of market selling into the close."
+        },
+        {
+          "created_at": "2026-10-16T15:40:31.000Z",
+          "id": "2111120109729407227",
+          "text": "How do I short trading card companies"
         }
       ],
       "reads": {
-        "2110602888271548814": "No call",
         "2110604448217124963": "No call: bearish on crypto market (60%, too unsure)",
         "2110607210997023097": "No call: bearish on stocks/macro (same view as before)",
         "2110724646974767398": "No call",
@@ -4493,7 +4492,8 @@
         "2111098312845861289": "No call",
         "2111114374412636556": "No call: bearish on stocks/macro (same view as before)",
         "2111115012798296355": "No call",
-        "2111116591400468819": "No call"
+        "2111116591400468819": "No call",
+        "2111120109729407227": "No call: bearish on trading card companies (60%, too unsure)"
       },
       "replies": [
         {
@@ -4871,6 +4871,10 @@
         "2111116591400468819": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111120109729407227": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4885,7 +4889,6 @@
         "2109698195953692702": false,
         "2110411948982460824": true,
         "2110572720375181652": false,
-        "2110602888271548814": true,
         "2110604448217124963": false,
         "2110607210997023097": true,
         "2110724646974767398": false,
@@ -4906,7 +4909,8 @@
         "2111098312845861289": true,
         "2111114374412636556": true,
         "2111115012798296355": true,
-        "2111116591400468819": true
+        "2111116591400468819": true,
+        "2111120109729407227": true
       },
       "user_id": "809191427645181952"
     }
@@ -4922,5 +4926,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T15:36:19+00:00"
+  "updated_at": "2026-10-16T15:42:35+00:00"
 }
