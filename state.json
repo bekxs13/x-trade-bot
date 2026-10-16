@@ -2183,7 +2183,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111001803953463358",
+      "last_id": "2111020071149871233",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2345,11 +2345,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T15:18:45.000Z",
-          "id": "2110752242504720487",
-          "text": "The Hated Cryptography Rally."
-        },
-        {
           "created_at": "2026-10-15T15:32:48.000Z",
           "id": "2110755781348057503",
           "quoted_text": "BREAKING: STARKNET TAKES ITS INDEPENDENT POST-QUANTUM L1 AMBITION INTO GOVERNANCE.\n\nA NEW GOVERNANCE POLL ASKS STRK HOLDERS TO BACK FURTHER RESEARCH INTO THE MOVE.\n\nethereum:0xca14007eff0db1f8135f4c25b34de49ab0d42766 \n\nhttps://t.co/yWH282iiqC",
@@ -2461,10 +2456,15 @@
           "id": "2110991803566703085",
           "quoted_text": "we didnt make any noticeable lows on the big3 even on ai fud + anth financials fud + cpi fud + ppi fud as risk assets crashed this week, while spot flows on btc, sol remained strong\n\nthink that next igv &amp; crypto majors (esp sol) leg up is going to be really noticeable htf",
           "text": "early alt szn\n\nlearned a lot recently! adapting faster than ever to this asset class\n\ngoing back to cross-asset &amp; macro roots to continue generating edge\n\nMP https://t.co/j6QVxv239E"
+        },
+        {
+          "created_at": "2026-10-16T09:03:00.000Z",
+          "id": "2111020071149871233",
+          "quoted_text": "Breaking: World ID plugin is already live in Codex \ud83d\udc40\nyou can now prove you're human right inside OpenAI's tools\nmuch more to come. this may be the beginning of something big \ud83c\udf0d $WLD\n\nhow to install: just tell Codex\n\"Install this plugin: https://t.co/lXLsqvWFgr\"\nthen say \"Connect my World ID\" \u2705",
+          "text": "false, anyone can just make a plugin and publish in codex https://t.co/wfYlJPwRvc"
         }
       ],
       "reads": {
-        "2110752242504720487": "No call: bullish on crypto market (same view as before)",
         "2110755781348057503": "TRADE LONG STRK",
         "2110757954576433207": "No call",
         "2110758290674360679": "No call",
@@ -2483,15 +2483,10 @@
         "2110977056171516095": "No call",
         "2110986336081703232": "No call",
         "2110991453858234518": "No call: bullish on alts (same view as before)",
-        "2110991803566703085": "No call: bullish on alts (same view as before)"
+        "2110991803566703085": "No call: bullish on alts (same view as before)",
+        "2111020071149871233": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-15T16:55:03.000Z",
-          "id": "2110776477491020107",
-          "reply_to_id": "2110775845065232708",
-          "text": "@cryptouthred impossible"
-        },
         {
           "created_at": "2026-10-15T17:06:52.000Z",
           "id": "2110779450690580988",
@@ -2575,13 +2570,15 @@
           "id": "2111001803953463358",
           "reply_to_id": "2111000444160127416",
           "text": "@ChainSurfr https://t.co/tw4bnO934L"
+        },
+        {
+          "created_at": "2026-10-16T09:02:32.000Z",
+          "id": "2111019955097616414",
+          "reply_to_id": "2110999826359844873",
+          "text": "@tokumatoshi false narrative, anyone can just make a plugin and publish it on codex"
         }
       ],
       "threads": {
-        "2108509703852757277": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108510056358744202": {
           "alerted": [],
           "self_replies": 0
@@ -3027,10 +3024,13 @@
         "2110991803566703085": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111020071149871233": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110752242504720487": true,
         "2110755781348057503": true,
         "2110757954576433207": true,
         "2110758290674360679": true,
@@ -3038,7 +3038,6 @@
         "2110762136976986381": true,
         "2110771577298264131": true,
         "2110774745964900646": true,
-        "2110776477491020107": false,
         "2110779450690580988": false,
         "2110779659348812045": true,
         "2110786272390426864": false,
@@ -3064,7 +3063,9 @@
         "2110991803566703085": true,
         "2110992844865597890": true,
         "2110996297100787880": true,
-        "2111001803953463358": false
+        "2111001803953463358": false,
+        "2111019955097616414": true,
+        "2111020071149871233": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4808,5 +4809,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T08:54:23+00:00"
+  "updated_at": "2026-10-16T09:04:29+00:00"
 }
