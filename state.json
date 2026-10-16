@@ -2183,7 +2183,7 @@
       },
       "closed": [],
       "handle": "MoneyPrinter0x",
-      "last_id": "2110982238930448482",
+      "last_id": "2110985237513859168",
       "positions": {
         "ARM": {
           "asset": "ARM",
@@ -2487,12 +2487,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T15:49:01.000Z",
-          "id": "2110759859247603817",
-          "reply_to_id": "2110759509010346136",
-          "text": "@deainode bunker money\n\n$strk"
-        },
-        {
           "created_at": "2026-10-15T16:04:40.000Z",
           "id": "2110763798579867832",
           "reply_to_id": "2110762279184879950",
@@ -2575,6 +2569,12 @@
           "id": "2110982238930448482",
           "reply_to_id": "2110979214820381148",
           "text": "@grisimoli94 Its not a thesis trade, just accumulating spot before next leg up\n\nhttps://t.co/07qXYu9Nbg  more or less priced in but interested to have exposure to L1s with rwa moat"
+        },
+        {
+          "created_at": "2026-10-16T06:44:35.000Z",
+          "id": "2110985237513859168",
+          "reply_to_id": "2110936317064265768",
+          "text": "@Fatiu_onchain @solangelestv \ud83e\udef6\ud83e\udef6"
         }
       ],
       "threads": {
@@ -3041,7 +3041,6 @@
         "2110755781348057503": true,
         "2110757954576433207": true,
         "2110758290674360679": true,
-        "2110759859247603817": true,
         "2110761983754879252": true,
         "2110762136976986381": true,
         "2110763798579867832": true,
@@ -3068,7 +3067,8 @@
         "2110962449025495284": false,
         "2110962596123947115": false,
         "2110977056171516095": true,
-        "2110982238930448482": true
+        "2110982238930448482": true,
+        "2110985237513859168": false
       },
       "user_id": "1653080265294757890"
     },
@@ -4812,5 +4812,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-15",
-  "updated_at": "2026-10-16T06:34:22+00:00"
+  "updated_at": "2026-10-16T06:46:21+00:00"
 }
