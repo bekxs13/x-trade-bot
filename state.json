@@ -2256,7 +2256,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111171642449867008",
+      "last_id": "2111174650604773834",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2434,12 +2434,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T18:33:57.000Z",
-          "id": "2110801368105861347",
-          "quoted_text": "[ ZOOMER ] \n\nGOOGLE MAKES MAJOR BREAKTHROUGH IN QUANTUM COMPUTING, SHOWING THAT \"MAGIC STATE CULTIVATION\" WORKS IN PRACTICE, REDUCING ERRORS BY 40X: BLOG",
-          "text": "Starknet.\n\n$strk https://t.co/0ySWecnsLA"
-        },
-        {
           "created_at": "2026-10-15T18:59:10.000Z",
           "id": "2110807712875614238",
           "quoted_text": "@MoneyPrinter0x Bitcoin is a meme bro. What you talking about. Web2 has solved everything always, and decentralisation? There ain\u2019t no decentralisation in 2026",
@@ -2559,10 +2553,14 @@
           "created_at": "2026-10-16T19:05:17.000Z",
           "id": "2111171642449867008",
           "text": "did leo just blow up his fund twice in the same year"
+        },
+        {
+          "created_at": "2026-10-16T19:17:15.000Z",
+          "id": "2111174650604773834",
+          "text": "both bonds n equities are getting sold off today"
         }
       ],
       "reads": {
-        "2110801368105861347": "No call",
         "2110807712875614238": "No call",
         "2110808534514651472": "VIEW bullish on alts",
         "2110908437332897804": "No call",
@@ -2578,7 +2576,8 @@
         "2111128021445017785": "TRADE SHORT TIA",
         "2111132623271862443": "TRADE EXIT INJ",
         "2111138614273101908": "No call",
-        "2111171642449867008": "No call"
+        "2111171642449867008": "No call",
+        "2111174650604773834": "No call"
       },
       "replies": [
         {
@@ -2678,10 +2677,6 @@
         }
       ],
       "threads": {
-        "2108845453978882514": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108886690396029389": {
           "alerted": [],
           "self_replies": 0
@@ -3131,10 +3126,13 @@
         "2111171642449867008": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111174650604773834": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110801368105861347": true,
         "2110807712875614238": true,
         "2110808534514651472": true,
         "2110908437332897804": true,
@@ -3168,7 +3166,8 @@
         "2111145006753005594": true,
         "2111145062751195270": false,
         "2111146491838701586": true,
-        "2111171642449867008": true
+        "2111171642449867008": true,
+        "2111174650604773834": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5012,5 +5011,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T19:12:25+00:00"
+  "updated_at": "2026-10-16T19:18:31+00:00"
 }
