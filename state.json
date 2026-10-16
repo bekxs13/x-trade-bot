@@ -46,7 +46,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2111159898813915507",
+      "last_id": "2111162402892869745",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -82,12 +82,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T23:58:54.000Z",
-          "id": "2110520758036553771",
-          "quoted_text": "shit is so bad I might have to re-brand to a dividend investor \ud83e\udd23",
-          "text": "Spy 1.52% off all time high https://t.co/gF1WQMDiTy"
-        },
         {
           "created_at": "2026-10-15T03:23:33.000Z",
           "id": "2110572256082743609",
@@ -204,10 +198,14 @@
           "created_at": "2026-10-16T18:18:37.000Z",
           "id": "2111159898813915507",
           "text": "Trump signaled the end of the AI trade by renaming it to SI"
+        },
+        {
+          "created_at": "2026-10-16T18:28:35.000Z",
+          "id": "2111162402892869745",
+          "text": "Sentiment stage 2 months ago: Leopold structured a book with a 99.8% chance of zeroing, zeroed it, then raised more money immediately"
         }
       ],
       "reads": {
-        "2110520758036553771": "No call: bullish on stocks/macro (60%, too unsure)",
         "2110572256082743609": "No call",
         "2110609935969181778": "No call",
         "2110610263162618293": "No call",
@@ -225,7 +223,8 @@
         "2111122915165155465": "TRADE EXIT HOOD",
         "2111133833689280878": "No call",
         "2111144163320446998": "No call",
-        "2111159898813915507": "No call"
+        "2111159898813915507": "No call",
+        "2111162402892869745": "No call"
       },
       "replies": [
         {
@@ -659,10 +658,13 @@
         "2111159898813915507": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111162402892869745": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110520758036553771": true,
         "2110572256082743609": true,
         "2110609935969181778": true,
         "2110610263162618293": true,
@@ -696,7 +698,8 @@
         "2111133833689280878": false,
         "2111144163320446998": true,
         "2111157738025988387": true,
-        "2111159898813915507": true
+        "2111159898813915507": true,
+        "2111162402892869745": true
       },
       "user_id": "1446541960181858315"
     },
@@ -4998,5 +5001,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T18:28:20+00:00"
+  "updated_at": "2026-10-16T18:30:43+00:00"
 }
