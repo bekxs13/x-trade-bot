@@ -786,7 +786,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2111175987350417649",
+      "last_id": "2111192626690957681",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -977,12 +977,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T19:32:46.000Z",
-          "id": "2110816170794455390",
-          "reply_to_id": "2110774040654958793",
-          "text": "@fluffyonchain fluffy on the big screen!"
-        },
-        {
           "created_at": "2026-10-15T19:41:07.000Z",
           "id": "2110818272400818534",
           "reply_to_id": "2110813802702786726",
@@ -1065,6 +1059,12 @@
           "id": "2111133549118038491",
           "reply_to_id": "2111132374083817868",
           "text": "\u2022 synthetic perps, there is no orderbook just traders vs the house\n\u2022 99% of trader losses over LP cap go to paper stakes\n\u2022 zero fees on opening trades\n\u2022 zero fees on losing trades\n\u2022 no funding\n\u2022 100% of token supply to users\n\nthere is no other perps exchange that is designed this way & pays out losses as revenue to stakers of the native exchange token"
+        },
+        {
+          "created_at": "2026-10-16T20:28:40.000Z",
+          "id": "2111192626690957681",
+          "reply_to_id": "2111164413441179728",
+          "text": "@_imagyn not good man"
         }
       ],
       "threads": {
@@ -1434,7 +1434,6 @@
         "2110767955630018575": false,
         "2110783883998544197": true,
         "2110810603417944213": true,
-        "2110816170794455390": false,
         "2110818272400818534": true,
         "2110818625087230265": true,
         "2110819278937342195": false,
@@ -1454,7 +1453,8 @@
         "2111125249127600609": false,
         "2111129348296110530": false,
         "2111133549118038491": true,
-        "2111175987350417649": false
+        "2111175987350417649": false,
+        "2111192626690957681": false
       },
       "user_id": "973261472"
     },
@@ -5042,5 +5042,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-16T20:26:23+00:00"
+  "updated_at": "2026-10-16T20:30:22+00:00"
 }
