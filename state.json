@@ -2237,12 +2237,12 @@
       "biases": {
         "alts": {
           "market": "crypto",
-          "post_id": "2110991803566703085",
-          "reason": "'early alt szn' plus the quoted call for a big crypto majors leg up (esp SOL) matches the recorded bullish alts view.",
+          "post_id": "2111320951355039804",
+          "reason": "'its but a retrace before the next leg up higher' alongside focusing on alts restates the existing bullish alts view.",
           "scope": "alts",
           "since": "2026-10-15",
           "stance": "bullish",
-          "updated_at": "2026-10-16T07:10:40.000Z"
+          "updated_at": "2026-10-17T04:58:35.000Z"
         },
         "btc": {
           "market": "crypto",
@@ -2299,7 +2299,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111290289453498535",
+      "last_id": "2111320951355039804",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2477,12 +2477,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-15T19:02:26.000Z",
-          "id": "2110808534514651472",
-          "quoted_text": "@MoneyPrinter0x Bitcoin is a meme bro. What you talking about. Web2 has solved everything always, and decentralisation? There ain\u2019t no decentralisation in 2026",
-          "text": "bottom on tech in crypto https://t.co/meQSnlB58L"
-        },
-        {
           "created_at": "2026-10-16T01:39:24.000Z",
           "id": "2110908437332897804",
           "quoted_text": "SOLANGELES TRADERS vol.01\n@MoneyPrinter0x latest bets \n\nWatching $STRK as a potential kingmaker, betting on a quantum-safe Layer 1 and the long-term value of censorship-resistant bunker money. He believes one thing: we will win https://t.co/lS5LvRGSAN",
@@ -2600,10 +2594,14 @@
           "created_at": "2026-10-16T19:36:51.000Z",
           "id": "2111179586835005866",
           "text": "leos holdings highly correlated/nearly same to vara\n\nthink both of them blew up today"
+        },
+        {
+          "created_at": "2026-10-17T04:58:35.000Z",
+          "id": "2111320951355039804",
+          "text": "feels like when lebron joined the heat\n\nits but a retrace before the next leg up higher\n\nlets focus on continually improving in this new asset class (alts) - sooner or later we'll get as sharp as we are on majors, stocks, onchain\n\nvery grateful for the real ones lately too\n\nMP"
         }
       ],
       "reads": {
-        "2110808534514651472": "VIEW bullish on alts",
         "2110908437332897804": "No call",
         "2110959944006771145": "TRADE LONG INJ",
         "2110977056171516095": "No call",
@@ -2619,7 +2617,8 @@
         "2111138614273101908": "No call",
         "2111171642449867008": "No call",
         "2111174650604773834": "No call",
-        "2111179586835005866": "No call"
+        "2111179586835005866": "No call",
+        "2111320951355039804": "No call: bullish on alts (same view as before)"
       },
       "replies": [
         {
@@ -2719,12 +2718,6 @@
         }
       ],
       "threads": {
-        "2108900955106467873": {
-          "alerted": [
-            "trade:STRK:long"
-          ],
-          "self_replies": 0
-        },
         "2108919459486527699": {
           "alerted": [],
           "self_replies": 0
@@ -3172,10 +3165,13 @@
         "2111179586835005866": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111320951355039804": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110808534514651472": true,
         "2110908437332897804": true,
         "2110959944006771145": true,
         "2110977056171516095": true,
@@ -3209,7 +3205,8 @@
         "2111174650604773834": true,
         "2111179586835005866": true,
         "2111179770440630344": false,
-        "2111290289453498535": false
+        "2111290289453498535": false,
+        "2111320951355039804": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5080,5 +5077,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-17T04:50:21+00:00"
+  "updated_at": "2026-10-17T05:00:28+00:00"
 }
