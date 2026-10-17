@@ -46,7 +46,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2111566421121802330",
+      "last_id": "2111569149516460336",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -82,14 +82,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-16T19:20:40.000Z",
-          "id": "2111175510852305037",
-          "images": [
-            "https://pbs.twimg.com/media/HUxm7A5bIAA6Ds6.jpg"
-          ],
-          "text": "ramping https://t.co/E1DrJPmmEd"
-        },
         {
           "created_at": "2026-10-16T19:23:55.000Z",
           "id": "2111176331354599769",
@@ -197,10 +189,15 @@
           "created_at": "2026-10-17T18:50:41.000Z",
           "id": "2111530353236263050",
           "text": "@based16z x account is not good. Maybe back in the day, but I don't learn anything from it. I'm confused why people are so obsessed with it still"
+        },
+        {
+          "created_at": "2026-10-17T21:24:50.000Z",
+          "id": "2111569149516460336",
+          "quoted_text": "Jamais vu autant de boutiques pill\u00e9es. Dans chaque rue je vois des types les bras plein de trucs fauch\u00e9s. https://t.co/ibNDJI5e8V",
+          "text": "Expect more https://t.co/kiHvQmf7eT"
         }
       ],
       "reads": {
-        "2111175510852305037": "No call",
         "2111176331354599769": "No call: bearish on SOXX (55%, too unsure)",
         "2111197195013898412": "No call",
         "2111237799059788100": "No call",
@@ -219,7 +216,8 @@
         "2111349005028647041": "No call",
         "2111366152803021027": "No call",
         "2111366593343373684": "Read together with the post it replies to",
-        "2111530353236263050": "No call"
+        "2111530353236263050": "No call",
+        "2111569149516460336": "No call"
       },
       "replies": [
         {
@@ -314,10 +312,6 @@
         }
       ],
       "threads": {
-        "2108079852439904621": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108084087499952409": {
           "alerted": [
             "trade:BTC:short"
@@ -725,10 +719,13 @@
         "2111530353236263050": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111569149516460336": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111175510852305037": true,
         "2111176331354599769": true,
         "2111197195013898412": false,
         "2111237799059788100": true,
@@ -762,7 +759,8 @@
         "2111366593343373684": false,
         "2111530353236263050": false,
         "2111531587439673707": false,
-        "2111566421121802330": false
+        "2111566421121802330": false,
+        "2111569149516460336": false
       },
       "user_id": "1446541960181858315"
     },
@@ -3265,7 +3263,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2111550424444776530",
+      "last_id": "2111569279988740297",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3430,12 +3428,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T15:14:58.000Z",
-          "id": "2111113680851268006",
-          "reply_to_id": "2111097952848556341",
-          "text": "@DeeZe i might need that council job soon icl"
-        },
-        {
           "created_at": "2026-10-16T19:36:32.000Z",
           "id": "2111179505331290411",
           "reply_to_id": "2111179389362937999",
@@ -3521,6 +3513,12 @@
           "id": "2111550424444776530",
           "reply_to_id": "2111550340751565291",
           "text": "@bubbleboi @UlricaW_ AINT THAT RIGHT"
+        },
+        {
+          "created_at": "2026-10-17T21:25:22.000Z",
+          "id": "2111569279988740297",
+          "reply_to_id": "2111569052527149427",
+          "text": "@Evan_ss6 guy who\u2019s been on twitter for 15 years knows who rasmr and threadguy are"
         }
       ],
       "threads": {
@@ -3714,7 +3712,6 @@
         "2110870996337230266": true,
         "2110900288483651945": false,
         "2111074640328262026": true,
-        "2111113680851268006": false,
         "2111179505331290411": false,
         "2111180317218455782": false,
         "2111203735603175676": false,
@@ -3731,7 +3728,8 @@
         "2111496920443044207": false,
         "2111498591315624445": false,
         "2111538730821710309": false,
-        "2111550424444776530": false
+        "2111550424444776530": false,
+        "2111569279988740297": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5118,5 +5116,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T21:14:20+00:00"
+  "updated_at": "2026-10-17T21:26:27+00:00"
 }
