@@ -4489,6 +4489,15 @@
           "stance": "bearish",
           "updated_at": "2026-10-14T15:13:19.000Z"
         },
+        "crypto market": {
+          "market": "crypto",
+          "post_id": "2111577993311117630",
+          "reason": "'Admin didn't even try and save market this weekend' plus 'hope everyone has plenty of cash' continues his bearish calls, after Friday's 'reshort Monday' post and the 1987 crash reference. This matches his recorded bearish views on btc and alts.",
+          "scope": "crypto market",
+          "since": "2026-10-17",
+          "stance": "bearish",
+          "updated_at": "2026-10-17T21:59:59.000Z"
+        },
         "stocks/macro": {
           "market": "stocks",
           "post_id": "2111179389362937999",
@@ -4501,15 +4510,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111541630171791392",
+      "last_id": "2111577993311117630",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-15T19:57:20.000Z",
-          "id": "2110822350329671828",
-          "reply_to_id": "2095511345902858361",
-          "text": "87k* oops"
-        },
         {
           "created_at": "2026-10-15T20:22:44.000Z",
           "id": "2110828743505674266",
@@ -4606,10 +4609,14 @@
           "created_at": "2026-10-17T19:35:29.000Z",
           "id": "2111541630171791392",
           "text": "Anyone have box tickets for OSU v Michigan willing to pay $$$"
+        },
+        {
+          "created_at": "2026-10-17T21:59:59.000Z",
+          "id": "2111577993311117630",
+          "text": "Admin didn't even try and save market this weekend. \n\nHope everyone listened and has plenty of cash!"
         }
       ],
       "reads": {
-        "2110822350329671828": "No call",
         "2110828743505674266": "No call: bullish on crypto market (55%, too unsure)",
         "2110828898267140430": "Read together with the post it replies to",
         "2110838124645622210": "No call: bearish on stocks/macro (60%, too unsure)",
@@ -4628,7 +4635,8 @@
         "2111173105548931476": "No call: maybe exit  (60%, too unsure); bearish on stocks/macro (same view as before)",
         "2111179389362937999": "No call: bearish on stocks/macro (same view as before)",
         "2111211900990054557": "No call",
-        "2111541630171791392": "No call"
+        "2111541630171791392": "No call",
+        "2111577993311117630": "VIEW bearish on crypto market"
       },
       "replies": [
         {
@@ -5059,6 +5067,12 @@
         "2111541630171791392": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111577993311117630": {
+          "alerted": [
+            "bias:crypto market:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5073,7 +5087,6 @@
         "2110411948982460824": true,
         "2110572720375181652": false,
         "2110757594923200856": false,
-        "2110822350329671828": true,
         "2110828743505674266": true,
         "2110828898267140430": true,
         "2110832817840259528": false,
@@ -5096,7 +5109,8 @@
         "2111183217843679578": false,
         "2111211900990054557": false,
         "2111505410444411366": true,
-        "2111541630171791392": false
+        "2111541630171791392": false,
+        "2111577993311117630": true
       },
       "user_id": "809191427645181952"
     }
@@ -5112,5 +5126,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T21:50:18+00:00"
+  "updated_at": "2026-10-17T22:00:26+00:00"
 }
