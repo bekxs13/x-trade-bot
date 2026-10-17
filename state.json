@@ -46,7 +46,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2111366593343373684",
+      "last_id": "2111530353236263050",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -82,11 +82,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-16T18:28:35.000Z",
-          "id": "2111162402892869745",
-          "text": "Sentiment stage 2 months ago: Leopold structured a book with a 99.8% chance of zeroing, zeroed it, then raised more money immediately"
-        },
         {
           "created_at": "2026-10-16T19:20:40.000Z",
           "id": "2111175510852305037",
@@ -197,10 +192,14 @@
           "id": "2111366593343373684",
           "reply_to_id": "2111366152803021027",
           "text": "I got bitcoin pulled from antonopolous on JRE in high school"
+        },
+        {
+          "created_at": "2026-10-17T18:50:41.000Z",
+          "id": "2111530353236263050",
+          "text": "@based16z x account is not good. Maybe back in the day, but I don't learn anything from it. I'm confused why people are so obsessed with it still"
         }
       ],
       "reads": {
-        "2111162402892869745": "No call",
         "2111175510852305037": "No call",
         "2111176331354599769": "No call: bearish on SOXX (55%, too unsure)",
         "2111197195013898412": "No call",
@@ -219,7 +218,8 @@
         "2111335626083848495": "No call",
         "2111349005028647041": "No call",
         "2111366152803021027": "No call",
-        "2111366593343373684": "Read together with the post it replies to"
+        "2111366593343373684": "Read together with the post it replies to",
+        "2111530353236263050": "No call"
       },
       "replies": [
         {
@@ -721,10 +721,13 @@
         "2111366152803021027": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2111530353236263050": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111162402892869745": true,
         "2111175510852305037": true,
         "2111176331354599769": true,
         "2111197195013898412": false,
@@ -758,7 +761,8 @@
         "2111349005028647041": false,
         "2111358529252823416": false,
         "2111366152803021027": false,
-        "2111366593343373684": false
+        "2111366593343373684": false,
+        "2111530353236263050": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5116,5 +5120,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T18:18:21+00:00"
+  "updated_at": "2026-10-17T18:52:21+00:00"
 }
