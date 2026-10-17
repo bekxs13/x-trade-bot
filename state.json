@@ -4498,6 +4498,15 @@
           "stance": "bearish",
           "updated_at": "2026-10-17T21:59:59.000Z"
         },
+        "mu": {
+          "market": "stocks",
+          "post_id": "2111579791379820967",
+          "reason": "Celebrates MU being dumped on Hyperliquid over the weekend ('they're so nervous'), consistent with the author's bearish stocks view and the 'plenty of cash' post.",
+          "scope": "MU",
+          "since": "2026-10-17",
+          "stance": "bearish",
+          "updated_at": "2026-10-17T22:07:08.000Z"
+        },
         "stocks/macro": {
           "market": "stocks",
           "post_id": "2111179389362937999",
@@ -4510,14 +4519,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111577993311117630",
+      "last_id": "2111579791379820967",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-15T20:22:44.000Z",
-          "id": "2110828743505674266",
-          "text": "Feel like equities are just far more interesting to trade and have been for quite some time. \n\nCan probably just park some small % of port in HYPE/BTC and outperform most active crypto traders while focusing on the blowout Anthropic IPO//Equities potential top"
-        },
         {
           "created_at": "2026-10-15T20:23:21.000Z",
           "id": "2110828898267140430",
@@ -4614,10 +4618,17 @@
           "created_at": "2026-10-17T21:59:59.000Z",
           "id": "2111577993311117630",
           "text": "Admin didn't even try and save market this weekend. \n\nHope everyone listened and has plenty of cash!"
+        },
+        {
+          "created_at": "2026-10-17T22:07:08.000Z",
+          "id": "2111579791379820967",
+          "images": [
+            "https://pbs.twimg.com/media/HU3Wl_dWkAIbZGg.jpg"
+          ],
+          "text": "They're so nervous they're raping it on the weekend\n\nHyperliquid https://t.co/Llm5KTnysB"
         }
       ],
       "reads": {
-        "2110828743505674266": "No call: bullish on crypto market (55%, too unsure)",
         "2110828898267140430": "Read together with the post it replies to",
         "2110838124645622210": "No call: bearish on stocks/macro (60%, too unsure)",
         "2110846742430408938": "No call",
@@ -4636,7 +4647,8 @@
         "2111179389362937999": "No call: bearish on stocks/macro (same view as before)",
         "2111211900990054557": "No call",
         "2111541630171791392": "No call",
-        "2111577993311117630": "VIEW bearish on crypto market"
+        "2111577993311117630": "VIEW bearish on crypto market",
+        "2111579791379820967": "VIEW bearish on MU"
       },
       "replies": [
         {
@@ -5073,6 +5085,12 @@
             "bias:crypto market:bearish"
           ],
           "self_replies": 0
+        },
+        "2111579791379820967": {
+          "alerted": [
+            "bias:mu:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5087,7 +5105,6 @@
         "2110411948982460824": true,
         "2110572720375181652": false,
         "2110757594923200856": false,
-        "2110828743505674266": true,
         "2110828898267140430": true,
         "2110832817840259528": false,
         "2110838124645622210": true,
@@ -5110,7 +5127,8 @@
         "2111211900990054557": false,
         "2111505410444411366": true,
         "2111541630171791392": false,
-        "2111577993311117630": true
+        "2111577993311117630": true,
+        "2111579791379820967": true
       },
       "user_id": "809191427645181952"
     }
@@ -5126,5 +5144,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T22:00:26+00:00"
+  "updated_at": "2026-10-17T22:08:23+00:00"
 }
