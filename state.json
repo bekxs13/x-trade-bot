@@ -4496,7 +4496,7 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111211900990054557",
+      "last_id": "2111505410444411366",
       "positions": {},
       "posts": [
         {
@@ -4630,11 +4630,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-09-30T19:55:37.000Z",
-          "id": "2105386100391084082",
-          "text": "@Evan_ss6 I'll be asking for an update in a few months"
-        },
-        {
           "created_at": "2026-09-30T21:54:13.000Z",
           "id": "2105415950094762065",
           "text": "@econoar Will be requesting an update on a few months"
@@ -4712,6 +4707,12 @@
           "id": "2111183217843679578",
           "reply_to_id": "2110371075095970021",
           "text": "@_ozalyn update?"
+        },
+        {
+          "created_at": "2026-10-17T17:11:34.000Z",
+          "id": "2111505410444411366",
+          "reply_to_id": "2111212268801478808",
+          "text": "@masayoshisson End of year revenue &gt; $20B the entity should probably go public if it raised venture capital"
         }
       ],
       "threads": {
@@ -5055,7 +5056,6 @@
         }
       },
       "trading": {
-        "2105386100391084082": false,
         "2105415950094762065": false,
         "2106072786095722791": true,
         "2106084747008967039": true,
@@ -5089,7 +5089,8 @@
         "2111173105548931476": true,
         "2111179389362937999": true,
         "2111183217843679578": false,
-        "2111211900990054557": false
+        "2111211900990054557": false,
+        "2111505410444411366": true
       },
       "user_id": "809191427645181952"
     }
@@ -5105,5 +5106,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T16:46:24+00:00"
+  "updated_at": "2026-10-17T17:12:14+00:00"
 }
