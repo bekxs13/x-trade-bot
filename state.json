@@ -3249,7 +3249,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2111475796993015853",
+      "last_id": "2111488821913157836",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3269,12 +3269,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T20:07:21.000Z",
-          "id": "2110462485312725189",
-          "reply_to_id": "2110462447995826535",
-          "text": "@CryptoEthan @chumbawamba22 are you happy now?"
-        },
         {
           "created_at": "2026-10-14T22:47:09.000Z",
           "id": "2110502700999942172",
@@ -3391,6 +3385,12 @@
           ],
           "quoted_text": "My full conversation with @based16z \n\n0:19 the Hyperliquid call\n5:01 almost losing his $HYPE airdrop\n8:27 life after life changing money\n10:12 dating a billionaire's daughter\n14:37 from online poker to Crypto\n16:40 two trades made his year\n20:56 the Snapchat trade\n27:43 Sydney Sweeney $AEO trade\n31:14 posters move markets\n41:42 loot and rob\n44:23 advice for a 20 year old\n47:23 math lore\n51:49 why he has no social media",
           "text": "https://t.co/JWSY9U8XKS https://t.co/gjDfDGcOPQ"
+        },
+        {
+          "created_at": "2026-10-17T16:05:04.000Z",
+          "id": "2111488674076778592",
+          "reply_to_id": "2111488633463259268",
+          "text": "@watchking69 alright fine i\u2019ll buy a watch you got me"
         }
       ],
       "reads": {
@@ -3413,18 +3413,6 @@
         "2111475796993015853": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-16T00:02:57.000Z",
-          "id": "2110884162332922222",
-          "reply_to_id": "2110882026740195698",
-          "text": "@zuqaquz lmao \n\nhe was fun for like 2 days tho"
-        },
-        {
-          "created_at": "2026-10-16T00:21:35.000Z",
-          "id": "2110888853972107324",
-          "reply_to_id": "2110420970033074356",
-          "text": "@Andro915 thanks g"
-        },
         {
           "created_at": "2026-10-16T02:22:27.000Z",
           "id": "2110919267868877156",
@@ -3511,6 +3499,18 @@
           "id": "2111272840942977165",
           "reply_to_id": "2111261796330025449",
           "text": "@lazyvillager1 @Oncha1nd bro how did this go viral"
+        },
+        {
+          "created_at": "2026-10-17T16:04:54.000Z",
+          "id": "2111488633463259268",
+          "reply_to_id": "2111486341238116396",
+          "text": "@watchking69 thanks man"
+        },
+        {
+          "created_at": "2026-10-17T16:05:39.000Z",
+          "id": "2111488821913157836",
+          "reply_to_id": "2111265661636739304",
+          "text": "@rizzorbust they can\u2019t be that bad bruh"
         }
       ],
       "threads": {
@@ -3687,7 +3687,6 @@
         }
       },
       "trading": {
-        "2110462485312725189": false,
         "2110502700999942172": true,
         "2110502707383668934": false,
         "2110505577793114242": false,
@@ -3703,8 +3702,6 @@
         "2110862135320588461": false,
         "2110868916113473793": true,
         "2110870996337230266": true,
-        "2110884162332922222": false,
-        "2110888853972107324": false,
         "2110900288483651945": false,
         "2110919267868877156": false,
         "2111053160043491618": false,
@@ -3721,7 +3718,10 @@
         "2111230114143011277": false,
         "2111232302634471844": false,
         "2111272840942977165": false,
-        "2111475796993015853": true
+        "2111475796993015853": true,
+        "2111488633463259268": false,
+        "2111488674076778592": false,
+        "2111488821913157836": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5106,5 +5106,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T15:42:16+00:00"
+  "updated_at": "2026-10-17T16:06:21+00:00"
 }
