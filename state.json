@@ -46,7 +46,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2111272349823812068",
+      "last_id": "2111301160590320118",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -225,12 +225,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T02:53:51.000Z",
-          "id": "2110927173376999544",
-          "reply_to_id": "2110906333793005572",
-          "text": "@btc__gabriel What\u2019s ur guess"
-        },
-        {
           "created_at": "2026-10-16T03:52:37.000Z",
           "id": "2110941962203447803",
           "reply_to_id": "2110941163809034506",
@@ -313,6 +307,12 @@
           "id": "2111272349823812068",
           "reply_to_id": "2111269641775649202",
           "text": "@CathPoaster It\u2019s crazy to think of a partiful as some sort of corporate motivation as opposed to like how many girls on the list vibe"
+        },
+        {
+          "created_at": "2026-10-17T03:39:57.000Z",
+          "id": "2111301160590320118",
+          "reply_to_id": "2111301039865684408",
+          "text": "@izebel_eth Got liquidated so don\u2019t fuck with it anymore actually sorry"
         }
       ],
       "threads": {
@@ -691,7 +691,6 @@
         "2110790768806027598": true,
         "2110840522822832236": true,
         "2110892018490863686": false,
-        "2110927173376999544": false,
         "2110941962203447803": false,
         "2110948088773063060": false,
         "2110966788494381488": false,
@@ -720,7 +719,8 @@
         "2111250412066001099": true,
         "2111262954158997847": false,
         "2111269540294537652": true,
-        "2111272349823812068": false
+        "2111272349823812068": false,
+        "2111301160590320118": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5071,5 +5071,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-17T02:58:19+00:00"
+  "updated_at": "2026-10-17T03:40:20+00:00"
 }
