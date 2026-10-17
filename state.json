@@ -2290,7 +2290,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111179770440630344",
+      "last_id": "2111290289453498535",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2614,12 +2614,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T10:59:35.000Z",
-          "id": "2111049410021138858",
-          "reply_to_id": "2111047532868743247",
-          "text": "tech that shouldnt be forced to compete against non-blockchain sectors / tech where crypto actually makes sense as in it has real moat against \"web2\"\n\nprivacy-enabled tech, rwas, single SoT trading layer, single SoT data layer, ai-resistant public ledger & compute\n\ntech that is product-first and tech-second, as in built to solve a market gap rather than built for the sake of being built"
-        },
-        {
           "created_at": "2026-10-16T11:16:52.000Z",
           "id": "2111053758948168091",
           "reply_to_id": "2111048187696009272",
@@ -2707,6 +2701,12 @@
           "id": "2111179770440630344",
           "reply_to_id": "2111172170491769338",
           "text": "@RichardStrocher ?"
+        },
+        {
+          "created_at": "2026-10-17T02:56:45.000Z",
+          "id": "2111290289453498535",
+          "reply_to_id": "2111289747457077522",
+          "text": "@John2024Mo53628 https://t.co/uxWwlwUpyB"
         }
       ],
       "threads": {
@@ -3177,7 +3177,6 @@
         "2111024457200566379": true,
         "2111040774209159407": true,
         "2111044235860541566": true,
-        "2111049410021138858": true,
         "2111053758948168091": true,
         "2111055132083568796": true,
         "2111056459811410137": true,
@@ -3200,7 +3199,8 @@
         "2111171642449867008": true,
         "2111174650604773834": true,
         "2111179586835005866": true,
-        "2111179770440630344": false
+        "2111179770440630344": false,
+        "2111290289453498535": false
       },
       "user_id": "1653080265294757890"
     },
@@ -5071,5 +5071,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-17T02:50:17+00:00"
+  "updated_at": "2026-10-17T02:58:19+00:00"
 }
