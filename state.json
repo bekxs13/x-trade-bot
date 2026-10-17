@@ -46,7 +46,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2111324989970600088",
+      "last_id": "2111325657942876270",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -82,12 +82,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T21:09:32.000Z",
-          "id": "2110840522822832236",
-          "reply_to_id": "2110840424684470385",
-          "text": "@Credib1eGuy Seems more bullish AI given don\u2019t need to pace the frontier (guy who also didn\u2019t read it)"
-        },
         {
           "created_at": "2026-10-16T00:34:10.000Z",
           "id": "2110892018490863686",
@@ -197,6 +191,11 @@
           "created_at": "2026-10-17T04:49:34.000Z",
           "id": "2111318679547990307",
           "text": "https://t.co/ABRBojfe1Y"
+        },
+        {
+          "created_at": "2026-10-17T05:17:18.000Z",
+          "id": "2111325657942876270",
+          "text": "She got good posture"
         }
       ],
       "reads": {
@@ -218,7 +217,8 @@
         "2111269540294537652": "No call",
         "2111317126619525386": "No call",
         "2111317999756206470": "No call",
-        "2111318679547990307": "No call"
+        "2111318679547990307": "No call",
+        "2111325657942876270": "No call"
       },
       "replies": [
         {
@@ -692,10 +692,13 @@
         "2111318679547990307": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111325657942876270": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110840522822832236": true,
         "2110892018490863686": false,
         "2110948088773063060": false,
         "2110966788494381488": false,
@@ -729,7 +732,8 @@
         "2111317126619525386": false,
         "2111317999756206470": false,
         "2111318679547990307": false,
-        "2111324989970600088": false
+        "2111324989970600088": false,
+        "2111325657942876270": false
       },
       "user_id": "1446541960181858315"
     },
@@ -2299,7 +2303,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111322525959631054",
+      "last_id": "2111325378518421936",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2477,12 +2481,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-16T01:39:24.000Z",
-          "id": "2110908437332897804",
-          "quoted_text": "SOLANGELES TRADERS vol.01\n@MoneyPrinter0x latest bets \n\nWatching $STRK as a potential kingmaker, betting on a quantum-safe Layer 1 and the long-term value of censorship-resistant bunker money. He believes one thing: we will win https://t.co/lS5LvRGSAN",
-          "text": "yooooo this is sick \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udd25 https://t.co/D2K07aXzS1"
-        },
-        {
           "created_at": "2026-10-16T05:04:05.000Z",
           "id": "2110959944006771145",
           "images": [
@@ -2599,10 +2597,15 @@
           "created_at": "2026-10-17T04:58:35.000Z",
           "id": "2111320951355039804",
           "text": "feels like when lebron joined the heat\n\nits but a retrace before the next leg up higher\n\nlets focus on continually improving in this new asset class (alts) - sooner or later we'll get as sharp as we are on majors, stocks, onchain\n\nvery grateful for the real ones lately too\n\nMP"
+        },
+        {
+          "created_at": "2026-10-17T05:16:11.000Z",
+          "id": "2111325378518421936",
+          "reply_to_id": "2111320951355039804",
+          "text": "as a community we already dominated macros, majors, stocks, onchain\n\nwe just need to adapt our existing strategies & signals to this most recent sector (alts) \n\ntook us 2-3 months before we had the generational equities run too\n\nand before that 2-3 months before we had the generational metals run & crypto majors run\n\nand before that 2-3 months before we had the generational onchain run\n\nwe will win in this alts sector too. when people least expect it.\n\nvery grateful for everyone who has supported and stayed real lately (i remember every single one of you - thank you.)\n\nthis will be fuel for us to hyperadapt, get sharper and eventually get back to consistent asymmetric winning like we always do.\n\nMP"
         }
       ],
       "reads": {
-        "2110908437332897804": "No call",
         "2110959944006771145": "TRADE LONG INJ",
         "2110977056171516095": "No call",
         "2110986336081703232": "No call",
@@ -2618,7 +2621,8 @@
         "2111171642449867008": "No call",
         "2111174650604773834": "No call",
         "2111179586835005866": "No call",
-        "2111320951355039804": "No call: bullish on alts (same view as before)"
+        "2111320951355039804": "No call: bullish on alts (same view as before)",
+        "2111325378518421936": "No call"
       },
       "replies": [
         {
@@ -3168,11 +3172,10 @@
         },
         "2111320951355039804": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2110908437332897804": true,
         "2110959944006771145": true,
         "2110977056171516095": true,
         "2110986336081703232": false,
@@ -3206,7 +3209,8 @@
         "2111322241422037327": false,
         "2111322363661058175": false,
         "2111322480233038036": false,
-        "2111322525959631054": false
+        "2111322525959631054": false,
+        "2111325378518421936": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5077,5 +5081,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-17T05:16:17+00:00"
+  "updated_at": "2026-10-17T05:18:25+00:00"
 }
