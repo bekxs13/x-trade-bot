@@ -4508,25 +4508,20 @@
           "updated_at": "2026-10-17T22:07:08.000Z"
         },
         "stocks/macro": {
-          "market": "stocks",
-          "post_id": "2111582981420642576",
-          "reason": "\"Everything reminds me of 2022\", topping signals firing, warns dip buyers in QQQ will get eviscerated; matches recorded bearish stocks/macro view. Reposted text of earlier post.",
+          "market": "macro",
+          "post_id": "2111605916680196276",
+          "reason": "Says he is 'being publicly bearish', consistent with his recent market-top posts. This matches his existing bearish view.",
           "scope": "stocks/macro",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-17T22:19:48.000Z"
+          "updated_at": "2026-10-17T23:50:56.000Z"
         }
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111584400148455443",
+      "last_id": "2111605916680196276",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-16T14:13:54.000Z",
-          "id": "2111098312845861289",
-          "text": "Who are the most notorious memecoin bundlers?"
-        },
         {
           "created_at": "2026-10-16T15:17:44.000Z",
           "id": "2111114374412636556",
@@ -4628,10 +4623,14 @@
           ],
           "reply_to_id": "2111582981420642576",
           "text": "Things you see at the bottom https://t.co/hd9Ls4z4oi"
+        },
+        {
+          "created_at": "2026-10-17T23:50:56.000Z",
+          "id": "2111605916680196276",
+          "text": "Don\u2019t think I\u2019ve ever seen people this emotional when I\u2019m being publicly bearish."
         }
       ],
       "reads": {
-        "2111098312845861289": "No call",
         "2111114374412636556": "No call: bearish on stocks/macro (same view as before)",
         "2111115012798296355": "No call",
         "2111116591400468819": "No call",
@@ -4650,7 +4649,8 @@
         "2111582307996082446": "No call: bearish on stocks/macro (same view as before)",
         "2111582981420642576": "No call: bearish on stocks/macro (same view as before)",
         "2111583825256214637": "No call",
-        "2111584400148455443": "No call"
+        "2111584400148455443": "No call",
+        "2111605916680196276": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -5106,6 +5106,10 @@
         "2111583825256214637": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111605916680196276": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5120,7 +5124,6 @@
         "2110572720375181652": false,
         "2110757594923200856": false,
         "2110832817840259528": false,
-        "2111098312845861289": true,
         "2111114374412636556": true,
         "2111115012798296355": true,
         "2111116591400468819": true,
@@ -5143,7 +5146,8 @@
         "2111582307996082446": true,
         "2111582981420642576": true,
         "2111583825256214637": true,
-        "2111584400148455443": true
+        "2111584400148455443": true,
+        "2111605916680196276": true
       },
       "user_id": "809191427645181952"
     }
@@ -5159,5 +5163,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T23:46:15+00:00"
+  "updated_at": "2026-10-17T23:52:18+00:00"
 }
