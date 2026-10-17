@@ -831,7 +831,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2111395326280307036",
+      "last_id": "2111498991141826773",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -867,14 +867,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T06:13:27.000Z",
-          "id": "2110252627799966022",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2110252239143206912/img/zG5iz7r37qA2QFr3.jpg"
-          ],
-          "text": "Market Bubble ep.23: my full conversation\n\non the first major pullback, portfolio strategy, the Coinbase perps showdown and my outlook on BTC, Zcash, Pump and HYPE\n\n0:00 - The first pullback and 70/30 strategy\n5:45 - Coinbase perps showdown and trading lessons\n10:48 - Bitcoin, Zcash and the MemeFi thesis\n18:12 - StarkWare, Pump and SOL targets\n26:48 - HYPE, momentum and taking profits"
-        },
         {
           "created_at": "2026-10-14T09:40:13.000Z",
           "id": "2110304660192117229",
@@ -993,10 +985,15 @@
             "https://pbs.twimg.com/amplify_video_thumb/2111395228389404672/img/SP9FqfKdBO_TOV7W.jpg"
           ],
           "text": "i expect social trading to get a lot bigger as it expands into liquid markets like stocks and perps\n\nwe've already seen how much attention public P&Ls can attract in memecoins, but larger markets make it easier for successful traders to scale their positions and share trades without the same liquidity constraints\n\nonce people start seeing massive P&Ls on stocks like Apple or Amazon, i think the appeal of following and copying skilled traders becomes much broader\n\nthere's a lot more room for social trading to grow beyond memecoins"
+        },
+        {
+          "created_at": "2026-10-17T16:46:03.000Z",
+          "id": "2111498991141826773",
+          "quoted_text": "Based16z says billionaires became targets in a society obsessed with who gets to consume more\n\n\u201c\u2018Eat the rich\u2019 politics, antisemitism, nationalism and pro-communism are classic historical responses to a more volatile society. These reactions are not new, and they are probably making things worse.\u201d\n\n\u201cToday, we have attached almost every moral judgment to money and online status.\u201d\n\n\u201cSomeone who makes a lot of money on a trade can convince themselves that everything they say is true. At the same ti",
+          "text": "bro was spitting bars https://t.co/IM6EBJGXrj"
         }
       ],
       "reads": {
-        "2110252627799966022": "No call",
         "2110304660192117229": "No call",
         "2110318790793642277": "No call",
         "2110326122655404263": "No call",
@@ -1015,7 +1012,8 @@
         "2111175987350417649": "No call",
         "2111217534485877165": "No call",
         "2111218532104929684": "No call",
-        "2111395326280307036": "No call"
+        "2111395326280307036": "No call",
+        "2111498991141826773": "No call"
       },
       "replies": [
         {
@@ -1471,10 +1469,13 @@
         "2111395326280307036": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111498991141826773": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110252627799966022": true,
         "2110304660192117229": true,
         "2110318790793642277": true,
         "2110326122655404263": false,
@@ -1508,7 +1509,8 @@
         "2111192626690957681": false,
         "2111217534485877165": true,
         "2111218532104929684": true,
-        "2111395326280307036": true
+        "2111395326280307036": true,
+        "2111498991141826773": false
       },
       "user_id": "973261472"
     },
@@ -3249,7 +3251,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2111496920443044207",
+      "last_id": "2111498591315624445",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3414,12 +3416,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T11:16:43.000Z",
-          "id": "2111053723505954873",
-          "reply_to_id": "2110971148636672025",
-          "text": "@FredWick7 @based16z fuck yeah"
-        },
-        {
           "created_at": "2026-10-16T12:10:14.000Z",
           "id": "2111067190250074568",
           "reply_to_id": "2111032843975692483",
@@ -3508,6 +3504,12 @@
           "id": "2111496920443044207",
           "reply_to_id": "2111496146984296650",
           "text": "@Jason______A @watchking69 time to come on the show!"
+        },
+        {
+          "created_at": "2026-10-17T16:44:28.000Z",
+          "id": "2111498591315624445",
+          "reply_to_id": "2111498286636974301",
+          "text": "@stogolp \ud83e\udeea"
         }
       ],
       "threads": {
@@ -3700,7 +3702,6 @@
         "2110868916113473793": true,
         "2110870996337230266": true,
         "2110900288483651945": false,
-        "2111053723505954873": false,
         "2111067190250074568": false,
         "2111074640328262026": true,
         "2111092449980596379": false,
@@ -3718,7 +3719,8 @@
         "2111488674076778592": false,
         "2111488821913157836": false,
         "2111489130253144494": false,
-        "2111496920443044207": false
+        "2111496920443044207": false,
+        "2111498591315624445": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5103,5 +5105,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T16:38:21+00:00"
+  "updated_at": "2026-10-17T16:46:24+00:00"
 }
