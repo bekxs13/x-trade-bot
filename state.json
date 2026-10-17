@@ -4519,7 +4519,7 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111579791379820967",
+      "last_id": "2111581235793588319",
       "positions": {},
       "posts": [
         {
@@ -4652,11 +4652,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-09-30T21:54:13.000Z",
-          "id": "2105415950094762065",
-          "text": "@econoar Will be requesting an update on a few months"
-        },
-        {
           "created_at": "2026-10-02T17:24:15.000Z",
           "id": "2106072786095722791",
           "text": "@GodelTerminal @Hyperliquid Proud investor in Godel"
@@ -4735,6 +4730,12 @@
           "id": "2111505410444411366",
           "reply_to_id": "2111212268801478808",
           "text": "@masayoshisson End of year revenue &gt; $20B the entity should probably go public if it raised venture capital"
+        },
+        {
+          "created_at": "2026-10-17T22:12:52.000Z",
+          "id": "2111581235793588319",
+          "reply_to_id": "2111578632980431235",
+          "text": "@itsXGTE3X I derisked a few thousand points higher, I don't really think BTC is going to be a comfy hold if equities trade -10%. \n\nDefinitely will get omegarekt if equities -30%. I think 50k sweep guarenteed in that scenario."
         }
       ],
       "threads": {
@@ -5094,7 +5095,6 @@
         }
       },
       "trading": {
-        "2105415950094762065": false,
         "2106072786095722791": true,
         "2106084747008967039": true,
         "2107894568507085235": false,
@@ -5128,7 +5128,8 @@
         "2111505410444411366": true,
         "2111541630171791392": false,
         "2111577993311117630": true,
-        "2111579791379820967": true
+        "2111579791379820967": true,
+        "2111581235793588319": true
       },
       "user_id": "809191427645181952"
     }
@@ -5144,5 +5145,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T22:08:23+00:00"
+  "updated_at": "2026-10-17T22:14:18+00:00"
 }
