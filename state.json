@@ -4516,14 +4516,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111583825256214637",
+      "last_id": "2111584400148455443",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-16T13:54:03.000Z",
-          "id": "2111093318365196739",
-          "text": "25 sitting on 25 mill"
-        },
         {
           "created_at": "2026-10-16T14:13:54.000Z",
           "id": "2111098312845861289",
@@ -4621,10 +4616,18 @@
           "created_at": "2026-10-17T22:23:09.000Z",
           "id": "2111583825256214637",
           "text": "I love finance because no matter what you think about me you can't deny the PnL.\n\nHave a nice weekend everyone."
+        },
+        {
+          "created_at": "2026-10-17T22:25:26.000Z",
+          "id": "2111584400148455443",
+          "images": [
+            "https://pbs.twimg.com/media/HU3azr_XcAAo0fU.jpg"
+          ],
+          "reply_to_id": "2111582981420642576",
+          "text": "Things you see at the bottom https://t.co/hd9Ls4z4oi"
         }
       ],
       "reads": {
-        "2111093318365196739": "No call",
         "2111098312845861289": "No call",
         "2111114374412636556": "No call: bearish on stocks/macro (same view as before)",
         "2111115012798296355": "No call",
@@ -4643,7 +4646,8 @@
         "2111579791379820967": "VIEW bearish on MU",
         "2111582307996082446": "No call: bearish on stocks/macro (same view as before)",
         "2111582981420642576": "No call: bearish on stocks/macro (same view as before)",
-        "2111583825256214637": "No call"
+        "2111583825256214637": "No call",
+        "2111584400148455443": "No call"
       },
       "replies": [
         {
@@ -5094,7 +5098,7 @@
         },
         "2111582981420642576": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2111583825256214637": {
           "alerted": [],
@@ -5113,7 +5117,6 @@
         "2110572720375181652": false,
         "2110757594923200856": false,
         "2110832817840259528": false,
-        "2111093318365196739": false,
         "2111098312845861289": true,
         "2111114374412636556": true,
         "2111115012798296355": true,
@@ -5136,7 +5139,8 @@
         "2111581235793588319": true,
         "2111582307996082446": true,
         "2111582981420642576": true,
-        "2111583825256214637": true
+        "2111583825256214637": true,
+        "2111584400148455443": true
       },
       "user_id": "809191427645181952"
     }
@@ -5152,5 +5156,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T22:24:22+00:00"
+  "updated_at": "2026-10-17T22:26:22+00:00"
 }
