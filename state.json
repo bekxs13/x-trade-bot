@@ -3249,7 +3249,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2111272840942977165",
+      "last_id": "2111475796993015853",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3269,14 +3269,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T16:21:24.000Z",
-          "id": "2110405623711953046",
-          "images": [
-            "https://pbs.twimg.com/media/HUmquqbXgAAOCGV.jpg"
-          ],
-          "text": "THE BASED16Z INTERVIEW. TOMORROW. 230PM EST.\n\nLIVE ON ALL PLATFORMS. https://t.co/EpM6YAAj69"
-        },
         {
           "created_at": "2026-10-14T20:07:21.000Z",
           "id": "2110462485312725189",
@@ -3390,10 +3382,18 @@
           "id": "2111180317218455782",
           "reply_to_id": "2111179505331290411",
           "text": "@ThinkingUSD @SoskaKyle peter borish"
+        },
+        {
+          "created_at": "2026-10-17T15:13:53.000Z",
+          "id": "2111475796993015853",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2111475758883315713/img/lTuKhvsew9zi2X6H.jpg"
+          ],
+          "quoted_text": "My full conversation with @based16z \n\n0:19 the Hyperliquid call\n5:01 almost losing his $HYPE airdrop\n8:27 life after life changing money\n10:12 dating a billionaire's daughter\n14:37 from online poker to Crypto\n16:40 two trades made his year\n20:56 the Snapchat trade\n27:43 Sydney Sweeney $AEO trade\n31:14 posters move markets\n41:42 loot and rob\n44:23 advice for a 20 year old\n47:23 math lore\n51:49 why he has no social media",
+          "text": "https://t.co/JWSY9U8XKS https://t.co/gjDfDGcOPQ"
         }
       ],
       "reads": {
-        "2110405623711953046": "No call",
         "2110502700999942172": "No call",
         "2110502707383668934": "Read together with the post it replies to",
         "2110693154429214765": "No call",
@@ -3409,7 +3409,8 @@
         "2110868916113473793": "No call",
         "2110870996337230266": "No call",
         "2110900288483651945": "No call",
-        "2111074640328262026": "No call"
+        "2111074640328262026": "No call",
+        "2111475796993015853": "No call"
       },
       "replies": [
         {
@@ -3679,10 +3680,13 @@
         "2111074640328262026": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111475796993015853": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110405623711953046": false,
         "2110462485312725189": false,
         "2110502700999942172": true,
         "2110502707383668934": false,
@@ -3716,7 +3720,8 @@
         "2111204586585235764": false,
         "2111230114143011277": false,
         "2111232302634471844": false,
-        "2111272840942977165": false
+        "2111272840942977165": false,
+        "2111475796993015853": true
       },
       "user_id": "1426732252768182281"
     },
@@ -5101,5 +5106,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T15:02:17+00:00"
+  "updated_at": "2026-10-17T15:14:24+00:00"
 }
