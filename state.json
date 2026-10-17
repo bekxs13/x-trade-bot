@@ -785,12 +785,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2109928752092500155",
-          "reason": "Calls the dip on majors a slight pullback that \"has not broken market structure\" and tells followers to \"remove the bear psychosis\", which is bullish on the broad crypto market.",
+          "post_id": "2111521940255219755",
+          "reason": "Says he is 'leaning toward a more aggressive bull market than most people are expecting' with institutional flows into BTC and onchain businesses, matching his recorded bullish crypto market view.",
           "scope": "crypto market",
           "since": "2026-10-13",
           "stance": "bullish",
-          "updated_at": "2026-10-13T08:46:29.000Z"
+          "updated_at": "2026-10-17T18:17:15.000Z"
         },
         "memecoins": {
           "market": "crypto",
@@ -831,7 +831,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2111518293396009334",
+      "last_id": "2111521940255219755",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -867,12 +867,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T10:36:22.000Z",
-          "id": "2110318790793642277",
-          "quoted_text": "hyperliquid is killing the idea of a \"crypto trader\" imo\n\nif i can trade btc, hype, nvidia, gold and whatever comes next from the same venue, im not really just trading crypto anymore\n\nim trading markets and i think thats increasingly how people will behave\n\nfollow the hot ball of money, the destination stays the same",
-          "text": "correct, there will be traders, and there will be content creators, & then there will be people who are good at both\n\nbelieve the combination will accrue an immense amount of value in a world where everyone can trade any asset immediately on their phones, & everyone wants to learn"
-        },
         {
           "created_at": "2026-10-14T11:05:30.000Z",
           "id": "2110326122655404263",
@@ -991,10 +985,17 @@
           "id": "2111518293396009334",
           "quoted_text": "MacBook niggas always working on some shit in public , you don\u2019t see a nigga with an Alienware with it outside",
           "text": "lol https://t.co/rcP6c6vDV6"
+        },
+        {
+          "created_at": "2026-10-17T18:17:15.000Z",
+          "id": "2111521940255219755",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2111521716942090240/img/PoWDXhS7TIuH4_Hk.jpg"
+          ],
+          "text": "i'm leaning toward a more aggressive bull market than most people are expecting\n\na lot of crypto natives were waiting for the usual four-year cycle to play out, but the market may be getting driven by a different group of buyers this time\n\ntraditional finance is starting to treat BTC as a long-term portfolio allocation, while profitable crypto businesses are attracting attention beyond the usual crypto crowd\n\nif institutional capital keeps flowing into both BTC and onchain businesses, i think there's room for this cycle to surprise people on the upside"
         }
       ],
       "reads": {
-        "2110318790793642277": "No call",
         "2110326122655404263": "No call",
         "2110327073961119900": "No call",
         "2110764707640689050": "No call",
@@ -1013,7 +1014,8 @@
         "2111218532104929684": "No call",
         "2111395326280307036": "No call",
         "2111498991141826773": "No call",
-        "2111518293396009334": "No call"
+        "2111518293396009334": "No call",
+        "2111521940255219755": "No call: bullish on crypto market (same view as before)"
       },
       "replies": [
         {
@@ -1477,10 +1479,13 @@
         "2111518293396009334": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111521940255219755": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110318790793642277": true,
         "2110326122655404263": false,
         "2110327073961119900": true,
         "2110764707640689050": true,
@@ -1514,7 +1519,8 @@
         "2111218532104929684": true,
         "2111395326280307036": true,
         "2111498991141826773": false,
-        "2111518293396009334": false
+        "2111518293396009334": false,
+        "2111521940255219755": true
       },
       "user_id": "973261472"
     },
@@ -5110,5 +5116,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T18:04:23+00:00"
+  "updated_at": "2026-10-17T18:18:21+00:00"
 }
