@@ -3259,7 +3259,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2111575066827694312",
+      "last_id": "2111582865234231388",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3424,15 +3424,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T21:16:12.000Z",
-          "id": "2111204586585235764",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2110487002378567680/img/0guX8aAZNMA6z1E7.jpg"
-          ],
-          "reply_to_id": "2111204133298724965",
-          "text": "@udiWertheimer @art_pleb @mert i had some smart people on and called everyone retarded it was great  https://t.co/XBYYKwh3O2"
-        },
-        {
           "created_at": "2026-10-16T22:57:38.000Z",
           "id": "2111230114143011277",
           "reply_to_id": "2111221602964918329",
@@ -3515,6 +3506,12 @@
           "id": "2111575066827694312",
           "reply_to_id": "2111573359364284852",
           "text": "@Credib1eGuy @Evan_ss6 jumping into a reply thread unprompted to glaze another man about how much money maybe has?"
+        },
+        {
+          "created_at": "2026-10-17T22:19:21.000Z",
+          "id": "2111582865234231388",
+          "reply_to_id": "2111580850630361572",
+          "text": "@SoskaKyle @based16z unc"
         }
       ],
       "threads": {
@@ -3709,7 +3706,6 @@
         "2110900288483651945": false,
         "2111074640328262026": true,
         "2111180317218455782": false,
-        "2111204586585235764": false,
         "2111230114143011277": false,
         "2111232302634471844": false,
         "2111272840942977165": false,
@@ -3725,7 +3721,8 @@
         "2111569279988740297": false,
         "2111570480586957309": true,
         "2111574825680461941": false,
-        "2111575066827694312": false
+        "2111575066827694312": false,
+        "2111582865234231388": false
       },
       "user_id": "1426732252768182281"
     },
@@ -4509,25 +4506,19 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2111582307996082446",
-          "reason": "Says markets are topping like 2022 and the same signals are firing, warns that dip buyers of QQQ will get eviscerated, and tells readers to hold cash. Matches the recorded bearish stocks/macro view.",
+          "post_id": "2111582981420642576",
+          "reason": "\"Everything reminds me of 2022\", topping signals firing, warns dip buyers in QQQ will get eviscerated; matches recorded bearish stocks/macro view. Reposted text of earlier post.",
           "scope": "stocks/macro",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-17T22:17:08.000Z"
+          "updated_at": "2026-10-17T22:19:48.000Z"
         }
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111582307996082446",
+      "last_id": "2111582981420642576",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-15T21:00:01.000Z",
-          "id": "2110838124645622210",
-          "quoted_text": "*ANTHROPIC INVESTORS WEIGH LOWER IPO VALUATION OF ~$1.5T VS EARLIER $2T: SOURCES\n\n*SOME ANTHROPIC INVESTORS DISAPPOINTED BY SEQUENTIAL GROWTH DECELERATION: SOURCES",
-          "text": "\ud83d\ude0e\ud83d\udc4d https://t.co/nBwodl9Oz9"
-        },
         {
           "created_at": "2026-10-15T21:34:15.000Z",
           "id": "2110846742430408938",
@@ -4625,10 +4616,14 @@
           "created_at": "2026-10-17T22:17:08.000Z",
           "id": "2111582307996082446",
           "text": "Everything reminds me of 2022.\n\nWhenever I think the markets topping, I start noting some signals down.\n\nThe same signals are firing.\n\nThere's two many things:\n\nInsane funding rounds, and complacency about rates.\n\nMany people are going to get eviscerated buying the first few dips because they've made so much money and been conditioned just autobid any -2% QQQ move.\n\nJust remember, treasury bills are like your health bar, without cash you have no options."
+        },
+        {
+          "created_at": "2026-10-17T22:19:48.000Z",
+          "id": "2111582981420642576",
+          "text": "Everything reminds me of 2022.\n\nWhenever I think the markets topping, I start noting some signals down.\n\nThe same signals are firing.\n\nThere's two main things:\n\nInsane funding rounds, and complacency about rates.\n\nMany people are going to get eviscerated buying the first few dips because they've made so much money and been conditioned just autobid any -2% QQQ move.\n\nJust remember, treasury bills are like your health bar, without cash you have no options."
         }
       ],
       "reads": {
-        "2110838124645622210": "No call: bearish on stocks/macro (60%, too unsure)",
         "2110846742430408938": "No call",
         "2111093318365196739": "No call",
         "2111098312845861289": "No call",
@@ -4647,7 +4642,8 @@
         "2111541630171791392": "No call",
         "2111577993311117630": "VIEW bearish on crypto market",
         "2111579791379820967": "VIEW bearish on MU",
-        "2111582307996082446": "No call: bearish on stocks/macro (same view as before)"
+        "2111582307996082446": "No call: bearish on stocks/macro (same view as before)",
+        "2111582981420642576": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -5095,6 +5091,10 @@
         "2111582307996082446": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111582981420642576": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5109,7 +5109,6 @@
         "2110572720375181652": false,
         "2110757594923200856": false,
         "2110832817840259528": false,
-        "2110838124645622210": true,
         "2110846742430408938": false,
         "2111093318365196739": false,
         "2111098312845861289": true,
@@ -5132,7 +5131,8 @@
         "2111577993311117630": true,
         "2111579791379820967": true,
         "2111581235793588319": true,
-        "2111582307996082446": true
+        "2111582307996082446": true,
+        "2111582981420642576": true
       },
       "user_id": "809191427645181952"
     }
@@ -5148,5 +5148,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T22:18:23+00:00"
+  "updated_at": "2026-10-17T22:20:24+00:00"
 }
