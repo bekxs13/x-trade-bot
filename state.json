@@ -4510,17 +4510,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111505410444411366",
+      "last_id": "2111541630171791392",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-15T18:32:07.000Z",
-          "id": "2110800906669453697",
-          "images": [
-            "https://pbs.twimg.com/media/HUsSG65XwAA0Sm7.jpg"
-          ],
-          "text": "I'm 75 bid, more! more!\n\nTELL THEM THERE'S MORE BEHIND IT https://t.co/Y0UewHwDIK"
-        },
         {
           "created_at": "2026-10-15T19:57:20.000Z",
           "id": "2110822350329671828",
@@ -4618,10 +4610,14 @@
           "created_at": "2026-10-16T21:45:16.000Z",
           "id": "2111211900990054557",
           "text": "I think what we'll learn from this entire thing is that over a certain amount of revenue companies should be forced to go public."
+        },
+        {
+          "created_at": "2026-10-17T19:35:29.000Z",
+          "id": "2111541630171791392",
+          "text": "Anyone have box tickets for OSU v Michigan willing to pay $$$"
         }
       ],
       "reads": {
-        "2110800906669453697": "No call",
         "2110822350329671828": "No call",
         "2110828743505674266": "No call: bullish on crypto market (55%, too unsure)",
         "2110828898267140430": "Read together with the post it replies to",
@@ -4640,7 +4636,8 @@
         "2111172044972757120": "No call",
         "2111173105548931476": "No call: maybe exit  (60%, too unsure); bearish on stocks/macro (same view as before)",
         "2111179389362937999": "No call: bearish on stocks/macro (same view as before)",
-        "2111211900990054557": "No call"
+        "2111211900990054557": "No call",
+        "2111541630171791392": "No call"
       },
       "replies": [
         {
@@ -5067,6 +5064,10 @@
         "2111211900990054557": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111541630171791392": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5081,7 +5082,6 @@
         "2110411948982460824": true,
         "2110572720375181652": false,
         "2110757594923200856": false,
-        "2110800906669453697": true,
         "2110822350329671828": true,
         "2110828743505674266": true,
         "2110828898267140430": true,
@@ -5104,7 +5104,8 @@
         "2111179389362937999": true,
         "2111183217843679578": false,
         "2111211900990054557": false,
-        "2111505410444411366": true
+        "2111505410444411366": true,
+        "2111541630171791392": false
       },
       "user_id": "809191427645181952"
     }
@@ -5120,5 +5121,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T19:24:18+00:00"
+  "updated_at": "2026-10-17T19:36:21+00:00"
 }
