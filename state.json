@@ -46,7 +46,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2111531587439673707",
+      "last_id": "2111566421121802330",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -223,12 +223,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T23:28:04.000Z",
-          "id": "2111237772480585906",
-          "reply_to_id": "2111236390763856067",
-          "text": "@0xMentalIllness I mean we\u2019ve had all the obvious reasons to top for 12 months and a bunch of processes keep getting more area under the curve (oil yields etc) so would make sense at some pt to just be climactic"
-        },
-        {
           "created_at": "2026-10-16T23:28:33.000Z",
           "id": "2111237894077899184",
           "reply_to_id": "2111174876987875604",
@@ -311,6 +305,12 @@
           "id": "2111531587439673707",
           "reply_to_id": "2111530968670446034",
           "text": "@immanentizeesch Lmao"
+        },
+        {
+          "created_at": "2026-10-17T21:14:00.000Z",
+          "id": "2111566421121802330",
+          "reply_to_id": "2111547199230500897",
+          "text": "@NickNemo17 They\u2019re lying about the median wage"
         }
       ],
       "threads": {
@@ -731,7 +731,6 @@
         "2111175510852305037": true,
         "2111176331354599769": true,
         "2111197195013898412": false,
-        "2111237772480585906": true,
         "2111237799059788100": true,
         "2111237894077899184": true,
         "2111238856221564984": true,
@@ -762,7 +761,8 @@
         "2111366152803021027": false,
         "2111366593343373684": false,
         "2111530353236263050": false,
-        "2111531587439673707": false
+        "2111531587439673707": false,
+        "2111566421121802330": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5118,5 +5118,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T20:12:21+00:00"
+  "updated_at": "2026-10-17T21:14:20+00:00"
 }
