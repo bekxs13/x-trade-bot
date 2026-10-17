@@ -2322,7 +2322,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111329971717489001",
+      "last_id": "2111343022973608411",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2642,12 +2642,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T16:20:06.000Z",
-          "id": "2111130072090648772",
-          "reply_to_id": "2111129676622028925",
-          "text": "@Market7mr Holding spot not trading it atm"
-        },
-        {
           "created_at": "2026-10-16T16:42:42.000Z",
           "id": "2111135759281660107",
           "reply_to_id": "2111132786195407310",
@@ -2730,6 +2724,12 @@
           "id": "2111329971717489001",
           "reply_to_id": "2111329537766408364",
           "text": "@rikimaaro \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83e\udef6"
+        },
+        {
+          "created_at": "2026-10-17T06:26:18.000Z",
+          "id": "2111343022973608411",
+          "reply_to_id": "2111340581880254732",
+          "text": "@lordHODLaRoy thesis remains the same, but i would caution against levering up since we dont know how long itll chop before breaking out\n\nbut deep value remains the same, not a short term play"
         }
       ],
       "threads": {
@@ -3198,7 +3198,6 @@
         "2111055132083568796": true,
         "2111061185315655710": true,
         "2111128021445017785": true,
-        "2111130072090648772": true,
         "2111131990410072116": true,
         "2111132623271862443": true,
         "2111135759281660107": true,
@@ -3221,7 +3220,8 @@
         "2111327098485059640": true,
         "2111329112027795621": false,
         "2111329201060008290": false,
-        "2111329971717489001": false
+        "2111329971717489001": false,
+        "2111343022973608411": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5092,5 +5092,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-16",
-  "updated_at": "2026-10-17T06:10:19+00:00"
+  "updated_at": "2026-10-17T06:28:18+00:00"
 }
