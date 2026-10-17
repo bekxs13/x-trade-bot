@@ -4509,25 +4509,19 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2111179389362937999",
-          "reason": "Invoking Black Monday (Oct 19, 1987) right before Oct 19 hints at a stock crash, matching the recorded bearish stocks/macro view and the earlier 'reshort Monday' post.",
+          "post_id": "2111582307996082446",
+          "reason": "Says markets are topping like 2022 and the same signals are firing, warns that dip buyers of QQQ will get eviscerated, and tells readers to hold cash. Matches the recorded bearish stocks/macro view.",
           "scope": "stocks/macro",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-16T19:36:04.000Z"
+          "updated_at": "2026-10-17T22:17:08.000Z"
         }
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111581235793588319",
+      "last_id": "2111582307996082446",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-15T20:23:21.000Z",
-          "id": "2110828898267140430",
-          "reply_to_id": "2110828743505674266",
-          "text": "Thank god for Hyperliquid and HIP-3 allowing us to trade perps on this stuff 24/7 easily. Using IBKR just feels like cancer everytime I login."
-        },
         {
           "created_at": "2026-10-15T21:00:01.000Z",
           "id": "2110838124645622210",
@@ -4626,10 +4620,14 @@
             "https://pbs.twimg.com/media/HU3Wl_dWkAIbZGg.jpg"
           ],
           "text": "They're so nervous they're raping it on the weekend\n\nHyperliquid https://t.co/Llm5KTnysB"
+        },
+        {
+          "created_at": "2026-10-17T22:17:08.000Z",
+          "id": "2111582307996082446",
+          "text": "Everything reminds me of 2022.\n\nWhenever I think the markets topping, I start noting some signals down.\n\nThe same signals are firing.\n\nThere's two many things:\n\nInsane funding rounds, and complacency about rates.\n\nMany people are going to get eviscerated buying the first few dips because they've made so much money and been conditioned just autobid any -2% QQQ move.\n\nJust remember, treasury bills are like your health bar, without cash you have no options."
         }
       ],
       "reads": {
-        "2110828898267140430": "Read together with the post it replies to",
         "2110838124645622210": "No call: bearish on stocks/macro (60%, too unsure)",
         "2110846742430408938": "No call",
         "2111093318365196739": "No call",
@@ -4648,7 +4646,8 @@
         "2111211900990054557": "No call",
         "2111541630171791392": "No call",
         "2111577993311117630": "VIEW bearish on crypto market",
-        "2111579791379820967": "VIEW bearish on MU"
+        "2111579791379820967": "VIEW bearish on MU",
+        "2111582307996082446": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -5092,6 +5091,10 @@
             "bias:mu:bearish"
           ],
           "self_replies": 0
+        },
+        "2111582307996082446": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5105,7 +5108,6 @@
         "2110411948982460824": true,
         "2110572720375181652": false,
         "2110757594923200856": false,
-        "2110828898267140430": true,
         "2110832817840259528": false,
         "2110838124645622210": true,
         "2110846742430408938": false,
@@ -5129,7 +5131,8 @@
         "2111541630171791392": false,
         "2111577993311117630": true,
         "2111579791379820967": true,
-        "2111581235793588319": true
+        "2111581235793588319": true,
+        "2111582307996082446": true
       },
       "user_id": "809191427645181952"
     }
@@ -5145,5 +5148,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T22:14:18+00:00"
+  "updated_at": "2026-10-17T22:18:23+00:00"
 }
