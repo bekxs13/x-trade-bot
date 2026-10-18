@@ -2365,7 +2365,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111840147029508323",
+      "last_id": "2111845216751915418",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2575,12 +2575,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-16T11:22:19.000Z",
-          "id": "2111055132083568796",
-          "reply_to_id": "2111053758948168091",
-          "text": "@botblastcap cc starknet team i wish you guys focus more on this, this is an extremely strong tech primitive &amp; narrative thats only going to not just grow but heavily accelerate in the near and immediate term\n\n@EliBenSasson @Starknet @StarknetEco @thedamooo"
-        },
-        {
           "created_at": "2026-10-16T11:46:22.000Z",
           "id": "2111061185315655710",
           "reply_to_id": "2111053758948168091",
@@ -2709,6 +2703,12 @@
           ],
           "quoted_text": "shorting $near 4.99 stop 5.3x https://t.co/dXHbYQrgDj",
           "text": "porting stonking signals properly step by step this time\n\nwithout rushing\n\n$near https://t.co/BH8E2TcVn3 https://t.co/aEZBKVAOlr"
+        },
+        {
+          "created_at": "2026-10-18T15:41:50.000Z",
+          "id": "2111845216751915418",
+          "quoted_text": "Increasingly think the Anthropic IPO does not get done. Why are they rushing to borrow at double digit yields if they are about to have $1.5 trillion of equity market value and raise $100bn?",
+          "text": "imagine if monday opens with anth ipo delay announcement https://t.co/zK0dfA64gi"
         }
       ],
       "reads": {
@@ -2727,7 +2727,8 @@
         "2111766102510289099": "TRADE LONG BTC",
         "2111812894677676101": "No call",
         "2111813333867532388": "No call",
-        "2111820891642527869": "No call"
+        "2111820891642527869": "No call",
+        "2111845216751915418": "No call"
       },
       "replies": [
         {
@@ -2822,10 +2823,6 @@
         }
       ],
       "threads": {
-        "2108929562478531012": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108933002864861656": {
           "alerted": [],
           "self_replies": 0
@@ -3275,10 +3272,13 @@
         "2111820891642527869": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111845216751915418": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111055132083568796": true,
         "2111061185315655710": true,
         "2111128021445017785": true,
         "2111131990410072116": true,
@@ -3312,7 +3312,8 @@
         "2111828148824498224": true,
         "2111830585052467328": false,
         "2111834138194092170": false,
-        "2111840147029508323": true
+        "2111840147029508323": true,
+        "2111845216751915418": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5293,5 +5294,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T15:22:25+00:00"
+  "updated_at": "2026-10-18T15:42:21+00:00"
 }
