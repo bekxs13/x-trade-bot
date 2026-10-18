@@ -4628,7 +4628,7 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111868524427948399",
+      "last_id": "2111870195140554867",
       "positions": {},
       "posts": [
         {
@@ -4771,11 +4771,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-02T18:11:47.000Z",
-          "id": "2106084747008967039",
-          "text": "@kidponga Less about PnL more about:\n\nAssets traded\nRisk\nHolding period \nSystematic or not?\n\nIdeally I\u2019m hiring people with orthogonal alpha to my own trading style"
-        },
-        {
           "created_at": "2026-10-07T18:03:22.000Z",
           "id": "2107894568507085235",
           "text": "@based16z It\u2019s actually over for us"
@@ -4856,6 +4851,12 @@
           "id": "2111868524427948399",
           "reply_to_id": "2111867961363599494",
           "text": "@frankdegods nah"
+        },
+        {
+          "created_at": "2026-10-18T17:21:05.000Z",
+          "id": "2111870195140554867",
+          "reply_to_id": "2111856652685123781",
+          "text": "@BoringBiz_ What if they pull out? \n\nWhat if they let the equity go to zero to acquire the company cheaper?\n\nWhat if their own credit gets downgraded because they step in to rightsize these businesses?"
         }
       ],
       "threads": {
@@ -5259,7 +5260,6 @@
         }
       },
       "trading": {
-        "2106084747008967039": true,
         "2107894568507085235": false,
         "2107906207881232630": false,
         "2108668472196841823": false,
@@ -5293,7 +5293,8 @@
         "2111859899441549668": true,
         "2111861754129227930": true,
         "2111862225484853381": false,
-        "2111868524427948399": false
+        "2111868524427948399": false,
+        "2111870195140554867": true
       },
       "user_id": "809191427645181952"
     }
@@ -5309,5 +5310,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T17:16:17+00:00"
+  "updated_at": "2026-10-18T17:22:19+00:00"
 }
