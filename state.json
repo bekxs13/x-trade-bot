@@ -2341,7 +2341,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111703106908299650",
+      "last_id": "2111710745096519815",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2666,12 +2666,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-17T02:56:45.000Z",
-          "id": "2111290289453498535",
-          "reply_to_id": "2111289747457077522",
-          "text": "@John2024Mo53628 https://t.co/uxWwlwUpyB"
-        },
-        {
           "created_at": "2026-10-17T05:01:42.000Z",
           "id": "2111321734683275493",
           "reply_to_id": "2111321269996323074",
@@ -2754,6 +2748,12 @@
           "id": "2111703106908299650",
           "reply_to_id": "2111700574697931212",
           "text": "@iprintnumbers Fire brother, lfg! \ud83d\udd25\ud83d\udd25"
+        },
+        {
+          "created_at": "2026-10-18T06:47:29.000Z",
+          "id": "2111710745096519815",
+          "reply_to_id": "2111709067634721227",
+          "text": "@now_ember https://t.co/XtNMmr3zD5\n\nroundtripped a ton, hoping general market improves\n\ntech remains really good alongside their catalyst schedule, didnt expect some of their team members to behave like that but fortunately theyre soon out"
         }
       ],
       "threads": {
@@ -3225,7 +3225,6 @@
         "2111171642449867008": true,
         "2111174650604773834": true,
         "2111179586835005866": true,
-        "2111290289453498535": false,
         "2111320951355039804": true,
         "2111321734683275493": true,
         "2111322241422037327": false,
@@ -3245,7 +3244,8 @@
         "2111681194605814015": true,
         "2111682122335613181": false,
         "2111696325918216570": true,
-        "2111703106908299650": false
+        "2111703106908299650": false,
+        "2111710745096519815": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5214,5 +5214,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-18T06:18:18+00:00"
+  "updated_at": "2026-10-18T06:48:18+00:00"
 }
