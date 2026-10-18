@@ -1888,7 +1888,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2111894422187340163",
+      "last_id": "2111899435571761222",
       "positions": {
         "GOOG": {
           "asset": "GOOG",
@@ -2045,12 +2045,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T02:18:57.000Z",
-          "id": "2110556002307449191",
-          "reply_to_id": "2110548236146815065",
-          "text": "@the_walkerdog2 @zeroxkyle Ye maybe someday lmfao, it is enticing to attempt to recreate the experience on this app but more positively and elsewhere"
-        },
-        {
           "created_at": "2026-10-15T02:55:40.000Z",
           "id": "2110565242917007397",
           "reply_to_id": "2110562401523302712",
@@ -2133,6 +2127,12 @@
           "id": "2111894422187340163",
           "reply_to_id": "2111891786360619136",
           "text": "@popcatana Cant give advice ppls situations are too different I just be saying what im doing"
+        },
+        {
+          "created_at": "2026-10-18T19:17:17.000Z",
+          "id": "2111899435571761222",
+          "reply_to_id": "2111897032613052539",
+          "text": "@yackcap Yack!"
         }
       ],
       "threads": {
@@ -2283,7 +2283,6 @@
         "2110530132381516205": false,
         "2110549132578554226": false,
         "2110555688523219037": true,
-        "2110556002307449191": false,
         "2110565242917007397": true,
         "2110611535366431099": true,
         "2110770468592734263": true,
@@ -2306,7 +2305,8 @@
         "2111891987742019640": true,
         "2111892894462394708": true,
         "2111894230713111038": true,
-        "2111894422187340163": false
+        "2111894422187340163": false,
+        "2111899435571761222": false
       },
       "user_id": "953032269433745408"
     },
@@ -5346,5 +5346,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T19:16:23+00:00"
+  "updated_at": "2026-10-18T19:18:18+00:00"
 }
