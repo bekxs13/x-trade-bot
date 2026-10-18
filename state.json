@@ -2341,7 +2341,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111710745096519815",
+      "last_id": "2111717291239022893",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2389,6 +2389,22 @@
           "since": "2026-10-08T17:28:26.000Z",
           "structure": "unknown",
           "url": "https://x.com/MoneyPrinter0x/status/2108248166764314906"
+        },
+        "NEAR": {
+          "asset": "NEAR",
+          "chain": "",
+          "confidence": 0.88,
+          "contract_address": "",
+          "direction": "short",
+          "entry": "4.99",
+          "horizon": "",
+          "market": "crypto",
+          "open_price": null,
+          "post_id": "2111717291239022893",
+          "reason": "\"shorting $near 4.99 stop 5.3x\" states a new short with entry and stop. Live price shows $2.60, so the 4.99 level may be a different venue or quote, but the short itself is explicit.",
+          "since": "2026-10-18T07:13:30.000Z",
+          "structure": "unknown",
+          "url": "https://x.com/MoneyPrinter0x/status/2111717291239022893"
         },
         "NVDA": {
           "asset": "NVDA",
@@ -2519,12 +2535,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-16T07:10:40.000Z",
-          "id": "2110991803566703085",
-          "quoted_text": "we didnt make any noticeable lows on the big3 even on ai fud + anth financials fud + cpi fud + ppi fud as risk assets crashed this week, while spot flows on btc, sol remained strong\n\nthink that next igv &amp; crypto majors (esp sol) leg up is going to be really noticeable htf",
-          "text": "early alt szn\n\nlearned a lot recently! adapting faster than ever to this asset class\n\ngoing back to cross-asset &amp; macro roots to continue generating edge\n\nMP https://t.co/j6QVxv239E"
-        },
-        {
           "created_at": "2026-10-16T09:03:00.000Z",
           "id": "2111020071149871233",
           "quoted_text": "Breaking: World ID plugin is already live in Codex \ud83d\udc40\nyou can now prove you're human right inside OpenAI's tools\nmuch more to come. this may be the beginning of something big \ud83c\udf0d $WLD\n\nhow to install: just tell Codex\n\"Install this plugin: https://t.co/lXLsqvWFgr\"\nthen say \"Connect my World ID\" \u2705",
@@ -2644,10 +2654,15 @@
           ],
           "quoted_text": "looks like its happening again \n\nshorting tia https://t.co/W75gt1GIS9 https://t.co/ARAAQEvz8j",
           "text": "looks like its first to break down &amp; accelerating atm\n\n$tia https://t.co/rnKYMfs1m3 https://t.co/dJqonGHATY"
+        },
+        {
+          "created_at": "2026-10-18T07:13:30.000Z",
+          "id": "2111717291239022893",
+          "quoted_text": "best get hedges\n\nadmin saved weekend markets on the weekend of july semis sector explosion\n\nbut not this weekend yet, so far https://t.co/O3GnFm4fTo",
+          "text": "shorting $near 4.99 stop 5.3x https://t.co/dXHbYQrgDj"
         }
       ],
       "reads": {
-        "2110991803566703085": "No call: bullish on alts (same view as before)",
         "2111020071149871233": "No call",
         "2111024457200566379": "TRADE LONG ARB",
         "2111040774209159407": "No call: bullish on STRK (same view as before)",
@@ -2662,7 +2677,8 @@
         "2111325378518421936": "No call",
         "2111639675291250715": "No call: bearish on stocks/macro (65%, too unsure)",
         "2111681194605814015": "No call",
-        "2111696325918216570": "No call"
+        "2111696325918216570": "No call",
+        "2111717291239022893": "TRADE SHORT NEAR"
       },
       "replies": [
         {
@@ -2757,10 +2773,6 @@
         }
       ],
       "threads": {
-        "2108922234521759769": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108925626556330006": {
           "alerted": [],
           "self_replies": 0
@@ -3208,10 +3220,15 @@
         "2111696325918216570": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111717291239022893": {
+          "alerted": [
+            "trade:NEAR:short"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110991803566703085": true,
         "2111020071149871233": true,
         "2111024457200566379": true,
         "2111040774209159407": true,
@@ -3245,7 +3262,8 @@
         "2111682122335613181": false,
         "2111696325918216570": true,
         "2111703106908299650": false,
-        "2111710745096519815": true
+        "2111710745096519815": true,
+        "2111717291239022893": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5214,5 +5232,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-18T06:48:18+00:00"
+  "updated_at": "2026-10-18T07:14:26+00:00"
 }
