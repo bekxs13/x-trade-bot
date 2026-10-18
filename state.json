@@ -2365,7 +2365,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111812894677676101",
+      "last_id": "2111813333867532388",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2575,14 +2575,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-16T10:25:16.000Z",
-          "id": "2111040774209159407",
-          "images": [
-            "https://pbs.twimg.com/media/HUvsZKPbkAAS9fr.jpg"
-          ],
-          "text": "current bias https://t.co/IqDjpjw6GH"
-        },
-        {
           "created_at": "2026-10-16T10:39:01.000Z",
           "id": "2111044235860541566",
           "text": "if nobody brings the spotlight back to tech, we'll just be back stuck on memecoins again this cycle"
@@ -2704,10 +2696,18 @@
           ],
           "quoted_text": "shorting $near 4.99 stop 5.3x https://t.co/dXHbYQrgDj",
           "text": "moving\n\n$near https://t.co/hecprgCCb9 https://t.co/aEZBKVAOlr"
+        },
+        {
+          "created_at": "2026-10-18T13:35:09.000Z",
+          "id": "2111813333867532388",
+          "images": [
+            "https://pbs.twimg.com/media/HU6rCJuasAE5_he.jpg"
+          ],
+          "quoted_text": "looks like its first to break down &amp; accelerating atm\n\n$tia https://t.co/rnKYMfs1m3 https://t.co/dJqonGHATY",
+          "text": "also moving\n\n$tia https://t.co/U49bMJJL78 https://t.co/3DawiG1Xck"
         }
       ],
       "reads": {
-        "2111040774209159407": "No call: bullish on STRK (same view as before)",
         "2111044235860541566": "No call",
         "2111128021445017785": "TRADE SHORT TIA",
         "2111132623271862443": "TRADE EXIT INJ",
@@ -2722,7 +2722,8 @@
         "2111696325918216570": "No call",
         "2111717291239022893": "TRADE SHORT NEAR",
         "2111766102510289099": "TRADE LONG BTC",
-        "2111812894677676101": "No call"
+        "2111812894677676101": "No call",
+        "2111813333867532388": "No call"
       },
       "replies": [
         {
@@ -2817,12 +2818,6 @@
         }
       ],
       "threads": {
-        "2108925965778972962": {
-          "alerted": [
-            "trade:STRK:long"
-          ],
-          "self_replies": 0
-        },
         "2108927466358321652": {
           "alerted": [],
           "self_replies": 0
@@ -3272,10 +3267,13 @@
         "2111812894677676101": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111813333867532388": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111040774209159407": true,
         "2111044235860541566": true,
         "2111055132083568796": true,
         "2111061185315655710": true,
@@ -3309,7 +3307,8 @@
         "2111760398835912881": false,
         "2111766102510289099": true,
         "2111797927941382371": false,
-        "2111812894677676101": true
+        "2111812894677676101": true,
+        "2111813333867532388": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5290,5 +5289,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T13:34:22+00:00"
+  "updated_at": "2026-10-18T13:36:25+00:00"
 }
