@@ -46,7 +46,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2111570727103250746",
+      "last_id": "2111910696162414895",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -82,11 +82,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-16T20:46:50.000Z",
-          "id": "2111197195013898412",
-          "text": "anthropic going public? what's next, hitler youth nasdaq listing?"
-        },
         {
           "created_at": "2026-10-16T23:28:10.000Z",
           "id": "2111237799059788100",
@@ -192,10 +187,15 @@
           "id": "2111570727103250746",
           "reply_to_id": "2111570672552124665",
           "text": "@Wild_Randomness /black_monday"
+        },
+        {
+          "created_at": "2026-10-18T20:02:02.000Z",
+          "id": "2111910696162414895",
+          "quoted_text": "Un h\u00e9roe ha caido https://t.co/VLJDlB4K9o",
+          "text": "Louis Vuitton Winter 2027 https://t.co/YmhkxKcWBa"
         }
       ],
       "reads": {
-        "2111197195013898412": "No call",
         "2111237799059788100": "No call",
         "2111238856221564984": "No call",
         "2111262954158997847": "No call",
@@ -213,7 +213,8 @@
         "2111366152803021027": "No call",
         "2111366593343373684": "Read together with the post it replies to",
         "2111530353236263050": "No call",
-        "2111569149516460336": "No call"
+        "2111569149516460336": "No call",
+        "2111910696162414895": "No call"
       },
       "replies": [
         {
@@ -308,12 +309,6 @@
         }
       ],
       "threads": {
-        "2108084087499952409": {
-          "alerted": [
-            "trade:BTC:short"
-          ],
-          "self_replies": 0
-        },
         "2108091122069418392": {
           "alerted": [],
           "self_replies": 0
@@ -719,10 +714,13 @@
         "2111569149516460336": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111910696162414895": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111197195013898412": false,
         "2111237799059788100": true,
         "2111238856221564984": true,
         "2111239776418640183": true,
@@ -756,7 +754,8 @@
         "2111566421121802330": false,
         "2111569149516460336": false,
         "2111570672552124665": false,
-        "2111570727103250746": false
+        "2111570727103250746": false,
+        "2111910696162414895": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5374,5 +5373,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T19:44:21+00:00"
+  "updated_at": "2026-10-18T20:02:23+00:00"
 }
