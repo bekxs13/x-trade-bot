@@ -4628,7 +4628,7 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111873335772541162",
+      "last_id": "2111874363234426989",
       "positions": {},
       "posts": [
         {
@@ -4774,11 +4774,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-07T18:49:37.000Z",
-          "id": "2107906207881232630",
-          "text": "@greedynakamoto @notthreadguy @blknoiz06 @chameleon_jeff Why are you implying this to be a negative?"
-        },
-        {
           "created_at": "2026-10-09T21:18:35.000Z",
           "id": "2108668472196841823",
           "reply_to_id": "2108652996351381757",
@@ -4861,6 +4856,12 @@
           "id": "2111873335772541162",
           "reply_to_id": "2111873183204639097",
           "text": "@koolkrypto223 Post position"
+        },
+        {
+          "created_at": "2026-10-18T17:37:39.000Z",
+          "id": "2111874363234426989",
+          "reply_to_id": "2111873940054516161",
+          "text": "@koolkrypto223 Hopefully this one fairs better than your ETH call spread (-50% or so at this point?)"
         }
       ],
       "threads": {
@@ -5268,7 +5269,6 @@
         }
       },
       "trading": {
-        "2107906207881232630": false,
         "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
@@ -5302,7 +5302,8 @@
         "2111868524427948399": false,
         "2111870195140554867": true,
         "2111871343109210201": true,
-        "2111873335772541162": true
+        "2111873335772541162": true,
+        "2111874363234426989": true
       },
       "user_id": "809191427645181952"
     }
@@ -5318,5 +5319,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T17:34:20+00:00"
+  "updated_at": "2026-10-18T17:38:20+00:00"
 }
