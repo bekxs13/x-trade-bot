@@ -829,7 +829,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2111889484795265389",
+      "last_id": "2111898945169297708",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -865,12 +865,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T16:21:11.000Z",
-          "id": "2110767955630018575",
-          "quoted_text": "twitter not letting us post links to the site for @papertrade_xyz  is slowing down a product release we want to make\n\nif anyone can help, we've applied for gold etc, this is day 3 now",
-          "text": "somebody help my brudda https://t.co/nhGrM5g8PC"
-        },
         {
           "created_at": "2026-10-15T17:24:29.000Z",
           "id": "2110783883998544197",
@@ -995,10 +989,17 @@
           "id": "2111779407807574066",
           "quoted_text": "AI will reverse engineer how the human attention span works, and produce content that grabs you in less than one second and doesn't let you go",
           "text": "kinda has already to some extent https://t.co/gKXDULHd83"
+        },
+        {
+          "created_at": "2026-10-18T19:15:20.000Z",
+          "id": "2111898945169297708",
+          "images": [
+            "https://pbs.twimg.com/media/HU745WyWEAAZLDW.jpg"
+          ],
+          "text": "they dont know tomorrow is black monday https://t.co/90Bnbhg92b"
         }
       ],
       "reads": {
-        "2110767955630018575": "No call",
         "2110783883998544197": "No call: bullish on btc (same view as before)",
         "2110810603417944213": "No call",
         "2111062131437433031": "No call",
@@ -1017,7 +1018,8 @@
         "2111720867671502982": "No call",
         "2111723083107065935": "No call",
         "2111733530757570629": "No call",
-        "2111779407807574066": "No call"
+        "2111779407807574066": "No call",
+        "2111898945169297708": "No call"
       },
       "replies": [
         {
@@ -1505,10 +1507,13 @@
         "2111779407807574066": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111898945169297708": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110767955630018575": false,
         "2110783883998544197": true,
         "2110810603417944213": true,
         "2111062131437433031": true,
@@ -1542,7 +1547,8 @@
         "2111779407807574066": false,
         "2111804903404491125": false,
         "2111887716074058106": false,
-        "2111889484795265389": false
+        "2111889484795265389": false,
+        "2111898945169297708": true
       },
       "user_id": "973261472"
     },
@@ -5340,5 +5346,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T19:14:26+00:00"
+  "updated_at": "2026-10-18T19:16:23+00:00"
 }
