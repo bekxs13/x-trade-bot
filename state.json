@@ -2365,7 +2365,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111816781694451856",
+      "last_id": "2111819858929475631",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2727,12 +2727,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T07:20:58.000Z",
-          "id": "2111719169435881604",
-          "reply_to_id": "2111717585548952008",
-          "text": "@CryptoMadbad not a bad way to do it, doing limit orders at 5.2x in case they squeeze it before letting it retrace\n\nif sunday doesnt come in with whiteswan announcements the current bias atm is flush at futures open &amp; fading strength alts retrace with it"
-        },
-        {
           "created_at": "2026-10-18T07:25:27.000Z",
           "id": "2111720299024806384",
           "reply_to_id": "2111718424565141546",
@@ -2815,6 +2809,12 @@
           "id": "2111816781694451856",
           "reply_to_id": "2111816278784749891",
           "text": "@sirceen taking it step by step \ud83d\ude4f\ud83d\ude4f"
+        },
+        {
+          "created_at": "2026-10-18T14:01:04.000Z",
+          "id": "2111819858929475631",
+          "reply_to_id": "2111817646773862759",
+          "text": "@Marr_eth \ud83d\ude4f\ud83d\ude4f np ser, do stay safu on lev since theres a bit of headline risk &amp; just moved down ltf"
         }
       ],
       "threads": {
@@ -3291,7 +3291,6 @@
         "2111681194605814015": true,
         "2111696325918216570": true,
         "2111717291239022893": true,
-        "2111719169435881604": true,
         "2111720299024806384": true,
         "2111720741062488203": false,
         "2111724117732847972": true,
@@ -3308,7 +3307,8 @@
         "2111814267565641772": true,
         "2111814752284606740": false,
         "2111815027556778418": false,
-        "2111816781694451856": false
+        "2111816781694451856": false,
+        "2111819858929475631": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5289,5 +5289,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T13:50:18+00:00"
+  "updated_at": "2026-10-18T14:02:20+00:00"
 }
