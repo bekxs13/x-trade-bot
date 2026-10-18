@@ -829,7 +829,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2111887716074058106",
+      "last_id": "2111889484795265389",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1021,12 +1021,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T11:43:34.000Z",
-          "id": "2111060480168972427",
-          "reply_to_id": "2110824616784765336",
-          "text": "not sure but perps are the most successful product in crypto, the demand for leverage trading is very high, & trader losses are arguably more revenue than any existing perps product that just takes a rake on fees\n\ni think jez's social capital will also do a lot of carrying this tho bc he was early hyperliquid power user / early lighter power user / early variational power user & already has built in relationships w a lot of the size traders on CT + insti side"
-        },
-        {
           "created_at": "2026-10-16T12:18:49.000Z",
           "id": "2111069349788156236",
           "reply_to_id": "2111060152220803196",
@@ -1109,6 +1103,12 @@
           "id": "2111887716074058106",
           "reply_to_id": "2111887019995545713",
           "text": "@kingbtc hey bob"
+        },
+        {
+          "created_at": "2026-10-18T18:37:44.000Z",
+          "id": "2111889484795265389",
+          "reply_to_id": "2111887640681197743",
+          "text": "@adidogCEO vision"
         }
       ],
       "threads": {
@@ -1511,7 +1511,6 @@
         "2110767955630018575": false,
         "2110783883998544197": true,
         "2110810603417944213": true,
-        "2111060480168972427": true,
         "2111062131437433031": true,
         "2111069349788156236": false,
         "2111095056778301444": true,
@@ -1542,7 +1541,8 @@
         "2111733530757570629": true,
         "2111779407807574066": false,
         "2111804903404491125": false,
-        "2111887716074058106": false
+        "2111887716074058106": false,
+        "2111889484795265389": false
       },
       "user_id": "973261472"
     },
@@ -5319,5 +5319,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T18:32:21+00:00"
+  "updated_at": "2026-10-18T18:38:18+00:00"
 }
