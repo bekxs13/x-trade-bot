@@ -829,7 +829,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2111729056375091424",
+      "last_id": "2111733530757570629",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -865,11 +865,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T16:12:28.000Z",
-          "id": "2110765762457809110",
-          "text": "it seems that it is difficult for ct to hold opposing opinions on different timeframes, you must realize that these markets can swing 10%+ intraday, if you're not prepared for this mentally you are never going to be able to make money in this market"
-        },
         {
           "created_at": "2026-10-15T16:17:50.000Z",
           "id": "2110767113673781312",
@@ -991,10 +986,17 @@
           "id": "2111723083107065935",
           "quoted_text": "Nous sommes \u00e0 la conjonction des deux ph\u00e9nom\u00e8nes civilisationnels distincts qui m\u00e8nent \u00e0 la r\u00e9volution:\n\nLe premier : dans une soci\u00e9t\u00e9 d\u00e9mocratique, comme le notait Tocqueville, toute in\u00e9galit\u00e9 devient vite insupportable car il n\u2019y a plus que deux moyens d\u2019expliquer que certains r\u00e9ussissent mieux que soi-m\u00eame : la corruption du syst\u00e8me ou le m\u00e9rite. \nEt psychologiquement, sans surprise, on a plut\u00f4t tendance \u00e0 penser que ceux qui r\u00e9ussissent mieux que nous b\u00e9n\u00e9ficient d\u2019un syst\u00e8me corrompu sont p",
           "text": ". https://t.co/DWLuIgxe6Q"
+        },
+        {
+          "created_at": "2026-10-18T08:18:02.000Z",
+          "id": "2111733530757570629",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2111733428802793473/img/5JA-3kP6LRkPXvd9.jpg"
+          ],
+          "text": "i'm approaching altcoins differently this cycle than i did in previous ones\n\nwe've seen assets like HYPE and ZEC perform independently of BTC and ETH, even during periods when the broader market was struggling\n\ni think crypto is gradually moving toward a market where individual fundamentals, capital inflows and actual business performance matter more\n\nthat makes identifying mispriced assets and understanding which teams are building increasingly important, rather than relying entirely on the direction of the majors"
         }
       ],
       "reads": {
-        "2110765762457809110": "No call",
         "2110767113673781312": "No call: bullish on btc (same view as before)",
         "2110767955630018575": "No call",
         "2110783883998544197": "No call: bullish on btc (same view as before)",
@@ -1013,7 +1015,8 @@
         "2111521940255219755": "No call: bullish on crypto market (same view as before)",
         "2111703260654424065": "No call",
         "2111720867671502982": "No call",
-        "2111723083107065935": "No call"
+        "2111723083107065935": "No call",
+        "2111733530757570629": "No call"
       },
       "replies": [
         {
@@ -1493,10 +1496,13 @@
         "2111723083107065935": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111733530757570629": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110765762457809110": true,
         "2110767113673781312": true,
         "2110767955630018575": false,
         "2110783883998544197": true,
@@ -1530,7 +1536,8 @@
         "2111720867671502982": false,
         "2111723083107065935": false,
         "2111727185186677222": false,
-        "2111729056375091424": false
+        "2111729056375091424": false,
+        "2111733530757570629": true
       },
       "user_id": "973261472"
     },
@@ -5244,5 +5251,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-18T08:02:19+00:00"
+  "updated_at": "2026-10-18T08:18:21+00:00"
 }
