@@ -4628,14 +4628,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111874363234426989",
+      "last_id": "2111875879865389103",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-16T19:11:06.000Z",
-          "id": "2111173105548931476",
-          "text": "Think that was enough for today, now you can wait for the admin to try to pump the market through the weekend and reshort Monday."
-        },
         {
           "created_at": "2026-10-16T19:36:04.000Z",
           "id": "2111179389362937999",
@@ -4748,10 +4743,15 @@
             "https://pbs.twimg.com/media/HU7fyKcXcAA5_iV.jpg"
           ],
           "text": "Lighter was such a free short when they lost the Robinhood integration https://t.co/J166dyvctK"
+        },
+        {
+          "created_at": "2026-10-18T17:42:40.000Z",
+          "id": "2111875627015966918",
+          "reply_to_id": "2111874363234426989",
+          "text": "@koolkrypto223 Honestly this CSP is so nonsensical it's the kind of trade you take after/while you're dumping your entire spot bag"
         }
       ],
       "reads": {
-        "2111173105548931476": "No call: maybe exit  (60%, too unsure); bearish on stocks/macro (same view as before)",
         "2111179389362937999": "No call: bearish on stocks/macro (same view as before)",
         "2111211900990054557": "No call",
         "2111541630171791392": "No call",
@@ -4773,12 +4773,6 @@
         "2111871343109210201": "No call: bearish on LIT (60%, too unsure)"
       },
       "replies": [
-        {
-          "created_at": "2026-10-09T21:18:35.000Z",
-          "id": "2108668472196841823",
-          "reply_to_id": "2108652996351381757",
-          "text": "@ExaltedFoks It's all downhill from here, enjoy"
-        },
         {
           "created_at": "2026-10-12T15:09:04.000Z",
           "id": "2109662643053371875",
@@ -4862,6 +4856,12 @@
           "id": "2111874363234426989",
           "reply_to_id": "2111873940054516161",
           "text": "@koolkrypto223 Hopefully this one fairs better than your ETH call spread (-50% or so at this point?)"
+        },
+        {
+          "created_at": "2026-10-18T17:43:41.000Z",
+          "id": "2111875879865389103",
+          "reply_to_id": "2111875711028056173",
+          "text": "@koolkrypto223 You're the one quote tweeting me. Next time you place a trade can just P2P it with me, will save time."
         }
       ],
       "threads": {
@@ -5269,7 +5269,6 @@
         }
       },
       "trading": {
-        "2108668472196841823": false,
         "2109662643053371875": false,
         "2109698195953692702": false,
         "2110411948982460824": true,
@@ -5277,7 +5276,6 @@
         "2110757594923200856": false,
         "2110832817840259528": false,
         "2111135946112397498": true,
-        "2111173105548931476": true,
         "2111179389362937999": true,
         "2111183217843679578": false,
         "2111211900990054557": false,
@@ -5303,7 +5301,9 @@
         "2111870195140554867": true,
         "2111871343109210201": true,
         "2111873335772541162": true,
-        "2111874363234426989": true
+        "2111874363234426989": true,
+        "2111875627015966918": true,
+        "2111875879865389103": false
       },
       "user_id": "809191427645181952"
     }
@@ -5319,5 +5319,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T17:38:20+00:00"
+  "updated_at": "2026-10-18T17:44:17+00:00"
 }
