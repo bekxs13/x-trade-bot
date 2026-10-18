@@ -3376,7 +3376,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2111936495653433559",
+      "last_id": "2111944213352919424",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3396,14 +3396,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T22:47:09.000Z",
-          "id": "2110502700999942172",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2110487002378567680/img/0guX8aAZNMA6z1E7.jpg"
-          ],
-          "text": "Why your coins are safe from AI and quantum: FULL PANEL with @mert @ilblackdragon @zkDragon and @tulipking \n\n1:37 Threadguy explains the cryptography panic\n5:29 why cryptography hasn\u2019t broken\n9:04 how close is AI to cracking it?\n15:39 upgrading chains for quantum\n26:30 what if OpenAI cracks cryptography tomorrow?\n34:03 AI hacks are the real threat\n41:05 why Justin Drake posted bunker mode\n51:17 who could actually crack cryptography?\n1:06:11 smart contract hacks > quantum\n1:09:40 debrief with Tulip King"
-        },
         {
           "created_at": "2026-10-14T22:47:11.000Z",
           "id": "2110502707383668934",
@@ -3518,10 +3510,14 @@
           "id": "2111488674076778592",
           "reply_to_id": "2111488633463259268",
           "text": "@watchking69 alright fine i\u2019ll buy a watch you got me"
+        },
+        {
+          "created_at": "2026-10-18T22:15:13.000Z",
+          "id": "2111944213352919424",
+          "text": "i bet everyone was screaming for black monday on the sunday before black monday"
         }
       ],
       "reads": {
-        "2110502700999942172": "No call",
         "2110502707383668934": "Read together with the post it replies to",
         "2110693154429214765": "No call",
         "2110699646641394005": "No call",
@@ -3537,7 +3533,8 @@
         "2110870996337230266": "No call",
         "2110900288483651945": "No call",
         "2111074640328262026": "No call",
-        "2111475796993015853": "No call"
+        "2111475796993015853": "No call",
+        "2111944213352919424": "No call"
       },
       "replies": [
         {
@@ -3805,10 +3802,13 @@
         "2111475796993015853": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111944213352919424": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110502700999942172": true,
         "2110502707383668934": false,
         "2110505577793114242": false,
         "2110693154429214765": true,
@@ -3842,7 +3842,8 @@
         "2111838894337749248": false,
         "2111840146593128633": true,
         "2111897228553916662": false,
-        "2111936495653433559": false
+        "2111936495653433559": false,
+        "2111944213352919424": true
       },
       "user_id": "1426732252768182281"
     },
@@ -5378,5 +5379,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T21:46:17+00:00"
+  "updated_at": "2026-10-18T22:16:25+00:00"
 }
