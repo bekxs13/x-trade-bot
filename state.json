@@ -4628,7 +4628,7 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111871343109210201",
+      "last_id": "2111873335772541162",
       "positions": {},
       "posts": [
         {
@@ -4774,11 +4774,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-07T18:03:22.000Z",
-          "id": "2107894568507085235",
-          "text": "@based16z It\u2019s actually over for us"
-        },
-        {
           "created_at": "2026-10-07T18:49:37.000Z",
           "id": "2107906207881232630",
           "text": "@greedynakamoto @notthreadguy @blknoiz06 @chameleon_jeff Why are you implying this to be a negative?"
@@ -4860,6 +4855,12 @@
           "id": "2111870195140554867",
           "reply_to_id": "2111856652685123781",
           "text": "@BoringBiz_ What if they pull out? \n\nWhat if they let the equity go to zero to acquire the company cheaper?\n\nWhat if their own credit gets downgraded because they step in to rightsize these businesses?"
+        },
+        {
+          "created_at": "2026-10-18T17:33:34.000Z",
+          "id": "2111873335772541162",
+          "reply_to_id": "2111873183204639097",
+          "text": "@koolkrypto223 Post position"
         }
       ],
       "threads": {
@@ -5267,7 +5268,6 @@
         }
       },
       "trading": {
-        "2107894568507085235": false,
         "2107906207881232630": false,
         "2108668472196841823": false,
         "2109662643053371875": false,
@@ -5301,7 +5301,8 @@
         "2111862225484853381": false,
         "2111868524427948399": false,
         "2111870195140554867": true,
-        "2111871343109210201": true
+        "2111871343109210201": true,
+        "2111873335772541162": true
       },
       "user_id": "809191427645181952"
     }
@@ -5317,5 +5318,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T17:26:31+00:00"
+  "updated_at": "2026-10-18T17:34:20+00:00"
 }
