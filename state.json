@@ -829,7 +829,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2111727185186677222",
+      "last_id": "2111729056375091424",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1017,12 +1017,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-15T19:42:31.000Z",
-          "id": "2110818625087230265",
-          "reply_to_id": "2110813019231998434",
-          "text": "@WClemente the only safe haven is active trading &amp; beating the market \ud83d\ude33"
-        },
-        {
           "created_at": "2026-10-15T19:45:07.000Z",
           "id": "2110819278937342195",
           "reply_to_id": "2110818757497241877",
@@ -1105,6 +1099,12 @@
           "id": "2111727185186677222",
           "reply_to_id": "2111626209239121976",
           "text": "@Dior100x which anime"
+        },
+        {
+          "created_at": "2026-10-18T08:00:15.000Z",
+          "id": "2111729056375091424",
+          "reply_to_id": "2111452865688465505",
+          "text": "@CantelopePeel why"
         }
       ],
       "threads": {
@@ -1501,7 +1501,6 @@
         "2110767955630018575": false,
         "2110783883998544197": true,
         "2110810603417944213": true,
-        "2110818625087230265": true,
         "2110819278937342195": false,
         "2110953582128177604": false,
         "2111060480168972427": true,
@@ -1530,7 +1529,8 @@
         "2111703260654424065": false,
         "2111720867671502982": false,
         "2111723083107065935": false,
-        "2111727185186677222": false
+        "2111727185186677222": false,
+        "2111729056375091424": false
       },
       "user_id": "973261472"
     },
@@ -2353,7 +2353,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111724117732847972",
+      "last_id": "2111729115707654318",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2694,12 +2694,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-17T05:23:01.000Z",
-          "id": "2111327098485059640",
-          "reply_to_id": "2111236909066256543",
-          "text": "@0xKNL__ it literally moved up almost a whole billion dollars since we published the thesis \ud83e\udee0 0.05 -&gt; 0.12x"
-        },
-        {
           "created_at": "2026-10-17T05:31:22.000Z",
           "id": "2111329201060008290",
           "reply_to_id": "2111327543521358329",
@@ -2782,6 +2776,12 @@
           "id": "2111724117732847972",
           "reply_to_id": "2111723401203294440",
           "text": "@FlamantRoze maybe im wrong! sentiment around it is still at highs atm, this is pure exposure to a possible non-announcement sunday -&gt; flush futures open -&gt; flush monday"
+        },
+        {
+          "created_at": "2026-10-18T08:00:29.000Z",
+          "id": "2111729115707654318",
+          "reply_to_id": "2111720513005293575",
+          "text": "@zk222zk hunting asymmetric means that most times, the best returns are not necessarily from the most popular plays"
         }
       ],
       "threads": {
@@ -3256,7 +3256,6 @@
         "2111179586835005866": true,
         "2111320951355039804": true,
         "2111325378518421936": true,
-        "2111327098485059640": true,
         "2111329112027795621": false,
         "2111329201060008290": false,
         "2111329971717489001": false,
@@ -3275,7 +3274,8 @@
         "2111719169435881604": true,
         "2111720299024806384": true,
         "2111720741062488203": false,
-        "2111724117732847972": true
+        "2111724117732847972": true,
+        "2111729115707654318": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5244,5 +5244,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-18T07:54:17+00:00"
+  "updated_at": "2026-10-18T08:02:19+00:00"
 }
