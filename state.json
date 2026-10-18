@@ -3376,7 +3376,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2111944213352919424",
+      "last_id": "2111944930092294530",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3396,12 +3396,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T22:47:11.000Z",
-          "id": "2110502707383668934",
-          "reply_to_id": "2110502700999942172",
-          "text": "Watch on YT!\nhttps://t.co/zaJczCmRhI"
-        },
         {
           "created_at": "2026-10-14T22:58:35.000Z",
           "id": "2110505577793114242",
@@ -3515,10 +3509,15 @@
           "created_at": "2026-10-18T22:15:13.000Z",
           "id": "2111944213352919424",
           "text": "i bet everyone was screaming for black monday on the sunday before black monday"
+        },
+        {
+          "created_at": "2026-10-18T22:18:04.000Z",
+          "id": "2111944930092294530",
+          "reply_to_id": "2111944213352919424",
+          "text": "i have no coins and am having fun bear roping in telegram \ud83d\udcaa"
         }
       ],
       "reads": {
-        "2110502707383668934": "Read together with the post it replies to",
         "2110693154429214765": "No call",
         "2110699646641394005": "No call",
         "2110700561821487517": "No call",
@@ -3534,7 +3533,8 @@
         "2110900288483651945": "No call",
         "2111074640328262026": "No call",
         "2111475796993015853": "No call",
-        "2111944213352919424": "No call"
+        "2111944213352919424": "No call",
+        "2111944930092294530": "No call"
       },
       "replies": [
         {
@@ -3805,11 +3805,10 @@
         },
         "2111944213352919424": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2110502707383668934": false,
         "2110505577793114242": false,
         "2110693154429214765": true,
         "2110699646641394005": false,
@@ -3843,7 +3842,8 @@
         "2111840146593128633": true,
         "2111897228553916662": false,
         "2111936495653433559": false,
-        "2111944213352919424": true
+        "2111944213352919424": true,
+        "2111944930092294530": true
       },
       "user_id": "1426732252768182281"
     },
@@ -5379,5 +5379,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T22:16:25+00:00"
+  "updated_at": "2026-10-18T22:18:31+00:00"
 }
