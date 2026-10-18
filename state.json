@@ -4634,7 +4634,7 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111875879865389103",
+      "last_id": "2111892500210458979",
       "positions": {},
       "posts": [
         {
@@ -4780,12 +4780,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T15:09:04.000Z",
-          "id": "2109662643053371875",
-          "reply_to_id": "2108649293229801547",
-          "text": "@2cardtito Update?"
-        },
-        {
           "created_at": "2026-10-12T17:30:20.000Z",
           "id": "2109698195953692702",
           "reply_to_id": "2109677343610425650",
@@ -4868,6 +4862,12 @@
           "id": "2111875879865389103",
           "reply_to_id": "2111875711028056173",
           "text": "@koolkrypto223 You're the one quote tweeting me. Next time you place a trade can just P2P it with me, will save time."
+        },
+        {
+          "created_at": "2026-10-18T18:49:43.000Z",
+          "id": "2111892500210458979",
+          "reply_to_id": "2111885357319148019",
+          "text": "@koolkrypto223 @DeriveXYZ Pleb size, also not using Derive - DM\u2019d though"
         }
       ],
       "threads": {
@@ -5275,7 +5275,6 @@
         }
       },
       "trading": {
-        "2109662643053371875": false,
         "2109698195953692702": false,
         "2110411948982460824": true,
         "2110572720375181652": false,
@@ -5309,7 +5308,8 @@
         "2111873335772541162": true,
         "2111874363234426989": true,
         "2111875627015966918": true,
-        "2111875879865389103": false
+        "2111875879865389103": false,
+        "2111892500210458979": true
       },
       "user_id": "809191427645181952"
     }
@@ -5325,5 +5325,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T18:48:19+00:00"
+  "updated_at": "2026-10-18T18:50:20+00:00"
 }
