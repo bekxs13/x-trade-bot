@@ -783,12 +783,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2111521940255219755",
-          "reason": "Says he is 'leaning toward a more aggressive bull market than most people are expecting' with institutional flows into BTC and onchain businesses, matching his recorded bullish crypto market view.",
+          "post_id": "2111899765323759684",
+          "reason": "\"not great spot tbh\", alts crushed, majors at last support, derisking more, and he warns of another -20% on majors, though he still expects a possible bounce.",
           "scope": "crypto market",
-          "since": "2026-10-13",
-          "stance": "bullish",
-          "updated_at": "2026-10-17T18:17:15.000Z"
+          "since": "2026-10-18",
+          "stance": "bearish",
+          "updated_at": "2026-10-18T19:18:35.000Z"
         },
         "memecoins": {
           "market": "crypto",
@@ -827,26 +827,26 @@
           "updated_at": "2026-10-09T02:04:34.000Z"
         }
       },
-      "closed": [],
-      "handle": "blknoiz06",
-      "last_id": "2111898945169297708",
-      "positions": {
-        "BTC": {
+      "closed": [
+        {
           "asset": "BTC",
-          "chain": "",
-          "confidence": 0.92,
-          "contract_address": "",
+          "close_price": 81045.835,
+          "close_url": "https://x.com/blknoiz06/status/2111899765323759684",
+          "closed": "2026-10-18T19:18:35.000Z",
           "direction": "long",
-          "entry": "$82k",
-          "horizon": "swing to ATHs",
+          "flipped": false,
           "market": "crypto",
+          "move": null,
           "open_price": null,
-          "post_id": "2108380342608712030",
-          "reason": "Post says \"long $BTC entry: $82k stop: $74.6k target: ATHs\" with a long position box drawn on the BTC 3D chart.",
-          "since": "2026-10-09T02:13:40.000Z",
-          "structure": "unknown",
-          "url": "https://x.com/blknoiz06/status/2108380342608712030"
-        },
+          "open_url": "https://x.com/blknoiz06/status/2108380342608712030",
+          "opened": "2026-10-09T02:13:40.000Z",
+          "partial": false,
+          "structure": "unknown"
+        }
+      ],
+      "handle": "blknoiz06",
+      "last_id": "2111899765323759684",
+      "positions": {
         "GRASS": {
           "asset": "GRASS",
           "chain": "solana",
@@ -865,12 +865,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T17:24:29.000Z",
-          "id": "2110783883998544197",
-          "quoted_text": "@blknoiz06 When Ansem shrugs the move is already done",
-          "text": "80k key support level stop run + retest\n\n$1B in longs liquidated\n\ncpi + ppi extremely bad &amp; no bearish follow through, + bond yields *down*\n\nanthropic rev numbers have nothing to do w/ btc\n\npain trade is up, nobody holds any bitcoin https://t.co/xl09ohBCRY"
-        },
         {
           "created_at": "2026-10-15T19:10:39.000Z",
           "id": "2110810603417944213",
@@ -997,10 +991,15 @@
             "https://pbs.twimg.com/media/HU745WyWEAAZLDW.jpg"
           ],
           "text": "they dont know tomorrow is black monday https://t.co/90Bnbhg92b"
+        },
+        {
+          "created_at": "2026-10-18T19:18:35.000Z",
+          "id": "2111899765323759684",
+          "quoted_text": "$90k by end of the week",
+          "text": "got smoked on this btw\n\nequities & stock momo leaders put in nasty weekly candles across board\n\nalts got crushed & majors at their last major support levels\n\nnot great spot tbh, cut longs & likely derisking more before open - do think we're due for a bounce but the alternative is another -20% on majors"
         }
       ],
       "reads": {
-        "2110783883998544197": "No call: bullish on btc (same view as before)",
         "2110810603417944213": "No call",
         "2111062131437433031": "No call",
         "2111095056778301444": "No call",
@@ -1019,7 +1018,8 @@
         "2111723083107065935": "No call",
         "2111733530757570629": "No call",
         "2111779407807574066": "No call",
-        "2111898945169297708": "No call"
+        "2111898945169297708": "No call",
+        "2111899765323759684": "TRADE EXIT BTC \u00b7 VIEW bearish on crypto market"
       },
       "replies": [
         {
@@ -1511,10 +1511,16 @@
         "2111898945169297708": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111899765323759684": {
+          "alerted": [
+            "trade:BTC:exit",
+            "bias:crypto market:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110783883998544197": true,
         "2110810603417944213": true,
         "2111062131437433031": true,
         "2111069349788156236": false,
@@ -1548,7 +1554,8 @@
         "2111804903404491125": false,
         "2111887716074058106": false,
         "2111889484795265389": false,
-        "2111898945169297708": true
+        "2111898945169297708": true,
+        "2111899765323759684": true
       },
       "user_id": "973261472"
     },
@@ -5346,5 +5353,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T19:18:18+00:00"
+  "updated_at": "2026-10-18T19:20:24+00:00"
 }
