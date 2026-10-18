@@ -1847,12 +1847,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2109778560567402878",
-          "reason": "'top range is yearly open and we gonna spike sub 81' fits his repeated use of yearly opens on majors as pivots. He'd only long HYPE and ETH 'after clarity', which matches his ongoing 'crypto needs patience' view.",
+          "post_id": "2111890566019772828",
+          "reason": "Expects trad weakness to push BTC below 81k, alts making new lows, 'not the time to press risk' \u2014 matches recorded bearish crypto view.",
           "scope": "crypto market",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-12T22:49:41.000Z"
+          "updated_at": "2026-10-18T18:42:02.000Z"
         },
         "stocks/macro": {
           "market": "stocks",
@@ -1882,7 +1882,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2111161973652046132",
+      "last_id": "2111890566019772828",
       "positions": {
         "GOOG": {
           "asset": "GOOG",
@@ -1902,12 +1902,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-13T21:52:44.000Z",
-          "id": "2110126618689847606",
-          "reply_to_id": "2110126472363229416",
-          "text": "Prepare for another celeb extraction season LETS GOOOO"
-        },
         {
           "created_at": "2026-10-14T16:11:59.000Z",
           "id": "2110403253859172431",
@@ -2017,10 +2011,14 @@
           "id": "2111144621497799027",
           "reply_to_id": "2111144245436506126",
           "text": "When you start to get shilled grass and Tia seriously from multiple people, you know it\u2019s time to take some chips off the table lmao"
+        },
+        {
+          "created_at": "2026-10-18T18:42:02.000Z",
+          "id": "2111890566019772828",
+          "text": "Previously strong alts continue to respect their broken market structure and make new lows, at best things like hype are at support along with btc, but how many times can btc push into 81 without accepting below \n\nWould assume trad weakness this week crushes us below 81 btc \n\nAgain, saying it for weeks, with previously strong alts continuing to respect their broken structures and make new highs/lows, it\u2019s not the time to press risk \n\nAlso have a feeling alts will lead and make their bottoms first whenever it occurs"
         }
       ],
       "reads": {
-        "2110126618689847606": "Read together with the post it replies to",
         "2110404903390892262": "VIEW bearish on stocks/macro",
         "2110406447486120042": "No call",
         "2110406716168999079": "Read together with the post it replies to",
@@ -2033,7 +2031,8 @@
         "2110770468592734263": "TRADE EXIT EWY",
         "2110770912429838604": "No call",
         "2111144245436506126": "No call: bearish on alts (same view as before)",
-        "2111144621497799027": "Read together with the post it replies to"
+        "2111144621497799027": "Read together with the post it replies to",
+        "2111890566019772828": "No call: bearish on crypto market (same view as before)"
       },
       "replies": [
         {
@@ -2257,10 +2256,13 @@
         "2111144245436506126": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2111890566019772828": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110126618689847606": true,
         "2110403253859172431": false,
         "2110404903390892262": true,
         "2110406447486120042": true,
@@ -2294,7 +2296,8 @@
         "2111148084382306662": true,
         "2111161142244671905": false,
         "2111161834891776462": true,
-        "2111161973652046132": true
+        "2111161973652046132": true,
+        "2111890566019772828": true
       },
       "user_id": "953032269433745408"
     },
@@ -5319,5 +5322,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T18:38:18+00:00"
+  "updated_at": "2026-10-18T18:42:22+00:00"
 }
