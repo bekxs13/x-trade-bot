@@ -4628,14 +4628,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111859899441549668",
+      "last_id": "2111861754129227930",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-16T18:25:13.000Z",
-          "id": "2111161559317946701",
-          "text": "How are we feeling"
-        },
         {
           "created_at": "2026-10-16T19:04:08.000Z",
           "id": "2111171350538666230",
@@ -4743,10 +4738,15 @@
           "created_at": "2026-10-18T16:40:11.000Z",
           "id": "2111859899441549668",
           "text": "Get your shopping list ready"
+        },
+        {
+          "created_at": "2026-10-18T16:47:33.000Z",
+          "id": "2111861754129227930",
+          "quoted_text": "Sunday Spaces returns this weekend at 7pm EST.\n\nWith my (now famous) cohost @SoskaKyle.",
+          "text": "We'll be covering:\n\n- Trading lessons from the past\n- Anthropic/OAI revenues\n- CRWV and Neoclouds\n- What we're looking at into end of year\n\nSee you tonight at 7pm EST. https://t.co/8869jYWTTY"
         }
       ],
       "reads": {
-        "2111161559317946701": "No call",
         "2111171350538666230": "No call",
         "2111172044972757120": "No call",
         "2111173105548931476": "No call: maybe exit  (60%, too unsure); bearish on stocks/macro (same view as before)",
@@ -4765,7 +4765,8 @@
         "2111648982472749541": "No call",
         "2111660440891932781": "No call",
         "2111846835467747488": "No call: bearish on stocks/macro (same view as before)",
-        "2111859899441549668": "No call"
+        "2111859899441549668": "No call",
+        "2111861754129227930": "No call"
       },
       "replies": [
         {
@@ -5249,6 +5250,10 @@
         "2111859899441549668": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111861754129227930": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5264,7 +5269,6 @@
         "2110757594923200856": false,
         "2110832817840259528": false,
         "2111135946112397498": true,
-        "2111161559317946701": false,
         "2111171350538666230": true,
         "2111172044972757120": false,
         "2111173105548931476": true,
@@ -5286,7 +5290,8 @@
         "2111648982472749541": false,
         "2111660440891932781": false,
         "2111846835467747488": true,
-        "2111859899441549668": true
+        "2111859899441549668": true,
+        "2111861754129227930": true
       },
       "user_id": "809191427645181952"
     }
@@ -5302,5 +5307,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T16:42:26+00:00"
+  "updated_at": "2026-10-18T16:48:24+00:00"
 }
