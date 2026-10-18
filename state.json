@@ -4687,14 +4687,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111898450333757538",
+      "last_id": "2111957092781240827",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-16T21:45:16.000Z",
-          "id": "2111211900990054557",
-          "text": "I think what we'll learn from this entire thing is that over a certain amount of revenue companies should be forced to go public."
-        },
         {
           "created_at": "2026-10-17T19:35:29.000Z",
           "id": "2111541630171791392",
@@ -4808,10 +4803,14 @@
           "created_at": "2026-10-18T19:13:22.000Z",
           "id": "2111898450333757538",
           "text": "Every time I think trading will only get more difficult I remember there\u2019s people long Ethereum in 2026"
+        },
+        {
+          "created_at": "2026-10-18T23:06:23.000Z",
+          "id": "2111957092781240827",
+          "text": "Comfy Sunday Spaces v37: OAI/Anthropic Revenues, Neocloud volatility and Trading Philosophy https://t.co/VKbuf7HzX4"
         }
       ],
       "reads": {
-        "2111211900990054557": "No call",
         "2111541630171791392": "No call",
         "2111577993311117630": "VIEW bearish on crypto market",
         "2111579791379820967": "VIEW bearish on MU",
@@ -4829,7 +4828,8 @@
         "2111861754129227930": "No call",
         "2111862225484853381": "No call",
         "2111871343109210201": "No call: bearish on LIT (60%, too unsure)",
-        "2111898450333757538": "VIEW bearish on eth"
+        "2111898450333757538": "VIEW bearish on eth",
+        "2111957092781240827": "No call"
       },
       "replies": [
         {
@@ -5331,6 +5331,10 @@
             "bias:eth:bearish"
           ],
           "self_replies": 0
+        },
+        "2111957092781240827": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5341,7 +5345,6 @@
         "2110832817840259528": false,
         "2111135946112397498": true,
         "2111183217843679578": false,
-        "2111211900990054557": false,
         "2111505410444411366": true,
         "2111541630171791392": false,
         "2111577993311117630": true,
@@ -5368,7 +5371,8 @@
         "2111875627015966918": true,
         "2111875879865389103": false,
         "2111892500210458979": true,
-        "2111898450333757538": true
+        "2111898450333757538": true,
+        "2111957092781240827": true
       },
       "user_id": "809191427645181952"
     }
@@ -5384,5 +5388,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T23:02:23+00:00"
+  "updated_at": "2026-10-18T23:08:23+00:00"
 }
