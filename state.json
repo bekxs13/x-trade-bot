@@ -2365,7 +2365,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111797927941382371",
+      "last_id": "2111812894677676101",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2575,14 +2575,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-16T09:20:26.000Z",
-          "id": "2111024457200566379",
-          "images": [
-            "https://pbs.twimg.com/media/HUvdjXba4AADa13.jpg"
-          ],
-          "text": "bought arbitrum\n\nhas been gaining relative strength on ltf the past two days, incredible chart on htf\n\n$arb https://t.co/rOlN5Tr0sq"
-        },
-        {
           "created_at": "2026-10-16T10:25:16.000Z",
           "id": "2111040774209159407",
           "images": [
@@ -2703,10 +2695,18 @@
           ],
           "reply_to_id": "2111639675291250715",
           "text": "for majors, current hedges are: short altcoins that arent sol eth hype -&gt; tia, near\n\ndefault exposure: directionally long btc, btc/qqq vs qqq has been gaining strength in both directions of qqq (mkt neutral, not beta)\n\n(strk is in a spot of its own) https://t.co/ctis2M9HAN"
+        },
+        {
+          "created_at": "2026-10-18T13:33:24.000Z",
+          "id": "2111812894677676101",
+          "images": [
+            "https://pbs.twimg.com/media/HU6qolWbwAE7W1K.jpg"
+          ],
+          "quoted_text": "shorting $near 4.99 stop 5.3x https://t.co/dXHbYQrgDj",
+          "text": "moving\n\n$near https://t.co/hecprgCCb9 https://t.co/aEZBKVAOlr"
         }
       ],
       "reads": {
-        "2111024457200566379": "TRADE LONG ARB",
         "2111040774209159407": "No call: bullish on STRK (same view as before)",
         "2111044235860541566": "No call",
         "2111128021445017785": "TRADE SHORT TIA",
@@ -2721,7 +2721,8 @@
         "2111681194605814015": "No call",
         "2111696325918216570": "No call",
         "2111717291239022893": "TRADE SHORT NEAR",
-        "2111766102510289099": "TRADE LONG BTC"
+        "2111766102510289099": "TRADE LONG BTC",
+        "2111812894677676101": "No call"
       },
       "replies": [
         {
@@ -2816,10 +2817,6 @@
         }
       ],
       "threads": {
-        "2108925626556330006": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108925965778972962": {
           "alerted": [
             "trade:STRK:long"
@@ -3271,10 +3268,13 @@
             "trade:NEAR:short"
           ],
           "self_replies": 0
+        },
+        "2111812894677676101": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111024457200566379": true,
         "2111040774209159407": true,
         "2111044235860541566": true,
         "2111055132083568796": true,
@@ -3308,7 +3308,8 @@
         "2111739307455365621": true,
         "2111760398835912881": false,
         "2111766102510289099": true,
-        "2111797927941382371": false
+        "2111797927941382371": false,
+        "2111812894677676101": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5289,5 +5290,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T13:02:16+00:00"
+  "updated_at": "2026-10-18T13:34:22+00:00"
 }
