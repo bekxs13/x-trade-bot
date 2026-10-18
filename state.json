@@ -2365,7 +2365,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111826177614840257",
+      "last_id": "2111828148824498224",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2731,12 +2731,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T07:40:38.000Z",
-          "id": "2111724117732847972",
-          "reply_to_id": "2111723401203294440",
-          "text": "@FlamantRoze maybe im wrong! sentiment around it is still at highs atm, this is pure exposure to a possible non-announcement sunday -&gt; flush futures open -&gt; flush monday"
-        },
-        {
           "created_at": "2026-10-18T08:00:29.000Z",
           "id": "2111729115707654318",
           "reply_to_id": "2111720513005293575",
@@ -2819,6 +2813,12 @@
           "id": "2111826177614840257",
           "reply_to_id": "2111823182265033143",
           "text": "@MGoatW np, lets get it!"
+        },
+        {
+          "created_at": "2026-10-18T14:34:01.000Z",
+          "id": "2111828148824498224",
+          "reply_to_id": "2111815184620933378",
+          "text": "i got nothing from them, actually on the verge of roundtrip atm\n\ni cant comment without fudding in regards to how their team members are managing sentiment & spot flows.. tech & forward-looking catalysts wise the thesis is still the same, as long as they manage sentiment decently and fix their mistakes of the past there is upside"
         }
       ],
       "threads": {
@@ -3294,7 +3294,6 @@
         "2111681194605814015": true,
         "2111696325918216570": true,
         "2111717291239022893": true,
-        "2111724117732847972": true,
         "2111729115707654318": true,
         "2111734448001839331": false,
         "2111735874987684262": true,
@@ -3312,7 +3311,8 @@
         "2111819858929475631": true,
         "2111820891642527869": true,
         "2111821855711740202": true,
-        "2111826177614840257": false
+        "2111826177614840257": false,
+        "2111828148824498224": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5293,5 +5293,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T14:28:17+00:00"
+  "updated_at": "2026-10-18T14:34:18+00:00"
 }
