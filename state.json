@@ -1882,7 +1882,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2111891987742019640",
+      "last_id": "2111892894462394708",
       "positions": {
         "GOOG": {
           "asset": "GOOG",
@@ -2039,12 +2039,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-14T21:25:10.000Z",
-          "id": "2110482069294076009",
-          "reply_to_id": "2110481026862690792",
-          "text": "@jords Was quite good about ignoring things but trying to be more purposeful about interacting on the plus side"
-        },
-        {
           "created_at": "2026-10-15T00:35:45.000Z",
           "id": "2110530030434693628",
           "reply_to_id": "2110529256077791618",
@@ -2127,6 +2121,12 @@
           "id": "2111161973652046132",
           "reply_to_id": "2111149801358381184",
           "text": "@JokoTrades Same, best to just keep looking for free trades while the broader market sorts itself out"
+        },
+        {
+          "created_at": "2026-10-18T18:51:17.000Z",
+          "id": "2111892894462394708",
+          "reply_to_id": "2111892267665686703",
+          "text": "@cornd0gman I am always exceedingly clear and make it a point to be so in a Twitter of people posting long bias vague bullshit with no exits"
         }
       ],
       "threads": {
@@ -2272,7 +2272,6 @@
         "2110447305740742802": false,
         "2110447643642245266": false,
         "2110450730079510702": false,
-        "2110482069294076009": false,
         "2110526910442954926": true,
         "2110528172307697874": false,
         "2110530030434693628": true,
@@ -2300,7 +2299,8 @@
         "2111890566019772828": true,
         "2111890824229470507": true,
         "2111891183027065262": true,
-        "2111891987742019640": true
+        "2111891987742019640": true,
+        "2111892894462394708": true
       },
       "user_id": "953032269433745408"
     },
@@ -5325,5 +5325,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T18:50:20+00:00"
+  "updated_at": "2026-10-18T18:52:16+00:00"
 }
