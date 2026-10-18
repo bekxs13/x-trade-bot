@@ -2341,7 +2341,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111639675291250715",
+      "last_id": "2111681194605814015",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2519,11 +2519,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-16T06:48:57.000Z",
-          "id": "2110986336081703232",
-          "text": "looking good bros"
-        },
-        {
           "created_at": "2026-10-16T07:09:17.000Z",
           "id": "2110991453858234518",
           "quoted_text": "we didnt make any noticeable lows on the big3 even on ai fud + anth financials fud + cpi fud + ppi fud as risk assets crashed this week, while spot flows on btc, sol remained strong\n\nthink that next igv &amp; crypto majors (esp sol) leg up is going to be really noticeable htf",
@@ -2639,10 +2634,14 @@
           "id": "2111639675291250715",
           "quoted_text": "igv crash today feels similar to july momo factor explosion for semis \n\nthat liquidated both leo and (nearly) serenity\n\nit was so bad she became serenity research",
           "text": "best get hedges\n\nadmin saved weekend markets on the weekend of july semis sector explosion\n\nbut not this weekend yet, so far https://t.co/O3GnFm4fTo"
+        },
+        {
+          "created_at": "2026-10-18T04:50:04.000Z",
+          "id": "2111681194605814015",
+          "text": "opening a spot at research desk\n\nno need to bring capital - we will inject capital to strategies, you keep a cut of profits\n\nexpected to be very well versed in python, pandas, and golang/rust (we will test) & market microstructure (us equities, asian equities, crypto perpetuals)\n\nbase salary negotiable"
         }
       ],
       "reads": {
-        "2110986336081703232": "No call",
         "2110991453858234518": "No call: bullish on alts (same view as before)",
         "2110991803566703085": "No call: bullish on alts (same view as before)",
         "2111020071149871233": "No call",
@@ -2657,7 +2656,8 @@
         "2111179586835005866": "No call",
         "2111320951355039804": "No call: bullish on alts (same view as before)",
         "2111325378518421936": "No call",
-        "2111639675291250715": "No call: bearish on stocks/macro (65%, too unsure)"
+        "2111639675291250715": "No call: bearish on stocks/macro (65%, too unsure)",
+        "2111681194605814015": "No call"
       },
       "replies": [
         {
@@ -2752,10 +2752,6 @@
         }
       ],
       "threads": {
-        "2108920984501887487": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108921463923408962": {
           "alerted": [],
           "self_replies": 0
@@ -3203,10 +3199,13 @@
         "2111639675291250715": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111681194605814015": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110986336081703232": false,
         "2110991453858234518": true,
         "2110991803566703085": true,
         "2111020071149871233": true,
@@ -3240,7 +3239,8 @@
         "2111482569950957689": false,
         "2111482626292981878": false,
         "2111633226871824752": true,
-        "2111639675291250715": true
+        "2111639675291250715": true,
+        "2111681194605814015": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5209,5 +5209,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-18T04:34:24+00:00"
+  "updated_at": "2026-10-18T04:50:23+00:00"
 }
