@@ -4519,14 +4519,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111605916680196276",
+      "last_id": "2111618271585747156",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-16T15:17:44.000Z",
-          "id": "2111114374412636556",
-          "text": "AI infra companies look like 2021 L1 tokens"
-        },
         {
           "created_at": "2026-10-16T15:20:16.000Z",
           "id": "2111115012798296355",
@@ -4628,10 +4623,17 @@
           "created_at": "2026-10-17T23:50:56.000Z",
           "id": "2111605916680196276",
           "text": "Don\u2019t think I\u2019ve ever seen people this emotional when I\u2019m being publicly bearish."
+        },
+        {
+          "created_at": "2026-10-18T00:40:02.000Z",
+          "id": "2111618271585747156",
+          "images": [
+            "https://pbs.twimg.com/media/HU35oJGWsAAFhdl.jpg"
+          ],
+          "text": "Saturday https://t.co/FstMQEb1My"
         }
       ],
       "reads": {
-        "2111114374412636556": "No call: bearish on stocks/macro (same view as before)",
         "2111115012798296355": "No call",
         "2111116591400468819": "No call",
         "2111120109729407227": "No call: bearish on trading card companies (60%, too unsure)",
@@ -4650,7 +4652,8 @@
         "2111582981420642576": "No call: bearish on stocks/macro (same view as before)",
         "2111583825256214637": "No call",
         "2111584400148455443": "No call",
-        "2111605916680196276": "No call: bearish on stocks/macro (same view as before)"
+        "2111605916680196276": "No call: bearish on stocks/macro (same view as before)",
+        "2111618271585747156": "No call"
       },
       "replies": [
         {
@@ -5110,6 +5113,10 @@
         "2111605916680196276": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111618271585747156": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5124,7 +5131,6 @@
         "2110572720375181652": false,
         "2110757594923200856": false,
         "2110832817840259528": false,
-        "2111114374412636556": true,
         "2111115012798296355": true,
         "2111116591400468819": true,
         "2111120109729407227": true,
@@ -5147,7 +5153,8 @@
         "2111582981420642576": true,
         "2111583825256214637": true,
         "2111584400148455443": true,
-        "2111605916680196276": true
+        "2111605916680196276": true,
+        "2111618271585747156": false
       },
       "user_id": "809191427645181952"
     }
@@ -5163,5 +5170,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-17T23:56:20+00:00"
+  "updated_at": "2026-10-18T00:40:21+00:00"
 }
