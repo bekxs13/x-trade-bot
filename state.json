@@ -854,7 +854,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2111904166327222564",
+      "last_id": "2111906147116413196",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -874,12 +874,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-16T11:50:08.000Z",
-          "id": "2111062131437433031",
-          "quoted_text": "oh wow a skill based form of gambling where people use tools and every possible edge they can get is hard to win at and most people lose wow thanks for telling me I had absolutely no idea I just figured everyone showed up and was handed free money for trading meme coins and we were all going to make it together because obviously that\u2019s how competitive markets work wow this has been incredibly eye opening thank you so much",
-          "text": "\ud83d\ude02 https://t.co/ow5RJXqUpq"
-        },
         {
           "created_at": "2026-10-16T14:00:58.000Z",
           "id": "2111095056778301444",
@@ -1009,10 +1003,14 @@
           ],
           "quoted_text": "@blknoiz06 What's your thoughts on the black monday doom talk?",
           "text": "dont know, i just look at charts\n\nreasoning for my being bullish past week was that a higher high here would maintain bullish structure and trend\n\nweekly bearish engulfing to downside breaks trend & makes it more likely the inefficient move we had on the way up gets filled\n\nthis setup + equities having reason to selloff w/ macro/inflation fears + anthropic growth slowdown is enough to be concerned"
+        },
+        {
+          "created_at": "2026-10-18T19:43:57.000Z",
+          "id": "2111906147116413196",
+          "text": "we are losing to the panthers man"
         }
       ],
       "reads": {
-        "2111062131437433031": "No call",
         "2111095056778301444": "No call",
         "2111105247699665407": "No call",
         "2111117340779937937": "No call",
@@ -1031,7 +1029,8 @@
         "2111779407807574066": "No call",
         "2111898945169297708": "No call",
         "2111899765323759684": "TRADE EXIT BTC \u00b7 VIEW bearish on crypto market",
-        "2111904166327222564": "VIEW bearish on eth"
+        "2111904166327222564": "VIEW bearish on eth",
+        "2111906147116413196": "No call"
       },
       "replies": [
         {
@@ -1536,10 +1535,13 @@
             "bias:eth:bearish"
           ],
           "self_replies": 0
+        },
+        "2111906147116413196": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111062131437433031": true,
         "2111069349788156236": false,
         "2111095056778301444": true,
         "2111105247699665407": true,
@@ -1573,7 +1575,8 @@
         "2111889484795265389": false,
         "2111898945169297708": true,
         "2111899765323759684": true,
-        "2111904166327222564": true
+        "2111904166327222564": true,
+        "2111906147116413196": false
       },
       "user_id": "973261472"
     },
@@ -5371,5 +5374,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T19:36:23+00:00"
+  "updated_at": "2026-10-18T19:44:21+00:00"
 }
