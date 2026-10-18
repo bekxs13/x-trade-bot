@@ -2341,7 +2341,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111682122335613181",
+      "last_id": "2111696325918216570",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2519,12 +2519,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-16T07:09:17.000Z",
-          "id": "2110991453858234518",
-          "quoted_text": "we didnt make any noticeable lows on the big3 even on ai fud + anth financials fud + cpi fud + ppi fud as risk assets crashed this week, while spot flows on btc, sol remained strong\n\nthink that next igv &amp; crypto majors (esp sol) leg up is going to be really noticeable htf",
-          "text": "early alt szn\n\nlearned a lot recently! adapting faster than ever to this asset class\n\ngoing back to cross-asset &amp; macro roots to generate edge\n\nMP https://t.co/j6QVxv239E"
-        },
-        {
           "created_at": "2026-10-16T07:10:40.000Z",
           "id": "2110991803566703085",
           "quoted_text": "we didnt make any noticeable lows on the big3 even on ai fud + anth financials fud + cpi fud + ppi fud as risk assets crashed this week, while spot flows on btc, sol remained strong\n\nthink that next igv &amp; crypto majors (esp sol) leg up is going to be really noticeable htf",
@@ -2639,10 +2633,20 @@
           "created_at": "2026-10-18T04:50:04.000Z",
           "id": "2111681194605814015",
           "text": "opening a spot at research desk\n\nno need to bring capital - we will inject capital to strategies, you keep a cut of profits\n\nexpected to be very well versed in python, pandas, and golang/rust (we will test) & market microstructure (us equities, asian equities, crypto perpetuals)\n\nbase salary negotiable"
+        },
+        {
+          "created_at": "2026-10-18T05:50:12.000Z",
+          "id": "2111696325918216570",
+          "images": [
+            "https://pbs.twimg.com/media/HU5AmzsaAAAzmqL.jpg",
+            "https://pbs.twimg.com/media/HU5AnJabQAAbIX_.jpg",
+            "https://pbs.twimg.com/media/HU5AnbbaIAA7loG.jpg"
+          ],
+          "quoted_text": "looks like its happening again \n\nshorting tia https://t.co/W75gt1GIS9 https://t.co/ARAAQEvz8j",
+          "text": "looks like its first to break down &amp; accelerating atm\n\n$tia https://t.co/rnKYMfs1m3 https://t.co/dJqonGHATY"
         }
       ],
       "reads": {
-        "2110991453858234518": "No call: bullish on alts (same view as before)",
         "2110991803566703085": "No call: bullish on alts (same view as before)",
         "2111020071149871233": "No call",
         "2111024457200566379": "TRADE LONG ARB",
@@ -2657,7 +2661,8 @@
         "2111320951355039804": "No call: bullish on alts (same view as before)",
         "2111325378518421936": "No call",
         "2111639675291250715": "No call: bearish on stocks/macro (65%, too unsure)",
-        "2111681194605814015": "No call"
+        "2111681194605814015": "No call",
+        "2111696325918216570": "No call"
       },
       "replies": [
         {
@@ -2752,10 +2757,6 @@
         }
       ],
       "threads": {
-        "2108921463923408962": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108922234521759769": {
           "alerted": [],
           "self_replies": 0
@@ -3203,10 +3204,13 @@
         "2111681194605814015": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111696325918216570": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110991453858234518": true,
         "2110991803566703085": true,
         "2111020071149871233": true,
         "2111024457200566379": true,
@@ -3240,7 +3244,8 @@
         "2111633226871824752": true,
         "2111639675291250715": true,
         "2111681194605814015": true,
-        "2111682122335613181": false
+        "2111682122335613181": false,
+        "2111696325918216570": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5209,5 +5214,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-18T05:20:19+00:00"
+  "updated_at": "2026-10-18T05:52:19+00:00"
 }
