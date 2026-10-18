@@ -2341,7 +2341,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111482626292981878",
+      "last_id": "2111633226871824752",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2661,12 +2661,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T17:19:40.000Z",
-          "id": "2111145062751195270",
-          "reply_to_id": "2111144693316592081",
-          "text": "@GalleonCrypto or actually yeah, time to touch some grass"
-        },
-        {
           "created_at": "2026-10-16T17:25:21.000Z",
           "id": "2111146491838701586",
           "reply_to_id": "2111145406839070774",
@@ -2749,6 +2743,12 @@
           "id": "2111482626292981878",
           "reply_to_id": "2111362204347851162",
           "text": "@HYPEconomist U got it bro\ud83d\udd25"
+        },
+        {
+          "created_at": "2026-10-18T01:39:28.000Z",
+          "id": "2111633226871824752",
+          "reply_to_id": "2111539938357289368",
+          "text": "@Cudan_Svat agreed with last sentence, its good tech but some strk employees need to be cleaned out\n\nfortunately most of them are nearing fully out"
         }
       ],
       "threads": {
@@ -3220,7 +3220,6 @@
         "2111131990410072116": true,
         "2111132623271862443": true,
         "2111138614273101908": true,
-        "2111145062751195270": false,
         "2111146491838701586": true,
         "2111171642449867008": true,
         "2111174650604773834": true,
@@ -3240,7 +3239,8 @@
         "2111329971717489001": false,
         "2111343022973608411": true,
         "2111482569950957689": false,
-        "2111482626292981878": false
+        "2111482626292981878": false,
+        "2111633226871824752": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5170,5 +5170,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-18T00:40:21+00:00"
+  "updated_at": "2026-10-18T01:40:22+00:00"
 }
