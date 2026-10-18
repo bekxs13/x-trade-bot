@@ -4519,14 +4519,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111648982472749541",
+      "last_id": "2111660440891932781",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-16T15:40:31.000Z",
-          "id": "2111120109729407227",
-          "text": "How do I short trading card companies"
-        },
         {
           "created_at": "2026-10-16T16:57:37.000Z",
           "id": "2111139510926893163",
@@ -4634,10 +4629,14 @@
             "https://pbs.twimg.com/media/HU4VjruWkAEdr_Y.jpg"
           ],
           "text": "Who the fuck does my girlfriend think I am https://t.co/h69dDv3Y8n"
+        },
+        {
+          "created_at": "2026-10-18T03:27:36.000Z",
+          "id": "2111660440891932781",
+          "text": "My Wicked, Wicked Ways"
         }
       ],
       "reads": {
-        "2111120109729407227": "No call: bearish on trading card companies (60%, too unsure)",
         "2111139510926893163": "No call",
         "2111144786912522255": "No call",
         "2111161559317946701": "No call",
@@ -4656,7 +4655,8 @@
         "2111605916680196276": "No call: bearish on stocks/macro (same view as before)",
         "2111618271585747156": "No call",
         "2111633857695100982": "No call",
-        "2111648982472749541": "No call"
+        "2111648982472749541": "No call",
+        "2111660440891932781": "No call"
       },
       "replies": [
         {
@@ -5128,6 +5128,10 @@
         "2111648982472749541": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111660440891932781": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5142,7 +5146,6 @@
         "2110572720375181652": false,
         "2110757594923200856": false,
         "2110832817840259528": false,
-        "2111120109729407227": true,
         "2111135946112397498": true,
         "2111139510926893163": false,
         "2111144786912522255": false,
@@ -5165,7 +5168,8 @@
         "2111605916680196276": true,
         "2111618271585747156": false,
         "2111633857695100982": false,
-        "2111648982472749541": false
+        "2111648982472749541": false,
+        "2111660440891932781": false
       },
       "user_id": "809191427645181952"
     }
@@ -5181,5 +5185,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-18T02:52:17+00:00"
+  "updated_at": "2026-10-18T03:28:18+00:00"
 }
