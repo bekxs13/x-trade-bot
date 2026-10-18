@@ -1920,7 +1920,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2111899435571761222",
+      "last_id": "2111951201671712775",
       "positions": {
         "GOOG": {
           "asset": "GOOG",
@@ -1940,12 +1940,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T16:25:45.000Z",
-          "id": "2110406716168999079",
-          "reply_to_id": "2110406447486120042",
-          "text": "Getting back into my flow very nicely, even got some friends to sell their spot names in tradfi they can rebuy 20%+ lower now lmfao \n\nRhino up only wooo I missed this feeling"
-        },
         {
           "created_at": "2026-10-14T16:27:41.000Z",
           "id": "2110407204704747599",
@@ -2058,10 +2052,14 @@
           "quoted_text": "Market structure on previously strong coins was indeed broken and yearly opens continued to get respected. Things look much worse with eth below 25s. Btc above 81 sure but can\u2019t really expect alts to go for strong trends again. \n\nLose as little as possible between your good ideas https://t.co/9VlJlOo6MN",
           "reply_to_id": "2111891183027065262",
           "text": "Progressively update and adjust views, wanted 81 spike to long eventually decided it didn\u2019t look good https://t.co/f25KpaNYm3"
+        },
+        {
+          "created_at": "2026-10-18T22:42:59.000Z",
+          "id": "2111951201671712775",
+          "text": "Amateurs calling for Oct 19 1987 \n\nProfessionals know it\u2019s more akin to June 12 1784"
         }
       ],
       "reads": {
-        "2110406716168999079": "Read together with the post it replies to",
         "2110446822707929422": "No call",
         "2110447305740742802": "No call",
         "2110526910442954926": "No call",
@@ -2073,7 +2071,8 @@
         "2111144245436506126": "No call: bearish on alts (same view as before)",
         "2111144621497799027": "Read together with the post it replies to",
         "2111890566019772828": "No call: bearish on crypto market (same view as before)",
-        "2111890824229470507": "No call"
+        "2111890824229470507": "No call",
+        "2111951201671712775": "No call"
       },
       "replies": [
         {
@@ -2301,10 +2300,13 @@
         "2111890566019772828": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2111951201671712775": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110406716168999079": true,
         "2110407204704747599": true,
         "2110446822707929422": false,
         "2110447305740742802": false,
@@ -2338,7 +2340,8 @@
         "2111892894462394708": true,
         "2111894230713111038": true,
         "2111894422187340163": false,
-        "2111899435571761222": false
+        "2111899435571761222": false,
+        "2111951201671712775": true
       },
       "user_id": "953032269433745408"
     },
@@ -5379,5 +5382,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T22:40:23+00:00"
+  "updated_at": "2026-10-18T22:44:28+00:00"
 }
