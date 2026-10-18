@@ -853,7 +853,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2111906147116413196",
+      "last_id": "2111910811153105043",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -873,14 +873,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-16T14:00:58.000Z",
-          "id": "2111095056778301444",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2111094493810491393/img/YvIU1T7a7ad9Pu0S.jpg"
-          ],
-          "text": "i've learned over the years that people care more about consistency and transparency than having a perfect track record\n\ni'm putting my own money behind the trades i share, so when something goes wrong, i'm taking the loss too\n\ni'd rather own my mistakes publicly than pretend they never happened\n\nthat's how i build trust over time"
-        },
         {
           "created_at": "2026-10-16T14:41:28.000Z",
           "id": "2111105247699665407",
@@ -1007,10 +999,15 @@
           "created_at": "2026-10-18T19:43:57.000Z",
           "id": "2111906147116413196",
           "text": "we are losing to the panthers man"
+        },
+        {
+          "created_at": "2026-10-18T20:02:29.000Z",
+          "id": "2111910811153105043",
+          "quoted_text": "Timeline is full of everyone telling everyone about how everyone is bearish and how when everyone is bearish the market can\u2019t go down. Interesting.",
+          "text": "yea this is the worst kind of analysis you can do btw\n\nthere is no \"everyone\" there's your own positions and your invalidations, nothing more nothing less https://t.co/OS105wXEW7"
         }
       ],
       "reads": {
-        "2111095056778301444": "No call",
         "2111105247699665407": "No call",
         "2111117340779937937": "No call",
         "2111117359091957993": "No call",
@@ -1029,7 +1026,8 @@
         "2111898945169297708": "No call",
         "2111899765323759684": "TRADE EXIT BTC \u00b7 VIEW bearish on crypto market",
         "2111904166327222564": "VIEW bearish on eth",
-        "2111906147116413196": "No call"
+        "2111906147116413196": "No call",
+        "2111910811153105043": "No call"
       },
       "replies": [
         {
@@ -1538,11 +1536,14 @@
         "2111906147116413196": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111910811153105043": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2111069349788156236": false,
-        "2111095056778301444": true,
         "2111105247699665407": true,
         "2111107183945420897": false,
         "2111117316238819588": false,
@@ -1575,7 +1576,8 @@
         "2111898945169297708": true,
         "2111899765323759684": true,
         "2111904166327222564": true,
-        "2111906147116413196": false
+        "2111906147116413196": false,
+        "2111910811153105043": true
       },
       "user_id": "973261472"
     },
@@ -5373,5 +5375,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T20:02:23+00:00"
+  "updated_at": "2026-10-18T20:04:26+00:00"
 }
