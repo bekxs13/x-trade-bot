@@ -829,7 +829,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2111720867671502982",
+      "last_id": "2111723083107065935",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -865,11 +865,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T16:08:17.000Z",
-          "id": "2110764707640689050",
-          "text": "think that was it"
-        },
         {
           "created_at": "2026-10-15T16:12:28.000Z",
           "id": "2110765762457809110",
@@ -990,10 +985,15 @@
             "https://pbs.twimg.com/media/HU5W66sX0AANokN.jpg"
           ],
           "text": "what he talmbout https://t.co/p6jaGXaVlX"
+        },
+        {
+          "created_at": "2026-10-18T07:36:31.000Z",
+          "id": "2111723083107065935",
+          "quoted_text": "Nous sommes \u00e0 la conjonction des deux ph\u00e9nom\u00e8nes civilisationnels distincts qui m\u00e8nent \u00e0 la r\u00e9volution:\n\nLe premier : dans une soci\u00e9t\u00e9 d\u00e9mocratique, comme le notait Tocqueville, toute in\u00e9galit\u00e9 devient vite insupportable car il n\u2019y a plus que deux moyens d\u2019expliquer que certains r\u00e9ussissent mieux que soi-m\u00eame : la corruption du syst\u00e8me ou le m\u00e9rite. \nEt psychologiquement, sans surprise, on a plut\u00f4t tendance \u00e0 penser que ceux qui r\u00e9ussissent mieux que nous b\u00e9n\u00e9ficient d\u2019un syst\u00e8me corrompu sont p",
+          "text": ". https://t.co/DWLuIgxe6Q"
         }
       ],
       "reads": {
-        "2110764707640689050": "No call",
         "2110765762457809110": "No call",
         "2110767113673781312": "No call: bullish on btc (same view as before)",
         "2110767955630018575": "No call",
@@ -1012,7 +1012,8 @@
         "2111518293396009334": "No call",
         "2111521940255219755": "No call: bullish on crypto market (same view as before)",
         "2111703260654424065": "No call",
-        "2111720867671502982": "No call"
+        "2111720867671502982": "No call",
+        "2111723083107065935": "No call"
       },
       "replies": [
         {
@@ -1488,10 +1489,13 @@
         "2111720867671502982": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111723083107065935": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110764707640689050": true,
         "2110765762457809110": true,
         "2110767113673781312": true,
         "2110767955630018575": false,
@@ -1525,7 +1529,8 @@
         "2111518293396009334": false,
         "2111521940255219755": true,
         "2111703260654424065": false,
-        "2111720867671502982": false
+        "2111720867671502982": false,
+        "2111723083107065935": false
       },
       "user_id": "973261472"
     },
@@ -5239,5 +5244,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-18T07:28:23+00:00"
+  "updated_at": "2026-10-18T07:38:24+00:00"
 }
