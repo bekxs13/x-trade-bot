@@ -4519,14 +4519,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111618271585747156",
+      "last_id": "2111633857695100982",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-16T15:20:16.000Z",
-          "id": "2111115012798296355",
-          "text": "Think Crypto people have far more edge than they think trading AI names. \n\nThe market is not really based in reality, it's mostly narrative, psyop and momentum based. A lot of companies are totally devoid of realistic valuations.\n\nAI is either real or it's not, and Crypto traders have cut their teeth on recursive money legos."
-        },
         {
           "created_at": "2026-10-16T15:26:32.000Z",
           "id": "2111116591400468819",
@@ -4631,10 +4626,14 @@
             "https://pbs.twimg.com/media/HU35oJGWsAAFhdl.jpg"
           ],
           "text": "Saturday https://t.co/FstMQEb1My"
+        },
+        {
+          "created_at": "2026-10-18T01:41:58.000Z",
+          "id": "2111633857695100982",
+          "text": "Why don\u2019t you see white people looting stores?"
         }
       ],
       "reads": {
-        "2111115012798296355": "No call",
         "2111116591400468819": "No call",
         "2111120109729407227": "No call: bearish on trading card companies (60%, too unsure)",
         "2111139510926893163": "No call",
@@ -4653,7 +4652,8 @@
         "2111583825256214637": "No call",
         "2111584400148455443": "No call",
         "2111605916680196276": "No call: bearish on stocks/macro (same view as before)",
-        "2111618271585747156": "No call"
+        "2111618271585747156": "No call",
+        "2111633857695100982": "No call"
       },
       "replies": [
         {
@@ -5117,6 +5117,10 @@
         "2111618271585747156": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111633857695100982": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5131,7 +5135,6 @@
         "2110572720375181652": false,
         "2110757594923200856": false,
         "2110832817840259528": false,
-        "2111115012798296355": true,
         "2111116591400468819": true,
         "2111120109729407227": true,
         "2111135946112397498": true,
@@ -5154,7 +5157,8 @@
         "2111583825256214637": true,
         "2111584400148455443": true,
         "2111605916680196276": true,
-        "2111618271585747156": false
+        "2111618271585747156": false,
+        "2111633857695100982": false
       },
       "user_id": "809191427645181952"
     }
@@ -5170,5 +5174,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-18T01:40:22+00:00"
+  "updated_at": "2026-10-18T01:42:20+00:00"
 }
