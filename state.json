@@ -2365,7 +2365,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111845216751915418",
+      "last_id": "2111847025436434944",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2732,12 +2732,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T08:40:59.000Z",
-          "id": "2111739307455365621",
-          "reply_to_id": "2111738559141232839",
-          "text": "@Drewyie06 How \ud83d\ude02 its been going down"
-        },
-        {
           "created_at": "2026-10-18T10:04:48.000Z",
           "id": "2111760398835912881",
           "reply_to_id": "2111759880440938903",
@@ -2820,6 +2814,12 @@
           "id": "2111840147029508323",
           "reply_to_id": "2111837481825874175",
           "text": "other kol like who. i literally bought it on open market and both the tech, narrative, and forward-looking catalysts were all aligned. i saw pumponomics aped it before me but other than that i did the dd myself and shared the dd for free at 0.055.\n\nthe tech is correct. its the most aligned with what vitalik himself said regarding ai-proofed cryptography. tech wise they are the best and with every acceleration in ai this will become more obvious.\n\nbut about how their team has managed spot flows & managed sentiment. i cant comment on that\n\nand about how they have apparently treated their communities in the past, cant comment on that\n\ntech wise they are the best, and problem wise this specific market gap is only going to grow from here\n\nalso i have said this more than thrice now, i never believed in the quantum bs. thats a physics problem. not a software & math problem. strk is my most direct exposure to ai acceleration in the math & cryptography space, which is a software & math problem."
+        },
+        {
+          "created_at": "2026-10-18T15:49:01.000Z",
+          "id": "2111847025436434944",
+          "reply_to_id": "2111845828952531026",
+          "text": "@Pivot922 long term yes for the same reasons oai ipo next year is bullish, but near term imo if (big if) such a news happens mkts will flush to re: lack of market confidence/risk off for the near term"
         }
       ],
       "threads": {
@@ -3294,7 +3294,6 @@
         "2111681194605814015": true,
         "2111696325918216570": true,
         "2111717291239022893": true,
-        "2111739307455365621": true,
         "2111760398835912881": false,
         "2111766102510289099": true,
         "2111797927941382371": false,
@@ -3313,7 +3312,8 @@
         "2111830585052467328": false,
         "2111834138194092170": false,
         "2111840147029508323": true,
-        "2111845216751915418": true
+        "2111845216751915418": true,
+        "2111847025436434944": true
       },
       "user_id": "1653080265294757890"
     },
@@ -4617,25 +4617,20 @@
           "updated_at": "2026-10-17T22:07:08.000Z"
         },
         "stocks/macro": {
-          "market": "macro",
-          "post_id": "2111605916680196276",
-          "reason": "Says he is 'being publicly bearish', consistent with his recent market-top posts. This matches his existing bearish view.",
+          "market": "stocks",
+          "post_id": "2111846835467747488",
+          "reason": "'God is short equities' is a tongue-in-cheek restatement of his ongoing bearish equities view (2022-top signals, 'hold cash' posts).",
           "scope": "stocks/macro",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-17T23:50:56.000Z"
+          "updated_at": "2026-10-18T15:48:16.000Z"
         }
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111660440891932781",
+      "last_id": "2111846835467747488",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-16T16:57:37.000Z",
-          "id": "2111139510926893163",
-          "text": "https://t.co/ng8NCZiQyU"
-        },
         {
           "created_at": "2026-10-16T17:18:35.000Z",
           "id": "2111144786912522255",
@@ -4743,10 +4738,14 @@
           "created_at": "2026-10-18T03:27:36.000Z",
           "id": "2111660440891932781",
           "text": "My Wicked, Wicked Ways"
+        },
+        {
+          "created_at": "2026-10-18T15:48:16.000Z",
+          "id": "2111846835467747488",
+          "text": "Went to mass talked to God he\u2019s short equities"
         }
       ],
       "reads": {
-        "2111139510926893163": "No call",
         "2111144786912522255": "No call",
         "2111161559317946701": "No call",
         "2111171350538666230": "No call",
@@ -4765,7 +4764,8 @@
         "2111618271585747156": "No call",
         "2111633857695100982": "No call",
         "2111648982472749541": "No call",
-        "2111660440891932781": "No call"
+        "2111660440891932781": "No call",
+        "2111846835467747488": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -5241,6 +5241,10 @@
         "2111660440891932781": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111846835467747488": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5256,7 +5260,6 @@
         "2110757594923200856": false,
         "2110832817840259528": false,
         "2111135946112397498": true,
-        "2111139510926893163": false,
         "2111144786912522255": false,
         "2111161559317946701": false,
         "2111171350538666230": true,
@@ -5278,7 +5281,8 @@
         "2111618271585747156": false,
         "2111633857695100982": false,
         "2111648982472749541": false,
-        "2111660440891932781": false
+        "2111660440891932781": false,
+        "2111846835467747488": true
       },
       "user_id": "809191427645181952"
     }
@@ -5294,5 +5298,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T15:42:21+00:00"
+  "updated_at": "2026-10-18T15:50:27+00:00"
 }
