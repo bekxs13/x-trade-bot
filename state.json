@@ -2360,7 +2360,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111729115707654318",
+      "last_id": "2111734448001839331",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2701,12 +2701,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-17T05:31:22.000Z",
-          "id": "2111329201060008290",
-          "reply_to_id": "2111327543521358329",
-          "text": "@lordHODLaRoy \ud83d\ude02\ud83d\ude02\ud83d\ude02 yessser"
-        },
-        {
           "created_at": "2026-10-17T05:34:26.000Z",
           "id": "2111329971717489001",
           "reply_to_id": "2111329537766408364",
@@ -2789,6 +2783,12 @@
           "id": "2111729115707654318",
           "reply_to_id": "2111720513005293575",
           "text": "@zk222zk hunting asymmetric means that most times, the best returns are not necessarily from the most popular plays"
+        },
+        {
+          "created_at": "2026-10-18T08:21:41.000Z",
+          "id": "2111734448001839331",
+          "reply_to_id": "2111730004736512070",
+          "text": "@CryptoHafuya @FlamantRoze open to more"
         }
       ],
       "threads": {
@@ -3264,7 +3264,6 @@
         "2111320951355039804": true,
         "2111325378518421936": true,
         "2111329112027795621": false,
-        "2111329201060008290": false,
         "2111329971717489001": false,
         "2111343022973608411": true,
         "2111482569950957689": false,
@@ -3282,7 +3281,8 @@
         "2111720299024806384": true,
         "2111720741062488203": false,
         "2111724117732847972": true,
-        "2111729115707654318": true
+        "2111729115707654318": true,
+        "2111734448001839331": false
       },
       "user_id": "1653080265294757890"
     },
@@ -5251,5 +5251,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-18T08:18:21+00:00"
+  "updated_at": "2026-10-18T08:22:17+00:00"
 }
