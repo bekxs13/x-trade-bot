@@ -4628,7 +4628,7 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111862225484853381",
+      "last_id": "2111868524427948399",
       "positions": {},
       "posts": [
         {
@@ -4771,11 +4771,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-02T17:24:15.000Z",
-          "id": "2106072786095722791",
-          "text": "@GodelTerminal @Hyperliquid Proud investor in Godel"
-        },
-        {
           "created_at": "2026-10-02T18:11:47.000Z",
           "id": "2106084747008967039",
           "text": "@kidponga Less about PnL more about:\n\nAssets traded\nRisk\nHolding period \nSystematic or not?\n\nIdeally I\u2019m hiring people with orthogonal alpha to my own trading style"
@@ -4855,6 +4850,12 @@
           "id": "2111581235793588319",
           "reply_to_id": "2111578632980431235",
           "text": "@itsXGTE3X I derisked a few thousand points higher, I don't really think BTC is going to be a comfy hold if equities trade -10%. \n\nDefinitely will get omegarekt if equities -30%. I think 50k sweep guarenteed in that scenario."
+        },
+        {
+          "created_at": "2026-10-18T17:14:27.000Z",
+          "id": "2111868524427948399",
+          "reply_to_id": "2111867961363599494",
+          "text": "@frankdegods nah"
         }
       ],
       "threads": {
@@ -5258,7 +5259,6 @@
         }
       },
       "trading": {
-        "2106072786095722791": true,
         "2106084747008967039": true,
         "2107894568507085235": false,
         "2107906207881232630": false,
@@ -5292,7 +5292,8 @@
         "2111846835467747488": true,
         "2111859899441549668": true,
         "2111861754129227930": true,
-        "2111862225484853381": false
+        "2111862225484853381": false,
+        "2111868524427948399": false
       },
       "user_id": "809191427645181952"
     }
@@ -5308,5 +5309,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T17:06:18+00:00"
+  "updated_at": "2026-10-18T17:16:17+00:00"
 }
