@@ -790,6 +790,15 @@
           "stance": "bearish",
           "updated_at": "2026-10-18T19:18:35.000Z"
         },
+        "eth": {
+          "market": "crypto",
+          "post_id": "2111904166327222564",
+          "reason": "ETH 4h chart with the gap marked and a line near 1,800; he says the weekly bearish engulfing breaks trend and makes a fill of the inefficient move up more likely, adding that macro fears are enough to be concerned.",
+          "scope": "eth",
+          "since": "2026-10-18",
+          "stance": "bearish",
+          "updated_at": "2026-10-18T19:36:05.000Z"
+        },
         "memecoins": {
           "market": "crypto",
           "post_id": "2109701956440891883",
@@ -845,7 +854,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2111899765323759684",
+      "last_id": "2111904166327222564",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -865,12 +874,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T19:10:39.000Z",
-          "id": "2110810603417944213",
-          "quoted_text": "Cobie explains how he finds the next big thing in Crypto\n\n\u201cI\u2019ve never known what the next thing is gonna be, if you told me it would be pictures of apes in 2020, I would\u2019ve said that doesn\u2019t sound right\u201d\n\n\u201cMy mental model is you isolate your risk and you try novel things\u2026 instead of trying to figure out why something won\u2019t work, you might as well give it a go\u201d\n\n\u201cIf you did this with Hyperliquid, you ended up a millionaire from the airdrop\u2026 same with FriendTech and buying ape pictures\u201d\n\n\u201cPeople\u2019s",
-          "text": "papertrade https://t.co/zQF5ewuLKU"
-        },
         {
           "created_at": "2026-10-16T11:50:08.000Z",
           "id": "2111062131437433031",
@@ -997,10 +1000,18 @@
           "id": "2111899765323759684",
           "quoted_text": "$90k by end of the week",
           "text": "got smoked on this btw\n\nequities & stock momo leaders put in nasty weekly candles across board\n\nalts got crushed & majors at their last major support levels\n\nnot great spot tbh, cut longs & likely derisking more before open - do think we're due for a bounce but the alternative is another -20% on majors"
+        },
+        {
+          "created_at": "2026-10-18T19:36:05.000Z",
+          "id": "2111904166327222564",
+          "images": [
+            "https://pbs.twimg.com/media/HU79oIOWsAENI6m.jpg"
+          ],
+          "quoted_text": "@blknoiz06 What's your thoughts on the black monday doom talk?",
+          "text": "dont know, i just look at charts\n\nreasoning for my being bullish past week was that a higher high here would maintain bullish structure and trend\n\nweekly bearish engulfing to downside breaks trend & makes it more likely the inefficient move we had on the way up gets filled\n\nthis setup + equities having reason to selloff w/ macro/inflation fears + anthropic growth slowdown is enough to be concerned"
         }
       ],
       "reads": {
-        "2110810603417944213": "No call",
         "2111062131437433031": "No call",
         "2111095056778301444": "No call",
         "2111105247699665407": "No call",
@@ -1019,7 +1030,8 @@
         "2111733530757570629": "No call",
         "2111779407807574066": "No call",
         "2111898945169297708": "No call",
-        "2111899765323759684": "TRADE EXIT BTC \u00b7 VIEW bearish on crypto market"
+        "2111899765323759684": "TRADE EXIT BTC \u00b7 VIEW bearish on crypto market",
+        "2111904166327222564": "VIEW bearish on eth"
       },
       "replies": [
         {
@@ -1518,10 +1530,15 @@
             "bias:crypto market:bearish"
           ],
           "self_replies": 0
+        },
+        "2111904166327222564": {
+          "alerted": [
+            "bias:eth:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110810603417944213": true,
         "2111062131437433031": true,
         "2111069349788156236": false,
         "2111095056778301444": true,
@@ -1555,7 +1572,8 @@
         "2111887716074058106": false,
         "2111889484795265389": false,
         "2111898945169297708": true,
-        "2111899765323759684": true
+        "2111899765323759684": true,
+        "2111904166327222564": true
       },
       "user_id": "973261472"
     },
@@ -5353,5 +5371,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T19:20:24+00:00"
+  "updated_at": "2026-10-18T19:36:23+00:00"
 }
