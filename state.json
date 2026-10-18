@@ -2365,7 +2365,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111815027556778418",
+      "last_id": "2111816781694451856",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2727,12 +2727,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T07:17:39.000Z",
-          "id": "2111718333888536845",
-          "reply_to_id": "2111716783270801501",
-          "text": "the thing is that its a pity, the tech, positioning, timing & opportunity are all there, i just dont understand why theyre doing what theyre doing\n\nif this doesnt go well (perhaps if it retraces the full move to .05) i think ill have fully learned the lesson on alts - but until then i want to believe & hedge market direction with other alts that hasnt experienced a structural shift in market positioning"
-        },
-        {
           "created_at": "2026-10-18T07:20:58.000Z",
           "id": "2111719169435881604",
           "reply_to_id": "2111717585548952008",
@@ -2815,6 +2809,12 @@
           "id": "2111815027556778418",
           "reply_to_id": "2111814950931021855",
           "text": "@mlmabc \ud83d\ude2d"
+        },
+        {
+          "created_at": "2026-10-18T13:48:51.000Z",
+          "id": "2111816781694451856",
+          "reply_to_id": "2111816278784749891",
+          "text": "@sirceen taking it step by step \ud83d\ude4f\ud83d\ude4f"
         }
       ],
       "threads": {
@@ -3291,7 +3291,6 @@
         "2111681194605814015": true,
         "2111696325918216570": true,
         "2111717291239022893": true,
-        "2111718333888536845": true,
         "2111719169435881604": true,
         "2111720299024806384": true,
         "2111720741062488203": false,
@@ -3308,7 +3307,8 @@
         "2111813838526165017": true,
         "2111814267565641772": true,
         "2111814752284606740": false,
-        "2111815027556778418": false
+        "2111815027556778418": false,
+        "2111816781694451856": false
       },
       "user_id": "1653080265294757890"
     },
@@ -5289,5 +5289,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T13:42:17+00:00"
+  "updated_at": "2026-10-18T13:50:18+00:00"
 }
