@@ -829,7 +829,7 @@
       },
       "closed": [],
       "handle": "blknoiz06",
-      "last_id": "2111521940255219755",
+      "last_id": "2111703260654424065",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -865,15 +865,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T11:05:30.000Z",
-          "id": "2110326122655404263",
-          "images": [
-            "https://pbs.twimg.com/media/HUliaf7XgAAmIJJ.jpg",
-            "https://pbs.twimg.com/media/HUliaf3WMAAWgj8.jpg"
-          ],
-          "text": "white pepper alaskan king crab https://t.co/JYdHwGjSzl"
-        },
         {
           "created_at": "2026-10-14T11:09:17.000Z",
           "id": "2110327073961119900",
@@ -991,10 +982,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2111521716942090240/img/PoWDXhS7TIuH4_Hk.jpg"
           ],
           "text": "i'm leaning toward a more aggressive bull market than most people are expecting\n\na lot of crypto natives were waiting for the usual four-year cycle to play out, but the market may be getting driven by a different group of buyers this time\n\ntraditional finance is starting to treat BTC as a long-term portfolio allocation, while profitable crypto businesses are attracting attention beyond the usual crypto crowd\n\nif institutional capital keeps flowing into both BTC and onchain businesses, i think there's room for this cycle to surprise people on the upside"
+        },
+        {
+          "created_at": "2026-10-18T06:17:45.000Z",
+          "id": "2111703260654424065",
+          "text": "what's happening in france"
         }
       ],
       "reads": {
-        "2110326122655404263": "No call",
         "2110327073961119900": "No call",
         "2110764707640689050": "No call",
         "2110765762457809110": "No call",
@@ -1013,7 +1008,8 @@
         "2111395326280307036": "No call",
         "2111498991141826773": "No call",
         "2111518293396009334": "No call",
-        "2111521940255219755": "No call: bullish on crypto market (same view as before)"
+        "2111521940255219755": "No call: bullish on crypto market (same view as before)",
+        "2111703260654424065": "No call"
       },
       "replies": [
         {
@@ -1481,10 +1477,13 @@
         "2111521940255219755": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111703260654424065": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110326122655404263": false,
         "2110327073961119900": true,
         "2110764707640689050": true,
         "2110765762457809110": true,
@@ -1518,7 +1517,8 @@
         "2111395326280307036": true,
         "2111498991141826773": false,
         "2111518293396009334": false,
-        "2111521940255219755": true
+        "2111521940255219755": true,
+        "2111703260654424065": false
       },
       "user_id": "973261472"
     },
@@ -2341,7 +2341,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111696325918216570",
+      "last_id": "2111703106908299650",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2666,12 +2666,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T19:37:35.000Z",
-          "id": "2111179770440630344",
-          "reply_to_id": "2111172170491769338",
-          "text": "@RichardStrocher ?"
-        },
-        {
           "created_at": "2026-10-17T02:56:45.000Z",
           "id": "2111290289453498535",
           "reply_to_id": "2111289747457077522",
@@ -2754,6 +2748,12 @@
           "id": "2111682122335613181",
           "reply_to_id": "2111681561301254572",
           "text": "@Crypt0Ryan remote/sg"
+        },
+        {
+          "created_at": "2026-10-18T06:17:08.000Z",
+          "id": "2111703106908299650",
+          "reply_to_id": "2111700574697931212",
+          "text": "@iprintnumbers Fire brother, lfg! \ud83d\udd25\ud83d\udd25"
         }
       ],
       "threads": {
@@ -3225,7 +3225,6 @@
         "2111171642449867008": true,
         "2111174650604773834": true,
         "2111179586835005866": true,
-        "2111179770440630344": false,
         "2111290289453498535": false,
         "2111320951355039804": true,
         "2111321734683275493": true,
@@ -3245,7 +3244,8 @@
         "2111639675291250715": true,
         "2111681194605814015": true,
         "2111682122335613181": false,
-        "2111696325918216570": true
+        "2111696325918216570": true,
+        "2111703106908299650": false
       },
       "user_id": "1653080265294757890"
     },
@@ -5214,5 +5214,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-18T05:52:19+00:00"
+  "updated_at": "2026-10-18T06:18:18+00:00"
 }
