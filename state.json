@@ -2360,7 +2360,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111734448001839331",
+      "last_id": "2111735874987684262",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2701,12 +2701,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-17T05:34:26.000Z",
-          "id": "2111329971717489001",
-          "reply_to_id": "2111329537766408364",
-          "text": "@rikimaaro \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83e\udef6"
-        },
-        {
           "created_at": "2026-10-17T06:26:18.000Z",
           "id": "2111343022973608411",
           "reply_to_id": "2111340581880254732",
@@ -2789,6 +2783,12 @@
           "id": "2111734448001839331",
           "reply_to_id": "2111730004736512070",
           "text": "@CryptoHafuya @FlamantRoze open to more"
+        },
+        {
+          "created_at": "2026-10-18T08:27:21.000Z",
+          "id": "2111735874987684262",
+          "reply_to_id": "2111734898478530719",
+          "text": "@Drewyie06 might be wrong/squeezed first, just exposure to futures flush -&gt; cash open flush if sunday goes through with no whiteswan news"
         }
       ],
       "threads": {
@@ -3264,7 +3264,6 @@
         "2111320951355039804": true,
         "2111325378518421936": true,
         "2111329112027795621": false,
-        "2111329971717489001": false,
         "2111343022973608411": true,
         "2111482569950957689": false,
         "2111482626292981878": false,
@@ -3282,7 +3281,8 @@
         "2111720741062488203": false,
         "2111724117732847972": true,
         "2111729115707654318": true,
-        "2111734448001839331": false
+        "2111734448001839331": false,
+        "2111735874987684262": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5251,5 +5251,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-17",
-  "updated_at": "2026-10-18T08:22:17+00:00"
+  "updated_at": "2026-10-18T08:28:17+00:00"
 }
