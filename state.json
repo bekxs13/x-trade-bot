@@ -4613,6 +4613,15 @@
           "stance": "bearish",
           "updated_at": "2026-10-17T21:59:59.000Z"
         },
+        "eth": {
+          "market": "crypto",
+          "post_id": "2111898450333757538",
+          "reason": "Mocking 'people long Ethereum in 2026' as easy-to-beat traders implies a bearish view on ETH. There is no prior ETH view on record.",
+          "scope": "eth",
+          "since": "2026-10-18",
+          "stance": "bearish",
+          "updated_at": "2026-10-18T19:13:22.000Z"
+        },
         "mu": {
           "market": "stocks",
           "post_id": "2111579791379820967",
@@ -4634,14 +4643,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111892500210458979",
+      "last_id": "2111898450333757538",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-16T19:36:04.000Z",
-          "id": "2111179389362937999",
-          "text": "Computah, what happened on October 19th, 1987?"
-        },
         {
           "created_at": "2026-10-16T21:45:16.000Z",
           "id": "2111211900990054557",
@@ -4755,10 +4759,14 @@
           "id": "2111875627015966918",
           "reply_to_id": "2111874363234426989",
           "text": "@koolkrypto223 Honestly this CSP is so nonsensical it's the kind of trade you take after/while you're dumping your entire spot bag"
+        },
+        {
+          "created_at": "2026-10-18T19:13:22.000Z",
+          "id": "2111898450333757538",
+          "text": "Every time I think trading will only get more difficult I remember there\u2019s people long Ethereum in 2026"
         }
       ],
       "reads": {
-        "2111179389362937999": "No call: bearish on stocks/macro (same view as before)",
         "2111211900990054557": "No call",
         "2111541630171791392": "No call",
         "2111577993311117630": "VIEW bearish on crypto market",
@@ -4776,7 +4784,8 @@
         "2111859899441549668": "No call",
         "2111861754129227930": "No call",
         "2111862225484853381": "No call",
-        "2111871343109210201": "No call: bearish on LIT (60%, too unsure)"
+        "2111871343109210201": "No call: bearish on LIT (60%, too unsure)",
+        "2111898450333757538": "VIEW bearish on eth"
       },
       "replies": [
         {
@@ -5272,6 +5281,12 @@
         "2111871343109210201": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2111898450333757538": {
+          "alerted": [
+            "bias:eth:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5281,7 +5296,6 @@
         "2110757594923200856": false,
         "2110832817840259528": false,
         "2111135946112397498": true,
-        "2111179389362937999": true,
         "2111183217843679578": false,
         "2111211900990054557": false,
         "2111505410444411366": true,
@@ -5309,7 +5323,8 @@
         "2111874363234426989": true,
         "2111875627015966918": true,
         "2111875879865389103": false,
-        "2111892500210458979": true
+        "2111892500210458979": true,
+        "2111898450333757538": true
       },
       "user_id": "809191427645181952"
     }
@@ -5325,5 +5340,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-18T19:10:18+00:00"
+  "updated_at": "2026-10-18T19:14:26+00:00"
 }
