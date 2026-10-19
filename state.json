@@ -2448,7 +2448,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2112200840878625223",
+      "last_id": "2112240489017786610",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2814,12 +2814,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T14:34:01.000Z",
-          "id": "2111828148824498224",
-          "reply_to_id": "2111815184620933378",
-          "text": "i got nothing from them, actually on the verge of roundtrip atm\n\ni cant comment without fudding in regards to how their team members are managing sentiment & spot flows.. tech & forward-looking catalysts wise the thesis is still the same, as long as they manage sentiment decently and fix their mistakes of the past there is upside"
-        },
-        {
           "created_at": "2026-10-18T14:43:42.000Z",
           "id": "2111830585052467328",
           "reply_to_id": "2111830223180460272",
@@ -2902,6 +2896,12 @@
           "id": "2112200840878625223",
           "reply_to_id": "2112195795675996561",
           "text": "@jimcramer \ud83d\ude02"
+        },
+        {
+          "created_at": "2026-10-19T17:52:30.000Z",
+          "id": "2112240489017786610",
+          "reply_to_id": "2112227370778173477",
+          "text": "@CryptoMalfoy_ yeah... quite"
         }
       ],
       "threads": {
@@ -3375,7 +3375,6 @@
         "2111812894677676101": true,
         "2111813333867532388": true,
         "2111820891642527869": true,
-        "2111828148824498224": true,
         "2111830585052467328": false,
         "2111834138194092170": false,
         "2111840147029508323": true,
@@ -3393,7 +3392,8 @@
         "2112188712297922834": false,
         "2112191525425959417": true,
         "2112191581180887130": false,
-        "2112200840878625223": false
+        "2112200840878625223": false,
+        "2112240489017786610": false
       },
       "user_id": "1653080265294757890"
     },
@@ -5443,5 +5443,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T17:42:25+00:00"
+  "updated_at": "2026-10-19T17:54:18+00:00"
 }
