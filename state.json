@@ -2470,7 +2470,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2112249633951056352",
+      "last_id": "2112251870077153364",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2859,12 +2859,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T14:43:42.000Z",
-          "id": "2111830585052467328",
-          "reply_to_id": "2111830223180460272",
-          "text": "@au_xbt possible"
-        },
-        {
           "created_at": "2026-10-18T14:57:49.000Z",
           "id": "2111834138194092170",
           "reply_to_id": "2111827664885383597",
@@ -2947,6 +2941,12 @@
           "id": "2112240489017786610",
           "reply_to_id": "2112227370778173477",
           "text": "@CryptoMalfoy_ yeah... quite"
+        },
+        {
+          "created_at": "2026-10-19T18:37:44.000Z",
+          "id": "2112251870077153364",
+          "reply_to_id": "2112250956989514044",
+          "text": "long term im very bullish on them but short term until spot sell pressure stops bottom likely wont arrive yet, its still very far forward-looking because we're frontrunning tech which frontruns adoption\n\nfor this one, adoption + tech is already here & recent changes makes it a viable play"
         }
       ],
       "threads": {
@@ -3418,7 +3418,6 @@
         "2111812894677676101": true,
         "2111813333867532388": true,
         "2111820891642527869": true,
-        "2111830585052467328": false,
         "2111834138194092170": false,
         "2111840147029508323": true,
         "2111845216751915418": true,
@@ -3438,7 +3437,8 @@
         "2112200840878625223": false,
         "2112240489017786610": false,
         "2112249073348878612": true,
-        "2112249633951056352": true
+        "2112249633951056352": true,
+        "2112251870077153364": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5488,5 +5488,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T18:32:19+00:00"
+  "updated_at": "2026-10-19T18:38:21+00:00"
 }
