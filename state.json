@@ -4718,14 +4718,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2111957092781240827",
+      "last_id": "2112182070260965441",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-17T19:35:29.000Z",
-          "id": "2111541630171791392",
-          "text": "Anyone have box tickets for OSU v Michigan willing to pay $$$"
-        },
         {
           "created_at": "2026-10-17T21:59:59.000Z",
           "id": "2111577993311117630",
@@ -4839,10 +4834,14 @@
           "created_at": "2026-10-18T23:06:23.000Z",
           "id": "2111957092781240827",
           "text": "Comfy Sunday Spaces v37: OAI/Anthropic Revenues, Neocloud volatility and Trading Philosophy https://t.co/VKbuf7HzX4"
+        },
+        {
+          "created_at": "2026-10-19T14:00:22.000Z",
+          "id": "2112182070260965441",
+          "text": "Absolutely MASSIVE bullish bounce \ud83d\udd25\ud83d\udd25\n\nCRWV +1.52%\nNVDA +0.52%\nETH -0.44%\nBTC +0.01%"
         }
       ],
       "reads": {
-        "2111541630171791392": "No call",
         "2111577993311117630": "VIEW bearish on crypto market",
         "2111579791379820967": "VIEW bearish on MU",
         "2111582307996082446": "No call: bearish on stocks/macro (same view as before)",
@@ -4860,7 +4859,8 @@
         "2111862225484853381": "No call",
         "2111871343109210201": "No call: bearish on LIT (60%, too unsure)",
         "2111898450333757538": "VIEW bearish on eth",
-        "2111957092781240827": "No call"
+        "2111957092781240827": "No call",
+        "2112182070260965441": "No call: bearish on stocks/macro (65%, too unsure)"
       },
       "replies": [
         {
@@ -4955,10 +4955,6 @@
         }
       ],
       "threads": {
-        "2095511345902858361": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2105350026885259661": {
           "alerted": [],
           "self_replies": 0
@@ -5366,6 +5362,10 @@
         "2111957092781240827": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112182070260965441": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5377,7 +5377,6 @@
         "2111135946112397498": true,
         "2111183217843679578": false,
         "2111505410444411366": true,
-        "2111541630171791392": false,
         "2111577993311117630": true,
         "2111579791379820967": true,
         "2111581235793588319": true,
@@ -5403,7 +5402,8 @@
         "2111875879865389103": false,
         "2111892500210458979": true,
         "2111898450333757538": true,
-        "2111957092781240827": true
+        "2111957092781240827": true,
+        "2112182070260965441": true
       },
       "user_id": "809191427645181952"
     }
@@ -5419,5 +5419,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T13:36:23+00:00"
+  "updated_at": "2026-10-19T14:02:25+00:00"
 }
