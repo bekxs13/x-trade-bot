@@ -2429,7 +2429,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2112068253950292344",
+      "last_id": "2112069443929116757",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2639,17 +2639,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-16T16:11:57.000Z",
-          "id": "2111128021445017785",
-          "images": [
-            "https://pbs.twimg.com/media/HUw7ulea8AAg3hB.jpg",
-            "https://pbs.twimg.com/media/HUw7vCaasAAx_1M.jpg",
-            "https://pbs.twimg.com/media/HUw7vmCaUAAA2Pn.jpg"
-          ],
-          "quoted_text": "tail risk pairs might not look pretty in the near term after how tradfi risk assets crashed across the board today\n\nusually a leading indicator https://t.co/SmNdbjD35D",
-          "text": "looks like its happening again \n\nshorting tia https://t.co/W75gt1GIS9 https://t.co/ARAAQEvz8j"
-        },
-        {
           "created_at": "2026-10-16T16:27:44.000Z",
           "id": "2111131990410072116",
           "reply_to_id": "2110959944006771145",
@@ -2773,10 +2762,14 @@
           "id": "2112045366648717797",
           "quoted_text": "Russian President Vladimir Putin has proposed that he, President Trump and Chinese leader Xi Jinping meet next month to attempt to negotiate an end to the war in Ukraine that would favor Moscow, per WSJ",
           "text": "whiteswan https://t.co/BYDXzqzkus"
+        },
+        {
+          "created_at": "2026-10-19T06:32:50.000Z",
+          "id": "2112069443929116757",
+          "text": "youth"
         }
       ],
       "reads": {
-        "2111128021445017785": "TRADE SHORT TIA",
         "2111132623271862443": "TRADE EXIT INJ",
         "2111138614273101908": "No call",
         "2111171642449867008": "No call",
@@ -2793,7 +2786,8 @@
         "2111813333867532388": "No call",
         "2111820891642527869": "No call",
         "2111845216751915418": "No call",
-        "2112045366648717797": "No call: bullish on crypto market (65%, too unsure)"
+        "2112045366648717797": "No call: bullish on crypto market (65%, too unsure)",
+        "2112069443929116757": "No call"
       },
       "replies": [
         {
@@ -2888,12 +2882,6 @@
         }
       ],
       "threads": {
-        "2108934824933359978": {
-          "alerted": [
-            "bias:crypto market:bullish"
-          ],
-          "self_replies": 0
-        },
         "2108948592237097100": {
           "alerted": [
             "trade:STRK:long"
@@ -3341,10 +3329,13 @@
         "2112045366648717797": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112069443929116757": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111128021445017785": true,
         "2111131990410072116": true,
         "2111132623271862443": true,
         "2111138614273101908": true,
@@ -3378,7 +3369,8 @@
         "2112045366648717797": true,
         "2112066853895856261": true,
         "2112067151033143564": false,
-        "2112068253950292344": true
+        "2112068253950292344": true,
+        "2112069443929116757": false
       },
       "user_id": "1653080265294757890"
     },
@@ -5404,5 +5396,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-19T06:28:20+00:00"
+  "updated_at": "2026-10-19T06:34:22+00:00"
 }
