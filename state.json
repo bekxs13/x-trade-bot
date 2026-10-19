@@ -1908,12 +1908,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2111890566019772828",
-          "reason": "Expects trad weakness to push BTC below 81k, alts making new lows, 'not the time to press risk' \u2014 matches recorded bearish crypto view.",
+          "post_id": "2112245189658255701",
+          "reason": "0% crypto exposure, waiting for a break below 80s or reclaim of yearly open; the prior post says still biased to the downside with BTC sub 80, and 'more weakness (base case)'.",
           "scope": "crypto market",
           "since": "2026-10-09",
           "stance": "bearish",
-          "updated_at": "2026-10-18T18:42:02.000Z"
+          "updated_at": "2026-10-19T18:11:11.000Z"
         },
         "stocks/macro": {
           "market": "macro",
@@ -1943,8 +1943,24 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2112237620696907810",
+      "last_id": "2112245189658255701",
       "positions": {
+        "AMZN": {
+          "asset": "AMZN",
+          "chain": "",
+          "confidence": 0.85,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "",
+          "market": "stocks",
+          "open_price": null,
+          "post_id": "2112245189658255701",
+          "reason": "Positioning post lists GOOG and AMZN overweighted plus BRK LEAPs; GOOG is already on record, so AMZN (and BRK leaps) are the newly disclosed longs.",
+          "since": "2026-10-19T18:11:11.000Z",
+          "structure": "spot",
+          "url": "https://x.com/lbattlerhino/status/2112245189658255701"
+        },
         "GOOG": {
           "asset": "GOOG",
           "chain": "",
@@ -1963,11 +1979,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T19:05:07.000Z",
-          "id": "2110446822707929422",
-          "text": "Lotta people complain about current state of ct (valid) but all you can really do is post your authentic thoughts in a clear manner and interact with those you respect/like while completely ignoring those you do not \n\nI been trying to interact with people I like more rather than just pure post/go\n\nProbably a down only space but while you\u2019re here may as well try to make it halfway decent"
-        },
         {
           "created_at": "2026-10-14T19:07:02.000Z",
           "id": "2110447305740742802",
@@ -2079,10 +2090,14 @@
           "id": "2112237620696907810",
           "quoted_text": "Covered the remaining ewy short exposure, nearly a 20% nuke in under 7 trading days and Hynix tapped the bottom of the previous crash in July \n\nDunno if crash over but even if spike below prob some bounce off this at some point soon\n\nInsane trade played unexpectedly quickly gg",
           "text": "Great close for ewy was indeed set for a solid bounce really perfectly executed for shorter term trade \n\nAlso nice to wake up to that amzn candle, however even with the Monday gap up for equities I\u2019m honestly still biased toward the downside for risk this week (I still think btc breaks sub 80 convincingly in this scenario)\n\nNo rush to act, in a great position"
+        },
+        {
+          "created_at": "2026-10-19T18:11:11.000Z",
+          "id": "2112245189658255701",
+          "text": "Positioning is goog amzn overweighted, Brk leaps, 50% spot long trad, 0% spot crypto, no perp positions crypto \n\nLooking for crypto over yearly open or break below 80s for alt longs, alts prob lead the bottom\n\nLooking for specific options plays in trad and spot adds if we get some more weakness (base case atm)"
         }
       ],
       "reads": {
-        "2110446822707929422": "No call",
         "2110447305740742802": "No call",
         "2110526910442954926": "No call",
         "2110528172307697874": "No call",
@@ -2095,7 +2110,8 @@
         "2111890566019772828": "No call: bearish on crypto market (same view as before)",
         "2111890824229470507": "No call",
         "2111951201671712775": "No call",
-        "2112237620696907810": "No call: bearish on stocks/macro (same view as before)"
+        "2112237620696907810": "No call: bearish on stocks/macro (same view as before)",
+        "2112245189658255701": "TRADE LONG AMZN"
       },
       "replies": [
         {
@@ -2331,10 +2347,15 @@
         "2112237620696907810": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112245189658255701": {
+          "alerted": [
+            "trade:AMZN:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110446822707929422": false,
         "2110447305740742802": false,
         "2110447643642245266": false,
         "2110450730079510702": false,
@@ -2368,7 +2389,8 @@
         "2111899435571761222": false,
         "2111951201671712775": true,
         "2112030167053037839": false,
-        "2112237620696907810": true
+        "2112237620696907810": true,
+        "2112245189658255701": true
       },
       "user_id": "953032269433745408"
     },
@@ -5443,5 +5465,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T17:54:18+00:00"
+  "updated_at": "2026-10-19T18:12:24+00:00"
 }
