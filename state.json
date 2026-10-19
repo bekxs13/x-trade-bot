@@ -2438,7 +2438,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2112188712297922834",
+      "last_id": "2112191525425959417",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2804,12 +2804,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T14:01:04.000Z",
-          "id": "2111819858929475631",
-          "reply_to_id": "2111817646773862759",
-          "text": "@Marr_eth \ud83d\ude4f\ud83d\ude4f np ser, do stay safu on lev since theres a bit of headline risk &amp; just moved down ltf"
-        },
-        {
           "created_at": "2026-10-18T14:09:00.000Z",
           "id": "2111821855711740202",
           "reply_to_id": "2111821066461172000",
@@ -2892,6 +2886,12 @@
           "id": "2112121780299235514",
           "reply_to_id": "2112070962640208193",
           "text": "@Lihong062 \ud83d\ude02"
+        },
+        {
+          "created_at": "2026-10-19T14:37:56.000Z",
+          "id": "2112191525425959417",
+          "reply_to_id": "2112190927477637485",
+          "text": "@VikingXBT short term could be either way, but semis in 3-6 months is almost definitely going to be lower than semis today"
         }
       ],
       "threads": {
@@ -3364,7 +3364,6 @@
         "2111766102510289099": true,
         "2111812894677676101": true,
         "2111813333867532388": true,
-        "2111819858929475631": true,
         "2111820891642527869": true,
         "2111821855711740202": true,
         "2111826177614840257": false,
@@ -3383,7 +3382,8 @@
         "2112068253950292344": true,
         "2112069443929116757": false,
         "2112121780299235514": false,
-        "2112188712297922834": false
+        "2112188712297922834": false,
+        "2112191525425959417": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5429,5 +5429,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T14:36:22+00:00"
+  "updated_at": "2026-10-19T14:38:19+00:00"
 }
