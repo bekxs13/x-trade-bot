@@ -867,7 +867,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112029942288408665",
+      "last_id": "2112036503463546953",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -887,11 +887,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-16T15:29:31.000Z",
-          "id": "2111117340779937937",
-          "text": "finally back in new york"
-        },
         {
           "created_at": "2026-10-16T15:29:35.000Z",
           "id": "2111117359091957993",
@@ -1016,10 +1011,17 @@
           "created_at": "2026-10-19T03:50:24.000Z",
           "id": "2112028564987990046",
           "text": "know ive been tweeting about this a lot but really think papertrade could be a generational setup\n\nhigh leverage perps are crypto's most profitable product to date, demand for speculation is not going to go away\n\nability to open/close synthetic 1000x positions w/ no market impact is a novel mechanism, paired w/ the house-trader relationship where trader losses fund the onchain LP, & all losses after a certain LP cap get paid out to traders staking the platform's native paper token - can see how this can maintain traction longterm, already at 50M+ paid out to $PAPER stakers in first week\n\nevery other perp dex's revenue comes from a small take rate on the fees of volume, no perp dex has been able to monetize directly trader losses, of which it's been shown is a much larger number, in theory winners should be able to easily get paid out from house LP over time as high leverage has a difficult success rate, ideal state is that its closer to 50/50 winners/losers after a certain LP cap and even then its a much better model allowing traders to own the house\n\nwhat's more interesting tho is that the model should be able to be extensible to other games outside of just perpetual futures, the online gambling industry is massive, and none of the online casinos are +EV for users, every major online casino is -EV as thats how the house makes money by creating games that are slightly better probabilistically for the house and monetizing losses over time, with papertrade it should be possible to let people speculate on other similar games with the same model as losses going back directly to paper stakers instead of just to the house - so im curious to see what team is thinking of here\n\nif hyperliquid is the AWS of all of finance, then papertrade could be the AWS of all high leverage speculation money games on the internet, will be cool to see how the next several months play out, dont think people have gone deep enough on the possibilities with one of the first novel onchain experiments in awhile that also rewards its most active participants"
+        },
+        {
+          "created_at": "2026-10-19T04:21:56.000Z",
+          "id": "2112036503463546953",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2112036366045634560/img/50K4v8exIz8Gt2Jm.jpg"
+          ],
+          "text": "i've always viewed social awareness as one of the biggest edges in memecoin trading\n\nbeing early to viral trends matters, but understanding who's behind the attention and how committed the community is can be just as important\n\ni pay close attention to holder distribution, community activity and the social capital of people associated with a coin\n\nthose factors can help explain why certain memes sustain attention while thousands of others fade away"
         }
       ],
       "reads": {
-        "2111117340779937937": "No call",
         "2111117359091957993": "No call",
         "2111175987350417649": "No call",
         "2111217534485877165": "No call",
@@ -1038,7 +1040,8 @@
         "2111904166327222564": "VIEW bearish on eth",
         "2111906147116413196": "No call",
         "2111910811153105043": "No call",
-        "2112028564987990046": "VIEW bullish on PAPER"
+        "2112028564987990046": "VIEW bullish on PAPER",
+        "2112036503463546953": "No call"
       },
       "replies": [
         {
@@ -1133,10 +1136,6 @@
         }
       ],
       "threads": {
-        "2107540840050774233": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2107569488392544610": {
           "alerted": [],
           "self_replies": 0
@@ -1557,10 +1556,13 @@
             "bias:paper:bullish"
           ],
           "self_replies": 0
+        },
+        "2112036503463546953": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111117340779937937": false,
         "2111117359091957993": false,
         "2111124265885892807": true,
         "2111124397163774432": false,
@@ -1594,7 +1596,8 @@
         "2111913303643750841": true,
         "2112028564987990046": true,
         "2112029592902901825": true,
-        "2112029942288408665": true
+        "2112029942288408665": true,
+        "2112036503463546953": true
       },
       "user_id": "973261472"
     },
@@ -5400,5 +5403,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-19T04:12:24+00:00"
+  "updated_at": "2026-10-19T04:22:20+00:00"
 }
