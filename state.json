@@ -5,12 +5,12 @@
       "biases": {
         "btc": {
           "market": "crypto",
-          "post_id": "2109853746020958350",
-          "reason": "\"Good btc theses next 20 days\" lists debasement/sovereign exit and a pre-midterm pump as bullish catalysts.",
+          "post_id": "2112308247931867339",
+          "reason": "Replying '$BTC' to news of France proposing to cancel its debt implies BTC as a hedge against sovereign debt debasement, which matches his recorded bullish btc view.",
           "scope": "btc",
           "since": "2026-10-13",
           "stance": "bullish",
-          "updated_at": "2026-10-13T03:48:26.000Z"
+          "updated_at": "2026-10-19T22:21:45.000Z"
         }
       },
       "closed": [
@@ -46,7 +46,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2112235730412118404",
+      "last_id": "2112308247931867339",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -82,11 +82,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-17T01:34:18.000Z",
-          "id": "2111269540294537652",
-          "text": "Paper trade callout rewards"
-        },
         {
           "created_at": "2026-10-17T04:43:24.000Z",
           "id": "2111317126619525386",
@@ -201,10 +196,15 @@
             "https://pbs.twimg.com/media/HVARFxNbAAAjg7Z.jpg"
           ],
           "text": "https://t.co/uYudqmKmpk"
+        },
+        {
+          "created_at": "2026-10-19T22:21:45.000Z",
+          "id": "2112308247931867339",
+          "quoted_text": "A leading candidate for France\u2019s Presidency is proposing that France cancel its debt.",
+          "text": "$BTC https://t.co/BGEsaVXZK3"
         }
       ],
       "reads": {
-        "2111269540294537652": "No call",
         "2111317126619525386": "No call",
         "2111317999756206470": "No call",
         "2111318679547990307": "No call",
@@ -222,7 +222,8 @@
         "2111910696162414895": "No call",
         "2111925607269589125": "No call",
         "2111955547352351049": "No call",
-        "2112207019872821538": "No call"
+        "2112207019872821538": "No call",
+        "2112308247931867339": "No call: bullish on btc (same view as before)"
       },
       "replies": [
         {
@@ -317,10 +318,6 @@
         }
       ],
       "threads": {
-        "2108267026493964492": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108274908275044490": {
           "alerted": [],
           "self_replies": 0
@@ -726,10 +723,13 @@
         "2112207019872821538": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112308247931867339": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111269540294537652": true,
         "2111301160590320118": true,
         "2111305822072689074": false,
         "2111308166772519297": false,
@@ -763,7 +763,8 @@
         "2112015860596723809": false,
         "2112033919520710777": false,
         "2112207019872821538": false,
-        "2112235730412118404": false
+        "2112235730412118404": false,
+        "2112308247931867339": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5485,5 +5486,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T22:00:21+00:00"
+  "updated_at": "2026-10-19T22:22:27+00:00"
 }
