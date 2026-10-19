@@ -2429,7 +2429,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2112067151033143564",
+      "last_id": "2112068253950292344",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2797,12 +2797,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T13:41:52.000Z",
-          "id": "2111815027556778418",
-          "reply_to_id": "2111814950931021855",
-          "text": "@mlmabc \ud83d\ude2d"
-        },
-        {
           "created_at": "2026-10-18T13:48:51.000Z",
           "id": "2111816781694451856",
           "reply_to_id": "2111816278784749891",
@@ -2885,6 +2879,12 @@
           "id": "2112067151033143564",
           "reply_to_id": "2112047187936907275",
           "text": "@kimmonismus many such cases"
+        },
+        {
+          "created_at": "2026-10-19T06:28:06.000Z",
+          "id": "2112068253950292344",
+          "reply_to_id": "2112063683841216557",
+          "text": "@0xbrokeXbt tech good, price not\ud83e\udee0 its an intel/blackberry deep value type play that im sure almost nobody is pricing in correctly in terms of forward-looking, but crypto sector doesnt seem to have attention spans / holding times as long"
         }
       ],
       "threads": {
@@ -3361,7 +3361,6 @@
         "2111766102510289099": true,
         "2111812894677676101": true,
         "2111813333867532388": true,
-        "2111815027556778418": false,
         "2111816781694451856": false,
         "2111819858929475631": true,
         "2111820891642527869": true,
@@ -3378,7 +3377,8 @@
         "2111886243273584726": true,
         "2112045366648717797": true,
         "2112066853895856261": true,
-        "2112067151033143564": false
+        "2112067151033143564": false,
+        "2112068253950292344": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5404,5 +5404,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-19T06:24:20+00:00"
+  "updated_at": "2026-10-19T06:28:20+00:00"
 }
