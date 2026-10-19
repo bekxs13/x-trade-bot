@@ -2468,7 +2468,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2112271068916515087",
+      "last_id": "2112273012196249839",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2694,11 +2694,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-17T04:58:35.000Z",
-          "id": "2111320951355039804",
-          "text": "feels like when lebron joined the heat\n\nits but a retrace before the next leg up higher\n\nlets focus on continually improving in this new asset class (alts) - sooner or later we'll get as sharp as we are on majors, stocks, onchain\n\nvery grateful for the real ones lately too\n\nMP"
-        },
-        {
           "created_at": "2026-10-17T05:16:11.000Z",
           "id": "2111325378518421936",
           "reply_to_id": "2111320951355039804",
@@ -2835,10 +2830,15 @@
           "created_at": "2026-10-19T19:49:43.000Z",
           "id": "2112269987004268942",
           "text": "if youre gonna swing\n\nwhy not swing for home runs\n\nalways gun for the asymmetric play"
+        },
+        {
+          "created_at": "2026-10-19T20:01:44.000Z",
+          "id": "2112273012196249839",
+          "quoted_text": "@MoneyPrinter0x no pain no gain https://t.co/EqcpaB9ndq",
+          "text": "bro this is sick \ud83d\ude02\ud83d\ude02 https://t.co/HIqN256pa4"
         }
       ],
       "reads": {
-        "2111320951355039804": "No call: bullish on alts (same view as before)",
         "2111325378518421936": "No call",
         "2111639675291250715": "No call: bearish on stocks/macro (65%, too unsure)",
         "2111681194605814015": "No call",
@@ -2855,7 +2855,8 @@
         "2112249073348878612": "TRADE LONG PHA",
         "2112249633951056352": "No call",
         "2112261025571680462": "No call",
-        "2112269987004268942": "No call"
+        "2112269987004268942": "No call",
+        "2112273012196249839": "No call"
       },
       "replies": [
         {
@@ -2950,10 +2951,6 @@
         }
       ],
       "threads": {
-        "2108963673700172274": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108963734551220353": {
           "alerted": [
             "trade:STRK:long"
@@ -3397,10 +3394,13 @@
         "2112269987004268942": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112273012196249839": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111320951355039804": true,
         "2111325378518421936": true,
         "2111329112027795621": false,
         "2111639675291250715": true,
@@ -3434,7 +3434,8 @@
         "2112261025571680462": true,
         "2112262170025300076": true,
         "2112269987004268942": true,
-        "2112271068916515087": false
+        "2112271068916515087": false,
+        "2112273012196249839": false
       },
       "user_id": "1653080265294757890"
     },
@@ -5484,5 +5485,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T19:58:19+00:00"
+  "updated_at": "2026-10-19T20:02:21+00:00"
 }
