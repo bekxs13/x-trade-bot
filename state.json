@@ -821,6 +821,15 @@
           "stance": "bearish",
           "updated_at": "2026-10-13T15:19:47.000Z"
         },
+        "paper": {
+          "market": "crypto",
+          "post_id": "2112028564987990046",
+          "reason": "Calls papertrade 'a generational setup' and 'the AWS of all high leverage speculation', citing 50M+ paid to $PAPER stakers.",
+          "scope": "PAPER",
+          "since": "2026-10-19",
+          "stance": "bullish",
+          "updated_at": "2026-10-19T03:50:24.000Z"
+        },
         "pump": {
           "market": "crypto",
           "post_id": "2109734999708831885",
@@ -858,7 +867,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2111913303643750841",
+      "last_id": "2112028564987990046",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -878,14 +887,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-16T14:41:28.000Z",
-          "id": "2111105247699665407",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2111105054598184960/img/x_qo_QZ_vqHYfTiJ.jpg"
-          ],
-          "text": "i spent a lot of 2020 and 2021 glued to the charts, constantly feeling like i was going to miss something if i logged off\n\nover time, i've learned that trading 24/7 can become a trap, even when you're making money\n\nthere are periods where being extremely active makes sense, and others where stepping away is the better decision\n\nhaving a life outside of trading is important bc knowing when to switch off is just as valuable as knowing when to trade"
-        },
         {
           "created_at": "2026-10-16T15:29:31.000Z",
           "id": "2111117340779937937",
@@ -1010,10 +1011,14 @@
           "id": "2111910811153105043",
           "quoted_text": "Timeline is full of everyone telling everyone about how everyone is bearish and how when everyone is bearish the market can\u2019t go down. Interesting.",
           "text": "yea this is the worst kind of analysis you can do btw\n\nthere is no \"everyone\" there's your own positions and your invalidations, nothing more nothing less https://t.co/OS105wXEW7"
+        },
+        {
+          "created_at": "2026-10-19T03:50:24.000Z",
+          "id": "2112028564987990046",
+          "text": "know ive been tweeting about this a lot but really think papertrade could be a generational setup\n\nhigh leverage perps are crypto's most profitable product to date, demand for speculation is not going to go away\n\nability to open/close synthetic 1000x positions w/ no market impact is a novel mechanism, paired w/ the house-trader relationship where trader losses fund the onchain LP, & all losses after a certain LP cap get paid out to traders staking the platform's native paper token - can see how this can maintain traction longterm, already at 50M+ paid out to $PAPER stakers in first week\n\nevery other perp dex's revenue comes from a small take rate on the fees of volume, no perp dex has been able to monetize directly trader losses, of which it's been shown is a much larger number, in theory winners should be able to easily get paid out from house LP over time as high leverage has a difficult success rate, ideal state is that its closer to 50/50 winners/losers after a certain LP cap and even then its a much better model allowing traders to own the house\n\nwhat's more interesting tho is that the model should be able to be extensible to other games outside of just perpetual futures, the online gambling industry is massive, and none of the online casinos are +EV for users, every major online casino is -EV as thats how the house makes money by creating games that are slightly better probabilistically for the house and monetizing losses over time, with papertrade it should be possible to let people speculate on other similar games with the same model as losses going back directly to paper stakers instead of just to the house - so im curious to see what team is thinking of here\n\nif hyperliquid is the AWS of all of finance, then papertrade could be the AWS of all high leverage speculation money games on the internet, will be cool to see how the next several months play out, dont think people have gone deep enough on the possibilities with one of the first novel onchain experiments in awhile that also rewards its most active participants"
         }
       ],
       "reads": {
-        "2111105247699665407": "No call",
         "2111117340779937937": "No call",
         "2111117359091957993": "No call",
         "2111175987350417649": "No call",
@@ -1032,7 +1037,8 @@
         "2111899765323759684": "TRADE EXIT BTC \u00b7 VIEW bearish on crypto market",
         "2111904166327222564": "VIEW bearish on eth",
         "2111906147116413196": "No call",
-        "2111910811153105043": "No call"
+        "2111910811153105043": "No call",
+        "2112028564987990046": "VIEW bullish on PAPER"
       },
       "replies": [
         {
@@ -1545,10 +1551,15 @@
         "2111910811153105043": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112028564987990046": {
+          "alerted": [
+            "bias:paper:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111105247699665407": true,
         "2111117316238819588": false,
         "2111117340779937937": false,
         "2111117359091957993": false,
@@ -1582,7 +1593,8 @@
         "2111906147116413196": false,
         "2111910811153105043": true,
         "2111912364727509377": false,
-        "2111913303643750841": true
+        "2111913303643750841": true,
+        "2112028564987990046": true
       },
       "user_id": "973261472"
     },
@@ -5388,5 +5400,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-19T03:30:22+00:00"
+  "updated_at": "2026-10-19T03:52:26+00:00"
 }
