@@ -2470,7 +2470,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2112261025571680462",
+      "last_id": "2112262170025300076",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2696,11 +2696,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-16T19:17:15.000Z",
-          "id": "2111174650604773834",
-          "text": "both bonds n equities are getting sold off today"
-        },
-        {
           "created_at": "2026-10-16T19:36:51.000Z",
           "id": "2111179586835005866",
           "text": "leos holdings highly correlated/nearly same to vara\n\nthink both of them blew up today"
@@ -2835,10 +2830,16 @@
           "id": "2112261025571680462",
           "quoted_text": "Roadmap 2.0\n\nA new era of token utility for $PHA. \n\nDropping this week. https://t.co/6S3MMQa0EN",
           "text": "This is the first time (2 hours ago) that team addressed the governance vote results in terms of whats next btw https://t.co/3BfQz2L6r6"
+        },
+        {
+          "created_at": "2026-10-19T19:18:39.000Z",
+          "id": "2112262170025300076",
+          "quoted_text": "Roadmap 2.0\n\nA new era of token utility for $PHA. \n\nDropping this week. https://t.co/6S3MMQa0EN",
+          "reply_to_id": "2112249073348878612",
+          "text": "Personal reference price target: 0.12$-0.60$ for $pha\n\nI dont normally share personal PTs but this is anchored in bear case of 1/10 - 1/2 of $VVV despite (1) doing verifiably more tokens than venice and (2) recent governance vote resulting in higher revshare % than venice after rampup\n\nNote that the team's first time in moving in terms of whats next, their actual actions regarding the governance vote results only happened 2 hours ago - its not priced in at all imo https://t.co/CfkmFXjSnX\n\nNfa dyor"
         }
       ],
       "reads": {
-        "2111174650604773834": "No call",
         "2111179586835005866": "No call",
         "2111320951355039804": "No call: bullish on alts (same view as before)",
         "2111325378518421936": "No call",
@@ -3403,7 +3404,6 @@
         }
       },
       "trading": {
-        "2111174650604773834": true,
         "2111179586835005866": true,
         "2111320951355039804": true,
         "2111325378518421936": true,
@@ -3437,7 +3437,8 @@
         "2112253830184480808": false,
         "2112254650120552884": true,
         "2112258778100121644": false,
-        "2112261025571680462": true
+        "2112261025571680462": true,
+        "2112262170025300076": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5487,5 +5488,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T19:14:30+00:00"
+  "updated_at": "2026-10-19T19:20:21+00:00"
 }
