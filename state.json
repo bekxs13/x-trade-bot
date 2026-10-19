@@ -867,7 +867,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112036503463546953",
+      "last_id": "2112092925580456365",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1045,18 +1045,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T15:57:02.000Z",
-          "id": "2111124265885892807",
-          "reply_to_id": "2111120916315033975",
-          "text": "@SalsaTekila this was &amp; still is a generational opp, i hope ppl listened to me"
-        },
-        {
-          "created_at": "2026-10-16T15:57:33.000Z",
-          "id": "2111124397163774432",
-          "reply_to_id": "2111118933113618478",
-          "text": "@OnchainPeasant @mst1287 lmao"
-        },
-        {
           "created_at": "2026-10-16T16:00:56.000Z",
           "id": "2111125249127600609",
           "reply_to_id": "2111116267151372731",
@@ -1133,6 +1121,18 @@
           "id": "2112029942288408665",
           "reply_to_id": "2111990148577816645",
           "text": "@insomniacxbt btc/xxx pairs are going to do well imo"
+        },
+        {
+          "created_at": "2026-10-19T08:04:36.000Z",
+          "id": "2112092538987528686",
+          "reply_to_id": "2112077345326567906",
+          "text": "@Pickle_cRypto @Agonybeard this is without pricing in upside of pump becoming money-ness due to custom launchpad pairings &amp; infra layer for experimentation onchain"
+        },
+        {
+          "created_at": "2026-10-19T08:06:08.000Z",
+          "id": "2112092925580456365",
+          "reply_to_id": "2112033088867844217",
+          "text": "@HFTD3G3N what"
         }
       ],
       "threads": {
@@ -1564,8 +1564,6 @@
       },
       "trading": {
         "2111117359091957993": false,
-        "2111124265885892807": true,
-        "2111124397163774432": false,
         "2111125249127600609": false,
         "2111129348296110530": false,
         "2111133549118038491": true,
@@ -1597,7 +1595,9 @@
         "2112028564987990046": true,
         "2112029592902901825": true,
         "2112029942288408665": true,
-        "2112036503463546953": true
+        "2112036503463546953": true,
+        "2112092538987528686": true,
+        "2112092925580456365": false
       },
       "user_id": "973261472"
     },
@@ -5396,5 +5396,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-19T07:30:23+00:00"
+  "updated_at": "2026-10-19T08:06:22+00:00"
 }
