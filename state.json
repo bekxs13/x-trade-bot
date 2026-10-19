@@ -870,7 +870,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112270418547781807",
+      "last_id": "2112271565538955334",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -890,14 +890,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-16T19:22:33.000Z",
-          "id": "2111175987350417649",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2111175622538244096/img/aT9e1onZ4HhGC_6I.jpg"
-          ],
-          "text": "i keep sharing my trades and thoughts on ct because i know how much it helped me when i was starting out\n\nback in 2017, there were traders who had already made it but still chose to share their knowledge and help others learn\n\ni benefited a lot from those people, and i want to do the same for the next generation of traders\n\nthe criticism comes with being public, but i've never felt that was a good enough reason to stop sharing what i've learned"
-        },
         {
           "created_at": "2026-10-16T22:07:39.000Z",
           "id": "2111217534485877165",
@@ -1025,10 +1017,15 @@
             "https://pbs.twimg.com/amplify_video_thumb/2112224142061883393/img/m4BaNsniDCE_uyDm.jpg"
           ],
           "text": "distribution could end up being one of the biggest competitive advantages in AI\n\nas models get cheaper and open-source alternatives improve, i expect customer retention and distribution to matter a lot more\n\nOpenAI has already built massive consumer adoption, which creates opportunities to monetize beyond subscriptions through things like advertising\n\nthe economics of AI labs are still evolving, but i think the value of owning the customer relationship is being underestimated"
+        },
+        {
+          "created_at": "2026-10-19T19:55:59.000Z",
+          "id": "2112271565538955334",
+          "quoted_text": "Our full conversation with Mayne and Avi Felman at TOKEN2049 in Singapore:\n\n0:08 Why is everyone so bullish?\n3:44 Finance and Crypto are converging\n9:38 Trading vs making investments\n12:45 The trading to content creation pipeline\n17:38 The hyper-rotation meta of meme coins\n22:08 The moral dilemma with trading publicly\n25:11 Social trading\u2019s scalability\n29:18 Is there an AI bubble?\n33:31 Zcash vs Bitcoin",
+          "text": "me &amp; 2 goats \ud83e\udee1 https://t.co/mtLkFqTFpm"
         }
       ],
       "reads": {
-        "2111175987350417649": "No call",
         "2111217534485877165": "No call",
         "2111218532104929684": "No call",
         "2111395326280307036": "No call",
@@ -1047,7 +1044,8 @@
         "2111910811153105043": "No call",
         "2112028564987990046": "VIEW bullish on PAPER",
         "2112036503463546953": "No call",
-        "2112224350330077223": "No call"
+        "2112224350330077223": "No call",
+        "2112271565538955334": "No call"
       },
       "replies": [
         {
@@ -1142,10 +1140,6 @@
         }
       ],
       "threads": {
-        "2107608427220570453": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2107642352684949537": {
           "alerted": [],
           "self_replies": 0
@@ -1566,10 +1560,13 @@
         "2112224350330077223": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112271565538955334": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111175987350417649": false,
         "2111217534485877165": true,
         "2111218532104929684": true,
         "2111395326280307036": true,
@@ -1603,7 +1600,8 @@
         "2112101056398471485": false,
         "2112224350330077223": true,
         "2112250339541836267": false,
-        "2112270418547781807": false
+        "2112270418547781807": false,
+        "2112271565538955334": true
       },
       "user_id": "973261472"
     },
@@ -5486,5 +5484,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T19:54:20+00:00"
+  "updated_at": "2026-10-19T19:56:25+00:00"
 }
