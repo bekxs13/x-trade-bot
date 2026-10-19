@@ -4734,17 +4734,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2112229752572424657",
+      "last_id": "2112229981741035884",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-17T22:07:08.000Z",
-          "id": "2111579791379820967",
-          "images": [
-            "https://pbs.twimg.com/media/HU3Wl_dWkAIbZGg.jpg"
-          ],
-          "text": "They're so nervous they're raping it on the weekend\n\nHyperliquid https://t.co/Llm5KTnysB"
-        },
         {
           "created_at": "2026-10-17T22:17:08.000Z",
           "id": "2111582307996082446",
@@ -4858,10 +4850,18 @@
             "https://pbs.twimg.com/media/HVAlr54XEAAzERd.png"
           ],
           "text": "Gamma runs in both directions? https://t.co/GG218iLJFp"
+        },
+        {
+          "created_at": "2026-10-19T17:10:45.000Z",
+          "id": "2112229981741035884",
+          "images": [
+            "https://pbs.twimg.com/media/HVAl92XWsAAfYwc.png"
+          ],
+          "reply_to_id": "2112182070260965441",
+          "text": "Interesting https://t.co/KI6kSSmGc8"
         }
       ],
       "reads": {
-        "2111579791379820967": "VIEW bearish on MU",
         "2111582307996082446": "No call: bearish on stocks/macro (same view as before)",
         "2111582981420642576": "No call: bearish on stocks/macro (same view as before)",
         "2111583825256214637": "No call",
@@ -4879,7 +4879,8 @@
         "2111898450333757538": "VIEW bearish on eth",
         "2111957092781240827": "No call",
         "2112182070260965441": "No call: bearish on stocks/macro (65%, too unsure)",
-        "2112229752572424657": "No call: bearish on stocks/macro (60%, too unsure)"
+        "2112229752572424657": "No call: bearish on stocks/macro (60%, too unsure)",
+        "2112229981741035884": "No call"
       },
       "replies": [
         {
@@ -5380,7 +5381,7 @@
         },
         "2112182070260965441": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2112229752572424657": {
           "alerted": [],
@@ -5396,7 +5397,6 @@
         "2111135946112397498": true,
         "2111183217843679578": false,
         "2111505410444411366": true,
-        "2111579791379820967": true,
         "2111581235793588319": true,
         "2111582307996082446": true,
         "2111582981420642576": true,
@@ -5422,7 +5422,8 @@
         "2111898450333757538": true,
         "2111957092781240827": true,
         "2112182070260965441": true,
-        "2112229752572424657": true
+        "2112229752572424657": true,
+        "2112229981741035884": false
       },
       "user_id": "809191427645181952"
     }
@@ -5438,5 +5439,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T17:10:32+00:00"
+  "updated_at": "2026-10-19T17:12:23+00:00"
 }
