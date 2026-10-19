@@ -2468,7 +2468,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2112274600650539153",
+      "last_id": "2112274967631126783",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2860,12 +2860,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-19T06:23:43.000Z",
-          "id": "2112067151033143564",
-          "reply_to_id": "2112047187936907275",
-          "text": "@kimmonismus many such cases"
-        },
-        {
           "created_at": "2026-10-19T06:28:06.000Z",
           "id": "2112068253950292344",
           "reply_to_id": "2112063683841216557",
@@ -2948,6 +2942,12 @@
           "id": "2112274600650539153",
           "reply_to_id": "2112272408291721340",
           "text": "@martio0601 Still alive, tech is superior but price needs to find floor &amp; spot selling needs to slow down before it finds bottom\n\nhttps://t.co/iYUqYSfpZk"
+        },
+        {
+          "created_at": "2026-10-19T20:09:31.000Z",
+          "id": "2112274967631126783",
+          "reply_to_id": "2112268038653243694",
+          "text": "@Lance_xbt Strk is separate allocation, phala is not that high mc so i cant size much but thought dd is good enough to add value in sharing"
         }
       ],
       "threads": {
@@ -3413,7 +3413,6 @@
         "2111820891642527869": true,
         "2111845216751915418": true,
         "2112045366648717797": true,
-        "2112067151033143564": false,
         "2112068253950292344": true,
         "2112069443929116757": false,
         "2112121780299235514": false,
@@ -3435,7 +3434,8 @@
         "2112271068916515087": false,
         "2112273012196249839": false,
         "2112274053138616783": false,
-        "2112274600650539153": true
+        "2112274600650539153": true,
+        "2112274967631126783": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5485,5 +5485,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T20:08:19+00:00"
+  "updated_at": "2026-10-19T20:10:21+00:00"
 }
