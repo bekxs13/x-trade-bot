@@ -46,7 +46,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2112015860596723809",
+      "last_id": "2112033919520710777",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -223,12 +223,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-17T00:18:18.000Z",
-          "id": "2111250412066001099",
-          "reply_to_id": "2111250215491731737",
-          "text": "@directioncorrec @0x_danb @jbulltard1 Ya I\u2019ll just hang out and wait for unlocks, made good money buying this wk and spiking buffet candle on accident will try again when it feels right"
-        },
-        {
           "created_at": "2026-10-17T01:45:28.000Z",
           "id": "2111272349823812068",
           "reply_to_id": "2111269641775649202",
@@ -311,6 +305,12 @@
           "id": "2112015860596723809",
           "reply_to_id": "2112005668203020484",
           "text": "@alexandr_wang @chameleon_jeff @ScottWu46 Sick"
+        },
+        {
+          "created_at": "2026-10-19T04:11:40.000Z",
+          "id": "2112033919520710777",
+          "reply_to_id": "2111958783396385152",
+          "text": "@DavidSacks Get em David!"
         }
       ],
       "threads": {
@@ -726,7 +726,6 @@
         }
       },
       "trading": {
-        "2111250412066001099": true,
         "2111262954158997847": false,
         "2111269540294537652": true,
         "2111272349823812068": false,
@@ -760,7 +759,8 @@
         "2111910696162414895": false,
         "2111925607269589125": false,
         "2111955547352351049": false,
-        "2112015860596723809": false
+        "2112015860596723809": false,
+        "2112033919520710777": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5400,5 +5400,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-19T03:58:16+00:00"
+  "updated_at": "2026-10-19T04:12:24+00:00"
 }
