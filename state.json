@@ -3389,7 +3389,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2112023212859310570",
+      "last_id": "2112175942537797952",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3409,15 +3409,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T11:23:57.000Z",
-          "id": "2110693154429214765",
-          "images": [
-            "https://pbs.twimg.com/media/HUqwOyEW0AAt8kZ.jpg"
-          ],
-          "quoted_text": "(rant) why the Whitehouse, Google and Minecraft are posting memecoins: the social media interns are making more money trading than from their salary https://t.co/67DKIR91aU",
-          "text": "https://t.co/in0ljQCn8w https://t.co/jNKAGZNywg"
-        },
         {
           "created_at": "2026-10-15T11:49:45.000Z",
           "id": "2110699646641394005",
@@ -3528,10 +3519,14 @@
           "id": "2111945278005682270",
           "reply_to_id": "2111944930092294530",
           "text": "peter borish"
+        },
+        {
+          "created_at": "2026-10-19T13:35:54.000Z",
+          "id": "2112175913647395226",
+          "text": "the stream is back tomorrow. looks like we survived today (so far)"
         }
       ],
       "reads": {
-        "2110693154429214765": "No call",
         "2110699646641394005": "No call",
         "2110700561821487517": "No call",
         "2110705272830541887": "No call",
@@ -3547,15 +3542,10 @@
         "2111074640328262026": "No call",
         "2111475796993015853": "No call",
         "2111944213352919424": "No call",
-        "2111944930092294530": "No call"
+        "2111944930092294530": "No call",
+        "2112175913647395226": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-17T22:19:21.000Z",
-          "id": "2111582865234231388",
-          "reply_to_id": "2111580850630361572",
-          "text": "@SoskaKyle @based16z unc"
-        },
         {
           "created_at": "2026-10-17T22:29:47.000Z",
           "id": "2111585490860478866",
@@ -3642,6 +3632,12 @@
           "id": "2112023212859310570",
           "reply_to_id": "2112022848634270046",
           "text": "@DeepDishEnjoyer that\u2019s why the market crashed. bunch of miserable husbands rage selling"
+        },
+        {
+          "created_at": "2026-10-19T13:36:01.000Z",
+          "id": "2112175942537797952",
+          "reply_to_id": "2112173458738323632",
+          "text": "@WordsayT tmrw we back"
         }
       ],
       "threads": {
@@ -3819,10 +3815,13 @@
         "2111944213352919424": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2112175913647395226": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110693154429214765": true,
         "2110699646641394005": false,
         "2110700561821487517": true,
         "2110705272830541887": false,
@@ -3839,7 +3838,6 @@
         "2111180317218455782": false,
         "2111475796993015853": true,
         "2111488674076778592": false,
-        "2111582865234231388": false,
         "2111585490860478866": false,
         "2111585881173671936": false,
         "2111588806327468366": false,
@@ -3856,7 +3854,9 @@
         "2111945278005682270": false,
         "2111950001232547880": false,
         "2111986156678111575": false,
-        "2112023212859310570": true
+        "2112023212859310570": true,
+        "2112175913647395226": false,
+        "2112175942537797952": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5419,5 +5419,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T13:04:19+00:00"
+  "updated_at": "2026-10-19T13:36:23+00:00"
 }
