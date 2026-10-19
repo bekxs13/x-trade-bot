@@ -2429,7 +2429,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2111886243273584726",
+      "last_id": "2112045366648717797",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2639,12 +2639,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-16T11:46:22.000Z",
-          "id": "2111061185315655710",
-          "reply_to_id": "2111053758948168091",
-          "text": "these kinds of things will only become obvious in hindsight when the bandwagon jumps in. but technologically they are perfect, and forward-looking sentiment wise the markets are perfect for this. the markets & ppl who gain engagement/joy from habitually attacking others might clown and attack me for this since its a hated play (i can see where they're coming from) and i wont lie that it doesnt suck. but ai-resistant cryptography is only going to heavily accelerate in both mindshare and size in the near and medium term. it is hated. but it is not wrong. and it will only become more correct in the near future due to anth ipo schedule <-> media headwinds."
-        },
-        {
           "created_at": "2026-10-16T16:11:57.000Z",
           "id": "2111128021445017785",
           "images": [
@@ -2773,6 +2767,12 @@
           "id": "2111845216751915418",
           "quoted_text": "Increasingly think the Anthropic IPO does not get done. Why are they rushing to borrow at double digit yields if they are about to have $1.5 trillion of equity market value and raise $100bn?",
           "text": "imagine if monday opens with anth ipo delay announcement https://t.co/zK0dfA64gi"
+        },
+        {
+          "created_at": "2026-10-19T04:57:09.000Z",
+          "id": "2112045366648717797",
+          "quoted_text": "Russian President Vladimir Putin has proposed that he, President Trump and Chinese leader Xi Jinping meet next month to attempt to negotiate an end to the war in Ukraine that would favor Moscow, per WSJ",
+          "text": "whiteswan https://t.co/BYDXzqzkus"
         }
       ],
       "reads": {
@@ -2792,7 +2792,8 @@
         "2111812894677676101": "No call",
         "2111813333867532388": "No call",
         "2111820891642527869": "No call",
-        "2111845216751915418": "No call"
+        "2111845216751915418": "No call",
+        "2112045366648717797": "No call: bullish on crypto market (65%, too unsure)"
       },
       "replies": [
         {
@@ -2887,10 +2888,6 @@
         }
       ],
       "threads": {
-        "2108933002864861656": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108934824933359978": {
           "alerted": [
             "bias:crypto market:bullish"
@@ -3340,10 +3337,13 @@
         "2111845216751915418": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112045366648717797": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111061185315655710": true,
         "2111128021445017785": true,
         "2111131990410072116": true,
         "2111132623271862443": true,
@@ -3377,7 +3377,8 @@
         "2111847025436434944": true,
         "2111866054851145918": false,
         "2111885963685486773": true,
-        "2111886243273584726": true
+        "2111886243273584726": true,
+        "2112045366648717797": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5403,5 +5404,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-19T04:22:20+00:00"
+  "updated_at": "2026-10-19T04:58:30+00:00"
 }
