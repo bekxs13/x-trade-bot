@@ -867,7 +867,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112028564987990046",
+      "last_id": "2112029942288408665",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1042,18 +1042,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T15:29:25.000Z",
-          "id": "2111117316238819588",
-          "reply_to_id": "2111116734388371537",
-          "text": "@exitIiquidity he was roasting me lol"
-        },
-        {
-          "created_at": "2026-10-16T15:35:11.000Z",
-          "id": "2111118768403587474",
-          "reply_to_id": "2111118331742699841",
-          "text": "@mst1287 mst we may have fumbled this one"
-        },
-        {
           "created_at": "2026-10-16T15:57:02.000Z",
           "id": "2111124265885892807",
           "reply_to_id": "2111120916315033975",
@@ -1130,6 +1118,18 @@
           "id": "2111913303643750841",
           "reply_to_id": "2111903869957456251",
           "text": "@22loops loops have you tried papertrade"
+        },
+        {
+          "created_at": "2026-10-19T03:54:29.000Z",
+          "id": "2112029592902901825",
+          "reply_to_id": "2112029036067405993",
+          "text": "max supply is ~12.6B based on the mint curve function as LP grows, only way to mint paper after that point would be if LP drops below 2M at some point then it resets\n\nbut yes you are getting diluted, there's no reason not to stake your paper tho as you are getting cash rewards as a portion of all trader losses on the exchange, you are getting diluted by not minting more paper atm tho a lot of people are still minting paper w/ delta neutral strats so we'll see how volume looks when supply is closer to max cap"
+        },
+        {
+          "created_at": "2026-10-19T03:55:52.000Z",
+          "id": "2112029942288408665",
+          "reply_to_id": "2111990148577816645",
+          "text": "@insomniacxbt btc/xxx pairs are going to do well imo"
         }
       ],
       "threads": {
@@ -1560,10 +1560,8 @@
         }
       },
       "trading": {
-        "2111117316238819588": false,
         "2111117340779937937": false,
         "2111117359091957993": false,
-        "2111118768403587474": false,
         "2111124265885892807": true,
         "2111124397163774432": false,
         "2111125249127600609": false,
@@ -1594,7 +1592,9 @@
         "2111910811153105043": true,
         "2111912364727509377": false,
         "2111913303643750841": true,
-        "2112028564987990046": true
+        "2112028564987990046": true,
+        "2112029592902901825": true,
+        "2112029942288408665": true
       },
       "user_id": "973261472"
     },
@@ -5400,5 +5400,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-19T03:52:26+00:00"
+  "updated_at": "2026-10-19T03:56:19+00:00"
 }
