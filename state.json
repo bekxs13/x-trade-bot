@@ -4286,7 +4286,7 @@
       "biases": {},
       "closed": [],
       "handle": "thecryptonexus",
-      "last_id": "2112161655753003435",
+      "last_id": "2112163311584231850",
       "positions": {
         "FREN PET (FP)": {
           "asset": "Fren Pet (FP)",
@@ -4421,6 +4421,11 @@
           "id": "2112118266839629840",
           "quoted_text": "Currently have ~0.2% of the total supply of Hyperliquid points\u2026 https://t.co/8atpgQ8hRt",
           "text": "Don\u2019t calculate don\u2019t calculate it don\u2019t calculate it don\u2019t calculate it don\u2019t calculate it don\u2019t calculate it don\u2019t calculate it do- https://t.co/5Z6rnHVuyo"
+        },
+        {
+          "created_at": "2026-10-19T12:45:50.000Z",
+          "id": "2112163311584231850",
+          "text": "I\u2019m staying at a 3 star hotel for the first time will I need private security?"
         }
       ],
       "reads": {
@@ -4437,7 +4442,8 @@
         "2111676013172166960": "No call",
         "2111676018692133080": "Read together with the post it replies to",
         "2111754410867269780": "No call",
-        "2112118266839629840": "No call"
+        "2112118266839629840": "No call",
+        "2112163311584231850": "No call"
       },
       "replies": [
         {
@@ -4607,6 +4613,10 @@
         "2112118266839629840": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112163311584231850": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -4640,7 +4650,8 @@
         "2112125413216698619": false,
         "2112139047535825013": true,
         "2112140160208912595": true,
-        "2112161655753003435": false
+        "2112161655753003435": false,
+        "2112163311584231850": false
       },
       "user_id": "1392152416854765571"
     },
@@ -5405,5 +5416,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T12:40:21+00:00"
+  "updated_at": "2026-10-19T12:46:22+00:00"
 }
