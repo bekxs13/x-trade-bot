@@ -870,7 +870,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112271565538955334",
+      "last_id": "2112271626540614127",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1049,12 +1049,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T18:30:43.000Z",
-          "id": "2111887716074058106",
-          "reply_to_id": "2111887019995545713",
-          "text": "@kingbtc hey bob"
-        },
-        {
           "created_at": "2026-10-18T18:37:44.000Z",
           "id": "2111889484795265389",
           "reply_to_id": "2111887640681197743",
@@ -1137,6 +1131,12 @@
           "id": "2112270418547781807",
           "reply_to_id": "2112257202681749580",
           "text": "@tomofgains bing bong"
+        },
+        {
+          "created_at": "2026-10-19T19:56:14.000Z",
+          "id": "2112271626540614127",
+          "reply_to_id": "2112196582804254955",
+          "text": "@IcedKnife is it juicy?"
         }
       ],
       "threads": {
@@ -1578,7 +1578,6 @@
         "2111723083107065935": false,
         "2111733530757570629": true,
         "2111779407807574066": false,
-        "2111887716074058106": false,
         "2111889484795265389": false,
         "2111898945169297708": true,
         "2111899765323759684": true,
@@ -1601,7 +1600,8 @@
         "2112224350330077223": true,
         "2112250339541836267": false,
         "2112270418547781807": false,
-        "2112271565538955334": true
+        "2112271565538955334": true,
+        "2112271626540614127": false
       },
       "user_id": "973261472"
     },
@@ -1941,7 +1941,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2112266427998916913",
+      "last_id": "2112271778794107062",
       "positions": {
         "AMZN": {
           "asset": "AMZN",
@@ -2113,12 +2113,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T18:26:19.000Z",
-          "id": "2111161834891776462",
-          "reply_to_id": "2111150294004359519",
-          "text": "Ahh so you just have to differentiate timeframes for ideas\n\nPersonally I don\u2019t do anything different in a trade vs out cuz idk how long my trades are gonna last until they play out and smth tells me to close. The ewy hedge just now, I had no clue. It rapidly collapsed by sig amount so closed, could\u2019ve lasted weeks tho who knows. \n\nTough question tbh, I like using ltf to confirm htf entry exit, really idk I just flow"
-        },
-        {
           "created_at": "2026-10-16T18:26:52.000Z",
           "id": "2111161973652046132",
           "reply_to_id": "2111149801358381184",
@@ -2201,6 +2195,12 @@
           "id": "2112266427998916913",
           "reply_to_id": "2112264624624308699",
           "text": "@Icebergy Ye I basically log out of app Friday close until Sunday open, ppl going schizo over some shit for nothin always"
+        },
+        {
+          "created_at": "2026-10-19T19:56:50.000Z",
+          "id": "2112271778794107062",
+          "reply_to_id": "2112270848782430369",
+          "text": "@Evan_ss6 Now watch this drive"
         }
       ],
       "threads": {
@@ -2366,7 +2366,6 @@
         "2110770912429838604": true,
         "2111144245436506126": true,
         "2111144621497799027": true,
-        "2111161834891776462": true,
         "2111161973652046132": true,
         "2111890566019772828": true,
         "2111890824229470507": true,
@@ -2388,7 +2387,8 @@
         "2112253482740937178": false,
         "2112255633777140060": true,
         "2112263573800136721": false,
-        "2112266427998916913": true
+        "2112266427998916913": true,
+        "2112271778794107062": false
       },
       "user_id": "953032269433745408"
     },
@@ -5484,5 +5484,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T19:56:25+00:00"
+  "updated_at": "2026-10-19T19:58:19+00:00"
 }
