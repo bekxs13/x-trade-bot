@@ -1943,7 +1943,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2112245189658255701",
+      "last_id": "2112246148148904222",
       "positions": {
         "AMZN": {
           "asset": "AMZN",
@@ -1979,12 +1979,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T19:07:02.000Z",
-          "id": "2110447305740742802",
-          "reply_to_id": "2110446822707929422",
-          "text": "The changes to app itself have done a pretty solid job of disincentivizing much interaction tho, feels much more like reading headlines from accts as opposed to discussion platform \n\nChanges to how you post long running ideas killed a lot of it for me personally, also ragebait posts all over"
-        },
         {
           "created_at": "2026-10-14T19:08:23.000Z",
           "id": "2110447643642245266",
@@ -2095,10 +2089,15 @@
           "created_at": "2026-10-19T18:11:11.000Z",
           "id": "2112245189658255701",
           "text": "Positioning is goog amzn overweighted, Brk leaps, 50% spot long trad, 0% spot crypto, no perp positions crypto \n\nLooking for crypto over yearly open or break below 80s for alt longs, alts prob lead the bottom\n\nLooking for specific options plays in trad and spot adds if we get some more weakness (base case atm)"
+        },
+        {
+          "created_at": "2026-10-19T18:15:00.000Z",
+          "id": "2112246148148904222",
+          "reply_to_id": "2112245189658255701",
+          "text": "Given that mem shorts were used to hedge goog amzn which are much larger positions than a normal simple options play I put on, shorts actually helped my portfolio quite a fair bit, port ath again \n\nStill nowhere near the year I wanted or hoped for but nice to see self get in flow and perform after committing to more time in game again \n\nOnwards and upwards"
         }
       ],
       "reads": {
-        "2110447305740742802": "No call",
         "2110526910442954926": "No call",
         "2110528172307697874": "No call",
         "2110530132381516205": "No call",
@@ -2111,7 +2110,8 @@
         "2111890824229470507": "No call",
         "2111951201671712775": "No call",
         "2112237620696907810": "No call: bearish on stocks/macro (same view as before)",
-        "2112245189658255701": "TRADE LONG AMZN"
+        "2112245189658255701": "TRADE LONG AMZN",
+        "2112246148148904222": "No call"
       },
       "replies": [
         {
@@ -2352,11 +2352,10 @@
           "alerted": [
             "trade:AMZN:long"
           ],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2110447305740742802": false,
         "2110447643642245266": false,
         "2110450730079510702": false,
         "2110526910442954926": true,
@@ -2390,7 +2389,8 @@
         "2111951201671712775": true,
         "2112030167053037839": false,
         "2112237620696907810": true,
-        "2112245189658255701": true
+        "2112245189658255701": true,
+        "2112246148148904222": true
       },
       "user_id": "953032269433745408"
     },
@@ -5465,5 +5465,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T18:12:24+00:00"
+  "updated_at": "2026-10-19T18:16:24+00:00"
 }
