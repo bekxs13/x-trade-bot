@@ -870,7 +870,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112101056398471485",
+      "last_id": "2112224350330077223",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -890,11 +890,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-16T15:29:35.000Z",
-          "id": "2111117359091957993",
-          "text": "jesus christ man"
-        },
         {
           "created_at": "2026-10-16T19:22:33.000Z",
           "id": "2111175987350417649",
@@ -1022,10 +1017,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2112036366045634560/img/50K4v8exIz8Gt2Jm.jpg"
           ],
           "text": "i've always viewed social awareness as one of the biggest edges in memecoin trading\n\nbeing early to viral trends matters, but understanding who's behind the attention and how committed the community is can be just as important\n\ni pay close attention to holder distribution, community activity and the social capital of people associated with a coin\n\nthose factors can help explain why certain memes sustain attention while thousands of others fade away"
+        },
+        {
+          "created_at": "2026-10-19T16:48:23.000Z",
+          "id": "2112224350330077223",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2112224142061883393/img/m4BaNsniDCE_uyDm.jpg"
+          ],
+          "text": "distribution could end up being one of the biggest competitive advantages in AI\n\nas models get cheaper and open-source alternatives improve, i expect customer retention and distribution to matter a lot more\n\nOpenAI has already built massive consumer adoption, which creates opportunities to monetize beyond subscriptions through things like advertising\n\nthe economics of AI labs are still evolving, but i think the value of owning the customer relationship is being underestimated"
         }
       ],
       "reads": {
-        "2111117359091957993": "No call",
         "2111175987350417649": "No call",
         "2111217534485877165": "No call",
         "2111218532104929684": "No call",
@@ -1044,7 +1046,8 @@
         "2111906147116413196": "No call",
         "2111910811153105043": "No call",
         "2112028564987990046": "VIEW bullish on PAPER",
-        "2112036503463546953": "No call"
+        "2112036503463546953": "No call",
+        "2112224350330077223": "No call"
       },
       "replies": [
         {
@@ -1139,10 +1142,6 @@
         }
       ],
       "threads": {
-        "2107569488392544610": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2107608427220570453": {
           "alerted": [],
           "self_replies": 0
@@ -1563,10 +1562,13 @@
         "2112036503463546953": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112224350330077223": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111117359091957993": false,
         "2111175987350417649": false,
         "2111217534485877165": true,
         "2111218532104929684": true,
@@ -1600,7 +1602,8 @@
         "2112095257831858519": true,
         "2112099307000365408": false,
         "2112100558685520337": false,
-        "2112101056398471485": false
+        "2112101056398471485": false,
+        "2112224350330077223": true
       },
       "user_id": "973261472"
     },
@@ -5432,5 +5435,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T15:51:29+00:00"
+  "updated_at": "2026-10-19T16:50:23+00:00"
 }
