@@ -867,7 +867,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112095257831858519",
+      "last_id": "2112099307000365408",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1045,12 +1045,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-16T16:33:55.000Z",
-          "id": "2111133549118038491",
-          "reply_to_id": "2111132374083817868",
-          "text": "\u2022 synthetic perps, there is no orderbook just traders vs the house\n\u2022 99% of trader losses over LP cap go to paper stakes\n\u2022 zero fees on opening trades\n\u2022 zero fees on losing trades\n\u2022 no funding\n\u2022 100% of token supply to users\n\nthere is no other perps exchange that is designed this way & pays out losses as revenue to stakers of the native exchange token"
-        },
-        {
           "created_at": "2026-10-16T20:28:40.000Z",
           "id": "2111192626690957681",
           "reply_to_id": "2111164413441179728",
@@ -1133,6 +1127,12 @@
           "id": "2112095257831858519",
           "reply_to_id": "2112052179989377534",
           "text": "@saphyre liquidation"
+        },
+        {
+          "created_at": "2026-10-19T08:31:30.000Z",
+          "id": "2112099307000365408",
+          "reply_to_id": "2112021965284458971",
+          "text": "@SaladBarFan \ud83e\udee9"
         }
       ],
       "threads": {
@@ -1564,7 +1564,6 @@
       },
       "trading": {
         "2111117359091957993": false,
-        "2111133549118038491": true,
         "2111175987350417649": false,
         "2111192626690957681": false,
         "2111217534485877165": true,
@@ -1597,7 +1596,8 @@
         "2112092538987528686": true,
         "2112092925580456365": false,
         "2112092964466143417": false,
-        "2112095257831858519": true
+        "2112095257831858519": true,
+        "2112099307000365408": false
       },
       "user_id": "973261472"
     },
@@ -5396,5 +5396,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-18",
-  "updated_at": "2026-10-19T08:16:19+00:00"
+  "updated_at": "2026-10-19T08:32:19+00:00"
 }
