@@ -2470,7 +2470,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2112240489017786610",
+      "last_id": "2112249073348878612",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2565,6 +2565,22 @@
           "since": "2026-10-08T17:28:26.000Z",
           "structure": "unknown",
           "url": "https://x.com/MoneyPrinter0x/status/2108248166764314906"
+        },
+        "PHA": {
+          "asset": "PHA",
+          "chain": "eth",
+          "confidence": 0.95,
+          "contract_address": "0x6c5ba91642f10282b576d91922ae6448c9d52f4e",
+          "direction": "long",
+          "entry": "0.055",
+          "horizon": "",
+          "market": "crypto",
+          "open_price": 0.05714,
+          "post_id": "2112249073348878612",
+          "reason": "\"buying back all of my phala positions at ~0.055$ average\" with the ethereum CA posted; this is a new entry, since PHA is not among the open trades on record.",
+          "since": "2026-10-19T18:26:37.000Z",
+          "structure": "spot",
+          "url": "https://x.com/MoneyPrinter0x/status/2112249073348878612"
         },
         "QCOM": {
           "asset": "QCOM",
@@ -2679,12 +2695,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-16T16:30:14.000Z",
-          "id": "2111132623271862443",
-          "quoted_text": "bought some spot $inj https://t.co/LJTK4VTERQ",
-          "text": "exiting inj at -3%, going to be fading momentum trades for now\n\nnote: personally dont think strk is a momentum trade, more aligned to structural shift https://t.co/GfR2Cyt57X"
-        },
         {
           "created_at": "2026-10-16T16:54:03.000Z",
           "id": "2111138614273101908",
@@ -2811,10 +2821,21 @@
             "https://pbs.twimg.com/media/HVAAcCCasAE55q7.jpg"
           ],
           "text": "https://t.co/njLwvhfCi2"
+        },
+        {
+          "created_at": "2026-10-19T18:26:37.000Z",
+          "id": "2112249073348878612",
+          "images": [
+            "https://pbs.twimg.com/media/HVA1fE6aUAAnIiW.jpg",
+            "https://pbs.twimg.com/media/HVA1hE4a0AArPyo.jpg",
+            "https://pbs.twimg.com/media/HVA20AUaoAA9UhH.jpg",
+            "https://pbs.twimg.com/media/HVA3SU9aEAAQbVp.jpg"
+          ],
+          "quoted_text": "building a phala $PHA position atm (not done yet, just going to share first coz ppl are bombarding dms)\n\ncurrent price: ~0.041 / market cap: 30m , fdv 40m\n\npretty much the only player perfectly positioned for the AI Privacy narrative, in the entire 10b+ AI compute infra sector and 20b+ dePIN sector - TLDR is that its privacy infrastructure for AI.\n\nextremely undervalued at current market cap of 30m, fdv is 40m (low supply overhang) - currently very near to bottom which was during much worse macr",
+          "text": "buying back all of my phala positions at ~0.055$ average\n\n1. phala at 55m mc (tradeable at binance bybit mexc etc) verifiably do more cumulative tokens and same amount of daily tokens to venice at 1.2 billion mc, its fully verifiable and you can check it at openrouter https://t.co/C3C1mjzCPI https://t.co/AW5w66JwJ0 \n\n2. The only thing thats holding phala back has always been \"broken tokenomics\", but the latest governance update changes all of it, based on the latest governance voting results, they will go from 0% of revenue routed to pha holders, to *higher* % of revenue routed to pha holders than venice after the ramp-up. this is not priced in, except for those who has been following phala for months/years its likely that most isnt aware. governance voting snapshot https://t.co/WnUulwDbrH\n\n3. 100% not priced in, team went silent after the governance vote passed 2 weeks ago but they just dropped a teaser 1 hour ago https://t.co/DOKq0TjCy5\n\n4. based on the verifiable data from openrouter, they have ~same amount of daily tokens processed as venice, and 2x higher peak daily tokens processed than venice (~270 billion tokens vs ~130 billion tokens, verifiable in the openrouter links above) - this is as a product with previously zero revshare tokens, which the governance vote has voted to fix to revshare even more than venice after the ramp-up period.\n\nfundamentals wise they are stronger than venice 1.2 billion mc now with the governance update and phala 2.0\n\nnfa dyor, im hungry for a win. not feeling like letting one L break the two-year winstreak of thesis plays. quality research are as above - you can decide whether or not this is the play. based on DD it seems like its ~definitively not priced in, not talked about, has extremely strong fundamentals + growth curve + forward-looking catalysts. \n\nMP\n\nethereum:0x6c5ba91642f10282b576d91922ae6448c9d52f4e"
         }
       ],
       "reads": {
-        "2111132623271862443": "TRADE EXIT INJ",
         "2111138614273101908": "No call",
         "2111171642449867008": "No call",
         "2111174650604773834": "No call",
@@ -2832,7 +2853,8 @@
         "2111845216751915418": "No call",
         "2112045366648717797": "No call: bullish on crypto market (65%, too unsure)",
         "2112069443929116757": "No call",
-        "2112188712297922834": "VIEW bearish on SMH"
+        "2112188712297922834": "VIEW bearish on SMH",
+        "2112249073348878612": "TRADE LONG PHA"
       },
       "replies": [
         {
@@ -2927,12 +2949,6 @@
         }
       ],
       "threads": {
-        "2108952993479766128": {
-          "alerted": [
-            "trade:STRK:long"
-          ],
-          "self_replies": 0
-        },
         "2108960235037835666": {
           "alerted": [
             "trade:STRK:long"
@@ -3378,10 +3394,15 @@
             "bias:smh:bearish"
           ],
           "self_replies": 0
+        },
+        "2112249073348878612": {
+          "alerted": [
+            "trade:PHA:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111132623271862443": true,
         "2111138614273101908": true,
         "2111171642449867008": true,
         "2111174650604773834": true,
@@ -3415,7 +3436,8 @@
         "2112191525425959417": true,
         "2112191581180887130": false,
         "2112200840878625223": false,
-        "2112240489017786610": false
+        "2112240489017786610": false,
+        "2112249073348878612": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5465,5 +5487,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T18:24:19+00:00"
+  "updated_at": "2026-10-19T18:27:11+00:00"
 }
