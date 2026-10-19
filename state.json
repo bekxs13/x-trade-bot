@@ -2438,7 +2438,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2112191525425959417",
+      "last_id": "2112191581180887130",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2804,12 +2804,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T14:09:00.000Z",
-          "id": "2111821855711740202",
-          "reply_to_id": "2111821066461172000",
-          "text": "@MGoatW entry was very good so defaulting to  4.6x 4.4x 4.0x atm\n\nkeeping an eye out for headline risk (whiteswan news on sunday) as well - but if none are published then default bias retail flushes futures open -&gt; fading strength alts flush with it"
-        },
-        {
           "created_at": "2026-10-18T14:26:11.000Z",
           "id": "2111826177614840257",
           "reply_to_id": "2111823182265033143",
@@ -2892,6 +2886,12 @@
           "id": "2112191525425959417",
           "reply_to_id": "2112190927477637485",
           "text": "@VikingXBT short term could be either way, but semis in 3-6 months is almost definitely going to be lower than semis today"
+        },
+        {
+          "created_at": "2026-10-19T14:38:10.000Z",
+          "id": "2112191581180887130",
+          "reply_to_id": "2112188875095609381",
+          "text": "@0xRiver8 Yah"
         }
       ],
       "threads": {
@@ -3365,7 +3365,6 @@
         "2111812894677676101": true,
         "2111813333867532388": true,
         "2111820891642527869": true,
-        "2111821855711740202": true,
         "2111826177614840257": false,
         "2111828148824498224": true,
         "2111830585052467328": false,
@@ -3383,7 +3382,8 @@
         "2112069443929116757": false,
         "2112121780299235514": false,
         "2112188712297922834": false,
-        "2112191525425959417": true
+        "2112191525425959417": true,
+        "2112191581180887130": false
       },
       "user_id": "1653080265294757890"
     },
@@ -5429,5 +5429,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T14:38:19+00:00"
+  "updated_at": "2026-10-19T14:40:22+00:00"
 }
