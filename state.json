@@ -2470,7 +2470,7 @@
         }
       ],
       "handle": "MoneyPrinter0x",
-      "last_id": "2112258778100121644",
+      "last_id": "2112261025571680462",
       "positions": {
         "ARB": {
           "asset": "ARB",
@@ -2696,11 +2696,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-10-16T19:05:17.000Z",
-          "id": "2111171642449867008",
-          "text": "did leo just blow up his fund twice in the same year"
-        },
-        {
           "created_at": "2026-10-16T19:17:15.000Z",
           "id": "2111174650604773834",
           "text": "both bonds n equities are getting sold off today"
@@ -2834,10 +2829,15 @@
           "id": "2112249633951056352",
           "reply_to_id": "2112249073348878612",
           "text": "this time, this is the same depth of DD as my intel $intc call @ 20.9$ and blackberry $bb call @ 5$ \n\nim hungry for a win, fuck the haters\n\nthis time im going full OG moneyprinter mode.\n\nMP"
+        },
+        {
+          "created_at": "2026-10-19T19:14:07.000Z",
+          "id": "2112261025571680462",
+          "quoted_text": "Roadmap 2.0\n\nA new era of token utility for $PHA. \n\nDropping this week. https://t.co/6S3MMQa0EN",
+          "text": "This is the first time (2 hours ago) that team addressed the governance vote results in terms of whats next btw https://t.co/3BfQz2L6r6"
         }
       ],
       "reads": {
-        "2111171642449867008": "No call",
         "2111174650604773834": "No call",
         "2111179586835005866": "No call",
         "2111320951355039804": "No call: bullish on alts (same view as before)",
@@ -2855,7 +2855,8 @@
         "2112069443929116757": "No call",
         "2112188712297922834": "VIEW bearish on SMH",
         "2112249073348878612": "TRADE LONG PHA",
-        "2112249633951056352": "No call"
+        "2112249633951056352": "No call",
+        "2112261025571680462": "No call"
       },
       "replies": [
         {
@@ -2950,12 +2951,6 @@
         }
       ],
       "threads": {
-        "2108960235037835666": {
-          "alerted": [
-            "trade:STRK:long"
-          ],
-          "self_replies": 0
-        },
         "2108960586424009160": {
           "alerted": [
             "trade:STRK:long"
@@ -3401,10 +3396,13 @@
             "trade:PHA:long"
           ],
           "self_replies": 1
+        },
+        "2112261025571680462": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111171642449867008": true,
         "2111174650604773834": true,
         "2111179586835005866": true,
         "2111320951355039804": true,
@@ -3438,7 +3436,8 @@
         "2112253127114338712": false,
         "2112253830184480808": false,
         "2112254650120552884": true,
-        "2112258778100121644": false
+        "2112258778100121644": false,
+        "2112261025571680462": true
       },
       "user_id": "1653080265294757890"
     },
@@ -5488,5 +5487,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T19:06:16+00:00"
+  "updated_at": "2026-10-19T19:14:30+00:00"
 }
