@@ -46,7 +46,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2112393129869672825",
+      "last_id": "2112394224092274720",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -230,12 +230,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-17T05:53:51.000Z",
-          "id": "2111334859654476188",
-          "reply_to_id": "2111334552241053987",
-          "text": "@wolfofshelby Ye"
-        },
-        {
           "created_at": "2026-10-17T06:03:33.000Z",
           "id": "2111337297589526969",
           "reply_to_id": "2111336114661507209",
@@ -318,6 +312,12 @@
           "id": "2112372609543557260",
           "reply_to_id": "2112091234659643548",
           "text": "@xaviercaffrey13 I worked a cold email job with 30% response rate selling money I think if ur responses are lower ur top of funnel is too broad or ur product is fried"
+        },
+        {
+          "created_at": "2026-10-20T04:03:24.000Z",
+          "id": "2112394224092274720",
+          "reply_to_id": "2112379530006729074",
+          "text": "@vocalcry In what situation would I want to say I\u2019ve read this and I\u2019m ignoring it"
         }
       ],
       "threads": {
@@ -735,7 +735,6 @@
       "trading": {
         "2111329235856138304": false,
         "2111333532673151050": false,
-        "2111334859654476188": false,
         "2111335626083848495": false,
         "2111337297589526969": false,
         "2111338574327226771": false,
@@ -767,7 +766,8 @@
         "2112372609543557260": false,
         "2112373589009961438": true,
         "2112389241531703338": false,
-        "2112393129869672825": false
+        "2112393129869672825": false,
+        "2112394224092274720": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5508,5 +5508,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-20T04:00:30+00:00"
+  "updated_at": "2026-10-20T04:04:23+00:00"
 }
