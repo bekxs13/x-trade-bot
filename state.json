@@ -55,7 +55,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2112536471345496172",
+      "last_id": "2112537342078521689",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -107,11 +107,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-17T18:50:41.000Z",
-          "id": "2111530353236263050",
-          "text": "@based16z x account is not good. Maybe back in the day, but I don't learn anything from it. I'm confused why people are so obsessed with it still"
-        },
         {
           "created_at": "2026-10-17T21:24:50.000Z",
           "id": "2111569149516460336",
@@ -226,10 +221,15 @@
           "created_at": "2026-10-20T12:38:53.000Z",
           "id": "2112523952287351129",
           "text": "Do we get a lil deepseek in reverse given this new drop shows inference is extremely profitable? \n\nBought soxl pre mkt"
+        },
+        {
+          "created_at": "2026-10-20T13:32:06.000Z",
+          "id": "2112537342078521689",
+          "reply_to_id": "2112536471345496172",
+          "text": "@CryptoEthan @kling00000 Aight yeah entry is 94 may have to get off the train fast lmao"
         }
       ],
       "reads": {
-        "2111530353236263050": "No call",
         "2111569149516460336": "No call",
         "2111910696162414895": "No call",
         "2111925607269589125": "No call",
@@ -755,7 +755,6 @@
         }
       },
       "trading": {
-        "2111530353236263050": false,
         "2111569149516460336": false,
         "2111570727103250746": false,
         "2111910696162414895": false,
@@ -789,7 +788,8 @@
         "2112523952287351129": true,
         "2112525765682282509": true,
         "2112526658716492115": true,
-        "2112536471345496172": true
+        "2112536471345496172": true,
+        "2112537342078521689": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5536,5 +5536,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T13:30:21+00:00"
+  "updated_at": "2026-10-20T13:32:19+00:00"
 }
