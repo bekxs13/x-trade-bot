@@ -3519,7 +3519,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2112524196786163830",
+      "last_id": "2112563678453125605",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3539,12 +3539,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T11:53:23.000Z",
-          "id": "2110700561821487517",
-          "reply_to_id": "2110699646641394005",
-          "text": "@LayahHeilpern 82k sweep now what..... ."
-        },
         {
           "created_at": "2026-10-15T12:12:06.000Z",
           "id": "2110705272830541887",
@@ -3654,10 +3648,15 @@
           "created_at": "2026-10-20T12:39:51.000Z",
           "id": "2112524196786163830",
           "text": "MARKET OPEN: BLACK TUESDAY for AI Stocks, The $1M+ Pok\u00e9mon Card HEIST, What's NEXT for Crypto? https://t.co/8QBTLyYPKc"
+        },
+        {
+          "created_at": "2026-10-20T15:16:45.000Z",
+          "id": "2112563678453125605",
+          "quoted_text": "*IRAN-US TALKS CONTINUE, REPORTS DEAL IS CLOSE ARE WRONG: PERSON",
+          "text": "who the fuck is \"person?\" they're not even trying anymore lmfaooo https://t.co/2FaZrpdpZt"
         }
       ],
       "reads": {
-        "2110700561821487517": "No call",
         "2110705272830541887": "No call",
         "2110712299170456020": "No call",
         "2110762518495085033": "No call",
@@ -3673,7 +3672,8 @@
         "2111944213352919424": "No call",
         "2111944930092294530": "No call",
         "2112175913647395226": "No call",
-        "2112524196786163830": "No call"
+        "2112524196786163830": "No call",
+        "2112563678453125605": "No call"
       },
       "replies": [
         {
@@ -3950,10 +3950,13 @@
         "2112524196786163830": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112563678453125605": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110700561821487517": true,
         "2110705272830541887": false,
         "2110712299170456020": true,
         "2110762518495085033": false,
@@ -3987,7 +3990,8 @@
         "2112263012468060164": false,
         "2112275179275510174": false,
         "2112503636974776604": false,
-        "2112524196786163830": true
+        "2112524196786163830": true,
+        "2112563678453125605": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5557,5 +5561,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T14:52:24+00:00"
+  "updated_at": "2026-10-20T15:18:23+00:00"
 }
