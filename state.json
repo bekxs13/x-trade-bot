@@ -1942,7 +1942,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2112340063950631326",
+      "last_id": "2112341081329463774",
       "positions": {
         "AMZN": {
           "asset": "AMZN",
@@ -1978,11 +1978,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T00:23:21.000Z",
-          "id": "2110526910442954926",
-          "text": "Yeah I nailed the timing this shit is getting fucking rocked lmfao"
-        },
         {
           "created_at": "2026-10-15T00:28:22.000Z",
           "id": "2110528172307697874",
@@ -2095,10 +2090,14 @@
             "https://pbs.twimg.com/media/HVCKF68a4AAyeDS.jpg"
           ],
           "text": "I find it inspiring how many onchain zoomers have chosen to follow the advice of an investor as legendary as buffet https://t.co/aEy4nLPcph"
+        },
+        {
+          "created_at": "2026-10-20T00:32:13.000Z",
+          "id": "2112341081329463774",
+          "text": "Always amusing to hear newer traders constantly go through phases of wondering why they\u2019re losing during market downturns and slower periods \n\nYou are trying to press risk in the same way you did when the market was good, the current opportunities do not justify it\n\nThat simple"
         }
       ],
       "reads": {
-        "2110526910442954926": "No call",
         "2110528172307697874": "No call",
         "2110530132381516205": "No call",
         "2110611535366431099": "No call: bearish on alts (same view as before)",
@@ -2113,7 +2112,8 @@
         "2112245189658255701": "TRADE LONG AMZN",
         "2112246148148904222": "No call",
         "2112338778639729018": "No call",
-        "2112340063950631326": "No call"
+        "2112340063950631326": "No call",
+        "2112341081329463774": "No call"
       },
       "replies": [
         {
@@ -2366,10 +2366,13 @@
         "2112340063950631326": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112341081329463774": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110526910442954926": true,
         "2110528172307697874": false,
         "2110530132381516205": false,
         "2110549132578554226": false,
@@ -2403,7 +2406,8 @@
         "2112271778794107062": false,
         "2112338778639729018": true,
         "2112339769799901470": false,
-        "2112340063950631326": true
+        "2112340063950631326": true,
+        "2112341081329463774": true
       },
       "user_id": "953032269433745408"
     },
@@ -5500,5 +5504,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-20T00:30:32+00:00"
+  "updated_at": "2026-10-20T00:34:18+00:00"
 }
