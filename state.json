@@ -1942,7 +1942,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2112271778794107062",
+      "last_id": "2112338778639729018",
       "positions": {
         "AMZN": {
           "asset": "AMZN",
@@ -1978,12 +1978,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T19:08:23.000Z",
-          "id": "2110447643642245266",
-          "reply_to_id": "2110447305740742802",
-          "text": "So much stupidity and false info all over plus hate is rewarded with max engagement, it feels like retard tier shit 40 yr olds on Facebook get mad about lmfao"
-        },
         {
           "created_at": "2026-10-14T19:20:38.000Z",
           "id": "2110450730079510702",
@@ -2094,6 +2088,11 @@
           "id": "2112246148148904222",
           "reply_to_id": "2112245189658255701",
           "text": "Given that mem shorts were used to hedge goog amzn which are much larger positions than a normal simple options play I put on, shorts actually helped my portfolio quite a fair bit, port ath again \n\nStill nowhere near the year I wanted or hoped for but nice to see self get in flow and perform after committing to more time in game again \n\nOnwards and upwards"
+        },
+        {
+          "created_at": "2026-10-20T00:23:04.000Z",
+          "id": "2112338778639729018",
+          "text": "Warren buffet made his wealth by anchoring his macro bias to every hourly candle"
         }
       ],
       "reads": {
@@ -2110,7 +2109,8 @@
         "2111951201671712775": "No call",
         "2112237620696907810": "No call: bearish on stocks/macro (same view as before)",
         "2112245189658255701": "TRADE LONG AMZN",
-        "2112246148148904222": "No call"
+        "2112246148148904222": "No call",
+        "2112338778639729018": "No call"
       },
       "replies": [
         {
@@ -2352,10 +2352,13 @@
             "trade:AMZN:long"
           ],
           "self_replies": 1
+        },
+        "2112338778639729018": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110447643642245266": false,
         "2110450730079510702": false,
         "2110526910442954926": true,
         "2110528172307697874": false,
@@ -2389,7 +2392,8 @@
         "2112255633777140060": true,
         "2112263573800136721": false,
         "2112266427998916913": true,
-        "2112271778794107062": false
+        "2112271778794107062": false,
+        "2112338778639729018": true
       },
       "user_id": "953032269433745408"
     },
@@ -5486,5 +5490,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-19T23:24:15+00:00"
+  "updated_at": "2026-10-20T00:24:31+00:00"
 }
