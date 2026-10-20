@@ -4853,18 +4853,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2112544605304672382",
+      "last_id": "2112567854172446741",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-17T22:25:26.000Z",
-          "id": "2111584400148455443",
-          "images": [
-            "https://pbs.twimg.com/media/HU3azr_XcAAo0fU.jpg"
-          ],
-          "reply_to_id": "2111582981420642576",
-          "text": "Things you see at the bottom https://t.co/hd9Ls4z4oi"
-        },
         {
           "created_at": "2026-10-17T23:50:56.000Z",
           "id": "2111605916680196276",
@@ -4981,10 +4972,15 @@
           "created_at": "2026-10-20T14:00:57.000Z",
           "id": "2112544605304672382",
           "text": "You can always tell when people are novice traders because they can't possibly imagine being simultaneously bullish and bearish different assets. \n\nBeing bullish or bearish is a personality trait for new traders. It defines their entire identity."
+        },
+        {
+          "created_at": "2026-10-20T15:33:20.000Z",
+          "id": "2112567854172446741",
+          "reply_to_id": "2085763033297555574",
+          "text": "@grok what are the returns on these assets since this tweet"
         }
       ],
       "reads": {
-        "2111584400148455443": "No call",
         "2111605916680196276": "No call: bearish on stocks/macro (same view as before)",
         "2111618271585747156": "No call",
         "2111633857695100982": "No call",
@@ -5002,7 +4998,8 @@
         "2112229981741035884": "No call",
         "2112282046932406301": "No call",
         "2112543824778256848": "No call: bullish on HYPE (60%, too unsure)",
-        "2112544605304672382": "No call"
+        "2112544605304672382": "No call",
+        "2112567854172446741": "No call"
       },
       "replies": [
         {
@@ -5520,7 +5517,6 @@
         "2111183217843679578": false,
         "2111505410444411366": true,
         "2111581235793588319": true,
-        "2111584400148455443": true,
         "2111605916680196276": true,
         "2111618271585747156": false,
         "2111633857695100982": false,
@@ -5545,7 +5541,8 @@
         "2112229981741035884": false,
         "2112282046932406301": true,
         "2112543824778256848": true,
-        "2112544605304672382": true
+        "2112544605304672382": true,
+        "2112567854172446741": true
       },
       "user_id": "809191427645181952"
     }
@@ -5561,5 +5558,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T15:18:23+00:00"
+  "updated_at": "2026-10-20T15:34:23+00:00"
 }
