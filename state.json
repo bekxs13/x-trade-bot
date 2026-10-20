@@ -4057,7 +4057,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2112591044860862821",
+      "last_id": "2112656777418244258",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -4077,11 +4077,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-09-18T23:13:35.000Z",
-          "id": "2101087265405685923",
-          "text": "$20,000 $ZEC is possible.\n\nI am being 100% serious. Zigher. https://t.co/FN0iQ4PhnT"
-        },
         {
           "created_at": "2026-09-24T01:52:40.000Z",
           "id": "2102939239390343286",
@@ -4219,10 +4214,17 @@
             "https://pbs.twimg.com/media/HVFt5qVXAAAiyQR.jpg"
           ],
           "text": "Crypto Bro Physiognomy https://t.co/NsAv29h5LI"
+        },
+        {
+          "created_at": "2026-10-20T21:26:41.000Z",
+          "id": "2112656777418244258",
+          "images": [
+            "https://pbs.twimg.com/media/HVGqJFiWoAANkMs.jpg"
+          ],
+          "text": "Long your longs baby https://t.co/56sQC1MZWV"
         }
       ],
       "reads": {
-        "2101087265405685923": "No call: bullish on ZEC (same view as before)",
         "2102939239390343286": "VIEW bullish on VAR",
         "2105346309108719825": "No call",
         "2106637291267764557": "No call",
@@ -4241,7 +4243,8 @@
         "2110409449953481203": "No call",
         "2110715051250520551": "No call",
         "2110791692924399705": "No call",
-        "2112591044860862821": "No call"
+        "2112591044860862821": "No call",
+        "2112656777418244258": "No call"
       },
       "replies": [
         {
@@ -4417,10 +4420,13 @@
         "2112591044860862821": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112656777418244258": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2101087265405685923": true,
         "2102939239390343286": true,
         "2105346309108719825": false,
         "2106637291267764557": false,
@@ -4454,7 +4460,8 @@
         "2110791692924399705": false,
         "2110792549829095475": false,
         "2111243707974627523": false,
-        "2112591044860862821": false
+        "2112591044860862821": false,
+        "2112656777418244258": true
       },
       "user_id": "1064421325186359296"
     },
@@ -5600,5 +5607,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T21:20:26+00:00"
+  "updated_at": "2026-10-20T21:28:26+00:00"
 }
