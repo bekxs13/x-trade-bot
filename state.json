@@ -4834,14 +4834,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2112282046932406301",
+      "last_id": "2112543824778256848",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-17T22:19:48.000Z",
-          "id": "2111582981420642576",
-          "text": "Everything reminds me of 2022.\n\nWhenever I think the markets topping, I start noting some signals down.\n\nThe same signals are firing.\n\nThere's two main things:\n\nInsane funding rounds, and complacency about rates.\n\nMany people are going to get eviscerated buying the first few dips because they've made so much money and been conditioned just autobid any -2% QQQ move.\n\nJust remember, treasury bills are like your health bar, without cash you have no options."
-        },
         {
           "created_at": "2026-10-17T22:23:09.000Z",
           "id": "2111583825256214637",
@@ -4959,10 +4954,17 @@
           "created_at": "2026-10-19T20:37:38.000Z",
           "id": "2112282046932406301",
           "text": "Why would anyone ever use options when perps pay you to be short?"
+        },
+        {
+          "created_at": "2026-10-20T13:57:51.000Z",
+          "id": "2112543824778256848",
+          "images": [
+            "https://pbs.twimg.com/media/HVFDX7wXgAAikaY.jpg"
+          ],
+          "text": "Pretty clean chart just chilling at support https://t.co/b574XMVSEh"
         }
       ],
       "reads": {
-        "2111582981420642576": "No call: bearish on stocks/macro (same view as before)",
         "2111583825256214637": "No call",
         "2111584400148455443": "No call",
         "2111605916680196276": "No call: bearish on stocks/macro (same view as before)",
@@ -4980,7 +4982,8 @@
         "2112182070260965441": "No call: bearish on stocks/macro (65%, too unsure)",
         "2112229752572424657": "No call: bearish on stocks/macro (60%, too unsure)",
         "2112229981741035884": "No call",
-        "2112282046932406301": "No call"
+        "2112282046932406301": "No call",
+        "2112543824778256848": "No call: bullish on HYPE (60%, too unsure)"
       },
       "replies": [
         {
@@ -5075,10 +5078,6 @@
         }
       ],
       "threads": {
-        "2105505706413899839": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2107105108479619524": {
           "alerted": [],
           "self_replies": 0
@@ -5486,6 +5485,10 @@
         "2112282046932406301": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112543824778256848": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5498,7 +5501,6 @@
         "2111183217843679578": false,
         "2111505410444411366": true,
         "2111581235793588319": true,
-        "2111582981420642576": true,
         "2111583825256214637": true,
         "2111584400148455443": true,
         "2111605916680196276": true,
@@ -5523,7 +5525,8 @@
         "2112182070260965441": true,
         "2112229752572424657": true,
         "2112229981741035884": false,
-        "2112282046932406301": true
+        "2112282046932406301": true,
+        "2112543824778256848": true
       },
       "user_id": "809191427645181952"
     }
@@ -5539,5 +5542,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T13:52:33+00:00"
+  "updated_at": "2026-10-20T13:58:25+00:00"
 }
