@@ -892,6 +892,15 @@
           "since": "2026-10-09",
           "stance": "bullish",
           "updated_at": "2026-10-09T02:04:34.000Z"
+        },
+        "vvv": {
+          "market": "crypto",
+          "post_id": "2112585897531334903",
+          "reason": "\"if you aren't paying attention to venice ai, you should be\" plus 400% API growth fueling a $10.4M/yr burn for the VVV contract address is a clear bullish pitch.",
+          "scope": "VVV",
+          "since": "2026-10-20",
+          "stance": "bullish",
+          "updated_at": "2026-10-20T16:45:02.000Z"
         }
       },
       "closed": [
@@ -912,7 +921,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112542104077705324",
+      "last_id": "2112585897531334903",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -932,14 +941,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-17T09:54:08.000Z",
-          "id": "2111395326280307036",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2111395228389404672/img/SP9FqfKdBO_TOV7W.jpg"
-          ],
-          "text": "i expect social trading to get a lot bigger as it expands into liquid markets like stocks and perps\n\nwe've already seen how much attention public P&Ls can attract in memecoins, but larger markets make it easier for successful traders to scale their positions and share trades without the same liquidity constraints\n\nonce people start seeing massive P&Ls on stocks like Apple or Amazon, i think the appeal of following and copying skilled traders becomes much broader\n\nthere's a lot more room for social trading to grow beyond memecoins"
-        },
         {
           "created_at": "2026-10-17T16:46:03.000Z",
           "id": "2111498991141826773",
@@ -1069,10 +1070,18 @@
             "https://pbs.twimg.com/amplify_video_thumb/2112541971348951040/img/CJVYkB9dPuldiuxf.jpg"
           ],
           "text": "NFTs are an area of crypto that i think deserves another look\n\nthe 2021 boom and subsequent crash left a lot of people with a negative view of them, but the underlying concept still makes sense to me\n\nas more businesses move onchain, NFTs could become a useful way to represent ownership, experiment with revenue sharing and build communities around products\n\ni expect there's still a lot of room for experimentation beyond the NFT models we saw last cycle"
+        },
+        {
+          "created_at": "2026-10-20T16:45:02.000Z",
+          "id": "2112585897531334903",
+          "images": [
+            "https://pbs.twimg.com/media/HVFnJgCXYAAoF2h.jpg"
+          ],
+          "quoted_text": "Today, Venice passed 5,000,000 users.\n\nStill private. Still anonymous. Still unrestricted.\n\nThank you to every builder, creator, and free thinker on Venice. https://t.co/Ci5aK6b9dY",
+          "text": "if you aren't paying attention to venice ai, you should be.\n\n- 5 million users\n- API Calls are up 400% since July \n\nthis is fueling $10.4M/yr burn for base:0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf https://t.co/digBqvUTAI https://t.co/im2s4BVCKP"
         }
       ],
       "reads": {
-        "2111395326280307036": "No call",
         "2111498991141826773": "No call",
         "2111518293396009334": "No call",
         "2111521940255219755": "No call: bullish on crypto market (same view as before)",
@@ -1091,7 +1100,8 @@
         "2112224350330077223": "No call",
         "2112271565538955334": "No call",
         "2112531080255529061": "No call",
-        "2112542104077705324": "No call"
+        "2112542104077705324": "No call",
+        "2112585897531334903": "VIEW bullish on VVV"
       },
       "replies": [
         {
@@ -1186,10 +1196,6 @@
         }
       ],
       "threads": {
-        "2107782190738424010": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108095324535521745": {
           "alerted": [],
           "self_replies": 0
@@ -1610,10 +1616,15 @@
         "2112542104077705324": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112585897531334903": {
+          "alerted": [
+            "bias:vvv:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111395326280307036": true,
         "2111498991141826773": false,
         "2111518293396009334": false,
         "2111521940255219755": true,
@@ -1647,7 +1658,8 @@
         "2112286793118748869": false,
         "2112529218219213025": true,
         "2112531080255529061": true,
-        "2112542104077705324": true
+        "2112542104077705324": true,
+        "2112585897531334903": true
       },
       "user_id": "973261472"
     },
@@ -5558,5 +5570,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T16:42:25+00:00"
+  "updated_at": "2026-10-20T16:46:26+00:00"
 }
