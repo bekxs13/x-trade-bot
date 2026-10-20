@@ -52,10 +52,25 @@
           "opened": "",
           "partial": false,
           "structure": ""
+        },
+        {
+          "asset": "SOXL",
+          "close_price": null,
+          "close_url": "https://x.com/based16z/status/2112540303169048604",
+          "closed": "2026-10-20T13:43:52.000Z",
+          "direction": "long",
+          "flipped": false,
+          "market": "stocks",
+          "move": null,
+          "open_price": null,
+          "open_url": "https://x.com/based16z/status/2112523952287351129",
+          "opened": "2026-10-20T12:38:53.000Z",
+          "partial": false,
+          "structure": "spot"
         }
       ],
       "handle": "based16z",
-      "last_id": "2112537342078521689",
+      "last_id": "2112540303169048604",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -88,31 +103,9 @@
           "since": "2026-10-14T15:51:26.000Z",
           "structure": "long calls",
           "url": "https://x.com/based16z/status/2110398080029966763"
-        },
-        "SOXL": {
-          "asset": "SOXL",
-          "chain": "",
-          "confidence": 0.92,
-          "contract_address": "",
-          "direction": "long",
-          "entry": "",
-          "horizon": "",
-          "market": "stocks",
-          "open_price": null,
-          "post_id": "2112523952287351129",
-          "reason": "\"Bought soxl pre mkt\" is a stated long entry in the 3x semiconductor ETF.",
-          "since": "2026-10-20T12:38:53.000Z",
-          "structure": "spot",
-          "url": "https://x.com/based16z/status/2112523952287351129"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-17T21:24:50.000Z",
-          "id": "2111569149516460336",
-          "quoted_text": "Jamais vu autant de boutiques pill\u00e9es. Dans chaque rue je vois des types les bras plein de trucs fauch\u00e9s. https://t.co/ibNDJI5e8V",
-          "text": "Expect more https://t.co/kiHvQmf7eT"
-        },
         {
           "created_at": "2026-10-17T21:31:07.000Z",
           "id": "2111570727103250746",
@@ -227,10 +220,16 @@
           "id": "2112537342078521689",
           "reply_to_id": "2112536471345496172",
           "text": "@CryptoEthan @kling00000 Aight yeah entry is 94 may have to get off the train fast lmao"
+        },
+        {
+          "created_at": "2026-10-20T13:43:52.000Z",
+          "id": "2112540303169048604",
+          "quoted_text": "@CryptoEthan @kling00000 Yup I\u2019m takin the fast L stronger soldiers than me will lead the bounce",
+          "reply_to_id": "2112523952287351129",
+          "text": "https://t.co/bfhIhTEPtW https://t.co/3PnVx95US8"
         }
       ],
       "reads": {
-        "2111569149516460336": "No call",
         "2111910696162414895": "No call",
         "2111925607269589125": "No call",
         "2111955547352351049": "No call",
@@ -247,15 +246,10 @@
         "2112404175980302503": "No call",
         "2112409703527633055": "No call",
         "2112412695777722422": "No call",
-        "2112523952287351129": "TRADE LONG SOXL \u00b7 VIEW bullish on semis/ai stocks"
+        "2112523952287351129": "TRADE LONG SOXL \u00b7 VIEW bullish on semis/ai stocks",
+        "2112540303169048604": "TRADE EXIT SOXL"
       },
       "replies": [
-        {
-          "created_at": "2026-10-19T02:59:55.000Z",
-          "id": "2112015860596723809",
-          "reply_to_id": "2112005668203020484",
-          "text": "@alexandr_wang @chameleon_jeff @ScottWu46 Sick"
-        },
         {
           "created_at": "2026-10-19T04:11:40.000Z",
           "id": "2112033919520710777",
@@ -339,6 +333,12 @@
           "id": "2112536471345496172",
           "reply_to_id": "2112536363937787909",
           "text": "@CryptoEthan @kling00000 In all likelihood I\u2019m just -5% and killed by noon kek"
+        },
+        {
+          "created_at": "2026-10-20T13:42:51.000Z",
+          "id": "2112540047601779180",
+          "reply_to_id": "2112539942991929630",
+          "text": "@CryptoEthan @kling00000 Yup I\u2019m takin the fast L stronger soldiers than me will lead the bounce"
         }
       ],
       "threads": {
@@ -749,18 +749,17 @@
         "2112523952287351129": {
           "alerted": [
             "trade:SOXL:long",
-            "bias:semis/ai stocks:bullish"
+            "bias:semis/ai stocks:bullish",
+            "trade:SOXL:exit"
           ],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2111569149516460336": false,
         "2111570727103250746": false,
         "2111910696162414895": false,
         "2111925607269589125": false,
         "2111955547352351049": false,
-        "2112015860596723809": false,
         "2112033919520710777": false,
         "2112207019872821538": false,
         "2112235730412118404": false,
@@ -789,7 +788,9 @@
         "2112525765682282509": true,
         "2112526658716492115": true,
         "2112536471345496172": true,
-        "2112537342078521689": true
+        "2112537342078521689": true,
+        "2112540047601779180": true,
+        "2112540303169048604": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5536,5 +5537,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T13:32:19+00:00"
+  "updated_at": "2026-10-20T13:44:29+00:00"
 }
