@@ -3535,7 +3535,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2112625865657811385",
+      "last_id": "2112629275547295973",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3695,12 +3695,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-19T03:29:08.000Z",
-          "id": "2112023212859310570",
-          "reply_to_id": "2112022848634270046",
-          "text": "@DeepDishEnjoyer that\u2019s why the market crashed. bunch of miserable husbands rage selling"
-        },
-        {
           "created_at": "2026-10-19T13:36:01.000Z",
           "id": "2112175942537797952",
           "reply_to_id": "2112173458738323632",
@@ -3783,6 +3777,12 @@
           "id": "2112625865657811385",
           "reply_to_id": "2112608435954925783",
           "text": "@SCREWYLEWY4 what exactly have they won"
+        },
+        {
+          "created_at": "2026-10-20T19:37:24.000Z",
+          "id": "2112629275547295973",
+          "reply_to_id": "2112629101165252862",
+          "text": "@negligible_cap on accounting charges?"
         }
       ],
       "threads": {
@@ -4002,7 +4002,6 @@
         "2111944213352919424": true,
         "2111944930092294530": true,
         "2111945278005682270": false,
-        "2112023212859310570": true,
         "2112175913647395226": false,
         "2112175942537797952": false,
         "2112190913560637619": false,
@@ -4025,7 +4024,8 @@
         "2112615372411285532": false,
         "2112616038172901681": false,
         "2112622436298674308": false,
-        "2112625865657811385": false
+        "2112625865657811385": false,
+        "2112629275547295973": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5596,5 +5596,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T19:24:17+00:00"
+  "updated_at": "2026-10-20T19:38:22+00:00"
 }
