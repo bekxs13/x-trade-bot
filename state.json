@@ -1987,7 +1987,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2112341894554648629",
+      "last_id": "2112579553218687082",
       "positions": {
         "AMZN": {
           "asset": "AMZN",
@@ -2163,12 +2163,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T18:51:17.000Z",
-          "id": "2111892894462394708",
-          "reply_to_id": "2111892267665686703",
-          "text": "@cornd0gman I am always exceedingly clear and make it a point to be so in a Twitter of people posting long bias vague bullshit with no exits"
-        },
-        {
           "created_at": "2026-10-18T18:56:36.000Z",
           "id": "2111894230713111038",
           "reply_to_id": "2111890972087087374",
@@ -2254,6 +2248,12 @@
           ],
           "reply_to_id": "2112339062468096178",
           "text": "@icyponds My personal favourite \n\nA trader is nothing without conviction\u2026 https://t.co/h8kLLBDOYW"
+        },
+        {
+          "created_at": "2026-10-20T16:19:49.000Z",
+          "id": "2112579553218687082",
+          "reply_to_id": "2112559648268247078",
+          "text": "@hammerfrog64 @schmosby_xbt I can\u2019t do it\u2026 but I was thinking this as well"
         }
       ],
       "threads": {
@@ -2431,7 +2431,6 @@
         "2111890824229470507": true,
         "2111891183027065262": true,
         "2111891987742019640": true,
-        "2111892894462394708": true,
         "2111894230713111038": true,
         "2111894422187340163": false,
         "2111899435571761222": false,
@@ -2453,7 +2452,8 @@
         "2112339769799901470": false,
         "2112340063950631326": true,
         "2112341081329463774": true,
-        "2112341894554648629": true
+        "2112341894554648629": true,
+        "2112579553218687082": false
       },
       "user_id": "953032269433745408"
     },
@@ -5558,5 +5558,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T15:34:23+00:00"
+  "updated_at": "2026-10-20T16:20:21+00:00"
 }
