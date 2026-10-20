@@ -3536,7 +3536,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2112616038172901681",
+      "last_id": "2112622436298674308",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3556,14 +3556,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T22:35:24.000Z",
-          "id": "2110862128609681647",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2110860219404431360/img/jULGx44BHHLR52cd.jpg"
-          ],
-          "text": "My full conversation with @based16z \n\n0:19 the Hyperliquid call\n5:01 almost losing his $HYPE airdrop\n8:27 life after life changing money\n10:12 dating a billionaire's daughter\n14:37 from online poker to Crypto\n16:40 two trades made his year\n20:56 the Snapchat trade\n27:43 Sydney Sweeney $AEO trade\n31:14 posters move markets\n41:42 loot and rob\n44:23 advice for a 20 year old\n47:23 math lore\n51:49 why he has no social media"
-        },
         {
           "created_at": "2026-10-15T22:35:25.000Z",
           "id": "2110862135320588461",
@@ -3672,10 +3664,18 @@
           "id": "2112603207977636243",
           "reply_to_id": "2112602884810449161",
           "text": "the thing that tangibly makes you retarded leads to a better working brain \n\n\ud83e\udd13"
+        },
+        {
+          "created_at": "2026-10-20T19:10:14.000Z",
+          "id": "2112622436298674308",
+          "images": [
+            "https://pbs.twimg.com/media/HVGK6EdXoAAjD6D.png"
+          ],
+          "quoted_text": "What is AI really capable of in bio?\n\nTo separate hype from reality, we spent 3 months working firsthand with @AnthropicAI's  internal research model to see if it could create an experimental scorpion antivenom. \n\nIntroducing Citrini Therapeutics.\n\nhttps://t.co/VAUBSi7sNy",
+          "text": "this rocks https://t.co/hC7FyhsJFY https://t.co/yh3flkDAuC"
         }
       ],
       "reads": {
-        "2110862128609681647": "No call",
         "2110862135320588461": "Read together with the post it replies to",
         "2110868916113473793": "No call",
         "2110870996337230266": "No call",
@@ -3691,7 +3691,8 @@
         "2112592492151660577": "No call",
         "2112595558217240973": "No call",
         "2112602884810449161": "No call",
-        "2112603207977636243": "Read together with the post it replies to"
+        "2112603207977636243": "Read together with the post it replies to",
+        "2112622436298674308": "No call: bullish on TWST (55%, too unsure)"
       },
       "replies": [
         {
@@ -3984,10 +3985,13 @@
         "2112602884810449161": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2112622436298674308": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110862128609681647": true,
         "2110862135320588461": false,
         "2110868916113473793": true,
         "2110870996337230266": true,
@@ -4021,7 +4025,8 @@
         "2112603207977636243": false,
         "2112604920998224320": false,
         "2112615372411285532": false,
-        "2112616038172901681": false
+        "2112616038172901681": false,
+        "2112622436298674308": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5592,5 +5597,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T19:08:23+00:00"
+  "updated_at": "2026-10-20T19:12:26+00:00"
 }
