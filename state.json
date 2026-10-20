@@ -921,7 +921,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112606106912432315",
+      "last_id": "2112612260791075267",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1107,12 +1107,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-19T08:31:30.000Z",
-          "id": "2112099307000365408",
-          "reply_to_id": "2112021965284458971",
-          "text": "@SaladBarFan \ud83e\udee9"
-        },
-        {
           "created_at": "2026-10-19T08:36:28.000Z",
           "id": "2112100558685520337",
           "reply_to_id": "2112094811285254351",
@@ -1198,6 +1192,12 @@
           "id": "2112606106912432315",
           "reply_to_id": "2112605676891410462",
           "text": "@Evan_ss6 one asymmetric bet"
+        },
+        {
+          "created_at": "2026-10-20T18:29:48.000Z",
+          "id": "2112612260791075267",
+          "reply_to_id": "2112611549672325367",
+          "text": "read it but havent fully flushed out thoughts, it is much better for active traders on the exchange long term tho, ppl who trade there will have some % of trades as losses by default & continuously mint paper, farmers are angry bc they could not just dn farm at beginning then never trade there and just dump token\n\ncan see why ppl are mad bc it is a considerably diff math equation now than it was at the start but i believe they are acting in protocol's best interest"
         }
       ],
       "threads": {
@@ -1644,7 +1644,6 @@
         "2111910811153105043": true,
         "2112028564987990046": true,
         "2112036503463546953": true,
-        "2112099307000365408": false,
         "2112100558685520337": false,
         "2112101056398471485": false,
         "2112224350330077223": true,
@@ -1664,7 +1663,8 @@
         "2112598146631209230": false,
         "2112599203063148893": false,
         "2112601488128422032": false,
-        "2112606106912432315": true
+        "2112606106912432315": true,
+        "2112612260791075267": true
       },
       "user_id": "973261472"
     },
@@ -5592,5 +5592,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T18:20:22+00:00"
+  "updated_at": "2026-10-20T18:30:24+00:00"
 }
