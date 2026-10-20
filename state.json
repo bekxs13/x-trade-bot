@@ -1942,7 +1942,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2112341081329463774",
+      "last_id": "2112341894554648629",
       "positions": {
         "AMZN": {
           "asset": "AMZN",
@@ -1978,12 +1978,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T00:28:22.000Z",
-          "id": "2110528172307697874",
-          "reply_to_id": "1772859712490320351",
-          "text": "RAAAAAHHHH"
-        },
         {
           "created_at": "2026-10-15T00:36:09.000Z",
           "id": "2110530132381516205",
@@ -2095,10 +2089,16 @@
           "created_at": "2026-10-20T00:32:13.000Z",
           "id": "2112341081329463774",
           "text": "Always amusing to hear newer traders constantly go through phases of wondering why they\u2019re losing during market downturns and slower periods \n\nYou are trying to press risk in the same way you did when the market was good, the current opportunities do not justify it\n\nThat simple"
+        },
+        {
+          "created_at": "2026-10-20T00:35:27.000Z",
+          "id": "2112341894554648629",
+          "quoted_text": "Make it back immediately derangement syndrome is going to get so many people fucked \n\nIt basically goes up only for years cuz mostly bull market for the skilled, you give some back at the end especially post 10/10 for many. But you don\u2019t see how much you\u2019re up since the cycle began, you only tether to your peak nw and chase that \n\nBut the opportunities in the market do not justify pushing in the same way as you did early bull, so you force more and more suboptimal trades chasing your absolute pe",
+          "reply_to_id": "2112341081329463774",
+          "text": "This was obviously more about macro cycles but higher levered participants certainly do this in smaller quicker sub cycles as well \n\nBreak this pattern or you are doomed to failure forever \n\nEveryone was having fun posting their pnls when market hot\n\nTrading would be really fucking easy if you didn\u2019t have to figure out where to exit lmfao"
         }
       ],
       "reads": {
-        "2110528172307697874": "No call",
         "2110530132381516205": "No call",
         "2110611535366431099": "No call: bearish on alts (same view as before)",
         "2110770468592734263": "TRADE EXIT EWY",
@@ -2113,7 +2113,8 @@
         "2112246148148904222": "No call",
         "2112338778639729018": "No call",
         "2112340063950631326": "No call",
-        "2112341081329463774": "No call"
+        "2112341081329463774": "No call",
+        "2112341894554648629": "No call"
       },
       "replies": [
         {
@@ -2369,11 +2370,10 @@
         },
         "2112341081329463774": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2110528172307697874": false,
         "2110530132381516205": false,
         "2110549132578554226": false,
         "2110555688523219037": true,
@@ -2407,7 +2407,8 @@
         "2112338778639729018": true,
         "2112339769799901470": false,
         "2112340063950631326": true,
-        "2112341081329463774": true
+        "2112341081329463774": true,
+        "2112341894554648629": true
       },
       "user_id": "953032269433745408"
     },
@@ -5504,5 +5505,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-20T00:34:18+00:00"
+  "updated_at": "2026-10-20T00:36:21+00:00"
 }
