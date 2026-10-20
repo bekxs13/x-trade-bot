@@ -4834,14 +4834,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2112543824778256848",
+      "last_id": "2112544605304672382",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-17T22:23:09.000Z",
-          "id": "2111583825256214637",
-          "text": "I love finance because no matter what you think about me you can't deny the PnL.\n\nHave a nice weekend everyone."
-        },
         {
           "created_at": "2026-10-17T22:25:26.000Z",
           "id": "2111584400148455443",
@@ -4962,10 +4957,14 @@
             "https://pbs.twimg.com/media/HVFDX7wXgAAikaY.jpg"
           ],
           "text": "Pretty clean chart just chilling at support https://t.co/b574XMVSEh"
+        },
+        {
+          "created_at": "2026-10-20T14:00:57.000Z",
+          "id": "2112544605304672382",
+          "text": "You can always tell when people are novice traders because they can't possibly imagine being simultaneously bullish and bearish different assets. \n\nBeing bullish or bearish is a personality trait for new traders. It defines their entire identity."
         }
       ],
       "reads": {
-        "2111583825256214637": "No call",
         "2111584400148455443": "No call",
         "2111605916680196276": "No call: bearish on stocks/macro (same view as before)",
         "2111618271585747156": "No call",
@@ -4983,7 +4982,8 @@
         "2112229752572424657": "No call: bearish on stocks/macro (60%, too unsure)",
         "2112229981741035884": "No call",
         "2112282046932406301": "No call",
-        "2112543824778256848": "No call: bullish on HYPE (60%, too unsure)"
+        "2112543824778256848": "No call: bullish on HYPE (60%, too unsure)",
+        "2112544605304672382": "No call"
       },
       "replies": [
         {
@@ -5078,10 +5078,6 @@
         }
       ],
       "threads": {
-        "2107105108479619524": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2107240927408607705": {
           "alerted": [],
           "self_replies": 0
@@ -5489,6 +5485,10 @@
         "2112543824778256848": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112544605304672382": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5501,7 +5501,6 @@
         "2111183217843679578": false,
         "2111505410444411366": true,
         "2111581235793588319": true,
-        "2111583825256214637": true,
         "2111584400148455443": true,
         "2111605916680196276": true,
         "2111618271585747156": false,
@@ -5526,7 +5525,8 @@
         "2112229752572424657": true,
         "2112229981741035884": false,
         "2112282046932406301": true,
-        "2112543824778256848": true
+        "2112543824778256848": true,
+        "2112544605304672382": true
       },
       "user_id": "809191427645181952"
     }
@@ -5542,5 +5542,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T14:00:34+00:00"
+  "updated_at": "2026-10-20T14:02:22+00:00"
 }
