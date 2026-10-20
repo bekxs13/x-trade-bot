@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2112546317180481596",
+      "last_id": "2112548645140918300",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -122,14 +122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-18T21:01:17.000Z",
-          "id": "2111925607269589125",
-          "images": [
-            "https://pbs.twimg.com/media/HU8RJaxaEAAt1t9.jpg"
-          ],
-          "text": "https://t.co/U2tJhOze93"
-        },
         {
           "created_at": "2026-10-18T23:00:15.000Z",
           "id": "2111955547352351049",
@@ -242,10 +234,14 @@
           "id": "2112546317180481596",
           "reply_to_id": "2112546201241366861",
           "text": "Long 49c at .3 and 50c at .2 oct30"
+        },
+        {
+          "created_at": "2026-10-20T14:17:00.000Z",
+          "id": "2112548645140918300",
+          "text": "\u201cMarket\u2019s pretty ass man\u2026 actually markets not bad at all I just fuckin blew up unfortunately\u201d"
         }
       ],
       "reads": {
-        "2111925607269589125": "No call",
         "2111955547352351049": "No call",
         "2112207019872821538": "No call",
         "2112308247931867339": "No call: bullish on btc (same view as before)",
@@ -263,7 +259,8 @@
         "2112523952287351129": "TRADE LONG SOXL \u00b7 VIEW bullish on semis/ai stocks",
         "2112540303169048604": "TRADE EXIT SOXL",
         "2112546201241366861": "TRADE LONG IBIT",
-        "2112546317180481596": "Read together with the post it replies to"
+        "2112546317180481596": "Read together with the post it replies to",
+        "2112548645140918300": "No call"
       },
       "replies": [
         {
@@ -358,10 +355,6 @@
         }
       ],
       "threads": {
-        "2108717415286850013": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2108776549789093932": {
           "alerted": [],
           "self_replies": 0
@@ -771,10 +764,13 @@
             "trade:IBIT:long"
           ],
           "self_replies": 1
+        },
+        "2112548645140918300": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111925607269589125": false,
         "2111955547352351049": false,
         "2112207019872821538": false,
         "2112235730412118404": false,
@@ -808,7 +804,8 @@
         "2112540303169048604": true,
         "2112544246074900514": true,
         "2112546201241366861": true,
-        "2112546317180481596": true
+        "2112546317180481596": true,
+        "2112548645140918300": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5560,5 +5557,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T14:08:23+00:00"
+  "updated_at": "2026-10-20T14:18:32+00:00"
 }
