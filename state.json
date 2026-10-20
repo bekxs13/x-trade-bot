@@ -1942,7 +1942,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2112339769799901470",
+      "last_id": "2112340063950631326",
       "positions": {
         "AMZN": {
           "asset": "AMZN",
@@ -1978,12 +1978,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-14T19:20:38.000Z",
-          "id": "2110450730079510702",
-          "reply_to_id": "2110447643642245266",
-          "text": "Think ignoring is the thing most ppl have most trouble with, I constantly see clips and post engagements including ppl I have muted or blocked. While it\u2019s appealing to call a retard or scumbag what they are, it does help platform them."
-        },
         {
           "created_at": "2026-10-15T00:23:21.000Z",
           "id": "2110526910442954926",
@@ -2093,6 +2087,14 @@
           "created_at": "2026-10-20T00:23:04.000Z",
           "id": "2112338778639729018",
           "text": "Warren buffet made his wealth by anchoring his macro bias to every hourly candle"
+        },
+        {
+          "created_at": "2026-10-20T00:28:11.000Z",
+          "id": "2112340063950631326",
+          "images": [
+            "https://pbs.twimg.com/media/HVCKF68a4AAyeDS.jpg"
+          ],
+          "text": "I find it inspiring how many onchain zoomers have chosen to follow the advice of an investor as legendary as buffet https://t.co/aEy4nLPcph"
         }
       ],
       "reads": {
@@ -2110,7 +2112,8 @@
         "2112237620696907810": "No call: bearish on stocks/macro (same view as before)",
         "2112245189658255701": "TRADE LONG AMZN",
         "2112246148148904222": "No call",
-        "2112338778639729018": "No call"
+        "2112338778639729018": "No call",
+        "2112340063950631326": "No call"
       },
       "replies": [
         {
@@ -2359,10 +2362,13 @@
         "2112338778639729018": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112340063950631326": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110450730079510702": false,
         "2110526910442954926": true,
         "2110528172307697874": false,
         "2110530132381516205": false,
@@ -2396,7 +2402,8 @@
         "2112266427998916913": true,
         "2112271778794107062": false,
         "2112338778639729018": true,
-        "2112339769799901470": false
+        "2112339769799901470": false,
+        "2112340063950631326": true
       },
       "user_id": "953032269433745408"
     },
@@ -5493,5 +5500,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-19",
-  "updated_at": "2026-10-20T00:28:20+00:00"
+  "updated_at": "2026-10-20T00:30:32+00:00"
 }
