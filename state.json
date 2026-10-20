@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2112548645140918300",
+      "last_id": "2112549871886717178",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -264,12 +264,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-19T17:33:36.000Z",
-          "id": "2112235730412118404",
-          "reply_to_id": "2112235310008700958",
-          "text": "@Wild_Randomness Is this a bull post  from them?"
-        },
-        {
           "created_at": "2026-10-20T01:00:17.000Z",
           "id": "2112348144449335569",
           "reply_to_id": "2112348073078755618",
@@ -352,6 +346,12 @@
           "id": "2112544246074900514",
           "reply_to_id": "2112543896593133810",
           "text": "@treblekicker @CryptoEthan @kling00000 Did a more conservative portfolio of soxx and ibit calls idt soxl is the instrument for me lmao"
+        },
+        {
+          "created_at": "2026-10-20T14:21:53.000Z",
+          "id": "2112549871886717178",
+          "reply_to_id": "2112549525110014390",
+          "text": "@VentureCoinist Lmao ok that makes sense"
         }
       ],
       "threads": {
@@ -773,7 +773,6 @@
       "trading": {
         "2111955547352351049": false,
         "2112207019872821538": false,
-        "2112235730412118404": false,
         "2112308247931867339": true,
         "2112346288444641698": true,
         "2112347277159477571": true,
@@ -805,7 +804,8 @@
         "2112544246074900514": true,
         "2112546201241366861": true,
         "2112546317180481596": true,
-        "2112548645140918300": true
+        "2112548645140918300": true,
+        "2112549871886717178": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5557,5 +5557,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T14:18:32+00:00"
+  "updated_at": "2026-10-20T14:22:18+00:00"
 }
