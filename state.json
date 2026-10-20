@@ -3536,7 +3536,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2112600108999246217",
+      "last_id": "2112603207977636243",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3556,17 +3556,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T18:21:52.000Z",
-          "id": "2110798325805092991",
-          "text": "LIVE: The Based16z Interview https://t.co/zsvboM1oXg"
-        },
-        {
-          "created_at": "2026-10-15T18:26:58.000Z",
-          "id": "2110799609127895292",
-          "quoted_text": "LIVE: The Based16z Interview https://t.co/zsvboM1oXg",
-          "text": "starting now https://t.co/IBMpQgP6dS"
-        },
         {
           "created_at": "2026-10-15T22:35:24.000Z",
           "id": "2110862128609681647",
@@ -3671,11 +3660,21 @@
           "id": "2112595558217240973",
           "quoted_text": "https://t.co/e2nkgk2csx https://t.co/fPiILdPfzf",
           "text": "watching the togi sun run in public and it\u2019s impossible to deny trading is the highest form of entertainment. genuine spectacle https://t.co/xAGAaxytQL"
+        },
+        {
+          "created_at": "2026-10-20T17:52:32.000Z",
+          "id": "2112602884810449161",
+          "quoted_text": "Data on 35,000+ adults:   the more cannabis you\u2019ve used in life, the bigger your hippocampus and the better your brain works after 40!\n\nPeople who had ever used cannabis tended to have larger brain volume in key areas that are full of natural cannabis-like receptors (especially the hippocampus, amygdala, caudate, and putamen \u2013 these areas are important for memory, emotions, learning, and movement).    \n\nThe more cannabis someone had used in their lifetime, the larger these brain areas were and t",
+          "text": "the cia not even trying to hide it anymore https://t.co/8y5zyWzasC"
+        },
+        {
+          "created_at": "2026-10-20T17:53:49.000Z",
+          "id": "2112603207977636243",
+          "reply_to_id": "2112602884810449161",
+          "text": "the thing that tangibly makes you retarded leads to a better working brain \n\n\ud83e\udd13"
         }
       ],
       "reads": {
-        "2110798325805092991": "No call",
-        "2110799609127895292": "No call",
         "2110862128609681647": "No call",
         "2110862135320588461": "Read together with the post it replies to",
         "2110868916113473793": "No call",
@@ -3690,7 +3689,9 @@
         "2112563678453125605": "No call",
         "2112590076765216881": "No call",
         "2112592492151660577": "No call",
-        "2112595558217240973": "No call"
+        "2112595558217240973": "No call",
+        "2112602884810449161": "No call",
+        "2112603207977636243": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -3979,11 +3980,13 @@
         "2112595558217240973": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112602884810449161": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2110798325805092991": false,
-        "2110799609127895292": false,
         "2110862128609681647": true,
         "2110862135320588461": false,
         "2110868916113473793": true,
@@ -4016,7 +4019,9 @@
         "2112592492151660577": false,
         "2112594580248166616": false,
         "2112595558217240973": true,
-        "2112600108999246217": false
+        "2112600108999246217": false,
+        "2112602884810449161": false,
+        "2112603207977636243": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5587,5 +5592,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T17:48:20+00:00"
+  "updated_at": "2026-10-20T17:54:21+00:00"
 }
