@@ -3533,7 +3533,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2112590076765216881",
+      "last_id": "2112592492151660577",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3553,11 +3553,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T12:40:01.000Z",
-          "id": "2110712299170456020",
-          "text": "MARKET OPEN: Anthropic ARR is BAD, Markets in TROUBLE, Where Does Crypto Go NEXT?, Based16z TODAY https://t.co/7msk5nJXLy"
-        },
         {
           "created_at": "2026-10-15T15:59:35.000Z",
           "id": "2110762518495085033",
@@ -3667,10 +3662,15 @@
           "created_at": "2026-10-20T17:01:38.000Z",
           "id": "2112590076765216881",
           "text": "everytime i get a notification that flood posted my heart sinks a little"
+        },
+        {
+          "created_at": "2026-10-20T17:11:14.000Z",
+          "id": "2112592492151660577",
+          "reply_to_id": "2112590076765216881",
+          "text": "the easiest way to spread a message is to start preaching when up 7 figs in public"
         }
       ],
       "reads": {
-        "2110712299170456020": "No call",
         "2110762518495085033": "No call",
         "2110798325805092991": "No call",
         "2110799609127895292": "No call",
@@ -3686,7 +3686,8 @@
         "2112175913647395226": "No call",
         "2112524196786163830": "No call",
         "2112563678453125605": "No call",
-        "2112590076765216881": "No call"
+        "2112590076765216881": "No call",
+        "2112592492151660577": "No call"
       },
       "replies": [
         {
@@ -3970,11 +3971,10 @@
         },
         "2112590076765216881": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2110712299170456020": true,
         "2110762518495085033": false,
         "2110798325805092991": false,
         "2110799609127895292": false,
@@ -4008,7 +4008,8 @@
         "2112503636974776604": false,
         "2112524196786163830": true,
         "2112563678453125605": false,
-        "2112590076765216881": false
+        "2112590076765216881": false,
+        "2112592492151660577": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5579,5 +5580,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T17:07:01+00:00"
+  "updated_at": "2026-10-20T17:12:29+00:00"
 }
