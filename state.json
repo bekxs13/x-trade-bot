@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2112544246074900514",
+      "last_id": "2112546317180481596",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -87,6 +87,22 @@
           "since": "2026-10-14T15:43:37.000Z",
           "structure": "unknown",
           "url": "https://x.com/based16z/status/2110396115543810439"
+        },
+        "IBIT": {
+          "asset": "IBIT",
+          "chain": "",
+          "confidence": 0.9,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "49c at 0.30, 50c at 0.20",
+          "horizon": "Oct 30 expiry",
+          "market": "stocks",
+          "open_price": null,
+          "post_id": "2112546201241366861",
+          "reason": "Post asks who bought $650m of IBIT; his own reply says 'Long 49c at .3 and 50c at .2 oct30', i.e. IBIT call options.",
+          "since": "2026-10-20T14:07:18.000Z",
+          "structure": "long calls",
+          "url": "https://x.com/based16z/status/2112546201241366861"
         },
         "QQQ": {
           "asset": "QQQ",
@@ -106,18 +122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-17T21:31:07.000Z",
-          "id": "2111570727103250746",
-          "reply_to_id": "2111570672552124665",
-          "text": "@Wild_Randomness /black_monday"
-        },
-        {
-          "created_at": "2026-10-18T20:02:02.000Z",
-          "id": "2111910696162414895",
-          "quoted_text": "Un h\u00e9roe ha caido https://t.co/VLJDlB4K9o",
-          "text": "Louis Vuitton Winter 2027 https://t.co/YmhkxKcWBa"
-        },
         {
           "created_at": "2026-10-18T21:01:17.000Z",
           "id": "2111925607269589125",
@@ -227,10 +231,20 @@
           "quoted_text": "@CryptoEthan @kling00000 Yup I\u2019m takin the fast L stronger soldiers than me will lead the bounce",
           "reply_to_id": "2112523952287351129",
           "text": "https://t.co/bfhIhTEPtW https://t.co/3PnVx95US8"
+        },
+        {
+          "created_at": "2026-10-20T14:07:18.000Z",
+          "id": "2112546201241366861",
+          "text": "Who bought $650m of ibit yday?"
+        },
+        {
+          "created_at": "2026-10-20T14:07:45.000Z",
+          "id": "2112546317180481596",
+          "reply_to_id": "2112546201241366861",
+          "text": "Long 49c at .3 and 50c at .2 oct30"
         }
       ],
       "reads": {
-        "2111910696162414895": "No call",
         "2111925607269589125": "No call",
         "2111955547352351049": "No call",
         "2112207019872821538": "No call",
@@ -247,7 +261,9 @@
         "2112409703527633055": "No call",
         "2112412695777722422": "No call",
         "2112523952287351129": "TRADE LONG SOXL \u00b7 VIEW bullish on semis/ai stocks",
-        "2112540303169048604": "TRADE EXIT SOXL"
+        "2112540303169048604": "TRADE EXIT SOXL",
+        "2112546201241366861": "TRADE LONG IBIT",
+        "2112546317180481596": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -342,10 +358,6 @@
         }
       ],
       "threads": {
-        "2108703912429793418": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108717415286850013": {
           "alerted": [],
           "self_replies": 1
@@ -753,11 +765,15 @@
             "trade:SOXL:exit"
           ],
           "self_replies": 1
+        },
+        "2112546201241366861": {
+          "alerted": [
+            "trade:IBIT:long"
+          ],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2111570727103250746": false,
-        "2111910696162414895": false,
         "2111925607269589125": false,
         "2111955547352351049": false,
         "2112207019872821538": false,
@@ -790,7 +806,9 @@
         "2112537342078521689": true,
         "2112540047601779180": true,
         "2112540303169048604": true,
-        "2112544246074900514": true
+        "2112544246074900514": true,
+        "2112546201241366861": true,
+        "2112546317180481596": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5542,5 +5560,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-20T14:02:22+00:00"
+  "updated_at": "2026-10-20T14:08:23+00:00"
 }
