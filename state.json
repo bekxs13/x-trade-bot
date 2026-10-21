@@ -921,7 +921,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112764582905479460",
+      "last_id": "2112770152106168663",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -941,14 +941,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-18T07:27:43.000Z",
-          "id": "2111720867671502982",
-          "images": [
-            "https://pbs.twimg.com/media/HU5W66sX0AANokN.jpg"
-          ],
-          "text": "what he talmbout https://t.co/p6jaGXaVlX"
-        },
         {
           "created_at": "2026-10-18T07:36:31.000Z",
           "id": "2111723083107065935",
@@ -1085,10 +1077,15 @@
             "https://pbs.twimg.com/media/HVIHeo-WgAA3-f6.jpg"
           ],
           "text": "there is a bug on @X letting people get access to your account if you click links on here\n\ngo to account settings -&gt; apps &amp; sessions -&gt; log out of all other sessions https://t.co/6CWp92kuGZ"
+        },
+        {
+          "created_at": "2026-10-21T04:57:12.000Z",
+          "id": "2112770152106168663",
+          "quoted_text": "@p_eng_uin @0xMerp @X its either a bug on X's internals side showing ghost sessions that dont exist or its a bug letting ppl get access somehow, either way theres no harm in removing sessions that you dont recognize",
+          "text": "for clarity https://t.co/LXsEtIZkH2"
         }
       ],
       "reads": {
-        "2111720867671502982": "No call",
         "2111723083107065935": "No call",
         "2111733530757570629": "No call",
         "2111779407807574066": "No call",
@@ -1106,7 +1103,8 @@
         "2112585897531334903": "VIEW bullish on VVV",
         "2112591153925332992": "No call",
         "2112646286117576850": "No call",
-        "2112759509311422625": "No call"
+        "2112759509311422625": "No call",
+        "2112770152106168663": "No call"
       },
       "replies": [
         {
@@ -1204,10 +1202,6 @@
         }
       ],
       "threads": {
-        "2108112551833981326": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108135397746475145": {
           "alerted": [],
           "self_replies": 0
@@ -1630,10 +1624,13 @@
         "2112759509311422625": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112770152106168663": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111720867671502982": false,
         "2111723083107065935": false,
         "2111733530757570629": true,
         "2111779407807574066": false,
@@ -1667,7 +1664,8 @@
         "2112646286117576850": true,
         "2112759509311422625": false,
         "2112764353480933514": false,
-        "2112764582905479460": false
+        "2112764582905479460": false,
+        "2112770152106168663": false
       },
       "user_id": "973261472"
     },
@@ -5645,5 +5643,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-21T04:36:21+00:00"
+  "updated_at": "2026-10-21T04:58:23+00:00"
 }
