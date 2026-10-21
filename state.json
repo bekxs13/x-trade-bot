@@ -921,7 +921,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112958140862042489",
+      "last_id": "2112962071889596484",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1105,12 +1105,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-20T18:29:48.000Z",
-          "id": "2112612260791075267",
-          "reply_to_id": "2112611549672325367",
-          "text": "read it but havent fully flushed out thoughts, it is much better for active traders on the exchange long term tho, ppl who trade there will have some % of trades as losses by default & continuously mint paper, farmers are angry bc they could not just dn farm at beginning then never trade there and just dump token\n\ncan see why ppl are mad bc it is a considerably diff math equation now than it was at the start but i believe they are acting in protocol's best interest"
-        },
-        {
           "created_at": "2026-10-20T18:53:38.000Z",
           "id": "2112618260957143144",
           "reply_to_id": "2112617554803863788",
@@ -1193,6 +1187,12 @@
           "id": "2112913105214906474",
           "reply_to_id": "2112900932413304838",
           "text": "@defi_monk yep"
+        },
+        {
+          "created_at": "2026-10-21T17:39:49.000Z",
+          "id": "2112962071889596484",
+          "reply_to_id": "2112960162013012410",
+          "text": "@theerealGiza stop what"
         }
       ],
       "threads": {
@@ -1636,7 +1636,6 @@
         "2112542104077705324": true,
         "2112585897531334903": true,
         "2112591153925332992": true,
-        "2112612260791075267": true,
         "2112618260957143144": false,
         "2112618973871079850": false,
         "2112619414013296905": true,
@@ -1661,7 +1660,8 @@
         "2112911823888679254": true,
         "2112913105214906474": false,
         "2112916788426232161": true,
-        "2112958140862042489": true
+        "2112958140862042489": true,
+        "2112962071889596484": false
       },
       "user_id": "973261472"
     },
@@ -5643,5 +5643,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T17:28:21+00:00"
+  "updated_at": "2026-10-21T17:40:24+00:00"
 }
