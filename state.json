@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113036639609946342",
+      "last_id": "2113038369068654950",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -261,12 +261,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-20T12:46:06.000Z",
-          "id": "2112525765682282509",
-          "reply_to_id": "2112525601458282652",
-          "text": "@kling00000 Maybe yeah tbh calls are just too expensive for me and since I know nothing I\u2019ll go index. Might go nvda calls but dogshit neoclouds is maybe cleanest story on it. Just so many other factors"
-        },
-        {
           "created_at": "2026-10-20T12:49:38.000Z",
           "id": "2112526658716492115",
           "reply_to_id": "2112526472657166799",
@@ -349,6 +343,12 @@
           "id": "2113036639609946342",
           "reply_to_id": "2113033352936628604",
           "text": "@P_Remarks yeah question is kinda does this new class graduate like mine did. but its ubiquitous anyone sub 23"
+        },
+        {
+          "created_at": "2026-10-21T22:43:00.000Z",
+          "id": "2113038369068654950",
+          "reply_to_id": "2113020051112575453",
+          "text": "@tushar_jain Doesn\u2019t seem like the mission of this group is there another group focused on that application?"
         }
       ],
       "threads": {
@@ -775,7 +775,6 @@
         "2112409703527633055": false,
         "2112412695777722422": false,
         "2112523952287351129": true,
-        "2112525765682282509": true,
         "2112526658716492115": true,
         "2112536471345496172": true,
         "2112537342078521689": true,
@@ -802,7 +801,8 @@
         "2113011860228260141": false,
         "2113021943653785774": false,
         "2113026025013834215": true,
-        "2113036639609946342": false
+        "2113036639609946342": false,
+        "2113038369068654950": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5634,5 +5634,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T22:36:20+00:00"
+  "updated_at": "2026-10-21T22:44:20+00:00"
 }
