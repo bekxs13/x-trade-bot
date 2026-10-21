@@ -921,7 +921,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112646286117576850",
+      "last_id": "2112759509311422625",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -941,11 +941,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-18T06:17:45.000Z",
-          "id": "2111703260654424065",
-          "text": "what's happening in france"
-        },
         {
           "created_at": "2026-10-18T07:27:43.000Z",
           "id": "2111720867671502982",
@@ -1081,10 +1076,18 @@
             "https://pbs.twimg.com/amplify_video_thumb/2112616200190726144/img/tcaHq-I4wxyVhdfo.jpg"
           ],
           "text": "i don't see anything wrong with constantly rotating between memecoins if you understand the game you're playing\n\nmemecoin trading is much closer to trading viral trends on tik tok than investing in traditional businesses\n\nattention moves quickly, and some of the best traders have built their entire edge around recognizing those shifts before everyone else"
+        },
+        {
+          "created_at": "2026-10-21T04:14:54.000Z",
+          "id": "2112759509311422625",
+          "images": [
+            "https://pbs.twimg.com/media/HVIHeo-WoAA3yum.jpg",
+            "https://pbs.twimg.com/media/HVIHeo-WgAA3-f6.jpg"
+          ],
+          "text": "there is a bug on @X letting people get access to your account if you click links on here\n\ngo to account settings -&gt; apps &amp; sessions -&gt; log out of all other sessions https://t.co/6CWp92kuGZ"
         }
       ],
       "reads": {
-        "2111703260654424065": "No call",
         "2111720867671502982": "No call",
         "2111723083107065935": "No call",
         "2111733530757570629": "No call",
@@ -1102,7 +1105,8 @@
         "2112542104077705324": "No call",
         "2112585897531334903": "VIEW bullish on VVV",
         "2112591153925332992": "No call",
-        "2112646286117576850": "No call"
+        "2112646286117576850": "No call",
+        "2112759509311422625": "No call"
       },
       "replies": [
         {
@@ -1200,10 +1204,6 @@
         }
       ],
       "threads": {
-        "2108111428037284203": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108112551833981326": {
           "alerted": [],
           "self_replies": 0
@@ -1626,10 +1626,13 @@
         "2112646286117576850": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112759509311422625": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111703260654424065": false,
         "2111720867671502982": false,
         "2111723083107065935": false,
         "2111733530757570629": true,
@@ -1663,7 +1666,8 @@
         "2112624489053688214": false,
         "2112624925953392800": false,
         "2112631869892427955": false,
-        "2112646286117576850": true
+        "2112646286117576850": true,
+        "2112759509311422625": false
       },
       "user_id": "973261472"
     },
@@ -5641,5 +5645,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-21T03:16:15+00:00"
+  "updated_at": "2026-10-21T04:16:21+00:00"
 }
