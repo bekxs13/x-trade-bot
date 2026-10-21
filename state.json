@@ -3544,7 +3544,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2112726318253301861",
+      "last_id": "2112728983217242458",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3580,11 +3580,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-16T01:07:02.000Z",
-          "id": "2110900288483651945",
-          "text": "oh my god what am i watching elon is actually the goat"
-        },
         {
           "created_at": "2026-10-16T12:39:50.000Z",
           "id": "2111074640328262026",
@@ -3698,10 +3693,15 @@
           "id": "2112710480011591849",
           "reply_to_id": "2112705823197855757",
           "text": "there's this conocial moment in more money than god where greenspan raises rates to get ahead of inflation in 1994? I think? and the market reacts unexpectadly with leverage panic selling us bonds (yields rip higher) AND a euro/japan bond selloff as well (yields rip crazy)\n\nAnd there's this revelation of holy fuck assets no longer trade in a silo, hedge funds are big enough to transmit shocks across markets and they trade everything. They run this now. that's why if say gold is supposed to act as a risk off hedge inversely correlated with risk, if nvda has a terrible miss and dumps -15% gold is going down with it bc people need to sell to cover\n\nso zooming out over the last couple weeks we've watched the ai trade start to unravel - I know spy is -2% or whatever but i think it's fair to say Kospi -40%, Dram  -43% etc an unraveling and bitcoin/crypto hasn't gone down, at all. Well it's because nobody fucking holds any. None of the biggest funds hold, literally any\n\nThe entire market has a coorelation of fucking 1 to AI and crypto is just standing there as the perfect hedge in the middle of once in a multi decade wealth generation event uniquely reserved for the demographic that understands it the most. I just don't think selling the few coins I like because dram might leg down another 10% makes a lot of sense as it hasn't been happening at all\n\nSo ya I bought some zcash\n\nAlso im sure a lot of my nuance in this take is wrong because im not a fucking macro larp but i'm reading the book now and it felt relevant good luck"
+        },
+        {
+          "created_at": "2026-10-21T02:13:36.000Z",
+          "id": "2112728983217242458",
+          "reply_to_id": "2112710480011591849",
+          "text": "fucked that word up pretty bad lmfaoaoioo"
         }
       ],
       "reads": {
-        "2110900288483651945": "No call",
         "2111074640328262026": "No call",
         "2111475796993015853": "No call",
         "2111944213352919424": "No call",
@@ -4029,7 +4029,6 @@
         }
       },
       "trading": {
-        "2110900288483651945": false,
         "2111074640328262026": true,
         "2111180317218455782": false,
         "2111475796993015853": true,
@@ -4063,7 +4062,8 @@
         "2112707009208590756": false,
         "2112710480011591849": true,
         "2112720472634753485": false,
-        "2112726318253301861": true
+        "2112726318253301861": true,
+        "2112728983217242458": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5641,5 +5641,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-21T02:04:21+00:00"
+  "updated_at": "2026-10-21T02:14:18+00:00"
 }
