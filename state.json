@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113047089920045321",
+      "last_id": "2113047882542534722",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -122,11 +122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T03:59:03.000Z",
-          "id": "2112393129869672825",
-          "text": "Paid Partnership"
-        },
         {
           "created_at": "2026-10-20T04:06:25.000Z",
           "id": "2112394986549567889",
@@ -236,10 +231,14 @@
           "created_at": "2026-10-21T20:57:39.000Z",
           "id": "2113011860228260141",
           "text": "My review of You Can See Everything is that I feel asleep ~60% of the way through"
+        },
+        {
+          "created_at": "2026-10-21T23:20:48.000Z",
+          "id": "2113047882542534722",
+          "text": "Cloudflare great example of a company that derives a bullish narrative from like every single headline"
         }
       ],
       "reads": {
-        "2112393129869672825": "No call",
         "2112394986549567889": "No call: bullish on hype (55%, too unsure)",
         "2112397102395638039": "No call",
         "2112404175980302503": "No call",
@@ -257,7 +256,8 @@
         "2112926995025990106": "No call",
         "2112928183418798426": "No call",
         "2112994223343501334": "No call",
-        "2113011860228260141": "No call"
+        "2113011860228260141": "No call",
+        "2113047882542534722": "No call"
       },
       "replies": [
         {
@@ -352,10 +352,6 @@
         }
       ],
       "threads": {
-        "2109091278000623693": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109092758602613218": {
           "alerted": [],
           "self_replies": 0
@@ -765,10 +761,13 @@
         "2113011860228260141": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113047882542534722": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112393129869672825": false,
         "2112394986549567889": true,
         "2112397102395638039": false,
         "2112404175980302503": false,
@@ -802,7 +801,8 @@
         "2113041911988592651": true,
         "2113045626401263859": true,
         "2113046189721669821": true,
-        "2113047089920045321": false
+        "2113047089920045321": false,
+        "2113047882542534722": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5642,5 +5642,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T23:20:28+00:00"
+  "updated_at": "2026-10-21T23:22:19+00:00"
 }
