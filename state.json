@@ -1995,7 +1995,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2112979684057358458",
+      "last_id": "2112982706032464198",
       "positions": {
         "AMZN": {
           "asset": "AMZN",
@@ -2031,12 +2031,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T02:17:43.000Z",
-          "id": "2110555688523219037",
-          "reply_to_id": "2108271202875969933",
-          "text": "Kept getting worse, prob gets worse still, I imagine the next leg down sub 81 is a matter of when not if"
-        },
         {
           "created_at": "2026-10-15T05:59:37.000Z",
           "id": "2110611535366431099",
@@ -2148,6 +2142,12 @@
           "created_at": "2026-10-21T18:46:57.000Z",
           "id": "2112978966105751868",
           "text": "There is hella complaining about retarded shit today good lord \n\nGood morning friends"
+        },
+        {
+          "created_at": "2026-10-21T19:01:49.000Z",
+          "id": "2112982706032464198",
+          "quoted_text": "Positioning is goog amzn overweighted, Brk leaps, 50% spot long trad, 0% spot crypto, no perp positions crypto \n\nLooking for crypto over yearly open or break below 80s for alt longs, alts prob lead the bottom\n\nLooking for specific options plays in trad and spot adds if we get some more weakness (base case atm)",
+          "text": "Closing the over allocated levered parts of goog amzn mostly for a wash, ewy short hedge ended up being the entire play unexpectedly \n\n50% spot trad 0% spot crypto brk leaps (brk ath yay) \n\nWaiting for inspiration for next play for lev in both markets \n\nTradfi is in weird spot of previously hottest sectors having such fundamentally shattered charts and narratives in the short to mid term that the market is not going to be able to definably trend or take signal from there, seems like need chop and sort stuff out plus earnings hence my mags and more defensive spot plays \n\nPost ewy short no need to rush there \n\nCrypto still biggest level is Y/O but some alts look more constructive, watching for perp plays, have couple things in mind but no trigger yet"
         }
       ],
       "reads": {
@@ -2166,7 +2166,8 @@
         "2112340063950631326": "No call",
         "2112341081329463774": "No call",
         "2112341894554648629": "No call",
-        "2112978966105751868": "No call"
+        "2112978966105751868": "No call",
+        "2112982706032464198": "TRADE TRIM GOOG, AMZN"
       },
       "replies": [
         {
@@ -2427,10 +2428,15 @@
         "2112978966105751868": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112982706032464198": {
+          "alerted": [
+            "trade:GOOG, AMZN:trim"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110555688523219037": true,
         "2110611535366431099": true,
         "2110770468592734263": true,
         "2110770912429838604": true,
@@ -2464,7 +2470,8 @@
         "2112684759222759756": false,
         "2112974031947452896": false,
         "2112978966105751868": false,
-        "2112979684057358458": false
+        "2112979684057358458": false,
+        "2112982706032464198": true
       },
       "user_id": "953032269433745408"
     },
@@ -5640,5 +5647,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T18:50:22+00:00"
+  "updated_at": "2026-10-21T19:02:29+00:00"
 }
