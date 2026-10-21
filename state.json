@@ -921,7 +921,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112916788426232161",
+      "last_id": "2112958140862042489",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -941,11 +941,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-18T19:43:57.000Z",
-          "id": "2111906147116413196",
-          "text": "we are losing to the panthers man"
-        },
         {
           "created_at": "2026-10-18T20:02:29.000Z",
           "id": "2111910811153105043",
@@ -1077,10 +1072,17 @@
           "id": "2112916788426232161",
           "quoted_text": "Alpenglow is live on mainnet-beta \u26f0\ufe0f \ud83c\udf89\n\nSolana\u2019s new consensus protocol: finality reduced from 12.8 seconds to 150 milliseconds, built by Anza.\n\nWhy this is important \ud83e\uddf5 https://t.co/uItGPrANdi",
           "text": "massive https://t.co/MzJQZuTt6U"
+        },
+        {
+          "created_at": "2026-10-21T17:24:12.000Z",
+          "id": "2112958140862042489",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2112958025980133376/img/BNWpu0h0Ea058noH.jpg"
+          ],
+          "text": "the rise of traders as celebrities makes a lot of sense to me\n\nmost people can't realistically become the next LeBron, but they can learn how to trade from someone who started out just like them\n\nthat relatability, combined with the potential to make money, creates a different kind of connection between traders and their audiences\n\ni expect that to become a bigger part of the social trading"
         }
       ],
       "reads": {
-        "2111906147116413196": "No call",
         "2111910811153105043": "No call",
         "2112028564987990046": "VIEW bullish on PAPER",
         "2112036503463546953": "No call",
@@ -1098,7 +1100,8 @@
         "2112890596272792053": "No call",
         "2112910702847353332": "No call",
         "2112911823888679254": "No call",
-        "2112916788426232161": "No call: bullish on sol (same view as before)"
+        "2112916788426232161": "No call: bullish on sol (same view as before)",
+        "2112958140862042489": "No call"
       },
       "replies": [
         {
@@ -1193,10 +1196,6 @@
         }
       ],
       "threads": {
-        "2108360500446953743": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108371977291636754": {
           "alerted": [
             "bias:btc:bullish"
@@ -1621,10 +1620,13 @@
         "2112916788426232161": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112958140862042489": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111906147116413196": false,
         "2111910811153105043": true,
         "2112028564987990046": true,
         "2112036503463546953": true,
@@ -1658,7 +1660,8 @@
         "2112910702847353332": false,
         "2112911823888679254": true,
         "2112913105214906474": false,
-        "2112916788426232161": true
+        "2112916788426232161": true,
+        "2112958140862042489": true
       },
       "user_id": "973261472"
     },
@@ -5640,5 +5643,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T17:12:19+00:00"
+  "updated_at": "2026-10-21T17:26:25+00:00"
 }
