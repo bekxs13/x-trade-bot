@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113011860228260141",
+      "last_id": "2113021943653785774",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -261,12 +261,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-20T04:04:34.000Z",
-          "id": "2112394521262928036",
-          "reply_to_id": "2112394440027546062",
-          "text": "@vocalcry I\u2019ve been trying for years"
-        },
-        {
           "created_at": "2026-10-20T04:08:52.000Z",
           "id": "2112395600079777837",
           "reply_to_id": "2112350472619368691",
@@ -349,6 +343,12 @@
           "id": "2112990079023005878",
           "reply_to_id": "2112989665326141503",
           "text": "@mahasr199 Thank you!"
+        },
+        {
+          "created_at": "2026-10-21T21:37:44.000Z",
+          "id": "2113021943653785774",
+          "reply_to_id": "2113016980835897737",
+          "text": "@broadglow Sideshift and content rewards are cool probably in the sense you\u2019d look for, lots of stuff like lead gen or home services less of a thing twitter ppl would be used to.\n\nA lot of the vision is to look at a biz more like a trade or arbitrage or very specific  customers"
         }
       ],
       "threads": {
@@ -769,7 +769,6 @@
       },
       "trading": {
         "2112393129869672825": false,
-        "2112394521262928036": false,
         "2112394986549567889": true,
         "2112395600079777837": false,
         "2112397102395638039": false,
@@ -802,7 +801,8 @@
         "2112939540276978071": false,
         "2112990079023005878": false,
         "2112994223343501334": false,
-        "2113011860228260141": false
+        "2113011860228260141": false,
+        "2113021943653785774": false
       },
       "user_id": "1446541960181858315"
     },
@@ -918,7 +918,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2113020357921976500",
+      "last_id": "2113021667723100230",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1089,12 +1089,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-21T13:30:01.000Z",
-          "id": "2112899209263235096",
-          "reply_to_id": "2112894558707294332",
-          "text": "@docXBT ye"
-        },
-        {
           "created_at": "2026-10-21T13:41:03.000Z",
           "id": "2112901983904354506",
           "reply_to_id": "2112876398712918048",
@@ -1180,6 +1174,12 @@
           ],
           "reply_to_id": "2113018258983207396",
           "text": "@mikemajlak you got some strong competition on the name https://t.co/zpncpJz6Gt"
+        },
+        {
+          "created_at": "2026-10-21T21:36:38.000Z",
+          "id": "2113021667723100230",
+          "reply_to_id": "2113019651852566976",
+          "text": "i am bewildered that you all think theyve added all these things to the mobile app while very deliberately tracking activity through trading streaks, callouts, holder rewards, & referrals to not use that information in the future\n\nmany of the things we asked pump to change they have responded to & changed\n\nyou are not using second order thinking"
         }
       ],
       "threads": {
@@ -1616,7 +1616,6 @@
         "2112822435452174828": true,
         "2112823888207921408": true,
         "2112890596272792053": true,
-        "2112899209263235096": false,
         "2112901983904354506": false,
         "2112902647661342734": false,
         "2112910702847353332": false,
@@ -1642,7 +1641,8 @@
         "2113015427983151488": false,
         "2113015992976879819": false,
         "2113016163873779845": true,
-        "2113020357921976500": false
+        "2113020357921976500": false,
+        "2113021667723100230": true
       },
       "user_id": "973261472"
     },
@@ -5634,5 +5634,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T21:32:22+00:00"
+  "updated_at": "2026-10-21T21:38:21+00:00"
 }
