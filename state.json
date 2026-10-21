@@ -3531,11 +3531,20 @@
           "since": "2026-10-12",
           "stance": "bearish",
           "updated_at": "2026-10-12T23:26:43.000Z"
+        },
+        "stocks/macro": {
+          "market": "stocks",
+          "post_id": "2112705823197855757",
+          "reason": "\"the ai trade is unraveling\" is a bearish read on AI stocks; the BTC part is a sardonic explanation of why BTC is holding up rather than a clear call.",
+          "scope": "stocks/macro",
+          "since": "2026-10-21",
+          "stance": "bearish",
+          "updated_at": "2026-10-21T00:41:35.000Z"
         }
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2112677089040277907",
+      "last_id": "2112705823197855757",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3555,11 +3564,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T23:02:22.000Z",
-          "id": "2110868916113473793",
-          "text": "the amc &lt;&gt; robinhood beef is so funny because he\u2019s screaming at vlad and literally nobody cares"
-        },
         {
           "created_at": "2026-10-15T23:10:38.000Z",
           "id": "2110870996337230266",
@@ -3672,10 +3676,14 @@
           "id": "2112631379502506077",
           "quoted_text": "MAYBE I WAS WRONG ABOUT BLOCKCHAIN TECHNOLOGY\n\nI wrote about how I always used to make fun of the guys who said things like \"Bitcoin is speculative, but the underlying blockchain technology is interesting.\" And now I think maybe they kinda had a point. https://t.co/X1gghCsRge",
           "text": "hyperliquid https://t.co/UPKdDhSX4j"
+        },
+        {
+          "created_at": "2026-10-21T00:41:35.000Z",
+          "id": "2112705823197855757",
+          "text": "the ai trade is unraveling and bitcoin isn't going down because nobody smart held bitcoin"
         }
       ],
       "reads": {
-        "2110868916113473793": "No call",
         "2110870996337230266": "No call",
         "2110900288483651945": "No call",
         "2111074640328262026": "No call",
@@ -3691,7 +3699,8 @@
         "2112602884810449161": "No call",
         "2112603207977636243": "Read together with the post it replies to",
         "2112622436298674308": "No call: bullish on TWST (55%, too unsure)",
-        "2112631379502506077": "No call"
+        "2112631379502506077": "No call",
+        "2112705823197855757": "VIEW bearish on stocks/macro"
       },
       "replies": [
         {
@@ -3992,10 +4001,15 @@
         "2112631379502506077": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112705823197855757": {
+          "alerted": [
+            "bias:stocks/macro:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110868916113473793": true,
         "2110870996337230266": true,
         "2110900288483651945": false,
         "2111074640328262026": true,
@@ -4029,7 +4043,8 @@
         "2112654652953239893": false,
         "2112654850752483822": false,
         "2112671962497491287": true,
-        "2112677089040277907": false
+        "2112677089040277907": false,
+        "2112705823197855757": true
       },
       "user_id": "1426732252768182281"
     },
@@ -5607,5 +5622,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-21T00:20:20+00:00"
+  "updated_at": "2026-10-21T00:42:23+00:00"
 }
