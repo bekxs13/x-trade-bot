@@ -921,7 +921,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112976453247873190",
+      "last_id": "2112990849126879570",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -941,14 +941,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-19T16:48:23.000Z",
-          "id": "2112224350330077223",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2112224142061883393/img/m4BaNsniDCE_uyDm.jpg"
-          ],
-          "text": "distribution could end up being one of the biggest competitive advantages in AI\n\nas models get cheaper and open-source alternatives improve, i expect customer retention and distribution to matter a lot more\n\nOpenAI has already built massive consumer adoption, which creates opportunities to monetize beyond subscriptions through things like advertising\n\nthe economics of AI labs are still evolving, but i think the value of owning the customer relationship is being underestimated"
-        },
         {
           "created_at": "2026-10-19T19:55:59.000Z",
           "id": "2112271565538955334",
@@ -1079,10 +1071,15 @@
           "id": "2112976453247873190",
           "quoted_text": "Whop has raised $200M in Series D funding at a $5.1B valuation, backed by @sequoia and @shopify.\n\nIt really feels like we are barely touching the tip of the iceberg in a market larger than anyone can imagine.\n\nWe first launched Whop as a better way for us to sell sneaker bots, one of the most niche types of desktop software out there.\n\nTotal TAM? Probably $20,000 per day.\n\nWho cares, tiny market.\n\nBut, what people discounted is the idea that there were actually 70,000 other markets exactly like ",
           "text": "s/o the bros they're crushing it, one of the most underrated tech startups rn &amp; very important piece of the modern digital economy https://t.co/T21erbfwju"
+        },
+        {
+          "created_at": "2026-10-21T19:34:10.000Z",
+          "id": "2112990849126879570",
+          "quoted_text": "The largest agentic hackathon ever just concluded.\n\n$350K in cash, inference & token awards, operated by Clawpump, supported by @blknoiz06, @solana, @UsePodAI and @Pumpfun. \n\nIn one month: $50M+ in volume, $500K in creator fees paid out to 200+ builders, and the ecosystem's market cap up 3x to $74.26M.\n\nWhen we started 7 months ago, devs bootstrapping a company from public markets was just an idea. Today, ClawPump is the largest agentic developer platform on Solana.\n\nWe would like to congratulat",
+          "text": "winners of the clawpump x $ANSEM hackathon announced! has been cool to support builders in the ecosystem https://t.co/549F2dx7w2"
         }
       ],
       "reads": {
-        "2112224350330077223": "No call",
         "2112271565538955334": "No call",
         "2112531080255529061": "No call",
         "2112542104077705324": "No call",
@@ -1099,7 +1096,8 @@
         "2112916788426232161": "No call: bullish on sol (same view as before)",
         "2112958140862042489": "No call",
         "2112974503571783683": "No call",
-        "2112976453247873190": "No call"
+        "2112976453247873190": "No call",
+        "2112990849126879570": "No call"
       },
       "replies": [
         {
@@ -1194,12 +1192,6 @@
         }
       ],
       "threads": {
-        "2108380342608712030": {
-          "alerted": [
-            "trade:BTC:long"
-          ],
-          "self_replies": 0
-        },
         "2108380821682065433": {
           "alerted": [],
           "self_replies": 0
@@ -1618,10 +1610,13 @@
         "2112976453247873190": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112990849126879570": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112224350330077223": true,
         "2112271565538955334": true,
         "2112531080255529061": true,
         "2112542104077705324": true,
@@ -1655,7 +1650,8 @@
         "2112970081856569462": false,
         "2112972022250631523": false,
         "2112974503571783683": false,
-        "2112976453247873190": false
+        "2112976453247873190": false,
+        "2112990849126879570": true
       },
       "user_id": "973261472"
     },
@@ -5647,5 +5643,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T19:34:17+00:00"
+  "updated_at": "2026-10-21T19:38:21+00:00"
 }
