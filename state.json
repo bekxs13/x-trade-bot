@@ -831,12 +831,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2111899765323759684",
-          "reason": "\"not great spot tbh\", alts crushed, majors at last support, derisking more, and he warns of another -20% on majors, though he still expects a possible bounce.",
+          "post_id": "2112822435452174828",
+          "reason": "\"coins look good\" is a broad bullish read on crypto, flipping the recorded bearish crypto market view from 10-18.",
           "scope": "crypto market",
-          "since": "2026-10-18",
-          "stance": "bearish",
-          "updated_at": "2026-10-18T19:18:35.000Z"
+          "since": "2026-10-21",
+          "stance": "bullish",
+          "updated_at": "2026-10-21T08:24:57.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -920,7 +920,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112770152106168663",
+      "last_id": "2112822435452174828",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -940,12 +940,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-18T07:36:31.000Z",
-          "id": "2111723083107065935",
-          "quoted_text": "Nous sommes \u00e0 la conjonction des deux ph\u00e9nom\u00e8nes civilisationnels distincts qui m\u00e8nent \u00e0 la r\u00e9volution:\n\nLe premier : dans une soci\u00e9t\u00e9 d\u00e9mocratique, comme le notait Tocqueville, toute in\u00e9galit\u00e9 devient vite insupportable car il n\u2019y a plus que deux moyens d\u2019expliquer que certains r\u00e9ussissent mieux que soi-m\u00eame : la corruption du syst\u00e8me ou le m\u00e9rite. \nEt psychologiquement, sans surprise, on a plut\u00f4t tendance \u00e0 penser que ceux qui r\u00e9ussissent mieux que nous b\u00e9n\u00e9ficient d\u2019un syst\u00e8me corrompu sont p",
-          "text": ". https://t.co/DWLuIgxe6Q"
-        },
         {
           "created_at": "2026-10-18T08:18:02.000Z",
           "id": "2111733530757570629",
@@ -1082,10 +1076,14 @@
           "id": "2112770152106168663",
           "quoted_text": "@p_eng_uin @0xMerp @X its either a bug on X's internals side showing ghost sessions that dont exist or its a bug letting ppl get access somehow, either way theres no harm in removing sessions that you dont recognize",
           "text": "for clarity https://t.co/LXsEtIZkH2"
+        },
+        {
+          "created_at": "2026-10-21T08:24:57.000Z",
+          "id": "2112822435452174828",
+          "text": "coins look good"
         }
       ],
       "reads": {
-        "2111723083107065935": "No call",
         "2111733530757570629": "No call",
         "2111779407807574066": "No call",
         "2111898945169297708": "No call",
@@ -1103,7 +1101,8 @@
         "2112591153925332992": "No call",
         "2112646286117576850": "No call",
         "2112759509311422625": "No call",
-        "2112770152106168663": "No call"
+        "2112770152106168663": "No call",
+        "2112822435452174828": "VIEW bullish on crypto market"
       },
       "replies": [
         {
@@ -1201,10 +1200,6 @@
         }
       ],
       "threads": {
-        "2108135397746475145": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108177006030385475": {
           "alerted": [],
           "self_replies": 0
@@ -1627,10 +1622,15 @@
         "2112770152106168663": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112822435452174828": {
+          "alerted": [
+            "bias:crypto market:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111723083107065935": false,
         "2111733530757570629": true,
         "2111779407807574066": false,
         "2111898945169297708": true,
@@ -1664,7 +1664,8 @@
         "2112759509311422625": false,
         "2112764353480933514": false,
         "2112764582905479460": false,
-        "2112770152106168663": false
+        "2112770152106168663": false,
+        "2112822435452174828": true
       },
       "user_id": "973261472"
     },
@@ -5642,5 +5643,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-21T07:36:16+00:00"
+  "updated_at": "2026-10-21T08:26:23+00:00"
 }
