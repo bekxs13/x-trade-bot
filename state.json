@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113047882542534722",
+      "last_id": "2113048226035306499",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -122,11 +122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T04:06:25.000Z",
-          "id": "2112394986549567889",
-          "text": "The fact that they\u2019re doing - illiquid fuckery get out ya position - pa 20% off the lows seems hft bullish, to me"
-        },
         {
           "created_at": "2026-10-20T04:14:50.000Z",
           "id": "2112397102395638039",
@@ -236,10 +231,15 @@
           "created_at": "2026-10-21T23:20:48.000Z",
           "id": "2113047882542534722",
           "text": "Cloudflare great example of a company that derives a bullish narrative from like every single headline"
+        },
+        {
+          "created_at": "2026-10-21T23:22:10.000Z",
+          "id": "2113048226035306499",
+          "reply_to_id": "2113047882542534722",
+          "text": "New agent out? Bullish. Web traffic up? Bullish. Cyber risks? Bullish. Agentic commerce? Bullish. Gaming? Fuck it bullish"
         }
       ],
       "reads": {
-        "2112394986549567889": "No call: bullish on hype (55%, too unsure)",
         "2112397102395638039": "No call",
         "2112404175980302503": "No call",
         "2112409703527633055": "No call",
@@ -257,7 +257,8 @@
         "2112928183418798426": "No call",
         "2112994223343501334": "No call",
         "2113011860228260141": "No call",
-        "2113047882542534722": "No call"
+        "2113047882542534722": "No call",
+        "2113048226035306499": "No call"
       },
       "replies": [
         {
@@ -764,11 +765,10 @@
         },
         "2113047882542534722": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2112394986549567889": true,
         "2112397102395638039": false,
         "2112404175980302503": false,
         "2112409703527633055": false,
@@ -802,7 +802,8 @@
         "2113045626401263859": true,
         "2113046189721669821": true,
         "2113047089920045321": false,
-        "2113047882542534722": true
+        "2113047882542534722": true,
+        "2113048226035306499": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5642,5 +5643,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T23:22:19+00:00"
+  "updated_at": "2026-10-21T23:24:21+00:00"
 }
