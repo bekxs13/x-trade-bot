@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113048226035306499",
+      "last_id": "2113049049221730498",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -262,12 +262,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-20T17:04:32.000Z",
-          "id": "2112590803138654679",
-          "reply_to_id": "2112578091491147898",
-          "text": "@Wild_Randomness Yeah I think maybe, Fc crcl"
-        },
-        {
           "created_at": "2026-10-20T18:15:31.000Z",
           "id": "2112608667522781387",
           "reply_to_id": "2112604451194474621",
@@ -350,6 +344,12 @@
           "id": "2113047089920045321",
           "reply_to_id": "2113046877281141085",
           "text": "@taobanker Well when the consumer has a binary choice with low switching costs  (to me it\u2019s like night and day but even let\u2019s say it got to 90% similar) then 100% of marketplace flow goes to the 10% better option in the limit"
+        },
+        {
+          "created_at": "2026-10-21T23:25:26.000Z",
+          "id": "2113049049221730498",
+          "reply_to_id": "2113048908444377272",
+          "text": "@menhguin Yeah the whole factor was fucked up at that time I guess it could spin back that way"
         }
       ],
       "threads": {
@@ -781,7 +781,6 @@
         "2112548645140918300": true,
         "2112557082327306591": false,
         "2112585131580178472": false,
-        "2112590803138654679": true,
         "2112608667522781387": false,
         "2112609525803168165": true,
         "2112621771232825611": true,
@@ -803,7 +802,8 @@
         "2113046189721669821": true,
         "2113047089920045321": false,
         "2113047882542534722": true,
-        "2113048226035306499": true
+        "2113048226035306499": true,
+        "2113049049221730498": true
       },
       "user_id": "1446541960181858315"
     },
@@ -1983,7 +1983,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2113030784978436237",
+      "last_id": "2113049099050303673",
       "positions": {
         "AMZN": {
           "asset": "AMZN",
@@ -2159,12 +2159,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-19T19:24:14.000Z",
-          "id": "2112263573800136721",
-          "reply_to_id": "2112261213036188101",
-          "text": "@TheCryptoPuffin Appreciate the kind words dude truly"
-        },
-        {
           "created_at": "2026-10-19T19:35:35.000Z",
           "id": "2112266427998916913",
           "reply_to_id": "2112264624624308699",
@@ -2250,6 +2244,12 @@
           "id": "2113030784978436237",
           "reply_to_id": "2113008603598594423",
           "text": "@ymesxbt Mostly physical activity stuff at the moment"
+        },
+        {
+          "created_at": "2026-10-21T23:25:38.000Z",
+          "id": "2113049099050303673",
+          "reply_to_id": "2113047882542534722",
+          "text": "@based16z Been constantly looking for an entry on this shit and this may be as good as it gets"
         }
       ],
       "threads": {
@@ -2436,7 +2436,6 @@
         "2112237620696907810": true,
         "2112245189658255701": true,
         "2112246148148904222": true,
-        "2112263573800136721": false,
         "2112266427998916913": true,
         "2112271778794107062": false,
         "2112338778639729018": true,
@@ -2459,7 +2458,8 @@
         "2112990045208805756": false,
         "2112990361195000214": false,
         "2113030676949995946": false,
-        "2113030784978436237": false
+        "2113030784978436237": false,
+        "2113049099050303673": true
       },
       "user_id": "953032269433745408"
     },
@@ -5643,5 +5643,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T23:24:21+00:00"
+  "updated_at": "2026-10-21T23:26:21+00:00"
 }
