@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2112928183418798426",
+      "last_id": "2112939540276978071",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -264,12 +264,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-20T02:37:30.000Z",
-          "id": "2112372609543557260",
-          "reply_to_id": "2112091234659643548",
-          "text": "@xaviercaffrey13 I worked a cold email job with 30% response rate selling money I think if ur responses are lower ur top of funnel is too broad or ur product is fried"
-        },
-        {
           "created_at": "2026-10-20T04:03:24.000Z",
           "id": "2112394224092274720",
           "reply_to_id": "2112379530006729074",
@@ -352,6 +346,12 @@
           "id": "2112621771232825611",
           "reply_to_id": "2112540828807663941",
           "text": "@QQQ275Soon Have you heard of paper trade?"
+        },
+        {
+          "created_at": "2026-10-21T16:10:17.000Z",
+          "id": "2112939540276978071",
+          "reply_to_id": "2112939094917660694",
+          "text": "@dougleone Thank you Doug, very cool"
         }
       ],
       "threads": {
@@ -771,7 +771,6 @@
         }
       },
       "trading": {
-        "2112372609543557260": false,
         "2112373589009961438": true,
         "2112389241531703338": false,
         "2112393129869672825": false,
@@ -805,7 +804,8 @@
         "2112778748705808669": true,
         "2112909342429331544": false,
         "2112926995025990106": false,
-        "2112928183418798426": false
+        "2112928183418798426": false,
+        "2112939540276978071": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5640,5 +5640,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T16:02:21+00:00"
+  "updated_at": "2026-10-21T16:12:18+00:00"
 }
