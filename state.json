@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2112926995025990106",
+      "last_id": "2112928183418798426",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -122,14 +122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T01:17:08.000Z",
-          "id": "2112352384756457848",
-          "images": [
-            "https://pbs.twimg.com/media/HVCVSytasAAwlwg.jpg"
-          ],
-          "text": "https://t.co/66N46FBZRi"
-        },
         {
           "created_at": "2026-10-20T02:41:24.000Z",
           "id": "2112373589009961438",
@@ -241,10 +233,15 @@
           ],
           "quoted_text": "Whop has raised $200M in Series D funding at a $5.1B valuation, backed by @sequoia and @shopify.\n\nIt really feels like we are barely touching the tip of the iceberg in a market larger than anyone can imagine.\n\nWe first launched Whop as a better way for us to sell sneaker bots, one of the most niche types of desktop software out there.\n\nTotal TAM? Probably $20,000 per day.\n\nWho cares, tiny market.\n\nBut, what people discounted is the idea that there were actually 70,000 other markets exactly like ",
           "text": "https://t.co/L4nOI4go6f https://t.co/1QSfwOvkok"
+        },
+        {
+          "created_at": "2026-10-21T15:25:09.000Z",
+          "id": "2112928183418798426",
+          "reply_to_id": "2112926995025990106",
+          "text": "To me Whop still feels like seed stage even though it\u2019s making a lot of money \n\nFeels still underrated by the mkt that the most ambitious young ppl will do their own thing. And building a network for that will eventually make sense to everyone"
         }
       ],
       "reads": {
-        "2112352384756457848": "No call",
         "2112373589009961438": "No call",
         "2112389241531703338": "No call",
         "2112393129869672825": "No call",
@@ -262,7 +259,8 @@
         "2112585131580178472": "No call",
         "2112778748705808669": "No call",
         "2112909342429331544": "No call",
-        "2112926995025990106": "No call"
+        "2112926995025990106": "No call",
+        "2112928183418798426": "No call"
       },
       "replies": [
         {
@@ -769,11 +767,10 @@
         },
         "2112926995025990106": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2112352384756457848": false,
         "2112372609543557260": false,
         "2112373589009961438": true,
         "2112389241531703338": false,
@@ -807,7 +804,8 @@
         "2112621771232825611": true,
         "2112778748705808669": true,
         "2112909342429331544": false,
-        "2112926995025990106": false
+        "2112926995025990106": false,
+        "2112928183418798426": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5642,5 +5640,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T15:22:28+00:00"
+  "updated_at": "2026-10-21T15:26:25+00:00"
 }
