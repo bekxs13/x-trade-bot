@@ -3533,7 +3533,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2113017248151699927",
+      "last_id": "2113047220778049862",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3569,12 +3569,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-16T19:39:46.000Z",
-          "id": "2111180317218455782",
-          "reply_to_id": "2111179505331290411",
-          "text": "@ThinkingUSD @SoskaKyle peter borish"
-        },
         {
           "created_at": "2026-10-17T15:13:53.000Z",
           "id": "2111475796993015853",
@@ -3688,6 +3682,15 @@
           "created_at": "2026-10-21T12:38:47.000Z",
           "id": "2112886312210747578",
           "text": "MARKET OPEN: Did PumpFun SAVE ONCHAIN?, I BOUGHT CRYPTO BACK, Citrini, BIO &amp; the Future of BALDING https://t.co/P39bZdV5QF"
+        },
+        {
+          "created_at": "2026-10-21T23:18:10.000Z",
+          "id": "2113047220778049862",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2113042403032752128/img/QGo8G0eJrIw7RseD.jpg"
+          ],
+          "quoted_text": "MAYBE I WAS WRONG ABOUT BLOCKCHAIN TECHNOLOGY\n\nI wrote about how I always used to make fun of the guys who said things like \"Bitcoin is speculative, but the underlying blockchain technology is interesting.\" And now I think maybe they kinda had a point. https://t.co/X1gghCsRge",
+          "text": "MAYBE I WAS WRONG ABOUT BLOCKCHAIN TECHNOLOGY in video form (with a few takes) https://t.co/Cv2x3Cu29H https://t.co/UPKdDhTuTR"
         }
       ],
       "reads": {
@@ -3706,7 +3709,8 @@
         "2112631379502506077": "No call",
         "2112705823197855757": "VIEW bearish on stocks/macro",
         "2112710480011591849": "TRADE LONG ZEC \u00b7 VIEW bullish on crypto market",
-        "2112886312210747578": "No call"
+        "2112886312210747578": "No call",
+        "2113047220778049862": "No call"
       },
       "replies": [
         {
@@ -4019,10 +4023,13 @@
         "2112886312210747578": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113047220778049862": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111180317218455782": false,
         "2111475796993015853": true,
         "2111488674076778592": false,
         "2111944213352919424": true,
@@ -4056,7 +4063,8 @@
         "2112995389402194221": false,
         "2112995545849409541": false,
         "2113014930878103640": false,
-        "2113017248151699927": false
+        "2113017248151699927": false,
+        "2113047220778049862": true
       },
       "user_id": "1426732252768182281"
     },
@@ -5634,5 +5642,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T23:18:19+00:00"
+  "updated_at": "2026-10-21T23:20:28+00:00"
 }
