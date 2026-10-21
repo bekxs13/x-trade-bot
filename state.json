@@ -921,7 +921,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112759509311422625",
+      "last_id": "2112764582905479460",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1110,18 +1110,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-20T12:59:49.000Z",
-          "id": "2112529218219213025",
-          "reply_to_id": "2112455126590083131",
-          "text": "@Saint10Fourteen dev is back"
-        },
-        {
-          "created_at": "2026-10-20T17:01:06.000Z",
-          "id": "2112589942572646822",
-          "reply_to_id": "2112589768542257528",
-          "text": "@Sp1cytrenches still true"
-        },
-        {
           "created_at": "2026-10-20T17:22:52.000Z",
           "id": "2112595417275998518",
           "reply_to_id": "2112529469562855867",
@@ -1201,6 +1189,18 @@
           "id": "2112631869892427955",
           "reply_to_id": "2112625912017465368",
           "text": "@TheStalwart nice"
+        },
+        {
+          "created_at": "2026-10-21T04:34:09.000Z",
+          "id": "2112764353480933514",
+          "reply_to_id": "2112763944888651962",
+          "text": "@p_eng_uin @0xMerp @X its either a bug on X's internals side showing ghost sessions that dont exist or its a bug letting ppl get access somehow, either way theres no harm in removing sessions that you dont recognize"
+        },
+        {
+          "created_at": "2026-10-21T04:35:04.000Z",
+          "id": "2112764582905479460",
+          "reply_to_id": "2112760879179604022",
+          "text": "@elchefdesol @X no that was me lol"
         }
       ],
       "threads": {
@@ -1646,11 +1646,9 @@
         "2112036503463546953": true,
         "2112224350330077223": true,
         "2112271565538955334": true,
-        "2112529218219213025": true,
         "2112531080255529061": true,
         "2112542104077705324": true,
         "2112585897531334903": true,
-        "2112589942572646822": false,
         "2112591153925332992": true,
         "2112595417275998518": false,
         "2112597941181432118": false,
@@ -1667,7 +1665,9 @@
         "2112624925953392800": false,
         "2112631869892427955": false,
         "2112646286117576850": true,
-        "2112759509311422625": false
+        "2112759509311422625": false,
+        "2112764353480933514": false,
+        "2112764582905479460": false
       },
       "user_id": "973261472"
     },
@@ -5645,5 +5645,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-21T04:16:21+00:00"
+  "updated_at": "2026-10-21T04:36:21+00:00"
 }
