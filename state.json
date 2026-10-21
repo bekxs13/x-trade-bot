@@ -918,7 +918,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2113014893809205471",
+      "last_id": "2113015427983151488",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1089,18 +1089,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-20T19:47:43.000Z",
-          "id": "2112631869892427955",
-          "reply_to_id": "2112625912017465368",
-          "text": "@TheStalwart nice"
-        },
-        {
-          "created_at": "2026-10-21T04:34:09.000Z",
-          "id": "2112764353480933514",
-          "reply_to_id": "2112763944888651962",
-          "text": "@p_eng_uin @0xMerp @X its either a bug on X's internals side showing ghost sessions that dont exist or its a bug letting ppl get access somehow, either way theres no harm in removing sessions that you dont recognize"
-        },
-        {
           "created_at": "2026-10-21T04:35:04.000Z",
           "id": "2112764582905479460",
           "reply_to_id": "2112760879179604022",
@@ -1177,6 +1165,18 @@
           "id": "2113012660656578845",
           "reply_to_id": "2112970060986024246",
           "text": "the question was not \"do traders want to be celebrities\" it was asking is there validity to the claim\n\nit is easy to understand how someone who is self-made from trading would be the same recognition as other very popular individuals, especially if they have the same PNLs as the best quants at these funds\n\ni would agree with you that most do not want to be famous, it is much less stress to just be rich and not help people"
+        },
+        {
+          "created_at": "2026-10-21T21:10:42.000Z",
+          "id": "2113015142338478158",
+          "reply_to_id": "2113015068590047400",
+          "text": "@CryptoCurb incredible truly"
+        },
+        {
+          "created_at": "2026-10-21T21:11:50.000Z",
+          "id": "2113015427983151488",
+          "reply_to_id": "2113014646676340797",
+          "text": "@youngstar898 @wizardofsoho 99%"
         }
       ],
       "threads": {
@@ -1607,10 +1607,8 @@
       "trading": {
         "2112591153925332992": true,
         "2112624489053688214": false,
-        "2112631869892427955": false,
         "2112646286117576850": true,
         "2112759509311422625": false,
-        "2112764353480933514": false,
         "2112764582905479460": false,
         "2112770152106168663": false,
         "2112822435452174828": true,
@@ -1639,7 +1637,9 @@
         "2113010437587718563": true,
         "2113011777873072248": false,
         "2113012660656578845": false,
-        "2113014893809205471": true
+        "2113014893809205471": true,
+        "2113015142338478158": false,
+        "2113015427983151488": false
       },
       "user_id": "973261472"
     },
@@ -5631,5 +5631,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T21:10:27+00:00"
+  "updated_at": "2026-10-21T21:12:20+00:00"
 }
