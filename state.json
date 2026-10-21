@@ -1995,7 +1995,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2112982706032464198",
+      "last_id": "2112985085033250998",
       "positions": {
         "AMZN": {
           "asset": "AMZN",
@@ -2031,12 +2031,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T05:59:37.000Z",
-          "id": "2110611535366431099",
-          "reply_to_id": "2102215679617421371",
-          "text": "Just had to be patient, clear range and then updated views into more bearish into eventual breakdown and alts led that far before btc\n\nAssuming hold below 81 = yeah blood would be much more severe soon for alts"
-        },
         {
           "created_at": "2026-10-15T16:31:10.000Z",
           "id": "2110770468592734263",
@@ -2148,10 +2142,15 @@
           "id": "2112982706032464198",
           "quoted_text": "Positioning is goog amzn overweighted, Brk leaps, 50% spot long trad, 0% spot crypto, no perp positions crypto \n\nLooking for crypto over yearly open or break below 80s for alt longs, alts prob lead the bottom\n\nLooking for specific options plays in trad and spot adds if we get some more weakness (base case atm)",
           "text": "Closing the over allocated levered parts of goog amzn mostly for a wash, ewy short hedge ended up being the entire play unexpectedly \n\n50% spot trad 0% spot crypto brk leaps (brk ath yay) \n\nWaiting for inspiration for next play for lev in both markets \n\nTradfi is in weird spot of previously hottest sectors having such fundamentally shattered charts and narratives in the short to mid term that the market is not going to be able to definably trend or take signal from there, seems like need chop and sort stuff out plus earnings hence my mags and more defensive spot plays \n\nPost ewy short no need to rush there \n\nCrypto still biggest level is Y/O but some alts look more constructive, watching for perp plays, have couple things in mind but no trigger yet"
+        },
+        {
+          "created_at": "2026-10-21T19:10:32.000Z",
+          "id": "2112984901456949469",
+          "reply_to_id": "2112982706032464198",
+          "text": "\u201cRhino how do you stay so patient\u201d \n\nExperience for one thing, I simply hate losing money and know if I wait long enough, the market will provide me with incredible opportunities\n\nOver a decade in the market makes me confident I can spot many of these opportunities \n\nAnd lastly, hobbies. Managing the dead time in trading is a skill as well, you just stay well balanced (this is later in your career after the obsessive trillions of hours no sleep for years phase to build up reps)"
         }
       ],
       "reads": {
-        "2110611535366431099": "No call: bearish on alts (same view as before)",
         "2110770468592734263": "TRADE EXIT EWY",
         "2110770912429838604": "No call",
         "2111144245436506126": "No call: bearish on alts (same view as before)",
@@ -2167,15 +2166,10 @@
         "2112341081329463774": "No call",
         "2112341894554648629": "No call",
         "2112978966105751868": "No call",
-        "2112982706032464198": "TRADE TRIM GOOG, AMZN"
+        "2112982706032464198": "TRADE TRIM GOOG, AMZN",
+        "2112984901456949469": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-19T18:21:39.000Z",
-          "id": "2112247822418645083",
-          "reply_to_id": "2112245452204634552",
-          "text": "@WBigbucks Less focused on specific btc price than watching former leading alts"
-        },
         {
           "created_at": "2026-10-19T18:22:50.000Z",
           "id": "2112248123569704977",
@@ -2262,6 +2256,12 @@
           "id": "2112979684057358458",
           "reply_to_id": "2112979092823855189",
           "text": "@cepdood Can\u2019t be fkd to care, everyone with eyes knows where and what this space is trending toward"
+        },
+        {
+          "created_at": "2026-10-21T19:11:16.000Z",
+          "id": "2112985085033250998",
+          "reply_to_id": "2112983497325301961",
+          "text": "@toptickcrypto Someone disliked is doing things that are disliked \n\n\ud83d\udc41\ud83d\udc44\ud83d\udc41"
         }
       ],
       "threads": {
@@ -2433,11 +2433,10 @@
           "alerted": [
             "trade:GOOG, AMZN:trim"
           ],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2110611535366431099": true,
         "2110770468592734263": true,
         "2110770912429838604": true,
         "2111144245436506126": true,
@@ -2450,7 +2449,6 @@
         "2112237620696907810": true,
         "2112245189658255701": true,
         "2112246148148904222": true,
-        "2112247822418645083": true,
         "2112248123569704977": false,
         "2112253255657136486": false,
         "2112253393087680709": false,
@@ -2471,7 +2469,9 @@
         "2112974031947452896": false,
         "2112978966105751868": false,
         "2112979684057358458": false,
-        "2112982706032464198": true
+        "2112982706032464198": true,
+        "2112984901456949469": true,
+        "2112985085033250998": false
       },
       "user_id": "953032269433745408"
     },
@@ -5647,5 +5647,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T19:02:29+00:00"
+  "updated_at": "2026-10-21T19:12:20+00:00"
 }
