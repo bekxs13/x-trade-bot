@@ -1995,7 +1995,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2112974031947452896",
+      "last_id": "2112978966105751868",
       "positions": {
         "AMZN": {
           "asset": "AMZN",
@@ -2031,12 +2031,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T01:51:39.000Z",
-          "id": "2110549132578554226",
-          "reply_to_id": "2109778560567402878",
-          "text": "Yeaaaaah"
-        },
         {
           "created_at": "2026-10-15T02:17:43.000Z",
           "id": "2110555688523219037",
@@ -2149,6 +2143,11 @@
           "id": "2112974031947452896",
           "reply_to_id": "2110450730079510702",
           "text": "It is better to ignore the people who deserve to be ignored, my feed is full of slop arguments today"
+        },
+        {
+          "created_at": "2026-10-21T18:46:57.000Z",
+          "id": "2112978966105751868",
+          "text": "There is hella complaining about retarded shit today good lord \n\nGood morning friends"
         }
       ],
       "reads": {
@@ -2166,7 +2165,8 @@
         "2112338778639729018": "No call",
         "2112340063950631326": "No call",
         "2112341081329463774": "No call",
-        "2112341894554648629": "No call"
+        "2112341894554648629": "No call",
+        "2112978966105751868": "No call"
       },
       "replies": [
         {
@@ -2423,10 +2423,13 @@
         "2112341081329463774": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2112978966105751868": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2110549132578554226": false,
         "2110555688523219037": true,
         "2110611535366431099": true,
         "2110770468592734263": true,
@@ -2460,7 +2463,8 @@
         "2112644649953488944": false,
         "2112684420562035139": false,
         "2112684759222759756": false,
-        "2112974031947452896": false
+        "2112974031947452896": false,
+        "2112978966105751868": false
       },
       "user_id": "953032269433745408"
     },
@@ -5636,5 +5640,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T18:38:28+00:00"
+  "updated_at": "2026-10-21T18:48:20+00:00"
 }
