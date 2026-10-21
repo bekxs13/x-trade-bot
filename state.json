@@ -3534,7 +3534,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2113047220778049862",
+      "last_id": "2113056641188815241",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3570,15 +3570,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-17T15:13:53.000Z",
-          "id": "2111475796993015853",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2111475758883315713/img/lTuKhvsew9zi2X6H.jpg"
-          ],
-          "quoted_text": "My full conversation with @based16z \n\n0:19 the Hyperliquid call\n5:01 almost losing his $HYPE airdrop\n8:27 life after life changing money\n10:12 dating a billionaire's daughter\n14:37 from online poker to Crypto\n16:40 two trades made his year\n20:56 the Snapchat trade\n27:43 Sydney Sweeney $AEO trade\n31:14 posters move markets\n41:42 loot and rob\n44:23 advice for a 20 year old\n47:23 math lore\n51:49 why he has no social media",
-          "text": "https://t.co/JWSY9U8XKS https://t.co/gjDfDGcOPQ"
-        },
         {
           "created_at": "2026-10-17T16:05:04.000Z",
           "id": "2111488674076778592",
@@ -3692,10 +3683,14 @@
           ],
           "quoted_text": "MAYBE I WAS WRONG ABOUT BLOCKCHAIN TECHNOLOGY\n\nI wrote about how I always used to make fun of the guys who said things like \"Bitcoin is speculative, but the underlying blockchain technology is interesting.\" And now I think maybe they kinda had a point. https://t.co/X1gghCsRge",
           "text": "MAYBE I WAS WRONG ABOUT BLOCKCHAIN TECHNOLOGY in video form (with a few takes) https://t.co/Cv2x3Cu29H https://t.co/UPKdDhTuTR"
+        },
+        {
+          "created_at": "2026-10-21T23:55:36.000Z",
+          "id": "2113056641188815241",
+          "text": "who is the best cybersecurity expert i can invite on stream tomorrow to explain wtf is happening"
         }
       ],
       "reads": {
-        "2111475796993015853": "No call",
         "2111944213352919424": "No call",
         "2111944930092294530": "No call",
         "2112175913647395226": "No call",
@@ -3711,7 +3706,8 @@
         "2112705823197855757": "VIEW bearish on stocks/macro",
         "2112710480011591849": "TRADE LONG ZEC \u00b7 VIEW bullish on crypto market",
         "2112886312210747578": "No call",
-        "2113047220778049862": "No call"
+        "2113047220778049862": "No call",
+        "2113056641188815241": "No call"
       },
       "replies": [
         {
@@ -4028,10 +4024,13 @@
         "2113047220778049862": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113056641188815241": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111475796993015853": true,
         "2111488674076778592": false,
         "2111944213352919424": true,
         "2111944930092294530": true,
@@ -4065,7 +4064,8 @@
         "2112995545849409541": false,
         "2113014930878103640": false,
         "2113017248151699927": false,
-        "2113047220778049862": true
+        "2113047220778049862": true,
+        "2113056641188815241": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5643,5 +5643,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T23:40:18+00:00"
+  "updated_at": "2026-10-21T23:56:22+00:00"
 }
