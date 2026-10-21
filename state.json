@@ -920,7 +920,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112910702847353332",
+      "last_id": "2112911823888679254",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -940,12 +940,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-18T19:18:35.000Z",
-          "id": "2111899765323759684",
-          "quoted_text": "$90k by end of the week",
-          "text": "got smoked on this btw\n\nequities & stock momo leaders put in nasty weekly candles across board\n\nalts got crushed & majors at their last major support levels\n\nnot great spot tbh, cut longs & likely derisking more before open - do think we're due for a bounce but the alternative is another -20% on majors"
-        },
         {
           "created_at": "2026-10-18T19:36:05.000Z",
           "id": "2111904166327222564",
@@ -1080,10 +1074,14 @@
           "created_at": "2026-10-21T14:15:42.000Z",
           "id": "2112910702847353332",
           "text": "we back on that unc shit"
+        },
+        {
+          "created_at": "2026-10-21T14:20:09.000Z",
+          "id": "2112911823888679254",
+          "text": "alpenglow live?"
         }
       ],
       "reads": {
-        "2111899765323759684": "TRADE EXIT BTC \u00b7 VIEW bearish on crypto market",
         "2111904166327222564": "VIEW bearish on eth",
         "2111906147116413196": "No call",
         "2111910811153105043": "No call",
@@ -1101,7 +1099,8 @@
         "2112822435452174828": "VIEW bullish on crypto market",
         "2112823888207921408": "No call: bullish on alts (same view as before)",
         "2112890596272792053": "No call",
-        "2112910702847353332": "No call"
+        "2112910702847353332": "No call",
+        "2112911823888679254": "No call"
       },
       "replies": [
         {
@@ -1196,10 +1195,6 @@
         }
       ],
       "threads": {
-        "2108226061574054357": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108360362089414810": {
           "alerted": [],
           "self_replies": 0
@@ -1624,10 +1619,13 @@
         "2112910702847353332": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112911823888679254": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111899765323759684": true,
         "2111904166327222564": true,
         "2111906147116413196": false,
         "2111910811153105043": true,
@@ -1661,7 +1659,8 @@
         "2112899209263235096": false,
         "2112901983904354506": false,
         "2112902647661342734": false,
-        "2112910702847353332": false
+        "2112910702847353332": false,
+        "2112911823888679254": true
       },
       "user_id": "973261472"
     },
@@ -5643,5 +5642,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T14:16:26+00:00"
+  "updated_at": "2026-10-21T14:22:23+00:00"
 }
