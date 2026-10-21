@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2112621771232825611",
+      "last_id": "2112778748705808669",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -122,12 +122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-19T22:21:45.000Z",
-          "id": "2112308247931867339",
-          "quoted_text": "A leading candidate for France\u2019s Presidency is proposing that France cancel its debt.",
-          "text": "$BTC https://t.co/BGEsaVXZK3"
-        },
         {
           "created_at": "2026-10-20T00:52:55.000Z",
           "id": "2112346288444641698",
@@ -239,10 +233,14 @@
             "https://pbs.twimg.com/media/HVFo-o9XUAAw8CS.jpg"
           ],
           "text": "Highly productive economy https://t.co/vIWPiW13LW"
+        },
+        {
+          "created_at": "2026-10-21T05:31:21.000Z",
+          "id": "2112778748705808669",
+          "text": "You can sleep everything"
         }
       ],
       "reads": {
-        "2112308247931867339": "No call: bullish on btc (same view as before)",
         "2112346288444641698": "No call: bearish on hyperevm tokens (55%, too unsure)",
         "2112347277159477571": "No call",
         "2112352384756457848": "No call",
@@ -260,7 +258,8 @@
         "2112546317180481596": "Read together with the post it replies to",
         "2112548645140918300": "No call",
         "2112557082327306591": "No call",
-        "2112585131580178472": "No call"
+        "2112585131580178472": "No call",
+        "2112778748705808669": "No call"
       },
       "replies": [
         {
@@ -355,10 +354,6 @@
         }
       ],
       "threads": {
-        "2108941422502301936": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108963537532186879": {
           "alerted": [],
           "self_replies": 0
@@ -768,10 +763,13 @@
         "2112585131580178472": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112778748705808669": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112308247931867339": true,
         "2112346288444641698": true,
         "2112347277159477571": true,
         "2112352384756457848": false,
@@ -805,7 +803,8 @@
         "2112590803138654679": true,
         "2112608667522781387": false,
         "2112609525803168165": true,
-        "2112621771232825611": true
+        "2112621771232825611": true,
+        "2112778748705808669": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5643,5 +5642,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-21T04:58:23+00:00"
+  "updated_at": "2026-10-21T05:32:22+00:00"
 }
