@@ -921,7 +921,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112968322824434012",
+      "last_id": "2112970081856569462",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -941,12 +941,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-18T20:02:29.000Z",
-          "id": "2111910811153105043",
-          "quoted_text": "Timeline is full of everyone telling everyone about how everyone is bearish and how when everyone is bearish the market can\u2019t go down. Interesting.",
-          "text": "yea this is the worst kind of analysis you can do btw\n\nthere is no \"everyone\" there's your own positions and your invalidations, nothing more nothing less https://t.co/OS105wXEW7"
-        },
         {
           "created_at": "2026-10-19T03:50:24.000Z",
           "id": "2112028564987990046",
@@ -1080,10 +1074,15 @@
             "https://pbs.twimg.com/amplify_video_thumb/2112958025980133376/img/BNWpu0h0Ea058noH.jpg"
           ],
           "text": "the rise of traders as celebrities makes a lot of sense to me\n\nmost people can't realistically become the next LeBron, but they can learn how to trade from someone who started out just like them\n\nthat relatability, combined with the potential to make money, creates a different kind of connection between traders and their audiences\n\ni expect that to become a bigger part of the social trading"
+        },
+        {
+          "created_at": "2026-10-21T18:11:39.000Z",
+          "id": "2112970081856569462",
+          "reply_to_id": "2112970011174469648",
+          "text": "@tomkysar upper bound is livermore \ud83d\ude80"
         }
       ],
       "reads": {
-        "2111910811153105043": "No call",
         "2112028564987990046": "VIEW bullish on PAPER",
         "2112036503463546953": "No call",
         "2112224350330077223": "No call",
@@ -1104,12 +1103,6 @@
         "2112958140862042489": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-20T18:58:13.000Z",
-          "id": "2112619414013296905",
-          "reply_to_id": "2112618502913667200",
-          "text": "@tulipking what do u rank this compared to ur btc holdings size wise"
-        },
         {
           "created_at": "2026-10-20T19:18:11.000Z",
           "id": "2112624437074047334",
@@ -1193,6 +1186,12 @@
           "id": "2112968322824434012",
           "reply_to_id": "2112967257009860870",
           "text": "@Gyuman82 i dont claim to be, the question was posed asking our thoughts"
+        },
+        {
+          "created_at": "2026-10-21T18:11:22.000Z",
+          "id": "2112970011174469648",
+          "reply_to_id": "2112964334133637193",
+          "text": "@tomkysar i dont think most aspire to be, it will kind of just be a side effect of social media &amp; finance blending together"
         }
       ],
       "threads": {
@@ -1627,7 +1626,6 @@
         }
       },
       "trading": {
-        "2111910811153105043": true,
         "2112028564987990046": true,
         "2112036503463546953": true,
         "2112224350330077223": true,
@@ -1636,7 +1634,6 @@
         "2112542104077705324": true,
         "2112585897531334903": true,
         "2112591153925332992": true,
-        "2112619414013296905": true,
         "2112624437074047334": true,
         "2112624489053688214": false,
         "2112624925953392800": false,
@@ -1661,7 +1658,9 @@
         "2112958140862042489": true,
         "2112962071889596484": false,
         "2112968179215409578": false,
-        "2112968322824434012": false
+        "2112968322824434012": false,
+        "2112970011174469648": false,
+        "2112970081856569462": false
       },
       "user_id": "973261472"
     },
@@ -5643,5 +5642,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T18:06:19+00:00"
+  "updated_at": "2026-10-21T18:12:20+00:00"
 }
