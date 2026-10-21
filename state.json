@@ -920,7 +920,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112902647661342734",
+      "last_id": "2112910702847353332",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -940,14 +940,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-18T19:15:20.000Z",
-          "id": "2111898945169297708",
-          "images": [
-            "https://pbs.twimg.com/media/HU745WyWEAAZLDW.jpg"
-          ],
-          "text": "they dont know tomorrow is black monday https://t.co/90Bnbhg92b"
-        },
         {
           "created_at": "2026-10-18T19:18:35.000Z",
           "id": "2111899765323759684",
@@ -1083,10 +1075,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2112890521949818880/img/6W-8ZhmiDwFLteKa.jpg"
           ],
           "text": "i like the idea of running a barbell strategy in crypto, keeping most of your capital in high-conviction assets while allocating a smaller portion to higher-risk opportunities\n\na 70/30 split is a reasonable framework for how i think about it\n\nthe speculative side gives you room to trade memes, perps and emerging onchain trends without putting your entire portfolio at risk\n\nthe goal is to compound gains from those opportunities into longer-term positions while keeping your overall exposure manageable"
+        },
+        {
+          "created_at": "2026-10-21T14:15:42.000Z",
+          "id": "2112910702847353332",
+          "text": "we back on that unc shit"
         }
       ],
       "reads": {
-        "2111898945169297708": "No call",
         "2111899765323759684": "TRADE EXIT BTC \u00b7 VIEW bearish on crypto market",
         "2111904166327222564": "VIEW bearish on eth",
         "2111906147116413196": "No call",
@@ -1104,7 +1100,8 @@
         "2112770152106168663": "No call",
         "2112822435452174828": "VIEW bullish on crypto market",
         "2112823888207921408": "No call: bullish on alts (same view as before)",
-        "2112890596272792053": "No call"
+        "2112890596272792053": "No call",
+        "2112910702847353332": "No call"
       },
       "replies": [
         {
@@ -1199,10 +1196,6 @@
         }
       ],
       "threads": {
-        "2108188479389626604": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108226061574054357": {
           "alerted": [],
           "self_replies": 0
@@ -1627,10 +1620,13 @@
         "2112890596272792053": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112910702847353332": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111898945169297708": true,
         "2111899765323759684": true,
         "2111904166327222564": true,
         "2111906147116413196": false,
@@ -1664,7 +1660,8 @@
         "2112890596272792053": true,
         "2112899209263235096": false,
         "2112901983904354506": false,
-        "2112902647661342734": false
+        "2112902647661342734": false,
+        "2112910702847353332": false
       },
       "user_id": "973261472"
     },
@@ -5646,5 +5643,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T14:12:24+00:00"
+  "updated_at": "2026-10-21T14:16:26+00:00"
 }
