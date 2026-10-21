@@ -918,7 +918,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2113012660656578845",
+      "last_id": "2113014893809205471",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -938,15 +938,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T16:45:02.000Z",
-          "id": "2112585897531334903",
-          "images": [
-            "https://pbs.twimg.com/media/HVFnJgCXYAAoF2h.jpg"
-          ],
-          "quoted_text": "Today, Venice passed 5,000,000 users.\n\nStill private. Still anonymous. Still unrestricted.\n\nThank you to every builder, creator, and free thinker on Venice. https://t.co/Ci5aK6b9dY",
-          "text": "if you aren't paying attention to venice ai, you should be.\n\n- 5 million users\n- API Calls are up 400% since July \n\nthis is fueling $10.4M/yr burn for base:0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf https://t.co/digBqvUTAI https://t.co/im2s4BVCKP"
-        },
         {
           "created_at": "2026-10-20T17:05:55.000Z",
           "id": "2112591153925332992",
@@ -1069,10 +1060,14 @@
           "created_at": "2026-10-21T20:57:20.000Z",
           "id": "2113011777873072248",
           "text": "i like people who are good writers"
+        },
+        {
+          "created_at": "2026-10-21T21:09:43.000Z",
+          "id": "2113014893809205471",
+          "text": "they really shook me out of longs at the stone low"
         }
       ],
       "reads": {
-        "2112585897531334903": "VIEW bullish on VVV",
         "2112591153925332992": "No call",
         "2112646286117576850": "No call",
         "2112759509311422625": "No call",
@@ -1089,7 +1084,8 @@
         "2112990849126879570": "No call",
         "2113009457592517059": "No call",
         "2113010437587718563": "No call",
-        "2113011777873072248": "No call"
+        "2113011777873072248": "No call",
+        "2113014893809205471": "No call: maybe exit  (55%, too unsure)"
       },
       "replies": [
         {
@@ -1184,10 +1180,6 @@
         }
       ],
       "threads": {
-        "2108424862570361285": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108443167758364916": {
           "alerted": [],
           "self_replies": 0
@@ -1606,10 +1598,13 @@
         "2113011777873072248": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113014893809205471": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112585897531334903": true,
         "2112591153925332992": true,
         "2112624489053688214": false,
         "2112631869892427955": false,
@@ -1643,7 +1638,8 @@
         "2113009457592517059": true,
         "2113010437587718563": true,
         "2113011777873072248": false,
-        "2113012660656578845": false
+        "2113012660656578845": false,
+        "2113014893809205471": true
       },
       "user_id": "973261472"
     },
@@ -3534,7 +3530,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2112995545849409541",
+      "last_id": "2113014930878103640",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3711,12 +3707,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-20T22:47:24.000Z",
-          "id": "2112677089040277907",
-          "reply_to_id": "2112677000800559460",
-          "text": "@rektmando just and me left buddy"
-        },
-        {
           "created_at": "2026-10-21T00:46:17.000Z",
           "id": "2112707009208590756",
           "reply_to_id": "2112706504121819143",
@@ -3799,6 +3789,12 @@
           "id": "2112995545849409541",
           "reply_to_id": "2112990723264098351",
           "text": "@JxsonBx it's being uploaded right now"
+        },
+        {
+          "created_at": "2026-10-21T21:09:52.000Z",
+          "id": "2113014930878103640",
+          "reply_to_id": "2113014893809205471",
+          "text": "@blknoiz06 unbelievable truly"
         }
       ],
       "threads": {
@@ -4039,7 +4035,6 @@
         "2112603207977636243": false,
         "2112622436298674308": false,
         "2112631379502506077": true,
-        "2112677089040277907": false,
         "2112705823197855757": true,
         "2112707009208590756": false,
         "2112710480011591849": true,
@@ -4057,7 +4052,8 @@
         "2112972174806110566": false,
         "2112995258166325606": false,
         "2112995389402194221": false,
-        "2112995545849409541": false
+        "2112995545849409541": false,
+        "2113014930878103640": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5635,5 +5631,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T21:02:19+00:00"
+  "updated_at": "2026-10-21T21:10:27+00:00"
 }
