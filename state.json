@@ -3525,12 +3525,12 @@
       "biases": {
         "crypto market": {
           "market": "crypto",
-          "post_id": "2109787880365203583",
-          "reason": "Calls crypto a \"locally exhausted asset class\" after the flush that can't V back to ATH and \"has to build a base\". Longer term he is bullish (\"golden era\"), but the near-term lean is bearish or chop.",
+          "post_id": "2112710480011591849",
+          "reason": "Calls crypto \"the perfect hedge\" while the AI trade unravels and says selling his coins makes no sense. That flips his recorded bearish crypto view.",
           "scope": "crypto market",
-          "since": "2026-10-12",
-          "stance": "bearish",
-          "updated_at": "2026-10-12T23:26:43.000Z"
+          "since": "2026-10-21",
+          "stance": "bullish",
+          "updated_at": "2026-10-21T01:00:05.000Z"
         },
         "stocks/macro": {
           "market": "stocks",
@@ -3544,7 +3544,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2112707009208590756",
+      "last_id": "2112710480011591849",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3561,14 +3561,25 @@
           "since": "2026-10-12T23:26:43.000Z",
           "structure": "unknown",
           "url": "https://x.com/notthreadguy/status/2109787880365203583"
+        },
+        "ZEC": {
+          "asset": "ZEC",
+          "chain": "",
+          "confidence": 0.92,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "",
+          "market": "crypto",
+          "open_price": null,
+          "post_id": "2112710480011591849",
+          "reason": "\"So ya I bought some zcash\" is a stated new long, framed with crypto as a hedge to the AI unwind.",
+          "since": "2026-10-21T01:00:05.000Z",
+          "structure": "spot",
+          "url": "https://x.com/notthreadguy/status/2112710480011591849"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-15T23:10:38.000Z",
-          "id": "2110870996337230266",
-          "text": "the amc &lt;&gt; robinhood beef is so funny because the ceo is screaming at vlad and literally nobody cares"
-        },
         {
           "created_at": "2026-10-16T01:07:02.000Z",
           "id": "2110900288483651945",
@@ -3681,10 +3692,15 @@
           "created_at": "2026-10-21T00:41:35.000Z",
           "id": "2112705823197855757",
           "text": "the ai trade is unraveling and bitcoin isn't going down because nobody smart held bitcoin"
+        },
+        {
+          "created_at": "2026-10-21T01:00:05.000Z",
+          "id": "2112710480011591849",
+          "reply_to_id": "2112705823197855757",
+          "text": "there's this conocial moment in more money than god where greenspan raises rates to get ahead of inflation in 1994? I think? and the market reacts unexpectadly with leverage panic selling us bonds (yields rip higher) AND a euro/japan bond selloff as well (yields rip crazy)\n\nAnd there's this revelation of holy fuck assets no longer trade in a silo, hedge funds are big enough to transmit shocks across markets and they trade everything. They run this now. that's why if say gold is supposed to act as a risk off hedge inversely correlated with risk, if nvda has a terrible miss and dumps -15% gold is going down with it bc people need to sell to cover\n\nso zooming out over the last couple weeks we've watched the ai trade start to unravel - I know spy is -2% or whatever but i think it's fair to say Kospi -40%, Dram  -43% etc an unraveling and bitcoin/crypto hasn't gone down, at all. Well it's because nobody fucking holds any. None of the biggest funds hold, literally any\n\nThe entire market has a coorelation of fucking 1 to AI and crypto is just standing there as the perfect hedge in the middle of once in a multi decade wealth generation event uniquely reserved for the demographic that understands it the most. I just don't think selling the few coins I like because dram might leg down another 10% makes a lot of sense as it hasn't been happening at all\n\nSo ya I bought some zcash\n\nAlso im sure a lot of my nuance in this take is wrong because im not a fucking macro larp but i'm reading the book now and it felt relevant good luck"
         }
       ],
       "reads": {
-        "2110870996337230266": "No call",
         "2110900288483651945": "No call",
         "2111074640328262026": "No call",
         "2111475796993015853": "No call",
@@ -3700,7 +3716,8 @@
         "2112603207977636243": "Read together with the post it replies to",
         "2112622436298674308": "No call: bullish on TWST (55%, too unsure)",
         "2112631379502506077": "No call",
-        "2112705823197855757": "VIEW bearish on stocks/macro"
+        "2112705823197855757": "VIEW bearish on stocks/macro",
+        "2112710480011591849": "TRADE LONG ZEC \u00b7 VIEW bullish on crypto market"
       },
       "replies": [
         {
@@ -4004,13 +4021,14 @@
         },
         "2112705823197855757": {
           "alerted": [
-            "bias:stocks/macro:bearish"
+            "bias:stocks/macro:bearish",
+            "trade:ZEC:long",
+            "bias:crypto market:bullish"
           ],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2110870996337230266": true,
         "2110900288483651945": false,
         "2111074640328262026": true,
         "2111180317218455782": false,
@@ -4044,7 +4062,8 @@
         "2112671962497491287": true,
         "2112677089040277907": false,
         "2112705823197855757": true,
-        "2112707009208590756": false
+        "2112707009208590756": false,
+        "2112710480011591849": true
       },
       "user_id": "1426732252768182281"
     },
@@ -5622,5 +5641,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-21T00:48:21+00:00"
+  "updated_at": "2026-10-21T01:00:27+00:00"
 }
