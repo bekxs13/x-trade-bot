@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113021943653785774",
+      "last_id": "2113026025013834215",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -261,12 +261,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-20T04:08:52.000Z",
-          "id": "2112395600079777837",
-          "reply_to_id": "2112350472619368691",
-          "text": "@jonathanbfine Lmao"
-        },
-        {
           "created_at": "2026-10-20T05:20:48.000Z",
           "id": "2112413702477787494",
           "reply_to_id": "2112413504099541432",
@@ -349,6 +343,12 @@
           "id": "2113021943653785774",
           "reply_to_id": "2113016980835897737",
           "text": "@broadglow Sideshift and content rewards are cool probably in the sense you\u2019d look for, lots of stuff like lead gen or home services less of a thing twitter ppl would be used to.\n\nA lot of the vision is to look at a biz more like a trade or arbitrage or very specific  customers"
+        },
+        {
+          "created_at": "2026-10-21T21:53:57.000Z",
+          "id": "2113026025013834215",
+          "reply_to_id": "2113023439862726797",
+          "text": "@broadglow Yeah I think that was the most viral pmf and brought a lot of users but not a large percentage of volume"
         }
       ],
       "threads": {
@@ -770,7 +770,6 @@
       "trading": {
         "2112393129869672825": false,
         "2112394986549567889": true,
-        "2112395600079777837": false,
         "2112397102395638039": false,
         "2112404175980302503": false,
         "2112409703527633055": false,
@@ -802,7 +801,8 @@
         "2112990079023005878": false,
         "2112994223343501334": false,
         "2113011860228260141": false,
-        "2113021943653785774": false
+        "2113021943653785774": false,
+        "2113026025013834215": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5634,5 +5634,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T21:38:21+00:00"
+  "updated_at": "2026-10-21T21:54:19+00:00"
 }
