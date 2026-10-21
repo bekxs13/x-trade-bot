@@ -920,7 +920,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2112823888207921408",
+      "last_id": "2112843023856091382",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1106,18 +1106,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-20T17:22:52.000Z",
-          "id": "2112595417275998518",
-          "reply_to_id": "2112529469562855867",
-          "text": "@Saint10Fourteen will be back 10x harder then before"
-        },
-        {
-          "created_at": "2026-10-20T17:32:54.000Z",
-          "id": "2112597941181432118",
-          "reply_to_id": "2112597737212395620",
-          "text": "@OfficialNwaEze my guy"
-        },
-        {
           "created_at": "2026-10-20T17:33:42.000Z",
           "id": "2112598146631209230",
           "images": [
@@ -1197,6 +1185,18 @@
           "id": "2112764582905479460",
           "reply_to_id": "2112760879179604022",
           "text": "@elchefdesol @X no that was me lol"
+        },
+        {
+          "created_at": "2026-10-21T09:46:36.000Z",
+          "id": "2112842981019431010",
+          "reply_to_id": "2112826277677629773",
+          "text": "@0xNairolf theres a few breaking or close to breaking aths, ppl can find them on their own"
+        },
+        {
+          "created_at": "2026-10-21T09:46:46.000Z",
+          "id": "2112843023856091382",
+          "reply_to_id": "2112824743283892616",
+          "text": "@Sp1cytrenches looks good yea"
         }
       ],
       "threads": {
@@ -1645,8 +1645,6 @@
         "2112542104077705324": true,
         "2112585897531334903": true,
         "2112591153925332992": true,
-        "2112595417275998518": false,
-        "2112597941181432118": false,
         "2112598146631209230": false,
         "2112599203063148893": false,
         "2112601488128422032": false,
@@ -1665,7 +1663,9 @@
         "2112764582905479460": false,
         "2112770152106168663": false,
         "2112822435452174828": true,
-        "2112823888207921408": true
+        "2112823888207921408": true,
+        "2112842981019431010": true,
+        "2112843023856091382": false
       },
       "user_id": "973261472"
     },
@@ -5643,5 +5643,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-20",
-  "updated_at": "2026-10-21T09:34:21+00:00"
+  "updated_at": "2026-10-21T09:48:17+00:00"
 }
