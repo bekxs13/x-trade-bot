@@ -3534,7 +3534,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2113056641188815241",
+      "last_id": "2113058504441201137",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3570,12 +3570,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-17T16:05:04.000Z",
-          "id": "2111488674076778592",
-          "reply_to_id": "2111488633463259268",
-          "text": "@watchking69 alright fine i\u2019ll buy a watch you got me"
-        },
         {
           "created_at": "2026-10-18T22:15:13.000Z",
           "id": "2111944213352919424",
@@ -3688,6 +3682,12 @@
           "created_at": "2026-10-21T23:55:36.000Z",
           "id": "2113056641188815241",
           "text": "who is the best cybersecurity expert i can invite on stream tomorrow to explain wtf is happening"
+        },
+        {
+          "created_at": "2026-10-22T00:02:57.000Z",
+          "id": "2113058492416446574",
+          "reply_to_id": "2113056641188815241",
+          "text": "@toly rt you should do it 1015am est are we fucked"
         }
       ],
       "reads": {
@@ -3707,15 +3707,10 @@
         "2112710480011591849": "TRADE LONG ZEC \u00b7 VIEW bullish on crypto market",
         "2112886312210747578": "No call",
         "2113047220778049862": "No call",
-        "2113056641188815241": "No call"
+        "2113056641188815241": "No call",
+        "2113058492416446574": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-21T01:39:47.000Z",
-          "id": "2112720472634753485",
-          "reply_to_id": "2112718452699898203",
-          "text": "@e_liesXBT pretty much"
-        },
         {
           "created_at": "2026-10-21T02:03:01.000Z",
           "id": "2112726318253301861",
@@ -3799,6 +3794,12 @@
           "id": "2113017248151699927",
           "reply_to_id": "2113014886783442960",
           "text": "@tulipking feel like i see a new billionaire fund manager pod every couple hours"
+        },
+        {
+          "created_at": "2026-10-22T00:03:00.000Z",
+          "id": "2113058504441201137",
+          "reply_to_id": "2113057938650653152",
+          "text": "@BittexXBT zcash?"
         }
       ],
       "threads": {
@@ -4027,11 +4028,10 @@
         },
         "2113056641188815241": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2111488674076778592": false,
         "2111944213352919424": true,
         "2111944930092294530": true,
         "2111945278005682270": false,
@@ -4047,7 +4047,6 @@
         "2112631379502506077": true,
         "2112705823197855757": true,
         "2112710480011591849": true,
-        "2112720472634753485": false,
         "2112726318253301861": true,
         "2112728983217242458": false,
         "2112865880212394242": false,
@@ -4065,7 +4064,9 @@
         "2113014930878103640": false,
         "2113017248151699927": false,
         "2113047220778049862": true,
-        "2113056641188815241": false
+        "2113056641188815241": false,
+        "2113058492416446574": false,
+        "2113058504441201137": true
       },
       "user_id": "1426732252768182281"
     },
@@ -5643,5 +5644,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-21T23:56:22+00:00"
+  "updated_at": "2026-10-22T00:04:26+00:00"
 }
