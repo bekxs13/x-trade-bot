@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113320721929609488",
+      "last_id": "2113326089485373519",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -122,11 +122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T12:38:53.000Z",
-          "id": "2112523952287351129",
-          "text": "Do we get a lil deepseek in reverse given this new drop shows inference is extremely profitable? \n\nBought soxl pre mkt"
-        },
         {
           "created_at": "2026-10-20T13:32:06.000Z",
           "id": "2112537342078521689",
@@ -246,10 +241,14 @@
             "https://pbs.twimg.com/media/HVPzpoeWoAAvcHM.jpg"
           ],
           "text": "Good luck everybody https://t.co/45sMuMVeh8"
+        },
+        {
+          "created_at": "2026-10-22T17:46:18.000Z",
+          "id": "2113326089485373519",
+          "text": "Btc in that classic spot where vol still cheap to equities and everyone still thinks unaffected but in the 30% of the time it does go down 5% here everyone will storm the exits"
         }
       ],
       "reads": {
-        "2112523952287351129": "TRADE LONG SOXL \u00b7 VIEW bullish on semis/ai stocks",
         "2112540303169048604": "TRADE EXIT SOXL",
         "2112546201241366861": "TRADE LONG IBIT",
         "2112546317180481596": "Read together with the post it replies to",
@@ -267,7 +266,8 @@
         "2113076930035745188": "No call",
         "2113128114725511647": "No call",
         "2113288621528949125": "No call",
-        "2113300569997918537": "No call"
+        "2113300569997918537": "No call",
+        "2113326089485373519": "No call: bearish on btc (55%, too unsure)"
       },
       "replies": [
         {
@@ -362,10 +362,6 @@
         }
       ],
       "threads": {
-        "2109151545187332511": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109212028057612367": {
           "alerted": [],
           "self_replies": 0
@@ -775,10 +771,13 @@
         "2113300569997918537": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113326089485373519": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112523952287351129": true,
         "2112537342078521689": true,
         "2112540303169048604": true,
         "2112546201241366861": true,
@@ -812,7 +811,8 @@
         "2113300791960465442": false,
         "2113308194063757404": false,
         "2113314295178301584": true,
-        "2113320721929609488": true
+        "2113320721929609488": true,
+        "2113326089485373519": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5683,5 +5683,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T17:26:18+00:00"
+  "updated_at": "2026-10-22T17:48:28+00:00"
 }
