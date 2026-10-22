@@ -935,7 +935,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2113350270575137141",
+      "last_id": "2113356853736358097",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -955,12 +955,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-21T04:57:12.000Z",
-          "id": "2112770152106168663",
-          "quoted_text": "@p_eng_uin @0xMerp @X its either a bug on X's internals side showing ghost sessions that dont exist or its a bug letting ppl get access somehow, either way theres no harm in removing sessions that you dont recognize",
-          "text": "for clarity https://t.co/LXsEtIZkH2"
-        },
         {
           "created_at": "2026-10-21T08:24:57.000Z",
           "id": "2112822435452174828",
@@ -1075,10 +1069,15 @@
           "id": "2113333763153248479",
           "quoted_text": "ranking looksmaxxing techniques. https://t.co/3QyrPMKA0N",
           "text": "send the flood https://t.co/Ckcr47lWsV"
+        },
+        {
+          "created_at": "2026-10-22T19:48:32.000Z",
+          "id": "2113356853736358097",
+          "quoted_text": "in november 2023, with sol at $56, ansem said the wealth effect starts past $100.\n\n@blknoiz06 on 1000x, november 23, 2023:\n\n\"i think you're going to see that wealth effect happen like if solana gets repriced up like over a 100 and has like that second cycle that ethereum had\"\n\nthen he named the team people would ape first:\n\n\"the @jito_labs guys i like a lot... if they do launch a token i think that'll probably one of the strongest ones on solana\"\n\njito's token launched two weeks later. sol close",
+          "text": "damn what a time https://t.co/snSy2dddu5"
         }
       ],
       "reads": {
-        "2112770152106168663": "No call",
         "2112822435452174828": "VIEW bullish on crypto market",
         "2112823888207921408": "No call: bullish on alts (same view as before)",
         "2112890596272792053": "No call",
@@ -1096,7 +1095,8 @@
         "2113204600824340575": "No call",
         "2113204687877067039": "No call",
         "2113281412745039998": "No call",
-        "2113333763153248479": "No call"
+        "2113333763153248479": "No call",
+        "2113356853736358097": "No call"
       },
       "replies": [
         {
@@ -1194,10 +1194,6 @@
         }
       ],
       "threads": {
-        "2108836968272744589": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108923271894941699": {
           "alerted": [],
           "self_replies": 0
@@ -1614,10 +1610,13 @@
         "2113333763153248479": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113356853736358097": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112770152106168663": false,
         "2112822435452174828": true,
         "2112823888207921408": true,
         "2112890596272792053": true,
@@ -1651,7 +1650,8 @@
         "2113281412745039998": true,
         "2113292392577020313": false,
         "2113333763153248479": false,
-        "2113350270575137141": false
+        "2113350270575137141": false,
+        "2113356853736358097": true
       },
       "user_id": "973261472"
     },
@@ -5734,5 +5734,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T19:48:27+00:00"
+  "updated_at": "2026-10-22T19:50:23+00:00"
 }
