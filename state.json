@@ -933,7 +933,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2113356853736358097",
+      "last_id": "2113359042361889036",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -953,11 +953,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-21T08:24:57.000Z",
-          "id": "2112822435452174828",
-          "text": "coins look good"
-        },
         {
           "created_at": "2026-10-21T08:30:43.000Z",
           "id": "2112823888207921408",
@@ -1073,10 +1068,17 @@
           "id": "2113356853736358097",
           "quoted_text": "in november 2023, with sol at $56, ansem said the wealth effect starts past $100.\n\n@blknoiz06 on 1000x, november 23, 2023:\n\n\"i think you're going to see that wealth effect happen like if solana gets repriced up like over a 100 and has like that second cycle that ethereum had\"\n\nthen he named the team people would ape first:\n\n\"the @jito_labs guys i like a lot... if they do launch a token i think that'll probably one of the strongest ones on solana\"\n\njito's token launched two weeks later. sol close",
           "text": "damn what a time https://t.co/snSy2dddu5"
+        },
+        {
+          "created_at": "2026-10-22T19:57:14.000Z",
+          "id": "2113359042361889036",
+          "images": [
+            "https://pbs.twimg.com/media/HVQohLnW4AAjVuQ.jpg"
+          ],
+          "text": "complacency https://t.co/FKPIY3zvih"
         }
       ],
       "reads": {
-        "2112822435452174828": "VIEW bullish on crypto market",
         "2112823888207921408": "No call: bullish on alts (same view as before)",
         "2112890596272792053": "No call",
         "2112910702847353332": "No call",
@@ -1094,7 +1096,8 @@
         "2113204687877067039": "No call",
         "2113281412745039998": "No call",
         "2113333763153248479": "No call",
-        "2113356853736358097": "No call"
+        "2113356853736358097": "No call",
+        "2113359042361889036": "No call: bearish on semis (65%, too unsure)"
       },
       "replies": [
         {
@@ -1192,10 +1195,6 @@
         }
       ],
       "threads": {
-        "2108923271894941699": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108924069806747667": {
           "alerted": [],
           "self_replies": 0
@@ -1612,10 +1611,13 @@
         "2113356853736358097": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113359042361889036": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112822435452174828": true,
         "2112823888207921408": true,
         "2112890596272792053": true,
         "2112910702847353332": false,
@@ -1649,7 +1651,8 @@
         "2113292392577020313": false,
         "2113333763153248479": false,
         "2113350270575137141": false,
-        "2113356853736358097": true
+        "2113356853736358097": true,
+        "2113359042361889036": true
       },
       "user_id": "973261472"
     },
@@ -3589,7 +3592,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2113358039344456124",
+      "last_id": "2113358886941974792",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3768,12 +3771,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-22T00:03:00.000Z",
-          "id": "2113058504441201137",
-          "reply_to_id": "2113057938650653152",
-          "text": "@BittexXBT zcash?"
-        },
-        {
           "created_at": "2026-10-22T00:06:36.000Z",
           "id": "2113059409769140259",
           "reply_to_id": "2113059361853702470",
@@ -3856,6 +3853,12 @@
           "id": "2113358039344456124",
           "reply_to_id": "2113357974462730566",
           "text": "@fozzydiablo yeah"
+        },
+        {
+          "created_at": "2026-10-22T19:56:37.000Z",
+          "id": "2113358886941974792",
+          "reply_to_id": "2113327202456551777",
+          "text": "@anothercohen what the fuck lmao"
         }
       ],
       "threads": {
@@ -4130,7 +4133,6 @@
         "2113047220778049862": true,
         "2113056641188815241": false,
         "2113058492416446574": false,
-        "2113058504441201137": true,
         "2113059409769140259": false,
         "2113059869309968809": false,
         "2113060030073430152": true,
@@ -4154,7 +4156,8 @@
         "2113336901352526218": false,
         "2113347051346092046": false,
         "2113355757542347010": true,
-        "2113358039344456124": false
+        "2113358039344456124": false,
+        "2113358886941974792": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5732,5 +5735,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T19:54:21+00:00"
+  "updated_at": "2026-10-22T19:58:26+00:00"
 }
