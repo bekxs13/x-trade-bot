@@ -1991,7 +1991,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2113342412429078866",
+      "last_id": "2113344672609579491",
       "positions": {
         "AMZN": {
           "asset": "AMZN",
@@ -2043,11 +2043,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-18T22:42:59.000Z",
-          "id": "2111951201671712775",
-          "text": "Amateurs calling for Oct 19 1987 \n\nProfessionals know it\u2019s more akin to June 12 1784"
-        },
         {
           "created_at": "2026-10-19T17:41:06.000Z",
           "id": "2112237620696907810",
@@ -2164,10 +2159,14 @@
           "quoted_text": "Great close for ewy was indeed set for a solid bounce really perfectly executed for shorter term trade \n\nAlso nice to wake up to that amzn candle, however even with the Monday gap up for equities I\u2019m honestly still biased toward the downside for risk this week (I still think btc breaks sub 80 convincingly in this scenario)\n\nNo rush to act, in a great position",
           "reply_to_id": "2113339358808072681",
           "text": "@Brunoceros Been biased to downside for the week, plus a bit safer positioning with earnings coming up https://t.co/bRYCBqLFgW"
+        },
+        {
+          "created_at": "2026-10-22T19:00:08.000Z",
+          "id": "2113344672609579491",
+          "text": "This week has demonstrated extremely well that ideas and \u201ccalls\u201d are worthless without execution \n\nYapping is easy lmfao"
         }
       ],
       "reads": {
-        "2111951201671712775": "No call",
         "2112237620696907810": "No call: bearish on stocks/macro (same view as before)",
         "2112245189658255701": "TRADE LONG AMZN",
         "2112246148148904222": "No call",
@@ -2183,7 +2182,8 @@
         "2113333869600702728": "No call",
         "2113335296649748708": "TRADE LONG WLD",
         "2113339061301879138": "No call",
-        "2113339524768252042": "No call"
+        "2113339524768252042": "No call",
+        "2113344672609579491": "No call"
       },
       "replies": [
         {
@@ -2468,10 +2468,13 @@
         "2113339061301879138": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2113344672609579491": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111951201671712775": true,
         "2112237620696907810": true,
         "2112245189658255701": true,
         "2112246148148904222": true,
@@ -2505,7 +2508,8 @@
         "2113339061301879138": true,
         "2113339358808072681": true,
         "2113339524768252042": false,
-        "2113342412429078866": true
+        "2113342412429078866": true,
+        "2113344672609579491": true
       },
       "user_id": "953032269433745408"
     },
@@ -5720,5 +5724,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T18:52:24+00:00"
+  "updated_at": "2026-10-22T19:00:29+00:00"
 }
