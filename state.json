@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113384082809770196",
+      "last_id": "2113388505888157751",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -270,12 +270,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-22T16:35:11.000Z",
-          "id": "2113308194063757404",
-          "reply_to_id": "2113306498507874451",
-          "text": "@the_jeremiad I haven\u2019t"
-        },
-        {
           "created_at": "2026-10-22T16:59:26.000Z",
           "id": "2113314295178301584",
           "reply_to_id": "2113314107617132726",
@@ -364,6 +358,12 @@
           "id": "2113384082809770196",
           "reply_to_id": "2113375245570826739",
           "text": "@tenobrus Perhaps the divergence in view is whether punishment is designed to prevent offender from causing harm or deter other offenders. I grew up super lib anti prison but now idk. Answered 5,5,50,50"
+        },
+        {
+          "created_at": "2026-10-22T21:54:19.000Z",
+          "id": "2113388505888157751",
+          "reply_to_id": "2113387429113499895",
+          "text": "@citrini Man I been scanning tap all day f"
         }
       ],
       "threads": {
@@ -792,7 +792,6 @@
         "2113128114725511647": false,
         "2113288621528949125": false,
         "2113300569997918537": false,
-        "2113308194063757404": false,
         "2113314295178301584": true,
         "2113320721929609488": true,
         "2113326089485373519": true,
@@ -817,7 +816,8 @@
         "2113378727849840736": true,
         "2113378901577842692": false,
         "2113383216254226497": true,
-        "2113384082809770196": false
+        "2113384082809770196": false,
+        "2113388505888157751": false
       },
       "user_id": "1446541960181858315"
     },
@@ -933,7 +933,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2113380587851706645",
+      "last_id": "2113388576633434441",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -953,12 +953,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-21T14:39:53.000Z",
-          "id": "2112916788426232161",
-          "quoted_text": "Alpenglow is live on mainnet-beta \u26f0\ufe0f \ud83c\udf89\n\nSolana\u2019s new consensus protocol: finality reduced from 12.8 seconds to 150 milliseconds, built by Anza.\n\nWhy this is important \ud83e\uddf5 https://t.co/uItGPrANdi",
-          "text": "massive https://t.co/MzJQZuTt6U"
-        },
         {
           "created_at": "2026-10-21T17:24:12.000Z",
           "id": "2112958140862042489",
@@ -1076,10 +1070,18 @@
             "https://pbs.twimg.com/amplify_video_thumb/2113380351200653312/img/rmiAcbxrPwnpoyC8.jpg"
           ],
           "text": "i'm becoming more cautious about the market here after being pretty bullish recently\n\nBTC, ETH and SOL are trading around important support levels, which makes shorting at this stage particularly tricky\n\ni'd rather focus on managing risk, taking profits where appropriate and keeping flexibility than forcing trades in either direction\n\nthe market could still bounce from here, but i'm less confident in the bullish setup than i was a few weeks ago"
+        },
+        {
+          "created_at": "2026-10-22T21:54:36.000Z",
+          "id": "2113388576633434441",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2113388460891570176/img/KlqpQz0D_A1k9ydq.jpg"
+          ],
+          "quoted_text": "ok i have an idea\n\nwe host a CT Olympics event\n\nevents are:\n\n\u2022 perps trading\n\u2022 boxing\n\u2022 memecoin trading\n\u2022 100M dash\n\u2022 5k\n\none in NYC, one in Dubai\n\nsponsors: coinbase, kraken, okx, binance, bybit\n\nwe draft teams and let people bet on them\n\nwho says yes https://t.co/lJuLIftZkz",
+          "text": "we've been talking about CT Olympics for years, and now we're kicking things off with the CT Boxing Challenge\n\nbuild your bracket at https://t.co/wFu6RamVW9, share your results, and tag @MarketBubble for a chance to win $1,000! https://t.co/pP4vJphNGY https://t.co/XAAqvyhwJE"
         }
       ],
       "reads": {
-        "2112916788426232161": "No call: bullish on sol (same view as before)",
         "2112958140862042489": "No call",
         "2112974503571783683": "No call",
         "2112976453247873190": "No call",
@@ -1097,7 +1099,8 @@
         "2113359509351551259": "No call",
         "2113359534701854842": "No call",
         "2113369912798490737": "No call",
-        "2113380587851706645": "VIEW neutral on crypto market"
+        "2113380587851706645": "VIEW neutral on crypto market",
+        "2113388576633434441": "No call"
       },
       "replies": [
         {
@@ -1195,10 +1198,6 @@
         }
       ],
       "threads": {
-        "2108977096584462564": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108977620604055751": {
           "alerted": [],
           "self_replies": 0
@@ -1617,10 +1616,13 @@
             "bias:crypto market:neutral"
           ],
           "self_replies": 0
+        },
+        "2113388576633434441": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112916788426232161": true,
         "2112958140862042489": true,
         "2112970081856569462": false,
         "2112974503571783683": false,
@@ -1654,7 +1656,8 @@
         "2113361628054061080": false,
         "2113362396794204321": false,
         "2113369912798490737": false,
-        "2113380587851706645": true
+        "2113380587851706645": true,
+        "2113388576633434441": false
       },
       "user_id": "973261472"
     },
@@ -5737,5 +5740,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T21:38:20+00:00"
+  "updated_at": "2026-10-22T21:56:23+00:00"
 }
