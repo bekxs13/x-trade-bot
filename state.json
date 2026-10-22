@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113340035856543849",
+      "last_id": "2113351763592102120",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -275,12 +275,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-21T23:17:39.000Z",
-          "id": "2113047089920045321",
-          "reply_to_id": "2113046877281141085",
-          "text": "@taobanker Well when the consumer has a binary choice with low switching costs  (to me it\u2019s like night and day but even let\u2019s say it got to 90% similar) then 100% of marketplace flow goes to the 10% better option in the limit"
-        },
-        {
           "created_at": "2026-10-21T23:25:26.000Z",
           "id": "2113049049221730498",
           "reply_to_id": "2113048908444377272",
@@ -366,6 +360,12 @@
           "id": "2113339081367392403",
           "reply_to_id": "2113323436747743411",
           "text": "@miguelnabais Plz"
+        },
+        {
+          "created_at": "2026-10-22T19:28:19.000Z",
+          "id": "2113351763592102120",
+          "reply_to_id": "2113351375048577238",
+          "text": "@Trillgamesh_ Ya almost posted this follow up lmao"
         }
       ],
       "threads": {
@@ -795,7 +795,6 @@
         "2112928183418798426": false,
         "2112994223343501334": false,
         "2113011860228260141": false,
-        "2113047089920045321": false,
         "2113047882542534722": true,
         "2113048226035306499": true,
         "2113049049221730498": true,
@@ -819,7 +818,8 @@
         "2113338438946570575": true,
         "2113338543603105884": true,
         "2113339081367392403": false,
-        "2113340035856543849": false
+        "2113340035856543849": false,
+        "2113351763592102120": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5731,5 +5731,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T19:24:20+00:00"
+  "updated_at": "2026-10-22T19:30:26+00:00"
 }
