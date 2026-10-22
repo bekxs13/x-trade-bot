@@ -3534,7 +3534,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2113058504441201137",
+      "last_id": "2113059409769140259",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3712,12 +3712,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-21T02:03:01.000Z",
-          "id": "2112726318253301861",
-          "reply_to_id": "2112707353519030689",
-          "text": "@0xTraderSam @Collector_Crypt little out of context but honestly fair quote tweet. i like the coin \n\nhttps://t.co/wPlmcGUyZn https://t.co/RsZP2hVp8D"
-        },
-        {
           "created_at": "2026-10-21T11:17:35.000Z",
           "id": "2112865880212394242",
           "reply_to_id": "2112767720324247577",
@@ -3800,6 +3794,12 @@
           "id": "2113058504441201137",
           "reply_to_id": "2113057938650653152",
           "text": "@BittexXBT zcash?"
+        },
+        {
+          "created_at": "2026-10-22T00:06:36.000Z",
+          "id": "2113059409769140259",
+          "reply_to_id": "2113059361853702470",
+          "text": "@rectalglizzy lmao"
         }
       ],
       "threads": {
@@ -4047,7 +4047,6 @@
         "2112631379502506077": true,
         "2112705823197855757": true,
         "2112710480011591849": true,
-        "2112726318253301861": true,
         "2112728983217242458": false,
         "2112865880212394242": false,
         "2112866007761006800": false,
@@ -4066,7 +4065,8 @@
         "2113047220778049862": true,
         "2113056641188815241": false,
         "2113058492416446574": false,
-        "2113058504441201137": true
+        "2113058504441201137": true,
+        "2113059409769140259": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5644,5 +5644,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-22T00:04:26+00:00"
+  "updated_at": "2026-10-22T00:08:22+00:00"
 }
