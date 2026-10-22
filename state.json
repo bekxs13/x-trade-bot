@@ -3591,7 +3591,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2113347051346092046",
+      "last_id": "2113355757542347010",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3627,12 +3627,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T17:52:32.000Z",
-          "id": "2112602884810449161",
-          "quoted_text": "Data on 35,000+ adults:   the more cannabis you\u2019ve used in life, the bigger your hippocampus and the better your brain works after 40!\n\nPeople who had ever used cannabis tended to have larger brain volume in key areas that are full of natural cannabis-like receptors (especially the hippocampus, amygdala, caudate, and putamen \u2013 these areas are important for memory, emotions, learning, and movement).    \n\nThe more cannabis someone had used in their lifetime, the larger these brain areas were and t",
-          "text": "the cia not even trying to hide it anymore https://t.co/8y5zyWzasC"
-        },
         {
           "created_at": "2026-10-20T17:53:49.000Z",
           "id": "2112603207977636243",
@@ -3746,10 +3740,14 @@
           "id": "2113336901352526218",
           "reply_to_id": "2113336192578302265",
           "text": "@ShaneStoffer dmd with a little more context but you should do it would be super sick"
+        },
+        {
+          "created_at": "2026-10-22T19:44:11.000Z",
+          "id": "2113355757542347010",
+          "text": "it\u2019s been fun debating the whole what\u2019s gonna happen to crypto when ai legs down again i guess we\u2019re gonna get our answer"
         }
       ],
       "reads": {
-        "2112602884810449161": "No call",
         "2112603207977636243": "Read together with the post it replies to",
         "2112622436298674308": "No call: bullish on TWST (55%, too unsure)",
         "2112631379502506077": "No call",
@@ -3767,7 +3765,8 @@
         "2113272960890863928": "No call",
         "2113316527831175441": "No call",
         "2113336192578302265": "No call",
-        "2113336901352526218": "No call"
+        "2113336901352526218": "No call",
+        "2113355757542347010": "No call"
       },
       "replies": [
         {
@@ -4116,10 +4115,13 @@
         "2113336192578302265": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2113355757542347010": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112602884810449161": false,
         "2112603207977636243": false,
         "2112622436298674308": false,
         "2112631379502506077": true,
@@ -4153,7 +4155,8 @@
         "2113317581238964691": false,
         "2113336192578302265": true,
         "2113336901352526218": false,
-        "2113347051346092046": false
+        "2113347051346092046": false,
+        "2113355757542347010": true
       },
       "user_id": "1426732252768182281"
     },
@@ -5731,5 +5734,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T19:40:24+00:00"
+  "updated_at": "2026-10-22T19:44:27+00:00"
 }
