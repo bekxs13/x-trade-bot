@@ -922,7 +922,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2113232612902711458",
+      "last_id": "2113281412745039998",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -942,14 +942,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T20:45:00.000Z",
-          "id": "2112646286117576850",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2112616200190726144/img/tcaHq-I4wxyVhdfo.jpg"
-          ],
-          "text": "i don't see anything wrong with constantly rotating between memecoins if you understand the game you're playing\n\nmemecoin trading is much closer to trading viral trends on tik tok than investing in traditional businesses\n\nattention moves quickly, and some of the best traders have built their entire edge around recognizing those shifts before everyone else"
-        },
         {
           "created_at": "2026-10-21T04:14:54.000Z",
           "id": "2112759509311422625",
@@ -1065,10 +1057,17 @@
           "created_at": "2026-10-22T09:43:53.000Z",
           "id": "2113204687877067039",
           "text": "gross pa"
+        },
+        {
+          "created_at": "2026-10-22T14:48:46.000Z",
+          "id": "2113281412745039998",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2113281143932108801/img/eBkHH0D1PHjuawCL.jpg"
+          ],
+          "text": "i see a bigger opportunity in building around speculation than trying to predict which memecoin captures attention next\n\nyounger traders are increasingly comfortable speculating on assets driven by internet culture, and their behavior looks very different from traditional investors\n\nindividual memes might come and go, but the demand for trading them could be much more persistent\n\ni'm interested in how developers turn that recurring activity into sustainable businesses and long-term value"
         }
       ],
       "reads": {
-        "2112646286117576850": "No call",
         "2112759509311422625": "No call",
         "2112770152106168663": "No call",
         "2112822435452174828": "VIEW bullish on crypto market",
@@ -1086,7 +1085,8 @@
         "2113011777873072248": "No call",
         "2113014893809205471": "No call: maybe exit  (55%, too unsure)",
         "2113204600824340575": "No call",
-        "2113204687877067039": "No call"
+        "2113204687877067039": "No call",
+        "2113281412745039998": "No call"
       },
       "replies": [
         {
@@ -1184,10 +1184,6 @@
         }
       ],
       "threads": {
-        "2108543735932031467": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108610728278298674": {
           "alerted": [
             "bias:memecoins:bullish"
@@ -1606,10 +1602,13 @@
         "2113204687877067039": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113281412745039998": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112646286117576850": true,
         "2112759509311422625": false,
         "2112770152106168663": false,
         "2112822435452174828": true,
@@ -1643,7 +1642,8 @@
         "2113202651546681557": false,
         "2113204600824340575": true,
         "2113204687877067039": true,
-        "2113232612902711458": false
+        "2113232612902711458": false,
+        "2113281412745039998": true
       },
       "user_id": "973261472"
     },
@@ -5673,5 +5673,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T14:16:24+00:00"
+  "updated_at": "2026-10-22T14:50:28+00:00"
 }
