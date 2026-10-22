@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113337411749208514",
+      "last_id": "2113338543603105884",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -122,13 +122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T13:43:52.000Z",
-          "id": "2112540303169048604",
-          "quoted_text": "@CryptoEthan @kling00000 Yup I\u2019m takin the fast L stronger soldiers than me will lead the bounce",
-          "reply_to_id": "2112523952287351129",
-          "text": "https://t.co/bfhIhTEPtW https://t.co/3PnVx95US8"
-        },
         {
           "created_at": "2026-10-20T14:07:18.000Z",
           "id": "2112546201241366861",
@@ -248,10 +241,15 @@
             "https://pbs.twimg.com/media/HVQVLPmXEAAjRhb.jpg"
           ],
           "text": "https://t.co/z92FCFcY2F"
+        },
+        {
+          "created_at": "2026-10-22T18:35:47.000Z",
+          "id": "2113338543603105884",
+          "reply_to_id": "2113338438946570575",
+          "text": "@overlettuce I bought bonds earlier today actually"
         }
       ],
       "reads": {
-        "2112540303169048604": "TRADE EXIT SOXL",
         "2112546201241366861": "TRADE LONG IBIT",
         "2112546317180481596": "Read together with the post it replies to",
         "2112548645140918300": "No call",
@@ -273,12 +271,6 @@
         "2113337411749208514": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-21T23:11:50.000Z",
-          "id": "2113045626401263859",
-          "reply_to_id": "2112996820565774455",
-          "text": "@Sleepysolcap sick call I rmb this from like '25"
-        },
         {
           "created_at": "2026-10-21T23:14:04.000Z",
           "id": "2113046189721669821",
@@ -365,6 +357,12 @@
           ],
           "reply_to_id": "2113326343815323833",
           "text": "@NoorAlTrades @goodalexander @Gold_Mansack Returning to similar price from 24 months ago is crazy? I guess could take 24 months https://t.co/vSL6gC4qad"
+        },
+        {
+          "created_at": "2026-10-22T18:35:22.000Z",
+          "id": "2113338438946570575",
+          "reply_to_id": "2113337811067924546",
+          "text": "@overlettuce Do nothing / sit in money markets"
         }
       ],
       "threads": {
@@ -784,7 +782,6 @@
         }
       },
       "trading": {
-        "2112540303169048604": true,
         "2112546201241366861": true,
         "2112546317180481596": true,
         "2112548645140918300": true,
@@ -796,7 +793,6 @@
         "2112928183418798426": false,
         "2112994223343501334": false,
         "2113011860228260141": false,
-        "2113045626401263859": true,
         "2113046189721669821": true,
         "2113047089920045321": false,
         "2113047882542534722": true,
@@ -818,7 +814,9 @@
         "2113320721929609488": true,
         "2113326089485373519": true,
         "2113327319355936947": true,
-        "2113337411749208514": false
+        "2113337411749208514": false,
+        "2113338438946570575": true,
+        "2113338543603105884": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5717,5 +5715,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T18:32:23+00:00"
+  "updated_at": "2026-10-22T18:36:22+00:00"
 }
