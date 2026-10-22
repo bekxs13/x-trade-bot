@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113155482236133734",
+      "last_id": "2113288621528949125",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -122,11 +122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T05:04:54.000Z",
-          "id": "2112409703527633055",
-          "text": "Anyone posting about Ai \nAgents\n\nIn \n\n202\n6\n\nneeds to\nshut the fuck up"
-        },
         {
           "created_at": "2026-10-20T05:16:48.000Z",
           "id": "2112412695777722422",
@@ -240,10 +235,17 @@
           "created_at": "2026-10-22T04:39:37.000Z",
           "id": "2113128114725511647",
           "text": "https://t.co/Avb7MaRKOJ"
+        },
+        {
+          "created_at": "2026-10-22T15:17:25.000Z",
+          "id": "2113288621528949125",
+          "images": [
+            "https://pbs.twimg.com/media/HVPozQPW4AEzuLC.jpg"
+          ],
+          "text": "Flood https://t.co/lppcMxsWUn"
         }
       ],
       "reads": {
-        "2112409703527633055": "No call",
         "2112412695777722422": "No call",
         "2112523952287351129": "TRADE LONG SOXL \u00b7 VIEW bullish on semis/ai stocks",
         "2112540303169048604": "TRADE EXIT SOXL",
@@ -261,7 +263,8 @@
         "2113047882542534722": "No call",
         "2113048226035306499": "No call",
         "2113076930035745188": "No call",
-        "2113128114725511647": "No call"
+        "2113128114725511647": "No call",
+        "2113288621528949125": "No call"
       },
       "replies": [
         {
@@ -356,10 +359,6 @@
         }
       ],
       "threads": {
-        "2109138910492438792": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109140041129959671": {
           "alerted": [],
           "self_replies": 0
@@ -769,10 +768,13 @@
         "2113128114725511647": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113288621528949125": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112409703527633055": false,
         "2112412695777722422": false,
         "2112523952287351129": true,
         "2112537342078521689": true,
@@ -806,7 +808,8 @@
         "2113128114725511647": false,
         "2113136844447826116": false,
         "2113138428531417433": false,
-        "2113155482236133734": false
+        "2113155482236133734": false,
+        "2113288621528949125": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5673,5 +5676,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T14:50:28+00:00"
+  "updated_at": "2026-10-22T15:18:27+00:00"
 }
