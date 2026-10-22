@@ -3574,7 +3574,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2113336192578302265",
+      "last_id": "2113336901352526218",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3610,12 +3610,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T17:23:25.000Z",
-          "id": "2112595558217240973",
-          "quoted_text": "https://t.co/e2nkgk2csx https://t.co/fPiILdPfzf",
-          "text": "watching the togi sun run in public and it\u2019s impossible to deny trading is the highest form of entertainment. genuine spectacle https://t.co/xAGAaxytQL"
-        },
         {
           "created_at": "2026-10-20T17:52:32.000Z",
           "id": "2112602884810449161",
@@ -3729,10 +3723,15 @@
           "id": "2113336192578302265",
           "quoted_text": "selling some more cuz it feels like -25% is a really good days work \n\nNot financial advice idk how this works https://t.co/bEPvnxN6M5",
           "text": "bro genuinely just hit one of the best trades this year. @ShaneStoffer you should come on stream tomorrow and talk about it https://t.co/i0YX1nqHTK"
+        },
+        {
+          "created_at": "2026-10-22T18:29:15.000Z",
+          "id": "2113336901352526218",
+          "reply_to_id": "2113336192578302265",
+          "text": "@ShaneStoffer dmd with a little more context but you should do it would be super sick"
         }
       ],
       "reads": {
-        "2112595558217240973": "No call",
         "2112602884810449161": "No call",
         "2112603207977636243": "Read together with the post it replies to",
         "2112622436298674308": "No call: bullish on TWST (55%, too unsure)",
@@ -3750,7 +3749,8 @@
         "2113270011104043229": "No call",
         "2113272960890863928": "No call",
         "2113316527831175441": "No call",
-        "2113336192578302265": "No call"
+        "2113336192578302265": "No call",
+        "2113336901352526218": "No call"
       },
       "replies": [
         {
@@ -4098,11 +4098,10 @@
         },
         "2113336192578302265": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2112595558217240973": true,
         "2112602884810449161": false,
         "2112603207977636243": false,
         "2112622436298674308": false,
@@ -4136,7 +4135,8 @@
         "2113272960890863928": true,
         "2113316527831175441": false,
         "2113317581238964691": false,
-        "2113336192578302265": true
+        "2113336192578302265": true,
+        "2113336901352526218": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5714,5 +5714,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T18:28:26+00:00"
+  "updated_at": "2026-10-22T18:30:28+00:00"
 }
