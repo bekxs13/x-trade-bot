@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113383216254226497",
+      "last_id": "2113384082809770196",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -270,12 +270,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-22T16:05:46.000Z",
-          "id": "2113300791960465442",
-          "reply_to_id": "2113299763466797482",
-          "text": "@stoicsavage No"
-        },
-        {
           "created_at": "2026-10-22T16:35:11.000Z",
           "id": "2113308194063757404",
           "reply_to_id": "2113306498507874451",
@@ -364,6 +358,12 @@
           "id": "2113383216254226497",
           "reply_to_id": "2113375601058877738",
           "text": "@loraclexyz Any view on how quantum story might resolve out (real risk aside) feels like hurting spot allocation desire across instos + myself and others"
+        },
+        {
+          "created_at": "2026-10-22T21:36:44.000Z",
+          "id": "2113384082809770196",
+          "reply_to_id": "2113375245570826739",
+          "text": "@tenobrus Perhaps the divergence in view is whether punishment is designed to prevent offender from causing harm or deter other offenders. I grew up super lib anti prison but now idk. Answered 5,5,50,50"
         }
       ],
       "threads": {
@@ -792,7 +792,6 @@
         "2113128114725511647": false,
         "2113288621528949125": false,
         "2113300569997918537": false,
-        "2113300791960465442": false,
         "2113308194063757404": false,
         "2113314295178301584": true,
         "2113320721929609488": true,
@@ -817,7 +816,8 @@
         "2113378402367344932": true,
         "2113378727849840736": true,
         "2113378901577842692": false,
-        "2113383216254226497": true
+        "2113383216254226497": true,
+        "2113384082809770196": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5737,5 +5737,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T21:34:17+00:00"
+  "updated_at": "2026-10-22T21:38:20+00:00"
 }
