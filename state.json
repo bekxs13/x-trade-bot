@@ -933,7 +933,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2113359042361889036",
+      "last_id": "2113359534701854842",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -953,22 +953,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-21T08:30:43.000Z",
-          "id": "2112823888207921408",
-          "images": [
-            "https://pbs.twimg.com/media/HVJB7WZXwAA_ADR.png"
-          ],
-          "text": "few alt charts looking very good, majors likely going to chop around some more but could see some aggro uptrends starting soon https://t.co/lreTJ8Kz0z"
-        },
-        {
-          "created_at": "2026-10-21T12:55:48.000Z",
-          "id": "2112890596272792053",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2112890521949818880/img/6W-8ZhmiDwFLteKa.jpg"
-          ],
-          "text": "i like the idea of running a barbell strategy in crypto, keeping most of your capital in high-conviction assets while allocating a smaller portion to higher-risk opportunities\n\na 70/30 split is a reasonable framework for how i think about it\n\nthe speculative side gives you room to trade memes, perps and emerging onchain trends without putting your entire portfolio at risk\n\nthe goal is to compound gains from those opportunities into longer-term positions while keeping your overall exposure manageable"
-        },
         {
           "created_at": "2026-10-21T14:15:42.000Z",
           "id": "2112910702847353332",
@@ -1076,11 +1060,22 @@
             "https://pbs.twimg.com/media/HVQohLnW4AAjVuQ.jpg"
           ],
           "text": "complacency https://t.co/FKPIY3zvih"
+        },
+        {
+          "created_at": "2026-10-22T19:59:06.000Z",
+          "id": "2113359509351551259",
+          "images": [
+            "https://pbs.twimg.com/media/HVQohccXsAAau6N.jpg"
+          ],
+          "text": "yo! y'all gotta trade with @banks and me in our polymarket Market Bubble squad\n\nnever giving up on my birds  \ud83e\udd85\n\nhttps://t.co/D1cqHI48TD https://t.co/IlsL7lKOZI"
+        },
+        {
+          "created_at": "2026-10-22T19:59:12.000Z",
+          "id": "2113359534701854842",
+          "text": "how are the engineers doing this week"
         }
       ],
       "reads": {
-        "2112823888207921408": "No call: bullish on alts (same view as before)",
-        "2112890596272792053": "No call",
         "2112910702847353332": "No call",
         "2112911823888679254": "No call",
         "2112916788426232161": "No call: bullish on sol (same view as before)",
@@ -1097,7 +1092,9 @@
         "2113281412745039998": "No call",
         "2113333763153248479": "No call",
         "2113356853736358097": "No call",
-        "2113359042361889036": "No call: bearish on semis (65%, too unsure)"
+        "2113359042361889036": "No call: bearish on semis (65%, too unsure)",
+        "2113359509351551259": "No call",
+        "2113359534701854842": "No call"
       },
       "replies": [
         {
@@ -1195,14 +1192,6 @@
         }
       ],
       "threads": {
-        "2108924069806747667": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2108930537788453096": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108959592676053478": {
           "alerted": [],
           "self_replies": 0
@@ -1615,11 +1604,17 @@
         "2113359042361889036": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113359509351551259": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2113359534701854842": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112823888207921408": true,
-        "2112890596272792053": true,
         "2112910702847353332": false,
         "2112911823888679254": true,
         "2112916788426232161": true,
@@ -1652,7 +1647,9 @@
         "2113333763153248479": false,
         "2113350270575137141": false,
         "2113356853736358097": true,
-        "2113359042361889036": true
+        "2113359042361889036": true,
+        "2113359509351551259": true,
+        "2113359534701854842": false
       },
       "user_id": "973261472"
     },
@@ -5735,5 +5732,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T19:58:26+00:00"
+  "updated_at": "2026-10-22T20:00:37+00:00"
 }
