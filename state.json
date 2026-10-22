@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113066848535339061",
+      "last_id": "2113076930035745188",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -122,11 +122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T04:14:50.000Z",
-          "id": "2112397102395638039",
-          "text": "Morning always arrives like a very patient waiter"
-        },
         {
           "created_at": "2026-10-20T04:42:56.000Z",
           "id": "2112404175980302503",
@@ -237,10 +232,17 @@
           "id": "2113048226035306499",
           "reply_to_id": "2113047882542534722",
           "text": "New agent out? Bullish. Web traffic up? Bullish. Cyber risks? Bullish. Agentic commerce? Bullish. Gaming? Fuck it bullish"
+        },
+        {
+          "created_at": "2026-10-22T01:16:13.000Z",
+          "id": "2113076930035745188",
+          "images": [
+            "https://pbs.twimg.com/media/HVMoRGdWoAACKRR.jpg"
+          ],
+          "text": "https://t.co/fD2EUk0hR2"
         }
       ],
       "reads": {
-        "2112397102395638039": "No call",
         "2112404175980302503": "No call",
         "2112409703527633055": "No call",
         "2112412695777722422": "No call",
@@ -258,7 +260,8 @@
         "2112994223343501334": "No call",
         "2113011860228260141": "No call",
         "2113047882542534722": "No call",
-        "2113048226035306499": "No call"
+        "2113048226035306499": "No call",
+        "2113076930035745188": "No call"
       },
       "replies": [
         {
@@ -353,10 +356,6 @@
         }
       ],
       "threads": {
-        "2109092758602613218": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109136416370467023": {
           "alerted": [],
           "self_replies": 0
@@ -766,10 +765,13 @@
         "2113047882542534722": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2113076930035745188": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112397102395638039": false,
         "2112404175980302503": false,
         "2112409703527633055": false,
         "2112412695777722422": false,
@@ -803,7 +805,8 @@
         "2113049049221730498": true,
         "2113049220072800742": true,
         "2113052649386017198": false,
-        "2113066848535339061": true
+        "2113066848535339061": true,
+        "2113076930035745188": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5651,5 +5654,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-21",
-  "updated_at": "2026-10-22T01:02:18+00:00"
+  "updated_at": "2026-10-22T01:18:21+00:00"
 }
