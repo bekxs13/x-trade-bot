@@ -3541,7 +3541,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2113270011104043229",
+      "last_id": "2113272960890863928",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3577,12 +3577,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T15:16:45.000Z",
-          "id": "2112563678453125605",
-          "quoted_text": "*IRAN-US TALKS CONTINUE, REPORTS DEAL IS CLOSE ARE WRONG: PERSON",
-          "text": "who the fuck is \"person?\" they're not even trying anymore lmfaooo https://t.co/2FaZrpdpZt"
-        },
         {
           "created_at": "2026-10-20T17:01:38.000Z",
           "id": "2112590076765216881",
@@ -3696,10 +3690,15 @@
           "created_at": "2026-10-22T14:03:27.000Z",
           "id": "2113270011104043229",
           "text": "calvinfroedge would have loved the market today\ud83e\udd40"
+        },
+        {
+          "created_at": "2026-10-22T14:15:11.000Z",
+          "id": "2113272960890863928",
+          "quoted_text": "MARKET OPEN: AI BROKE THE INTERNET, Interviewing a Cyber EXPERT, crypto is FINE, Good Luck https://t.co/NiMphK8EvS",
+          "text": "LIVE WITH @tayvano_ in 30 seconds https://t.co/KzGnkoBBQU"
         }
       ],
       "reads": {
-        "2112563678453125605": "No call",
         "2112590076765216881": "No call",
         "2112592492151660577": "No call",
         "2112595558217240973": "No call",
@@ -3717,7 +3716,8 @@
         "2113248567565627526": "No call",
         "2113248605993578845": "Read together with the post it replies to",
         "2113249344921231730": "No call",
-        "2113270011104043229": "No call"
+        "2113270011104043229": "No call",
+        "2113272960890863928": "No call"
       },
       "replies": [
         {
@@ -4054,10 +4054,13 @@
         "2113270011104043229": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113272960890863928": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112563678453125605": false,
         "2112590076765216881": false,
         "2112592492151660577": false,
         "2112595558217240973": true,
@@ -4091,7 +4094,8 @@
         "2113248567565627526": true,
         "2113248605993578845": false,
         "2113249344921231730": true,
-        "2113270011104043229": true
+        "2113270011104043229": true,
+        "2113272960890863928": true
       },
       "user_id": "1426732252768182281"
     },
@@ -4119,7 +4123,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2112958914538963352",
+      "last_id": "2113272868813541754",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -4310,12 +4314,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-08T18:16:22.000Z",
-          "id": "2108260226508169349",
-          "reply_to_id": "2108259423399596344",
-          "text": "@KellyMinkinFan at this point tachyon is bearish because it kinda sounds like my name"
-        },
-        {
           "created_at": "2026-10-09T01:56:14.000Z",
           "id": "2108375955412828190",
           "reply_to_id": "2108375638759653657",
@@ -4398,6 +4396,12 @@
           "id": "2112958914538963352",
           "reply_to_id": "2112958174177431830",
           "text": "@alphawifhat zigher"
+        },
+        {
+          "created_at": "2026-10-22T14:14:49.000Z",
+          "id": "2113272868813541754",
+          "reply_to_id": "2113272608649363592",
+          "text": "@fejau_inc @dunleavy89 yea i've been going to the gym recently given how heavy my bags have been trading recently"
         }
       ],
       "threads": {
@@ -4494,7 +4498,6 @@
         "2106637291267764557": false,
         "2107265085433606342": true,
         "2108258820992774570": true,
-        "2108260226508169349": true,
         "2108261279383380471": false,
         "2108374752536756724": true,
         "2108375955412828190": true,
@@ -4523,7 +4526,8 @@
         "2112591044860862821": false,
         "2112656777418244258": true,
         "2112898960696193156": true,
-        "2112958914538963352": true
+        "2112958914538963352": true,
+        "2113272868813541754": true
       },
       "user_id": "1064421325186359296"
     },
@@ -5669,5 +5673,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T14:04:22+00:00"
+  "updated_at": "2026-10-22T14:16:24+00:00"
 }
