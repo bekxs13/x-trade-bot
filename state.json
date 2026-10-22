@@ -933,7 +933,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2113396873386234153",
+      "last_id": "2113401207754817868",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -953,12 +953,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-21T18:11:39.000Z",
-          "id": "2112970081856569462",
-          "reply_to_id": "2112970011174469648",
-          "text": "@tomkysar upper bound is livermore \ud83d\ude80"
-        },
         {
           "created_at": "2026-10-21T18:29:13.000Z",
           "id": "2112974503571783683",
@@ -1079,6 +1073,11 @@
             "https://pbs.twimg.com/amplify_video_thumb/2113396196287127552/img/t7ISFSuNdi1c3Y-J.jpg"
           ],
           "text": "i've been spending some time trading on Papertrade recently\n\nJez built an interesting model on top of Hyperliquid, offering synthetic BTC and ETH trading with up to 1000x leverage\n\nthe part i'm paying attention to is how the protocol manages liquidity and pays out profitable traders, especially during periods of high volatility\n\nthere's also been some controversy around changes to PAPER distribution\n\ni can understand the frustration from early participants, but i also see the reasoning behind shifting incentives toward people actively using the platform"
+        },
+        {
+          "created_at": "2026-10-22T22:44:47.000Z",
+          "id": "2113401207754817868",
+          "text": "WULIP KING"
         }
       ],
       "reads": {
@@ -1100,7 +1099,8 @@
         "2113369912798490737": "No call",
         "2113380587851706645": "VIEW neutral on crypto market",
         "2113388576633434441": "No call",
-        "2113396873386234153": "No call"
+        "2113396873386234153": "No call",
+        "2113401207754817868": "No call"
       },
       "replies": [
         {
@@ -1198,10 +1198,6 @@
         }
       ],
       "threads": {
-        "2109146373966925827": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109188850966757704": {
           "alerted": [],
           "self_replies": 0
@@ -1620,10 +1616,13 @@
         "2113396873386234153": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113401207754817868": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112970081856569462": false,
         "2112974503571783683": false,
         "2112976453247873190": false,
         "2112990849126879570": true,
@@ -1657,7 +1656,8 @@
         "2113369912798490737": false,
         "2113380587851706645": true,
         "2113388576633434441": false,
-        "2113396873386234153": true
+        "2113396873386234153": true,
+        "2113401207754817868": true
       },
       "user_id": "973261472"
     },
@@ -5747,5 +5747,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T22:28:21+00:00"
+  "updated_at": "2026-10-22T22:46:25+00:00"
 }
