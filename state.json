@@ -1992,7 +1992,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2113354510076907781",
+      "last_id": "2113373824427418029",
       "positions": {
         "AMZN": {
           "asset": "AMZN",
@@ -2044,17 +2044,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-19T18:15:00.000Z",
-          "id": "2112246148148904222",
-          "reply_to_id": "2112245189658255701",
-          "text": "Given that mem shorts were used to hedge goog amzn which are much larger positions than a normal simple options play I put on, shorts actually helped my portfolio quite a fair bit, port ath again \n\nStill nowhere near the year I wanted or hoped for but nice to see self get in flow and perform after committing to more time in game again \n\nOnwards and upwards"
-        },
-        {
-          "created_at": "2026-10-20T00:23:04.000Z",
-          "id": "2112338778639729018",
-          "text": "Warren buffet made his wealth by anchoring his macro bias to every hourly candle"
-        },
         {
           "created_at": "2026-10-20T00:28:11.000Z",
           "id": "2112340063950631326",
@@ -2168,11 +2157,21 @@
             "https://pbs.twimg.com/media/HVQcfG2acAAc9EF.jpg"
           ],
           "text": "I fucking love markets we are back https://t.co/kMt9AYhik0"
+        },
+        {
+          "created_at": "2026-10-22T20:54:47.000Z",
+          "id": "2113373525809701294",
+          "reply_to_id": "2112982706032464198",
+          "text": "Been updating not just trades but some thoughts behind them lately again, been quite spot on and even useful for me to look at as they play out"
+        },
+        {
+          "created_at": "2026-10-22T20:55:58.000Z",
+          "id": "2113373824427418029",
+          "reply_to_id": "2113345449075904594",
+          "text": "Really enjoying work again this past month"
         }
       ],
       "reads": {
-        "2112246148148904222": "No call",
-        "2112338778639729018": "No call",
         "2112340063950631326": "No call",
         "2112341081329463774": "No call",
         "2112341894554648629": "No call",
@@ -2187,7 +2186,8 @@
         "2113339524768252042": "No call",
         "2113344672609579491": "No call",
         "2113344886124794259": "No call",
-        "2113345449075904594": "No call"
+        "2113345449075904594": "No call",
+        "2113373824427418029": "No call"
       },
       "replies": [
         {
@@ -2479,12 +2479,10 @@
         },
         "2113345449075904594": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2112246148148904222": true,
-        "2112338778639729018": true,
         "2112340063950631326": true,
         "2112341081329463774": true,
         "2112341894554648629": true,
@@ -2517,7 +2515,9 @@
         "2113349815522447496": false,
         "2113350015834042720": true,
         "2113350526725509292": true,
-        "2113354510076907781": false
+        "2113354510076907781": false,
+        "2113373525809701294": true,
+        "2113373824427418029": false
       },
       "user_id": "953032269433745408"
     },
@@ -5735,5 +5735,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T20:42:23+00:00"
+  "updated_at": "2026-10-22T20:56:26+00:00"
 }
