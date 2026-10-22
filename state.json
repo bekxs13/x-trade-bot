@@ -3541,7 +3541,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2113249344921231730",
+      "last_id": "2113270011104043229",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3577,11 +3577,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T12:39:51.000Z",
-          "id": "2112524196786163830",
-          "text": "MARKET OPEN: BLACK TUESDAY for AI Stocks, The $1M+ Pok\u00e9mon Card HEIST, What's NEXT for Crypto? https://t.co/8QBTLyYPKc"
-        },
         {
           "created_at": "2026-10-20T15:16:45.000Z",
           "id": "2112563678453125605",
@@ -3696,10 +3691,14 @@
           "created_at": "2026-10-22T12:41:20.000Z",
           "id": "2113249344921231730",
           "text": "MARKET OPEN: AI BROKE THE INTERNET, Interviewing a Cyber EXPERT, crypto is FINE, Good Luck https://t.co/NiMphK8EvS"
+        },
+        {
+          "created_at": "2026-10-22T14:03:27.000Z",
+          "id": "2113270011104043229",
+          "text": "calvinfroedge would have loved the market today\ud83e\udd40"
         }
       ],
       "reads": {
-        "2112524196786163830": "No call",
         "2112563678453125605": "No call",
         "2112590076765216881": "No call",
         "2112592492151660577": "No call",
@@ -3717,7 +3716,8 @@
         "2113235484877217856": "No call",
         "2113248567565627526": "No call",
         "2113248605993578845": "Read together with the post it replies to",
-        "2113249344921231730": "No call"
+        "2113249344921231730": "No call",
+        "2113270011104043229": "No call"
       },
       "replies": [
         {
@@ -4050,10 +4050,13 @@
         "2113249344921231730": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113270011104043229": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112524196786163830": true,
         "2112563678453125605": false,
         "2112590076765216881": false,
         "2112592492151660577": false,
@@ -4087,7 +4090,8 @@
         "2113244491033284827": false,
         "2113248567565627526": true,
         "2113248605993578845": false,
-        "2113249344921231730": true
+        "2113249344921231730": true,
+        "2113270011104043229": true
       },
       "user_id": "1426732252768182281"
     },
@@ -5665,5 +5669,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T13:44:16+00:00"
+  "updated_at": "2026-10-22T14:04:22+00:00"
 }
