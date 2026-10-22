@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113378727849840736",
+      "last_id": "2113378901577842692",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -122,15 +122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-21T15:20:26.000Z",
-          "id": "2112926995025990106",
-          "images": [
-            "https://pbs.twimg.com/media/HVKf51oW0AEmYCm.jpg"
-          ],
-          "quoted_text": "Whop has raised $200M in Series D funding at a $5.1B valuation, backed by @sequoia and @shopify.\n\nIt really feels like we are barely touching the tip of the iceberg in a market larger than anyone can imagine.\n\nWe first launched Whop as a better way for us to sell sneaker bots, one of the most niche types of desktop software out there.\n\nTotal TAM? Probably $20,000 per day.\n\nWho cares, tiny market.\n\nBut, what people discounted is the idea that there were actually 70,000 other markets exactly like ",
-          "text": "https://t.co/L4nOI4go6f https://t.co/1QSfwOvkok"
-        },
         {
           "created_at": "2026-10-21T15:25:09.000Z",
           "id": "2112928183418798426",
@@ -249,10 +240,15 @@
           "created_at": "2026-10-22T21:06:15.000Z",
           "id": "2113376411004338252",
           "text": "She said  what\u2019s  ur favorite food. I said. halal  cart"
+        },
+        {
+          "created_at": "2026-10-22T21:16:09.000Z",
+          "id": "2113378901577842692",
+          "quoted_text": "We're losing the art of the reply. So many people nowadays love to quotetweet posts, even posts from their own mutuals, when a reply would fit the content just as well. Remember that a reply is generous, and contributes to the post of others.",
+          "text": "Gay https://t.co/d4NSuc9Wpl"
         }
       ],
       "reads": {
-        "2112926995025990106": "No call",
         "2112928183418798426": "No call",
         "2112994223343501334": "No call",
         "2113011860228260141": "No call",
@@ -269,7 +265,8 @@
         "2113356579609452917": "No call",
         "2113357335523676370": "No call",
         "2113369845387694390": "No call",
-        "2113376411004338252": "No call"
+        "2113376411004338252": "No call",
+        "2113378901577842692": "No call"
       },
       "replies": [
         {
@@ -370,10 +367,6 @@
         }
       ],
       "threads": {
-        "2109714720127365189": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109715263763718226": {
           "alerted": [],
           "self_replies": 0
@@ -783,10 +776,13 @@
         "2113376411004338252": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113378901577842692": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112926995025990106": false,
         "2112928183418798426": false,
         "2112994223343501334": false,
         "2113011860228260141": false,
@@ -820,7 +816,8 @@
         "2113375210531401971": true,
         "2113376411004338252": false,
         "2113378402367344932": true,
-        "2113378727849840736": true
+        "2113378727849840736": true,
+        "2113378901577842692": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5735,5 +5732,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T21:16:17+00:00"
+  "updated_at": "2026-10-22T21:18:21+00:00"
 }
