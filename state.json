@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113338543603105884",
+      "last_id": "2113339081367392403",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -272,12 +272,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-21T23:14:04.000Z",
-          "id": "2113046189721669821",
-          "reply_to_id": "2113044612168417513",
-          "text": "@taobanker The thing about the 2 is Uber Eats is an awful product experience from scrolling to fulfillment while DoorDash is incredible end to end which does show up in the numbers and I think premium"
-        },
-        {
           "created_at": "2026-10-21T23:17:39.000Z",
           "id": "2113047089920045321",
           "reply_to_id": "2113046877281141085",
@@ -363,6 +357,12 @@
           "id": "2113338438946570575",
           "reply_to_id": "2113337811067924546",
           "text": "@overlettuce Do nothing / sit in money markets"
+        },
+        {
+          "created_at": "2026-10-22T18:37:55.000Z",
+          "id": "2113339081367392403",
+          "reply_to_id": "2113323436747743411",
+          "text": "@miguelnabais Plz"
         }
       ],
       "threads": {
@@ -793,7 +793,6 @@
         "2112928183418798426": false,
         "2112994223343501334": false,
         "2113011860228260141": false,
-        "2113046189721669821": true,
         "2113047089920045321": false,
         "2113047882542534722": true,
         "2113048226035306499": true,
@@ -816,7 +815,8 @@
         "2113327319355936947": true,
         "2113337411749208514": false,
         "2113338438946570575": true,
-        "2113338543603105884": true
+        "2113338543603105884": true,
+        "2113339081367392403": false
       },
       "user_id": "1446541960181858315"
     },
@@ -1988,7 +1988,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2113335296649748708",
+      "last_id": "2113339061301879138",
       "positions": {
         "AMZN": {
           "asset": "AMZN",
@@ -2040,13 +2040,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-18T18:43:04.000Z",
-          "id": "2111890824229470507",
-          "quoted_text": "Always a strong desire on ct to anoint \u201cthe coins of the cycle\u201d early on. \n\nSometimes they can be correct such as with hype, however often times people are simply extrapolating a FOTM trend and anchoring their bias to what is merely a current outperformer. If we really are heading into another cycle, remember that new narratives get spun up numerous times. \n\nIt is usually a good strategy to ignore 99% of old coins and focus on the new. However this zec rally has everyone who was previously Stock",
-          "reply_to_id": "2111890566019772828",
-          "text": "Also good to keep this in mind https://t.co/VRmvutOEZC"
-        },
         {
           "created_at": "2026-10-18T18:44:29.000Z",
           "id": "2111891183027065262",
@@ -2164,10 +2157,14 @@
           "created_at": "2026-10-22T18:22:53.000Z",
           "id": "2113335296649748708",
           "text": "Btc eth range low \n\nLonging some Wld, think it actually has a potentially interesting narrative forming with proof of identity shit, rebrand effort c partnerships with banks / zoom\n\nDon\u2019t wanna see it make new relative lows or btc below 80 eth below 2350 ish \n\nTight inval Yallah"
+        },
+        {
+          "created_at": "2026-10-22T18:37:50.000Z",
+          "id": "2113339061301879138",
+          "text": "Defensive stuff like Brk is good cuz when the entire market is going retard speculation mode it doesn\u2019t really have much downside but when it\u2019s time for a rotation into defensives cuz ppl scared you get diversified returns \n\n#investing"
         }
       ],
       "reads": {
-        "2111890824229470507": "No call",
         "2111951201671712775": "No call",
         "2112237620696907810": "No call: bearish on stocks/macro (same view as before)",
         "2112245189658255701": "TRADE LONG AMZN",
@@ -2182,7 +2179,8 @@
         "2113063622859784478": "No call",
         "2113328755754340518": "No call",
         "2113333869600702728": "No call",
-        "2113335296649748708": "TRADE LONG WLD"
+        "2113335296649748708": "TRADE LONG WLD",
+        "2113339061301879138": "No call"
       },
       "replies": [
         {
@@ -2463,10 +2461,13 @@
             "trade:WLD:long"
           ],
           "self_replies": 0
+        },
+        "2113339061301879138": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111890824229470507": true,
         "2111891183027065262": true,
         "2111891987742019640": true,
         "2111951201671712775": true,
@@ -2500,7 +2501,8 @@
         "2113328755754340518": true,
         "2113330403386036644": true,
         "2113333869600702728": true,
-        "2113335296649748708": true
+        "2113335296649748708": true,
+        "2113339061301879138": true
       },
       "user_id": "953032269433745408"
     },
@@ -5715,5 +5717,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T18:36:22+00:00"
+  "updated_at": "2026-10-22T18:38:24+00:00"
 }
