@@ -3597,7 +3597,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2113391874417344985",
+      "last_id": "2113392669561135470",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3633,21 +3633,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T19:10:14.000Z",
-          "id": "2112622436298674308",
-          "images": [
-            "https://pbs.twimg.com/media/HVGK6EdXoAAjD6D.png"
-          ],
-          "quoted_text": "What is AI really capable of in bio?\n\nTo separate hype from reality, we spent 3 months working firsthand with @AnthropicAI's  internal research model to see if it could create an experimental scorpion antivenom. \n\nIntroducing Citrini Therapeutics.\n\nhttps://t.co/VAUBSi7sNy",
-          "text": "this rocks https://t.co/hC7FyhsJFY https://t.co/yh3flkDAuC"
-        },
-        {
-          "created_at": "2026-10-20T19:45:46.000Z",
-          "id": "2112631379502506077",
-          "quoted_text": "MAYBE I WAS WRONG ABOUT BLOCKCHAIN TECHNOLOGY\n\nI wrote about how I always used to make fun of the guys who said things like \"Bitcoin is speculative, but the underlying blockchain technology is interesting.\" And now I think maybe they kinda had a point. https://t.co/X1gghCsRge",
-          "text": "hyperliquid https://t.co/UPKdDhSX4j"
-        },
         {
           "created_at": "2026-10-21T00:41:35.000Z",
           "id": "2112705823197855757",
@@ -3751,11 +3736,23 @@
           "id": "2113391874417344985",
           "quoted_text": "as bad as things have gotten in the past 4 days, they are going to get a lot worse before they get better. security leaders, never let a crisis go to waste: please go to your boards and ask for help right now. not for ai, for the basics. (we need to hold on for ~18 months.) https://t.co/bcZp4heDtS",
           "text": "most rational calm and optimistic anthropic employee comms https://t.co/ZmXiTl22Hl"
+        },
+        {
+          "created_at": "2026-10-22T22:10:50.000Z",
+          "id": "2113392664184041960",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2113389082030252032/img/n0iNKCxhvOdkrsgf.jpg"
+          ],
+          "text": "Why you shouldn't panic about AI hacks: my full interview with cybersecurity expert @tayvano_\n\n0:37 how bad is the PHP bug? \n2:33 PHP is 70% of the internet \n6:59 a private key that was just \"4\" \n9:04 crypto is safer than the internet \n15:30 never panic, diversify \n17:04 how Cloudflare saved the internet \n18:49 Railway hack drained wallets \n21:07 Monero & Zcash are most hardened \n22:35 Bitcoin's real risk is its culture \n27:02 hardware 2FA on everything"
+        },
+        {
+          "created_at": "2026-10-22T22:10:52.000Z",
+          "id": "2113392669561135470",
+          "reply_to_id": "2113392664184041960",
+          "text": "Watch on YT!\nhttps://t.co/5SNuJeq0aI"
         }
       ],
       "reads": {
-        "2112622436298674308": "No call: bullish on TWST (55%, too unsure)",
-        "2112631379502506077": "No call",
         "2112705823197855757": "VIEW bearish on stocks/macro",
         "2112710480011591849": "TRADE LONG ZEC \u00b7 VIEW bullish on crypto market",
         "2112886312210747578": "No call",
@@ -3772,7 +3769,9 @@
         "2113336192578302265": "No call",
         "2113336901352526218": "No call",
         "2113355757542347010": "No call",
-        "2113391874417344985": "No call"
+        "2113391874417344985": "No call",
+        "2113392664184041960": "No call",
+        "2113392669561135470": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -4129,11 +4128,13 @@
         "2113391874417344985": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113392664184041960": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2112622436298674308": false,
-        "2112631379502506077": true,
         "2112705823197855757": true,
         "2112710480011591849": true,
         "2112728983217242458": false,
@@ -4166,7 +4167,9 @@
         "2113358039344456124": false,
         "2113358886941974792": false,
         "2113366501499535462": false,
-        "2113391874417344985": false
+        "2113391874417344985": false,
+        "2113392664184041960": true,
+        "2113392669561135470": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5744,5 +5747,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T22:08:23+00:00"
+  "updated_at": "2026-10-22T22:12:22+00:00"
 }
