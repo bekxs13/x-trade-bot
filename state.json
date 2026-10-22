@@ -1991,7 +1991,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2113344886124794259",
+      "last_id": "2113345449075904594",
       "positions": {
         "AMZN": {
           "asset": "AMZN",
@@ -2043,11 +2043,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-19T18:11:11.000Z",
-          "id": "2112245189658255701",
-          "text": "Positioning is goog amzn overweighted, Brk leaps, 50% spot long trad, 0% spot crypto, no perp positions crypto \n\nLooking for crypto over yearly open or break below 80s for alt longs, alts prob lead the bottom\n\nLooking for specific options plays in trad and spot adds if we get some more weakness (base case atm)"
-        },
         {
           "created_at": "2026-10-19T18:15:00.000Z",
           "id": "2112246148148904222",
@@ -2164,10 +2159,17 @@
           "id": "2113344886124794259",
           "reply_to_id": "2113344672609579491",
           "text": "Mfers draw squiggly lines and say vague directional shit without updating anything and yall like WOW INSANITY HOW DO THEY DO IT"
+        },
+        {
+          "created_at": "2026-10-22T19:03:13.000Z",
+          "id": "2113345449075904594",
+          "images": [
+            "https://pbs.twimg.com/media/HVQcfG2acAAc9EF.jpg"
+          ],
+          "text": "I fucking love markets we are back https://t.co/kMt9AYhik0"
         }
       ],
       "reads": {
-        "2112245189658255701": "TRADE LONG AMZN",
         "2112246148148904222": "No call",
         "2112338778639729018": "No call",
         "2112340063950631326": "No call",
@@ -2183,18 +2185,10 @@
         "2113339061301879138": "No call",
         "2113339524768252042": "No call",
         "2113344672609579491": "No call",
-        "2113344886124794259": "No call"
+        "2113344886124794259": "No call",
+        "2113345449075904594": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-20T00:27:01.000Z",
-          "id": "2112339769799901470",
-          "images": [
-            "https://pbs.twimg.com/media/HVCJ0z0aQAAc3y3.jpg"
-          ],
-          "reply_to_id": "2112339062468096178",
-          "text": "@icyponds My personal favourite \n\nA trader is nothing without conviction\u2026 https://t.co/h8kLLBDOYW"
-        },
         {
           "created_at": "2026-10-20T16:19:49.000Z",
           "id": "2112579553218687082",
@@ -2278,6 +2272,12 @@
           "id": "2113339358808072681",
           "reply_to_id": "2113337217729102279",
           "text": "@Brunoceros Not really holding too much stuff that is being raped and diversified enough into defensives that yeah it\u2019s chill plus the ewy short set me up well, will look to add the other 50% of book over time as things clear up"
+        },
+        {
+          "created_at": "2026-10-22T19:02:51.000Z",
+          "id": "2113345355073089983",
+          "reply_to_id": "2113344902822269265",
+          "text": "@frizzaud #investing"
         }
       ],
       "threads": {
@@ -2472,13 +2472,15 @@
         "2113344672609579491": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2113345449075904594": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112245189658255701": true,
         "2112246148148904222": true,
         "2112338778639729018": true,
-        "2112339769799901470": false,
         "2112340063950631326": true,
         "2112341081329463774": true,
         "2112341894554648629": true,
@@ -2509,7 +2511,9 @@
         "2113339524768252042": false,
         "2113342412429078866": true,
         "2113344672609579491": true,
-        "2113344886124794259": true
+        "2113344886124794259": true,
+        "2113345355073089983": false,
+        "2113345449075904594": true
       },
       "user_id": "953032269433745408"
     },
@@ -5724,5 +5728,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T19:02:28+00:00"
+  "updated_at": "2026-10-22T19:04:19+00:00"
 }
