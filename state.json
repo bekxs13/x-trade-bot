@@ -3597,7 +3597,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2113366501499535462",
+      "last_id": "2113391874417344985",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3633,12 +3633,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T17:53:49.000Z",
-          "id": "2112603207977636243",
-          "reply_to_id": "2112602884810449161",
-          "text": "the thing that tangibly makes you retarded leads to a better working brain \n\n\ud83e\udd13"
-        },
         {
           "created_at": "2026-10-20T19:10:14.000Z",
           "id": "2112622436298674308",
@@ -3751,10 +3745,15 @@
           "created_at": "2026-10-22T19:44:11.000Z",
           "id": "2113355757542347010",
           "text": "it\u2019s been fun debating the whole what\u2019s gonna happen to crypto when ai legs down again i guess we\u2019re gonna get our answer"
+        },
+        {
+          "created_at": "2026-10-22T22:07:42.000Z",
+          "id": "2113391874417344985",
+          "quoted_text": "as bad as things have gotten in the past 4 days, they are going to get a lot worse before they get better. security leaders, never let a crisis go to waste: please go to your boards and ask for help right now. not for ai, for the basics. (we need to hold on for ~18 months.) https://t.co/bcZp4heDtS",
+          "text": "most rational calm and optimistic anthropic employee comms https://t.co/ZmXiTl22Hl"
         }
       ],
       "reads": {
-        "2112603207977636243": "Read together with the post it replies to",
         "2112622436298674308": "No call: bullish on TWST (55%, too unsure)",
         "2112631379502506077": "No call",
         "2112705823197855757": "VIEW bearish on stocks/macro",
@@ -3772,7 +3771,8 @@
         "2113316527831175441": "No call",
         "2113336192578302265": "No call",
         "2113336901352526218": "No call",
-        "2113355757542347010": "No call"
+        "2113355757542347010": "No call",
+        "2113391874417344985": "No call"
       },
       "replies": [
         {
@@ -4125,10 +4125,13 @@
         "2113355757542347010": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113391874417344985": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112603207977636243": false,
         "2112622436298674308": false,
         "2112631379502506077": true,
         "2112705823197855757": true,
@@ -4162,7 +4165,8 @@
         "2113355757542347010": true,
         "2113358039344456124": false,
         "2113358886941974792": false,
-        "2113366501499535462": false
+        "2113366501499535462": false,
+        "2113391874417344985": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5740,5 +5744,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T21:56:23+00:00"
+  "updated_at": "2026-10-22T22:08:23+00:00"
 }
