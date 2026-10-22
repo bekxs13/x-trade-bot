@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113365658692124753",
+      "last_id": "2113369845387694390",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -122,14 +122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T16:41:59.000Z",
-          "id": "2112585131580178472",
-          "images": [
-            "https://pbs.twimg.com/media/HVFo-o9XUAAw8CS.jpg"
-          ],
-          "text": "Highly productive economy https://t.co/vIWPiW13LW"
-        },
         {
           "created_at": "2026-10-21T05:31:21.000Z",
           "id": "2112778748705808669",
@@ -248,10 +240,17 @@
           "id": "2113357335523676370",
           "reply_to_id": "2113356579609452917",
           "text": "Think this is like 85 and 10 respectively on PM? Haven\u2019t checked in a while tho maybe bad memory"
+        },
+        {
+          "created_at": "2026-10-22T20:40:10.000Z",
+          "id": "2113369845387694390",
+          "images": [
+            "https://pbs.twimg.com/media/HVQyq16W8AEnaKE.jpg"
+          ],
+          "text": "2026 https://t.co/oIce6qSF6G"
         }
       ],
       "reads": {
-        "2112585131580178472": "No call",
         "2112778748705808669": "No call",
         "2112909342429331544": "No call",
         "2112926995025990106": "No call",
@@ -269,7 +268,8 @@
         "2113340035856543849": "No call",
         "2113352306108272895": "No call",
         "2113356579609452917": "No call",
-        "2113357335523676370": "No call"
+        "2113357335523676370": "No call",
+        "2113369845387694390": "No call"
       },
       "replies": [
         {
@@ -370,10 +370,6 @@
         }
       ],
       "threads": {
-        "2109587377954189402": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109692028447834274": {
           "alerted": [],
           "self_replies": 0
@@ -783,10 +779,13 @@
         "2113356579609452917": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2113369845387694390": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112585131580178472": false,
         "2112778748705808669": true,
         "2112909342429331544": false,
         "2112926995025990106": false,
@@ -820,7 +819,8 @@
         "2113357335523676370": true,
         "2113357988581036032": false,
         "2113359814315454493": true,
-        "2113365658692124753": false
+        "2113365658692124753": false,
+        "2113369845387694390": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5735,5 +5735,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T20:28:16+00:00"
+  "updated_at": "2026-10-22T20:40:29+00:00"
 }
