@@ -1988,7 +1988,7 @@
         }
       ],
       "handle": "lbattlerhino",
-      "last_id": "2113339061301879138",
+      "last_id": "2113339524768252042",
       "positions": {
         "AMZN": {
           "asset": "AMZN",
@@ -2040,13 +2040,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-18T18:44:29.000Z",
-          "id": "2111891183027065262",
-          "quoted_text": "Still waiting for that flush into 81s, best case scenario is we range from that level to around yearly opens on majors which acted as hard walls. \n\nRange 81-89, add strong alts at lows and tp lev off at highs. However, leaders like hype ena zec breaking structure at key levels not great. \n\nTook off the rest of my perps for small wins and waiting, not the best time to press risk imo.",
-          "reply_to_id": "2111890824229470507",
-          "text": "Structures broke quite a while ago https://t.co/xe1FaqHTIm"
-        },
         {
           "created_at": "2026-10-18T18:47:41.000Z",
           "id": "2111891987742019640",
@@ -2162,6 +2155,12 @@
           "created_at": "2026-10-22T18:37:50.000Z",
           "id": "2113339061301879138",
           "text": "Defensive stuff like Brk is good cuz when the entire market is going retard speculation mode it doesn\u2019t really have much downside but when it\u2019s time for a rotation into defensives cuz ppl scared you get diversified returns \n\n#investing"
+        },
+        {
+          "created_at": "2026-10-22T18:39:41.000Z",
+          "id": "2113339524768252042",
+          "reply_to_id": "2113339061301879138",
+          "text": "This was a nonironic use of #investing idk why I did it this time"
         }
       ],
       "reads": {
@@ -2180,15 +2179,10 @@
         "2113328755754340518": "No call",
         "2113333869600702728": "No call",
         "2113335296649748708": "TRADE LONG WLD",
-        "2113339061301879138": "No call"
+        "2113339061301879138": "No call",
+        "2113339524768252042": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-19T19:56:50.000Z",
-          "id": "2112271778794107062",
-          "reply_to_id": "2112270848782430369",
-          "text": "@Evan_ss6 Now watch this drive"
-        },
         {
           "created_at": "2026-10-20T00:27:01.000Z",
           "id": "2112339769799901470",
@@ -2275,6 +2269,12 @@
           "id": "2113330403386036644",
           "reply_to_id": "2113329680514510923",
           "text": "@TradeRansoze You = goychopped \n\nMe = tweet same thing for weeks cuz range is range"
+        },
+        {
+          "created_at": "2026-10-22T18:39:01.000Z",
+          "id": "2113339358808072681",
+          "reply_to_id": "2113337217729102279",
+          "text": "@Brunoceros Not really holding too much stuff that is being raped and diversified enough into defensives that yeah it\u2019s chill plus the ewy short set me up well, will look to add the other 50% of book over time as things clear up"
         }
       ],
       "threads": {
@@ -2464,17 +2464,15 @@
         },
         "2113339061301879138": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2111891183027065262": true,
         "2111891987742019640": true,
         "2111951201671712775": true,
         "2112237620696907810": true,
         "2112245189658255701": true,
         "2112246148148904222": true,
-        "2112271778794107062": false,
         "2112338778639729018": true,
         "2112339769799901470": false,
         "2112340063950631326": true,
@@ -2502,7 +2500,9 @@
         "2113330403386036644": true,
         "2113333869600702728": true,
         "2113335296649748708": true,
-        "2113339061301879138": true
+        "2113339061301879138": true,
+        "2113339358808072681": true,
+        "2113339524768252042": false
       },
       "user_id": "953032269433745408"
     },
@@ -5717,5 +5717,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T18:38:24+00:00"
+  "updated_at": "2026-10-22T18:40:30+00:00"
 }
