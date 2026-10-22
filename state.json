@@ -844,12 +844,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2112822435452174828",
-          "reason": "\"coins look good\" is a broad bullish read on crypto, flipping the recorded bearish crypto market view from 10-18.",
+          "post_id": "2113380587851706645",
+          "reason": "\"becoming more cautious... after being pretty bullish\" and \"less confident in the bullish setup\", while saying shorting at support is tricky. That is a shift from bullish to cautious/neutral.",
           "scope": "crypto market",
-          "since": "2026-10-21",
-          "stance": "bullish",
-          "updated_at": "2026-10-21T08:24:57.000Z"
+          "since": "2026-10-22",
+          "stance": "neutral",
+          "updated_at": "2026-10-22T21:22:51.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -933,7 +933,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2113369912798490737",
+      "last_id": "2113380587851706645",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -953,11 +953,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-21T14:20:09.000Z",
-          "id": "2112911823888679254",
-          "text": "alpenglow live?"
-        },
         {
           "created_at": "2026-10-21T14:39:53.000Z",
           "id": "2112916788426232161",
@@ -1073,10 +1068,17 @@
           "created_at": "2026-10-22T20:40:26.000Z",
           "id": "2113369912798490737",
           "text": "It's Worse Than You Think w/ @Banks - Presented by @polymarket https://t.co/zzjCaJ3upy"
+        },
+        {
+          "created_at": "2026-10-22T21:22:51.000Z",
+          "id": "2113380587851706645",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2113380351200653312/img/rmiAcbxrPwnpoyC8.jpg"
+          ],
+          "text": "i'm becoming more cautious about the market here after being pretty bullish recently\n\nBTC, ETH and SOL are trading around important support levels, which makes shorting at this stage particularly tricky\n\ni'd rather focus on managing risk, taking profits where appropriate and keeping flexibility than forcing trades in either direction\n\nthe market could still bounce from here, but i'm less confident in the bullish setup than i was a few weeks ago"
         }
       ],
       "reads": {
-        "2112911823888679254": "No call",
         "2112916788426232161": "No call: bullish on sol (same view as before)",
         "2112958140862042489": "No call",
         "2112974503571783683": "No call",
@@ -1094,7 +1096,8 @@
         "2113359042361889036": "No call: bearish on semis (65%, too unsure)",
         "2113359509351551259": "No call",
         "2113359534701854842": "No call",
-        "2113369912798490737": "No call"
+        "2113369912798490737": "No call",
+        "2113380587851706645": "VIEW neutral on crypto market"
       },
       "replies": [
         {
@@ -1192,10 +1195,6 @@
         }
       ],
       "threads": {
-        "2108973219302772787": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108977096584462564": {
           "alerted": [],
           "self_replies": 0
@@ -1612,10 +1611,15 @@
         "2113369912798490737": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113380587851706645": {
+          "alerted": [
+            "bias:crypto market:neutral"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112911823888679254": true,
         "2112916788426232161": true,
         "2112958140862042489": true,
         "2112970081856569462": false,
@@ -1649,7 +1653,8 @@
         "2113360956025679912": false,
         "2113361628054061080": false,
         "2113362396794204321": false,
-        "2113369912798490737": false
+        "2113369912798490737": false,
+        "2113380587851706645": true
       },
       "user_id": "973261472"
     },
@@ -5732,5 +5737,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T21:18:21+00:00"
+  "updated_at": "2026-10-22T21:24:26+00:00"
 }
