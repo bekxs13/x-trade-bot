@@ -3541,7 +3541,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2113244491033284827",
+      "last_id": "2113248605993578845",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3577,18 +3577,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-18T22:18:04.000Z",
-          "id": "2111944930092294530",
-          "reply_to_id": "2111944213352919424",
-          "text": "i have no coins and am having fun bear roping in telegram \ud83d\udcaa"
-        },
-        {
-          "created_at": "2026-10-18T22:19:26.000Z",
-          "id": "2111945278005682270",
-          "reply_to_id": "2111944930092294530",
-          "text": "peter borish"
-        },
         {
           "created_at": "2026-10-19T13:35:54.000Z",
           "id": "2112175913647395226",
@@ -3696,10 +3684,21 @@
           "id": "2113235484877217856",
           "quoted_text": "who is the best cybersecurity expert i can invite on stream tomorrow to explain wtf is happening",
           "text": "I will be live with @tayvano_ at 10:15am est (on all platforms) to try and breakdown wtf is happening and wtf we should do https://t.co/0I80kAtJ9f"
+        },
+        {
+          "created_at": "2026-10-22T12:38:15.000Z",
+          "id": "2113248567565627526",
+          "quoted_text": "This has to be the most insane 24 hours in news\n-they made gold with alchemy\n-entire internet hackable\n-Railway vulnerability\n-4 more tankers hit\n\nAnother day in Nasdaqistan",
+          "text": "least eventful market day in 2026 https://t.co/OR0MGTh1Y2"
+        },
+        {
+          "created_at": "2026-10-22T12:38:24.000Z",
+          "id": "2113248605993578845",
+          "reply_to_id": "2113248567565627526",
+          "text": "it\u2019s actually insane lmaoaoaoaooaa every fucking day"
         }
       ],
       "reads": {
-        "2111944930092294530": "No call",
         "2112175913647395226": "No call",
         "2112524196786163830": "No call",
         "2112563678453125605": "No call",
@@ -3716,7 +3715,9 @@
         "2113047220778049862": "No call",
         "2113056641188815241": "No call",
         "2113058492416446574": "No call",
-        "2113235484877217856": "No call"
+        "2113235484877217856": "No call",
+        "2113248567565627526": "No call",
+        "2113248605993578845": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -4041,11 +4042,13 @@
         "2113235484877217856": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113248567565627526": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2111944930092294530": true,
-        "2111945278005682270": false,
         "2112175913647395226": false,
         "2112524196786163830": true,
         "2112563678453125605": false,
@@ -4078,7 +4081,9 @@
         "2113086584388268486": false,
         "2113229304247042380": false,
         "2113235484877217856": false,
-        "2113244491033284827": false
+        "2113244491033284827": false,
+        "2113248567565627526": true,
+        "2113248605993578845": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5656,5 +5661,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-22T12:22:20+00:00"
+  "updated_at": "2026-10-22T12:40:22+00:00"
 }
