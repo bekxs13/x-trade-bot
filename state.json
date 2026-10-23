@@ -932,7 +932,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2113401207754817868",
+      "last_id": "2113420767472083318",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -952,12 +952,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-21T18:29:13.000Z",
-          "id": "2112974503571783683",
-          "quoted_text": "The 1st Place Giants are starting JJ McCarthy this week against the Texans.\n\nNo-brainer after his 4th quarter on Sunday.  https://t.co/62R8N26Zak",
-          "text": "the 1st place giants man what the fuck https://t.co/UYXi940iQD"
-        },
         {
           "created_at": "2026-10-21T18:36:58.000Z",
           "id": "2112976453247873190",
@@ -1077,10 +1071,17 @@
           "created_at": "2026-10-22T22:44:47.000Z",
           "id": "2113401207754817868",
           "text": "WULIP KING"
+        },
+        {
+          "created_at": "2026-10-23T00:02:31.000Z",
+          "id": "2113420767472083318",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2113420665814749184/img/CoyfTuCal8Hs6GCa.jpg"
+          ],
+          "text": "i see crypto becoming a much bigger part of how value moves around the world\n\nstablecoins have already shown how much easier it can be to move money globally, and i think tokenization could eventually do something similar for businesses\n\nHyperliquid is an interesting example of how companies can use tokens to align users, teams and the economics of their products\n\nover time, i wouldn't be surprised to see more private companies explore tokenization as an alternative way to access capital markets rather than following the traditional IPO route"
         }
       ],
       "reads": {
-        "2112974503571783683": "No call",
         "2112976453247873190": "No call",
         "2112990849126879570": "No call",
         "2113009457592517059": "No call",
@@ -1099,7 +1100,8 @@
         "2113380587851706645": "VIEW neutral on crypto market",
         "2113388576633434441": "No call",
         "2113396873386234153": "No call",
-        "2113401207754817868": "No call"
+        "2113401207754817868": "No call",
+        "2113420767472083318": "No call"
       },
       "replies": [
         {
@@ -1197,10 +1199,6 @@
         }
       ],
       "threads": {
-        "2109188850966757704": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109258057075351629": {
           "alerted": [],
           "self_replies": 0
@@ -1619,10 +1617,13 @@
         "2113401207754817868": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113420767472083318": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112974503571783683": false,
         "2112976453247873190": false,
         "2112990849126879570": true,
         "2113009457592517059": true,
@@ -1656,7 +1657,8 @@
         "2113380587851706645": true,
         "2113388576633434441": false,
         "2113396873386234153": true,
-        "2113401207754817868": true
+        "2113401207754817868": true,
+        "2113420767472083318": true
       },
       "user_id": "973261472"
     },
@@ -5746,5 +5748,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-23T00:02:19+00:00"
+  "updated_at": "2026-10-23T00:04:24+00:00"
 }
