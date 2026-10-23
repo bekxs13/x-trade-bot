@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113693519915127017",
+      "last_id": "2113756434273882290",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,14 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T18:41:43.000Z",
-          "id": "2113340035856543849",
-          "images": [
-            "https://pbs.twimg.com/media/HVQXj8pXQAAhXeP.jpg"
-          ],
-          "text": "https://t.co/AravqP1fVx"
-        },
         {
           "created_at": "2026-10-22T19:30:28.000Z",
           "id": "2113352306108272895",
@@ -262,10 +254,17 @@
           "created_at": "2026-10-23T18:06:20.000Z",
           "id": "2113693519915127017",
           "text": "Ill block a bitch on Gmail I\u2019ll block a bitch on Yahoo I\u2019ll block a bitch on hotmail I\u2019ll block a bitch off AOL I\u2019ll block a bitch off the SoundCloud I\u2019ll \n\n[hook]\n\nI\u2019ll block a bitch on the android I don\u2019t even got an android I\u2019ll buy one just to block you on the android"
+        },
+        {
+          "created_at": "2026-10-23T22:16:20.000Z",
+          "id": "2113756434273882290",
+          "images": [
+            "https://pbs.twimg.com/media/HVWSRGFWMAAl-KR.jpg"
+          ],
+          "text": "https://t.co/Od5HAxVleM"
         }
       ],
       "reads": {
-        "2113340035856543849": "No call",
         "2113352306108272895": "No call",
         "2113356579609452917": "No call",
         "2113357335523676370": "No call",
@@ -283,7 +282,8 @@
         "2113691286347939841": "No call",
         "2113692851703885983": "No call",
         "2113692997699399879": "No call",
-        "2113693519915127017": "No call"
+        "2113693519915127017": "No call",
+        "2113756434273882290": "No call"
       },
       "replies": [
         {
@@ -381,10 +381,6 @@
         }
       ],
       "threads": {
-        "2109822997737709736": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109825441041178656": {
           "alerted": [],
           "self_replies": 1
@@ -796,12 +792,15 @@
         "2113693519915127017": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113756434273882290": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2113338438946570575": true,
         "2113339081367392403": false,
-        "2113340035856543849": false,
         "2113351763592102120": false,
         "2113352306108272895": true,
         "2113356579609452917": false,
@@ -833,7 +832,8 @@
         "2113691286347939841": false,
         "2113692851703885983": false,
         "2113692997699399879": false,
-        "2113693519915127017": false
+        "2113693519915127017": false,
+        "2113756434273882290": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5780,5 +5780,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-23",
-  "updated_at": "2026-10-23T21:38:24+00:00"
+  "updated_at": "2026-10-23T22:18:25+00:00"
 }
