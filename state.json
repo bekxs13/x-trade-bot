@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113672477641433445",
+      "last_id": "2113688003877253520",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,14 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T15:17:25.000Z",
-          "id": "2113288621528949125",
-          "images": [
-            "https://pbs.twimg.com/media/HVPozQPW4AEzuLC.jpg"
-          ],
-          "text": "Flood https://t.co/lppcMxsWUn"
-        },
         {
           "created_at": "2026-10-22T16:04:53.000Z",
           "id": "2113300569997918537",
@@ -264,10 +256,18 @@
           "id": "2113672477641433445",
           "reply_to_id": "2113672315884261825",
           "text": "Aped a bit it\u2019s probly too illiquid and entries too high but idk"
+        },
+        {
+          "created_at": "2026-10-23T17:44:25.000Z",
+          "id": "2113688003877253520",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/1928196263595360256/img/EnA7UAzMfoQpANGW.jpg"
+          ],
+          "quoted_text": "https://t.co/0WXGYFCUSG",
+          "text": "https://t.co/LSNT9zIB4k https://t.co/7qFyWulIT3"
         }
       ],
       "reads": {
-        "2113288621528949125": "No call",
         "2113300569997918537": "No call",
         "2113326089485373519": "No call: bearish on btc (55%, too unsure)",
         "2113337411749208514": "No call",
@@ -284,7 +284,8 @@
         "2113502301411279354": "No call",
         "2113655863692931340": "No call",
         "2113672315884261825": "No call",
-        "2113672477641433445": "TRADE LONG RVI"
+        "2113672477641433445": "TRADE LONG RVI",
+        "2113688003877253520": "No call"
       },
       "replies": [
         {
@@ -382,10 +383,6 @@
         }
       ],
       "threads": {
-        "2109778482662400314": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109797701344981039": {
           "alerted": [],
           "self_replies": 0
@@ -797,10 +794,13 @@
             "trade:RVI:long"
           ],
           "self_replies": 1
+        },
+        "2113688003877253520": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2113288621528949125": false,
         "2113300569997918537": false,
         "2113326089485373519": true,
         "2113337411749208514": false,
@@ -834,7 +834,8 @@
         "2113502301411279354": false,
         "2113655863692931340": false,
         "2113672315884261825": true,
-        "2113672477641433445": true
+        "2113672477641433445": true,
+        "2113688003877253520": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5781,5 +5782,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-23",
-  "updated_at": "2026-10-23T16:44:25+00:00"
+  "updated_at": "2026-10-23T17:46:23+00:00"
 }
