@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113655863692931340",
+      "last_id": "2113672315884261825",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -122,14 +122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T01:16:13.000Z",
-          "id": "2113076930035745188",
-          "images": [
-            "https://pbs.twimg.com/media/HVMoRGdWoAACKRR.jpg"
-          ],
-          "text": "https://t.co/fD2EUk0hR2"
-        },
         {
           "created_at": "2026-10-22T04:39:37.000Z",
           "id": "2113128114725511647",
@@ -249,10 +241,15 @@
           "created_at": "2026-10-23T15:36:42.000Z",
           "id": "2113655863692931340",
           "text": "I just went and changed my name yeah I feel like Ron Artest"
+        },
+        {
+          "created_at": "2026-10-23T16:42:04.000Z",
+          "id": "2113672315884261825",
+          "quoted_text": "Robinhood Ventures Fund I (RVI) has closed investments in @cognition, which is helping lay the foundation for end-to-end software agents. @cognition joins the Fund alongside @databricks, @openai, and others. \n\nRead more: https://t.co/fqkAJhyqms",
+          "text": "Was initially a hater of this but they built a p solid index of good private names tbh https://t.co/2XxsETlrMS"
         }
       ],
       "reads": {
-        "2113076930035745188": "No call",
         "2113128114725511647": "No call",
         "2113288621528949125": "No call",
         "2113300569997918537": "No call",
@@ -269,7 +266,8 @@
         "2113424258093166836": "No call",
         "2113453417675071525": "No call",
         "2113502301411279354": "No call",
-        "2113655863692931340": "No call"
+        "2113655863692931340": "No call",
+        "2113672315884261825": "No call"
       },
       "replies": [
         {
@@ -367,10 +365,6 @@
         }
       ],
       "threads": {
-        "2109774027598467379": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109778482662400314": {
           "alerted": [],
           "self_replies": 0
@@ -780,10 +774,13 @@
         "2113655863692931340": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113672315884261825": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2113076930035745188": false,
         "2113128114725511647": false,
         "2113288621528949125": false,
         "2113300569997918537": false,
@@ -817,7 +814,8 @@
         "2113453417675071525": true,
         "2113457397704605974": true,
         "2113502301411279354": false,
-        "2113655863692931340": false
+        "2113655863692931340": false,
+        "2113672315884261825": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5764,5 +5762,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-23",
-  "updated_at": "2026-10-23T16:02:25+00:00"
+  "updated_at": "2026-10-23T16:42:27+00:00"
 }
