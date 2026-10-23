@@ -3602,7 +3602,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2113590046175756466",
+      "last_id": "2113596301036355955",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3638,11 +3638,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-21T00:41:35.000Z",
-          "id": "2112705823197855757",
-          "text": "the ai trade is unraveling and bitcoin isn't going down because nobody smart held bitcoin"
-        },
         {
           "created_at": "2026-10-21T01:00:05.000Z",
           "id": "2112710480011591849",
@@ -3755,10 +3750,15 @@
           "id": "2113392669561135470",
           "reply_to_id": "2113392664184041960",
           "text": "Watch on YT!\nhttps://t.co/5SNuJeq0aI"
+        },
+        {
+          "created_at": "2026-10-23T11:40:01.000Z",
+          "id": "2113596301036355955",
+          "quoted_text": "you need to be mentally ill to be some sort of popular streamer or internet eceleb and it doesn\u2019t bode well how much influence this class of people has on the future of politics",
+          "text": "checking in https://t.co/IWAJ1MWE8e"
         }
       ],
       "reads": {
-        "2112705823197855757": "VIEW bearish on stocks/macro",
         "2112710480011591849": "TRADE LONG ZEC \u00b7 VIEW bullish on crypto market",
         "2112886312210747578": "No call",
         "2113047220778049862": "No call",
@@ -3776,7 +3776,8 @@
         "2113355757542347010": "No call",
         "2113391874417344985": "No call",
         "2113392664184041960": "No call",
-        "2113392669561135470": "Read together with the post it replies to"
+        "2113392669561135470": "Read together with the post it replies to",
+        "2113596301036355955": "No call"
       },
       "replies": [
         {
@@ -4137,10 +4138,13 @@
         "2113392664184041960": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2113596301036355955": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112705823197855757": true,
         "2112710480011591849": true,
         "2112728983217242458": false,
         "2112886312210747578": true,
@@ -4174,7 +4178,8 @@
         "2113402135887135076": false,
         "2113420543626297798": false,
         "2113460841312100382": false,
-        "2113590046175756466": false
+        "2113590046175756466": false,
+        "2113596301036355955": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5752,5 +5757,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-22",
-  "updated_at": "2026-10-23T11:16:19+00:00"
+  "updated_at": "2026-10-23T11:40:25+00:00"
 }
