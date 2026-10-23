@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113672315884261825",
+      "last_id": "2113672477641433445",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -119,14 +119,25 @@
           "since": "2026-10-14T15:51:26.000Z",
           "structure": "long calls",
           "url": "https://x.com/based16z/status/2110398080029966763"
+        },
+        "RVI": {
+          "asset": "RVI",
+          "chain": "",
+          "confidence": 0.85,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "",
+          "market": "stocks",
+          "open_price": null,
+          "post_id": "2113672477641433445",
+          "reason": "Reply says 'Aped a bit' under his post praising Robinhood Ventures Fund I (RVI), a fund of private names like OpenAI and Databricks.",
+          "since": "2026-10-23T16:42:43.000Z",
+          "structure": "spot",
+          "url": "https://x.com/based16z/status/2113672477641433445"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T04:39:37.000Z",
-          "id": "2113128114725511647",
-          "text": "https://t.co/Avb7MaRKOJ"
-        },
         {
           "created_at": "2026-10-22T15:17:25.000Z",
           "id": "2113288621528949125",
@@ -247,10 +258,15 @@
           "id": "2113672315884261825",
           "quoted_text": "Robinhood Ventures Fund I (RVI) has closed investments in @cognition, which is helping lay the foundation for end-to-end software agents. @cognition joins the Fund alongside @databricks, @openai, and others. \n\nRead more: https://t.co/fqkAJhyqms",
           "text": "Was initially a hater of this but they built a p solid index of good private names tbh https://t.co/2XxsETlrMS"
+        },
+        {
+          "created_at": "2026-10-23T16:42:43.000Z",
+          "id": "2113672477641433445",
+          "reply_to_id": "2113672315884261825",
+          "text": "Aped a bit it\u2019s probly too illiquid and entries too high but idk"
         }
       ],
       "reads": {
-        "2113128114725511647": "No call",
         "2113288621528949125": "No call",
         "2113300569997918537": "No call",
         "2113326089485373519": "No call: bearish on btc (55%, too unsure)",
@@ -267,7 +283,8 @@
         "2113453417675071525": "No call",
         "2113502301411279354": "No call",
         "2113655863692931340": "No call",
-        "2113672315884261825": "No call"
+        "2113672315884261825": "No call",
+        "2113672477641433445": "TRADE LONG RVI"
       },
       "replies": [
         {
@@ -776,12 +793,13 @@
           "self_replies": 0
         },
         "2113672315884261825": {
-          "alerted": [],
-          "self_replies": 0
+          "alerted": [
+            "trade:RVI:long"
+          ],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2113128114725511647": false,
         "2113288621528949125": false,
         "2113300569997918537": false,
         "2113326089485373519": true,
@@ -815,7 +833,8 @@
         "2113457397704605974": true,
         "2113502301411279354": false,
         "2113655863692931340": false,
-        "2113672315884261825": true
+        "2113672315884261825": true,
+        "2113672477641433445": true
       },
       "user_id": "1446541960181858315"
     },
@@ -5762,5 +5781,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-23",
-  "updated_at": "2026-10-23T16:42:27+00:00"
+  "updated_at": "2026-10-23T16:44:25+00:00"
 }
