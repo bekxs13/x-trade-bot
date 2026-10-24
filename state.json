@@ -1985,7 +1985,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114135876989067705",
+      "last_id": "2114141078827803083",
       "positions": {},
       "posts": [
         {
@@ -2114,12 +2114,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-24T19:07:11.000Z",
-          "id": "2114071221877043338",
-          "reply_to_id": "2114068368089362809",
-          "text": "@StevenGlinert i don't recognize it and from the geopolitical context i am fairly sure it's in ukranian"
-        },
-        {
           "created_at": "2026-10-24T19:08:22.000Z",
           "id": "2114071517705175182",
           "reply_to_id": "2114067731280785765",
@@ -2202,6 +2196,12 @@
           "id": "2114135876989067705",
           "reply_to_id": "2114131495283736751",
           "text": "@Curic_official ? the bond market is getting stronger, not weaker. yields falling is a good thing"
+        },
+        {
+          "created_at": "2026-10-24T23:44:46.000Z",
+          "id": "2114141078827803083",
+          "reply_to_id": "2114119389964587516",
+          "text": "@jukan05 happy birthday !"
         }
       ],
       "threads": {
@@ -2259,7 +2259,6 @@
         "2114050507551408479": false,
         "2114054704888209820": false,
         "2114070284164804762": false,
-        "2114071221877043338": false,
         "2114071517705175182": false,
         "2114072963959930930": false,
         "2114085616187277684": false,
@@ -2280,7 +2279,8 @@
         "2114123812736581675": false,
         "2114126878718234635": true,
         "2114128464781459845": false,
-        "2114135876989067705": true
+        "2114135876989067705": true,
+        "2114141078827803083": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6133,5 +6133,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-24",
-  "updated_at": "2026-10-24T23:26:19+00:00"
+  "updated_at": "2026-10-24T23:46:20+00:00"
 }
