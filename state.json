@@ -1985,7 +1985,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114126878718234635",
+      "last_id": "2114128464781459845",
       "positions": {},
       "posts": [
         {
@@ -2114,12 +2114,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-24T18:34:20.000Z",
-          "id": "2114062955742437518",
-          "reply_to_id": "2114061129148465154",
-          "text": "@teodorio 22"
-        },
-        {
           "created_at": "2026-10-24T18:51:55.000Z",
           "id": "2114067378703417440",
           "reply_to_id": "2114066034848117082",
@@ -2202,6 +2196,12 @@
           "id": "2114126878718234635",
           "reply_to_id": "2114120157216084473",
           "text": "@oghowie it's possible but china is\n1) behind on the tech\n2) produces unreliable chips\n3) a security issue for firms that don't trust china\n\nbut yes it is possible"
+        },
+        {
+          "created_at": "2026-10-24T22:54:39.000Z",
+          "id": "2114128464781459845",
+          "reply_to_id": "2114116003173147003",
+          "text": "@GaetenD this is recency bias and awareness ken paxton is obviously worse lol"
         }
       ],
       "threads": {
@@ -2258,7 +2258,6 @@
         "2114039608249864382": false,
         "2114050507551408479": false,
         "2114054704888209820": false,
-        "2114062955742437518": false,
         "2114067378703417440": false,
         "2114070284164804762": false,
         "2114071221877043338": false,
@@ -2280,7 +2279,8 @@
         "2114122584685974014": true,
         "2114123543956840792": true,
         "2114123812736581675": false,
-        "2114126878718234635": true
+        "2114126878718234635": true,
+        "2114128464781459845": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6133,5 +6133,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-24",
-  "updated_at": "2026-10-24T22:50:19+00:00"
+  "updated_at": "2026-10-24T22:56:20+00:00"
 }
