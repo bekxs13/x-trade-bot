@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113836306099003689",
+      "last_id": "2113845422758470139",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,12 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T21:16:09.000Z",
-          "id": "2113378901577842692",
-          "quoted_text": "We're losing the art of the reply. So many people nowadays love to quotetweet posts, even posts from their own mutuals, when a reply would fit the content just as well. Remember that a reply is generous, and contributes to the post of others.",
-          "text": "Gay https://t.co/d4NSuc9Wpl"
-        },
         {
           "created_at": "2026-10-22T23:51:04.000Z",
           "id": "2113417887423578601",
@@ -269,10 +263,17 @@
             "https://pbs.twimg.com/media/HVXa6Q3XoAAeUee.jpg"
           ],
           "text": "https://t.co/4GPst65ajw"
+        },
+        {
+          "created_at": "2026-10-24T04:09:56.000Z",
+          "id": "2113845422758470139",
+          "images": [
+            "https://pbs.twimg.com/media/HVXjMmnWIAAnOqG.jpg"
+          ],
+          "text": "Uruguay https://t.co/GpSHNvSZCM"
         }
       ],
       "reads": {
-        "2113378901577842692": "No call",
         "2113417887423578601": "No call",
         "2113424258093166836": "No call",
         "2113453417675071525": "No call",
@@ -290,7 +291,8 @@
         "2113786388529262923": "No call",
         "2113820770468069611": "No call",
         "2113826377292222725": "No call",
-        "2113836306099003689": "No call"
+        "2113836306099003689": "No call",
+        "2113845422758470139": "No call"
       },
       "replies": [
         {
@@ -388,10 +390,6 @@
         }
       ],
       "threads": {
-        "2110079299609145355": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2110288062261711186": {
           "alerted": [],
           "self_replies": 0
@@ -799,6 +797,10 @@
         "2113836306099003689": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113845422758470139": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -808,7 +810,6 @@
         "2113375140729811206": false,
         "2113378402367344932": true,
         "2113378727849840736": true,
-        "2113378901577842692": false,
         "2113383216254226497": true,
         "2113384082809770196": false,
         "2113388505888157751": false,
@@ -836,7 +837,8 @@
         "2113820770468069611": false,
         "2113821342495580166": false,
         "2113826377292222725": false,
-        "2113836306099003689": false
+        "2113836306099003689": false,
+        "2113845422758470139": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5783,5 +5785,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-23",
-  "updated_at": "2026-10-24T03:34:21+00:00"
+  "updated_at": "2026-10-24T04:10:22+00:00"
 }
