@@ -1985,7 +1985,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114122584685974014",
+      "last_id": "2114123543956840792",
       "positions": {},
       "posts": [
         {
@@ -2114,12 +2114,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-24T17:10:57.000Z",
-          "id": "2114041971719524592",
-          "reply_to_id": "2114040444506292583",
-          "text": "@0xjustblaze this is less of a gotcha because for those people agency isn't their raison d'etre"
-        },
-        {
           "created_at": "2026-10-24T17:11:37.000Z",
           "id": "2114042139654992188",
           "reply_to_id": "2114041979562779089",
@@ -2202,6 +2196,12 @@
           "id": "2114122584685974014",
           "reply_to_id": "2114114236423246106",
           "text": "@amorphousgoo well, furthermore, the hyperscalers are all investment grade. i don't think this is likely to happen!"
+        },
+        {
+          "created_at": "2026-10-24T22:35:06.000Z",
+          "id": "2114123543956840792",
+          "reply_to_id": "2114114622412443903",
+          "text": "@Curic_official it's not about what memory demand \"should\" be, it's about what it is! if anything negative externalities will increase demand further (spam cleanup, cyber defense, etc)"
         }
       ],
       "threads": {
@@ -2256,7 +2256,6 @@
         "2114015319442575826": true,
         "2114037490541822021": false,
         "2114039608249864382": false,
-        "2114041971719524592": false,
         "2114042139654992188": false,
         "2114045014246637920": false,
         "2114050507551408479": false,
@@ -2280,7 +2279,8 @@
         "2114112782765285884": true,
         "2114116178818023883": true,
         "2114119523242504516": false,
-        "2114122584685974014": true
+        "2114122584685974014": true,
+        "2114123543956840792": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6133,5 +6133,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-24",
-  "updated_at": "2026-10-24T22:32:20+00:00"
+  "updated_at": "2026-10-24T22:36:19+00:00"
 }
