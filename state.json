@@ -3618,7 +3618,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2114000369449668783",
+      "last_id": "2114000814653968769",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3654,11 +3654,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-21T12:38:47.000Z",
-          "id": "2112886312210747578",
-          "text": "MARKET OPEN: Did PumpFun SAVE ONCHAIN?, I BOUGHT CRYPTO BACK, Citrini, BIO &amp; the Future of BALDING https://t.co/P39bZdV5QF"
-        },
         {
           "created_at": "2026-10-21T23:18:10.000Z",
           "id": "2113047220778049862",
@@ -3771,10 +3766,14 @@
           "id": "2113637345563971773",
           "quoted_text": "BREAKING: The White House says Melania Trump has brokered a ceasefire between Russia and Ukraine \"localised to the city of Oleshky\".\n\nhttps://t.co/hGXaVv4lF4\n\n\ud83d\udcfa Sky 501, Virgin 602, Freeview 233 and YouTube https://t.co/NaXtNRnKO8",
           "text": "think  im gonna log off now https://t.co/NHY5JSe3wd"
+        },
+        {
+          "created_at": "2026-10-24T14:27:25.000Z",
+          "id": "2114000814653968769",
+          "text": "ggs i guess frank"
         }
       ],
       "reads": {
-        "2112886312210747578": "No call",
         "2113047220778049862": "No call",
         "2113056641188815241": "No call",
         "2113058492416446574": "No call",
@@ -3793,7 +3792,8 @@
         "2113392669561135470": "Read together with the post it replies to",
         "2113596301036355955": "No call",
         "2113611214127583708": "No call: bullish on crypto market (60%, too unsure)",
-        "2113637345563971773": "No call"
+        "2113637345563971773": "No call",
+        "2114000814653968769": "No call"
       },
       "replies": [
         {
@@ -4166,10 +4166,13 @@
         "2113637345563971773": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114000814653968769": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112886312210747578": true,
         "2113047220778049862": true,
         "2113056641188815241": false,
         "2113058492416446574": false,
@@ -4203,7 +4206,8 @@
         "2113746507560341972": false,
         "2113759877491302865": false,
         "2113812140347752612": false,
-        "2114000369449668783": false
+        "2114000369449668783": false,
+        "2114000814653968769": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5796,5 +5800,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-24",
-  "updated_at": "2026-10-24T14:26:19+00:00"
+  "updated_at": "2026-10-24T14:28:19+00:00"
 }
