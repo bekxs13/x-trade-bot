@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113760375066038611",
+      "last_id": "2113785453442949465",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,11 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T19:47:27.000Z",
-          "id": "2113356579609452917",
-          "text": "Which is more likely"
-        },
         {
           "created_at": "2026-10-22T19:50:27.000Z",
           "id": "2113357335523676370",
@@ -264,10 +259,15 @@
             "https://pbs.twimg.com/media/HVWV202XQAAbeuK.jpg"
           ],
           "text": "https://t.co/d9jcGegCFN"
+        },
+        {
+          "created_at": "2026-10-24T00:11:38.000Z",
+          "id": "2113785453442949465",
+          "reply_to_id": "2113785407875989971",
+          "text": "@BaggerWalmart Early"
         }
       ],
       "reads": {
-        "2113356579609452917": "No call",
         "2113357335523676370": "No call",
         "2113369845387694390": "No call",
         "2113376411004338252": "No call",
@@ -288,12 +288,6 @@
         "2113760375066038611": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-22T18:35:22.000Z",
-          "id": "2113338438946570575",
-          "reply_to_id": "2113337811067924546",
-          "text": "@overlettuce Do nothing / sit in money markets"
-        },
         {
           "created_at": "2026-10-22T18:37:55.000Z",
           "id": "2113339081367392403",
@@ -380,6 +374,12 @@
           "id": "2113457397704605974",
           "reply_to_id": "2113456681049068005",
           "text": "@DeepDishEnjoyer @DavidSacks @AnthropicAI @DarioAmodei I got about 5 bands on the blockchain they got a 1t ipo im helping block \ud83d\ude80"
+        },
+        {
+          "created_at": "2026-10-24T00:11:28.000Z",
+          "id": "2113785407875989971",
+          "reply_to_id": "2113779016528232494",
+          "text": "@BaggerWalmart Bro acting like that\u2019s a bad thing that\u2019s the whole economy"
         }
       ],
       "threads": {
@@ -801,10 +801,8 @@
         }
       },
       "trading": {
-        "2113338438946570575": true,
         "2113339081367392403": false,
         "2113351763592102120": false,
-        "2113356579609452917": false,
         "2113357335523676370": true,
         "2113357988581036032": false,
         "2113359814315454493": true,
@@ -835,7 +833,9 @@
         "2113692997699399879": false,
         "2113693519915127017": false,
         "2113756434273882290": false,
-        "2113760375066038611": false
+        "2113760375066038611": false,
+        "2113785407875989971": false,
+        "2113785453442949465": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5782,5 +5782,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-23",
-  "updated_at": "2026-10-23T23:34:14+00:00"
+  "updated_at": "2026-10-24T00:12:20+00:00"
 }
