@@ -3618,7 +3618,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2114000814653968769",
+      "last_id": "2114001121467326892",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3654,15 +3654,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-21T23:18:10.000Z",
-          "id": "2113047220778049862",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2113042403032752128/img/QGo8G0eJrIw7RseD.jpg"
-          ],
-          "quoted_text": "MAYBE I WAS WRONG ABOUT BLOCKCHAIN TECHNOLOGY\n\nI wrote about how I always used to make fun of the guys who said things like \"Bitcoin is speculative, but the underlying blockchain technology is interesting.\" And now I think maybe they kinda had a point. https://t.co/X1gghCsRge",
-          "text": "MAYBE I WAS WRONG ABOUT BLOCKCHAIN TECHNOLOGY in video form (with a few takes) https://t.co/Cv2x3Cu29H https://t.co/UPKdDhTuTR"
-        },
         {
           "created_at": "2026-10-21T23:55:36.000Z",
           "id": "2113056641188815241",
@@ -3771,10 +3762,18 @@
           "created_at": "2026-10-24T14:27:25.000Z",
           "id": "2114000814653968769",
           "text": "ggs i guess frank"
+        },
+        {
+          "created_at": "2026-10-24T14:28:38.000Z",
+          "id": "2114001121467326892",
+          "images": [
+            "https://pbs.twimg.com/media/HVZw0OjXwAApvXW.jpg"
+          ],
+          "reply_to_id": "2114000814653968769",
+          "text": "i\u2019m not really in the mood to sell tbh https://t.co/skaTt6kXxx"
         }
       ],
       "reads": {
-        "2113047220778049862": "No call",
         "2113056641188815241": "No call",
         "2113058492416446574": "No call",
         "2113235484877217856": "No call",
@@ -3793,7 +3792,8 @@
         "2113596301036355955": "No call",
         "2113611214127583708": "No call: bullish on crypto market (60%, too unsure)",
         "2113637345563971773": "No call",
-        "2114000814653968769": "No call"
+        "2114000814653968769": "No call",
+        "2114001121467326892": "No call"
       },
       "replies": [
         {
@@ -4169,11 +4169,10 @@
         },
         "2114000814653968769": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2113047220778049862": true,
         "2113056641188815241": false,
         "2113058492416446574": false,
         "2113235484877217856": false,
@@ -4207,7 +4206,8 @@
         "2113759877491302865": false,
         "2113812140347752612": false,
         "2114000369449668783": false,
-        "2114000814653968769": false
+        "2114000814653968769": false,
+        "2114001121467326892": true
       },
       "user_id": "1426732252768182281"
     },
@@ -5800,5 +5800,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-24",
-  "updated_at": "2026-10-24T14:28:19+00:00"
+  "updated_at": "2026-10-24T14:30:24+00:00"
 }
