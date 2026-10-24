@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2113845422758470139",
+      "last_id": "2113846049043534213",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,11 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T23:51:04.000Z",
-          "id": "2113417887423578601",
-          "text": "FaZe Banks explains why Kimchi partnering with Bottega Veneta is a huge win for the industry"
-        },
         {
           "created_at": "2026-10-23T00:16:23.000Z",
           "id": "2113424258093166836",
@@ -271,10 +266,14 @@
             "https://pbs.twimg.com/media/HVXjMmnWIAAnOqG.jpg"
           ],
           "text": "Uruguay https://t.co/GpSHNvSZCM"
+        },
+        {
+          "created_at": "2026-10-24T04:12:26.000Z",
+          "id": "2113846049043534213",
+          "text": "For your birthday your boyfriend got a party bus"
         }
       ],
       "reads": {
-        "2113417887423578601": "No call",
         "2113424258093166836": "No call",
         "2113453417675071525": "No call",
         "2113502301411279354": "No call",
@@ -292,7 +291,8 @@
         "2113820770468069611": "No call",
         "2113826377292222725": "No call",
         "2113836306099003689": "No call",
-        "2113845422758470139": "No call"
+        "2113845422758470139": "No call",
+        "2113846049043534213": "No call"
       },
       "replies": [
         {
@@ -390,10 +390,6 @@
         }
       ],
       "threads": {
-        "2110288062261711186": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110289205565989218": {
           "alerted": [],
           "self_replies": 0
@@ -801,6 +797,10 @@
         "2113845422758470139": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2113846049043534213": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -813,7 +813,6 @@
         "2113383216254226497": true,
         "2113384082809770196": false,
         "2113388505888157751": false,
-        "2113417887423578601": false,
         "2113424258093166836": false,
         "2113429623031689698": false,
         "2113451692243251423": false,
@@ -838,7 +837,8 @@
         "2113821342495580166": false,
         "2113826377292222725": false,
         "2113836306099003689": false,
-        "2113845422758470139": false
+        "2113845422758470139": false,
+        "2113846049043534213": false
       },
       "user_id": "1446541960181858315"
     },
@@ -5785,5 +5785,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-23",
-  "updated_at": "2026-10-24T04:10:22+00:00"
+  "updated_at": "2026-10-24T04:14:25+00:00"
 }
