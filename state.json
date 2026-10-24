@@ -3619,7 +3619,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2114069524488093724",
+      "last_id": "2114117774687494473",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -3655,11 +3655,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-21T23:55:36.000Z",
-          "id": "2113056641188815241",
-          "text": "who is the best cybersecurity expert i can invite on stream tomorrow to explain wtf is happening"
-        },
         {
           "created_at": "2026-10-22T00:02:57.000Z",
           "id": "2113058492416446574",
@@ -3772,10 +3767,18 @@
           ],
           "reply_to_id": "2114000814653968769",
           "text": "i\u2019m not really in the mood to sell tbh https://t.co/skaTt6kXxx"
+        },
+        {
+          "created_at": "2026-10-24T22:12:10.000Z",
+          "id": "2114117774687494473",
+          "images": [
+            "https://pbs.twimg.com/media/HVba6MTXMAAvlJx.jpg"
+          ],
+          "quoted_text": "https://t.co/mFBjgLQN4g",
+          "text": "https://t.co/K3dNGIZSab https://t.co/Q6p5J9XfL4"
         }
       ],
       "reads": {
-        "2113056641188815241": "No call",
         "2113058492416446574": "No call",
         "2113235484877217856": "No call",
         "2113248567565627526": "No call",
@@ -3794,7 +3797,8 @@
         "2113611214127583708": "No call: bullish on crypto market (60%, too unsure)",
         "2113637345563971773": "No call",
         "2114000814653968769": "No call",
-        "2114001121467326892": "No call"
+        "2114001121467326892": "No call",
+        "2114117774687494473": "No call"
       },
       "replies": [
         {
@@ -4174,10 +4178,13 @@
         "2114000814653968769": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2114117774687494473": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2113056641188815241": false,
         "2113058492416446574": false,
         "2113235484877217856": false,
         "2113248567565627526": true,
@@ -4211,7 +4218,8 @@
         "2114001505447792974": false,
         "2114049820587614537": false,
         "2114066790821101938": false,
-        "2114069524488093724": false
+        "2114069524488093724": false,
+        "2114117774687494473": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5804,5 +5812,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-24",
-  "updated_at": "2026-10-24T21:16:19+00:00"
+  "updated_at": "2026-10-24T22:12:26+00:00"
 }
