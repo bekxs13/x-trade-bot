@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2114203987125674312",
+      "last_id": "2114293915847463008",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,12 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-23T16:42:43.000Z",
-          "id": "2113672477641433445",
-          "reply_to_id": "2113672315884261825",
-          "text": "Aped a bit it\u2019s probly too illiquid and entries too high but idk"
-        },
         {
           "created_at": "2026-10-23T17:44:25.000Z",
           "id": "2113688003877253520",
@@ -269,10 +263,15 @@
           "created_at": "2026-10-25T03:48:24.000Z",
           "id": "2114202391566279099",
           "text": "DJ at drakes birthday be like imma play Drake"
+        },
+        {
+          "created_at": "2026-10-25T09:52:05.000Z",
+          "id": "2114293915847463008",
+          "quoted_text": "Nathan Fielder's Green Card Gender Typo\n\nNathan Fielder is famous for his signature style of deadpan, cringe comedy that blurs the line between reality and scripted absurdity. Nathan Fielder\u2019s You Can See Everything is a mind-bending masterpiece.\nPitching his deadpan awkwardness against Elizabeth Holmes\u2019 delusion is pure psychological warfare. The twist changes the whole game. Absolutely worth the theater ticket. \ud83c\udfac\ud83d\udd25 I just hope she gets none of the proceeds esp for what she did!\ud83d\ude21 \n\nvia @Letterma",
+          "text": "Letterman was gnarly quick https://t.co/Sg6KmnWibR"
         }
       ],
       "reads": {
-        "2113672477641433445": "TRADE LONG RVI",
         "2113688003877253520": "No call",
         "2113691286347939841": "No call",
         "2113692851703885983": "No call",
@@ -290,7 +289,8 @@
         "2113849893811056954": "No call",
         "2113917872586240415": "No call",
         "2114097284304576962": "No call",
-        "2114202391566279099": "No call"
+        "2114202391566279099": "No call",
+        "2114293915847463008": "No call"
       },
       "replies": [
         {
@@ -385,10 +385,6 @@
         }
       ],
       "threads": {
-        "2110476939488322037": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110482820556861542": {
           "alerted": [],
           "self_replies": 0
@@ -794,6 +790,10 @@
         "2114202391566279099": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114293915847463008": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -806,7 +806,6 @@
         "2113429623031689698": false,
         "2113451692243251423": false,
         "2113457397704605974": true,
-        "2113672477641433445": true,
         "2113688003877253520": false,
         "2113691286347939841": false,
         "2113692851703885983": false,
@@ -831,7 +830,8 @@
         "2114103276547269060": true,
         "2114187337504829709": false,
         "2114202391566279099": false,
-        "2114203987125674312": false
+        "2114203987125674312": false,
+        "2114293915847463008": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6157,5 +6157,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-24",
-  "updated_at": "2026-10-25T09:50:14+00:00"
+  "updated_at": "2026-10-25T09:54:21+00:00"
 }
