@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2114478518608548231",
+      "last_id": "2114488188094021737",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,14 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-23T17:57:27.000Z",
-          "id": "2113691286347939841",
-          "images": [
-            "https://pbs.twimg.com/media/HVVXBcdXIAAhF4F.jpg"
-          ],
-          "text": "Vibes https://t.co/k9AbCSZA82"
-        },
         {
           "created_at": "2026-10-23T18:03:41.000Z",
           "id": "2113692851703885983",
@@ -268,10 +260,15 @@
             "https://pbs.twimg.com/media/HVgi__3XMAMvdJc.jpg"
           ],
           "text": "https://t.co/1KtGR6zxNM"
+        },
+        {
+          "created_at": "2026-10-25T22:44:03.000Z",
+          "id": "2114488188094021737",
+          "quoted_text": "Thiel: \u201cThere is no successor. When the US is done, the West is done, and the world is done.\u201d \u2014 if you truly believed this, what would you do?",
+          "text": "Me after 3 beers https://t.co/zvAnr1Qao3"
         }
       ],
       "reads": {
-        "2113691286347939841": "No call",
         "2113692851703885983": "No call",
         "2113692997699399879": "No call",
         "2113693519915127017": "No call",
@@ -289,7 +286,8 @@
         "2114097284304576962": "No call",
         "2114202391566279099": "No call",
         "2114293915847463008": "No call",
-        "2114478518608548231": "No call"
+        "2114478518608548231": "No call",
+        "2114488188094021737": "No call"
       },
       "replies": [
         {
@@ -384,10 +382,6 @@
         }
       ],
       "threads": {
-        "2110483608737857969": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110499057219383709": {
           "alerted": [],
           "self_replies": 0
@@ -793,6 +787,10 @@
         "2114478518608548231": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114488188094021737": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -805,7 +803,6 @@
         "2113429623031689698": false,
         "2113451692243251423": false,
         "2113457397704605974": true,
-        "2113691286347939841": false,
         "2113692851703885983": false,
         "2113692997699399879": false,
         "2113693519915127017": false,
@@ -830,7 +827,8 @@
         "2114202391566279099": false,
         "2114203987125674312": false,
         "2114293915847463008": false,
-        "2114478518608548231": false
+        "2114478518608548231": false,
+        "2114488188094021737": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6177,5 +6175,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-25",
-  "updated_at": "2026-10-25T22:06:21+00:00"
+  "updated_at": "2026-10-25T22:44:24+00:00"
 }
