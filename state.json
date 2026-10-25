@@ -1981,7 +1981,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114360157140369711",
+      "last_id": "2114405956746444960",
       "positions": {},
       "posts": [
         {
@@ -2105,6 +2105,14 @@
           "id": "2114146134755319833",
           "reply_to_id": "2114145973807251923",
           "text": "this is for us projects - had talked to someone that works on these buildouts recently"
+        },
+        {
+          "created_at": "2026-10-25T17:17:18.000Z",
+          "id": "2114405956746444960",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2114405828694319104/img/gKMhDfiB2dCUmTln.jpg"
+          ],
+          "text": "https://t.co/76Bm30IkEh"
         }
       ],
       "reads": {
@@ -2120,7 +2128,8 @@
         "2114107231335567587": "No call: bullish on memory stocks (same view as before)",
         "2114107233445253248": "Read together with the post it replies to",
         "2114145973807251923": "No call",
-        "2114146134755319833": "Read together with the post it replies to"
+        "2114146134755319833": "Read together with the post it replies to",
+        "2114405956746444960": "No call"
       },
       "replies": [
         {
@@ -2269,6 +2278,10 @@
         "2114145973807251923": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2114405956746444960": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -2305,7 +2318,8 @@
         "2114227053088088106": true,
         "2114231782900105654": true,
         "2114350623051161656": false,
-        "2114360157140369711": false
+        "2114360157140369711": false,
+        "2114405956746444960": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6160,5 +6174,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-25",
-  "updated_at": "2026-10-25T16:42:17+00:00"
+  "updated_at": "2026-10-25T17:18:21+00:00"
 }
