@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2114187337504829709",
+      "last_id": "2114202391566279099",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,12 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-23T16:42:04.000Z",
-          "id": "2113672315884261825",
-          "quoted_text": "Robinhood Ventures Fund I (RVI) has closed investments in @cognition, which is helping lay the foundation for end-to-end software agents. @cognition joins the Fund alongside @databricks, @openai, and others. \n\nRead more: https://t.co/fqkAJhyqms",
-          "text": "Was initially a hater of this but they built a p solid index of good private names tbh https://t.co/2XxsETlrMS"
-        },
         {
           "created_at": "2026-10-23T16:42:43.000Z",
           "id": "2113672477641433445",
@@ -270,10 +264,14 @@
           "id": "2114097284304576962",
           "reply_to_id": "2113786388529262923",
           "text": "Banger"
+        },
+        {
+          "created_at": "2026-10-25T03:48:24.000Z",
+          "id": "2114202391566279099",
+          "text": "DJ at drakes birthday be like imma play Drake"
         }
       ],
       "reads": {
-        "2113672315884261825": "No call",
         "2113672477641433445": "TRADE LONG RVI",
         "2113688003877253520": "No call",
         "2113691286347939841": "No call",
@@ -291,7 +289,8 @@
         "2113849708624122162": "No call",
         "2113849893811056954": "No call",
         "2113917872586240415": "No call",
-        "2114097284304576962": "No call"
+        "2114097284304576962": "No call",
+        "2114202391566279099": "No call"
       },
       "replies": [
         {
@@ -386,10 +385,6 @@
         }
       ],
       "threads": {
-        "2110457497903620432": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110476939488322037": {
           "alerted": [],
           "self_replies": 0
@@ -795,6 +790,10 @@
         "2113917872586240415": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114202391566279099": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -808,7 +807,6 @@
         "2113429623031689698": false,
         "2113451692243251423": false,
         "2113457397704605974": true,
-        "2113672315884261825": true,
         "2113672477641433445": true,
         "2113688003877253520": false,
         "2113691286347939841": false,
@@ -832,7 +830,8 @@
         "2113917872586240415": false,
         "2114097284304576962": false,
         "2114103276547269060": true,
-        "2114187337504829709": false
+        "2114187337504829709": false,
+        "2114202391566279099": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6158,5 +6157,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-24",
-  "updated_at": "2026-10-25T02:50:18+00:00"
+  "updated_at": "2026-10-25T03:50:19+00:00"
 }
