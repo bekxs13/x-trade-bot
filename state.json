@@ -1985,7 +1985,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114162314702201157",
+      "last_id": "2114163528005550565",
       "positions": {},
       "posts": [
         {
@@ -2128,12 +2128,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-24T22:35:06.000Z",
-          "id": "2114123543956840792",
-          "reply_to_id": "2114114622412443903",
-          "text": "@Curic_official it's not about what memory demand \"should\" be, it's about what it is! if anything negative externalities will increase demand further (spam cleanup, cyber defense, etc)"
-        },
-        {
           "created_at": "2026-10-24T22:36:10.000Z",
           "id": "2114123812736581675",
           "reply_to_id": "2114121875022635173",
@@ -2225,6 +2219,12 @@
           ],
           "reply_to_id": "2114161922702463248",
           "text": "@Eric_Erins @theoluminati dude this is sick lol https://t.co/heE7Wa0B3W"
+        },
+        {
+          "created_at": "2026-10-25T01:13:58.000Z",
+          "id": "2114163528005550565",
+          "reply_to_id": "2114163031576129620",
+          "text": "@trundle_gently @theoluminati what's fancier tho?"
         }
       ],
       "threads": {
@@ -2293,7 +2293,6 @@
         "2114107233445253248": true,
         "2114107235957948925": true,
         "2114108033286508977": true,
-        "2114123543956840792": true,
         "2114123812736581675": false,
         "2114126878718234635": true,
         "2114128464781459845": false,
@@ -2309,7 +2308,8 @@
         "2114154541746708662": false,
         "2114160849451388998": false,
         "2114161399442411890": false,
-        "2114162314702201157": false
+        "2114162314702201157": false,
+        "2114163528005550565": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6162,5 +6162,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-24",
-  "updated_at": "2026-10-25T01:10:31+00:00"
+  "updated_at": "2026-10-25T01:14:19+00:00"
 }
