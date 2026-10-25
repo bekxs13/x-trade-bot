@@ -1985,7 +1985,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114141078827803083",
+      "last_id": "2114146134755319833",
       "positions": {},
       "posts": [
         {
@@ -2097,6 +2097,18 @@
           "id": "2114108033286508977",
           "reply_to_id": "2114107235957948925",
           "text": "hard to argue that the market was discounting some probability of an even more rapid increase in capabilities when we are already on a pretty aggressive path compared to say ai2027\n\nthe only reason to think dram is expensive now is to think that it was even more expensive in may"
+        },
+        {
+          "created_at": "2026-10-25T00:04:13.000Z",
+          "id": "2114145973807251923",
+          "quoted_text": "Dylan Patel @dylan522p of SemiAnalysis considers power as a manageable constraint compared to memory, substrate, and optics:\n\n\"Power is definitely a big constraint, but one thing that our research sort of shows that I think is counterintuitive to much of the market is that next year there are data center constraints but a lot less than people realize because there are nearly 50GW data centers being built globally. 7-8GW in China, 35GW in the US, and a bunch everywhere else - Australia, India, Ma",
+          "text": "one supporting piece of evidence that power does not seem to be as big of a binding constraint as earlier is that earlier provisions that the data center buildout include sufficient power generation so as to not be a burden on the grid are often no longer included in agreements https://t.co/qyDrA7KNKB"
+        },
+        {
+          "created_at": "2026-10-25T00:04:52.000Z",
+          "id": "2114146134755319833",
+          "reply_to_id": "2114145973807251923",
+          "text": "this is for us projects - had talked to someone that works on these buildouts recently"
         }
       ],
       "reads": {
@@ -2110,7 +2122,9 @@
         "2114092845464477881": "No call",
         "2114097408611353061": "VIEW bullish on memory stocks",
         "2114107231335567587": "No call: bullish on memory stocks (same view as before)",
-        "2114107233445253248": "Read together with the post it replies to"
+        "2114107233445253248": "Read together with the post it replies to",
+        "2114145973807251923": "No call",
+        "2114146134755319833": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -2246,6 +2260,10 @@
         "2114107231335567587": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2114145973807251923": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
@@ -2280,7 +2298,9 @@
         "2114126878718234635": true,
         "2114128464781459845": false,
         "2114135876989067705": true,
-        "2114141078827803083": false
+        "2114141078827803083": false,
+        "2114145973807251923": true,
+        "2114146134755319833": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6133,5 +6153,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-24",
-  "updated_at": "2026-10-24T23:46:20+00:00"
+  "updated_at": "2026-10-25T00:06:24+00:00"
 }
