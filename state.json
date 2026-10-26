@@ -1978,7 +1978,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114534455562178809",
+      "last_id": "2114540322399326564",
       "positions": {},
       "posts": [
         {
@@ -2128,12 +2128,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-25T01:05:31.000Z",
-          "id": "2114161399442411890",
-          "reply_to_id": "2114160760095936873",
-          "text": "@Itachidata i don't think that's right"
-        },
-        {
           "created_at": "2026-10-25T01:09:09.000Z",
           "id": "2114162314702201157",
           "images": [
@@ -2219,6 +2213,12 @@
           "id": "2114534455562178809",
           "reply_to_id": "2114533710611812763",
           "text": "@yifever i don't think it's going to be a favorite game of mine but it's fun enough and pretty thoughtfully made"
+        },
+        {
+          "created_at": "2026-10-26T02:11:13.000Z",
+          "id": "2114540322399326564",
+          "reply_to_id": "2114535041971732914",
+          "text": "@Duderichy @yifever depends on what you mean by favorite but prolly morrowind"
         }
       ],
       "threads": {
@@ -2302,7 +2302,6 @@
         "2114108033286508977": true,
         "2114145973807251923": true,
         "2114146134755319833": false,
-        "2114161399442411890": false,
         "2114162314702201157": false,
         "2114163528005550565": false,
         "2114171233420059084": false,
@@ -2320,7 +2319,8 @@
         "2114517722134450283": false,
         "2114527597719892372": false,
         "2114529139600368086": false,
-        "2114534455562178809": false
+        "2114534455562178809": false,
+        "2114540322399326564": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6175,5 +6175,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-25",
-  "updated_at": "2026-10-26T01:48:15+00:00"
+  "updated_at": "2026-10-26T02:12:27+00:00"
 }
