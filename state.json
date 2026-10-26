@@ -1991,7 +1991,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114747674717233205",
+      "last_id": "2114763111559565615",
       "positions": {},
       "posts": [
         {
@@ -2147,12 +2147,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-25T03:56:45.000Z",
-          "id": "2114204493801783617",
-          "reply_to_id": "2114182339962261703",
-          "text": "@NickWiswell i like how you say this isn't coherent while literally ignoring the very next comment that basically covers this?\n\nhttps://t.co/c9CBphKgOS"
-        },
-        {
           "created_at": "2026-10-25T05:26:24.000Z",
           "id": "2114227053088088106",
           "reply_to_id": "2114217634233295050",
@@ -2235,6 +2229,12 @@
           "id": "2114746328337006790",
           "reply_to_id": "2114744120035922339",
           "text": "@steve2bacon omg"
+        },
+        {
+          "created_at": "2026-10-26T16:56:30.000Z",
+          "id": "2114763111559565615",
+          "reply_to_id": "2114709995707097430",
+          "text": "@CircleRRRR always has"
         }
       ],
       "threads": {
@@ -2333,7 +2333,6 @@
         "2114108033286508977": true,
         "2114145973807251923": true,
         "2114146134755319833": false,
-        "2114204493801783617": false,
         "2114227053088088106": true,
         "2114231782900105654": true,
         "2114350623051161656": false,
@@ -2356,7 +2355,8 @@
         "2114743788782616584": false,
         "2114746328337006790": false,
         "2114746352358080586": false,
-        "2114747674717233205": false
+        "2114747674717233205": false,
+        "2114763111559565615": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6226,5 +6226,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-26T16:21:05+00:00"
+  "updated_at": "2026-10-26T16:58:16+00:00"
 }
