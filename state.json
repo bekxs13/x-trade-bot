@@ -947,7 +947,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2114730972952560096",
+      "last_id": "2114744563055440320",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -967,11 +967,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T09:43:53.000Z",
-          "id": "2113204687877067039",
-          "text": "gross pa"
-        },
         {
           "created_at": "2026-10-22T14:48:46.000Z",
           "id": "2113281412745039998",
@@ -1106,10 +1101,17 @@
           ],
           "quoted_text": "dont know, i just look at charts\n\nreasoning for my being bullish past week was that a higher high here would maintain bullish structure and trend\n\nweekly bearish engulfing to downside breaks trend & makes it more likely the inefficient move we had on the way up gets filled\n\nthis setup + equities having reason to selloff w/ macro/inflation fears + anthropic growth slowdown is enough to be concerned",
           "text": "https://t.co/6rdtHhlhm1 https://t.co/NmeqOedyuE"
+        },
+        {
+          "created_at": "2026-10-26T15:42:48.000Z",
+          "id": "2114744563055440320",
+          "images": [
+            "https://pbs.twimg.com/media/HVkUvF8WQAAE9uc.jpg"
+          ],
+          "text": "bro really hit a 57x in the Market Bubble squad \ud83d\ude02\n\njoin \ud83d\udc47\n\nhttps://t.co/D1cqHI4GJb https://t.co/fPFQWViwb3"
         }
       ],
       "reads": {
-        "2113204687877067039": "No call",
         "2113281412745039998": "No call",
         "2113333763153248479": "No call",
         "2113356853736358097": "No call",
@@ -1128,7 +1130,8 @@
         "2114709980494561631": "No call",
         "2114710641290138085": "VIEW bearish on btc",
         "2114711547234652251": "No call",
-        "2114719900367466659": "No call: bearish on eth (same view as before)"
+        "2114719900367466659": "No call: bearish on eth (same view as before)",
+        "2114744563055440320": "No call"
       },
       "replies": [
         {
@@ -1223,10 +1226,6 @@
         }
       ],
       "threads": {
-        "2109446775861899417": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109455732659863732": {
           "alerted": [],
           "self_replies": 0
@@ -1645,12 +1644,15 @@
         "2114719900367466659": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114744563055440320": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2113201630552457381": false,
         "2113202651546681557": false,
-        "2113204687877067039": true,
         "2113232612902711458": false,
         "2113281412745039998": true,
         "2113292392577020313": false,
@@ -1682,7 +1684,8 @@
         "2114712456065110210": false,
         "2114719900367466659": true,
         "2114725288190042338": true,
-        "2114730972952560096": true
+        "2114730972952560096": true,
+        "2114744563055440320": true
       },
       "user_id": "973261472"
     },
@@ -6213,5 +6216,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-26T15:40:23+00:00"
+  "updated_at": "2026-10-26T15:44:25+00:00"
 }
