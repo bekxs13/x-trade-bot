@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2114558763705454653",
+      "last_id": "2114560792133779467",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -294,12 +294,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-22T21:36:44.000Z",
-          "id": "2113384082809770196",
-          "reply_to_id": "2113375245570826739",
-          "text": "@tenobrus Perhaps the divergence in view is whether punishment is designed to prevent offender from causing harm or deter other offenders. I grew up super lib anti prison but now idk. Answered 5,5,50,50"
-        },
-        {
           "created_at": "2026-10-22T21:54:19.000Z",
           "id": "2113388505888157751",
           "reply_to_id": "2113387429113499895",
@@ -382,6 +376,12 @@
           "id": "2114558763705454653",
           "reply_to_id": "2114550725259005958",
           "text": "@CryptoEthan 25B used to be a higher market cap"
+        },
+        {
+          "created_at": "2026-10-26T03:32:34.000Z",
+          "id": "2114560792133779467",
+          "reply_to_id": "2114560095367651518",
+          "text": "@ktrivs he aint even do that this time they still trynna meet bro clearly"
         }
       ],
       "threads": {
@@ -797,7 +797,6 @@
         }
       },
       "trading": {
-        "2113384082809770196": false,
         "2113388505888157751": false,
         "2113429623031689698": false,
         "2113451692243251423": false,
@@ -831,7 +830,8 @@
         "2114552533163311386": false,
         "2114555315194867847": false,
         "2114557992628826208": false,
-        "2114558763705454653": true
+        "2114558763705454653": true,
+        "2114560792133779467": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6179,5 +6179,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-25",
-  "updated_at": "2026-10-26T03:26:20+00:00"
+  "updated_at": "2026-10-26T03:34:17+00:00"
 }
