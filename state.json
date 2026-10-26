@@ -1978,18 +1978,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114517722134450283",
+      "last_id": "2114527597719892372",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-24T01:52:55.000Z",
-          "id": "2113810939908866243",
-          "images": [
-            "https://pbs.twimg.com/media/HVXD2D4XAAA0cTu.png"
-          ],
-          "reply_to_id": "2113725935795233218",
-          "text": "https://t.co/jh7UYtGEd4"
-        },
         {
           "created_at": "2026-10-24T03:24:32.000Z",
           "id": "2113833996933111925",
@@ -2110,6 +2101,11 @@
           "created_at": "2026-10-25T20:50:36.000Z",
           "id": "2114459635683881373",
           "text": "call me naive but i don't think crypto twitter can hyperstition multi trillion dollar ai companies into bankruptcy"
+        },
+        {
+          "created_at": "2026-10-26T01:20:39.000Z",
+          "id": "2114527597719892372",
+          "text": "can't believe biden sent his mules to south america"
         }
       ],
       "reads": {
@@ -2126,7 +2122,8 @@
         "2114145973807251923": "No call",
         "2114146134755319833": "Read together with the post it replies to",
         "2114405956746444960": "No call",
-        "2114459635683881373": "No call: bullish on ai stocks (65%, too unsure)"
+        "2114459635683881373": "No call: bullish on ai stocks (65%, too unsure)",
+        "2114527597719892372": "No call"
       },
       "replies": [
         {
@@ -2277,10 +2274,13 @@
         "2114459635683881373": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114527597719892372": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2113810939908866243": false,
         "2113833996933111925": true,
         "2113999171002990880": false,
         "2114015319442575826": true,
@@ -2314,7 +2314,8 @@
         "2114512492072407471": true,
         "2114512960555302934": false,
         "2114514373570146307": false,
-        "2114517722134450283": false
+        "2114517722134450283": false,
+        "2114527597719892372": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6169,5 +6170,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-25",
-  "updated_at": "2026-10-26T00:42:19+00:00"
+  "updated_at": "2026-10-26T01:22:21+00:00"
 }
