@@ -947,7 +947,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2114708655182401780",
+      "last_id": "2114709980494561631",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -967,12 +967,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-21T20:52:00.000Z",
-          "id": "2113010437587718563",
-          "quoted_text": "Your crosschain trades have been slow, broken and overpriced for months.\n\nRelay, used by Fomo &amp; Pumpfun, has led traders to worse fills, missed trades and poor experiences. We refused to let this go on.\n\nIntroducing Pump Bridge: 2x FASTER, 12x FEWER buy errors &amp; the BEST fills \ud83d\udc47 https://t.co/CcDjoznreW",
-          "text": "pump team has been shipping at an insane pace past few weeks https://t.co/Wzo2xXSKZU"
-        },
         {
           "created_at": "2026-10-21T20:57:20.000Z",
           "id": "2113011777873072248",
@@ -1097,10 +1091,17 @@
           "created_at": "2026-10-26T13:20:07.000Z",
           "id": "2114708655182401780",
           "text": "it has become complete counter-consensus to be bullish onchain now, have never seen sentiment this bad & ive been here ~9 years\n\ncrypto twitter has forgotten that it requires actual work on the builder side to make coins do well, so many traders complaining about lower ceilings on coins and not nearly enough people actually trying to build interesting protocols and/or to change that dynamic"
+        },
+        {
+          "created_at": "2026-10-26T13:25:23.000Z",
+          "id": "2114709980494561631",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2114709626243756032/img/IB_JHAcP0JQlXAHB.jpg"
+          ],
+          "text": "Market Bubble ep.24: my full conversation with @shadddowfax - Founder of Sunrise\n\nthe $160T tokenization opportunity, bringing stocks to Solana, memecoins paired with equities and the next wave of capital\n\n0:00 - Sunrise and the $160T opportunity\n4:32 - Tokenized stocks and global markets\n9:06 - Capital formation and onchain IPOs\n13:27 - Memecoins, equities and market structure\n24:02 - The next capital wave and AI agents"
         }
       ],
       "reads": {
-        "2113010437587718563": "No call",
         "2113011777873072248": "No call",
         "2113014893809205471": "No call: maybe exit  (55%, too unsure)",
         "2113204600824340575": "No call",
@@ -1119,7 +1120,8 @@
         "2113420767472083318": "No call",
         "2113432442811875690": "No call",
         "2114706961627230706": "No call",
-        "2114708655182401780": "VIEW bullish on crypto market"
+        "2114708655182401780": "VIEW bullish on crypto market",
+        "2114709980494561631": "No call"
       },
       "replies": [
         {
@@ -1217,10 +1219,6 @@
         }
       ],
       "threads": {
-        "2109420927427789123": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109423308240490601": {
           "alerted": [],
           "self_replies": 0
@@ -1637,10 +1635,13 @@
             "bias:crypto market:bullish"
           ],
           "self_replies": 0
+        },
+        "2114709980494561631": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2113010437587718563": true,
         "2113011777873072248": false,
         "2113014893809205471": true,
         "2113015992976879819": false,
@@ -1674,7 +1675,8 @@
         "2113420767472083318": true,
         "2113432442811875690": true,
         "2114706961627230706": true,
-        "2114708655182401780": true
+        "2114708655182401780": true,
+        "2114709980494561631": true
       },
       "user_id": "973261472"
     },
@@ -6188,5 +6190,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-26T13:20:28+00:00"
+  "updated_at": "2026-10-26T13:26:23+00:00"
 }
