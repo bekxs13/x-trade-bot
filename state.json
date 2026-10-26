@@ -1978,7 +1978,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114512492072407471",
+      "last_id": "2114512960555302934",
       "positions": {},
       "posts": [
         {
@@ -2130,12 +2130,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-25T00:24:19.000Z",
-          "id": "2114151030556639288",
-          "reply_to_id": "2114150739308396982",
-          "text": "@jiratickets wild all i remember from 2016 is like fetty wap"
-        },
-        {
           "created_at": "2026-10-25T00:34:18.000Z",
           "id": "2114153543477157945",
           "images": [
@@ -2227,6 +2221,12 @@
           "id": "2114512492072407471",
           "reply_to_id": "2114510336191766584",
           "text": "@impluto42 @strictrope each gpu still takes 8 stacks so it's the same amount of memory lol i don't see why this would be so tragic for them"
+        },
+        {
+          "created_at": "2026-10-26T00:22:30.000Z",
+          "id": "2114512960555302934",
+          "reply_to_id": "2114512725917249875",
+          "text": "@strictrope @impluto42 why? doesn't seem good or bad to me either way"
         }
       ],
       "threads": {
@@ -2304,7 +2304,6 @@
         "2114108033286508977": true,
         "2114145973807251923": true,
         "2114146134755319833": false,
-        "2114151030556639288": false,
         "2114153543477157945": false,
         "2114154541746708662": false,
         "2114160849451388998": false,
@@ -2320,7 +2319,8 @@
         "2114405956746444960": false,
         "2114459635683881373": true,
         "2114477831933902881": false,
-        "2114512492072407471": true
+        "2114512492072407471": true,
+        "2114512960555302934": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6175,5 +6175,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-25",
-  "updated_at": "2026-10-26T00:22:22+00:00"
+  "updated_at": "2026-10-26T00:24:17+00:00"
 }
