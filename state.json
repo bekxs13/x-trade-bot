@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2114555315194867847",
+      "last_id": "2114557992628826208",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -294,12 +294,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-22T21:15:28.000Z",
-          "id": "2113378727849840736",
-          "reply_to_id": "2113293854128644482",
-          "text": "@jrugss Considering zero sum game (b4 fees) if all the perp traders are cooked the mms prob up stupid"
-        },
-        {
           "created_at": "2026-10-22T21:33:18.000Z",
           "id": "2113383216254226497",
           "reply_to_id": "2113375601058877738",
@@ -382,6 +376,12 @@
           "id": "2114555315194867847",
           "reply_to_id": "2114554856081928687",
           "text": "@tkisrage initially skeptical now repeat"
+        },
+        {
+          "created_at": "2026-10-26T03:21:26.000Z",
+          "id": "2114557992628826208",
+          "reply_to_id": "2114556982875328556",
+          "text": "@ktrivs hit it off with this girl ln and then drake's promoter guy was like all the single ladies come to the front and it was unfortunately over for me"
         }
       ],
       "threads": {
@@ -797,7 +797,6 @@
         }
       },
       "trading": {
-        "2113378727849840736": true,
         "2113383216254226497": true,
         "2113384082809770196": false,
         "2113388505888157751": false,
@@ -831,7 +830,8 @@
         "2114544402257547588": false,
         "2114552478381605253": true,
         "2114552533163311386": false,
-        "2114555315194867847": false
+        "2114555315194867847": false,
+        "2114557992628826208": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6179,5 +6179,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-25",
-  "updated_at": "2026-10-26T03:12:20+00:00"
+  "updated_at": "2026-10-26T03:22:21+00:00"
 }
