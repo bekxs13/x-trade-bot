@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2114488188094021737",
+      "last_id": "2114544402257547588",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,11 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-23T18:03:41.000Z",
-          "id": "2113692851703885983",
-          "text": "GPS closest smoke shop"
-        },
         {
           "created_at": "2026-10-23T18:04:15.000Z",
           "id": "2113692997699399879",
@@ -266,10 +261,18 @@
           "id": "2114488188094021737",
           "quoted_text": "Thiel: \u201cThere is no successor. When the US is done, the West is done, and the world is done.\u201d \u2014 if you truly believed this, what would you do?",
           "text": "Me after 3 beers https://t.co/zvAnr1Qao3"
+        },
+        {
+          "created_at": "2026-10-26T02:27:26.000Z",
+          "id": "2114544402257547588",
+          "images": [
+            "https://pbs.twimg.com/media/HVhe6igbkAAk197.png"
+          ],
+          "quoted_text": "@jiahanjimliu @GillesCapital @liamdaltonjr SpaceX is not buying any neoclouds. Pointless.",
+          "text": "https://t.co/8qbggzazx0 https://t.co/FlykDeJ5Cl"
         }
       ],
       "reads": {
-        "2113692851703885983": "No call",
         "2113692997699399879": "No call",
         "2113693519915127017": "No call",
         "2113756434273882290": "No call",
@@ -287,7 +290,8 @@
         "2114202391566279099": "No call",
         "2114293915847463008": "No call",
         "2114478518608548231": "No call",
-        "2114488188094021737": "No call"
+        "2114488188094021737": "No call",
+        "2114544402257547588": "No call"
       },
       "replies": [
         {
@@ -382,10 +386,6 @@
         }
       ],
       "threads": {
-        "2110499057219383709": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110518129210351764": {
           "alerted": [],
           "self_replies": 0
@@ -791,6 +791,10 @@
         "2114488188094021737": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114544402257547588": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -803,7 +807,6 @@
         "2113429623031689698": false,
         "2113451692243251423": false,
         "2113457397704605974": true,
-        "2113692851703885983": false,
         "2113692997699399879": false,
         "2113693519915127017": false,
         "2113756434273882290": false,
@@ -828,7 +831,8 @@
         "2114203987125674312": false,
         "2114293915847463008": false,
         "2114478518608548231": false,
-        "2114488188094021737": false
+        "2114488188094021737": false,
+        "2114544402257547588": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6175,5 +6179,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-25",
-  "updated_at": "2026-10-26T02:12:27+00:00"
+  "updated_at": "2026-10-26T02:28:20+00:00"
 }
