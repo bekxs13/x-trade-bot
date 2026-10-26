@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2114544402257547588",
+      "last_id": "2114552533163311386",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,12 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-23T18:04:15.000Z",
-          "id": "2113692997699399879",
-          "reply_to_id": "2113692851703885983",
-          "text": "Block your brother off of my gram"
-        },
         {
           "created_at": "2026-10-23T18:06:20.000Z",
           "id": "2113693519915127017",
@@ -270,10 +264,14 @@
           ],
           "quoted_text": "@jiahanjimliu @GillesCapital @liamdaltonjr SpaceX is not buying any neoclouds. Pointless.",
           "text": "https://t.co/8qbggzazx0 https://t.co/FlykDeJ5Cl"
+        },
+        {
+          "created_at": "2026-10-26T02:59:45.000Z",
+          "id": "2114552533163311386",
+          "text": "All she want is Japanese skincare"
         }
       ],
       "reads": {
-        "2113692997699399879": "No call",
         "2113693519915127017": "No call",
         "2113756434273882290": "No call",
         "2113760375066038611": "No call",
@@ -291,15 +289,10 @@
         "2114293915847463008": "No call",
         "2114478518608548231": "No call",
         "2114488188094021737": "No call",
-        "2114544402257547588": "No call"
+        "2114544402257547588": "No call",
+        "2114552533163311386": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-22T21:01:12.000Z",
-          "id": "2113375140729811206",
-          "reply_to_id": "2113374942427541586",
-          "text": "@buccocapital The bit is that almost any 2 poll u post will be some factor between true and 50/50"
-        },
         {
           "created_at": "2026-10-22T21:14:10.000Z",
           "id": "2113378402367344932",
@@ -383,13 +376,15 @@
           "id": "2114203987125674312",
           "reply_to_id": "2114203774550224902",
           "text": "@SoskaKyle Been full drake songs the entire night but makes sense ig"
+        },
+        {
+          "created_at": "2026-10-26T02:59:31.000Z",
+          "id": "2114552478381605253",
+          "reply_to_id": "2114552069181087751",
+          "text": "@bubbleboienjoyr You think he didn\u2019t make much on dogecoin?"
         }
       ],
       "threads": {
-        "2110518129210351764": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110520758036553771": {
           "alerted": [],
           "self_replies": 0
@@ -795,10 +790,13 @@
         "2114544402257547588": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114552533163311386": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2113375140729811206": false,
         "2113378402367344932": true,
         "2113378727849840736": true,
         "2113383216254226497": true,
@@ -807,7 +805,6 @@
         "2113429623031689698": false,
         "2113451692243251423": false,
         "2113457397704605974": true,
-        "2113692997699399879": false,
         "2113693519915127017": false,
         "2113756434273882290": false,
         "2113760375066038611": false,
@@ -832,7 +829,9 @@
         "2114293915847463008": false,
         "2114478518608548231": false,
         "2114488188094021737": false,
-        "2114544402257547588": false
+        "2114544402257547588": false,
+        "2114552478381605253": true,
+        "2114552533163311386": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6180,5 +6179,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-25",
-  "updated_at": "2026-10-26T02:56:22+00:00"
+  "updated_at": "2026-10-26T03:00:26+00:00"
 }
