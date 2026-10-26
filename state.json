@@ -947,7 +947,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2114784197521104928",
+      "last_id": "2114791460134596661",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -967,14 +967,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T14:48:46.000Z",
-          "id": "2113281412745039998",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2113281143932108801/img/eBkHH0D1PHjuawCL.jpg"
-          ],
-          "text": "i see a bigger opportunity in building around speculation than trying to predict which memecoin captures attention next\n\nyounger traders are increasingly comfortable speculating on assets driven by internet culture, and their behavior looks very different from traditional investors\n\nindividual memes might come and go, but the demand for trading them could be much more persistent\n\ni'm interested in how developers turn that recurring activity into sustainable businesses and long-term value"
-        },
         {
           "created_at": "2026-10-22T18:16:47.000Z",
           "id": "2113333763153248479",
@@ -1109,10 +1101,17 @@
             "https://pbs.twimg.com/media/HVkUvF8WQAAE9uc.jpg"
           ],
           "text": "bro really hit a 57x in the Market Bubble squad \ud83d\ude02\n\njoin \ud83d\udc47\n\nhttps://t.co/D1cqHI4GJb https://t.co/fPFQWViwb3"
+        },
+        {
+          "created_at": "2026-10-26T18:49:09.000Z",
+          "id": "2114791460134596661",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2114790888488726528/img/SbxoW_CHAXYXYUQ_.jpg"
+          ],
+          "text": "running a podcast has become one of the more valuable parts of my trading process\n\nbeing on Market Bubble consistently forces me to stay on top of markets, discuss new ideas and challenge my own views with other traders\n\nsome of my best trades have come from conversations like these. i first started looking deeper into SOL after discussing Serum with a friend"
         }
       ],
       "reads": {
-        "2113281412745039998": "No call",
         "2113333763153248479": "No call",
         "2113356853736358097": "No call",
         "2113359042361889036": "No call: bearish on semis (65%, too unsure)",
@@ -1131,7 +1130,8 @@
         "2114710641290138085": "VIEW bearish on btc",
         "2114711547234652251": "No call",
         "2114719900367466659": "No call: bearish on eth (same view as before)",
-        "2114744563055440320": "No call"
+        "2114744563055440320": "No call",
+        "2114791460134596661": "No call"
       },
       "replies": [
         {
@@ -1230,10 +1230,6 @@
         }
       ],
       "threads": {
-        "2109455732659863732": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109456714772722064": {
           "alerted": [],
           "self_replies": 0
@@ -1652,10 +1648,13 @@
         "2114744563055440320": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114791460134596661": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2113281412745039998": true,
         "2113333763153248479": false,
         "2113356853736358097": true,
         "2113359042361889036": true,
@@ -1689,7 +1688,8 @@
         "2114753825890509073": false,
         "2114770817322258683": false,
         "2114780371628052678": false,
-        "2114784197521104928": false
+        "2114784197521104928": false,
+        "2114791460134596661": true
       },
       "user_id": "973261472"
     },
@@ -6242,5 +6242,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-26T18:22:21+00:00"
+  "updated_at": "2026-10-26T18:50:30+00:00"
 }
