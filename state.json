@@ -1998,17 +1998,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114819950816727513",
+      "last_id": "2114846392220868633",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-24T20:33:06.000Z",
-          "id": "2114092845464477881",
-          "images": [
-            "https://pbs.twimg.com/media/HVbEPN3XYAEbaNJ.png"
-          ],
-          "text": "https://t.co/uoFQln6bmz https://t.co/NwKXBhDp92"
-        },
         {
           "created_at": "2026-10-24T20:51:14.000Z",
           "id": "2114097408611353061",
@@ -2132,10 +2124,18 @@
           "id": "2114819950816727513",
           "quoted_text": "@npatel114 The missing link here is that these desks are big brained and know how to actually interpret these weirdly names \u201ccharm\u201d and \u201cvanna\u201d data fields, and I highly doubt they\u2019re looking at where the fat gamma node is to trade off of lol, @DeepDishEnjoyer would know more than me",
           "text": "lol derivatives strategy teams are the research slop given to institutional clients and doesn't reflect the flow desks' opinion. with fundamental stuff it's at least a way to get raw data/information, i have no idea who reads volatility strategy pieces. absolute garbage https://t.co/4XpkpznmE4"
+        },
+        {
+          "created_at": "2026-10-26T22:27:26.000Z",
+          "id": "2114846392220868633",
+          "images": [
+            "https://pbs.twimg.com/media/HVlxlbKW0AAMwR0.jpg"
+          ],
+          "quoted_text": "what if everything just works out. for example we get a deal with iran this weekend and the agent swarms just autonomously decide to quit hacking critical infrastructure. anyone thinking about that scenario",
+          "text": "https://t.co/cuwdEdKZO0 https://t.co/GGRgmDpA5F"
         }
       ],
       "reads": {
-        "2114092845464477881": "No call",
         "2114097408611353061": "VIEW bullish on memory stocks",
         "2114107231335567587": "No call: bullish on memory stocks (same view as before)",
         "2114107233445253248": "Read together with the post it replies to",
@@ -2152,7 +2152,8 @@
         "2114747674717233205": "No call",
         "2114764836647129096": "No call",
         "2114783014597366013": "No call",
-        "2114819950816727513": "No call"
+        "2114819950816727513": "No call",
+        "2114846392220868633": "No call"
       },
       "replies": [
         {
@@ -2340,10 +2341,13 @@
         "2114819950816727513": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114846392220868633": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114092845464477881": false,
         "2114097408611353061": false,
         "2114107231335567587": true,
         "2114107233445253248": true,
@@ -2377,7 +2381,8 @@
         "2114763111559565615": false,
         "2114764836647129096": false,
         "2114783014597366013": false,
-        "2114819950816727513": true
+        "2114819950816727513": true,
+        "2114846392220868633": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6251,5 +6256,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-26T22:26:22+00:00"
+  "updated_at": "2026-10-26T22:28:21+00:00"
 }
