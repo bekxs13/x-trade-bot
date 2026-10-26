@@ -947,7 +947,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2113432442811875690",
+      "last_id": "2114706961627230706",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -967,12 +967,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-21T19:34:10.000Z",
-          "id": "2112990849126879570",
-          "quoted_text": "The largest agentic hackathon ever just concluded.\n\n$350K in cash, inference & token awards, operated by Clawpump, supported by @blknoiz06, @solana, @UsePodAI and @Pumpfun. \n\nIn one month: $50M+ in volume, $500K in creator fees paid out to 200+ builders, and the ecosystem's market cap up 3x to $74.26M.\n\nWhen we started 7 months ago, devs bootstrapping a company from public markets was just an idea. Today, ClawPump is the largest agentic developer platform on Solana.\n\nWe would like to congratulat",
-          "text": "winners of the clawpump x $ANSEM hackathon announced! has been cool to support builders in the ecosystem https://t.co/549F2dx7w2"
-        },
         {
           "created_at": "2026-10-21T20:48:07.000Z",
           "id": "2113009457592517059",
@@ -1096,10 +1090,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2113431659479461888/img/2kHLWMtYtAxKLMqS.jpg"
           ],
           "text": "my NFL slate on @Polymarket is pretty simple this week bros\n\nbears &gt; pats (i think the pats suck)\n\nseahawks &gt; chiefs (seahawks d is too good + chiefs are boutta drop one)\n\neagles + cowboys (hedging eagles with some cowboys but maybe tanner mckee is the next foles) https://t.co/gbsMuA7rKC"
+        },
+        {
+          "created_at": "2026-10-26T13:13:23.000Z",
+          "id": "2114706961627230706",
+          "images": [
+            "https://pbs.twimg.com/media/HVjyxa8WEAAxa89.jpg"
+          ],
+          "text": "it's always darkest before dawn, job not finished\n\nhappy monday https://t.co/s3fnOf9Sid"
         }
       ],
       "reads": {
-        "2112990849126879570": "No call",
         "2113009457592517059": "No call",
         "2113010437587718563": "No call",
         "2113011777873072248": "No call",
@@ -1118,7 +1119,8 @@
         "2113396873386234153": "No call",
         "2113401207754817868": "No call",
         "2113420767472083318": "No call",
-        "2113432442811875690": "No call"
+        "2113432442811875690": "No call",
+        "2114706961627230706": "No call"
       },
       "replies": [
         {
@@ -1216,12 +1218,6 @@
         }
       ],
       "threads": {
-        "2109288381767462951": {
-          "alerted": [
-            "trade:GRASS:long"
-          ],
-          "self_replies": 0
-        },
         "2109417992740343814": {
           "alerted": [
             "bias:alts:bullish"
@@ -1638,10 +1634,13 @@
         "2113432442811875690": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114706961627230706": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2112990849126879570": true,
         "2113009457592517059": true,
         "2113010437587718563": true,
         "2113011777873072248": false,
@@ -1675,7 +1674,8 @@
         "2113396873386234153": true,
         "2113401207754817868": true,
         "2113420767472083318": true,
-        "2113432442811875690": true
+        "2113432442811875690": true,
+        "2114706961627230706": true
       },
       "user_id": "973261472"
     },
@@ -6189,5 +6189,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-26T12:36:22+00:00"
+  "updated_at": "2026-10-26T13:14:32+00:00"
 }
