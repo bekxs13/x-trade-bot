@@ -4025,7 +4025,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2114808573687660883",
+      "last_id": "2114808991805300867",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4061,11 +4061,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T14:03:27.000Z",
-          "id": "2113270011104043229",
-          "text": "calvinfroedge would have loved the market today\ud83e\udd40"
-        },
         {
           "created_at": "2026-10-22T14:15:11.000Z",
           "id": "2113272960890863928",
@@ -4181,10 +4176,14 @@
           "id": "2114723139443728690",
           "quoted_text": "MARKET OPEN: Anthropic S-1 TODAY, Elon KILLS Neoclouds, SOMEBODY SAVE CRYPTO https://t.co/74ZbhjaE09",
           "text": "live with the face of the bulls @QwQiao https://t.co/XyM8nAVWXd"
+        },
+        {
+          "created_at": "2026-10-26T19:58:49.000Z",
+          "id": "2114808991805300867",
+          "text": "how did the market know what was in S-1s before ai summaries"
         }
       ],
       "reads": {
-        "2113270011104043229": "No call",
         "2113272960890863928": "No call",
         "2113316527831175441": "No call",
         "2113336192578302265": "No call",
@@ -4202,7 +4201,8 @@
         "2114688074223583513": "No call",
         "2114693897255342556": "No call",
         "2114697397603569667": "No call",
-        "2114723139443728690": "No call"
+        "2114723139443728690": "No call",
+        "2114808991805300867": "No call"
       },
       "replies": [
         {
@@ -4605,10 +4605,13 @@
         "2114723139443728690": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114808991805300867": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2113270011104043229": true,
         "2113272960890863928": true,
         "2113316527831175441": false,
         "2113336192578302265": true,
@@ -4642,7 +4645,8 @@
         "2114723139443728690": true,
         "2114774450797248814": false,
         "2114801190836027462": false,
-        "2114808573687660883": false
+        "2114808573687660883": false,
+        "2114808991805300867": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6242,5 +6246,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-26T19:58:24+00:00"
+  "updated_at": "2026-10-26T20:00:25+00:00"
 }
