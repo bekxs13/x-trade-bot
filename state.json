@@ -1991,17 +1991,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114763111559565615",
+      "last_id": "2114764836647129096",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-24T18:01:33.000Z",
-          "id": "2114054704888209820",
-          "images": [
-            "https://pbs.twimg.com/media/HVahjInWUAAnyUV.jpg"
-          ],
-          "text": "https://t.co/LEfhOnxaZF"
-        },
         {
           "created_at": "2026-10-24T19:03:27.000Z",
           "id": "2114070284164804762",
@@ -2123,10 +2115,17 @@
           ],
           "quoted_text": "\u201cAs of June 30, 2026, we hadraised an aggregate of\u00a0 $141.1 billion of capital and had cash and cash equivalents of\u00a0 $112.4 billion and short- term investments of $19.3 billion\u201d\n\nI think Anthropic might be okay for a little while tbh.",
           "text": "31.5% lmfao https://t.co/2ZXkgB9Kfl https://t.co/zryKsWWbze"
+        },
+        {
+          "created_at": "2026-10-26T17:03:22.000Z",
+          "id": "2114764836647129096",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2114764745723027456/img/lGI4QJzZCWcDHg_k.jpg"
+          ],
+          "text": "people who woke up today and believed in themselves https://t.co/YqEo5vXTSB"
         }
       ],
       "reads": {
-        "2114054704888209820": "No call",
         "2114070284164804762": "No call",
         "2114085616187277684": "No call",
         "2114092845464477881": "No call",
@@ -2143,7 +2142,8 @@
         "2114710635527180472": "No call",
         "2114729739109703694": "No call",
         "2114746352358080586": "No call",
-        "2114747674717233205": "No call"
+        "2114747674717233205": "No call",
+        "2114764836647129096": "No call"
       },
       "replies": [
         {
@@ -2319,10 +2319,13 @@
         "2114747674717233205": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114764836647129096": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114054704888209820": false,
         "2114070284164804762": false,
         "2114085616187277684": false,
         "2114092845464477881": false,
@@ -2356,7 +2359,8 @@
         "2114746328337006790": false,
         "2114746352358080586": false,
         "2114747674717233205": false,
-        "2114763111559565615": false
+        "2114763111559565615": false,
+        "2114764836647129096": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6226,5 +6230,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-26T16:58:16+00:00"
+  "updated_at": "2026-10-26T17:04:27+00:00"
 }
