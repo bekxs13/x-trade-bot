@@ -947,7 +947,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2114744563055440320",
+      "last_id": "2114747274035368416",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1135,12 +1135,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-22T09:31:44.000Z",
-          "id": "2113201630552457381",
-          "reply_to_id": "2112968265563521026",
-          "text": "@AcidRainbowHalo who would you recommend"
-        },
-        {
           "created_at": "2026-10-22T09:35:48.000Z",
           "id": "2113202651546681557",
           "reply_to_id": "2113195228425322966",
@@ -1223,6 +1217,12 @@
           "id": "2114730972952560096",
           "reply_to_id": "2114729395076448587",
           "text": "@GamerGenieGG capo is bullish?"
+        },
+        {
+          "created_at": "2026-10-26T15:53:34.000Z",
+          "id": "2114747274035368416",
+          "reply_to_id": "2114733534204117026",
+          "text": "@0xuberM everybody contributes to the state of onchain\n\nprotocols and builders are one in the same\n\ntraders decide which tokens to buy\n\nim not sure what you mean by rules are dictated the most by them? by who? there is nothing stopping anyone from building protocols"
         }
       ],
       "threads": {
@@ -1651,7 +1651,6 @@
         }
       },
       "trading": {
-        "2113201630552457381": false,
         "2113202651546681557": false,
         "2113232612902711458": false,
         "2113281412745039998": true,
@@ -1685,7 +1684,8 @@
         "2114719900367466659": true,
         "2114725288190042338": true,
         "2114730972952560096": true,
-        "2114744563055440320": true
+        "2114744563055440320": true,
+        "2114747274035368416": true
       },
       "user_id": "973261472"
     },
@@ -6221,5 +6221,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-26T15:50:25+00:00"
+  "updated_at": "2026-10-26T15:54:20+00:00"
 }
