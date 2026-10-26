@@ -877,6 +877,15 @@
           "stance": "bearish",
           "updated_at": "2026-10-26T14:04:48.000Z"
         },
+        "hype": {
+          "market": "crypto",
+          "post_id": "2114852187201228909",
+          "reason": "Calls Kraken/Payward deploying CFTC-regulated perps on Hyperliquid 'massive', a bullish read on HYPE.",
+          "scope": "HYPE",
+          "since": "2026-10-26",
+          "stance": "bullish",
+          "updated_at": "2026-10-26T22:50:28.000Z"
+        },
         "memecoins": {
           "market": "crypto",
           "post_id": "2109701956440891883",
@@ -950,7 +959,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2114850914742010348",
+      "last_id": "2114852187201228909",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -970,12 +979,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T19:48:32.000Z",
-          "id": "2113356853736358097",
-          "quoted_text": "in november 2023, with sol at $56, ansem said the wealth effect starts past $100.\n\n@blknoiz06 on 1000x, november 23, 2023:\n\n\"i think you're going to see that wealth effect happen like if solana gets repriced up like over a 100 and has like that second cycle that ethereum had\"\n\nthen he named the team people would ape first:\n\n\"the @jito_labs guys i like a lot... if they do launch a token i think that'll probably one of the strongest ones on solana\"\n\njito's token launched two weeks later. sol close",
-          "text": "damn what a time https://t.co/snSy2dddu5"
-        },
         {
           "created_at": "2026-10-22T19:57:14.000Z",
           "id": "2113359042361889036",
@@ -1112,10 +1115,15 @@
           "id": "2114849515316584949",
           "quoted_text": "bullish c fork? @Beetcoin https://t.co/HvMkdEf6bY",
           "text": "look how ugly my charts were man LMFAOOOOOOOOO https://t.co/xCezCEveE5"
+        },
+        {
+          "created_at": "2026-10-26T22:50:28.000Z",
+          "id": "2114852187201228909",
+          "quoted_text": "Payward, the parent company of Kraken, announced its intention to be the first CFTC-regulated deployer on HIP-3* markets. Payward will use Hyperliquid as the infrastructure layer to deploy perpetual futures markets for US clients. Subject to regulatory approval, Bitnomial, Payward\u2019s CFTC-regulated DCM and DCO, would act as the HIP-3* deployer: creating, owning, and administering the markets and clearing and settling the contracts. If approved, NinjaTrader Clearing, Payward\u2019s CFTC-registered FCM,",
+          "text": "this is massive https://t.co/TUJop9jdZB"
         }
       ],
       "reads": {
-        "2113356853736358097": "No call",
         "2113359042361889036": "No call: bearish on semis (65%, too unsure)",
         "2113359509351551259": "No call",
         "2113359534701854842": "No call",
@@ -1134,7 +1142,8 @@
         "2114719900367466659": "No call: bearish on eth (same view as before)",
         "2114744563055440320": "No call",
         "2114791460134596661": "No call",
-        "2114849515316584949": "No call"
+        "2114849515316584949": "No call",
+        "2114852187201228909": "VIEW bullish on HYPE"
       },
       "replies": [
         {
@@ -1233,10 +1242,6 @@
         }
       ],
       "threads": {
-        "2109458016118645023": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109472464246079912": {
           "alerted": [],
           "self_replies": 0
@@ -1655,10 +1660,15 @@
         "2114849515316584949": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114852187201228909": {
+          "alerted": [
+            "bias:hype:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2113356853736358097": true,
         "2113359042361889036": true,
         "2113359509351551259": true,
         "2113359534701854842": false,
@@ -1692,7 +1702,8 @@
         "2114845723518996724": true,
         "2114847242876264451": false,
         "2114849515316584949": true,
-        "2114850914742010348": false
+        "2114850914742010348": false,
+        "2114852187201228909": true
       },
       "user_id": "973261472"
     },
@@ -6256,5 +6267,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-26T22:46:15+00:00"
+  "updated_at": "2026-10-26T22:52:23+00:00"
 }
