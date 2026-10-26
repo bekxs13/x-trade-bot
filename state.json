@@ -1982,14 +1982,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114540322399326564",
+      "last_id": "2114551534423863572",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-24T14:20:53.000Z",
-          "id": "2113999171002990880",
-          "text": "i have an older brother who is only 10 years older and yet the way he consumed japanese media is practically alien to me https://t.co/3jmNLGsX3Z"
-        },
         {
           "created_at": "2026-10-24T15:25:03.000Z",
           "id": "2114015319442575826",
@@ -2110,10 +2105,14 @@
           "id": "2114529139600368086",
           "quoted_text": "lol this game is too stressful im prolly gonna drop it https://t.co/yRwQjeBkTh",
           "text": "picked it up again yesterday and enjoyed it a lot more, have been playing it today too\n\nthe early game is really quite annoying because it's not always exactly clear what isn't supposed to be tackled vs what's a skill issue/no charms/no filled out map yet\n\nmuch more fun now https://t.co/nPTCt8YVr4"
+        },
+        {
+          "created_at": "2026-10-26T02:55:46.000Z",
+          "id": "2114551534423863572",
+          "text": "you know i dont think bolsonaro should have run that ad with lula's mom"
         }
       ],
       "reads": {
-        "2113999171002990880": "No call",
         "2114037490541822021": "No call",
         "2114050507551408479": "No call",
         "2114054704888209820": "No call",
@@ -2128,18 +2127,10 @@
         "2114405956746444960": "No call",
         "2114459635683881373": "No call: bullish on ai stocks (65%, too unsure)",
         "2114527597719892372": "No call",
-        "2114529139600368086": "No call"
+        "2114529139600368086": "No call",
+        "2114551534423863572": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-25T01:09:09.000Z",
-          "id": "2114162314702201157",
-          "images": [
-            "https://pbs.twimg.com/media/HVcDaWEXsAEuirt.jpg"
-          ],
-          "reply_to_id": "2114161922702463248",
-          "text": "@Eric_Erins @theoluminati dude this is sick lol https://t.co/heE7Wa0B3W"
-        },
         {
           "created_at": "2026-10-25T01:13:58.000Z",
           "id": "2114163528005550565",
@@ -2223,6 +2214,12 @@
           "id": "2114540322399326564",
           "reply_to_id": "2114535041971732914",
           "text": "@Duderichy @yifever depends on what you mean by favorite but prolly morrowind"
+        },
+        {
+          "created_at": "2026-10-26T02:54:33.000Z",
+          "id": "2114551228416020673",
+          "reply_to_id": "2114550156427219139",
+          "text": "@plentz LOL blocked for not courtesy liking and not even knowing what kind of person you're following"
         }
       ],
       "threads": {
@@ -2287,10 +2284,13 @@
         "2114529139600368086": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114551534423863572": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2113999171002990880": false,
         "2114015319442575826": true,
         "2114037490541822021": false,
         "2114039608249864382": false,
@@ -2306,7 +2306,6 @@
         "2114108033286508977": true,
         "2114145973807251923": true,
         "2114146134755319833": false,
-        "2114162314702201157": false,
         "2114163528005550565": false,
         "2114171233420059084": false,
         "2114204493801783617": false,
@@ -2324,7 +2323,9 @@
         "2114527597719892372": false,
         "2114529139600368086": false,
         "2114534455562178809": false,
-        "2114540322399326564": false
+        "2114540322399326564": false,
+        "2114551228416020673": false,
+        "2114551534423863572": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6179,5 +6180,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-25",
-  "updated_at": "2026-10-26T02:28:20+00:00"
+  "updated_at": "2026-10-26T02:56:22+00:00"
 }
