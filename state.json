@@ -947,7 +947,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2114711703279857677",
+      "last_id": "2114711961070100873",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1128,21 +1128,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-21T21:14:46.000Z",
-          "id": "2113016163873779845",
-          "reply_to_id": "2113015268314390949",
-          "text": "@Abdulbarri_0x i mean im still net long just less so"
-        },
-        {
-          "created_at": "2026-10-21T21:31:26.000Z",
-          "id": "2113020357921976500",
-          "images": [
-            "https://pbs.twimg.com/media/HVL00JxWYAEBmzX.jpg"
-          ],
-          "reply_to_id": "2113018258983207396",
-          "text": "@mikemajlak you got some strong competition on the name https://t.co/zpncpJz6Gt"
-        },
-        {
           "created_at": "2026-10-21T21:36:38.000Z",
           "id": "2113021667723100230",
           "reply_to_id": "2113019651852566976",
@@ -1219,6 +1204,18 @@
           "id": "2114711703279857677",
           "reply_to_id": "2114710779865838066",
           "text": "@DylanTeil same"
+        },
+        {
+          "created_at": "2026-10-26T13:32:43.000Z",
+          "id": "2114711827628380630",
+          "reply_to_id": "2114710898912985167",
+          "text": "@ashrobin hey ash!"
+        },
+        {
+          "created_at": "2026-10-26T13:33:15.000Z",
+          "id": "2114711961070100873",
+          "reply_to_id": "2114515793488851383",
+          "text": "@notwashed LOL"
         }
       ],
       "threads": {
@@ -1647,8 +1644,6 @@
         }
       },
       "trading": {
-        "2113016163873779845": true,
-        "2113020357921976500": false,
         "2113021667723100230": true,
         "2113027495582986365": true,
         "2113175751327641738": false,
@@ -1681,7 +1676,9 @@
         "2114709980494561631": true,
         "2114710641290138085": true,
         "2114711547234652251": false,
-        "2114711703279857677": false
+        "2114711703279857677": false,
+        "2114711827628380630": false,
+        "2114711961070100873": false
       },
       "user_id": "973261472"
     },
@@ -6199,5 +6196,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-26T13:32:36+00:00"
+  "updated_at": "2026-10-26T13:34:18+00:00"
 }
