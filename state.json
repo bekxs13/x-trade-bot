@@ -1988,14 +1988,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114710635527180472",
+      "last_id": "2114729739109703694",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-24T16:53:09.000Z",
-          "id": "2114037490541822021",
-          "text": "there are some people who define themselves by \"not being normie\" or \"going against the grain\" to *such* an extent that one begins to wonder whether they actually have any agency left"
-        },
         {
           "created_at": "2026-10-24T17:01:34.000Z",
           "id": "2114039608249864382",
@@ -2115,10 +2110,18 @@
           "created_at": "2026-10-26T13:27:59.000Z",
           "id": "2114710635527180472",
           "text": "just woke from a dream that had motion picture for a film playing in the background the entire time"
+        },
+        {
+          "created_at": "2026-10-26T14:43:54.000Z",
+          "id": "2114729739109703694",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2114729680485953536/img/0msBMxA39yq4VPdN.jpg"
+          ],
+          "quoted_text": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\n\nRead more: https://t.co/ofhv0DK3Zp\n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may offers to buy be accepted, prior to the time the registration statement becomes effective. This post does not constitute an offer to sell or the solicitation of an offer to buy these securities, ",
+          "text": "https://t.co/j0IoeewMsU https://t.co/ToqSDIexDh"
         }
       ],
       "reads": {
-        "2114037490541822021": "No call",
         "2114050507551408479": "No call",
         "2114054704888209820": "No call",
         "2114070284164804762": "No call",
@@ -2134,7 +2137,8 @@
         "2114527597719892372": "No call",
         "2114529139600368086": "No call",
         "2114551534423863572": "No call",
-        "2114710635527180472": "No call"
+        "2114710635527180472": "No call",
+        "2114729739109703694": "No call"
       },
       "replies": [
         {
@@ -2298,10 +2302,13 @@
         "2114710635527180472": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114729739109703694": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114037490541822021": false,
         "2114039608249864382": false,
         "2114050507551408479": false,
         "2114054704888209820": false,
@@ -2335,7 +2342,8 @@
         "2114540322399326564": false,
         "2114551228416020673": false,
         "2114551534423863572": false,
-        "2114710635527180472": false
+        "2114710635527180472": false,
+        "2114729739109703694": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6205,5 +6213,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-26T14:26:26+00:00"
+  "updated_at": "2026-10-26T14:44:23+00:00"
 }
