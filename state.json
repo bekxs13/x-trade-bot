@@ -947,7 +947,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2114711961070100873",
+      "last_id": "2114712456065110210",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1128,12 +1128,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-21T21:36:38.000Z",
-          "id": "2113021667723100230",
-          "reply_to_id": "2113019651852566976",
-          "text": "i am bewildered that you all think theyve added all these things to the mobile app while very deliberately tracking activity through trading streaks, callouts, holder rewards, & referrals to not use that information in the future\n\nmany of the things we asked pump to change they have responded to & changed\n\nyou are not using second order thinking"
-        },
-        {
           "created_at": "2026-10-21T21:59:47.000Z",
           "id": "2113027495582986365",
           "reply_to_id": "2113026559967928541",
@@ -1216,6 +1210,12 @@
           "id": "2114711961070100873",
           "reply_to_id": "2114515793488851383",
           "text": "@notwashed LOL"
+        },
+        {
+          "created_at": "2026-10-26T13:35:13.000Z",
+          "id": "2114712456065110210",
+          "reply_to_id": "2114712373038899295",
+          "text": "@mostluckiestmax yea i was at this dinner haha"
         }
       ],
       "threads": {
@@ -1644,7 +1644,6 @@
         }
       },
       "trading": {
-        "2113021667723100230": true,
         "2113027495582986365": true,
         "2113175751327641738": false,
         "2113201630552457381": false,
@@ -1678,7 +1677,8 @@
         "2114711547234652251": false,
         "2114711703279857677": false,
         "2114711827628380630": false,
-        "2114711961070100873": false
+        "2114711961070100873": false,
+        "2114712456065110210": false
       },
       "user_id": "973261472"
     },
@@ -6196,5 +6196,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-26T13:34:18+00:00"
+  "updated_at": "2026-10-26T13:36:17+00:00"
 }
