@@ -1991,17 +1991,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114746352358080586",
+      "last_id": "2114747674717233205",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-24T17:44:52.000Z",
-          "id": "2114050507551408479",
-          "images": [
-            "https://pbs.twimg.com/media/HVaduz3WYAAgZRt.png"
-          ],
-          "text": "https://t.co/797koBAueC https://t.co/b3BOC1Fdz7"
-        },
         {
           "created_at": "2026-10-24T18:01:33.000Z",
           "id": "2114054704888209820",
@@ -2122,10 +2114,18 @@
           "id": "2114746352358080586",
           "quoted_text": "michael burry financial assault victims finding out he also invested their money in Brazil https://t.co/TCOsZwcrXF",
           "text": "this is incredible stuff i should start a paid substack https://t.co/kM3ndqkJJ9"
+        },
+        {
+          "created_at": "2026-10-26T15:55:10.000Z",
+          "id": "2114747674717233205",
+          "images": [
+            "https://pbs.twimg.com/media/HVkXyvPX0AAwnW9.jpg"
+          ],
+          "quoted_text": "\u201cAs of June 30, 2026, we hadraised an aggregate of\u00a0 $141.1 billion of capital and had cash and cash equivalents of\u00a0 $112.4 billion and short- term investments of $19.3 billion\u201d\n\nI think Anthropic might be okay for a little while tbh.",
+          "text": "31.5% lmfao https://t.co/2ZXkgB9Kfl https://t.co/zryKsWWbze"
         }
       ],
       "reads": {
-        "2114050507551408479": "No call",
         "2114054704888209820": "No call",
         "2114070284164804762": "No call",
         "2114085616187277684": "No call",
@@ -2142,7 +2142,8 @@
         "2114551534423863572": "No call",
         "2114710635527180472": "No call",
         "2114729739109703694": "No call",
-        "2114746352358080586": "No call"
+        "2114746352358080586": "No call",
+        "2114747674717233205": "No call"
       },
       "replies": [
         {
@@ -2314,10 +2315,13 @@
         "2114746352358080586": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114747674717233205": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114050507551408479": false,
         "2114054704888209820": false,
         "2114070284164804762": false,
         "2114085616187277684": false,
@@ -2351,7 +2355,8 @@
         "2114729739109703694": true,
         "2114743788782616584": false,
         "2114746328337006790": false,
-        "2114746352358080586": false
+        "2114746352358080586": false,
+        "2114747674717233205": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6221,5 +6226,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-26T15:54:20+00:00"
+  "updated_at": "2026-10-26T15:56:20+00:00"
 }
