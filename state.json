@@ -1995,17 +1995,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114783014597366013",
+      "last_id": "2114819950816727513",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-24T20:04:23.000Z",
-          "id": "2114085616187277684",
-          "images": [
-            "https://pbs.twimg.com/media/HVa9ns9XYAAL0wb.jpg"
-          ],
-          "text": "what were they plotting https://t.co/O2GX390nSP"
-        },
         {
           "created_at": "2026-10-24T20:33:06.000Z",
           "id": "2114092845464477881",
@@ -2131,10 +2123,15 @@
           ],
           "quoted_text": "@zephyr_z9 Silly analysis. \n\nRobot RAM needs will exceed everything else on Earth, as you need the robots to be on physical substates in order to shape atoms.  \n\nSuper intelligence needs will vastly exceed that, but ~100% of SI will be deep space compute. Obviously.",
           "text": "https://t.co/RSBNRFXUiN https://t.co/iErx10ZKnE"
+        },
+        {
+          "created_at": "2026-10-26T20:42:22.000Z",
+          "id": "2114819950816727513",
+          "quoted_text": "@npatel114 The missing link here is that these desks are big brained and know how to actually interpret these weirdly names \u201ccharm\u201d and \u201cvanna\u201d data fields, and I highly doubt they\u2019re looking at where the fat gamma node is to trade off of lol, @DeepDishEnjoyer would know more than me",
+          "text": "lol derivatives strategy teams are the research slop given to institutional clients and doesn't reflect the flow desks' opinion. with fundamental stuff it's at least a way to get raw data/information, i have no idea who reads volatility strategy pieces. absolute garbage https://t.co/4XpkpznmE4"
         }
       ],
       "reads": {
-        "2114085616187277684": "No call",
         "2114092845464477881": "No call",
         "2114097408611353061": "VIEW bullish on memory stocks",
         "2114107231335567587": "No call: bullish on memory stocks (same view as before)",
@@ -2151,7 +2148,8 @@
         "2114746352358080586": "No call",
         "2114747674717233205": "No call",
         "2114764836647129096": "No call",
-        "2114783014597366013": "No call"
+        "2114783014597366013": "No call",
+        "2114819950816727513": "No call"
       },
       "replies": [
         {
@@ -2335,10 +2333,13 @@
         "2114783014597366013": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114819950816727513": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114085616187277684": false,
         "2114092845464477881": false,
         "2114097408611353061": false,
         "2114107231335567587": true,
@@ -2372,7 +2373,8 @@
         "2114747674717233205": false,
         "2114763111559565615": false,
         "2114764836647129096": false,
-        "2114783014597366013": false
+        "2114783014597366013": false,
+        "2114819950816727513": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6246,5 +6248,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-26T20:10:19+00:00"
+  "updated_at": "2026-10-26T20:44:24+00:00"
 }
