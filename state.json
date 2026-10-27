@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2114840837435887981",
+      "last_id": "2114932525705646443",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,11 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-23T18:06:20.000Z",
-          "id": "2113693519915127017",
-          "text": "Ill block a bitch on Gmail I\u2019ll block a bitch on Yahoo I\u2019ll block a bitch on hotmail I\u2019ll block a bitch off AOL I\u2019ll block a bitch off the SoundCloud I\u2019ll \n\n[hook]\n\nI\u2019ll block a bitch on the android I don\u2019t even got an android I\u2019ll buy one just to block you on the android"
-        },
         {
           "created_at": "2026-10-23T22:16:20.000Z",
           "id": "2113756434273882290",
@@ -269,10 +264,17 @@
           "created_at": "2026-10-26T02:59:45.000Z",
           "id": "2114552533163311386",
           "text": "All she want is Japanese skincare"
+        },
+        {
+          "created_at": "2026-10-27T04:09:42.000Z",
+          "id": "2114932525705646443",
+          "images": [
+            "https://pbs.twimg.com/media/HVm_7Bja0AA5nHX.jpg"
+          ],
+          "text": "Monologue of a guy down 30% YTD https://t.co/WcI0Nw5kjd"
         }
       ],
       "reads": {
-        "2113693519915127017": "No call",
         "2113756434273882290": "No call",
         "2113760375066038611": "No call",
         "2113786388529262923": "No call",
@@ -290,7 +292,8 @@
         "2114478518608548231": "No call",
         "2114488188094021737": "No call",
         "2114544402257547588": "No call",
-        "2114552533163311386": "No call"
+        "2114552533163311386": "No call",
+        "2114932525705646443": "No call"
       },
       "replies": [
         {
@@ -388,10 +391,6 @@
         }
       ],
       "threads": {
-        "2110520758036553771": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110572256082743609": {
           "alerted": [],
           "self_replies": 0
@@ -797,12 +796,15 @@
         "2114552533163311386": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114932525705646443": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2113451692243251423": false,
         "2113457397704605974": true,
-        "2113693519915127017": false,
         "2113756434273882290": false,
         "2113760375066038611": false,
         "2113785407875989971": false,
@@ -834,7 +836,8 @@
         "2114558763705454653": true,
         "2114560792133779467": false,
         "2114566251058286847": false,
-        "2114840837435887981": false
+        "2114840837435887981": false,
+        "2114932525705646443": true
       },
       "user_id": "1446541960181858315"
     },
@@ -6279,5 +6282,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-27T03:52:21+00:00"
+  "updated_at": "2026-10-27T04:10:24+00:00"
 }
