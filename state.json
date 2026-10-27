@@ -2009,7 +2009,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114886275820134726",
+      "last_id": "2114888294991593580",
       "positions": {},
       "posts": [
         {
@@ -2169,12 +2169,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-25T22:02:54.000Z",
-          "id": "2114477831933902881",
-          "reply_to_id": "2114473044949561749",
-          "text": "@controlcthenv they're not losing 80 billion dollars a year lmao"
-        },
-        {
           "created_at": "2026-10-26T00:20:38.000Z",
           "id": "2114512492072407471",
           "reply_to_id": "2114510336191766584",
@@ -2257,6 +2251,12 @@
           "id": "2114884504741626129",
           "reply_to_id": "2114860851190456669",
           "text": "@ebervector that's really neat!"
+        },
+        {
+          "created_at": "2026-10-27T01:13:56.000Z",
+          "id": "2114888294991593580",
+          "reply_to_id": "2114831667017986334",
+          "text": "@TrueSlazac most prediction markets are illiquid enough that building credibility to your lie is quite cheap. military/intelligence institutions already do this for attack date markets for example"
         }
       ],
       "threads": {
@@ -2378,7 +2378,6 @@
         "2114146134755319833": false,
         "2114405956746444960": false,
         "2114459635683881373": true,
-        "2114477831933902881": false,
         "2114512492072407471": true,
         "2114512960555302934": false,
         "2114514373570146307": false,
@@ -2406,7 +2405,8 @@
         "2114881511216283993": false,
         "2114884504741626129": false,
         "2114884800758820910": false,
-        "2114886275820134726": true
+        "2114886275820134726": true,
+        "2114888294991593580": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6280,5 +6280,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-27T01:06:22+00:00"
+  "updated_at": "2026-10-27T01:14:19+00:00"
 }
