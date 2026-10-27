@@ -2007,7 +2007,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115072085320220952",
+      "last_id": "2115072584727314671",
       "positions": {},
       "posts": [
         {
@@ -2170,12 +2170,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-26T15:49:49.000Z",
-          "id": "2114746328337006790",
-          "reply_to_id": "2114744120035922339",
-          "text": "@steve2bacon omg"
-        },
-        {
           "created_at": "2026-10-26T16:56:30.000Z",
           "id": "2114763111559565615",
           "reply_to_id": "2114709995707097430",
@@ -2258,6 +2252,12 @@
           "id": "2115072085320220952",
           "reply_to_id": "2115060708136419349",
           "text": "@Hylael1 Okay blocking"
+        },
+        {
+          "created_at": "2026-10-27T13:26:15.000Z",
+          "id": "2115072584727314671",
+          "reply_to_id": "2114993112942846068",
+          "text": "@teodorio i dislike the sites for lots of reasons but uncalibrated markets is not such a reason. 80% of 80/20 markets settle correctly. this is a nonsense take teo"
         }
       ],
       "threads": {
@@ -2392,7 +2392,6 @@
         "2114551534423863572": false,
         "2114710635527180472": false,
         "2114729739109703694": true,
-        "2114746328337006790": false,
         "2114746352358080586": false,
         "2114747674717233205": false,
         "2114763111559565615": false,
@@ -2419,7 +2418,8 @@
         "2115058993546527034": false,
         "2115059683526648285": false,
         "2115059889810837884": false,
-        "2115072085320220952": false
+        "2115072085320220952": false,
+        "2115072584727314671": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6304,5 +6304,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T13:26:18+00:00"
+  "updated_at": "2026-10-27T13:28:21+00:00"
 }
