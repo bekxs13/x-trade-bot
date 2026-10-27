@@ -4061,7 +4061,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115051674574405808",
+      "last_id": "2115052832449548371",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4097,12 +4097,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T18:29:15.000Z",
-          "id": "2113336901352526218",
-          "reply_to_id": "2113336192578302265",
-          "text": "@ShaneStoffer dmd with a little more context but you should do it would be super sick"
-        },
         {
           "created_at": "2026-10-22T19:44:11.000Z",
           "id": "2113355757542347010",
@@ -4217,10 +4211,18 @@
           "id": "2115050424499601853",
           "reply_to_id": "2115049544299983111",
           "text": "FUCK YOU CHUMBA"
+        },
+        {
+          "created_at": "2026-10-27T12:07:45.000Z",
+          "id": "2115052832449548371",
+          "images": [
+            "https://pbs.twimg.com/media/HVotVrGW0AA4gk3.jpg"
+          ],
+          "quoted_text": "get ready for stream today, in our morning call threadguy:\n* had to learn P=NP\n* spent 10 minutes shopping for MREs on Amazon\n* told the entire company it's time to start making babies\n* raged about Chumba\n* spent another 5 minutes MRE shopping",
+          "text": "https://t.co/BsMbGbNswk https://t.co/vm6bKHQngT"
         }
       ],
       "reads": {
-        "2113336901352526218": "No call",
         "2113355757542347010": "No call",
         "2113391874417344985": "No call",
         "2113392664184041960": "No call",
@@ -4237,7 +4239,8 @@
         "2114723139443728690": "No call",
         "2114808991805300867": "No call",
         "2115049500545085582": "No call",
-        "2115049544299983111": "Read together with the post it replies to"
+        "2115049544299983111": "Read together with the post it replies to",
+        "2115052832449548371": "No call"
       },
       "replies": [
         {
@@ -4642,10 +4645,13 @@
         "2115049500545085582": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2115052832449548371": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2113336901352526218": false,
         "2113355757542347010": true,
         "2113391874417344985": false,
         "2113392664184041960": true,
@@ -4679,7 +4685,8 @@
         "2115049500545085582": false,
         "2115049544299983111": false,
         "2115050424499601853": false,
-        "2115051674574405808": false
+        "2115051674574405808": false,
+        "2115052832449548371": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6279,5 +6286,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T12:04:17+00:00"
+  "updated_at": "2026-10-27T12:08:24+00:00"
 }
