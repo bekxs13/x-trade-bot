@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2115195522944549306",
+      "last_id": "2115197660810670197",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,19 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-24T04:26:58.000Z",
-          "id": "2113849708624122162",
-          "images": [
-            "https://pbs.twimg.com/media/HVXnGXTXIAA4IKX.jpg"
-          ],
-          "text": "https://t.co/Bs6G4Q0tID"
-        },
-        {
-          "created_at": "2026-10-24T04:27:42.000Z",
-          "id": "2113849893811056954",
-          "text": "\u201cTold my bitch to find us a bitch, we can fuck I\u2019m together tomorrow\u201d - Martin Luther King Jr."
-        },
         {
           "created_at": "2026-10-24T08:57:50.000Z",
           "id": "2113917872586240415",
@@ -263,11 +250,20 @@
           "created_at": "2026-10-27T21:34:45.000Z",
           "id": "2115195522944549306",
           "text": "503 Service Temporarily Unavailable"
+        },
+        {
+          "created_at": "2026-10-27T21:42:47.000Z",
+          "id": "2115197542522864124",
+          "text": "Bitcoin? https://t.co/jb0El27qZi"
+        },
+        {
+          "created_at": "2026-10-27T21:43:15.000Z",
+          "id": "2115197660810670197",
+          "reply_to_id": "2115197542522864124",
+          "text": "used to listen to this and blue flame every day in class idk how I still have brain cells"
         }
       ],
       "reads": {
-        "2113849708624122162": "No call",
-        "2113849893811056954": "No call",
         "2113917872586240415": "No call",
         "2114097284304576962": "No call",
         "2114202391566279099": "No call",
@@ -284,7 +280,9 @@
         "2115187007144222734": "No call",
         "2115192098245026165": "No call",
         "2115194201709428763": "No call",
-        "2115195522944549306": "No call"
+        "2115195522944549306": "No call",
+        "2115197542522864124": "No call",
+        "2115197660810670197": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -382,10 +380,6 @@
         }
       ],
       "threads": {
-        "2110790768806027598": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110892018490863686": {
           "alerted": [],
           "self_replies": 0
@@ -789,12 +783,14 @@
         "2115195522944549306": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115197542522864124": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
         "2113821342495580166": false,
-        "2113849708624122162": false,
-        "2113849893811056954": false,
         "2113917872586240415": false,
         "2114097284304576962": false,
         "2114103276547269060": true,
@@ -826,7 +822,9 @@
         "2115189531792244824": false,
         "2115192098245026165": false,
         "2115194201709428763": false,
-        "2115195522944549306": false
+        "2115195522944549306": false,
+        "2115197542522864124": true,
+        "2115197660810670197": false
       },
       "user_id": "1446541960181858315"
     },
@@ -2090,7 +2088,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115196826408116423",
+      "last_id": "2115197635594449023",
       "positions": {},
       "posts": [
         {
@@ -2251,12 +2249,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-27T03:50:06.000Z",
-          "id": "2114927595372343429",
-          "reply_to_id": "2114924219083739599",
-          "text": "@edward_yu_var i am the retired professional options trader yes"
-        },
-        {
           "created_at": "2026-10-27T04:17:51.000Z",
           "id": "2114934577160675438",
           "reply_to_id": "2114928142309867940",
@@ -2339,6 +2331,12 @@
           "id": "2115196826408116423",
           "reply_to_id": "2115196490297786564",
           "text": "@stableshaman ya"
+        },
+        {
+          "created_at": "2026-10-27T21:43:09.000Z",
+          "id": "2115197635594449023",
+          "reply_to_id": "2115197445080863070",
+          "text": "@stableshaman market is closed guv"
         }
       ],
       "threads": {
@@ -2492,7 +2490,6 @@
         "2114884800758820910": false,
         "2114886275820134726": true,
         "2114896322251702476": false,
-        "2114927595372343429": false,
         "2114927811475431847": false,
         "2114934577160675438": true,
         "2115053377583247471": true,
@@ -2512,7 +2509,8 @@
         "2115152092717584395": false,
         "2115187161414955462": true,
         "2115194509986496856": false,
-        "2115196826408116423": false
+        "2115196826408116423": false,
+        "2115197635594449023": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6401,5 +6399,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T21:40:21+00:00"
+  "updated_at": "2026-10-27T21:44:24+00:00"
 }
