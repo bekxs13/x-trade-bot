@@ -2080,24 +2080,19 @@
       "biases": {
         "memory stocks": {
           "market": "stocks",
-          "post_id": "2115224420117590184",
-          "reason": "He celebrates the SK Hynix operating profit and sales beat, which fits his existing bullish view on memory/DRAM.",
+          "post_id": "2115225641771762029",
+          "reason": "Sarcastic \"priced in apparently lol\" on a huge SK Hynix beat implies the stock is undervalued, matching the recorded bullish view on memory stocks.",
           "scope": "memory stocks",
           "since": "2026-10-24",
           "stance": "bullish",
-          "updated_at": "2026-10-27T23:29:35.000Z"
+          "updated_at": "2026-10-27T23:34:26.000Z"
         }
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115224658832195673",
+      "last_id": "2115225641771762029",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-26T13:27:59.000Z",
-          "id": "2114710635527180472",
-          "text": "just woke from a dream that had motion picture for a film playing in the background the entire time"
-        },
         {
           "created_at": "2026-10-26T14:43:54.000Z",
           "id": "2114729739109703694",
@@ -2227,10 +2222,15 @@
           "id": "2115224658832195673",
           "quoted_text": "praying for kim sun-woo of meritz \ud83d\ude4f",
           "text": "ok claude find nearest open store selling soju https://t.co/Axage8ZNAG"
+        },
+        {
+          "created_at": "2026-10-27T23:34:26.000Z",
+          "id": "2115225641771762029",
+          "quoted_text": "SK HYNIX $SKHY Q3\u201926 EARNINGS HIGHLIGHTS\n\n\ud83d\udd39 Revenue: $78.9B (Est. $74.8B) \ud83d\udfe2; +328% YoY\n\ud83d\udd39 Oper Profit: $62.8B (Est. $58.5B) \ud83d\udfe2; +632% YoY\n\ud83d\udd39 Oper Margin: 80%; +3,300 bps YoY; record high\n\ud83d\udd39 QoQ: Revenue +32% / Oper Profit +38%\n\nQ4 Guide:\n\ud83d\udd39 DRAM Bit Growth: Mid-20% QoQ\n\ud83d\udd39 NAND Bit Growth: Mid-single% QoQ incl. Solidigm\n\nQ3 Pricing & Volume:\n\ud83d\udd39 DRAM ASP: High-20% QoQ; bits ~+10% QoQ\n\ud83d\udd39 NAND ASP: Mid-20% QoQ; bits slightly lower QoQ\n\nProfitability:\n\ud83d\udd39 Gross Margin: 85.7% (Est. 85.2%) \ud83d\udfe2\n\ud83d\udd39 EBITDA: $66.1B; 84",
+          "text": "priced in apparently lol https://t.co/PHGIgzYH3m"
         }
       ],
       "reads": {
-        "2114710635527180472": "No call",
         "2114729739109703694": "No call",
         "2114746352358080586": "No call",
         "2114747674717233205": "No call",
@@ -2248,7 +2248,8 @@
         "2115143103698911565": "No call",
         "2115152092717584395": "No call",
         "2115224420117590184": "No call: bullish on memory stocks (same view as before)",
-        "2115224658832195673": "No call"
+        "2115224658832195673": "No call",
+        "2115225641771762029": "No call: bullish on memory stocks (same view as before)"
       },
       "replies": [
         {
@@ -2484,10 +2485,13 @@
         "2115224658832195673": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115225641771762029": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114710635527180472": false,
         "2114729739109703694": true,
         "2114746352358080586": false,
         "2114747674717233205": false,
@@ -2521,7 +2525,8 @@
         "2115196826408116423": false,
         "2115197635594449023": true,
         "2115224420117590184": true,
-        "2115224658832195673": false
+        "2115224658832195673": false,
+        "2115225641771762029": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6415,5 +6420,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T23:34:18+00:00"
+  "updated_at": "2026-10-27T23:36:22+00:00"
 }
