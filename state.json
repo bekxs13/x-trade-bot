@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2115187007144222734",
+      "last_id": "2115189531792244824",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,14 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-24T02:54:15.000Z",
-          "id": "2113826377292222725",
-          "images": [
-            "https://pbs.twimg.com/media/HVXR4OtXgAAlepT.jpg"
-          ],
-          "text": "Mall https://t.co/K5MKPPIw6P"
-        },
         {
           "created_at": "2026-10-24T03:33:43.000Z",
           "id": "2113836306099003689",
@@ -268,10 +260,15 @@
           "created_at": "2026-10-27T21:00:55.000Z",
           "id": "2115187007144222734",
           "text": "Guy asking for a $200 zelle get a job!"
+        },
+        {
+          "created_at": "2026-10-27T21:10:57.000Z",
+          "id": "2115189531792244824",
+          "reply_to_id": "2115189337600188702",
+          "text": "@chang_defi I lost my old tg maybe hit me a chat screenshot here not sure which way that went"
         }
       ],
       "reads": {
-        "2113826377292222725": "No call",
         "2113836306099003689": "No call",
         "2113845422758470139": "No call",
         "2113846049043534213": "No call",
@@ -293,12 +290,6 @@
         "2115187007144222734": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-24T00:20:08.000Z",
-          "id": "2113787589266395140",
-          "reply_to_id": "2113787509654372380",
-          "text": "@erla221942 We bringin 8 ppl so I don\u2019t have to go alone"
-        },
         {
           "created_at": "2026-10-24T02:34:15.000Z",
           "id": "2113821342495580166",
@@ -385,6 +376,12 @@
           "id": "2115171228990464331",
           "reply_to_id": "2115155964139635128",
           "text": "@mansourtarek_ How does it compare when the user fills against an internal market making desk?"
+        },
+        {
+          "created_at": "2026-10-27T21:10:11.000Z",
+          "id": "2115189337600188702",
+          "reply_to_id": "2114977945634631928",
+          "text": "@chang_defi Did I get refunded or do I still have equity in this"
         }
       ],
       "threads": {
@@ -800,9 +797,7 @@
         }
       },
       "trading": {
-        "2113787589266395140": false,
         "2113821342495580166": false,
-        "2113826377292222725": false,
         "2113836306099003689": false,
         "2113845422758470139": false,
         "2113846049043534213": false,
@@ -834,7 +829,9 @@
         "2114975419028099189": true,
         "2115133455306568065": false,
         "2115171228990464331": true,
-        "2115187007144222734": false
+        "2115187007144222734": false,
+        "2115189337600188702": true,
+        "2115189531792244824": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6409,5 +6406,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T21:02:23+00:00"
+  "updated_at": "2026-10-27T21:12:20+00:00"
 }
