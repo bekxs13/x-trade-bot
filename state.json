@@ -2009,15 +2009,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114888294991593580",
+      "last_id": "2114896322251702476",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-24T21:30:17.000Z",
-          "id": "2114107235957948925",
-          "reply_to_id": "2114107233445253248",
-          "text": "would you go long dram for 47$ then, with likely more situational awareness than the market at large?\n\nfeels like yes?"
-        },
         {
           "created_at": "2026-10-24T21:33:28.000Z",
           "id": "2114108033286508977",
@@ -2145,6 +2139,14 @@
           "created_at": "2026-10-27T01:05:55.000Z",
           "id": "2114886275820134726",
           "text": "crypto will always exist because the permanent underclass will financially pvp itself for the entertainment of the overclass"
+        },
+        {
+          "created_at": "2026-10-27T01:45:50.000Z",
+          "id": "2114896322251702476",
+          "images": [
+            "https://pbs.twimg.com/media/HVme-gNX0AAElzl.png"
+          ],
+          "text": "do you still believe P!=NP? https://t.co/n7qGIUrNet"
         }
       ],
       "reads": {
@@ -2165,7 +2167,8 @@
         "2114846392220868633": "No call",
         "2114881511216283993": "No call",
         "2114884800758820910": "No call",
-        "2114886275820134726": "No call"
+        "2114886275820134726": "No call",
+        "2114896322251702476": "No call"
       },
       "replies": [
         {
@@ -2369,10 +2372,13 @@
         "2114886275820134726": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114896322251702476": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114107235957948925": true,
         "2114108033286508977": true,
         "2114145973807251923": true,
         "2114146134755319833": false,
@@ -2406,7 +2412,8 @@
         "2114884504741626129": false,
         "2114884800758820910": false,
         "2114886275820134726": true,
-        "2114888294991593580": true
+        "2114888294991593580": true,
+        "2114896322251702476": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6277,5 +6284,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-27T01:32:16+00:00"
+  "updated_at": "2026-10-27T01:46:21+00:00"
 }
