@@ -4065,7 +4065,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115053059894018057",
+      "last_id": "2115053459590316496",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4248,12 +4248,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-25T18:07:13.000Z",
-          "id": "2114418519982882977",
-          "reply_to_id": "2114416953356144680",
-          "text": "@OverClicker i don\u2019t have much rn but would like to get back to around that number &gt; 1400"
-        },
-        {
           "created_at": "2026-10-25T19:48:18.000Z",
           "id": "2114443957908484498",
           "reply_to_id": "2114433915029229997",
@@ -4339,6 +4333,12 @@
           ],
           "reply_to_id": "2115052302247846089",
           "text": "@tulipking https://t.co/diQ0vDbEaU"
+        },
+        {
+          "created_at": "2026-10-27T12:10:15.000Z",
+          "id": "2115053459590316496",
+          "reply_to_id": "2114735100004852115",
+          "text": "@internetphysics la is kind of like eth, it\u2019s the perfect short leg to every trade and it never needs a new thesis"
         }
       ],
       "threads": {
@@ -4670,7 +4670,6 @@
         "2114001121467326892": true,
         "2114117774687494473": false,
         "2114186840165240870": false,
-        "2114418519982882977": true,
         "2114443957908484498": false,
         "2114688074223583513": true,
         "2114690124894093765": false,
@@ -4693,7 +4692,8 @@
         "2115050424499601853": false,
         "2115051674574405808": false,
         "2115052832449548371": false,
-        "2115053059894018057": false
+        "2115053059894018057": false,
+        "2115053459590316496": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6293,5 +6293,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T12:10:24+00:00"
+  "updated_at": "2026-10-27T12:12:16+00:00"
 }
