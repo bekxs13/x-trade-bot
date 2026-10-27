@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2115133455306568065",
+      "last_id": "2115171228990464331",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -297,12 +297,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-24T00:11:28.000Z",
-          "id": "2113785407875989971",
-          "reply_to_id": "2113779016528232494",
-          "text": "@BaggerWalmart Bro acting like that\u2019s a bad thing that\u2019s the whole economy"
-        },
-        {
           "created_at": "2026-10-24T00:20:08.000Z",
           "id": "2113787589266395140",
           "reply_to_id": "2113787509654372380",
@@ -388,6 +382,12 @@
           "id": "2114975419028099189",
           "reply_to_id": "2114897454265139672",
           "text": "@Yeah_Dave What does ur book look like rn u have a post somewhere? Space and?"
+        },
+        {
+          "created_at": "2026-10-27T19:58:13.000Z",
+          "id": "2115171228990464331",
+          "reply_to_id": "2115155964139635128",
+          "text": "@mansourtarek_ How does it compare when the user fills against an internal market making desk?"
         }
       ],
       "threads": {
@@ -803,7 +803,6 @@
         }
       },
       "trading": {
-        "2113785407875989971": false,
         "2113787589266395140": false,
         "2113820770468069611": false,
         "2113821342495580166": false,
@@ -837,7 +836,8 @@
         "2114967310498992380": true,
         "2114975076127043888": false,
         "2114975419028099189": true,
-        "2115133455306568065": false
+        "2115133455306568065": false,
+        "2115171228990464331": true
       },
       "user_id": "1446541960181858315"
     },
@@ -6412,5 +6412,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T19:54:19+00:00"
+  "updated_at": "2026-10-27T20:00:26+00:00"
 }
