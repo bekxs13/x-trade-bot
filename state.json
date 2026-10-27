@@ -4061,7 +4061,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115043431659794717",
+      "last_id": "2115049544299983111",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4097,17 +4097,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T14:15:11.000Z",
-          "id": "2113272960890863928",
-          "quoted_text": "MARKET OPEN: AI BROKE THE INTERNET, Interviewing a Cyber EXPERT, crypto is FINE, Good Luck https://t.co/NiMphK8EvS",
-          "text": "LIVE WITH @tayvano_ in 30 seconds https://t.co/KzGnkoBBQU"
-        },
-        {
-          "created_at": "2026-10-22T17:08:18.000Z",
-          "id": "2113316527831175441",
-          "text": "one of those i think my life would be substantially better if i never opened this app again but i am still gonna do it days"
-        },
         {
           "created_at": "2026-10-22T18:26:26.000Z",
           "id": "2113336192578302265",
@@ -4217,11 +4206,20 @@
           "created_at": "2026-10-26T19:58:49.000Z",
           "id": "2114808991805300867",
           "text": "how did the market know what was in S-1s before ai summaries"
+        },
+        {
+          "created_at": "2026-10-27T11:54:31.000Z",
+          "id": "2115049500545085582",
+          "text": "i'm on amazon adding MREs to my cart you guys fucking suck honestly"
+        },
+        {
+          "created_at": "2026-10-27T11:54:41.000Z",
+          "id": "2115049544299983111",
+          "reply_to_id": "2115049500545085582",
+          "text": "fuck you chumba bitch fuck chumba bitch"
         }
       ],
       "reads": {
-        "2113272960890863928": "No call",
-        "2113316527831175441": "No call",
         "2113336192578302265": "No call",
         "2113336901352526218": "No call",
         "2113355757542347010": "No call",
@@ -4238,7 +4236,9 @@
         "2114693897255342556": "No call",
         "2114697397603569667": "No call",
         "2114723139443728690": "No call",
-        "2114808991805300867": "No call"
+        "2114808991805300867": "No call",
+        "2115049500545085582": "No call",
+        "2115049544299983111": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -4642,11 +4642,13 @@
         "2114808991805300867": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115049500545085582": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2113272960890863928": true,
-        "2113316527831175441": false,
         "2113336192578302265": true,
         "2113336901352526218": false,
         "2113355757542347010": true,
@@ -4679,7 +4681,9 @@
         "2114856336781365305": false,
         "2114886014309179439": false,
         "2114892389470843257": false,
-        "2115043431659794717": false
+        "2115043431659794717": false,
+        "2115049500545085582": false,
+        "2115049544299983111": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6279,5 +6283,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-27T11:32:16+00:00"
+  "updated_at": "2026-10-27T11:56:23+00:00"
 }
