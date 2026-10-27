@@ -4065,7 +4065,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115053459590316496",
+      "last_id": "2115056483796914235",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4248,12 +4248,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-25T19:48:18.000Z",
-          "id": "2114443957908484498",
-          "reply_to_id": "2114433915029229997",
-          "text": "@lord_fed you should come on stream for 20/30 min this week and bull post for us"
-        },
-        {
           "created_at": "2026-10-26T12:06:29.000Z",
           "id": "2114690124894093765",
           "reply_to_id": "2114687513843601919",
@@ -4339,6 +4333,12 @@
           "id": "2115053459590316496",
           "reply_to_id": "2114735100004852115",
           "text": "@internetphysics la is kind of like eth, it\u2019s the perfect short leg to every trade and it never needs a new thesis"
+        },
+        {
+          "created_at": "2026-10-27T12:22:16.000Z",
+          "id": "2115056483796914235",
+          "reply_to_id": "2115053411020193840",
+          "text": "@Quantingilous @tulipking ?"
         }
       ],
       "threads": {
@@ -4670,7 +4670,6 @@
         "2114001121467326892": true,
         "2114117774687494473": false,
         "2114186840165240870": false,
-        "2114443957908484498": false,
         "2114688074223583513": true,
         "2114690124894093765": false,
         "2114693897255342556": true,
@@ -4693,7 +4692,8 @@
         "2115051674574405808": false,
         "2115052832449548371": false,
         "2115053059894018057": false,
-        "2115053459590316496": true
+        "2115053459590316496": true,
+        "2115056483796914235": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6293,5 +6293,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T12:22:19+00:00"
+  "updated_at": "2026-10-27T12:24:20+00:00"
 }
