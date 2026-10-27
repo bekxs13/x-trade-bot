@@ -2090,7 +2090,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115225641771762029",
+      "last_id": "2115226395249135617",
       "positions": {},
       "posts": [
         {
@@ -2253,18 +2253,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-27T04:17:51.000Z",
-          "id": "2114934577160675438",
-          "reply_to_id": "2114928142309867940",
-          "text": "@edward_yu_var i mean i've made money and some of that was from explicitly picking off market makers but sure\nhttps://t.co/HYvApPIsqg"
-        },
-        {
-          "created_at": "2026-10-27T12:21:53.000Z",
-          "id": "2115056386841481426",
-          "reply_to_id": "2114926167157538895",
-          "text": "@int_16h 3.5% is nothing lmao"
-        },
-        {
           "created_at": "2026-10-27T12:30:22.000Z",
           "id": "2115058521276649545",
           "reply_to_id": "2115058151091589276",
@@ -2341,6 +2329,18 @@
           "id": "2115197635594449023",
           "reply_to_id": "2115197445080863070",
           "text": "@stableshaman market is closed guv"
+        },
+        {
+          "created_at": "2026-10-27T23:36:43.000Z",
+          "id": "2115226215401349463",
+          "reply_to_id": "2115224896837955793",
+          "text": "@bubblementality Includes a $24.6B non-operating loss: a $17.3B investment-asset loss and an $8.8B FX loss as the won strengthened"
+        },
+        {
+          "created_at": "2026-10-27T23:37:26.000Z",
+          "id": "2115226395249135617",
+          "reply_to_id": "2115225863201403198",
+          "text": "@EpsilonPM if you're talking about the 1 day straddles i didn't buy any since i already hold long calls, was just observing"
         }
       ],
       "threads": {
@@ -2504,9 +2504,7 @@
         "2114886275820134726": true,
         "2114896322251702476": false,
         "2114927811475431847": false,
-        "2114934577160675438": true,
         "2115053377583247471": true,
-        "2115056386841481426": false,
         "2115056992259568079": true,
         "2115058521276649545": false,
         "2115058993546527034": false,
@@ -2526,7 +2524,9 @@
         "2115197635594449023": true,
         "2115224420117590184": true,
         "2115224658832195673": false,
-        "2115225641771762029": true
+        "2115225641771762029": true,
+        "2115226215401349463": true,
+        "2115226395249135617": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6420,5 +6420,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T23:36:22+00:00"
+  "updated_at": "2026-10-27T23:38:18+00:00"
 }
