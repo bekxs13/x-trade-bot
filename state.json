@@ -2004,15 +2004,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114896322251702476",
+      "last_id": "2114927811475431847",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-24T21:33:28.000Z",
-          "id": "2114108033286508977",
-          "reply_to_id": "2114107235957948925",
-          "text": "hard to argue that the market was discounting some probability of an even more rapid increase in capabilities when we are already on a pretty aggressive path compared to say ai2027\n\nthe only reason to think dram is expensive now is to think that it was even more expensive in may"
-        },
         {
           "created_at": "2026-10-25T00:04:13.000Z",
           "id": "2114145973807251923",
@@ -2142,6 +2136,12 @@
             "https://pbs.twimg.com/media/HVme-gNX0AAElzl.png"
           ],
           "text": "do you still believe P!=NP? https://t.co/n7qGIUrNet"
+        },
+        {
+          "created_at": "2026-10-27T03:50:58.000Z",
+          "id": "2114927811475431847",
+          "reply_to_id": "2114927595372343429",
+          "text": "@edward_yu_var aren't you the guy that does the ill advised action of not courtesy liking"
         }
       ],
       "reads": {
@@ -2166,12 +2166,6 @@
         "2114896322251702476": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-26T00:20:38.000Z",
-          "id": "2114512492072407471",
-          "reply_to_id": "2114510336191766584",
-          "text": "@impluto42 @strictrope each gpu still takes 8 stacks so it's the same amount of memory lol i don't see why this would be so tragic for them"
-        },
         {
           "created_at": "2026-10-26T00:22:30.000Z",
           "id": "2114512960555302934",
@@ -2255,6 +2249,12 @@
           "id": "2114888294991593580",
           "reply_to_id": "2114831667017986334",
           "text": "@TrueSlazac most prediction markets are illiquid enough that building credibility to your lie is quite cheap. military/intelligence institutions already do this for attack date markets for example"
+        },
+        {
+          "created_at": "2026-10-27T03:50:06.000Z",
+          "id": "2114927595372343429",
+          "reply_to_id": "2114924219083739599",
+          "text": "@edward_yu_var i am the retired professional options trader yes"
         }
       ],
       "threads": {
@@ -2374,12 +2374,10 @@
         }
       },
       "trading": {
-        "2114108033286508977": true,
         "2114145973807251923": true,
         "2114146134755319833": false,
         "2114405956746444960": false,
         "2114459635683881373": true,
-        "2114512492072407471": true,
         "2114512960555302934": false,
         "2114514373570146307": false,
         "2114517722134450283": false,
@@ -2408,7 +2406,9 @@
         "2114884800758820910": false,
         "2114886275820134726": true,
         "2114888294991593580": true,
-        "2114896322251702476": false
+        "2114896322251702476": false,
+        "2114927595372343429": false,
+        "2114927811475431847": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6279,5 +6279,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-27T03:50:16+00:00"
+  "updated_at": "2026-10-27T03:52:21+00:00"
 }
