@@ -1994,25 +1994,19 @@
       "biases": {
         "memory stocks": {
           "market": "stocks",
-          "post_id": "2114107231335567587",
-          "reason": "Reiterates the thesis that AI agent and inference demand is underpriced versus May, with DRAM at $47 then, matching the recorded bullish view on memory.",
+          "post_id": "2115053377583247471",
+          "reason": "Quoting news of 10-year memory supply deals with \"this doesn't look that cyclical\" pushes back on the cyclical bear case for memory (Samsung, SK Hynix). This matches his recorded bullish view.",
           "scope": "memory stocks",
           "since": "2026-10-24",
           "stance": "bullish",
-          "updated_at": "2026-10-24T21:30:16.000Z"
+          "updated_at": "2026-10-27T12:09:55.000Z"
         }
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114934577160675438",
+      "last_id": "2115053377583247471",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-25T00:04:13.000Z",
-          "id": "2114145973807251923",
-          "quoted_text": "Dylan Patel @dylan522p of SemiAnalysis considers power as a manageable constraint compared to memory, substrate, and optics:\n\n\"Power is definitely a big constraint, but one thing that our research sort of shows that I think is counterintuitive to much of the market is that next year there are data center constraints but a lot less than people realize because there are nearly 50GW data centers being built globally. 7-8GW in China, 35GW in the US, and a bunch everywhere else - Australia, India, Ma",
-          "text": "one supporting piece of evidence that power does not seem to be as big of a binding constraint as earlier is that earlier provisions that the data center buildout include sufficient power generation so as to not be a burden on the grid are often no longer included in agreements https://t.co/qyDrA7KNKB"
-        },
         {
           "created_at": "2026-10-25T00:04:52.000Z",
           "id": "2114146134755319833",
@@ -2142,10 +2136,15 @@
           "id": "2114927811475431847",
           "reply_to_id": "2114927595372343429",
           "text": "@edward_yu_var aren't you the guy that does the ill advised action of not courtesy liking"
+        },
+        {
+          "created_at": "2026-10-27T12:09:55.000Z",
+          "id": "2115053377583247471",
+          "quoted_text": "KOREAN MEDIA: MAJOR CHINESE CLOUD SERVICE PROVIDERS (CSPS), INCLUDING ALIBABA, TENCENT, AND BYTEDANCE, HAVE REQUESTED LONG-TERM SUPPLY AGREEMENTS (LTAS) FOR SERVER MEMORY FROM SAMSUNG ELECTRONICS AND SK HYNIX.\n\nBEYOND THE TYPICAL THREE-TO-FIVE-YEAR TERM, SOME CUSTOMERS ARE SEEKING ULTRA-LONG-TERM CONTRACTS SECURING MEMORY SUPPLIES FOR 10 YEARS THROUGH 2035. THE REQUESTED LTAS COVER DDR5 AND LPDDR5.",
+          "text": "this doesn't look that cyclical https://t.co/rs7BSK2qJB"
         }
       ],
       "reads": {
-        "2114145973807251923": "No call",
         "2114146134755319833": "Read together with the post it replies to",
         "2114405956746444960": "No call",
         "2114459635683881373": "No call: bullish on ai stocks (65%, too unsure)",
@@ -2163,7 +2162,8 @@
         "2114881511216283993": "No call",
         "2114884800758820910": "No call",
         "2114886275820134726": "No call",
-        "2114896322251702476": "No call"
+        "2114896322251702476": "No call",
+        "2115053377583247471": "No call: bullish on memory stocks (same view as before)"
       },
       "replies": [
         {
@@ -2371,10 +2371,13 @@
         "2114896322251702476": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115053377583247471": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114145973807251923": true,
         "2114146134755319833": false,
         "2114405956746444960": false,
         "2114459635683881373": true,
@@ -2408,7 +2411,8 @@
         "2114896322251702476": false,
         "2114927595372343429": false,
         "2114927811475431847": false,
-        "2114934577160675438": true
+        "2114934577160675438": true,
+        "2115053377583247471": true
       },
       "user_id": "1598545553327067137"
     },
@@ -4061,7 +4065,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115052832449548371",
+      "last_id": "2115053059894018057",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4244,12 +4248,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-25T18:01:01.000Z",
-          "id": "2114416958267371865",
-          "reply_to_id": "2114415999793447046",
-          "text": "@DeeZe bailed out there"
-        },
-        {
           "created_at": "2026-10-25T18:07:13.000Z",
           "id": "2114418519982882977",
           "reply_to_id": "2114416953356144680",
@@ -4332,6 +4330,15 @@
           "id": "2115051674574405808",
           "reply_to_id": "2115051337486364789",
           "text": "@robustus no, do you have any suggestions"
+        },
+        {
+          "created_at": "2026-10-27T12:08:39.000Z",
+          "id": "2115053059894018057",
+          "images": [
+            "https://pbs.twimg.com/media/HVotjDsW4AA9pEr.jpg"
+          ],
+          "reply_to_id": "2115052302247846089",
+          "text": "@tulipking https://t.co/diQ0vDbEaU"
         }
       ],
       "threads": {
@@ -4663,7 +4670,6 @@
         "2114001121467326892": true,
         "2114117774687494473": false,
         "2114186840165240870": false,
-        "2114416958267371865": true,
         "2114418519982882977": true,
         "2114443957908484498": false,
         "2114688074223583513": true,
@@ -4686,7 +4692,8 @@
         "2115049544299983111": false,
         "2115050424499601853": false,
         "2115051674574405808": false,
-        "2115052832449548371": false
+        "2115052832449548371": false,
+        "2115053059894018057": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6286,5 +6293,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T12:08:24+00:00"
+  "updated_at": "2026-10-27T12:10:24+00:00"
 }
