@@ -959,7 +959,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115020477915632022",
+      "last_id": "2115070454327296481",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -979,11 +979,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T19:59:12.000Z",
-          "id": "2113359534701854842",
-          "text": "how are the engineers doing this week"
-        },
         {
           "created_at": "2026-10-22T20:40:26.000Z",
           "id": "2113369912798490737",
@@ -1116,10 +1111,17 @@
           "created_at": "2026-10-27T02:23:05.000Z",
           "id": "2114905694793023921",
           "text": "look outside your window"
+        },
+        {
+          "created_at": "2026-10-27T13:17:47.000Z",
+          "id": "2115070454327296481",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2115070192623779841/img/Wzb9M_sHILLJpTcP.jpg"
+          ],
+          "text": "Market Bubble ep.24: my full conversation with @EliBenSasson - CEO of StarkWare\n\na post-quantum L1, the quantum threat, Zcash, the future of digital money and why Satoshi would have loved ZK\n\n0:00 - Starkware, ZK and Starknet as an L1\n3:36 - The quantum threat and Starknet's ark\n7:12 - Zcash and the future of digital gold\n12:16 - Supervega, Bitcoin and agent payments\n16:10 - Post-quantum security, STARKs and Satoshi"
         }
       ],
       "reads": {
-        "2113359534701854842": "No call",
         "2113369912798490737": "No call",
         "2113380587851706645": "VIEW neutral on crypto market",
         "2113388576633434441": "No call",
@@ -1138,7 +1140,8 @@
         "2114849515316584949": "No call",
         "2114852187201228909": "VIEW bullish on HYPE",
         "2114904169685586375": "No call",
-        "2114905694793023921": "No call"
+        "2114905694793023921": "No call",
+        "2115070454327296481": "No call"
       },
       "replies": [
         {
@@ -1237,10 +1240,6 @@
         }
       ],
       "threads": {
-        "2109577662507454790": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109595727404089816": {
           "alerted": [],
           "self_replies": 0
@@ -1661,10 +1660,13 @@
         "2114905694793023921": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115070454327296481": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2113359534701854842": false,
         "2113369912798490737": false,
         "2113380587851706645": true,
         "2113388576633434441": false,
@@ -1698,7 +1700,8 @@
         "2114905694793023921": false,
         "2114907458938278139": true,
         "2114911989810246132": true,
-        "2115020477915632022": false
+        "2115020477915632022": false,
+        "2115070454327296481": true
       },
       "user_id": "973261472"
     },
@@ -6301,5 +6304,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T12:42:17+00:00"
+  "updated_at": "2026-10-27T13:18:19+00:00"
 }
