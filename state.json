@@ -4069,7 +4069,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115056483796914235",
+      "last_id": "2115060673713762765",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4105,11 +4105,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T19:44:11.000Z",
-          "id": "2113355757542347010",
-          "text": "it\u2019s been fun debating the whole what\u2019s gonna happen to crypto when ai legs down again i guess we\u2019re gonna get our answer"
-        },
         {
           "created_at": "2026-10-22T22:07:42.000Z",
           "id": "2113391874417344985",
@@ -4228,10 +4223,14 @@
           ],
           "quoted_text": "get ready for stream today, in our morning call threadguy:\n* had to learn P=NP\n* spent 10 minutes shopping for MREs on Amazon\n* told the entire company it's time to start making babies\n* raged about Chumba\n* spent another 5 minutes MRE shopping",
           "text": "https://t.co/BsMbGbNswk https://t.co/vm6bKHQngT"
+        },
+        {
+          "created_at": "2026-10-27T12:38:55.000Z",
+          "id": "2115060673713762765",
+          "text": "MARKET OPEN: OpenAI BROKE MATH (AGAIN), What This Means for CRYPTO, Can Anthropic SAVE THE MARKET? https://t.co/Jp7YNgoU1G"
         }
       ],
       "reads": {
-        "2113355757542347010": "No call",
         "2113391874417344985": "No call",
         "2113392664184041960": "No call",
         "2113392669561135470": "Read together with the post it replies to",
@@ -4248,7 +4247,8 @@
         "2114808991805300867": "No call",
         "2115049500545085582": "No call",
         "2115049544299983111": "Read together with the post it replies to",
-        "2115052832449548371": "No call"
+        "2115052832449548371": "No call",
+        "2115060673713762765": "No call"
       },
       "replies": [
         {
@@ -4660,10 +4660,13 @@
         "2115052832449548371": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115060673713762765": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2113355757542347010": true,
         "2113391874417344985": false,
         "2113392664184041960": true,
         "2113392669561135470": false,
@@ -4697,7 +4700,8 @@
         "2115052832449548371": false,
         "2115053059894018057": false,
         "2115053459590316496": true,
-        "2115056483796914235": false
+        "2115056483796914235": false,
+        "2115060673713762765": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6297,5 +6301,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T12:36:21+00:00"
+  "updated_at": "2026-10-27T12:40:25+00:00"
 }
