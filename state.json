@@ -2004,15 +2004,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115056386841481426",
+      "last_id": "2115056992259568079",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-25T00:04:52.000Z",
-          "id": "2114146134755319833",
-          "reply_to_id": "2114145973807251923",
-          "text": "this is for us projects - had talked to someone that works on these buildouts recently"
-        },
         {
           "created_at": "2026-10-25T17:17:18.000Z",
           "id": "2114405956746444960",
@@ -2142,10 +2136,15 @@
           "id": "2115053377583247471",
           "quoted_text": "KOREAN MEDIA: MAJOR CHINESE CLOUD SERVICE PROVIDERS (CSPS), INCLUDING ALIBABA, TENCENT, AND BYTEDANCE, HAVE REQUESTED LONG-TERM SUPPLY AGREEMENTS (LTAS) FOR SERVER MEMORY FROM SAMSUNG ELECTRONICS AND SK HYNIX.\n\nBEYOND THE TYPICAL THREE-TO-FIVE-YEAR TERM, SOME CUSTOMERS ARE SEEKING ULTRA-LONG-TERM CONTRACTS SECURING MEMORY SUPPLIES FOR 10 YEARS THROUGH 2035. THE REQUESTED LTAS COVER DDR5 AND LPDDR5.",
           "text": "this doesn't look that cyclical https://t.co/rs7BSK2qJB"
+        },
+        {
+          "created_at": "2026-10-27T12:24:17.000Z",
+          "id": "2115056992259568079",
+          "quoted_text": "Posting bait to wait for the p4 quote tweets so we know where to short the semis lower high",
+          "text": "idk how this all ends but it doesn't end with both of us financially solvent https://t.co/HQaiTrViaN"
         }
       ],
       "reads": {
-        "2114146134755319833": "Read together with the post it replies to",
         "2114405956746444960": "No call",
         "2114459635683881373": "No call: bullish on ai stocks (65%, too unsure)",
         "2114527597719892372": "No call",
@@ -2163,7 +2162,8 @@
         "2114884800758820910": "No call",
         "2114886275820134726": "No call",
         "2114896322251702476": "No call",
-        "2115053377583247471": "No call: bullish on memory stocks (same view as before)"
+        "2115053377583247471": "No call: bullish on memory stocks (same view as before)",
+        "2115056992259568079": "No call"
       },
       "replies": [
         {
@@ -2375,10 +2375,13 @@
         "2115053377583247471": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115056992259568079": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114146134755319833": false,
         "2114405956746444960": false,
         "2114459635683881373": true,
         "2114517722134450283": false,
@@ -2412,7 +2415,8 @@
         "2114927811475431847": false,
         "2114934577160675438": true,
         "2115053377583247471": true,
-        "2115056386841481426": false
+        "2115056386841481426": false,
+        "2115056992259568079": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6293,5 +6297,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T12:24:20+00:00"
+  "updated_at": "2026-10-27T12:26:20+00:00"
 }
