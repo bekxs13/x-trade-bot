@@ -962,7 +962,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115162385652797852",
+      "last_id": "2115162891217473604",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -982,14 +982,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T22:27:34.000Z",
-          "id": "2113396873386234153",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2113396196287127552/img/t7ISFSuNdi1c3Y-J.jpg"
-          ],
-          "text": "i've been spending some time trading on Papertrade recently\n\nJez built an interesting model on top of Hyperliquid, offering synthetic BTC and ETH trading with up to 1000x leverage\n\nthe part i'm paying attention to is how the protocol manages liquidity and pays out profitable traders, especially during periods of high volatility\n\nthere's also been some controversy around changes to PAPER distribution\n\ni can understand the frustration from early participants, but i also see the reasoning behind shifting incentives toward people actively using the platform"
-        },
         {
           "created_at": "2026-10-22T22:44:47.000Z",
           "id": "2113401207754817868",
@@ -1122,10 +1114,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2115136315599822848/img/Y_KTF_F_ibExu311.jpg"
           ],
           "text": "i view ETH and SOL more as monetary assets tied to the growth of their ecosystems than traditional businesses valued on revenue\n\nthat makes them harder for TradFi investors to evaluate, especially when there's no clear way to measure how much value the underlying token captures\n\nwhat i find interesting is that successful onchain applications may have a clearer path to building monetary value around their tokens\n\nas more crypto businesses generate real revenue, i think the distinction between L1 valuations and application tokens becomes increasingly important"
+        },
+        {
+          "created_at": "2026-10-27T19:25:05.000Z",
+          "id": "2115162891217473604",
+          "text": "yo"
         }
       ],
       "reads": {
-        "2113396873386234153": "No call",
         "2113401207754817868": "No call",
         "2113420767472083318": "No call",
         "2113432442811875690": "No call",
@@ -1144,7 +1140,8 @@
         "2115070454327296481": "No call",
         "2115096316468449709": "No call",
         "2115128961131036993": "No call",
-        "2115136401364979876": "No call"
+        "2115136401364979876": "No call",
+        "2115162891217473604": "No call"
       },
       "replies": [
         {
@@ -1239,12 +1236,6 @@
         }
       ],
       "threads": {
-        "2109734999708831885": {
-          "alerted": [
-            "bias:pump:bullish"
-          ],
-          "self_replies": 0
-        },
         "2109736979932008805": {
           "alerted": [],
           "self_replies": 0
@@ -1663,10 +1654,13 @@
         "2115136401364979876": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115162891217473604": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2113396873386234153": true,
         "2113401207754817868": true,
         "2113420767472083318": true,
         "2113432442811875690": true,
@@ -1700,7 +1694,8 @@
         "2115106739213283334": false,
         "2115128961131036993": true,
         "2115136401364979876": true,
-        "2115162385652797852": false
+        "2115162385652797852": false,
+        "2115162891217473604": false
       },
       "user_id": "973261472"
     },
@@ -6417,5 +6412,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T19:24:19+00:00"
+  "updated_at": "2026-10-27T19:26:27+00:00"
 }
