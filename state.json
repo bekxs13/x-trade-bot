@@ -2009,14 +2009,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114865786556985650",
+      "last_id": "2114881511216283993",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-24T20:51:14.000Z",
-          "id": "2114097408611353061",
-          "text": "i don't get what people aren't seeing tbh https://t.co/iHTiOO2r6Z"
-        },
         {
           "created_at": "2026-10-24T21:30:16.000Z",
           "id": "2114107231335567587",
@@ -2144,10 +2139,15 @@
           ],
           "quoted_text": "what if everything just works out. for example we get a deal with iran this weekend and the agent swarms just autonomously decide to quit hacking critical infrastructure. anyone thinking about that scenario",
           "text": "https://t.co/cuwdEdKZO0 https://t.co/GGRgmDpA5F"
+        },
+        {
+          "created_at": "2026-10-27T00:46:59.000Z",
+          "id": "2114881511216283993",
+          "quoted_text": "In celebration of Anthropic's S1 I read out every single AI ever made.\nThis is the last AI podcast that anyone has to ever listen to.\n\n00:00 - The only AI podcast you\u2019ll ever need\n01:28 - Naming every single AI ever made\n51:38 - Never give up\n58:28 - Is this still on?\n1:31:24 - I finished (and then I completed the list of AI)",
+          "text": "im not going to say the timestamp but atlas takes off his shoes for 5-6 seconds in the middle https://t.co/xfte0ll2Vx"
         }
       ],
       "reads": {
-        "2114097408611353061": "VIEW bullish on memory stocks",
         "2114107231335567587": "No call: bullish on memory stocks (same view as before)",
         "2114107233445253248": "Read together with the post it replies to",
         "2114145973807251923": "No call",
@@ -2164,7 +2164,8 @@
         "2114764836647129096": "No call",
         "2114783014597366013": "No call",
         "2114819950816727513": "No call",
-        "2114846392220868633": "No call"
+        "2114846392220868633": "No call",
+        "2114881511216283993": "No call"
       },
       "replies": [
         {
@@ -2356,10 +2357,13 @@
         "2114846392220868633": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114881511216283993": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114097408611353061": false,
         "2114107231335567587": true,
         "2114107233445253248": true,
         "2114107235957948925": true,
@@ -2393,7 +2397,8 @@
         "2114846392220868633": false,
         "2114858467265577299": false,
         "2114865708060619220": false,
-        "2114865786556985650": false
+        "2114865786556985650": false,
+        "2114881511216283993": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6267,5 +6272,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-26T23:46:18+00:00"
+  "updated_at": "2026-10-27T00:48:22+00:00"
 }
