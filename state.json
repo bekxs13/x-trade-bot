@@ -2010,14 +2010,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115151501844689255",
+      "last_id": "2115152092717584395",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-26T01:20:39.000Z",
-          "id": "2114527597719892372",
-          "text": "can't believe biden sent his mules to south america"
-        },
         {
           "created_at": "2026-10-26T01:26:47.000Z",
           "id": "2114529139600368086",
@@ -2146,10 +2141,14 @@
           "created_at": "2026-10-27T18:06:28.000Z",
           "id": "2115143103698911565",
           "text": "DRAM 1 day straddle 3% with SK Hynix earnings tonight, kind of crazy with how much DRAM has been moving recently imo"
+        },
+        {
+          "created_at": "2026-10-27T18:42:11.000Z",
+          "id": "2115152092717584395",
+          "text": "praying for kim sun-woo of meritz \ud83d\ude4f"
         }
       ],
       "reads": {
-        "2114527597719892372": "No call",
         "2114529139600368086": "No call",
         "2114551534423863572": "No call",
         "2114710635527180472": "No call",
@@ -2167,7 +2166,8 @@
         "2115053377583247471": "No call: bullish on memory stocks (same view as before)",
         "2115056992259568079": "No call",
         "2115115536652849400": "No call",
-        "2115143103698911565": "No call"
+        "2115143103698911565": "No call",
+        "2115152092717584395": "No call"
       },
       "replies": [
         {
@@ -2391,10 +2391,13 @@
         "2115143103698911565": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115152092717584395": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114527597719892372": false,
         "2114529139600368086": false,
         "2114551534423863572": false,
         "2114710635527180472": false,
@@ -2428,7 +2431,8 @@
         "2115143103698911565": true,
         "2115143513650147526": false,
         "2115150681418174836": false,
-        "2115151501844689255": true
+        "2115151501844689255": true,
+        "2115152092717584395": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6320,5 +6324,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T18:40:20+00:00"
+  "updated_at": "2026-10-27T18:44:26+00:00"
 }
