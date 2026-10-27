@@ -4061,7 +4061,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115050424499601853",
+      "last_id": "2115051674574405808",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4241,15 +4241,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-25T17:45:02.000Z",
-          "id": "2114412936970052031",
-          "images": [
-            "https://pbs.twimg.com/media/HVfnXC1WUAA3vmu.jpg"
-          ],
-          "reply_to_id": "2114412427437858944",
-          "text": "@OverClicker i\u2019m actively long $263,000 zcash https://t.co/GpJOLJ2VPJ"
-        },
-        {
           "created_at": "2026-10-25T18:01:01.000Z",
           "id": "2114416958267371865",
           "reply_to_id": "2114415999793447046",
@@ -4332,6 +4323,12 @@
           "id": "2115043431659794717",
           "reply_to_id": "2114888250766823885",
           "text": "@RokoMijic you should call into stream today at 1015am est"
+        },
+        {
+          "created_at": "2026-10-27T12:03:09.000Z",
+          "id": "2115051674574405808",
+          "reply_to_id": "2115051337486364789",
+          "text": "@robustus no, do you have any suggestions"
         }
       ],
       "threads": {
@@ -4660,7 +4657,6 @@
         "2114001121467326892": true,
         "2114117774687494473": false,
         "2114186840165240870": false,
-        "2114412936970052031": true,
         "2114416958267371865": true,
         "2114418519982882977": true,
         "2114443957908484498": false,
@@ -4682,7 +4678,8 @@
         "2115043431659794717": false,
         "2115049500545085582": false,
         "2115049544299983111": false,
-        "2115050424499601853": false
+        "2115050424499601853": false,
+        "2115051674574405808": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6282,5 +6279,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T12:00:23+00:00"
+  "updated_at": "2026-10-27T12:04:17+00:00"
 }
