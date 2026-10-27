@@ -2090,18 +2090,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115226395249135617",
+      "last_id": "2115227097345982956",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-26T14:43:54.000Z",
-          "id": "2114729739109703694",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2114729680485953536/img/0msBMxA39yq4VPdN.jpg"
-          ],
-          "quoted_text": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\n\nRead more: https://t.co/ofhv0DK3Zp\n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may offers to buy be accepted, prior to the time the registration statement becomes effective. This post does not constitute an offer to sell or the solicitation of an offer to buy these securities, ",
-          "text": "https://t.co/j0IoeewMsU https://t.co/ToqSDIexDh"
-        },
         {
           "created_at": "2026-10-26T15:49:55.000Z",
           "id": "2114746352358080586",
@@ -2228,10 +2219,14 @@
           "id": "2115225641771762029",
           "quoted_text": "SK HYNIX $SKHY Q3\u201926 EARNINGS HIGHLIGHTS\n\n\ud83d\udd39 Revenue: $78.9B (Est. $74.8B) \ud83d\udfe2; +328% YoY\n\ud83d\udd39 Oper Profit: $62.8B (Est. $58.5B) \ud83d\udfe2; +632% YoY\n\ud83d\udd39 Oper Margin: 80%; +3,300 bps YoY; record high\n\ud83d\udd39 QoQ: Revenue +32% / Oper Profit +38%\n\nQ4 Guide:\n\ud83d\udd39 DRAM Bit Growth: Mid-20% QoQ\n\ud83d\udd39 NAND Bit Growth: Mid-single% QoQ incl. Solidigm\n\nQ3 Pricing & Volume:\n\ud83d\udd39 DRAM ASP: High-20% QoQ; bits ~+10% QoQ\n\ud83d\udd39 NAND ASP: Mid-20% QoQ; bits slightly lower QoQ\n\nProfitability:\n\ud83d\udd39 Gross Margin: 85.7% (Est. 85.2%) \ud83d\udfe2\n\ud83d\udd39 EBITDA: $66.1B; 84",
           "text": "priced in apparently lol https://t.co/PHGIgzYH3m"
+        },
+        {
+          "created_at": "2026-10-27T23:40:13.000Z",
+          "id": "2115227097345982956",
+          "text": "SEND IN THE RETAIL HWARANG"
         }
       ],
       "reads": {
-        "2114729739109703694": "No call",
         "2114746352358080586": "No call",
         "2114747674717233205": "No call",
         "2114764836647129096": "No call",
@@ -2249,7 +2244,8 @@
         "2115152092717584395": "No call",
         "2115224420117590184": "No call: bullish on memory stocks (same view as before)",
         "2115224658832195673": "No call",
-        "2115225641771762029": "No call: bullish on memory stocks (same view as before)"
+        "2115225641771762029": "No call: bullish on memory stocks (same view as before)",
+        "2115227097345982956": "No call"
       },
       "replies": [
         {
@@ -2489,10 +2485,13 @@
         "2115225641771762029": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115227097345982956": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114729739109703694": true,
         "2114746352358080586": false,
         "2114747674717233205": false,
         "2114764836647129096": false,
@@ -2526,7 +2525,8 @@
         "2115224658832195673": false,
         "2115225641771762029": true,
         "2115226215401349463": true,
-        "2115226395249135617": true
+        "2115226395249135617": true,
+        "2115227097345982956": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6420,5 +6420,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-27T23:38:18+00:00"
+  "updated_at": "2026-10-27T23:42:23+00:00"
 }
