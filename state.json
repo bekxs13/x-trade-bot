@@ -2009,17 +2009,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114881511216283993",
+      "last_id": "2114884800758820910",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-24T21:30:16.000Z",
-          "id": "2114107231335567587",
-          "images": [
-            "https://pbs.twimg.com/media/HVbQPARWIAAAQYc.jpg"
-          ],
-          "text": "this isn't proof of anything, but just to reiterate how i'm thinking about things:\n\nsuppose you wake up on may 5th. dram is trading for 47$ and somehow you are blessed with the knowledge of how the models will evolve, fable release, navier stoke solution, agent swarms (1/n) https://t.co/JSvE7ypUnW https://t.co/e8IHvOQRmf"
-        },
         {
           "created_at": "2026-10-24T21:30:17.000Z",
           "id": "2114107233445253248",
@@ -2145,10 +2137,18 @@
           "id": "2114881511216283993",
           "quoted_text": "In celebration of Anthropic's S1 I read out every single AI ever made.\nThis is the last AI podcast that anyone has to ever listen to.\n\n00:00 - The only AI podcast you\u2019ll ever need\n01:28 - Naming every single AI ever made\n51:38 - Never give up\n58:28 - Is this still on?\n1:31:24 - I finished (and then I completed the list of AI)",
           "text": "im not going to say the timestamp but atlas takes off his shoes for 5-6 seconds in the middle https://t.co/xfte0ll2Vx"
+        },
+        {
+          "created_at": "2026-10-27T01:00:03.000Z",
+          "id": "2114884800758820910",
+          "images": [
+            "https://pbs.twimg.com/media/HVmUhEkWwAA2_OC.png"
+          ],
+          "quoted_text": "I am generally inclined against vague posting. However, I can't resist saying that tomorrow is going to be a big day.",
+          "text": "https://t.co/me3lRp2z3m https://t.co/GiA1VAiuyq"
         }
       ],
       "reads": {
-        "2114107231335567587": "No call: bullish on memory stocks (same view as before)",
         "2114107233445253248": "Read together with the post it replies to",
         "2114145973807251923": "No call",
         "2114146134755319833": "Read together with the post it replies to",
@@ -2165,15 +2165,10 @@
         "2114783014597366013": "No call",
         "2114819950816727513": "No call",
         "2114846392220868633": "No call",
-        "2114881511216283993": "No call"
+        "2114881511216283993": "No call",
+        "2114884800758820910": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-25T14:15:19.000Z",
-          "id": "2114360157140369711",
-          "reply_to_id": "2114358837033730315",
-          "text": "@arjun1123 @jiratickets ah yes the chainsmokers as well"
-        },
         {
           "created_at": "2026-10-25T22:02:54.000Z",
           "id": "2114477831933902881",
@@ -2257,6 +2252,12 @@
           "id": "2114865786556985650",
           "reply_to_id": "2114836677814624763",
           "text": "@neyaksse whoa"
+        },
+        {
+          "created_at": "2026-10-27T00:58:53.000Z",
+          "id": "2114884504741626129",
+          "reply_to_id": "2114860851190456669",
+          "text": "@ebervector that's really neat!"
         }
       ],
       "threads": {
@@ -2361,16 +2362,18 @@
         "2114881511216283993": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114884800758820910": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114107231335567587": true,
         "2114107233445253248": true,
         "2114107235957948925": true,
         "2114108033286508977": true,
         "2114145973807251923": true,
         "2114146134755319833": false,
-        "2114360157140369711": false,
         "2114405956746444960": false,
         "2114459635683881373": true,
         "2114477831933902881": false,
@@ -2398,7 +2401,9 @@
         "2114858467265577299": false,
         "2114865708060619220": false,
         "2114865786556985650": false,
-        "2114881511216283993": false
+        "2114881511216283993": false,
+        "2114884504741626129": false,
+        "2114884800758820910": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6272,5 +6277,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-27T00:48:22+00:00"
+  "updated_at": "2026-10-27T01:00:27+00:00"
 }
