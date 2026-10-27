@@ -4061,7 +4061,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115049544299983111",
+      "last_id": "2115050424499601853",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4097,12 +4097,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-22T18:26:26.000Z",
-          "id": "2113336192578302265",
-          "quoted_text": "selling some more cuz it feels like -25% is a really good days work \n\nNot financial advice idk how this works https://t.co/bEPvnxN6M5",
-          "text": "bro genuinely just hit one of the best trades this year. @ShaneStoffer you should come on stream tomorrow and talk about it https://t.co/i0YX1nqHTK"
-        },
         {
           "created_at": "2026-10-22T18:29:15.000Z",
           "id": "2113336901352526218",
@@ -4217,10 +4211,15 @@
           "id": "2115049544299983111",
           "reply_to_id": "2115049500545085582",
           "text": "fuck you chumba bitch fuck chumba bitch"
+        },
+        {
+          "created_at": "2026-10-27T11:58:11.000Z",
+          "id": "2115050424499601853",
+          "reply_to_id": "2115049544299983111",
+          "text": "FUCK YOU CHUMBA"
         }
       ],
       "reads": {
-        "2113336192578302265": "No call",
         "2113336901352526218": "No call",
         "2113355757542347010": "No call",
         "2113391874417344985": "No call",
@@ -4649,7 +4648,6 @@
         }
       },
       "trading": {
-        "2113336192578302265": true,
         "2113336901352526218": false,
         "2113355757542347010": true,
         "2113391874417344985": false,
@@ -4683,7 +4681,8 @@
         "2114892389470843257": false,
         "2115043431659794717": false,
         "2115049500545085582": false,
-        "2115049544299983111": false
+        "2115049544299983111": false,
+        "2115050424499601853": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6282,6 +6281,6 @@
     }
   },
   "markets_labeled": true,
-  "summary_date": "2026-10-26",
-  "updated_at": "2026-10-27T11:56:23+00:00"
+  "summary_date": "2026-10-27",
+  "updated_at": "2026-10-27T12:00:23+00:00"
 }
