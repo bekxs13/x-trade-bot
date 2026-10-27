@@ -2009,15 +2009,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2114884800758820910",
+      "last_id": "2114886275820134726",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-24T21:30:17.000Z",
-          "id": "2114107233445253248",
-          "reply_to_id": "2114107231335567587",
-          "text": "the need for inference in applications like continuous cyber protection, and real pushes in bio, robotics, materials science etc.\n\neg stuff that has been talked about/literally seen in the past half year\n\nbut not blessed with future knowledge of stocks"
-        },
         {
           "created_at": "2026-10-24T21:30:17.000Z",
           "id": "2114107235957948925",
@@ -2146,10 +2140,14 @@
           ],
           "quoted_text": "I am generally inclined against vague posting. However, I can't resist saying that tomorrow is going to be a big day.",
           "text": "https://t.co/me3lRp2z3m https://t.co/GiA1VAiuyq"
+        },
+        {
+          "created_at": "2026-10-27T01:05:55.000Z",
+          "id": "2114886275820134726",
+          "text": "crypto will always exist because the permanent underclass will financially pvp itself for the entertainment of the overclass"
         }
       ],
       "reads": {
-        "2114107233445253248": "Read together with the post it replies to",
         "2114145973807251923": "No call",
         "2114146134755319833": "Read together with the post it replies to",
         "2114405956746444960": "No call",
@@ -2166,7 +2164,8 @@
         "2114819950816727513": "No call",
         "2114846392220868633": "No call",
         "2114881511216283993": "No call",
-        "2114884800758820910": "No call"
+        "2114884800758820910": "No call",
+        "2114886275820134726": "No call"
       },
       "replies": [
         {
@@ -2366,10 +2365,13 @@
         "2114884800758820910": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2114886275820134726": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114107233445253248": true,
         "2114107235957948925": true,
         "2114108033286508977": true,
         "2114145973807251923": true,
@@ -2403,7 +2405,8 @@
         "2114865786556985650": false,
         "2114881511216283993": false,
         "2114884504741626129": false,
-        "2114884800758820910": false
+        "2114884800758820910": false,
+        "2114886275820134726": true
       },
       "user_id": "1598545553327067137"
     },
@@ -4056,7 +4059,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2114856336781365305",
+      "last_id": "2114886014309179439",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4237,12 +4240,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-25T16:07:18.000Z",
-          "id": "2114388341710049532",
-          "reply_to_id": "2114355762931929098",
-          "text": "@iwantlambo low right"
-        },
-        {
           "created_at": "2026-10-25T16:39:08.000Z",
           "id": "2114396350154698787",
           "images": [
@@ -4331,6 +4328,12 @@
           "id": "2114856336781365305",
           "reply_to_id": "2114844840198590587",
           "text": "@pastagotsauce hell yeah"
+        },
+        {
+          "created_at": "2026-10-27T01:04:53.000Z",
+          "id": "2114886014309179439",
+          "reply_to_id": "2114800764446978500",
+          "text": "@nic_carter this is sick"
         }
       ],
       "threads": {
@@ -4658,7 +4661,6 @@
         "2114001121467326892": true,
         "2114117774687494473": false,
         "2114186840165240870": false,
-        "2114388341710049532": false,
         "2114396350154698787": false,
         "2114396841814978807": false,
         "2114412936970052031": true,
@@ -4677,7 +4679,8 @@
         "2114811570043658705": false,
         "2114821870335705336": false,
         "2114845616207770083": false,
-        "2114856336781365305": false
+        "2114856336781365305": false,
+        "2114886014309179439": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6277,5 +6280,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-26",
-  "updated_at": "2026-10-27T01:00:27+00:00"
+  "updated_at": "2026-10-27T01:06:22+00:00"
 }
