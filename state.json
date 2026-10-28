@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2115532388805816747",
+      "last_id": "2115533041611505703",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -282,12 +282,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-26T03:10:48.000Z",
-          "id": "2114555315194867847",
-          "reply_to_id": "2114554856081928687",
-          "text": "@tkisrage initially skeptical now repeat"
-        },
-        {
           "created_at": "2026-10-26T03:21:26.000Z",
           "id": "2114557992628826208",
           "reply_to_id": "2114556982875328556",
@@ -373,6 +367,12 @@
           "id": "2115532388805816747",
           "reply_to_id": "2115529357284274310",
           "text": "@void_rx89880 Can\u2019t be in a cop car idt"
+        },
+        {
+          "created_at": "2026-10-28T19:55:56.000Z",
+          "id": "2115533041611505703",
+          "reply_to_id": "2115532516849262941",
+          "text": "@Arnouz2 Think so maybe"
         }
       ],
       "threads": {
@@ -787,7 +787,6 @@
       },
       "trading": {
         "2114552533163311386": false,
-        "2114555315194867847": false,
         "2114557992628826208": false,
         "2114558763705454653": true,
         "2114560792133779467": false,
@@ -820,7 +819,8 @@
         "2115507251884839104": true,
         "2115508256877810083": false,
         "2115531471092154614": false,
-        "2115532388805816747": false
+        "2115532388805816747": false,
+        "2115533041611505703": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4203,7 +4203,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115531061241192542",
+      "last_id": "2115532900875588072",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4373,15 +4373,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T01:38:14.000Z",
-          "id": "2115256797976023106",
-          "images": [
-            "https://pbs.twimg.com/media/HVrm2LyWwAAepyz.jpg"
-          ],
-          "reply_to_id": "2115245173429108800",
-          "text": "@CryptoEthan https://t.co/As7OmdjGnZ"
-        },
-        {
           "created_at": "2026-10-28T11:17:12.000Z",
           "id": "2115402497372147881",
           "reply_to_id": "2115339875776106551",
@@ -4464,6 +4455,12 @@
           "id": "2115531061241192542",
           "reply_to_id": "2115478008840724664",
           "text": "@cmsholdings MOVIE hi dan"
+        },
+        {
+          "created_at": "2026-10-28T19:55:22.000Z",
+          "id": "2115532900875588072",
+          "reply_to_id": "2115520855358996814",
+          "text": "@dTrypt you watch it because it\u2019s so miserable and insufferable that watching with a large group is more fun \n\nwatching that shit alone lowkey depressing"
         }
       ],
       "threads": {
@@ -4855,7 +4852,6 @@
         "2115135735267229897": false,
         "2115223935482728836": false,
         "2115250371262050587": false,
-        "2115256797976023106": false,
         "2115402497372147881": false,
         "2115402939963736421": false,
         "2115404327686967629": false,
@@ -4878,7 +4874,8 @@
         "2115516181964824835": false,
         "2115517817160417719": true,
         "2115524774214684796": false,
-        "2115531061241192542": false
+        "2115531061241192542": false,
+        "2115532900875588072": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6490,5 +6487,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T19:54:22+00:00"
+  "updated_at": "2026-10-28T19:56:21+00:00"
 }
