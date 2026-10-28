@@ -2098,7 +2098,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115538058745712824",
+      "last_id": "2115541940418548100",
       "positions": {},
       "posts": [
         {
@@ -2249,12 +2249,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T04:12:23.000Z",
-          "id": "2115295587717218529",
-          "reply_to_id": "2115292000815808744",
-          "text": "@0xGeeGee @skyquake_1 @volatilititties it's not literally the ADR lol. it's just a piece of paper that says the ADR name. You realize there's a basis between the hyperliquid derivative and the actual ADR roght"
-        },
-        {
           "created_at": "2026-10-28T04:13:10.000Z",
           "id": "2115295785281790235",
           "reply_to_id": "2115291607906013634",
@@ -2340,6 +2334,12 @@
           "id": "2115538058745712824",
           "reply_to_id": "2115535925476474960",
           "text": "@gmaneplays i actually didn't even notice with how memory performed lol\n\nit is what it is, i am still long googl but my position has been pared down for a bit already"
+        },
+        {
+          "created_at": "2026-10-28T20:31:18.000Z",
+          "id": "2115541940418548100",
+          "reply_to_id": "2115541091755987221",
+          "text": "@waltuuuhr this is a fairly common take"
         }
       ],
       "threads": {
@@ -2535,7 +2535,6 @@
         "2115246211297079682": true,
         "2115258826580451841": true,
         "2115289828853948792": false,
-        "2115295587717218529": true,
         "2115295785281790235": true,
         "2115295988587901202": false,
         "2115300137308487994": true,
@@ -2553,7 +2552,8 @@
         "2115504039576404344": false,
         "2115507063938031904": false,
         "2115535426589241612": false,
-        "2115538058745712824": true
+        "2115538058745712824": true,
+        "2115541940418548100": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6490,5 +6490,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T20:26:19+00:00"
+  "updated_at": "2026-10-28T20:32:25+00:00"
 }
