@@ -2098,18 +2098,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115507063938031904",
+      "last_id": "2115535426589241612",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-27T01:00:03.000Z",
-          "id": "2114884800758820910",
-          "images": [
-            "https://pbs.twimg.com/media/HVmUhEkWwAA2_OC.png"
-          ],
-          "quoted_text": "I am generally inclined against vague posting. However, I can't resist saying that tomorrow is going to be a big day.",
-          "text": "https://t.co/me3lRp2z3m https://t.co/GiA1VAiuyq"
-        },
         {
           "created_at": "2026-10-27T01:05:55.000Z",
           "id": "2114886275820134726",
@@ -2226,10 +2217,17 @@
           "id": "2115495637269557447",
           "quoted_text": "Introducing Gemini 4 Carbon, it's a big jump over Argon which we released just 2 weeks ago.\n\nGemini 4 Carbon is SOTA on cyber, long horizon tasks, ranks #1 on Artificial Analysis V5, significantly improves on usability in domains like coding, and is more aligned. https://t.co/Ikk9YedjCQ",
           "text": "interesting https://t.co/lsoGRXaABZ"
+        },
+        {
+          "created_at": "2026-10-28T20:05:25.000Z",
+          "id": "2115535426589241612",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2115535391931387904/img/bj4zWg807g4KQ_gs.jpg"
+          ],
+          "text": "https://t.co/z6gDHYZPhX"
         }
       ],
       "reads": {
-        "2114884800758820910": "No call",
         "2114886275820134726": "No call",
         "2114896322251702476": "No call",
         "2115053377583247471": "No call: bullish on memory stocks (same view as before)",
@@ -2246,7 +2244,8 @@
         "2115258826580451841": "No call",
         "2115436629166784742": "No call",
         "2115436745248715181": "Read together with the post it replies to",
-        "2115495637269557447": "No call"
+        "2115495637269557447": "No call",
+        "2115535426589241612": "No call"
       },
       "replies": [
         {
@@ -2513,10 +2512,13 @@
         "2115495637269557447": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115535426589241612": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114884800758820910": false,
         "2114886275820134726": true,
         "2114896322251702476": false,
         "2114927811475431847": false,
@@ -2550,7 +2552,8 @@
         "2115498490654523696": true,
         "2115503083136692501": false,
         "2115504039576404344": false,
-        "2115507063938031904": false
+        "2115507063938031904": false,
+        "2115535426589241612": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6487,5 +6490,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T19:56:21+00:00"
+  "updated_at": "2026-10-28T20:06:22+00:00"
 }
