@@ -4194,7 +4194,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115572332467278017",
+      "last_id": "2115574844511449107",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4230,11 +4230,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-27T11:54:31.000Z",
-          "id": "2115049500545085582",
-          "text": "i'm on amazon adding MREs to my cart you guys fucking suck honestly"
-        },
         {
           "created_at": "2026-10-27T11:54:41.000Z",
           "id": "2115049544299983111",
@@ -4339,10 +4334,15 @@
           "created_at": "2026-10-28T18:55:26.000Z",
           "id": "2115517817160417719",
           "text": "kevin warsh STOP FLIRTING PLEASE MAN"
+        },
+        {
+          "created_at": "2026-10-28T22:42:03.000Z",
+          "id": "2115574844511449107",
+          "quoted_text": "Sights set on Denver. https://t.co/jgmRxhenhH",
+          "text": "betting odds from the MAIN account is genuinely insane how did we get here https://t.co/dN47a2mSvb"
         }
       ],
       "reads": {
-        "2115049500545085582": "No call",
         "2115049544299983111": "Read together with the post it replies to",
         "2115052832449548371": "No call",
         "2115060673713762765": "No call",
@@ -4360,7 +4360,8 @@
         "2115513223684276230": "No call",
         "2115513597447086132": "No call",
         "2115514887132848432": "No call",
-        "2115517817160417719": "No call"
+        "2115517817160417719": "No call",
+        "2115574844511449107": "No call"
       },
       "replies": [
         {
@@ -4829,10 +4830,13 @@
         "2115517817160417719": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115574844511449107": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115049500545085582": false,
         "2115049544299983111": false,
         "2115050424499601853": false,
         "2115052832449548371": false,
@@ -4866,7 +4870,8 @@
         "2115549735687991602": true,
         "2115550281845133646": true,
         "2115561128633696537": false,
-        "2115572332467278017": false
+        "2115572332467278017": false,
+        "2115574844511449107": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6478,5 +6483,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T22:32:21+00:00"
+  "updated_at": "2026-10-28T22:42:21+00:00"
 }
