@@ -955,7 +955,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115520533785948401",
+      "last_id": "2115523492640690477",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1142,12 +1142,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T12:55:31.000Z",
-          "id": "2115427241383641392",
-          "reply_to_id": "2115134947380064726",
-          "text": "@LinusCaldwell5 ?\n\nthis was a genuine question and easy to answer? how is this question mal-intentioned?"
-        },
-        {
           "created_at": "2026-10-28T13:03:32.000Z",
           "id": "2115429258147586220",
           "reply_to_id": "2115421059088593406",
@@ -1230,6 +1224,12 @@
           "id": "2115493577895874881",
           "reply_to_id": "2115492156047810572",
           "text": "@candycandytoys damn bro a nigga cant yawn at 7am"
+        },
+        {
+          "created_at": "2026-10-28T19:17:59.000Z",
+          "id": "2115523492640690477",
+          "reply_to_id": "2115521369005850748",
+          "text": "@cryptoklotz lmaooooooooooooooooooooooooooooooooo"
         }
       ],
       "threads": {
@@ -1673,7 +1673,6 @@
         "2115136401364979876": true,
         "2115162891217473604": false,
         "2115418459765113280": true,
-        "2115427241383641392": false,
         "2115429258147586220": false,
         "2115430336419262963": false,
         "2115430580389027917": true,
@@ -1692,7 +1691,8 @@
         "2115495632341541021": true,
         "2115515126027891199": true,
         "2115520419990319110": true,
-        "2115520533785948401": true
+        "2115520533785948401": true,
+        "2115523492640690477": false
       },
       "user_id": "973261472"
     },
@@ -6490,5 +6490,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T19:09:20+00:00"
+  "updated_at": "2026-10-28T19:18:21+00:00"
 }
