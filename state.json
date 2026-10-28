@@ -2076,24 +2076,19 @@
       "biases": {
         "memory stocks": {
           "market": "stocks",
-          "post_id": "2115225641771762029",
-          "reason": "Sarcastic \"priced in apparently lol\" on a huge SK Hynix beat implies the stock is undervalued, matching the recorded bullish view on memory stocks.",
+          "post_id": "2115575054545072216",
+          "reason": "After SK Hynix earnings, the author jokes about 'dispelling the fake capex fud' to keep 'the ramp' going in Korean memory names. This matches the recorded bullish view on memory stocks.",
           "scope": "memory stocks",
           "since": "2026-10-24",
           "stance": "bullish",
-          "updated_at": "2026-10-27T23:34:26.000Z"
+          "updated_at": "2026-10-28T22:42:53.000Z"
         }
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115557720648753476",
+      "last_id": "2115575054545072216",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-27T01:05:55.000Z",
-          "id": "2114886275820134726",
-          "text": "crypto will always exist because the permanent underclass will financially pvp itself for the entertainment of the overclass"
-        },
         {
           "created_at": "2026-10-27T01:45:50.000Z",
           "id": "2114896322251702476",
@@ -2213,10 +2208,18 @@
             "https://pbs.twimg.com/amplify_video_thumb/2115535391931387904/img/bj4zWg807g4KQ_gs.jpg"
           ],
           "text": "https://t.co/z6gDHYZPhX"
+        },
+        {
+          "created_at": "2026-10-28T22:42:53.000Z",
+          "id": "2115575054545072216",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2115574966879977472/img/VmcjQX5aRItdyeTk.jpg"
+          ],
+          "quoted_text": "i have cast an ancient korean magik. the ramp starts now https://t.co/iSa2sDO86B https://t.co/CTYZLW8Pxu",
+          "text": "casting an even more powerful magik tonight to dispel the fake capex fud https://t.co/FQLQZW0OoY https://t.co/W9ncPi6a71"
         }
       ],
       "reads": {
-        "2114886275820134726": "No call",
         "2114896322251702476": "No call",
         "2115053377583247471": "No call: bullish on memory stocks (same view as before)",
         "2115056992259568079": "No call",
@@ -2233,7 +2236,8 @@
         "2115436629166784742": "No call",
         "2115436745248715181": "Read together with the post it replies to",
         "2115495637269557447": "No call",
-        "2115535426589241612": "No call"
+        "2115535426589241612": "No call",
+        "2115575054545072216": "No call: bullish on memory stocks (same view as before)"
       },
       "replies": [
         {
@@ -2504,10 +2508,13 @@
         "2115535426589241612": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115575054545072216": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114886275820134726": true,
         "2114896322251702476": false,
         "2114927811475431847": false,
         "2115053377583247471": true,
@@ -2541,7 +2548,8 @@
         "2115541940418548100": false,
         "2115544549330231799": true,
         "2115554823756263774": false,
-        "2115557720648753476": false
+        "2115557720648753476": false,
+        "2115575054545072216": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6483,5 +6491,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T22:42:21+00:00"
+  "updated_at": "2026-10-28T22:44:29+00:00"
 }
