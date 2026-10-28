@@ -954,7 +954,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115545854475981153",
+      "last_id": "2115548592060674218",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -974,15 +974,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-26T14:04:48.000Z",
-          "id": "2114719900367466659",
-          "images": [
-            "https://pbs.twimg.com/media/HVj-iBmXkAAibx6.jpg"
-          ],
-          "quoted_text": "dont know, i just look at charts\n\nreasoning for my being bullish past week was that a higher high here would maintain bullish structure and trend\n\nweekly bearish engulfing to downside breaks trend & makes it more likely the inefficient move we had on the way up gets filled\n\nthis setup + equities having reason to selloff w/ macro/inflation fears + anthropic growth slowdown is enough to be concerned",
-          "text": "https://t.co/6rdtHhlhm1 https://t.co/NmeqOedyuE"
-        },
         {
           "created_at": "2026-10-26T15:42:48.000Z",
           "id": "2114744563055440320",
@@ -1113,10 +1104,15 @@
           "created_at": "2026-10-28T20:46:51.000Z",
           "id": "2115545854475981153",
           "text": "is google down -10% after hours bro"
+        },
+        {
+          "created_at": "2026-10-28T20:57:43.000Z",
+          "id": "2115548592060674218",
+          "quoted_text": "Introducing: your plans for Thursday afternoon.\n\nCome find out about everything we\u2019re building at Coinbase.\n\nWe'll be live for our Q3 earnings AMA, tomorrow at 5PM ET.\n\nGuests include @blknoiz06, @jonbma, @LorenzoARK and Andrew Jeffrey. https://t.co/JzJeTtmnSX",
+          "text": "tune in i have good questions \ud83d\ude01 https://t.co/1g5Ud1EWzk"
         }
       ],
       "reads": {
-        "2114719900367466659": "No call: bearish on eth (same view as before)",
         "2114744563055440320": "No call",
         "2114791460134596661": "No call",
         "2114849515316584949": "No call",
@@ -1135,7 +1131,8 @@
         "2115520419990319110": "No call",
         "2115520533785948401": "No call",
         "2115523673675448685": "No call",
-        "2115545854475981153": "No call"
+        "2115545854475981153": "No call",
+        "2115548592060674218": "No call"
       },
       "replies": [
         {
@@ -1230,10 +1227,6 @@
         }
       ],
       "threads": {
-        "2110020788229214374": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110027728112021765": {
           "alerted": [
             "bias:mu:bearish"
@@ -1652,10 +1645,13 @@
         "2115545854475981153": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115548592060674218": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114719900367466659": true,
         "2114744563055440320": true,
         "2114791460134596661": true,
         "2114849515316584949": true,
@@ -1689,7 +1685,8 @@
         "2115525408284115195": true,
         "2115526406772064683": false,
         "2115531705004044552": false,
-        "2115545854475981153": true
+        "2115545854475981153": true,
+        "2115548592060674218": true
       },
       "user_id": "973261472"
     },
@@ -6487,5 +6484,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T20:52:19+00:00"
+  "updated_at": "2026-10-28T20:58:21+00:00"
 }
