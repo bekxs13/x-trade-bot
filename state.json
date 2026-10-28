@@ -2098,7 +2098,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115541940418548100",
+      "last_id": "2115544549330231799",
       "positions": {},
       "posts": [
         {
@@ -2249,12 +2249,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T04:13:10.000Z",
-          "id": "2115295785281790235",
-          "reply_to_id": "2115291607906013634",
-          "text": "@skyquake_1 @volatilititties @0xGeeGee it's not the same thing though and crucially i wouldn't look at overnight moves in the hyperliquid adr and assume it's at all reflective of the adr premium"
-        },
-        {
           "created_at": "2026-10-28T04:13:58.000Z",
           "id": "2115295988587901202",
           "reply_to_id": "2115291908649955608",
@@ -2340,6 +2334,12 @@
           "id": "2115541940418548100",
           "reply_to_id": "2115541091755987221",
           "text": "@waltuuuhr this is a fairly common take"
+        },
+        {
+          "created_at": "2026-10-28T20:41:40.000Z",
+          "id": "2115544549330231799",
+          "reply_to_id": "2115541588097012110",
+          "text": "@_job01 I don't think so. There's limited chips so only the absolute frontier is going to be able to bid competitive prices. You should expect to see capex consolidate to fewer and fewer players"
         }
       ],
       "threads": {
@@ -2535,7 +2535,6 @@
         "2115246211297079682": true,
         "2115258826580451841": true,
         "2115289828853948792": false,
-        "2115295785281790235": true,
         "2115295988587901202": false,
         "2115300137308487994": true,
         "2115309644641951884": false,
@@ -2553,7 +2552,8 @@
         "2115507063938031904": false,
         "2115535426589241612": false,
         "2115538058745712824": true,
-        "2115541940418548100": false
+        "2115541940418548100": false,
+        "2115544549330231799": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6490,5 +6490,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T20:40:22+00:00"
+  "updated_at": "2026-10-28T20:42:22+00:00"
 }
