@@ -4206,7 +4206,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115513597447086132",
+      "last_id": "2115514887132848432",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4242,12 +4242,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-26T14:17:40.000Z",
-          "id": "2114723139443728690",
-          "quoted_text": "MARKET OPEN: Anthropic S-1 TODAY, Elon KILLS Neoclouds, SOMEBODY SAVE CRYPTO https://t.co/74ZbhjaE09",
-          "text": "live with the face of the bulls @QwQiao https://t.co/XyM8nAVWXd"
-        },
         {
           "created_at": "2026-10-26T19:58:49.000Z",
           "id": "2114808991805300867",
@@ -4352,10 +4346,14 @@
           "created_at": "2026-10-28T18:38:40.000Z",
           "id": "2115513597447086132",
           "text": "kev \"i read your story already\" warsh you sly dog"
+        },
+        {
+          "created_at": "2026-10-28T18:43:48.000Z",
+          "id": "2115514887132848432",
+          "text": "why does he talk like this man FUCKKKKKKKKKKK"
         }
       ],
       "reads": {
-        "2114723139443728690": "No call",
         "2114808991805300867": "No call",
         "2115049500545085582": "No call",
         "2115049544299983111": "Read together with the post it replies to",
@@ -4373,7 +4371,8 @@
         "2115474504767910026": "No call",
         "2115502455136133622": "No call",
         "2115513223684276230": "No call",
-        "2115513597447086132": "No call"
+        "2115513597447086132": "No call",
+        "2115514887132848432": "No call"
       },
       "replies": [
         {
@@ -4837,10 +4836,13 @@
         "2115513597447086132": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115514887132848432": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114723139443728690": true,
         "2114808991805300867": true,
         "2115049500545085582": false,
         "2115049544299983111": false,
@@ -4874,7 +4876,8 @@
         "2115502455136133622": true,
         "2115508582238282079": false,
         "2115513223684276230": true,
-        "2115513597447086132": false
+        "2115513597447086132": false,
+        "2115514887132848432": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6486,5 +6489,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T18:40:22+00:00"
+  "updated_at": "2026-10-28T18:44:22+00:00"
 }
