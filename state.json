@@ -4203,7 +4203,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115423980584878520",
+      "last_id": "2115474504767910026",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4239,12 +4239,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-25T02:46:37.000Z",
-          "id": "2114186840165240870",
-          "reply_to_id": "2114159470485950858",
-          "text": "@apewoodx ?"
-        },
         {
           "created_at": "2026-10-26T11:58:20.000Z",
           "id": "2114688074223583513",
@@ -4350,6 +4344,12 @@
           "created_at": "2026-10-28T12:42:03.000Z",
           "id": "2115423849747824958",
           "text": "MARKET OPEN: FOMC TODAY, Anthropic SAVED the AI &amp; Crypto Trade, BIG NEWS DAY https://t.co/HaCDTwBNzN"
+        },
+        {
+          "created_at": "2026-10-28T16:03:20.000Z",
+          "id": "2115474504767910026",
+          "quoted_text": "*COGNITION MULLS NEW FUNDING ROUND AT $70B-80B VALUATION:INSIDER\n\nWho are they and why are they worth 2x Chipotle https://t.co/tIShArzEOh",
+          "text": "cheeky pint valuation just like tripled https://t.co/bI8ItMhSsj"
         }
       ],
       "reads": {
@@ -4370,7 +4370,8 @@
         "2115250371262050587": "No call",
         "2115423258850033813": "No call",
         "2115423821645963569": "No call",
-        "2115423849747824958": "No call"
+        "2115423849747824958": "No call",
+        "2115474504767910026": "No call"
       },
       "replies": [
         {
@@ -4818,10 +4819,13 @@
         "2115423849747824958": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115474504767910026": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114186840165240870": false,
         "2114688074223583513": true,
         "2114693897255342556": true,
         "2114697397603569667": true,
@@ -4855,7 +4859,8 @@
         "2115423258850033813": true,
         "2115423821645963569": true,
         "2115423849747824958": true,
-        "2115423980584878520": false
+        "2115423980584878520": false,
+        "2115474504767910026": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6467,5 +6472,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T15:12:24+00:00"
+  "updated_at": "2026-10-28T16:04:24+00:00"
 }
