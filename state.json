@@ -2090,18 +2090,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115243189321748909",
+      "last_id": "2115246211297079682",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-26T15:55:10.000Z",
-          "id": "2114747674717233205",
-          "images": [
-            "https://pbs.twimg.com/media/HVkXyvPX0AAwnW9.jpg"
-          ],
-          "quoted_text": "\u201cAs of June 30, 2026, we hadraised an aggregate of\u00a0 $141.1 billion of capital and had cash and cash equivalents of\u00a0 $112.4 billion and short- term investments of $19.3 billion\u201d\n\nI think Anthropic might be okay for a little while tbh.",
-          "text": "31.5% lmfao https://t.co/2ZXkgB9Kfl https://t.co/zryKsWWbze"
-        },
         {
           "created_at": "2026-10-26T17:03:22.000Z",
           "id": "2114764836647129096",
@@ -2227,10 +2218,15 @@
           ],
           "quoted_text": "ok claude find nearest open store selling soju https://t.co/Axage8ZNAG",
           "text": "i have cast an ancient korean magik. the ramp starts now https://t.co/iSa2sDO86B https://t.co/CTYZLW8Pxu"
+        },
+        {
+          "created_at": "2026-10-28T00:56:10.000Z",
+          "id": "2115246211297079682",
+          "quoted_text": "i have cast an ancient korean magik. the ramp starts now https://t.co/iSa2sDO86B https://t.co/CTYZLW8Pxu",
+          "text": "what did you think quant trading meant\nvibes \nessays?\n\nlosers https://t.co/W9ncPi6HWz"
         }
       ],
       "reads": {
-        "2114747674717233205": "No call",
         "2114764836647129096": "No call",
         "2114783014597366013": "No call",
         "2114819950816727513": "No call",
@@ -2248,7 +2244,8 @@
         "2115224658832195673": "No call",
         "2115225641771762029": "No call: bullish on memory stocks (same view as before)",
         "2115227097345982956": "No call",
-        "2115235679399731282": "No call"
+        "2115235679399731282": "No call",
+        "2115246211297079682": "No call"
       },
       "replies": [
         {
@@ -2499,10 +2496,13 @@
         "2115235679399731282": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115246211297079682": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114747674717233205": false,
         "2114764836647129096": false,
         "2114783014597366013": false,
         "2114819950816727513": true,
@@ -2536,7 +2536,8 @@
         "2115240228797497582": false,
         "2115242584545296852": false,
         "2115242645899374900": false,
-        "2115243189321748909": false
+        "2115243189321748909": false,
+        "2115246211297079682": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6430,5 +6431,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-28T00:46:18+00:00"
+  "updated_at": "2026-10-28T00:58:21+00:00"
 }
