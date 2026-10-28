@@ -955,7 +955,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115495632341541021",
+      "last_id": "2115515126027891199",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -975,14 +975,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-26T13:13:23.000Z",
-          "id": "2114706961627230706",
-          "images": [
-            "https://pbs.twimg.com/media/HVjyxa8WEAAxa89.jpg"
-          ],
-          "text": "it's always darkest before dawn, job not finished\n\nhappy monday https://t.co/s3fnOf9Sid"
-        },
         {
           "created_at": "2026-10-26T13:20:07.000Z",
           "id": "2114708655182401780",
@@ -1117,10 +1109,18 @@
           ],
           "quoted_text": "Q4 market thoughts \n\noctober 28th, 2026 https://t.co/RraVaagyzc",
           "text": "price action is still the most important part of my trading process\n\ni use fundamentals to understand the broader thesis, but i rely on TA to decide when to enter and exit positions\n\nmarkets are forward-looking, and price often starts moving before the reasons become obvious to everyone else\n\ni'd rather pay attention to how an asset is actually trading than wait for the news or fundamentals to confirm what the market has already priced in"
+        },
+        {
+          "created_at": "2026-10-28T18:44:45.000Z",
+          "id": "2115515126027891199",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2115514642130968576/img/dU4njCgxtzhzHuFY.jpg"
+          ],
+          "quoted_text": "Q4 market thoughts \n\noctober 28th, 2026 https://t.co/RraVaagyzc",
+          "text": "i pay close attention to how price reacts during large liquidation events\n\nwhen billions in forced buying or selling hit the market, the important signal is how much of that pressure gets absorbed\n\nif price stops moving lower despite heavy long liquidations, that can tell you a lot about the demand sitting underneath the market\n\ni think these moments often create important levels to watch on future retests, especially after a significant amount of leverage has been cleared out"
         }
       ],
       "reads": {
-        "2114706961627230706": "No call",
         "2114708655182401780": "VIEW bullish on crypto market",
         "2114709980494561631": "No call",
         "2114710641290138085": "VIEW bearish on btc",
@@ -1139,7 +1139,8 @@
         "2115162891217473604": "No call",
         "2115418459765113280": "No call",
         "2115461279163052437": "VIEW bearish on ai stocks",
-        "2115495632341541021": "No call"
+        "2115495632341541021": "No call",
+        "2115515126027891199": "No call"
       },
       "replies": [
         {
@@ -1234,10 +1235,6 @@
         }
       ],
       "threads": {
-        "2109927211604275273": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109928752092500155": {
           "alerted": [
             "bias:crypto market:bullish"
@@ -1658,10 +1655,13 @@
         "2115495632341541021": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115515126027891199": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114706961627230706": true,
         "2114708655182401780": true,
         "2114709980494561631": true,
         "2114710641290138085": true,
@@ -1695,7 +1695,8 @@
         "2115480870153036052": false,
         "2115490075966349722": false,
         "2115493577895874881": false,
-        "2115495632341541021": true
+        "2115495632341541021": true,
+        "2115515126027891199": true
       },
       "user_id": "973261472"
     },
@@ -6489,5 +6490,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T18:44:22+00:00"
+  "updated_at": "2026-10-28T18:46:22+00:00"
 }
