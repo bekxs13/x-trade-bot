@@ -4194,7 +4194,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115550281845133646",
+      "last_id": "2115561128633696537",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4364,12 +4364,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T18:18:44.000Z",
-          "id": "2115508582238282079",
-          "reply_to_id": "2115508437484212522",
-          "text": "@therealricoy @KnightRizz can you ask him why i blocked him"
-        },
-        {
           "created_at": "2026-10-28T18:48:56.000Z",
           "id": "2115516181964824835",
           "reply_to_id": "2115515852959395909",
@@ -4452,6 +4446,12 @@
           "id": "2115550281845133646",
           "reply_to_id": "2115550173900251305",
           "text": "@chamathsintern @chiefingza @blknoiz06 on hyperliquid leverage right"
+        },
+        {
+          "created_at": "2026-10-28T21:47:32.000Z",
+          "id": "2115561128633696537",
+          "reply_to_id": "2115554915959427162",
+          "text": "@stogolp @Kopfjager01 why did you put this on my feed"
         }
       ],
       "threads": {
@@ -4848,7 +4848,6 @@
         "2115423849747824958": true,
         "2115474504767910026": true,
         "2115502455136133622": true,
-        "2115508582238282079": false,
         "2115513223684276230": true,
         "2115513597447086132": false,
         "2115514887132848432": false,
@@ -4866,7 +4865,8 @@
         "2115545957828010206": true,
         "2115546956844155111": false,
         "2115549735687991602": true,
-        "2115550281845133646": true
+        "2115550281845133646": true,
+        "2115561128633696537": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6478,5 +6478,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T21:34:29+00:00"
+  "updated_at": "2026-10-28T21:48:15+00:00"
 }
