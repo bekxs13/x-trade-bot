@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2115504250197578215",
+      "last_id": "2115507251884839104",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,12 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-25T22:44:03.000Z",
-          "id": "2114488188094021737",
-          "quoted_text": "Thiel: \u201cThere is no successor. When the US is done, the West is done, and the world is done.\u201d \u2014 if you truly believed this, what would you do?",
-          "text": "Me after 3 beers https://t.co/zvAnr1Qao3"
-        },
         {
           "created_at": "2026-10-26T02:27:26.000Z",
           "id": "2114544402257547588",
@@ -259,10 +253,14 @@
           "created_at": "2026-10-28T18:01:32.000Z",
           "id": "2115504250197578215",
           "text": "\"The company always comes first.\"\nKalshi Co-Founders Tarek Mansour and Luana Lopes Lara on dating at MIT, competing in the classroom, breaking up \u2014 and building a company together."
+        },
+        {
+          "created_at": "2026-10-28T18:13:27.000Z",
+          "id": "2115507251884839104",
+          "text": "FED VOTES 10-2 TO HOLD BENCHMARK RATE IN 3.75%-4% RANGE\n\n*FED: ACCUMULATION OF MORE INFO WILL HELP DETERMINE POLICY\n\n*FED: COOK AND BASED16Z DISSENT IN FAVOR OF RATE HIKE"
         }
       ],
       "reads": {
-        "2114488188094021737": "No call",
         "2114544402257547588": "No call",
         "2114552533163311386": "No call",
         "2114932525705646443": "No call",
@@ -280,7 +278,8 @@
         "2115199246366601722": "No call",
         "2115199324724359362": "No call",
         "2115497371807412663": "No call",
-        "2115504250197578215": "No call"
+        "2115504250197578215": "No call",
+        "2115507251884839104": "No call"
       },
       "replies": [
         {
@@ -378,10 +377,6 @@
         }
       ],
       "threads": {
-        "2111144163320446998": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111159898813915507": {
           "alerted": [],
           "self_replies": 0
@@ -785,11 +780,14 @@
         "2115504250197578215": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115507251884839104": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2114203987125674312": false,
-        "2114488188094021737": false,
         "2114544402257547588": false,
         "2114552478381605253": true,
         "2114552533163311386": false,
@@ -822,7 +820,8 @@
         "2115497371807412663": false,
         "2115497514866757875": false,
         "2115503202401722784": false,
-        "2115504250197578215": false
+        "2115504250197578215": false,
+        "2115507251884839104": true
       },
       "user_id": "1446541960181858315"
     },
@@ -2102,7 +2101,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115504039576404344",
+      "last_id": "2115507063938031904",
       "positions": {},
       "posts": [
         {
@@ -2254,12 +2253,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T03:47:55.000Z",
-          "id": "2115289431477272691",
-          "reply_to_id": "2115245351041159445",
-          "text": "@nipacrand do another"
-        },
-        {
           "created_at": "2026-10-28T03:49:13.000Z",
           "id": "2115289758083543054",
           "reply_to_id": "2115289508480700715",
@@ -2345,6 +2338,12 @@
           "id": "2115504039576404344",
           "reply_to_id": "2115503719836246397",
           "text": "@strictrope @PaulSaunde82517 no it's real"
+        },
+        {
+          "created_at": "2026-10-28T18:12:42.000Z",
+          "id": "2115507063938031904",
+          "reply_to_id": "2115504250197578215",
+          "text": "@based16z hard to be funny these days"
         }
       ],
       "threads": {
@@ -2536,7 +2535,6 @@
         "2115235679399731282": true,
         "2115246211297079682": true,
         "2115258826580451841": true,
-        "2115289431477272691": false,
         "2115289758083543054": true,
         "2115289828853948792": false,
         "2115295587717218529": true,
@@ -2554,7 +2552,8 @@
         "2115497102256267349": false,
         "2115498490654523696": true,
         "2115503083136692501": false,
-        "2115504039576404344": false
+        "2115504039576404344": false,
+        "2115507063938031904": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6480,5 +6479,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T18:02:23+00:00"
+  "updated_at": "2026-10-28T18:14:30+00:00"
 }
