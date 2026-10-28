@@ -4190,7 +4190,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115420199969001718",
+      "last_id": "2115423258850033813",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4226,11 +4226,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-24T14:27:25.000Z",
-          "id": "2114000814653968769",
-          "text": "ggs i guess frank"
-        },
         {
           "created_at": "2026-10-24T14:28:38.000Z",
           "id": "2114001121467326892",
@@ -4345,10 +4340,14 @@
           "id": "2115250371262050587",
           "quoted_text": "i'm on amazon adding MREs to my cart you guys fucking suck honestly",
           "text": "me and my baby got light <> Misa as our phone text background and here I am telling her about MREs from the 90s she wasn't built for a world where chicken is mushy and we get excited about salted crackers. not her. i will protect her. I must. this shit won't be on my hands ill promise you that. somebody else can make her father disappointed not fucking me. I don't care who does it or what it takes protect the internet. somebody has to step up. Trump? silent.  Nothing to say. I was promised a life of hyper optimized meta ads and a mid to high 7 figure salary trading worthless garbage internet coins not real fear about whether my lights will work when I wake up to piss at 5am"
+        },
+        {
+          "created_at": "2026-10-28T12:39:42.000Z",
+          "id": "2115423258850033813",
+          "text": "MARKET OPEN: FOMC TODAY, Anthropic SAVED the AI &amp; Crypto Trade, BIG NEWS DAY https://t.co/TjV7WdD2Qm"
         }
       ],
       "reads": {
-        "2114000814653968769": "No call",
         "2114001121467326892": "No call",
         "2114117774687494473": "No call",
         "2114688074223583513": "No call",
@@ -4365,7 +4364,8 @@
         "2115123957862945177": "No call",
         "2115135735267229897": "No call",
         "2115223935482728836": "No call",
-        "2115250371262050587": "No call"
+        "2115250371262050587": "No call",
+        "2115423258850033813": "No call"
       },
       "replies": [
         {
@@ -4801,10 +4801,13 @@
         "2115250371262050587": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115423258850033813": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114000814653968769": false,
         "2114001121467326892": true,
         "2114117774687494473": false,
         "2114186840165240870": false,
@@ -4838,7 +4841,8 @@
         "2115402939963736421": false,
         "2115404327686967629": false,
         "2115419640818233680": true,
-        "2115420199969001718": false
+        "2115420199969001718": false,
+        "2115423258850033813": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6450,5 +6454,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T12:28:23+00:00"
+  "updated_at": "2026-10-28T12:40:26+00:00"
 }
