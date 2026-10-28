@@ -2086,17 +2086,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115575054545072216",
+      "last_id": "2115582687427609059",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-27T01:45:50.000Z",
-          "id": "2114896322251702476",
-          "images": [
-            "https://pbs.twimg.com/media/HVme-gNX0AAElzl.png"
-          ],
-          "text": "do you still believe P!=NP? https://t.co/n7qGIUrNet"
-        },
         {
           "created_at": "2026-10-27T03:50:58.000Z",
           "id": "2114927811475431847",
@@ -2217,10 +2209,15 @@
           ],
           "quoted_text": "i have cast an ancient korean magik. the ramp starts now https://t.co/iSa2sDO86B https://t.co/CTYZLW8Pxu",
           "text": "casting an even more powerful magik tonight to dispel the fake capex fud https://t.co/FQLQZW0OoY https://t.co/W9ncPi6a71"
+        },
+        {
+          "created_at": "2026-10-28T23:13:12.000Z",
+          "id": "2115582687427609059",
+          "quoted_text": "Bubbleboi has been arrested. https://t.co/DlxxWYU7uN",
+          "text": "wait is this a shitpost? i've heard rumors about him abusing parm for months now but this is news to me https://t.co/EFoNiBdIEM"
         }
       ],
       "reads": {
-        "2114896322251702476": "No call",
         "2115053377583247471": "No call: bullish on memory stocks (same view as before)",
         "2115056992259568079": "No call",
         "2115115536652849400": "No call",
@@ -2237,7 +2234,8 @@
         "2115436745248715181": "Read together with the post it replies to",
         "2115495637269557447": "No call",
         "2115535426589241612": "No call",
-        "2115575054545072216": "No call: bullish on memory stocks (same view as before)"
+        "2115575054545072216": "No call: bullish on memory stocks (same view as before)",
+        "2115582687427609059": "No call"
       },
       "replies": [
         {
@@ -2512,10 +2510,13 @@
         "2115575054545072216": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115582687427609059": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114896322251702476": false,
         "2114927811475431847": false,
         "2115053377583247471": true,
         "2115056992259568079": true,
@@ -2549,7 +2550,8 @@
         "2115544549330231799": true,
         "2115554823756263774": false,
         "2115557720648753476": false,
-        "2115575054545072216": true
+        "2115575054545072216": true,
+        "2115582687427609059": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6491,5 +6493,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T22:44:29+00:00"
+  "updated_at": "2026-10-28T23:14:19+00:00"
 }
