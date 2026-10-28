@@ -4210,7 +4210,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115500690546246127",
+      "last_id": "2115502455136133622",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4246,11 +4246,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-26T11:58:20.000Z",
-          "id": "2114688074223583513",
-          "text": "they've been slowly leaking the anthropic S1 for months and all the big money already knows the details so why should the market react at all today?"
-        },
         {
           "created_at": "2026-10-26T12:21:28.000Z",
           "id": "2114693897255342556",
@@ -4357,10 +4352,14 @@
           "id": "2115474504767910026",
           "quoted_text": "*COGNITION MULLS NEW FUNDING ROUND AT $70B-80B VALUATION:INSIDER\n\nWho are they and why are they worth 2x Chipotle https://t.co/tIShArzEOh",
           "text": "cheeky pint valuation just like tripled https://t.co/bI8ItMhSsj"
+        },
+        {
+          "created_at": "2026-10-28T17:54:24.000Z",
+          "id": "2115502455136133622",
+          "text": "LIVE: REACTING TO FOMC https://t.co/YrQxjoKJAM"
         }
       ],
       "reads": {
-        "2114688074223583513": "No call",
         "2114693897255342556": "No call",
         "2114697397603569667": "No call",
         "2114723139443728690": "No call",
@@ -4378,7 +4377,8 @@
         "2115423258850033813": "No call",
         "2115423821645963569": "No call",
         "2115423849747824958": "No call",
-        "2115474504767910026": "No call"
+        "2115474504767910026": "No call",
+        "2115502455136133622": "No call"
       },
       "replies": [
         {
@@ -4830,10 +4830,13 @@
         "2115474504767910026": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115502455136133622": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114688074223583513": true,
         "2114693897255342556": true,
         "2114697397603569667": true,
         "2114723139443728690": true,
@@ -4867,7 +4870,8 @@
         "2115477493943562483": false,
         "2115479919845089642": false,
         "2115497286167826511": false,
-        "2115500690546246127": true
+        "2115500690546246127": true,
+        "2115502455136133622": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6479,5 +6483,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T17:48:27+00:00"
+  "updated_at": "2026-10-28T17:56:23+00:00"
 }
