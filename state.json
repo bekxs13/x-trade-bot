@@ -2086,15 +2086,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115582998779224070",
+      "last_id": "2115583676021149720",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-27T12:09:55.000Z",
-          "id": "2115053377583247471",
-          "quoted_text": "KOREAN MEDIA: MAJOR CHINESE CLOUD SERVICE PROVIDERS (CSPS), INCLUDING ALIBABA, TENCENT, AND BYTEDANCE, HAVE REQUESTED LONG-TERM SUPPLY AGREEMENTS (LTAS) FOR SERVER MEMORY FROM SAMSUNG ELECTRONICS AND SK HYNIX.\n\nBEYOND THE TYPICAL THREE-TO-FIVE-YEAR TERM, SOME CUSTOMERS ARE SEEKING ULTRA-LONG-TERM CONTRACTS SECURING MEMORY SUPPLIES FOR 10 YEARS THROUGH 2035. THE REQUESTED LTAS COVER DDR5 AND LPDDR5.",
-          "text": "this doesn't look that cyclical https://t.co/rs7BSK2qJB"
-        },
         {
           "created_at": "2026-10-27T12:24:17.000Z",
           "id": "2115056992259568079",
@@ -2215,10 +2209,16 @@
           "id": "2115582998779224070",
           "reply_to_id": "2115582687427609059",
           "text": "i've had him blocked for ages for being a horrible person. racist in gcs and now this\n\np4 evil particle detector stays winning"
+        },
+        {
+          "created_at": "2026-10-28T23:17:08.000Z",
+          "id": "2115583676021149720",
+          "quoted_text": "@amenluvr @xorxorg @BragiHelvig I have a lawyer who\u2019s filing a restraining order and another suing for libel. I\u2019m good.",
+          "reply_to_id": "2115582998779224070",
+          "text": "hmmm https://t.co/PqRb6THIl3"
         }
       ],
       "reads": {
-        "2115053377583247471": "No call: bullish on memory stocks (same view as before)",
         "2115056992259568079": "No call",
         "2115115536652849400": "No call",
         "2115143103698911565": "No call",
@@ -2518,7 +2518,6 @@
         }
       },
       "trading": {
-        "2115053377583247471": true,
         "2115056992259568079": true,
         "2115115536652849400": false,
         "2115143103698911565": true,
@@ -2552,7 +2551,8 @@
         "2115557720648753476": false,
         "2115575054545072216": true,
         "2115582687427609059": false,
-        "2115582998779224070": false
+        "2115582998779224070": false,
+        "2115583676021149720": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6494,5 +6494,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T23:16:25+00:00"
+  "updated_at": "2026-10-28T23:18:19+00:00"
 }
