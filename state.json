@@ -2086,15 +2086,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115582687427609059",
+      "last_id": "2115582998779224070",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-27T03:50:58.000Z",
-          "id": "2114927811475431847",
-          "reply_to_id": "2114927595372343429",
-          "text": "@edward_yu_var aren't you the guy that does the ill advised action of not courtesy liking"
-        },
         {
           "created_at": "2026-10-27T12:09:55.000Z",
           "id": "2115053377583247471",
@@ -2215,6 +2209,12 @@
           "id": "2115582687427609059",
           "quoted_text": "Bubbleboi has been arrested. https://t.co/DlxxWYU7uN",
           "text": "wait is this a shitpost? i've heard rumors about him abusing parm for months now but this is news to me https://t.co/EFoNiBdIEM"
+        },
+        {
+          "created_at": "2026-10-28T23:14:27.000Z",
+          "id": "2115582998779224070",
+          "reply_to_id": "2115582687427609059",
+          "text": "i've had him blocked for ages for being a horrible person. racist in gcs and now this\n\np4 evil particle detector stays winning"
         }
       ],
       "reads": {
@@ -2235,7 +2235,8 @@
         "2115495637269557447": "No call",
         "2115535426589241612": "No call",
         "2115575054545072216": "No call: bullish on memory stocks (same view as before)",
-        "2115582687427609059": "No call"
+        "2115582687427609059": "No call",
+        "2115582998779224070": "No call"
       },
       "replies": [
         {
@@ -2513,11 +2514,10 @@
         },
         "2115582687427609059": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2114927811475431847": false,
         "2115053377583247471": true,
         "2115056992259568079": true,
         "2115115536652849400": false,
@@ -2551,7 +2551,8 @@
         "2115554823756263774": false,
         "2115557720648753476": false,
         "2115575054545072216": true,
-        "2115582687427609059": false
+        "2115582687427609059": false,
+        "2115582998779224070": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6493,5 +6494,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T23:14:19+00:00"
+  "updated_at": "2026-10-28T23:16:25+00:00"
 }
