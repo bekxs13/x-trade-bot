@@ -4190,7 +4190,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115423258850033813",
+      "last_id": "2115423849747824958",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4226,24 +4226,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-24T14:28:38.000Z",
-          "id": "2114001121467326892",
-          "images": [
-            "https://pbs.twimg.com/media/HVZw0OjXwAApvXW.jpg"
-          ],
-          "reply_to_id": "2114000814653968769",
-          "text": "i\u2019m not really in the mood to sell tbh https://t.co/skaTt6kXxx"
-        },
-        {
-          "created_at": "2026-10-24T22:12:10.000Z",
-          "id": "2114117774687494473",
-          "images": [
-            "https://pbs.twimg.com/media/HVba6MTXMAAvlJx.jpg"
-          ],
-          "quoted_text": "https://t.co/mFBjgLQN4g",
-          "text": "https://t.co/K3dNGIZSab https://t.co/Q6p5J9XfL4"
-        },
         {
           "created_at": "2026-10-25T02:46:37.000Z",
           "id": "2114186840165240870",
@@ -4345,11 +4327,19 @@
           "created_at": "2026-10-28T12:39:42.000Z",
           "id": "2115423258850033813",
           "text": "MARKET OPEN: FOMC TODAY, Anthropic SAVED the AI &amp; Crypto Trade, BIG NEWS DAY https://t.co/TjV7WdD2Qm"
+        },
+        {
+          "created_at": "2026-10-28T12:41:56.000Z",
+          "id": "2115423821645963569",
+          "text": "MARKET OPEN: FOMC TODAY, Anthropic SAVED the AI &amp; Crypto Trade, BIG NEWS DAY https://t.co/SRV7pliHPM"
+        },
+        {
+          "created_at": "2026-10-28T12:42:03.000Z",
+          "id": "2115423849747824958",
+          "text": "MARKET OPEN: FOMC TODAY, Anthropic SAVED the AI &amp; Crypto Trade, BIG NEWS DAY https://t.co/HaCDTwBNzN"
         }
       ],
       "reads": {
-        "2114001121467326892": "No call",
-        "2114117774687494473": "No call",
         "2114688074223583513": "No call",
         "2114693897255342556": "No call",
         "2114697397603569667": "No call",
@@ -4365,7 +4355,9 @@
         "2115135735267229897": "No call",
         "2115223935482728836": "No call",
         "2115250371262050587": "No call",
-        "2115423258850033813": "No call"
+        "2115423258850033813": "No call",
+        "2115423821645963569": "No call",
+        "2115423849747824958": "No call"
       },
       "replies": [
         {
@@ -4805,11 +4797,17 @@
         "2115423258850033813": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115423821645963569": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2115423849747824958": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114001121467326892": true,
-        "2114117774687494473": false,
         "2114186840165240870": false,
         "2114688074223583513": true,
         "2114693897255342556": true,
@@ -4842,7 +4840,9 @@
         "2115404327686967629": false,
         "2115419640818233680": true,
         "2115420199969001718": false,
-        "2115423258850033813": true
+        "2115423258850033813": true,
+        "2115423821645963569": true,
+        "2115423849747824958": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6454,5 +6454,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T12:40:26+00:00"
+  "updated_at": "2026-10-28T12:42:26+00:00"
 }
