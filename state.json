@@ -833,6 +833,15 @@
     "blknoiz06": {
       "backfilled": true,
       "biases": {
+        "ai stocks": {
+          "market": "stocks",
+          "post_id": "2115461279163052437",
+          "reason": "Says he's 'becoming more cautious on AI stocks in the short term', expecting a valuation reassessment, while long-term positive.",
+          "scope": "ai stocks",
+          "since": "2026-10-28",
+          "stance": "bearish",
+          "updated_at": "2026-10-28T15:10:46.000Z"
+        },
         "alts": {
           "market": "crypto",
           "post_id": "2112823888207921408",
@@ -951,7 +960,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115459865409663164",
+      "last_id": "2115461279163052437",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -971,14 +980,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-23T00:02:31.000Z",
-          "id": "2113420767472083318",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2113420665814749184/img/CoyfTuCal8Hs6GCa.jpg"
-          ],
-          "text": "i see crypto becoming a much bigger part of how value moves around the world\n\nstablecoins have already shown how much easier it can be to move money globally, and i think tokenization could eventually do something similar for businesses\n\nHyperliquid is an interesting example of how companies can use tokens to align users, teams and the economics of their products\n\nover time, i wouldn't be surprised to see more private companies explore tokenization as an alternative way to access capital markets rather than following the traditional IPO route"
-        },
         {
           "created_at": "2026-10-23T00:48:54.000Z",
           "id": "2113432442811875690",
@@ -1111,10 +1112,18 @@
             "https://pbs.twimg.com/amplify_video_thumb/2115418013692317696/img/wu_ddh5gHqmwt5ZJ.jpg"
           ],
           "text": "Q4 market thoughts \n\noctober 28th, 2026 https://t.co/RraVaagyzc"
+        },
+        {
+          "created_at": "2026-10-28T15:10:46.000Z",
+          "id": "2115461279163052437",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2115460955698233345/img/C9XGaXO_t1C5L9Pu.jpg"
+          ],
+          "quoted_text": "Q4 market thoughts \n\noctober 28th, 2026 https://t.co/RraVaagyzc",
+          "text": "i'm becoming more cautious on AI stocks in the short term, even though my long-term outlook on AI remains positive\n\nmodels are advancing incredibly fast, but there's still a lot of uncertainty around monetization, security risks and how AI will disrupt existing businesses\n\nat the same time, tech companies are spending aggressively on AI infrastructure while investors are sitting on significant unrealized gains\n\ni think we're entering a period where the market has to reassess valuations and how quickly all this investment can translate into actual revenue"
         }
       ],
       "reads": {
-        "2113420767472083318": "No call",
         "2113432442811875690": "No call",
         "2114706961627230706": "No call",
         "2114708655182401780": "VIEW bullish on crypto market",
@@ -1133,7 +1142,8 @@
         "2115128961131036993": "No call",
         "2115136401364979876": "No call",
         "2115162891217473604": "No call",
-        "2115418459765113280": "No call"
+        "2115418459765113280": "No call",
+        "2115461279163052437": "VIEW bearish on ai stocks"
       },
       "replies": [
         {
@@ -1228,10 +1238,6 @@
         }
       ],
       "threads": {
-        "2109911341356273792": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109915465485332883": {
           "alerted": [],
           "self_replies": 0
@@ -1650,10 +1656,15 @@
         "2115418459765113280": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115461279163052437": {
+          "alerted": [
+            "bias:ai stocks:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2113420767472083318": true,
         "2113432442811875690": true,
         "2114706961627230706": true,
         "2114708655182401780": true,
@@ -1687,7 +1698,8 @@
         "2115435156144300532": false,
         "2115438484101972024": false,
         "2115447800502895078": true,
-        "2115459865409663164": false
+        "2115459865409663164": false,
+        "2115461279163052437": true
       },
       "user_id": "973261472"
     },
@@ -6455,5 +6467,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T15:06:18+00:00"
+  "updated_at": "2026-10-28T15:12:24+00:00"
 }
