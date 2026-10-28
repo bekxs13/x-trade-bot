@@ -951,7 +951,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115256525950443886",
+      "last_id": "2115256800240906622",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1134,12 +1134,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-26T22:24:47.000Z",
-          "id": "2114845723518996724",
-          "reply_to_id": "2114836350998401435",
-          "text": "@papertrenching @OnlyLJC i made money in this market when nobody knew who i was brother, i journaled my trades on here for years before anyone noticed"
-        },
-        {
           "created_at": "2026-10-26T22:30:49.000Z",
           "id": "2114847242876264451",
           "reply_to_id": "2114834241162739947",
@@ -1222,6 +1216,12 @@
           "id": "2115256525950443886",
           "reply_to_id": "2115253529745203515",
           "text": "@njkjh00 thanks"
+        },
+        {
+          "created_at": "2026-10-28T01:38:15.000Z",
+          "id": "2115256800240906622",
+          "reply_to_id": "2115253096914067839",
+          "text": "@DiamondhandVN bought my first bitcoin at 22 made my first M by 26 just compound trades together over time"
         }
       ],
       "threads": {
@@ -1661,7 +1661,6 @@
         "2114719900367466659": true,
         "2114744563055440320": true,
         "2114791460134596661": true,
-        "2114845723518996724": true,
         "2114847242876264451": false,
         "2114849515316584949": true,
         "2114850914742010348": false,
@@ -1684,7 +1683,8 @@
         "2115169723071729758": false,
         "2115256432060670336": false,
         "2115256502357565801": false,
-        "2115256525950443886": false
+        "2115256525950443886": false,
+        "2115256800240906622": true
       },
       "user_id": "973261472"
     },
@@ -4190,7 +4190,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115256650130964496",
+      "last_id": "2115256797976023106",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4369,12 +4369,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-27T21:28:18.000Z",
-          "id": "2115193898125742409",
-          "reply_to_id": "2115188505383252430",
-          "text": "@Schoen_xyz don\u2019t forget to like and subscribe"
-        },
-        {
           "created_at": "2026-10-27T21:33:51.000Z",
           "id": "2115195294950605269",
           "reply_to_id": "2115193965897212138",
@@ -4457,6 +4451,15 @@
           "id": "2115256650130964496",
           "reply_to_id": "2115254577230733774",
           "text": "@mk4_lul sponsor me with that pnl budddy"
+        },
+        {
+          "created_at": "2026-10-28T01:38:14.000Z",
+          "id": "2115256797976023106",
+          "images": [
+            "https://pbs.twimg.com/media/HVrm2LyWwAAepyz.jpg"
+          ],
+          "reply_to_id": "2115245173429108800",
+          "text": "@CryptoEthan https://t.co/As7OmdjGnZ"
         }
       ],
       "threads": {
@@ -4819,7 +4822,6 @@
         "2115123348984201401": false,
         "2115123957862945177": true,
         "2115135735267229897": false,
-        "2115193898125742409": false,
         "2115195294950605269": false,
         "2115196258260582576": false,
         "2115198258192732419": true,
@@ -4835,7 +4837,8 @@
         "2115229336324178338": false,
         "2115237552076820497": false,
         "2115250371262050587": false,
-        "2115256650130964496": true
+        "2115256650130964496": true,
+        "2115256797976023106": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6435,5 +6438,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-28T01:38:21+00:00"
+  "updated_at": "2026-10-28T01:40:21+00:00"
 }
