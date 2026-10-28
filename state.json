@@ -4206,7 +4206,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115502455136133622",
+      "last_id": "2115508582238282079",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4378,12 +4378,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-27T23:33:08.000Z",
-          "id": "2115225314640949269",
-          "reply_to_id": "2115225239861055558",
-          "text": "@apewoodx \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23"
-        },
-        {
           "created_at": "2026-10-27T23:49:07.000Z",
           "id": "2115229336324178338",
           "reply_to_id": "2115226681342558413",
@@ -4469,6 +4463,12 @@
           "id": "2115500690546246127",
           "reply_to_id": "2115500422685446167",
           "text": "@LH @mert @ONagel33303 fortunately for you we talk about all markets and everything related to them. i\u2019m streaming fomc in 13 minutes you should check it out!"
+        },
+        {
+          "created_at": "2026-10-28T18:18:44.000Z",
+          "id": "2115508582238282079",
+          "reply_to_id": "2115508437484212522",
+          "text": "@therealricoy @KnightRizz can you ask him why i blocked him"
         }
       ],
       "threads": {
@@ -4847,7 +4847,6 @@
         "2115123957862945177": true,
         "2115135735267229897": false,
         "2115223935482728836": false,
-        "2115225314640949269": false,
         "2115229336324178338": false,
         "2115237552076820497": false,
         "2115250371262050587": false,
@@ -4867,7 +4866,8 @@
         "2115479919845089642": false,
         "2115497286167826511": false,
         "2115500690546246127": true,
-        "2115502455136133622": true
+        "2115502455136133622": true,
+        "2115508582238282079": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6479,5 +6479,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T18:18:20+00:00"
+  "updated_at": "2026-10-28T18:20:22+00:00"
 }
