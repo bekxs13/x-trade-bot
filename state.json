@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2115508256877810083",
+      "last_id": "2115531471092154614",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,15 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-26T02:27:26.000Z",
-          "id": "2114544402257547588",
-          "images": [
-            "https://pbs.twimg.com/media/HVhe6igbkAAk197.png"
-          ],
-          "quoted_text": "@jiahanjimliu @GillesCapital @liamdaltonjr SpaceX is not buying any neoclouds. Pointless.",
-          "text": "https://t.co/8qbggzazx0 https://t.co/FlykDeJ5Cl"
-        },
         {
           "created_at": "2026-10-26T02:59:45.000Z",
           "id": "2114552533163311386",
@@ -258,10 +249,17 @@
           "created_at": "2026-10-28T18:13:27.000Z",
           "id": "2115507251884839104",
           "text": "FED VOTES 10-2 TO HOLD BENCHMARK RATE IN 3.75%-4% RANGE\n\n*FED: ACCUMULATION OF MORE INFO WILL HELP DETERMINE POLICY\n\n*FED: COOK AND BASED16Z DISSENT IN FAVOR OF RATE HIKE"
+        },
+        {
+          "created_at": "2026-10-28T19:49:42.000Z",
+          "id": "2115531471092154614",
+          "images": [
+            "https://pbs.twimg.com/media/HVvgqSKbUAA_z_p.jpg"
+          ],
+          "text": "https://t.co/UX07qPQ2Yy"
         }
       ],
       "reads": {
-        "2114544402257547588": "No call",
         "2114552533163311386": "No call",
         "2114932525705646443": "No call",
         "2114940232256868497": "No call",
@@ -279,7 +277,8 @@
         "2115199324724359362": "No call",
         "2115497371807412663": "No call",
         "2115504250197578215": "No call",
-        "2115507251884839104": "No call"
+        "2115507251884839104": "No call",
+        "2115531471092154614": "No call"
       },
       "replies": [
         {
@@ -377,10 +376,6 @@
         }
       ],
       "threads": {
-        "2111159898813915507": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111162402892869745": {
           "alerted": [],
           "self_replies": 0
@@ -784,10 +779,13 @@
         "2115507251884839104": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115531471092154614": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114544402257547588": false,
         "2114552478381605253": true,
         "2114552533163311386": false,
         "2114555315194867847": false,
@@ -821,7 +819,8 @@
         "2115503202401722784": false,
         "2115504250197578215": false,
         "2115507251884839104": true,
-        "2115508256877810083": false
+        "2115508256877810083": false,
+        "2115531471092154614": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6491,5 +6490,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T19:48:22+00:00"
+  "updated_at": "2026-10-28T19:50:25+00:00"
 }
