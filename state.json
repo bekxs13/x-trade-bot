@@ -4206,7 +4206,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115539489326334261",
+      "last_id": "2115540237019386264",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4376,12 +4376,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T11:24:28.000Z",
-          "id": "2115404327686967629",
-          "reply_to_id": "2115260455375802835",
-          "text": "@ContrarianCurse i honestly can't watch tv without a double stim. i can however read books. it's like a dopamine barbell"
-        },
-        {
           "created_at": "2026-10-28T12:25:19.000Z",
           "id": "2115419640818233680",
           "reply_to_id": "2115419075107033566",
@@ -4464,6 +4458,12 @@
           "id": "2115539489326334261",
           "reply_to_id": "2115539422296854899",
           "text": "@goodalexander what do we do"
+        },
+        {
+          "created_at": "2026-10-28T20:24:31.000Z",
+          "id": "2115540237019386264",
+          "reply_to_id": "2115539952951865733",
+          "text": "@Demosthenes555 thanks g"
         }
       ],
       "threads": {
@@ -4855,7 +4855,6 @@
         "2115135735267229897": false,
         "2115223935482728836": false,
         "2115250371262050587": false,
-        "2115404327686967629": false,
         "2115419640818233680": true,
         "2115420199969001718": false,
         "2115423258850033813": true,
@@ -4878,7 +4877,8 @@
         "2115531061241192542": false,
         "2115532900875588072": false,
         "2115537440081678576": false,
-        "2115539489326334261": false
+        "2115539489326334261": false,
+        "2115540237019386264": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6490,5 +6490,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T20:22:16+00:00"
+  "updated_at": "2026-10-28T20:26:19+00:00"
 }
