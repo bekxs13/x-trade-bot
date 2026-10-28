@@ -951,7 +951,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115256800240906622",
+      "last_id": "2115275401840713832",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1134,12 +1134,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-26T22:30:49.000Z",
-          "id": "2114847242876264451",
-          "reply_to_id": "2114834241162739947",
-          "text": "@GERALD20172126 @OnlyLJC does not phase me at all theyve been doing this for a long time, go look at my posts from 2023 they were posting the same thing"
-        },
-        {
           "created_at": "2026-10-26T22:45:24.000Z",
           "id": "2114850914742010348",
           "reply_to_id": "2114850185872646468",
@@ -1222,6 +1216,12 @@
           "id": "2115256800240906622",
           "reply_to_id": "2115253096914067839",
           "text": "@DiamondhandVN bought my first bitcoin at 22 made my first M by 26 just compound trades together over time"
+        },
+        {
+          "created_at": "2026-10-28T02:52:10.000Z",
+          "id": "2115275401840713832",
+          "reply_to_id": "2115135364050604189",
+          "text": "@underpaint self hate"
         }
       ],
       "threads": {
@@ -1661,7 +1661,6 @@
         "2114719900367466659": true,
         "2114744563055440320": true,
         "2114791460134596661": true,
-        "2114847242876264451": false,
         "2114849515316584949": true,
         "2114850914742010348": false,
         "2114852187201228909": true,
@@ -1684,7 +1683,8 @@
         "2115256432060670336": false,
         "2115256502357565801": false,
         "2115256525950443886": false,
-        "2115256800240906622": true
+        "2115256800240906622": true,
+        "2115275401840713832": false
       },
       "user_id": "973261472"
     },
@@ -2090,7 +2090,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115266168743170328",
+      "last_id": "2115275860617859501",
       "positions": {},
       "posts": [
         {
@@ -2249,12 +2249,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T00:32:24.000Z",
-          "id": "2115240228797497582",
-          "reply_to_id": "2115238171466240248",
-          "text": "@btcbongo take it up with my mama"
-        },
-        {
           "created_at": "2026-10-28T00:41:46.000Z",
           "id": "2115242584545296852",
           "reply_to_id": "2115242240494727476",
@@ -2337,6 +2331,12 @@
           "id": "2115266168743170328",
           "reply_to_id": "2115265782980460794",
           "text": "@YahwehOrBust FUCK HIM IM TRYING MY BEST"
+        },
+        {
+          "created_at": "2026-10-28T02:53:59.000Z",
+          "id": "2115275860617859501",
+          "reply_to_id": "2115259716146438614",
+          "text": "@volatilititties @0xGeeGee the adr stops trading at 8 which is specifically what he's referring to"
         }
       ],
       "threads": {
@@ -2522,7 +2522,6 @@
         "2115225641771762029": true,
         "2115227097345982956": true,
         "2115235679399731282": true,
-        "2115240228797497582": false,
         "2115242584545296852": false,
         "2115242645899374900": false,
         "2115243189321748909": false,
@@ -2538,7 +2537,8 @@
         "2115261862736449921": false,
         "2115265907769344340": false,
         "2115265961246834793": false,
-        "2115266168743170328": false
+        "2115266168743170328": false,
+        "2115275860617859501": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6439,5 +6439,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-27",
-  "updated_at": "2026-10-28T02:16:21+00:00"
+  "updated_at": "2026-10-28T02:54:21+00:00"
 }
