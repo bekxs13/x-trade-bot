@@ -2086,15 +2086,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115592309530136730",
+      "last_id": "2115592646643097624",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-27T12:24:17.000Z",
-          "id": "2115056992259568079",
-          "quoted_text": "Posting bait to wait for the p4 quote tweets so we know where to short the semis lower high",
-          "text": "idk how this all ends but it doesn't end with both of us financially solvent https://t.co/HQaiTrViaN"
-        },
         {
           "created_at": "2026-10-27T16:16:55.000Z",
           "id": "2115115536652849400",
@@ -2216,10 +2210,15 @@
           "quoted_text": "@amenluvr @xorxorg @BragiHelvig I have a lawyer who\u2019s filing a restraining order and another suing for libel. I\u2019m good.",
           "reply_to_id": "2115582998779224070",
           "text": "hmmm https://t.co/PqRb6THIl3"
+        },
+        {
+          "created_at": "2026-10-28T23:52:47.000Z",
+          "id": "2115592646643097624",
+          "quoted_text": "wait is this a shitpost? i've heard rumors about him abusing parm for months now but this is news to me https://t.co/EFoNiBdIEM",
+          "text": "confirmed real btw https://t.co/Evq8loHRLc"
         }
       ],
       "reads": {
-        "2115056992259568079": "No call",
         "2115115536652849400": "No call",
         "2115143103698911565": "No call",
         "2115152092717584395": "No call",
@@ -2236,7 +2235,8 @@
         "2115535426589241612": "No call",
         "2115575054545072216": "No call: bullish on memory stocks (same view as before)",
         "2115582687427609059": "No call",
-        "2115582998779224070": "No call"
+        "2115582998779224070": "No call",
+        "2115592646643097624": "No call"
       },
       "replies": [
         {
@@ -2512,10 +2512,13 @@
         "2115582687427609059": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2115592646643097624": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115056992259568079": true,
         "2115115536652849400": false,
         "2115143103698911565": true,
         "2115152092717584395": false,
@@ -2549,7 +2552,8 @@
         "2115584610163691623": false,
         "2115584788128047273": false,
         "2115586635874095165": false,
-        "2115592309530136730": false
+        "2115592309530136730": false,
+        "2115592646643097624": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6491,5 +6495,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T23:52:18+00:00"
+  "updated_at": "2026-10-28T23:54:19+00:00"
 }
