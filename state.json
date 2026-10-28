@@ -954,7 +954,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115531705004044552",
+      "last_id": "2115545854475981153",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -974,14 +974,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-26T13:31:36.000Z",
-          "id": "2114711547234652251",
-          "images": [
-            "https://pbs.twimg.com/media/HVj28U4XgAANSqn.jpg"
-          ],
-          "text": "mob ties https://t.co/C4KTklPIHr"
-        },
         {
           "created_at": "2026-10-26T14:04:48.000Z",
           "id": "2114719900367466659",
@@ -1116,10 +1108,14 @@
           "id": "2115523673675448685",
           "quoted_text": "@blknoiz06 make it less time like 5-10m not fucking 30 not watching a whole movie bro",
           "text": "is 30 minutes really that long? https://t.co/mDYEzxdD2b"
+        },
+        {
+          "created_at": "2026-10-28T20:46:51.000Z",
+          "id": "2115545854475981153",
+          "text": "is google down -10% after hours bro"
         }
       ],
       "reads": {
-        "2114711547234652251": "No call",
         "2114719900367466659": "No call: bearish on eth (same view as before)",
         "2114744563055440320": "No call",
         "2114791460134596661": "No call",
@@ -1138,7 +1134,8 @@
         "2115515126027891199": "No call",
         "2115520419990319110": "No call",
         "2115520533785948401": "No call",
-        "2115523673675448685": "No call"
+        "2115523673675448685": "No call",
+        "2115545854475981153": "No call"
       },
       "replies": [
         {
@@ -1233,10 +1230,6 @@
         }
       ],
       "threads": {
-        "2109984830230261923": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110020788229214374": {
           "alerted": [],
           "self_replies": 0
@@ -1655,10 +1648,13 @@
         "2115523673675448685": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115545854475981153": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114711547234652251": false,
         "2114719900367466659": true,
         "2114744563055440320": true,
         "2114791460134596661": true,
@@ -1692,7 +1688,8 @@
         "2115525255598875109": false,
         "2115525408284115195": true,
         "2115526406772064683": false,
-        "2115531705004044552": false
+        "2115531705004044552": false,
+        "2115545854475981153": true
       },
       "user_id": "973261472"
     },
@@ -4206,7 +4203,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115545639710867870",
+      "last_id": "2115545957828010206",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4376,12 +4373,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T16:15:12.000Z",
-          "id": "2115477493943562483",
-          "reply_to_id": "2115475343377379609",
-          "text": "@Wild_Randomness @cobie 10 years \ud83d\ude2d"
-        },
-        {
           "created_at": "2026-10-28T16:24:51.000Z",
           "id": "2115479919845089642",
           "reply_to_id": "2115479516995031493",
@@ -4464,6 +4455,12 @@
           "id": "2115545639710867870",
           "reply_to_id": "2115536322437726373",
           "text": "@BittexXBT is that eth"
+        },
+        {
+          "created_at": "2026-10-28T20:47:15.000Z",
+          "id": "2115545957828010206",
+          "reply_to_id": "2115545854475981153",
+          "text": "@blknoiz06 can\u2019t hold anything except cash and oh that\u2019s getting inflated like 100% an hour"
         }
       ],
       "threads": {
@@ -4859,7 +4856,6 @@
         "2115423821645963569": true,
         "2115423849747824958": true,
         "2115474504767910026": true,
-        "2115477493943562483": false,
         "2115479919845089642": false,
         "2115497286167826511": false,
         "2115500690546246127": true,
@@ -4878,7 +4874,8 @@
         "2115540237019386264": false,
         "2115544147499347981": false,
         "2115545476405874919": false,
-        "2115545639710867870": true
+        "2115545639710867870": true,
+        "2115545957828010206": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6490,5 +6487,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T20:46:17+00:00"
+  "updated_at": "2026-10-28T20:48:28+00:00"
 }
