@@ -4200,7 +4200,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115549735687991602",
+      "last_id": "2115550281845133646",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4370,12 +4370,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T17:47:23.000Z",
-          "id": "2115500690546246127",
-          "reply_to_id": "2115500422685446167",
-          "text": "@LH @mert @ONagel33303 fortunately for you we talk about all markets and everything related to them. i\u2019m streaming fomc in 13 minutes you should check it out!"
-        },
-        {
           "created_at": "2026-10-28T18:18:44.000Z",
           "id": "2115508582238282079",
           "reply_to_id": "2115508437484212522",
@@ -4458,6 +4452,12 @@
           "id": "2115549735687991602",
           "reply_to_id": "2115549654746100134",
           "text": "@chiefingza @blknoiz06 zcash and what else"
+        },
+        {
+          "created_at": "2026-10-28T21:04:26.000Z",
+          "id": "2115550281845133646",
+          "reply_to_id": "2115550173900251305",
+          "text": "@chamathsintern @chiefingza @blknoiz06 on hyperliquid leverage right"
         }
       ],
       "threads": {
@@ -4853,7 +4853,6 @@
         "2115423821645963569": true,
         "2115423849747824958": true,
         "2115474504767910026": true,
-        "2115500690546246127": true,
         "2115502455136133622": true,
         "2115508582238282079": false,
         "2115513223684276230": true,
@@ -4872,7 +4871,8 @@
         "2115545639710867870": true,
         "2115545957828010206": true,
         "2115546956844155111": false,
-        "2115549735687991602": true
+        "2115549735687991602": true,
+        "2115550281845133646": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6484,5 +6484,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T21:04:19+00:00"
+  "updated_at": "2026-10-28T21:06:20+00:00"
 }
