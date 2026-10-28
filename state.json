@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2115507251884839104",
+      "last_id": "2115508256877810083",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -283,12 +283,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-25T03:54:45.000Z",
-          "id": "2114203987125674312",
-          "reply_to_id": "2114203774550224902",
-          "text": "@SoskaKyle Been full drake songs the entire night but makes sense ig"
-        },
-        {
           "created_at": "2026-10-26T02:59:31.000Z",
           "id": "2114552478381605253",
           "reply_to_id": "2114552069181087751",
@@ -374,6 +368,12 @@
           "id": "2115503202401722784",
           "reply_to_id": "2115501843354665056",
           "text": "@mattyklein_ 90s Range Rover, retrofitted defender, or new trackhawk. First time I\u2019ve neeeded a car since high school"
+        },
+        {
+          "created_at": "2026-10-28T18:17:27.000Z",
+          "id": "2115508256877810083",
+          "reply_to_id": "2115507827292926415",
+          "text": "@RealAZKicks Seems like the funniest car to own in the bay"
         }
       ],
       "threads": {
@@ -787,7 +787,6 @@
         }
       },
       "trading": {
-        "2114203987125674312": false,
         "2114544402257547588": false,
         "2114552478381605253": true,
         "2114552533163311386": false,
@@ -821,7 +820,8 @@
         "2115497514866757875": false,
         "2115503202401722784": false,
         "2115504250197578215": false,
-        "2115507251884839104": true
+        "2115507251884839104": true,
+        "2115508256877810083": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6479,5 +6479,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-28T18:14:30+00:00"
+  "updated_at": "2026-10-28T18:18:20+00:00"
 }
