@@ -2097,15 +2097,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115920904966312047",
+      "last_id": "2115930736679366933",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-28T03:49:30.000Z",
-          "id": "2115289828853948792",
-          "reply_to_id": "2115289758083543054",
-          "text": "@skyquake_1 @volatilititties @0xGeeGee courtesy like or else"
-        },
         {
           "created_at": "2026-10-28T13:32:49.000Z",
           "id": "2115436629166784742",
@@ -2226,6 +2220,11 @@
             "https://pbs.twimg.com/media/HV1BXu6XUAAbzQG.jpg"
           ],
           "text": "https://t.co/TeG2GpjaBY"
+        },
+        {
+          "created_at": "2026-10-29T22:16:14.000Z",
+          "id": "2115930736679366933",
+          "text": "did you ever hear the tragedy of mt gox the exchange? i thought not. it\u2019s not a story the zoomer KOLs would tell you"
         }
       ],
       "reads": {
@@ -2245,7 +2244,8 @@
         "2115903745007747572": "No call: bullish on memory stocks (same view as before)",
         "2115913150314787235": "No call",
         "2115913424668622937": "No call",
-        "2115919286568927693": "No call"
+        "2115919286568927693": "No call",
+        "2115930736679366933": "No call"
       },
       "replies": [
         {
@@ -2561,10 +2561,13 @@
         "2115919286568927693": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115930736679366933": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115289828853948792": false,
         "2115436629166784742": true,
         "2115436745248715181": true,
         "2115495637269557447": false,
@@ -2598,7 +2601,8 @@
         "2115915101710794988": false,
         "2115918928849629650": false,
         "2115919286568927693": false,
-        "2115920904966312047": false
+        "2115920904966312047": false,
+        "2115930736679366933": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6603,5 +6607,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T22:08:22+00:00"
+  "updated_at": "2026-10-29T22:18:22+00:00"
 }
