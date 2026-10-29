@@ -963,7 +963,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115904745818996865",
+      "last_id": "2115911844166852992",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -983,15 +983,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-28T18:44:45.000Z",
-          "id": "2115515126027891199",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2115514642130968576/img/dU4njCgxtzhzHuFY.jpg"
-          ],
-          "quoted_text": "Q4 market thoughts \n\noctober 28th, 2026 https://t.co/RraVaagyzc",
-          "text": "i pay close attention to how price reacts during large liquidation events\n\nwhen billions in forced buying or selling hit the market, the important signal is how much of that pressure gets absorbed\n\nif price stops moving lower despite heavy long liquidations, that can tell you a lot about the demand sitting underneath the market\n\ni think these moments often create important levels to watch on future retests, especially after a significant amount of leverage has been cleared out"
-        },
         {
           "created_at": "2026-10-28T19:05:47.000Z",
           "id": "2115520419990319110",
@@ -1113,10 +1104,14 @@
           "created_at": "2026-10-29T20:32:57.000Z",
           "id": "2115904745818996865",
           "text": "DRUNKENMILLER MODE w/ @banks /@Tradermayne @insentos - Presented by @Polymarket https://t.co/nfrP922ErC"
+        },
+        {
+          "created_at": "2026-10-29T21:01:10.000Z",
+          "id": "2115911844166852992",
+          "text": "unreal man"
         }
       ],
       "reads": {
-        "2115515126027891199": "No call",
         "2115520419990319110": "No call",
         "2115520533785948401": "No call",
         "2115523673675448685": "No call",
@@ -1133,7 +1128,8 @@
         "2115898797322826115": "No call",
         "2115901699260923906": "No call",
         "2115901795755020627": "No call",
-        "2115904745818996865": "No call"
+        "2115904745818996865": "No call",
+        "2115911844166852992": "No call"
       },
       "replies": [
         {
@@ -1231,10 +1227,6 @@
         }
       ],
       "threads": {
-        "2111062131437433031": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111095056778301444": {
           "alerted": [],
           "self_replies": 0
@@ -1651,10 +1643,13 @@
         "2115904745818996865": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115911844166852992": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115515126027891199": true,
         "2115520419990319110": true,
         "2115520533785948401": true,
         "2115523673675448685": false,
@@ -1688,7 +1683,8 @@
         "2115898797322826115": true,
         "2115901699260923906": true,
         "2115901795755020627": false,
-        "2115904745818996865": true
+        "2115904745818996865": true,
+        "2115911844166852992": false
       },
       "user_id": "973261472"
     },
@@ -6593,5 +6589,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T20:50:22+00:00"
+  "updated_at": "2026-10-29T21:02:23+00:00"
 }
