@@ -877,12 +877,12 @@
         },
         "hype": {
           "market": "crypto",
-          "post_id": "2114852187201228909",
-          "reason": "Calls Kraken/Payward deploying CFTC-regulated perps on Hyperliquid 'massive', a bullish read on HYPE.",
+          "post_id": "2115841735045623975",
+          "reason": "He highlights major figures 'bullposting hyperliquid' and says 'the future is bright for crypto', which matches his recorded bullish HYPE view. The crypto market view is also bullish and unchanged.",
           "scope": "HYPE",
           "since": "2026-10-26",
           "stance": "bullish",
-          "updated_at": "2026-10-26T22:50:28.000Z"
+          "updated_at": "2026-10-29T16:22:34.000Z"
         },
         "memecoins": {
           "market": "crypto",
@@ -957,7 +957,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115828494840349016",
+      "last_id": "2115841735045623975",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -977,15 +977,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-27T17:10:16.000Z",
-          "id": "2115128961131036993",
-          "images": [
-            "https://pbs.twimg.com/media/HVlwW6gWcAAuNtb.jpg"
-          ],
-          "quoted_text": "the divine art of \u201cholding\u201d is a psychological process of elimination in which, through many ups & downs in price-action over a long period of time, holders are brought in & shaken out in accordance with their respective belief in the token vs. its price-action until the great majority of holders remaining at the gut-wrenching lows consist primarily of those that sit in the upper-echelon of \u201cbelief\u201d in the token; their belief in the token surpasses the intermediate fears that come with negative ",
-          "text": "diamond hands only https://t.co/itsdW90ONY https://t.co/Cm8eTOxxvZ"
-        },
         {
           "created_at": "2026-10-27T17:39:50.000Z",
           "id": "2115136401364979876",
@@ -1117,10 +1108,14 @@
           ],
           "quoted_text": "Venice is now processing over 1 trillion tokens per day! https://t.co/oFuPiHt9lS",
           "text": "100x growth in product usage since jan\n\n$1M+ of $VVV burnt this month https://t.co/89yLSrxJ3b https://t.co/etteVtam2v"
+        },
+        {
+          "created_at": "2026-10-29T16:22:34.000Z",
+          "id": "2115841735045623975",
+          "text": "greatest investor of all time\ngreatest businessman of all time\nlargest exchange in the world\n\nall emphatically bullposting hyperliquid on the same day\n\nthe future is bright for crypto"
         }
       ],
       "reads": {
-        "2115128961131036993": "No call",
         "2115136401364979876": "No call",
         "2115162891217473604": "No call",
         "2115418459765113280": "No call",
@@ -1137,7 +1132,8 @@
         "2115748514840052029": "No call",
         "2115752920779989271": "No call: maybe short ETH (65%, too unsure); bearish on crypto market (65%, too unsure)",
         "2115782962931204501": "No call",
-        "2115791236544049498": "No call: bullish on VVV (same view as before)"
+        "2115791236544049498": "No call: bullish on VVV (same view as before)",
+        "2115841735045623975": "No call: bullish on HYPE (same view as before)"
       },
       "replies": [
         {
@@ -1235,10 +1231,6 @@
         }
       ],
       "threads": {
-        "2110764707640689050": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110765762457809110": {
           "alerted": [],
           "self_replies": 0
@@ -1655,10 +1647,13 @@
         "2115791236544049498": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115841735045623975": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115128961131036993": true,
         "2115136401364979876": true,
         "2115162891217473604": false,
         "2115418459765113280": true,
@@ -1692,7 +1687,8 @@
         "2115782962931204501": true,
         "2115783789506875527": false,
         "2115791236544049498": true,
-        "2115828494840349016": false
+        "2115828494840349016": false,
+        "2115841735045623975": true
       },
       "user_id": "973261472"
     },
@@ -6570,5 +6566,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T16:10:22+00:00"
+  "updated_at": "2026-10-29T16:24:24+00:00"
 }
