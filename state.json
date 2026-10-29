@@ -960,7 +960,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115681447856030045",
+      "last_id": "2115747410026651680",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -980,12 +980,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-26T22:50:28.000Z",
-          "id": "2114852187201228909",
-          "quoted_text": "Payward, the parent company of Kraken, announced its intention to be the first CFTC-regulated deployer on HIP-3* markets. Payward will use Hyperliquid as the infrastructure layer to deploy perpetual futures markets for US clients. Subject to regulatory approval, Bitnomial, Payward\u2019s CFTC-regulated DCM and DCO, would act as the HIP-3* deployer: creating, owning, and administering the markets and clearing and settling the contracts. If approved, NinjaTrader Clearing, Payward\u2019s CFTC-registered FCM,",
-          "text": "this is massive https://t.co/TUJop9jdZB"
-        },
         {
           "created_at": "2026-10-27T02:17:01.000Z",
           "id": "2114904169685586375",
@@ -1114,10 +1108,15 @@
             "https://pbs.twimg.com/amplify_video_thumb/2115678971639861248/img/cNBC2iLSC85TsvNd.jpg"
           ],
           "text": "Market Bubble ep.24: my full conversation\n\nbearish market, Pumpfun, papertrade, tokenized equities, portfolio strategy and the future of crypto social\n\n0:00 - Coinbase trading comp and bearish outlook\n6:56 - Paper Trade supply and Pumpfun\n16:10 - CT culture, tokenization and Zcash\n25:52 - Onchain finance and the 70/30 strategy\n32:17 - Equity valuations and crypto social"
+        },
+        {
+          "created_at": "2026-10-29T10:07:45.000Z",
+          "id": "2115747410026651680",
+          "quoted_text": "the original airdrop idea was meant to reward $ANSEM bagworkers. \n\nthe $20,000 @blknoiz06 has put into the $ANSEM @Shillz_Official campaign follows that same idea.\n\nwith shillz there\u2019s now a way to thoroughly track your bagwork and reward the effort that\u2019s being put in. \n\ni\u2019ve used shillz to manage campaigns and as a bagworker. it goes way beyond just counting posts, It has detailed analytics, engagement tracking and systems to flag bots or manipulation. honestly, the tech is so impressive and t",
+          "text": "we've given away ~$10,000 in past week in $ANSEM rewards so far, platform is designed really well https://t.co/XZTiVeemoj"
         }
       ],
       "reads": {
-        "2114852187201228909": "VIEW bullish on HYPE",
         "2114904169685586375": "No call",
         "2114905694793023921": "No call",
         "2115070454327296481": "No call",
@@ -1134,7 +1133,8 @@
         "2115523673675448685": "No call",
         "2115545854475981153": "No call",
         "2115548592060674218": "No call",
-        "2115681447856030045": "No call: bearish on crypto market (60%, too unsure)"
+        "2115681447856030045": "No call: bearish on crypto market (60%, too unsure)",
+        "2115747410026651680": "No call"
       },
       "replies": [
         {
@@ -1229,10 +1229,6 @@
         }
       ],
       "threads": {
-        "2110252627799966022": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110304660192117229": {
           "alerted": [],
           "self_replies": 0
@@ -1649,10 +1645,13 @@
         "2115681447856030045": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115747410026651680": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114852187201228909": true,
         "2114904169685586375": false,
         "2114905694793023921": false,
         "2115070454327296481": true,
@@ -1686,7 +1685,8 @@
         "2115554822212501988": false,
         "2115555137494376957": false,
         "2115566057725272566": true,
-        "2115681447856030045": true
+        "2115681447856030045": true,
+        "2115747410026651680": true
       },
       "user_id": "973261472"
     },
@@ -6508,5 +6508,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-29T09:50:22+00:00"
+  "updated_at": "2026-10-29T10:08:23+00:00"
 }
