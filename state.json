@@ -865,12 +865,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2114708655182401780",
-          "reason": "Calls being bullish onchain 'complete counter-consensus' with the worst sentiment he's seen in ~9 years, a contrarian bullish framing that echoes his earlier 'darkest before dawn' post. His recorded crypto market view was neutral.",
+          "post_id": "2115913121185529917",
+          "reason": "Says he's 'getting more cautious on risk assets' and expects crypto to 'face significant selling pressure' if equities correct, a flip from his recorded bullish crypto market view.",
           "scope": "crypto market",
-          "since": "2026-10-26",
-          "stance": "bullish",
-          "updated_at": "2026-10-26T13:20:07.000Z"
+          "since": "2026-10-29",
+          "stance": "bearish",
+          "updated_at": "2026-10-29T21:06:14.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -963,7 +963,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115911844166852992",
+      "last_id": "2115913121185529917",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -983,11 +983,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-28T19:05:47.000Z",
-          "id": "2115520419990319110",
-          "text": "ok gamblers what we thinking"
-        },
         {
           "created_at": "2026-10-28T19:06:14.000Z",
           "id": "2115520533785948401",
@@ -1109,10 +1104,17 @@
           "created_at": "2026-10-29T21:01:10.000Z",
           "id": "2115911844166852992",
           "text": "unreal man"
+        },
+        {
+          "created_at": "2026-10-29T21:06:14.000Z",
+          "id": "2115913121185529917",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2115912743538814976/img/1AteJoVWuwALMenB.jpg"
+          ],
+          "text": "i'm getting more cautious on risk assets as the momentum in equities starts to weaken\n\nstocks have had an incredible run since late 2022, with AI leading much of the upside, but we're starting to see signs of slowing momentum and pressure on some of the largest companies\n\nif equities enter a broader correction, i expect crypto to face significant selling pressure as investors reduce risk across their portfolios\n\nthere's an argument that Bitcoin could hold up better as an inflation hedge, but historically, investors have still sold BTC during periods of broader market stress\n\ni think the direction of equities is one of the most important things to watch for crypto rn"
         }
       ],
       "reads": {
-        "2115520419990319110": "No call",
         "2115520533785948401": "No call",
         "2115523673675448685": "No call",
         "2115545854475981153": "No call",
@@ -1129,7 +1131,8 @@
         "2115901699260923906": "No call",
         "2115901795755020627": "No call",
         "2115904745818996865": "No call",
-        "2115911844166852992": "No call"
+        "2115911844166852992": "No call",
+        "2115913121185529917": "VIEW bearish on crypto market"
       },
       "replies": [
         {
@@ -1227,10 +1230,6 @@
         }
       ],
       "threads": {
-        "2111095056778301444": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111105247699665407": {
           "alerted": [],
           "self_replies": 0
@@ -1647,10 +1646,15 @@
         "2115911844166852992": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115913121185529917": {
+          "alerted": [
+            "bias:crypto market:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115520419990319110": true,
         "2115520533785948401": true,
         "2115523673675448685": false,
         "2115525114003329175": false,
@@ -1684,7 +1688,8 @@
         "2115901699260923906": true,
         "2115901795755020627": false,
         "2115904745818996865": true,
-        "2115911844166852992": false
+        "2115911844166852992": false,
+        "2115913121185529917": true
       },
       "user_id": "973261472"
     },
@@ -2090,23 +2095,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115907864724467714",
+      "last_id": "2115913424668622937",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-27T23:40:13.000Z",
-          "id": "2115227097345982956",
-          "text": "SEND IN THE RETAIL HWARANG"
-        },
-        {
-          "created_at": "2026-10-28T00:14:19.000Z",
-          "id": "2115235679399731282",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2115235629533474816/img/YP_R7N9PEN5McF2F.jpg"
-          ],
-          "quoted_text": "ok claude find nearest open store selling soju https://t.co/Axage8ZNAG",
-          "text": "i have cast an ancient korean magik. the ramp starts now https://t.co/iSa2sDO86B https://t.co/CTYZLW8Pxu"
-        },
         {
           "created_at": "2026-10-28T00:56:10.000Z",
           "id": "2115246211297079682",
@@ -2222,11 +2213,20 @@
           "created_at": "2026-10-29T20:28:59.000Z",
           "id": "2115903745007747572",
           "text": "absolute cinema how the actual dram names like sk hynix and sandisk pump out stellar earnings but because other ai stocks shit the bed and go down 13 and 20% respectively memory has to go down for stat arb beta reasons"
+        },
+        {
+          "created_at": "2026-10-29T21:06:21.000Z",
+          "id": "2115913150314787235",
+          "text": "yesterday afternoon before the close the dram *2 day* straddle was only worth like $2.50 fml\n\nthese were supposed to be snoozer earnings"
+        },
+        {
+          "created_at": "2026-10-29T21:07:26.000Z",
+          "id": "2115913424668622937",
+          "quoted_text": "Unconfirmed, but possibly massive binance hack. Entire Binance wallet drained into new EOA. Contract call was funded by Tornado Cash https://t.co/DAHksHY8p7",
+          "text": "lol the ai vs crypto battle is getting spicy https://t.co/T3uSD4jFyR"
         }
       ],
       "reads": {
-        "2115227097345982956": "No call",
-        "2115235679399731282": "No call",
         "2115246211297079682": "No call",
         "2115258826580451841": "No call",
         "2115436629166784742": "No call",
@@ -2242,7 +2242,9 @@
         "2115898853237178469": "No call",
         "2115901010296426643": "No call",
         "2115901361728479470": "No call",
-        "2115903745007747572": "No call: bullish on memory stocks (same view as before)"
+        "2115903745007747572": "No call: bullish on memory stocks (same view as before)",
+        "2115913150314787235": "No call",
+        "2115913424668622937": "No call"
       },
       "replies": [
         {
@@ -2546,11 +2548,17 @@
         "2115903745007747572": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115913150314787235": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2115913424668622937": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115227097345982956": true,
-        "2115235679399731282": true,
         "2115246211297079682": true,
         "2115258826580451841": true,
         "2115289828853948792": false,
@@ -2583,7 +2591,9 @@
         "2115903745007747572": true,
         "2115905594515497179": false,
         "2115906399657963832": false,
-        "2115907864724467714": true
+        "2115907864724467714": true,
+        "2115913150314787235": true,
+        "2115913424668622937": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6589,5 +6599,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T21:02:23+00:00"
+  "updated_at": "2026-10-29T21:08:32+00:00"
 }
