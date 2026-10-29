@@ -4221,7 +4221,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115780588141453519",
+      "last_id": "2115781587518607769",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4257,17 +4257,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-27T17:37:11.000Z",
-          "id": "2115135735267229897",
-          "text": "Stream sponsors update: Counterparty has concluded year one sponsorships with Phantom and Polymarket. I want to sincerely thank both teams for their incredible support, belief in our vision, and collaboration over the past year.\n\nPhantom took a bet on me when I was streaming out of my living room in 2024 to nobody. I wouldn\u2019t be where I am today without them and I'm eternally grateful to Will, Brandon, and the entire Phantom team. \n\nPolymarket came in a little later to help us scale the show to the next level. Throughout our partnership the stream has grown 10x in live viewership and many multiples in clip impressions and they played a significant role in increasing the quality of our news coverage.\n\nAs the stream and Counterparty continue to evolve, we are stepping into an exciting new chapter. Thank you to our community for the ongoing support. Stay tuned, there is so much more to come."
-        },
-        {
-          "created_at": "2026-10-27T23:27:39.000Z",
-          "id": "2115223935482728836",
-          "quoted_text": "Trump: I love the meat! Ahhhh! I love it, look! *gestures* https://t.co/TV3OGDz4o0",
-          "text": "WHAT https://t.co/hgcPef2XHm"
-        },
         {
           "created_at": "2026-10-28T01:12:42.000Z",
           "id": "2115250371262050587",
@@ -4364,11 +4353,21 @@
           "id": "2115780588141453519",
           "reply_to_id": "2115780257005416638",
           "text": "stanley druckenmiller tweeting hyperliquid as his first post gotta be about as close to a free long as they come"
+        },
+        {
+          "created_at": "2026-10-29T12:22:54.000Z",
+          "id": "2115781421931405618",
+          "reply_to_id": "2115780588141453519",
+          "text": "nobody can even buy until 930"
+        },
+        {
+          "created_at": "2026-10-29T12:23:34.000Z",
+          "id": "2115781587518607769",
+          "reply_to_id": "2115781421931405618",
+          "text": "doesn\u2019t really get more megachurch than that?"
         }
       ],
       "reads": {
-        "2115135735267229897": "No call",
-        "2115223935482728836": "No call",
         "2115250371262050587": "No call",
         "2115423258850033813": "No call",
         "2115423821645963569": "No call",
@@ -4880,8 +4879,6 @@
         }
       },
       "trading": {
-        "2115135735267229897": false,
-        "2115223935482728836": false,
         "2115250371262050587": false,
         "2115423258850033813": true,
         "2115423821645963569": true,
@@ -4914,7 +4911,9 @@
         "2115776370915909727": false,
         "2115779640715272383": true,
         "2115780257005416638": false,
-        "2115780588141453519": true
+        "2115780588141453519": true,
+        "2115781421931405618": true,
+        "2115781587518607769": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6526,5 +6525,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T12:20:21+00:00"
+  "updated_at": "2026-10-29T12:24:18+00:00"
 }
