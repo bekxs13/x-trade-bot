@@ -4232,7 +4232,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115855766900932968",
+      "last_id": "2115858374218928131",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4268,11 +4268,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-28T17:54:24.000Z",
-          "id": "2115502455136133622",
-          "text": "LIVE: REACTING TO FOMC https://t.co/YrQxjoKJAM"
-        },
         {
           "created_at": "2026-10-28T18:37:11.000Z",
           "id": "2115513223684276230",
@@ -4377,10 +4372,15 @@
           "id": "2115824151042883677",
           "quoted_text": "you run a fund and don\u2019t hold the only asset stanley druckenmiller has ever tweeted about?",
           "text": "are you smarter than stanley druckenmiller and elon musk? https://t.co/okcY5xX7t0"
+        },
+        {
+          "created_at": "2026-10-29T17:28:41.000Z",
+          "id": "2115858374218928131",
+          "quoted_text": "Today, we are announcing an agreement to acquire ADT.\n\nHome security has the qualities we look for in the businesses we own: an essential service built on specialist expertise and earned trust.\n\nWe see an opportunity to build on that foundation for decades, investing in its people and technology to deliver the best outcomes for customers.\n\nOur ambition is to help ADT define the next era of trusted home security.\n\nhttps://t.co/ebcl3BS1cJ",
+          "text": "private money https://t.co/aHmwGohkBV"
         }
       ],
       "reads": {
-        "2115502455136133622": "No call",
         "2115513223684276230": "No call",
         "2115513597447086132": "No call",
         "2115514887132848432": "No call",
@@ -4396,7 +4396,8 @@
         "2115784233335607732": "Read together with the post it replies to",
         "2115786216239247399": "No call",
         "2115807782964183450": "No call",
-        "2115824151042883677": "No call: bullish on HYPE (same view as before)"
+        "2115824151042883677": "No call: bullish on HYPE (same view as before)",
+        "2115858374218928131": "No call"
       },
       "replies": [
         {
@@ -4494,10 +4495,6 @@
         }
       ],
       "threads": {
-        "2108176640652226900": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108189953905635365": {
           "alerted": [],
           "self_replies": 1
@@ -4902,10 +4899,13 @@
         "2115824151042883677": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115858374218928131": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115502455136133622": true,
         "2115513223684276230": true,
         "2115513597447086132": false,
         "2115514887132848432": false,
@@ -4939,7 +4939,8 @@
         "2115828580467024186": false,
         "2115828817243865139": false,
         "2115844002331414638": false,
-        "2115855766900932968": false
+        "2115855766900932968": false,
+        "2115858374218928131": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6567,5 +6568,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T17:20:24+00:00"
+  "updated_at": "2026-10-29T17:30:25+00:00"
 }
