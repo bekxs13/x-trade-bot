@@ -960,7 +960,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115566057725272566",
+      "last_id": "2115681447856030045",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -980,12 +980,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-26T22:39:51.000Z",
-          "id": "2114849515316584949",
-          "quoted_text": "bullish c fork? @Beetcoin https://t.co/HvMkdEf6bY",
-          "text": "look how ugly my charts were man LMFAOOOOOOOOO https://t.co/xCezCEveE5"
-        },
         {
           "created_at": "2026-10-26T22:50:28.000Z",
           "id": "2114852187201228909",
@@ -1112,10 +1106,17 @@
           "id": "2115555137494376957",
           "reply_to_id": "2115554822212501988",
           "text": "@verybadadvice0 this is a generational discovery for me"
+        },
+        {
+          "created_at": "2026-10-29T05:45:39.000Z",
+          "id": "2115681447856030045",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2115678971639861248/img/cNBC2iLSC85TsvNd.jpg"
+          ],
+          "text": "Market Bubble ep.24: my full conversation\n\nbearish market, Pumpfun, papertrade, tokenized equities, portfolio strategy and the future of crypto social\n\n0:00 - Coinbase trading comp and bearish outlook\n6:56 - Paper Trade supply and Pumpfun\n16:10 - CT culture, tokenization and Zcash\n25:52 - Onchain finance and the 70/30 strategy\n32:17 - Equity valuations and crypto social"
         }
       ],
       "reads": {
-        "2114849515316584949": "No call",
         "2114852187201228909": "VIEW bullish on HYPE",
         "2114904169685586375": "No call",
         "2114905694793023921": "No call",
@@ -1132,7 +1133,8 @@
         "2115520533785948401": "No call",
         "2115523673675448685": "No call",
         "2115545854475981153": "No call",
-        "2115548592060674218": "No call"
+        "2115548592060674218": "No call",
+        "2115681447856030045": "No call: bearish on crypto market (60%, too unsure)"
       },
       "replies": [
         {
@@ -1227,12 +1229,6 @@
         }
       ],
       "threads": {
-        "2110027728112021765": {
-          "alerted": [
-            "bias:mu:bearish"
-          ],
-          "self_replies": 0
-        },
         "2110252627799966022": {
           "alerted": [],
           "self_replies": 0
@@ -1649,10 +1645,13 @@
         "2115548592060674218": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115681447856030045": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114849515316584949": true,
         "2114852187201228909": true,
         "2114904169685586375": false,
         "2114905694793023921": false,
@@ -1686,7 +1685,8 @@
         "2115554745867985051": false,
         "2115554822212501988": false,
         "2115555137494376957": false,
-        "2115566057725272566": true
+        "2115566057725272566": true,
+        "2115681447856030045": true
       },
       "user_id": "973261472"
     },
@@ -6508,5 +6508,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-29T05:04:16+00:00"
+  "updated_at": "2026-10-29T05:46:26+00:00"
 }
