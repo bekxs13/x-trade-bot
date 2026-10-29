@@ -935,6 +935,15 @@
           "stance": "bullish",
           "updated_at": "2026-10-21T14:39:53.000Z"
         },
+        "stocks/macro": {
+          "market": "stocks",
+          "post_id": "2115947804170617056",
+          "reason": "Says \"i'm cautious on equities right now\" due to AI uncertainty and investors having reasons to reduce exposure. Broader than the recorded ai stocks view, so logged as a new stocks/macro scope.",
+          "scope": "stocks/macro",
+          "since": "2026-10-29",
+          "stance": "bearish",
+          "updated_at": "2026-10-29T23:24:03.000Z"
+        },
         "vvv": {
           "market": "crypto",
           "post_id": "2115791236544049498",
@@ -963,7 +972,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115944683398648228",
+      "last_id": "2115947804170617056",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -983,12 +992,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-28T21:22:29.000Z",
-          "id": "2115554822212501988",
-          "reply_to_id": "2115554745867985051",
-          "text": "@verybadadvice0 wait WHAT"
-        },
         {
           "created_at": "2026-10-28T21:23:44.000Z",
           "id": "2115555137494376957",
@@ -1121,6 +1124,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2115944462740504576/img/cPwOhzY9RK2CRy1M.jpg"
           ],
           "text": "my trading style has changed a lot over the years\n\ni used to spend much more time watching charts and reacting to every move. these days, i'm a lot more selective with my setups\n\ni still pay close attention to lower timeframes when i expect major liquidations or a significant market turning point, but outside of those moments, i'm comfortable moving slower\n\ntrading is something you can keep improving at for decades, and part of that process is learning when your attention actually matters\n\nmore hours staring at charts doesn't necessarily mean better trades"
+        },
+        {
+          "created_at": "2026-10-29T23:24:03.000Z",
+          "id": "2115947804170617056",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2115947617075273728/img/sISGZKzTZUihmlUe.jpg"
+          ],
+          "text": "i think we're entering one of the most uncertain periods for markets because of AI\n\nthe technology is advancing so quickly that it's almost impossible to predict what the next 12 to 18 months will look like\n\nwe could see major breakthroughs, significant disruption to existing businesses, or risks that nobody has fully considered yet\n\nthat's part of why i'm cautious on equities right now. investors have made substantial gains, and this level of uncertainty gives them plenty of reasons to reduce exposure\n\nmarkets hate uncertainty, and i'm more focused on understanding how that uncertainty translates into price action"
         }
       ],
       "reads": {
@@ -1141,7 +1152,8 @@
         "2115918213376831604": "No call: bullish on HYPE (65%, too unsure)",
         "2115931791446220896": "No call: bullish on HYPE (same view as before)",
         "2115938158437146768": "No call",
-        "2115944683398648228": "No call"
+        "2115944683398648228": "No call",
+        "2115947804170617056": "VIEW bearish on stocks/macro"
       },
       "replies": [
         {
@@ -1239,10 +1251,6 @@
         }
       ],
       "threads": {
-        "2111217534485877165": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111218532104929684": {
           "alerted": [],
           "self_replies": 0
@@ -1661,6 +1669,12 @@
         "2115944683398648228": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115947804170617056": {
+          "alerted": [
+            "bias:stocks/macro:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1670,7 +1684,6 @@
         "2115526406772064683": false,
         "2115531705004044552": false,
         "2115554745867985051": false,
-        "2115554822212501988": false,
         "2115555137494376957": false,
         "2115566057725272566": true,
         "2115681447856030045": true,
@@ -1698,7 +1711,8 @@
         "2115918213376831604": true,
         "2115931791446220896": true,
         "2115938158437146768": true,
-        "2115944683398648228": true
+        "2115944683398648228": true,
+        "2115947804170617056": true
       },
       "user_id": "973261472"
     },
@@ -6614,5 +6628,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T23:16:19+00:00"
+  "updated_at": "2026-10-29T23:24:21+00:00"
 }
