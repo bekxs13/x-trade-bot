@@ -4238,7 +4238,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115789172233392228",
+      "last_id": "2115807782964183450",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4274,11 +4274,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-28T12:42:03.000Z",
-          "id": "2115423849747824958",
-          "text": "MARKET OPEN: FOMC TODAY, Anthropic SAVED the AI &amp; Crypto Trade, BIG NEWS DAY https://t.co/HaCDTwBNzN"
-        },
         {
           "created_at": "2026-10-28T16:03:20.000Z",
           "id": "2115474504767910026",
@@ -4382,10 +4377,15 @@
           "created_at": "2026-10-29T12:41:58.000Z",
           "id": "2115786216239247399",
           "text": "MARKET OPEN: Hyperliquid  ICE SAVED CRYPTO, Google KILLED the AI Trade... NOW WHAT? https://t.co/JW160qDZuf"
+        },
+        {
+          "created_at": "2026-10-29T14:07:39.000Z",
+          "id": "2115807782964183450",
+          "quoted_text": "MARKET OPEN: Hyperliquid  ICE SAVED CRYPTO, Google KILLED the AI Trade... NOW WHAT? https://t.co/JW160qDZuf",
+          "text": "live with @goodalexander https://t.co/vJi9xTuQQQ"
         }
       ],
       "reads": {
-        "2115423849747824958": "No call",
         "2115474504767910026": "No call",
         "2115502455136133622": "No call",
         "2115513223684276230": "No call",
@@ -4401,7 +4401,8 @@
         "2115780257005416638": "No call",
         "2115783754816061916": "VIEW bullish on HYPE",
         "2115784233335607732": "Read together with the post it replies to",
-        "2115786216239247399": "No call"
+        "2115786216239247399": "No call",
+        "2115807782964183450": "No call"
       },
       "replies": [
         {
@@ -4903,10 +4904,13 @@
         "2115786216239247399": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115807782964183450": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115423849747824958": true,
         "2115474504767910026": true,
         "2115502455136133622": true,
         "2115513223684276230": true,
@@ -4940,7 +4944,8 @@
         "2115783754816061916": true,
         "2115784233335607732": false,
         "2115786216239247399": true,
-        "2115789172233392228": false
+        "2115789172233392228": false,
+        "2115807782964183450": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6552,5 +6557,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T13:46:17+00:00"
+  "updated_at": "2026-10-29T14:08:23+00:00"
 }
