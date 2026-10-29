@@ -2088,25 +2088,19 @@
       "biases": {
         "memory stocks": {
           "market": "stocks",
-          "post_id": "2115575054545072216",
-          "reason": "After SK Hynix earnings, the author jokes about 'dispelling the fake capex fud' to keep 'the ramp' going in Korean memory names. This matches the recorded bullish view on memory stocks.",
+          "post_id": "2115903745007747572",
+          "reason": "Calls SK Hynix and Sandisk earnings 'stellar' and blames the drop on 'stat arb beta', implying memory is unfairly sold off. This matches the recorded bullish view.",
           "scope": "memory stocks",
           "since": "2026-10-24",
           "stance": "bullish",
-          "updated_at": "2026-10-28T22:42:53.000Z"
+          "updated_at": "2026-10-29T20:28:59.000Z"
         }
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115901361728479470",
+      "last_id": "2115903745007747572",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-27T23:34:26.000Z",
-          "id": "2115225641771762029",
-          "quoted_text": "SK HYNIX $SKHY Q3\u201926 EARNINGS HIGHLIGHTS\n\n\ud83d\udd39 Revenue: $78.9B (Est. $74.8B) \ud83d\udfe2; +328% YoY\n\ud83d\udd39 Oper Profit: $62.8B (Est. $58.5B) \ud83d\udfe2; +632% YoY\n\ud83d\udd39 Oper Margin: 80%; +3,300 bps YoY; record high\n\ud83d\udd39 QoQ: Revenue +32% / Oper Profit +38%\n\nQ4 Guide:\n\ud83d\udd39 DRAM Bit Growth: Mid-20% QoQ\n\ud83d\udd39 NAND Bit Growth: Mid-single% QoQ incl. Solidigm\n\nQ3 Pricing & Volume:\n\ud83d\udd39 DRAM ASP: High-20% QoQ; bits ~+10% QoQ\n\ud83d\udd39 NAND ASP: Mid-20% QoQ; bits slightly lower QoQ\n\nProfitability:\n\ud83d\udd39 Gross Margin: 85.7% (Est. 85.2%) \ud83d\udfe2\n\ud83d\udd39 EBITDA: $66.1B; 84",
-          "text": "priced in apparently lol https://t.co/PHGIgzYH3m"
-        },
         {
           "created_at": "2026-10-27T23:40:13.000Z",
           "id": "2115227097345982956",
@@ -2231,10 +2225,14 @@
           "id": "2115901361728479470",
           "quoted_text": "BREAKING: Legendary British actor Sir Patrick Stewart has died at the age of 86, his family announces.\n\nBest known for portraying Captain Jean-Luc Picard in Star Trek and Professor X in X-Men, Stewart passed away Wednesday at his Los Angeles home following a battle with Alzheimer's disease and Lewy body dementia.",
           "text": "NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO https://t.co/EnJYMJ4OZM"
+        },
+        {
+          "created_at": "2026-10-29T20:28:59.000Z",
+          "id": "2115903745007747572",
+          "text": "absolute cinema how the actual dram names like sk hynix and sandisk pump out stellar earnings but because other ai stocks shit the bed and go down 13 and 20% respectively memory has to go down for stat arb beta reasons"
         }
       ],
       "reads": {
-        "2115225641771762029": "No call: bullish on memory stocks (same view as before)",
         "2115227097345982956": "No call",
         "2115235679399731282": "No call",
         "2115246211297079682": "No call",
@@ -2251,7 +2249,8 @@
         "2115793379531346176": "No call",
         "2115898853237178469": "No call",
         "2115901010296426643": "No call",
-        "2115901361728479470": "No call"
+        "2115901361728479470": "No call",
+        "2115903745007747572": "No call: bullish on memory stocks (same view as before)"
       },
       "replies": [
         {
@@ -2551,10 +2550,13 @@
         "2115901361728479470": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115903745007747572": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115225641771762029": true,
         "2115227097345982956": true,
         "2115235679399731282": true,
         "2115246211297079682": true,
@@ -2588,7 +2590,8 @@
         "2115898853237178469": false,
         "2115899335363715569": false,
         "2115901010296426643": true,
-        "2115901361728479470": false
+        "2115901361728479470": false,
+        "2115903745007747572": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6594,5 +6597,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T20:24:24+00:00"
+  "updated_at": "2026-10-29T20:29:31+00:00"
 }
