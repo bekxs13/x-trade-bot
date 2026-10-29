@@ -5397,7 +5397,7 @@
       "biases": {},
       "closed": [],
       "handle": "thecryptonexus",
-      "last_id": "2115395132409160025",
+      "last_id": "2115879008546197672",
       "positions": {
         "FREN PET (FP)": {
           "asset": "Fren Pet (FP)",
@@ -5552,6 +5552,11 @@
           "id": "2115393661454438581",
           "quoted_text": "Trump: I love the meat! Ahhhh! I love it, look! *gestures* https://t.co/TV3OGDz4o0",
           "text": "Bro will stop at nothing to win the gay vote for the midterms wow https://t.co/XVE5XICV55"
+        },
+        {
+          "created_at": "2026-10-29T18:50:41.000Z",
+          "id": "2115879008546197672",
+          "text": "JUST WOKE UP OMG\n\nHYPERLIQUID"
         }
       ],
       "reads": {
@@ -5571,7 +5576,8 @@
         "2112118266839629840": "No call",
         "2112163311584231850": "No call",
         "2113959190905372775": "No call",
-        "2115393661454438581": "No call"
+        "2115393661454438581": "No call",
+        "2115879008546197672": "No call"
       },
       "replies": [
         {
@@ -5756,6 +5762,10 @@
         "2115393661454438581": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115879008546197672": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -5792,7 +5802,8 @@
         "2114060663395889503": false,
         "2114120488297673107": false,
         "2115393661454438581": false,
-        "2115395132409160025": false
+        "2115395132409160025": false,
+        "2115879008546197672": true
       },
       "user_id": "1392152416854765571"
     },
@@ -6568,5 +6579,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T18:44:18+00:00"
+  "updated_at": "2026-10-29T18:52:25+00:00"
 }
