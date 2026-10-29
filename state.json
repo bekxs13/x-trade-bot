@@ -2094,7 +2094,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115903745007747572",
+      "last_id": "2115905594515497179",
       "positions": {},
       "posts": [
         {
@@ -2250,12 +2250,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-29T00:43:55.000Z",
-          "id": "2115605516936450139",
-          "reply_to_id": "2115604036967878685",
-          "text": "@wosa42 okay well im not gonna get myself banned to satiate the curiosity of some lowbie"
-        },
-        {
           "created_at": "2026-10-29T00:44:32.000Z",
           "id": "2115605669642666187",
           "reply_to_id": "2115604442380976161",
@@ -2338,6 +2332,12 @@
           "id": "2115899335363715569",
           "reply_to_id": "2115896668071526800",
           "text": "@wockjones beause you didn't conduct the ritual. it's your fault!"
+        },
+        {
+          "created_at": "2026-10-29T20:36:20.000Z",
+          "id": "2115905594515497179",
+          "reply_to_id": "2115899473742495852",
+          "text": "@wockjones where's my courtesy like dirtbag"
         }
       ],
       "threads": {
@@ -2568,7 +2568,6 @@
         "2115583676021149720": false,
         "2115592646643097624": false,
         "2115602948231446715": true,
-        "2115605516936450139": false,
         "2115605669642666187": false,
         "2115608443977367798": false,
         "2115610562658705858": false,
@@ -2587,7 +2586,8 @@
         "2115899335363715569": false,
         "2115901010296426643": true,
         "2115901361728479470": false,
-        "2115903745007747572": true
+        "2115903745007747572": true,
+        "2115905594515497179": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6593,5 +6593,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T20:34:19+00:00"
+  "updated_at": "2026-10-29T20:38:18+00:00"
 }
