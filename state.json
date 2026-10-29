@@ -963,7 +963,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115863963493892574",
+      "last_id": "2115898797322826115",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -983,11 +983,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-27T19:25:05.000Z",
-          "id": "2115162891217473604",
-          "text": "yo"
-        },
         {
           "created_at": "2026-10-28T12:20:38.000Z",
           "id": "2115418459765113280",
@@ -1120,10 +1115,18 @@
           ],
           "quoted_text": "market thoughts, trading breakouts & breakdowns, candlesticks as fractals\n\n0:00 - market bleeding and the $ETH short\n3:20 - FOMC nothing burger\n4:19 - all candles are fractals\n11:36 - Monday's high/low range playbook\n16:14 - trading breakdowns and drilling down for entries\n\noctober 29th, 2026",
           "text": "one of the biggest lessons i've learned trading ranges is to stop forcing trades in the middle\n\ni was extremely bullish going into Q4 and expected the range to break higher, but i was wrong\n\nthe key is being able to recognize when your original thesis fails and adjust to what price is actually doing\n\ni prefer waiting for price to reach the range highs or lows, where the reaction gives me a much clearer setup\n\nsometimes the best trade is simply waiting for a better entry"
+        },
+        {
+          "created_at": "2026-10-29T20:09:19.000Z",
+          "id": "2115898797322826115",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2115898673083359232/img/ZZgsJEcisNRgHuq8.jpg"
+          ],
+          "quoted_text": "market thoughts, trading breakouts & breakdowns, candlesticks as fractals\n\n0:00 - market bleeding and the $ETH short\n3:20 - FOMC nothing burger\n4:19 - all candles are fractals\n11:36 - Monday's high/low range playbook\n16:14 - trading breakdowns and drilling down for entries\n\noctober 29th, 2026",
+          "text": "monday's high and low are two of the most useful levels in my weekly trading playbook\n\nwhen i'm expecting a bearish week, i watch for opportunities around resistance above the weekly open, but a break below Monday's low is often the confirmation i'm looking for\n\nonce price breaks a key level after consolidating around it, the move can accelerate quickly\n\nthat's why i focus on getting positioned around important levels with clear invalidation rather than chasing price after the move"
         }
       ],
       "reads": {
-        "2115162891217473604": "No call",
         "2115418459765113280": "No call",
         "2115461279163052437": "VIEW bearish on ai stocks",
         "2115495632341541021": "No call",
@@ -1140,7 +1143,8 @@
         "2115782962931204501": "No call",
         "2115791236544049498": "No call: bullish on VVV (same view as before)",
         "2115841735045623975": "No call: bullish on HYPE (same view as before)",
-        "2115848675692068975": "No call: neutral on crypto market (65%, too unsure)"
+        "2115848675692068975": "No call: neutral on crypto market (65%, too unsure)",
+        "2115898797322826115": "No call"
       },
       "replies": [
         {
@@ -1238,10 +1242,6 @@
         }
       ],
       "threads": {
-        "2110767113673781312": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110767955630018575": {
           "alerted": [],
           "self_replies": 0
@@ -1658,10 +1658,13 @@
         "2115848675692068975": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115898797322826115": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115162891217473604": false,
         "2115418459765113280": true,
         "2115461279163052437": true,
         "2115495632341541021": true,
@@ -1695,7 +1698,8 @@
         "2115845085988573372": true,
         "2115848675692068975": true,
         "2115849089736966360": false,
-        "2115863963493892574": true
+        "2115863963493892574": true,
+        "2115898797322826115": true
       },
       "user_id": "973261472"
     },
@@ -2101,14 +2105,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115864991551352974",
+      "last_id": "2115898853237178469",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-27T18:42:11.000Z",
-          "id": "2115152092717584395",
-          "text": "praying for kim sun-woo of meritz \ud83d\ude4f"
-        },
         {
           "created_at": "2026-10-27T23:29:35.000Z",
           "id": "2115224420117590184",
@@ -2231,10 +2230,14 @@
           "created_at": "2026-10-29T13:10:25.000Z",
           "id": "2115793379531346176",
           "text": "there's a midbie on here that keeps unfollowing and following me repeatedly for what i can only assume is for baiting me into following back reasons-i don't generally follow back, i am incredibly stingy and capricious with my follows. getting a p4 follow is like finding a unicorn"
+        },
+        {
+          "created_at": "2026-10-29T20:09:32.000Z",
+          "id": "2115898853237178469",
+          "text": "well i guess i understand why bubbleboi was such a angry person now"
         }
       ],
       "reads": {
-        "2115152092717584395": "No call",
         "2115224420117590184": "No call: bullish on memory stocks (same view as before)",
         "2115224658832195673": "No call",
         "2115225641771762029": "No call: bullish on memory stocks (same view as before)",
@@ -2251,7 +2254,8 @@
         "2115582998779224070": "No call",
         "2115592646643097624": "No call",
         "2115602948231446715": "No call",
-        "2115793379531346176": "No call"
+        "2115793379531346176": "No call",
+        "2115898853237178469": "No call"
       },
       "replies": [
         {
@@ -2539,10 +2543,13 @@
         "2115793379531346176": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115898853237178469": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115152092717584395": false,
         "2115224420117590184": true,
         "2115224658832195673": false,
         "2115225641771762029": true,
@@ -2576,7 +2583,8 @@
         "2115801938390368513": false,
         "2115824528492511370": false,
         "2115859314506371431": false,
-        "2115864991551352974": false
+        "2115864991551352974": false,
+        "2115898853237178469": false
       },
       "user_id": "1598545553327067137"
     },
@@ -4238,7 +4246,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115898434838200462",
+      "last_id": "2115898574085226636",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4407,12 +4415,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-29T12:53:42.000Z",
-          "id": "2115789172233392228",
-          "reply_to_id": "1988795859820237111",
-          "text": "@404flipped update?"
-        },
-        {
           "created_at": "2026-10-29T15:13:03.000Z",
           "id": "2115824239076929755",
           "reply_to_id": "2115823752307208580",
@@ -4495,6 +4497,12 @@
           "id": "2115888433415766063",
           "reply_to_id": "2115880201171398739",
           "text": "@ZeroSumEnjoyer gg"
+        },
+        {
+          "created_at": "2026-10-29T20:08:26.000Z",
+          "id": "2115898574085226636",
+          "reply_to_id": "2107830101614440671",
+          "text": "@0xMentalIllness damn"
         }
       ],
       "threads": {
@@ -4923,7 +4931,6 @@
         "2115783754816061916": true,
         "2115784233335607732": false,
         "2115786216239247399": true,
-        "2115789172233392228": false,
         "2115807782964183450": true,
         "2115824151042883677": true,
         "2115824239076929755": false,
@@ -4943,7 +4950,8 @@
         "2115887391927894034": true,
         "2115888433415766063": false,
         "2115897932767760834": true,
-        "2115898434838200462": true
+        "2115898434838200462": true,
+        "2115898574085226636": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6582,5 +6590,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T20:08:20+00:00"
+  "updated_at": "2026-10-29T20:10:31+00:00"
 }
