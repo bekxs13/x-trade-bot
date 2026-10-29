@@ -960,7 +960,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115748514840052029",
+      "last_id": "2115752920779989271",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -980,11 +980,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-27T02:23:05.000Z",
-          "id": "2114905694793023921",
-          "text": "look outside your window"
-        },
         {
           "created_at": "2026-10-27T13:17:47.000Z",
           "id": "2115070454327296481",
@@ -1116,10 +1111,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2115747534136041472/img/xScWjjfuWMJehslu.jpg"
           ],
           "text": "market thoughts, trading breakouts &amp; breakdowns, candlesticks as fractals\n\noctober 29th, 2026 https://t.co/HVdG6xFhB4"
+        },
+        {
+          "created_at": "2026-10-29T10:29:39.000Z",
+          "id": "2115752920779989271",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2115747534136041472/img/xScWjjfuWMJehslu.jpg"
+          ],
+          "text": "market thoughts, trading breakouts & breakdowns, candlesticks as fractals\n\n0:00 - market bleeding and the $ETH short\n3:20 - FOMC nothing burger\n4:19 - all candles are fractals\n11:36 - Monday's high/low range playbook\n16:14 - trading breakdowns and drilling down for entries\n\noctober 29th, 2026"
         }
       ],
       "reads": {
-        "2114905694793023921": "No call",
         "2115070454327296481": "No call",
         "2115096316468449709": "No call",
         "2115128961131036993": "No call",
@@ -1136,7 +1138,8 @@
         "2115548592060674218": "No call",
         "2115681447856030045": "No call: bearish on crypto market (60%, too unsure)",
         "2115747410026651680": "No call",
-        "2115748514840052029": "No call"
+        "2115748514840052029": "No call",
+        "2115752920779989271": "No call: maybe short ETH (65%, too unsure); bearish on crypto market (65%, too unsure)"
       },
       "replies": [
         {
@@ -1231,10 +1234,6 @@
         }
       ],
       "threads": {
-        "2110318790793642277": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110326122655404263": {
           "alerted": [],
           "self_replies": 0
@@ -1651,10 +1650,13 @@
         "2115748514840052029": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115752920779989271": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114905694793023921": false,
         "2115070454327296481": true,
         "2115096316468449709": false,
         "2115128961131036993": true,
@@ -1688,7 +1690,8 @@
         "2115566057725272566": true,
         "2115681447856030045": true,
         "2115747410026651680": true,
-        "2115748514840052029": true
+        "2115748514840052029": true,
+        "2115752920779989271": true
       },
       "user_id": "973261472"
     },
@@ -6510,5 +6513,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-29T10:14:21+00:00"
+  "updated_at": "2026-10-29T10:30:33+00:00"
 }
