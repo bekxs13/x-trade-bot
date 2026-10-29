@@ -2101,14 +2101,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115784991275667799",
+      "last_id": "2115793379531346176",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-27T18:06:28.000Z",
-          "id": "2115143103698911565",
-          "text": "DRAM 1 day straddle 3% with SK Hynix earnings tonight, kind of crazy with how much DRAM has been moving recently imo"
-        },
         {
           "created_at": "2026-10-27T18:42:11.000Z",
           "id": "2115152092717584395",
@@ -2231,10 +2226,14 @@
           "id": "2115602948231446715",
           "quoted_text": "casting an even more powerful magik tonight to dispel the fake capex fud https://t.co/FQLQZW0OoY https://t.co/W9ncPi6a71",
           "text": "did you ever doubt anon https://t.co/214GUOaeZi"
+        },
+        {
+          "created_at": "2026-10-29T13:10:25.000Z",
+          "id": "2115793379531346176",
+          "text": "there's a midbie on here that keeps unfollowing and following me repeatedly for what i can only assume is for baiting me into following back reasons-i don't generally follow back, i am incredibly stingy and capricious with my follows. getting a p4 follow is like finding a unicorn"
         }
       ],
       "reads": {
-        "2115143103698911565": "No call",
         "2115152092717584395": "No call",
         "2115224420117590184": "No call: bullish on memory stocks (same view as before)",
         "2115224658832195673": "No call",
@@ -2251,7 +2250,8 @@
         "2115582687427609059": "No call",
         "2115582998779224070": "No call",
         "2115592646643097624": "No call",
-        "2115602948231446715": "No call"
+        "2115602948231446715": "No call",
+        "2115793379531346176": "No call"
       },
       "replies": [
         {
@@ -2535,10 +2535,13 @@
         "2115602948231446715": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115793379531346176": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115143103698911565": true,
         "2115152092717584395": false,
         "2115224420117590184": true,
         "2115224658832195673": false,
@@ -2572,7 +2575,8 @@
         "2115618132845068427": false,
         "2115623505450729921": false,
         "2115630098309095723": false,
-        "2115784991275667799": false
+        "2115784991275667799": false,
+        "2115793379531346176": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6548,5 +6552,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T13:02:22+00:00"
+  "updated_at": "2026-10-29T13:12:24+00:00"
 }
