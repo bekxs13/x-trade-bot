@@ -957,7 +957,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115845085988573372",
+      "last_id": "2115848675692068975",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -977,14 +977,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-27T17:39:50.000Z",
-          "id": "2115136401364979876",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2115136315599822848/img/Y_KTF_F_ibExu311.jpg"
-          ],
-          "text": "i view ETH and SOL more as monetary assets tied to the growth of their ecosystems than traditional businesses valued on revenue\n\nthat makes them harder for TradFi investors to evaluate, especially when there's no clear way to measure how much value the underlying token captures\n\nwhat i find interesting is that successful onchain applications may have a clearer path to building monetary value around their tokens\n\nas more crypto businesses generate real revenue, i think the distinction between L1 valuations and application tokens becomes increasingly important"
-        },
         {
           "created_at": "2026-10-27T19:25:05.000Z",
           "id": "2115162891217473604",
@@ -1113,10 +1105,18 @@
           "created_at": "2026-10-29T16:22:34.000Z",
           "id": "2115841735045623975",
           "text": "greatest investor of all time\ngreatest businessman of all time\nlargest exchange in the world\n\nall emphatically bullposting hyperliquid on the same day\n\nthe future is bright for crypto"
+        },
+        {
+          "created_at": "2026-10-29T16:50:09.000Z",
+          "id": "2115848675692068975",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2115848628464123904/img/D43Ae4jUL6nXr5J8.jpg"
+          ],
+          "quoted_text": "market thoughts, trading breakouts & breakdowns, candlesticks as fractals\n\n0:00 - market bleeding and the $ETH short\n3:20 - FOMC nothing burger\n4:19 - all candles are fractals\n11:36 - Monday's high/low range playbook\n16:14 - trading breakdowns and drilling down for entries\n\noctober 29th, 2026",
+          "text": "one of the biggest lessons i've learned trading ranges is to stop forcing trades in the middle\n\ni was extremely bullish going into Q4 and expected the range to break higher, but i was wrong\n\nthe key is being able to recognize when your original thesis fails and adjust to what price is actually doing\n\ni prefer waiting for price to reach the range highs or lows, where the reaction gives me a much clearer setup\n\nsometimes the best trade is simply waiting for a better entry"
         }
       ],
       "reads": {
-        "2115136401364979876": "No call",
         "2115162891217473604": "No call",
         "2115418459765113280": "No call",
         "2115461279163052437": "VIEW bearish on ai stocks",
@@ -1133,7 +1133,8 @@
         "2115752920779989271": "No call: maybe short ETH (65%, too unsure); bearish on crypto market (65%, too unsure)",
         "2115782962931204501": "No call",
         "2115791236544049498": "No call: bullish on VVV (same view as before)",
-        "2115841735045623975": "No call: bullish on HYPE (same view as before)"
+        "2115841735045623975": "No call: bullish on HYPE (same view as before)",
+        "2115848675692068975": "No call: neutral on crypto market (65%, too unsure)"
       },
       "replies": [
         {
@@ -1231,10 +1232,6 @@
         }
       ],
       "threads": {
-        "2110765762457809110": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110767113673781312": {
           "alerted": [],
           "self_replies": 0
@@ -1651,10 +1648,13 @@
         "2115841735045623975": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115848675692068975": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115136401364979876": true,
         "2115162891217473604": false,
         "2115418459765113280": true,
         "2115461279163052437": true,
@@ -1688,7 +1688,8 @@
         "2115841735045623975": true,
         "2115842296067576243": false,
         "2115844905683583159": false,
-        "2115845085988573372": true
+        "2115845085988573372": true,
+        "2115848675692068975": true
       },
       "user_id": "973261472"
     },
@@ -6566,5 +6567,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T16:36:20+00:00"
+  "updated_at": "2026-10-29T16:50:28+00:00"
 }
