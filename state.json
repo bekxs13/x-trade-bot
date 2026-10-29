@@ -4221,7 +4221,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115764431640752157",
+      "last_id": "2115771367388037504",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4257,12 +4257,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-27T11:54:41.000Z",
-          "id": "2115049544299983111",
-          "reply_to_id": "2115049500545085582",
-          "text": "fuck you chumba bitch fuck chumba bitch"
-        },
         {
           "created_at": "2026-10-27T11:58:11.000Z",
           "id": "2115050424499601853",
@@ -4367,10 +4361,14 @@
           "id": "2115574844511449107",
           "quoted_text": "Sights set on Denver. https://t.co/jgmRxhenhH",
           "text": "betting odds from the MAIN account is genuinely insane how did we get here https://t.co/dN47a2mSvb"
+        },
+        {
+          "created_at": "2026-10-29T11:42:57.000Z",
+          "id": "2115771367388037504",
+          "text": "hyperliquid saves crypto again"
         }
       ],
       "reads": {
-        "2115049544299983111": "Read together with the post it replies to",
         "2115052832449548371": "No call",
         "2115060673713762765": "No call",
         "2115113639287935358": "No call",
@@ -4388,7 +4386,8 @@
         "2115513597447086132": "No call",
         "2115514887132848432": "No call",
         "2115517817160417719": "No call",
-        "2115574844511449107": "No call"
+        "2115574844511449107": "No call",
+        "2115771367388037504": "No call"
       },
       "replies": [
         {
@@ -4864,10 +4863,13 @@
         "2115574844511449107": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115771367388037504": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115049544299983111": false,
         "2115050424499601853": false,
         "2115052832449548371": false,
         "2115060673713762765": true,
@@ -4901,7 +4903,8 @@
         "2115589534033588549": false,
         "2115621123614495012": false,
         "2115621812545413427": false,
-        "2115764431640752157": false
+        "2115764431640752157": false,
+        "2115771367388037504": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6513,5 +6516,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-29T11:16:19+00:00"
+  "updated_at": "2026-10-29T11:44:24+00:00"
 }
