@@ -960,7 +960,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115782962931204501",
+      "last_id": "2115783789506875527",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1140,12 +1140,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T19:19:32.000Z",
-          "id": "2115523880630796757",
-          "reply_to_id": "2115521068303622233",
-          "text": "@on4chain thank you!"
-        },
-        {
           "created_at": "2026-10-28T19:19:51.000Z",
           "id": "2115523960578200054",
           "reply_to_id": "2115520962095431871",
@@ -1228,6 +1222,15 @@
           "id": "2115778419354914823",
           "reply_to_id": "2115777839622689036",
           "text": "@standuquesne they really got big bro to tweet"
+        },
+        {
+          "created_at": "2026-10-29T12:32:19.000Z",
+          "id": "2115783789506875527",
+          "images": [
+            "https://pbs.twimg.com/media/HVzGJBHWoAAhDhI.png"
+          ],
+          "reply_to_id": "2115574449710026785",
+          "text": "@CryptoHayes https://t.co/7c0S0jS4YP"
         }
       ],
       "threads": {
@@ -1665,7 +1668,6 @@
         "2115520419990319110": true,
         "2115520533785948401": true,
         "2115523673675448685": false,
-        "2115523880630796757": false,
         "2115523960578200054": false,
         "2115524045110427681": false,
         "2115524076013863031": false,
@@ -1688,7 +1690,8 @@
         "2115748514840052029": true,
         "2115752920779989271": true,
         "2115778419354914823": false,
-        "2115782962931204501": true
+        "2115782962931204501": true,
+        "2115783789506875527": false
       },
       "user_id": "973261472"
     },
@@ -4206,6 +4209,15 @@
           "stance": "bullish",
           "updated_at": "2026-10-21T01:00:05.000Z"
         },
+        "hype": {
+          "market": "crypto",
+          "post_id": "2115783754816061916",
+          "reason": "Earlier called Druckenmiller tweeting Hyperliquid 'as close to a free long as they come', and now mocks funds that don't hold it.",
+          "scope": "HYPE",
+          "since": "2026-10-29",
+          "stance": "bullish",
+          "updated_at": "2026-10-29T12:32:11.000Z"
+        },
         "stocks/macro": {
           "market": "stocks",
           "post_id": "2112705823197855757",
@@ -4218,7 +4230,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115782897076769195",
+      "last_id": "2115784233335607732",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4254,17 +4266,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-28T01:12:42.000Z",
-          "id": "2115250371262050587",
-          "quoted_text": "i'm on amazon adding MREs to my cart you guys fucking suck honestly",
-          "text": "me and my baby got light <> Misa as our phone text background and here I am telling her about MREs from the 90s she wasn't built for a world where chicken is mushy and we get excited about salted crackers. not her. i will protect her. I must. this shit won't be on my hands ill promise you that. somebody else can make her father disappointed not fucking me. I don't care who does it or what it takes protect the internet. somebody has to step up. Trump? silent.  Nothing to say. I was promised a life of hyper optimized meta ads and a mid to high 7 figure salary trading worthless garbage internet coins not real fear about whether my lights will work when I wake up to piss at 5am"
-        },
-        {
-          "created_at": "2026-10-28T12:39:42.000Z",
-          "id": "2115423258850033813",
-          "text": "MARKET OPEN: FOMC TODAY, Anthropic SAVED the AI &amp; Crypto Trade, BIG NEWS DAY https://t.co/TjV7WdD2Qm"
-        },
         {
           "created_at": "2026-10-28T12:41:56.000Z",
           "id": "2115423821645963569",
@@ -4362,11 +4363,20 @@
           "id": "2115781587518607769",
           "reply_to_id": "2115781421931405618",
           "text": "doesn\u2019t really get more megachurch than that?"
+        },
+        {
+          "created_at": "2026-10-29T12:32:11.000Z",
+          "id": "2115783754816061916",
+          "text": "you run a fund and don\u2019t hold the only asset stanley druckenmiller has ever tweeted about?"
+        },
+        {
+          "created_at": "2026-10-29T12:34:05.000Z",
+          "id": "2115784233335607732",
+          "reply_to_id": "2115783754816061916",
+          "text": "retarded?"
         }
       ],
       "reads": {
-        "2115250371262050587": "No call",
-        "2115423258850033813": "No call",
         "2115423821645963569": "No call",
         "2115423849747824958": "No call",
         "2115474504767910026": "No call",
@@ -4381,7 +4391,9 @@
         "2115773634673615293": "No call",
         "2115776370915909727": "No call",
         "2115779640715272383": "No call",
-        "2115780257005416638": "No call"
+        "2115780257005416638": "No call",
+        "2115783754816061916": "VIEW bullish on HYPE",
+        "2115784233335607732": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -4873,11 +4885,15 @@
         "2115779640715272383": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2115783754816061916": {
+          "alerted": [
+            "bias:hype:bullish"
+          ],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2115250371262050587": false,
-        "2115423258850033813": true,
         "2115423821645963569": true,
         "2115423849747824958": true,
         "2115474504767910026": true,
@@ -4910,7 +4926,9 @@
         "2115781421931405618": true,
         "2115781587518607769": false,
         "2115782645250503156": false,
-        "2115782897076769195": false
+        "2115782897076769195": false,
+        "2115783754816061916": true,
+        "2115784233335607732": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6522,5 +6540,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T12:30:24+00:00"
+  "updated_at": "2026-10-29T12:34:25+00:00"
 }
