@@ -2086,7 +2086,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115605669642666187",
+      "last_id": "2115608443977367798",
       "positions": {},
       "posts": [
         {
@@ -2240,12 +2240,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T20:41:40.000Z",
-          "id": "2115544549330231799",
-          "reply_to_id": "2115541588097012110",
-          "text": "@_job01 I don't think so. There's limited chips so only the absolute frontier is going to be able to bid competitive prices. You should expect to see capex consolidate to fewer and fewer players"
-        },
-        {
           "created_at": "2026-10-28T21:22:29.000Z",
           "id": "2115554823756263774",
           "reply_to_id": "2115547830714544582",
@@ -2328,6 +2322,12 @@
           "id": "2115605669642666187",
           "reply_to_id": "2115604442380976161",
           "text": "@Steinzory @wosa42 i didn't doxx him"
+        },
+        {
+          "created_at": "2026-10-29T00:55:33.000Z",
+          "id": "2115608443977367798",
+          "reply_to_id": "2115604758266605611",
+          "text": "@menhguin @HiCagr waow"
         }
       ],
       "threads": {
@@ -2537,7 +2537,6 @@
         "2115436745248715181": true,
         "2115495637269557447": false,
         "2115535426589241612": false,
-        "2115544549330231799": true,
         "2115554823756263774": false,
         "2115557720648753476": false,
         "2115575054545072216": true,
@@ -2557,7 +2556,8 @@
         "2115604556583518359": false,
         "2115605348773945636": false,
         "2115605516936450139": false,
-        "2115605669642666187": false
+        "2115605669642666187": false,
+        "2115608443977367798": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6499,5 +6499,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-29T00:46:20+00:00"
+  "updated_at": "2026-10-29T00:56:19+00:00"
 }
