@@ -883,12 +883,12 @@
         },
         "hype": {
           "market": "crypto",
-          "post_id": "2115841735045623975",
-          "reason": "He highlights major figures 'bullposting hyperliquid' and says 'the future is bright for crypto', which matches his recorded bullish HYPE view. The crypto market view is also bullish and unchanged.",
+          "post_id": "2115931791446220896",
+          "reason": "Calls the ICE-tradexyz partnership 'significant' for Hyperliquid and is 'increasingly optimistic', matching his recorded bullish HYPE view.",
           "scope": "HYPE",
           "since": "2026-10-26",
           "stance": "bullish",
-          "updated_at": "2026-10-29T16:22:34.000Z"
+          "updated_at": "2026-10-29T22:20:25.000Z"
         },
         "memecoins": {
           "market": "crypto",
@@ -963,7 +963,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115918213376831604",
+      "last_id": "2115931791446220896",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -983,12 +983,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-28T19:18:42.000Z",
-          "id": "2115523673675448685",
-          "quoted_text": "@blknoiz06 make it less time like 5-10m not fucking 30 not watching a whole movie bro",
-          "text": "is 30 minutes really that long? https://t.co/mDYEzxdD2b"
-        },
         {
           "created_at": "2026-10-28T20:46:51.000Z",
           "id": "2115545854475981153",
@@ -1114,10 +1108,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2115918118132563968/img/XDGrL6KFD1dOW9q_.jpg"
           ],
           "text": "i think some of the biggest opportunities around Hyperliquid over the next few years could come from the applications built on top of it\n\nequity perps are particularly interesting to me. Hyperliquid is heavily focused on infrastructure, which leaves room for teams to build better mobile trading experiences and gamified front ends\n\ni'm also watching Kinetiq and its upcoming Elysium L2\n\nHyperEVM has struggled to attract significant activity, and a faster execution environment could create new opportunities for developers and applications across the ecosystem\n\ni expect the next phase of competition around Hyperliquid to be increasingly focused on the user experience"
+        },
+        {
+          "created_at": "2026-10-29T22:20:25.000Z",
+          "id": "2115931791446220896",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2115931618062045184/img/ClmctWKqxl7lOq53.jpg"
+          ],
+          "text": "the partnership between ICE, the parent company of the NYSE, and tradexyz is a pretty significant development for Hyperliquid\n\ni've always thought perpetual futures were one of the best financial products to come out of crypto, and i expect them to become much more widely used in traditional markets\n\nHyperliquid has a real opportunity to become part of the infrastructure that powers trading across different asset classes\n\nthere's also a bigger stablecoin angle here. As more assets and trading volume move onchain, demand for dollar-denominated liquidity could grow significantly\n\ni'm increasingly optimistic about the long-term convergence of crypto infrastructure and traditional finance"
         }
       ],
       "reads": {
-        "2115523673675448685": "No call",
         "2115545854475981153": "No call",
         "2115548592060674218": "No call",
         "2115681447856030045": "No call: bearish on crypto market (60%, too unsure)",
@@ -1134,7 +1135,8 @@
         "2115904745818996865": "No call",
         "2115911844166852992": "No call",
         "2115913121185529917": "VIEW bearish on crypto market",
-        "2115918213376831604": "No call: bullish on HYPE (65%, too unsure)"
+        "2115918213376831604": "No call: bullish on HYPE (65%, too unsure)",
+        "2115931791446220896": "No call: bullish on HYPE (same view as before)"
       },
       "replies": [
         {
@@ -1232,10 +1234,6 @@
         }
       ],
       "threads": {
-        "2111117340779937937": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111117359091957993": {
           "alerted": [],
           "self_replies": 0
@@ -1654,10 +1652,13 @@
         "2115918213376831604": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115931791446220896": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115523673675448685": false,
         "2115525114003329175": false,
         "2115525255598875109": false,
         "2115525408284115195": true,
@@ -1691,7 +1692,8 @@
         "2115904745818996865": true,
         "2115911844166852992": false,
         "2115913121185529917": true,
-        "2115918213376831604": true
+        "2115918213376831604": true,
+        "2115931791446220896": true
       },
       "user_id": "973261472"
     },
@@ -6607,5 +6609,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T22:18:22+00:00"
+  "updated_at": "2026-10-29T22:22:24+00:00"
 }
