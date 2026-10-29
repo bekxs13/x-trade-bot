@@ -4235,7 +4235,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115877052796572159",
+      "last_id": "2115882819641598153",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4404,18 +4404,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-29T11:53:56.000Z",
-          "id": "2115774128502538675",
-          "reply_to_id": "2115759151217566144",
-          "text": "@bunjil would like to see it roll 86.1 again after a steep fib pullback liq sweep bollinger retest and hangout for 8 or 20 months before a rsi divergence back into the hundy roll over 100... not convinced yet"
-        },
-        {
-          "created_at": "2026-10-29T11:57:22.000Z",
-          "id": "2115774994978369586",
-          "reply_to_id": "2115774735510553050",
-          "text": "@bunjil tape loses this level after a 10 sigma bounce and yeah. lights out"
-        },
-        {
           "created_at": "2026-10-29T12:27:46.000Z",
           "id": "2115782645250503156",
           "reply_to_id": "2115782452547559507",
@@ -4492,6 +4480,18 @@
           "id": "2115877052796572159",
           "reply_to_id": "2115876840825135318",
           "text": "@tradfi oh boy"
+        },
+        {
+          "created_at": "2026-10-29T19:05:39.000Z",
+          "id": "2115882775710519439",
+          "reply_to_id": "2115882364643443172",
+          "text": "@apewoodx get them away from m e"
+        },
+        {
+          "created_at": "2026-10-29T19:05:50.000Z",
+          "id": "2115882819641598153",
+          "reply_to_id": "2115874968026157491",
+          "text": "@stogolp i promise i could bruh"
         }
       ],
       "threads": {
@@ -4913,8 +4913,6 @@
         "2115771367388037504": true,
         "2115773193545712105": true,
         "2115773634673615293": false,
-        "2115774128502538675": true,
-        "2115774994978369586": true,
         "2115776370915909727": false,
         "2115779640715272383": true,
         "2115780257005416638": false,
@@ -4940,7 +4938,9 @@
         "2115859392813728138": false,
         "2115861507884110173": true,
         "2115871437500317739": true,
-        "2115877052796572159": false
+        "2115877052796572159": false,
+        "2115882775710519439": false,
+        "2115882819641598153": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6579,5 +6579,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T18:52:25+00:00"
+  "updated_at": "2026-10-29T19:06:22+00:00"
 }
