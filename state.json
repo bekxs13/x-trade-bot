@@ -972,7 +972,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115947804170617056",
+      "last_id": "2115952993741033904",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -992,12 +992,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-28T21:23:44.000Z",
-          "id": "2115555137494376957",
-          "reply_to_id": "2115554822212501988",
-          "text": "@verybadadvice0 this is a generational discovery for me"
-        },
         {
           "created_at": "2026-10-29T05:45:39.000Z",
           "id": "2115681447856030045",
@@ -1132,6 +1126,11 @@
             "https://pbs.twimg.com/amplify_video_thumb/2115947617075273728/img/sISGZKzTZUihmlUe.jpg"
           ],
           "text": "i think we're entering one of the most uncertain periods for markets because of AI\n\nthe technology is advancing so quickly that it's almost impossible to predict what the next 12 to 18 months will look like\n\nwe could see major breakthroughs, significant disruption to existing businesses, or risks that nobody has fully considered yet\n\nthat's part of why i'm cautious on equities right now. investors have made substantial gains, and this level of uncertainty gives them plenty of reasons to reduce exposure\n\nmarkets hate uncertainty, and i'm more focused on understanding how that uncertainty translates into price action"
+        },
+        {
+          "created_at": "2026-10-29T23:44:40.000Z",
+          "id": "2115952993741033904",
+          "text": "bad day"
         }
       ],
       "reads": {
@@ -1153,7 +1152,8 @@
         "2115931791446220896": "No call: bullish on HYPE (same view as before)",
         "2115938158437146768": "No call",
         "2115944683398648228": "No call",
-        "2115947804170617056": "VIEW bearish on stocks/macro"
+        "2115947804170617056": "VIEW bearish on stocks/macro",
+        "2115952993741033904": "No call"
       },
       "replies": [
         {
@@ -1251,10 +1251,6 @@
         }
       ],
       "threads": {
-        "2111218532104929684": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111395326280307036": {
           "alerted": [],
           "self_replies": 0
@@ -1675,6 +1671,10 @@
             "bias:stocks/macro:bearish"
           ],
           "self_replies": 0
+        },
+        "2115952993741033904": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1684,7 +1684,6 @@
         "2115526406772064683": false,
         "2115531705004044552": false,
         "2115554745867985051": false,
-        "2115555137494376957": false,
         "2115566057725272566": true,
         "2115681447856030045": true,
         "2115747410026651680": true,
@@ -1712,7 +1711,8 @@
         "2115931791446220896": true,
         "2115938158437146768": true,
         "2115944683398648228": true,
-        "2115947804170617056": true
+        "2115947804170617056": true,
+        "2115952993741033904": false
       },
       "user_id": "973261472"
     },
@@ -6628,5 +6628,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T23:26:19+00:00"
+  "updated_at": "2026-10-29T23:46:23+00:00"
 }
