@@ -4221,7 +4221,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115779640715272383",
+      "last_id": "2115780588141453519",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4257,17 +4257,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-27T16:47:58.000Z",
-          "id": "2115123348984201401",
-          "text": "where THE FUCK is ed zitron"
-        },
-        {
-          "created_at": "2026-10-27T16:50:23.000Z",
-          "id": "2115123957862945177",
-          "reply_to_id": "2115123348984201401",
-          "text": "no posts after the s-1 is actually ridiculous"
-        },
         {
           "created_at": "2026-10-27T17:37:11.000Z",
           "id": "2115135735267229897",
@@ -4363,11 +4352,21 @@
           "id": "2115779640715272383",
           "quoted_text": "I am excited to be an investor in trade(xyz) as they partner with ICE to bring 24/7 perpetual futures on Hyperliquid to the United States.   As a market participant, I am looking forward to to using their innovative product to enhance my investment process.",
           "text": "first ever post? wow https://t.co/DMSbZBQS89"
+        },
+        {
+          "created_at": "2026-10-29T12:18:17.000Z",
+          "id": "2115780257005416638",
+          "reply_to_id": "2115779640715272383",
+          "text": "icl this is a wild post"
+        },
+        {
+          "created_at": "2026-10-29T12:19:36.000Z",
+          "id": "2115780588141453519",
+          "reply_to_id": "2115780257005416638",
+          "text": "stanley druckenmiller tweeting hyperliquid as his first post gotta be about as close to a free long as they come"
         }
       ],
       "reads": {
-        "2115123348984201401": "No call",
-        "2115123957862945177": "No call",
         "2115135735267229897": "No call",
         "2115223935482728836": "No call",
         "2115250371262050587": "No call",
@@ -4385,7 +4384,8 @@
         "2115773193545712105": "No call: bullish on btc (60%, too unsure)",
         "2115773634673615293": "No call",
         "2115776370915909727": "No call",
-        "2115779640715272383": "No call"
+        "2115779640715272383": "No call",
+        "2115780257005416638": "No call"
       },
       "replies": [
         {
@@ -4876,12 +4876,10 @@
         },
         "2115779640715272383": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2115123348984201401": false,
-        "2115123957862945177": true,
         "2115135735267229897": false,
         "2115223935482728836": false,
         "2115250371262050587": false,
@@ -4914,7 +4912,9 @@
         "2115774128502538675": true,
         "2115774994978369586": true,
         "2115776370915909727": false,
-        "2115779640715272383": true
+        "2115779640715272383": true,
+        "2115780257005416638": false,
+        "2115780588141453519": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6526,5 +6526,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T12:16:25+00:00"
+  "updated_at": "2026-10-29T12:20:21+00:00"
 }
