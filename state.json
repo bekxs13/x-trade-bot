@@ -934,12 +934,12 @@
         },
         "vvv": {
           "market": "crypto",
-          "post_id": "2112585897531334903",
-          "reason": "\"if you aren't paying attention to venice ai, you should be\" plus 400% API growth fueling a $10.4M/yr burn for the VVV contract address is a clear bullish pitch.",
+          "post_id": "2115791236544049498",
+          "reason": "Highlights 100x product usage growth and $1M+ monthly VVV burn chart, matching recorded bullish VVV view.",
           "scope": "VVV",
           "since": "2026-10-20",
           "stance": "bullish",
-          "updated_at": "2026-10-20T16:45:02.000Z"
+          "updated_at": "2026-10-29T13:01:54.000Z"
         }
       },
       "closed": [
@@ -960,7 +960,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115783789506875527",
+      "last_id": "2115791236544049498",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -980,11 +980,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-27T15:00:33.000Z",
-          "id": "2115096316468449709",
-          "text": "bro said nut cakes"
-        },
         {
           "created_at": "2026-10-27T17:10:16.000Z",
           "id": "2115128961131036993",
@@ -1116,10 +1111,18 @@
           "created_at": "2026-10-29T12:29:02.000Z",
           "id": "2115782962931204501",
           "text": "damn eli lilly is ripping"
+        },
+        {
+          "created_at": "2026-10-29T13:01:54.000Z",
+          "id": "2115791236544049498",
+          "images": [
+            "https://pbs.twimg.com/media/HVzLwGaXIAA_BVB.jpg"
+          ],
+          "quoted_text": "Venice is now processing over 1 trillion tokens per day! https://t.co/oFuPiHt9lS",
+          "text": "100x growth in product usage since jan\n\n$1M+ of $VVV burnt this month https://t.co/89yLSrxJ3b https://t.co/etteVtam2v"
         }
       ],
       "reads": {
-        "2115096316468449709": "No call",
         "2115128961131036993": "No call",
         "2115136401364979876": "No call",
         "2115162891217473604": "No call",
@@ -1136,7 +1139,8 @@
         "2115747410026651680": "No call",
         "2115748514840052029": "No call",
         "2115752920779989271": "No call: maybe short ETH (65%, too unsure); bearish on crypto market (65%, too unsure)",
-        "2115782962931204501": "No call"
+        "2115782962931204501": "No call",
+        "2115791236544049498": "No call: bullish on VVV (same view as before)"
       },
       "replies": [
         {
@@ -1234,10 +1238,6 @@
         }
       ],
       "threads": {
-        "2110327073961119900": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110764707640689050": {
           "alerted": [],
           "self_replies": 0
@@ -1654,10 +1654,13 @@
         "2115782962931204501": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115791236544049498": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115096316468449709": false,
         "2115128961131036993": true,
         "2115136401364979876": true,
         "2115162891217473604": false,
@@ -1691,7 +1694,8 @@
         "2115752920779989271": true,
         "2115778419354914823": false,
         "2115782962931204501": true,
-        "2115783789506875527": false
+        "2115783789506875527": false,
+        "2115791236544049498": true
       },
       "user_id": "973261472"
     },
@@ -6544,5 +6548,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T12:54:18+00:00"
+  "updated_at": "2026-10-29T13:02:22+00:00"
 }
