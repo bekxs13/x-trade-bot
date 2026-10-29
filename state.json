@@ -963,7 +963,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115931791446220896",
+      "last_id": "2115938158437146768",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -983,11 +983,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-28T20:46:51.000Z",
-          "id": "2115545854475981153",
-          "text": "is google down -10% after hours bro"
-        },
         {
           "created_at": "2026-10-28T20:57:43.000Z",
           "id": "2115548592060674218",
@@ -1116,10 +1111,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2115931618062045184/img/ClmctWKqxl7lOq53.jpg"
           ],
           "text": "the partnership between ICE, the parent company of the NYSE, and tradexyz is a pretty significant development for Hyperliquid\n\ni've always thought perpetual futures were one of the best financial products to come out of crypto, and i expect them to become much more widely used in traditional markets\n\nHyperliquid has a real opportunity to become part of the infrastructure that powers trading across different asset classes\n\nthere's also a bigger stablecoin angle here. As more assets and trading volume move onchain, demand for dollar-denominated liquidity could grow significantly\n\ni'm increasingly optimistic about the long-term convergence of crypto infrastructure and traditional finance"
+        },
+        {
+          "created_at": "2026-10-29T22:45:43.000Z",
+          "id": "2115938158437146768",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2115908589827276800/img/XpbCpMkLqHF3eFFg.jpg"
+          ],
+          "text": "I had a bad feeling about today but damn \ud83d\ude02 https://t.co/OrifZoifxT"
         }
       ],
       "reads": {
-        "2115545854475981153": "No call",
         "2115548592060674218": "No call",
         "2115681447856030045": "No call: bearish on crypto market (60%, too unsure)",
         "2115747410026651680": "No call",
@@ -1136,7 +1138,8 @@
         "2115911844166852992": "No call",
         "2115913121185529917": "VIEW bearish on crypto market",
         "2115918213376831604": "No call: bullish on HYPE (65%, too unsure)",
-        "2115931791446220896": "No call: bullish on HYPE (same view as before)"
+        "2115931791446220896": "No call: bullish on HYPE (same view as before)",
+        "2115938158437146768": "No call"
       },
       "replies": [
         {
@@ -1234,10 +1237,6 @@
         }
       ],
       "threads": {
-        "2111117359091957993": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111175987350417649": {
           "alerted": [],
           "self_replies": 0
@@ -1656,6 +1655,10 @@
         "2115931791446220896": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115938158437146768": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1664,7 +1667,6 @@
         "2115525408284115195": true,
         "2115526406772064683": false,
         "2115531705004044552": false,
-        "2115545854475981153": true,
         "2115548592060674218": true,
         "2115554745867985051": false,
         "2115554822212501988": false,
@@ -1693,7 +1695,8 @@
         "2115911844166852992": false,
         "2115913121185529917": true,
         "2115918213376831604": true,
-        "2115931791446220896": true
+        "2115931791446220896": true,
+        "2115938158437146768": true
       },
       "user_id": "973261472"
     },
@@ -6609,5 +6612,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T22:38:19+00:00"
+  "updated_at": "2026-10-29T22:46:30+00:00"
 }
