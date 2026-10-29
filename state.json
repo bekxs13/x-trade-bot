@@ -960,7 +960,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115778419354914823",
+      "last_id": "2115782962931204501",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -980,14 +980,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-27T13:17:47.000Z",
-          "id": "2115070454327296481",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2115070192623779841/img/Wzb9M_sHILLJpTcP.jpg"
-          ],
-          "text": "Market Bubble ep.24: my full conversation with @EliBenSasson - CEO of StarkWare\n\na post-quantum L1, the quantum threat, Zcash, the future of digital money and why Satoshi would have loved ZK\n\n0:00 - Starkware, ZK and Starknet as an L1\n3:36 - The quantum threat and Starknet's ark\n7:12 - Zcash and the future of digital gold\n12:16 - Supervega, Bitcoin and agent payments\n16:10 - Post-quantum security, STARKs and Satoshi"
-        },
         {
           "created_at": "2026-10-27T15:00:33.000Z",
           "id": "2115096316468449709",
@@ -1119,10 +1111,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2115747534136041472/img/xScWjjfuWMJehslu.jpg"
           ],
           "text": "market thoughts, trading breakouts & breakdowns, candlesticks as fractals\n\n0:00 - market bleeding and the $ETH short\n3:20 - FOMC nothing burger\n4:19 - all candles are fractals\n11:36 - Monday's high/low range playbook\n16:14 - trading breakdowns and drilling down for entries\n\noctober 29th, 2026"
+        },
+        {
+          "created_at": "2026-10-29T12:29:02.000Z",
+          "id": "2115782962931204501",
+          "text": "damn eli lilly is ripping"
         }
       ],
       "reads": {
-        "2115070454327296481": "No call",
         "2115096316468449709": "No call",
         "2115128961131036993": "No call",
         "2115136401364979876": "No call",
@@ -1139,7 +1135,8 @@
         "2115681447856030045": "No call: bearish on crypto market (60%, too unsure)",
         "2115747410026651680": "No call",
         "2115748514840052029": "No call",
-        "2115752920779989271": "No call: maybe short ETH (65%, too unsure); bearish on crypto market (65%, too unsure)"
+        "2115752920779989271": "No call: maybe short ETH (65%, too unsure); bearish on crypto market (65%, too unsure)",
+        "2115782962931204501": "No call"
       },
       "replies": [
         {
@@ -1234,10 +1231,6 @@
         }
       ],
       "threads": {
-        "2110326122655404263": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110327073961119900": {
           "alerted": [],
           "self_replies": 0
@@ -1654,10 +1647,13 @@
         "2115752920779989271": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115782962931204501": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115070454327296481": true,
         "2115096316468449709": false,
         "2115128961131036993": true,
         "2115136401364979876": true,
@@ -1691,7 +1687,8 @@
         "2115747410026651680": true,
         "2115748514840052029": true,
         "2115752920779989271": true,
-        "2115778419354914823": false
+        "2115778419354914823": false,
+        "2115782962931204501": true
       },
       "user_id": "973261472"
     },
@@ -4221,7 +4218,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115782645250503156",
+      "last_id": "2115782897076769195",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4388,12 +4385,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T20:45:21.000Z",
-          "id": "2115545476405874919",
-          "reply_to_id": "2115538836931371461",
-          "text": "@goodalexander @_1x0x0x1x1 total death"
-        },
-        {
           "created_at": "2026-10-28T20:46:00.000Z",
           "id": "2115545639710867870",
           "reply_to_id": "2115536322437726373",
@@ -4479,6 +4470,12 @@
           "id": "2115782645250503156",
           "reply_to_id": "2115782452547559507",
           "text": "@sershokunin shoku mode"
+        },
+        {
+          "created_at": "2026-10-29T12:28:46.000Z",
+          "id": "2115782897076769195",
+          "reply_to_id": "2115777839622689036",
+          "text": "@standuquesne @pangram ai?"
         }
       ],
       "threads": {
@@ -4889,7 +4886,6 @@
         "2115513597447086132": false,
         "2115514887132848432": false,
         "2115517817160417719": true,
-        "2115545476405874919": false,
         "2115545639710867870": true,
         "2115545957828010206": true,
         "2115546956844155111": false,
@@ -4913,7 +4909,8 @@
         "2115780588141453519": true,
         "2115781421931405618": true,
         "2115781587518607769": false,
-        "2115782645250503156": false
+        "2115782645250503156": false,
+        "2115782897076769195": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6525,5 +6522,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T12:28:22+00:00"
+  "updated_at": "2026-10-29T12:30:24+00:00"
 }
