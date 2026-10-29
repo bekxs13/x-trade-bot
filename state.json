@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2115627975916011551",
+      "last_id": "2115670337992155179",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,11 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-26T02:59:45.000Z",
-          "id": "2114552533163311386",
-          "text": "All she want is Japanese skincare"
-        },
         {
           "created_at": "2026-10-27T04:09:42.000Z",
           "id": "2114932525705646443",
@@ -257,10 +252,17 @@
             "https://pbs.twimg.com/media/HVvgqSKbUAA_z_p.jpg"
           ],
           "text": "https://t.co/UX07qPQ2Yy"
+        },
+        {
+          "created_at": "2026-10-29T05:01:30.000Z",
+          "id": "2115670337992155179",
+          "images": [
+            "https://pbs.twimg.com/media/HVxe5ambAAA-uq1.jpg"
+          ],
+          "text": "My  friend got iPhone   duo https://t.co/jLr9OnLkwx"
         }
       ],
       "reads": {
-        "2114552533163311386": "No call",
         "2114932525705646443": "No call",
         "2114940232256868497": "No call",
         "2114967310498992380": "No call: bearish on semis/ai stocks (60%, too unsure)",
@@ -278,7 +280,8 @@
         "2115497371807412663": "No call",
         "2115504250197578215": "No call",
         "2115507251884839104": "No call",
-        "2115531471092154614": "No call"
+        "2115531471092154614": "No call",
+        "2115670337992155179": "No call"
       },
       "replies": [
         {
@@ -379,10 +382,6 @@
         }
       ],
       "threads": {
-        "2111162402892869745": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111175510852305037": {
           "alerted": [],
           "self_replies": 0
@@ -786,10 +785,13 @@
         "2115531471092154614": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115670337992155179": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2114552533163311386": false,
         "2114558763705454653": true,
         "2114560792133779467": false,
         "2114566251058286847": false,
@@ -823,7 +825,8 @@
         "2115531471092154614": false,
         "2115532388805816747": false,
         "2115533041611505703": false,
-        "2115627975916011551": false
+        "2115627975916011551": false,
+        "2115670337992155179": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6505,5 +6508,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-28",
-  "updated_at": "2026-10-29T04:22:19+00:00"
+  "updated_at": "2026-10-29T05:02:25+00:00"
 }
