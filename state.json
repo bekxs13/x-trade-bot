@@ -963,7 +963,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115938158437146768",
+      "last_id": "2115944683398648228",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -983,12 +983,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-28T20:57:43.000Z",
-          "id": "2115548592060674218",
-          "quoted_text": "Introducing: your plans for Thursday afternoon.\n\nCome find out about everything we\u2019re building at Coinbase.\n\nWe'll be live for our Q3 earnings AMA, tomorrow at 5PM ET.\n\nGuests include @blknoiz06, @jonbma, @LorenzoARK and Andrew Jeffrey. https://t.co/JzJeTtmnSX",
-          "text": "tune in i have good questions \ud83d\ude01 https://t.co/1g5Ud1EWzk"
-        },
         {
           "created_at": "2026-10-28T21:22:29.000Z",
           "id": "2115554822212501988",
@@ -1119,10 +1113,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2115908589827276800/img/XpbCpMkLqHF3eFFg.jpg"
           ],
           "text": "I had a bad feeling about today but damn \ud83d\ude02 https://t.co/OrifZoifxT"
+        },
+        {
+          "created_at": "2026-10-29T23:11:39.000Z",
+          "id": "2115944683398648228",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2115944462740504576/img/cPwOhzY9RK2CRy1M.jpg"
+          ],
+          "text": "my trading style has changed a lot over the years\n\ni used to spend much more time watching charts and reacting to every move. these days, i'm a lot more selective with my setups\n\ni still pay close attention to lower timeframes when i expect major liquidations or a significant market turning point, but outside of those moments, i'm comfortable moving slower\n\ntrading is something you can keep improving at for decades, and part of that process is learning when your attention actually matters\n\nmore hours staring at charts doesn't necessarily mean better trades"
         }
       ],
       "reads": {
-        "2115548592060674218": "No call",
         "2115681447856030045": "No call: bearish on crypto market (60%, too unsure)",
         "2115747410026651680": "No call",
         "2115748514840052029": "No call",
@@ -1139,7 +1140,8 @@
         "2115913121185529917": "VIEW bearish on crypto market",
         "2115918213376831604": "No call: bullish on HYPE (65%, too unsure)",
         "2115931791446220896": "No call: bullish on HYPE (same view as before)",
-        "2115938158437146768": "No call"
+        "2115938158437146768": "No call",
+        "2115944683398648228": "No call"
       },
       "replies": [
         {
@@ -1237,10 +1239,6 @@
         }
       ],
       "threads": {
-        "2111175987350417649": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111217534485877165": {
           "alerted": [],
           "self_replies": 0
@@ -1659,6 +1657,10 @@
         "2115938158437146768": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115944683398648228": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1667,7 +1669,6 @@
         "2115525408284115195": true,
         "2115526406772064683": false,
         "2115531705004044552": false,
-        "2115548592060674218": true,
         "2115554745867985051": false,
         "2115554822212501988": false,
         "2115555137494376957": false,
@@ -1696,7 +1697,8 @@
         "2115913121185529917": true,
         "2115918213376831604": true,
         "2115931791446220896": true,
-        "2115938158437146768": true
+        "2115938158437146768": true,
+        "2115944683398648228": true
       },
       "user_id": "973261472"
     },
@@ -6612,5 +6614,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T22:46:30+00:00"
+  "updated_at": "2026-10-29T23:12:23+00:00"
 }
