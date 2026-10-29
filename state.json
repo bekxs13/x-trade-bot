@@ -2118,15 +2118,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115954290866966567",
+      "last_id": "2115954676289917102",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-28T13:33:17.000Z",
-          "id": "2115436745248715181",
-          "reply_to_id": "2115436629166784742",
-          "text": "and it still has one full intraday of voltime left"
-        },
         {
           "created_at": "2026-10-28T17:27:18.000Z",
           "id": "2115495637269557447",
@@ -2246,10 +2240,14 @@
           "id": "2115953967297650762",
           "quoted_text": "U.S. ENVOY TOM BARRACK SAYS WASHINGTON IS \u201cVERY CLOSE\u201d TO AN AGREEMENT AIMED AT REDUCING TENSIONS WITH IRAN, CITING MEDIATION BY QATAR, PAKISTAN, SAUDI ARABIA AND TURKEY",
           "text": "EMERGENCY MARKET PUMP\n\nPLS DONALD END THIS MADNESS https://t.co/tcgZOODke8"
+        },
+        {
+          "created_at": "2026-10-29T23:51:22.000Z",
+          "id": "2115954676289917102",
+          "text": "guy who's fudding so his new soon to be opened fund can buy everything at a low cost basis early next year"
         }
       ],
       "reads": {
-        "2115436745248715181": "Read together with the post it replies to",
         "2115495637269557447": "No call",
         "2115535426589241612": "No call",
         "2115575054545072216": "No call: bullish on memory stocks (same view as before)",
@@ -2266,7 +2264,8 @@
         "2115913424668622937": "No call",
         "2115919286568927693": "No call",
         "2115930736679366933": "No call",
-        "2115953967297650762": "No call"
+        "2115953967297650762": "No call",
+        "2115954676289917102": "No call"
       },
       "replies": [
         {
@@ -2590,10 +2589,13 @@
         "2115953967297650762": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115954676289917102": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115436745248715181": true,
         "2115495637269557447": false,
         "2115535426589241612": false,
         "2115575054545072216": true,
@@ -2627,7 +2629,8 @@
         "2115920904966312047": false,
         "2115930736679366933": false,
         "2115953967297650762": true,
-        "2115954290866966567": true
+        "2115954290866966567": true,
+        "2115954676289917102": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6632,5 +6635,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T23:50:26+00:00"
+  "updated_at": "2026-10-29T23:52:24+00:00"
 }
