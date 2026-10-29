@@ -963,7 +963,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115901795755020627",
+      "last_id": "2115904745818996865",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -983,15 +983,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-28T17:27:17.000Z",
-          "id": "2115495632341541021",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2115495415261097984/img/IIMSPliS149uVXNF.jpg"
-          ],
-          "quoted_text": "Q4 market thoughts \n\noctober 28th, 2026 https://t.co/RraVaagyzc",
-          "text": "price action is still the most important part of my trading process\n\ni use fundamentals to understand the broader thesis, but i rely on TA to decide when to enter and exit positions\n\nmarkets are forward-looking, and price often starts moving before the reasons become obvious to everyone else\n\ni'd rather pay attention to how an asset is actually trading than wait for the news or fundamentals to confirm what the market has already priced in"
-        },
         {
           "created_at": "2026-10-28T18:44:45.000Z",
           "id": "2115515126027891199",
@@ -1117,10 +1108,14 @@
           "created_at": "2026-10-29T20:21:14.000Z",
           "id": "2115901795755020627",
           "text": "dude"
+        },
+        {
+          "created_at": "2026-10-29T20:32:57.000Z",
+          "id": "2115904745818996865",
+          "text": "DRUNKENMILLER MODE w/ @banks /@Tradermayne @insentos - Presented by @Polymarket https://t.co/nfrP922ErC"
         }
       ],
       "reads": {
-        "2115495632341541021": "No call",
         "2115515126027891199": "No call",
         "2115520419990319110": "No call",
         "2115520533785948401": "No call",
@@ -1137,7 +1132,8 @@
         "2115848675692068975": "No call: neutral on crypto market (65%, too unsure)",
         "2115898797322826115": "No call",
         "2115901699260923906": "No call",
-        "2115901795755020627": "No call"
+        "2115901795755020627": "No call",
+        "2115904745818996865": "No call"
       },
       "replies": [
         {
@@ -1235,10 +1231,6 @@
         }
       ],
       "threads": {
-        "2110810603417944213": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111062131437433031": {
           "alerted": [],
           "self_replies": 0
@@ -1655,10 +1647,13 @@
         "2115901795755020627": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115904745818996865": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115495632341541021": true,
         "2115515126027891199": true,
         "2115520419990319110": true,
         "2115520533785948401": true,
@@ -1692,7 +1687,8 @@
         "2115863963493892574": true,
         "2115898797322826115": true,
         "2115901699260923906": true,
-        "2115901795755020627": false
+        "2115901795755020627": false,
+        "2115904745818996865": true
       },
       "user_id": "973261472"
     },
@@ -6597,5 +6593,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T20:32:20+00:00"
+  "updated_at": "2026-10-29T20:34:19+00:00"
 }
