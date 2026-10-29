@@ -963,7 +963,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115913121185529917",
+      "last_id": "2115918213376831604",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -983,12 +983,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-28T19:06:14.000Z",
-          "id": "2115520533785948401",
-          "quoted_text": "Q4 market thoughts \n\noctober 28th, 2026 https://t.co/RraVaagyzc",
-          "text": "did any of you actually watch this should i keep doing these or no https://t.co/mxZ2gHTVSx"
-        },
         {
           "created_at": "2026-10-28T19:18:42.000Z",
           "id": "2115523673675448685",
@@ -1112,10 +1106,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2115912743538814976/img/1AteJoVWuwALMenB.jpg"
           ],
           "text": "i'm getting more cautious on risk assets as the momentum in equities starts to weaken\n\nstocks have had an incredible run since late 2022, with AI leading much of the upside, but we're starting to see signs of slowing momentum and pressure on some of the largest companies\n\nif equities enter a broader correction, i expect crypto to face significant selling pressure as investors reduce risk across their portfolios\n\nthere's an argument that Bitcoin could hold up better as an inflation hedge, but historically, investors have still sold BTC during periods of broader market stress\n\ni think the direction of equities is one of the most important things to watch for crypto rn"
+        },
+        {
+          "created_at": "2026-10-29T21:26:28.000Z",
+          "id": "2115918213376831604",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2115918118132563968/img/XDGrL6KFD1dOW9q_.jpg"
+          ],
+          "text": "i think some of the biggest opportunities around Hyperliquid over the next few years could come from the applications built on top of it\n\nequity perps are particularly interesting to me. Hyperliquid is heavily focused on infrastructure, which leaves room for teams to build better mobile trading experiences and gamified front ends\n\ni'm also watching Kinetiq and its upcoming Elysium L2\n\nHyperEVM has struggled to attract significant activity, and a faster execution environment could create new opportunities for developers and applications across the ecosystem\n\ni expect the next phase of competition around Hyperliquid to be increasingly focused on the user experience"
         }
       ],
       "reads": {
-        "2115520533785948401": "No call",
         "2115523673675448685": "No call",
         "2115545854475981153": "No call",
         "2115548592060674218": "No call",
@@ -1132,7 +1133,8 @@
         "2115901795755020627": "No call",
         "2115904745818996865": "No call",
         "2115911844166852992": "No call",
-        "2115913121185529917": "VIEW bearish on crypto market"
+        "2115913121185529917": "VIEW bearish on crypto market",
+        "2115918213376831604": "No call: bullish on HYPE (65%, too unsure)"
       },
       "replies": [
         {
@@ -1230,10 +1232,6 @@
         }
       ],
       "threads": {
-        "2111105247699665407": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111117340779937937": {
           "alerted": [],
           "self_replies": 0
@@ -1652,10 +1650,13 @@
             "bias:crypto market:bearish"
           ],
           "self_replies": 0
+        },
+        "2115918213376831604": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115520533785948401": true,
         "2115523673675448685": false,
         "2115525114003329175": false,
         "2115525255598875109": false,
@@ -1689,7 +1690,8 @@
         "2115901795755020627": false,
         "2115904745818996865": true,
         "2115911844166852992": false,
-        "2115913121185529917": true
+        "2115913121185529917": true,
+        "2115918213376831604": true
       },
       "user_id": "973261472"
     },
@@ -4995,7 +4997,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2115849476346925078",
+      "last_id": "2115918451411935743",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -5187,12 +5189,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-13T13:21:01.000Z",
-          "id": "2109997839602590072",
-          "reply_to_id": "2109996473333252395",
-          "text": "@drews888 @SoskaKyle @ThinkingUSD no worries man"
-        },
-        {
           "created_at": "2026-10-13T21:59:48.000Z",
           "id": "2110128395728064978",
           "reply_to_id": "2110122277044117704",
@@ -5275,6 +5271,12 @@
           "id": "2115849476346925078",
           "reply_to_id": "2115847361276858528",
           "text": "@CatOfLongTails @ebfull thanks for explaining it to me!"
+        },
+        {
+          "created_at": "2026-10-29T21:27:25.000Z",
+          "id": "2115918451411935743",
+          "reply_to_id": "2115917939530469388",
+          "text": "@5morewhooppers LGW"
         }
       ],
       "threads": {
@@ -5382,7 +5384,6 @@
         "2108529897144828181": true,
         "2108530042913579048": false,
         "2109995821613961284": true,
-        "2109997839602590072": false,
         "2109997859798208879": false,
         "2110068793187934366": true,
         "2110071384026038470": true,
@@ -5406,7 +5407,8 @@
         "2113654755654242575": false,
         "2115093260792418574": false,
         "2115829811130020148": true,
-        "2115849476346925078": false
+        "2115849476346925078": false,
+        "2115918451411935743": false
       },
       "user_id": "1064421325186359296"
     },
@@ -6597,5 +6599,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T21:14:22+00:00"
+  "updated_at": "2026-10-29T21:28:27+00:00"
 }
