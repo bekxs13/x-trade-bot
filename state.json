@@ -2101,7 +2101,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115801938390368513",
+      "last_id": "2115824528492511370",
       "positions": {},
       "posts": [
         {
@@ -2255,12 +2255,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-29T00:12:26.000Z",
-          "id": "2115597593178714143",
-          "reply_to_id": "2115597391059689975",
-          "text": "@goodalexander how would that be insider trading?"
-        },
-        {
           "created_at": "2026-10-29T00:15:03.000Z",
           "id": "2115598249973416399",
           "reply_to_id": "2115596368857506060",
@@ -2343,6 +2337,12 @@
           "id": "2115801938390368513",
           "reply_to_id": "2115798429805035712",
           "text": "@Evan_ss6 that's right"
+        },
+        {
+          "created_at": "2026-10-29T15:14:12.000Z",
+          "id": "2115824528492511370",
+          "reply_to_id": "2115821114920480795",
+          "text": "@dumbbitchcap that's right keep courtesy liking that lib garbage"
         }
       ],
       "threads": {
@@ -2560,7 +2560,6 @@
         "2115582998779224070": false,
         "2115583676021149720": false,
         "2115592646643097624": false,
-        "2115597593178714143": true,
         "2115598249973416399": false,
         "2115602948231446715": true,
         "2115604556583518359": false,
@@ -2576,7 +2575,8 @@
         "2115630098309095723": false,
         "2115784991275667799": false,
         "2115793379531346176": false,
-        "2115801938390368513": false
+        "2115801938390368513": false,
+        "2115824528492511370": false
       },
       "user_id": "1598545553327067137"
     },
@@ -4219,12 +4219,12 @@
         },
         "hype": {
           "market": "crypto",
-          "post_id": "2115783754816061916",
-          "reason": "Earlier called Druckenmiller tweeting Hyperliquid 'as close to a free long as they come', and now mocks funds that don't hold it.",
+          "post_id": "2115824151042883677",
+          "reason": "Earlier posts say Druckenmiller's first tweet was about Hyperliquid and call it 'as close to a free long as they come'. This quote repeats that bullish HYPE view, which is already recorded as bullish today.",
           "scope": "HYPE",
           "since": "2026-10-29",
           "stance": "bullish",
-          "updated_at": "2026-10-29T12:32:11.000Z"
+          "updated_at": "2026-10-29T15:12:42.000Z"
         },
         "stocks/macro": {
           "market": "stocks",
@@ -4238,7 +4238,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115807782964183450",
+      "last_id": "2115824239076929755",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4274,12 +4274,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-28T16:03:20.000Z",
-          "id": "2115474504767910026",
-          "quoted_text": "*COGNITION MULLS NEW FUNDING ROUND AT $70B-80B VALUATION:INSIDER\n\nWho are they and why are they worth 2x Chipotle https://t.co/tIShArzEOh",
-          "text": "cheeky pint valuation just like tripled https://t.co/bI8ItMhSsj"
-        },
         {
           "created_at": "2026-10-28T17:54:24.000Z",
           "id": "2115502455136133622",
@@ -4383,10 +4377,15 @@
           "id": "2115807782964183450",
           "quoted_text": "MARKET OPEN: Hyperliquid  ICE SAVED CRYPTO, Google KILLED the AI Trade... NOW WHAT? https://t.co/JW160qDZuf",
           "text": "live with @goodalexander https://t.co/vJi9xTuQQQ"
+        },
+        {
+          "created_at": "2026-10-29T15:12:42.000Z",
+          "id": "2115824151042883677",
+          "quoted_text": "you run a fund and don\u2019t hold the only asset stanley druckenmiller has ever tweeted about?",
+          "text": "are you smarter than stanley druckenmiller and elon musk? https://t.co/okcY5xX7t0"
         }
       ],
       "reads": {
-        "2115474504767910026": "No call",
         "2115502455136133622": "No call",
         "2115513223684276230": "No call",
         "2115513597447086132": "No call",
@@ -4402,15 +4401,10 @@
         "2115783754816061916": "VIEW bullish on HYPE",
         "2115784233335607732": "Read together with the post it replies to",
         "2115786216239247399": "No call",
-        "2115807782964183450": "No call"
+        "2115807782964183450": "No call",
+        "2115824151042883677": "No call: bullish on HYPE (same view as before)"
       },
       "replies": [
-        {
-          "created_at": "2026-10-28T20:47:15.000Z",
-          "id": "2115545957828010206",
-          "reply_to_id": "2115545854475981153",
-          "text": "@blknoiz06 can\u2019t hold anything except cash and oh that\u2019s getting inflated like 100% an hour"
-        },
         {
           "created_at": "2026-10-28T20:51:14.000Z",
           "id": "2115546956844155111",
@@ -4497,13 +4491,15 @@
           "id": "2115789172233392228",
           "reply_to_id": "1988795859820237111",
           "text": "@404flipped update?"
+        },
+        {
+          "created_at": "2026-10-29T15:13:03.000Z",
+          "id": "2115824239076929755",
+          "reply_to_id": "2115823752307208580",
+          "text": "@sershokunin @elonmusk hi elon you should check this out!"
         }
       ],
       "threads": {
-        "2108153135499751747": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108176640652226900": {
           "alerted": [],
           "self_replies": 0
@@ -4908,16 +4904,18 @@
         "2115807782964183450": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115824151042883677": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115474504767910026": true,
         "2115502455136133622": true,
         "2115513223684276230": true,
         "2115513597447086132": false,
         "2115514887132848432": false,
         "2115517817160417719": true,
-        "2115545957828010206": true,
         "2115546956844155111": false,
         "2115549735687991602": true,
         "2115550281845133646": true,
@@ -4945,7 +4943,9 @@
         "2115784233335607732": false,
         "2115786216239247399": true,
         "2115789172233392228": false,
-        "2115807782964183450": true
+        "2115807782964183450": true,
+        "2115824151042883677": true,
+        "2115824239076929755": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6557,5 +6557,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T15:10:19+00:00"
+  "updated_at": "2026-10-29T15:14:31+00:00"
 }
