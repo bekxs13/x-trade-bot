@@ -4325,7 +4325,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2116253818208023006",
+      "last_id": "2116259889974525991",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4361,12 +4361,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T14:07:39.000Z",
-          "id": "2115807782964183450",
-          "quoted_text": "MARKET OPEN: Hyperliquid  ICE SAVED CRYPTO, Google KILLED the AI Trade... NOW WHAT? https://t.co/JW160qDZuf",
-          "text": "live with @goodalexander https://t.co/vJi9xTuQQQ"
-        },
         {
           "created_at": "2026-10-29T15:12:42.000Z",
           "id": "2115824151042883677",
@@ -4471,10 +4465,15 @@
           "created_at": "2026-10-30T16:50:54.000Z",
           "id": "2116211254184620337",
           "text": "the soxl chart is genuinely horrifying"
+        },
+        {
+          "created_at": "2026-10-30T20:04:10.000Z",
+          "id": "2116259889974525991",
+          "quoted_text": "TRUMP: LOOKING AT BINANCE HACK: BBG",
+          "text": "please stop https://t.co/fJhODGZCK1"
         }
       ],
       "reads": {
-        "2115807782964183450": "No call",
         "2115824151042883677": "No call: bullish on HYPE (same view as before)",
         "2115858374218928131": "No call",
         "2115861507884110173": "No call",
@@ -4492,7 +4491,8 @@
         "2116138477729542270": "No call",
         "2116141965276307489": "No call",
         "2116149081211048039": "No call",
-        "2116211254184620337": "No call"
+        "2116211254184620337": "No call",
+        "2116259889974525991": "No call"
       },
       "replies": [
         {
@@ -4587,10 +4587,6 @@
         }
       ],
       "threads": {
-        "2109728676539769027": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2109765724897997154": {
           "alerted": [],
           "self_replies": 0
@@ -4995,10 +4991,13 @@
         "2116211254184620337": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116259889974525991": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115807782964183450": true,
         "2115824151042883677": true,
         "2115858374218928131": true,
         "2115861507884110173": true,
@@ -5032,7 +5031,8 @@
         "2116209624391303429": false,
         "2116211254184620337": true,
         "2116230102040342784": false,
-        "2116253818208023006": false
+        "2116253818208023006": false,
+        "2116259889974525991": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6687,5 +6687,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T19:50:24+00:00"
+  "updated_at": "2026-10-30T20:06:58+00:00"
 }
