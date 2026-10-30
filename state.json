@@ -4294,7 +4294,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2115955400180719737",
+      "last_id": "2116127249162489957",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4330,12 +4330,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T12:02:50.000Z",
-          "id": "2115776370915909727",
-          "reply_to_id": "2115773193545712105",
-          "text": "you have been cursed good luck"
-        },
         {
           "created_at": "2026-10-29T12:15:50.000Z",
           "id": "2115779640715272383",
@@ -4443,10 +4437,14 @@
           ],
           "quoted_text": "Yesterday everyone was laughing at @notthreadguy 's MRE rations.\n\nNobody is laughing anymore",
           "text": "hmu serious offers only https://t.co/C2wX9394v3 https://t.co/bKI3t8rLs8"
+        },
+        {
+          "created_at": "2026-10-30T11:17:06.000Z",
+          "id": "2116127249162489957",
+          "text": "on a scale of how bad it was to how bad it could have been the binance hack is like a three"
         }
       ],
       "reads": {
-        "2115776370915909727": "No call",
         "2115779640715272383": "No call",
         "2115780257005416638": "No call",
         "2115783754816061916": "VIEW bullish on HYPE",
@@ -4462,15 +4460,10 @@
         "2115915036678140377": "No call",
         "2115928685907689568": "No call",
         "2115934711101137273": "No call",
-        "2115955400180719737": "No call"
+        "2115955400180719737": "No call",
+        "2116127249162489957": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-29T17:32:19.000Z",
-          "id": "2115859287939670422",
-          "reply_to_id": "2115850866355757450",
-          "text": "@stogolp side-lined or not im rich as fuck and makes no difference to me"
-        },
         {
           "created_at": "2026-10-29T17:32:44.000Z",
           "id": "2115859392813728138",
@@ -4554,13 +4547,15 @@
           "id": "2115945365773979807",
           "reply_to_id": "2115938087083855955",
           "text": "@mk4_lul go back to bed"
+        },
+        {
+          "created_at": "2026-10-30T11:16:27.000Z",
+          "id": "2116127083147461033",
+          "reply_to_id": "2115964720163250355",
+          "text": "@zqinfo brutal"
         }
       ],
       "threads": {
-        "2108516937643049365": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108527971648602479": {
           "alerted": [],
           "self_replies": 1
@@ -4965,10 +4960,13 @@
         "2115955400180719737": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116127249162489957": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115776370915909727": false,
         "2115779640715272383": true,
         "2115780257005416638": false,
         "2115780588141453519": true,
@@ -4980,7 +4978,6 @@
         "2115807782964183450": true,
         "2115824151042883677": true,
         "2115858374218928131": true,
-        "2115859287939670422": false,
         "2115859392813728138": false,
         "2115861507884110173": true,
         "2115871437500317739": true,
@@ -5002,7 +4999,9 @@
         "2115934711101137273": true,
         "2115936087604334828": false,
         "2115945365773979807": false,
-        "2115955400180719737": false
+        "2115955400180719737": false,
+        "2116127083147461033": false,
+        "2116127249162489957": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6641,5 +6640,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-30T10:34:18+00:00"
+  "updated_at": "2026-10-30T11:18:26+00:00"
 }
