@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2116233910392918375",
+      "last_id": "2116234322436927998",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -292,12 +292,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T17:34:46.000Z",
-          "id": "2115497514866757875",
-          "reply_to_id": "2115497427730137279",
-          "text": "@arangotrades No"
-        },
-        {
           "created_at": "2026-10-28T17:57:22.000Z",
           "id": "2115503202401722784",
           "reply_to_id": "2115501843354665056",
@@ -383,6 +377,12 @@
           "id": "2116152649716249019",
           "reply_to_id": "2116152426545979484",
           "text": "@plur_daddy @blknoiz06 I\u2019ve been thinking it should go lower for 12mo but, now finally feels more possible but, every time it dodges"
+        },
+        {
+          "created_at": "2026-10-30T18:22:34.000Z",
+          "id": "2116234322436927998",
+          "reply_to_id": "2116234218468520372",
+          "text": "@foobiusV https://t.co/ilkHR6gjGe"
         }
       ],
       "threads": {
@@ -797,7 +797,6 @@
       },
       "trading": {
         "2115497371807412663": false,
-        "2115497514866757875": false,
         "2115503202401722784": false,
         "2115504250197578215": false,
         "2115507251884839104": true,
@@ -830,7 +829,8 @@
         "2116152649716249019": true,
         "2116217175962776030": false,
         "2116218895573143641": true,
-        "2116233910392918375": true
+        "2116233910392918375": true,
+        "2116234322436927998": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6683,5 +6683,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T18:22:23+00:00"
+  "updated_at": "2026-10-30T18:24:23+00:00"
 }
