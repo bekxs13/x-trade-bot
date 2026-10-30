@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2116151250907488283",
+      "last_id": "2116152649716249019",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -289,12 +289,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-27T22:07:01.000Z",
-          "id": "2115203642433380559",
-          "reply_to_id": "2115202005400728026",
-          "text": "@goodalexander Convenience Fee"
-        },
-        {
           "created_at": "2026-10-28T17:34:46.000Z",
           "id": "2115497514866757875",
           "reply_to_id": "2115497427730137279",
@@ -380,6 +374,12 @@
           "id": "2116151250907488283",
           "reply_to_id": "2116150452341334257",
           "text": "@blknoiz06 Spy still in range tbf"
+        },
+        {
+          "created_at": "2026-10-30T12:58:02.000Z",
+          "id": "2116152649716249019",
+          "reply_to_id": "2116152426545979484",
+          "text": "@plur_daddy @blknoiz06 I\u2019ve been thinking it should go lower for 12mo but, now finally feels more possible but, every time it dodges"
         }
       ],
       "threads": {
@@ -796,7 +796,6 @@
         "2115198137531011289": false,
         "2115199246366601722": false,
         "2115199324724359362": false,
-        "2115203642433380559": false,
         "2115497371807412663": false,
         "2115497514866757875": false,
         "2115503202401722784": false,
@@ -827,7 +826,8 @@
         "2116050244727394321": false,
         "2116050798241300837": false,
         "2116134540716515584": false,
-        "2116151250907488283": true
+        "2116151250907488283": true,
+        "2116152649716249019": true
       },
       "user_id": "1446541960181858315"
     },
@@ -6675,5 +6675,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T12:54:29+00:00"
+  "updated_at": "2026-10-30T12:58:18+00:00"
 }
