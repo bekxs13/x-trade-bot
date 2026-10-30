@@ -970,7 +970,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116140994328735752",
+      "last_id": "2116144577459409263",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1170,15 +1170,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-29T12:32:19.000Z",
-          "id": "2115783789506875527",
-          "images": [
-            "https://pbs.twimg.com/media/HVzGJBHWoAAhDhI.png"
-          ],
-          "reply_to_id": "2115574449710026785",
-          "text": "@CryptoHayes https://t.co/7c0S0jS4YP"
-        },
-        {
           "created_at": "2026-10-29T15:29:58.000Z",
           "id": "2115828494840349016",
           "reply_to_id": "2115823011399938182",
@@ -1261,6 +1252,12 @@
           "id": "2116140994328735752",
           "reply_to_id": "2116139210726167007",
           "text": "@ryandcrypto have you seen the market brother"
+        },
+        {
+          "created_at": "2026-10-30T12:25:57.000Z",
+          "id": "2116144577459409263",
+          "reply_to_id": "2115884644625527135",
+          "text": "@_imagyn energy back soon bro promise"
         }
       ],
       "threads": {
@@ -1693,7 +1690,6 @@
         }
       },
       "trading": {
-        "2115783789506875527": false,
         "2115828494840349016": false,
         "2115842296067576243": false,
         "2115844905683583159": false,
@@ -1727,7 +1723,8 @@
         "2116132741452537894": false,
         "2116133761154982084": true,
         "2116134237971915020": true,
-        "2116140994328735752": true
+        "2116140994328735752": true,
+        "2116144577459409263": false
       },
       "user_id": "973261472"
     },
@@ -6679,5 +6676,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T12:22:23+00:00"
+  "updated_at": "2026-10-30T12:26:21+00:00"
 }
