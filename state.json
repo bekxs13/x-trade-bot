@@ -2113,15 +2113,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115992592097984806",
+      "last_id": "2115992837963792571",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-28T23:13:12.000Z",
-          "id": "2115582687427609059",
-          "quoted_text": "Bubbleboi has been arrested. https://t.co/DlxxWYU7uN",
-          "text": "wait is this a shitpost? i've heard rumors about him abusing parm for months now but this is news to me https://t.co/EFoNiBdIEM"
-        },
         {
           "created_at": "2026-10-28T23:14:27.000Z",
           "id": "2115582998779224070",
@@ -2234,10 +2228,15 @@
           "id": "2115992592097984806",
           "quoted_text": "OH MY FUCKING GOD ITS NOT A JOKE https://t.co/X8DVufMrfA https://t.co/hG31jgbvxR",
           "text": "imagine being br***sh and losing all your crypto money and not even being able to view your hd bbw jeans face sitting porn that you already paid for https://t.co/BOR591uX3i"
+        },
+        {
+          "created_at": "2026-10-30T02:23:00.000Z",
+          "id": "2115992837963792571",
+          "reply_to_id": "2115992592097984806",
+          "text": "can't even end your own life there without a license"
         }
       ],
       "reads": {
-        "2115582687427609059": "No call",
         "2115582998779224070": "No call",
         "2115592646643097624": "No call",
         "2115602948231446715": "No call",
@@ -2254,7 +2253,8 @@
         "2115954676289917102": "No call",
         "2115962255317860705": "No call",
         "2115980760347758721": "No call",
-        "2115992592097984806": "No call"
+        "2115992592097984806": "No call",
+        "2115992837963792571": "No call"
       },
       "replies": [
         {
@@ -2593,11 +2593,10 @@
         },
         "2115992592097984806": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2115582687427609059": false,
         "2115582998779224070": false,
         "2115583676021149720": false,
         "2115592646643097624": false,
@@ -2631,7 +2630,8 @@
         "2115986310284345545": false,
         "2115986709435314505": false,
         "2115991827597672886": true,
-        "2115992592097984806": false
+        "2115992592097984806": false,
+        "2115992837963792571": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6640,5 +6640,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-30T02:22:24+00:00"
+  "updated_at": "2026-10-30T02:24:23+00:00"
 }
