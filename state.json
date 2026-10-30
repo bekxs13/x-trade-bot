@@ -968,8 +968,24 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116131005329191107",
+      "last_id": "2116132561843896668",
       "positions": {
+        "ETH": {
+          "asset": "ETH",
+          "chain": "",
+          "confidence": 0.75,
+          "contract_address": "",
+          "direction": "short",
+          "entry": "",
+          "horizon": "",
+          "market": "crypto",
+          "open_price": 2241.53,
+          "post_id": "2116132561843896668",
+          "reason": "The video title says 'update on $ETH short', so he holds an ETH short that isn't on record yet. It fits his de-risk post with ETH around 2220 and his re-evaluation level at 2400.",
+          "since": "2026-10-30T11:38:13.000Z",
+          "structure": "unknown",
+          "url": "https://x.com/blknoiz06/status/2116132561843896668"
+        },
         "GRASS": {
           "asset": "GRASS",
           "chain": "solana",
@@ -988,11 +1004,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T16:22:34.000Z",
-          "id": "2115841735045623975",
-          "text": "greatest investor of all time\ngreatest businessman of all time\nlargest exchange in the world\n\nall emphatically bullposting hyperliquid on the same day\n\nthe future is bright for crypto"
-        },
         {
           "created_at": "2026-10-29T16:50:09.000Z",
           "id": "2115848675692068975",
@@ -1124,10 +1135,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2116017311891263488/img/dFwkjZfIExrHWIe9.jpg"
           ],
           "text": "some of the hardest trades to execute are the ones you planned weeks in advance\n\nit's easy to look at a chart and identify levels where you'd want to buy, but when price actually gets there after days of selling, your conviction gets tested\n\nthat's why i like setting alerts and marking important levels before the market reaches them\n\n$ZEC around $750 is one area i'm watching. it's a significant historical level, although getting there would likely require a much deeper market correction\n\ndoing the work beforehand helps me stay prepared when volatility picks up"
+        },
+        {
+          "created_at": "2026-10-30T11:38:13.000Z",
+          "id": "2116132561843896668",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2116130820444266496/img/RhQNy2e0mB52z0rf.jpg"
+          ],
+          "text": "hyperliquid x ICE news, update on $ETH short, thoughts on equities earnings carnage\n\noctober 30th, 2026 https://t.co/cJXSc0j89C"
         }
       ],
       "reads": {
-        "2115841735045623975": "No call: bullish on HYPE (same view as before)",
         "2115848675692068975": "No call: neutral on crypto market (65%, too unsure)",
         "2115898797322826115": "No call",
         "2115901699260923906": "No call",
@@ -1146,7 +1164,8 @@
         "2115976433302409694": "No call: bearish on crypto market (same view as before)",
         "2116012108693610757": "No call",
         "2116036122308415825": "No call",
-        "2116070096443429308": "No call"
+        "2116070096443429308": "No call",
+        "2116132561843896668": "TRADE SHORT ETH"
       },
       "replies": [
         {
@@ -1244,10 +1263,6 @@
         }
       ],
       "threads": {
-        "2111723083107065935": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111733530757570629": {
           "alerted": [],
           "self_replies": 0
@@ -1668,6 +1683,12 @@
         "2116070096443429308": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116132561843896668": {
+          "alerted": [
+            "trade:ETH:short"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1676,7 +1697,6 @@
         "2115778419354914823": false,
         "2115783789506875527": false,
         "2115828494840349016": false,
-        "2115841735045623975": true,
         "2115842296067576243": false,
         "2115844905683583159": false,
         "2115845085988573372": true,
@@ -1705,7 +1725,8 @@
         "2116012108693610757": true,
         "2116036122308415825": true,
         "2116070096443429308": true,
-        "2116131005329191107": false
+        "2116131005329191107": false,
+        "2116132561843896668": true
       },
       "user_id": "973261472"
     },
@@ -4294,7 +4315,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2116130831127523690",
+      "last_id": "2116132127742074961",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4330,12 +4351,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T12:18:17.000Z",
-          "id": "2115780257005416638",
-          "reply_to_id": "2115779640715272383",
-          "text": "icl this is a wild post"
-        },
         {
           "created_at": "2026-10-29T12:19:36.000Z",
           "id": "2115780588141453519",
@@ -4441,10 +4456,15 @@
           "created_at": "2026-10-30T11:28:57.000Z",
           "id": "2116130232549998912",
           "text": "flood......."
+        },
+        {
+          "created_at": "2026-10-30T11:36:29.000Z",
+          "id": "2116132127742074961",
+          "reply_to_id": "2116127249162489957",
+          "text": "this actually sucked the soul out of me pause"
         }
       ],
       "reads": {
-        "2115780257005416638": "No call",
         "2115783754816061916": "VIEW bullish on HYPE",
         "2115784233335607732": "Read together with the post it replies to",
         "2115786216239247399": "No call",
@@ -4460,7 +4480,8 @@
         "2115934711101137273": "No call",
         "2115955400180719737": "No call",
         "2116127249162489957": "No call",
-        "2116130232549998912": "No call"
+        "2116130232549998912": "No call",
+        "2116132127742074961": "No call"
       },
       "replies": [
         {
@@ -4958,7 +4979,7 @@
         },
         "2116127249162489957": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2116130232549998912": {
           "alerted": [],
@@ -4966,7 +4987,6 @@
         }
       },
       "trading": {
-        "2115780257005416638": false,
         "2115780588141453519": true,
         "2115781421931405618": true,
         "2115781587518607769": false,
@@ -5000,7 +5020,8 @@
         "2116127083147461033": false,
         "2116127249162489957": true,
         "2116130232549998912": false,
-        "2116130831127523690": false
+        "2116130831127523690": false,
+        "2116132127742074961": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6655,5 +6676,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-30T11:32:21+00:00"
+  "updated_at": "2026-10-30T11:38:37+00:00"
 }
