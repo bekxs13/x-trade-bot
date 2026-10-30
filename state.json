@@ -865,12 +865,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2115913121185529917",
-          "reason": "Says he's 'getting more cautious on risk assets' and expects crypto to 'face significant selling pressure' if equities correct, a flip from his recorded bullish crypto market view.",
+          "post_id": "2115956651371139456",
+          "reason": "He agrees ('not great') with a quote saying this hack selloff is different and not worth buying, listing many macro risks. That fits his posts the same day about getting cautious on risk assets and matches his recorded bearish crypto market view.",
           "scope": "crypto market",
           "since": "2026-10-29",
           "stance": "bearish",
-          "updated_at": "2026-10-29T21:06:14.000Z"
+          "updated_at": "2026-10-29T23:59:12.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -972,7 +972,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115952993741033904",
+      "last_id": "2115956651371139456",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -992,14 +992,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T05:45:39.000Z",
-          "id": "2115681447856030045",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2115678971639861248/img/cNBC2iLSC85TsvNd.jpg"
-          ],
-          "text": "Market Bubble ep.24: my full conversation\n\nbearish market, Pumpfun, papertrade, tokenized equities, portfolio strategy and the future of crypto social\n\n0:00 - Coinbase trading comp and bearish outlook\n6:56 - Paper Trade supply and Pumpfun\n16:10 - CT culture, tokenization and Zcash\n25:52 - Onchain finance and the 70/30 strategy\n32:17 - Equity valuations and crypto social"
-        },
         {
           "created_at": "2026-10-29T10:07:45.000Z",
           "id": "2115747410026651680",
@@ -1131,10 +1123,15 @@
           "created_at": "2026-10-29T23:44:40.000Z",
           "id": "2115952993741033904",
           "text": "bad day"
+        },
+        {
+          "created_at": "2026-10-29T23:59:12.000Z",
+          "id": "2115956651371139456",
+          "quoted_text": "i think in these situations you almost always buy the hack selloff but this one seems different \n\npotential war resumption, earnings puke/ai trade popped, oil looking insane, gold still weak as shit, midterms, security/hack fears, etc it's endless &amp; not an isolated event",
+          "text": "not great https://t.co/htCyC4MSOb"
         }
       ],
       "reads": {
-        "2115681447856030045": "No call: bearish on crypto market (60%, too unsure)",
         "2115747410026651680": "No call",
         "2115748514840052029": "No call",
         "2115752920779989271": "No call: maybe short ETH (65%, too unsure); bearish on crypto market (65%, too unsure)",
@@ -1153,7 +1150,8 @@
         "2115938158437146768": "No call",
         "2115944683398648228": "No call",
         "2115947804170617056": "VIEW bearish on stocks/macro",
-        "2115952993741033904": "No call"
+        "2115952993741033904": "No call",
+        "2115956651371139456": "No call: bearish on crypto market (same view as before)"
       },
       "replies": [
         {
@@ -1251,10 +1249,6 @@
         }
       ],
       "threads": {
-        "2111395326280307036": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111498991141826773": {
           "alerted": [],
           "self_replies": 0
@@ -1675,6 +1669,10 @@
         "2115952993741033904": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115956651371139456": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1685,7 +1683,6 @@
         "2115531705004044552": false,
         "2115554745867985051": false,
         "2115566057725272566": true,
-        "2115681447856030045": true,
         "2115747410026651680": true,
         "2115748514840052029": true,
         "2115752920779989271": true,
@@ -1712,7 +1709,8 @@
         "2115938158437146768": true,
         "2115944683398648228": true,
         "2115947804170617056": true,
-        "2115952993741033904": false
+        "2115952993741033904": false,
+        "2115956651371139456": true
       },
       "user_id": "973261472"
     },
@@ -6639,5 +6637,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-29T23:56:20+00:00"
+  "updated_at": "2026-10-30T00:00:37+00:00"
 }
