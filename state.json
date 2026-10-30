@@ -2136,14 +2136,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2116288026305556791",
+      "last_id": "2116288080684720638",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-29T20:09:32.000Z",
-          "id": "2115898853237178469",
-          "text": "well i guess i understand why bubbleboi was such a angry person now"
-        },
         {
           "created_at": "2026-10-29T20:18:07.000Z",
           "id": "2115901010296426643",
@@ -2255,10 +2250,15 @@
           "created_at": "2026-10-30T21:55:01.000Z",
           "id": "2116287785753554948",
           "text": "bitcoin is for risk averse pussies real degenerates go long blue chip american tech companies"
+        },
+        {
+          "created_at": "2026-10-30T21:56:11.000Z",
+          "id": "2116288080684720638",
+          "reply_to_id": "2116288026305556791",
+          "text": "@Mike_Hunt_Sr I'm sorry for everything"
         }
       ],
       "reads": {
-        "2115898853237178469": "No call",
         "2115901010296426643": "No call",
         "2115901361728479470": "No call",
         "2115903745007747572": "No call: bullish on memory stocks (same view as before)",
@@ -2639,7 +2639,6 @@
         }
       },
       "trading": {
-        "2115898853237178469": false,
         "2115901010296426643": true,
         "2115901361728479470": false,
         "2115903745007747572": true,
@@ -2673,7 +2672,8 @@
         "2116178527112307100": false,
         "2116261536964755964": false,
         "2116287785753554948": true,
-        "2116288026305556791": false
+        "2116288026305556791": false,
+        "2116288080684720638": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6697,5 +6697,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T21:56:29+00:00"
+  "updated_at": "2026-10-30T21:58:20+00:00"
 }
