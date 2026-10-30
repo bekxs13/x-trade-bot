@@ -968,7 +968,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116012108693610757",
+      "last_id": "2116036122308415825",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -988,11 +988,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T12:29:02.000Z",
-          "id": "2115782962931204501",
-          "text": "damn eli lilly is ripping"
-        },
         {
           "created_at": "2026-10-29T13:01:54.000Z",
           "id": "2115791236544049498",
@@ -1122,10 +1117,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2116011795215486976/img/c_VR2m0VTvQDtA5R.jpg"
           ],
           "text": "had a pretty interesting conversation with @brian_armstrong during the Coinbase earnings call\n\none thing that stood out was how much effort Coinbase put into improving the regulatory environment after FTX, while continuing to build out its consumer products\n\ni think Coinbase is in an interesting position as traditional finance and crypto converge, especially with its combination of trading products, custody, institutional services and onchain infrastructure through Base"
+        },
+        {
+          "created_at": "2026-10-30T05:15:00.000Z",
+          "id": "2116036122308415825",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2116014597056692224/img/MmADt_d4TjlmkdYq.jpg"
+          ],
+          "text": "when i'm trading lower timeframes, i pay a lot of attention to how far price moves in a short period\n\na 2-3% drop in 15 minutes often creates conditions for a temporary bounce or consolidation as traders take profits and forced selling gets absorbed\n\neven when the broader trend is bearish, price rarely moves in a straight line\n\ni use these periods of consolidation to identify better entries around the top of the range, while watching levels like Monday's low and the previous day's low for confirmation\n\nunderstanding how price reacts after a sharp move is just as important as identifying the direction of the trend"
         }
       ],
       "reads": {
-        "2115782962931204501": "No call",
         "2115791236544049498": "No call: bullish on VVV (same view as before)",
         "2115841735045623975": "No call: bullish on HYPE (same view as before)",
         "2115848675692068975": "No call: neutral on crypto market (65%, too unsure)",
@@ -1144,7 +1146,8 @@
         "2115956651371139456": "No call: bearish on crypto market (same view as before)",
         "2115972574668857526": "No call",
         "2115976433302409694": "No call: bearish on crypto market (same view as before)",
-        "2116012108693610757": "No call"
+        "2116012108693610757": "No call",
+        "2116036122308415825": "No call"
       },
       "replies": [
         {
@@ -1242,10 +1245,6 @@
         }
       ],
       "threads": {
-        "2111703260654424065": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111720867671502982": {
           "alerted": [],
           "self_replies": 0
@@ -1666,6 +1665,10 @@
         "2116012108693610757": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116036122308415825": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1673,7 +1676,6 @@
         "2115554745867985051": false,
         "2115566057725272566": true,
         "2115778419354914823": false,
-        "2115782962931204501": true,
         "2115783789506875527": false,
         "2115791236544049498": true,
         "2115828494840349016": false,
@@ -1703,7 +1705,8 @@
         "2115977167171731779": true,
         "2115981737209876588": false,
         "2115981890859696408": true,
-        "2116012108693610757": true
+        "2116012108693610757": true,
+        "2116036122308415825": true
       },
       "user_id": "973261472"
     },
@@ -6639,5 +6642,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-30T05:02:17+00:00"
+  "updated_at": "2026-10-30T05:16:25+00:00"
 }
