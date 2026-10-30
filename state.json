@@ -968,7 +968,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116036122308415825",
+      "last_id": "2116070096443429308",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -988,15 +988,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T13:01:54.000Z",
-          "id": "2115791236544049498",
-          "images": [
-            "https://pbs.twimg.com/media/HVzLwGaXIAA_BVB.jpg"
-          ],
-          "quoted_text": "Venice is now processing over 1 trillion tokens per day! https://t.co/oFuPiHt9lS",
-          "text": "100x growth in product usage since jan\n\n$1M+ of $VVV burnt this month https://t.co/89yLSrxJ3b https://t.co/etteVtam2v"
-        },
         {
           "created_at": "2026-10-29T16:22:34.000Z",
           "id": "2115841735045623975",
@@ -1125,10 +1116,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2116014597056692224/img/MmADt_d4TjlmkdYq.jpg"
           ],
           "text": "when i'm trading lower timeframes, i pay a lot of attention to how far price moves in a short period\n\na 2-3% drop in 15 minutes often creates conditions for a temporary bounce or consolidation as traders take profits and forced selling gets absorbed\n\neven when the broader trend is bearish, price rarely moves in a straight line\n\ni use these periods of consolidation to identify better entries around the top of the range, while watching levels like Monday's low and the previous day's low for confirmation\n\nunderstanding how price reacts after a sharp move is just as important as identifying the direction of the trend"
+        },
+        {
+          "created_at": "2026-10-30T07:30:00.000Z",
+          "id": "2116070096443429308",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2116017311891263488/img/dFwkjZfIExrHWIe9.jpg"
+          ],
+          "text": "some of the hardest trades to execute are the ones you planned weeks in advance\n\nit's easy to look at a chart and identify levels where you'd want to buy, but when price actually gets there after days of selling, your conviction gets tested\n\nthat's why i like setting alerts and marking important levels before the market reaches them\n\n$ZEC around $750 is one area i'm watching. it's a significant historical level, although getting there would likely require a much deeper market correction\n\ndoing the work beforehand helps me stay prepared when volatility picks up"
         }
       ],
       "reads": {
-        "2115791236544049498": "No call: bullish on VVV (same view as before)",
         "2115841735045623975": "No call: bullish on HYPE (same view as before)",
         "2115848675692068975": "No call: neutral on crypto market (65%, too unsure)",
         "2115898797322826115": "No call",
@@ -1147,7 +1145,8 @@
         "2115972574668857526": "No call",
         "2115976433302409694": "No call: bearish on crypto market (same view as before)",
         "2116012108693610757": "No call",
-        "2116036122308415825": "No call"
+        "2116036122308415825": "No call",
+        "2116070096443429308": "No call"
       },
       "replies": [
         {
@@ -1245,10 +1244,6 @@
         }
       ],
       "threads": {
-        "2111720867671502982": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111723083107065935": {
           "alerted": [],
           "self_replies": 0
@@ -1669,6 +1664,10 @@
         "2116036122308415825": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116070096443429308": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1677,7 +1676,6 @@
         "2115566057725272566": true,
         "2115778419354914823": false,
         "2115783789506875527": false,
-        "2115791236544049498": true,
         "2115828494840349016": false,
         "2115841735045623975": true,
         "2115842296067576243": false,
@@ -1706,7 +1704,8 @@
         "2115981737209876588": false,
         "2115981890859696408": true,
         "2116012108693610757": true,
-        "2116036122308415825": true
+        "2116036122308415825": true,
+        "2116070096443429308": true
       },
       "user_id": "973261472"
     },
@@ -6642,5 +6641,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-30T07:16:18+00:00"
+  "updated_at": "2026-10-30T07:30:25+00:00"
 }
