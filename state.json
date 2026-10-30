@@ -972,7 +972,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115977167171731779",
+      "last_id": "2115981890859696408",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1152,18 +1152,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T19:25:36.000Z",
-          "id": "2115525408284115195",
-          "reply_to_id": "2115233642909765693",
-          "text": "@Secret_Agent069 @digital_kimchii what is larping about losing money on an idea i post on the internet? i dont understand"
-        },
-        {
-          "created_at": "2026-10-28T19:29:34.000Z",
-          "id": "2115526406772064683",
-          "reply_to_id": "2115525768830964092",
-          "text": "@basedtroy ima start doing em where i give away like $1,000 midway through the video at a random point but you have to reply to a specific tweet or something to get it so only the people watching it get something"
-        },
-        {
           "created_at": "2026-10-28T19:50:37.000Z",
           "id": "2115531705004044552",
           "reply_to_id": "2115502988181569951",
@@ -1243,6 +1231,18 @@
           "id": "2115977167171731779",
           "reply_to_id": "2115976867391950858",
           "text": "@rbthreek own it and think it is rare good setup as plausible L2 with good comps to existing useless tokens + attention is all on hype atm and solves serious problem w lack of hyperevm scalability"
+        },
+        {
+          "created_at": "2026-10-30T01:38:53.000Z",
+          "id": "2115981737209876588",
+          "reply_to_id": "2115977349724569707",
+          "text": "@rbthreek @Enter_Elysium yes"
+        },
+        {
+          "created_at": "2026-10-30T01:39:30.000Z",
+          "id": "2115981890859696408",
+          "reply_to_id": "2115976817458688278",
+          "text": "@CryptoK1ng_ -5% is not a liquidation event"
         }
       ],
       "threads": {
@@ -1673,8 +1673,6 @@
         }
       },
       "trading": {
-        "2115525408284115195": true,
-        "2115526406772064683": false,
         "2115531705004044552": false,
         "2115554745867985051": false,
         "2115566057725272566": true,
@@ -1707,7 +1705,9 @@
         "2115972574668857526": false,
         "2115976433302409694": true,
         "2115976828854632484": false,
-        "2115977167171731779": true
+        "2115977167171731779": true,
+        "2115981737209876588": false,
+        "2115981890859696408": true
       },
       "user_id": "973261472"
     },
@@ -6639,5 +6639,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-30T01:40:21+00:00"
+  "updated_at": "2026-10-30T01:42:19+00:00"
 }
