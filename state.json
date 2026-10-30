@@ -972,7 +972,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115976433302409694",
+      "last_id": "2115976828854632484",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -1152,12 +1152,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T19:24:26.000Z",
-          "id": "2115525114003329175",
-          "reply_to_id": "2115524051770945986",
-          "text": "@gmaneplays i just ripped it i didnt even rewatch before posting lol"
-        },
-        {
           "created_at": "2026-10-28T19:25:00.000Z",
           "id": "2115525255598875109",
           "reply_to_id": "2115437079027167444",
@@ -1243,6 +1237,12 @@
           "id": "2115863963493892574",
           "reply_to_id": "2115859599702315511",
           "text": "@fundstrat if you bought hype instead of eth you'd be the greatest of all time"
+        },
+        {
+          "created_at": "2026-10-30T01:19:23.000Z",
+          "id": "2115976828854632484",
+          "reply_to_id": "2115972065530437998",
+          "text": "@Credib1eGuy man"
         }
       ],
       "threads": {
@@ -1673,7 +1673,6 @@
         }
       },
       "trading": {
-        "2115525114003329175": false,
         "2115525255598875109": false,
         "2115525408284115195": true,
         "2115526406772064683": false,
@@ -1707,7 +1706,8 @@
         "2115952993741033904": false,
         "2115956651371139456": true,
         "2115972574668857526": false,
-        "2115976433302409694": true
+        "2115976433302409694": true,
+        "2115976828854632484": false
       },
       "user_id": "973261472"
     },
@@ -6637,5 +6637,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-30T01:18:22+00:00"
+  "updated_at": "2026-10-30T01:20:20+00:00"
 }
