@@ -970,7 +970,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116144577459409263",
+      "last_id": "2116150452341334257",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1006,15 +1006,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T20:09:19.000Z",
-          "id": "2115898797322826115",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2115898673083359232/img/ZZgsJEcisNRgHuq8.jpg"
-          ],
-          "quoted_text": "market thoughts, trading breakouts & breakdowns, candlesticks as fractals\n\n0:00 - market bleeding and the $ETH short\n3:20 - FOMC nothing burger\n4:19 - all candles are fractals\n11:36 - Monday's high/low range playbook\n16:14 - trading breakdowns and drilling down for entries\n\noctober 29th, 2026",
-          "text": "monday's high and low are two of the most useful levels in my weekly trading playbook\n\nwhen i'm expecting a bearish week, i watch for opportunities around resistance above the weekly open, but a break below Monday's low is often the confirmation i'm looking for\n\nonce price breaks a key level after consolidating around it, the move can accelerate quickly\n\nthat's why i focus on getting positioned around important levels with clear invalidation rather than chasing price after the move"
-        },
         {
           "created_at": "2026-10-29T20:20:51.000Z",
           "id": "2115901699260923906",
@@ -1144,10 +1135,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2116130820444266496/img/RhQNy2e0mB52z0rf.jpg"
           ],
           "text": "0:00 - Hyperliquid x ICE news\n4:09 - $HYPE chart and levels\n7:04 - Kinetiq L2 &amp; coins to buy\n10:51 - Update on the $ETH short\n24:14 - Equities earnings carnage\n28:02 - Macro outlook and what to hold\n\noctober 30th, 2026 https://t.co/Yr0LpGl1GQ"
+        },
+        {
+          "created_at": "2026-10-30T12:49:18.000Z",
+          "id": "2116150452341334257",
+          "text": "equities getting absolutely ransacked premarket"
         }
       ],
       "reads": {
-        "2115898797322826115": "No call",
         "2115901699260923906": "No call",
         "2115901795755020627": "No call",
         "2115904745818996865": "No call",
@@ -1166,7 +1161,8 @@
         "2116036122308415825": "No call",
         "2116070096443429308": "No call",
         "2116132561843896668": "TRADE SHORT ETH",
-        "2116134237971915020": "No call"
+        "2116134237971915020": "No call",
+        "2116150452341334257": "No call"
       },
       "replies": [
         {
@@ -1261,10 +1257,6 @@
         }
       ],
       "threads": {
-        "2111779407807574066": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111898945169297708": {
           "alerted": [],
           "self_replies": 0
@@ -1687,6 +1679,10 @@
         "2116134237971915020": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116150452341334257": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1696,7 +1692,6 @@
         "2115845085988573372": true,
         "2115849089736966360": false,
         "2115863963493892574": true,
-        "2115898797322826115": true,
         "2115901699260923906": true,
         "2115901795755020627": false,
         "2115904745818996865": true,
@@ -1724,7 +1719,8 @@
         "2116133761154982084": true,
         "2116134237971915020": true,
         "2116140994328735752": true,
-        "2116144577459409263": false
+        "2116144577459409263": false,
+        "2116150452341334257": true
       },
       "user_id": "973261472"
     },
@@ -6675,5 +6671,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T12:44:23+00:00"
+  "updated_at": "2026-10-30T12:50:25+00:00"
 }
