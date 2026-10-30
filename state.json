@@ -973,7 +973,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116227468348604475",
+      "last_id": "2116251607323365843",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1009,14 +1009,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T23:11:39.000Z",
-          "id": "2115944683398648228",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2115944462740504576/img/cPwOhzY9RK2CRy1M.jpg"
-          ],
-          "text": "my trading style has changed a lot over the years\n\ni used to spend much more time watching charts and reacting to every move. these days, i'm a lot more selective with my setups\n\ni still pay close attention to lower timeframes when i expect major liquidations or a significant market turning point, but outside of those moments, i'm comfortable moving slower\n\ntrading is something you can keep improving at for decades, and part of that process is learning when your attention actually matters\n\nmore hours staring at charts doesn't necessarily mean better trades"
-        },
         {
           "created_at": "2026-10-29T23:24:03.000Z",
           "id": "2115947804170617056",
@@ -1146,10 +1138,17 @@
           ],
           "quoted_text": "@blknoiz06 good one\n\nthoughts on gold, btc/gold and btc/nasdaq",
           "text": "https://t.co/b2UOuQXSaw https://t.co/CtWQaWZ9DA"
+        },
+        {
+          "created_at": "2026-10-30T19:31:15.000Z",
+          "id": "2116251607323365843",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2116250826662662144/img/ZQsCehKc2MrV6Btr.jpg"
+          ],
+          "text": "Market Bubble ep.25: the full conversation between @Banks, @Tradermayne, and me\n\non the Binance hack, Hyperliquid's institutional interest, Bitcoin downside risk, trading strategies and Polymarket's 15-minute candles\n\n0:00 - Binance hack and Bitcoin panic\n5:01 - Hyperliquid, HYPE, and the trenches\n34:05 - Bitcoin downside and market outlook\n1:01:55 - Weekly demand and short setups\n1:13:32 - Polymarket candles and the two-timeframe rule"
         }
       ],
       "reads": {
-        "2115944683398648228": "No call",
         "2115947804170617056": "VIEW bearish on stocks/macro",
         "2115952993741033904": "No call",
         "2115956651371139456": "No call: bearish on crypto market (same view as before)",
@@ -1168,7 +1167,8 @@
         "2116201298102042686": "No call",
         "2116207443977871791": "No call",
         "2116215486287642907": "No call",
-        "2116220650058846455": "No call"
+        "2116220650058846455": "No call",
+        "2116251607323365843": "No call"
       },
       "replies": [
         {
@@ -1267,10 +1267,6 @@
         }
       ],
       "threads": {
-        "2112271565538955334": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112531080255529061": {
           "alerted": [],
           "self_replies": 0
@@ -1686,10 +1682,13 @@
         "2116220650058846455": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116251607323365843": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115944683398648228": true,
         "2115947804170617056": true,
         "2115952993741033904": false,
         "2115956651371139456": true,
@@ -1723,7 +1722,8 @@
         "2116215486287642907": true,
         "2116220650058846455": true,
         "2116224577336651805": true,
-        "2116227468348604475": false
+        "2116227468348604475": false,
+        "2116251607323365843": true
       },
       "user_id": "973261472"
     },
@@ -6683,5 +6683,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T19:26:20+00:00"
+  "updated_at": "2026-10-30T19:32:25+00:00"
 }
