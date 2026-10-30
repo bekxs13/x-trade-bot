@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2116007878784086034",
+      "last_id": "2116017286054346784",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,11 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-27T21:29:30.000Z",
-          "id": "2115194201709428763",
-          "text": "https://t.co/6p9z2mCi1v"
-        },
         {
           "created_at": "2026-10-27T21:34:45.000Z",
           "id": "2115195522944549306",
@@ -261,10 +256,14 @@
           "id": "2116003842194350148",
           "reply_to_id": "2113326089485373519",
           "text": "Ok ppl freaking out but not hitting the exits like I would\u2019ve thought tbh"
+        },
+        {
+          "created_at": "2026-10-30T04:00:09.000Z",
+          "id": "2116017286054346784",
+          "text": "Is my hoodie distressed enough? Guy just asked if I was DoorDash in the hotel lobby"
         }
       ],
       "reads": {
-        "2115194201709428763": "No call",
         "2115195522944549306": "No call",
         "2115197542522864124": "No call",
         "2115197660810670197": "Read together with the post it replies to",
@@ -283,7 +282,8 @@
         "2115913859278033343": "No call",
         "2115998124070293583": "No call",
         "2116002826568810782": "No call: bearish on semis/ai stocks (60%, too unsure)",
-        "2116003842194350148": "No call"
+        "2116003842194350148": "No call",
+        "2116017286054346784": "No call"
       },
       "replies": [
         {
@@ -381,10 +381,6 @@
         }
       ],
       "threads": {
-        "2111317999756206470": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111318679547990307": {
           "alerted": [],
           "self_replies": 0
@@ -788,13 +784,16 @@
         "2116002826568810782": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116017286054346784": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2114975419028099189": true,
         "2115171228990464331": true,
         "2115189337600188702": true,
-        "2115194201709428763": false,
         "2115195522944549306": false,
         "2115197542522864124": true,
         "2115197660810670197": false,
@@ -825,7 +824,8 @@
         "2116002826568810782": true,
         "2116003842194350148": true,
         "2116004747107012962": true,
-        "2116007878784086034": false
+        "2116007878784086034": false,
+        "2116017286054346784": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6639,5 +6639,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-30T03:52:18+00:00"
+  "updated_at": "2026-10-30T04:00:27+00:00"
 }
