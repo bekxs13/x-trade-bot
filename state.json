@@ -881,12 +881,12 @@
         },
         "hype": {
           "market": "crypto",
-          "post_id": "2115931791446220896",
-          "reason": "Calls the ICE-tradexyz partnership 'significant' for Hyperliquid and is 'increasingly optimistic', matching his recorded bullish HYPE view.",
+          "post_id": "2116159045027434970",
+          "reason": "Calls the ICE partnership 'a pretty big development for Hyperliquid' with it playing an important infrastructure role, which matches the recorded bullish HYPE view.",
           "scope": "HYPE",
           "since": "2026-10-26",
           "stance": "bullish",
-          "updated_at": "2026-10-29T22:20:25.000Z"
+          "updated_at": "2026-10-30T13:23:27.000Z"
         },
         "memecoins": {
           "market": "crypto",
@@ -970,7 +970,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116155738758234127",
+      "last_id": "2116159045027434970",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1006,11 +1006,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T20:21:14.000Z",
-          "id": "2115901795755020627",
-          "text": "dude"
-        },
         {
           "created_at": "2026-10-29T20:32:57.000Z",
           "id": "2115904745818996865",
@@ -1140,10 +1135,18 @@
           "created_at": "2026-10-30T13:10:19.000Z",
           "id": "2116155738758234127",
           "text": "how does one laptop result in 6B being stolen? that doesnt sound plausible"
+        },
+        {
+          "created_at": "2026-10-30T13:23:27.000Z",
+          "id": "2116159045027434970",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2116158897270697984/img/BPqk6kdiP6UDRLGE.jpg"
+          ],
+          "quoted_text": "0:00 - Hyperliquid x ICE news\n4:09 - $HYPE chart and levels\n7:04 - Kinetiq L2 &amp; coins to buy\n10:51 - Update on the $ETH short\n24:14 - Equities earnings carnage\n28:02 - Macro outlook and what to hold\n\noctober 30th, 2026 https://t.co/Yr0LpGl1GQ",
+          "text": "the tradexyz partnership with Intercontinental Exchange, the parent company of the NYSE, is a pretty big development for Hyperliquid\n\ni've been in crypto for almost nine years, and US traders have historically had very limited access to perpetual futures\n\nnow we're seeing traditional financial institutions taking a much greater interest in bringing these products to US markets\n\ni think this could be a major step toward making perps a mainstream financial product, with Hyperliquid potentially playing an important role in the infrastructure behind it\n\nthere's also a significant opportunity for stablecoins as more trading activity and liquidity move onchain"
         }
       ],
       "reads": {
-        "2115901795755020627": "No call",
         "2115904745818996865": "No call",
         "2115911844166852992": "No call",
         "2115913121185529917": "VIEW bearish on crypto market",
@@ -1162,7 +1165,8 @@
         "2116132561843896668": "TRADE SHORT ETH",
         "2116134237971915020": "No call",
         "2116150452341334257": "No call",
-        "2116155738758234127": "No call"
+        "2116155738758234127": "No call",
+        "2116159045027434970": "No call: bullish on HYPE (same view as before)"
       },
       "replies": [
         {
@@ -1261,13 +1265,6 @@
         }
       ],
       "threads": {
-        "2111899765323759684": {
-          "alerted": [
-            "trade:BTC:exit",
-            "bias:crypto market:bearish"
-          ],
-          "self_replies": 0
-        },
         "2111904166327222564": {
           "alerted": [
             "bias:eth:bearish"
@@ -1687,6 +1684,10 @@
         "2116155738758234127": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116159045027434970": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1695,7 +1696,6 @@
         "2115845085988573372": true,
         "2115849089736966360": false,
         "2115863963493892574": true,
-        "2115901795755020627": false,
         "2115904745818996865": true,
         "2115911844166852992": false,
         "2115913121185529917": true,
@@ -1724,7 +1724,8 @@
         "2116144577459409263": false,
         "2116150452341334257": true,
         "2116151592550613457": true,
-        "2116155738758234127": false
+        "2116155738758234127": false,
+        "2116159045027434970": true
       },
       "user_id": "973261472"
     },
@@ -6681,5 +6682,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T13:22:17+00:00"
+  "updated_at": "2026-10-30T13:24:22+00:00"
 }
