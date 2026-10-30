@@ -4316,7 +4316,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2116135273209745769",
+      "last_id": "2116138477729542270",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4352,12 +4352,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T12:23:34.000Z",
-          "id": "2115781587518607769",
-          "reply_to_id": "2115781421931405618",
-          "text": "doesn\u2019t really get more megachurch than that?"
-        },
         {
           "created_at": "2026-10-29T12:32:11.000Z",
           "id": "2115783754816061916",
@@ -4462,6 +4456,12 @@
           "created_at": "2026-10-30T11:48:59.000Z",
           "id": "2116135273209745769",
           "text": "I'm legitimately one jason bitcoin tweet away from fucking losing it"
+        },
+        {
+          "created_at": "2026-10-30T12:01:43.000Z",
+          "id": "2116138477729542270",
+          "quoted_text": "Binance will be \"hacked\"...\n\n2026 or 2027.\n\nThere is no bottom in the market until Binance is hacked.\n\nIt's part of the script.",
+          "text": "i don't have much left in me man https://t.co/oOjcmYASC3"
         }
       ],
       "reads": {
@@ -4482,7 +4482,8 @@
         "2116127249162489957": "No call",
         "2116130232549998912": "No call",
         "2116132127742074961": "No call",
-        "2116135273209745769": "No call"
+        "2116135273209745769": "No call",
+        "2116138477729542270": "No call"
       },
       "replies": [
         {
@@ -4577,10 +4578,6 @@
         }
       ],
       "threads": {
-        "2108549683283144734": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108968997542891854": {
           "alerted": [],
           "self_replies": 0
@@ -4985,10 +4982,13 @@
         "2116135273209745769": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116138477729542270": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115781587518607769": false,
         "2115783754816061916": true,
         "2115784233335607732": false,
         "2115786216239247399": true,
@@ -5022,7 +5022,8 @@
         "2116133871590785276": false,
         "2116133978692313483": false,
         "2116134866177642642": false,
-        "2116135273209745769": false
+        "2116135273209745769": false,
+        "2116138477729542270": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6677,5 +6678,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T12:00:28+00:00"
+  "updated_at": "2026-10-30T12:02:22+00:00"
 }
