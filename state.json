@@ -942,12 +942,12 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2115947804170617056",
-          "reason": "Says \"i'm cautious on equities right now\" due to AI uncertainty and investors having reasons to reduce exposure. Broader than the recorded ai stocks view, so logged as a new stocks/macro scope.",
+          "post_id": "2116285263932538959",
+          "reason": "Says equities are 'showing signs of weakness' and a 10% correction could pressure crypto, matching his recorded bearish stocks/macro view.",
           "scope": "stocks/macro",
           "since": "2026-10-29",
           "stance": "bearish",
-          "updated_at": "2026-10-29T23:24:03.000Z"
+          "updated_at": "2026-10-30T21:45:00.000Z"
         },
         "vvv": {
           "market": "crypto",
@@ -977,7 +977,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116268402729734241",
+      "last_id": "2116285263932538959",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1013,11 +1013,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T23:44:40.000Z",
-          "id": "2115952993741033904",
-          "text": "bad day"
-        },
         {
           "created_at": "2026-10-29T23:59:12.000Z",
           "id": "2115956651371139456",
@@ -1150,10 +1145,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2116252697053790211/img/gZaBhbiQGModC8qY.jpg"
           ],
           "text": "i can be extremely bullish on a chart one week and completely bearish the next if price action invalidates my original thesis\n\nall-time high breakouts are a good example. they used to be some of the easiest trades in crypto, especially back in 2017\n\nnow failed breakouts can lead to aggressive sell-offs as everyone rushes to exit the same trade\n\ni think a lot of traders struggle with accepting that the market has changed direction, and by the time they do, a significant part of the move has already happened"
+        },
+        {
+          "created_at": "2026-10-30T21:45:00.000Z",
+          "id": "2116285263932538959",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2116253477211176960/img/OGBqnfzQ7pXytPe1.jpg"
+          ],
+          "text": "the way crypto trades around all-time highs has changed significantly since 2017\n\nback then, buying new highs was one of my most reliable setups. by 2021, i started getting punished for trading those breakouts the same way\n\nmarkets began consolidating around previous highs, breaking out briefly, then reversing aggressively\n\ni've had to adapt by paying much closer attention to failed breakouts and how price reacts when it retests key levels\n\nwith equities also showing signs of weakness, i'm watching the NASDAQ and S&P 500 closely\n\na normal 10% correction in stocks could still create significant downside pressure for crypto"
         }
       ],
       "reads": {
-        "2115952993741033904": "No call",
         "2115956651371139456": "No call: bearish on crypto market (same view as before)",
         "2115972574668857526": "No call",
         "2115976433302409694": "No call: bearish on crypto market (same view as before)",
@@ -1172,7 +1174,8 @@
         "2116215486287642907": "No call",
         "2116220650058846455": "No call",
         "2116251607323365843": "No call",
-        "2116268402729734241": "No call"
+        "2116268402729734241": "No call",
+        "2116285263932538959": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -1271,10 +1274,6 @@
         }
       ],
       "threads": {
-        "2112542104077705324": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112585897531334903": {
           "alerted": [
             "bias:vvv:bullish"
@@ -1690,10 +1689,13 @@
         "2116268402729734241": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116285263932538959": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115952993741033904": false,
         "2115956651371139456": true,
         "2115972574668857526": false,
         "2115976433302409694": true,
@@ -1727,7 +1729,8 @@
         "2116224577336651805": true,
         "2116227468348604475": false,
         "2116251607323365843": true,
-        "2116268402729734241": true
+        "2116268402729734241": true,
+        "2116285263932538959": true
       },
       "user_id": "973261472"
     },
@@ -6690,5 +6693,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T21:40:22+00:00"
+  "updated_at": "2026-10-30T21:46:22+00:00"
 }
