@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2116152649716249019",
+      "last_id": "2116217175962776030",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,14 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-27T21:45:09.000Z",
-          "id": "2115198137531011289",
-          "images": [
-            "https://pbs.twimg.com/media/HVqxfS5XIAAfdMT.png"
-          ],
-          "text": "Word https://t.co/HfsdlZtaFM"
-        },
         {
           "created_at": "2026-10-27T21:49:33.000Z",
           "id": "2115199246366601722",
@@ -263,10 +255,17 @@
             "https://pbs.twimg.com/media/HV4FI-gW0AAkjsV.jpg"
           ],
           "text": "https://t.co/UKFHrMlCPE"
+        },
+        {
+          "created_at": "2026-10-30T17:14:26.000Z",
+          "id": "2116217175962776030",
+          "images": [
+            "https://pbs.twimg.com/media/HV5QTifWwAAPIbW.jpg"
+          ],
+          "text": "https://t.co/S4AyJV1Ctb"
         }
       ],
       "reads": {
-        "2115198137531011289": "No call",
         "2115199246366601722": "No call",
         "2115199324724359362": "No call",
         "2115497371807412663": "No call",
@@ -285,7 +284,8 @@
         "2116017286054346784": "No call",
         "2116049376217039344": "No call",
         "2116050244727394321": "No call",
-        "2116134540716515584": "No call"
+        "2116134540716515584": "No call",
+        "2116217175962776030": "No call: bearish on semis/ai stocks (60%, too unsure)"
       },
       "replies": [
         {
@@ -383,10 +383,6 @@
         }
       ],
       "threads": {
-        "2111329235856138304": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111333532673151050": {
           "alerted": [],
           "self_replies": 0
@@ -790,10 +786,13 @@
         "2116134540716515584": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116217175962776030": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115198137531011289": false,
         "2115199246366601722": false,
         "2115199324724359362": false,
         "2115497371807412663": false,
@@ -827,7 +826,8 @@
         "2116050798241300837": false,
         "2116134540716515584": false,
         "2116151250907488283": true,
-        "2116152649716249019": true
+        "2116152649716249019": true,
+        "2116217175962776030": false
       },
       "user_id": "1446541960181858315"
     },
@@ -970,7 +970,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116212636543229973",
+      "last_id": "2116215486287642907",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1006,14 +1006,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T22:20:25.000Z",
-          "id": "2115931791446220896",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2115931618062045184/img/ClmctWKqxl7lOq53.jpg"
-          ],
-          "text": "the partnership between ICE, the parent company of the NYSE, and tradexyz is a pretty significant development for Hyperliquid\n\ni've always thought perpetual futures were one of the best financial products to come out of crypto, and i expect them to become much more widely used in traditional markets\n\nHyperliquid has a real opportunity to become part of the infrastructure that powers trading across different asset classes\n\nthere's also a bigger stablecoin angle here. As more assets and trading volume move onchain, demand for dollar-denominated liquidity could grow significantly\n\ni'm increasingly optimistic about the long-term convergence of crypto infrastructure and traditional finance"
-        },
         {
           "created_at": "2026-10-29T22:45:43.000Z",
           "id": "2115938158437146768",
@@ -1141,10 +1133,18 @@
           "created_at": "2026-10-30T16:35:46.000Z",
           "id": "2116207443977871791",
           "text": "when does the new world of warcraft drop"
+        },
+        {
+          "created_at": "2026-10-30T17:07:43.000Z",
+          "id": "2116215486287642907",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2116215330314072064/img/hRLJZCxrllNd2N_k.jpg"
+          ],
+          "quoted_text": "0:00 - Hyperliquid x ICE news\n4:09 - $HYPE chart and levels\n7:04 - Kinetiq L2 &amp; coins to buy\n10:51 - Update on the $ETH short\n24:14 - Equities earnings carnage\n28:02 - Macro outlook and what to hold\n\noctober 30th, 2026 https://t.co/Yr0LpGl1GQ",
+          "text": "i approach most trades with two types of setups: entering at key support or resistance levels, or positioning for a breakout or breakdown\n\nfor shorts, i'm looking to enter near resistance with a clear stop above, or trade a breakdown with invalidation above the previous range\n\nfor longs, the same logic applies in reverse\n\nthe important part is understanding how different timeframes connect\n\ncandles are fractal, so when the higher timeframe doesn't give me a clear entry, i move down to lower timeframes to find a better setup and manage risk more precisely"
         }
       ],
       "reads": {
-        "2115931791446220896": "No call: bullish on HYPE (same view as before)",
         "2115938158437146768": "No call",
         "2115944683398648228": "No call",
         "2115947804170617056": "VIEW bearish on stocks/macro",
@@ -1163,7 +1163,8 @@
         "2116169037168206004": "No call",
         "2116177144778768653": "No call: bearish on btc (same view as before)",
         "2116201298102042686": "No call",
-        "2116207443977871791": "No call"
+        "2116207443977871791": "No call",
+        "2116215486287642907": "No call"
       },
       "replies": [
         {
@@ -1262,10 +1263,6 @@
         }
       ],
       "threads": {
-        "2112036503463546953": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112224350330077223": {
           "alerted": [],
           "self_replies": 0
@@ -1681,12 +1678,15 @@
         "2116207443977871791": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116215486287642907": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2115849089736966360": false,
         "2115863963493892574": true,
-        "2115931791446220896": true,
         "2115938158437146768": true,
         "2115944683398648228": true,
         "2115947804170617056": true,
@@ -1718,7 +1718,8 @@
         "2116200852750733428": true,
         "2116201298102042686": false,
         "2116207443977871791": false,
-        "2116212636543229973": false
+        "2116212636543229973": false,
+        "2116215486287642907": true
       },
       "user_id": "973261472"
     },
@@ -6678,5 +6679,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T16:58:16+00:00"
+  "updated_at": "2026-10-30T17:18:44+00:00"
 }
