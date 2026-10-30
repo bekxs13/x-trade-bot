@@ -968,7 +968,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116132741452537894",
+      "last_id": "2116133761154982084",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1169,12 +1169,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T22:07:08.000Z",
-          "id": "2115566057725272566",
-          "reply_to_id": "2115564825573232768",
-          "text": "@notwashed ppl who complain about pump but then only trade pump coins and dont support metadao projects are just hypocrites mad that other traders are better than them imo"
-        },
-        {
           "created_at": "2026-10-29T12:10:59.000Z",
           "id": "2115778419354914823",
           "reply_to_id": "2115777839622689036",
@@ -1260,6 +1254,12 @@
           "id": "2116132741452537894",
           "reply_to_id": "2116130232549998912",
           "text": "@notthreadguy goated"
+        },
+        {
+          "created_at": "2026-10-30T11:42:59.000Z",
+          "id": "2116133761154982084",
+          "reply_to_id": "2116132716982722817",
+          "text": "@VNTGPRN oh wow lol, does that say eth 90% hit rate??"
         }
       ],
       "threads": {
@@ -1692,7 +1692,6 @@
         }
       },
       "trading": {
-        "2115566057725272566": true,
         "2115778419354914823": false,
         "2115783789506875527": false,
         "2115828494840349016": false,
@@ -1726,7 +1725,8 @@
         "2116070096443429308": true,
         "2116131005329191107": false,
         "2116132561843896668": true,
-        "2116132741452537894": false
+        "2116132741452537894": false,
+        "2116133761154982084": true
       },
       "user_id": "973261472"
     },
@@ -4315,7 +4315,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2116132127742074961",
+      "last_id": "2116133978692313483",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4351,12 +4351,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T12:19:36.000Z",
-          "id": "2115780588141453519",
-          "reply_to_id": "2115780257005416638",
-          "text": "stanley druckenmiller tweeting hyperliquid as his first post gotta be about as close to a free long as they come"
-        },
         {
           "created_at": "2026-10-29T12:22:54.000Z",
           "id": "2115781421931405618",
@@ -4462,6 +4456,12 @@
           "id": "2116132127742074961",
           "reply_to_id": "2116127249162489957",
           "text": "this actually sucked the soul out of me pause"
+        },
+        {
+          "created_at": "2026-10-30T11:43:25.000Z",
+          "id": "2116133871590785276",
+          "reply_to_id": "2116132127742074961",
+          "text": "the real issue is now what"
         }
       ],
       "reads": {
@@ -4484,12 +4484,6 @@
         "2116132127742074961": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-29T18:20:36.000Z",
-          "id": "2115871437500317739",
-          "reply_to_id": "2115870686392492278",
-          "text": "@CryptoEthan @tomkysar i would be choosing love if i was long THAT coin too\u2026\u2026."
-        },
         {
           "created_at": "2026-10-29T18:42:55.000Z",
           "id": "2115877052796572159",
@@ -4573,6 +4567,12 @@
           "id": "2116130831127523690",
           "reply_to_id": "2116130666710712670",
           "text": "@ezcontra chad"
+        },
+        {
+          "created_at": "2026-10-30T11:43:51.000Z",
+          "id": "2116133978692313483",
+          "reply_to_id": "2116133883389370587",
+          "text": "@tomthomas90 the total number doesn't matter that much if the laptop theory is real"
         }
       ],
       "threads": {
@@ -4987,7 +4987,6 @@
         }
       },
       "trading": {
-        "2115780588141453519": true,
         "2115781421931405618": true,
         "2115781587518607769": false,
         "2115783754816061916": true,
@@ -4997,7 +4996,6 @@
         "2115824151042883677": true,
         "2115858374218928131": true,
         "2115861507884110173": true,
-        "2115871437500317739": true,
         "2115877052796572159": false,
         "2115882775710519439": false,
         "2115882819641598153": false,
@@ -5021,7 +5019,9 @@
         "2116127249162489957": true,
         "2116130232549998912": false,
         "2116130831127523690": false,
-        "2116132127742074961": false
+        "2116132127742074961": false,
+        "2116133871590785276": false,
+        "2116133978692313483": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6676,5 +6676,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-30T11:40:18+00:00"
+  "updated_at": "2026-10-30T11:44:19+00:00"
 }
