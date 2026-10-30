@@ -2133,7 +2133,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2116014974120390786",
+      "last_id": "2116143483635319277",
       "positions": {},
       "posts": [
         {
@@ -2277,12 +2277,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-29T21:09:41.000Z",
-          "id": "2115913991356649716",
-          "reply_to_id": "2115912378529571209",
-          "text": "@jnconkle what is even the point of this quote tweet lol"
-        },
-        {
           "created_at": "2026-10-29T21:13:54.000Z",
           "id": "2115915050246357275",
           "reply_to_id": "2115913859278033343",
@@ -2365,6 +2359,12 @@
           "id": "2116014974120390786",
           "reply_to_id": "2116014168335912998",
           "text": "@ybsgige same hotels i just knew ball"
+        },
+        {
+          "created_at": "2026-10-30T12:21:37.000Z",
+          "id": "2116143483635319277",
+          "reply_to_id": "2116015153183695287",
+          "text": "@povgoggles it's committed sales and it's not like massive investment grade tech companies are going insolvent"
         }
       ],
       "threads": {
@@ -2630,7 +2630,6 @@
         "2115903745007747572": true,
         "2115913150314787235": true,
         "2115913424668622937": true,
-        "2115913991356649716": false,
         "2115915050246357275": false,
         "2115915101710794988": false,
         "2115918928849629650": false,
@@ -2654,7 +2653,8 @@
         "2115992837963792571": false,
         "2116004586448158880": false,
         "2116009844008497613": true,
-        "2116014974120390786": false
+        "2116014974120390786": false,
+        "2116143483635319277": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6679,5 +6679,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T12:20:18+00:00"
+  "updated_at": "2026-10-30T12:22:23+00:00"
 }
