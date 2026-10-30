@@ -4316,7 +4316,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2116140989966610832",
+      "last_id": "2116141965276307489",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4352,11 +4352,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T12:32:11.000Z",
-          "id": "2115783754816061916",
-          "text": "you run a fund and don\u2019t hold the only asset stanley druckenmiller has ever tweeted about?"
-        },
         {
           "created_at": "2026-10-29T12:34:05.000Z",
           "id": "2115784233335607732",
@@ -4462,10 +4457,15 @@
           "id": "2116138477729542270",
           "quoted_text": "Binance will be \"hacked\"...\n\n2026 or 2027.\n\nThere is no bottom in the market until Binance is hacked.\n\nIt's part of the script.",
           "text": "i don't have much left in me man https://t.co/oOjcmYASC3"
+        },
+        {
+          "created_at": "2026-10-30T12:15:35.000Z",
+          "id": "2116141965276307489",
+          "reply_to_id": "2115861507884110173",
+          "text": "i lied"
         }
       ],
       "reads": {
-        "2115783754816061916": "VIEW bullish on HYPE",
         "2115784233335607732": "Read together with the post it replies to",
         "2115786216239247399": "No call",
         "2115807782964183450": "No call",
@@ -4483,15 +4483,10 @@
         "2116130232549998912": "No call",
         "2116132127742074961": "No call",
         "2116135273209745769": "No call",
-        "2116138477729542270": "No call"
+        "2116138477729542270": "No call",
+        "2116141965276307489": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-29T19:24:00.000Z",
-          "id": "2115887391927894034",
-          "reply_to_id": "2115883346496557129",
-          "text": "@stogolp did you know avax has a nyse partnership? hyperliquid late (again)"
-        },
         {
           "created_at": "2026-10-29T19:28:08.000Z",
           "id": "2115888433415766063",
@@ -4575,6 +4570,12 @@
           "id": "2116140989966610832",
           "reply_to_id": "2116140875663486979",
           "text": "@TrenchPyro genuinely how are you people real i have no words"
+        },
+        {
+          "created_at": "2026-10-30T12:15:21.000Z",
+          "id": "2116141906799280426",
+          "reply_to_id": "2116141417471066521",
+          "text": "@dnapway boses brown played one year in the league, shot like 50% from the line. is gone. jaylen hands un drafted, never scored a point in the league\n\nwho\u2019s which one are we"
         }
       ],
       "threads": {
@@ -4941,7 +4942,7 @@
         },
         "2115861507884110173": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2115897932767760834": {
           "alerted": [],
@@ -4989,14 +4990,12 @@
         }
       },
       "trading": {
-        "2115783754816061916": true,
         "2115784233335607732": false,
         "2115786216239247399": true,
         "2115807782964183450": true,
         "2115824151042883677": true,
         "2115858374218928131": true,
         "2115861507884110173": true,
-        "2115887391927894034": true,
         "2115888433415766063": false,
         "2115897932767760834": true,
         "2115898434838200462": true,
@@ -5023,7 +5022,9 @@
         "2116135273209745769": false,
         "2116138477729542270": true,
         "2116140846483415378": false,
-        "2116140989966610832": false
+        "2116140989966610832": false,
+        "2116141906799280426": false,
+        "2116141965276307489": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6678,5 +6679,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T12:12:19+00:00"
+  "updated_at": "2026-10-30T12:16:23+00:00"
 }
