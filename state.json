@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2116134540716515584",
+      "last_id": "2116151250907488283",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -289,12 +289,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-27T21:10:11.000Z",
-          "id": "2115189337600188702",
-          "reply_to_id": "2114977945634631928",
-          "text": "@chang_defi Did I get refunded or do I still have equity in this"
-        },
-        {
           "created_at": "2026-10-27T22:07:01.000Z",
           "id": "2115203642433380559",
           "reply_to_id": "2115202005400728026",
@@ -380,6 +374,12 @@
           "id": "2116050798241300837",
           "reply_to_id": "2116050292840321446",
           "text": "@BeauneThugz Play chief keef - emojis"
+        },
+        {
+          "created_at": "2026-10-30T12:52:29.000Z",
+          "id": "2116151250907488283",
+          "reply_to_id": "2116150452341334257",
+          "text": "@blknoiz06 Spy still in range tbf"
         }
       ],
       "threads": {
@@ -793,7 +793,6 @@
         }
       },
       "trading": {
-        "2115189337600188702": true,
         "2115198137531011289": false,
         "2115199246366601722": false,
         "2115199324724359362": false,
@@ -827,7 +826,8 @@
         "2116049978661667023": false,
         "2116050244727394321": false,
         "2116050798241300837": false,
-        "2116134540716515584": false
+        "2116134540716515584": false,
+        "2116151250907488283": true
       },
       "user_id": "1446541960181858315"
     },
@@ -970,7 +970,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116150452341334257",
+      "last_id": "2116151592550613457",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1166,12 +1166,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-29T15:29:58.000Z",
-          "id": "2115828494840349016",
-          "reply_to_id": "2115823011399938182",
-          "text": "@elonmusk bro"
-        },
-        {
           "created_at": "2026-10-29T16:24:48.000Z",
           "id": "2115842296067576243",
           "reply_to_id": "2115841988377628998",
@@ -1254,6 +1248,16 @@
           "id": "2116144577459409263",
           "reply_to_id": "2115884644625527135",
           "text": "@_imagyn energy back soon bro promise"
+        },
+        {
+          "created_at": "2026-10-30T12:53:50.000Z",
+          "id": "2116151592550613457",
+          "images": [
+            "https://pbs.twimg.com/media/HV4UnxXWAAAQcRg.png",
+            "https://pbs.twimg.com/media/HV4UosaWoAA57EU.jpg"
+          ],
+          "reply_to_id": "2116151250907488283",
+          "text": "@based16z this is a sneeze away https://t.co/U6wnowDqsh"
         }
       ],
       "threads": {
@@ -1686,7 +1690,6 @@
         }
       },
       "trading": {
-        "2115828494840349016": false,
         "2115842296067576243": false,
         "2115844905683583159": false,
         "2115845085988573372": true,
@@ -1720,7 +1723,8 @@
         "2116134237971915020": true,
         "2116140994328735752": true,
         "2116144577459409263": false,
-        "2116150452341334257": true
+        "2116150452341334257": true,
+        "2116151592550613457": true
       },
       "user_id": "973261472"
     },
@@ -6671,5 +6675,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T12:50:25+00:00"
+  "updated_at": "2026-10-30T12:54:29+00:00"
 }
