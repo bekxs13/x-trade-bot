@@ -2113,17 +2113,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2115964389647876359",
+      "last_id": "2115980760347758721",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-28T20:05:25.000Z",
-          "id": "2115535426589241612",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2115535391931387904/img/bj4zWg807g4KQ_gs.jpg"
-          ],
-          "text": "https://t.co/z6gDHYZPhX"
-        },
         {
           "created_at": "2026-10-28T22:42:53.000Z",
           "id": "2115575054545072216",
@@ -2239,10 +2231,15 @@
           "created_at": "2026-10-30T00:21:29.000Z",
           "id": "2115962255317860705",
           "text": "in retrospect i should have probably entered a crypto short when i read about threadguy looking into consuming food more than 30 years past its expiry date"
+        },
+        {
+          "created_at": "2026-10-30T01:35:00.000Z",
+          "id": "2115980760347758721",
+          "quoted_text": "Yes  i am disappointed in Intel,actually furious about it",
+          "text": "same i don't even own any intel outside the 2% holding in ftec https://t.co/Ho0P3qYRNS"
         }
       ],
       "reads": {
-        "2115535426589241612": "No call",
         "2115575054545072216": "No call: bullish on memory stocks (same view as before)",
         "2115582687427609059": "No call",
         "2115582998779224070": "No call",
@@ -2259,7 +2256,8 @@
         "2115930736679366933": "No call",
         "2115953967297650762": "No call",
         "2115954676289917102": "No call",
-        "2115962255317860705": "No call"
+        "2115962255317860705": "No call",
+        "2115980760347758721": "No call"
       },
       "replies": [
         {
@@ -2591,10 +2589,13 @@
         "2115962255317860705": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115980760347758721": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115535426589241612": false,
         "2115575054545072216": true,
         "2115582687427609059": false,
         "2115582998779224070": false,
@@ -2628,7 +2629,8 @@
         "2115958223870337314": false,
         "2115961237142188441": false,
         "2115962255317860705": true,
-        "2115964389647876359": false
+        "2115964389647876359": false,
+        "2115980760347758721": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6637,5 +6639,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-30T01:22:17+00:00"
+  "updated_at": "2026-10-30T01:36:20+00:00"
 }
