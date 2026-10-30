@@ -4294,7 +4294,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2116127249162489957",
+      "last_id": "2116130232549998912",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4330,12 +4330,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T12:15:50.000Z",
-          "id": "2115779640715272383",
-          "quoted_text": "I am excited to be an investor in trade(xyz) as they partner with ICE to bring 24/7 perpetual futures on Hyperliquid to the United States.   As a market participant, I am looking forward to to using their innovative product to enhance my investment process.",
-          "text": "first ever post? wow https://t.co/DMSbZBQS89"
-        },
         {
           "created_at": "2026-10-29T12:18:17.000Z",
           "id": "2115780257005416638",
@@ -4442,10 +4436,14 @@
           "created_at": "2026-10-30T11:17:06.000Z",
           "id": "2116127249162489957",
           "text": "on a scale of how bad it was to how bad it could have been the binance hack is like a three"
+        },
+        {
+          "created_at": "2026-10-30T11:28:57.000Z",
+          "id": "2116130232549998912",
+          "text": "flood......."
         }
       ],
       "reads": {
-        "2115779640715272383": "No call",
         "2115780257005416638": "No call",
         "2115783754816061916": "VIEW bullish on HYPE",
         "2115784233335607732": "Read together with the post it replies to",
@@ -4461,7 +4459,8 @@
         "2115928685907689568": "No call",
         "2115934711101137273": "No call",
         "2115955400180719737": "No call",
-        "2116127249162489957": "No call"
+        "2116127249162489957": "No call",
+        "2116130232549998912": "No call"
       },
       "replies": [
         {
@@ -4556,10 +4555,6 @@
         }
       ],
       "threads": {
-        "2108527971648602479": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2108538101950005277": {
           "alerted": [],
           "self_replies": 0
@@ -4964,10 +4959,13 @@
         "2116127249162489957": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116130232549998912": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115779640715272383": true,
         "2115780257005416638": false,
         "2115780588141453519": true,
         "2115781421931405618": true,
@@ -5001,7 +4999,8 @@
         "2115945365773979807": false,
         "2115955400180719737": false,
         "2116127083147461033": false,
-        "2116127249162489957": true
+        "2116127249162489957": true,
+        "2116130232549998912": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6656,5 +6655,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-30T11:24:22+00:00"
+  "updated_at": "2026-10-30T11:30:33+00:00"
 }
