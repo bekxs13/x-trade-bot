@@ -968,7 +968,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116133761154982084",
+      "last_id": "2116134237971915020",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1004,15 +1004,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T16:50:09.000Z",
-          "id": "2115848675692068975",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2115848628464123904/img/D43Ae4jUL6nXr5J8.jpg"
-          ],
-          "quoted_text": "market thoughts, trading breakouts & breakdowns, candlesticks as fractals\n\n0:00 - market bleeding and the $ETH short\n3:20 - FOMC nothing burger\n4:19 - all candles are fractals\n11:36 - Monday's high/low range playbook\n16:14 - trading breakdowns and drilling down for entries\n\noctober 29th, 2026",
-          "text": "one of the biggest lessons i've learned trading ranges is to stop forcing trades in the middle\n\ni was extremely bullish going into Q4 and expected the range to break higher, but i was wrong\n\nthe key is being able to recognize when your original thesis fails and adjust to what price is actually doing\n\ni prefer waiting for price to reach the range highs or lows, where the reaction gives me a much clearer setup\n\nsometimes the best trade is simply waiting for a better entry"
-        },
         {
           "created_at": "2026-10-29T20:09:19.000Z",
           "id": "2115898797322826115",
@@ -1143,10 +1134,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2116130820444266496/img/RhQNy2e0mB52z0rf.jpg"
           ],
           "text": "hyperliquid x ICE news, update on $ETH short, thoughts on equities earnings carnage\n\noctober 30th, 2026 https://t.co/cJXSc0j89C"
+        },
+        {
+          "created_at": "2026-10-30T11:44:52.000Z",
+          "id": "2116134237971915020",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2116130820444266496/img/RhQNy2e0mB52z0rf.jpg"
+          ],
+          "text": "0:00 - Hyperliquid x ICE news\n4:09 - $HYPE chart and levels\n7:04 - Kinetiq L2 &amp; coins to buy\n10:51 - Update on the $ETH short\n24:14 - Equities earnings carnage\n28:02 - Macro outlook and what to hold\n\noctober 30th, 2026 https://t.co/Yr0LpGl1GQ"
         }
       ],
       "reads": {
-        "2115848675692068975": "No call: neutral on crypto market (65%, too unsure)",
         "2115898797322826115": "No call",
         "2115901699260923906": "No call",
         "2115901795755020627": "No call",
@@ -1165,7 +1163,8 @@
         "2116012108693610757": "No call",
         "2116036122308415825": "No call",
         "2116070096443429308": "No call",
-        "2116132561843896668": "TRADE SHORT ETH"
+        "2116132561843896668": "TRADE SHORT ETH",
+        "2116134237971915020": "No call"
       },
       "replies": [
         {
@@ -1263,10 +1262,6 @@
         }
       ],
       "threads": {
-        "2111733530757570629": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111779407807574066": {
           "alerted": [],
           "self_replies": 0
@@ -1689,6 +1684,10 @@
             "trade:ETH:short"
           ],
           "self_replies": 0
+        },
+        "2116134237971915020": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1698,7 +1697,6 @@
         "2115842296067576243": false,
         "2115844905683583159": false,
         "2115845085988573372": true,
-        "2115848675692068975": true,
         "2115849089736966360": false,
         "2115863963493892574": true,
         "2115898797322826115": true,
@@ -1726,7 +1724,8 @@
         "2116131005329191107": false,
         "2116132561843896668": true,
         "2116132741452537894": false,
-        "2116133761154982084": true
+        "2116133761154982084": true,
+        "2116134237971915020": true
       },
       "user_id": "973261472"
     },
@@ -6676,5 +6675,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-30T11:44:19+00:00"
+  "updated_at": "2026-10-30T11:46:20+00:00"
 }
