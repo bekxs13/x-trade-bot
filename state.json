@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2116256357447860345",
+      "last_id": "2116303690239758739",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -296,12 +296,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-28T17:57:22.000Z",
-          "id": "2115503202401722784",
-          "reply_to_id": "2115501843354665056",
-          "text": "@mattyklein_ 90s Range Rover, retrofitted defender, or new trackhawk. First time I\u2019ve neeeded a car since high school"
-        },
-        {
           "created_at": "2026-10-28T18:17:27.000Z",
           "id": "2115508256877810083",
           "reply_to_id": "2115507827292926415",
@@ -387,6 +381,12 @@
           "id": "2116234322436927998",
           "reply_to_id": "2116234218468520372",
           "text": "@foobiusV https://t.co/ilkHR6gjGe"
+        },
+        {
+          "created_at": "2026-10-30T22:58:13.000Z",
+          "id": "2116303690239758739",
+          "reply_to_id": "2116289241542254832",
+          "text": "@Jacobwallace818 Harsh but fair. I\u2019m working on it"
         }
       ],
       "threads": {
@@ -800,7 +800,6 @@
         }
       },
       "trading": {
-        "2115503202401722784": false,
         "2115504250197578215": false,
         "2115507251884839104": true,
         "2115508256877810083": false,
@@ -834,7 +833,8 @@
         "2116218895573143641": true,
         "2116233910392918375": true,
         "2116234322436927998": false,
-        "2116256357447860345": false
+        "2116256357447860345": false,
+        "2116303690239758739": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6697,5 +6697,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T21:58:20+00:00"
+  "updated_at": "2026-10-30T23:00:26+00:00"
 }
