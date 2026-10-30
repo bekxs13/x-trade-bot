@@ -2136,14 +2136,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2116261536964755964",
+      "last_id": "2116288026305556791",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-29T13:10:25.000Z",
-          "id": "2115793379531346176",
-          "text": "there's a midbie on here that keeps unfollowing and following me repeatedly for what i can only assume is for baiting me into following back reasons-i don't generally follow back, i am incredibly stingy and capricious with my follows. getting a p4 follow is like finding a unicorn"
-        },
         {
           "created_at": "2026-10-29T20:09:32.000Z",
           "id": "2115898853237178469",
@@ -2255,10 +2250,14 @@
           "created_at": "2026-10-30T20:10:43.000Z",
           "id": "2116261536964755964",
           "text": "lol was busy all day looks like i didn't miss anything good"
+        },
+        {
+          "created_at": "2026-10-30T21:55:01.000Z",
+          "id": "2116287785753554948",
+          "text": "bitcoin is for risk averse pussies real degenerates go long blue chip american tech companies"
         }
       ],
       "reads": {
-        "2115793379531346176": "No call",
         "2115898853237178469": "No call",
         "2115901010296426643": "No call",
         "2115901361728479470": "No call",
@@ -2276,15 +2275,10 @@
         "2116009844008497613": "No call",
         "2116155200075395195": "No call",
         "2116167987577114628": "No call",
-        "2116261536964755964": "No call"
+        "2116261536964755964": "No call",
+        "2116287785753554948": "No call: bullish on big tech (60%, too unsure)"
       },
       "replies": [
-        {
-          "created_at": "2026-10-29T23:49:50.000Z",
-          "id": "2115954290866966567",
-          "reply_to_id": "2115937362488471561",
-          "text": "@jukan05 can someone explain to me how intel being a poorly managed company reflects in any way on memory fabricator enterprise fair values\n \nthanks"
-        },
         {
           "created_at": "2026-10-29T23:52:53.000Z",
           "id": "2115955060631044592",
@@ -2368,6 +2362,12 @@
           "id": "2116178527112307100",
           "reply_to_id": "2116175946403160122",
           "text": "@paulscu1 no"
+        },
+        {
+          "created_at": "2026-10-30T21:55:58.000Z",
+          "id": "2116288026305556791",
+          "reply_to_id": "2116211430538269028",
+          "text": "@Mike_Hunt_Sr michael i need u back in the chat"
         }
       ],
       "threads": {
@@ -2632,10 +2632,13 @@
         "2116261536964755964": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116287785753554948": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115793379531346176": false,
         "2115898853237178469": false,
         "2115901010296426643": true,
         "2115901361728479470": false,
@@ -2646,7 +2649,6 @@
         "2115919286568927693": false,
         "2115930736679366933": false,
         "2115953967297650762": true,
-        "2115954290866966567": true,
         "2115954676289917102": true,
         "2115955060631044592": false,
         "2115958223870337314": false,
@@ -2669,7 +2671,9 @@
         "2116166128359854389": true,
         "2116167987577114628": true,
         "2116178527112307100": false,
-        "2116261536964755964": false
+        "2116261536964755964": false,
+        "2116287785753554948": true,
+        "2116288026305556791": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6693,5 +6697,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T21:46:22+00:00"
+  "updated_at": "2026-10-30T21:56:29+00:00"
 }
