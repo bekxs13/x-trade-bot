@@ -864,13 +864,13 @@
           "updated_at": "2026-10-26T13:28:00.000Z"
         },
         "crypto market": {
-          "market": "crypto",
-          "post_id": "2115956651371139456",
-          "reason": "He agrees ('not great') with a quote saying this hack selloff is different and not worth buying, listing many macro risks. That fits his posts the same day about getting cautious on risk assets and matches his recorded bearish crypto market view.",
+          "market": "macro",
+          "post_id": "2115976433302409694",
+          "reason": "Says it is still a good spot to de-risk both stocks and crypto, expects selling into NY open and over the weekend, and would only re-evaluate above 82k/2400. This matches the bearish views already on record.",
           "scope": "crypto market",
           "since": "2026-10-29",
           "stance": "bearish",
-          "updated_at": "2026-10-29T23:59:12.000Z"
+          "updated_at": "2026-10-30T01:17:49.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -972,7 +972,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2115972574668857526",
+      "last_id": "2115976433302409694",
       "positions": {
         "GRASS": {
           "asset": "GRASS",
@@ -992,14 +992,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T10:12:09.000Z",
-          "id": "2115748514840052029",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2115747534136041472/img/xScWjjfuWMJehslu.jpg"
-          ],
-          "text": "market thoughts, trading breakouts &amp; breakdowns, candlesticks as fractals\n\noctober 29th, 2026 https://t.co/HVdG6xFhB4"
-        },
         {
           "created_at": "2026-10-29T10:29:39.000Z",
           "id": "2115752920779989271",
@@ -1128,10 +1120,15 @@
           "created_at": "2026-10-30T01:02:29.000Z",
           "id": "2115972574668857526",
           "text": "a wise man once told me you move too fast when trying to make money and move too slow when trying to keep it"
+        },
+        {
+          "created_at": "2026-10-30T01:17:49.000Z",
+          "id": "2115976433302409694",
+          "quoted_text": "i am bearish btc/eth & large cap stocks believe btc & eth have broken mid timeframe trend and will continue to accelerate to downside under 82k/2400\n\ndont think the average retail speculator is going to slow down tho, Q4 is going to have a lot of volatility for traders in both directions & believe pockets of onchain will do well\n\nheadline risk is also very real and continues to impact markets, this week specifically we have fomc + lot of important earnings releases\n\ntechnicals am bearish bc ai m",
+          "text": "multiple major tech earnings this week -10% selloffs after hours\n\nbtc & eth accelerating to downside\n\nlargest centralized exchange hack in crypto's history ($6B) + AI continuing to disrupt trad companies security systems while forward looking picture of aggro revenue growth from AI capex is unclear\n\nuncertainty at ATHs, lots of unrealized PNL in the market & equities have not even sold off aggressively yet with macro picture still murky due to geopolitical tensions + rates + oil + midterms\n\nstill believe good spot to de-risk here for both stocks & crypto, will likely re-evaluate bias if there is strength above current weekly highs (82k/2400) or on liquidation event next few days/weeks, think selling will continue into ny open tomorrow and over the weekend\n\ncurrent prices:\n\nbtc ~77k\neth ~2220\n\nwant to buy zec/hype/pump if given discounts, unrelated but believe LLY may be best looking chart on my screen"
         }
       ],
       "reads": {
-        "2115748514840052029": "No call",
         "2115752920779989271": "No call: maybe short ETH (65%, too unsure); bearish on crypto market (65%, too unsure)",
         "2115782962931204501": "No call",
         "2115791236544049498": "No call: bullish on VVV (same view as before)",
@@ -1150,7 +1147,8 @@
         "2115947804170617056": "VIEW bearish on stocks/macro",
         "2115952993741033904": "No call",
         "2115956651371139456": "No call: bearish on crypto market (same view as before)",
-        "2115972574668857526": "No call"
+        "2115972574668857526": "No call",
+        "2115976433302409694": "No call: bearish on crypto market (same view as before)"
       },
       "replies": [
         {
@@ -1248,10 +1246,6 @@
         }
       ],
       "threads": {
-        "2111518293396009334": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111521940255219755": {
           "alerted": [],
           "self_replies": 0
@@ -1672,6 +1666,10 @@
         "2115972574668857526": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2115976433302409694": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1682,7 +1680,6 @@
         "2115531705004044552": false,
         "2115554745867985051": false,
         "2115566057725272566": true,
-        "2115748514840052029": true,
         "2115752920779989271": true,
         "2115778419354914823": false,
         "2115782962931204501": true,
@@ -1709,7 +1706,8 @@
         "2115947804170617056": true,
         "2115952993741033904": false,
         "2115956651371139456": true,
-        "2115972574668857526": false
+        "2115972574668857526": false,
+        "2115976433302409694": true
       },
       "user_id": "973261472"
     },
@@ -6639,5 +6637,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-30T01:04:22+00:00"
+  "updated_at": "2026-10-30T01:18:22+00:00"
 }
