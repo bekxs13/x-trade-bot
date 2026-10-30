@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2116001724234391769",
+      "last_id": "2116002826568810782",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,12 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-27T21:10:57.000Z",
-          "id": "2115189531792244824",
-          "reply_to_id": "2115189337600188702",
-          "text": "@chang_defi I lost my old tg maybe hit me a chat screenshot here not sure which way that went"
-        },
         {
           "created_at": "2026-10-27T21:21:09.000Z",
           "id": "2115192098245026165",
@@ -263,6 +257,12 @@
           "created_at": "2026-10-30T02:44:00.000Z",
           "id": "2115998124070293583",
           "text": "Substack trynna send me notifications? Deleted"
+        },
+        {
+          "created_at": "2026-10-30T03:02:41.000Z",
+          "id": "2116002826568810782",
+          "quoted_text": "So you're telling me the guys who own the only ai hardware that's not a GPU, the datacenters, the model, and the user's entire life data just gapped 11% down? on an EPS miss? And you think the market understands what's happening? https://t.co/mQFlLsfzwU",
+          "text": "1k likes ppl are still long all this stuff https://t.co/bcjw5sSb7k"
         }
       ],
       "reads": {
@@ -284,7 +284,8 @@
         "2115894855696372172": "No call",
         "2115902377970835491": "No call",
         "2115913859278033343": "No call",
-        "2115998124070293583": "No call"
+        "2115998124070293583": "No call",
+        "2116002826568810782": "No call: bearish on semis/ai stocks (60%, too unsure)"
       },
       "replies": [
         {
@@ -385,10 +386,6 @@
         }
       ],
       "threads": {
-        "2111317126619525386": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111317999756206470": {
           "alerted": [],
           "self_replies": 0
@@ -792,6 +789,10 @@
         "2115998124070293583": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116002826568810782": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -800,7 +801,6 @@
         "2114975419028099189": true,
         "2115171228990464331": true,
         "2115189337600188702": true,
-        "2115189531792244824": false,
         "2115192098245026165": false,
         "2115194201709428763": false,
         "2115195522944549306": false,
@@ -829,7 +829,8 @@
         "2115908557921034419": false,
         "2115913859278033343": false,
         "2115998124070293583": false,
-        "2116001724234391769": false
+        "2116001724234391769": false,
+        "2116002826568810782": true
       },
       "user_id": "1446541960181858315"
     },
@@ -6640,5 +6641,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-30T03:00:21+00:00"
+  "updated_at": "2026-10-30T03:04:28+00:00"
 }
