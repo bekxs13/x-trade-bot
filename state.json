@@ -854,12 +854,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2114710641290138085",
-          "reason": "\"i am bearish btc/eth & large cap stocks\", expecting acceleration under 82k/2400 (BTC already ~79.8k). Also bearish on large caps/AI stocks and the Qs, but sees pullback before continuation and thinks pockets of onchain will do well. Recorded btc view was bullish.",
+          "post_id": "2116177144778768653",
+          "reason": "Argues the small reaction to the $6b hack isn't bullish and says \"i dont think... it means the downtrend will not continue\"; matches the recorded bearish BTC view.",
           "scope": "btc",
           "since": "2026-10-26",
           "stance": "bearish",
-          "updated_at": "2026-10-26T13:28:00.000Z"
+          "updated_at": "2026-10-30T14:35:22.000Z"
         },
         "crypto market": {
           "market": "macro",
@@ -970,7 +970,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116169037168206004",
+      "last_id": "2116177144778768653",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1006,11 +1006,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T21:01:10.000Z",
-          "id": "2115911844166852992",
-          "text": "unreal man"
-        },
         {
           "created_at": "2026-10-29T21:06:14.000Z",
           "id": "2115913121185529917",
@@ -1144,10 +1139,14 @@
           "created_at": "2026-10-30T14:03:09.000Z",
           "id": "2116169037168206004",
           "text": "pretty funny elon commenting on druck's hyperliquid post and then trolling binance post hack in the same day"
+        },
+        {
+          "created_at": "2026-10-30T14:35:22.000Z",
+          "id": "2116177144778768653",
+          "text": "keep seeing people say \"$6b hack and bitcoin only down 2%\" as a bullish thing\n\nbelieve ppl are fundamentally misunderstanding the difference to how bitcoin trades now versus years ago\n\n$BTC used to be the primary driver for retail speculation in crypto, we were all aping leveraged positions on perps in 2017, alts were also part of the speculation but btc much moreso than now\n\nthis changed in 2020/21 when retail mostly were trading alts as their way of going down the risk curve, the new traders on uniswap did not care at all about bitcoin\n\neven moreso in 2023 cycle & now, transition more to onchain because the altcoins on centralized exchanges performed much worse so less ppl speculating on perps than in the trenches, its how memecoins became a lot more popular, & now with equity perps we have even more degens trading other instruments rather than lev longing btc\n\nbelieve that this has had a significant impact on how bitcoin trades bc it is less apes smashing longs and shorts on the btc chart, you can see this appear in the price action with how bitcoin ripped extremely aggressively on every all time high break in 2017 but every top in 2021 post-saylor's aping in 2020 was the subtle ath failed breakout and then breakdown and much choppier price action\n\neven more apparent in 2023-2025 where we spent several months in compressed ranges & then also topped in jan 2025 & sept/oct 2025 with slightly higher high & failed breakout\n\nwhen 10/10 liquidation happened, $BTC barely moved compared to alts, this is because of what im stating above, the degens are not longing bitcoin, it traded above $100k for weeks after 10/10 and did not make substantially lower lows until november while alts got wiped in one candle\n\nso i dont think because there is not an immediate reaction to the downside it means the downtrend will not continue, the sellers are just more passive, & there are less apes to get liquidated on leverage"
         }
       ],
       "reads": {
-        "2115911844166852992": "No call",
         "2115913121185529917": "VIEW bearish on crypto market",
         "2115918213376831604": "No call: bullish on HYPE (65%, too unsure)",
         "2115931791446220896": "No call: bullish on HYPE (same view as before)",
@@ -1166,7 +1165,8 @@
         "2116150452341334257": "No call",
         "2116155738758234127": "No call",
         "2116159045027434970": "No call: bullish on HYPE (same view as before)",
-        "2116169037168206004": "No call"
+        "2116169037168206004": "No call",
+        "2116177144778768653": "No call: bearish on btc (same view as before)"
       },
       "replies": [
         {
@@ -1265,10 +1265,6 @@
         }
       ],
       "threads": {
-        "2111906147116413196": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111910811153105043": {
           "alerted": [],
           "self_replies": 0
@@ -1686,6 +1682,10 @@
         "2116169037168206004": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116177144778768653": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1694,7 +1694,6 @@
         "2115845085988573372": true,
         "2115849089736966360": false,
         "2115863963493892574": true,
-        "2115911844166852992": false,
         "2115913121185529917": true,
         "2115918213376831604": true,
         "2115931791446220896": true,
@@ -1723,7 +1722,8 @@
         "2116151592550613457": true,
         "2116155738758234127": false,
         "2116159045027434970": true,
-        "2116169037168206004": true
+        "2116169037168206004": true,
+        "2116177144778768653": true
       },
       "user_id": "973261472"
     },
@@ -6683,5 +6683,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T14:34:18+00:00"
+  "updated_at": "2026-10-30T14:36:22+00:00"
 }
