@@ -970,7 +970,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116224577336651805",
+      "last_id": "2116227468348604475",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1169,12 +1169,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-29T17:50:54.000Z",
-          "id": "2115863963493892574",
-          "reply_to_id": "2115859599702315511",
-          "text": "@fundstrat if you bought hype instead of eth you'd be the greatest of all time"
-        },
-        {
           "created_at": "2026-10-30T01:19:23.000Z",
           "id": "2115976828854632484",
           "reply_to_id": "2115972065530437998",
@@ -1261,6 +1255,12 @@
           "id": "2116224577336651805",
           "reply_to_id": "2116215389902266449",
           "text": "@CryptoUB what are you buying"
+        },
+        {
+          "created_at": "2026-10-30T17:55:20.000Z",
+          "id": "2116227468348604475",
+          "reply_to_id": "2116227184306122982",
+          "text": "@HYPEconomist yea i had not checked that in awhile"
         }
       ],
       "threads": {
@@ -1686,7 +1686,6 @@
         }
       },
       "trading": {
-        "2115863963493892574": true,
         "2115944683398648228": true,
         "2115947804170617056": true,
         "2115952993741033904": false,
@@ -1720,7 +1719,8 @@
         "2116212636543229973": false,
         "2116215486287642907": true,
         "2116220650058846455": true,
-        "2116224577336651805": true
+        "2116224577336651805": true,
+        "2116227468348604475": false
       },
       "user_id": "973261472"
     },
@@ -6680,5 +6680,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T17:53:24+00:00"
+  "updated_at": "2026-10-30T17:56:21+00:00"
 }
