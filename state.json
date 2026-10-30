@@ -2131,15 +2131,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2116166128359854389",
+      "last_id": "2116167987577114628",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-28T23:52:47.000Z",
-          "id": "2115592646643097624",
-          "quoted_text": "wait is this a shitpost? i've heard rumors about him abusing parm for months now but this is news to me https://t.co/EFoNiBdIEM",
-          "text": "confirmed real btw https://t.co/Evq8loHRLc"
-        },
         {
           "created_at": "2026-10-29T00:33:43.000Z",
           "id": "2115602948231446715",
@@ -2252,10 +2246,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2116155090243317760/img/_VgAgZf8Sgiexj8D.jpg"
           ],
           "text": "https://t.co/FmNNHNeEg6"
+        },
+        {
+          "created_at": "2026-10-30T13:58:59.000Z",
+          "id": "2116167987577114628",
+          "text": "what if bitcoin never goes up ever again"
         }
       ],
       "reads": {
-        "2115592646643097624": "No call",
         "2115602948231446715": "No call",
         "2115793379531346176": "No call",
         "2115898853237178469": "No call",
@@ -2273,7 +2271,8 @@
         "2115992592097984806": "No call",
         "2115992837963792571": "No call",
         "2116009844008497613": "No call",
-        "2116155200075395195": "No call"
+        "2116155200075395195": "No call",
+        "2116167987577114628": "No call"
       },
       "replies": [
         {
@@ -2621,10 +2620,13 @@
         "2116155200075395195": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116167987577114628": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115592646643097624": false,
         "2115602948231446715": true,
         "2115793379531346176": false,
         "2115898853237178469": false,
@@ -2658,7 +2660,8 @@
         "2116143483635319277": true,
         "2116155200075395195": false,
         "2116158475881304143": false,
-        "2116166128359854389": true
+        "2116166128359854389": true,
+        "2116167987577114628": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6682,5 +6685,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T13:52:17+00:00"
+  "updated_at": "2026-10-30T14:00:30+00:00"
 }
