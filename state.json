@@ -970,7 +970,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116215486287642907",
+      "last_id": "2116220650058846455",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1006,14 +1006,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T22:45:43.000Z",
-          "id": "2115938158437146768",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2115908589827276800/img/XpbCpMkLqHF3eFFg.jpg"
-          ],
-          "text": "I had a bad feeling about today but damn \ud83d\ude02 https://t.co/OrifZoifxT"
-        },
         {
           "created_at": "2026-10-29T23:11:39.000Z",
           "id": "2115944683398648228",
@@ -1142,10 +1134,18 @@
           ],
           "quoted_text": "0:00 - Hyperliquid x ICE news\n4:09 - $HYPE chart and levels\n7:04 - Kinetiq L2 &amp; coins to buy\n10:51 - Update on the $ETH short\n24:14 - Equities earnings carnage\n28:02 - Macro outlook and what to hold\n\noctober 30th, 2026 https://t.co/Yr0LpGl1GQ",
           "text": "i approach most trades with two types of setups: entering at key support or resistance levels, or positioning for a breakout or breakdown\n\nfor shorts, i'm looking to enter near resistance with a clear stop above, or trade a breakdown with invalidation above the previous range\n\nfor longs, the same logic applies in reverse\n\nthe important part is understanding how different timeframes connect\n\ncandles are fractal, so when the higher timeframe doesn't give me a clear entry, i move down to lower timeframes to find a better setup and manage risk more precisely"
+        },
+        {
+          "created_at": "2026-10-30T17:28:15.000Z",
+          "id": "2116220650058846455",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2116220293899280384/img/DYNVV6ERpSJF7qPK.jpg"
+          ],
+          "quoted_text": "@blknoiz06 good one\n\nthoughts on gold, btc/gold and btc/nasdaq",
+          "text": "https://t.co/b2UOuQXSaw https://t.co/CtWQaWZ9DA"
         }
       ],
       "reads": {
-        "2115938158437146768": "No call",
         "2115944683398648228": "No call",
         "2115947804170617056": "VIEW bearish on stocks/macro",
         "2115952993741033904": "No call",
@@ -1164,7 +1164,8 @@
         "2116177144778768653": "No call: bearish on btc (same view as before)",
         "2116201298102042686": "No call",
         "2116207443977871791": "No call",
-        "2116215486287642907": "No call"
+        "2116215486287642907": "No call",
+        "2116220650058846455": "No call"
       },
       "replies": [
         {
@@ -1263,10 +1264,6 @@
         }
       ],
       "threads": {
-        "2112224350330077223": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112271565538955334": {
           "alerted": [],
           "self_replies": 0
@@ -1682,12 +1679,15 @@
         "2116215486287642907": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116220650058846455": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2115849089736966360": false,
         "2115863963493892574": true,
-        "2115938158437146768": true,
         "2115944683398648228": true,
         "2115947804170617056": true,
         "2115952993741033904": false,
@@ -1719,7 +1719,8 @@
         "2116201298102042686": false,
         "2116207443977871791": false,
         "2116212636543229973": false,
-        "2116215486287642907": true
+        "2116215486287642907": true,
+        "2116220650058846455": true
       },
       "user_id": "973261472"
     },
@@ -6679,5 +6680,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T17:22:23+00:00"
+  "updated_at": "2026-10-30T17:30:36+00:00"
 }
