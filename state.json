@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2116050244727394321",
+      "last_id": "2116050798241300837",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -287,12 +287,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-27T19:58:13.000Z",
-          "id": "2115171228990464331",
-          "reply_to_id": "2115155964139635128",
-          "text": "@mansourtarek_ How does it compare when the user fills against an internal market making desk?"
-        },
-        {
           "created_at": "2026-10-27T21:10:11.000Z",
           "id": "2115189337600188702",
           "reply_to_id": "2114977945634631928",
@@ -378,6 +372,12 @@
           "id": "2116049978661667023",
           "reply_to_id": "2116049730367336527",
           "text": "@directioncorrec I don\u2019t think anyone would dispute that"
+        },
+        {
+          "created_at": "2026-10-30T06:13:19.000Z",
+          "id": "2116050798241300837",
+          "reply_to_id": "2116050292840321446",
+          "text": "@BeauneThugz Play chief keef - emojis"
         }
       ],
       "threads": {
@@ -791,7 +791,6 @@
         }
       },
       "trading": {
-        "2115171228990464331": true,
         "2115189337600188702": true,
         "2115197660810670197": false,
         "2115198137531011289": false,
@@ -825,7 +824,8 @@
         "2116017286054346784": false,
         "2116049376217039344": true,
         "2116049978661667023": false,
-        "2116050244727394321": false
+        "2116050244727394321": false,
+        "2116050798241300837": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6642,5 +6642,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-30T06:12:18+00:00"
+  "updated_at": "2026-10-30T06:14:16+00:00"
 }
