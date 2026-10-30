@@ -970,7 +970,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116201298102042686",
+      "last_id": "2116207443977871791",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1006,14 +1006,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T21:26:28.000Z",
-          "id": "2115918213376831604",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2115918118132563968/img/XDGrL6KFD1dOW9q_.jpg"
-          ],
-          "text": "i think some of the biggest opportunities around Hyperliquid over the next few years could come from the applications built on top of it\n\nequity perps are particularly interesting to me. Hyperliquid is heavily focused on infrastructure, which leaves room for teams to build better mobile trading experiences and gamified front ends\n\ni'm also watching Kinetiq and its upcoming Elysium L2\n\nHyperEVM has struggled to attract significant activity, and a faster execution environment could create new opportunities for developers and applications across the ecosystem\n\ni expect the next phase of competition around Hyperliquid to be increasingly focused on the user experience"
-        },
         {
           "created_at": "2026-10-29T22:20:25.000Z",
           "id": "2115931791446220896",
@@ -1144,10 +1136,14 @@
             "https://pbs.twimg.com/media/HV5B2sLXMAELiCU.jpg"
           ],
           "text": "what bro https://t.co/NHjIsxm7JV"
+        },
+        {
+          "created_at": "2026-10-30T16:35:46.000Z",
+          "id": "2116207443977871791",
+          "text": "when does the new world of warcraft drop"
         }
       ],
       "reads": {
-        "2115918213376831604": "No call: bullish on HYPE (65%, too unsure)",
         "2115931791446220896": "No call: bullish on HYPE (same view as before)",
         "2115938158437146768": "No call",
         "2115944683398648228": "No call",
@@ -1166,7 +1162,8 @@
         "2116159045027434970": "No call: bullish on HYPE (same view as before)",
         "2116169037168206004": "No call",
         "2116177144778768653": "No call: bearish on btc (same view as before)",
-        "2116201298102042686": "No call"
+        "2116201298102042686": "No call",
+        "2116207443977871791": "No call"
       },
       "replies": [
         {
@@ -1265,12 +1262,6 @@
         }
       ],
       "threads": {
-        "2112028564987990046": {
-          "alerted": [
-            "bias:paper:bullish"
-          ],
-          "self_replies": 0
-        },
         "2112036503463546953": {
           "alerted": [],
           "self_replies": 0
@@ -1686,13 +1677,16 @@
         "2116201298102042686": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116207443977871791": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2115845085988573372": true,
         "2115849089736966360": false,
         "2115863963493892574": true,
-        "2115918213376831604": true,
         "2115931791446220896": true,
         "2115938158437146768": true,
         "2115944683398648228": true,
@@ -1723,7 +1717,8 @@
         "2116177144778768653": true,
         "2116190470254784764": true,
         "2116200852750733428": true,
-        "2116201298102042686": false
+        "2116201298102042686": false,
+        "2116207443977871791": false
       },
       "user_id": "973261472"
     },
@@ -6683,5 +6678,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-30T16:12:31+00:00"
+  "updated_at": "2026-10-30T16:36:19+00:00"
 }
