@@ -5008,6 +5008,15 @@
     "taikimaeda2": {
       "backfilled": true,
       "biases": {
+        "alts": {
+          "market": "crypto",
+          "post_id": "2116128746172195070",
+          "reason": "Says most alts will 'continue to bleed to their fair value (zero)' in a K-shaped recovery, with only leaders like HYPE/ZEC holding up.",
+          "scope": "alts",
+          "since": "2026-10-30",
+          "stance": "bearish",
+          "updated_at": "2026-10-30T11:23:03.000Z"
+        },
         "btc": {
           "market": "crypto",
           "post_id": "2115829811130020148",
@@ -5038,7 +5047,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2115947947208868213",
+      "last_id": "2116128746172195070",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -5058,11 +5067,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-09-30T17:17:30.000Z",
-          "id": "2105346309108719825",
-          "text": "Very excited to be one of the hosts on the night.\n\nWatch live to hear my questionable commentary.\n\nSee you all in Singapore!\n\n#CoinbasePartner https://t.co/BVojcLC5Nv"
-        },
         {
           "created_at": "2026-10-04T06:47:24.000Z",
           "id": "2106637291267764557",
@@ -5204,10 +5208,15 @@
           ],
           "quoted_text": "How Zcash Flips Bitcoin This Cycle\n\n0:00 $ZEC flipping BTC?\n1:20 Second Mover Advantage\n3:41 Project Tachyon: Path to 50k TPS\n5:39 How To Think About Zcash\n13:05 How Zcash gets to $20k\n15:13 Their Bias is Your Opportunity https://t.co/osxE0UNUlb https://t.co/90W3zL5mIH",
           "text": "$ZEC is an extremely misunderstood asset, which is why there's still so much upside left.\n\nZEC started to bottom around April 2025, when @ebfull shared a blog post about Project Tachyon. Tachyon makes Zcash quantum proof and paves the way to scale Zcash to 50k TPS. And you cannot address quantum without addressing scalability since post-quantum cryptographic signatures are going to be an order of magnitude larger.\n\nAt the risk of sounding hyperbolic, the real bull case for Zcash is to fulfill Satoshi's vision: becoming peer-to-peer electronic digital cash. What many Bitcoiners gave up on. Zcash has the same properties as BTC, except it has a credible roadmap to scale to 50k TPS at the base layer, with built-in privacy. It's extremely ambitious, but that is the vision.\n\nAt the same time, I expect Bitcoin to undergo a crisis of confidence. Crypto participants have been conditioned to blindly believe BTC will hit new highs every couple of years. I believe these assumptions will be challenged as the quantum overhang looms large, and continued underperformance will drive more flows into ZEC. I would not be surprised if BTC trades like ETH last cycle.\n\nPeter Thiel talks about the \"Last Mover Advantage.\" That is, it's far better to make the last great development in a market and then dominate. Facebook vs Myspace. Google vs Yahoo. Zcash has dominated a small niche (privacy), and then it plans to scale to the ambitious goal, which is peer-to-peer electronic cash.\n\nThe ZEC trade closely resembles the SOL trade last cycle. ZEC's ability to move fast challenges a slow-moving incumbent (BTC), similar to how SOL challenged the ivory tower of ETH. History doesn't repeat, but it often rhymes.\n\nThere\u2019s a fundamental mismatch between why Zcash is going up (Tachyon + last mover advantage) and the broader market\u2019s understanding (\"just a privacy coin\"). Understanding this is a form of alpha/edge. I expect this knowledge gap to close when Tachyon hits mainnet in Q1 2027.\n\nAs a result, I expect the following over the next 1-2yrs:\n1) Bitcoiners will start \"silent quitting\" and begin hedging their holdings with ZEC\n2) Capital allocators that may have full ported BTC 5 years ago, will buy both ZEC and BTC as a bet on a sovereign SoV\n3) Smart crypto developers to move on from other ecosystems to start contributing to Zcash\n4) As ZEC continues to outperform BTC, people will start to seriously entertain the possibility of a flippening\n5) $20,000 ZEC\n\nZigher."
+        },
+        {
+          "created_at": "2026-10-30T11:23:03.000Z",
+          "id": "2116128746172195070",
+          "quoted_text": "Expect a K-shaped recovery for crypto moving forward https://t.co/L6pSebe6V8",
+          "text": "1 year later, the K-shaped recovery in crypto continues.\n\nExpect the leaders to keep leading (HYPE/ZEC) while most alts continue to bleed to their fair value (zero). https://t.co/OQq0bmifFm"
         }
       ],
       "reads": {
-        "2105346309108719825": "No call",
         "2106637291267764557": "No call",
         "2107265085433606342": "TRADE LONG ZEC",
         "2108258820992774570": "No call",
@@ -5226,7 +5235,8 @@
         "2110791692924399705": "No call",
         "2112591044860862821": "No call",
         "2112656777418244258": "No call",
-        "2115829811130020148": "VIEW bearish on btc"
+        "2115829811130020148": "VIEW bearish on btc",
+        "2116128746172195070": "VIEW bearish on alts"
       },
       "replies": [
         {
@@ -5412,10 +5422,15 @@
             "bias:btc:bearish"
           ],
           "self_replies": 0
+        },
+        "2116128746172195070": {
+          "alerted": [
+            "bias:alts:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2105346309108719825": false,
         "2106637291267764557": false,
         "2107265085433606342": true,
         "2108258820992774570": true,
@@ -5449,7 +5464,8 @@
         "2115829811130020148": true,
         "2115849476346925078": false,
         "2115918451411935743": false,
-        "2115947947208868213": true
+        "2115947947208868213": true,
+        "2116128746172195070": true
       },
       "user_id": "1064421325186359296"
     },
@@ -6640,5 +6656,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-29",
-  "updated_at": "2026-10-30T11:18:26+00:00"
+  "updated_at": "2026-10-30T11:24:22+00:00"
 }
