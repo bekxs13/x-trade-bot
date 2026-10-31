@@ -5531,7 +5531,7 @@
       "biases": {},
       "closed": [],
       "handle": "thecryptonexus",
-      "last_id": "2116504822602248431",
+      "last_id": "2116505110675116441",
       "positions": {
         "FREN PET (FP)": {
           "asset": "Fren Pet (FP)",
@@ -5565,11 +5565,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-06T01:04:56.000Z",
-          "id": "2107275881777639547",
-          "text": "I also clarified that it wasn\u2019t specifically about that tweet\n\nAll you have to do is look at dudes feed for like 2 seconds and it\u2019s immediately apparent lmfao https://t.co/nGudAmy8uj https://t.co/G5bjN0bFc6"
-        },
         {
           "created_at": "2026-10-06T01:10:15.000Z",
           "id": "2107277220171669870",
@@ -5691,10 +5686,15 @@
           "created_at": "2026-10-29T18:50:41.000Z",
           "id": "2115879008546197672",
           "text": "JUST WOKE UP OMG\n\nHYPERLIQUID"
+        },
+        {
+          "created_at": "2026-10-31T12:18:35.000Z",
+          "id": "2116505110675116441",
+          "reply_to_id": "2116504822602248431",
+          "text": "@BittexXBT @mk4_lul But is obv TP/short inflection as a news trade for any ltf traders"
         }
       ],
       "reads": {
-        "2107275881777639547": "No call",
         "2107277220171669870": "TRADE LONG FREN PET (FP)",
         "2107288860699099415": "No call",
         "2107333331968835746": "TRADE LONG HYPE",
@@ -5903,7 +5903,6 @@
         }
       },
       "trading": {
-        "2107275881777639547": false,
         "2107277220171669870": false,
         "2107288860699099415": false,
         "2107333331968835746": false,
@@ -5937,7 +5936,8 @@
         "2115393661454438581": false,
         "2115395132409160025": false,
         "2115879008546197672": true,
-        "2116504822602248431": true
+        "2116504822602248431": true,
+        "2116505110675116441": true
       },
       "user_id": "1392152416854765571"
     },
@@ -6713,5 +6713,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-31",
-  "updated_at": "2026-10-31T12:18:16+00:00"
+  "updated_at": "2026-10-31T12:20:23+00:00"
 }
