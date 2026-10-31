@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2116316365602926868",
+      "last_id": "2116347053747863971",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,11 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-28T18:01:32.000Z",
-          "id": "2115504250197578215",
-          "text": "\"The company always comes first.\"\nKalshi Co-Founders Tarek Mansour and Luana Lopes Lara on dating at MIT, competing in the classroom, breaking up \u2014 and building a company together."
-        },
         {
           "created_at": "2026-10-28T18:13:27.000Z",
           "id": "2115507251884839104",
@@ -270,10 +265,17 @@
             "https://pbs.twimg.com/media/HV5z7o1WYAEbFTn.jpg"
           ],
           "text": "Life lately https://t.co/67VCmVR6jS"
+        },
+        {
+          "created_at": "2026-10-31T01:50:32.000Z",
+          "id": "2116347053747863971",
+          "images": [
+            "https://pbs.twimg.com/media/HV7GbeyXcAANkjB.jpg"
+          ],
+          "text": "https://t.co/LQXE6qxv0t"
         }
       ],
       "reads": {
-        "2115504250197578215": "No call",
         "2115507251884839104": "No call",
         "2115531471092154614": "No call",
         "2115670337992155179": "No call",
@@ -292,7 +294,8 @@
         "2116217175962776030": "No call: bearish on semis/ai stocks (60%, too unsure)",
         "2116218895573143641": "No call",
         "2116233910392918375": "No call",
-        "2116256357447860345": "No call"
+        "2116256357447860345": "No call",
+        "2116347053747863971": "No call"
       },
       "replies": [
         {
@@ -390,10 +393,6 @@
         }
       ],
       "threads": {
-        "2111366152803021027": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2111530353236263050": {
           "alerted": [],
           "self_replies": 0
@@ -797,10 +796,13 @@
         "2116256357447860345": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116347053747863971": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115504250197578215": false,
         "2115507251884839104": true,
         "2115531471092154614": false,
         "2115532388805816747": false,
@@ -834,7 +836,8 @@
         "2116234322436927998": false,
         "2116256357447860345": false,
         "2116303690239758739": false,
-        "2116316365602926868": false
+        "2116316365602926868": false,
+        "2116347053747863971": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6698,5 +6701,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-31T01:36:31+00:00"
+  "updated_at": "2026-10-31T01:54:40+00:00"
 }
