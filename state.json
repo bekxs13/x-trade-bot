@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2116355857705578604",
+      "last_id": "2116502969181200779",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,11 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-28T18:13:27.000Z",
-          "id": "2115507251884839104",
-          "text": "FED VOTES 10-2 TO HOLD BENCHMARK RATE IN 3.75%-4% RANGE\n\n*FED: ACCUMULATION OF MORE INFO WILL HELP DETERMINE POLICY\n\n*FED: COOK AND BASED16Z DISSENT IN FAVOR OF RATE HIKE"
-        },
         {
           "created_at": "2026-10-28T19:49:42.000Z",
           "id": "2115531471092154614",
@@ -273,10 +268,17 @@
             "https://pbs.twimg.com/media/HV7GbeyXcAANkjB.jpg"
           ],
           "text": "https://t.co/LQXE6qxv0t"
+        },
+        {
+          "created_at": "2026-10-31T12:10:05.000Z",
+          "id": "2116502969181200779",
+          "images": [
+            "https://pbs.twimg.com/media/HV9UOvGWUAATaJb.jpg"
+          ],
+          "text": "https://t.co/KWHaL297fG"
         }
       ],
       "reads": {
-        "2115507251884839104": "No call",
         "2115531471092154614": "No call",
         "2115670337992155179": "No call",
         "2115838277895008549": "No call",
@@ -295,7 +297,8 @@
         "2116218895573143641": "No call",
         "2116233910392918375": "No call",
         "2116256357447860345": "No call",
-        "2116347053747863971": "No call"
+        "2116347053747863971": "No call",
+        "2116502969181200779": "No call"
       },
       "replies": [
         {
@@ -393,10 +396,6 @@
         }
       ],
       "threads": {
-        "2111530353236263050": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111569149516460336": {
           "alerted": [],
           "self_replies": 0
@@ -800,10 +799,13 @@
         "2116347053747863971": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116502969181200779": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115507251884839104": true,
         "2115531471092154614": false,
         "2115533041611505703": false,
         "2115627975916011551": false,
@@ -837,7 +839,8 @@
         "2116303690239758739": false,
         "2116316365602926868": false,
         "2116347053747863971": false,
-        "2116355857705578604": false
+        "2116355857705578604": false,
+        "2116502969181200779": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6710,5 +6713,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-31",
-  "updated_at": "2026-10-31T12:00:23+00:00"
+  "updated_at": "2026-10-31T12:10:21+00:00"
 }
