@@ -2145,14 +2145,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2116571260113076678",
+      "last_id": "2116644929069785446",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-29T20:28:59.000Z",
-          "id": "2115903745007747572",
-          "text": "absolute cinema how the actual dram names like sk hynix and sandisk pump out stellar earnings but because other ai stocks shit the bed and go down 13 and 20% respectively memory has to go down for stat arb beta reasons"
-        },
         {
           "created_at": "2026-10-29T21:06:21.000Z",
           "id": "2115913150314787235",
@@ -2262,10 +2257,18 @@
           "id": "2116419869730029956",
           "quoted_text": "buy https://t.co/NDXdbAQnGj",
           "text": "Fuck you https://t.co/k5ncPyddAZ"
+        },
+        {
+          "created_at": "2026-10-31T21:34:11.000Z",
+          "id": "2116644929069785446",
+          "images": [
+            "https://pbs.twimg.com/media/HV_VVv7XUAAhfEK.jpg",
+            "https://pbs.twimg.com/media/HV_VVvXXsAA2-KI.jpg"
+          ],
+          "text": "i shop at thom sweeney ONCE and immediately get these emails \ud83d\ude2d https://t.co/GQoDHMwRII"
         }
       ],
       "reads": {
-        "2115903745007747572": "No call: bullish on memory stocks (same view as before)",
         "2115913150314787235": "No call",
         "2115913424668622937": "No call",
         "2115919286568927693": "No call",
@@ -2282,7 +2285,8 @@
         "2116261536964755964": "No call",
         "2116287785753554948": "No call: bullish on big tech (60%, too unsure)",
         "2116343046484947007": "No call",
-        "2116419869730029956": "No call"
+        "2116419869730029956": "No call",
+        "2116644929069785446": "No call"
       },
       "replies": [
         {
@@ -2650,10 +2654,13 @@
         "2116419869730029956": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116644929069785446": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115903745007747572": true,
         "2115913150314787235": true,
         "2115913424668622937": true,
         "2115915101710794988": false,
@@ -2687,7 +2694,8 @@
         "2116288080684720638": false,
         "2116343046484947007": false,
         "2116419869730029956": false,
-        "2116571260113076678": false
+        "2116571260113076678": false,
+        "2116644929069785446": false
       },
       "user_id": "1598545553327067137"
     },
@@ -4349,7 +4357,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2116644319323132393",
+      "last_id": "2116645370776187113",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4522,12 +4530,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-30T11:43:51.000Z",
-          "id": "2116133978692313483",
-          "reply_to_id": "2116133883389370587",
-          "text": "@tomthomas90 the total number doesn't matter that much if the laptop theory is real"
-        },
-        {
           "created_at": "2026-10-30T11:47:22.000Z",
           "id": "2116134866177642642",
           "reply_to_id": "2116128718657581424",
@@ -4610,6 +4612,12 @@
           "id": "2116644319323132393",
           "reply_to_id": "2116634474872246580",
           "text": "@_tolks chart looks good"
+        },
+        {
+          "created_at": "2026-10-31T21:35:56.000Z",
+          "id": "2116645370776187113",
+          "reply_to_id": "2116645253507916274",
+          "text": "@based_d0m @slander_eth dog"
         }
       ],
       "threads": {
@@ -5037,7 +5045,6 @@
         "2116130232549998912": false,
         "2116132127742074961": false,
         "2116133871590785276": false,
-        "2116133978692313483": false,
         "2116134866177642642": false,
         "2116135273209745769": false,
         "2116138477729542270": true,
@@ -5058,7 +5065,8 @@
         "2116260603983720632": false,
         "2116351169970758062": false,
         "2116364853237727473": false,
-        "2116644319323132393": true
+        "2116644319323132393": true,
+        "2116645370776187113": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6713,5 +6721,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-31",
-  "updated_at": "2026-10-31T21:32:22+00:00"
+  "updated_at": "2026-10-31T21:36:24+00:00"
 }
