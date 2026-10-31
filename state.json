@@ -2139,15 +2139,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2116343046484947007",
+      "last_id": "2116419869730029956",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-29T20:19:30.000Z",
-          "id": "2115901361728479470",
-          "quoted_text": "BREAKING: Legendary British actor Sir Patrick Stewart has died at the age of 86, his family announces.\n\nBest known for portraying Captain Jean-Luc Picard in Star Trek and Professor X in X-Men, Stewart passed away Wednesday at his Los Angeles home following a battle with Alzheimer's disease and Lewy body dementia.",
-          "text": "NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO https://t.co/EnJYMJ4OZM"
-        },
         {
           "created_at": "2026-10-29T20:28:59.000Z",
           "id": "2115903745007747572",
@@ -2256,10 +2250,15 @@
           "id": "2116343046484947007",
           "quoted_text": "BREAKING: OpenAI CEO Sam Altman says having RAM in personal computers is an inefficient use of the world\u2019s limited DRAM supply, arguing it would be better allocated to data centers, per Tom\u2019s Hardware",
           "text": "lol https://t.co/VZqVo7wZTh"
+        },
+        {
+          "created_at": "2026-10-31T06:39:52.000Z",
+          "id": "2116419869730029956",
+          "quoted_text": "buy https://t.co/NDXdbAQnGj",
+          "text": "Fuck you https://t.co/k5ncPyddAZ"
         }
       ],
       "reads": {
-        "2115901361728479470": "No call",
         "2115903745007747572": "No call: bullish on memory stocks (same view as before)",
         "2115913150314787235": "No call",
         "2115913424668622937": "No call",
@@ -2276,7 +2275,8 @@
         "2116167987577114628": "No call",
         "2116261536964755964": "No call",
         "2116287785753554948": "No call: bullish on big tech (60%, too unsure)",
-        "2116343046484947007": "No call"
+        "2116343046484947007": "No call",
+        "2116419869730029956": "No call"
       },
       "replies": [
         {
@@ -2640,10 +2640,13 @@
         "2116343046484947007": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116419869730029956": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115901361728479470": false,
         "2115903745007747572": true,
         "2115913150314787235": true,
         "2115913424668622937": true,
@@ -2677,7 +2680,8 @@
         "2116287785753554948": true,
         "2116288026305556791": false,
         "2116288080684720638": false,
-        "2116343046484947007": false
+        "2116343046484947007": false,
+        "2116419869730029956": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6703,5 +6707,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-31T06:12:15+00:00"
+  "updated_at": "2026-10-31T06:40:28+00:00"
 }
