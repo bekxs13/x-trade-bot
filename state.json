@@ -980,7 +980,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116382090505732124",
+      "last_id": "2116428709150478840",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1016,11 +1016,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T01:02:29.000Z",
-          "id": "2115972574668857526",
-          "text": "a wise man once told me you move too fast when trying to make money and move too slow when trying to keep it"
-        },
         {
           "created_at": "2026-10-30T01:17:49.000Z",
           "id": "2115976433302409694",
@@ -1158,10 +1153,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2116381863346634752/img/XWbifNzbzuN014HH.jpg"
           ],
           "text": "time is an underrated part of risk management when trading lower timeframes\n\nwhen i enter a trade expecting a sharp move, i want price to react relatively quickly\n\nif Bitcoin is sitting around my entry for too long without moving in the direction i expected, i start questioning the setup\n\nthe advantage of trading lower timeframes is that you can recognize when something isn't working much earlier\n\nsometimes i'll exit a trade simply because it's taking too long to play out, even if my stop hasn't been hit\n\nprice and time both matter when deciding whether a trade is still worth taking"
+        },
+        {
+          "created_at": "2026-10-31T07:15:00.000Z",
+          "id": "2116428709150478840",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2116382616131964928/img/mJPsANzFK-6zILG8.jpg"
+          ],
+          "text": "i've been thinking about the possibility that crypto topped before equities this cycle\n\nif the recent bounce is just a countertrend move and stocks are only now beginning a larger correction, crypto could still have another leg lower\n\ni'm not fully convinced that's the scenario we're heading into, but i think it's worth considering given how much AI and equities have driven risk appetite this cycle\n\nBitcoin could also find its bottom before the broader equity market does, even if both continue selling off in the near term\n\ni'm keeping an open mind and watching how price reacts as these markets approach important levels"
         }
       ],
       "reads": {
-        "2115972574668857526": "No call",
         "2115976433302409694": "No call: bearish on crypto market (same view as before)",
         "2116012108693610757": "No call",
         "2116036122308415825": "No call",
@@ -1180,7 +1182,8 @@
         "2116251607323365843": "No call",
         "2116268402729734241": "No call",
         "2116285263932538959": "No call: bearish on stocks/macro (same view as before)",
-        "2116382090505732124": "No call"
+        "2116382090505732124": "No call",
+        "2116428709150478840": "No call: bearish on crypto market (60%, too unsure)"
       },
       "replies": [
         {
@@ -1279,10 +1282,6 @@
         }
       ],
       "threads": {
-        "2112591153925332992": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112646286117576850": {
           "alerted": [],
           "self_replies": 0
@@ -1696,10 +1695,13 @@
         "2116382090505732124": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116428709150478840": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115972574668857526": false,
         "2115976433302409694": true,
         "2115976828854632484": false,
         "2115977167171731779": true,
@@ -1733,7 +1735,8 @@
         "2116251607323365843": true,
         "2116268402729734241": true,
         "2116285263932538959": true,
-        "2116382090505732124": true
+        "2116382090505732124": true,
+        "2116428709150478840": true
       },
       "user_id": "973261472"
     },
@@ -6707,5 +6710,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-31T06:40:28+00:00"
+  "updated_at": "2026-10-31T07:16:33+00:00"
 }
