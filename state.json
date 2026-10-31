@@ -4339,7 +4339,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2116351169970758062",
+      "last_id": "2116364853237727473",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4375,12 +4375,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T15:12:42.000Z",
-          "id": "2115824151042883677",
-          "quoted_text": "you run a fund and don\u2019t hold the only asset stanley druckenmiller has ever tweeted about?",
-          "text": "are you smarter than stanley druckenmiller and elon musk? https://t.co/okcY5xX7t0"
-        },
         {
           "created_at": "2026-10-29T17:28:41.000Z",
           "id": "2115858374218928131",
@@ -4485,10 +4479,18 @@
           "id": "2116259889974525991",
           "quoted_text": "TRUMP: LOOKING AT BINANCE HACK: BBG",
           "text": "please stop https://t.co/fJhODGZCK1"
+        },
+        {
+          "created_at": "2026-10-31T03:01:15.000Z",
+          "id": "2116364853237727473",
+          "images": [
+            "https://pbs.twimg.com/media/HV7WniYXoAA1Tu0.jpg"
+          ],
+          "reply_to_id": "2116351169970758062",
+          "text": "@d_gilz still good to do it https://t.co/cEUGbE6B6Y"
         }
       ],
       "reads": {
-        "2115824151042883677": "No call: bullish on HYPE (same view as before)",
         "2115858374218928131": "No call",
         "2115861507884110173": "No call",
         "2115897932767760834": "No call",
@@ -5012,7 +5014,6 @@
         }
       },
       "trading": {
-        "2115824151042883677": true,
         "2115858374218928131": true,
         "2115861507884110173": true,
         "2115897932767760834": true,
@@ -5046,7 +5047,8 @@
         "2116253818208023006": false,
         "2116259889974525991": false,
         "2116260603983720632": false,
-        "2116351169970758062": false
+        "2116351169970758062": false,
+        "2116364853237727473": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6701,5 +6703,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-31T02:26:17+00:00"
+  "updated_at": "2026-10-31T03:02:25+00:00"
 }
