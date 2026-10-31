@@ -980,7 +980,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2116285263932538959",
+      "last_id": "2116382090505732124",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1016,12 +1016,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T23:59:12.000Z",
-          "id": "2115956651371139456",
-          "quoted_text": "i think in these situations you almost always buy the hack selloff but this one seems different \n\npotential war resumption, earnings puke/ai trade popped, oil looking insane, gold still weak as shit, midterms, security/hack fears, etc it's endless &amp; not an isolated event",
-          "text": "not great https://t.co/htCyC4MSOb"
-        },
         {
           "created_at": "2026-10-30T01:02:29.000Z",
           "id": "2115972574668857526",
@@ -1156,10 +1150,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2116253477211176960/img/OGBqnfzQ7pXytPe1.jpg"
           ],
           "text": "the way crypto trades around all-time highs has changed significantly since 2017\n\nback then, buying new highs was one of my most reliable setups. by 2021, i started getting punished for trading those breakouts the same way\n\nmarkets began consolidating around previous highs, breaking out briefly, then reversing aggressively\n\ni've had to adapt by paying much closer attention to failed breakouts and how price reacts when it retests key levels\n\nwith equities also showing signs of weakness, i'm watching the NASDAQ and S&P 500 closely\n\na normal 10% correction in stocks could still create significant downside pressure for crypto"
+        },
+        {
+          "created_at": "2026-10-31T04:09:45.000Z",
+          "id": "2116382090505732124",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2116381863346634752/img/XWbifNzbzuN014HH.jpg"
+          ],
+          "text": "time is an underrated part of risk management when trading lower timeframes\n\nwhen i enter a trade expecting a sharp move, i want price to react relatively quickly\n\nif Bitcoin is sitting around my entry for too long without moving in the direction i expected, i start questioning the setup\n\nthe advantage of trading lower timeframes is that you can recognize when something isn't working much earlier\n\nsometimes i'll exit a trade simply because it's taking too long to play out, even if my stop hasn't been hit\n\nprice and time both matter when deciding whether a trade is still worth taking"
         }
       ],
       "reads": {
-        "2115956651371139456": "No call: bearish on crypto market (same view as before)",
         "2115972574668857526": "No call",
         "2115976433302409694": "No call: bearish on crypto market (same view as before)",
         "2116012108693610757": "No call",
@@ -1178,7 +1179,8 @@
         "2116220650058846455": "No call",
         "2116251607323365843": "No call",
         "2116268402729734241": "No call",
-        "2116285263932538959": "No call: bearish on stocks/macro (same view as before)"
+        "2116285263932538959": "No call: bearish on stocks/macro (same view as before)",
+        "2116382090505732124": "No call"
       },
       "replies": [
         {
@@ -1277,12 +1279,6 @@
         }
       ],
       "threads": {
-        "2112585897531334903": {
-          "alerted": [
-            "bias:vvv:bullish"
-          ],
-          "self_replies": 0
-        },
         "2112591153925332992": {
           "alerted": [],
           "self_replies": 0
@@ -1696,10 +1692,13 @@
         "2116285263932538959": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116382090505732124": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115956651371139456": true,
         "2115972574668857526": false,
         "2115976433302409694": true,
         "2115976828854632484": false,
@@ -1733,7 +1732,8 @@
         "2116227468348604475": false,
         "2116251607323365843": true,
         "2116268402729734241": true,
-        "2116285263932538959": true
+        "2116285263932538959": true,
+        "2116382090505732124": true
       },
       "user_id": "973261472"
     },
@@ -6703,5 +6703,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-10-30",
-  "updated_at": "2026-10-31T04:04:16+00:00"
+  "updated_at": "2026-10-31T04:10:24+00:00"
 }
