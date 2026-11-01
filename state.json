@@ -2143,15 +2143,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2116923299544662184",
+      "last_id": "2116944821961347231",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-29T21:14:06.000Z",
-          "id": "2115915101710794988",
-          "reply_to_id": "2115915050246357275",
-          "text": "@based16z this shit is so ass"
-        },
         {
           "created_at": "2026-10-29T21:30:44.000Z",
           "id": "2115919286568927693",
@@ -2264,6 +2258,12 @@
           "id": "2116915274268233825",
           "quoted_text": "@DeepDishEnjoyer Measure theory is just the formal grounding for continuous probability theory. It\u2019s not the theory itself.\n\nSaying you can\u2019t understand probability without measure theory is like saying Newton didn\u2019t understand calculus because he didn\u2019t have Cauchy\u2019s epsilon-delta formalisation.",
           "text": "That's absolutely right! Newton did NOT understand calculus!!!! https://t.co/CmBtJCl65n"
+        },
+        {
+          "created_at": "2026-11-01T17:25:14.000Z",
+          "id": "2116944670144028752",
+          "reply_to_id": "2116944584899187187",
+          "text": "@0xfdf also courtesy like or else"
         }
       ],
       "reads": {
@@ -2287,18 +2287,6 @@
         "2116915274268233825": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-30T02:18:59.000Z",
-          "id": "2115991827597672886",
-          "reply_to_id": "2115988029559234681",
-          "text": "@Ocean42668833 dude this is regular trading hours for sk hynix and samsung lol"
-        },
-        {
-          "created_at": "2026-10-30T03:09:41.000Z",
-          "id": "2116004586448158880",
-          "reply_to_id": "2116002826568810782",
-          "text": "@based16z sorry about your prime numbers getting stolen or whatever\n\ndm me address ill send you a care basket"
-        },
         {
           "created_at": "2026-10-30T03:50:58.000Z",
           "id": "2116014974120390786",
@@ -2379,6 +2367,18 @@
           "id": "2116923299544662184",
           "reply_to_id": "2116922898816655626",
           "text": "@luckyatr sure, but he didn't have any"
+        },
+        {
+          "created_at": "2026-11-01T17:24:54.000Z",
+          "id": "2116944584899187187",
+          "reply_to_id": "2116943632808771707",
+          "text": "@0xfdf that notion of limits had been around since the ancient greeks. this isn't a knock on newton, but calculus involves some very unintuitive, involved concepts!"
+        },
+        {
+          "created_at": "2026-11-01T17:25:51.000Z",
+          "id": "2116944821961347231",
+          "reply_to_id": "2116938063163347403",
+          "text": "@RezabekA depends on the use case!"
         }
       ],
       "threads": {
@@ -2670,17 +2670,14 @@
         }
       },
       "trading": {
-        "2115915101710794988": false,
         "2115919286568927693": false,
         "2115930736679366933": false,
         "2115953967297650762": true,
         "2115954676289917102": true,
         "2115962255317860705": true,
         "2115980760347758721": true,
-        "2115991827597672886": true,
         "2115992592097984806": false,
         "2115992837963792571": false,
-        "2116004586448158880": false,
         "2116009844008497613": true,
         "2116014974120390786": false,
         "2116143483635319277": true,
@@ -2704,7 +2701,10 @@
         "2116900282831450381": false,
         "2116915274268233825": false,
         "2116920634462921175": true,
-        "2116923299544662184": false
+        "2116923299544662184": false,
+        "2116944584899187187": false,
+        "2116944670144028752": false,
+        "2116944821961347231": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6730,5 +6730,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-01",
-  "updated_at": "2026-11-01T17:04:17+00:00"
+  "updated_at": "2026-11-01T17:26:20+00:00"
 }
