@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2116832164394553471",
+      "last_id": "2116938816820752609",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,14 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T05:01:30.000Z",
-          "id": "2115670337992155179",
-          "images": [
-            "https://pbs.twimg.com/media/HVxe5ambAAA-uq1.jpg"
-          ],
-          "text": "My  friend got iPhone   duo https://t.co/jLr9OnLkwx"
-        },
         {
           "created_at": "2026-10-29T16:08:50.000Z",
           "id": "2115838277895008549",
@@ -276,10 +268,15 @@
             "https://pbs.twimg.com/media/HWB_olmWwAAAy_2.jpg"
           ],
           "text": "Us https://t.co/ilcgOGdBUq"
+        },
+        {
+          "created_at": "2026-11-01T17:01:59.000Z",
+          "id": "2116938816820752609",
+          "quoted_text": "Day 5 no nicotine. Going strong.",
+          "text": "Guy who is about to relapse: https://t.co/y513B1ghqA"
         }
       ],
       "reads": {
-        "2115670337992155179": "No call",
         "2115838277895008549": "No call",
         "2115859362371797420": "No call",
         "2115894855696372172": "No call",
@@ -298,7 +295,8 @@
         "2116256357447860345": "No call",
         "2116347053747863971": "No call",
         "2116502969181200779": "No call",
-        "2116832164394553471": "No call"
+        "2116832164394553471": "No call",
+        "2116938816820752609": "No call"
       },
       "replies": [
         {
@@ -396,10 +394,6 @@
         }
       ],
       "threads": {
-        "2111910696162414895": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111925607269589125": {
           "alerted": [],
           "self_replies": 0
@@ -803,11 +797,14 @@
         "2116832164394553471": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2116938816820752609": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2115627975916011551": false,
-        "2115670337992155179": false,
         "2115670751340810438": false,
         "2115838277895008549": true,
         "2115859362371797420": false,
@@ -840,7 +837,8 @@
         "2116355857705578604": false,
         "2116502969181200779": false,
         "2116506772731253184": false,
-        "2116832164394553471": false
+        "2116832164394553471": false,
+        "2116938816820752609": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6732,5 +6730,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-01",
-  "updated_at": "2026-11-01T16:02:18+00:00"
+  "updated_at": "2026-11-01T17:02:23+00:00"
 }
