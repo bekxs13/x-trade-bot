@@ -5539,7 +5539,7 @@
       "biases": {},
       "closed": [],
       "handle": "thecryptonexus",
-      "last_id": "2117136091845370118",
+      "last_id": "2117136535825133937",
       "positions": {
         "FREN PET (FP)": {
           "asset": "Fren Pet (FP)",
@@ -5573,11 +5573,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-06T01:56:30.000Z",
-          "id": "2107288860699099415",
-          "text": "Ayo where can i buy a PS5 Pro that\u2019ll ship fast to UK? \n\nHappy to pay over MSRP"
-        },
         {
           "created_at": "2026-10-06T04:53:13.000Z",
           "id": "2107333331968835746",
@@ -5701,10 +5696,15 @@
           "id": "2117136091845370118",
           "quoted_text": "BREAKING: New footage captures the aircraft crash in Greenacres, Florida.\n\nPreliminary information suggests the aircraft that crashed is a business jet. https://t.co/pMEsJerhgZ",
           "text": "Enemy predator missile inbound https://t.co/v8NDcKV1kL"
+        },
+        {
+          "created_at": "2026-11-02T06:07:39.000Z",
+          "id": "2117136535825133937",
+          "reply_to_id": "2117136091845370118",
+          "text": "Imsorryihadto"
         }
       ],
       "reads": {
-        "2107288860699099415": "No call",
         "2107333331968835746": "TRADE LONG HYPE",
         "2107896878436077724": "No call",
         "2109289019242868954": "No call",
@@ -5720,7 +5720,8 @@
         "2113959190905372775": "No call",
         "2115393661454438581": "No call",
         "2115879008546197672": "No call",
-        "2117136091845370118": "No call"
+        "2117136091845370118": "No call",
+        "2117136535825133937": "No call"
       },
       "replies": [
         {
@@ -5912,11 +5913,10 @@
         },
         "2117136091845370118": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2107288860699099415": false,
         "2107333331968835746": false,
         "2107896878436077724": true,
         "2109289019242868954": false,
@@ -5950,7 +5950,8 @@
         "2116504822602248431": true,
         "2116505110675116441": true,
         "2116507057574564181": false,
-        "2117136091845370118": false
+        "2117136091845370118": false,
+        "2117136535825133937": false
       },
       "user_id": "1392152416854765571"
     },
@@ -6726,5 +6727,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-01",
-  "updated_at": "2026-11-02T06:06:22+00:00"
+  "updated_at": "2026-11-02T06:08:25+00:00"
 }
