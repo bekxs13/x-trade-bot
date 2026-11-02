@@ -4368,7 +4368,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2117402892847943695",
+      "last_id": "2117403055843086831",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4404,11 +4404,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T22:32:01.000Z",
-          "id": "2115934711101137273",
-          "text": "yooo not to be that guy but uhh has anyone seen oil price uh"
-        },
         {
           "created_at": "2026-10-29T23:54:14.000Z",
           "id": "2115955400180719737",
@@ -4525,10 +4520,17 @@
             "https://pbs.twimg.com/media/HWKGtZUXIAAAZa_.jpg"
           ],
           "text": "TRYING MRES FROM 1988. LETS SEE HOW BAD BUNKER MORE REALLY IS. 845am est. TOMORROW. https://t.co/2TGxfFfRAm"
+        },
+        {
+          "created_at": "2026-11-02T23:46:42.000Z",
+          "id": "2117403055843086831",
+          "images": [
+            "https://pbs.twimg.com/media/HWKG208XMAE2iY8.jpg"
+          ],
+          "text": "TRYING MRES FROM 1988. LETS SEE HOW BAD BUNKER MODE REALLY IS. 845am est. TOMORROW. https://t.co/5J5OWaIBsA"
         }
       ],
       "reads": {
-        "2115934711101137273": "No call",
         "2115955400180719737": "No call",
         "2116127249162489957": "No call",
         "2116130232549998912": "No call",
@@ -4545,7 +4547,8 @@
         "2117327802865188877": "No call",
         "2117328384795758713": "No call",
         "2117338129883656671": "No call",
-        "2117402892847943695": "No call"
+        "2117402892847943695": "No call",
+        "2117403055843086831": "No call"
       },
       "replies": [
         {
@@ -4640,10 +4643,6 @@
         }
       ],
       "threads": {
-        "2110144405151555773": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110344475679785118": {
           "alerted": [],
           "self_replies": 0
@@ -5045,10 +5044,13 @@
         "2117402892847943695": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117403055843086831": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115934711101137273": true,
         "2115955400180719737": false,
         "2116127249162489957": true,
         "2116130232549998912": false,
@@ -5082,7 +5084,8 @@
         "2117338129883656671": true,
         "2117341219558695363": false,
         "2117344088043225525": false,
-        "2117402892847943695": false
+        "2117402892847943695": false,
+        "2117403055843086831": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6748,5 +6751,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-02",
-  "updated_at": "2026-11-02T23:46:23+00:00"
+  "updated_at": "2026-11-02T23:48:21+00:00"
 }
