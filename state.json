@@ -4368,7 +4368,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2117344088043225525",
+      "last_id": "2117402892847943695",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4404,11 +4404,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T22:08:05.000Z",
-          "id": "2115928685907689568",
-          "text": "welcome to crypto, stanley druckenmiller"
-        },
         {
           "created_at": "2026-10-29T22:32:01.000Z",
           "id": "2115934711101137273",
@@ -4522,10 +4517,17 @@
           ],
           "quoted_text": "*TRUMP: OIL DOWN $10 TODAY, BIGGEST SINGLE-DAY DROP IN HISTORY",
           "text": "https://t.co/4Vn6BKkX3v https://t.co/QBMuIte24M"
+        },
+        {
+          "created_at": "2026-11-02T23:46:03.000Z",
+          "id": "2117402892847943695",
+          "images": [
+            "https://pbs.twimg.com/media/HWKGtZUXIAAAZa_.jpg"
+          ],
+          "text": "TRYING MRES FROM 1988. LETS SEE HOW BAD BUNKER MORE REALLY IS. 845am est. TOMORROW. https://t.co/2TGxfFfRAm"
         }
       ],
       "reads": {
-        "2115928685907689568": "No call",
         "2115934711101137273": "No call",
         "2115955400180719737": "No call",
         "2116127249162489957": "No call",
@@ -4542,7 +4544,8 @@
         "2117282126160970066": "No call",
         "2117327802865188877": "No call",
         "2117328384795758713": "No call",
-        "2117338129883656671": "No call"
+        "2117338129883656671": "No call",
+        "2117402892847943695": "No call"
       },
       "replies": [
         {
@@ -4637,10 +4640,6 @@
         }
       ],
       "threads": {
-        "2110098064773890275": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2110144405151555773": {
           "alerted": [],
           "self_replies": 0
@@ -5042,10 +5041,13 @@
         "2117338129883656671": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117402892847943695": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115928685907689568": true,
         "2115934711101137273": true,
         "2115955400180719737": false,
         "2116127249162489957": true,
@@ -5079,7 +5081,8 @@
         "2117336772359106952": false,
         "2117338129883656671": true,
         "2117341219558695363": false,
-        "2117344088043225525": false
+        "2117344088043225525": false,
+        "2117402892847943695": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6745,5 +6748,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-02",
-  "updated_at": "2026-11-02T23:30:19+00:00"
+  "updated_at": "2026-11-02T23:46:23+00:00"
 }
