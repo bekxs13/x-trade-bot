@@ -4367,7 +4367,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2117275103612330210",
+      "last_id": "2117282126160970066",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4403,11 +4403,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-29T20:05:53.000Z",
-          "id": "2115897932767760834",
-          "text": "sorry intel is WHAT"
-        },
         {
           "created_at": "2026-10-29T20:07:53.000Z",
           "id": "2115898434838200462",
@@ -4516,10 +4511,14 @@
           "id": "2117275103612330210",
           "quoted_text": "MARKET OPEN: AI HACKING is OUT OF CONTROL, The AI Trade is in TROUBLE, What's NEXT for Crypto? https://t.co/83ruZyj8Kd",
           "text": "live with @mert talking about internet hacks https://t.co/jIyHYTEMN4"
+        },
+        {
+          "created_at": "2026-11-02T15:46:10.000Z",
+          "id": "2117282126160970066",
+          "text": "is your refrigerator running? cool i just hacked it"
         }
       ],
       "reads": {
-        "2115897932767760834": "No call",
         "2115898434838200462": "No call",
         "2115904438955135095": "No call",
         "2115915036678140377": "No call",
@@ -4536,7 +4535,8 @@
         "2116211254184620337": "No call",
         "2116259889974525991": "No call",
         "2117250901115109378": "No call",
-        "2117275103612330210": "No call"
+        "2117275103612330210": "No call",
+        "2117282126160970066": "No call"
       },
       "replies": [
         {
@@ -4631,13 +4631,6 @@
         }
       ],
       "threads": {
-        "2109787880365203583": {
-          "alerted": [
-            "trade:ALTS:short",
-            "bias:crypto market:bearish"
-          ],
-          "self_replies": 1
-        },
         "2109987664388907042": {
           "alerted": [],
           "self_replies": 0
@@ -5039,10 +5032,13 @@
         "2117275103612330210": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117282126160970066": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115897932767760834": true,
         "2115898434838200462": true,
         "2115904438955135095": true,
         "2115915036678140377": true,
@@ -5076,7 +5072,8 @@
         "2116955560658760065": false,
         "2117074810018611358": false,
         "2117250901115109378": true,
-        "2117275103612330210": true
+        "2117275103612330210": true,
+        "2117282126160970066": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6742,5 +6739,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-02",
-  "updated_at": "2026-11-02T15:20:25+00:00"
+  "updated_at": "2026-11-02T15:48:38+00:00"
 }
