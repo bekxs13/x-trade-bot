@@ -5539,7 +5539,7 @@
       "biases": {},
       "closed": [],
       "handle": "thecryptonexus",
-      "last_id": "2117136535825133937",
+      "last_id": "2117218434547388720",
       "positions": {
         "FREN PET (FP)": {
           "asset": "Fren Pet (FP)",
@@ -5573,11 +5573,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-06T04:53:13.000Z",
-          "id": "2107333331968835746",
-          "text": "Life is good https://t.co/L8EIsH7LVi"
-        },
         {
           "created_at": "2026-10-07T18:12:33.000Z",
           "id": "2107896878436077724",
@@ -5702,10 +5697,15 @@
           "id": "2117136535825133937",
           "reply_to_id": "2117136091845370118",
           "text": "Imsorryihadto"
+        },
+        {
+          "created_at": "2026-11-02T11:33:05.000Z",
+          "id": "2117218434547388720",
+          "quoted_text": "We are in the final innings of safe commercial aviation. If these things get in the wrong hands, they will be flung at every departing flight out of JFK. https://t.co/wpJpMUBLnU",
+          "text": "It\u2019s literally always been easy af to commit horrific acts it\u2019s just that most people are not evil\n\nbut the TL doesn\u2019t want you to know that https://t.co/0oto3yYGMm"
         }
       ],
       "reads": {
-        "2107333331968835746": "TRADE LONG HYPE",
         "2107896878436077724": "No call",
         "2109289019242868954": "No call",
         "2109291189648101436": "No call",
@@ -5721,7 +5721,8 @@
         "2115393661454438581": "No call",
         "2115879008546197672": "No call",
         "2117136091845370118": "No call",
-        "2117136535825133937": "No call"
+        "2117136535825133937": "No call",
+        "2117218434547388720": "No call"
       },
       "replies": [
         {
@@ -5914,10 +5915,13 @@
         "2117136091845370118": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2117218434547388720": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2107333331968835746": false,
         "2107896878436077724": true,
         "2109289019242868954": false,
         "2109291189648101436": false,
@@ -5951,7 +5955,8 @@
         "2116505110675116441": true,
         "2116507057574564181": false,
         "2117136091845370118": false,
-        "2117136535825133937": false
+        "2117136535825133937": false,
+        "2117218434547388720": false
       },
       "user_id": "1392152416854765571"
     },
@@ -6727,5 +6732,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-01",
-  "updated_at": "2026-11-02T11:14:19+00:00"
+  "updated_at": "2026-11-02T11:34:20+00:00"
 }
