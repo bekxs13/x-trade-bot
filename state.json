@@ -2134,7 +2134,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2116944988391293051",
+      "last_id": "2117076632074895371",
       "positions": {},
       "posts": [
         {
@@ -2279,12 +2279,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-30T12:21:37.000Z",
-          "id": "2116143483635319277",
-          "reply_to_id": "2116015153183695287",
-          "text": "@povgoggles it's committed sales and it's not like massive investment grade tech companies are going insolvent"
-        },
-        {
           "created_at": "2026-10-30T13:21:11.000Z",
           "id": "2116158475881304143",
           "reply_to_id": "2116126288998236213",
@@ -2370,6 +2364,12 @@
           "id": "2116944988391293051",
           "reply_to_id": "2116940590097043459",
           "text": "@Sprocket0479 for many things, absolutely\n\nwhy is that so surprising"
+        },
+        {
+          "created_at": "2026-11-02T02:09:37.000Z",
+          "id": "2117076632074895371",
+          "reply_to_id": "2117065920589758663",
+          "text": "@salr_nyc that's a different statement. you can absolutely trade options without measure theory :)"
         }
       ],
       "threads": {
@@ -2670,7 +2670,6 @@
         "2115992592097984806": false,
         "2115992837963792571": false,
         "2116009844008497613": true,
-        "2116143483635319277": true,
         "2116155200075395195": false,
         "2116158475881304143": false,
         "2116166128359854389": true,
@@ -2695,7 +2694,8 @@
         "2116944584899187187": false,
         "2116944670144028752": false,
         "2116944821961347231": false,
-        "2116944988391293051": false
+        "2116944988391293051": false,
+        "2117076632074895371": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6721,5 +6721,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-01",
-  "updated_at": "2026-11-02T02:04:21+00:00"
+  "updated_at": "2026-11-02T02:10:22+00:00"
 }
