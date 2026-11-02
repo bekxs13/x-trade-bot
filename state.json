@@ -2134,14 +2134,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117298795105194364",
+      "last_id": "2117304827172786659",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-29T23:51:22.000Z",
-          "id": "2115954676289917102",
-          "text": "guy who's fudding so his new soon to be opened fund can buy everything at a low cost basis early next year"
-        },
         {
           "created_at": "2026-10-30T00:21:29.000Z",
           "id": "2115962255317860705",
@@ -2257,10 +2252,14 @@
           "id": "2117298795105194364",
           "quoted_text": "dude fuck off seriously https://t.co/S7EV0azDjX",
           "text": "i genuinely hate this guy https://t.co/Eium4Q31wl"
+        },
+        {
+          "created_at": "2026-11-02T17:16:23.000Z",
+          "id": "2117304827172786659",
+          "text": "im old enough to remember when market makers provided liquidity and bonafide price discovery and didn't just make 90% of their pnl on dynamic arbs where they monotonically push the price of an instrument in one direction to fuck over some retail product like a levered etf"
         }
       ],
       "reads": {
-        "2115954676289917102": "No call",
         "2115962255317860705": "No call",
         "2115980760347758721": "No call",
         "2115992592097984806": "No call",
@@ -2277,7 +2276,8 @@
         "2116915274268233825": "No call",
         "2117237476720824790": "No call",
         "2117250853195174359": "No call",
-        "2117298795105194364": "No call"
+        "2117298795105194364": "No call",
+        "2117304827172786659": "No call"
       },
       "replies": [
         {
@@ -2672,10 +2672,13 @@
         "2117298795105194364": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117304827172786659": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115954676289917102": true,
         "2115962255317860705": true,
         "2115980760347758721": true,
         "2115992592097984806": false,
@@ -2709,7 +2712,8 @@
         "2117076632074895371": true,
         "2117237476720824790": false,
         "2117250853195174359": true,
-        "2117298795105194364": false
+        "2117298795105194364": false,
+        "2117304827172786659": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6743,5 +6747,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-02",
-  "updated_at": "2026-11-02T16:54:25+00:00"
+  "updated_at": "2026-11-02T17:18:23+00:00"
 }
