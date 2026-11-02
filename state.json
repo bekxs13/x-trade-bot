@@ -972,7 +972,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117354133019615528",
+      "last_id": "2117354957951102989",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1008,14 +1008,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T05:15:00.000Z",
-          "id": "2116036122308415825",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2116014597056692224/img/MmADt_d4TjlmkdYq.jpg"
-          ],
-          "text": "when i'm trading lower timeframes, i pay a lot of attention to how far price moves in a short period\n\na 2-3% drop in 15 minutes often creates conditions for a temporary bounce or consolidation as traders take profits and forced selling gets absorbed\n\neven when the broader trend is bearish, price rarely moves in a straight line\n\ni use these periods of consolidation to identify better entries around the top of the range, while watching levels like Monday's low and the previous day's low for confirmation\n\nunderstanding how price reacts after a sharp move is just as important as identifying the direction of the trend"
-        },
         {
           "created_at": "2026-10-30T07:30:00.000Z",
           "id": "2116070096443429308",
@@ -1150,10 +1142,14 @@
           "id": "2117347698198106437",
           "quoted_text": "Under pressure from Israeli prime minister Benjamin Netanyahu, the Trump administration may be within days of launching a nuclear strike on Iran. The target would be Pickax Mountain in central Iran, where Israeli intelligence claims the Iranian government has restarted its nuclear enrichment program. No conventional weapon in the American arsenal can penetrate 300 feet of solid granite to destroy the tunnels where enrichment is supposedly taking place. The only military option is a nuclear strik",
           "text": "? https://t.co/MzZFucdBWK"
+        },
+        {
+          "created_at": "2026-11-02T20:35:35.000Z",
+          "id": "2117354957951102989",
+          "text": "sandisk closing under 200d ema for first time since the stock was ~$40"
         }
       ],
       "reads": {
-        "2116036122308415825": "No call",
         "2116070096443429308": "No call",
         "2116132561843896668": "TRADE SHORT ETH",
         "2116134237971915020": "No call",
@@ -1172,7 +1168,8 @@
         "2116382090505732124": "No call",
         "2116428709150478840": "No call: bearish on crypto market (60%, too unsure)",
         "2117343622253195371": "No call",
-        "2117347698198106437": "No call"
+        "2117347698198106437": "No call",
+        "2117354957951102989": "No call: bearish on SNDK (65%, too unsure)"
       },
       "replies": [
         {
@@ -1271,10 +1268,6 @@
         }
       ],
       "threads": {
-        "2112770152106168663": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112822435452174828": {
           "alerted": [
             "bias:crypto market:bullish"
@@ -1688,12 +1681,15 @@
         "2117347698198106437": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117354957951102989": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2115981737209876588": false,
         "2115981890859696408": true,
-        "2116036122308415825": true,
         "2116070096443429308": true,
         "2116131005329191107": false,
         "2116132561843896668": true,
@@ -1725,7 +1721,8 @@
         "2116541892045529594": true,
         "2117343622253195371": false,
         "2117347698198106437": false,
-        "2117354133019615528": false
+        "2117354133019615528": false,
+        "2117354957951102989": true
       },
       "user_id": "973261472"
     },
@@ -6746,5 +6743,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-02",
-  "updated_at": "2026-11-02T20:34:18+00:00"
+  "updated_at": "2026-11-02T20:36:24+00:00"
 }
