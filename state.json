@@ -2134,17 +2134,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117076632074895371",
+      "last_id": "2117237476720824790",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-29T21:30:44.000Z",
-          "id": "2115919286568927693",
-          "images": [
-            "https://pbs.twimg.com/media/HV1BXu6XUAAbzQG.jpg"
-          ],
-          "text": "https://t.co/TeG2GpjaBY"
-        },
         {
           "created_at": "2026-10-29T22:16:14.000Z",
           "id": "2115930736679366933",
@@ -2255,10 +2247,15 @@
           "id": "2116944670144028752",
           "reply_to_id": "2116944584899187187",
           "text": "@0xfdf also courtesy like or else"
+        },
+        {
+          "created_at": "2026-11-02T12:48:45.000Z",
+          "id": "2117237476720824790",
+          "quoted_text": "SK Hynix rallying... good sign...Did a hedge fund blow-up last week? Lets see if the sellers come back...",
+          "text": "dude fuck off seriously https://t.co/S7EV0azDjX"
         }
       ],
       "reads": {
-        "2115919286568927693": "No call",
         "2115930736679366933": "No call",
         "2115953967297650762": "No call",
         "2115954676289917102": "No call",
@@ -2275,7 +2272,8 @@
         "2116419869730029956": "No call",
         "2116644929069785446": "No call",
         "2116897377512534380": "No call",
-        "2116915274268233825": "No call"
+        "2116915274268233825": "No call",
+        "2117237476720824790": "No call"
       },
       "replies": [
         {
@@ -2658,10 +2656,13 @@
         "2116915274268233825": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117237476720824790": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115919286568927693": false,
         "2115930736679366933": false,
         "2115953967297650762": true,
         "2115954676289917102": true,
@@ -2695,7 +2696,8 @@
         "2116944670144028752": false,
         "2116944821961347231": false,
         "2116944988391293051": false,
-        "2117076632074895371": true
+        "2117076632074895371": true,
+        "2117237476720824790": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6732,5 +6734,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-01",
-  "updated_at": "2026-11-02T12:36:18+00:00"
+  "updated_at": "2026-11-02T12:50:27+00:00"
 }
