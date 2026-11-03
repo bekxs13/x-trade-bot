@@ -2114,7 +2114,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117672177038221627",
+      "last_id": "2117684814073446460",
       "positions": {},
       "posts": [
         {
@@ -2268,12 +2268,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-02T17:22:37.000Z",
-          "id": "2117306397100810403",
-          "reply_to_id": "2117305820773749128",
-          "text": "@BulletProofMus1 literally, yeah"
-        },
-        {
           "created_at": "2026-11-02T17:26:12.000Z",
           "id": "2117307297596862635",
           "reply_to_id": "2117306591611359711",
@@ -2356,6 +2350,12 @@
           "id": "2117672177038221627",
           "reply_to_id": "2117624990501671300",
           "text": "@dmartin_trading &gt;Oh and ATR indicator and range breakout strategies? Those are myths, a waste of time.\n\ni mean, yeah"
+        },
+        {
+          "created_at": "2026-11-03T18:26:19.000Z",
+          "id": "2117684814073446460",
+          "reply_to_id": "2117682812744499208",
+          "text": "@dmartin_trading the idea of \"calculating a stop loss\" is nonsense as well\n\nthere should only be two reasons to hack out of a trade that you thought had positive expectancy at even less good prices than current prices (since it's going against you)\n\n1) margin/value at risk concerns that changed"
         }
       ],
       "threads": {
@@ -2701,7 +2701,6 @@
         "2117250853195174359": true,
         "2117298795105194364": false,
         "2117304827172786659": true,
-        "2117306397100810403": false,
         "2117307297596862635": true,
         "2117326636911919259": false,
         "2117330787116937321": false,
@@ -2721,7 +2720,8 @@
         "2117668267318026424": true,
         "2117669115120717937": false,
         "2117670970114666592": false,
-        "2117672177038221627": true
+        "2117672177038221627": true,
+        "2117684814073446460": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6805,5 +6805,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T18:10:33+00:00"
+  "updated_at": "2026-11-03T18:26:39+00:00"
 }
