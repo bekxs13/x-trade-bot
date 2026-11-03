@@ -5570,7 +5570,7 @@
       "biases": {},
       "closed": [],
       "handle": "thecryptonexus",
-      "last_id": "2117606680758517847",
+      "last_id": "2117606780071231949",
       "positions": {
         "FREN PET (FP)": {
           "asset": "Fren Pet (FP)",
@@ -5620,12 +5620,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-11T14:33:03.000Z",
-          "id": "2109291189648101436",
-          "quoted_text": "@TheCryptoNexus losing to Jacksonville is crazy",
-          "text": "I just countertraded this cheers bruv I\u2019m up a qm now innit https://t.co/OSKERw9RF9"
-        },
         {
           "created_at": "2026-10-14T16:01:17.000Z",
           "id": "2110400557953208771",
@@ -5755,10 +5749,15 @@
             "https://pbs.twimg.com/media/HWNADWuXAAAg3VU.jpg"
           ],
           "text": "When u post 3 tweets in a day for the first time in months: https://t.co/aUXIQ8uS4f"
+        },
+        {
+          "created_at": "2026-11-03T13:16:14.000Z",
+          "id": "2117606780071231949",
+          "reply_to_id": "2117606680758517847",
+          "text": "\ud83d\ude02\ud83d\udc80"
         }
       ],
       "reads": {
-        "2109291189648101436": "No call",
         "2110400557953208771": "No call",
         "2111070616917102829": "No call",
         "2111193430021832892": "No call",
@@ -5774,7 +5773,8 @@
         "2117136535825133937": "No call",
         "2117218434547388720": "No call",
         "2117577227105660974": "TRADE LONG XAGUSD (silver)",
-        "2117606680758517847": "No call"
+        "2117606680758517847": "No call",
+        "2117606780071231949": "No call"
       },
       "replies": [
         {
@@ -5980,11 +5980,10 @@
         },
         "2117606680758517847": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2109291189648101436": false,
         "2110400557953208771": false,
         "2111070616917102829": false,
         "2111078034560127479": false,
@@ -6018,7 +6017,8 @@
         "2117577227105660974": true,
         "2117582893904211983": false,
         "2117605753632465171": true,
-        "2117606680758517847": false
+        "2117606680758517847": false,
+        "2117606780071231949": false
       },
       "user_id": "1392152416854765571"
     },
@@ -6794,5 +6794,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T13:16:21+00:00"
+  "updated_at": "2026-11-03T13:18:18+00:00"
 }
