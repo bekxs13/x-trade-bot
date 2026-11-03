@@ -972,7 +972,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117398466423103996",
+      "last_id": "2117408899795927550",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1008,14 +1008,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T11:38:13.000Z",
-          "id": "2116132561843896668",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2116130820444266496/img/RhQNy2e0mB52z0rf.jpg"
-          ],
-          "text": "hyperliquid x ICE news, update on $ETH short, thoughts on equities earnings carnage\n\noctober 30th, 2026 https://t.co/cJXSc0j89C"
-        },
         {
           "created_at": "2026-10-30T11:44:52.000Z",
           "id": "2116134237971915020",
@@ -1145,10 +1137,14 @@
           "id": "2117378838107688995",
           "reply_to_id": "2117378800241807566",
           "text": "@0xRiver8 saw someone shill home depot today"
+        },
+        {
+          "created_at": "2026-11-03T00:09:55.000Z",
+          "id": "2117408899795927550",
+          "text": "why do people believe in dinosaurs but not giants and dragons?"
         }
       ],
       "reads": {
-        "2116132561843896668": "TRADE SHORT ETH",
         "2116134237971915020": "No call",
         "2116150452341334257": "No call",
         "2116155738758234127": "No call",
@@ -1166,7 +1162,8 @@
         "2116428709150478840": "No call: bearish on crypto market (60%, too unsure)",
         "2117343622253195371": "No call",
         "2117347698198106437": "No call",
-        "2117354957951102989": "No call: bearish on SNDK (65%, too unsure)"
+        "2117354957951102989": "No call: bearish on SNDK (65%, too unsure)",
+        "2117408899795927550": "No call"
       },
       "replies": [
         {
@@ -1265,12 +1262,6 @@
         }
       ],
       "threads": {
-        "2112822435452174828": {
-          "alerted": [
-            "bias:crypto market:bullish"
-          ],
-          "self_replies": 0
-        },
         "2112823888207921408": {
           "alerted": [],
           "self_replies": 0
@@ -1682,10 +1673,13 @@
         "2117354957951102989": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117408899795927550": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116132561843896668": true,
         "2116133761154982084": true,
         "2116134237971915020": true,
         "2116140994328735752": true,
@@ -1719,7 +1713,8 @@
         "2117378838107688995": true,
         "2117384481757864407": false,
         "2117398172423082075": false,
-        "2117398466423103996": false
+        "2117398466423103996": false,
+        "2117408899795927550": false
       },
       "user_id": "973261472"
     },
@@ -6754,5 +6749,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-02",
-  "updated_at": "2026-11-03T00:00:29+00:00"
+  "updated_at": "2026-11-03T00:10:23+00:00"
 }
