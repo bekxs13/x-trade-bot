@@ -972,7 +972,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117446994746634422",
+      "last_id": "2117449038979072008",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1008,11 +1008,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T14:03:09.000Z",
-          "id": "2116169037168206004",
-          "text": "pretty funny elon commenting on druck's hyperliquid post and then trolling binance post hack in the same day"
-        },
         {
           "created_at": "2026-10-30T14:35:22.000Z",
           "id": "2116177144778768653",
@@ -1144,10 +1139,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2117425878800224256/img/-kmWNE7KGhIPV8VI.jpg"
           ],
           "text": "understanding how higher timeframe candles form on lower timeframes is one of the most useful skills in trading\n\nevery candle has a few possible outcomes: it can stay inside the previous range, break higher, or break lower\n\nonce i have a directional bias, i use lower timeframes to understand how that candle is developing and look for entries before the higher timeframe candle closes\n\na daily candle with a long lower wick, for example, tells you price traded lower before buyers pushed it back up\n\nlearning to recognize these patterns as they develop gives you a much better understanding of price action and where to position"
+        },
+        {
+          "created_at": "2026-11-03T02:49:25.000Z",
+          "id": "2117449038979072008",
+          "text": "https://t.co/0e1lNWZMka"
         }
       ],
       "reads": {
-        "2116169037168206004": "No call",
         "2116177144778768653": "No call: bearish on btc (same view as before)",
         "2116201298102042686": "No call",
         "2116207443977871791": "No call",
@@ -1165,7 +1164,8 @@
         "2117417803351548029": "No call",
         "2117423871154589732": "No call",
         "2117427227847491837": "No call",
-        "2117441633713082652": "No call"
+        "2117441633713082652": "No call",
+        "2117449038979072008": "No call"
       },
       "replies": [
         {
@@ -1260,10 +1260,6 @@
         }
       ],
       "threads": {
-        "2112916788426232161": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112958140862042489": {
           "alerted": [],
           "self_replies": 0
@@ -1675,10 +1671,13 @@
         "2117441633713082652": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117449038979072008": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116169037168206004": true,
         "2116177144778768653": true,
         "2116201298102042686": false,
         "2116207443977871791": false,
@@ -1712,7 +1711,8 @@
         "2117432064190603521": false,
         "2117441633713082652": true,
         "2117444764379627791": false,
-        "2117446994746634422": false
+        "2117446994746634422": false,
+        "2117449038979072008": false
       },
       "user_id": "973261472"
     },
@@ -6757,5 +6757,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-02",
-  "updated_at": "2026-11-03T02:42:21+00:00"
+  "updated_at": "2026-11-03T02:50:25+00:00"
 }
