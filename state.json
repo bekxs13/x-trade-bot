@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2117552098749649129",
+      "last_id": "2117680324457214400",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,12 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T03:02:41.000Z",
-          "id": "2116002826568810782",
-          "quoted_text": "So you're telling me the guys who own the only ai hardware that's not a GPU, the datacenters, the model, and the user's entire life data just gapped 11% down? on an EPS miss? And you think the market understands what's happening? https://t.co/mQFlLsfzwU",
-          "text": "1k likes ppl are still long all this stuff https://t.co/bcjw5sSb7k"
-        },
         {
           "created_at": "2026-10-30T03:06:44.000Z",
           "id": "2116003842194350148",
@@ -271,10 +265,14 @@
             "https://pbs.twimg.com/media/HWMDP3QbgAAHoHj.jpg"
           ],
           "text": "Not really a \u201cpriced in\u201d typea chart to me https://t.co/3cCYviXtLZ"
+        },
+        {
+          "created_at": "2026-11-03T18:08:28.000Z",
+          "id": "2117680324457214400",
+          "text": "Instinct has raised at a 2 trillion dollar valuation"
         }
       ],
       "reads": {
-        "2116002826568810782": "No call: bearish on semis/ai stocks (60%, too unsure)",
         "2116003842194350148": "No call",
         "2116017286054346784": "No call",
         "2116049376217039344": "No call",
@@ -293,7 +291,8 @@
         "2117014140224975092": "No call",
         "2117028271607238979": "No call",
         "2117050454924521496": "No call",
-        "2117539968025583935": "No call"
+        "2117539968025583935": "No call",
+        "2117680324457214400": "No call"
       },
       "replies": [
         {
@@ -388,10 +387,6 @@
         }
       ],
       "threads": {
-        "2112373589009961438": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112389241531703338": {
           "alerted": [],
           "self_replies": 0
@@ -795,10 +790,13 @@
         "2117539968025583935": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117680324457214400": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116002826568810782": true,
         "2116003842194350148": true,
         "2116007878784086034": false,
         "2116017286054346784": false,
@@ -832,7 +830,8 @@
         "2117539968025583935": true,
         "2117541456626004382": true,
         "2117550004063948920": false,
-        "2117552098749649129": false
+        "2117552098749649129": false,
+        "2117680324457214400": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6806,5 +6805,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T18:06:47+00:00"
+  "updated_at": "2026-11-03T18:10:33+00:00"
 }
