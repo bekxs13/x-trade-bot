@@ -2114,15 +2114,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117711742272987145",
+      "last_id": "2117725167359066439",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-31T01:34:36.000Z",
-          "id": "2116343046484947007",
-          "quoted_text": "BREAKING: OpenAI CEO Sam Altman says having RAM in personal computers is an inefficient use of the world\u2019s limited DRAM supply, arguing it would be better allocated to data centers, per Tom\u2019s Hardware",
-          "text": "lol https://t.co/VZqVo7wZTh"
-        },
         {
           "created_at": "2026-10-31T06:39:52.000Z",
           "id": "2116419869730029956",
@@ -2250,10 +2244,15 @@
           ],
           "reply_to_id": "2117685016658358748",
           "text": "@dmartin_trading wonderfully expanded upon by someone else in a gc https://t.co/v5pJMLD2Q1"
+        },
+        {
+          "created_at": "2026-11-03T21:06:39.000Z",
+          "id": "2117725167359066439",
+          "quoted_text": "Abdul El-Sayed is the Pause AI candidate: https://t.co/8Ol7Lc6V2x",
+          "text": "can we have more millennial politicians that actually understand current issues please https://t.co/e2wLc8DxIg"
         }
       ],
       "reads": {
-        "2116343046484947007": "No call",
         "2116419869730029956": "No call",
         "2116644929069785446": "No call",
         "2116897377512534380": "No call",
@@ -2267,7 +2266,8 @@
         "2117611700094423543": "No call",
         "2117625299924049939": "No call: bullish on memory stocks (same view as before)",
         "2117647100838064136": "No call",
-        "2117669115120717937": "No call"
+        "2117669115120717937": "No call",
+        "2117725167359066439": "No call"
       },
       "replies": [
         {
@@ -2687,10 +2687,13 @@
         "2117669115120717937": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117725167359066439": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116343046484947007": false,
         "2116419869730029956": false,
         "2116644929069785446": false,
         "2116897377512534380": false,
@@ -2724,7 +2727,8 @@
         "2117708042011918715": true,
         "2117708704204398711": true,
         "2117710029377962255": false,
-        "2117711742272987145": false
+        "2117711742272987145": false,
+        "2117725167359066439": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6803,5 +6807,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T20:50:26+00:00"
+  "updated_at": "2026-11-03T21:08:32+00:00"
 }
