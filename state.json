@@ -5567,7 +5567,7 @@
       "biases": {},
       "closed": [],
       "handle": "thecryptonexus",
-      "last_id": "2117218434547388720",
+      "last_id": "2117577227105660974",
       "positions": {
         "FREN PET (FP)": {
           "asset": "Fren Pet (FP)",
@@ -5598,14 +5598,25 @@
           "since": "2026-10-06T04:53:13.000Z",
           "structure": "spot",
           "url": "https://x.com/thecryptonexus/status/2107333331968835746"
+        },
+        "XAGUSD (SILVER)": {
+          "asset": "XAGUSD (silver)",
+          "chain": "",
+          "confidence": 0.72,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "~49",
+          "horizon": "",
+          "market": "macro",
+          "open_price": null,
+          "post_id": "2117577227105660974",
+          "reason": "Quoting his earlier 'Fully TPed my silver' with 'about time we run this one back' while the chart shows silver retesting the 2011/1980 highs near 48-49.8 implies he is re-entering a silver long.",
+          "since": "2026-11-03T11:18:48.000Z",
+          "structure": "unknown",
+          "url": "https://x.com/thecryptonexus/status/2117577227105660974"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-07T18:12:33.000Z",
-          "id": "2107896878436077724",
-          "text": "Mkts nuking on quantum fud, scary fed, rates ahhh!! war(!!!) 10y bond yields!!!!! \n\n366 days since-\n\nIt\u2019s so over\n\nBetter sell everything https://t.co/2SXXjo1FiN"
-        },
         {
           "created_at": "2026-10-11T14:24:25.000Z",
           "id": "2109289019242868954",
@@ -5731,10 +5742,18 @@
           "id": "2117218434547388720",
           "quoted_text": "We are in the final innings of safe commercial aviation. If these things get in the wrong hands, they will be flung at every departing flight out of JFK. https://t.co/wpJpMUBLnU",
           "text": "It\u2019s literally always been easy af to commit horrific acts it\u2019s just that most people are not evil\n\nbut the TL doesn\u2019t want you to know that https://t.co/0oto3yYGMm"
+        },
+        {
+          "created_at": "2026-11-03T11:18:48.000Z",
+          "id": "2117577227105660974",
+          "images": [
+            "https://pbs.twimg.com/media/HWMlQ4jXcAEt0si.jpg"
+          ],
+          "quoted_text": "Fully TPed my silver\n\nBest PnL trade I\u2019ve ever made lfg https://t.co/duKzkp1PIO",
+          "text": "Think it\u2019s about time we run this one back https://t.co/H0lYpycqK2 https://t.co/FPcf1pYBIi"
         }
       ],
       "reads": {
-        "2107896878436077724": "No call",
         "2109289019242868954": "No call",
         "2109291189648101436": "No call",
         "2110400557953208771": "No call",
@@ -5750,7 +5769,8 @@
         "2115879008546197672": "No call",
         "2117136091845370118": "No call",
         "2117136535825133937": "No call",
-        "2117218434547388720": "No call"
+        "2117218434547388720": "No call",
+        "2117577227105660974": "TRADE LONG XAGUSD (silver)"
       },
       "replies": [
         {
@@ -5947,10 +5967,15 @@
         "2117218434547388720": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117577227105660974": {
+          "alerted": [
+            "trade:XAGUSD (SILVER):long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2107896878436077724": true,
         "2109289019242868954": false,
         "2109291189648101436": false,
         "2110400557953208771": false,
@@ -5984,7 +6009,8 @@
         "2116507057574564181": false,
         "2117136091845370118": false,
         "2117136535825133937": false,
-        "2117218434547388720": false
+        "2117218434547388720": false,
+        "2117577227105660974": true
       },
       "user_id": "1392152416854765571"
     },
@@ -6760,5 +6786,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-02",
-  "updated_at": "2026-11-03T10:42:20+00:00"
+  "updated_at": "2026-11-03T11:20:23+00:00"
 }
