@@ -975,7 +975,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117656325647953982",
+      "last_id": "2117656889337262173",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1166,24 +1166,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-31T14:44:45.000Z",
-          "id": "2116541892045529594",
-          "reply_to_id": "2116540251640418771",
-          "text": "@ThePumponomics what is your reasoning for \"this time is different\""
-        },
-        {
-          "created_at": "2026-11-02T20:32:18.000Z",
-          "id": "2117354133019615528",
-          "reply_to_id": "2117354049439969703",
-          "text": "@mostluckiestmax i mean theres no way thats true right?"
-        },
-        {
-          "created_at": "2026-11-02T22:10:19.000Z",
-          "id": "2117378800241807566",
-          "reply_to_id": "2117378658944139462",
-          "text": "@0xRiver8 i think we just wait"
-        },
-        {
           "created_at": "2026-11-02T22:32:54.000Z",
           "id": "2117384481757864407",
           "reply_to_id": "2117383888809132134",
@@ -1254,6 +1236,24 @@
           "id": "2117624578281214023",
           "reply_to_id": "2117624056644084064",
           "text": "@elchefdesol i logged in to league yesterday"
+        },
+        {
+          "created_at": "2026-11-03T16:34:33.000Z",
+          "id": "2117656687502885068",
+          "reply_to_id": "2117656399396389310",
+          "text": "@RAP3MEFR hey bro"
+        },
+        {
+          "created_at": "2026-11-03T16:34:40.000Z",
+          "id": "2117656719400620088",
+          "reply_to_id": "2117656228189094388",
+          "text": "@mostluckiestmax me too"
+        },
+        {
+          "created_at": "2026-11-03T16:35:21.000Z",
+          "id": "2117656889337262173",
+          "reply_to_id": "2117655904279564769",
+          "text": "@notthreadguy bottom is going to be so panic-driven it'll be extremely obvious, this is apathy &amp; complacency, imo"
         }
       ],
       "threads": {
@@ -1679,12 +1679,9 @@
         "2116285263932538959": true,
         "2116382090505732124": true,
         "2116428709150478840": true,
-        "2116541892045529594": true,
         "2117343622253195371": false,
         "2117347698198106437": false,
-        "2117354133019615528": false,
         "2117354957951102989": true,
-        "2117378800241807566": true,
         "2117378838107688995": true,
         "2117384481757864407": false,
         "2117398172423082075": false,
@@ -1709,7 +1706,10 @@
         "2117624477928624204": true,
         "2117624578281214023": false,
         "2117655653669851190": false,
-        "2117656325647953982": true
+        "2117656325647953982": true,
+        "2117656687502885068": false,
+        "2117656719400620088": false,
+        "2117656889337262173": true
       },
       "user_id": "973261472"
     },
@@ -6802,5 +6802,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T16:34:24+00:00"
+  "updated_at": "2026-11-03T16:36:31+00:00"
 }
