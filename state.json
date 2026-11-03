@@ -2115,7 +2115,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117670970114666592",
+      "last_id": "2117672177038221627",
       "positions": {},
       "posts": [
         {
@@ -2269,12 +2269,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-02T02:09:37.000Z",
-          "id": "2117076632074895371",
-          "reply_to_id": "2117065920589758663",
-          "text": "@salr_nyc that's a different statement. you can absolutely trade options without measure theory :)"
-        },
-        {
           "created_at": "2026-11-02T17:22:37.000Z",
           "id": "2117306397100810403",
           "reply_to_id": "2117305820773749128",
@@ -2357,6 +2351,12 @@
           "id": "2117670970114666592",
           "reply_to_id": "2117670351811281346",
           "text": "@offer_lifted it's not bad per se but it's November in boston!!"
+        },
+        {
+          "created_at": "2026-11-03T17:36:06.000Z",
+          "id": "2117672177038221627",
+          "reply_to_id": "2117624990501671300",
+          "text": "@dmartin_trading &gt;Oh and ATR indicator and range breakout strategies? Those are myths, a waste of time.\n\ni mean, yeah"
         }
       ],
       "threads": {
@@ -2698,7 +2698,6 @@
         "2116897377512534380": false,
         "2116915274268233825": false,
         "2116944670144028752": false,
-        "2117076632074895371": true,
         "2117237476720824790": false,
         "2117250853195174359": true,
         "2117298795105194364": false,
@@ -2722,7 +2721,8 @@
         "2117667120045580306": false,
         "2117668267318026424": true,
         "2117669115120717937": false,
-        "2117670970114666592": false
+        "2117670970114666592": false,
+        "2117672177038221627": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6806,5 +6806,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T17:32:23+00:00"
+  "updated_at": "2026-11-03T17:36:23+00:00"
 }
