@@ -974,7 +974,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117717462519001099",
+      "last_id": "2117728157281538212",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1010,11 +1010,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-02T19:50:32.000Z",
-          "id": "2117343622253195371",
-          "text": "yo"
-        },
         {
           "created_at": "2026-11-02T20:06:44.000Z",
           "id": "2117347698198106437",
@@ -1135,10 +1130,15 @@
           "created_at": "2026-11-03T20:30:30.000Z",
           "id": "2117716067510259904",
           "text": "why are all the trending pump coins hentai acronyms"
+        },
+        {
+          "created_at": "2026-11-03T21:18:32.000Z",
+          "id": "2117728157281538212",
+          "quoted_text": "Red Sweep.\n\nIf I am wrong I will delete this tweet",
+          "text": "75% chance dems sweep\n\nhttps://t.co/V4OsexyNpR https://t.co/M3XPfd4GMK"
         }
       ],
       "reads": {
-        "2117343622253195371": "No call",
         "2117347698198106437": "No call",
         "2117354957951102989": "No call: bearish on SNDK (65%, too unsure)",
         "2117408899795927550": "No call",
@@ -1155,7 +1155,8 @@
         "2117656325647953982": "No call",
         "2117666234439467072": "No call: bearish on stocks/macro (same view as before)",
         "2117710404558442877": "No call: bearish on ai stocks (65%, too unsure)",
-        "2117716067510259904": "No call"
+        "2117716067510259904": "No call",
+        "2117728157281538212": "No call"
       },
       "replies": [
         {
@@ -1256,10 +1257,6 @@
         }
       ],
       "threads": {
-        "2113204687877067039": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113281412745039998": {
           "alerted": [],
           "self_replies": 0
@@ -1671,10 +1668,13 @@
         "2117716067510259904": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117728157281538212": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117343622253195371": false,
         "2117347698198106437": false,
         "2117354957951102989": true,
         "2117378838107688995": true,
@@ -1708,7 +1708,8 @@
         "2117713078871625750": false,
         "2117716067510259904": true,
         "2117717370756375007": false,
-        "2117717462519001099": false
+        "2117717462519001099": false,
+        "2117728157281538212": false
       },
       "user_id": "973261472"
     },
@@ -2114,15 +2115,26 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117727620133748935",
-      "positions": {},
+      "last_id": "2117728098250641532",
+      "positions": {
+        "AMD": {
+          "asset": "AMD",
+          "chain": "",
+          "confidence": 0.7,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "earnings",
+          "market": "stocks",
+          "open_price": null,
+          "post_id": "2117728098250641532",
+          "reason": "\"amd cooperating and not shitting the bed\" with a relieved crying-smiling meme reads like someone holding AMD into earnings, after complaining about AAPL's beat being sold the day before.",
+          "since": "2026-11-03T21:18:18.000Z",
+          "structure": "unknown",
+          "url": "https://x.com/deepdishenjoyer/status/2117728098250641532"
+        }
+      },
       "posts": [
-        {
-          "created_at": "2026-10-31T06:39:52.000Z",
-          "id": "2116419869730029956",
-          "quoted_text": "buy https://t.co/NDXdbAQnGj",
-          "text": "Fuck you https://t.co/k5ncPyddAZ"
-        },
         {
           "created_at": "2026-10-31T21:34:11.000Z",
           "id": "2116644929069785446",
@@ -2250,10 +2262,17 @@
           "id": "2117725167359066439",
           "quoted_text": "Abdul El-Sayed is the Pause AI candidate: https://t.co/8Ol7Lc6V2x",
           "text": "can we have more millennial politicians that actually understand current issues please https://t.co/e2wLc8DxIg"
+        },
+        {
+          "created_at": "2026-11-03T21:18:18.000Z",
+          "id": "2117728098250641532",
+          "images": [
+            "https://pbs.twimg.com/media/HWOuelBWYAAnOnE.jpg"
+          ],
+          "text": "amd cooperating and not shitting the bed https://t.co/B6aUGXImX0"
         }
       ],
       "reads": {
-        "2116419869730029956": "No call",
         "2116644929069785446": "No call",
         "2116897377512534380": "No call",
         "2116915274268233825": "No call",
@@ -2267,7 +2286,8 @@
         "2117625299924049939": "No call: bullish on memory stocks (same view as before)",
         "2117647100838064136": "No call",
         "2117669115120717937": "No call",
-        "2117725167359066439": "No call"
+        "2117725167359066439": "No call",
+        "2117728098250641532": "TRADE LONG AMD"
       },
       "replies": [
         {
@@ -2691,10 +2711,15 @@
         "2117725167359066439": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117728098250641532": {
+          "alerted": [
+            "trade:AMD:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116419869730029956": false,
         "2116644929069785446": false,
         "2116897377512534380": false,
         "2116915274268233825": false,
@@ -2728,7 +2753,8 @@
         "2117725167359066439": false,
         "2117726741133393936": true,
         "2117727032385699926": false,
-        "2117727620133748935": false
+        "2117727620133748935": false,
+        "2117728098250641532": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6807,5 +6833,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T21:18:25+00:00"
+  "updated_at": "2026-11-03T21:20:39+00:00"
 }
