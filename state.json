@@ -2111,7 +2111,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117756905355710835",
+      "last_id": "2117762594673156375",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2131,11 +2131,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-01T14:17:19.000Z",
-          "id": "2116897377512534380",
-          "text": "\"most people don't REALLY understand probability\" - guy who has never taken a measure theory class in his life"
-        },
         {
           "created_at": "2026-11-01T15:28:26.000Z",
           "id": "2116915274268233825",
@@ -2263,10 +2258,17 @@
           "id": "2117756905355710835",
           "quoted_text": "Use of \"expectancy\" is a red flag. When used for a single trade, it is when all alarms go off. I have 10 probability and statistics books, and there is no such \"expectancy\" term in them. There is expectation, but those who skipped the real courses don't know what it means. https://t.co/2NKdi0ZOD4",
           "text": "ah weird when i was at jane street we used \"expectancy\" all the time https://t.co/jsezySkPaM"
+        },
+        {
+          "created_at": "2026-11-03T23:35:23.000Z",
+          "id": "2117762594673156375",
+          "images": [
+            "https://pbs.twimg.com/media/HWPN2tNWkAEYInL.png"
+          ],
+          "text": "https://t.co/0hF7zGwriL"
         }
       ],
       "reads": {
-        "2116897377512534380": "No call",
         "2116915274268233825": "No call",
         "2117237476720824790": "No call",
         "2117250853195174359": "No call",
@@ -2280,7 +2282,8 @@
         "2117669115120717937": "No call",
         "2117725167359066439": "No call",
         "2117728098250641532": "TRADE LONG AMD",
-        "2117756905355710835": "No call"
+        "2117756905355710835": "No call",
+        "2117762594673156375": "No call"
       },
       "replies": [
         {
@@ -2714,10 +2717,13 @@
         "2117756905355710835": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117762594673156375": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116897377512534380": false,
         "2116915274268233825": false,
         "2116944670144028752": false,
         "2117237476720824790": false,
@@ -2751,7 +2757,8 @@
         "2117741880997761305": false,
         "2117749512802324955": false,
         "2117749664199958839": false,
-        "2117756905355710835": false
+        "2117756905355710835": false,
+        "2117762594673156375": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6830,5 +6837,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T23:24:19+00:00"
+  "updated_at": "2026-11-03T23:36:22+00:00"
 }
