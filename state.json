@@ -2114,7 +2114,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117685016658358748",
+      "last_id": "2117686273792221186",
       "positions": {},
       "posts": [
         {
@@ -2268,12 +2268,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-02T17:26:12.000Z",
-          "id": "2117307297596862635",
-          "reply_to_id": "2117306591611359711",
-          "text": "@AsymmetricRisx this is arguably even worse than front running because it's outright inducing trades"
-        },
-        {
           "created_at": "2026-11-02T18:43:02.000Z",
           "id": "2117326636911919259",
           "reply_to_id": "2117326132475461963",
@@ -2356,6 +2350,12 @@
           "id": "2117684814073446460",
           "reply_to_id": "2117682812744499208",
           "text": "@dmartin_trading the idea of \"calculating a stop loss\" is nonsense as well\n\nthere should only be two reasons to hack out of a trade that you thought had positive expectancy at even less good prices than current prices (since it's going against you)\n\n1) margin/value at risk concerns that changed"
+        },
+        {
+          "created_at": "2026-11-03T18:32:07.000Z",
+          "id": "2117686273792221186",
+          "reply_to_id": "2117685746941218961",
+          "text": "@kwertytwo @dmartin_trading can hardly think of any signal where a trade going against me, and nothing else, is sufficient evidence of that"
         }
       ],
       "threads": {
@@ -2700,7 +2700,6 @@
         "2117250853195174359": true,
         "2117298795105194364": false,
         "2117304827172786659": true,
-        "2117307297596862635": true,
         "2117326636911919259": false,
         "2117330787116937321": false,
         "2117330914363560021": false,
@@ -2721,7 +2720,8 @@
         "2117670970114666592": false,
         "2117672177038221627": true,
         "2117684814073446460": true,
-        "2117685016658358748": true
+        "2117685016658358748": true,
+        "2117686273792221186": true
       },
       "user_id": "1598545553327067137"
     },
@@ -4383,7 +4383,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2117679680912544177",
+      "last_id": "2117685890881651106",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4572,12 +4572,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T01:02:05.000Z",
-          "id": "2117422026272948254",
-          "reply_to_id": "2117407748703015338",
-          "text": "@okaythenfuture man"
-        },
-        {
           "created_at": "2026-11-03T12:55:07.000Z",
           "id": "2117601464973737986",
           "reply_to_id": "2117490698987749386",
@@ -4663,6 +4657,12 @@
           "id": "2117679680912544177",
           "reply_to_id": "2117677661547876357",
           "text": "@artsch00lreject hey"
+        },
+        {
+          "created_at": "2026-11-03T18:30:35.000Z",
+          "id": "2117685890881651106",
+          "reply_to_id": "2117673524232073469",
+          "text": "@Tradermayne mres sir?"
         }
       ],
       "threads": {
@@ -5090,7 +5090,6 @@
         "2117406103634100286": false,
         "2117410262928277724": false,
         "2117412564753957290": true,
-        "2117422026272948254": false,
         "2117601464973737986": false,
         "2117610475105976734": false,
         "2117610897162322258": false,
@@ -5108,7 +5107,8 @@
         "2117673875739955624": false,
         "2117675969339355393": false,
         "2117678465381974188": false,
-        "2117679680912544177": false
+        "2117679680912544177": false,
+        "2117685890881651106": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6805,5 +6805,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T18:28:24+00:00"
+  "updated_at": "2026-11-03T18:32:30+00:00"
 }
