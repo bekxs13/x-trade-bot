@@ -975,7 +975,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117624578281214023",
+      "last_id": "2117655653669851190",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1011,15 +1011,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T17:28:15.000Z",
-          "id": "2116220650058846455",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2116220293899280384/img/DYNVV6ERpSJF7qPK.jpg"
-          ],
-          "quoted_text": "@blknoiz06 good one\n\nthoughts on gold, btc/gold and btc/nasdaq",
-          "text": "https://t.co/b2UOuQXSaw https://t.co/CtWQaWZ9DA"
-        },
         {
           "created_at": "2026-10-30T19:31:15.000Z",
           "id": "2116251607323365843",
@@ -1147,10 +1138,15 @@
           "id": "2117624477928624204",
           "quoted_text": "US\u2013IRAN: REPORTS SIGNAL POTENTIAL DIPLOMATIC BREAKTHROUGH\n\nWashington has reportedly approved a draft memorandum of understanding presented to Iran by Qatari mediators, according to Al-Araby Al-Jadeed, citing sources close to the mediation team.\n\nDiscussions are reportedly underway over arrangements for a simultaneous announcement by both sides.\n\nNegotiators are said to be discussing the first steps toward an interim agreement, followed by a resumption of US\u2013Iran talks.\n\nThe reports remain uncon",
           "text": "generational jawboning going on https://t.co/QtffYzEOts"
+        },
+        {
+          "created_at": "2026-11-03T16:30:26.000Z",
+          "id": "2117655653669851190",
+          "quoted_text": "@blknoiz06 we are gonna survive. https://t.co/n5LTgEM1zw",
+          "text": "hahahahahaha https://t.co/302Fjqng63"
         }
       ],
       "reads": {
-        "2116220650058846455": "No call",
         "2116251607323365843": "No call",
         "2116268402729734241": "No call",
         "2116285263932538959": "No call: bearish on stocks/macro (same view as before)",
@@ -1168,7 +1164,8 @@
         "2117593142824436045": "No call: bearish on stocks/macro (same view as before)",
         "2117619108015653212": "No call",
         "2117623967959630200": "No call",
-        "2117624477928624204": "No call"
+        "2117624477928624204": "No call",
+        "2117655653669851190": "No call"
       },
       "replies": [
         {
@@ -1263,10 +1260,6 @@
         }
       ],
       "threads": {
-        "2113009457592517059": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113010437587718563": {
           "alerted": [],
           "self_replies": 0
@@ -1678,10 +1671,13 @@
         "2117624477928624204": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117655653669851190": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116220650058846455": true,
         "2116251607323365843": true,
         "2116268402729734241": true,
         "2116285263932538959": true,
@@ -1715,7 +1711,8 @@
         "2117619108015653212": false,
         "2117623967959630200": true,
         "2117624477928624204": true,
-        "2117624578281214023": false
+        "2117624578281214023": false,
+        "2117655653669851190": false
       },
       "user_id": "973261472"
     },
@@ -4386,7 +4383,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2117654525091987845",
+      "last_id": "2117655904279564769",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4575,12 +4572,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-02T19:23:19.000Z",
-          "id": "2117336772359106952",
-          "reply_to_id": "2117335646700216604",
-          "text": "@VentureCoinist awesome"
-        },
-        {
           "created_at": "2026-11-02T19:40:59.000Z",
           "id": "2117341219558695363",
           "reply_to_id": "2117341001518129452",
@@ -4666,6 +4657,12 @@
           "id": "2117654308028334497",
           "reply_to_id": "2117652872405950913",
           "text": "@DeeZe i feel sick"
+        },
+        {
+          "created_at": "2026-11-03T16:31:26.000Z",
+          "id": "2117655904279564769",
+          "reply_to_id": "2117655653669851190",
+          "text": "@blknoiz06 gotta be bottom right"
         }
       ],
       "threads": {
@@ -5086,7 +5083,6 @@
         "2117282126160970066": false,
         "2117327802865188877": false,
         "2117328384795758713": false,
-        "2117336772359106952": false,
         "2117338129883656671": true,
         "2117341219558695363": false,
         "2117344088043225525": false,
@@ -5111,7 +5107,8 @@
         "2117651137822118090": false,
         "2117654255272378641": false,
         "2117654308028334497": false,
-        "2117654525091987845": false
+        "2117654525091987845": false,
+        "2117655904279564769": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6808,5 +6805,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T16:26:22+00:00"
+  "updated_at": "2026-11-03T16:32:22+00:00"
 }
