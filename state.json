@@ -4386,7 +4386,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2117611853199122863",
+      "last_id": "2117650227565867070",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4422,12 +4422,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T12:01:43.000Z",
-          "id": "2116138477729542270",
-          "quoted_text": "Binance will be \"hacked\"...\n\n2026 or 2027.\n\nThere is no bottom in the market until Binance is hacked.\n\nIt's part of the script.",
-          "text": "i don't have much left in me man https://t.co/oOjcmYASC3"
-        },
         {
           "created_at": "2026-10-30T12:15:35.000Z",
           "id": "2116141965276307489",
@@ -4551,10 +4545,14 @@
           "created_at": "2026-11-03T13:36:23.000Z",
           "id": "2117611853199122863",
           "text": "MARKET OPEN: Trying ANCIENT MREs, Midterms AREN'T LOOKING GOOD, The NEXT AI TRADE https://t.co/2XMMA5Ki03"
+        },
+        {
+          "created_at": "2026-11-03T16:08:52.000Z",
+          "id": "2117650227565867070",
+          "text": "that was genuinely fucking disgusting there is zero chance i can survive &gt; 1 week on mres i will not be making emergency preparations i will live off doordash until i cant anymore at which point its out of my hands"
         }
       ],
       "reads": {
-        "2116138477729542270": "No call",
         "2116141965276307489": "No call",
         "2116149081211048039": "No call",
         "2116211254184620337": "No call",
@@ -4572,7 +4570,8 @@
         "2117410262928277724": "No call",
         "2117412564753957290": "No call: bearish on stocks/macro (60%, too unsure)",
         "2117610475105976734": "No call",
-        "2117611853199122863": "No call"
+        "2117611853199122863": "No call",
+        "2117650227565867070": "No call"
       },
       "replies": [
         {
@@ -4667,10 +4666,6 @@
         }
       ],
       "threads": {
-        "2110502700999942172": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2110693154429214765": {
           "alerted": [],
           "self_replies": 1
@@ -5072,10 +5067,13 @@
         "2117611853199122863": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117650227565867070": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116138477729542270": true,
         "2116141965276307489": false,
         "2116149081211048039": true,
         "2116211254184620337": true,
@@ -5109,7 +5107,8 @@
         "2117610897162322258": false,
         "2117610960114565547": false,
         "2117611158471319878": false,
-        "2117611853199122863": true
+        "2117611853199122863": true,
+        "2117650227565867070": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6806,5 +6805,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T15:58:25+00:00"
+  "updated_at": "2026-11-03T16:10:25+00:00"
 }
