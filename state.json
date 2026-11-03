@@ -940,12 +940,12 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2116285263932538959",
-          "reason": "Says equities are 'showing signs of weakness' and a 10% correction could pressure crypto, matching his recorded bearish stocks/macro view.",
+          "post_id": "2117593142824436045",
+          "reason": "He says he's been bearish on equities and the tech pullback is playing out. His point that fear gets priced in fast is a caveat about watching support, not a flip, so his bearish view stands.",
           "scope": "stocks/macro",
           "since": "2026-10-29",
           "stance": "bearish",
-          "updated_at": "2026-10-30T21:45:00.000Z"
+          "updated_at": "2026-11-03T12:22:02.000Z"
         },
         "vvv": {
           "market": "crypto",
@@ -975,7 +975,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117449038979072008",
+      "last_id": "2117593142824436045",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1011,11 +1011,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T14:35:22.000Z",
-          "id": "2116177144778768653",
-          "text": "keep seeing people say \"$6b hack and bitcoin only down 2%\" as a bullish thing\n\nbelieve ppl are fundamentally misunderstanding the difference to how bitcoin trades now versus years ago\n\n$BTC used to be the primary driver for retail speculation in crypto, we were all aping leveraged positions on perps in 2017, alts were also part of the speculation but btc much moreso than now\n\nthis changed in 2020/21 when retail mostly were trading alts as their way of going down the risk curve, the new traders on uniswap did not care at all about bitcoin\n\neven moreso in 2023 cycle & now, transition more to onchain because the altcoins on centralized exchanges performed much worse so less ppl speculating on perps than in the trenches, its how memecoins became a lot more popular, & now with equity perps we have even more degens trading other instruments rather than lev longing btc\n\nbelieve that this has had a significant impact on how bitcoin trades bc it is less apes smashing longs and shorts on the btc chart, you can see this appear in the price action with how bitcoin ripped extremely aggressively on every all time high break in 2017 but every top in 2021 post-saylor's aping in 2020 was the subtle ath failed breakout and then breakdown and much choppier price action\n\neven more apparent in 2023-2025 where we spent several months in compressed ranges & then also topped in jan 2025 & sept/oct 2025 with slightly higher high & failed breakout\n\nwhen 10/10 liquidation happened, $BTC barely moved compared to alts, this is because of what im stating above, the degens are not longing bitcoin, it traded above $100k for weeks after 10/10 and did not make substantially lower lows until november while alts got wiped in one candle\n\nso i dont think because there is not an immediate reaction to the downside it means the downtrend will not continue, the sellers are just more passive, & there are less apes to get liquidated on leverage"
-        },
         {
           "created_at": "2026-10-30T16:11:21.000Z",
           "id": "2116201298102042686",
@@ -1147,10 +1142,17 @@
           "created_at": "2026-11-03T02:49:25.000Z",
           "id": "2117449038979072008",
           "text": "https://t.co/0e1lNWZMka"
+        },
+        {
+          "created_at": "2026-11-03T12:22:02.000Z",
+          "id": "2117593142824436045",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2117593038466015232/img/u5l2euTlSbgrwVeo.jpg"
+          ],
+          "text": "i've been bearish on equities largely because i expected tech stocks to pull back, and we're starting to see that happen\n\nbut one thing i've noticed in recent market corrections is how quickly fear gets priced in\n\npeople panic, sell aggressively, and price reaches important support levels much faster than you'd normally expect\n\nwith all the uncertainty around AI, geopolitics and the broader market, there's a possibility that investors price in a much worse outcome than what actually happens\n\ni'm watching how price reacts at those key levels because sentiment can shift pretty quickly once the selling pressure starts to fade"
         }
       ],
       "reads": {
-        "2116177144778768653": "No call: bearish on btc (same view as before)",
         "2116201298102042686": "No call",
         "2116207443977871791": "No call",
         "2116215486287642907": "No call",
@@ -1168,7 +1170,8 @@
         "2117423871154589732": "No call",
         "2117427227847491837": "No call",
         "2117441633713082652": "No call",
-        "2117449038979072008": "No call"
+        "2117449038979072008": "No call",
+        "2117593142824436045": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -1263,10 +1266,6 @@
         }
       ],
       "threads": {
-        "2112958140862042489": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112974503571783683": {
           "alerted": [],
           "self_replies": 0
@@ -1678,10 +1677,13 @@
         "2117449038979072008": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117593142824436045": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116177144778768653": true,
         "2116201298102042686": false,
         "2116207443977871791": false,
         "2116215486287642907": true,
@@ -1715,7 +1717,8 @@
         "2117441633713082652": true,
         "2117444764379627791": false,
         "2117446994746634422": false,
-        "2117449038979072008": false
+        "2117449038979072008": false,
+        "2117593142824436045": true
       },
       "user_id": "973261472"
     },
@@ -6786,5 +6789,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-02",
-  "updated_at": "2026-11-03T12:14:21+00:00"
+  "updated_at": "2026-11-03T12:22:42+00:00"
 }
