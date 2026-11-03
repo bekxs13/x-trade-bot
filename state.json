@@ -2114,14 +2114,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117686273792221186",
+      "last_id": "2117686712243507317",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-30T20:10:43.000Z",
-          "id": "2116261536964755964",
-          "text": "lol was busy all day looks like i didn't miss anything good"
-        },
         {
           "created_at": "2026-10-30T21:55:01.000Z",
           "id": "2116287785753554948",
@@ -2245,10 +2240,15 @@
           "id": "2117685016658358748",
           "reply_to_id": "2117684814073446460",
           "text": "@dmartin_trading 2) an orthogonal signal that tells you that the trade is bad now (eg, something that tells you that you got adversely selected)\n\na lot of retail-style technical analysis is just comforting yourself with precise numbers that don't mean anything"
+        },
+        {
+          "created_at": "2026-11-03T18:32:37.000Z",
+          "id": "2117686399759794190",
+          "reply_to_id": "2117686273792221186",
+          "text": "@kwertytwo @dmartin_trading the closest thing would be putting on a trade for short term flow reasons and the flow not coming, but tbh the price going against you doesn't matter so much as a period of time passing"
         }
       ],
       "reads": {
-        "2116261536964755964": "No call",
         "2116287785753554948": "No call: bullish on big tech (60%, too unsure)",
         "2116343046484947007": "No call",
         "2116419869730029956": "No call",
@@ -2267,12 +2267,6 @@
         "2117669115120717937": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-02T18:43:02.000Z",
-          "id": "2117326636911919259",
-          "reply_to_id": "2117326132475461963",
-          "text": "@MartinShkreli where's my courtesy like"
-        },
         {
           "created_at": "2026-11-02T18:59:32.000Z",
           "id": "2117330787116937321",
@@ -2356,6 +2350,12 @@
           "id": "2117686273792221186",
           "reply_to_id": "2117685746941218961",
           "text": "@kwertytwo @dmartin_trading can hardly think of any signal where a trade going against me, and nothing else, is sufficient evidence of that"
+        },
+        {
+          "created_at": "2026-11-03T18:33:51.000Z",
+          "id": "2117686712243507317",
+          "reply_to_id": "2117685995877663151",
+          "text": "@Jan_Schlupp @dmartin_trading with even more derision"
         }
       ],
       "threads": {
@@ -2687,7 +2687,6 @@
         }
       },
       "trading": {
-        "2116261536964755964": false,
         "2116287785753554948": true,
         "2116288080684720638": false,
         "2116343046484947007": false,
@@ -2700,7 +2699,6 @@
         "2117250853195174359": true,
         "2117298795105194364": false,
         "2117304827172786659": true,
-        "2117326636911919259": false,
         "2117330787116937321": false,
         "2117330914363560021": false,
         "2117332099544031282": false,
@@ -2721,7 +2719,9 @@
         "2117672177038221627": true,
         "2117684814073446460": true,
         "2117685016658358748": true,
-        "2117686273792221186": true
+        "2117686273792221186": true,
+        "2117686399759794190": true,
+        "2117686712243507317": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6805,5 +6805,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T18:32:30+00:00"
+  "updated_at": "2026-11-03T18:34:27+00:00"
 }
