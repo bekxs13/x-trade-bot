@@ -2117,7 +2117,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117686712243507317",
+      "last_id": "2117705860323434533",
       "positions": {},
       "posts": [
         {
@@ -2271,12 +2271,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-02T18:59:32.000Z",
-          "id": "2117330787116937321",
-          "reply_to_id": "2117329737534320840",
-          "text": "@finn_hulse didnt i work somewhere else too mr attempted doxxer"
-        },
-        {
           "created_at": "2026-11-02T19:00:02.000Z",
           "id": "2117330914363560021",
           "reply_to_id": "2117329012309586231",
@@ -2359,6 +2353,12 @@
           "id": "2117686712243507317",
           "reply_to_id": "2117685995877663151",
           "text": "@Jan_Schlupp @dmartin_trading with even more derision"
+        },
+        {
+          "created_at": "2026-11-03T19:49:56.000Z",
+          "id": "2117705860323434533",
+          "reply_to_id": "2117704634370572596",
+          "text": "@dmartin_trading &gt; Is there empirical evidence showing that volatility adjusted stop losses are generally inferior to the exit framework you're proposing? \n\nyes obviously"
         }
       ],
       "threads": {
@@ -2702,7 +2702,6 @@
         "2117250853195174359": true,
         "2117298795105194364": false,
         "2117304827172786659": true,
-        "2117330787116937321": false,
         "2117330914363560021": false,
         "2117332099544031282": false,
         "2117343685671305250": true,
@@ -2724,7 +2723,8 @@
         "2117685016658358748": true,
         "2117686273792221186": true,
         "2117686399759794190": true,
-        "2117686712243507317": false
+        "2117686712243507317": false,
+        "2117705860323434533": true
       },
       "user_id": "1598545553327067137"
     },
@@ -4386,7 +4386,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2117699961223561547",
+      "last_id": "2117705527706952045",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4576,12 +4576,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T12:55:07.000Z",
-          "id": "2117601464973737986",
-          "reply_to_id": "2117490698987749386",
-          "text": "@jasondev0 @offline my dream"
-        },
-        {
           "created_at": "2026-11-03T13:32:35.000Z",
           "id": "2117610897162322258",
           "reply_to_id": "2117610715968102647",
@@ -4667,6 +4661,12 @@
           "id": "2117685890881651106",
           "reply_to_id": "2117673524232073469",
           "text": "@Tradermayne mres sir?"
+        },
+        {
+          "created_at": "2026-11-03T19:48:37.000Z",
+          "id": "2117705527706952045",
+          "reply_to_id": "2117688544231612638",
+          "text": "@jaxksaw LMAO"
         }
       ],
       "threads": {
@@ -5091,7 +5091,6 @@
         "2117406103634100286": false,
         "2117410262928277724": false,
         "2117412564753957290": true,
-        "2117601464973737986": false,
         "2117610475105976734": false,
         "2117610897162322258": false,
         "2117610960114565547": false,
@@ -5112,7 +5111,8 @@
         "2117685890881651106": false,
         "2117697352052142314": true,
         "2117698248848630047": true,
-        "2117699961223561547": false
+        "2117699961223561547": false,
+        "2117705527706952045": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6809,5 +6809,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T19:46:30+00:00"
+  "updated_at": "2026-11-03T19:50:23+00:00"
 }
