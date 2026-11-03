@@ -2111,25 +2111,19 @@
       "biases": {
         "memory stocks": {
           "market": "stocks",
-          "post_id": "2115903745007747572",
-          "reason": "Calls SK Hynix and Sandisk earnings 'stellar' and blames the drop on 'stat arb beta', implying memory is unfairly sold off. This matches the recorded bullish view.",
+          "post_id": "2117625299924049939",
+          "reason": "Mocks memory stock bears with a Yogi Berra-style self-contradicting quote, implying demand is obviously strong; matches the recorded bullish view.",
           "scope": "memory stocks",
           "since": "2026-10-24",
           "stance": "bullish",
-          "updated_at": "2026-10-29T20:28:59.000Z"
+          "updated_at": "2026-11-03T14:29:49.000Z"
         }
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117615666689663132",
+      "last_id": "2117625299924049939",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-30T02:23:00.000Z",
-          "id": "2115992837963792571",
-          "reply_to_id": "2115992592097984806",
-          "text": "can't even end your own life there without a license"
-        },
         {
           "created_at": "2026-10-30T03:30:35.000Z",
           "id": "2116009844008497613",
@@ -2251,10 +2245,14 @@
           ],
           "quoted_text": "what if everything just works out. for example we get a deal with iran this weekend and the agent swarms just autonomously decide to quit hacking critical infrastructure. anyone thinking about that scenario",
           "text": "https://t.co/iiT8AfZGch https://t.co/GGRgmDpA5F"
+        },
+        {
+          "created_at": "2026-11-03T14:29:49.000Z",
+          "id": "2117625299924049939",
+          "text": "\"nobody drives in manhattan, there's too much traffic\" - memory stock bear"
         }
       ],
       "reads": {
-        "2115992837963792571": "No call",
         "2116009844008497613": "No call",
         "2116155200075395195": "No call",
         "2116167987577114628": "No call",
@@ -2271,7 +2269,8 @@
         "2117304827172786659": "No call",
         "2117369008140025953": "No call",
         "2117412046362825178": "No call: bullish on memory stocks (60%, too unsure)",
-        "2117611700094423543": "No call"
+        "2117611700094423543": "No call",
+        "2117625299924049939": "No call: bullish on memory stocks (same view as before)"
       },
       "replies": [
         {
@@ -2679,10 +2678,13 @@
         "2117611700094423543": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117625299924049939": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2115992837963792571": false,
         "2116009844008497613": true,
         "2116155200075395195": false,
         "2116167987577114628": true,
@@ -2716,7 +2718,8 @@
         "2117414703760589283": false,
         "2117446611936657446": false,
         "2117611700094423543": false,
-        "2117615666689663132": false
+        "2117615666689663132": false,
+        "2117625299924049939": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6798,5 +6801,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T14:28:23+00:00"
+  "updated_at": "2026-11-03T14:30:31+00:00"
 }
