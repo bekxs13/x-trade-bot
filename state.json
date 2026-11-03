@@ -2117,7 +2117,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117710029377962255",
+      "last_id": "2117711742272987145",
       "positions": {},
       "posts": [
         {
@@ -2274,12 +2274,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-02T21:13:01.000Z",
-          "id": "2117364380299886962",
-          "reply_to_id": "2117362728188973090",
-          "text": "@matthw_doyle so i agree but the very same mms often foster the product! lobbying exchanges to list them, or helping with cre/demptions, etc etc\n\nit feels icky"
-        },
-        {
           "created_at": "2026-11-03T00:32:59.000Z",
           "id": "2117414703760589283",
           "reply_to_id": "2117412437075083524",
@@ -2362,6 +2356,12 @@
           "id": "2117708704204398711",
           "reply_to_id": "2117708335109607673",
           "text": "@goodalexander @dmartin_trading discretionary trading tends to be higher variance so you should expect that the highest returns come from punters"
+        },
+        {
+          "created_at": "2026-11-03T20:13:19.000Z",
+          "id": "2117711742272987145",
+          "reply_to_id": "2117691783648100470",
+          "text": "@LeoAdberg extremely skeptical that's true in all but the most niche markets"
         }
       ],
       "threads": {
@@ -2703,7 +2703,6 @@
         "2117250853195174359": true,
         "2117298795105194364": false,
         "2117304827172786659": true,
-        "2117364380299886962": true,
         "2117369008140025953": true,
         "2117412046362825178": true,
         "2117414703760589283": false,
@@ -2727,7 +2726,8 @@
         "2117706877635109118": true,
         "2117708042011918715": true,
         "2117708704204398711": true,
-        "2117710029377962255": false
+        "2117710029377962255": false,
+        "2117711742272987145": false
       },
       "user_id": "1598545553327067137"
     },
@@ -4389,7 +4389,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2117705527706952045",
+      "last_id": "2117711899735519632",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4425,15 +4425,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-31T03:01:15.000Z",
-          "id": "2116364853237727473",
-          "images": [
-            "https://pbs.twimg.com/media/HV7WniYXoAA1Tu0.jpg"
-          ],
-          "reply_to_id": "2116351169970758062",
-          "text": "@d_gilz still good to do it https://t.co/cEUGbE6B6Y"
-        },
         {
           "created_at": "2026-11-02T13:42:06.000Z",
           "id": "2117250901115109378",
@@ -4555,6 +4546,11 @@
           "id": "2117699961223561547",
           "reply_to_id": "2117698248848630047",
           "text": "who even are they? other then the fund guys"
+        },
+        {
+          "created_at": "2026-11-03T20:13:56.000Z",
+          "id": "2117711899735519632",
+          "text": "idk why but every day i read the posts on here and feel a higher power pulling me to read the sovereign individual so I just ordered it"
         }
       ],
       "reads": {
@@ -4575,7 +4571,8 @@
         "2117650227565867070": "No call",
         "2117654525091987845": "No call",
         "2117697352052142314": "No call",
-        "2117698248848630047": "No call"
+        "2117698248848630047": "No call",
+        "2117711899735519632": "No call"
       },
       "replies": [
         {
@@ -4673,10 +4670,6 @@
         }
       ],
       "threads": {
-        "2110712299170456020": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110762518495085033": {
           "alerted": [],
           "self_replies": 0
@@ -5078,10 +5071,13 @@
         "2117697352052142314": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2117711899735519632": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116364853237727473": false,
         "2117250901115109378": true,
         "2117275103612330210": true,
         "2117282126160970066": false,
@@ -5115,7 +5111,8 @@
         "2117697352052142314": true,
         "2117698248848630047": true,
         "2117699961223561547": false,
-        "2117705527706952045": false
+        "2117705527706952045": false,
+        "2117711899735519632": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6812,5 +6809,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T20:08:37+00:00"
+  "updated_at": "2026-11-03T20:14:25+00:00"
 }
