@@ -4368,7 +4368,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2117405681762333148",
+      "last_id": "2117406103634100286",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4404,11 +4404,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T11:17:06.000Z",
-          "id": "2116127249162489957",
-          "text": "on a scale of how bad it was to how bad it could have been the binance hack is like a three"
-        },
         {
           "created_at": "2026-10-30T11:28:57.000Z",
           "id": "2116130232549998912",
@@ -4527,10 +4522,18 @@
             "https://pbs.twimg.com/media/HWKIUJkWkAElIrW.jpg"
           ],
           "text": "TRYING MRES FROM 1988. LETS SEE HOW BAD BUNKER MODE REALLY IS. 845am est. TOMORROW. https://t.co/K6SgWrzpwM"
+        },
+        {
+          "created_at": "2026-11-02T23:58:49.000Z",
+          "id": "2117406103634100286",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2117406052941447168/img/jaThJj7moDuV7w2U.jpg"
+          ],
+          "reply_to_id": "2117404658041762216",
+          "text": "https://t.co/bMJdvX719j"
         }
       ],
       "reads": {
-        "2116127249162489957": "No call",
         "2116130232549998912": "No call",
         "2116132127742074961": "No call",
         "2116135273209745769": "No call",
@@ -4547,7 +4550,8 @@
         "2117338129883656671": "No call",
         "2117402892847943695": "No call",
         "2117403055843086831": "No call",
-        "2117404658041762216": "No call"
+        "2117404658041762216": "No call",
+        "2117406103634100286": "No call"
       },
       "replies": [
         {
@@ -5046,11 +5050,10 @@
         },
         "2117404658041762216": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2116127249162489957": true,
         "2116130232549998912": false,
         "2116132127742074961": false,
         "2116133871590785276": false,
@@ -5084,7 +5087,8 @@
         "2117402892847943695": false,
         "2117403055843086831": false,
         "2117404658041762216": false,
-        "2117405681762333148": false
+        "2117405681762333148": false,
+        "2117406103634100286": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6750,5 +6754,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-02",
-  "updated_at": "2026-11-02T23:58:15+00:00"
+  "updated_at": "2026-11-03T00:00:29+00:00"
 }
