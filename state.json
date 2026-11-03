@@ -4370,7 +4370,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2117410262928277724",
+      "last_id": "2117412564753957290",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4406,12 +4406,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T11:36:29.000Z",
-          "id": "2116132127742074961",
-          "reply_to_id": "2116127249162489957",
-          "text": "this actually sucked the soul out of me pause"
-        },
         {
           "created_at": "2026-10-30T11:43:25.000Z",
           "id": "2116133871590785276",
@@ -4536,10 +4530,15 @@
             "https://pbs.twimg.com/media/HWKNaVhWoAAFckP.jpg"
           ],
           "text": "https://t.co/uyGf3oVmjO"
+        },
+        {
+          "created_at": "2026-11-03T00:24:29.000Z",
+          "id": "2117412564753957290",
+          "quoted_text": "*DISNEY EYES THOUSANDS OF LAYOFFS; MANAGERS ASKED TO CUT 20%\n\nFeels like the trend may be accelerating",
+          "text": "is it actually happening https://t.co/P6gYJqIkV5"
         }
       ],
       "reads": {
-        "2116132127742074961": "No call",
         "2116135273209745769": "No call",
         "2116138477729542270": "No call",
         "2116141965276307489": "No call",
@@ -4556,7 +4555,8 @@
         "2117403055843086831": "No call",
         "2117404658041762216": "No call",
         "2117406103634100286": "No call",
-        "2117410262928277724": "No call"
+        "2117410262928277724": "No call",
+        "2117412564753957290": "No call: bearish on stocks/macro (60%, too unsure)"
       },
       "replies": [
         {
@@ -4651,10 +4651,6 @@
         }
       ],
       "threads": {
-        "2110373655167537538": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110396209575972907": {
           "alerted": [],
           "self_replies": 0
@@ -5056,10 +5052,13 @@
         "2117410262928277724": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117412564753957290": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116132127742074961": false,
         "2116133871590785276": false,
         "2116135273209745769": false,
         "2116138477729542270": true,
@@ -5093,7 +5092,8 @@
         "2117404658041762216": false,
         "2117405681762333148": false,
         "2117406103634100286": false,
-        "2117410262928277724": false
+        "2117410262928277724": false,
+        "2117412564753957290": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6759,5 +6759,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-02",
-  "updated_at": "2026-11-03T00:24:33+00:00"
+  "updated_at": "2026-11-03T00:26:26+00:00"
 }
