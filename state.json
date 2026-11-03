@@ -974,7 +974,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117744515989623187",
+      "last_id": "2117745072037093827",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1010,17 +1010,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-02T20:06:44.000Z",
-          "id": "2117347698198106437",
-          "quoted_text": "Under pressure from Israeli prime minister Benjamin Netanyahu, the Trump administration may be within days of launching a nuclear strike on Iran. The target would be Pickax Mountain in central Iran, where Israeli intelligence claims the Iranian government has restarted its nuclear enrichment program. No conventional weapon in the American arsenal can penetrate 300 feet of solid granite to destroy the tunnels where enrichment is supposedly taking place. The only military option is a nuclear strik",
-          "text": "? https://t.co/MzZFucdBWK"
-        },
-        {
-          "created_at": "2026-11-02T20:35:35.000Z",
-          "id": "2117354957951102989",
-          "text": "sandisk closing under 200d ema for first time since the stock was ~$40"
-        },
         {
           "created_at": "2026-11-02T22:10:28.000Z",
           "id": "2117378838107688995",
@@ -1136,11 +1125,22 @@
           "id": "2117728157281538212",
           "quoted_text": "Red Sweep.\n\nIf I am wrong I will delete this tweet",
           "text": "75% chance dems sweep\n\nhttps://t.co/V4OsexyNpR https://t.co/M3XPfd4GMK"
+        },
+        {
+          "created_at": "2026-11-03T22:25:00.000Z",
+          "id": "2117744881804185707",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2117668680838664192/img/K31wM8imUjhjeRAw.jpg"
+          ],
+          "text": "i've been thinking a lot about what happens to human creativity as AI-generated content becomes more common\n\nsome of the most interesting ideas about the future originally came from artists, writers and science fiction long before engineers made them possible\n\nwhat concerns me is the possibility of everyone consuming and creating content based on the same models, trends and information\n\nover time, that could push creative thinking toward the same ideas and make genuinely original perspectives harder to find"
+        },
+        {
+          "created_at": "2026-11-03T22:25:01.000Z",
+          "id": "2117744887873581394",
+          "text": "testing"
         }
       ],
       "reads": {
-        "2117347698198106437": "No call",
-        "2117354957951102989": "No call: bearish on SNDK (65%, too unsure)",
         "2117408899795927550": "No call",
         "2117417803351548029": "No call",
         "2117423871154589732": "No call",
@@ -1156,18 +1156,11 @@
         "2117666234439467072": "No call: bearish on stocks/macro (same view as before)",
         "2117710404558442877": "No call: bearish on ai stocks (65%, too unsure)",
         "2117716067510259904": "No call",
-        "2117728157281538212": "No call"
+        "2117728157281538212": "No call",
+        "2117744881804185707": "No call",
+        "2117744887873581394": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-03T19:02:36.000Z",
-          "id": "2117693945140445686",
-          "images": [
-            "https://pbs.twimg.com/media/HWOPaiGXsAAZ7qX.jpg"
-          ],
-          "reply_to_id": "2117659194681901152",
-          "text": "@SalamanderSaid @notthreadguy https://t.co/U9x979p5h6"
-        },
         {
           "created_at": "2026-11-03T19:22:44.000Z",
           "id": "2117699013738664057",
@@ -1254,17 +1247,15 @@
           "id": "2117744515989623187",
           "reply_to_id": "2117743720594387082",
           "text": "@__justEVA i always wonder how you guys determine which coins are slop or not, what is the methodology"
+        },
+        {
+          "created_at": "2026-11-03T22:25:45.000Z",
+          "id": "2117745072037093827",
+          "reply_to_id": "2117732133771104640",
+          "text": "@I4NFTS yep"
         }
       ],
       "threads": {
-        "2113281412745039998": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2113333763153248479": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113356853736358097": {
           "alerted": [],
           "self_replies": 0
@@ -1672,11 +1663,17 @@
         "2117728157281538212": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117744881804185707": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2117744887873581394": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117347698198106437": false,
-        "2117354957951102989": true,
         "2117378838107688995": true,
         "2117408899795927550": false,
         "2117417803351548029": false,
@@ -1691,7 +1688,6 @@
         "2117655653669851190": false,
         "2117656325647953982": true,
         "2117666234439467072": true,
-        "2117693945140445686": false,
         "2117699013738664057": true,
         "2117701621149012392": true,
         "2117701700743999985": true,
@@ -1709,7 +1705,10 @@
         "2117731017322795452": false,
         "2117743263893635208": false,
         "2117743821496959378": false,
-        "2117744515989623187": true
+        "2117744515989623187": true,
+        "2117744881804185707": false,
+        "2117744887873581394": false,
+        "2117745072037093827": false
       },
       "user_id": "973261472"
     },
@@ -6833,5 +6832,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T22:24:20+00:00"
+  "updated_at": "2026-11-03T22:26:28+00:00"
 }
