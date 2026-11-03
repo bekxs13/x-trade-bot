@@ -4386,7 +4386,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2117651137822118090",
+      "last_id": "2117654525091987845",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4422,12 +4422,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T12:15:35.000Z",
-          "id": "2116141965276307489",
-          "reply_to_id": "2115861507884110173",
-          "text": "i lied"
-        },
         {
           "created_at": "2026-10-30T12:43:51.000Z",
           "id": "2116149081211048039",
@@ -4550,10 +4544,15 @@
           "created_at": "2026-11-03T16:08:52.000Z",
           "id": "2117650227565867070",
           "text": "that was genuinely fucking disgusting there is zero chance i can survive &gt; 1 week on mres i will not be making emergency preparations i will live off doordash until i cant anymore at which point its out of my hands"
+        },
+        {
+          "created_at": "2026-11-03T16:25:57.000Z",
+          "id": "2117654525091987845",
+          "quoted_text": "Crypto streamer Threadguy claims superiority over the rest of the human race after eating a singular bite of an MRE from the 1980s\n\n\"WE'RE SURVIVING. I WILL SURVIVE. I WILL PERSEVERE. MY FAMILY WILL SURVIVE\" https://t.co/nFReEkxEuE",
+          "text": "i will survive. https://t.co/awizBHjUFj"
         }
       ],
       "reads": {
-        "2116141965276307489": "No call",
         "2116149081211048039": "No call",
         "2116211254184620337": "No call",
         "2116259889974525991": "No call",
@@ -4571,21 +4570,10 @@
         "2117412564753957290": "No call: bearish on stocks/macro (60%, too unsure)",
         "2117610475105976734": "No call",
         "2117611853199122863": "No call",
-        "2117650227565867070": "No call"
+        "2117650227565867070": "No call",
+        "2117654525091987845": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-02T18:06:22.000Z",
-          "id": "2117317408004165994",
-          "reply_to_id": "2117317241838641328",
-          "text": "@WordsayT i got us g"
-        },
-        {
-          "created_at": "2026-11-02T18:58:46.000Z",
-          "id": "2117330592643891543",
-          "reply_to_id": "2117330363542581567",
-          "text": "@goodalexander this strawberry cream pie smoothie flavor isnt gonna hit itself"
-        },
         {
           "created_at": "2026-11-02T19:23:19.000Z",
           "id": "2117336772359106952",
@@ -4666,13 +4654,21 @@
           ],
           "reply_to_id": "2117650920725209144",
           "text": "@toly https://t.co/RCd9HQzHrQ"
+        },
+        {
+          "created_at": "2026-11-03T16:24:53.000Z",
+          "id": "2117654255272378641",
+          "reply_to_id": "2117652525243613244",
+          "text": "@reaIityobserver woah"
+        },
+        {
+          "created_at": "2026-11-03T16:25:05.000Z",
+          "id": "2117654308028334497",
+          "reply_to_id": "2117652872405950913",
+          "text": "@DeeZe i feel sick"
         }
       ],
       "threads": {
-        "2110693154429214765": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2110699646641394005": {
           "alerted": [],
           "self_replies": 1
@@ -5074,10 +5070,13 @@
         "2117650227565867070": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117654525091987845": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116141965276307489": false,
         "2116149081211048039": true,
         "2116211254184620337": true,
         "2116259889974525991": false,
@@ -5085,10 +5084,8 @@
         "2117250901115109378": true,
         "2117275103612330210": true,
         "2117282126160970066": false,
-        "2117317408004165994": false,
         "2117327802865188877": false,
         "2117328384795758713": false,
-        "2117330592643891543": false,
         "2117336772359106952": false,
         "2117338129883656671": true,
         "2117341219558695363": false,
@@ -5111,7 +5108,10 @@
         "2117611158471319878": false,
         "2117611853199122863": true,
         "2117650227565867070": false,
-        "2117651137822118090": false
+        "2117651137822118090": false,
+        "2117654255272378641": false,
+        "2117654308028334497": false,
+        "2117654525091987845": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6808,5 +6808,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T16:14:20+00:00"
+  "updated_at": "2026-11-03T16:26:22+00:00"
 }
