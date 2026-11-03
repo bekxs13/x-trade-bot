@@ -4389,7 +4389,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2117698248848630047",
+      "last_id": "2117699961223561547",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4425,12 +4425,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T20:04:10.000Z",
-          "id": "2116259889974525991",
-          "quoted_text": "TRUMP: LOOKING AT BINANCE HACK: BBG",
-          "text": "please stop https://t.co/fJhODGZCK1"
-        },
         {
           "created_at": "2026-10-31T03:01:15.000Z",
           "id": "2116364853237727473",
@@ -4555,10 +4549,15 @@
           "id": "2117698248848630047",
           "reply_to_id": "2117697352052142314",
           "text": "lgw? shows up with a 30m twap? solanadoomer? like what? 20m pnl this year \n\nflood and soska probably two of the best traders in the world rn? ct has legit randoms with 8 figs slamming buys on their phone consistently wicking down 50% \n\nsurvivorship whatever yada yada fintwit is so weak"
+        },
+        {
+          "created_at": "2026-11-03T19:26:30.000Z",
+          "id": "2117699961223561547",
+          "reply_to_id": "2117698248848630047",
+          "text": "who even are they? other then the fund guys"
         }
       ],
       "reads": {
-        "2116259889974525991": "No call",
         "2117250901115109378": "No call",
         "2117275103612330210": "No call",
         "2117282126160970066": "No call",
@@ -5082,7 +5081,6 @@
         }
       },
       "trading": {
-        "2116259889974525991": false,
         "2116364853237727473": false,
         "2117250901115109378": true,
         "2117275103612330210": true,
@@ -5116,7 +5114,8 @@
         "2117679680912544177": false,
         "2117685890881651106": false,
         "2117697352052142314": true,
-        "2117698248848630047": true
+        "2117698248848630047": true,
+        "2117699961223561547": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6813,5 +6812,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T19:24:33+00:00"
+  "updated_at": "2026-11-03T19:28:32+00:00"
 }
