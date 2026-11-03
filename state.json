@@ -2115,7 +2115,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117728098250641532",
+      "last_id": "2117731210831036688",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2291,12 +2291,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T17:16:00.000Z",
-          "id": "2117667120045580306",
-          "reply_to_id": "2117651793660305499",
-          "text": "@stacycay im sorry stacy :("
-        },
-        {
           "created_at": "2026-11-03T17:20:33.000Z",
           "id": "2117668267318026424",
           "reply_to_id": "2117660392922988674",
@@ -2379,6 +2373,12 @@
           "id": "2117727620133748935",
           "reply_to_id": "2117726850260914591",
           "text": "@Steinzory directionally, yes. but that's not even my point necessarily - it's that he can talk intelligently about it all instead of saying \"it's all computer\""
+        },
+        {
+          "created_at": "2026-11-03T21:30:40.000Z",
+          "id": "2117731210831036688",
+          "reply_to_id": "2117730170178261284",
+          "text": "@aethernet_port i don't think he is"
         }
       ],
       "threads": {
@@ -2733,7 +2733,6 @@
         "2117611700094423543": false,
         "2117625299924049939": true,
         "2117647100838064136": false,
-        "2117667120045580306": false,
         "2117668267318026424": true,
         "2117669115120717937": false,
         "2117670970114666592": false,
@@ -2754,7 +2753,8 @@
         "2117726741133393936": true,
         "2117727032385699926": false,
         "2117727620133748935": false,
-        "2117728098250641532": true
+        "2117728098250641532": true,
+        "2117731210831036688": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6833,5 +6833,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T21:30:24+00:00"
+  "updated_at": "2026-11-03T21:32:41+00:00"
 }
