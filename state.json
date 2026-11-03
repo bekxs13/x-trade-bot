@@ -2121,14 +2121,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117625299924049939",
+      "last_id": "2117647100838064136",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-30T03:30:35.000Z",
-          "id": "2116009844008497613",
-          "text": "i know memory is eating shit but i refuse to stay at a hotel without at least one michelin key"
-        },
         {
           "created_at": "2026-10-30T13:08:10.000Z",
           "id": "2116155200075395195",
@@ -2250,10 +2245,15 @@
           "created_at": "2026-11-03T14:29:49.000Z",
           "id": "2117625299924049939",
           "text": "\"nobody drives in manhattan, there's too much traffic\" - memory stock bear"
+        },
+        {
+          "created_at": "2026-11-03T15:56:27.000Z",
+          "id": "2117647100838064136",
+          "quoted_text": "Today we're sharing with you all the name of the next Elder Scrolls title (did you guess correctly?). https://t.co/zjhpJXQNtF",
+          "text": "\ud83d\udc40 https://t.co/VqCOOpdXjQ"
         }
       ],
       "reads": {
-        "2116009844008497613": "No call",
         "2116155200075395195": "No call",
         "2116167987577114628": "No call",
         "2116261536964755964": "No call",
@@ -2270,7 +2270,8 @@
         "2117369008140025953": "No call",
         "2117412046362825178": "No call: bullish on memory stocks (60%, too unsure)",
         "2117611700094423543": "No call",
-        "2117625299924049939": "No call: bullish on memory stocks (same view as before)"
+        "2117625299924049939": "No call: bullish on memory stocks (same view as before)",
+        "2117647100838064136": "No call"
       },
       "replies": [
         {
@@ -2682,10 +2683,13 @@
         "2117625299924049939": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117647100838064136": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116009844008497613": true,
         "2116155200075395195": false,
         "2116167987577114628": true,
         "2116261536964755964": false,
@@ -2719,7 +2723,8 @@
         "2117446611936657446": false,
         "2117611700094423543": false,
         "2117615666689663132": false,
-        "2117625299924049939": true
+        "2117625299924049939": true,
+        "2117647100838064136": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6801,5 +6806,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T15:32:18+00:00"
+  "updated_at": "2026-11-03T15:58:25+00:00"
 }
