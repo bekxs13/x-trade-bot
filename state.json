@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2117539968025583935",
+      "last_id": "2117541456626004382",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -297,12 +297,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-29T20:48:06.000Z",
-          "id": "2115908557921034419",
-          "reply_to_id": "2115906886231040479",
-          "text": "@hajsharda https://t.co/mdcPe5FXYz"
-        },
-        {
           "created_at": "2026-10-30T02:58:19.000Z",
           "id": "2116001724234391769",
           "reply_to_id": "2115996469094236173",
@@ -385,6 +379,12 @@
           "id": "2117007244462051546",
           "reply_to_id": "2117007132516327807",
           "text": "@HighReturnHarry I still fw her"
+        },
+        {
+          "created_at": "2026-11-03T08:56:39.000Z",
+          "id": "2117541456626004382",
+          "reply_to_id": "2117540523921613146",
+          "text": "@Franny8 Not exactly sure just that dem sweep being treated as \u201cpriced in base case\u201d feels odd to me given the pricing 2 months ago"
         }
       ],
       "threads": {
@@ -798,7 +798,6 @@
         }
       },
       "trading": {
-        "2115908557921034419": false,
         "2116001724234391769": false,
         "2116002826568810782": true,
         "2116003842194350148": true,
@@ -832,7 +831,8 @@
         "2117014140224975092": false,
         "2117028271607238979": false,
         "2117050454924521496": false,
-        "2117539968025583935": true
+        "2117539968025583935": true,
+        "2117541456626004382": true
       },
       "user_id": "1446541960181858315"
     },
@@ -6760,5 +6760,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-02",
-  "updated_at": "2026-11-03T08:52:28+00:00"
+  "updated_at": "2026-11-03T08:58:18+00:00"
 }
