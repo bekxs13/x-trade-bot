@@ -2114,14 +2114,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117684814073446460",
+      "last_id": "2117685016658358748",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-30T13:58:59.000Z",
-          "id": "2116167987577114628",
-          "text": "what if bitcoin never goes up ever again"
-        },
         {
           "created_at": "2026-10-30T20:10:43.000Z",
           "id": "2116261536964755964",
@@ -2244,10 +2239,15 @@
             "https://pbs.twimg.com/media/HWN41BOWEAAKhvw.jpg"
           ],
           "text": "1) what https://t.co/3eUY3CHj4t"
+        },
+        {
+          "created_at": "2026-11-03T18:27:07.000Z",
+          "id": "2117685016658358748",
+          "reply_to_id": "2117684814073446460",
+          "text": "@dmartin_trading 2) an orthogonal signal that tells you that the trade is bad now (eg, something that tells you that you got adversely selected)\n\na lot of retail-style technical analysis is just comforting yourself with precise numbers that don't mean anything"
         }
       ],
       "reads": {
-        "2116167987577114628": "No call",
         "2116261536964755964": "No call",
         "2116287785753554948": "No call: bullish on big tech (60%, too unsure)",
         "2116343046484947007": "No call",
@@ -2687,7 +2687,6 @@
         }
       },
       "trading": {
-        "2116167987577114628": true,
         "2116261536964755964": false,
         "2116287785753554948": true,
         "2116288080684720638": false,
@@ -2721,7 +2720,8 @@
         "2117669115120717937": false,
         "2117670970114666592": false,
         "2117672177038221627": true,
-        "2117684814073446460": true
+        "2117684814073446460": true,
+        "2117685016658358748": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6805,5 +6805,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T18:26:39+00:00"
+  "updated_at": "2026-11-03T18:28:24+00:00"
 }
