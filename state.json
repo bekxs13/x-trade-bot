@@ -940,12 +940,12 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2117593142824436045",
-          "reason": "He says he's been bearish on equities and the tech pullback is playing out. His point that fear gets priced in fast is a caveat about watching support, not a flip, so his bearish view stands.",
+          "post_id": "2117666234439467072",
+          "reason": "Says 'we could be near the end of this macro cycle for equities' and warns the crypto bounce may be a countertrend rally, which matches his recorded bearish stocks/macro view.",
           "scope": "stocks/macro",
           "since": "2026-10-29",
           "stance": "bearish",
-          "updated_at": "2026-11-03T12:22:02.000Z"
+          "updated_at": "2026-11-03T17:12:29.000Z"
         },
         "vvv": {
           "market": "crypto",
@@ -975,7 +975,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117659964059824206",
+      "last_id": "2117666234439467072",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1011,14 +1011,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T20:38:00.000Z",
-          "id": "2116268402729734241",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2116252697053790211/img/gZaBhbiQGModC8qY.jpg"
-          ],
-          "text": "i can be extremely bullish on a chart one week and completely bearish the next if price action invalidates my original thesis\n\nall-time high breakouts are a good example. they used to be some of the easiest trades in crypto, especially back in 2017\n\nnow failed breakouts can lead to aggressive sell-offs as everyone rushes to exit the same trade\n\ni think a lot of traders struggle with accepting that the market has changed direction, and by the time they do, a significant part of the move has already happened"
-        },
         {
           "created_at": "2026-10-30T21:45:00.000Z",
           "id": "2116285263932538959",
@@ -1141,10 +1133,17 @@
           "created_at": "2026-11-03T16:33:06.000Z",
           "id": "2117656325647953982",
           "text": "most exciting time maybe ever to be a trader"
+        },
+        {
+          "created_at": "2026-11-03T17:12:29.000Z",
+          "id": "2117666234439467072",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2117665893287432192/img/aTRiRctyowallgxn.jpg"
+          ],
+          "text": "i'm starting to think we could be near the end of this macro cycle for equities\n\na lot of the stocks that have led the market since late 2022 are sitting on massive gains, and we're finally seeing some meaningful profit-taking after years without a major correction\n\ncrypto started showing weakness earlier, which could explain why it bottomed ahead of equities and bounced so strongly in Q3\n\nthe question i'm trying to figure out now is whether that bounce marked the beginning of a new bull market or was simply a countertrend rally within a larger downtrend\n\nif it's the latter, i think a lot of people are going to get caught off guard"
         }
       ],
       "reads": {
-        "2116268402729734241": "No call",
         "2116285263932538959": "No call: bearish on stocks/macro (same view as before)",
         "2116382090505732124": "No call",
         "2116428709150478840": "No call: bearish on crypto market (60%, too unsure)",
@@ -1162,7 +1161,8 @@
         "2117623967959630200": "No call",
         "2117624477928624204": "No call",
         "2117655653669851190": "No call",
-        "2117656325647953982": "No call"
+        "2117656325647953982": "No call",
+        "2117666234439467072": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -1257,10 +1257,6 @@
         }
       ],
       "threads": {
-        "2113011777873072248": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113014893809205471": {
           "alerted": [],
           "self_replies": 0
@@ -1672,10 +1668,13 @@
         "2117656325647953982": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117666234439467072": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116268402729734241": true,
         "2116285263932538959": true,
         "2116382090505732124": true,
         "2116428709150478840": true,
@@ -1709,7 +1708,8 @@
         "2117657827380740111": false,
         "2117659713542472086": true,
         "2117659886494654803": false,
-        "2117659964059824206": false
+        "2117659964059824206": false,
+        "2117666234439467072": true
       },
       "user_id": "973261472"
     },
@@ -6802,5 +6802,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T17:10:21+00:00"
+  "updated_at": "2026-11-03T17:12:54+00:00"
 }
