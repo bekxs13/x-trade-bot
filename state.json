@@ -974,7 +974,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117701700743999985",
+      "last_id": "2117703869698633919",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1162,12 +1162,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T14:26:57.000Z",
-          "id": "2117624578281214023",
-          "reply_to_id": "2117624056644084064",
-          "text": "@elchefdesol i logged in to league yesterday"
-        },
-        {
           "created_at": "2026-11-03T16:34:33.000Z",
           "id": "2117656687502885068",
           "reply_to_id": "2117656399396389310",
@@ -1256,6 +1250,12 @@
           "id": "2117701621149012392",
           "reply_to_id": "2117701413820383605",
           "text": "@Greed2Fear i actually dont disagree but you said 6-9 months, what about the next 3-6 months"
+        },
+        {
+          "created_at": "2026-11-03T19:42:02.000Z",
+          "id": "2117703869698633919",
+          "reply_to_id": "2117701765525377206",
+          "text": "@tradingbubblesz @NEARProtocol @MarketBubble @Pumpfun whats this"
         }
       ],
       "threads": {
@@ -1693,7 +1693,6 @@
         "2117619108015653212": false,
         "2117623967959630200": true,
         "2117624477928624204": true,
-        "2117624578281214023": false,
         "2117655653669851190": false,
         "2117656325647953982": true,
         "2117656687502885068": false,
@@ -1711,7 +1710,8 @@
         "2117693945140445686": false,
         "2117699013738664057": true,
         "2117701621149012392": true,
-        "2117701700743999985": true
+        "2117701700743999985": true,
+        "2117703869698633919": false
       },
       "user_id": "973261472"
     },
@@ -6809,5 +6809,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T19:34:23+00:00"
+  "updated_at": "2026-11-03T19:42:20+00:00"
 }
