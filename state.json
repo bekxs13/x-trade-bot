@@ -974,7 +974,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117704833041944748",
+      "last_id": "2117710404558442877",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1010,14 +1010,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-31T04:09:45.000Z",
-          "id": "2116382090505732124",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2116381863346634752/img/XWbifNzbzuN014HH.jpg"
-          ],
-          "text": "time is an underrated part of risk management when trading lower timeframes\n\nwhen i enter a trade expecting a sharp move, i want price to react relatively quickly\n\nif Bitcoin is sitting around my entry for too long without moving in the direction i expected, i start questioning the setup\n\nthe advantage of trading lower timeframes is that you can recognize when something isn't working much earlier\n\nsometimes i'll exit a trade simply because it's taking too long to play out, even if my stop hasn't been hit\n\nprice and time both matter when deciding whether a trade is still worth taking"
-        },
         {
           "created_at": "2026-10-31T07:15:00.000Z",
           "id": "2116428709150478840",
@@ -1138,10 +1130,17 @@
           "id": "2117701700743999985",
           "reply_to_id": "2117701621149012392",
           "text": "@Greed2Fear money printer only gets turned on if things get ugly enough imo"
+        },
+        {
+          "created_at": "2026-11-03T20:08:00.000Z",
+          "id": "2117710404558442877",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2117667338111881216/img/3Kzv-F0HQrmgXBrX.jpg"
+          ],
+          "text": "one of the things concerning me about AI stocks right now is how they're reacting to good earnings\n\ncompanies are putting up strong revenue numbers and beating expectations, but some of these stocks are still struggling to make new highs\n\nMicron is a good example, the Q3 earnings beat was impressive, yet the stock failed to sustain its move higher\n\nthere's also a lot of uncertainty around future AI IPOs, valuations and how much additional supply the market can absorb\n\nat the same time, a major model breakthrough could completely change sentiment within a few months\n\ni expect AI equities to remain difficult to trade as the market tries to price in both the growth and the risks"
         }
       ],
       "reads": {
-        "2116382090505732124": "No call",
         "2116428709150478840": "No call: bearish on crypto market (60%, too unsure)",
         "2117343622253195371": "No call",
         "2117347698198106437": "No call",
@@ -1158,7 +1157,8 @@
         "2117624477928624204": "No call",
         "2117655653669851190": "No call",
         "2117656325647953982": "No call",
-        "2117666234439467072": "No call: bearish on stocks/macro (same view as before)"
+        "2117666234439467072": "No call: bearish on stocks/macro (same view as before)",
+        "2117710404558442877": "No call: bearish on ai stocks (65%, too unsure)"
       },
       "replies": [
         {
@@ -1259,10 +1259,6 @@
         }
       ],
       "threads": {
-        "2113014893809205471": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113204600824340575": {
           "alerted": [],
           "self_replies": 0
@@ -1674,10 +1670,13 @@
         "2117666234439467072": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117710404558442877": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116382090505732124": true,
         "2116428709150478840": true,
         "2117343622253195371": false,
         "2117347698198106437": false,
@@ -1711,7 +1710,8 @@
         "2117704125064647030": true,
         "2117704591697723851": false,
         "2117704650497380375": false,
-        "2117704833041944748": true
+        "2117704833041944748": true,
+        "2117710404558442877": true
       },
       "user_id": "973261472"
     },
@@ -2117,15 +2117,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117708704204398711",
+      "last_id": "2117710029377962255",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-30T21:56:11.000Z",
-          "id": "2116288080684720638",
-          "reply_to_id": "2116288026305556791",
-          "text": "@Mike_Hunt_Sr I'm sorry for everything"
-        },
         {
           "created_at": "2026-10-31T01:34:36.000Z",
           "id": "2116343046484947007",
@@ -2250,6 +2244,15 @@
           "id": "2117706038942351858",
           "reply_to_id": "2117705860323434533",
           "text": "@dmartin_trading also stop quote tweeting when a reply is perfectly adequate you loser"
+        },
+        {
+          "created_at": "2026-11-03T20:06:30.000Z",
+          "id": "2117710029377962255",
+          "images": [
+            "https://pbs.twimg.com/media/HWOd_CqXIAAeE4K.jpg"
+          ],
+          "reply_to_id": "2117685016658358748",
+          "text": "@dmartin_trading wonderfully expanded upon by someone else in a gc https://t.co/v5pJMLD2Q1"
         }
       ],
       "reads": {
@@ -2690,7 +2693,6 @@
         }
       },
       "trading": {
-        "2116288080684720638": false,
         "2116343046484947007": false,
         "2116419869730029956": false,
         "2116644929069785446": false,
@@ -2724,7 +2726,8 @@
         "2117706038942351858": false,
         "2117706877635109118": true,
         "2117708042011918715": true,
-        "2117708704204398711": true
+        "2117708704204398711": true,
+        "2117710029377962255": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6809,5 +6812,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T20:02:33+00:00"
+  "updated_at": "2026-11-03T20:08:37+00:00"
 }
