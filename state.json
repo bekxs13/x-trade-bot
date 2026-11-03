@@ -2115,7 +2115,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117731210831036688",
+      "last_id": "2117732264733778314",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2291,12 +2291,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T17:20:33.000Z",
-          "id": "2117668267318026424",
-          "reply_to_id": "2117660392922988674",
-          "text": "@steve2bacon @brewmarkets can we stop spreading this meme this is just an accounting artificial because they gave out stock that has now risen in value. there's no cash loss"
-        },
-        {
           "created_at": "2026-11-03T17:31:18.000Z",
           "id": "2117670970114666592",
           "reply_to_id": "2117670351811281346",
@@ -2379,6 +2373,12 @@
           "id": "2117731210831036688",
           "reply_to_id": "2117730170178261284",
           "text": "@aethernet_port i don't think he is"
+        },
+        {
+          "created_at": "2026-11-03T21:34:52.000Z",
+          "id": "2117732264733778314",
+          "reply_to_id": "2117731622313476211",
+          "text": "@aethernet_port well, no, because we aren't going to pause"
         }
       ],
       "threads": {
@@ -2733,7 +2733,6 @@
         "2117611700094423543": false,
         "2117625299924049939": true,
         "2117647100838064136": false,
-        "2117668267318026424": true,
         "2117669115120717937": false,
         "2117670970114666592": false,
         "2117672177038221627": true,
@@ -2754,7 +2753,8 @@
         "2117727032385699926": false,
         "2117727620133748935": false,
         "2117728098250641532": true,
-        "2117731210831036688": false
+        "2117731210831036688": false,
+        "2117732264733778314": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6833,5 +6833,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T21:32:41+00:00"
+  "updated_at": "2026-11-03T21:36:21+00:00"
 }
