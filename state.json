@@ -2117,14 +2117,9 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117705860323434533",
+      "last_id": "2117706038942351858",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-30T21:55:01.000Z",
-          "id": "2116287785753554948",
-          "text": "bitcoin is for risk averse pussies real degenerates go long blue chip american tech companies"
-        },
         {
           "created_at": "2026-10-30T21:56:11.000Z",
           "id": "2116288080684720638",
@@ -2249,10 +2244,15 @@
           "id": "2117686399759794190",
           "reply_to_id": "2117686273792221186",
           "text": "@kwertytwo @dmartin_trading the closest thing would be putting on a trade for short term flow reasons and the flow not coming, but tbh the price going against you doesn't matter so much as a period of time passing"
+        },
+        {
+          "created_at": "2026-11-03T19:50:39.000Z",
+          "id": "2117706038942351858",
+          "reply_to_id": "2117705860323434533",
+          "text": "@dmartin_trading also stop quote tweeting when a reply is perfectly adequate you loser"
         }
       ],
       "reads": {
-        "2116287785753554948": "No call: bullish on big tech (60%, too unsure)",
         "2116343046484947007": "No call",
         "2116419869730029956": "No call",
         "2116644929069785446": "No call",
@@ -2690,7 +2690,6 @@
         }
       },
       "trading": {
-        "2116287785753554948": true,
         "2116288080684720638": false,
         "2116343046484947007": false,
         "2116419869730029956": false,
@@ -2724,7 +2723,8 @@
         "2117686273792221186": true,
         "2117686399759794190": true,
         "2117686712243507317": false,
-        "2117705860323434533": true
+        "2117705860323434533": true,
+        "2117706038942351858": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6809,5 +6809,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T19:50:23+00:00"
+  "updated_at": "2026-11-03T19:52:31+00:00"
 }
