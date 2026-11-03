@@ -2111,7 +2111,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117741880997761305",
+      "last_id": "2117749664199958839",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2287,18 +2287,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T18:26:19.000Z",
-          "id": "2117684814073446460",
-          "reply_to_id": "2117682812744499208",
-          "text": "@dmartin_trading the idea of \"calculating a stop loss\" is nonsense as well\n\nthere should only be two reasons to hack out of a trade that you thought had positive expectancy at even less good prices than current prices (since it's going against you)\n\n1) margin/value at risk concerns that changed"
-        },
-        {
-          "created_at": "2026-11-03T18:32:07.000Z",
-          "id": "2117686273792221186",
-          "reply_to_id": "2117685746941218961",
-          "text": "@kwertytwo @dmartin_trading can hardly think of any signal where a trade going against me, and nothing else, is sufficient evidence of that"
-        },
-        {
           "created_at": "2026-11-03T18:33:51.000Z",
           "id": "2117686712243507317",
           "reply_to_id": "2117685995877663151",
@@ -2375,6 +2363,18 @@
           "id": "2117741880997761305",
           "reply_to_id": "2117732890368680349",
           "text": "@Steinzory i like being alive and stuff"
+        },
+        {
+          "created_at": "2026-11-03T22:43:24.000Z",
+          "id": "2117749512802324955",
+          "reply_to_id": "2117729491397058651",
+          "text": "@adarshsolanki exactly"
+        },
+        {
+          "created_at": "2026-11-03T22:44:00.000Z",
+          "id": "2117749664199958839",
+          "reply_to_id": "2117733684841246920",
+          "text": "@SamsonB all? no, but a large chunk of it is and china is not nearly as bullish and ai pilled as san fransisco"
         }
       ],
       "threads": {
@@ -2730,9 +2730,7 @@
         "2117625299924049939": true,
         "2117647100838064136": false,
         "2117669115120717937": false,
-        "2117684814073446460": true,
         "2117685016658358748": true,
-        "2117686273792221186": true,
         "2117686399759794190": true,
         "2117686712243507317": false,
         "2117705860323434533": true,
@@ -2750,7 +2748,9 @@
         "2117731210831036688": false,
         "2117732264733778314": false,
         "2117741809141240220": false,
-        "2117741880997761305": false
+        "2117741880997761305": false,
+        "2117749512802324955": false,
+        "2117749664199958839": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6829,5 +6829,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T22:30:21+00:00"
+  "updated_at": "2026-11-03T22:44:19+00:00"
 }
