@@ -5570,7 +5570,7 @@
       "biases": {},
       "closed": [],
       "handle": "thecryptonexus",
-      "last_id": "2117605753632465171",
+      "last_id": "2117606680758517847",
       "positions": {
         "FREN PET (FP)": {
           "asset": "Fren Pet (FP)",
@@ -5620,14 +5620,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-11T14:24:25.000Z",
-          "id": "2109289019242868954",
-          "images": [
-            "https://pbs.twimg.com/media/HUWzKHWWsAAvNK5.jpg"
-          ],
-          "text": "Go birdss https://t.co/dcVX8uK9Ma"
-        },
         {
           "created_at": "2026-10-11T14:33:03.000Z",
           "id": "2109291189648101436",
@@ -5754,10 +5746,18 @@
           ],
           "quoted_text": "Fully TPed my silver\n\nBest PnL trade I\u2019ve ever made lfg https://t.co/duKzkp1PIO",
           "text": "Think it\u2019s about time we run this one back https://t.co/H0lYpycqK2 https://t.co/FPcf1pYBIi"
+        },
+        {
+          "created_at": "2026-11-03T13:15:50.000Z",
+          "id": "2117606680758517847",
+          "images": [
+            "https://pbs.twimg.com/media/HWNADXEWIAAdNSo.jpg",
+            "https://pbs.twimg.com/media/HWNADWuXAAAg3VU.jpg"
+          ],
+          "text": "When u post 3 tweets in a day for the first time in months: https://t.co/aUXIQ8uS4f"
         }
       ],
       "reads": {
-        "2109289019242868954": "No call",
         "2109291189648101436": "No call",
         "2110400557953208771": "No call",
         "2111070616917102829": "No call",
@@ -5773,7 +5773,8 @@
         "2117136091845370118": "No call",
         "2117136535825133937": "No call",
         "2117218434547388720": "No call",
-        "2117577227105660974": "TRADE LONG XAGUSD (silver)"
+        "2117577227105660974": "TRADE LONG XAGUSD (silver)",
+        "2117606680758517847": "No call"
       },
       "replies": [
         {
@@ -5976,10 +5977,13 @@
             "trade:XAGUSD (SILVER):long"
           ],
           "self_replies": 0
+        },
+        "2117606680758517847": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109289019242868954": false,
         "2109291189648101436": false,
         "2110400557953208771": false,
         "2111070616917102829": false,
@@ -6013,7 +6017,8 @@
         "2117218434547388720": false,
         "2117577227105660974": true,
         "2117582893904211983": false,
-        "2117605753632465171": true
+        "2117605753632465171": true,
+        "2117606680758517847": false
       },
       "user_id": "1392152416854765571"
     },
@@ -6789,5 +6794,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T13:14:25+00:00"
+  "updated_at": "2026-11-03T13:16:21+00:00"
 }
