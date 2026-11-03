@@ -974,7 +974,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117710404558442877",
+      "last_id": "2117713078871625750",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1162,12 +1162,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T16:38:10.000Z",
-          "id": "2117657597926850864",
-          "reply_to_id": "2117656556221190278",
-          "text": "@badattrading_ nova what we buyin"
-        },
-        {
           "created_at": "2026-11-03T16:38:46.000Z",
           "id": "2117657750411067635",
           "reply_to_id": "2117656422729302057",
@@ -1256,6 +1250,12 @@
           "id": "2117704833041944748",
           "reply_to_id": "2117703639196467522",
           "text": "@babygthegeneral would you rather me lie to you while selling my positions when i change my mind?"
+        },
+        {
+          "created_at": "2026-11-03T20:18:37.000Z",
+          "id": "2117713078871625750",
+          "reply_to_id": "2117705038814691769",
+          "text": "@Greed2Fear if its a proxy war against china then it certainly isnt ending anytime soon?"
         }
       ],
       "threads": {
@@ -1694,7 +1694,6 @@
         "2117624477928624204": true,
         "2117655653669851190": false,
         "2117656325647953982": true,
-        "2117657597926850864": true,
         "2117657750411067635": false,
         "2117657827380740111": false,
         "2117659713542472086": true,
@@ -1711,7 +1710,8 @@
         "2117704591697723851": false,
         "2117704650497380375": false,
         "2117704833041944748": true,
-        "2117710404558442877": true
+        "2117710404558442877": true,
+        "2117713078871625750": false
       },
       "user_id": "973261472"
     },
@@ -4389,7 +4389,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2117712419309158878",
+      "last_id": "2117713482342649993",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4425,11 +4425,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-02T13:42:06.000Z",
-          "id": "2117250901115109378",
-          "text": "MARKET OPEN: AI HACKING is OUT OF CONTROL, The AI Trade is in TROUBLE, What's NEXT for Crypto? https://t.co/83ruZyj8Kd"
-        },
         {
           "created_at": "2026-11-02T15:18:16.000Z",
           "id": "2117275103612330210",
@@ -4551,10 +4546,15 @@
           "created_at": "2026-11-03T20:13:56.000Z",
           "id": "2117711899735519632",
           "text": "idk why but every day i read the posts on here and feel a higher power pulling me to read the sovereign individual so I just ordered it"
+        },
+        {
+          "created_at": "2026-11-03T20:18:57.000Z",
+          "id": "2117713161625190745",
+          "quoted_text": "Nigga what the fuck did i just watch man its genuinely so over https://t.co/Y2G5UhQQzf",
+          "text": "yo be honest you think this girl i got a crush on will get the ick if i send her this https://t.co/XiZzk4kJJD"
         }
       ],
       "reads": {
-        "2117250901115109378": "No call",
         "2117275103612330210": "No call",
         "2117282126160970066": "No call",
         "2117327802865188877": "No call",
@@ -4572,21 +4572,10 @@
         "2117654525091987845": "No call",
         "2117697352052142314": "No call",
         "2117698248848630047": "No call",
-        "2117711899735519632": "No call"
+        "2117711899735519632": "No call",
+        "2117713161625190745": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-03T13:32:50.000Z",
-          "id": "2117610960114565547",
-          "reply_to_id": "2117610895866028085",
-          "text": "@miagia nah no chat"
-        },
-        {
-          "created_at": "2026-11-03T13:33:38.000Z",
-          "id": "2117611158471319878",
-          "reply_to_id": "2117611080352444767",
-          "text": "@DidiTrading in 5 mins"
-        },
         {
           "created_at": "2026-11-03T16:12:29.000Z",
           "id": "2117651137822118090",
@@ -4667,13 +4656,21 @@
           "id": "2117712419309158878",
           "reply_to_id": "2117711986134028704",
           "text": "@Wild_Randomness awesome"
+        },
+        {
+          "created_at": "2026-11-03T20:19:45.000Z",
+          "id": "2117713363216019871",
+          "reply_to_id": "2117712336870125920",
+          "text": "@WillBeaumontt what's it about"
+        },
+        {
+          "created_at": "2026-11-03T20:20:14.000Z",
+          "id": "2117713482342649993",
+          "reply_to_id": "2117713442971029671",
+          "text": "@tulipking L M F A O"
         }
       ],
       "threads": {
-        "2110762518495085033": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110798325805092991": {
           "alerted": [],
           "self_replies": 0
@@ -5075,10 +5072,13 @@
         "2117711899735519632": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117713161625190745": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117250901115109378": true,
         "2117275103612330210": true,
         "2117282126160970066": false,
         "2117327802865188877": false,
@@ -5091,8 +5091,6 @@
         "2117410262928277724": false,
         "2117412564753957290": true,
         "2117610475105976734": false,
-        "2117610960114565547": false,
-        "2117611158471319878": false,
         "2117611853199122863": true,
         "2117650227565867070": false,
         "2117651137822118090": false,
@@ -5112,7 +5110,10 @@
         "2117699961223561547": false,
         "2117705527706952045": false,
         "2117711899735519632": false,
-        "2117712419309158878": false
+        "2117712419309158878": false,
+        "2117713161625190745": false,
+        "2117713363216019871": false,
+        "2117713482342649993": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6809,5 +6810,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T20:16:22+00:00"
+  "updated_at": "2026-11-03T20:20:35+00:00"
 }
