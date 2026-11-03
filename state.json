@@ -972,7 +972,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117432064190603521",
+      "last_id": "2117441633713082652",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1008,15 +1008,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T13:23:27.000Z",
-          "id": "2116159045027434970",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2116158897270697984/img/BPqk6kdiP6UDRLGE.jpg"
-          ],
-          "quoted_text": "0:00 - Hyperliquid x ICE news\n4:09 - $HYPE chart and levels\n7:04 - Kinetiq L2 &amp; coins to buy\n10:51 - Update on the $ETH short\n24:14 - Equities earnings carnage\n28:02 - Macro outlook and what to hold\n\noctober 30th, 2026 https://t.co/Yr0LpGl1GQ",
-          "text": "the tradexyz partnership with Intercontinental Exchange, the parent company of the NYSE, is a pretty big development for Hyperliquid\n\ni've been in crypto for almost nine years, and US traders have historically had very limited access to perpetual futures\n\nnow we're seeing traditional financial institutions taking a much greater interest in bringing these products to US markets\n\ni think this could be a major step toward making perps a mainstream financial product, with Hyperliquid potentially playing an important role in the infrastructure behind it\n\nthere's also a significant opportunity for stablecoins as more trading activity and liquidity move onchain"
-        },
         {
           "created_at": "2026-10-30T14:03:09.000Z",
           "id": "2116169037168206004",
@@ -1145,10 +1136,17 @@
             "https://pbs.twimg.com/media/HWKc1fIXMAAIyEa.png"
           ],
           "text": "hours https://t.co/d97OEhGvKH"
+        },
+        {
+          "created_at": "2026-11-03T02:20:00.000Z",
+          "id": "2117441633713082652",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2117425878800224256/img/-kmWNE7KGhIPV8VI.jpg"
+          ],
+          "text": "understanding how higher timeframe candles form on lower timeframes is one of the most useful skills in trading\n\nevery candle has a few possible outcomes: it can stay inside the previous range, break higher, or break lower\n\nonce i have a directional bias, i use lower timeframes to understand how that candle is developing and look for entries before the higher timeframe candle closes\n\na daily candle with a long lower wick, for example, tells you price traded lower before buyers pushed it back up\n\nlearning to recognize these patterns as they develop gives you a much better understanding of price action and where to position"
         }
       ],
       "reads": {
-        "2116159045027434970": "No call: bullish on HYPE (same view as before)",
         "2116169037168206004": "No call",
         "2116177144778768653": "No call: bearish on btc (same view as before)",
         "2116201298102042686": "No call",
@@ -1166,7 +1164,8 @@
         "2117408899795927550": "No call",
         "2117417803351548029": "No call",
         "2117423871154589732": "No call",
-        "2117427227847491837": "No call"
+        "2117427227847491837": "No call",
+        "2117441633713082652": "No call"
       },
       "replies": [
         {
@@ -1261,10 +1260,6 @@
         }
       ],
       "threads": {
-        "2112911823888679254": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112916788426232161": {
           "alerted": [],
           "self_replies": 0
@@ -1676,10 +1671,13 @@
         "2117427227847491837": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117441633713082652": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116159045027434970": true,
         "2116169037168206004": true,
         "2116177144778768653": true,
         "2116201298102042686": false,
@@ -1713,7 +1711,8 @@
         "2117422685806592045": false,
         "2117423871154589732": true,
         "2117427227847491837": false,
-        "2117432064190603521": false
+        "2117432064190603521": false,
+        "2117441633713082652": true
       },
       "user_id": "973261472"
     },
@@ -6758,5 +6757,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-02",
-  "updated_at": "2026-11-03T01:42:21+00:00"
+  "updated_at": "2026-11-03T02:20:28+00:00"
 }
