@@ -975,7 +975,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117593142824436045",
+      "last_id": "2117619108015653212",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1011,14 +1011,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T16:11:21.000Z",
-          "id": "2116201298102042686",
-          "images": [
-            "https://pbs.twimg.com/media/HV5B2sLXMAELiCU.jpg"
-          ],
-          "text": "what bro https://t.co/NHjIsxm7JV"
-        },
         {
           "created_at": "2026-10-30T16:35:46.000Z",
           "id": "2116207443977871791",
@@ -1150,10 +1142,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2117593038466015232/img/u5l2euTlSbgrwVeo.jpg"
           ],
           "text": "i've been bearish on equities largely because i expected tech stocks to pull back, and we're starting to see that happen\n\nbut one thing i've noticed in recent market corrections is how quickly fear gets priced in\n\npeople panic, sell aggressively, and price reaches important support levels much faster than you'd normally expect\n\nwith all the uncertainty around AI, geopolitics and the broader market, there's a possibility that investors price in a much worse outcome than what actually happens\n\ni'm watching how price reacts at those key levels because sentiment can shift pretty quickly once the selling pressure starts to fade"
+        },
+        {
+          "created_at": "2026-11-03T14:05:13.000Z",
+          "id": "2117619108015653212",
+          "text": "https://t.co/z9QuOWA1In"
         }
       ],
       "reads": {
-        "2116201298102042686": "No call",
         "2116207443977871791": "No call",
         "2116215486287642907": "No call",
         "2116220650058846455": "No call",
@@ -1171,7 +1167,8 @@
         "2117427227847491837": "No call",
         "2117441633713082652": "No call",
         "2117449038979072008": "No call",
-        "2117593142824436045": "No call: bearish on stocks/macro (same view as before)"
+        "2117593142824436045": "No call: bearish on stocks/macro (same view as before)",
+        "2117619108015653212": "No call"
       },
       "replies": [
         {
@@ -1266,10 +1263,6 @@
         }
       ],
       "threads": {
-        "2112974503571783683": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112976453247873190": {
           "alerted": [],
           "self_replies": 0
@@ -1681,10 +1674,13 @@
         "2117593142824436045": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117619108015653212": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116201298102042686": false,
         "2116207443977871791": false,
         "2116215486287642907": true,
         "2116220650058846455": true,
@@ -1718,7 +1714,8 @@
         "2117444764379627791": false,
         "2117446994746634422": false,
         "2117449038979072008": false,
-        "2117593142824436045": true
+        "2117593142824436045": true,
+        "2117619108015653212": false
       },
       "user_id": "973261472"
     },
@@ -6801,5 +6798,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T13:52:16+00:00"
+  "updated_at": "2026-11-03T14:06:32+00:00"
 }
