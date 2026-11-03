@@ -2115,7 +2115,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117732264733778314",
+      "last_id": "2117741880997761305",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2291,18 +2291,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T17:31:18.000Z",
-          "id": "2117670970114666592",
-          "reply_to_id": "2117670351811281346",
-          "text": "@offer_lifted it's not bad per se but it's November in boston!!"
-        },
-        {
-          "created_at": "2026-11-03T17:36:06.000Z",
-          "id": "2117672177038221627",
-          "reply_to_id": "2117624990501671300",
-          "text": "@dmartin_trading &gt;Oh and ATR indicator and range breakout strategies? Those are myths, a waste of time.\n\ni mean, yeah"
-        },
-        {
           "created_at": "2026-11-03T18:26:19.000Z",
           "id": "2117684814073446460",
           "reply_to_id": "2117682812744499208",
@@ -2379,6 +2367,18 @@
           "id": "2117732264733778314",
           "reply_to_id": "2117731622313476211",
           "text": "@aethernet_port well, no, because we aren't going to pause"
+        },
+        {
+          "created_at": "2026-11-03T22:12:47.000Z",
+          "id": "2117741809141240220",
+          "reply_to_id": "2117733273082462384",
+          "text": "@Steinzory guy who doesn't understand satire"
+        },
+        {
+          "created_at": "2026-11-03T22:13:04.000Z",
+          "id": "2117741880997761305",
+          "reply_to_id": "2117732890368680349",
+          "text": "@Steinzory i like being alive and stuff"
         }
       ],
       "threads": {
@@ -2734,8 +2734,6 @@
         "2117625299924049939": true,
         "2117647100838064136": false,
         "2117669115120717937": false,
-        "2117670970114666592": false,
-        "2117672177038221627": true,
         "2117684814073446460": true,
         "2117685016658358748": true,
         "2117686273792221186": true,
@@ -2754,7 +2752,9 @@
         "2117727620133748935": false,
         "2117728098250641532": true,
         "2117731210831036688": false,
-        "2117732264733778314": false
+        "2117732264733778314": false,
+        "2117741809141240220": false,
+        "2117741880997761305": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6833,5 +6833,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T21:50:20+00:00"
+  "updated_at": "2026-11-03T22:14:19+00:00"
 }
