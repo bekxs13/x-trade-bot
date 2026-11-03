@@ -2117,7 +2117,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117706877635109118",
+      "last_id": "2117708042011918715",
       "positions": {},
       "posts": [
         {
@@ -2271,12 +2271,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-02T19:04:45.000Z",
-          "id": "2117332099544031282",
-          "reply_to_id": "2117331595707531612",
-          "text": "@finn_hulse it was not just a guess i know you are friends with sunbir lmao"
-        },
-        {
           "created_at": "2026-11-02T19:50:47.000Z",
           "id": "2117343685671305250",
           "reply_to_id": "2117332858071097498",
@@ -2359,6 +2353,12 @@
           "id": "2117706877635109118",
           "reply_to_id": "2117701817949962658",
           "text": "@QuiteMidlife @dmartin_trading it's not enough, you need something else. \n\notherwise you shouldn't trade in the first place, since you could reason the initial dislocation from model fair was adverse"
+        },
+        {
+          "created_at": "2026-11-03T19:58:36.000Z",
+          "id": "2117708042011918715",
+          "reply_to_id": "2117707696011129102",
+          "text": "@goodalexander @dmartin_trading you should definitely re-evaluate a trade as it goes against you but a mechanical stop-loss is terribad"
         }
       ],
       "threads": {
@@ -2701,7 +2701,6 @@
         "2117250853195174359": true,
         "2117298795105194364": false,
         "2117304827172786659": true,
-        "2117332099544031282": false,
         "2117343685671305250": true,
         "2117364380299886962": true,
         "2117369008140025953": true,
@@ -2724,7 +2723,8 @@
         "2117686712243507317": false,
         "2117705860323434533": true,
         "2117706038942351858": false,
-        "2117706877635109118": true
+        "2117706877635109118": true,
+        "2117708042011918715": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6809,5 +6809,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T19:54:17+00:00"
+  "updated_at": "2026-11-03T20:00:33+00:00"
 }
