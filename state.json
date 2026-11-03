@@ -972,7 +972,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117408899795927550",
+      "last_id": "2117417803351548029",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1008,14 +1008,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T11:44:52.000Z",
-          "id": "2116134237971915020",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2116130820444266496/img/RhQNy2e0mB52z0rf.jpg"
-          ],
-          "text": "0:00 - Hyperliquid x ICE news\n4:09 - $HYPE chart and levels\n7:04 - Kinetiq L2 &amp; coins to buy\n10:51 - Update on the $ETH short\n24:14 - Equities earnings carnage\n28:02 - Macro outlook and what to hold\n\noctober 30th, 2026 https://t.co/Yr0LpGl1GQ"
-        },
         {
           "created_at": "2026-10-30T12:49:18.000Z",
           "id": "2116150452341334257",
@@ -1142,10 +1134,14 @@
           "created_at": "2026-11-03T00:09:55.000Z",
           "id": "2117408899795927550",
           "text": "why do people believe in dinosaurs but not giants and dragons?"
+        },
+        {
+          "created_at": "2026-11-03T00:45:18.000Z",
+          "id": "2117417803351548029",
+          "text": "who'd you guys vote for"
         }
       ],
       "reads": {
-        "2116134237971915020": "No call",
         "2116150452341334257": "No call",
         "2116155738758234127": "No call",
         "2116159045027434970": "No call: bullish on HYPE (same view as before)",
@@ -1163,15 +1159,10 @@
         "2117343622253195371": "No call",
         "2117347698198106437": "No call",
         "2117354957951102989": "No call: bearish on SNDK (65%, too unsure)",
-        "2117408899795927550": "No call"
+        "2117408899795927550": "No call",
+        "2117417803351548029": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-30T11:42:59.000Z",
-          "id": "2116133761154982084",
-          "reply_to_id": "2116132716982722817",
-          "text": "@VNTGPRN oh wow lol, does that say eth 90% hit rate??"
-        },
         {
           "created_at": "2026-10-30T12:11:43.000Z",
           "id": "2116140994328735752",
@@ -1259,13 +1250,15 @@
           "id": "2117398466423103996",
           "reply_to_id": "2117398311758164328",
           "text": "@DonPleb @StalkHQ hey champ"
+        },
+        {
+          "created_at": "2026-11-03T00:44:20.000Z",
+          "id": "2117417558995611869",
+          "reply_to_id": "2117417222662697012",
+          "text": "@0xFujisawa i need an answer"
         }
       ],
       "threads": {
-        "2112823888207921408": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112890596272792053": {
           "alerted": [],
           "self_replies": 0
@@ -1677,11 +1670,13 @@
         "2117408899795927550": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117417803351548029": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116133761154982084": true,
-        "2116134237971915020": true,
         "2116140994328735752": true,
         "2116144577459409263": false,
         "2116150452341334257": true,
@@ -1714,7 +1709,9 @@
         "2117384481757864407": false,
         "2117398172423082075": false,
         "2117398466423103996": false,
-        "2117408899795927550": false
+        "2117408899795927550": false,
+        "2117417558995611869": false,
+        "2117417803351548029": false
       },
       "user_id": "973261472"
     },
@@ -6759,5 +6756,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-02",
-  "updated_at": "2026-11-03T00:42:30+00:00"
+  "updated_at": "2026-11-03T00:46:23+00:00"
 }
