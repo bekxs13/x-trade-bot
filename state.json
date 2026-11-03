@@ -5140,7 +5140,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2117590598790365367",
+      "last_id": "2117591105042550947",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -5160,11 +5160,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-04T06:47:24.000Z",
-          "id": "2106637291267764557",
-          "text": "Who wants to grab dinner tonight in SG?"
-        },
         {
           "created_at": "2026-10-06T00:22:02.000Z",
           "id": "2107265085433606342",
@@ -5307,10 +5302,15 @@
           "id": "2116128746172195070",
           "quoted_text": "Expect a K-shaped recovery for crypto moving forward https://t.co/L6pSebe6V8",
           "text": "1 year later, the K-shaped recovery in crypto continues.\n\nExpect the leaders to keep leading (HYPE/ZEC) while most alts continue to bleed to their fair value (zero). https://t.co/OQq0bmifFm"
+        },
+        {
+          "created_at": "2026-11-03T12:13:57.000Z",
+          "id": "2117591105042550947",
+          "reply_to_id": "2117590598790365367",
+          "text": "@5morewhooppers I hope we get to the zone where I become gcr"
         }
       ],
       "reads": {
-        "2106637291267764557": "No call",
         "2107265085433606342": "TRADE LONG ZEC",
         "2108258820992774570": "No call",
         "2108261279383380471": "No call",
@@ -5524,7 +5524,6 @@
         }
       },
       "trading": {
-        "2106637291267764557": false,
         "2107265085433606342": true,
         "2108258820992774570": true,
         "2108261279383380471": false,
@@ -5558,7 +5557,8 @@
         "2115918451411935743": false,
         "2115947947208868213": true,
         "2116128746172195070": true,
-        "2117590598790365367": false
+        "2117590598790365367": false,
+        "2117591105042550947": false
       },
       "user_id": "1064421325186359296"
     },
@@ -6786,5 +6786,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-02",
-  "updated_at": "2026-11-03T12:12:20+00:00"
+  "updated_at": "2026-11-03T12:14:21+00:00"
 }
