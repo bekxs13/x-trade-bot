@@ -2111,7 +2111,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117765322879172734",
+      "last_id": "2117766120929402890",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2287,12 +2287,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T19:49:56.000Z",
-          "id": "2117705860323434533",
-          "reply_to_id": "2117704634370572596",
-          "text": "@dmartin_trading &gt; Is there empirical evidence showing that volatility adjusted stop losses are generally inferior to the exit framework you're proposing? \n\nyes obviously"
-        },
-        {
           "created_at": "2026-11-03T19:53:59.000Z",
           "id": "2117706877635109118",
           "reply_to_id": "2117701817949962658",
@@ -2378,6 +2372,12 @@
           ],
           "reply_to_id": "2117728399267639668",
           "text": "@jimcramer https://t.co/A9ZxfVW5LW"
+        },
+        {
+          "created_at": "2026-11-03T23:49:24.000Z",
+          "id": "2117766120929402890",
+          "reply_to_id": "2117765982567662044",
+          "text": "@dampedspring wow lots of red flags"
         }
       ],
       "threads": {
@@ -2741,7 +2741,6 @@
         "2117669115120717937": false,
         "2117685016658358748": true,
         "2117686399759794190": true,
-        "2117705860323434533": true,
         "2117706038942351858": false,
         "2117706877635109118": true,
         "2117708042011918715": true,
@@ -2761,7 +2760,8 @@
         "2117749664199958839": false,
         "2117756905355710835": false,
         "2117762594673156375": false,
-        "2117765322879172734": false
+        "2117765322879172734": false,
+        "2117766120929402890": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6840,5 +6840,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T23:48:19+00:00"
+  "updated_at": "2026-11-03T23:50:23+00:00"
 }
