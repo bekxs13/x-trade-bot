@@ -2111,7 +2111,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117749664199958839",
+      "last_id": "2117756905355710835",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2131,15 +2131,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-31T21:34:11.000Z",
-          "id": "2116644929069785446",
-          "images": [
-            "https://pbs.twimg.com/media/HV_VVv7XUAAhfEK.jpg",
-            "https://pbs.twimg.com/media/HV_VVvXXsAA2-KI.jpg"
-          ],
-          "text": "i shop at thom sweeney ONCE and immediately get these emails \ud83d\ude2d https://t.co/GQoDHMwRII"
-        },
         {
           "created_at": "2026-11-01T14:17:19.000Z",
           "id": "2116897377512534380",
@@ -2266,10 +2257,15 @@
             "https://pbs.twimg.com/media/HWOuelBWYAAnOnE.jpg"
           ],
           "text": "amd cooperating and not shitting the bed https://t.co/B6aUGXImX0"
+        },
+        {
+          "created_at": "2026-11-03T23:12:46.000Z",
+          "id": "2117756905355710835",
+          "quoted_text": "Use of \"expectancy\" is a red flag. When used for a single trade, it is when all alarms go off. I have 10 probability and statistics books, and there is no such \"expectancy\" term in them. There is expectation, but those who skipped the real courses don't know what it means. https://t.co/2NKdi0ZOD4",
+          "text": "ah weird when i was at jane street we used \"expectancy\" all the time https://t.co/jsezySkPaM"
         }
       ],
       "reads": {
-        "2116644929069785446": "No call",
         "2116897377512534380": "No call",
         "2116915274268233825": "No call",
         "2117237476720824790": "No call",
@@ -2283,7 +2279,8 @@
         "2117647100838064136": "No call",
         "2117669115120717937": "No call",
         "2117725167359066439": "No call",
-        "2117728098250641532": "TRADE LONG AMD"
+        "2117728098250641532": "TRADE LONG AMD",
+        "2117756905355710835": "No call"
       },
       "replies": [
         {
@@ -2713,10 +2710,13 @@
             "trade:AMD:long"
           ],
           "self_replies": 0
+        },
+        "2117756905355710835": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116644929069785446": false,
         "2116897377512534380": false,
         "2116915274268233825": false,
         "2116944670144028752": false,
@@ -2750,7 +2750,8 @@
         "2117741809141240220": false,
         "2117741880997761305": false,
         "2117749512802324955": false,
-        "2117749664199958839": false
+        "2117749664199958839": false,
+        "2117756905355710835": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6829,5 +6830,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-03T23:10:18+00:00"
+  "updated_at": "2026-11-03T23:14:23+00:00"
 }
