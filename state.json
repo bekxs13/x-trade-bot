@@ -6201,14 +6201,9 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118013350693216630",
+      "last_id": "2118067221691797702",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-18T16:40:11.000Z",
-          "id": "2111859899441549668",
-          "text": "Get your shopping list ready"
-        },
         {
           "created_at": "2026-10-18T16:47:33.000Z",
           "id": "2111861754129227930",
@@ -6323,10 +6318,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2118013286184603648/img/ABDx6-lkyLfNs5E9.jpg"
           ],
           "text": "We're so back https://t.co/JVqtUHrVNO"
+        },
+        {
+          "created_at": "2026-11-04T19:45:52.000Z",
+          "id": "2118067221691797702",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2118067024655974400/img/LHPp20hMBeTL9LOK.jpg"
+          ],
+          "text": "NO BLACKPILLING https://t.co/VWyVUafvGJ"
         }
       ],
       "reads": {
-        "2111859899441549668": "No call",
         "2111861754129227930": "No call",
         "2111862225484853381": "No call",
         "2111871343109210201": "No call: bearish on LIT (60%, too unsure)",
@@ -6344,7 +6346,8 @@
         "2118006107863998667": "No call",
         "2118007664185835677": "TRADE EXIT equity shorts \u00b7 VIEW neutral on stocks/macro",
         "2118009229705662536": "No call",
-        "2118013350693216630": "No call"
+        "2118013350693216630": "No call",
+        "2118067221691797702": "No call"
       },
       "replies": [
         {
@@ -6439,10 +6442,6 @@
         }
       ],
       "threads": {
-        "2107941658998309343": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108214861054284161": {
           "alerted": [],
           "self_replies": 0
@@ -6853,6 +6852,10 @@
         "2118013350693216630": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118067221691797702": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -6863,7 +6866,6 @@
         "2111183217843679578": false,
         "2111505410444411366": true,
         "2111581235793588319": true,
-        "2111859899441549668": true,
         "2111861754129227930": true,
         "2111862225484853381": false,
         "2111868524427948399": false,
@@ -6890,7 +6892,8 @@
         "2118008698790641737": false,
         "2118009229705662536": false,
         "2118009522807505340": true,
-        "2118013350693216630": true
+        "2118013350693216630": true,
+        "2118067221691797702": true
       },
       "user_id": "809191427645181952"
     }
@@ -6913,5 +6916,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-04T19:38:19+00:00"
+  "updated_at": "2026-11-04T19:46:24+00:00"
 }
