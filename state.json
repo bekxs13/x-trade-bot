@@ -4484,7 +4484,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118125298327932986",
+      "last_id": "2118126947381195150",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4520,11 +4520,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T13:30:55.000Z",
-          "id": "2117610475105976734",
-          "text": "i\u2019m about to do some real disgusting shit today some real how bad do you want it activities"
-        },
         {
           "created_at": "2026-11-03T13:36:23.000Z",
           "id": "2117611853199122863",
@@ -4632,10 +4627,15 @@
           "created_at": "2026-11-04T22:35:52.000Z",
           "id": "2118110003403915731",
           "text": "who is the best political analyst  i can bring on stream tomorrow to chat? i am being radicalized"
+        },
+        {
+          "created_at": "2026-11-04T23:42:49.000Z",
+          "id": "2118126854775153000",
+          "reply_to_id": "2118110003403915731",
+          "text": "what the fuck is a political analyst dude what am i even saying fuck you guys"
         }
       ],
       "reads": {
-        "2117610475105976734": "No call",
         "2117611853199122863": "No call",
         "2117650227565867070": "No call",
         "2117654525091987845": "No call",
@@ -4652,15 +4652,10 @@
         "2117997781784654091": "No call",
         "2118062614869934448": "No call",
         "2118071627019878734": "No call",
-        "2118110003403915731": "No call"
+        "2118110003403915731": "No call",
+        "2118126854775153000": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-04T15:50:29.000Z",
-          "id": "2118007985956147540",
-          "reply_to_id": "2118006107863998667",
-          "text": "@ThinkingUSD welcome back"
-        },
         {
           "created_at": "2026-11-04T16:01:08.000Z",
           "id": "2118010667273781418",
@@ -4744,6 +4739,12 @@
           "id": "2118125298327932986",
           "reply_to_id": "2118124983222206964",
           "text": "@lialiascg was that an ask to be invited onto the stream"
+        },
+        {
+          "created_at": "2026-11-04T23:43:11.000Z",
+          "id": "2118126947381195150",
+          "reply_to_id": "2118121955417289081",
+          "text": "@fomo i missed this lay"
         }
       ],
       "threads": {
@@ -5151,11 +5152,10 @@
         },
         "2118110003403915731": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2117610475105976734": false,
         "2117611853199122863": true,
         "2117650227565867070": false,
         "2117654525091987845": false,
@@ -5172,7 +5172,6 @@
         "2117974056305602607": true,
         "2117987597536645158": false,
         "2117997781784654091": false,
-        "2118007985956147540": false,
         "2118010667273781418": false,
         "2118012744674750704": false,
         "2118057894675644515": false,
@@ -5189,7 +5188,9 @@
         "2118106766139633836": false,
         "2118110003403915731": false,
         "2118112531126563151": false,
-        "2118125298327932986": false
+        "2118125298327932986": false,
+        "2118126854775153000": false,
+        "2118126947381195150": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6921,5 +6922,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-04T23:42:23+00:00"
+  "updated_at": "2026-11-04T23:44:25+00:00"
 }
