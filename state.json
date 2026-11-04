@@ -2110,7 +2110,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117849436978348103",
+      "last_id": "2117850121392238825",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2130,12 +2130,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-02T12:48:45.000Z",
-          "id": "2117237476720824790",
-          "quoted_text": "SK Hynix rallying... good sign...Did a hedge fund blow-up last week? Lets see if the sellers come back...",
-          "text": "dude fuck off seriously https://t.co/S7EV0azDjX"
-        },
         {
           "created_at": "2026-11-02T13:41:54.000Z",
           "id": "2117250853195174359",
@@ -2266,10 +2260,18 @@
           "created_at": "2026-11-04T01:55:12.000Z",
           "id": "2117797779225358480",
           "text": "odds that elon crashes out over immigration because of blexas?"
+        },
+        {
+          "created_at": "2026-11-04T05:23:11.000Z",
+          "id": "2117850121392238825",
+          "images": [
+            "https://pbs.twimg.com/media/HWQddJeXAAAQnuK.jpg"
+          ],
+          "quoted_text": "I don\u2019t know if this is consensus or not yet but midterms aren\u2019t that big of a deal and won\u2019t matter that much for the stock market outside of basically this week.",
+          "text": "https://t.co/JfVh7Tfo7o https://t.co/hsQ9t4yjYh"
         }
       ],
       "reads": {
-        "2117237476720824790": "No call",
         "2117250853195174359": "No call",
         "2117298795105194364": "No call",
         "2117304827172786659": "No call",
@@ -2284,7 +2286,8 @@
         "2117756905355710835": "No call",
         "2117762594673156375": "No call",
         "2117772565447852179": "No call",
-        "2117797779225358480": "No call"
+        "2117797779225358480": "No call",
+        "2117850121392238825": "No call"
       },
       "replies": [
         {
@@ -2736,10 +2739,13 @@
         "2117797779225358480": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117850121392238825": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117237476720824790": false,
         "2117250853195174359": true,
         "2117298795105194364": false,
         "2117304827172786659": true,
@@ -2773,7 +2779,8 @@
         "2117799358217261308": false,
         "2117799972838265239": true,
         "2117802434600837418": false,
-        "2117849436978348103": false
+        "2117849436978348103": false,
+        "2117850121392238825": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6855,5 +6862,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-04T05:22:18+00:00"
+  "updated_at": "2026-11-04T05:24:23+00:00"
 }
