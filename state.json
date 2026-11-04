@@ -2111,7 +2111,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117769408336540098",
+      "last_id": "2117772565447852179",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2131,12 +2131,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-01T15:28:26.000Z",
-          "id": "2116915274268233825",
-          "quoted_text": "@DeepDishEnjoyer Measure theory is just the formal grounding for continuous probability theory. It\u2019s not the theory itself.\n\nSaying you can\u2019t understand probability without measure theory is like saying Newton didn\u2019t understand calculus because he didn\u2019t have Cauchy\u2019s epsilon-delta formalisation.",
-          "text": "That's absolutely right! Newton did NOT understand calculus!!!! https://t.co/CmBtJCl65n"
-        },
         {
           "created_at": "2026-11-01T17:25:14.000Z",
           "id": "2116944670144028752",
@@ -2266,10 +2260,17 @@
             "https://pbs.twimg.com/media/HWPN2tNWkAEYInL.png"
           ],
           "text": "https://t.co/0hF7zGwriL"
+        },
+        {
+          "created_at": "2026-11-04T00:15:00.000Z",
+          "id": "2117772565447852179",
+          "images": [
+            "https://pbs.twimg.com/media/HWPW6qYXgAEar8o.jpg"
+          ],
+          "text": "interesting https://t.co/wIoGr0ep2J"
         }
       ],
       "reads": {
-        "2116915274268233825": "No call",
         "2117237476720824790": "No call",
         "2117250853195174359": "No call",
         "2117298795105194364": "No call",
@@ -2283,7 +2284,8 @@
         "2117725167359066439": "No call",
         "2117728098250641532": "TRADE LONG AMD",
         "2117756905355710835": "No call",
-        "2117762594673156375": "No call"
+        "2117762594673156375": "No call",
+        "2117772565447852179": "No call"
       },
       "replies": [
         {
@@ -2724,10 +2726,13 @@
         "2117762594673156375": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117772565447852179": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116915274268233825": false,
         "2116944670144028752": false,
         "2117237476720824790": false,
         "2117250853195174359": true,
@@ -2761,7 +2766,8 @@
         "2117762594673156375": false,
         "2117765322879172734": false,
         "2117766120929402890": false,
-        "2117769408336540098": false
+        "2117769408336540098": false,
+        "2117772565447852179": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6840,5 +6846,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-04T00:04:16+00:00"
+  "updated_at": "2026-11-04T00:16:25+00:00"
 }
