@@ -4432,7 +4432,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2117812625291845975",
+      "last_id": "2117813226587263045",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4619,18 +4619,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T20:24:50.000Z",
-          "id": "2117714643619574214",
-          "reply_to_id": "2117705031847665803",
-          "text": "@0puppeteer0 @ChrisCamillo he is one of the very best"
-        },
-        {
-          "created_at": "2026-11-03T20:31:33.000Z",
-          "id": "2117716332062089437",
-          "reply_to_id": "2117716138305978824",
-          "text": "@JamesChristoph can you give me some stuff to radicalize me"
-        },
-        {
           "created_at": "2026-11-03T20:35:06.000Z",
           "id": "2117717223917900011",
           "reply_to_id": "2117717073015275743",
@@ -4707,6 +4695,21 @@
           "id": "2117812625291845975",
           "reply_to_id": "2117812573902901262",
           "text": "@amitisinvesting \ud83d\ude2d"
+        },
+        {
+          "created_at": "2026-11-04T02:56:14.000Z",
+          "id": "2117813142680141901",
+          "reply_to_id": "2117812743470256496",
+          "text": "@amitisinvesting is it too late"
+        },
+        {
+          "created_at": "2026-11-04T02:56:34.000Z",
+          "id": "2117813226587263045",
+          "images": [
+            "https://pbs.twimg.com/media/HWP759KXUAIw9yc.jpg"
+          ],
+          "reply_to_id": "2117813037503590539",
+          "text": "@stogolp https://t.co/9t37xynbcb"
         }
       ],
       "threads": {
@@ -5136,8 +5139,6 @@
         "2117699961223561547": false,
         "2117711899735519632": false,
         "2117713161625190745": false,
-        "2117714643619574214": false,
-        "2117716332062089437": false,
         "2117716352987533650": false,
         "2117717223917900011": false,
         "2117717816015036722": false,
@@ -5152,7 +5153,9 @@
         "2117807745126572369": false,
         "2117807965851836807": false,
         "2117810627246760167": false,
-        "2117812625291845975": false
+        "2117812625291845975": false,
+        "2117813142680141901": true,
+        "2117813226587263045": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6849,5 +6852,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-04T02:56:23+00:00"
+  "updated_at": "2026-11-04T02:58:17+00:00"
 }
