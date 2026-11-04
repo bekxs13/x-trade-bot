@@ -973,7 +973,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118094958057988536",
+      "last_id": "2118095223360462916",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1178,12 +1178,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T22:23:33.000Z",
-          "id": "2117744515989623187",
-          "reply_to_id": "2117743720594387082",
-          "text": "@__justEVA i always wonder how you guys determine which coins are slop or not, what is the methodology"
-        },
-        {
           "created_at": "2026-11-03T22:25:45.000Z",
           "id": "2117745072037093827",
           "reply_to_id": "2117732133771104640",
@@ -1266,6 +1260,12 @@
           "id": "2118094958057988536",
           "reply_to_id": "2118089892664160569",
           "text": "@2real4thisappx @ConclaviosM3 @_imagyn can you explain what you believe ethical behavior is in this scenario, if you are a trader who trades coins at 10k mcap, &amp; people are tailing you, you by default are always going to be dumping on the ppl who buy after you, what is the alternative to that?"
+        },
+        {
+          "created_at": "2026-11-04T21:37:08.000Z",
+          "id": "2118095223360462916",
+          "reply_to_id": "2118089843058036751",
+          "text": "@mannthatsreal @ConclaviosM3 @_imagyn why do you think an established community coin that has been the same price for months is suddenly going to go up a lot? because i buy it?"
         }
       ],
       "threads": {
@@ -1696,7 +1696,6 @@
         "2117710404558442877": true,
         "2117716067510259904": true,
         "2117728157281538212": false,
-        "2117744515989623187": true,
         "2117744881804185707": false,
         "2117744887873581394": false,
         "2117745072037093827": false,
@@ -1721,7 +1720,8 @@
         "2118085695537369228": false,
         "2118089271064011087": true,
         "2118093667907010917": false,
-        "2118094958057988536": true
+        "2118094958057988536": true,
+        "2118095223360462916": true
       },
       "user_id": "973261472"
     },
@@ -6914,5 +6914,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-04T21:36:18+00:00"
+  "updated_at": "2026-11-04T21:38:18+00:00"
 }
