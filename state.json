@@ -973,7 +973,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117800086734553217",
+      "last_id": "2117801823969181797",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1161,12 +1161,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T19:43:03.000Z",
-          "id": "2117704125064647030",
-          "reply_to_id": "2117697352052142314",
-          "text": "@notthreadguy @surveillor the hyperdash mogging next four years during the superintelligence era will be cinema"
-        },
-        {
           "created_at": "2026-11-03T19:44:54.000Z",
           "id": "2117704591697723851",
           "reply_to_id": "2117704139723747400",
@@ -1249,6 +1243,12 @@
           "id": "2117800086734553217",
           "reply_to_id": "2117781168280182979",
           "text": "@inkonchain ofc bby"
+        },
+        {
+          "created_at": "2026-11-04T02:11:16.000Z",
+          "id": "2117801823969181797",
+          "reply_to_id": "2117800522518503675",
+          "text": "@0xRiver8 where do you even get these edits from man"
         }
       ],
       "threads": {
@@ -1681,7 +1681,6 @@
         "2117656325647953982": true,
         "2117666234439467072": true,
         "2117701700743999985": true,
-        "2117704125064647030": true,
         "2117704591697723851": false,
         "2117704650497380375": false,
         "2117704833041944748": true,
@@ -1704,7 +1703,8 @@
         "2117779615829950811": true,
         "2117780410365329824": true,
         "2117798807035691494": true,
-        "2117800086734553217": false
+        "2117800086734553217": false,
+        "2117801823969181797": false
       },
       "user_id": "973261472"
     },
@@ -6849,5 +6849,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-04T02:06:17+00:00"
+  "updated_at": "2026-11-04T02:12:18+00:00"
 }
