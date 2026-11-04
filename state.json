@@ -6188,17 +6188,9 @@
       },
       "closed": [],
       "handle": "thinkingusd",
-      "last_id": "2112613021264773136",
+      "last_id": "2112655268010238248",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-18T00:40:02.000Z",
-          "id": "2111618271585747156",
-          "images": [
-            "https://pbs.twimg.com/media/HU35oJGWsAAFhdl.jpg"
-          ],
-          "text": "Saturday https://t.co/FstMQEb1My"
-        },
         {
           "created_at": "2026-10-18T01:41:58.000Z",
           "id": "2111633857695100982",
@@ -6313,10 +6305,14 @@
           "created_at": "2026-10-20T18:32:49.000Z",
           "id": "2112613021264773136",
           "text": "Errol Flynn mode"
+        },
+        {
+          "created_at": "2026-10-20T21:20:41.000Z",
+          "id": "2112655268010238248",
+          "text": "If you ever find yourself rooting for the market to go down it\u2019s time to close your positions and log off for a bit. \n\nSee ya"
         }
       ],
       "reads": {
-        "2111618271585747156": "No call",
         "2111633857695100982": "No call",
         "2111648982472749541": "No call",
         "2111660440891932781": "No call",
@@ -6334,7 +6330,8 @@
         "2112543824778256848": "No call: bullish on HYPE (60%, too unsure)",
         "2112544605304672382": "No call",
         "2112567854172446741": "No call",
-        "2112613021264773136": "No call"
+        "2112613021264773136": "No call",
+        "2112655268010238248": "No call: maybe exit  (55%, too unsure)"
       },
       "replies": [
         {
@@ -6429,10 +6426,6 @@
         }
       ],
       "threads": {
-        "2107304442760462642": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2107510357468287076": {
           "alerted": [],
           "self_replies": 0
@@ -6840,6 +6833,10 @@
         "2112613021264773136": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2112655268010238248": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -6852,7 +6849,6 @@
         "2111183217843679578": false,
         "2111505410444411366": true,
         "2111581235793588319": true,
-        "2111618271585747156": false,
         "2111633857695100982": false,
         "2111648982472749541": false,
         "2111660440891932781": false,
@@ -6877,7 +6873,8 @@
         "2112543824778256848": true,
         "2112544605304672382": true,
         "2112567854172446741": true,
-        "2112613021264773136": false
+        "2112613021264773136": false,
+        "2112655268010238248": true
       },
       "user_id": "809191427645181952"
     }
@@ -6900,5 +6897,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-04T15:20:20+00:00"
+  "updated_at": "2026-11-04T15:38:26+00:00"
 }
