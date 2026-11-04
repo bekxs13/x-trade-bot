@@ -4473,7 +4473,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118097170595537369",
+      "last_id": "2118097770447774141",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4646,15 +4646,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-04T02:56:34.000Z",
-          "id": "2117813226587263045",
-          "images": [
-            "https://pbs.twimg.com/media/HWP759KXUAIw9yc.jpg"
-          ],
-          "reply_to_id": "2117813037503590539",
-          "text": "@stogolp https://t.co/9t37xynbcb"
-        },
-        {
           "created_at": "2026-11-04T12:31:40.000Z",
           "id": "2117957955446272302",
           "reply_to_id": "2117907105000960159",
@@ -4737,6 +4728,12 @@
           "id": "2118097170595537369",
           "reply_to_id": "2118095718728515703",
           "text": "@mylesxstute we don\u2019t need you out there bro"
+        },
+        {
+          "created_at": "2026-11-04T21:47:15.000Z",
+          "id": "2118097770447774141",
+          "reply_to_id": "2118094910486364575",
+          "text": "@404flipped who\u2019s that guy that used to convince every space to let him co host and ruin launches"
         }
       ],
       "threads": {
@@ -5160,7 +5157,6 @@
         "2117713161625190745": false,
         "2117716352987533650": false,
         "2117807965851836807": false,
-        "2117813226587263045": false,
         "2117957672087511443": false,
         "2117957955446272302": false,
         "2117961861521932503": false,
@@ -5182,7 +5178,8 @@
         "2118071627019878734": false,
         "2118088957649203277": false,
         "2118093458522951919": false,
-        "2118097170595537369": false
+        "2118097170595537369": false,
+        "2118097770447774141": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6914,5 +6911,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-04T21:46:18+00:00"
+  "updated_at": "2026-11-04T21:48:19+00:00"
 }
