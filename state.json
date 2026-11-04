@@ -973,7 +973,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117801823969181797",
+      "last_id": "2117802153498509601",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1161,12 +1161,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T19:44:54.000Z",
-          "id": "2117704591697723851",
-          "reply_to_id": "2117704139723747400",
-          "text": "@Greed2Fear if they could intervene sooner they wouldve ended this iran situation already imo"
-        },
-        {
           "created_at": "2026-11-03T19:45:08.000Z",
           "id": "2117704650497380375",
           "reply_to_id": "2117703784965276159",
@@ -1249,6 +1243,12 @@
           "id": "2117801823969181797",
           "reply_to_id": "2117800522518503675",
           "text": "@0xRiver8 where do you even get these edits from man"
+        },
+        {
+          "created_at": "2026-11-04T02:12:34.000Z",
+          "id": "2117802153498509601",
+          "reply_to_id": "2117800649429786754",
+          "text": "@JustAFamilyMan_ man"
         }
       ],
       "threads": {
@@ -1681,7 +1681,6 @@
         "2117656325647953982": true,
         "2117666234439467072": true,
         "2117701700743999985": true,
-        "2117704591697723851": false,
         "2117704650497380375": false,
         "2117704833041944748": true,
         "2117710404558442877": true,
@@ -1704,7 +1703,8 @@
         "2117780410365329824": true,
         "2117798807035691494": true,
         "2117800086734553217": false,
-        "2117801823969181797": false
+        "2117801823969181797": false,
+        "2117802153498509601": false
       },
       "user_id": "973261472"
     },
@@ -2110,7 +2110,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117799972838265239",
+      "last_id": "2117802434600837418",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2288,12 +2288,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T21:14:04.000Z",
-          "id": "2117727032385699926",
-          "reply_to_id": "2117719050398966253",
-          "text": "@goodalexander @ethanrkho not sure i understand your question in context of this video - he isn't just betamaxxing is the point?"
-        },
-        {
           "created_at": "2026-11-03T21:16:24.000Z",
           "id": "2117727620133748935",
           "reply_to_id": "2117726850260914591",
@@ -2379,6 +2373,12 @@
           "id": "2117799972838265239",
           "reply_to_id": "2117799669439033575",
           "text": "@Jadam2122 on election nights, when it swings to a non-intuitive percentage (given only small % is out), it's probably because someone did a LOT of research"
+        },
+        {
+          "created_at": "2026-11-04T02:13:41.000Z",
+          "id": "2117802434600837418",
+          "reply_to_id": "2117801865698230625",
+          "text": "@Jadam2122 no, opposite!"
         }
       ],
       "threads": {
@@ -2751,7 +2751,6 @@
         "2117706038942351858": false,
         "2117710029377962255": false,
         "2117725167359066439": false,
-        "2117727032385699926": false,
         "2117727620133748935": false,
         "2117728098250641532": true,
         "2117731210831036688": false,
@@ -2770,7 +2769,8 @@
         "2117793251210260795": true,
         "2117797779225358480": false,
         "2117799358217261308": false,
-        "2117799972838265239": true
+        "2117799972838265239": true,
+        "2117802434600837418": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6849,5 +6849,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-04T02:12:18+00:00"
+  "updated_at": "2026-11-04T02:14:21+00:00"
 }
