@@ -2110,7 +2110,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117861600233508874",
+      "last_id": "2117864281806897389",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2130,12 +2130,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-02T21:31:25.000Z",
-          "id": "2117369008140025953",
-          "quoted_text": "APPLE Q4 EARNINGS\n\nEPS $2.10 vs $1.99 \u2014 BEAT\nSales $114.48B vs $113.39B \u2014 BEAT\niPhone $57.58B vs $56.54B \u2014 ABOVE\nEPS incl. $0.05 tariff refund\n\n$AAPL",
-          "text": "aapl beat, isn't even an ai name, market still doesn't like it\n\nokay https://t.co/5JOBmr1Qvn"
-        },
         {
           "created_at": "2026-11-03T00:22:26.000Z",
           "id": "2117412046362825178",
@@ -2269,10 +2263,17 @@
           "id": "2117859288953803111",
           "reply_to_id": "2117859208099942902",
           "text": "@zeta_globin please courtesy like or else by the way"
+        },
+        {
+          "created_at": "2026-11-04T06:19:27.000Z",
+          "id": "2117864281806897389",
+          "images": [
+            "https://pbs.twimg.com/media/HWQqVssWkAAHV8r.jpg"
+          ],
+          "text": "https://t.co/OSawen0SUP"
         }
       ],
       "reads": {
-        "2117369008140025953": "No call",
         "2117412046362825178": "No call: bullish on memory stocks (60%, too unsure)",
         "2117611700094423543": "No call",
         "2117625299924049939": "No call: bullish on memory stocks (same view as before)",
@@ -2286,7 +2287,8 @@
         "2117797779225358480": "No call",
         "2117850121392238825": "No call",
         "2117854033281003754": "No call",
-        "2117857795932672465": "No call"
+        "2117857795932672465": "No call",
+        "2117864281806897389": "No call"
       },
       "replies": [
         {
@@ -2747,10 +2749,13 @@
         "2117857795932672465": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117864281806897389": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117369008140025953": true,
         "2117412046362825178": true,
         "2117611700094423543": false,
         "2117625299924049939": true,
@@ -2784,7 +2789,8 @@
         "2117859208099942902": false,
         "2117859288953803111": false,
         "2117859926278324290": false,
-        "2117861600233508874": false
+        "2117861600233508874": false,
+        "2117864281806897389": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6866,5 +6872,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-04T06:10:18+00:00"
+  "updated_at": "2026-11-04T06:20:19+00:00"
 }
