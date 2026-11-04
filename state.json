@@ -2110,7 +2110,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117857795932672465",
+      "last_id": "2117859288953803111",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2130,11 +2130,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-02T17:16:23.000Z",
-          "id": "2117304827172786659",
-          "text": "im old enough to remember when market makers provided liquidity and bonafide price discovery and didn't just make 90% of their pnl on dynamic arbs where they monotonically push the price of an instrument in one direction to fuck over some retail product like a levered etf"
-        },
         {
           "created_at": "2026-11-02T21:31:25.000Z",
           "id": "2117369008140025953",
@@ -2268,10 +2263,15 @@
           ],
           "quoted_text": "susan collins is gonna try to unplug, walk around beautiful maine, reflect on a long, storied career \u2014\n\nand then a name will come into her head: christine blasey ford \n\nand she\u2019ll realize there is no end to this nightmare",
           "text": "https://t.co/kGPVeeCk0P https://t.co/Y8RIk7L7lI"
+        },
+        {
+          "created_at": "2026-11-04T05:59:37.000Z",
+          "id": "2117859288953803111",
+          "reply_to_id": "2117859208099942902",
+          "text": "@zeta_globin please courtesy like or else by the way"
         }
       ],
       "reads": {
-        "2117304827172786659": "No call",
         "2117369008140025953": "No call",
         "2117412046362825178": "No call: bullish on memory stocks (60%, too unsure)",
         "2117611700094423543": "No call",
@@ -2289,12 +2289,6 @@
         "2117857795932672465": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-03T23:49:24.000Z",
-          "id": "2117766120929402890",
-          "reply_to_id": "2117765982567662044",
-          "text": "@dampedspring wow lots of red flags"
-        },
         {
           "created_at": "2026-11-04T00:02:27.000Z",
           "id": "2117769408336540098",
@@ -2381,6 +2375,12 @@
           "id": "2117857338485092656",
           "reply_to_id": "2117855879819333919",
           "text": "@Luentezzz not true"
+        },
+        {
+          "created_at": "2026-11-04T05:59:17.000Z",
+          "id": "2117859208099942902",
+          "reply_to_id": "2117854126277316612",
+          "text": "@zeta_globin why would it be relevant from what account you are posting"
         }
       ],
       "threads": {
@@ -2750,7 +2750,6 @@
         }
       },
       "trading": {
-        "2117304827172786659": true,
         "2117369008140025953": true,
         "2117412046362825178": true,
         "2117611700094423543": false,
@@ -2765,7 +2764,6 @@
         "2117728098250641532": true,
         "2117756905355710835": false,
         "2117762594673156375": false,
-        "2117766120929402890": false,
         "2117769408336540098": false,
         "2117772565447852179": false,
         "2117780977288204461": true,
@@ -2784,7 +2782,9 @@
         "2117855053503750164": false,
         "2117857193026257197": false,
         "2117857338485092656": false,
-        "2117857795932672465": false
+        "2117857795932672465": false,
+        "2117859208099942902": false,
+        "2117859288953803111": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6866,5 +6866,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-04T05:54:20+00:00"
+  "updated_at": "2026-11-04T06:00:29+00:00"
 }
