@@ -4473,7 +4473,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118097770447774141",
+      "last_id": "2118099595007865090",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4646,12 +4646,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-04T12:31:40.000Z",
-          "id": "2117957955446272302",
-          "reply_to_id": "2117907105000960159",
-          "text": "@vydamo_ i got a 'nam mre in storage"
-        },
-        {
           "created_at": "2026-11-04T12:55:58.000Z",
           "id": "2117964067369320615",
           "reply_to_id": "2117916698464387497",
@@ -4734,6 +4728,12 @@
           "id": "2118097770447774141",
           "reply_to_id": "2118094910486364575",
           "text": "@404flipped who\u2019s that guy that used to convince every space to let him co host and ruin launches"
+        },
+        {
+          "created_at": "2026-11-04T21:54:30.000Z",
+          "id": "2118099595007865090",
+          "reply_to_id": "2118098128804937784",
+          "text": "@CarrotBased @seyong @rasmr_eth hate to see it man"
         }
       ],
       "threads": {
@@ -5158,7 +5158,6 @@
         "2117716352987533650": false,
         "2117807965851836807": false,
         "2117957672087511443": false,
-        "2117957955446272302": false,
         "2117961861521932503": false,
         "2117962409663246407": false,
         "2117964067369320615": false,
@@ -5179,7 +5178,8 @@
         "2118088957649203277": false,
         "2118093458522951919": false,
         "2118097170595537369": false,
-        "2118097770447774141": false
+        "2118097770447774141": false,
+        "2118099595007865090": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6911,5 +6911,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-04T21:48:19+00:00"
+  "updated_at": "2026-11-04T21:56:19+00:00"
 }
