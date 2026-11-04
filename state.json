@@ -2110,7 +2110,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117802434600837418",
+      "last_id": "2117849436978348103",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2288,12 +2288,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T21:16:24.000Z",
-          "id": "2117727620133748935",
-          "reply_to_id": "2117726850260914591",
-          "text": "@Steinzory directionally, yes. but that's not even my point necessarily - it's that he can talk intelligently about it all instead of saying \"it's all computer\""
-        },
-        {
           "created_at": "2026-11-03T21:30:40.000Z",
           "id": "2117731210831036688",
           "reply_to_id": "2117730170178261284",
@@ -2379,6 +2373,15 @@
           "id": "2117802434600837418",
           "reply_to_id": "2117801865698230625",
           "text": "@Jadam2122 no, opposite!"
+        },
+        {
+          "created_at": "2026-11-04T05:20:28.000Z",
+          "id": "2117849436978348103",
+          "images": [
+            "https://pbs.twimg.com/media/HWQc1ilXIAAk_rA.png"
+          ],
+          "reply_to_id": "2117796151164543243",
+          "text": "@1thousandfaces_ https://t.co/Uz0vjH316E"
         }
       ],
       "threads": {
@@ -2751,7 +2754,6 @@
         "2117706038942351858": false,
         "2117710029377962255": false,
         "2117725167359066439": false,
-        "2117727620133748935": false,
         "2117728098250641532": true,
         "2117731210831036688": false,
         "2117732264733778314": false,
@@ -2770,7 +2772,8 @@
         "2117797779225358480": false,
         "2117799358217261308": false,
         "2117799972838265239": true,
-        "2117802434600837418": false
+        "2117802434600837418": false,
+        "2117849436978348103": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6852,5 +6855,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-04T05:02:21+00:00"
+  "updated_at": "2026-11-04T05:22:18+00:00"
 }
