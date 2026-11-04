@@ -973,7 +973,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117780410365329824",
+      "last_id": "2117798807035691494",
       "positions": {
         "ETH": {
           "asset": "ETH",
@@ -1009,14 +1009,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T01:09:25.000Z",
-          "id": "2117423871154589732",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2117422935833292800/img/46nWcITwQgWUFTCZ.jpg"
-          ],
-          "text": "Market Bubble ep.25: full conversation between me, @Banks, and @insentos \n\non the Binance hack, trading new pairs, why the trenches never die, Bitcoin and Zcash setups, NFTs and the GTA 6 trade\n\n0:00 - Binance hack and trading new pairs\n7:14 - Trenching, viral coins and trading skill\n13:39 - Hyperliquid, Bitcoin and Zcash\n18:12 - Stocks, crypto and market timing\n27:51 - CryptoPunks, NFTs and GTA 6"
-        },
         {
           "created_at": "2026-11-03T01:22:45.000Z",
           "id": "2117427227847491837",
@@ -1139,10 +1131,14 @@
             "https://pbs.twimg.com/media/HWPdVRlXkAAsx_f.jpg"
           ],
           "text": "markets dont like midterms results it seems https://t.co/CbU4MYYDjg"
+        },
+        {
+          "created_at": "2026-11-04T01:59:17.000Z",
+          "id": "2117798807035691494",
+          "text": "who on here said to short spcx if texas went blue"
         }
       ],
       "reads": {
-        "2117423871154589732": "No call",
         "2117427227847491837": "No call",
         "2117441633713082652": "No call",
         "2117449038979072008": "No call",
@@ -1160,7 +1156,8 @@
         "2117744887873581394": "No call",
         "2117763070982504829": "No call",
         "2117775739437117711": "No call",
-        "2117779615829950811": "No call"
+        "2117779615829950811": "No call",
+        "2117798807035691494": "No call"
       },
       "replies": [
         {
@@ -1255,10 +1252,6 @@
         }
       ],
       "threads": {
-        "2113359534701854842": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113369912798490737": {
           "alerted": [],
           "self_replies": 0
@@ -1670,10 +1663,13 @@
         "2117779615829950811": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117798807035691494": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117423871154589732": true,
         "2117427227847491837": false,
         "2117441633713082652": true,
         "2117449038979072008": false,
@@ -1707,7 +1703,8 @@
         "2117763070982504829": false,
         "2117775739437117711": false,
         "2117779615829950811": true,
-        "2117780410365329824": true
+        "2117780410365329824": true,
+        "2117798807035691494": true
       },
       "user_id": "973261472"
     },
@@ -6852,5 +6849,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-04T01:56:20+00:00"
+  "updated_at": "2026-11-04T02:00:24+00:00"
 }
