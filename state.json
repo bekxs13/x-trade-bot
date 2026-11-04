@@ -5203,6 +5203,15 @@
           "stance": "bearish",
           "updated_at": "2026-10-29T15:35:11.000Z"
         },
+        "crypto market": {
+          "market": "crypto",
+          "post_id": "2117954235698483689",
+          "reason": "'Stop whining... go long' plus the quoted meme about being underallocated to coins signals a bullish view on crypto broadly.",
+          "scope": "crypto market",
+          "since": "2026-11-04",
+          "stance": "bullish",
+          "updated_at": "2026-11-04T12:16:54.000Z"
+        },
         "var": {
           "market": "crypto",
           "post_id": "2102939239390343286",
@@ -5224,7 +5233,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2117591105042550947",
+      "last_id": "2117954235698483689",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -5244,14 +5253,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-06T00:22:02.000Z",
-          "id": "2107265085433606342",
-          "images": [
-            "https://pbs.twimg.com/media/HT6CbIfaYAEWiUu.jpg"
-          ],
-          "text": "Last month, I hedged my $ZEC longs with more longs\n\nThis month, I am hedging my $ZEC longs with more longs\n\nTexas Hedge https://t.co/8wOxikVrOo https://t.co/ACTDdbBoao"
-        },
         {
           "created_at": "2026-10-08T18:10:47.000Z",
           "id": "2108258820992774570",
@@ -5392,10 +5393,17 @@
           "id": "2117591105042550947",
           "reply_to_id": "2117590598790365367",
           "text": "@5morewhooppers I hope we get to the zone where I become gcr"
+        },
+        {
+          "created_at": "2026-11-04T12:16:54.000Z",
+          "id": "2117954235698483689",
+          "images": [
+            "https://pbs.twimg.com/media/HWR8JukWYAAl0YI.png"
+          ],
+          "text": "Too much whining on this app\n\nStop being a bitch, grab your balls, and go long https://t.co/w9jWCA0GHa"
         }
       ],
       "reads": {
-        "2107265085433606342": "TRADE LONG ZEC",
         "2108258820992774570": "No call",
         "2108261279383380471": "No call",
         "2108374752536756724": "No call",
@@ -5413,7 +5421,8 @@
         "2112591044860862821": "No call",
         "2112656777418244258": "No call",
         "2115829811130020148": "VIEW bearish on btc",
-        "2116128746172195070": "VIEW bearish on alts"
+        "2116128746172195070": "VIEW bearish on alts",
+        "2117954235698483689": "VIEW bullish on crypto market"
       },
       "replies": [
         {
@@ -5605,10 +5614,15 @@
             "bias:alts:bearish"
           ],
           "self_replies": 0
+        },
+        "2117954235698483689": {
+          "alerted": [
+            "bias:crypto market:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2107265085433606342": true,
         "2108258820992774570": true,
         "2108261279383380471": false,
         "2108374752536756724": true,
@@ -5642,7 +5656,8 @@
         "2115947947208868213": true,
         "2116128746172195070": true,
         "2117590598790365367": false,
-        "2117591105042550947": false
+        "2117591105042550947": false,
+        "2117954235698483689": true
       },
       "user_id": "1064421325186359296"
     },
@@ -6875,5 +6890,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-04T12:16:19+00:00"
+  "updated_at": "2026-11-04T12:18:24+00:00"
 }
