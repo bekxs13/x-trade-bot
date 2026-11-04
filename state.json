@@ -973,7 +973,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117963620554616973",
+      "last_id": "2118006477889609953",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1025,19 +1025,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T02:20:00.000Z",
-          "id": "2117441633713082652",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2117425878800224256/img/-kmWNE7KGhIPV8VI.jpg"
-          ],
-          "text": "understanding how higher timeframe candles form on lower timeframes is one of the most useful skills in trading\n\nevery candle has a few possible outcomes: it can stay inside the previous range, break higher, or break lower\n\nonce i have a directional bias, i use lower timeframes to understand how that candle is developing and look for entries before the higher timeframe candle closes\n\na daily candle with a long lower wick, for example, tells you price traded lower before buyers pushed it back up\n\nlearning to recognize these patterns as they develop gives you a much better understanding of price action and where to position"
-        },
-        {
-          "created_at": "2026-11-03T02:49:25.000Z",
-          "id": "2117449038979072008",
-          "text": "https://t.co/0e1lNWZMka"
-        },
         {
           "created_at": "2026-11-03T12:22:02.000Z",
           "id": "2117593142824436045",
@@ -1152,11 +1139,19 @@
             "https://pbs.twimg.com/amplify_video_thumb/2117962472678379520/img/6Sfx_7lLbcGSSNkn.jpg"
           ],
           "text": "Market Bubble ep.25: my full conversation\n\nbearish market outlook, the Binance hack, Hyperliquid's ICE partnership, Zcash entry levels and his BTC and ETH shorts\n\n0:00 Bearish outlook and the Binance hack\n6:25 Hyperliquid, ICE and HYPE\n15:18 Memecoins, Zcash and AI risks\n25:12 Breakouts, Polymarket and trading setups\n41:09 Binance security, BTC and ETH shorts"
+        },
+        {
+          "created_at": "2026-11-04T15:44:18.000Z",
+          "id": "2118006432519921750",
+          "text": "they almost smoked me today"
+        },
+        {
+          "created_at": "2026-11-04T15:44:29.000Z",
+          "id": "2118006477889609953",
+          "text": "now i gotta go hoop against threadguy &amp; rasmr"
         }
       ],
       "reads": {
-        "2117441633713082652": "No call",
-        "2117449038979072008": "No call",
         "2117593142824436045": "No call: bearish on stocks/macro (same view as before)",
         "2117619108015653212": "No call",
         "2117623967959630200": "No call",
@@ -1173,7 +1168,9 @@
         "2117775739437117711": "No call",
         "2117779615829950811": "No call",
         "2117798807035691494": "No call",
-        "2117963620554616973": "TRADE SHORT BTC"
+        "2117963620554616973": "TRADE SHORT BTC",
+        "2118006432519921750": "No call",
+        "2118006477889609953": "No call"
       },
       "replies": [
         {
@@ -1268,16 +1265,6 @@
         }
       ],
       "threads": {
-        "2113380587851706645": {
-          "alerted": [
-            "bias:crypto market:neutral"
-          ],
-          "self_replies": 0
-        },
-        "2113388576633434441": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113396873386234153": {
           "alerted": [],
           "self_replies": 0
@@ -1685,11 +1672,17 @@
             "trade:BTC:short"
           ],
           "self_replies": 0
+        },
+        "2118006432519921750": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2118006477889609953": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117441633713082652": true,
-        "2117449038979072008": false,
         "2117593142824436045": true,
         "2117619108015653212": false,
         "2117623967959630200": true,
@@ -1722,7 +1715,9 @@
         "2117801823969181797": false,
         "2117802153498509601": false,
         "2117805021438091587": false,
-        "2117963620554616973": true
+        "2117963620554616973": true,
+        "2118006432519921750": false,
+        "2118006477889609953": false
       },
       "user_id": "973261472"
     },
@@ -6897,5 +6892,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-04T15:44:24+00:00"
+  "updated_at": "2026-11-04T15:46:24+00:00"
 }
