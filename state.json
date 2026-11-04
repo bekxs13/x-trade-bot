@@ -973,7 +973,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118095223360462916",
+      "last_id": "2118095906608152608",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1178,12 +1178,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T22:25:45.000Z",
-          "id": "2117745072037093827",
-          "reply_to_id": "2117732133771104640",
-          "text": "@I4NFTS yep"
-        },
-        {
           "created_at": "2026-11-03T22:29:55.000Z",
           "id": "2117746119367123017",
           "reply_to_id": "2117744616778919950",
@@ -1266,6 +1260,12 @@
           "id": "2118095223360462916",
           "reply_to_id": "2118089843058036751",
           "text": "@mannthatsreal @ConclaviosM3 @_imagyn why do you think an established community coin that has been the same price for months is suddenly going to go up a lot? because i buy it?"
+        },
+        {
+          "created_at": "2026-11-04T21:39:51.000Z",
+          "id": "2118095906608152608",
+          "reply_to_id": "2118089382586446004",
+          "text": "@0xmagazine1 @ConclaviosM3 @_imagyn nigga its november"
         }
       ],
       "threads": {
@@ -1698,7 +1698,6 @@
         "2117728157281538212": false,
         "2117744881804185707": false,
         "2117744887873581394": false,
-        "2117745072037093827": false,
         "2117746119367123017": false,
         "2117763070982504829": false,
         "2117775739437117711": false,
@@ -1721,7 +1720,8 @@
         "2118089271064011087": true,
         "2118093667907010917": false,
         "2118094958057988536": true,
-        "2118095223360462916": true
+        "2118095223360462916": true,
+        "2118095906608152608": false
       },
       "user_id": "973261472"
     },
@@ -6914,5 +6914,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-04T21:38:18+00:00"
+  "updated_at": "2026-11-04T21:40:20+00:00"
 }
