@@ -2110,7 +2110,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117859288953803111",
+      "last_id": "2117859926278324290",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2290,12 +2290,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-04T00:02:27.000Z",
-          "id": "2117769408336540098",
-          "reply_to_id": "2117769350744854925",
-          "text": "@moreproteinbars \ud83d\udea9\ud83d\udea9\ud83d\udea9\ud83d\udea9"
-        },
-        {
           "created_at": "2026-11-04T00:48:26.000Z",
           "id": "2117780977288204461",
           "reply_to_id": "2117780432590614812",
@@ -2381,6 +2375,12 @@
           "id": "2117859208099942902",
           "reply_to_id": "2117854126277316612",
           "text": "@zeta_globin why would it be relevant from what account you are posting"
+        },
+        {
+          "created_at": "2026-11-04T06:02:09.000Z",
+          "id": "2117859926278324290",
+          "reply_to_id": "2117855750181789955",
+          "text": "@matsonj https://t.co/nXWBHOlsMO\n\nbear in mind abbott support moratoriums as well"
         }
       ],
       "threads": {
@@ -2764,7 +2764,6 @@
         "2117728098250641532": true,
         "2117756905355710835": false,
         "2117762594673156375": false,
-        "2117769408336540098": false,
         "2117772565447852179": false,
         "2117780977288204461": true,
         "2117793251210260795": true,
@@ -2784,7 +2783,8 @@
         "2117857338485092656": false,
         "2117857795932672465": false,
         "2117859208099942902": false,
-        "2117859288953803111": false
+        "2117859288953803111": false,
+        "2117859926278324290": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6866,5 +6866,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-04T06:00:29+00:00"
+  "updated_at": "2026-11-04T06:04:16+00:00"
 }
