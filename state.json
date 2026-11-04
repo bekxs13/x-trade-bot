@@ -865,13 +865,13 @@
           "updated_at": "2026-10-30T14:35:22.000Z"
         },
         "crypto market": {
-          "market": "macro",
-          "post_id": "2115976433302409694",
-          "reason": "Says it is still a good spot to de-risk both stocks and crypto, expects selling into NY open and over the weekend, and would only re-evaluate above 82k/2400. This matches the bearish views already on record.",
+          "market": "crypto",
+          "post_id": "2117963620554616973",
+          "reason": "Episode description says 'bearish market outlook', matching the recorded bearish crypto market view.",
           "scope": "crypto market",
           "since": "2026-10-29",
           "stance": "bearish",
-          "updated_at": "2026-10-30T01:17:49.000Z"
+          "updated_at": "2026-11-04T12:54:11.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -973,8 +973,24 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2117805021438091587",
+      "last_id": "2117963620554616973",
       "positions": {
+        "BTC": {
+          "asset": "BTC",
+          "chain": "",
+          "confidence": 0.75,
+          "contract_address": "",
+          "direction": "short",
+          "entry": "",
+          "horizon": "",
+          "market": "crypto",
+          "open_price": 78113.16,
+          "post_id": "2117963620554616973",
+          "reason": "Podcast summary mentions 'his BTC and ETH shorts'; ETH short is already on record, BTC short appears new.",
+          "since": "2026-11-04T12:54:11.000Z",
+          "structure": "unknown",
+          "url": "https://x.com/blknoiz06/status/2117963620554616973"
+        },
         "ETH": {
           "asset": "ETH",
           "chain": "",
@@ -1009,14 +1025,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T01:22:45.000Z",
-          "id": "2117427227847491837",
-          "images": [
-            "https://pbs.twimg.com/media/HWKc1fIXMAAIyEa.png"
-          ],
-          "text": "hours https://t.co/d97OEhGvKH"
-        },
         {
           "created_at": "2026-11-03T02:20:00.000Z",
           "id": "2117441633713082652",
@@ -1136,10 +1144,17 @@
           "created_at": "2026-11-04T01:59:17.000Z",
           "id": "2117798807035691494",
           "text": "who on here said to short spcx if texas went blue"
+        },
+        {
+          "created_at": "2026-11-04T12:54:11.000Z",
+          "id": "2117963620554616973",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2117962472678379520/img/6Sfx_7lLbcGSSNkn.jpg"
+          ],
+          "text": "Market Bubble ep.25: my full conversation\n\nbearish market outlook, the Binance hack, Hyperliquid's ICE partnership, Zcash entry levels and his BTC and ETH shorts\n\n0:00 Bearish outlook and the Binance hack\n6:25 Hyperliquid, ICE and HYPE\n15:18 Memecoins, Zcash and AI risks\n25:12 Breakouts, Polymarket and trading setups\n41:09 Binance security, BTC and ETH shorts"
         }
       ],
       "reads": {
-        "2117427227847491837": "No call",
         "2117441633713082652": "No call",
         "2117449038979072008": "No call",
         "2117593142824436045": "No call: bearish on stocks/macro (same view as before)",
@@ -1157,7 +1172,8 @@
         "2117763070982504829": "No call",
         "2117775739437117711": "No call",
         "2117779615829950811": "No call",
-        "2117798807035691494": "No call"
+        "2117798807035691494": "No call",
+        "2117963620554616973": "TRADE SHORT BTC"
       },
       "replies": [
         {
@@ -1252,10 +1268,6 @@
         }
       ],
       "threads": {
-        "2113369912798490737": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113380587851706645": {
           "alerted": [
             "bias:crypto market:neutral"
@@ -1667,10 +1679,15 @@
         "2117798807035691494": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117963620554616973": {
+          "alerted": [
+            "trade:BTC:short"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117427227847491837": false,
         "2117441633713082652": true,
         "2117449038979072008": false,
         "2117593142824436045": true,
@@ -1704,7 +1721,8 @@
         "2117800086734553217": false,
         "2117801823969181797": false,
         "2117802153498509601": false,
-        "2117805021438091587": false
+        "2117805021438091587": false,
+        "2117963620554616973": true
       },
       "user_id": "973261472"
     },
@@ -4455,7 +4473,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2117962409663246407",
+      "last_id": "2117964067369320615",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4640,12 +4658,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T20:37:27.000Z",
-          "id": "2117717816015036722",
-          "reply_to_id": "2117669806627512566",
-          "text": "@Loopify classic"
-        },
-        {
           "created_at": "2026-11-03T20:49:16.000Z",
           "id": "2117720791173468663",
           "reply_to_id": "2117720661519225032",
@@ -4731,6 +4743,12 @@
           "id": "2117957955446272302",
           "reply_to_id": "2117907105000960159",
           "text": "@vydamo_ i got a 'nam mre in storage"
+        },
+        {
+          "created_at": "2026-11-04T12:55:58.000Z",
+          "id": "2117964067369320615",
+          "reply_to_id": "2117916698464387497",
+          "text": "@bunjil you're telling me a mid fried these terms?"
         }
       ],
       "threads": {
@@ -5158,7 +5176,6 @@
         "2117711899735519632": false,
         "2117713161625190745": false,
         "2117716352987533650": false,
-        "2117717816015036722": false,
         "2117720791173468663": false,
         "2117735838238814331": true,
         "2117756202020913334": false,
@@ -5176,7 +5193,8 @@
         "2117957672087511443": false,
         "2117957955446272302": false,
         "2117961861521932503": false,
-        "2117962409663246407": false
+        "2117962409663246407": false,
+        "2117964067369320615": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6888,5 +6906,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-04T12:50:23+00:00"
+  "updated_at": "2026-11-04T12:56:27+00:00"
 }
