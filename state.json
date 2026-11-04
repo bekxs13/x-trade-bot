@@ -6199,7 +6199,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118007664185835677",
+      "last_id": "2118008698790641737",
       "positions": {},
       "posts": [
         {
@@ -6343,12 +6343,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-12T17:30:20.000Z",
-          "id": "2109698195953692702",
-          "reply_to_id": "2109677343610425650",
-          "text": "@notthreadguy @SoskaKyle \n\nActually trading\nPhD cryptography research\n\nEnough said"
-        },
-        {
           "created_at": "2026-10-14T16:46:32.000Z",
           "id": "2110411948982460824",
           "reply_to_id": "2110321379015057547",
@@ -6431,6 +6425,12 @@
           "id": "2111892500210458979",
           "reply_to_id": "2111885357319148019",
           "text": "@koolkrypto223 @DeriveXYZ Pleb size, also not using Derive - DM\u2019d though"
+        },
+        {
+          "created_at": "2026-11-04T15:53:19.000Z",
+          "id": "2118008698790641737",
+          "reply_to_id": "2118008063638822993",
+          "text": "@0xRiver8 I used to tweet in realtime but I no longer feel obligated to do so."
         }
       ],
       "threads": {
@@ -6851,7 +6851,6 @@
         }
       },
       "trading": {
-        "2109698195953692702": false,
         "2110411948982460824": true,
         "2110572720375181652": false,
         "2110757594923200856": false,
@@ -6885,7 +6884,8 @@
         "2112613021264773136": false,
         "2112655268010238248": true,
         "2118006107863998667": false,
-        "2118007664185835677": true
+        "2118007664185835677": true,
+        "2118008698790641737": false
       },
       "user_id": "809191427645181952"
     }
@@ -6908,5 +6908,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-04T15:52:30+00:00"
+  "updated_at": "2026-11-04T15:54:19+00:00"
 }
