@@ -2110,7 +2110,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117865462067257404",
+      "last_id": "2117869930204836264",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2291,12 +2291,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-04T01:37:12.000Z",
-          "id": "2117793251210260795",
-          "reply_to_id": "2117787753886928924",
-          "text": "@midpricedog DRAM is trading, don't need to use hyperliquid lol\n\nbut seems mostly to do with blue texas?"
-        },
-        {
           "created_at": "2026-11-04T02:01:28.000Z",
           "id": "2117799358217261308",
           "reply_to_id": "2117798668740821042",
@@ -2382,6 +2376,12 @@
           "id": "2117861600233508874",
           "reply_to_id": "2117853475623321761",
           "text": "@1thousandfaces_ https://t.co/m7SHxAcihI"
+        },
+        {
+          "created_at": "2026-11-04T06:41:54.000Z",
+          "id": "2117869930204836264",
+          "reply_to_id": "2117833211916980335",
+          "text": "@bengrossbg ya this is the one night i regret not living in nyc\n\nbars must be packed"
         }
       ],
       "threads": {
@@ -2772,7 +2772,6 @@
         "2117756905355710835": false,
         "2117762594673156375": false,
         "2117772565447852179": false,
-        "2117793251210260795": true,
         "2117797779225358480": false,
         "2117799358217261308": false,
         "2117799972838265239": true,
@@ -2793,7 +2792,8 @@
         "2117859926278324290": false,
         "2117861600233508874": false,
         "2117864281806897389": false,
-        "2117865462067257404": false
+        "2117865462067257404": false,
+        "2117869930204836264": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6875,5 +6875,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-04T06:26:22+00:00"
+  "updated_at": "2026-11-04T06:42:23+00:00"
 }
