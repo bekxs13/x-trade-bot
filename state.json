@@ -2113,7 +2113,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117793251210260795",
+      "last_id": "2117797779225358480",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2133,12 +2133,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-01T17:25:14.000Z",
-          "id": "2116944670144028752",
-          "reply_to_id": "2116944584899187187",
-          "text": "@0xfdf also courtesy like or else"
-        },
         {
           "created_at": "2026-11-02T12:48:45.000Z",
           "id": "2117237476720824790",
@@ -2270,6 +2264,11 @@
             "https://pbs.twimg.com/media/HWPW6qYXgAEar8o.jpg"
           ],
           "text": "interesting https://t.co/wIoGr0ep2J"
+        },
+        {
+          "created_at": "2026-11-04T01:55:12.000Z",
+          "id": "2117797779225358480",
+          "text": "odds that elon crashes out over immigration because of blexas?"
         }
       ],
       "reads": {
@@ -2287,7 +2286,8 @@
         "2117728098250641532": "TRADE LONG AMD",
         "2117756905355710835": "No call",
         "2117762594673156375": "No call",
-        "2117772565447852179": "No call"
+        "2117772565447852179": "No call",
+        "2117797779225358480": "No call"
       },
       "replies": [
         {
@@ -2732,10 +2732,13 @@
         "2117772565447852179": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2117797779225358480": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116944670144028752": false,
         "2117237476720824790": false,
         "2117250853195174359": true,
         "2117298795105194364": false,
@@ -2769,7 +2772,8 @@
         "2117769408336540098": false,
         "2117772565447852179": false,
         "2117780977288204461": true,
-        "2117793251210260795": true
+        "2117793251210260795": true,
+        "2117797779225358480": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6848,5 +6852,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-04T01:38:18+00:00"
+  "updated_at": "2026-11-04T01:56:20+00:00"
 }
