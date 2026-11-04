@@ -6199,14 +6199,9 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118008698790641737",
+      "last_id": "2118009229705662536",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-18T03:27:36.000Z",
-          "id": "2111660440891932781",
-          "text": "My Wicked, Wicked Ways"
-        },
         {
           "created_at": "2026-10-18T15:48:16.000Z",
           "id": "2111846835467747488",
@@ -6318,10 +6313,14 @@
           "created_at": "2026-11-04T15:49:12.000Z",
           "id": "2118007664185835677",
           "text": "We've decided to close nearly all of our equity shorts into last nights emotional selling. One of our most profitable months ever. Thank you to our counterparties on those trades.\n\nWhile the next year looks challenging for equity markets, I don't think it continues to make sense to be directionally short.\n\nWhile sitting nearly 50% cash, we continue to hold large HYPE and Bitcoin positions."
+        },
+        {
+          "created_at": "2026-11-04T15:55:25.000Z",
+          "id": "2118009229705662536",
+          "text": "https://t.co/9xSmULDBM0"
         }
       ],
       "reads": {
-        "2111660440891932781": "No call",
         "2111846835467747488": "No call: bearish on stocks/macro (same view as before)",
         "2111859899441549668": "No call",
         "2111861754129227930": "No call",
@@ -6339,7 +6338,8 @@
         "2112613021264773136": "No call",
         "2112655268010238248": "No call: maybe exit  (55%, too unsure)",
         "2118006107863998667": "No call",
-        "2118007664185835677": "TRADE EXIT equity shorts \u00b7 VIEW neutral on stocks/macro"
+        "2118007664185835677": "TRADE EXIT equity shorts \u00b7 VIEW neutral on stocks/macro",
+        "2118009229705662536": "No call"
       },
       "replies": [
         {
@@ -6434,10 +6434,6 @@
         }
       ],
       "threads": {
-        "2107871088717726010": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2107893628349956318": {
           "alerted": [],
           "self_replies": 0
@@ -6848,6 +6844,10 @@
             "bias:stocks/macro:neutral"
           ],
           "self_replies": 0
+        },
+        "2118009229705662536": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -6859,7 +6859,6 @@
         "2111183217843679578": false,
         "2111505410444411366": true,
         "2111581235793588319": true,
-        "2111660440891932781": false,
         "2111846835467747488": true,
         "2111859899441549668": true,
         "2111861754129227930": true,
@@ -6885,7 +6884,8 @@
         "2112655268010238248": true,
         "2118006107863998667": false,
         "2118007664185835677": true,
-        "2118008698790641737": false
+        "2118008698790641737": false,
+        "2118009229705662536": false
       },
       "user_id": "809191427645181952"
     }
@@ -6908,5 +6908,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-04T15:54:19+00:00"
+  "updated_at": "2026-11-04T15:56:24+00:00"
 }
