@@ -2110,7 +2110,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2117799358217261308",
+      "last_id": "2117799972838265239",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2288,12 +2288,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T21:12:55.000Z",
-          "id": "2117726741133393936",
-          "reply_to_id": "2117721527365853302",
-          "text": "@probablythenuts @dmartin_trading well your original signal is still probably telling you the trade is good and to even size up"
-        },
-        {
           "created_at": "2026-11-03T21:14:04.000Z",
           "id": "2117727032385699926",
           "reply_to_id": "2117719050398966253",
@@ -2379,6 +2373,12 @@
           "id": "2117799358217261308",
           "reply_to_id": "2117798668740821042",
           "text": "@Jadam2122 https://t.co/YuH8DUQdkF"
+        },
+        {
+          "created_at": "2026-11-04T02:03:55.000Z",
+          "id": "2117799972838265239",
+          "reply_to_id": "2117799669439033575",
+          "text": "@Jadam2122 on election nights, when it swings to a non-intuitive percentage (given only small % is out), it's probably because someone did a LOT of research"
         }
       ],
       "threads": {
@@ -2751,7 +2751,6 @@
         "2117706038942351858": false,
         "2117710029377962255": false,
         "2117725167359066439": false,
-        "2117726741133393936": true,
         "2117727032385699926": false,
         "2117727620133748935": false,
         "2117728098250641532": true,
@@ -2770,7 +2769,8 @@
         "2117780977288204461": true,
         "2117793251210260795": true,
         "2117797779225358480": false,
-        "2117799358217261308": false
+        "2117799358217261308": false,
+        "2117799972838265239": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6849,5 +6849,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-03",
-  "updated_at": "2026-11-04T02:02:21+00:00"
+  "updated_at": "2026-11-04T02:04:18+00:00"
 }
