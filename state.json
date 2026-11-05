@@ -956,7 +956,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118324934166388780",
+      "last_id": "2118326735317901789",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1024,14 +1024,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T22:25:00.000Z",
-          "id": "2117744881804185707",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2117668680838664192/img/K31wM8imUjhjeRAw.jpg"
-          ],
-          "text": "i've been thinking a lot about what happens to human creativity as AI-generated content becomes more common\n\nsome of the most interesting ideas about the future originally came from artists, writers and science fiction long before engineers made them possible\n\nwhat concerns me is the possibility of everyone consuming and creating content based on the same models, trends and information\n\nover time, that could push creative thinking toward the same ideas and make genuinely original perspectives harder to find"
-        },
         {
           "created_at": "2026-11-03T22:25:01.000Z",
           "id": "2117744887873581394",
@@ -1146,10 +1138,14 @@
             "https://pbs.twimg.com/media/HWXHTrSX0AAZt8A.png"
           ],
           "text": "hype has retraced a lot of its move post-ICE &amp; https://t.co/kr3PFUAevQ announcement\n\nwhat do we think on this are we bidding into a higher low like the coinbase stablecoin partnership or is this topped for a bit https://t.co/cTIlpkxWgA"
+        },
+        {
+          "created_at": "2026-11-05T12:57:04.000Z",
+          "id": "2118326735317901789",
+          "text": "memory getting shallacked"
         }
       ],
       "reads": {
-        "2117744881804185707": "No call",
         "2117744887873581394": "No call",
         "2117763070982504829": "No call",
         "2117775739437117711": "No call",
@@ -1168,7 +1164,8 @@
         "2118292214832943386": "No call",
         "2118297342432440421": "No call",
         "2118307565620572397": "No call",
-        "2118318486485106761": "No call"
+        "2118318486485106761": "No call",
+        "2118326735317901789": "No call"
       },
       "replies": [
         {
@@ -1263,10 +1260,6 @@
         }
       ],
       "threads": {
-        "2114791460134596661": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114849515316584949": {
           "alerted": [],
           "self_replies": 0
@@ -1676,10 +1669,13 @@
         "2118318486485106761": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118326735317901789": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117744881804185707": false,
         "2117744887873581394": false,
         "2117763070982504829": false,
         "2117775739437117711": false,
@@ -1713,7 +1709,8 @@
         "2118316563031843240": false,
         "2118318486485106761": true,
         "2118324103761604781": true,
-        "2118324934166388780": true
+        "2118324934166388780": true,
+        "2118326735317901789": true
       },
       "user_id": "973261472"
     },
@@ -2119,7 +2116,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2118305489444655340",
+      "last_id": "2118326893925843243",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2139,12 +2136,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T18:27:07.000Z",
-          "id": "2117685016658358748",
-          "reply_to_id": "2117684814073446460",
-          "text": "@dmartin_trading 2) an orthogonal signal that tells you that the trade is bad now (eg, something that tells you that you got adversely selected)\n\na lot of retail-style technical analysis is just comforting yourself with precise numbers that don't mean anything"
-        },
         {
           "created_at": "2026-11-03T18:32:37.000Z",
           "id": "2117686399759794190",
@@ -2280,6 +2271,12 @@
           "id": "2118304708884574447",
           "quoted_text": "Meritz Securities (South Korea):\n\nGenuine demand reflected in orders received by memory chipmakers for 2027 and 2028 far exceeds their supply capacity. Even if the Democrats\u2019 blue wave leads to some delays and adjustments, the supply shortage is unlikely to change materially.\n\nThis year, the memory order fulfillment rate\u2014available supply capacity relative to order volume\u2014has remained in the low-to-mid 80% range, driving sharp increases in selling prices. The shortage is expected to worsen in 202",
           "text": "best i can do is another down 4% night https://t.co/xenYhORPCM"
+        },
+        {
+          "created_at": "2026-11-05T12:57:42.000Z",
+          "id": "2118326893925843243",
+          "reply_to_id": "2118304708884574447",
+          "text": "i said that's the best i can do, but what you actually get is down 6%"
         }
       ],
       "reads": {
@@ -2297,7 +2294,8 @@
         "2118036274934399259": "No call",
         "2118126606942400530": "No call",
         "2118203227347001717": "No call",
-        "2118304708884574447": "No call"
+        "2118304708884574447": "No call",
+        "2118326893925843243": "No call"
       },
       "replies": [
         {
@@ -2777,11 +2775,10 @@
         },
         "2118304708884574447": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2117685016658358748": true,
         "2117686399759794190": true,
         "2117706038942351858": false,
         "2117710029377962255": false,
@@ -2815,7 +2812,8 @@
         "2118202965425004825": false,
         "2118203227347001717": false,
         "2118304708884574447": true,
-        "2118305489444655340": false
+        "2118305489444655340": false,
+        "2118326893925843243": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6918,5 +6916,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-05T12:50:21+00:00"
+  "updated_at": "2026-11-05T12:58:32+00:00"
 }
