@@ -6195,7 +6195,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118449871963271573",
+      "last_id": "2118459158609690972",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6231,20 +6231,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T16:06:31.000Z",
-          "id": "2118374411199717864",
-          "images": [
-            "https://pbs.twimg.com/media/HWX6J1hXwAAXczz.jpg"
-          ],
-          "text": "If you're bullish on AI (I'm not) this should be a generational once in a lifetime buying opportunity.\n\nMarket is completely dislocated and automated mechanical selling is driving these names down.\n\nTempting https://t.co/Ly8gDBeTQ4"
-        },
-        {
-          "created_at": "2026-11-05T16:11:16.000Z",
-          "id": "2118375604013916197",
-          "quoted_text": "I'm 75 bid, more! more!\n\nTELL THEM THERE'S MORE BEHIND IT https://t.co/Y0UewHwDIK",
-          "text": "BOT BTC -$75.9\nBOT IBIT 70C JAN28 https://t.co/0nYf8dqPBB"
-        },
         {
           "created_at": "2026-11-05T16:13:13.000Z",
           "id": "2118376096194331058",
@@ -6357,11 +6343,20 @@
           "created_at": "2026-11-05T21:06:23.000Z",
           "id": "2118449871963271573",
           "text": "If you didn't lose all your money today you're doing better than single digit % of the American population probably"
+        },
+        {
+          "created_at": "2026-11-05T21:42:16.000Z",
+          "id": "2118458904665333980",
+          "text": "A departure from my usual gloating:\n\nIf you lost all your money today, I'm sorry that happened. However you must understand that it was deserved. It means you had critical leaks in your trading and you need to take a break. Days like this happen infrequently but they will continue to happen for entirety of your trading career. \n\nBeing levered is reserved for only the specialist of situations, you should almost never leverage. Never allow yourself to be in the position of a forced seller.\n\nIf you're having dark thoughts, or feel like you've taken 10 steps backwards and want to do something drastic, please don't. Life is far longer and opportunities are abundant.\n\nDo not trade anytime soon. Go back and reflect on what your leak was (risk management, sloppy order placement, etc.) and learn. You paid your tuition.\n\nIf you continue trading without being self critical you are not a trader you are a PROBLEM GAMBLER.\n\nInvesting, trading and the journey to becoming wealthy rarely happens overnight. The only way to become profitable is to become your own harshest critic."
+        },
+        {
+          "created_at": "2026-11-05T21:43:17.000Z",
+          "id": "2118459158609690972",
+          "reply_to_id": "2118458904665333980",
+          "text": "Check up on your friends, be there for people when they're at their lowest and be a good human. It costs almost nothing.\n\n\"Don't fucking dance\""
         }
       ],
       "reads": {
-        "2118374411199717864": "No call: bullish on ai stocks (55%, too unsure)",
-        "2118375604013916197": "TRADE LONG BTC",
         "2118376096194331058": "No call",
         "2118377694056604119": "No call: bullish on btc (65%, too unsure)",
         "2118382800302756058": "No call",
@@ -6378,7 +6373,9 @@
         "2118445738183323898": "No call",
         "2118447284123787514": "No call",
         "2118448237598183705": "No call: long SOXL (already called)",
-        "2118449871963271573": "No call"
+        "2118449871963271573": "No call",
+        "2118458904665333980": "No call",
+        "2118459158609690972": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -6473,10 +6470,6 @@
         }
       ],
       "threads": {
-        "2110367079408738509": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110367222241878277": {
           "alerted": [],
           "self_replies": 0
@@ -6888,6 +6881,10 @@
         "2118449871963271573": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118458904665333980": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
@@ -6906,8 +6903,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118374411199717864": true,
-        "2118375604013916197": true,
         "2118376096194331058": true,
         "2118377694056604119": true,
         "2118382800302756058": true,
@@ -6925,7 +6920,9 @@
         "2118447284123787514": true,
         "2118448237598183705": true,
         "2118448447263215729": false,
-        "2118449871963271573": true
+        "2118449871963271573": true,
+        "2118458904665333980": true,
+        "2118459158609690972": false
       },
       "user_id": "809191427645181952"
     }
@@ -6948,5 +6945,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T21:38:25+00:00"
+  "updated_at": "2026-11-05T21:44:21+00:00"
 }
