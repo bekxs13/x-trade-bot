@@ -950,7 +950,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118440369322869056",
+      "last_id": "2118445312285295046",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1156,12 +1156,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T15:57:55.000Z",
-          "id": "2118372246083244537",
-          "reply_to_id": "2118370781151346731",
-          "text": "@youngtilopa genuinely lol"
-        },
-        {
           "created_at": "2026-11-05T16:05:33.000Z",
           "id": "2118374167892394441",
           "reply_to_id": "2118372749546787160",
@@ -1244,6 +1238,12 @@
           "id": "2118440369322869056",
           "reply_to_id": "2118437719731011787",
           "text": "@notthreadguy tough"
+        },
+        {
+          "created_at": "2026-11-05T20:48:15.000Z",
+          "id": "2118445312285295046",
+          "reply_to_id": "2118390251647357162",
+          "text": "@tittyrespecter wya"
         }
       ],
       "threads": {
@@ -1677,7 +1677,6 @@
         "2118335042820936021": false,
         "2118353945370489099": true,
         "2118354783723786478": true,
-        "2118372246083244537": false,
         "2118374167892394441": true,
         "2118376797507063919": false,
         "2118382229923783089": false,
@@ -1695,7 +1694,8 @@
         "2118417288454156444": false,
         "2118420839804834119": false,
         "2118424262230892961": false,
-        "2118440369322869056": false
+        "2118440369322869056": false,
+        "2118445312285295046": false
       },
       "user_id": "973261472"
     },
@@ -6201,7 +6201,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118438009435504661",
+      "last_id": "2118445738183323898",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6237,14 +6237,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T19:45:52.000Z",
-          "id": "2118067221691797702",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2118067024655974400/img/LHPp20hMBeTL9LOK.jpg"
-          ],
-          "text": "NO BLACKPILLING https://t.co/VWyVUafvGJ"
-        },
         {
           "created_at": "2026-11-04T19:52:16.000Z",
           "id": "2118068833294422283",
@@ -6361,10 +6353,17 @@
           "created_at": "2026-11-05T20:19:14.000Z",
           "id": "2118438009435504661",
           "text": "Trading, even on days like today should feel boring, clinical and unemotional.\n\nWho cares if some washed up shit fund like Walleye blew up. Nobody has cared about them for a decade."
+        },
+        {
+          "created_at": "2026-11-05T20:49:57.000Z",
+          "id": "2118445738183323898",
+          "images": [
+            "https://pbs.twimg.com/media/HWY7FurWUAA99aP.jpg"
+          ],
+          "text": "Wow you're telling me this is the fund that blew up and shut down their equities trading division?\n\nColor me surprised https://t.co/EvmmibYGBg"
         }
       ],
       "reads": {
-        "2118067221691797702": "No call",
         "2118068833294422283": "No call",
         "2118071753922805977": "No call",
         "2118369703085449500": "No call",
@@ -6383,7 +6382,8 @@
         "2118428712685211862": "TRADE LONG SOXL \u00b7 VIEW bullish on stocks/macro",
         "2118433352483275030": "No call",
         "2118434125497463082": "No call",
-        "2118438009435504661": "No call"
+        "2118438009435504661": "No call",
+        "2118445738183323898": "No call"
       },
       "replies": [
         {
@@ -6478,10 +6478,6 @@
         }
       ],
       "threads": {
-        "2110363201078788487": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110364014827983245": {
           "alerted": [],
           "self_replies": 0
@@ -6893,6 +6889,10 @@
         "2118438009435504661": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118445738183323898": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -6910,7 +6910,6 @@
         "2111892500210458979": true,
         "2118008698790641737": false,
         "2118009522807505340": true,
-        "2118067221691797702": true,
         "2118068833294422283": false,
         "2118071753922805977": true,
         "2118072324658192831": false,
@@ -6930,7 +6929,8 @@
         "2118428712685211862": true,
         "2118433352483275030": true,
         "2118434125497463082": false,
-        "2118438009435504661": true
+        "2118438009435504661": true,
+        "2118445738183323898": true
       },
       "user_id": "809191427645181952"
     }
@@ -6953,5 +6953,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T20:38:20+00:00"
+  "updated_at": "2026-11-05T20:50:25+00:00"
 }
