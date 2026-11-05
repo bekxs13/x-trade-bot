@@ -956,7 +956,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118296685059113121",
+      "last_id": "2118297342432440421",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1024,14 +1024,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T20:08:00.000Z",
-          "id": "2117710404558442877",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2117667338111881216/img/3Kzv-F0HQrmgXBrX.jpg"
-          ],
-          "text": "one of the things concerning me about AI stocks right now is how they're reacting to good earnings\n\ncompanies are putting up strong revenue numbers and beating expectations, but some of these stocks are still struggling to make new highs\n\nMicron is a good example, the Q3 earnings beat was impressive, yet the stock failed to sustain its move higher\n\nthere's also a lot of uncertainty around future AI IPOs, valuations and how much additional supply the market can absorb\n\nat the same time, a major model breakthrough could completely change sentiment within a few months\n\ni expect AI equities to remain difficult to trade as the market tries to price in both the growth and the risks"
-        },
         {
           "created_at": "2026-11-03T20:30:30.000Z",
           "id": "2117716067510259904",
@@ -1146,10 +1138,14 @@
           "created_at": "2026-11-05T10:39:54.000Z",
           "id": "2118292214832943386",
           "text": "how we living my friends"
+        },
+        {
+          "created_at": "2026-11-05T11:00:17.000Z",
+          "id": "2118297342432440421",
+          "text": "what are the best community coins?"
         }
       ],
       "reads": {
-        "2117710404558442877": "No call: bearish on ai stocks (65%, too unsure)",
         "2117716067510259904": "No call",
         "2117728157281538212": "No call",
         "2117744881804185707": "No call",
@@ -1168,7 +1164,8 @@
         "2118179608251990523": "No call",
         "2118200824119935326": "No call",
         "2118292132876480727": "TRADE LONG GOLD",
-        "2118292214832943386": "No call"
+        "2118292214832943386": "No call",
+        "2118297342432440421": "No call"
       },
       "replies": [
         {
@@ -1263,10 +1260,6 @@
         }
       ],
       "threads": {
-        "2114711547234652251": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114719900367466659": {
           "alerted": [],
           "self_replies": 0
@@ -1676,10 +1669,13 @@
         "2118292214832943386": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118297342432440421": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117710404558442877": true,
         "2117716067510259904": true,
         "2117728157281538212": false,
         "2117744881804185707": false,
@@ -1713,7 +1709,8 @@
         "2118294938370691460": true,
         "2118295112669438151": false,
         "2118296535213519125": false,
-        "2118296685059113121": true
+        "2118296685059113121": true,
+        "2118297342432440421": true
       },
       "user_id": "973261472"
     },
@@ -6916,5 +6913,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-05T10:58:19+00:00"
+  "updated_at": "2026-11-05T11:02:23+00:00"
 }
