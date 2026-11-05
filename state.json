@@ -6201,7 +6201,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118447284123787514",
+      "last_id": "2118448237598183705",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6237,11 +6237,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T20:03:52.000Z",
-          "id": "2118071753922805977",
-          "text": "See you guys at the next market bottom or end of year.\n\nGood luck."
-        },
         {
           "created_at": "2026-11-05T15:47:49.000Z",
           "id": "2118369703085449500",
@@ -6358,10 +6353,15 @@
           "created_at": "2026-11-05T20:56:06.000Z",
           "id": "2118447284123787514",
           "text": "Color from the Ramcap desk today\n\n\"Anyone interested in some lightly used chip stocks?\"\n\n- @SoskaKyle"
+        },
+        {
+          "created_at": "2026-11-05T20:59:53.000Z",
+          "id": "2118448237598183705",
+          "reply_to_id": "2118428712685211862",
+          "text": "BOT more SOXL"
         }
       ],
       "reads": {
-        "2118071753922805977": "No call",
         "2118369703085449500": "No call",
         "2118374014204977283": "No call",
         "2118374411199717864": "No call: bullish on ai stocks (55%, too unsure)",
@@ -6380,7 +6380,8 @@
         "2118434125497463082": "No call",
         "2118438009435504661": "No call",
         "2118445738183323898": "No call",
-        "2118447284123787514": "No call"
+        "2118447284123787514": "No call",
+        "2118448237598183705": "No call: long SOXL (already called)"
       },
       "replies": [
         {
@@ -6869,7 +6870,7 @@
             "trade:SOXL:long",
             "bias:stocks/macro:bullish"
           ],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2118433352483275030": {
           "alerted": [],
@@ -6907,7 +6908,6 @@
         "2111892500210458979": true,
         "2118008698790641737": false,
         "2118009522807505340": true,
-        "2118071753922805977": true,
         "2118072324658192831": false,
         "2118369703085449500": false,
         "2118374014204977283": true,
@@ -6927,7 +6927,8 @@
         "2118434125497463082": false,
         "2118438009435504661": true,
         "2118445738183323898": true,
-        "2118447284123787514": true
+        "2118447284123787514": true,
+        "2118448237598183705": true
       },
       "user_id": "809191427645181952"
     }
@@ -6950,5 +6951,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T20:58:30+00:00"
+  "updated_at": "2026-11-05T21:00:28+00:00"
 }
