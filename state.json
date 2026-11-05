@@ -956,7 +956,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118316563031843240",
+      "last_id": "2118318486485106761",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1024,12 +1024,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T21:18:32.000Z",
-          "id": "2117728157281538212",
-          "quoted_text": "Red Sweep.\n\nIf I am wrong I will delete this tweet",
-          "text": "75% chance dems sweep\n\nhttps://t.co/V4OsexyNpR https://t.co/M3XPfd4GMK"
-        },
         {
           "created_at": "2026-11-03T22:25:00.000Z",
           "id": "2117744881804185707",
@@ -1143,10 +1137,18 @@
           "created_at": "2026-11-05T11:40:54.000Z",
           "id": "2118307565620572397",
           "text": "bats"
+        },
+        {
+          "created_at": "2026-11-05T12:24:18.000Z",
+          "id": "2118318486485106761",
+          "images": [
+            "https://pbs.twimg.com/media/HWXHSUBW8AA4yBu.png",
+            "https://pbs.twimg.com/media/HWXHTrSX0AAZt8A.png"
+          ],
+          "text": "hype has retraced a lot of its move post-ICE &amp; https://t.co/kr3PFUAevQ announcement\n\nwhat do we think on this are we bidding into a higher low like the coinbase stablecoin partnership or is this topped for a bit https://t.co/cTIlpkxWgA"
         }
       ],
       "reads": {
-        "2117728157281538212": "No call",
         "2117744881804185707": "No call",
         "2117744887873581394": "No call",
         "2117763070982504829": "No call",
@@ -1165,7 +1167,8 @@
         "2118292132876480727": "TRADE LONG GOLD",
         "2118292214832943386": "No call",
         "2118297342432440421": "No call",
-        "2118307565620572397": "No call"
+        "2118307565620572397": "No call",
+        "2118318486485106761": "No call"
       },
       "replies": [
         {
@@ -1260,10 +1263,6 @@
         }
       ],
       "threads": {
-        "2114744563055440320": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114791460134596661": {
           "alerted": [],
           "self_replies": 0
@@ -1673,10 +1672,13 @@
         "2118307565620572397": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118318486485106761": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117728157281538212": false,
         "2117744881804185707": false,
         "2117744887873581394": false,
         "2117763070982504829": false,
@@ -1710,7 +1712,8 @@
         "2118311442441241038": true,
         "2118313391672463396": true,
         "2118315030219547027": true,
-        "2118316563031843240": false
+        "2118316563031843240": false,
+        "2118318486485106761": true
       },
       "user_id": "973261472"
     },
@@ -6915,5 +6918,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-05T12:18:18+00:00"
+  "updated_at": "2026-11-05T12:26:24+00:00"
 }
