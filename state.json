@@ -4475,7 +4475,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118316624675520795",
+      "last_id": "2118328374984855889",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4511,12 +4511,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T16:25:57.000Z",
-          "id": "2117654525091987845",
-          "quoted_text": "Crypto streamer Threadguy claims superiority over the rest of the human race after eating a singular bite of an MRE from the 1980s\n\n\"WE'RE SURVIVING. I WILL SURVIVE. I WILL PERSEVERE. MY FAMILY WILL SURVIVE\" https://t.co/nFReEkxEuE",
-          "text": "i will survive. https://t.co/awizBHjUFj"
-        },
         {
           "created_at": "2026-11-03T19:16:08.000Z",
           "id": "2117697352052142314",
@@ -4627,10 +4621,14 @@
           "created_at": "2026-11-05T01:50:01.000Z",
           "id": "2118158865028227260",
           "text": "my deepest fear is not holding enough when the takeoff happens"
+        },
+        {
+          "created_at": "2026-11-05T13:03:35.000Z",
+          "id": "2118328374984855889",
+          "text": "if you really sit down and think about it the whole unstoppable money cryptocurrency thing is obviously important"
         }
       ],
       "reads": {
-        "2117654525091987845": "No call",
         "2117697352052142314": "No call",
         "2117698248848630047": "No call",
         "2117711899735519632": "No call",
@@ -4647,7 +4645,8 @@
         "2118110003403915731": "No call",
         "2118126854775153000": "No call",
         "2118141847952408653": "No call",
-        "2118158865028227260": "No call: bullish on crypto market (55%, too unsure)"
+        "2118158865028227260": "No call: bullish on crypto market (55%, too unsure)",
+        "2118328374984855889": "No call"
       },
       "replies": [
         {
@@ -4742,10 +4741,6 @@
         }
       ],
       "threads": {
-        "2112563678453125605": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112590076765216881": {
           "alerted": [],
           "self_replies": 1
@@ -5147,10 +5142,13 @@
         "2118158865028227260": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118328374984855889": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117654525091987845": false,
         "2117697352052142314": true,
         "2117698248848630047": true,
         "2117699961223561547": false,
@@ -5184,7 +5182,8 @@
         "2118183106322571588": false,
         "2118183710487134301": false,
         "2118185568815182043": false,
-        "2118316624675520795": false
+        "2118316624675520795": false,
+        "2118328374984855889": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6916,5 +6915,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T13:00:27+00:00"
+  "updated_at": "2026-11-05T13:04:24+00:00"
 }
