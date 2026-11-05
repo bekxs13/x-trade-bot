@@ -2101,7 +2101,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2118427393853370730",
+      "last_id": "2118434408227090738",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2121,14 +2121,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T23:35:23.000Z",
-          "id": "2117762594673156375",
-          "images": [
-            "https://pbs.twimg.com/media/HWPN2tNWkAEYInL.png"
-          ],
-          "text": "https://t.co/0hF7zGwriL"
-        },
         {
           "created_at": "2026-11-04T00:15:00.000Z",
           "id": "2117772565447852179",
@@ -2258,10 +2250,15 @@
           "id": "2118400995751264387",
           "quoted_text": "Hearing Lone Pine now -30% YTD from +40% earlier this year, potentially converting to a family office. Any truth to this?",
           "text": "wow?????????????? https://t.co/UUULrz8J47"
+        },
+        {
+          "created_at": "2026-11-05T20:04:56.000Z",
+          "id": "2118434408227090738",
+          "quoted_text": "Engineers Gate has cut the majority of a team that combined quantitative and fundamental stock analysis https://t.co/BbB3TF03y8",
+          "text": "woof https://t.co/4U5ZusvedH"
         }
       ],
       "reads": {
-        "2117762594673156375": "No call",
         "2117772565447852179": "No call",
         "2117797779225358480": "No call",
         "2117850121392238825": "No call",
@@ -2278,7 +2275,8 @@
         "2118356622154014850": "No call",
         "2118362882605805903": "No call",
         "2118369396943200472": "No call",
-        "2118400995751264387": "No call"
+        "2118400995751264387": "No call",
+        "2118434408227090738": "No call"
       },
       "replies": [
         {
@@ -2775,10 +2773,13 @@
         "2118400995751264387": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118434408227090738": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117762594673156375": false,
         "2117772565447852179": false,
         "2117797779225358480": false,
         "2117850121392238825": true,
@@ -2812,7 +2813,8 @@
         "2118395768469893284": true,
         "2118396983106847194": false,
         "2118400995751264387": true,
-        "2118427393853370730": true
+        "2118427393853370730": true,
+        "2118434408227090738": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6953,5 +6955,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T20:04:22+00:00"
+  "updated_at": "2026-11-05T20:06:24+00:00"
 }
