@@ -4475,7 +4475,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118332147010568590",
+      "last_id": "2118333556623651273",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4650,12 +4650,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T01:34:01.000Z",
-          "id": "2118154838416781735",
-          "reply_to_id": "2118154012633505925",
-          "text": "@ibuprod lmfaoooo"
-        },
-        {
           "created_at": "2026-11-05T01:37:30.000Z",
           "id": "2118155715961340018",
           "reply_to_id": "2118155254944690223",
@@ -4738,6 +4732,12 @@
           "id": "2118332147010568590",
           "reply_to_id": "2118331788053360710",
           "text": "@0xvsr honestly think it has zero impact"
+        },
+        {
+          "created_at": "2026-11-05T13:24:11.000Z",
+          "id": "2118333556623651273",
+          "reply_to_id": "2118333381586939963",
+          "text": "@0xvsr point is the larger purpose is so much bigger than solana memecoins it will not matter in the grand scheme"
         }
       ],
       "threads": {
@@ -5166,7 +5166,6 @@
         "2118110003403915731": false,
         "2118126854775153000": false,
         "2118141847952408653": false,
-        "2118154838416781735": false,
         "2118155715961340018": false,
         "2118158865028227260": true,
         "2118159081248792641": false,
@@ -5183,7 +5182,8 @@
         "2118328681831756007": true,
         "2118328896248483994": false,
         "2118330374451310713": false,
-        "2118332147010568590": false
+        "2118332147010568590": false,
+        "2118333556623651273": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6915,5 +6915,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T13:22:22+00:00"
+  "updated_at": "2026-11-05T13:26:20+00:00"
 }
