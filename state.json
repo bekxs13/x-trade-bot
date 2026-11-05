@@ -956,7 +956,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118372246083244537",
+      "last_id": "2118374167892394441",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1167,12 +1167,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T12:49:55.000Z",
-          "id": "2118324934166388780",
-          "reply_to_id": "2118302195422462436",
-          "text": "if you havent noticed an uptick in their comms since the summer & how theyve been responding to community input then idk what to tell you\n\n& all of the criteria + activity that would likely increase the allo of a possible future airdrop ct keeps hating on while they're giving away tens of millions of dollars monthly, i dont really understand this place"
-        },
-        {
           "created_at": "2026-11-05T13:11:31.000Z",
           "id": "2118330369087025186",
           "reply_to_id": "2118318299872411712",
@@ -1255,6 +1249,12 @@
           "id": "2118372246083244537",
           "reply_to_id": "2118370781151346731",
           "text": "@youngtilopa genuinely lol"
+        },
+        {
+          "created_at": "2026-11-05T16:05:33.000Z",
+          "id": "2118374167892394441",
+          "reply_to_id": "2118372749546787160",
+          "text": "@N01Dude @FabianoSolana look at equities man"
         }
       ],
       "threads": {
@@ -1686,7 +1686,6 @@
         "2118297342432440421": true,
         "2118307565620572397": false,
         "2118318486485106761": true,
-        "2118324934166388780": true,
         "2118326735317901789": true,
         "2118330369087025186": false,
         "2118330461105934669": false,
@@ -1706,7 +1705,8 @@
         "2118367953192354104": false,
         "2118368022419448310": false,
         "2118370448006336704": false,
-        "2118372246083244537": false
+        "2118372246083244537": false,
+        "2118374167892394441": true
       },
       "user_id": "973261472"
     },
@@ -4481,7 +4481,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118363176601330012",
+      "last_id": "2118374667962417403",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4517,11 +4517,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T02:35:40.000Z",
-          "id": "2117807965851836807",
-          "text": "first hour in a 10+ years trump hasn't posted"
-        },
         {
           "created_at": "2026-11-04T12:30:33.000Z",
           "id": "2117957672087511443",
@@ -4630,10 +4625,18 @@
           "created_at": "2026-11-05T15:21:53.000Z",
           "id": "2118363176601330012",
           "text": "feels like we're due for another massive internet hack"
+        },
+        {
+          "created_at": "2026-11-05T16:07:32.000Z",
+          "id": "2118374667962417403",
+          "images": [
+            "https://pbs.twimg.com/media/HWX6h0hW8AASBAj.jpg"
+          ],
+          "quoted_text": "https://t.co/2QqbZ7u9uy",
+          "text": "https://t.co/YIAYSFWXTe https://t.co/6nucl8JVnZ"
         }
       ],
       "reads": {
-        "2117807965851836807": "No call",
         "2117957672087511443": "No call",
         "2117961861521932503": "No call",
         "2117962409663246407": "No call",
@@ -4652,15 +4655,10 @@
         "2118353320448344198": "No call: bearish on ai stocks (60%, too unsure)",
         "2118359296937497003": "No call",
         "2118360792768598275": "No call",
-        "2118363176601330012": "No call"
+        "2118363176601330012": "No call",
+        "2118374667962417403": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-05T01:50:53.000Z",
-          "id": "2118159081248792641",
-          "reply_to_id": "2118158977200775650",
-          "text": "@nyoungdumb fuck man"
-        },
         {
           "created_at": "2026-11-05T01:53:10.000Z",
           "id": "2118159658636698069",
@@ -4744,17 +4742,15 @@
           "id": "2118334501734789149",
           "reply_to_id": "2118283975924019701",
           "text": "@bunjil switch gyms"
+        },
+        {
+          "created_at": "2026-11-05T16:05:02.000Z",
+          "id": "2118374036917084476",
+          "reply_to_id": "2118374014204977283",
+          "text": "@ThinkingUSD wow"
         }
       ],
       "threads": {
-        "2112705823197855757": {
-          "alerted": [
-            "bias:stocks/macro:bearish",
-            "trade:ZEC:long",
-            "bias:crypto market:bullish"
-          ],
-          "self_replies": 1
-        },
         "2112886312210747578": {
           "alerted": [],
           "self_replies": 0
@@ -5152,10 +5148,13 @@
         "2118363176601330012": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118374667962417403": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117807965851836807": false,
         "2117957672087511443": false,
         "2117961861521932503": false,
         "2117962409663246407": false,
@@ -5168,7 +5167,6 @@
         "2118126854775153000": false,
         "2118141847952408653": false,
         "2118158865028227260": true,
-        "2118159081248792641": false,
         "2118159658636698069": false,
         "2118159915319435535": false,
         "2118170861777891491": false,
@@ -5189,7 +5187,9 @@
         "2118353320448344198": true,
         "2118359296937497003": true,
         "2118360792768598275": true,
-        "2118363176601330012": false
+        "2118363176601330012": false,
+        "2118374036917084476": false,
+        "2118374667962417403": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6205,20 +6205,9 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118369703085449500",
+      "last_id": "2118374411199717864",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-18T17:42:40.000Z",
-          "id": "2111875627015966918",
-          "reply_to_id": "2111874363234426989",
-          "text": "@koolkrypto223 Honestly this CSP is so nonsensical it's the kind of trade you take after/while you're dumping your entire spot bag"
-        },
-        {
-          "created_at": "2026-10-18T19:13:22.000Z",
-          "id": "2111898450333757538",
-          "text": "Every time I think trading will only get more difficult I remember there\u2019s people long Ethereum in 2026"
-        },
         {
           "created_at": "2026-10-18T23:06:23.000Z",
           "id": "2111957092781240827",
@@ -6328,10 +6317,22 @@
           "created_at": "2026-11-05T15:47:49.000Z",
           "id": "2118369703085449500",
           "text": "Patience"
+        },
+        {
+          "created_at": "2026-11-05T16:04:57.000Z",
+          "id": "2118374014204977283",
+          "text": "Total Jane Street destruction"
+        },
+        {
+          "created_at": "2026-11-05T16:06:31.000Z",
+          "id": "2118374411199717864",
+          "images": [
+            "https://pbs.twimg.com/media/HWX6J1hXwAAXczz.jpg"
+          ],
+          "text": "If you're bullish on AI (I'm not) this should be a generational once in a lifetime buying opportunity.\n\nMarket is completely dislocated and automated mechanical selling is driving these names down.\n\nTempting https://t.co/Ly8gDBeTQ4"
         }
       ],
       "reads": {
-        "2111898450333757538": "VIEW bearish on eth",
         "2111957092781240827": "No call",
         "2112182070260965441": "No call: bearish on stocks/macro (65%, too unsure)",
         "2112229752572424657": "No call: bearish on stocks/macro (60%, too unsure)",
@@ -6349,7 +6350,9 @@
         "2118067221691797702": "No call",
         "2118068833294422283": "No call",
         "2118071753922805977": "No call",
-        "2118369703085449500": "No call"
+        "2118369703085449500": "No call",
+        "2118374014204977283": "No call",
+        "2118374411199717864": "No call: bullish on ai stocks (55%, too unsure)"
       },
       "replies": [
         {
@@ -6444,16 +6447,6 @@
         }
       ],
       "threads": {
-        "2108403707645764048": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2108574034916999548": {
-          "alerted": [
-            "bias:stocks/macro:bearish"
-          ],
-          "self_replies": 0
-        },
         "2109664493479637119": {
           "alerted": [],
           "self_replies": 0
@@ -6858,6 +6851,14 @@
         "2118369703085449500": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118374014204977283": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2118374411199717864": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -6871,10 +6872,8 @@
         "2111870195140554867": true,
         "2111873335772541162": true,
         "2111874363234426989": true,
-        "2111875627015966918": true,
         "2111875879865389103": false,
         "2111892500210458979": true,
-        "2111898450333757538": true,
         "2111957092781240827": true,
         "2112182070260965441": true,
         "2112229752572424657": true,
@@ -6895,7 +6894,9 @@
         "2118068833294422283": false,
         "2118071753922805977": true,
         "2118072324658192831": false,
-        "2118369703085449500": false
+        "2118369703085449500": false,
+        "2118374014204977283": true,
+        "2118374411199717864": true
       },
       "user_id": "809191427645181952"
     }
@@ -6918,5 +6919,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T15:58:21+00:00"
+  "updated_at": "2026-11-05T16:08:37+00:00"
 }
