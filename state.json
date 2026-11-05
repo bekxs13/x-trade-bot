@@ -4478,7 +4478,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118337595285356578",
+      "last_id": "2118353320448344198",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4514,12 +4514,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T19:26:30.000Z",
-          "id": "2117699961223561547",
-          "reply_to_id": "2117698248848630047",
-          "text": "who even are they? other then the fund guys"
-        },
         {
           "created_at": "2026-11-03T20:13:56.000Z",
           "id": "2117711899735519632",
@@ -4628,6 +4622,12 @@
           "created_at": "2026-11-05T13:40:14.000Z",
           "id": "2118337595285356578",
           "text": "MARKET OPEN: The AI Trade is FINISHED, PRIVACY is the ONLY WAY OUT, MIDTERMS UPDATE https://t.co/S7ZRm8Tt44"
+        },
+        {
+          "created_at": "2026-11-05T14:42:43.000Z",
+          "id": "2118353320448344198",
+          "quoted_text": "I think this is the time for AI companies to appoint representatives on X.\n\nTo directly combat misleading AI narratives affecting ecosystem valuations and their financing ability.\n\nThe financial incentives to amplify overblown fears are enormous.\n\nBoth from well-capitalized executives who benefit from smaller competitors collapsing.\n\nAnd from firms aiming to profit off deleveraging the AI trade.\n\nIt shouldn\u2019t take quarterly earnings to finally push back against false rumors of oversupply or buil",
+          "text": "top of the first inning https://t.co/VVaCrD9eA7"
         }
       ],
       "reads": {
@@ -4648,7 +4648,8 @@
         "2118158865028227260": "No call: bullish on crypto market (55%, too unsure)",
         "2118328374984855889": "No call",
         "2118328681831756007": "No call",
-        "2118337595285356578": "No call"
+        "2118337595285356578": "No call",
+        "2118353320448344198": "No call: bearish on ai stocks (60%, too unsure)"
       },
       "replies": [
         {
@@ -4743,10 +4744,6 @@
         }
       ],
       "threads": {
-        "2112595558217240973": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112602884810449161": {
           "alerted": [],
           "self_replies": 1
@@ -5148,10 +5145,13 @@
         "2118337595285356578": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118353320448344198": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117699961223561547": false,
         "2117711899735519632": false,
         "2117713161625190745": false,
         "2117716352987533650": false,
@@ -5185,7 +5185,8 @@
         "2118332147010568590": false,
         "2118333556623651273": true,
         "2118334501734789149": false,
-        "2118337595285356578": true
+        "2118337595285356578": true,
+        "2118353320448344198": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6917,5 +6918,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T14:42:21+00:00"
+  "updated_at": "2026-11-05T14:44:28+00:00"
 }
