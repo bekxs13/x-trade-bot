@@ -6203,7 +6203,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118385559257162157",
+      "last_id": "2118389004932673684",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6223,14 +6223,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T13:57:51.000Z",
-          "id": "2112543824778256848",
-          "images": [
-            "https://pbs.twimg.com/media/HVFDX7wXgAAikaY.jpg"
-          ],
-          "text": "Pretty clean chart just chilling at support https://t.co/b574XMVSEh"
-        },
         {
           "created_at": "2026-10-20T14:00:57.000Z",
           "id": "2112544605304672382",
@@ -6344,10 +6336,14 @@
             "https://pbs.twimg.com/media/HWYEbKnWgAAXDic.png"
           ],
           "text": "James C. Flood mode https://t.co/LOHCvTorpO"
+        },
+        {
+          "created_at": "2026-11-05T17:04:31.000Z",
+          "id": "2118389004932673684",
+          "text": "If all you do is buy from forced sellers and never become a forced seller you\u2019re going to be a very rich guy"
         }
       ],
       "reads": {
-        "2112543824778256848": "No call: bullish on HYPE (60%, too unsure)",
         "2112544605304672382": "No call",
         "2112567854172446741": "No call",
         "2112613021264773136": "No call",
@@ -6366,7 +6362,8 @@
         "2118376096194331058": "No call",
         "2118377694056604119": "No call: bullish on btc (65%, too unsure)",
         "2118382800302756058": "No call",
-        "2118385559257162157": "No call"
+        "2118385559257162157": "No call",
+        "2118389004932673684": "No call"
       },
       "replies": [
         {
@@ -6461,10 +6458,6 @@
         }
       ],
       "threads": {
-        "2109858600910983320": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109858808428376287": {
           "alerted": [],
           "self_replies": 0
@@ -6873,6 +6866,10 @@
         "2118385559257162157": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118389004932673684": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -6888,7 +6885,6 @@
         "2111874363234426989": true,
         "2111875879865389103": false,
         "2111892500210458979": true,
-        "2112543824778256848": true,
         "2112544605304672382": true,
         "2112567854172446741": true,
         "2112613021264773136": false,
@@ -6910,7 +6906,8 @@
         "2118376096194331058": true,
         "2118377694056604119": true,
         "2118382800302756058": true,
-        "2118385559257162157": false
+        "2118385559257162157": false,
+        "2118389004932673684": true
       },
       "user_id": "809191427645181952"
     }
@@ -6933,5 +6930,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T17:02:28+00:00"
+  "updated_at": "2026-11-05T17:06:22+00:00"
 }
