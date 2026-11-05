@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118488687982027254",
+      "last_id": "2118491617556598786",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,14 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T22:37:04.000Z",
-          "id": "2118110308921389144",
-          "images": [
-            "https://pbs.twimg.com/media/HWUKGPSboAElD8_.jpg"
-          ],
-          "text": "BTC +5%, thank you democrats! https://t.co/IzSHbZaBom"
-        },
         {
           "created_at": "2026-11-04T22:40:42.000Z",
           "id": "2118111221484544046",
@@ -268,10 +260,17 @@
           "created_at": "2026-11-05T23:40:37.000Z",
           "id": "2118488687982027254",
           "text": "Ok just cause I vaporized 300 racks into btc calls yesterday doesn\u2019t mean I can\u2019t bear post all the AI stocks I\u2019ve been bear posting for 6 months!"
+        },
+        {
+          "created_at": "2026-11-05T23:52:15.000Z",
+          "id": "2118491617556598786",
+          "images": [
+            "https://pbs.twimg.com/media/HWZk5OeagAEVRvB.jpg"
+          ],
+          "text": "Based alert https://t.co/sQTLdTYwtc"
         }
       ],
       "reads": {
-        "2118110308921389144": "No call",
         "2118111221484544046": "No call: maybe long BTC (60%, too unsure)",
         "2118131354600886509": "No call: bullish on btc (65%, too unsure)",
         "2118221380173066301": "No call",
@@ -288,7 +287,8 @@
         "2118486453902782877": "No call",
         "2118487955602096436": "No call",
         "2118488204299186189": "No call",
-        "2118488687982027254": "TRADE LONG BTC \u00b7 VIEW bearish on semis/ai stocks"
+        "2118488687982027254": "TRADE LONG BTC \u00b7 VIEW bearish on semis/ai stocks",
+        "2118491617556598786": "No call"
       },
       "replies": [
         {
@@ -383,10 +383,6 @@
         }
       ],
       "threads": {
-        "2113011860228260141": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113047882542534722": {
           "alerted": [],
           "self_replies": 1
@@ -787,6 +783,10 @@
             "bias:semis/ai stocks:bearish"
           ],
           "self_replies": 0
+        },
+        "2118491617556598786": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -795,7 +795,6 @@
         "2117541456626004382": true,
         "2117550004063948920": false,
         "2117552098749649129": false,
-        "2118110308921389144": true,
         "2118111221484544046": true,
         "2118131354600886509": true,
         "2118134210104021226": true,
@@ -824,7 +823,8 @@
         "2118486453902782877": false,
         "2118487955602096436": true,
         "2118488204299186189": true,
-        "2118488687982027254": true
+        "2118488687982027254": true,
+        "2118491617556598786": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6990,5 +6990,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T23:52:19+00:00"
+  "updated_at": "2026-11-05T23:54:24+00:00"
 }
