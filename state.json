@@ -2110,7 +2110,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2118388191757508784",
+      "last_id": "2118395768469893284",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2291,12 +2291,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-04T06:02:09.000Z",
-          "id": "2117859926278324290",
-          "reply_to_id": "2117855750181789955",
-          "text": "@matsonj https://t.co/nXWBHOlsMO\n\nbear in mind abbott support moratoriums as well"
-        },
-        {
           "created_at": "2026-11-04T06:08:48.000Z",
           "id": "2117861600233508874",
           "reply_to_id": "2117853475623321761",
@@ -2382,6 +2376,12 @@
           "id": "2118388191757508784",
           "reply_to_id": "2118370073656340480",
           "text": "@itsmartingale yeah that seems off and probably pulled off a form ADV"
+        },
+        {
+          "created_at": "2026-11-05T17:31:23.000Z",
+          "id": "2118395768469893284",
+          "reply_to_id": "2118206637886558469",
+          "text": "@travelinverted doubt it, this order was just sitting stale on the book"
         }
       ],
       "threads": {
@@ -2791,7 +2791,6 @@
         "2117854033281003754": false,
         "2117857795932672465": false,
         "2117859288953803111": false,
-        "2117859926278324290": false,
         "2117861600233508874": false,
         "2117864281806897389": false,
         "2117865462067257404": false,
@@ -2817,7 +2816,8 @@
         "2118369643110752660": false,
         "2118370841411166301": false,
         "2118387965542150223": false,
-        "2118388191757508784": false
+        "2118388191757508784": false,
+        "2118395768469893284": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6930,5 +6930,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T17:30:27+00:00"
+  "updated_at": "2026-11-05T17:32:20+00:00"
 }
