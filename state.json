@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118486453902782877",
+      "last_id": "2118487955602096436",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,11 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T18:08:28.000Z",
-          "id": "2117680324457214400",
-          "text": "Instinct has raised at a 2 trillion dollar valuation"
-        },
         {
           "created_at": "2026-11-04T01:05:20.000Z",
           "id": "2117785230291730738",
@@ -251,10 +246,14 @@
           "id": "2118486453902782877",
           "reply_to_id": "2110499057219383709",
           "text": "Lol"
+        },
+        {
+          "created_at": "2026-11-05T23:37:42.000Z",
+          "id": "2118487955602096436",
+          "text": "Micron now up over 120% YTD"
         }
       ],
       "reads": {
-        "2117680324457214400": "No call",
         "2117785230291730738": "No call",
         "2117925165116064060": "No call",
         "2118110308921389144": "No call",
@@ -271,7 +270,8 @@
         "2118467299153944660": "No call",
         "2118475957933846740": "No call",
         "2118483280203002142": "No call",
-        "2118486453902782877": "No call"
+        "2118486453902782877": "No call",
+        "2118487955602096436": "No call"
       },
       "replies": [
         {
@@ -366,10 +366,6 @@
         }
       ],
       "threads": {
-        "2112926995025990106": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2112994223343501334": {
           "alerted": [],
           "self_replies": 0
@@ -767,6 +763,10 @@
         "2118483280203002142": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118487955602096436": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -775,7 +775,6 @@
         "2117541456626004382": true,
         "2117550004063948920": false,
         "2117552098749649129": false,
-        "2117680324457214400": false,
         "2117785230291730738": false,
         "2117925165116064060": false,
         "2118110308921389144": true,
@@ -804,7 +803,8 @@
         "2118467299153944660": true,
         "2118475957933846740": true,
         "2118483280203002142": true,
-        "2118486453902782877": false
+        "2118486453902782877": false,
+        "2118487955602096436": true
       },
       "user_id": "1446541960181858315"
     },
@@ -883,6 +883,15 @@
           "stance": "bearish",
           "updated_at": "2026-10-13T15:19:47.000Z"
         },
+        "oil": {
+          "market": "macro",
+          "post_id": "2118488028339650745",
+          "reason": "Says there's a 'reasonable case for oil moving higher again' if the Hormuz disruption continues, with WTI near a key historical support level on the chart.",
+          "scope": "oil",
+          "since": "2026-11-05",
+          "stance": "bullish",
+          "updated_at": "2026-11-05T23:38:00.000Z"
+        },
         "paper": {
           "market": "crypto",
           "post_id": "2112028564987990046",
@@ -956,7 +965,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118482799456108930",
+      "last_id": "2118488028339650745",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1024,12 +1033,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T04:36:45.000Z",
-          "id": "2118200824119935326",
-          "quoted_text": "ppl are greedy, ppl are also lazy\n\nwhat combines these two things?\n\npassive income + crypto\n\n???????\n\nit doesnt get much simpler than this",
-          "text": "what the fuck could i have possibly been talking about https://t.co/dOsyfZU3xO"
-        },
         {
           "created_at": "2026-11-05T10:39:35.000Z",
           "id": "2118292132876480727",
@@ -1137,10 +1140,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2118482465291649025/img/7lxnTeChv9saIUwL.jpg"
           ],
           "text": "i think we're getting close to a short-term relief bounce in equities after this aggressive sell-off\n\nthe Nasdaq looks pretty stretched to the downside, and i wouldn't be surprised to see some consolidation or a bounce heading into the weekend\n\ncrypto has held up relatively better so far, but i don't think we've seen the same level of selling pressure that hit some of the major equity names\n\ni'm still leaning bearish on the broader market and expect more downside next week, even if we get some temporary relief first"
+        },
+        {
+          "created_at": "2026-11-05T23:38:00.000Z",
+          "id": "2118488028339650745",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2118487697614569472/img/oKsTFdEH5s3HudH9.jpg"
+          ],
+          "text": "oil is starting to look interesting to me at these levels\n\nevery time there's a headline about a potential ceasefire with Iran, oil sells off, but the price tends to recover when there's no actual resolution\n\nif the conflict continues and the Strait of Hormuz remains disrupted, i think there's a reasonable case for oil moving higher again\n\nthe chart is also approaching an important historical level, which makes the risk/reward worth watching"
         }
       ],
       "reads": {
-        "2118200824119935326": "No call",
         "2118292132876480727": "TRADE LONG GOLD",
         "2118292214832943386": "No call",
         "2118297342432440421": "No call",
@@ -1159,7 +1169,8 @@
         "2118451581850951898": "No call",
         "2118457507681124421": "No call",
         "2118479625009721663": "VIEW bullish on ZEC",
-        "2118482799456108930": "No call: bearish on stocks/macro (same view as before)"
+        "2118482799456108930": "No call: bearish on stocks/macro (same view as before)",
+        "2118488028339650745": "VIEW bullish on oil"
       },
       "replies": [
         {
@@ -1254,10 +1265,6 @@
         }
       ],
       "threads": {
-        "2115520419990319110": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115520533785948401": {
           "alerted": [],
           "self_replies": 0
@@ -1665,10 +1672,15 @@
         "2118482799456108930": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118488028339650745": {
+          "alerted": [
+            "bias:oil:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118200824119935326": true,
         "2118292132876480727": true,
         "2118292214832943386": false,
         "2118297342432440421": true,
@@ -1702,7 +1714,8 @@
         "2118451581850951898": false,
         "2118457507681124421": false,
         "2118479625009721663": true,
-        "2118482799456108930": true
+        "2118482799456108930": true,
+        "2118488028339650745": true
       },
       "user_id": "973261472"
     },
@@ -6957,5 +6970,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T23:32:20+00:00"
+  "updated_at": "2026-11-05T23:38:32+00:00"
 }
