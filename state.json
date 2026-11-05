@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118467299153944660",
+      "last_id": "2118475957933846740",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,14 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-01T22:57:27.000Z",
-          "id": "2117028271607238979",
-          "images": [
-            "https://pbs.twimg.com/media/HWEx-DJXwAEIFn-.jpg"
-          ],
-          "text": "Michigan https://t.co/rZ0bI79eZg"
-        },
         {
           "created_at": "2026-11-02T00:25:36.000Z",
           "id": "2117050454924521496",
@@ -257,10 +249,15 @@
             "https://pbs.twimg.com/media/HWZOx_nbgAAMWus.jpg"
           ],
           "text": "Q4 2026 https://t.co/mk7oA7ZtF8"
+        },
+        {
+          "created_at": "2026-11-05T22:50:02.000Z",
+          "id": "2118475957933846740",
+          "quoted_text": "An Anthropic IPO at $500B would imply a nearly 60% haircut for some investors in its latest round, just five months after they invested",
+          "text": "Not enough. Anyone who invested in Anthropic\u2019s latest round should be in jail https://t.co/7TMnHo9YhW"
         }
       ],
       "reads": {
-        "2117028271607238979": "No call",
         "2117050454924521496": "No call",
         "2117539968025583935": "No call",
         "2117680324457214400": "No call",
@@ -277,7 +274,8 @@
         "2118403767066595683": "No call",
         "2118452832915640738": "No call",
         "2118455163434475725": "No call",
-        "2118467299153944660": "No call"
+        "2118467299153944660": "No call",
+        "2118475957933846740": "No call"
       },
       "replies": [
         {
@@ -372,10 +370,6 @@
         }
       ],
       "threads": {
-        "2112778748705808669": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112909342429331544": {
           "alerted": [],
           "self_replies": 0
@@ -773,12 +767,15 @@
         "2118467299153944660": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118475957933846740": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2116960090817228931": false,
         "2117007244462051546": false,
-        "2117028271607238979": false,
         "2117050454924521496": false,
         "2117539968025583935": true,
         "2117541456626004382": true,
@@ -810,7 +807,8 @@
         "2118452832915640738": true,
         "2118455163434475725": true,
         "2118467084535640378": true,
-        "2118467299153944660": true
+        "2118467299153944660": true,
+        "2118475957933846740": true
       },
       "user_id": "1446541960181858315"
     },
@@ -6947,5 +6945,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T22:20:23+00:00"
+  "updated_at": "2026-11-05T22:50:23+00:00"
 }
