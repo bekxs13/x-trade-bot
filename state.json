@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118134210104021226",
+      "last_id": "2118221380173066301",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,14 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T17:14:26.000Z",
-          "id": "2116217175962776030",
-          "images": [
-            "https://pbs.twimg.com/media/HV5QTifWwAAPIbW.jpg"
-          ],
-          "text": "https://t.co/S4AyJV1Ctb"
-        },
         {
           "created_at": "2026-10-30T17:21:16.000Z",
           "id": "2116218895573143641",
@@ -271,10 +263,14 @@
           "id": "2118131354600886509",
           "quoted_text": "Top of the Democratic agenda on day 1 needs to be a pause on advanced AI development, regulation of this out of control industry, and a ban on artificial superintelligence.",
           "text": "$BTC https://t.co/QUA4QbFlTn"
+        },
+        {
+          "created_at": "2026-11-05T05:58:26.000Z",
+          "id": "2118221380173066301",
+          "text": "What do I do for work? AI generated fireplace videos"
         }
       ],
       "reads": {
-        "2116217175962776030": "No call: bearish on semis/ai stocks (60%, too unsure)",
         "2116218895573143641": "No call",
         "2116233910392918375": "No call",
         "2116256357447860345": "No call",
@@ -293,7 +289,8 @@
         "2117925165116064060": "No call",
         "2118110308921389144": "No call",
         "2118111221484544046": "No call: maybe long BTC (60%, too unsure)",
-        "2118131354600886509": "No call: bullish on btc (65%, too unsure)"
+        "2118131354600886509": "No call: bullish on btc (65%, too unsure)",
+        "2118221380173066301": "No call"
       },
       "replies": [
         {
@@ -388,10 +385,6 @@
         }
       ],
       "threads": {
-        "2112404175980302503": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112409703527633055": {
           "alerted": [],
           "self_replies": 0
@@ -795,6 +788,10 @@
         "2118131354600886509": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118221380173066301": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -802,7 +799,6 @@
         "2116050798241300837": false,
         "2116151250907488283": true,
         "2116152649716249019": true,
-        "2116217175962776030": false,
         "2116218895573143641": true,
         "2116233910392918375": true,
         "2116234322436927998": false,
@@ -832,7 +828,8 @@
         "2118110308921389144": true,
         "2118111221484544046": true,
         "2118131354600886509": true,
-        "2118134210104021226": true
+        "2118134210104021226": true,
+        "2118221380173066301": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6922,5 +6919,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-05T05:50:18+00:00"
+  "updated_at": "2026-11-05T06:00:28+00:00"
 }
