@@ -956,7 +956,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118349245250216101",
+      "last_id": "2118352779693756508",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1170,12 +1170,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T11:41:52.000Z",
-          "id": "2118307809754484995",
-          "reply_to_id": "2118303687651062244",
-          "text": "@scarguyyy @TrollCTO long uber"
-        },
-        {
           "created_at": "2026-11-05T11:46:02.000Z",
           "id": "2118308856703189245",
           "reply_to_id": "2118308767221842423",
@@ -1258,6 +1252,12 @@
           "id": "2118349245250216101",
           "reply_to_id": "2118342883765891520",
           "text": "@unaboysweb3 great times"
+        },
+        {
+          "created_at": "2026-11-05T14:40:34.000Z",
+          "id": "2118352779693756508",
+          "reply_to_id": "2118350672315982291",
+          "text": "@iruletrenches where"
         }
       ],
       "threads": {
@@ -1690,7 +1690,6 @@
         "2118292214832943386": false,
         "2118297342432440421": true,
         "2118307565620572397": false,
-        "2118307809754484995": true,
         "2118308856703189245": false,
         "2118311442441241038": true,
         "2118313391672463396": true,
@@ -1709,7 +1708,8 @@
         "2118334729355399533": true,
         "2118335042820936021": false,
         "2118337760432136237": true,
-        "2118349245250216101": false
+        "2118349245250216101": false,
+        "2118352779693756508": false
       },
       "user_id": "973261472"
     },
@@ -2115,7 +2115,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2118326893925843243",
+      "last_id": "2118353125497295162",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2135,12 +2135,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T18:32:37.000Z",
-          "id": "2117686399759794190",
-          "reply_to_id": "2117686273792221186",
-          "text": "@kwertytwo @dmartin_trading the closest thing would be putting on a trade for short term flow reasons and the flow not coming, but tbh the price going against you doesn't matter so much as a period of time passing"
-        },
         {
           "created_at": "2026-11-03T19:50:39.000Z",
           "id": "2117706038942351858",
@@ -2276,6 +2270,11 @@
           "id": "2118326893925843243",
           "reply_to_id": "2118304708884574447",
           "text": "i said that's the best i can do, but what you actually get is down 6%"
+        },
+        {
+          "created_at": "2026-11-05T14:41:56.000Z",
+          "id": "2118353125497295162",
+          "text": "DRAM casually realizing 130 vol"
         }
       ],
       "reads": {
@@ -2294,7 +2293,8 @@
         "2118126606942400530": "No call",
         "2118203227347001717": "No call",
         "2118304708884574447": "No call",
-        "2118326893925843243": "No call"
+        "2118326893925843243": "No call",
+        "2118353125497295162": "No call"
       },
       "replies": [
         {
@@ -2775,10 +2775,13 @@
         "2118304708884574447": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2118353125497295162": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117686399759794190": true,
         "2117706038942351858": false,
         "2117710029377962255": false,
         "2117725167359066439": false,
@@ -2812,7 +2815,8 @@
         "2118203227347001717": false,
         "2118304708884574447": true,
         "2118305489444655340": false,
-        "2118326893925843243": true
+        "2118326893925843243": true,
+        "2118353125497295162": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6913,5 +6917,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T14:28:16+00:00"
+  "updated_at": "2026-11-05T14:42:21+00:00"
 }
