@@ -6198,7 +6198,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118433352483275030",
+      "last_id": "2118434125497463082",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6234,11 +6234,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T15:55:25.000Z",
-          "id": "2118009229705662536",
-          "text": "https://t.co/9xSmULDBM0"
-        },
         {
           "created_at": "2026-11-04T16:11:48.000Z",
           "id": "2118013350693216630",
@@ -6358,10 +6353,17 @@
             "https://pbs.twimg.com/media/HWYv1JpWAAEZWU6.png"
           ],
           "text": "You just know if this guy was active right now he'd be offering absolute rape equity stakes and financing terms to the neoclouds today https://t.co/ZConOA9edd"
+        },
+        {
+          "created_at": "2026-11-05T20:03:48.000Z",
+          "id": "2118434125497463082",
+          "images": [
+            "https://pbs.twimg.com/media/HWYwdzrWEAAKMeT.jpg"
+          ],
+          "text": "Yup https://t.co/tiWLkglG8D"
         }
       ],
       "reads": {
-        "2118009229705662536": "No call",
         "2118013350693216630": "No call",
         "2118067221691797702": "No call",
         "2118068833294422283": "No call",
@@ -6380,7 +6382,8 @@
         "2118410832665071810": "No call",
         "2118421335332499526": "No call",
         "2118428712685211862": "TRADE LONG SOXL \u00b7 VIEW bullish on stocks/macro",
-        "2118433352483275030": "No call"
+        "2118433352483275030": "No call",
+        "2118434125497463082": "No call"
       },
       "replies": [
         {
@@ -6475,10 +6478,6 @@
         }
       ],
       "threads": {
-        "2110115587825471879": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110191182311518685": {
           "alerted": [],
           "self_replies": 0
@@ -6890,6 +6889,10 @@
         "2118433352483275030": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118434125497463082": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -6906,7 +6909,6 @@
         "2111875879865389103": false,
         "2111892500210458979": true,
         "2118008698790641737": false,
-        "2118009229705662536": false,
         "2118009522807505340": true,
         "2118013350693216630": true,
         "2118067221691797702": true,
@@ -6927,7 +6929,8 @@
         "2118410832665071810": true,
         "2118421335332499526": true,
         "2118428712685211862": true,
-        "2118433352483275030": true
+        "2118433352483275030": true,
+        "2118434125497463082": false
       },
       "user_id": "809191427645181952"
     }
@@ -6950,5 +6953,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T20:02:24+00:00"
+  "updated_at": "2026-11-05T20:04:22+00:00"
 }
