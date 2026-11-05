@@ -822,12 +822,12 @@
       "biases": {
         "ai stocks": {
           "market": "stocks",
-          "post_id": "2115461279163052437",
-          "reason": "Says he's 'becoming more cautious on AI stocks in the short term', expecting a valuation reassessment, while long-term positive.",
+          "post_id": "2118334729355399533",
+          "reason": "\"i like this take\" endorses the quoted call that money leaves AI and memory names (Micron, SK Hynix, neo clouds) for non-AI safe havens like Eli Lilly. His earlier \"memory getting shallacked\" backs this up, and it matches his recorded bearish AI stocks view.",
           "scope": "ai stocks",
           "since": "2026-10-28",
           "stance": "bearish",
-          "updated_at": "2026-10-28T15:10:46.000Z"
+          "updated_at": "2026-11-05T13:28:50.000Z"
         },
         "alts": {
           "market": "crypto",
@@ -956,7 +956,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118334269831426443",
+      "last_id": "2118335042820936021",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1024,16 +1024,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T23:37:16.000Z",
-          "id": "2117763070982504829",
-          "text": "dv's stream is like entering another dimension"
-        },
-        {
-          "created_at": "2026-11-04T00:27:37.000Z",
-          "id": "2117775739437117711",
-          "text": "did the blue guys win"
-        },
         {
           "created_at": "2026-11-04T00:43:01.000Z",
           "id": "2117779615829950811",
@@ -1143,11 +1133,20 @@
           "created_at": "2026-11-05T13:21:07.000Z",
           "id": "2118332785656004757",
           "text": "nothing better than autumn in new york city"
+        },
+        {
+          "created_at": "2026-11-05T13:28:50.000Z",
+          "id": "2118334729355399533",
+          "quoted_text": "hot take:\n\nfrom what ive seen on the timeline it looks like democrats will go after ai companies and slow data center build outs so all those trillions of dollars will flock back to strong companies that aren\u2019t super into ai \n\nbased on the vibes right now eli lily looks like it\u2019s gonna become the next apple in the sense that it\u2019s a safe haven asset that all the late micron, skhynix, intel, neo clouds money can flock into",
+          "text": "i like this take https://t.co/qvSgBj3pqK"
+        },
+        {
+          "created_at": "2026-11-05T13:30:05.000Z",
+          "id": "2118335042820936021",
+          "text": "when does elysium launch"
         }
       ],
       "reads": {
-        "2117763070982504829": "No call",
-        "2117775739437117711": "No call",
         "2117779615829950811": "No call",
         "2117798807035691494": "No call",
         "2117963620554616973": "TRADE SHORT BTC",
@@ -1165,7 +1164,9 @@
         "2118307565620572397": "No call",
         "2118318486485106761": "No call",
         "2118326735317901789": "No call",
-        "2118332785656004757": "No call"
+        "2118332785656004757": "No call",
+        "2118334729355399533": "No call: bearish on ai stocks (same view as before)",
+        "2118335042820936021": "No call"
       },
       "replies": [
         {
@@ -1260,16 +1261,6 @@
         }
       ],
       "threads": {
-        "2114852187201228909": {
-          "alerted": [
-            "bias:hype:bullish"
-          ],
-          "self_replies": 0
-        },
-        "2114904169685586375": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114905694793023921": {
           "alerted": [],
           "self_replies": 0
@@ -1673,11 +1664,17 @@
         "2118332785656004757": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118334729355399533": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2118335042820936021": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117763070982504829": false,
-        "2117775739437117711": false,
         "2117779615829950811": true,
         "2117798807035691494": true,
         "2117963620554616973": true,
@@ -1710,7 +1707,9 @@
         "2118332155562692736": false,
         "2118332663396237555": false,
         "2118332785656004757": false,
-        "2118334269831426443": true
+        "2118334269831426443": true,
+        "2118334729355399533": true,
+        "2118335042820936021": false
       },
       "user_id": "973261472"
     },
@@ -6915,5 +6914,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T13:28:20+00:00"
+  "updated_at": "2026-11-05T13:30:30+00:00"
 }
