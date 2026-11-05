@@ -2112,7 +2112,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2118362882605805903",
+      "last_id": "2118369643110752660",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2132,12 +2132,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T21:06:39.000Z",
-          "id": "2117725167359066439",
-          "quoted_text": "Abdul El-Sayed is the Pause AI candidate: https://t.co/8Ol7Lc6V2x",
-          "text": "can we have more millennial politicians that actually understand current issues please https://t.co/e2wLc8DxIg"
-        },
         {
           "created_at": "2026-11-03T21:18:18.000Z",
           "id": "2117728098250641532",
@@ -2271,10 +2265,15 @@
             "https://pbs.twimg.com/media/HWXv0FzW4AAIBRi.jpg"
           ],
           "text": "https://t.co/dUm8PRBn0J"
+        },
+        {
+          "created_at": "2026-11-05T15:46:36.000Z",
+          "id": "2118369396943200472",
+          "quoted_text": "Heard that Walleye, $17B AUM, and Engineers Gate, $23B AUM, are both shutting down their equity pods\n\n\"Factors all going the wrong way today = liquidations are happening\"",
+          "text": "woah https://t.co/hPvOGu636g"
         }
       ],
       "reads": {
-        "2117725167359066439": "No call",
         "2117728098250641532": "TRADE LONG AMD",
         "2117756905355710835": "No call",
         "2117762594673156375": "No call",
@@ -2292,15 +2291,10 @@
         "2118326893925843243": "No call",
         "2118353125497295162": "No call",
         "2118356622154014850": "No call",
-        "2118362882605805903": "No call"
+        "2118362882605805903": "No call",
+        "2118369396943200472": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-04T05:51:17.000Z",
-          "id": "2117857193026257197",
-          "reply_to_id": "2117856547871277313",
-          "text": "@StLouisVI nope. 2028 is gonna be an ossoff type candidate"
-        },
         {
           "created_at": "2026-11-04T05:51:52.000Z",
           "id": "2117857338485092656",
@@ -2387,6 +2381,12 @@
           "id": "2118305489444655340",
           "reply_to_id": "2118137434827579674",
           "text": "@Merridew__ huh"
+        },
+        {
+          "created_at": "2026-11-05T15:47:34.000Z",
+          "id": "2118369643110752660",
+          "reply_to_id": "2118367184317817189",
+          "text": "@Anqacs about to be 14%"
         }
       ],
       "threads": {
@@ -2781,10 +2781,13 @@
         "2118362882605805903": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118369396943200472": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117725167359066439": false,
         "2117728098250641532": true,
         "2117756905355710835": false,
         "2117762594673156375": false,
@@ -2792,7 +2795,6 @@
         "2117797779225358480": false,
         "2117850121392238825": true,
         "2117854033281003754": false,
-        "2117857193026257197": false,
         "2117857338485092656": false,
         "2117857795932672465": false,
         "2117859208099942902": false,
@@ -2818,7 +2820,9 @@
         "2118326893925843243": true,
         "2118353125497295162": true,
         "2118356622154014850": false,
-        "2118362882605805903": false
+        "2118362882605805903": false,
+        "2118369396943200472": true,
+        "2118369643110752660": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6204,17 +6208,9 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118072324658192831",
+      "last_id": "2118369703085449500",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-10-18T17:25:39.000Z",
-          "id": "2111871343109210201",
-          "images": [
-            "https://pbs.twimg.com/media/HU7fyKcXcAA5_iV.jpg"
-          ],
-          "text": "Lighter was such a free short when they lost the Robinhood integration https://t.co/J166dyvctK"
-        },
         {
           "created_at": "2026-10-18T17:42:40.000Z",
           "id": "2111875627015966918",
@@ -6330,10 +6326,14 @@
           "created_at": "2026-11-04T20:03:52.000Z",
           "id": "2118071753922805977",
           "text": "See you guys at the next market bottom or end of year.\n\nGood luck."
+        },
+        {
+          "created_at": "2026-11-05T15:47:49.000Z",
+          "id": "2118369703085449500",
+          "text": "Patience"
         }
       ],
       "reads": {
-        "2111871343109210201": "No call: bearish on LIT (60%, too unsure)",
         "2111898450333757538": "VIEW bearish on eth",
         "2111957092781240827": "No call",
         "2112182070260965441": "No call: bearish on stocks/macro (65%, too unsure)",
@@ -6351,7 +6351,8 @@
         "2118013350693216630": "No call",
         "2118067221691797702": "No call",
         "2118068833294422283": "No call",
-        "2118071753922805977": "No call"
+        "2118071753922805977": "No call",
+        "2118369703085449500": "No call"
       },
       "replies": [
         {
@@ -6446,10 +6447,6 @@
         }
       ],
       "threads": {
-        "2108388001386537404": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2108403707645764048": {
           "alerted": [],
           "self_replies": 0
@@ -6860,6 +6857,10 @@
         "2118071753922805977": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118369703085449500": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -6871,7 +6872,6 @@
         "2111581235793588319": true,
         "2111868524427948399": false,
         "2111870195140554867": true,
-        "2111871343109210201": true,
         "2111873335772541162": true,
         "2111874363234426989": true,
         "2111875627015966918": true,
@@ -6897,7 +6897,8 @@
         "2118067221691797702": true,
         "2118068833294422283": false,
         "2118071753922805977": true,
-        "2118072324658192831": false
+        "2118072324658192831": false,
+        "2118369703085449500": false
       },
       "user_id": "809191427645181952"
     }
@@ -6920,5 +6921,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T15:42:17+00:00"
+  "updated_at": "2026-11-05T15:48:32+00:00"
 }
