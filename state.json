@@ -956,7 +956,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118332155562692736",
+      "last_id": "2118332785656004757",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1024,11 +1024,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T22:25:01.000Z",
-          "id": "2117744887873581394",
-          "text": "testing"
-        },
         {
           "created_at": "2026-11-03T23:37:16.000Z",
           "id": "2117763070982504829",
@@ -1143,10 +1138,14 @@
           "created_at": "2026-11-05T12:57:04.000Z",
           "id": "2118326735317901789",
           "text": "memory getting shallacked"
+        },
+        {
+          "created_at": "2026-11-05T13:21:07.000Z",
+          "id": "2118332785656004757",
+          "text": "nothing better than autumn in new york city"
         }
       ],
       "reads": {
-        "2117744887873581394": "No call",
         "2117763070982504829": "No call",
         "2117775739437117711": "No call",
         "2117779615829950811": "No call",
@@ -1165,15 +1164,10 @@
         "2118297342432440421": "No call",
         "2118307565620572397": "No call",
         "2118318486485106761": "No call",
-        "2118326735317901789": "No call"
+        "2118326735317901789": "No call",
+        "2118332785656004757": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-05T11:21:57.000Z",
-          "id": "2118302795300261937",
-          "reply_to_id": "2118270770992619620",
-          "text": "i would understand being mad at this if i was graping ppl by selling into them but im not, theres nobody who knows what im buying but me, & im doing it from one wallet on my phone, im not multiwalleting or devving any coins, you guys say you want volume back in the trenches but you dont people buying the coins until some arbitrary mcap\n\neither you believe all coins are scams and you trade stocks or you're a degenerate who trades both, the in between makes no sense & is just clickfarming impressions"
-        },
         {
           "created_at": "2026-11-05T11:23:10.000Z",
           "id": "2118303103531577477",
@@ -1257,13 +1251,15 @@
           "id": "2118332155562692736",
           "reply_to_id": "2118332057344524611",
           "text": "@RAP3MEFR @lonegoy the largest one"
+        },
+        {
+          "created_at": "2026-11-05T13:20:38.000Z",
+          "id": "2118332663396237555",
+          "reply_to_id": "2118328819480420401",
+          "text": "@seyong in that world the only moat is social?"
         }
       ],
       "threads": {
-        "2114849515316584949": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114852187201228909": {
           "alerted": [
             "bias:hype:bullish"
@@ -1673,10 +1669,13 @@
         "2118326735317901789": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118332785656004757": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117744887873581394": false,
         "2117763070982504829": false,
         "2117775739437117711": false,
         "2117779615829950811": true,
@@ -1693,7 +1692,6 @@
         "2118292132876480727": true,
         "2118292214832943386": false,
         "2118297342432440421": true,
-        "2118302795300261937": true,
         "2118303103531577477": false,
         "2118303260138144186": false,
         "2118303512949932482": false,
@@ -1710,7 +1708,9 @@
         "2118326735317901789": true,
         "2118330369087025186": false,
         "2118330461105934669": false,
-        "2118332155562692736": false
+        "2118332155562692736": false,
+        "2118332663396237555": false,
+        "2118332785656004757": false
       },
       "user_id": "973261472"
     },
@@ -6915,5 +6915,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T13:20:28+00:00"
+  "updated_at": "2026-11-05T13:22:22+00:00"
 }
