@@ -6172,12 +6172,12 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2118007664185835677",
-          "reason": "Says the next year \"looks challenging for equity markets\" but it no longer makes sense to be directionally short. That moves the recorded bearish stocks view to neutral.",
+          "post_id": "2118428712685211862",
+          "reason": "Buying leveraged semis, Nasdaq and BTC calls after a flush (\"buy from forced sellers\") signals a broad risk-on turn versus the recorded neutral view.",
           "scope": "stocks/macro",
-          "since": "2026-11-04",
-          "stance": "neutral",
-          "updated_at": "2026-11-04T15:49:12.000Z"
+          "since": "2026-11-05",
+          "stance": "bullish",
+          "updated_at": "2026-11-05T19:42:18.000Z"
         }
       },
       "closed": [
@@ -6198,7 +6198,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118421335332499526",
+      "last_id": "2118428712685211862",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6215,14 +6215,25 @@
           "since": "2026-11-05T16:11:16.000Z",
           "structure": "spot",
           "url": "https://x.com/thinkingusd/status/2118375604013916197"
+        },
+        "SOXL": {
+          "asset": "SOXL",
+          "chain": "",
+          "confidence": 0.9,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "",
+          "market": "stocks",
+          "open_price": null,
+          "post_id": "2118428712685211862",
+          "reason": "\"BOT - $SOXL\", \"BOT - 70C IBIT JAN28\", \"BOT - TQQQ\" are explicit buys; chart shows SOXL capitulation volume. Also bought IBIT Jan28 70 calls (long calls) and TQQQ.",
+          "since": "2026-11-05T19:42:18.000Z",
+          "structure": "spot",
+          "url": "https://x.com/thinkingusd/status/2118428712685211862"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T15:43:01.000Z",
-          "id": "2118006107863998667",
-          "text": "This should be a major wakeup call for all my conservative friends who think that the average American equates stock market performance to their quality of life.\n\nAmericans care about the promises made that were not kept, we're in foreign wars which have lead to increased costs to their everyday lives.\n\nThe technocratic ruling class has attempted to manufacture compliance and broad acceptance of AI while telling everyone they're going to lose their job or die.\n\nI'm optimistic for the future of this country and respect the majority of Americans voicing their opinion."
-        },
         {
           "created_at": "2026-11-04T15:49:12.000Z",
           "id": "2118007664185835677",
@@ -6336,10 +6347,17 @@
           "created_at": "2026-11-05T19:12:59.000Z",
           "id": "2118421335332499526",
           "text": "$SOXL ATH volume on Binance-Perp\n\nImportant to track as it's mainly foreign gambling retail traders"
+        },
+        {
+          "created_at": "2026-11-05T19:42:18.000Z",
+          "id": "2118428712685211862",
+          "images": [
+            "https://pbs.twimg.com/media/HWYrm8pWIAEoz4m.jpg"
+          ],
+          "text": "BOT - $SOXL \nBOT - 70C IBIT JAN28\nBOT - TQQQ https://t.co/c4N2zbYHFO"
         }
       ],
       "reads": {
-        "2118006107863998667": "No call",
         "2118007664185835677": "TRADE EXIT equity shorts \u00b7 VIEW neutral on stocks/macro",
         "2118009229705662536": "No call",
         "2118013350693216630": "No call",
@@ -6358,7 +6376,8 @@
         "2118395215283433842": "No call",
         "2118396199137104248": "No call",
         "2118410832665071810": "No call",
-        "2118421335332499526": "No call"
+        "2118421335332499526": "No call",
+        "2118428712685211862": "TRADE LONG SOXL \u00b7 VIEW bullish on stocks/macro"
       },
       "replies": [
         {
@@ -6453,10 +6472,6 @@
         }
       ],
       "threads": {
-        "2110046712131936390": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110080396587065760": {
           "alerted": [],
           "self_replies": 0
@@ -6865,6 +6880,13 @@
         "2118421335332499526": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118428712685211862": {
+          "alerted": [
+            "trade:SOXL:long",
+            "bias:stocks/macro:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -6880,7 +6902,6 @@
         "2111874363234426989": true,
         "2111875879865389103": false,
         "2111892500210458979": true,
-        "2118006107863998667": false,
         "2118007664185835677": true,
         "2118008698790641737": false,
         "2118009229705662536": false,
@@ -6902,7 +6923,8 @@
         "2118395215283433842": false,
         "2118396199137104248": true,
         "2118410832665071810": true,
-        "2118421335332499526": true
+        "2118421335332499526": true,
+        "2118428712685211862": true
       },
       "user_id": "809191427645181952"
     }
@@ -6925,5 +6947,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T19:38:16+00:00"
+  "updated_at": "2026-11-05T19:44:23+00:00"
 }
