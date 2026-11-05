@@ -837,12 +837,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2116177144778768653",
-          "reason": "Argues the small reaction to the $6b hack isn't bullish and says \"i dont think... it means the downtrend will not continue\"; matches the recorded bearish BTC view.",
+          "post_id": "2118398194996461874",
+          "reason": "\"i dont think 75k holds\" most likely refers to BTC at around 75k, a bearish call matching the recorded BTC view and short.",
           "scope": "btc",
           "since": "2026-10-26",
           "stance": "bearish",
-          "updated_at": "2026-10-30T14:35:22.000Z"
+          "updated_at": "2026-11-05T17:41:02.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -953,7 +953,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118394767063355566",
+      "last_id": "2118398194996461874",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1021,11 +1021,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T15:44:18.000Z",
-          "id": "2118006432519921750",
-          "text": "they almost smoked me today"
-        },
         {
           "created_at": "2026-11-04T15:44:29.000Z",
           "id": "2118006477889609953",
@@ -1136,10 +1131,14 @@
           "id": "2118388141300039810",
           "quoted_text": "i'm starting to think we could be near the end of this macro cycle for equities\n\na lot of the stocks that have led the market since late 2022 are sitting on massive gains, and we're finally seeing some meaningful profit-taking after years without a major correction\n\ncrypto started showing weakness earlier, which could explain why it bottomed ahead of equities and bounced so strongly in Q3\n\nthe question i'm trying to figure out now is whether that bounce marked the beginning of a new bull market ",
           "text": "stay safe https://t.co/OvtTKPZRqw"
+        },
+        {
+          "created_at": "2026-11-05T17:41:02.000Z",
+          "id": "2118398194996461874",
+          "text": "i dont think 75k holds"
         }
       ],
       "reads": {
-        "2118006432519921750": "No call",
         "2118006477889609953": "No call",
         "2118050057803198957": "No call",
         "2118054437293805738": "No call",
@@ -1158,7 +1157,8 @@
         "2118335042820936021": "No call",
         "2118353945370489099": "No call",
         "2118354783723786478": "No call",
-        "2118388141300039810": "No call: bearish on stocks/macro (same view as before)"
+        "2118388141300039810": "No call: bearish on stocks/macro (same view as before)",
+        "2118398194996461874": "No call: bearish on btc (same view as before)"
       },
       "replies": [
         {
@@ -1253,10 +1253,6 @@
         }
       ],
       "threads": {
-        "2115128961131036993": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115136401364979876": {
           "alerted": [],
           "self_replies": 0
@@ -1664,10 +1660,13 @@
         "2118388141300039810": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118398194996461874": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118006432519921750": false,
         "2118006477889609953": false,
         "2118050057803198957": true,
         "2118054437293805738": false,
@@ -1701,7 +1700,8 @@
         "2118384999800127520": true,
         "2118388141300039810": true,
         "2118393667446808745": false,
-        "2118394767063355566": true
+        "2118394767063355566": true,
+        "2118398194996461874": true
       },
       "user_id": "973261472"
     },
@@ -6927,5 +6927,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T17:38:21+00:00"
+  "updated_at": "2026-11-05T17:42:07+00:00"
 }
