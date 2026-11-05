@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118280263419769037",
+      "last_id": "2118282127066517939",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,14 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-31T12:10:05.000Z",
-          "id": "2116502969181200779",
-          "images": [
-            "https://pbs.twimg.com/media/HV9UOvGWUAATaJb.jpg"
-          ],
-          "text": "https://t.co/KWHaL297fG"
-        },
         {
           "created_at": "2026-11-01T09:58:11.000Z",
           "id": "2116832164394553471",
@@ -260,10 +252,14 @@
           "id": "2118280263419769037",
           "reply_to_id": "2118280023253921798",
           "text": "Sto thinks I\u2019m trippin maybe I\u2019m tapped out and trippin"
+        },
+        {
+          "created_at": "2026-11-05T09:59:49.000Z",
+          "id": "2118282127066517939",
+          "text": "Strc at peg but the dividend is daily what\u2019s the catalyst date to unpeg now?"
         }
       ],
       "reads": {
-        "2116502969181200779": "No call",
         "2116832164394553471": "No call",
         "2116938816820752609": "No call",
         "2117006474463572408": "No call",
@@ -281,7 +277,8 @@
         "2118221380173066301": "No call",
         "2118272563612958820": "No call",
         "2118280023253921798": "No call",
-        "2118280263419769037": "No call"
+        "2118280263419769037": "No call",
+        "2118282127066517939": "No call"
       },
       "replies": [
         {
@@ -376,14 +373,6 @@
         }
       ],
       "threads": {
-        "2112523952287351129": {
-          "alerted": [
-            "trade:SOXL:long",
-            "bias:semis/ai stocks:bullish",
-            "trade:SOXL:exit"
-          ],
-          "self_replies": 1
-        },
         "2112546201241366861": {
           "alerted": [
             "trade:IBIT:long"
@@ -783,13 +772,16 @@
         "2118280023253921798": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2118282127066517939": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2116303690239758739": false,
         "2116316365602926868": false,
         "2116355857705578604": false,
-        "2116502969181200779": false,
         "2116506772731253184": false,
         "2116832164394553471": false,
         "2116938816820752609": false,
@@ -820,7 +812,8 @@
         "2118272563612958820": false,
         "2118275270352552210": false,
         "2118280023253921798": true,
-        "2118280263419769037": false
+        "2118280263419769037": false,
+        "2118282127066517939": true
       },
       "user_id": "1446541960181858315"
     },
@@ -6910,5 +6903,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-05T09:53:28+00:00"
+  "updated_at": "2026-11-05T10:00:27+00:00"
 }
