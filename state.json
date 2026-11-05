@@ -2112,7 +2112,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2118356622154014850",
+      "last_id": "2118362882605805903",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2132,15 +2132,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T20:06:30.000Z",
-          "id": "2117710029377962255",
-          "images": [
-            "https://pbs.twimg.com/media/HWOd_CqXIAAeE4K.jpg"
-          ],
-          "reply_to_id": "2117685016658358748",
-          "text": "@dmartin_trading wonderfully expanded upon by someone else in a gc https://t.co/v5pJMLD2Q1"
-        },
         {
           "created_at": "2026-11-03T21:06:39.000Z",
           "id": "2117725167359066439",
@@ -2272,6 +2263,14 @@
           "id": "2118356622154014850",
           "reply_to_id": "2118353125497295162",
           "text": "sorry lowballed that"
+        },
+        {
+          "created_at": "2026-11-05T15:20:43.000Z",
+          "id": "2118362882605805903",
+          "images": [
+            "https://pbs.twimg.com/media/HWXv0FzW4AAIBRi.jpg"
+          ],
+          "text": "https://t.co/dUm8PRBn0J"
         }
       ],
       "reads": {
@@ -2292,7 +2291,8 @@
         "2118304708884574447": "No call",
         "2118326893925843243": "No call",
         "2118353125497295162": "No call",
-        "2118356622154014850": "No call"
+        "2118356622154014850": "No call",
+        "2118362882605805903": "No call"
       },
       "replies": [
         {
@@ -2777,10 +2777,13 @@
         "2118353125497295162": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2118362882605805903": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117710029377962255": false,
         "2117725167359066439": false,
         "2117728098250641532": true,
         "2117756905355710835": false,
@@ -2814,7 +2817,8 @@
         "2118305489444655340": false,
         "2118326893925843243": true,
         "2118353125497295162": true,
-        "2118356622154014850": false
+        "2118356622154014850": false,
+        "2118362882605805903": false
       },
       "user_id": "1598545553327067137"
     },
@@ -4476,7 +4480,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118360792768598275",
+      "last_id": "2118363176601330012",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4512,12 +4516,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T20:31:38.000Z",
-          "id": "2117716352987533650",
-          "reply_to_id": "2117716332062089437",
-          "text": "@JamesChristoph yo i like you"
-        },
         {
           "created_at": "2026-11-04T02:35:40.000Z",
           "id": "2117807965851836807",
@@ -4626,6 +4624,11 @@
           "created_at": "2026-11-05T15:12:24.000Z",
           "id": "2118360792768598275",
           "text": "perfect market for anthropic to ipo $2T in like two weeks"
+        },
+        {
+          "created_at": "2026-11-05T15:21:53.000Z",
+          "id": "2118363176601330012",
+          "text": "feels like we're due for another massive internet hack"
         }
       ],
       "reads": {
@@ -4647,7 +4650,8 @@
         "2118337595285356578": "No call",
         "2118353320448344198": "No call: bearish on ai stocks (60%, too unsure)",
         "2118359296937497003": "No call",
-        "2118360792768598275": "No call"
+        "2118360792768598275": "No call",
+        "2118363176601330012": "No call"
       },
       "replies": [
         {
@@ -4742,10 +4746,6 @@
         }
       ],
       "threads": {
-        "2112631379502506077": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112705823197855757": {
           "alerted": [
             "bias:stocks/macro:bearish",
@@ -5147,10 +5147,13 @@
         "2118360792768598275": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118363176601330012": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117716352987533650": false,
         "2117807965851836807": false,
         "2117957672087511443": false,
         "2117961861521932503": false,
@@ -5184,7 +5187,8 @@
         "2118337595285356578": true,
         "2118353320448344198": true,
         "2118359296937497003": true,
-        "2118360792768598275": true
+        "2118360792768598275": true,
+        "2118363176601330012": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6916,5 +6920,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T15:14:26+00:00"
+  "updated_at": "2026-11-05T15:22:32+00:00"
 }
