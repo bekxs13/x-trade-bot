@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118275270352552210",
+      "last_id": "2118280023253921798",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,15 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T19:50:08.000Z",
-          "id": "2116256357447860345",
-          "images": [
-            "https://pbs.twimg.com/media/HV5z8UaWAAED3td.jpg",
-            "https://pbs.twimg.com/media/HV5z7o1WYAEbFTn.jpg"
-          ],
-          "text": "Life lately https://t.co/67VCmVR6jS"
-        },
         {
           "created_at": "2026-10-31T01:50:32.000Z",
           "id": "2116347053747863971",
@@ -266,10 +257,14 @@
           "created_at": "2026-11-05T09:21:49.000Z",
           "id": "2118272563612958820",
           "text": "Yubikey bros we made it? @0xSisyphus"
+        },
+        {
+          "created_at": "2026-11-05T09:51:27.000Z",
+          "id": "2118280023253921798",
+          "text": "Btc15%fornoreasonplz"
         }
       ],
       "reads": {
-        "2116256357447860345": "No call",
         "2116347053747863971": "No call",
         "2116502969181200779": "No call",
         "2116832164394553471": "No call",
@@ -287,7 +282,8 @@
         "2118111221484544046": "No call: maybe long BTC (60%, too unsure)",
         "2118131354600886509": "No call: bullish on btc (65%, too unsure)",
         "2118221380173066301": "No call",
-        "2118272563612958820": "No call"
+        "2118272563612958820": "No call",
+        "2118280023253921798": "No call"
       },
       "replies": [
         {
@@ -382,10 +378,6 @@
         }
       ],
       "threads": {
-        "2112412695777722422": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112523952287351129": {
           "alerted": [
             "trade:SOXL:long",
@@ -789,10 +781,13 @@
         "2118272563612958820": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118280023253921798": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2116256357447860345": false,
         "2116303690239758739": false,
         "2116316365602926868": false,
         "2116347053747863971": false,
@@ -826,7 +821,8 @@
         "2118251856011153564": true,
         "2118252010000753041": false,
         "2118272563612958820": false,
-        "2118275270352552210": false
+        "2118275270352552210": false,
+        "2118280023253921798": true
       },
       "user_id": "1446541960181858315"
     },
@@ -6916,5 +6912,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-05T09:34:20+00:00"
+  "updated_at": "2026-11-05T09:52:23+00:00"
 }
