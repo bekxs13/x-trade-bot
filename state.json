@@ -985,7 +985,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118488028339650745",
+      "last_id": "2118491108657480172",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1053,11 +1053,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T10:39:35.000Z",
-          "id": "2118292132876480727",
-          "text": "bought gold"
-        },
         {
           "created_at": "2026-11-05T10:39:54.000Z",
           "id": "2118292214832943386",
@@ -1168,10 +1163,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2118487697614569472/img/oKsTFdEH5s3HudH9.jpg"
           ],
           "text": "oil is starting to look interesting to me at these levels\n\nevery time there's a headline about a potential ceasefire with Iran, oil sells off, but the price tends to recover when there's no actual resolution\n\nif the conflict continues and the Strait of Hormuz remains disrupted, i think there's a reasonable case for oil moving higher again\n\nthe chart is also approaching an important historical level, which makes the risk/reward worth watching"
+        },
+        {
+          "created_at": "2026-11-05T23:50:14.000Z",
+          "id": "2118491108657480172",
+          "text": "why'd bro son me like that"
         }
       ],
       "reads": {
-        "2118292132876480727": "TRADE LONG GOLD",
         "2118292214832943386": "No call",
         "2118297342432440421": "No call",
         "2118307565620572397": "No call",
@@ -1190,7 +1189,8 @@
         "2118457507681124421": "No call",
         "2118479625009721663": "VIEW bullish on ZEC",
         "2118482799456108930": "No call: bearish on stocks/macro (same view as before)",
-        "2118488028339650745": "VIEW bullish on oil"
+        "2118488028339650745": "VIEW bullish on oil",
+        "2118491108657480172": "No call"
       },
       "replies": [
         {
@@ -1285,10 +1285,6 @@
         }
       ],
       "threads": {
-        "2115520533785948401": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115523673675448685": {
           "alerted": [],
           "self_replies": 0
@@ -1698,10 +1694,13 @@
             "bias:oil:bullish"
           ],
           "self_replies": 0
+        },
+        "2118491108657480172": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118292132876480727": true,
         "2118292214832943386": false,
         "2118297342432440421": true,
         "2118307565620572397": false,
@@ -1735,7 +1734,8 @@
         "2118457507681124421": false,
         "2118479625009721663": true,
         "2118482799456108930": true,
-        "2118488028339650745": true
+        "2118488028339650745": true,
+        "2118491108657480172": false
       },
       "user_id": "973261472"
     },
@@ -6990,5 +6990,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T23:42:23+00:00"
+  "updated_at": "2026-11-05T23:52:19+00:00"
 }
