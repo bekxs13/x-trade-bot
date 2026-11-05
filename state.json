@@ -956,7 +956,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118374167892394441",
+      "last_id": "2118376797507063919",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1167,12 +1167,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T13:11:31.000Z",
-          "id": "2118330369087025186",
-          "reply_to_id": "2118318299872411712",
-          "text": "@rbthreek in WoW?"
-        },
-        {
           "created_at": "2026-11-05T13:11:53.000Z",
           "id": "2118330461105934669",
           "reply_to_id": "2118330330709131270",
@@ -1255,6 +1249,12 @@
           "id": "2118374167892394441",
           "reply_to_id": "2118372749546787160",
           "text": "@N01Dude @FabianoSolana look at equities man"
+        },
+        {
+          "created_at": "2026-11-05T16:16:00.000Z",
+          "id": "2118376797507063919",
+          "reply_to_id": "2118375912571830502",
+          "text": "@ika_xbt the whales are watching my tweets i swear"
         }
       ],
       "threads": {
@@ -1687,7 +1687,6 @@
         "2118307565620572397": false,
         "2118318486485106761": true,
         "2118326735317901789": true,
-        "2118330369087025186": false,
         "2118330461105934669": false,
         "2118332155562692736": false,
         "2118332663396237555": false,
@@ -1706,7 +1705,8 @@
         "2118368022419448310": false,
         "2118370448006336704": false,
         "2118372246083244537": false,
-        "2118374167892394441": true
+        "2118374167892394441": true,
+        "2118376797507063919": false
       },
       "user_id": "973261472"
     },
@@ -4481,7 +4481,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118374667962417403",
+      "last_id": "2118374998393925977",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4660,12 +4660,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T01:53:10.000Z",
-          "id": "2118159658636698069",
-          "reply_to_id": "2118159483251699990",
-          "text": "@robustus it\u2019s my biggest fear dan"
-        },
-        {
           "created_at": "2026-11-05T01:54:11.000Z",
           "id": "2118159915319435535",
           "reply_to_id": "2118159851549508015",
@@ -4748,6 +4742,12 @@
           "id": "2118374036917084476",
           "reply_to_id": "2118374014204977283",
           "text": "@ThinkingUSD wow"
+        },
+        {
+          "created_at": "2026-11-05T16:08:51.000Z",
+          "id": "2118374998393925977",
+          "reply_to_id": "2118374411199717864",
+          "text": "@ThinkingUSD (im not)"
         }
       ],
       "threads": {
@@ -5167,7 +5167,6 @@
         "2118126854775153000": false,
         "2118141847952408653": false,
         "2118158865028227260": true,
-        "2118159658636698069": false,
         "2118159915319435535": false,
         "2118170861777891491": false,
         "2118178837796368833": false,
@@ -5189,7 +5188,8 @@
         "2118360792768598275": true,
         "2118363176601330012": false,
         "2118374036917084476": false,
-        "2118374667962417403": false
+        "2118374667962417403": false,
+        "2118374998393925977": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6143,12 +6143,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2110388488344641752",
-          "reason": "'Back to mid 70s ?' on a BTC perp daily chart at ~81.7k points to an expected drop. The same day he posted 'Equities -10% and Bitcoin is trading at: ?' and talked about holding cash when the market nukes, which backs the bearish read.",
+          "post_id": "2118375604013916197",
+          "reason": "Buying spot BTC and long-dated IBIT calls while saying \"more! more!\" flips his recorded bearish BTC view. The bullish lean comes from the buys themselves, so it is inferred.",
           "scope": "btc",
-          "since": "2026-10-14",
-          "stance": "bearish",
-          "updated_at": "2026-10-14T15:13:19.000Z"
+          "since": "2026-11-05",
+          "stance": "bullish",
+          "updated_at": "2026-11-05T16:11:16.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -6205,19 +6205,26 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118374411199717864",
-      "positions": {},
+      "last_id": "2118376096194331058",
+      "positions": {
+        "BTC": {
+          "asset": "BTC",
+          "chain": "",
+          "confidence": 0.88,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "75.9k",
+          "horizon": "",
+          "market": "crypto",
+          "open_price": 76365.52,
+          "post_id": "2118375604013916197",
+          "reason": "\"BOT BTC -$75.9\" plus quoting his own \"I'm 75 bid\" shows he bought BTC around 75.9k. He also bought IBIT 70C Jan28 calls, which is long BTC exposure.",
+          "since": "2026-11-05T16:11:16.000Z",
+          "structure": "spot",
+          "url": "https://x.com/thinkingusd/status/2118375604013916197"
+        }
+      },
       "posts": [
-        {
-          "created_at": "2026-10-18T23:06:23.000Z",
-          "id": "2111957092781240827",
-          "text": "Comfy Sunday Spaces v37: OAI/Anthropic Revenues, Neocloud volatility and Trading Philosophy https://t.co/VKbuf7HzX4"
-        },
-        {
-          "created_at": "2026-10-19T14:00:22.000Z",
-          "id": "2112182070260965441",
-          "text": "Absolutely MASSIVE bullish bounce \ud83d\udd25\ud83d\udd25\n\nCRWV +1.52%\nNVDA +0.52%\nETH -0.44%\nBTC +0.01%"
-        },
         {
           "created_at": "2026-10-19T17:09:51.000Z",
           "id": "2112229752572424657",
@@ -6330,11 +6337,21 @@
             "https://pbs.twimg.com/media/HWX6J1hXwAAXczz.jpg"
           ],
           "text": "If you're bullish on AI (I'm not) this should be a generational once in a lifetime buying opportunity.\n\nMarket is completely dislocated and automated mechanical selling is driving these names down.\n\nTempting https://t.co/Ly8gDBeTQ4"
+        },
+        {
+          "created_at": "2026-11-05T16:11:16.000Z",
+          "id": "2118375604013916197",
+          "quoted_text": "I'm 75 bid, more! more!\n\nTELL THEM THERE'S MORE BEHIND IT https://t.co/Y0UewHwDIK",
+          "text": "BOT BTC -$75.9\nBOT IBIT 70C JAN28 https://t.co/0nYf8dqPBB"
+        },
+        {
+          "created_at": "2026-11-05T16:13:13.000Z",
+          "id": "2118376096194331058",
+          "quoted_text": "Get your shopping list ready",
+          "text": "It's easy to get paralyzed and be completely voyeuristic on days like today.\n\nYou need to have levels and assets pre-identified that compels you to act or else you'll be a dog chasing cars. https://t.co/c4H9iQ4cez"
         }
       ],
       "reads": {
-        "2111957092781240827": "No call",
-        "2112182070260965441": "No call: bearish on stocks/macro (65%, too unsure)",
         "2112229752572424657": "No call: bearish on stocks/macro (60%, too unsure)",
         "2112229981741035884": "No call",
         "2112282046932406301": "No call",
@@ -6352,7 +6369,9 @@
         "2118071753922805977": "No call",
         "2118369703085449500": "No call",
         "2118374014204977283": "No call",
-        "2118374411199717864": "No call: bullish on ai stocks (55%, too unsure)"
+        "2118374411199717864": "No call: bullish on ai stocks (55%, too unsure)",
+        "2118375604013916197": "TRADE LONG BTC",
+        "2118376096194331058": "No call"
       },
       "replies": [
         {
@@ -6447,14 +6466,6 @@
         }
       ],
       "threads": {
-        "2109664493479637119": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2109665744988643349": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109704848866459700": {
           "alerted": [],
           "self_replies": 0
@@ -6859,6 +6870,16 @@
         "2118374411199717864": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118375604013916197": {
+          "alerted": [
+            "trade:BTC:long"
+          ],
+          "self_replies": 0
+        },
+        "2118376096194331058": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -6874,8 +6895,6 @@
         "2111874363234426989": true,
         "2111875879865389103": false,
         "2111892500210458979": true,
-        "2111957092781240827": true,
-        "2112182070260965441": true,
         "2112229752572424657": true,
         "2112229981741035884": false,
         "2112282046932406301": true,
@@ -6896,7 +6915,9 @@
         "2118072324658192831": false,
         "2118369703085449500": false,
         "2118374014204977283": true,
-        "2118374411199717864": true
+        "2118374411199717864": true,
+        "2118375604013916197": true,
+        "2118376096194331058": true
       },
       "user_id": "809191427645181952"
     }
@@ -6919,5 +6940,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T16:08:37+00:00"
+  "updated_at": "2026-11-05T16:16:33+00:00"
 }
