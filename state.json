@@ -975,7 +975,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118169705047527680",
+      "last_id": "2118170273677787301",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1178,12 +1178,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-04T21:30:57.000Z",
-          "id": "2118093667907010917",
-          "reply_to_id": "2118089632890143148",
-          "text": "@0xMensa @ConclaviosM3 @_imagyn make what infrastructure?"
-        },
-        {
           "created_at": "2026-11-04T21:36:04.000Z",
           "id": "2118094958057988536",
           "reply_to_id": "2118089892664160569",
@@ -1266,6 +1260,12 @@
           "id": "2118169705047527680",
           "reply_to_id": "2118136505751253134",
           "text": "@JesseleJamesZ @I4NFTS @wirelyss ive been asking this question all day and nobody is giving me an answer\n\nif you are buying new pairs at 4k, and you call them out when you buy them, how are you supposed to operate when people buy after you? are you expecting them not to sell?"
+        },
+        {
+          "created_at": "2026-11-05T02:35:21.000Z",
+          "id": "2118170273677787301",
+          "reply_to_id": "2118169938255028441",
+          "text": "@0xMensa @JesseleJamesZ @I4NFTS @wirelyss is that not the market cap?"
         }
       ],
       "threads": {
@@ -1706,7 +1706,6 @@
         "2118006477889609953": false,
         "2118050057803198957": true,
         "2118054437293805738": false,
-        "2118093667907010917": false,
         "2118094958057988536": true,
         "2118095223360462916": true,
         "2118095906608152608": false,
@@ -1721,7 +1720,8 @@
         "2118135933375840760": false,
         "2118136828947763328": false,
         "2118144971224047906": false,
-        "2118169705047527680": true
+        "2118169705047527680": true,
+        "2118170273677787301": true
       },
       "user_id": "973261472"
     },
@@ -6921,5 +6921,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-05T02:34:21+00:00"
+  "updated_at": "2026-11-05T02:36:19+00:00"
 }
