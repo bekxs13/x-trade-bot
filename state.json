@@ -4476,7 +4476,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118359296937497003",
+      "last_id": "2118360792768598275",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4512,12 +4512,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T20:18:57.000Z",
-          "id": "2117713161625190745",
-          "quoted_text": "Nigga what the fuck did i just watch man its genuinely so over https://t.co/Y2G5UhQQzf",
-          "text": "yo be honest you think this girl i got a crush on will get the ick if i send her this https://t.co/XiZzk4kJJD"
-        },
         {
           "created_at": "2026-11-03T20:31:38.000Z",
           "id": "2117716352987533650",
@@ -4627,10 +4621,14 @@
           "id": "2118359296937497003",
           "quoted_text": "BREAKING: JP Morgan stock, $JPM, falls after CNBC reports that Senate Democrats are preparing to investigate the bank's relationship with Jeffrey Epstein. https://t.co/vsSwGPTOuT",
           "text": "oh my god they are about to rain hell on everyone https://t.co/zFD6HsAhiG"
+        },
+        {
+          "created_at": "2026-11-05T15:12:24.000Z",
+          "id": "2118360792768598275",
+          "text": "perfect market for anthropic to ipo $2T in like two weeks"
         }
       ],
       "reads": {
-        "2117713161625190745": "No call",
         "2117807965851836807": "No call",
         "2117957672087511443": "No call",
         "2117961861521932503": "No call",
@@ -4648,7 +4646,8 @@
         "2118328681831756007": "No call",
         "2118337595285356578": "No call",
         "2118353320448344198": "No call: bearish on ai stocks (60%, too unsure)",
-        "2118359296937497003": "No call"
+        "2118359296937497003": "No call",
+        "2118360792768598275": "No call"
       },
       "replies": [
         {
@@ -4743,10 +4742,6 @@
         }
       ],
       "threads": {
-        "2112622436298674308": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112631379502506077": {
           "alerted": [],
           "self_replies": 0
@@ -5148,10 +5143,13 @@
         "2118359296937497003": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118360792768598275": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117713161625190745": false,
         "2117716352987533650": false,
         "2117807965851836807": false,
         "2117957672087511443": false,
@@ -5185,7 +5183,8 @@
         "2118334501734789149": false,
         "2118337595285356578": true,
         "2118353320448344198": true,
-        "2118359296937497003": true
+        "2118359296937497003": true,
+        "2118360792768598275": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6917,5 +6916,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T15:08:22+00:00"
+  "updated_at": "2026-11-05T15:14:26+00:00"
 }
