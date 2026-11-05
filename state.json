@@ -916,12 +916,12 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2118388141300039810",
-          "reason": "Quotes a post saying equities may be near the end of the macro cycle and adds \"stay safe\", endorsing the bearish view, which matches his recorded bearish stocks/macro stance.",
+          "post_id": "2118482799456108930",
+          "reason": "\"still leaning bearish on the broader market and expect more downside next week\" despite expecting a short-term Nasdaq relief bounce; matches recorded bearish view.",
           "scope": "stocks/macro",
           "since": "2026-10-29",
           "stance": "bearish",
-          "updated_at": "2026-11-05T17:01:05.000Z"
+          "updated_at": "2026-11-05T23:17:13.000Z"
         },
         "vvv": {
           "market": "crypto",
@@ -960,7 +960,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118479625009721663",
+      "last_id": "2118482799456108930",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1028,11 +1028,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T03:12:27.000Z",
-          "id": "2118179608251990523",
-          "text": "fomo 3v3 tourney was lit, need more of these events"
-        },
         {
           "created_at": "2026-11-05T04:36:45.000Z",
           "id": "2118200824119935326",
@@ -1138,10 +1133,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2118479162176610304/img/Y-w_fQxnfoCWa2e5.jpg"
           ],
           "text": "Zcash has been one of the strongest assets in crypto recently, and i'm watching how it holds up if we get a deeper market correction\n\ni think the privacy thesis could become increasingly relevant as political and regulatory scrutiny around crypto grows\n\nthe combination of privacy features, concerns around quantum computing and growing interest in alternatives to transparent blockchains makes ZEC interesting to me"
+        },
+        {
+          "created_at": "2026-11-05T23:17:13.000Z",
+          "id": "2118482799456108930",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2118482465291649025/img/7lxnTeChv9saIUwL.jpg"
+          ],
+          "text": "i think we're getting close to a short-term relief bounce in equities after this aggressive sell-off\n\nthe Nasdaq looks pretty stretched to the downside, and i wouldn't be surprised to see some consolidation or a bounce heading into the weekend\n\ncrypto has held up relatively better so far, but i don't think we've seen the same level of selling pressure that hit some of the major equity names\n\ni'm still leaning bearish on the broader market and expect more downside next week, even if we get some temporary relief first"
         }
       ],
       "reads": {
-        "2118179608251990523": "No call",
         "2118200824119935326": "No call",
         "2118292132876480727": "TRADE LONG GOLD",
         "2118292214832943386": "No call",
@@ -1160,7 +1162,8 @@
         "2118424262230892961": "No call",
         "2118451581850951898": "No call",
         "2118457507681124421": "No call",
-        "2118479625009721663": "VIEW bullish on ZEC"
+        "2118479625009721663": "VIEW bullish on ZEC",
+        "2118482799456108930": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -1255,10 +1258,6 @@
         }
       ],
       "threads": {
-        "2115515126027891199": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115520419990319110": {
           "alerted": [],
           "self_replies": 0
@@ -1666,10 +1665,13 @@
             "bias:zec:bullish"
           ],
           "self_replies": 0
+        },
+        "2118482799456108930": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118179608251990523": false,
         "2118200824119935326": true,
         "2118292132876480727": true,
         "2118292214832943386": false,
@@ -1703,7 +1705,8 @@
         "2118445312285295046": false,
         "2118451581850951898": false,
         "2118457507681124421": false,
-        "2118479625009721663": true
+        "2118479625009721663": true,
+        "2118482799456108930": true
       },
       "user_id": "973261472"
     },
@@ -4484,7 +4487,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118480047577141295",
+      "last_id": "2118482693369323859",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4664,12 +4667,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T13:11:32.000Z",
-          "id": "2118330374451310713",
-          "reply_to_id": "2118203163266130365",
-          "text": "@NotSoEasyMoney LMAO"
-        },
-        {
           "created_at": "2026-11-05T13:18:35.000Z",
           "id": "2118332147010568590",
           "reply_to_id": "2118331788053360710",
@@ -4752,6 +4749,12 @@
           "id": "2118480047577141295",
           "reply_to_id": "2118479985183015072",
           "text": "@__Talley__ proud of you bro. gg"
+        },
+        {
+          "created_at": "2026-11-05T23:16:48.000Z",
+          "id": "2118482693369323859",
+          "reply_to_id": "2118482602638131378",
+          "text": "@JW7Studios goat"
         }
       ],
       "threads": {
@@ -5171,7 +5174,6 @@
         "2118158865028227260": true,
         "2118328374984855889": true,
         "2118328681831756007": true,
-        "2118330374451310713": false,
         "2118332147010568590": false,
         "2118333556623651273": true,
         "2118334501734789149": false,
@@ -5193,7 +5195,8 @@
         "2118468268469961080": false,
         "2118476009737773507": false,
         "2118479302673183229": false,
-        "2118480047577141295": false
+        "2118480047577141295": false,
+        "2118482693369323859": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6958,5 +6961,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T23:08:20+00:00"
+  "updated_at": "2026-11-05T23:18:22+00:00"
 }
