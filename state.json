@@ -4475,7 +4475,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118328374984855889",
+      "last_id": "2118328896248483994",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4511,12 +4511,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T19:16:08.000Z",
-          "id": "2117697352052142314",
-          "quoted_text": "Well\n\nInitially planned to buy back a smaller position. But there's only so much $ you can put on the SP500/gold for your retirement before it becomes marginally irrelevant\n\nHow do you allocate when you already have everything? \nYou just push forward with your best idea. \n\nAnd my best idea is still $ZEC. By a wide margin. Honestly, I struggle to comprehend how the whole market is not reaching the same conclusion yet. And this is where the alpha lies i guess\n\nPeople have been conditioned for a de",
-          "text": "it\u2019s not discussed enough how underwhelming the top \u201cfintwit\u201d traders are. four years of infinite charts up only. no pnl posting, no iconic trades. just pure crashouts, doom posting and misery (s&amp;p -2% off ath btw).\n\ncrypto somehow still clears https://t.co/ZWhoNXmovA"
-        },
         {
           "created_at": "2026-11-03T19:19:42.000Z",
           "id": "2117698248848630047",
@@ -4626,10 +4620,15 @@
           "created_at": "2026-11-05T13:03:35.000Z",
           "id": "2118328374984855889",
           "text": "if you really sit down and think about it the whole unstoppable money cryptocurrency thing is obviously important"
+        },
+        {
+          "created_at": "2026-11-05T13:04:49.000Z",
+          "id": "2118328681831756007",
+          "reply_to_id": "2118328374984855889",
+          "text": "i love a good low cap gem as much as the next guy but the global financial system probably is dystopian without crypto that\u2019s cool"
         }
       ],
       "reads": {
-        "2117697352052142314": "No call",
         "2117698248848630047": "No call",
         "2117711899735519632": "No call",
         "2117713161625190745": "No call",
@@ -4646,15 +4645,10 @@
         "2118126854775153000": "No call",
         "2118141847952408653": "No call",
         "2118158865028227260": "No call: bullish on crypto market (55%, too unsure)",
-        "2118328374984855889": "No call"
+        "2118328374984855889": "No call",
+        "2118328681831756007": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-05T00:49:27.000Z",
-          "id": "2118143622583406695",
-          "reply_to_id": "2118143533034901845",
-          "text": "@zuqaquz guy knows ball"
-        },
         {
           "created_at": "2026-11-05T01:15:32.000Z",
           "id": "2118150187390820647",
@@ -4738,6 +4732,12 @@
           "id": "2118316624675520795",
           "reply_to_id": "2118172866923622885",
           "text": "@toly wanna be vp"
+        },
+        {
+          "created_at": "2026-11-05T13:05:40.000Z",
+          "id": "2118328896248483994",
+          "reply_to_id": "2118328799356215441",
+          "text": "@tulipking no but it deadass is big if true"
         }
       ],
       "threads": {
@@ -5145,11 +5145,10 @@
         },
         "2118328374984855889": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2117697352052142314": true,
         "2117698248848630047": true,
         "2117699961223561547": false,
         "2117711899735519632": false,
@@ -5167,7 +5166,6 @@
         "2118110003403915731": false,
         "2118126854775153000": false,
         "2118141847952408653": false,
-        "2118143622583406695": false,
         "2118150187390820647": false,
         "2118153547363561697": false,
         "2118154838416781735": false,
@@ -5183,7 +5181,9 @@
         "2118183710487134301": false,
         "2118185568815182043": false,
         "2118316624675520795": false,
-        "2118328374984855889": true
+        "2118328374984855889": true,
+        "2118328681831756007": true,
+        "2118328896248483994": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6915,5 +6915,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T13:04:24+00:00"
+  "updated_at": "2026-11-05T13:06:19+00:00"
 }
