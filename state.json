@@ -6205,7 +6205,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118376096194331058",
+      "last_id": "2118377694056604119",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6225,14 +6225,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-19T17:09:51.000Z",
-          "id": "2112229752572424657",
-          "images": [
-            "https://pbs.twimg.com/media/HVAlr54XEAAzERd.png"
-          ],
-          "text": "Gamma runs in both directions? https://t.co/GG218iLJFp"
-        },
         {
           "created_at": "2026-10-19T17:10:45.000Z",
           "id": "2112229981741035884",
@@ -6349,10 +6341,14 @@
           "id": "2118376096194331058",
           "quoted_text": "Get your shopping list ready",
           "text": "It's easy to get paralyzed and be completely voyeuristic on days like today.\n\nYou need to have levels and assets pre-identified that compels you to act or else you'll be a dog chasing cars. https://t.co/c4H9iQ4cez"
+        },
+        {
+          "created_at": "2026-11-05T16:19:34.000Z",
+          "id": "2118377694056604119",
+          "text": "Think that was it for now thanks for playing"
         }
       ],
       "reads": {
-        "2112229752572424657": "No call: bearish on stocks/macro (60%, too unsure)",
         "2112229981741035884": "No call",
         "2112282046932406301": "No call",
         "2112543824778256848": "No call: bullish on HYPE (60%, too unsure)",
@@ -6371,7 +6367,8 @@
         "2118374014204977283": "No call",
         "2118374411199717864": "No call: bullish on ai stocks (55%, too unsure)",
         "2118375604013916197": "TRADE LONG BTC",
-        "2118376096194331058": "No call"
+        "2118376096194331058": "No call",
+        "2118377694056604119": "No call: bullish on btc (65%, too unsure)"
       },
       "replies": [
         {
@@ -6466,10 +6463,6 @@
         }
       ],
       "threads": {
-        "2109704848866459700": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109722179432812640": {
           "alerted": [],
           "self_replies": 0
@@ -6880,6 +6873,10 @@
         "2118376096194331058": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118377694056604119": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -6895,7 +6892,6 @@
         "2111874363234426989": true,
         "2111875879865389103": false,
         "2111892500210458979": true,
-        "2112229752572424657": true,
         "2112229981741035884": false,
         "2112282046932406301": true,
         "2112543824778256848": true,
@@ -6917,7 +6913,8 @@
         "2118374014204977283": true,
         "2118374411199717864": true,
         "2118375604013916197": true,
-        "2118376096194331058": true
+        "2118376096194331058": true,
+        "2118377694056604119": true
       },
       "user_id": "809191427645181952"
     }
@@ -6940,5 +6937,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T16:16:33+00:00"
+  "updated_at": "2026-11-05T16:20:33+00:00"
 }
