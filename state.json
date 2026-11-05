@@ -6195,7 +6195,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118459158609690972",
+      "last_id": "2118461410242125845",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6231,12 +6231,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T16:13:13.000Z",
-          "id": "2118376096194331058",
-          "quoted_text": "Get your shopping list ready",
-          "text": "It's easy to get paralyzed and be completely voyeuristic on days like today.\n\nYou need to have levels and assets pre-identified that compels you to act or else you'll be a dog chasing cars. https://t.co/c4H9iQ4cez"
-        },
         {
           "created_at": "2026-11-05T16:19:34.000Z",
           "id": "2118377694056604119",
@@ -6354,10 +6348,14 @@
           "id": "2118459158609690972",
           "reply_to_id": "2118458904665333980",
           "text": "Check up on your friends, be there for people when they're at their lowest and be a good human. It costs almost nothing.\n\n\"Don't fucking dance\""
+        },
+        {
+          "created_at": "2026-11-05T21:52:13.000Z",
+          "id": "2118461410242125845",
+          "text": "Good thought exercise:\n\nHow many points down would OAI and ANT be today if they were liquid instruments?"
         }
       ],
       "reads": {
-        "2118376096194331058": "No call",
         "2118377694056604119": "No call: bullish on btc (65%, too unsure)",
         "2118382800302756058": "No call",
         "2118385559257162157": "No call",
@@ -6375,7 +6373,8 @@
         "2118448237598183705": "No call: long SOXL (already called)",
         "2118449871963271573": "No call",
         "2118458904665333980": "No call",
-        "2118459158609690972": "Read together with the post it replies to"
+        "2118459158609690972": "Read together with the post it replies to",
+        "2118461410242125845": "No call"
       },
       "replies": [
         {
@@ -6470,10 +6469,6 @@
         }
       ],
       "threads": {
-        "2110367222241878277": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110367788061876276": {
           "alerted": [],
           "self_replies": 0
@@ -6885,6 +6880,10 @@
         "2118458904665333980": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2118461410242125845": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -6903,7 +6902,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118376096194331058": true,
         "2118377694056604119": true,
         "2118382800302756058": true,
         "2118385559257162157": false,
@@ -6922,7 +6920,8 @@
         "2118448447263215729": false,
         "2118449871963271573": true,
         "2118458904665333980": true,
-        "2118459158609690972": false
+        "2118459158609690972": false,
+        "2118461410242125845": true
       },
       "user_id": "809191427645181952"
     }
@@ -6945,5 +6944,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T21:44:21+00:00"
+  "updated_at": "2026-11-05T21:54:23+00:00"
 }
