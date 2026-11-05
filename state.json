@@ -6198,7 +6198,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118428712685211862",
+      "last_id": "2118433352483275030",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6234,11 +6234,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T15:49:12.000Z",
-          "id": "2118007664185835677",
-          "text": "We've decided to close nearly all of our equity shorts into last nights emotional selling. One of our most profitable months ever. Thank you to our counterparties on those trades.\n\nWhile the next year looks challenging for equity markets, I don't think it continues to make sense to be directionally short.\n\nWhile sitting nearly 50% cash, we continue to hold large HYPE and Bitcoin positions."
-        },
         {
           "created_at": "2026-11-04T15:55:25.000Z",
           "id": "2118009229705662536",
@@ -6355,10 +6350,17 @@
             "https://pbs.twimg.com/media/HWYrm8pWIAEoz4m.jpg"
           ],
           "text": "BOT - $SOXL \nBOT - 70C IBIT JAN28\nBOT - TQQQ https://t.co/c4N2zbYHFO"
+        },
+        {
+          "created_at": "2026-11-05T20:00:44.000Z",
+          "id": "2118433352483275030",
+          "images": [
+            "https://pbs.twimg.com/media/HWYv1JpWAAEZWU6.png"
+          ],
+          "text": "You just know if this guy was active right now he'd be offering absolute rape equity stakes and financing terms to the neoclouds today https://t.co/ZConOA9edd"
         }
       ],
       "reads": {
-        "2118007664185835677": "TRADE EXIT equity shorts \u00b7 VIEW neutral on stocks/macro",
         "2118009229705662536": "No call",
         "2118013350693216630": "No call",
         "2118067221691797702": "No call",
@@ -6377,7 +6379,8 @@
         "2118396199137104248": "No call",
         "2118410832665071810": "No call",
         "2118421335332499526": "No call",
-        "2118428712685211862": "TRADE LONG SOXL \u00b7 VIEW bullish on stocks/macro"
+        "2118428712685211862": "TRADE LONG SOXL \u00b7 VIEW bullish on stocks/macro",
+        "2118433352483275030": "No call"
       },
       "replies": [
         {
@@ -6472,10 +6475,6 @@
         }
       ],
       "threads": {
-        "2110080396587065760": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110115587825471879": {
           "alerted": [],
           "self_replies": 0
@@ -6887,6 +6886,10 @@
             "bias:stocks/macro:bullish"
           ],
           "self_replies": 0
+        },
+        "2118433352483275030": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -6902,7 +6905,6 @@
         "2111874363234426989": true,
         "2111875879865389103": false,
         "2111892500210458979": true,
-        "2118007664185835677": true,
         "2118008698790641737": false,
         "2118009229705662536": false,
         "2118009522807505340": true,
@@ -6924,7 +6926,8 @@
         "2118396199137104248": true,
         "2118410832665071810": true,
         "2118421335332499526": true,
-        "2118428712685211862": true
+        "2118428712685211862": true,
+        "2118433352483275030": true
       },
       "user_id": "809191427645181952"
     }
@@ -6947,5 +6950,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T19:44:23+00:00"
+  "updated_at": "2026-11-05T20:02:24+00:00"
 }
