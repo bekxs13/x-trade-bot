@@ -6201,7 +6201,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118448447263215729",
+      "last_id": "2118449871963271573",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6237,11 +6237,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T16:04:57.000Z",
-          "id": "2118374014204977283",
-          "text": "Total Jane Street destruction"
-        },
         {
           "created_at": "2026-11-05T16:06:31.000Z",
           "id": "2118374411199717864",
@@ -6363,10 +6358,14 @@
           ],
           "reply_to_id": "2118448237598183705",
           "text": "https://t.co/vYhSnHQ07y"
+        },
+        {
+          "created_at": "2026-11-05T21:06:23.000Z",
+          "id": "2118449871963271573",
+          "text": "If you didn't lose all your money today you're doing better than single digit % of the American population probably"
         }
       ],
       "reads": {
-        "2118374014204977283": "No call",
         "2118374411199717864": "No call: bullish on ai stocks (55%, too unsure)",
         "2118375604013916197": "TRADE LONG BTC",
         "2118376096194331058": "No call",
@@ -6384,7 +6383,8 @@
         "2118438009435504661": "No call",
         "2118445738183323898": "No call",
         "2118447284123787514": "No call",
-        "2118448237598183705": "No call: long SOXL (already called)"
+        "2118448237598183705": "No call: long SOXL (already called)",
+        "2118449871963271573": "No call"
       },
       "replies": [
         {
@@ -6479,10 +6479,6 @@
         }
       ],
       "threads": {
-        "2110364504332575207": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110367079408738509": {
           "alerted": [],
           "self_replies": 0
@@ -6894,6 +6890,10 @@
         "2118447284123787514": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118449871963271573": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -6912,7 +6912,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118374014204977283": true,
         "2118374411199717864": true,
         "2118375604013916197": true,
         "2118376096194331058": true,
@@ -6931,7 +6930,8 @@
         "2118445738183323898": true,
         "2118447284123787514": true,
         "2118448237598183705": true,
-        "2118448447263215729": false
+        "2118448447263215729": false,
+        "2118449871963271573": true
       },
       "user_id": "809191427645181952"
     }
@@ -6954,5 +6954,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T21:02:20+00:00"
+  "updated_at": "2026-11-05T21:08:22+00:00"
 }
