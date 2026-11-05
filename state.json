@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118282127066517939",
+      "last_id": "2118290206227157172",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -282,12 +282,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-30T22:58:13.000Z",
-          "id": "2116303690239758739",
-          "reply_to_id": "2116289241542254832",
-          "text": "@Jacobwallace818 Harsh but fair. I\u2019m working on it"
-        },
-        {
           "created_at": "2026-10-30T23:48:35.000Z",
           "id": "2116316365602926868",
           "reply_to_id": "2116316271134355621",
@@ -370,6 +364,12 @@
           "id": "2118275270352552210",
           "reply_to_id": "2118274712761520510",
           "text": "@BittexXBT @0xSisyphus seeing it from me 70/30 yes seeing it from him 90/10 yes"
+        },
+        {
+          "created_at": "2026-11-05T10:31:55.000Z",
+          "id": "2118290206227157172",
+          "reply_to_id": "2117685016658358748",
+          "text": "@DeepDishEnjoyer @dmartin_trading A trade going against u is a signal that the trade is bad Steve Cohen speaks of this"
         }
       ],
       "threads": {
@@ -779,7 +779,6 @@
         }
       },
       "trading": {
-        "2116303690239758739": false,
         "2116316365602926868": false,
         "2116355857705578604": false,
         "2116506772731253184": false,
@@ -813,7 +812,8 @@
         "2118275270352552210": false,
         "2118280023253921798": true,
         "2118280263419769037": false,
-        "2118282127066517939": true
+        "2118282127066517939": true,
+        "2118290206227157172": true
       },
       "user_id": "1446541960181858315"
     },
@@ -6903,5 +6903,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-05T10:00:27+00:00"
+  "updated_at": "2026-11-05T10:32:21+00:00"
 }
