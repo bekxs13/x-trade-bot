@@ -6203,7 +6203,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118395215283433842",
+      "last_id": "2118396199137104248",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6223,12 +6223,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-20T15:33:20.000Z",
-          "id": "2112567854172446741",
-          "reply_to_id": "2085763033297555574",
-          "text": "@grok what are the returns on these assets since this tweet"
-        },
         {
           "created_at": "2026-10-20T18:32:49.000Z",
           "id": "2112613021264773136",
@@ -6341,10 +6335,15 @@
           "created_at": "2026-11-05T17:29:11.000Z",
           "id": "2118395215283433842",
           "text": "Should we do Sunday Spaces this weekend? @SoskaKyle \n\nWould you enjoy this? Are we having fun?"
+        },
+        {
+          "created_at": "2026-11-05T17:33:06.000Z",
+          "id": "2118396199137104248",
+          "quoted_text": "*APPLE KICKS OFF SEVEN-PART US DOLLAR HIGH-GRADE BOND SALE\n*APPLE SEEKS TO RAISE UP TO $7 BILLION FROM US DOLLAR BOND SALE\n\nMicrosoft, Oracle and Meta have raised ~$50bn in US bonds since last week to fund AI.\n\nMeanwhile, Apple is raising ~$7bn to fund buybacks and dividends. \n\n7 tranches, nothing longer than 10 years, IPT on the 10Y at T+80. \n\n$AAPL",
+          "text": "Grabbing chips off the poker table and running type vibe https://t.co/HrlqDhc20v"
         }
       ],
       "reads": {
-        "2112567854172446741": "No call",
         "2112613021264773136": "No call",
         "2112655268010238248": "No call: maybe exit  (55%, too unsure)",
         "2118006107863998667": "No call",
@@ -6363,7 +6362,8 @@
         "2118382800302756058": "No call",
         "2118385559257162157": "No call",
         "2118389004932673684": "No call",
-        "2118395215283433842": "No call"
+        "2118395215283433842": "No call",
+        "2118396199137104248": "No call"
       },
       "replies": [
         {
@@ -6458,10 +6458,6 @@
         }
       ],
       "threads": {
-        "2109860304587030768": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2109861707854352759": {
           "alerted": [],
           "self_replies": 0
@@ -6870,6 +6866,10 @@
         "2118395215283433842": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118396199137104248": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -6885,7 +6885,6 @@
         "2111874363234426989": true,
         "2111875879865389103": false,
         "2111892500210458979": true,
-        "2112567854172446741": true,
         "2112613021264773136": false,
         "2112655268010238248": true,
         "2118006107863998667": false,
@@ -6907,7 +6906,8 @@
         "2118382800302756058": true,
         "2118385559257162157": false,
         "2118389004932673684": true,
-        "2118395215283433842": false
+        "2118395215283433842": false,
+        "2118396199137104248": true
       },
       "user_id": "809191427645181952"
     }
@@ -6930,5 +6930,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T17:32:20+00:00"
+  "updated_at": "2026-11-05T17:34:26+00:00"
 }
