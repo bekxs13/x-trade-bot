@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118230474623762907",
+      "last_id": "2118252010000753041",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -138,11 +138,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-30T17:21:16.000Z",
-          "id": "2116218895573143641",
-          "text": "Semiconductor etfs now up over 50% YTD"
-        },
         {
           "created_at": "2026-10-30T18:20:56.000Z",
           "id": "2116233910392918375",
@@ -268,10 +263,15 @@
           "created_at": "2026-11-05T05:58:26.000Z",
           "id": "2118221380173066301",
           "text": "What do I do for work? AI generated fireplace videos"
+        },
+        {
+          "created_at": "2026-11-05T08:00:09.000Z",
+          "id": "2118252010000753041",
+          "reply_to_id": "2118251856011153564",
+          "text": "@OnodaCapital Intact"
         }
       ],
       "reads": {
-        "2116218895573143641": "No call",
         "2116233910392918375": "No call",
         "2116256357447860345": "No call",
         "2116347053747863971": "No call",
@@ -293,12 +293,6 @@
         "2118221380173066301": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-30T12:58:02.000Z",
-          "id": "2116152649716249019",
-          "reply_to_id": "2116152426545979484",
-          "text": "@plur_daddy @blknoiz06 I\u2019ve been thinking it should go lower for 12mo but, now finally feels more possible but, every time it dodges"
-        },
         {
           "created_at": "2026-10-30T18:22:34.000Z",
           "id": "2116234322436927998",
@@ -382,6 +376,12 @@
           "id": "2118230474623762907",
           "reply_to_id": "2118229077601776062",
           "text": "@Wench71256 @BittexXBT Optimistic"
+        },
+        {
+          "created_at": "2026-11-05T07:59:32.000Z",
+          "id": "2118251856011153564",
+          "reply_to_id": "2118024652325101752",
+          "text": "@OnodaCapital Yea  if the demand seems is some function of venture dollars deployed and nasdaq price there\u2019s no bear case with demand"
         }
       ],
       "threads": {
@@ -795,8 +795,6 @@
         }
       },
       "trading": {
-        "2116152649716249019": true,
-        "2116218895573143641": true,
         "2116233910392918375": true,
         "2116234322436927998": false,
         "2116256357447860345": false,
@@ -829,7 +827,9 @@
         "2118221380173066301": false,
         "2118226197478027509": true,
         "2118226823314378780": true,
-        "2118230474623762907": false
+        "2118230474623762907": false,
+        "2118251856011153564": true,
+        "2118252010000753041": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6919,5 +6919,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-05T07:38:17+00:00"
+  "updated_at": "2026-11-05T08:00:25+00:00"
 }
