@@ -956,7 +956,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118326735317901789",
+      "last_id": "2118330461105934669",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1169,18 +1169,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T10:57:40.000Z",
-          "id": "2118296685059113121",
-          "reply_to_id": "2118294596576829762",
-          "text": "@dyorpapi whats the starting balance ill race you"
-        },
-        {
-          "created_at": "2026-11-05T11:03:34.000Z",
-          "id": "2118298170765832484",
-          "reply_to_id": "2118291195676037466",
-          "text": "@DegenQing \ud83d\udc02\ud83c\udc04\ufe0f"
-        },
-        {
           "created_at": "2026-11-05T11:14:51.000Z",
           "id": "2118301008635818293",
           "reply_to_id": "2118300737511751772",
@@ -1257,6 +1245,18 @@
           "id": "2118324934166388780",
           "reply_to_id": "2118302195422462436",
           "text": "if you havent noticed an uptick in their comms since the summer & how theyve been responding to community input then idk what to tell you\n\n& all of the criteria + activity that would likely increase the allo of a possible future airdrop ct keeps hating on while they're giving away tens of millions of dollars monthly, i dont really understand this place"
+        },
+        {
+          "created_at": "2026-11-05T13:11:31.000Z",
+          "id": "2118330369087025186",
+          "reply_to_id": "2118318299872411712",
+          "text": "@rbthreek in WoW?"
+        },
+        {
+          "created_at": "2026-11-05T13:11:53.000Z",
+          "id": "2118330461105934669",
+          "reply_to_id": "2118330330709131270",
+          "text": "@ThePumponomics yea maybe so"
         }
       ],
       "threads": {
@@ -1692,9 +1692,7 @@
         "2118200824119935326": true,
         "2118292132876480727": true,
         "2118292214832943386": false,
-        "2118296685059113121": true,
         "2118297342432440421": true,
-        "2118298170765832484": false,
         "2118301008635818293": true,
         "2118302795300261937": true,
         "2118303103531577477": false,
@@ -1710,7 +1708,9 @@
         "2118318486485106761": true,
         "2118324103761604781": true,
         "2118324934166388780": true,
-        "2118326735317901789": true
+        "2118326735317901789": true,
+        "2118330369087025186": false,
+        "2118330461105934669": false
       },
       "user_id": "973261472"
     },
@@ -4475,7 +4475,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118328896248483994",
+      "last_id": "2118330374451310713",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4650,12 +4650,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T01:15:32.000Z",
-          "id": "2118150187390820647",
-          "reply_to_id": "2118150100841386028",
-          "text": "@solarnius @thatdegenvc LMFAO"
-        },
-        {
           "created_at": "2026-11-05T01:28:53.000Z",
           "id": "2118153547363561697",
           "reply_to_id": "2118153114989535495",
@@ -4738,6 +4732,12 @@
           "id": "2118328896248483994",
           "reply_to_id": "2118328799356215441",
           "text": "@tulipking no but it deadass is big if true"
+        },
+        {
+          "created_at": "2026-11-05T13:11:32.000Z",
+          "id": "2118330374451310713",
+          "reply_to_id": "2118203163266130365",
+          "text": "@NotSoEasyMoney LMAO"
         }
       ],
       "threads": {
@@ -5166,7 +5166,6 @@
         "2118110003403915731": false,
         "2118126854775153000": false,
         "2118141847952408653": false,
-        "2118150187390820647": false,
         "2118153547363561697": false,
         "2118154838416781735": false,
         "2118155715961340018": false,
@@ -5183,7 +5182,8 @@
         "2118316624675520795": false,
         "2118328374984855889": true,
         "2118328681831756007": true,
-        "2118328896248483994": false
+        "2118328896248483994": false,
+        "2118330374451310713": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6915,5 +6915,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T13:06:19+00:00"
+  "updated_at": "2026-11-05T13:12:23+00:00"
 }
