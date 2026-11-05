@@ -956,7 +956,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118368022419448310",
+      "last_id": "2118370448006336704",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1167,12 +1167,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T12:16:39.000Z",
-          "id": "2118316563031843240",
-          "reply_to_id": "2118315829389627870",
-          "text": "@lonegoy yes i do"
-        },
-        {
           "created_at": "2026-11-05T12:46:37.000Z",
           "id": "2118324103761604781",
           "reply_to_id": "2118320173077647402",
@@ -1255,6 +1249,12 @@
           "id": "2118368022419448310",
           "reply_to_id": "2118364267330297865",
           "text": "@spazzzz33 @18jabarr ok!"
+        },
+        {
+          "created_at": "2026-11-05T15:50:46.000Z",
+          "id": "2118370448006336704",
+          "reply_to_id": "2118370141616398346",
+          "text": "@FabianoSolana mid 60s"
         }
       ],
       "threads": {
@@ -1685,7 +1685,6 @@
         "2118292214832943386": false,
         "2118297342432440421": true,
         "2118307565620572397": false,
-        "2118316563031843240": false,
         "2118318486485106761": true,
         "2118324103761604781": true,
         "2118324934166388780": true,
@@ -1706,7 +1705,8 @@
         "2118367222414393714": false,
         "2118367346645401806": false,
         "2118367953192354104": false,
-        "2118368022419448310": false
+        "2118368022419448310": false,
+        "2118370448006336704": false
       },
       "user_id": "973261472"
     },
@@ -2112,7 +2112,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2118369643110752660",
+      "last_id": "2118370841411166301",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2132,14 +2132,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T21:18:18.000Z",
-          "id": "2117728098250641532",
-          "images": [
-            "https://pbs.twimg.com/media/HWOuelBWYAAnOnE.jpg"
-          ],
-          "text": "amd cooperating and not shitting the bed https://t.co/B6aUGXImX0"
-        },
         {
           "created_at": "2026-11-03T23:12:46.000Z",
           "id": "2117756905355710835",
@@ -2271,10 +2263,15 @@
           "id": "2118369396943200472",
           "quoted_text": "Heard that Walleye, $17B AUM, and Engineers Gate, $23B AUM, are both shutting down their equity pods\n\n\"Factors all going the wrong way today = liquidations are happening\"",
           "text": "woah https://t.co/hPvOGu636g"
+        },
+        {
+          "created_at": "2026-11-05T15:52:20.000Z",
+          "id": "2118370841411166301",
+          "reply_to_id": "2118369643110752660",
+          "text": "@Anqacs 15%"
         }
       ],
       "reads": {
-        "2117728098250641532": "TRADE LONG AMD",
         "2117756905355710835": "No call",
         "2117762594673156375": "No call",
         "2117772565447852179": "No call",
@@ -2788,7 +2785,6 @@
         }
       },
       "trading": {
-        "2117728098250641532": true,
         "2117756905355710835": false,
         "2117762594673156375": false,
         "2117772565447852179": false,
@@ -2822,7 +2818,8 @@
         "2118356622154014850": false,
         "2118362882605805903": false,
         "2118369396943200472": true,
-        "2118369643110752660": false
+        "2118369643110752660": false,
+        "2118370841411166301": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6921,5 +6918,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T15:48:32+00:00"
+  "updated_at": "2026-11-05T15:52:33+00:00"
 }
