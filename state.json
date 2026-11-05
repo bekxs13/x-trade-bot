@@ -975,7 +975,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118170273677787301",
+      "last_id": "2118178667985580071",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1027,12 +1027,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-03T14:26:33.000Z",
-          "id": "2117624477928624204",
-          "quoted_text": "US\u2013IRAN: REPORTS SIGNAL POTENTIAL DIPLOMATIC BREAKTHROUGH\n\nWashington has reportedly approved a draft memorandum of understanding presented to Iran by Qatari mediators, according to Al-Araby Al-Jadeed, citing sources close to the mediation team.\n\nDiscussions are reportedly underway over arrangements for a simultaneous announcement by both sides.\n\nNegotiators are said to be discussing the first steps toward an interim agreement, followed by a resumption of US\u2013Iran talks.\n\nThe reports remain uncon",
-          "text": "generational jawboning going on https://t.co/QtffYzEOts"
-        },
         {
           "created_at": "2026-11-03T16:30:26.000Z",
           "id": "2117655653669851190",
@@ -1153,10 +1147,15 @@
           "id": "2118131326587220274",
           "quoted_text": "yoo this guy @blknoiz06 is nice with it https://t.co/WKn4AL8uxt",
           "text": "\ud83d\ude01\ud83d\ude01 https://t.co/Fi2Dhvw289"
+        },
+        {
+          "created_at": "2026-11-05T03:08:42.000Z",
+          "id": "2118178667985580071",
+          "quoted_text": "highlight from the ct basketball event is @blknoiz06 absolutely cooking \n\nthe black bull for a reason. https://t.co/6NoIQn8HxS",
+          "text": "still got it https://t.co/MzYIEnzAqN"
         }
       ],
       "reads": {
-        "2117624477928624204": "No call",
         "2117655653669851190": "No call",
         "2117656325647953982": "No call",
         "2117666234439467072": "No call: bearish on stocks/macro (same view as before)",
@@ -1174,7 +1173,8 @@
         "2118006477889609953": "No call",
         "2118050057803198957": "No call",
         "2118054437293805738": "No call",
-        "2118131326587220274": "No call"
+        "2118131326587220274": "No call",
+        "2118178667985580071": "No call"
       },
       "replies": [
         {
@@ -1269,10 +1269,6 @@
         }
       ],
       "threads": {
-        "2113432442811875690": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114706961627230706": {
           "alerted": [],
           "self_replies": 0
@@ -1684,10 +1680,13 @@
         "2118131326587220274": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118178667985580071": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117624477928624204": true,
         "2117655653669851190": false,
         "2117656325647953982": true,
         "2117666234439467072": true,
@@ -1721,7 +1720,8 @@
         "2118136828947763328": false,
         "2118144971224047906": false,
         "2118169705047527680": true,
-        "2118170273677787301": true
+        "2118170273677787301": true,
+        "2118178667985580071": false
       },
       "user_id": "973261472"
     },
@@ -4480,7 +4480,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118170861777891491",
+      "last_id": "2118178837796368833",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4656,12 +4656,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-04T23:52:37.000Z",
-          "id": "2118129318656135204",
-          "reply_to_id": "2118128745949360269",
-          "text": "@2cardtito schizo fish"
-        },
-        {
           "created_at": "2026-11-05T00:02:43.000Z",
           "id": "2118131862422089867",
           "reply_to_id": "2118131326587220274",
@@ -4744,6 +4738,12 @@
           "id": "2118170861777891491",
           "reply_to_id": "2118161007356870970",
           "text": "@mauritsneo @blknoiz06 oh my god"
+        },
+        {
+          "created_at": "2026-11-05T03:09:23.000Z",
+          "id": "2118178837796368833",
+          "reply_to_id": "2118178667985580071",
+          "text": "@blknoiz06 i was playing on the other court and we had to stop the game bro lol"
         }
       ],
       "threads": {
@@ -5173,7 +5173,6 @@
         "2118071627019878734": false,
         "2118110003403915731": false,
         "2118126854775153000": false,
-        "2118129318656135204": false,
         "2118131862422089867": false,
         "2118132423737397610": false,
         "2118132637592375481": false,
@@ -5189,7 +5188,8 @@
         "2118159081248792641": false,
         "2118159658636698069": false,
         "2118159915319435535": false,
-        "2118170861777891491": false
+        "2118170861777891491": false,
+        "2118178837796368833": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6921,5 +6921,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-04",
-  "updated_at": "2026-11-05T02:38:21+00:00"
+  "updated_at": "2026-11-05T03:10:26+00:00"
 }
