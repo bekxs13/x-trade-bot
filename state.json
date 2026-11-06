@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118669514464276962",
+      "last_id": "2118671885835579816",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1237,12 +1237,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T11:06:04.000Z",
-          "id": "2118661187852525825",
-          "reply_to_id": "2118659437699518500",
-          "text": "@poopypee6741 thanks poopypee6741"
-        },
-        {
           "created_at": "2026-11-06T11:06:50.000Z",
           "id": "2118661380215558542",
           "reply_to_id": "2118661248405602451",
@@ -1325,6 +1319,12 @@
           "id": "2118669514464276962",
           "reply_to_id": "2118666526572355928",
           "text": "@0xvsr @axxel_ai then what are you talking about there were no trenches, tf do you call that"
+        },
+        {
+          "created_at": "2026-11-06T11:48:35.000Z",
+          "id": "2118671885835579816",
+          "reply_to_id": "2118669292829041111",
+          "text": "@TylerDurden i didnt say that, the charts dont match thats why i asked, all i did was answer your question brother \ud83d\ude02"
         }
       ],
       "threads": {
@@ -1766,7 +1766,6 @@
         "2118659375891976443": true,
         "2118659436013384033": true,
         "2118661005110886492": true,
-        "2118661187852525825": false,
         "2118661380215558542": true,
         "2118662682458874366": true,
         "2118662789355168232": true,
@@ -1782,7 +1781,8 @@
         "2118666789337080025": true,
         "2118667614603919751": true,
         "2118669339997917319": false,
-        "2118669514464276962": false
+        "2118669514464276962": false,
+        "2118671885835579816": false
       },
       "user_id": "973261472"
     },
@@ -7044,5 +7044,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T11:40:20+00:00"
+  "updated_at": "2026-11-06T11:50:25+00:00"
 }
