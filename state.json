@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118846679528964379",
+      "last_id": "2118847523133551099",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1248,12 +1248,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T18:58:27.000Z",
-          "id": "2118780064502620302",
-          "reply_to_id": "2118779492046954537",
-          "text": "@Greed2Fear eth just sold off first, eth's key level was like 2360, btc 75k"
-        },
-        {
           "created_at": "2026-11-06T18:59:02.000Z",
           "id": "2118780214956507216",
           "reply_to_id": "2118779880074518866",
@@ -1339,6 +1333,12 @@
           "id": "2118846679528964379",
           "reply_to_id": "2118780801697317291",
           "text": "you think? from my pov this is achievable for traders there, the app has a tab for best callouts, regardless of how many followers you have, & everyones profile has all of their data, believe one of the advantages of social trading is you actually dont need any followers on regular social media, you just need your trade history on the apps"
+        },
+        {
+          "created_at": "2026-11-06T23:26:30.000Z",
+          "id": "2118847523133551099",
+          "reply_to_id": "2118840174515818950",
+          "text": "@justalexoki liar"
         }
       ],
       "threads": {
@@ -1776,7 +1776,6 @@
         "2118758965177880768": true,
         "2118759216429281606": true,
         "2118763151462465686": false,
-        "2118780064502620302": true,
         "2118780214956507216": false,
         "2118783472072536309": false,
         "2118802530742272478": true,
@@ -1794,7 +1793,8 @@
         "2118832406136242349": false,
         "2118845244338815398": false,
         "2118845985480982793": false,
-        "2118846679528964379": true
+        "2118846679528964379": true,
+        "2118847523133551099": false
       },
       "user_id": "973261472"
     },
@@ -7067,5 +7067,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T23:24:20+00:00"
+  "updated_at": "2026-11-06T23:28:19+00:00"
 }
