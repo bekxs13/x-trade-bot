@@ -2188,7 +2188,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2118721055346848180",
+      "last_id": "2118722934126575704",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2366,12 +2366,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-04T15:04:32.000Z",
-          "id": "2117996422028996760",
-          "reply_to_id": "2117993429967814950",
-          "text": "@salr_nyc i don't mean to be too curt but i think at your age it's impossible to be happy about politics"
-        },
-        {
           "created_at": "2026-11-04T17:50:57.000Z",
           "id": "2118038304465813682",
           "reply_to_id": "2118037667191586985",
@@ -2454,6 +2448,12 @@
           "id": "2118721055346848180",
           "reply_to_id": "2118720072177041699",
           "text": "@quantian1 tricky because you're also competing with china. they need the money for capex"
+        },
+        {
+          "created_at": "2026-11-06T15:11:26.000Z",
+          "id": "2118722934126575704",
+          "reply_to_id": "2118721315310104957",
+          "text": "@quantian1 it's not really a meme. whether or not you think it's valid it's what anthropic believes and that's the relevant point here since that guides their decision making"
         }
       ],
       "threads": {
@@ -2869,7 +2869,6 @@
         "2117859288953803111": false,
         "2117864281806897389": false,
         "2117865462067257404": false,
-        "2117996422028996760": false,
         "2118036274934399259": false,
         "2118038304465813682": false,
         "2118126606942400530": true,
@@ -2897,7 +2896,8 @@
         "2118701617004318904": false,
         "2118708860194091267": false,
         "2118715158197625062": true,
-        "2118721055346848180": false
+        "2118721055346848180": false,
+        "2118722934126575704": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7056,5 +7056,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T15:08:25+00:00"
+  "updated_at": "2026-11-06T15:12:19+00:00"
 }
