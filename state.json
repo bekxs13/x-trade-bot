@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118664707167113275",
+      "last_id": "2118665075577733227",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1237,12 +1237,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T10:33:48.000Z",
-          "id": "2118653067633848703",
-          "reply_to_id": "2118595967742333151",
-          "text": "@myuberislate nice man"
-        },
-        {
           "created_at": "2026-11-06T10:45:32.000Z",
           "id": "2118656019119087652",
           "reply_to_id": "2118550964659536006",
@@ -1325,6 +1319,12 @@
           "id": "2118664707167113275",
           "reply_to_id": "2118653339475013870",
           "text": "@TylerDurden i dont understand, where are u saying it goes from here"
+        },
+        {
+          "created_at": "2026-11-06T11:21:31.000Z",
+          "id": "2118665075577733227",
+          "reply_to_id": "2118664838037586243",
+          "text": "@axxel_ai guy with a million followers was once a struggling trencher many years ago"
         }
       ],
       "threads": {
@@ -1763,7 +1763,6 @@
         "2118580858676449596": false,
         "2118618737158799569": false,
         "2118641196163797264": true,
-        "2118653067633848703": false,
         "2118656019119087652": true,
         "2118656767957561671": true,
         "2118657647368966581": false,
@@ -1782,7 +1781,8 @@
         "2118664024615203315": false,
         "2118664147466416528": false,
         "2118664503856439598": true,
-        "2118664707167113275": true
+        "2118664707167113275": true,
+        "2118665075577733227": false
       },
       "user_id": "973261472"
     },
@@ -7044,5 +7044,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T11:20:18+00:00"
+  "updated_at": "2026-11-06T11:22:18+00:00"
 }
