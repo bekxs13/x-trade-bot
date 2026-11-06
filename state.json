@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118815129815191881",
+      "last_id": "2118818359286358121",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1249,12 +1249,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T17:44:23.000Z",
-          "id": "2118761428593353019",
-          "reply_to_id": "2118761285525618876",
-          "text": "@0xOmnia @Enter_Elysium whats the full elysium ecosystem stack? when is stuff dropping?"
-        },
-        {
           "created_at": "2026-11-06T17:44:57.000Z",
           "id": "2118761570285031850",
           "reply_to_id": "2118761423732167127",
@@ -1343,6 +1337,12 @@
           "id": "2118815129815191881",
           "reply_to_id": "2118809798020055288",
           "text": "@unclecoco \ud83d\ude4f\ud83c\udffe\ud83d\ude4f\ud83c\udffe"
+        },
+        {
+          "created_at": "2026-11-06T21:30:37.000Z",
+          "id": "2118818359286358121",
+          "reply_to_id": "2118813337282834510",
+          "text": "@AgentChud @newhandlewh0dis anyone who still believes anything sahil says is uncapable of dressing themselves in the morning"
         }
       ],
       "threads": {
@@ -1780,7 +1780,6 @@
         "2118757947274830028": true,
         "2118758965177880768": true,
         "2118759216429281606": true,
-        "2118761428593353019": true,
         "2118761570285031850": false,
         "2118761752020279414": true,
         "2118762232083579364": false,
@@ -1798,7 +1797,8 @@
         "2118809774938862028": false,
         "2118810559776727408": false,
         "2118811474282062285": false,
-        "2118815129815191881": false
+        "2118815129815191881": false,
+        "2118818359286358121": false
       },
       "user_id": "973261472"
     },
@@ -7071,5 +7071,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T21:18:19+00:00"
+  "updated_at": "2026-11-06T21:32:19+00:00"
 }
