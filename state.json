@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118761752020279414",
+      "last_id": "2118762288257650804",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1247,18 +1247,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T11:38:28.000Z",
-          "id": "2118669339997917319",
-          "reply_to_id": "2118664089304260875",
-          "text": "@hdegroott @iblastandpray he's cooking"
-        },
-        {
-          "created_at": "2026-11-06T11:39:09.000Z",
-          "id": "2118669514464276962",
-          "reply_to_id": "2118666526572355928",
-          "text": "@0xvsr @axxel_ai then what are you talking about there were no trenches, tf do you call that"
-        },
-        {
           "created_at": "2026-11-06T11:48:35.000Z",
           "id": "2118671885835579816",
           "reply_to_id": "2118669292829041111",
@@ -1335,6 +1323,18 @@
           "id": "2118761752020279414",
           "reply_to_id": "2118759391956529306",
           "text": "@Web3_Dad caught it with btc but didnt see this until recently"
+        },
+        {
+          "created_at": "2026-11-06T17:47:35.000Z",
+          "id": "2118762232083579364",
+          "reply_to_id": "2118747820014579870",
+          "text": "@divotends_ october"
+        },
+        {
+          "created_at": "2026-11-06T17:47:48.000Z",
+          "id": "2118762288257650804",
+          "reply_to_id": "2118747302756073983",
+          "text": "@HanPGL i could be wrong"
         }
       ],
       "threads": {
@@ -1763,8 +1763,6 @@
         "2118661005110886492": true,
         "2118662789355168232": true,
         "2118663468886708286": true,
-        "2118669339997917319": false,
-        "2118669514464276962": false,
         "2118671885835579816": false,
         "2118673230689075701": false,
         "2118712467312312634": false,
@@ -1790,7 +1788,9 @@
         "2118760768124637450": false,
         "2118761428593353019": true,
         "2118761570285031850": false,
-        "2118761752020279414": true
+        "2118761752020279414": true,
+        "2118762232083579364": false,
+        "2118762288257650804": false
       },
       "user_id": "973261472"
     },
@@ -7059,5 +7059,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T17:46:24+00:00"
+  "updated_at": "2026-11-06T17:48:18+00:00"
 }
