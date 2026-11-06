@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118802880757207243",
+      "last_id": "2118803640584671250",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1250,12 +1250,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T17:17:39.000Z",
-          "id": "2118754698861666591",
-          "reply_to_id": "2118735780818415635",
-          "text": "if you could make 10M/year from posting on an app and you didnt know, but somebody made you aware of this fact, would you be mad at or thankful to this person\n\ni am not bragging, i genuinely do not think ppl are aware of how much money these platforms are giving away to onboard traders"
-        },
-        {
           "created_at": "2026-11-06T17:40:59.000Z",
           "id": "2118760570207764634",
           "reply_to_id": "2118759348709232838",
@@ -1344,6 +1338,12 @@
           "id": "2118802880757207243",
           "reply_to_id": "2118783161723220343",
           "text": "@Mr_Pink_2025 @canimoncrypto probably yes a lot can happen in one month"
+        },
+        {
+          "created_at": "2026-11-06T20:32:08.000Z",
+          "id": "2118803640584671250",
+          "reply_to_id": "2118759869084000686",
+          "text": "@DjGriffith when have i ever deleted a tweet with a price prediction?"
         }
       ],
       "threads": {
@@ -1780,7 +1780,6 @@
         "2118747133205717233": true,
         "2118748641817153640": true,
         "2118750548912456032": false,
-        "2118754698861666591": false,
         "2118755232641409354": true,
         "2118757947274830028": true,
         "2118758965177880768": true,
@@ -1799,7 +1798,8 @@
         "2118780214956507216": false,
         "2118783472072536309": false,
         "2118802530742272478": true,
-        "2118802880757207243": false
+        "2118802880757207243": false,
+        "2118803640584671250": true
       },
       "user_id": "973261472"
     },
@@ -7072,5 +7072,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T20:30:19+00:00"
+  "updated_at": "2026-11-06T20:32:21+00:00"
 }
