@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118663468886708286",
+      "last_id": "2118664147466416528",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1237,18 +1237,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T04:00:41.000Z",
-          "id": "2118554137059307659",
-          "reply_to_id": "2118553450430488885",
-          "text": "@0xbarefoot @grok are you going to read 2500 replies and rank them for me? please go ahead"
-        },
-        {
-          "created_at": "2026-11-06T04:12:41.000Z",
-          "id": "2118557154072240505",
-          "reply_to_id": "2118555214467015159",
-          "text": "@0xRiver8 bro i stg watch it shii crazy"
-        },
-        {
           "created_at": "2026-11-06T06:01:50.000Z",
           "id": "2118584626063032687",
           "reply_to_id": "2118483767836721242",
@@ -1325,6 +1313,18 @@
           "id": "2118662870082662806",
           "reply_to_id": "2118662217877111170",
           "text": "@viper_moons nowhere did i say it was easy... https://t.co/VppHJeKiCa"
+        },
+        {
+          "created_at": "2026-11-06T11:17:20.000Z",
+          "id": "2118664024615203315",
+          "reply_to_id": "2118663246018171202",
+          "text": "@iblastandpray agree, seems like they are listening https://t.co/bhA5hWNQsS"
+        },
+        {
+          "created_at": "2026-11-06T11:17:50.000Z",
+          "id": "2118664147466416528",
+          "reply_to_id": "2118664024103792936",
+          "text": "@viper_moons i have a internal rolodex of everything ive ever posted on this site"
         }
       ],
       "threads": {
@@ -1760,8 +1760,6 @@
         "2118553023832322414": true,
         "2118553660691279908": false,
         "2118553868040888338": false,
-        "2118554137059307659": false,
-        "2118557154072240505": false,
         "2118580858676449596": false,
         "2118584626063032687": false,
         "2118618737158799569": false,
@@ -1782,7 +1780,9 @@
         "2118662682458874366": true,
         "2118662789355168232": true,
         "2118662870082662806": false,
-        "2118663468886708286": true
+        "2118663468886708286": true,
+        "2118664024615203315": false,
+        "2118664147466416528": false
       },
       "user_id": "973261472"
     },
@@ -7044,5 +7044,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T11:16:24+00:00"
+  "updated_at": "2026-11-06T11:18:22+00:00"
 }
