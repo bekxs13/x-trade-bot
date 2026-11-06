@@ -2188,7 +2188,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2118722934126575704",
+      "last_id": "2118726291905999055",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2208,15 +2208,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T05:23:11.000Z",
-          "id": "2117850121392238825",
-          "images": [
-            "https://pbs.twimg.com/media/HWQddJeXAAAQnuK.jpg"
-          ],
-          "quoted_text": "I don\u2019t know if this is consensus or not yet but midterms aren\u2019t that big of a deal and won\u2019t matter that much for the stock market outside of basically this week.",
-          "text": "https://t.co/JfVh7Tfo7o https://t.co/hsQ9t4yjYh"
-        },
         {
           "created_at": "2026-11-04T05:38:44.000Z",
           "id": "2117854033281003754",
@@ -2342,10 +2333,15 @@
           "id": "2118715158197625062",
           "quoted_text": "today i learned a 6% drawdown at a pod shop is the equivalent of being down 50% in crypto",
           "text": "pod shops use leverage so honestly you crypto traders who use perps should understand https://t.co/6nDSLQVd2a"
+        },
+        {
+          "created_at": "2026-11-06T15:24:46.000Z",
+          "id": "2118726291905999055",
+          "quoted_text": "Nate Silver doubts that one of the best election forecasters in the world is a profitable trader. Guys like @PoliticalKiwi ,@iabvek  @nonsenseking , @tehspeleeng , @carnitastaco , and @LanceupperPI  are my heroes when it comes to election modeling. https://t.co/2TCVnwrstV",
+          "text": "this is also just nonsense? if you have huge influence on the market that's a good thing! you trade first, publish your public forecast (with disclosures that you have positions on) and watch the profits roll in https://t.co/TzaGynqeTK"
         }
       ],
       "reads": {
-        "2117850121392238825": "No call",
         "2117854033281003754": "No call",
         "2117857795932672465": "No call",
         "2117864281806897389": "No call",
@@ -2362,7 +2358,8 @@
         "2118400995751264387": "No call",
         "2118434408227090738": "No call",
         "2118566848593543529": "No call",
-        "2118715158197625062": "No call"
+        "2118715158197625062": "No call",
+        "2118726291905999055": "No call"
       },
       "replies": [
         {
@@ -2457,10 +2454,6 @@
         }
       ],
       "threads": {
-        "2114037490541822021": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114050507551408479": {
           "alerted": [],
           "self_replies": 0
@@ -2860,10 +2853,13 @@
         "2118715158197625062": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118726291905999055": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117850121392238825": true,
         "2117854033281003754": false,
         "2117857795932672465": false,
         "2117859288953803111": false,
@@ -2897,7 +2893,8 @@
         "2118708860194091267": false,
         "2118715158197625062": true,
         "2118721055346848180": false,
-        "2118722934126575704": false
+        "2118722934126575704": false,
+        "2118726291905999055": true
       },
       "user_id": "1598545553327067137"
     },
@@ -4559,7 +4556,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118700188055265780",
+      "last_id": "2118726573075702158",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4743,12 +4740,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T23:06:17.000Z",
-          "id": "2118480047577141295",
-          "reply_to_id": "2118479985183015072",
-          "text": "@__Talley__ proud of you bro. gg"
-        },
-        {
           "created_at": "2026-11-05T23:16:48.000Z",
           "id": "2118482693369323859",
           "reply_to_id": "2118482602638131378",
@@ -4831,6 +4822,12 @@
           "id": "2118692288276889996",
           "reply_to_id": "2118691190426177565",
           "text": "@insomniacxbt so tuff"
+        },
+        {
+          "created_at": "2026-11-06T15:25:53.000Z",
+          "id": "2118726573075702158",
+          "reply_to_id": "2118725955728572888",
+          "text": "@0xMensa @stogolp hey"
         }
       ],
       "threads": {
@@ -5252,7 +5249,6 @@
         "2118374667962417403": false,
         "2118437719731011787": false,
         "2118437722914435286": false,
-        "2118480047577141295": false,
         "2118482693369323859": false,
         "2118488514451157283": false,
         "2118500325589954604": true,
@@ -5272,7 +5268,8 @@
         "2118688322340196590": false,
         "2118692288276889996": false,
         "2118695853712179456": false,
-        "2118700188055265780": true
+        "2118700188055265780": true,
+        "2118726573075702158": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7056,5 +7053,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T15:12:19+00:00"
+  "updated_at": "2026-11-06T15:26:27+00:00"
 }
