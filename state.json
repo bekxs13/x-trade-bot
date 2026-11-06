@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118737595798548683",
+      "last_id": "2118738153326403754",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1234,12 +1234,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T11:17:20.000Z",
-          "id": "2118664024615203315",
-          "reply_to_id": "2118663246018171202",
-          "text": "@iblastandpray agree, seems like they are listening https://t.co/bhA5hWNQsS"
-        },
-        {
           "created_at": "2026-11-06T11:17:50.000Z",
           "id": "2118664147466416528",
           "reply_to_id": "2118664024103792936",
@@ -1322,6 +1316,12 @@
           "id": "2118737384732799401",
           "reply_to_id": "2118725514982805578",
           "text": "@ryzzqq nice trade"
+        },
+        {
+          "created_at": "2026-11-06T16:11:54.000Z",
+          "id": "2118738153326403754",
+          "reply_to_id": "2118585034735321430",
+          "text": "@isellbeforeyou @a1lon9 yes"
         }
       ],
       "threads": {
@@ -1764,7 +1764,6 @@
         "2118661005110886492": true,
         "2118662789355168232": true,
         "2118663468886708286": true,
-        "2118664024615203315": false,
         "2118664147466416528": false,
         "2118664503856439598": true,
         "2118664707167113275": true,
@@ -1779,7 +1778,8 @@
         "2118673230689075701": false,
         "2118712467312312634": false,
         "2118737384732799401": true,
-        "2118737595798548683": false
+        "2118737595798548683": false,
+        "2118738153326403754": false
       },
       "user_id": "973261472"
     },
@@ -2185,7 +2185,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2118726291905999055",
+      "last_id": "2118738096376459757",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2360,12 +2360,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-04T17:50:57.000Z",
-          "id": "2118038304465813682",
-          "reply_to_id": "2118037667191586985",
-          "text": "@Everlast_x sure"
-        },
-        {
           "created_at": "2026-11-05T02:06:02.000Z",
           "id": "2118162897125929051",
           "reply_to_id": "2118160849340625334",
@@ -2448,6 +2442,12 @@
           "id": "2118722934126575704",
           "reply_to_id": "2118721315310104957",
           "text": "@quantian1 it's not really a meme. whether or not you think it's valid it's what anthropic believes and that's the relevant point here since that guides their decision making"
+        },
+        {
+          "created_at": "2026-11-06T16:11:41.000Z",
+          "id": "2118738096376459757",
+          "reply_to_id": "2118734874055967193",
+          "text": "@CompositeTwins why is that the scenario?? that's just irrational behavior"
         }
       ],
       "threads": {
@@ -2863,7 +2863,6 @@
         "2117864281806897389": false,
         "2117865462067257404": false,
         "2118036274934399259": false,
-        "2118038304465813682": false,
         "2118126606942400530": true,
         "2118162897125929051": true,
         "2118202965425004825": false,
@@ -2891,7 +2890,8 @@
         "2118715158197625062": true,
         "2118721055346848180": false,
         "2118722934126575704": false,
-        "2118726291905999055": true
+        "2118726291905999055": true,
+        "2118738096376459757": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7047,5 +7047,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T16:10:22+00:00"
+  "updated_at": "2026-11-06T16:12:20+00:00"
 }
