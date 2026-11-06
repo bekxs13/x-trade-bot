@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118673230689075701",
+      "last_id": "2118712467312312634",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1237,12 +1237,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T11:12:01.000Z",
-          "id": "2118662682458874366",
-          "reply_to_id": "2118661440206942505",
-          "text": "there is zero reason for a profitable perps trader to use any of these mobile social trading apps if they already make money on their own, callout rewards changes the equation for them in a way that incentivizes them to post good trades bc it is +EV to do so, also it is better for uninformed market participants because even if they dont take the trades they can learn the trader's reasoning and thesis for making their own decisions and apply that to future scenarios\n\nthis is objectively a good thing\n\nyes the money comes mostly from pump's revenue on the trading of pre-bonded coins, that does not change the calculus at all, and that revenue exists because the product has multi-year pmf with traders who like speculating on microcaps, they are paid for a service that the market clearly desires"
-        },
-        {
           "created_at": "2026-11-06T11:12:45.000Z",
           "id": "2118662870082662806",
           "reply_to_id": "2118662217877111170",
@@ -1325,6 +1319,12 @@
           "id": "2118673230689075701",
           "reply_to_id": "2118672811912826952",
           "text": "@lbexplorer my time to shine"
+        },
+        {
+          "created_at": "2026-11-06T14:29:50.000Z",
+          "id": "2118712467312312634",
+          "reply_to_id": "2118712178404634991",
+          "text": "@isbburger i havent forgot."
         }
       ],
       "threads": {
@@ -1766,7 +1766,6 @@
         "2118659375891976443": true,
         "2118659436013384033": true,
         "2118661005110886492": true,
-        "2118662682458874366": true,
         "2118662789355168232": true,
         "2118662870082662806": false,
         "2118663468886708286": true,
@@ -1782,7 +1781,8 @@
         "2118669339997917319": false,
         "2118669514464276962": false,
         "2118671885835579816": false,
-        "2118673230689075701": false
+        "2118673230689075701": false,
+        "2118712467312312634": false
       },
       "user_id": "973261472"
     },
@@ -7041,5 +7041,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T14:16:18+00:00"
+  "updated_at": "2026-11-06T14:30:21+00:00"
 }
