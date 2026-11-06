@@ -861,12 +861,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2117963620554616973",
-          "reason": "Episode description says 'bearish market outlook', matching the recorded bearish crypto market view.",
+          "post_id": "2118529539014107400",
+          "reason": "The screenshot thesis says \"believe crypto majors will also selloff here\", citing an NQ bearish retest and AI momentum names starting a downtrend, which is broader than the SOL trade.",
           "scope": "crypto market",
           "since": "2026-10-29",
           "stance": "bearish",
-          "updated_at": "2026-11-04T12:54:11.000Z"
+          "updated_at": "2026-11-06T02:22:57.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118526180026364110",
+      "last_id": "2118529539014107400",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1060,18 +1060,25 @@
           "since": "2026-10-11T14:21:53.000Z",
           "structure": "spot",
           "url": "https://x.com/blknoiz06/status/2109288381767462951"
+        },
+        "SOL": {
+          "asset": "SOL",
+          "chain": "solana",
+          "confidence": 0.9,
+          "contract_address": "",
+          "direction": "short",
+          "entry": "",
+          "horizon": "",
+          "market": "crypto",
+          "open_price": 90.12,
+          "post_id": "2118529539014107400",
+          "reason": "\"shorted 1M $SOL this morning on pump\"; the screenshot shows an open SOL short with \"Add to Short\"/\"Reduce Short\" buttons and a note to see a daily close sub 96.",
+          "since": "2026-11-06T02:22:57.000Z",
+          "structure": "perp",
+          "url": "https://x.com/blknoiz06/status/2118529539014107400"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T12:24:18.000Z",
-          "id": "2118318486485106761",
-          "images": [
-            "https://pbs.twimg.com/media/HWXHSUBW8AA4yBu.png",
-            "https://pbs.twimg.com/media/HWXHTrSX0AAZt8A.png"
-          ],
-          "text": "hype has retraced a lot of its move post-ICE &amp; https://t.co/kr3PFUAevQ announcement\n\nwhat do we think on this are we bidding into a higher low like the coinbase stablecoin partnership or is this topped for a bit https://t.co/cTIlpkxWgA"
-        },
         {
           "created_at": "2026-11-05T12:57:04.000Z",
           "id": "2118326735317901789",
@@ -1184,10 +1191,18 @@
           "created_at": "2026-11-06T01:24:24.000Z",
           "id": "2118514805107552258",
           "text": "bro said theres 15% chance of a nuke"
+        },
+        {
+          "created_at": "2026-11-06T02:22:57.000Z",
+          "id": "2118529539014107400",
+          "images": [
+            "https://pbs.twimg.com/media/HWaHYGcXcAAGYxG.jpg",
+            "https://pbs.twimg.com/media/HWaHYGaXgAEbpI1.jpg"
+          ],
+          "text": "shorted 1M $SOL this morning on pump &amp; made half as much from the callout rewards as the actual trade's pnl\n\ndont think ppl are realizing how much they are giving away to traders for the same behavior they'd be doing anywhere else\n\nperps/memecoins/gacha https://t.co/KvGeWfiO9e"
         }
       ],
       "reads": {
-        "2118318486485106761": "No call",
         "2118326735317901789": "No call",
         "2118332785656004757": "No call",
         "2118334729355399533": "No call: bearish on ai stocks (same view as before)",
@@ -1206,7 +1221,8 @@
         "2118491108657480172": "No call",
         "2118494077075537967": "VIEW bearish on memory stocks",
         "2118511108692791731": "No call: bullish on sol (same view as before)",
-        "2118514805107552258": "No call"
+        "2118514805107552258": "No call",
+        "2118529539014107400": "TRADE SHORT SOL"
       },
       "replies": [
         {
@@ -1301,10 +1317,6 @@
         }
       ],
       "threads": {
-        "2115681447856030045": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115747410026651680": {
           "alerted": [],
           "self_replies": 0
@@ -1716,10 +1728,15 @@
         "2118514805107552258": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118529539014107400": {
+          "alerted": [
+            "trade:SOL:short"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118318486485106761": true,
         "2118326735317901789": true,
         "2118332785656004757": false,
         "2118334729355399533": true,
@@ -1753,7 +1770,8 @@
         "2118494077075537967": true,
         "2118511108692791731": true,
         "2118514805107552258": false,
-        "2118526180026364110": false
+        "2118526180026364110": false,
+        "2118529539014107400": true
       },
       "user_id": "973261472"
     },
@@ -7017,5 +7035,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T02:10:20+00:00"
+  "updated_at": "2026-11-06T02:24:30+00:00"
 }
