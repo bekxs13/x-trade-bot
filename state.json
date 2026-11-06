@@ -906,12 +906,12 @@
         },
         "mu": {
           "market": "stocks",
-          "post_id": "2110027728112021765",
-          "reason": "\"memory top, mags bottom\": he flips his earlier call that the memory bottom was in to a memory top (MU chart), while calling a bottom in mega caps like META.",
+          "post_id": "2118641196163797264",
+          "reason": "\"getting close to a relief bounce in Micron\" and \"wouldn't be surprised to see a green week next week\" is a short-term bullish call, though he stays cautious longer term and expects slow consolidation.",
           "scope": "MU",
-          "since": "2026-10-13",
-          "stance": "bearish",
-          "updated_at": "2026-10-13T15:19:47.000Z"
+          "since": "2026-11-06",
+          "stance": "bullish",
+          "updated_at": "2026-11-06T09:46:38.000Z"
         },
         "oil": {
           "market": "macro",
@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118618737158799569",
+      "last_id": "2118641196163797264",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1079,12 +1079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T21:13:10.000Z",
-          "id": "2118451581850951898",
-          "quoted_text": "Just another day at the office.\n\nPowered by @AskVenice. https://t.co/19ncr21CsB",
-          "text": "lmao this is hard https://t.co/M3i62IWwKs"
-        },
         {
           "created_at": "2026-11-05T21:36:43.000Z",
           "id": "2118457507681124421",
@@ -1213,10 +1207,17 @@
           "created_at": "2026-11-06T08:17:23.000Z",
           "id": "2118618737158799569",
           "text": "https://t.co/cLrxotLNB7"
+        },
+        {
+          "created_at": "2026-11-06T09:46:38.000Z",
+          "id": "2118641196163797264",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2118641001204256768/img/QXrUCoijlWRpV6Y6.jpg"
+          ],
+          "text": "i think we're getting close to a relief bounce in Micron and some of the AI names that have been hit hardest this week\n\nMicron has dropped roughly 34% in a week, and the selling looks pretty extended at these levels\n\ni wouldn't be surprised to see a green week next week, but i'm still cautious about what happens after that\n\na bounce back into previous support could offer an opportunity to reduce risk before these stocks enter a longer period of consolidation\n\ni expect the eventual bottoming process to be much slower and less volatile than the sell-off we've just seen"
         }
       ],
       "reads": {
-        "2118451581850951898": "No call",
         "2118457507681124421": "No call",
         "2118479625009721663": "VIEW bullish on ZEC",
         "2118482799456108930": "No call: bearish on stocks/macro (same view as before)",
@@ -1234,7 +1235,8 @@
         "2118553660691279908": "No call",
         "2118553868040888338": "No call",
         "2118580858676449596": "No call",
-        "2118618737158799569": "No call"
+        "2118618737158799569": "No call",
+        "2118641196163797264": "VIEW bullish on MU"
       },
       "replies": [
         {
@@ -1335,10 +1337,6 @@
         }
       ],
       "threads": {
-        "2115901699260923906": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115901795755020627": {
           "alerted": [],
           "self_replies": 0
@@ -1752,10 +1750,15 @@
         "2118618737158799569": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118641196163797264": {
+          "alerted": [
+            "bias:mu:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118451581850951898": false,
         "2118457507681124421": false,
         "2118479625009721663": true,
         "2118482799456108930": true,
@@ -1789,7 +1792,8 @@
         "2118557154072240505": false,
         "2118580858676449596": false,
         "2118584626063032687": false,
-        "2118618737158799569": false
+        "2118618737158799569": false,
+        "2118641196163797264": true
       },
       "user_id": "973261472"
     },
@@ -7051,5 +7055,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T09:32:19+00:00"
+  "updated_at": "2026-11-06T09:48:21+00:00"
 }
