@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118803640584671250",
+      "last_id": "2118806733560697189",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1250,12 +1250,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T17:40:59.000Z",
-          "id": "2118760570207764634",
-          "reply_to_id": "2118759348709232838",
-          "text": "really? i feel like ive only flipped like 3 times this year\n\nbearish april-june except for a few coins\n\nbullish late june into july\n\nflipped bearish again like 3 weeks ago or so, dont think ive flipped back since then except for sharing some alt charts w ticker removed? & some memes"
-        },
-        {
           "created_at": "2026-11-06T17:41:46.000Z",
           "id": "2118760768124637450",
           "reply_to_id": "2118760254859305383",
@@ -1344,6 +1338,12 @@
           "id": "2118803640584671250",
           "reply_to_id": "2118759869084000686",
           "text": "@DjGriffith when have i ever deleted a tweet with a price prediction?"
+        },
+        {
+          "created_at": "2026-11-06T20:44:25.000Z",
+          "id": "2118806733560697189",
+          "reply_to_id": "2118801400951914899",
+          "text": "@elchefdesol lmao"
         }
       ],
       "threads": {
@@ -1784,7 +1784,6 @@
         "2118757947274830028": true,
         "2118758965177880768": true,
         "2118759216429281606": true,
-        "2118760570207764634": true,
         "2118760768124637450": false,
         "2118761428593353019": true,
         "2118761570285031850": false,
@@ -1799,7 +1798,8 @@
         "2118783472072536309": false,
         "2118802530742272478": true,
         "2118802880757207243": false,
-        "2118803640584671250": true
+        "2118803640584671250": true,
+        "2118806733560697189": false
       },
       "user_id": "973261472"
     },
@@ -7072,5 +7072,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T20:32:21+00:00"
+  "updated_at": "2026-11-06T20:46:16+00:00"
 }
