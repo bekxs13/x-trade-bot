@@ -4561,7 +4561,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118695853712179456",
+      "last_id": "2118700188055265780",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4597,11 +4597,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T20:03:22.000Z",
-          "id": "2118071627019878734",
-          "text": "my body loves the game but the game doesn't love my body back"
-        },
         {
           "created_at": "2026-11-04T22:35:52.000Z",
           "id": "2118110003403915731",
@@ -4719,10 +4714,14 @@
           ],
           "quoted_text": "Welcome back to the stream. https://t.co/naFUmEORKO",
           "text": "https://t.co/gFpCU2SYW7 https://t.co/CnYxNF8mz0"
+        },
+        {
+          "created_at": "2026-11-06T13:41:03.000Z",
+          "id": "2118700188055265780",
+          "text": "MARKET OPEN: The AI Trade is FINISHED, Elon vs SoftBank, CRYPTO IS BACK, LGW https://t.co/729pqryKH1"
         }
       ],
       "reads": {
-        "2118071627019878734": "No call",
         "2118110003403915731": "No call",
         "2118126854775153000": "No call",
         "2118141847952408653": "No call",
@@ -4741,7 +4740,8 @@
         "2118514443365601659": "No call",
         "2118682376239018477": "No call",
         "2118686494462300433": "No call",
-        "2118695853712179456": "No call"
+        "2118695853712179456": "No call",
+        "2118700188055265780": "No call"
       },
       "replies": [
         {
@@ -4836,10 +4836,6 @@
         }
       ],
       "threads": {
-        "2113270011104043229": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113272960890863928": {
           "alerted": [],
           "self_replies": 0
@@ -5237,10 +5233,13 @@
         "2118695853712179456": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118700188055265780": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118071627019878734": false,
         "2118110003403915731": false,
         "2118126854775153000": false,
         "2118141847952408653": false,
@@ -5274,7 +5273,8 @@
         "2118687440244535705": false,
         "2118688322340196590": false,
         "2118692288276889996": false,
-        "2118695853712179456": false
+        "2118695853712179456": false,
+        "2118700188055265780": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7044,5 +7044,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T13:36:22+00:00"
+  "updated_at": "2026-11-06T13:42:25+00:00"
 }
