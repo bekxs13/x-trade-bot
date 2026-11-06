@@ -2194,7 +2194,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2118434408227090738",
+      "last_id": "2118566848593543529",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2214,14 +2214,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T00:15:00.000Z",
-          "id": "2117772565447852179",
-          "images": [
-            "https://pbs.twimg.com/media/HWPW6qYXgAEar8o.jpg"
-          ],
-          "text": "interesting https://t.co/wIoGr0ep2J"
-        },
         {
           "created_at": "2026-11-04T01:55:12.000Z",
           "id": "2117797779225358480",
@@ -2349,10 +2341,15 @@
           "id": "2118434408227090738",
           "quoted_text": "Engineers Gate has cut the majority of a team that combined quantitative and fundamental stock analysis https://t.co/BbB3TF03y8",
           "text": "woof https://t.co/4U5ZusvedH"
+        },
+        {
+          "created_at": "2026-11-06T04:51:12.000Z",
+          "id": "2118566848593543529",
+          "quoted_text": "For the people in the comments asking for context, this report today was a massive update for many people. I'm seeing a number of prominent people who were formerly skeptical now saying RSI in under 6 months and ASI in 1\u20132 years. (I agree with both)\nhttps://t.co/gAFr5Gwi2r",
+          "text": "hilarious that this releases at the pinnacle of an absolute bloodbath month for ai stocks https://t.co/xFiFn9QS14"
         }
       ],
       "reads": {
-        "2117772565447852179": "No call",
         "2117797779225358480": "No call",
         "2117850121392238825": "No call",
         "2117854033281003754": "No call",
@@ -2369,7 +2366,8 @@
         "2118362882605805903": "No call",
         "2118369396943200472": "No call",
         "2118400995751264387": "No call",
-        "2118434408227090738": "No call"
+        "2118434408227090738": "No call",
+        "2118566848593543529": "No call"
       },
       "replies": [
         {
@@ -2467,10 +2465,6 @@
         }
       ],
       "threads": {
-        "2113789611390669011": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113999171002990880": {
           "alerted": [],
           "self_replies": 0
@@ -2870,10 +2864,13 @@
         "2118434408227090738": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118566848593543529": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117772565447852179": false,
         "2117797779225358480": false,
         "2117850121392238825": true,
         "2117854033281003754": false,
@@ -2907,7 +2904,8 @@
         "2118396983106847194": false,
         "2118400995751264387": true,
         "2118427393853370730": true,
-        "2118434408227090738": false
+        "2118434408227090738": false,
+        "2118566848593543529": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7052,5 +7050,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T04:28:24+00:00"
+  "updated_at": "2026-11-06T04:52:22+00:00"
 }
