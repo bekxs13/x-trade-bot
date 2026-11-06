@@ -2188,7 +2188,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2118715158197625062",
+      "last_id": "2118721055346848180",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2366,12 +2366,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-04T14:05:36.000Z",
-          "id": "2117981594564649370",
-          "reply_to_id": "2117980021210173771",
-          "text": "@iWatch_AAPL @ShanuMathew93 that's not who it is"
-        },
-        {
           "created_at": "2026-11-04T15:04:32.000Z",
           "id": "2117996422028996760",
           "reply_to_id": "2117993429967814950",
@@ -2454,6 +2448,12 @@
           "id": "2118708860194091267",
           "reply_to_id": "2118704809779847471",
           "text": "@Duderichy I meant the 456 last few weeks was like 2015 L train which was an order of magnitude worse than it is now because of single tracking"
+        },
+        {
+          "created_at": "2026-11-06T15:03:58.000Z",
+          "id": "2118721055346848180",
+          "reply_to_id": "2118720072177041699",
+          "text": "@quantian1 tricky because you're also competing with china. they need the money for capex"
         }
       ],
       "threads": {
@@ -2869,7 +2869,6 @@
         "2117859288953803111": false,
         "2117864281806897389": false,
         "2117865462067257404": false,
-        "2117981594564649370": false,
         "2117996422028996760": false,
         "2118036274934399259": false,
         "2118038304465813682": false,
@@ -2897,7 +2896,8 @@
         "2118663479020355654": false,
         "2118701617004318904": false,
         "2118708860194091267": false,
-        "2118715158197625062": true
+        "2118715158197625062": true,
+        "2118721055346848180": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6302,23 +6302,23 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118461410242125845",
+      "last_id": "2118720688349659268",
       "positions": {
         "BTC": {
           "asset": "BTC",
           "chain": "",
-          "confidence": 0.88,
+          "confidence": 0.72,
           "contract_address": "",
           "direction": "long",
-          "entry": "75.9k",
-          "horizon": "",
+          "entry": "",
+          "horizon": "long term",
           "market": "crypto",
           "open_price": 76365.52,
-          "post_id": "2118375604013916197",
-          "reason": "\"BOT BTC -$75.9\" plus quoting his own \"I'm 75 bid\" shows he bought BTC around 75.9k. He also bought IBIT 70C Jan28 calls, which is long BTC exposure.",
+          "post_id": "2118720688349659268",
+          "reason": "\"Fullport bitcoin and log off\" reads as going all-in on BTC, an add to the recorded BTC long. Could also be a seasonal quip rather than an actual add.",
           "since": "2026-11-05T16:11:16.000Z",
           "structure": "spot",
-          "url": "https://x.com/thinkingusd/status/2118375604013916197"
+          "url": "https://x.com/thinkingusd/status/2118720688349659268"
         },
         "SOXL": {
           "asset": "SOXL",
@@ -6338,11 +6338,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T16:19:34.000Z",
-          "id": "2118377694056604119",
-          "text": "Think that was it for now thanks for playing"
-        },
         {
           "created_at": "2026-11-05T16:39:51.000Z",
           "id": "2118382800302756058",
@@ -6460,10 +6455,14 @@
           "created_at": "2026-11-05T21:52:13.000Z",
           "id": "2118461410242125845",
           "text": "Good thought exercise:\n\nHow many points down would OAI and ANT be today if they were liquid instruments?"
+        },
+        {
+          "created_at": "2026-11-06T15:02:30.000Z",
+          "id": "2118720688349659268",
+          "text": "Fullport bitcoin and log off season"
         }
       ],
       "reads": {
-        "2118377694056604119": "No call: bullish on btc (65%, too unsure)",
         "2118382800302756058": "No call",
         "2118385559257162157": "No call",
         "2118389004932673684": "No call",
@@ -6481,7 +6480,8 @@
         "2118449871963271573": "No call",
         "2118458904665333980": "No call",
         "2118459158609690972": "Read together with the post it replies to",
-        "2118461410242125845": "No call"
+        "2118461410242125845": "No call",
+        "2118720688349659268": "TRADE LONG BTC"
       },
       "replies": [
         {
@@ -6576,10 +6576,6 @@
         }
       ],
       "threads": {
-        "2110367788061876276": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110368324102045867": {
           "alerted": [],
           "self_replies": 0
@@ -6991,6 +6987,12 @@
         "2118461410242125845": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118720688349659268": {
+          "alerted": [
+            "trade:BTC:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7009,7 +7011,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118377694056604119": true,
         "2118382800302756058": true,
         "2118385559257162157": false,
         "2118389004932673684": true,
@@ -7028,7 +7029,8 @@
         "2118449871963271573": true,
         "2118458904665333980": true,
         "2118459158609690972": false,
-        "2118461410242125845": true
+        "2118461410242125845": true,
+        "2118720688349659268": true
       },
       "user_id": "809191427645181952"
     }
@@ -7051,5 +7053,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T14:48:52+00:00"
+  "updated_at": "2026-11-06T15:04:24+00:00"
 }
