@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118806733560697189",
+      "last_id": "2118809774938862028",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1095,14 +1095,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T09:46:38.000Z",
-          "id": "2118641196163797264",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2118641001204256768/img/QXrUCoijlWRpV6Y6.jpg"
-          ],
-          "text": "i think we're getting close to a relief bounce in Micron and some of the AI names that have been hit hardest this week\n\nMicron has dropped roughly 34% in a week, and the selling looks pretty extended at these levels\n\ni wouldn't be surprised to see a green week next week, but i'm still cautious about what happens after that\n\na bounce back into previous support could offer an opportunity to reduce risk before these stocks enter a longer period of consolidation\n\ni expect the eventual bottoming process to be much slower and less volatile than the sell-off we've just seen"
-        },
         {
           "created_at": "2026-11-06T10:58:52.000Z",
           "id": "2118659375891976443",
@@ -1225,10 +1217,15 @@
           ],
           "reply_to_id": "2118762232083579364",
           "text": "@divotends_ https://t.co/bIEiqX20jg"
+        },
+        {
+          "created_at": "2026-11-06T20:56:30.000Z",
+          "id": "2118809774938862028",
+          "quoted_text": "So I rewatched market bubble and that military general interview they had on... \n\nAnd it was an unreal listen, genuinely awesome, but I do worry that the likelihood of a nuclear weapon being used against Iran being a 15% chance is about 14.9% too high.",
+          "text": "bro it was crazy https://t.co/9Rwtp3E7Za"
         }
       ],
       "reads": {
-        "2118641196163797264": "VIEW bullish on MU",
         "2118659375891976443": "No call",
         "2118659436013384033": "No call",
         "2118661005110886492": "No call",
@@ -1246,7 +1243,8 @@
         "2118755232641409354": "No call: bullish on elysium (65%, too unsure)",
         "2118757947274830028": "No call: bullish on KNTQ (65%, too unsure)",
         "2118758965177880768": "TRADE LONG XAU",
-        "2118759216429281606": "No call: bearish on crypto market (65%, too unsure)"
+        "2118759216429281606": "No call: bearish on crypto market (65%, too unsure)",
+        "2118809774938862028": "No call"
       },
       "replies": [
         {
@@ -1347,10 +1345,6 @@
         }
       ],
       "threads": {
-        "2116150452341334257": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116155738758234127": {
           "alerted": [],
           "self_replies": 0
@@ -1762,10 +1756,13 @@
         "2118759216429281606": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118809774938862028": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118641196163797264": true,
         "2118659375891976443": true,
         "2118659436013384033": true,
         "2118661005110886492": true,
@@ -1799,7 +1796,8 @@
         "2118802530742272478": true,
         "2118802880757207243": false,
         "2118803640584671250": true,
-        "2118806733560697189": false
+        "2118806733560697189": false,
+        "2118809774938862028": false
       },
       "user_id": "973261472"
     },
@@ -7072,5 +7070,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T20:46:16+00:00"
+  "updated_at": "2026-11-06T20:58:22+00:00"
 }
