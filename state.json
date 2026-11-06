@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118539686024987007",
+      "last_id": "2118540327879410058",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1079,11 +1079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T14:45:12.000Z",
-          "id": "2118353945370489099",
-          "text": "micron 730 holaay"
-        },
         {
           "created_at": "2026-11-05T14:48:32.000Z",
           "id": "2118354783723786478",
@@ -1207,10 +1202,18 @@
             "https://pbs.twimg.com/amplify_video_thumb/2118536574313050112/img/LIwqxzFdOV4rqd28.jpg"
           ],
           "text": "Checking out NFL odds on @Polymarket with Banks\n\nThe Giants have a 63% chance to beat the Eagles, but I'm still backing Philly \ud83d\ude06 https://t.co/VM4B1oBVGJ"
+        },
+        {
+          "created_at": "2026-11-06T03:05:49.000Z",
+          "id": "2118540327879410058",
+          "images": [
+            "https://pbs.twimg.com/media/HWaRL1TXAAAQeek.jpg"
+          ],
+          "reply_to_id": "2118539686024987007",
+          "text": "@TartanTradess @apelord_x 10. https://t.co/U6BqJIOawc"
         }
       ],
       "reads": {
-        "2118353945370489099": "No call",
         "2118354783723786478": "No call",
         "2118388141300039810": "No call: bearish on stocks/macro (same view as before)",
         "2118398194996461874": "No call: bearish on btc (same view as before)",
@@ -1747,7 +1750,6 @@
         }
       },
       "trading": {
-        "2118353945370489099": true,
         "2118354783723786478": true,
         "2118388141300039810": true,
         "2118398194996461874": true,
@@ -1781,7 +1783,8 @@
         "2118533886946775465": false,
         "2118535649854718182": true,
         "2118536741892358553": false,
-        "2118539686024987007": true
+        "2118539686024987007": true,
+        "2118540327879410058": false
       },
       "user_id": "973261472"
     },
@@ -4562,7 +4565,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118538986230857961",
+      "last_id": "2118539951931564101",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4746,12 +4749,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T16:08:51.000Z",
-          "id": "2118374998393925977",
-          "reply_to_id": "2118374411199717864",
-          "text": "@ThinkingUSD (im not)"
-        },
-        {
           "created_at": "2026-11-05T16:22:09.000Z",
           "id": "2118378343691104264",
           "reply_to_id": "2118377753833586854",
@@ -4834,6 +4831,12 @@
           "id": "2118538986230857961",
           "reply_to_id": "2118529686665929183",
           "text": "@stogolp more like z i got no more cash left amirite"
+        },
+        {
+          "created_at": "2026-11-06T03:04:19.000Z",
+          "id": "2118539951931564101",
+          "reply_to_id": "2118538989032571323",
+          "text": "@GweiGoose my guy!"
         }
       ],
       "threads": {
@@ -5257,7 +5260,6 @@
         "2118360792768598275": true,
         "2118363176601330012": false,
         "2118374667962417403": false,
-        "2118374998393925977": false,
         "2118378343691104264": false,
         "2118394552083968216": false,
         "2118397310594117977": false,
@@ -5275,7 +5277,8 @@
         "2118514443365601659": true,
         "2118523309524410444": false,
         "2118536676569973004": false,
-        "2118538986230857961": false
+        "2118538986230857961": false,
+        "2118539951931564101": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7045,5 +7048,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T03:04:19+00:00"
+  "updated_at": "2026-11-06T03:06:30+00:00"
 }
