@@ -4535,7 +4535,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118500325589954604",
+      "last_id": "2118514443365601659",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4571,11 +4571,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T13:35:39.000Z",
-          "id": "2117974056305602607",
-          "text": "MARKET OPEN: Democrats SWEEP the Midterms, Crypto is FINISHED, A NEW WAR BEGINS https://t.co/re5Mn9Nahi"
-        },
         {
           "created_at": "2026-11-04T14:29:28.000Z",
           "id": "2117987597536645158",
@@ -4689,10 +4684,18 @@
           "created_at": "2026-11-06T00:26:52.000Z",
           "id": "2118500325589954604",
           "text": "Emergency Market Stream: Uhh the Kospi and Korea? https://t.co/nG7quEEYW6"
+        },
+        {
+          "created_at": "2026-11-06T01:22:58.000Z",
+          "id": "2118514443365601659",
+          "images": [
+            "https://pbs.twimg.com/media/HWZ5qNVWwAABmVv.jpg"
+          ],
+          "quoted_text": "Emergency Market Stream: Uhh the Kospi and Korea? https://t.co/nG7quEEYW6",
+          "text": "https://t.co/D5luzWqTsK https://t.co/Q2qeMFoYgO"
         }
       ],
       "reads": {
-        "2117974056305602607": "No call",
         "2117987597536645158": "No call",
         "2117997781784654091": "No call",
         "2118062614869934448": "No call",
@@ -4711,7 +4714,8 @@
         "2118374667962417403": "No call",
         "2118437719731011787": "No call",
         "2118437722914435286": "Read together with the post it replies to",
-        "2118500325589954604": "No call"
+        "2118500325589954604": "No call",
+        "2118514443365601659": "No call"
       },
       "replies": [
         {
@@ -4806,10 +4810,6 @@
         }
       ],
       "threads": {
-        "2113056641188815241": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2113235484877217856": {
           "alerted": [],
           "self_replies": 0
@@ -5207,10 +5207,13 @@
         "2118500325589954604": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118514443365601659": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117974056305602607": true,
         "2117987597536645158": false,
         "2117997781784654091": false,
         "2118062614869934448": false,
@@ -5244,7 +5247,8 @@
         "2118480047577141295": false,
         "2118482693369323859": false,
         "2118488514451157283": false,
-        "2118500325589954604": true
+        "2118500325589954604": true,
+        "2118514443365601659": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7014,5 +7018,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T01:12:26+00:00"
+  "updated_at": "2026-11-06T01:24:21+00:00"
 }
