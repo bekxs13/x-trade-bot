@@ -4561,7 +4561,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118686026667319355",
+      "last_id": "2118686494462300433",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4597,14 +4597,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T15:09:56.000Z",
-          "id": "2117997781784654091",
-          "images": [
-            "https://pbs.twimg.com/media/HWSjwdpWcAA5dAb.jpg"
-          ],
-          "text": "https://t.co/csyJV8UiOG"
-        },
         {
           "created_at": "2026-11-04T19:27:33.000Z",
           "id": "2118062614869934448",
@@ -4719,10 +4711,14 @@
           "created_at": "2026-11-06T12:30:16.000Z",
           "id": "2118682376239018477",
           "text": "trading view should never update or change anything ever why would they do this"
+        },
+        {
+          "created_at": "2026-11-06T12:46:38.000Z",
+          "id": "2118686494462300433",
+          "text": "cold ass cryptocurrencies"
         }
       ],
       "reads": {
-        "2117997781784654091": "No call",
         "2118062614869934448": "No call",
         "2118071627019878734": "No call",
         "2118110003403915731": "No call",
@@ -4741,7 +4737,8 @@
         "2118437722914435286": "Read together with the post it replies to",
         "2118500325589954604": "No call",
         "2118514443365601659": "No call",
-        "2118682376239018477": "No call"
+        "2118682376239018477": "No call",
+        "2118686494462300433": "No call"
       },
       "replies": [
         {
@@ -4836,10 +4833,6 @@
         }
       ],
       "threads": {
-        "2113248567565627526": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2113249344921231730": {
           "alerted": [],
           "self_replies": 0
@@ -5237,10 +5230,13 @@
         "2118682376239018477": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118686494462300433": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117997781784654091": false,
         "2118062614869934448": false,
         "2118071627019878734": false,
         "2118110003403915731": false,
@@ -5274,7 +5270,8 @@
         "2118682308123222056": false,
         "2118682376239018477": false,
         "2118683543522185634": false,
-        "2118686026667319355": true
+        "2118686026667319355": true,
+        "2118686494462300433": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7044,5 +7041,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T12:46:30+00:00"
+  "updated_at": "2026-11-06T12:48:26+00:00"
 }
