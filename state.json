@@ -4561,7 +4561,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118686494462300433",
+      "last_id": "2118687440244535705",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4742,12 +4742,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T22:19:29.000Z",
-          "id": "2118468268469961080",
-          "reply_to_id": "2118464640980074555",
-          "text": "@MrketInsider bro how did you even what"
-        },
-        {
           "created_at": "2026-11-05T22:50:14.000Z",
           "id": "2118476009737773507",
           "reply_to_id": "2118470701929631891",
@@ -4830,6 +4824,12 @@
           "id": "2118686026667319355",
           "reply_to_id": "2118681454217683152",
           "text": "@rodeo_crypro this is the take, everyone is posting about how crowded the trade is or bull posting zec yet nobody holds any coins. ignore this app ignore this app ignore this app"
+        },
+        {
+          "created_at": "2026-11-06T12:50:23.000Z",
+          "id": "2118687440244535705",
+          "reply_to_id": "2118679635831509062",
+          "text": "@soychotic holy fuck that was this year"
         }
       ],
       "threads": {
@@ -5253,7 +5253,6 @@
         "2118374667962417403": false,
         "2118437719731011787": false,
         "2118437722914435286": false,
-        "2118468268469961080": false,
         "2118476009737773507": false,
         "2118479302673183229": false,
         "2118480047577141295": false,
@@ -5271,7 +5270,8 @@
         "2118682376239018477": false,
         "2118683543522185634": false,
         "2118686026667319355": true,
-        "2118686494462300433": true
+        "2118686494462300433": true,
+        "2118687440244535705": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7041,5 +7041,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T12:48:26+00:00"
+  "updated_at": "2026-11-06T12:52:19+00:00"
 }
