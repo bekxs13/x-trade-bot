@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118500301363970184",
+      "last_id": "2118524975141560543",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,12 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T00:00:42.000Z",
-          "id": "2118131354600886509",
-          "quoted_text": "Top of the Democratic agenda on day 1 needs to be a pause on advanced AI development, regulation of this out of control industry, and a ban on artificial superintelligence.",
-          "text": "$BTC https://t.co/QUA4QbFlTn"
-        },
         {
           "created_at": "2026-11-05T05:58:26.000Z",
           "id": "2118221380173066301",
@@ -270,10 +264,14 @@
             "https://pbs.twimg.com/media/HWZsy8WasAA1JUV.png"
           ],
           "text": "https://t.co/3AmPsVx968"
+        },
+        {
+          "created_at": "2026-11-06T02:04:49.000Z",
+          "id": "2118524975141560543",
+          "text": "Officially went from homeless for 6 months to 3 apartments this week"
         }
       ],
       "reads": {
-        "2118131354600886509": "No call: bullish on btc (65%, too unsure)",
         "2118221380173066301": "No call",
         "2118272563612958820": "No call",
         "2118280023253921798": "No call",
@@ -290,7 +288,8 @@
         "2118488204299186189": "No call",
         "2118488687982027254": "TRADE LONG BTC \u00b7 VIEW bearish on semis/ai stocks",
         "2118491617556598786": "No call",
-        "2118500301363970184": "No call"
+        "2118500301363970184": "No call",
+        "2118524975141560543": "No call"
       },
       "replies": [
         {
@@ -385,10 +384,6 @@
         }
       ],
       "threads": {
-        "2113076930035745188": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113128114725511647": {
           "alerted": [],
           "self_replies": 0
@@ -789,6 +784,10 @@
         "2118500301363970184": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118524975141560543": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -796,7 +795,6 @@
         "2117541456626004382": true,
         "2117550004063948920": false,
         "2117552098749649129": false,
-        "2118131354600886509": true,
         "2118134210104021226": true,
         "2118221380173066301": false,
         "2118226197478027509": true,
@@ -826,7 +824,8 @@
         "2118488687982027254": true,
         "2118491617556598786": false,
         "2118493422063595931": false,
-        "2118500301363970184": false
+        "2118500301363970184": false,
+        "2118524975141560543": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7018,5 +7017,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T02:00:25+00:00"
+  "updated_at": "2026-11-06T02:06:20+00:00"
 }
