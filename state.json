@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118661380215558542",
+      "last_id": "2118662682458874366",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1235,12 +1235,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T03:49:24.000Z",
-          "id": "2118551296487621027",
-          "reply_to_id": "2118550508835336303",
-          "text": "@NotSoEasyMoney bro was on fire"
-        },
-        {
           "created_at": "2026-11-06T03:59:52.000Z",
           "id": "2118553931278065738",
           "reply_to_id": "2118553716228059431",
@@ -1323,6 +1317,12 @@
           "id": "2118661380215558542",
           "reply_to_id": "2118661248405602451",
           "text": "@RAP3MEFR well technically i shorted w 50k on 20x lev \ud83d\ude05"
+        },
+        {
+          "created_at": "2026-11-06T11:12:01.000Z",
+          "id": "2118662682458874366",
+          "reply_to_id": "2118661440206942505",
+          "text": "there is zero reason for a profitable perps trader to use any of these mobile social trading apps if they already make money on their own, callout rewards changes the equation for them in a way that incentivizes them to post good trades bc it is +EV to do so, also it is better for uninformed market participants because even if they dont take the trades they can learn the trader's reasoning and thesis for making their own decisions and apply that to future scenarios\n\nthis is objectively a good thing\n\nyes the money comes mostly from pump's revenue on the trading of pre-bonded coins, that does not change the calculus at all, and that revenue exists because the product has multi-year pmf with traders who like speculating on microcaps, they are paid for a service that the market clearly desires"
         }
       ],
       "threads": {
@@ -1759,7 +1759,6 @@
         "2118532936932757723": true,
         "2118536741892358553": false,
         "2118540327879410058": false,
-        "2118551296487621027": false,
         "2118553023832322414": true,
         "2118553660691279908": false,
         "2118553868040888338": false,
@@ -1782,7 +1781,8 @@
         "2118660475198005701": false,
         "2118661005110886492": true,
         "2118661187852525825": false,
-        "2118661380215558542": true
+        "2118661380215558542": true,
+        "2118662682458874366": true
       },
       "user_id": "973261472"
     },
@@ -7044,5 +7044,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T11:08:17+00:00"
+  "updated_at": "2026-11-06T11:12:17+00:00"
 }
