@@ -943,12 +943,12 @@
         },
         "sol": {
           "market": "crypto",
-          "post_id": "2112916788426232161",
-          "reason": "Calls Solana's Alpenglow mainnet launch 'massive', a positive fundamental take on SOL matching his recorded bullish view.",
+          "post_id": "2118511108692791731",
+          "reason": "Says the original single-chain Solana thesis still makes sense and 'we're getting closer to the vision', which matches his recorded bullish SOL view.",
           "scope": "sol",
           "since": "2026-10-09",
           "stance": "bullish",
-          "updated_at": "2026-10-21T14:39:53.000Z"
+          "updated_at": "2026-11-06T01:09:43.000Z"
         },
         "stocks/macro": {
           "market": "stocks",
@@ -996,7 +996,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118494077075537967",
+      "last_id": "2118511108692791731",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1064,11 +1064,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T11:00:17.000Z",
-          "id": "2118297342432440421",
-          "text": "what are the best community coins?"
-        },
         {
           "created_at": "2026-11-05T11:40:54.000Z",
           "id": "2118307565620572397",
@@ -1182,10 +1177,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2118493618474520576/img/ig8p1bGd824w253e.jpg"
           ],
           "text": "i think the memory trade is starting to look pretty exhausted after the massive run in names like SanDisk and Micron\n\nthe recent sell-off has been aggressive enough that a short-term relief bounce wouldn't surprise me, but i expect these stocks to spend some time consolidating\n\nwhen you get parabolic moves like this, there are a lot of investors sitting on significant gains, and that creates selling pressure\n\nthe bigger question for next year is how AI demand develops, especially inference workloads and how much the major tech companies continue spending on infrastructure\n\ni think those capex decisions will be a major driver of where the memory sector goes next"
+        },
+        {
+          "created_at": "2026-11-06T01:09:43.000Z",
+          "id": "2118511108692791731",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2118511006788055040/img/Z3pkE_MqfzAD8g5I.jpg"
+          ],
+          "text": "the original Solana thesis of having everything happen on a single blockchain still makes a lot of sense to me\n\nlooking back at the past five years, every major cycle has pushed the ecosystem forward in different ways\n\nDeFi exposed the need for faster and cheaper transactions, NFTs brought new users and applications, and memecoins tested how the network handles massive amounts of trading activity\n\na lot of these trends were driven by speculation, but they also helped prove what the infrastructure could support\n\ni think we're getting closer to the vision that originally made Solana interesting back in 2020"
         }
       ],
       "reads": {
-        "2118297342432440421": "No call",
         "2118307565620572397": "No call",
         "2118318486485106761": "No call",
         "2118326735317901789": "No call",
@@ -1204,7 +1206,8 @@
         "2118482799456108930": "No call: bearish on stocks/macro (same view as before)",
         "2118488028339650745": "VIEW bullish on oil",
         "2118491108657480172": "No call",
-        "2118494077075537967": "VIEW bearish on memory stocks"
+        "2118494077075537967": "VIEW bearish on memory stocks",
+        "2118511108692791731": "No call: bullish on sol (same view as before)"
       },
       "replies": [
         {
@@ -1299,10 +1302,6 @@
         }
       ],
       "threads": {
-        "2115545854475981153": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115548592060674218": {
           "alerted": [],
           "self_replies": 0
@@ -1714,10 +1713,13 @@
             "bias:memory stocks:bearish"
           ],
           "self_replies": 0
+        },
+        "2118511108692791731": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118297342432440421": true,
         "2118307565620572397": false,
         "2118318486485106761": true,
         "2118326735317901789": true,
@@ -1751,7 +1753,8 @@
         "2118482799456108930": true,
         "2118488028339650745": true,
         "2118491108657480172": false,
-        "2118494077075537967": true
+        "2118494077075537967": true,
+        "2118511108692791731": true
       },
       "user_id": "973261472"
     },
@@ -7011,5 +7014,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T00:52:19+00:00"
+  "updated_at": "2026-11-06T01:12:26+00:00"
 }
