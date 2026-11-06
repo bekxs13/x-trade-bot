@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118529539014107400",
+      "last_id": "2118530460242571734",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1079,11 +1079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T12:57:04.000Z",
-          "id": "2118326735317901789",
-          "text": "memory getting shallacked"
-        },
         {
           "created_at": "2026-11-05T13:21:07.000Z",
           "id": "2118332785656004757",
@@ -1200,10 +1195,15 @@
             "https://pbs.twimg.com/media/HWaHYGaXgAEbpI1.jpg"
           ],
           "text": "shorted 1M $SOL this morning on pump &amp; made half as much from the callout rewards as the actual trade's pnl\n\ndont think ppl are realizing how much they are giving away to traders for the same behavior they'd be doing anywhere else\n\nperps/memecoins/gacha https://t.co/KvGeWfiO9e"
+        },
+        {
+          "created_at": "2026-11-06T02:26:36.000Z",
+          "id": "2118530460242571734",
+          "quoted_text": "Updates to Callout Rewards\n\nWe're running experimental algorithms alongside the existing Callout Reward algorithm. The daily rewards pot now has a small amount allocated to the experimental algorithm every day as we observe how effective the algorithms are.\n\nThe 'Degen' algorithm is the algorithm that everyone is familiar with, it will not change. \n\nThe 'Diamond' algorithm is the experimental algorithm. This version focuses on:\n\n- Higher market cap tokens\n- Incentivizing holding and reducing cal",
+          "text": "free bread https://t.co/s7fHyIb6oH"
         }
       ],
       "reads": {
-        "2118326735317901789": "No call",
         "2118332785656004757": "No call",
         "2118334729355399533": "No call: bearish on ai stocks (same view as before)",
         "2118335042820936021": "No call",
@@ -1222,7 +1222,8 @@
         "2118494077075537967": "VIEW bearish on memory stocks",
         "2118511108692791731": "No call: bullish on sol (same view as before)",
         "2118514805107552258": "No call",
-        "2118529539014107400": "TRADE SHORT SOL"
+        "2118529539014107400": "TRADE SHORT SOL",
+        "2118530460242571734": "No call"
       },
       "replies": [
         {
@@ -1317,10 +1318,6 @@
         }
       ],
       "threads": {
-        "2115747410026651680": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115748514840052029": {
           "alerted": [],
           "self_replies": 0
@@ -1734,10 +1731,13 @@
             "trade:SOL:short"
           ],
           "self_replies": 0
+        },
+        "2118530460242571734": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118326735317901789": true,
         "2118332785656004757": false,
         "2118334729355399533": true,
         "2118335042820936021": false,
@@ -1771,7 +1771,8 @@
         "2118511108692791731": true,
         "2118514805107552258": false,
         "2118526180026364110": false,
-        "2118529539014107400": true
+        "2118529539014107400": true,
+        "2118530460242571734": true
       },
       "user_id": "973261472"
     },
@@ -7035,5 +7036,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T02:24:30+00:00"
+  "updated_at": "2026-11-06T02:28:24+00:00"
 }
