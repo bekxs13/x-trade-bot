@@ -4535,7 +4535,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118514443365601659",
+      "last_id": "2118523309524410444",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4719,12 +4719,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T13:24:11.000Z",
-          "id": "2118333556623651273",
-          "reply_to_id": "2118333381586939963",
-          "text": "@0xvsr point is the larger purpose is so much bigger than solana memecoins it will not matter in the grand scheme"
-        },
-        {
           "created_at": "2026-11-05T13:27:56.000Z",
           "id": "2118334501734789149",
           "reply_to_id": "2118283975924019701",
@@ -4807,6 +4801,12 @@
           "id": "2118488514451157283",
           "reply_to_id": "2118485428169040271",
           "text": "@apewoodx @ShadooowOnX \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 straight cone"
+        },
+        {
+          "created_at": "2026-11-06T01:58:11.000Z",
+          "id": "2118523309524410444",
+          "reply_to_id": "2118521430413390284",
+          "text": "@stogolp wah wah wah"
         }
       ],
       "threads": {
@@ -5224,7 +5224,6 @@
         "2118158865028227260": true,
         "2118328374984855889": true,
         "2118328681831756007": true,
-        "2118333556623651273": true,
         "2118334501734789149": false,
         "2118337595285356578": true,
         "2118353320448344198": true,
@@ -5248,7 +5247,8 @@
         "2118482693369323859": false,
         "2118488514451157283": false,
         "2118500325589954604": true,
-        "2118514443365601659": true
+        "2118514443365601659": true,
+        "2118523309524410444": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7018,5 +7018,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T01:26:25+00:00"
+  "updated_at": "2026-11-06T02:00:25+00:00"
 }
