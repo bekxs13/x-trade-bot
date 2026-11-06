@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118551296487621027",
+      "last_id": "2118553023832322414",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1079,11 +1079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T14:48:32.000Z",
-          "id": "2118354783723786478",
-          "text": "they're really going to bart the whole short squeeze move wow"
-        },
         {
           "created_at": "2026-11-05T17:01:05.000Z",
           "id": "2118388141300039810",
@@ -1211,10 +1206,15 @@
           ],
           "reply_to_id": "2118539686024987007",
           "text": "@TartanTradess @apelord_x 10. https://t.co/U6BqJIOawc"
+        },
+        {
+          "created_at": "2026-11-06T03:56:16.000Z",
+          "id": "2118553023832322414",
+          "reply_to_id": "2118297342432440421",
+          "text": "@grok list the most frequently replied coins by top 25 to this post"
         }
       ],
       "reads": {
-        "2118354783723786478": "No call",
         "2118388141300039810": "No call: bearish on stocks/macro (same view as before)",
         "2118398194996461874": "No call: bearish on btc (same view as before)",
         "2118420839804834119": "No call",
@@ -1232,7 +1232,8 @@
         "2118530460242571734": "No call",
         "2118531055984537766": "No call",
         "2118532936932757723": "No call",
-        "2118536741892358553": "No call"
+        "2118536741892358553": "No call",
+        "2118553023832322414": "No call"
       },
       "replies": [
         {
@@ -1637,7 +1638,7 @@
         },
         "2118297342432440421": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2118307565620572397": {
           "alerted": [],
@@ -1753,7 +1754,6 @@
         }
       },
       "trading": {
-        "2118354783723786478": true,
         "2118388141300039810": true,
         "2118398194996461874": true,
         "2118420839804834119": false,
@@ -1787,7 +1787,8 @@
         "2118543694718710100": true,
         "2118547915065131103": true,
         "2118548705137848588": false,
-        "2118551296487621027": false
+        "2118551296487621027": false,
+        "2118553023832322414": true
       },
       "user_id": "973261472"
     },
@@ -7051,5 +7052,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T03:50:21+00:00"
+  "updated_at": "2026-11-06T03:58:25+00:00"
 }
