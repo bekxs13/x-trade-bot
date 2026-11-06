@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118553023832322414",
+      "last_id": "2118553931278065738",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1079,17 +1079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T17:01:05.000Z",
-          "id": "2118388141300039810",
-          "quoted_text": "i'm starting to think we could be near the end of this macro cycle for equities\n\na lot of the stocks that have led the market since late 2022 are sitting on massive gains, and we're finally seeing some meaningful profit-taking after years without a major correction\n\ncrypto started showing weakness earlier, which could explain why it bottomed ahead of equities and bounced so strongly in Q3\n\nthe question i'm trying to figure out now is whether that bounce marked the beginning of a new bull market ",
-          "text": "stay safe https://t.co/OvtTKPZRqw"
-        },
-        {
-          "created_at": "2026-11-05T17:41:02.000Z",
-          "id": "2118398194996461874",
-          "text": "i dont think 75k holds"
-        },
         {
           "created_at": "2026-11-05T19:11:01.000Z",
           "id": "2118420839804834119",
@@ -1212,11 +1201,20 @@
           "id": "2118553023832322414",
           "reply_to_id": "2118297342432440421",
           "text": "@grok list the most frequently replied coins by top 25 to this post"
+        },
+        {
+          "created_at": "2026-11-06T03:58:48.000Z",
+          "id": "2118553660691279908",
+          "text": "kinda still in shock from this convo with the general guy"
+        },
+        {
+          "created_at": "2026-11-06T03:59:37.000Z",
+          "id": "2118553868040888338",
+          "quoted_text": "kinda still in shock from this convo with the general guy",
+          "text": "sounds like he genuinely thinks this war goes on for v long time and that the most optimal solution is to tactically nuke them https://t.co/MMWZfQ7qtU"
         }
       ],
       "reads": {
-        "2118388141300039810": "No call: bearish on stocks/macro (same view as before)",
-        "2118398194996461874": "No call: bearish on btc (same view as before)",
         "2118420839804834119": "No call",
         "2118424262230892961": "No call",
         "2118451581850951898": "No call",
@@ -1233,15 +1231,11 @@
         "2118531055984537766": "No call",
         "2118532936932757723": "No call",
         "2118536741892358553": "No call",
-        "2118553023832322414": "No call"
+        "2118553023832322414": "No call",
+        "2118553660691279908": "No call",
+        "2118553868040888338": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-05T20:48:15.000Z",
-          "id": "2118445312285295046",
-          "reply_to_id": "2118390251647357162",
-          "text": "@tittyrespecter wya"
-        },
         {
           "created_at": "2026-11-06T02:09:36.000Z",
           "id": "2118526180026364110",
@@ -1331,17 +1325,15 @@
           "id": "2118551296487621027",
           "reply_to_id": "2118550508835336303",
           "text": "@NotSoEasyMoney bro was on fire"
+        },
+        {
+          "created_at": "2026-11-06T03:59:52.000Z",
+          "id": "2118553931278065738",
+          "reply_to_id": "2118553716228059431",
+          "text": "@poopypee6741 what."
         }
       ],
       "threads": {
-        "2115791236544049498": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2115841735045623975": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115848675692068975": {
           "alerted": [],
           "self_replies": 0
@@ -1751,14 +1743,19 @@
         "2118536741892358553": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118553660691279908": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2118553868040888338": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118388141300039810": true,
-        "2118398194996461874": true,
         "2118420839804834119": false,
         "2118424262230892961": false,
-        "2118445312285295046": false,
         "2118451581850951898": false,
         "2118457507681124421": false,
         "2118479625009721663": true,
@@ -1788,7 +1785,10 @@
         "2118547915065131103": true,
         "2118548705137848588": false,
         "2118551296487621027": false,
-        "2118553023832322414": true
+        "2118553023832322414": true,
+        "2118553660691279908": false,
+        "2118553868040888338": false,
+        "2118553931278065738": false
       },
       "user_id": "973261472"
     },
@@ -7052,5 +7052,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T03:58:25+00:00"
+  "updated_at": "2026-11-06T04:00:30+00:00"
 }
