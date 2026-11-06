@@ -5285,12 +5285,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2115829811130020148",
-          "reason": "Broader than the ZEC long: he expects 'Bitcoin to undergo a crisis of confidence' and 'continued underperformance', saying BTC could trade 'like ETH last cycle'.",
+          "post_id": "2118741768170811600",
+          "reason": "Says Bitcoin will face a crisis of confidence and holders' belief in new highs will be challenged, matching the recorded bearish BTC view. ZEC bullishness is also restated.",
           "scope": "btc",
           "since": "2026-10-29",
           "stance": "bearish",
-          "updated_at": "2026-10-29T15:35:11.000Z"
+          "updated_at": "2026-11-06T16:26:16.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -5322,7 +5322,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2118716728331129234",
+      "last_id": "2118741768170811600",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -5342,14 +5342,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T01:58:01.000Z",
-          "id": "2108376406308909287",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2108372971278794752/img/UBp0iJPI9ZciY3y2.jpg"
-          ],
-          "text": "How Zcash Flips Bitcoin This Cycle\n\n0:00 $ZEC flipping BTC?\n1:20 Second Mover Advantage\n3:41 Project Tachyon: Path to 50k TPS\n5:39 How To Think About Zcash\n13:05 How Zcash gets to $20k\n15:13 Their Bias is Your Opportunity https://t.co/osxE0UNUlb https://t.co/90W3zL5mIH"
-        },
         {
           "created_at": "2026-10-09T12:07:56.000Z",
           "id": "2108529897144828181",
@@ -5496,10 +5488,15 @@
           "id": "2118716728331129234",
           "reply_to_id": "2118716140021272827",
           "text": "@HFAresearch I suspect a lot of shady activity will take place in the last few days where memecoin cabals will pump and dump a coin to try to beat us. Hopefully the @Pumpfun team will disqualify any cabal that profit on any shady activity as per the terms &amp; conditions."
+        },
+        {
+          "created_at": "2026-11-06T16:26:16.000Z",
+          "id": "2118741768170811600",
+          "quoted_text": "$ZEC is an extremely misunderstood asset, which is why there's still so much upside left.\n\nZEC started to bottom around April 2025, when @ebfull shared a blog post about Project Tachyon. Tachyon makes Zcash quantum proof and paves the way to scale Zcash to 50k TPS. And you cannot address quantum without addressing scalability since post-quantum cryptographic signatures are going to be an order of magnitude larger.\n\nAt the risk of sounding hyperbolic, the real bull case for Zcash is to fulfill Sa",
+          "text": "The reason $ZEC will go parabolic is because Bitcoin will face a crisis of confidence in the coming years, and ZEC will take its lunch.\n\nThose who blindly believe BTC will hit new highs every few years will have those assumptions challenged.\n\nTheir ignorance/bias is your alpha. https://t.co/a5JXWCp4pY"
         }
       ],
       "reads": {
-        "2108376406308909287": "No call: bullish on ZEC (same view as before)",
         "2108529897144828181": "No call",
         "2108530042913579048": "No call",
         "2109995821613961284": "No call",
@@ -5517,7 +5514,8 @@
         "2117954235698483689": "VIEW bullish on crypto market",
         "2118503326082117747": "No call: bullish on ZEC (same view as before)",
         "2118716140021272827": "No call",
-        "2118716728331129234": "No call"
+        "2118716728331129234": "No call",
+        "2118741768170811600": "No call: bearish on btc (same view as before)"
       },
       "replies": [
         {
@@ -5723,10 +5721,13 @@
         "2118716140021272827": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2118741768170811600": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108376406308909287": true,
         "2108529897144828181": true,
         "2108530042913579048": false,
         "2109995821613961284": true,
@@ -5760,7 +5761,8 @@
         "2118702365607956767": true,
         "2118703553246351480": false,
         "2118716140021272827": true,
-        "2118716728331129234": true
+        "2118716728331129234": true,
+        "2118741768170811600": true
       },
       "user_id": "1064421325186359296"
     },
@@ -7048,5 +7050,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T16:22:20+00:00"
+  "updated_at": "2026-11-06T16:28:24+00:00"
 }
