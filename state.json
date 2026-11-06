@@ -4556,7 +4556,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118726573075702158",
+      "last_id": "2118727666345918476",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4740,12 +4740,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T23:16:48.000Z",
-          "id": "2118482693369323859",
-          "reply_to_id": "2118482602638131378",
-          "text": "@JW7Studios goat"
-        },
-        {
           "created_at": "2026-11-05T23:39:56.000Z",
           "id": "2118488514451157283",
           "reply_to_id": "2118485428169040271",
@@ -4828,6 +4822,12 @@
           "id": "2118726573075702158",
           "reply_to_id": "2118725955728572888",
           "text": "@0xMensa @stogolp hey"
+        },
+        {
+          "created_at": "2026-11-06T15:30:14.000Z",
+          "id": "2118727666345918476",
+          "reply_to_id": "2118725747301114001",
+          "text": "@dinkin_flickaa is this an official endorsement"
         }
       ],
       "threads": {
@@ -5249,7 +5249,6 @@
         "2118374667962417403": false,
         "2118437719731011787": false,
         "2118437722914435286": false,
-        "2118482693369323859": false,
         "2118488514451157283": false,
         "2118500325589954604": true,
         "2118514443365601659": true,
@@ -5269,7 +5268,8 @@
         "2118692288276889996": false,
         "2118695853712179456": false,
         "2118700188055265780": true,
-        "2118726573075702158": false
+        "2118726573075702158": false,
+        "2118727666345918476": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6299,7 +6299,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118722030774485244",
+      "last_id": "2118727970021904749",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6335,14 +6335,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T16:50:49.000Z",
-          "id": "2118385559257162157",
-          "images": [
-            "https://pbs.twimg.com/media/HWYEbKnWgAAXDic.png"
-          ],
-          "text": "James C. Flood mode https://t.co/LOHCvTorpO"
-        },
         {
           "created_at": "2026-11-05T17:04:31.000Z",
           "id": "2118389004932673684",
@@ -6460,10 +6452,14 @@
           ],
           "reply_to_id": "2118720688349659268",
           "text": "Trying to fill more under 75k down to 73k https://t.co/7OKTZwM2Wn"
+        },
+        {
+          "created_at": "2026-11-06T15:31:26.000Z",
+          "id": "2118727970021904749",
+          "text": "Getting a sinking feeling that they're going to run the lows before the real bounce"
         }
       ],
       "reads": {
-        "2118385559257162157": "No call",
         "2118389004932673684": "No call",
         "2118395215283433842": "No call",
         "2118396199137104248": "No call",
@@ -6481,7 +6477,8 @@
         "2118459158609690972": "Read together with the post it replies to",
         "2118461410242125845": "No call",
         "2118720688349659268": "TRADE LONG BTC",
-        "2118722030774485244": "No call: long BTC (already called)"
+        "2118722030774485244": "No call: long BTC (already called)",
+        "2118727970021904749": "No call"
       },
       "replies": [
         {
@@ -6576,10 +6573,6 @@
         }
       ],
       "threads": {
-        "2110368324102045867": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110369624021930336": {
           "alerted": [],
           "self_replies": 0
@@ -6993,6 +6986,10 @@
             "trade:BTC:long"
           ],
           "self_replies": 1
+        },
+        "2118727970021904749": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7011,7 +7008,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118385559257162157": false,
         "2118389004932673684": true,
         "2118395215283433842": false,
         "2118396199137104248": true,
@@ -7030,7 +7026,8 @@
         "2118459158609690972": false,
         "2118461410242125845": true,
         "2118720688349659268": true,
-        "2118722030774485244": true
+        "2118722030774485244": true,
+        "2118727970021904749": true
       },
       "user_id": "809191427645181952"
     }
@@ -7053,5 +7050,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T15:26:27+00:00"
+  "updated_at": "2026-11-06T15:32:26+00:00"
 }
