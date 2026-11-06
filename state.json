@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118557154072240505",
+      "last_id": "2118580858676449596",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1079,11 +1079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T19:11:01.000Z",
-          "id": "2118420839804834119",
-          "text": "https://t.co/BcRfmsMgAR"
-        },
         {
           "created_at": "2026-11-05T19:24:37.000Z",
           "id": "2118424262230892961",
@@ -1212,10 +1207,15 @@
           "id": "2118553868040888338",
           "quoted_text": "kinda still in shock from this convo with the general guy",
           "text": "sounds like he genuinely thinks this war goes on for v long time and that the most optimal solution is to tactically nuke them https://t.co/MMWZfQ7qtU"
+        },
+        {
+          "created_at": "2026-11-06T05:46:52.000Z",
+          "id": "2118580858676449596",
+          "quoted_text": "pickup basketball is what we were put on this earth to do",
+          "text": "real and true https://t.co/lR1NvfRooH"
         }
       ],
       "reads": {
-        "2118420839804834119": "No call",
         "2118424262230892961": "No call",
         "2118451581850951898": "No call",
         "2118457507681124421": "No call",
@@ -1233,7 +1233,8 @@
         "2118536741892358553": "No call",
         "2118553023832322414": "No call",
         "2118553660691279908": "No call",
-        "2118553868040888338": "No call"
+        "2118553868040888338": "No call",
+        "2118580858676449596": "No call"
       },
       "replies": [
         {
@@ -1334,10 +1335,6 @@
         }
       ],
       "threads": {
-        "2115848675692068975": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115898797322826115": {
           "alerted": [],
           "self_replies": 0
@@ -1751,10 +1748,13 @@
         "2118553868040888338": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118580858676449596": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118420839804834119": false,
         "2118424262230892961": false,
         "2118451581850951898": false,
         "2118457507681124421": false,
@@ -1788,7 +1788,8 @@
         "2118553868040888338": false,
         "2118553931278065738": false,
         "2118554137059307659": false,
-        "2118557154072240505": false
+        "2118557154072240505": false,
+        "2118580858676449596": false
       },
       "user_id": "973261472"
     },
@@ -7050,5 +7051,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T05:08:17+00:00"
+  "updated_at": "2026-11-06T05:48:21+00:00"
 }
