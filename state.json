@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118622265952833772",
+      "last_id": "2118796550277357861",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,11 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T21:18:08.000Z",
-          "id": "2118452832915640738",
-          "text": "No matter how low public equities go, continue to mark your private ai companies to market"
-        },
         {
           "created_at": "2026-11-05T21:27:24.000Z",
           "id": "2118455163434475725",
@@ -267,10 +262,14 @@
           "created_at": "2026-11-06T08:14:54.000Z",
           "id": "2118618111079485921",
           "text": "Is Nick Fuentes the largest figure in the Republican Party"
+        },
+        {
+          "created_at": "2026-11-06T20:03:57.000Z",
+          "id": "2118796550277357861",
+          "text": "Not now babe I\u2019m reading the Avalanche Q3 token holder report"
         }
       ],
       "reads": {
-        "2118452832915640738": "No call",
         "2118455163434475725": "No call",
         "2118467299153944660": "No call",
         "2118475957933846740": "No call",
@@ -289,7 +288,8 @@
         "2118591409225880053": "No call",
         "2118591697198457223": "No call",
         "2118591745307091444": "Read together with the post it replies to",
-        "2118618111079485921": "No call"
+        "2118618111079485921": "No call",
+        "2118796550277357861": "No call"
       },
       "replies": [
         {
@@ -384,10 +384,6 @@
         }
       ],
       "threads": {
-        "2113369845387694390": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113376411004338252": {
           "alerted": [],
           "self_replies": 0
@@ -788,6 +784,10 @@
         "2118618111079485921": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118796550277357861": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -799,7 +799,6 @@
         "2118290206227157172": true,
         "2118292680962900015": false,
         "2118403946649903609": false,
-        "2118452832915640738": true,
         "2118455163434475725": true,
         "2118467084535640378": true,
         "2118467299153944660": true,
@@ -825,7 +824,8 @@
         "2118591745307091444": false,
         "2118618111079485921": false,
         "2118619320574247012": false,
-        "2118622265952833772": false
+        "2118622265952833772": false,
+        "2118796550277357861": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7072,5 +7072,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T19:42:20+00:00"
+  "updated_at": "2026-11-06T20:04:26+00:00"
 }
