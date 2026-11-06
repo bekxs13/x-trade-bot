@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118493422063595931",
+      "last_id": "2118500301363970184",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,12 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T22:40:42.000Z",
-          "id": "2118111221484544046",
-          "reply_to_id": "2118110308921389144",
-          "text": "tried topside nov13 35vols everywhere!"
-        },
         {
           "created_at": "2026-11-05T00:00:42.000Z",
           "id": "2118131354600886509",
@@ -268,10 +262,17 @@
             "https://pbs.twimg.com/media/HWZk5OeagAEVRvB.jpg"
           ],
           "text": "Based alert https://t.co/sQTLdTYwtc"
+        },
+        {
+          "created_at": "2026-11-06T00:26:46.000Z",
+          "id": "2118500301363970184",
+          "images": [
+            "https://pbs.twimg.com/media/HWZsy8WasAA1JUV.png"
+          ],
+          "text": "https://t.co/3AmPsVx968"
         }
       ],
       "reads": {
-        "2118111221484544046": "No call: maybe long BTC (60%, too unsure)",
         "2118131354600886509": "No call: bullish on btc (65%, too unsure)",
         "2118221380173066301": "No call",
         "2118272563612958820": "No call",
@@ -288,7 +289,8 @@
         "2118487955602096436": "No call",
         "2118488204299186189": "No call",
         "2118488687982027254": "TRADE LONG BTC \u00b7 VIEW bearish on semis/ai stocks",
-        "2118491617556598786": "No call"
+        "2118491617556598786": "No call",
+        "2118500301363970184": "No call"
       },
       "replies": [
         {
@@ -383,10 +385,6 @@
         }
       ],
       "threads": {
-        "2113047882542534722": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2113076930035745188": {
           "alerted": [],
           "self_replies": 0
@@ -787,6 +785,10 @@
         "2118491617556598786": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118500301363970184": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -794,7 +796,6 @@
         "2117541456626004382": true,
         "2117550004063948920": false,
         "2117552098749649129": false,
-        "2118111221484544046": true,
         "2118131354600886509": true,
         "2118134210104021226": true,
         "2118221380173066301": false,
@@ -824,7 +825,8 @@
         "2118488204299186189": true,
         "2118488687982027254": true,
         "2118491617556598786": false,
-        "2118493422063595931": false
+        "2118493422063595931": false,
+        "2118500301363970184": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4530,7 +4532,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2118488514451157283",
+      "last_id": "2118500325589954604",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4566,11 +4568,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T12:49:22.000Z",
-          "id": "2117962409663246407",
-          "text": "democratic lawyers are the new celebrities"
-        },
         {
           "created_at": "2026-11-04T13:35:39.000Z",
           "id": "2117974056305602607",
@@ -4684,10 +4681,14 @@
           "id": "2118437722914435286",
           "reply_to_id": "2118437719731011787",
           "text": "I am excited to announce @fomo as the title sponsor of my stream. I first met @paulerlanger in 2024 when he showed me the figma file that would eventually become fomo as we know it today. \n\nAt @counterpartytv we only partner with products that we personally use and love. fomo is exactly that. My niche crypto stream has evolved into what I believe is the best daily markets show, covering everything from onchain to equities to macro (only when I'm forced). Similarly, fomo started as a \"crypto trading app\u201d and is clearly becoming the dominant platform to trade all assets. We share the goal of helping people discover the best traders and become better equipped to operate in markets. \n\nThank you to fomo and everyone that tunes in to the show every morning. (8:30am est M-F, pull up)."
+        },
+        {
+          "created_at": "2026-11-06T00:26:52.000Z",
+          "id": "2118500325589954604",
+          "text": "Emergency Market Stream: Uhh the Kospi and Korea? https://t.co/nG7quEEYW6"
         }
       ],
       "reads": {
-        "2117962409663246407": "No call",
         "2117974056305602607": "No call",
         "2117987597536645158": "No call",
         "2117997781784654091": "No call",
@@ -4706,7 +4707,8 @@
         "2118363176601330012": "No call",
         "2118374667962417403": "No call",
         "2118437719731011787": "No call",
-        "2118437722914435286": "Read together with the post it replies to"
+        "2118437722914435286": "Read together with the post it replies to",
+        "2118500325589954604": "No call"
       },
       "replies": [
         {
@@ -4801,10 +4803,6 @@
         }
       ],
       "threads": {
-        "2113047220778049862": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113056641188815241": {
           "alerted": [],
           "self_replies": 1
@@ -5202,10 +5200,13 @@
         "2118437719731011787": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2118500325589954604": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117962409663246407": false,
         "2117974056305602607": true,
         "2117987597536645158": false,
         "2117997781784654091": false,
@@ -5239,7 +5240,8 @@
         "2118479302673183229": false,
         "2118480047577141295": false,
         "2118482693369323859": false,
-        "2118488514451157283": false
+        "2118488514451157283": false,
+        "2118500325589954604": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7004,5 +7006,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T00:02:24+00:00"
+  "updated_at": "2026-11-06T00:28:26+00:00"
 }
