@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118656767957561671",
+      "last_id": "2118657647368966581",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1240,12 +1240,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T03:08:02.000Z",
-          "id": "2118540884971229289",
-          "reply_to_id": "2118535397554930021",
-          "text": "@podcastpunk this is conjecture, i dont actually know, i do know they make 500m+ a year and have 2B in cash"
-        },
-        {
           "created_at": "2026-11-06T03:10:49.000Z",
           "id": "2118541586917446017",
           "reply_to_id": "2118540045984612770",
@@ -1331,6 +1325,12 @@
           "id": "2118656767957561671",
           "reply_to_id": "2118656449471725942",
           "text": "@LSDinmycoffee if you could make an extra 10M a year just posting all of your perps trades for free and trade on the exact same venue for same fees would you do it or no"
+        },
+        {
+          "created_at": "2026-11-06T10:52:00.000Z",
+          "id": "2118657647368966581",
+          "reply_to_id": "2118657050075172949",
+          "text": "@LokimetaX @LSDinmycoffee he does have that kind of money to trade"
         }
       ],
       "threads": {
@@ -1770,7 +1770,6 @@
         "2118532936932757723": true,
         "2118536741892358553": false,
         "2118540327879410058": false,
-        "2118540884971229289": true,
         "2118541586917446017": false,
         "2118543476895944982": true,
         "2118543694718710100": true,
@@ -1790,7 +1789,8 @@
         "2118652999002157133": false,
         "2118653067633848703": false,
         "2118656019119087652": true,
-        "2118656767957561671": true
+        "2118656767957561671": true,
+        "2118657647368966581": false
       },
       "user_id": "973261472"
     },
@@ -7052,5 +7052,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T10:50:19+00:00"
+  "updated_at": "2026-11-06T10:52:19+00:00"
 }
