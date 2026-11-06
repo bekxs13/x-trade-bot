@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118738539512787281",
+      "last_id": "2118739508548038858",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1079,14 +1079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T01:09:43.000Z",
-          "id": "2118511108692791731",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2118511006788055040/img/Z3pkE_MqfzAD8g5I.jpg"
-          ],
-          "text": "the original Solana thesis of having everything happen on a single blockchain still makes a lot of sense to me\n\nlooking back at the past five years, every major cycle has pushed the ecosystem forward in different ways\n\nDeFi exposed the need for faster and cheaper transactions, NFTs brought new users and applications, and memecoins tested how the network handles massive amounts of trading activity\n\na lot of these trends were driven by speculation, but they also helped prove what the infrastructure could support\n\ni think we're getting closer to the vision that originally made Solana interesting back in 2020"
-        },
         {
           "created_at": "2026-11-06T01:24:24.000Z",
           "id": "2118514805107552258",
@@ -1209,10 +1201,17 @@
           "created_at": "2026-11-06T16:09:41.000Z",
           "id": "2118737595798548683",
           "text": "yo"
+        },
+        {
+          "created_at": "2026-11-06T16:17:17.000Z",
+          "id": "2118739508548038858",
+          "images": [
+            "https://pbs.twimg.com/media/HWdGWZ5WYAA7KNN.png"
+          ],
+          "text": "would you long or short this https://t.co/8yU1GXIpTo"
         }
       ],
       "reads": {
-        "2118511108692791731": "No call: bullish on sol (same view as before)",
         "2118514805107552258": "No call",
         "2118529539014107400": "TRADE SHORT SOL",
         "2118530460242571734": "No call",
@@ -1230,7 +1229,8 @@
         "2118661005110886492": "No call",
         "2118662789355168232": "No call",
         "2118663468886708286": "No call",
-        "2118737595798548683": "No call"
+        "2118737595798548683": "No call",
+        "2118739508548038858": "No call"
       },
       "replies": [
         {
@@ -1325,10 +1325,6 @@
         }
       ],
       "threads": {
-        "2115938158437146768": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115944683398648228": {
           "alerted": [],
           "self_replies": 0
@@ -1742,10 +1738,13 @@
         "2118737595798548683": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118739508548038858": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118511108692791731": true,
         "2118514805107552258": false,
         "2118529539014107400": true,
         "2118530460242571734": true,
@@ -1779,7 +1778,8 @@
         "2118737384732799401": true,
         "2118737595798548683": false,
         "2118738153326403754": false,
-        "2118738539512787281": true
+        "2118738539512787281": true,
+        "2118739508548038858": true
       },
       "user_id": "973261472"
     },
@@ -7047,5 +7047,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T16:14:17+00:00"
+  "updated_at": "2026-11-06T16:18:23+00:00"
 }
