@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118618111079485921",
+      "last_id": "2118619320574247012",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -293,12 +293,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-03T09:38:57.000Z",
-          "id": "2117552098749649129",
-          "reply_to_id": "2117551533252350036",
-          "text": "@osf_rekt Yes I can believe it hadn\u2019t thought for closer to 5050 but maybe is the driver"
-        },
-        {
           "created_at": "2026-11-05T00:12:03.000Z",
           "id": "2118134210104021226",
           "reply_to_id": "2118133345876156625",
@@ -381,6 +375,12 @@
           "id": "2118570955996111104",
           "reply_to_id": "2118486848347746311",
           "text": "@AndrewCurran_ Wait isn\u2019t metr like owned by anthropic or I\u2019m misremembering"
+        },
+        {
+          "created_at": "2026-11-06T08:19:42.000Z",
+          "id": "2118619320574247012",
+          "reply_to_id": "2118619066902720893",
+          "text": "@clocktoss Trump\u2019s politics arguably had 0 in common with the Republican Party same with DSA and dems the parties just stretch both directions over time w/ internet and instability"
         }
       ],
       "threads": {
@@ -791,7 +791,6 @@
         }
       },
       "trading": {
-        "2117552098749649129": false,
         "2118134210104021226": true,
         "2118226197478027509": true,
         "2118226823314378780": true,
@@ -825,7 +824,8 @@
         "2118591409225880053": false,
         "2118591697198457223": false,
         "2118591745307091444": false,
-        "2118618111079485921": false
+        "2118618111079485921": false,
+        "2118619320574247012": false
       },
       "user_id": "1446541960181858315"
     },
@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118584626063032687",
+      "last_id": "2118618737158799569",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1079,11 +1079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T19:24:37.000Z",
-          "id": "2118424262230892961",
-          "text": "karma tax"
-        },
         {
           "created_at": "2026-11-05T21:13:10.000Z",
           "id": "2118451581850951898",
@@ -1213,10 +1208,14 @@
           "id": "2118580858676449596",
           "quoted_text": "pickup basketball is what we were put on this earth to do",
           "text": "real and true https://t.co/lR1NvfRooH"
+        },
+        {
+          "created_at": "2026-11-06T08:17:23.000Z",
+          "id": "2118618737158799569",
+          "text": "https://t.co/cLrxotLNB7"
         }
       ],
       "reads": {
-        "2118424262230892961": "No call",
         "2118451581850951898": "No call",
         "2118457507681124421": "No call",
         "2118479625009721663": "VIEW bullish on ZEC",
@@ -1234,7 +1233,8 @@
         "2118553023832322414": "No call",
         "2118553660691279908": "No call",
         "2118553868040888338": "No call",
-        "2118580858676449596": "No call"
+        "2118580858676449596": "No call",
+        "2118618737158799569": "No call"
       },
       "replies": [
         {
@@ -1335,10 +1335,6 @@
         }
       ],
       "threads": {
-        "2115898797322826115": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115901699260923906": {
           "alerted": [],
           "self_replies": 0
@@ -1752,10 +1748,13 @@
         "2118580858676449596": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118618737158799569": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118424262230892961": false,
         "2118451581850951898": false,
         "2118457507681124421": false,
         "2118479625009721663": true,
@@ -1789,7 +1788,8 @@
         "2118554137059307659": false,
         "2118557154072240505": false,
         "2118580858676449596": false,
-        "2118584626063032687": false
+        "2118584626063032687": false,
+        "2118618737158799569": false
       },
       "user_id": "973261472"
     },
@@ -7051,5 +7051,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T08:16:21+00:00"
+  "updated_at": "2026-11-06T08:20:24+00:00"
 }
