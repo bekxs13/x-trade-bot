@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118712467312312634",
+      "last_id": "2118737595798548683",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1079,14 +1079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T00:02:02.000Z",
-          "id": "2118494077075537967",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2118493618474520576/img/ig8p1bGd824w253e.jpg"
-          ],
-          "text": "i think the memory trade is starting to look pretty exhausted after the massive run in names like SanDisk and Micron\n\nthe recent sell-off has been aggressive enough that a short-term relief bounce wouldn't surprise me, but i expect these stocks to spend some time consolidating\n\nwhen you get parabolic moves like this, there are a lot of investors sitting on significant gains, and that creates selling pressure\n\nthe bigger question for next year is how AI demand develops, especially inference workloads and how much the major tech companies continue spending on infrastructure\n\ni think those capex decisions will be a major driver of where the memory sector goes next"
-        },
         {
           "created_at": "2026-11-06T01:09:43.000Z",
           "id": "2118511108692791731",
@@ -1212,10 +1204,14 @@
           "id": "2118663468886708286",
           "quoted_text": "Market Bubble ep.26: my full conversation with Mark Kimmitt (Former Army Brigadier General)\n\nIran's military strategy, the tactical nuke scenario, prediction market odds, oil prices and his experiences in the Middle East\n\n0:00 - Iran's strategy and military pressure\n8:04 - Regime collapse and the nuclear debate\n14:00 - Tactical nukes and the uranium threat\n21:11 - Polymarket odds, oil and Trump\n28:10 - Istanbul, Dubai and aliens",
           "text": "dawg this shit was crazy please watch this https://t.co/jyCfM5krOv"
+        },
+        {
+          "created_at": "2026-11-06T16:09:41.000Z",
+          "id": "2118737595798548683",
+          "text": "yo"
         }
       ],
       "reads": {
-        "2118494077075537967": "VIEW bearish on memory stocks",
         "2118511108692791731": "No call: bullish on sol (same view as before)",
         "2118514805107552258": "No call",
         "2118529539014107400": "TRADE SHORT SOL",
@@ -1233,15 +1229,10 @@
         "2118659436013384033": "No call",
         "2118661005110886492": "No call",
         "2118662789355168232": "No call",
-        "2118663468886708286": "No call"
+        "2118663468886708286": "No call",
+        "2118737595798548683": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-06T11:12:45.000Z",
-          "id": "2118662870082662806",
-          "reply_to_id": "2118662217877111170",
-          "text": "@viper_moons nowhere did i say it was easy... https://t.co/VppHJeKiCa"
-        },
         {
           "created_at": "2026-11-06T11:17:20.000Z",
           "id": "2118664024615203315",
@@ -1325,13 +1316,15 @@
           "id": "2118712467312312634",
           "reply_to_id": "2118712178404634991",
           "text": "@isbburger i havent forgot."
+        },
+        {
+          "created_at": "2026-11-06T16:08:51.000Z",
+          "id": "2118737384732799401",
+          "reply_to_id": "2118725514982805578",
+          "text": "@ryzzqq nice trade"
         }
       ],
       "threads": {
-        "2115931791446220896": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115938158437146768": {
           "alerted": [],
           "self_replies": 0
@@ -1745,10 +1738,13 @@
         "2118663468886708286": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118737595798548683": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118494077075537967": true,
         "2118511108692791731": true,
         "2118514805107552258": false,
         "2118529539014107400": true,
@@ -1767,7 +1763,6 @@
         "2118659436013384033": true,
         "2118661005110886492": true,
         "2118662789355168232": true,
-        "2118662870082662806": false,
         "2118663468886708286": true,
         "2118664024615203315": false,
         "2118664147466416528": false,
@@ -1782,7 +1777,9 @@
         "2118669514464276962": false,
         "2118671885835579816": false,
         "2118673230689075701": false,
-        "2118712467312312634": false
+        "2118712467312312634": false,
+        "2118737384732799401": true,
+        "2118737595798548683": false
       },
       "user_id": "973261472"
     },
@@ -7050,5 +7047,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T15:38:17+00:00"
+  "updated_at": "2026-11-06T16:10:22+00:00"
 }
