@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118587970039226849",
+      "last_id": "2118591745307091444",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,23 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T09:52:25.000Z",
-          "id": "2118280263419769037",
-          "reply_to_id": "2118280023253921798",
-          "text": "Sto thinks I\u2019m trippin maybe I\u2019m tapped out and trippin"
-        },
-        {
-          "created_at": "2026-11-05T09:59:49.000Z",
-          "id": "2118282127066517939",
-          "text": "Strc at peg but the dividend is daily what\u2019s the catalyst date to unpeg now?"
-        },
-        {
-          "created_at": "2026-11-05T17:37:35.000Z",
-          "id": "2118397328038269171",
-          "reply_to_id": "2118280263419769037",
-          "text": "Yuppp lmao"
-        },
         {
           "created_at": "2026-11-05T18:03:10.000Z",
           "id": "2118403767066595683",
@@ -268,11 +251,25 @@
           "created_at": "2026-11-06T06:15:08.000Z",
           "id": "2118587970039226849",
           "text": "We went back to the 1k 10k or 1m views meta"
+        },
+        {
+          "created_at": "2026-11-06T06:28:48.000Z",
+          "id": "2118591409225880053",
+          "text": "Congrats on your AI startup man that was more of a 2025 vibe"
+        },
+        {
+          "created_at": "2026-11-06T06:29:56.000Z",
+          "id": "2118591697198457223",
+          "text": "Oblique, the agent framework, has raised at a 15 billion dollar valuation"
+        },
+        {
+          "created_at": "2026-11-06T06:30:08.000Z",
+          "id": "2118591745307091444",
+          "reply_to_id": "2118591697198457223",
+          "text": "see that's just made up but you wouldn't really know"
         }
       ],
       "reads": {
-        "2118280263419769037": "No call",
-        "2118282127066517939": "No call",
         "2118403767066595683": "No call",
         "2118452832915640738": "No call",
         "2118455163434475725": "No call",
@@ -289,7 +286,10 @@
         "2118531894052815292": "No call",
         "2118532663120458108": "No call",
         "2118540566736851268": "No call",
-        "2118587970039226849": "No call"
+        "2118587970039226849": "No call",
+        "2118591409225880053": "No call",
+        "2118591697198457223": "No call",
+        "2118591745307091444": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -384,14 +384,6 @@
         }
       ],
       "threads": {
-        "2113337411749208514": {
-          "alerted": [],
-          "self_replies": 1
-        },
-        "2113340035856543849": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113356579609452917": {
           "alerted": [],
           "self_replies": 1
@@ -788,6 +780,14 @@
         "2118587970039226849": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118591409225880053": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2118591697198457223": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
@@ -798,11 +798,8 @@
         "2118230474623762907": false,
         "2118251856011153564": true,
         "2118275270352552210": false,
-        "2118280263419769037": false,
-        "2118282127066517939": true,
         "2118290206227157172": true,
         "2118292680962900015": false,
-        "2118397328038269171": false,
         "2118403767066595683": true,
         "2118403946649903609": false,
         "2118452832915640738": true,
@@ -825,7 +822,10 @@
         "2118540566736851268": true,
         "2118560992187846830": true,
         "2118570955996111104": false,
-        "2118587970039226849": false
+        "2118587970039226849": false,
+        "2118591409225880053": false,
+        "2118591697198457223": false,
+        "2118591745307091444": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7051,5 +7051,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T06:16:19+00:00"
+  "updated_at": "2026-11-06T06:30:28+00:00"
 }
