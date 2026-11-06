@@ -852,12 +852,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2118398194996461874",
-          "reason": "\"i dont think 75k holds\" most likely refers to BTC at around 75k, a bearish call matching the recorded BTC view and short.",
+          "post_id": "2118758965177880768",
+          "reason": "Says BTC will retest its summer lows 'just delayed', which matches the recorded bearish BTC view.",
           "scope": "btc",
           "since": "2026-10-26",
           "stance": "bearish",
-          "updated_at": "2026-11-05T17:41:02.000Z"
+          "updated_at": "2026-11-06T17:34:36.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118757947274830028",
+      "last_id": "2118759216429281606",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1076,21 +1076,25 @@
           "since": "2026-11-06T02:22:57.000Z",
           "structure": "perp",
           "url": "https://x.com/blknoiz06/status/2118529539014107400"
+        },
+        "XAU": {
+          "asset": "XAU",
+          "chain": "",
+          "confidence": 0.75,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "3900-4000",
+          "horizon": "",
+          "market": "macro",
+          "open_price": null,
+          "post_id": "2118758965177880768",
+          "reason": "Says 'bought this when it failed to breakdown from 3900' on spot gold (XAU/USD chart). This is the gold long already on record since 11-05, so it is mostly an elaboration with the entry zone added, not a new add.",
+          "since": "2026-11-06T17:34:36.000Z",
+          "structure": "spot",
+          "url": "https://x.com/blknoiz06/status/2118758965177880768"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T03:59:37.000Z",
-          "id": "2118553868040888338",
-          "quoted_text": "kinda still in shock from this convo with the general guy",
-          "text": "sounds like he genuinely thinks this war goes on for v long time and that the most optimal solution is to tactically nuke them https://t.co/MMWZfQ7qtU"
-        },
-        {
-          "created_at": "2026-11-06T05:46:52.000Z",
-          "id": "2118580858676449596",
-          "quoted_text": "pickup basketball is what we were put on this earth to do",
-          "text": "real and true https://t.co/lR1NvfRooH"
-        },
         {
           "created_at": "2026-11-06T08:17:23.000Z",
           "id": "2118618737158799569",
@@ -1203,11 +1207,23 @@
           ],
           "quoted_text": "think ppl are sleeping on elysium",
           "text": "i think @Enter_Elysium could be an interesting development for the Hyperliquid ecosystem\n\nHyperCore has already attracted significant trading activity, but HyperEVM hasn't seen the same level of adoption from applications\n\nKinetiq is building Elysium as a faster L2 to support more onchain activity, and i'm particularly interested in how they're approaching token economics\n\nthe plan to direct a portion of revenue toward KNTQ buybacks and burns, while encouraging applications to do the same, is worth paying attention to\n\ni think L2s that can build active ecosystems and create sustainable value for their native tokens will have a better chance of standing out"
+        },
+        {
+          "created_at": "2026-11-06T17:34:36.000Z",
+          "id": "2118758965177880768",
+          "images": [
+            "https://pbs.twimg.com/media/HWdXvJfWIAEbdTP.jpg"
+          ],
+          "quoted_text": "bought gold",
+          "text": "$XAU 3900-4000 is a bid, bought this when it failed to breakdown from 3900\n\nsummer lows on gold were also same time as lows on $BTC, recently retested (which i also think bitcoin is going to do just delayed)\n\npeak of memory was also bottom on gold\n\nppl risking off -&gt; metals bid https://t.co/5YhbRuqbOh https://t.co/nTyjZGAn2Z"
+        },
+        {
+          "created_at": "2026-11-06T17:35:36.000Z",
+          "id": "2118759216429281606",
+          "text": "60k 1500 60"
         }
       ],
       "reads": {
-        "2118553868040888338": "No call",
-        "2118580858676449596": "No call",
         "2118618737158799569": "No call",
         "2118641196163797264": "VIEW bullish on MU",
         "2118659375891976443": "No call",
@@ -1225,7 +1241,9 @@
         "2118748641817153640": "No call: bullish on ZEC (same view as before)",
         "2118750548912456032": "No call",
         "2118755232641409354": "No call: bullish on elysium (65%, too unsure)",
-        "2118757947274830028": "No call: bullish on KNTQ (65%, too unsure)"
+        "2118757947274830028": "No call: bullish on KNTQ (65%, too unsure)",
+        "2118758965177880768": "TRADE LONG XAU",
+        "2118759216429281606": "No call: bearish on crypto market (65%, too unsure)"
       },
       "replies": [
         {
@@ -1320,16 +1338,6 @@
         }
       ],
       "threads": {
-        "2116132561843896668": {
-          "alerted": [
-            "trade:ETH:short"
-          ],
-          "self_replies": 0
-        },
-        "2116134237971915020": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116150452341334257": {
           "alerted": [],
           "self_replies": 0
@@ -1735,11 +1743,19 @@
         "2118757947274830028": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118758965177880768": {
+          "alerted": [
+            "trade:XAU:long"
+          ],
+          "self_replies": 0
+        },
+        "2118759216429281606": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118553868040888338": false,
-        "2118580858676449596": false,
         "2118618737158799569": false,
         "2118641196163797264": true,
         "2118659375891976443": true,
@@ -1772,7 +1788,9 @@
         "2118753306935726336": false,
         "2118754698861666591": false,
         "2118755232641409354": true,
-        "2118757947274830028": true
+        "2118757947274830028": true,
+        "2118758965177880768": true,
+        "2118759216429281606": true
       },
       "user_id": "973261472"
     },
@@ -7042,5 +7060,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T17:32:29+00:00"
+  "updated_at": "2026-11-06T17:36:26+00:00"
 }
