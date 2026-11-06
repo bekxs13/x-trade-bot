@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118531894052815292",
+      "last_id": "2118532663120458108",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,12 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T08:00:09.000Z",
-          "id": "2118252010000753041",
-          "reply_to_id": "2118251856011153564",
-          "text": "@OnodaCapital Intact"
-        },
         {
           "created_at": "2026-11-05T09:21:49.000Z",
           "id": "2118272563612958820",
@@ -269,6 +263,11 @@
           "created_at": "2026-11-06T02:32:18.000Z",
           "id": "2118531894052815292",
           "text": "A \u201cbusiness\u201d is a marketing function for selling equity, not a firm to serve customers"
+        },
+        {
+          "created_at": "2026-11-06T02:35:21.000Z",
+          "id": "2118532663120458108",
+          "text": "2026 economy makes sense once you understand that a \u201cbusiness\u201d is a marketing function to sell equity and debt, rather than a firm selling products and services to earn profits"
         }
       ],
       "reads": {
@@ -289,7 +288,8 @@
         "2118491617556598786": "No call",
         "2118500301363970184": "No call",
         "2118524975141560543": "No call",
-        "2118531894052815292": "No call"
+        "2118531894052815292": "No call",
+        "2118532663120458108": "No call"
       },
       "replies": [
         {
@@ -384,10 +384,6 @@
         }
       ],
       "threads": {
-        "2113288621528949125": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113300569997918537": {
           "alerted": [],
           "self_replies": 0
@@ -788,6 +784,10 @@
         "2118531894052815292": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118532663120458108": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -800,7 +800,6 @@
         "2118226823314378780": true,
         "2118230474623762907": false,
         "2118251856011153564": true,
-        "2118252010000753041": false,
         "2118272563612958820": false,
         "2118275270352552210": false,
         "2118280023253921798": true,
@@ -825,7 +824,8 @@
         "2118493422063595931": false,
         "2118500301363970184": false,
         "2118524975141560543": false,
-        "2118531894052815292": true
+        "2118531894052815292": true,
+        "2118532663120458108": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7040,5 +7040,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T02:34:33+00:00"
+  "updated_at": "2026-11-06T02:36:21+00:00"
 }
