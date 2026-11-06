@@ -969,12 +969,12 @@
         },
         "zec": {
           "market": "crypto",
-          "post_id": "2118479625009721663",
-          "reason": "He calls ZEC one of the strongest assets and says the privacy and quantum-computing thesis 'makes ZEC interesting to me'.",
+          "post_id": "2118748641817153640",
+          "reason": "He cites ZEC's 'impressive relative strength' and is 'pretty confident it could be one of the stronger performers next year', which matches his recorded bullish ZEC view.",
           "scope": "ZEC",
           "since": "2026-11-05",
           "stance": "bullish",
-          "updated_at": "2026-11-05T23:04:36.000Z"
+          "updated_at": "2026-11-06T16:53:35.000Z"
         }
       },
       "closed": [
@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118747133205717233",
+      "last_id": "2118748641817153640",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1079,14 +1079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T02:51:34.000Z",
-          "id": "2118536741892358553",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2118536574313050112/img/LIwqxzFdOV4rqd28.jpg"
-          ],
-          "text": "Checking out NFL odds on @Polymarket with Banks\n\nThe Giants have a 63% chance to beat the Eagles, but I'm still backing Philly \ud83d\ude06 https://t.co/VM4B1oBVGJ"
-        },
         {
           "created_at": "2026-11-06T03:05:49.000Z",
           "id": "2118540327879410058",
@@ -1203,10 +1195,17 @@
           "created_at": "2026-11-06T16:47:35.000Z",
           "id": "2118747133205717233",
           "text": "pa reminds me of the 23rd"
+        },
+        {
+          "created_at": "2026-11-06T16:53:35.000Z",
+          "id": "2118748641817153640",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2118748543280353280/img/v-soRC7yYujikSEZ.jpg"
+          ],
+          "text": "ZEC continues to show impressive relative strength despite the broader market pullback\n\ni'm pretty confident it could be one of the stronger performers next year, especially if the privacy thesis continues gaining traction and ZEC keeps outperforming Bitcoin\n\nright now, i'm watching $1,030 - $1,100 as the main support area and $1,370 - $1,440 as resistance\n\ni'm interested in a breakout above the Q4 open or a deeper pullback into support\n\nthe current range is extremely choppy, and i don't see much reason to force trades in the middle of it\n\nhaving a plan for both directions matters more than catching every move"
         }
       ],
       "reads": {
-        "2118536741892358553": "No call",
         "2118553023832322414": "No call",
         "2118553660691279908": "No call",
         "2118553868040888338": "No call",
@@ -1224,7 +1223,8 @@
         "2118742449137009099": "No call",
         "2118745731158724763": "No call",
         "2118746817504424387": "No call",
-        "2118747133205717233": "No call"
+        "2118747133205717233": "No call",
+        "2118748641817153640": "No call: bullish on ZEC (same view as before)"
       },
       "replies": [
         {
@@ -1319,10 +1319,6 @@
         }
       ],
       "threads": {
-        "2115976433302409694": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116012108693610757": {
           "alerted": [],
           "self_replies": 0
@@ -1734,10 +1730,13 @@
         "2118747133205717233": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118748641817153640": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118536741892358553": false,
         "2118540327879410058": false,
         "2118553023832322414": true,
         "2118553660691279908": false,
@@ -1771,7 +1770,8 @@
         "2118742449137009099": false,
         "2118745731158724763": true,
         "2118746817504424387": true,
-        "2118747133205717233": true
+        "2118747133205717233": true,
+        "2118748641817153640": true
       },
       "user_id": "973261472"
     },
@@ -7041,5 +7041,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T16:48:29+00:00"
+  "updated_at": "2026-11-06T16:54:21+00:00"
 }
