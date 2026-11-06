@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118666393096785937",
+      "last_id": "2118666789337080025",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1237,12 +1237,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T10:52:00.000Z",
-          "id": "2118657647368966581",
-          "reply_to_id": "2118657050075172949",
-          "text": "@LokimetaX @LSDinmycoffee he does have that kind of money to trade"
-        },
-        {
           "created_at": "2026-11-06T11:01:21.000Z",
           "id": "2118660000730300887",
           "reply_to_id": "2118659695900561564",
@@ -1325,6 +1319,12 @@
           "id": "2118666393096785937",
           "reply_to_id": "2118666018142969865",
           "text": "@badattrading_ dont understand why i have to smash niggas heads into a wall to get them to see obvious trades in this market\n\nthey did this last cycle in 2023 calling me an idiot for solana too"
+        },
+        {
+          "created_at": "2026-11-06T11:28:20.000Z",
+          "id": "2118666789337080025",
+          "reply_to_id": "2118665762542158239",
+          "text": "@TylerDurden yea but like sideways at 100 or sideways at 70 lol"
         }
       ],
       "threads": {
@@ -1763,7 +1763,6 @@
         "2118580858676449596": false,
         "2118618737158799569": false,
         "2118641196163797264": true,
-        "2118657647368966581": false,
         "2118659375891976443": true,
         "2118659436013384033": true,
         "2118660000730300887": true,
@@ -1782,7 +1781,8 @@
         "2118664707167113275": true,
         "2118665075577733227": false,
         "2118666082491719845": true,
-        "2118666393096785937": true
+        "2118666393096785937": true,
+        "2118666789337080025": true
       },
       "user_id": "973261472"
     },
@@ -7044,5 +7044,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T11:28:19+00:00"
+  "updated_at": "2026-11-06T11:30:24+00:00"
 }
