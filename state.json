@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118753306935726336",
+      "last_id": "2118755232641409354",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1079,12 +1079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T03:56:16.000Z",
-          "id": "2118553023832322414",
-          "reply_to_id": "2118297342432440421",
-          "text": "@grok list the most frequently replied coins by top 25 to this post"
-        },
         {
           "created_at": "2026-11-06T03:58:48.000Z",
           "id": "2118553660691279908",
@@ -1200,10 +1194,14 @@
           "id": "2118750548912456032",
           "quoted_text": ".@tradingview this mobile update is horrible\n\nyou have all this deadspace at the bottom of the mobile app in chart view where there used to be navigation options to return to list view\n\nnow to return to a list view i have to move my fingers all the way to the top of the screen to press this stupid down chevron button thats barely visible\n\nfire the designer or pm that made this decision directly into the fucking sun",
           "text": "yea this has been very painful to experience @tradingview https://t.co/asMUvbxYZz"
+        },
+        {
+          "created_at": "2026-11-06T17:19:46.000Z",
+          "id": "2118755232641409354",
+          "text": "think ppl are sleeping on elysium"
         }
       ],
       "reads": {
-        "2118553023832322414": "No call",
         "2118553660691279908": "No call",
         "2118553868040888338": "No call",
         "2118580858676449596": "No call",
@@ -1222,15 +1220,10 @@
         "2118746817504424387": "No call",
         "2118747133205717233": "No call",
         "2118748641817153640": "No call: bullish on ZEC (same view as before)",
-        "2118750548912456032": "No call"
+        "2118750548912456032": "No call",
+        "2118755232641409354": "No call: bullish on elysium (65%, too unsure)"
       },
       "replies": [
-        {
-          "created_at": "2026-11-06T11:20:03.000Z",
-          "id": "2118664707167113275",
-          "reply_to_id": "2118653339475013870",
-          "text": "@TylerDurden i dont understand, where are u saying it goes from here"
-        },
         {
           "created_at": "2026-11-06T11:21:31.000Z",
           "id": "2118665075577733227",
@@ -1314,13 +1307,15 @@
           "id": "2118753306935726336",
           "reply_to_id": "2118715158197625062",
           "text": "@DeepDishEnjoyer we do!"
+        },
+        {
+          "created_at": "2026-11-06T17:17:39.000Z",
+          "id": "2118754698861666591",
+          "reply_to_id": "2118735780818415635",
+          "text": "if you could make 10M/year from posting on an app and you didnt know, but somebody made you aware of this fact, would you be mad at or thankful to this person\n\ni am not bragging, i genuinely do not think ppl are aware of how much money these platforms are giving away to onboard traders"
         }
       ],
       "threads": {
-        "2116036122308415825": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116070096443429308": {
           "alerted": [],
           "self_replies": 0
@@ -1732,10 +1727,13 @@
         "2118750548912456032": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118755232641409354": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118553023832322414": true,
         "2118553660691279908": false,
         "2118553868040888338": false,
         "2118580858676449596": false,
@@ -1746,7 +1744,6 @@
         "2118661005110886492": true,
         "2118662789355168232": true,
         "2118663468886708286": true,
-        "2118664707167113275": true,
         "2118665075577733227": false,
         "2118666082491719845": true,
         "2118666393096785937": true,
@@ -1769,7 +1766,9 @@
         "2118747133205717233": true,
         "2118748641817153640": true,
         "2118750548912456032": false,
-        "2118753306935726336": false
+        "2118753306935726336": false,
+        "2118754698861666591": false,
+        "2118755232641409354": true
       },
       "user_id": "973261472"
     },
@@ -7039,5 +7038,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T17:12:20+00:00"
+  "updated_at": "2026-11-06T17:20:32+00:00"
 }
