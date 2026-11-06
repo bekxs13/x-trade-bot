@@ -5327,7 +5327,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2118703553246351480",
+      "last_id": "2118716140021272827",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -5347,11 +5347,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-08T18:20:33.000Z",
-          "id": "2108261279383380471",
-          "text": "This was actually an insane ending.\n\nThanks for the positive feedback, it was very fun and would love to commentate again!\n\n#CoinbasePartner https://t.co/3lKVtVOrNR"
-        },
         {
           "created_at": "2026-10-09T01:51:27.000Z",
           "id": "2108374752536756724",
@@ -5496,10 +5491,18 @@
           ],
           "quoted_text": "$ZEC is an extremely misunderstood asset, which is why there's still so much upside left.\n\nZEC started to bottom around April 2025, when @ebfull shared a blog post about Project Tachyon. Tachyon makes Zcash quantum proof and paves the way to scale Zcash to 50k TPS. And you cannot address quantum without addressing scalability since post-quantum cryptographic signatures are going to be an order of magnitude larger.\n\nAt the risk of sounding hyperbolic, the real bull case for Zcash is to fulfill Sa",
           "text": "I believe $ZEC will soon eclipse 2% the market cap of Bitcoin, which will lead to a series of god candles to new highs beyond $2000 by the end of the year.\n\nBelieve in something. Send it zigher. https://t.co/z6SiPSiASg https://t.co/Tm3nCD68Y0"
+        },
+        {
+          "created_at": "2026-11-06T14:44:26.000Z",
+          "id": "2118716140021272827",
+          "images": [
+            "https://pbs.twimg.com/media/HWcxCWsXUAAZGK2.jpg"
+          ],
+          "quoted_text": "The $2,500,000 SQUADS COMPETITION is LIVE \n \nFor the next 2 weeks, the 3 squads with the highest PNL will take home:\n \n\ud83e\udd47 $1,500,000\n\ud83e\udd48 $750,000\n\ud83e\udd49 $250,000\n \nHere's everything you need to know about how your score is counted \ud83d\udc47 https://t.co/DQYz3hBWMm",
+          "text": "My Humble Farmer Army (@HFAresearch) community is currently in 1st place in the competition. $1.5M top prize.\n\nWe longed over $2M of $ZEC at the bottom a couple days ago and we are out-trading the memecoin pump and dump cabals.\n\nRevenge of the plumbers. Wish us luck! https://t.co/aOJnh1kef8 https://t.co/cEuTNYLBOZ"
         }
       ],
       "reads": {
-        "2108261279383380471": "No call",
         "2108374752536756724": "No call",
         "2108376406308909287": "No call: bullish on ZEC (same view as before)",
         "2108529897144828181": "No call",
@@ -5517,7 +5520,8 @@
         "2115829811130020148": "VIEW bearish on btc",
         "2116128746172195070": "VIEW bearish on alts",
         "2117954235698483689": "VIEW bullish on crypto market",
-        "2118503326082117747": "No call: bullish on ZEC (same view as before)"
+        "2118503326082117747": "No call: bullish on ZEC (same view as before)",
+        "2118716140021272827": "No call"
       },
       "replies": [
         {
@@ -5719,10 +5723,13 @@
         "2118503326082117747": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118716140021272827": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108261279383380471": false,
         "2108374752536756724": true,
         "2108376406308909287": true,
         "2108529897144828181": true,
@@ -5756,7 +5763,8 @@
         "2118698734129230136": false,
         "2118701705860620687": true,
         "2118702365607956767": true,
-        "2118703553246351480": false
+        "2118703553246351480": false,
+        "2118716140021272827": true
       },
       "user_id": "1064421325186359296"
     },
@@ -7042,5 +7050,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T14:42:23+00:00"
+  "updated_at": "2026-11-06T14:46:21+00:00"
 }
