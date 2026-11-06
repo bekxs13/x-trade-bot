@@ -894,6 +894,15 @@
           "stance": "bullish",
           "updated_at": "2026-10-12T17:45:17.000Z"
         },
+        "memory stocks": {
+          "market": "stocks",
+          "post_id": "2118494077075537967",
+          "reason": "Says the memory trade (SanDisk, Micron) looks 'pretty exhausted' and expects consolidation and selling pressure, though a short-term relief bounce is possible.",
+          "scope": "memory stocks",
+          "since": "2026-11-06",
+          "stance": "bearish",
+          "updated_at": "2026-11-06T00:02:02.000Z"
+        },
         "mu": {
           "market": "stocks",
           "post_id": "2110027728112021765",
@@ -985,7 +994,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118491108657480172",
+      "last_id": "2118494077075537967",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1053,11 +1062,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T10:39:54.000Z",
-          "id": "2118292214832943386",
-          "text": "how we living my friends"
-        },
         {
           "created_at": "2026-11-05T11:00:17.000Z",
           "id": "2118297342432440421",
@@ -1168,10 +1172,17 @@
           "created_at": "2026-11-05T23:50:14.000Z",
           "id": "2118491108657480172",
           "text": "why'd bro son me like that"
+        },
+        {
+          "created_at": "2026-11-06T00:02:02.000Z",
+          "id": "2118494077075537967",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2118493618474520576/img/ig8p1bGd824w253e.jpg"
+          ],
+          "text": "i think the memory trade is starting to look pretty exhausted after the massive run in names like SanDisk and Micron\n\nthe recent sell-off has been aggressive enough that a short-term relief bounce wouldn't surprise me, but i expect these stocks to spend some time consolidating\n\nwhen you get parabolic moves like this, there are a lot of investors sitting on significant gains, and that creates selling pressure\n\nthe bigger question for next year is how AI demand develops, especially inference workloads and how much the major tech companies continue spending on infrastructure\n\ni think those capex decisions will be a major driver of where the memory sector goes next"
         }
       ],
       "reads": {
-        "2118292214832943386": "No call",
         "2118297342432440421": "No call",
         "2118307565620572397": "No call",
         "2118318486485106761": "No call",
@@ -1190,7 +1201,8 @@
         "2118479625009721663": "VIEW bullish on ZEC",
         "2118482799456108930": "No call: bearish on stocks/macro (same view as before)",
         "2118488028339650745": "VIEW bullish on oil",
-        "2118491108657480172": "No call"
+        "2118491108657480172": "No call",
+        "2118494077075537967": "VIEW bearish on memory stocks"
       },
       "replies": [
         {
@@ -1285,10 +1297,6 @@
         }
       ],
       "threads": {
-        "2115523673675448685": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115545854475981153": {
           "alerted": [],
           "self_replies": 0
@@ -1698,10 +1706,15 @@
         "2118491108657480172": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118494077075537967": {
+          "alerted": [
+            "bias:memory stocks:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118292214832943386": false,
         "2118297342432440421": true,
         "2118307565620572397": false,
         "2118318486485106761": true,
@@ -1735,7 +1748,8 @@
         "2118479625009721663": true,
         "2118482799456108930": true,
         "2118488028339650745": true,
-        "2118491108657480172": false
+        "2118491108657480172": false,
+        "2118494077075537967": true
       },
       "user_id": "973261472"
     },
@@ -6990,5 +7004,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T00:00:24+00:00"
+  "updated_at": "2026-11-06T00:02:24+00:00"
 }
