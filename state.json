@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118491617556598786",
+      "last_id": "2118493422063595931",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -292,12 +292,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-01T18:26:31.000Z",
-          "id": "2116960090817228931",
-          "reply_to_id": "2116955621689806941",
-          "text": "@reaIityobserver Did u win"
-        },
-        {
           "created_at": "2026-11-01T21:33:53.000Z",
           "id": "2117007244462051546",
           "reply_to_id": "2117007132516327807",
@@ -380,6 +374,12 @@
           "id": "2118467084535640378",
           "reply_to_id": "2118413964430422370",
           "text": "@stillibr It is funny tho cause cbrs employees are already 80% unlocked they likely already dumped all their shit before making this"
+        },
+        {
+          "created_at": "2026-11-05T23:59:26.000Z",
+          "id": "2118493422063595931",
+          "reply_to_id": "2101476564311417128",
+          "text": "@SemiAnalysis_ Curb your enthusiasm theme begins"
         }
       ],
       "threads": {
@@ -790,7 +790,6 @@
         }
       },
       "trading": {
-        "2116960090817228931": false,
         "2117007244462051546": false,
         "2117541456626004382": true,
         "2117550004063948920": false,
@@ -824,7 +823,8 @@
         "2118487955602096436": true,
         "2118488204299186189": true,
         "2118488687982027254": true,
-        "2118491617556598786": false
+        "2118491617556598786": false,
+        "2118493422063595931": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6990,5 +6990,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-05T23:54:24+00:00"
+  "updated_at": "2026-11-06T00:00:24+00:00"
 }
