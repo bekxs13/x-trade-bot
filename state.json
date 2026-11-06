@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118818359286358121",
+      "last_id": "2118823612232946048",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1095,12 +1095,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T11:05:21.000Z",
-          "id": "2118661005110886492",
-          "quoted_text": "Wait... @blknoiz06 just got paid $36K by @Pumpfun for posting his $SOL short\n\n- Shorted $1M of SOL at $96.21, 20x\n- Trade is up ~$60K\n- Callout rewards paid him another $35.97K on top\n- He says his annualized rewards are now $12.6M\n\n\"Free bread\" he said, wtf https://t.co/k8CIv6oWnN https://t.co/2uxoE0oULL",
-          "text": "the most profitable time to be a trader maybe ever, they are paying you to do the exact same thing you were already doing https://t.co/9kWXRPv9JZ"
-        },
         {
           "created_at": "2026-11-06T11:12:26.000Z",
           "id": "2118662789355168232",
@@ -1224,10 +1218,14 @@
           "id": "2118811474282062285",
           "reply_to_id": "2118810559776727408",
           "text": "https://t.co/vHprFaWY2K"
+        },
+        {
+          "created_at": "2026-11-06T21:51:29.000Z",
+          "id": "2118823612232946048",
+          "text": "this is going to be hilarious in hindsight"
         }
       ],
       "reads": {
-        "2118661005110886492": "No call",
         "2118662789355168232": "No call",
         "2118663468886708286": "No call",
         "2118737595798548683": "No call",
@@ -1245,7 +1243,8 @@
         "2118759216429281606": "No call: bearish on crypto market (65%, too unsure)",
         "2118809774938862028": "No call",
         "2118810559776727408": "No call",
-        "2118811474282062285": "No call"
+        "2118811474282062285": "No call",
+        "2118823612232946048": "No call"
       },
       "replies": [
         {
@@ -1346,10 +1345,6 @@
         }
       ],
       "threads": {
-        "2116159045027434970": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116169037168206004": {
           "alerted": [],
           "self_replies": 0
@@ -1761,10 +1756,13 @@
         "2118810559776727408": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2118823612232946048": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118661005110886492": true,
         "2118662789355168232": true,
         "2118663468886708286": true,
         "2118737595798548683": false,
@@ -1798,7 +1796,8 @@
         "2118810559776727408": false,
         "2118811474282062285": false,
         "2118815129815191881": false,
-        "2118818359286358121": false
+        "2118818359286358121": false,
+        "2118823612232946048": false
       },
       "user_id": "973261472"
     },
@@ -7071,5 +7070,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T21:32:19+00:00"
+  "updated_at": "2026-11-06T21:52:30+00:00"
 }
