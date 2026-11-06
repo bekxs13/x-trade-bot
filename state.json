@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118845244338815398",
+      "last_id": "2118845985480982793",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1248,18 +1248,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T18:21:37.000Z",
-          "id": "2118770795543433380",
-          "images": [
-            "https://pbs.twimg.com/media/HWdizbiXYAAOdOh.jpg",
-            "https://pbs.twimg.com/media/HWdizbaXUAEsB0R.jpg",
-            "https://pbs.twimg.com/media/HWdizbsWkAA0e0H.jpg",
-            "https://pbs.twimg.com/media/HWdizbeXgAEZzH_.jpg"
-          ],
-          "reply_to_id": "2118763209910071558",
-          "text": "@canimoncrypto lets see https://t.co/3cgU37Tqmx"
-        },
-        {
           "created_at": "2026-11-06T18:57:31.000Z",
           "id": "2118779830925943148",
           "reply_to_id": "2118779066979328490",
@@ -1345,6 +1333,12 @@
           "id": "2118845244338815398",
           "reply_to_id": "2118844020608897428",
           "text": "@bitcoinPalmer @AgentChud @villainmonkey i dont think ive ever blocked anyone so fast in my life man"
+        },
+        {
+          "created_at": "2026-11-06T23:20:23.000Z",
+          "id": "2118845985480982793",
+          "reply_to_id": "2118835718881476838",
+          "text": "@Saint10Fourteen @AgentChud @villainmonkey \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d"
         }
       ],
       "threads": {
@@ -1782,7 +1776,6 @@
         "2118758965177880768": true,
         "2118759216429281606": true,
         "2118763151462465686": false,
-        "2118770795543433380": false,
         "2118779830925943148": false,
         "2118780064502620302": true,
         "2118780214956507216": false,
@@ -1800,7 +1793,8 @@
         "2118826889569529951": false,
         "2118828422176620637": false,
         "2118832406136242349": false,
-        "2118845244338815398": false
+        "2118845244338815398": false,
+        "2118845985480982793": false
       },
       "user_id": "973261472"
     },
@@ -7073,5 +7067,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T23:20:19+00:00"
+  "updated_at": "2026-11-06T23:22:16+00:00"
 }
