@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118845985480982793",
+      "last_id": "2118846679528964379",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1248,12 +1248,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T18:57:31.000Z",
-          "id": "2118779830925943148",
-          "reply_to_id": "2118779066979328490",
-          "text": "@cryptofishx isnt this what @serpinxbt made"
-        },
-        {
           "created_at": "2026-11-06T18:58:27.000Z",
           "id": "2118780064502620302",
           "reply_to_id": "2118779492046954537",
@@ -1339,6 +1333,12 @@
           "id": "2118845985480982793",
           "reply_to_id": "2118835718881476838",
           "text": "@Saint10Fourteen @AgentChud @villainmonkey \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d"
+        },
+        {
+          "created_at": "2026-11-06T23:23:09.000Z",
+          "id": "2118846679528964379",
+          "reply_to_id": "2118780801697317291",
+          "text": "you think? from my pov this is achievable for traders there, the app has a tab for best callouts, regardless of how many followers you have, & everyones profile has all of their data, believe one of the advantages of social trading is you actually dont need any followers on regular social media, you just need your trade history on the apps"
         }
       ],
       "threads": {
@@ -1776,7 +1776,6 @@
         "2118758965177880768": true,
         "2118759216429281606": true,
         "2118763151462465686": false,
-        "2118779830925943148": false,
         "2118780064502620302": true,
         "2118780214956507216": false,
         "2118783472072536309": false,
@@ -1794,7 +1793,8 @@
         "2118828422176620637": false,
         "2118832406136242349": false,
         "2118845244338815398": false,
-        "2118845985480982793": false
+        "2118845985480982793": false,
+        "2118846679528964379": true
       },
       "user_id": "973261472"
     },
@@ -7067,5 +7067,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T23:22:16+00:00"
+  "updated_at": "2026-11-06T23:24:20+00:00"
 }
