@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118662682458874366",
+      "last_id": "2118662870082662806",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1079,14 +1079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T23:38:00.000Z",
-          "id": "2118488028339650745",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2118487697614569472/img/oKsTFdEH5s3HudH9.jpg"
-          ],
-          "text": "oil is starting to look interesting to me at these levels\n\nevery time there's a headline about a potential ceasefire with Iran, oil sells off, but the price tends to recover when there's no actual resolution\n\nif the conflict continues and the Strait of Hormuz remains disrupted, i think there's a reasonable case for oil moving higher again\n\nthe chart is also approaching an important historical level, which makes the risk/reward worth watching"
-        },
         {
           "created_at": "2026-11-05T23:50:14.000Z",
           "id": "2118491108657480172",
@@ -1210,10 +1202,18 @@
           "id": "2118661005110886492",
           "quoted_text": "Wait... @blknoiz06 just got paid $36K by @Pumpfun for posting his $SOL short\n\n- Shorted $1M of SOL at $96.21, 20x\n- Trade is up ~$60K\n- Callout rewards paid him another $35.97K on top\n- He says his annualized rewards are now $12.6M\n\n\"Free bread\" he said, wtf https://t.co/k8CIv6oWnN https://t.co/2uxoE0oULL",
           "text": "the most profitable time to be a trader maybe ever, they are paying you to do the exact same thing you were already doing https://t.co/9kWXRPv9JZ"
+        },
+        {
+          "created_at": "2026-11-06T11:12:26.000Z",
+          "id": "2118662789355168232",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2118662401617022976/img/fyG9g8uWmjtwdgWk.jpg"
+          ],
+          "quoted_text": "bro said theres 15% chance of a nuke",
+          "text": "Market Bubble ep.26: my full conversation with Mark Kimmitt (Former Army Brigadier General)\n\nIran's military strategy, the tactical nuke scenario, prediction market odds, oil prices and his experiences in the Middle East\n\n0:00 - Iran's strategy and military pressure\n8:04 - Regime collapse and the nuclear debate\n14:00 - Tactical nukes and the uranium threat\n21:11 - Polymarket odds, oil and Trump\n28:10 - Istanbul, Dubai and aliens"
         }
       ],
       "reads": {
-        "2118488028339650745": "VIEW bullish on oil",
         "2118491108657480172": "No call",
         "2118494077075537967": "VIEW bearish on memory stocks",
         "2118511108692791731": "No call: bullish on sol (same view as before)",
@@ -1231,15 +1231,10 @@
         "2118641196163797264": "VIEW bullish on MU",
         "2118659375891976443": "No call",
         "2118659436013384033": "No call",
-        "2118661005110886492": "No call"
+        "2118661005110886492": "No call",
+        "2118662789355168232": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-06T03:59:52.000Z",
-          "id": "2118553931278065738",
-          "reply_to_id": "2118553716228059431",
-          "text": "@poopypee6741 what."
-        },
         {
           "created_at": "2026-11-06T04:00:41.000Z",
           "id": "2118554137059307659",
@@ -1323,15 +1318,15 @@
           "id": "2118662682458874366",
           "reply_to_id": "2118661440206942505",
           "text": "there is zero reason for a profitable perps trader to use any of these mobile social trading apps if they already make money on their own, callout rewards changes the equation for them in a way that incentivizes them to post good trades bc it is +EV to do so, also it is better for uninformed market participants because even if they dont take the trades they can learn the trader's reasoning and thesis for making their own decisions and apply that to future scenarios\n\nthis is objectively a good thing\n\nyes the money comes mostly from pump's revenue on the trading of pre-bonded coins, that does not change the calculus at all, and that revenue exists because the product has multi-year pmf with traders who like speculating on microcaps, they are paid for a service that the market clearly desires"
+        },
+        {
+          "created_at": "2026-11-06T11:12:45.000Z",
+          "id": "2118662870082662806",
+          "reply_to_id": "2118662217877111170",
+          "text": "@viper_moons nowhere did i say it was easy... https://t.co/VppHJeKiCa"
         }
       ],
       "threads": {
-        "2115913121185529917": {
-          "alerted": [
-            "bias:crypto market:bearish"
-          ],
-          "self_replies": 0
-        },
         "2115918213376831604": {
           "alerted": [],
           "self_replies": 0
@@ -1745,10 +1740,13 @@
         "2118661005110886492": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118662789355168232": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118488028339650745": true,
         "2118491108657480172": false,
         "2118494077075537967": true,
         "2118511108692791731": true,
@@ -1762,7 +1760,6 @@
         "2118553023832322414": true,
         "2118553660691279908": false,
         "2118553868040888338": false,
-        "2118553931278065738": false,
         "2118554137059307659": false,
         "2118557154072240505": false,
         "2118580858676449596": false,
@@ -1782,7 +1779,9 @@
         "2118661005110886492": true,
         "2118661187852525825": false,
         "2118661380215558542": true,
-        "2118662682458874366": true
+        "2118662682458874366": true,
+        "2118662789355168232": true,
+        "2118662870082662806": false
       },
       "user_id": "973261472"
     },
@@ -7044,5 +7043,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T11:12:17+00:00"
+  "updated_at": "2026-11-06T11:14:26+00:00"
 }
