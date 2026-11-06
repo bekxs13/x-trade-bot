@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118660475198005701",
+      "last_id": "2118661187852525825",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1079,14 +1079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T23:17:13.000Z",
-          "id": "2118482799456108930",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2118482465291649025/img/7lxnTeChv9saIUwL.jpg"
-          ],
-          "text": "i think we're getting close to a short-term relief bounce in equities after this aggressive sell-off\n\nthe Nasdaq looks pretty stretched to the downside, and i wouldn't be surprised to see some consolidation or a bounce heading into the weekend\n\ncrypto has held up relatively better so far, but i don't think we've seen the same level of selling pressure that hit some of the major equity names\n\ni'm still leaning bearish on the broader market and expect more downside next week, even if we get some temporary relief first"
-        },
         {
           "created_at": "2026-11-05T23:38:00.000Z",
           "id": "2118488028339650745",
@@ -1212,10 +1204,15 @@
           "created_at": "2026-11-06T10:59:06.000Z",
           "id": "2118659436013384033",
           "text": "is anybody trading this with me or"
+        },
+        {
+          "created_at": "2026-11-06T11:05:21.000Z",
+          "id": "2118661005110886492",
+          "quoted_text": "Wait... @blknoiz06 just got paid $36K by @Pumpfun for posting his $SOL short\n\n- Shorted $1M of SOL at $96.21, 20x\n- Trade is up ~$60K\n- Callout rewards paid him another $35.97K on top\n- He says his annualized rewards are now $12.6M\n\n\"Free bread\" he said, wtf https://t.co/k8CIv6oWnN https://t.co/2uxoE0oULL",
+          "text": "the most profitable time to be a trader maybe ever, they are paying you to do the exact same thing you were already doing https://t.co/9kWXRPv9JZ"
         }
       ],
       "reads": {
-        "2118482799456108930": "No call: bearish on stocks/macro (same view as before)",
         "2118488028339650745": "VIEW bullish on oil",
         "2118491108657480172": "No call",
         "2118494077075537967": "VIEW bearish on memory stocks",
@@ -1233,15 +1230,10 @@
         "2118618737158799569": "No call",
         "2118641196163797264": "VIEW bullish on MU",
         "2118659375891976443": "No call",
-        "2118659436013384033": "No call"
+        "2118659436013384033": "No call",
+        "2118661005110886492": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-06T03:35:58.000Z",
-          "id": "2118547915065131103",
-          "reply_to_id": "2118547649817399526",
-          "text": "@JGetsRich it was a perps trade callout brother"
-        },
         {
           "created_at": "2026-11-06T03:39:06.000Z",
           "id": "2118548705137848588",
@@ -1325,13 +1317,15 @@
           "id": "2118660475198005701",
           "reply_to_id": "2118388589771845940",
           "text": "@solana @leapxyz @solanalabs that's a pretty smart move"
+        },
+        {
+          "created_at": "2026-11-06T11:06:04.000Z",
+          "id": "2118661187852525825",
+          "reply_to_id": "2118659437699518500",
+          "text": "@poopypee6741 thanks poopypee6741"
         }
       ],
       "threads": {
-        "2115911844166852992": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115913121185529917": {
           "alerted": [
             "bias:crypto market:bearish"
@@ -1747,10 +1741,13 @@
         "2118659436013384033": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118661005110886492": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118482799456108930": true,
         "2118488028339650745": true,
         "2118491108657480172": false,
         "2118494077075537967": true,
@@ -1762,7 +1759,6 @@
         "2118532936932757723": true,
         "2118536741892358553": false,
         "2118540327879410058": false,
-        "2118547915065131103": true,
         "2118548705137848588": false,
         "2118551296487621027": false,
         "2118553023832322414": true,
@@ -1784,7 +1780,9 @@
         "2118659436013384033": true,
         "2118660000730300887": true,
         "2118660176698069200": false,
-        "2118660475198005701": false
+        "2118660475198005701": false,
+        "2118661005110886492": true,
+        "2118661187852525825": false
       },
       "user_id": "973261472"
     },
@@ -7046,5 +7044,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T11:04:17+00:00"
+  "updated_at": "2026-11-06T11:06:24+00:00"
 }
