@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118535114774966313",
+      "last_id": "2118540566736851268",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,11 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T09:21:49.000Z",
-          "id": "2118272563612958820",
-          "text": "Yubikey bros we made it? @0xSisyphus"
-        },
         {
           "created_at": "2026-11-05T09:51:27.000Z",
           "id": "2118280023253921798",
@@ -268,10 +263,14 @@
           "created_at": "2026-11-06T02:35:21.000Z",
           "id": "2118532663120458108",
           "text": "2026 economy makes sense once you understand that a \u201cbusiness\u201d is a marketing function to sell equity and debt, rather than a firm selling products and services to earn profits"
+        },
+        {
+          "created_at": "2026-11-06T03:06:46.000Z",
+          "id": "2118540566736851268",
+          "text": "The American people yearn for the nasdaq to trade 80% lower but the government refuses to allow it"
         }
       ],
       "reads": {
-        "2118272563612958820": "No call",
         "2118280023253921798": "No call",
         "2118280263419769037": "No call",
         "2118282127066517939": "No call",
@@ -289,7 +288,8 @@
         "2118500301363970184": "No call",
         "2118524975141560543": "No call",
         "2118531894052815292": "No call",
-        "2118532663120458108": "No call"
+        "2118532663120458108": "No call",
+        "2118540566736851268": "No call"
       },
       "replies": [
         {
@@ -384,10 +384,6 @@
         }
       ],
       "threads": {
-        "2113300569997918537": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113326089485373519": {
           "alerted": [],
           "self_replies": 1
@@ -788,6 +784,10 @@
         "2118532663120458108": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118540566736851268": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -799,7 +799,6 @@
         "2118226823314378780": true,
         "2118230474623762907": false,
         "2118251856011153564": true,
-        "2118272563612958820": false,
         "2118275270352552210": false,
         "2118280023253921798": true,
         "2118280263419769037": false,
@@ -825,7 +824,8 @@
         "2118524975141560543": false,
         "2118531894052815292": true,
         "2118532663120458108": true,
-        "2118535114774966313": true
+        "2118535114774966313": true,
+        "2118540566736851268": true
       },
       "user_id": "1446541960181858315"
     },
@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118540327879410058",
+      "last_id": "2118540884971229289",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1236,12 +1236,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T17:44:30.000Z",
-          "id": "2118399066442961359",
-          "reply_to_id": "2118396967084761120",
-          "text": "@kale_abe @Credib1eGuy hey abe how you been"
-        },
-        {
           "created_at": "2026-11-05T17:49:47.000Z",
           "id": "2118400397807435972",
           "reply_to_id": "2118400065316499684",
@@ -1327,6 +1321,12 @@
           "id": "2118539686024987007",
           "reply_to_id": "2118537987998847403",
           "text": "@TartanTradess @apelord_x i want you to go on the pump app right now and look at the other people who have posted callouts for perps trades and see how many there are, then revisit your answer to this question"
+        },
+        {
+          "created_at": "2026-11-06T03:08:02.000Z",
+          "id": "2118540884971229289",
+          "reply_to_id": "2118535397554930021",
+          "text": "@podcastpunk this is conjecture, i dont actually know, i do know they make 500m+ a year and have 2B in cash"
         }
       ],
       "threads": {
@@ -1753,7 +1753,6 @@
         "2118354783723786478": true,
         "2118388141300039810": true,
         "2118398194996461874": true,
-        "2118399066442961359": false,
         "2118400397807435972": false,
         "2118401726982074573": true,
         "2118402852163121494": true,
@@ -1784,7 +1783,8 @@
         "2118535649854718182": true,
         "2118536741892358553": false,
         "2118539686024987007": true,
-        "2118540327879410058": false
+        "2118540327879410058": false,
+        "2118540884971229289": true
       },
       "user_id": "973261472"
     },
@@ -7048,5 +7048,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T03:06:30+00:00"
+  "updated_at": "2026-11-06T03:08:24+00:00"
 }
