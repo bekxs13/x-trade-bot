@@ -2188,7 +2188,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2118663479020355654",
+      "last_id": "2118701617004318904",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2365,12 +2365,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-04T12:14:37.000Z",
-          "id": "2117953664350347752",
-          "reply_to_id": "2117879548109111788",
-          "text": "@ekstasis that's not news though\n\nif they wanted a ban on the ballot they were already quite anti data center to begin with"
-        },
-        {
           "created_at": "2026-11-04T13:15:30.000Z",
           "id": "2117968983064547402",
           "images": [
@@ -2456,6 +2450,12 @@
           "id": "2118663479020355654",
           "reply_to_id": "2118614670881788293",
           "text": "@teodorio just bitterness"
+        },
+        {
+          "created_at": "2026-11-06T13:46:43.000Z",
+          "id": "2118701617004318904",
+          "reply_to_id": "2118561492098244809",
+          "text": "@Duderichy last couple of times i visited there have been bad delays on those lines and cars sardine-packed like post-sandy L trains. what gives?"
         }
       ],
       "threads": {
@@ -2872,7 +2872,6 @@
         "2117859288953803111": false,
         "2117864281806897389": false,
         "2117865462067257404": false,
-        "2117953664350347752": false,
         "2117968983064547402": false,
         "2117981594564649370": false,
         "2117996422028996760": false,
@@ -2899,7 +2898,8 @@
         "2118427393853370730": true,
         "2118434408227090738": false,
         "2118566848593543529": true,
-        "2118663479020355654": false
+        "2118663479020355654": false,
+        "2118701617004318904": false
       },
       "user_id": "1598545553327067137"
     },
@@ -5329,7 +5329,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2118698734129230136",
+      "last_id": "2118701705860620687",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -5523,12 +5523,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-21T13:29:02.000Z",
-          "id": "2112898960696193156",
-          "reply_to_id": "2112871176511082843",
-          "text": "@QwQiao zigher"
-        },
-        {
           "created_at": "2026-10-21T17:27:16.000Z",
           "id": "2112958914538963352",
           "reply_to_id": "2112958174177431830",
@@ -5611,6 +5605,12 @@
           "id": "2118698734129230136",
           "reply_to_id": "2118698536703508763",
           "text": "@in4crypto how have I done"
+        },
+        {
+          "created_at": "2026-11-06T13:47:04.000Z",
+          "id": "2118701705860620687",
+          "reply_to_id": "2118700929620791773",
+          "text": "@osf_rekt zigher"
         }
       ],
       "threads": {
@@ -5739,7 +5739,6 @@
         "2110791692924399705": false,
         "2112591044860862821": false,
         "2112656777418244258": true,
-        "2112898960696193156": true,
         "2112958914538963352": true,
         "2113272868813541754": true,
         "2113653121154961495": true,
@@ -5758,7 +5757,8 @@
         "2118505482939969835": true,
         "2118506575447089463": true,
         "2118547333264671040": true,
-        "2118698734129230136": false
+        "2118698734129230136": false,
+        "2118701705860620687": true
       },
       "user_id": "1064421325186359296"
     },
@@ -7044,5 +7044,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T13:42:25+00:00"
+  "updated_at": "2026-11-06T13:48:22+00:00"
 }
