@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118662870082662806",
+      "last_id": "2118663468886708286",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1079,11 +1079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T23:50:14.000Z",
-          "id": "2118491108657480172",
-          "text": "why'd bro son me like that"
-        },
         {
           "created_at": "2026-11-06T00:02:02.000Z",
           "id": "2118494077075537967",
@@ -1211,10 +1206,15 @@
           ],
           "quoted_text": "bro said theres 15% chance of a nuke",
           "text": "Market Bubble ep.26: my full conversation with Mark Kimmitt (Former Army Brigadier General)\n\nIran's military strategy, the tactical nuke scenario, prediction market odds, oil prices and his experiences in the Middle East\n\n0:00 - Iran's strategy and military pressure\n8:04 - Regime collapse and the nuclear debate\n14:00 - Tactical nukes and the uranium threat\n21:11 - Polymarket odds, oil and Trump\n28:10 - Istanbul, Dubai and aliens"
+        },
+        {
+          "created_at": "2026-11-06T11:15:08.000Z",
+          "id": "2118663468886708286",
+          "quoted_text": "Market Bubble ep.26: my full conversation with Mark Kimmitt (Former Army Brigadier General)\n\nIran's military strategy, the tactical nuke scenario, prediction market odds, oil prices and his experiences in the Middle East\n\n0:00 - Iran's strategy and military pressure\n8:04 - Regime collapse and the nuclear debate\n14:00 - Tactical nukes and the uranium threat\n21:11 - Polymarket odds, oil and Trump\n28:10 - Istanbul, Dubai and aliens",
+          "text": "dawg this shit was crazy please watch this https://t.co/jyCfM5krOv"
         }
       ],
       "reads": {
-        "2118491108657480172": "No call",
         "2118494077075537967": "VIEW bearish on memory stocks",
         "2118511108692791731": "No call: bullish on sol (same view as before)",
         "2118514805107552258": "No call",
@@ -1232,7 +1232,8 @@
         "2118659375891976443": "No call",
         "2118659436013384033": "No call",
         "2118661005110886492": "No call",
-        "2118662789355168232": "No call"
+        "2118662789355168232": "No call",
+        "2118663468886708286": "No call"
       },
       "replies": [
         {
@@ -1327,10 +1328,6 @@
         }
       ],
       "threads": {
-        "2115918213376831604": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115931791446220896": {
           "alerted": [],
           "self_replies": 0
@@ -1744,10 +1741,13 @@
         "2118662789355168232": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118663468886708286": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118491108657480172": false,
         "2118494077075537967": true,
         "2118511108692791731": true,
         "2118514805107552258": false,
@@ -1781,7 +1781,8 @@
         "2118661380215558542": true,
         "2118662682458874366": true,
         "2118662789355168232": true,
-        "2118662870082662806": false
+        "2118662870082662806": false,
+        "2118663468886708286": true
       },
       "user_id": "973261472"
     },
@@ -2187,7 +2188,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2118566848593543529",
+      "last_id": "2118663479020355654",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2364,12 +2365,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-04T06:45:49.000Z",
-          "id": "2117870916378222760",
-          "reply_to_id": "2117869817336091014",
-          "text": "@SergeantXOF yea lol"
-        },
-        {
           "created_at": "2026-11-04T12:14:37.000Z",
           "id": "2117953664350347752",
           "reply_to_id": "2117879548109111788",
@@ -2455,6 +2450,12 @@
           "id": "2118427393853370730",
           "reply_to_id": "2118426944542749058",
           "text": "@quantian1 brother s&amp;p is down 4%"
+        },
+        {
+          "created_at": "2026-11-06T11:15:10.000Z",
+          "id": "2118663479020355654",
+          "reply_to_id": "2118614670881788293",
+          "text": "@teodorio just bitterness"
         }
       ],
       "threads": {
@@ -2871,7 +2872,6 @@
         "2117859288953803111": false,
         "2117864281806897389": false,
         "2117865462067257404": false,
-        "2117870916378222760": false,
         "2117953664350347752": false,
         "2117968983064547402": false,
         "2117981594564649370": false,
@@ -2898,7 +2898,8 @@
         "2118400995751264387": true,
         "2118427393853370730": true,
         "2118434408227090738": false,
-        "2118566848593543529": true
+        "2118566848593543529": true,
+        "2118663479020355654": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7043,5 +7044,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-05",
-  "updated_at": "2026-11-06T11:14:26+00:00"
+  "updated_at": "2026-11-06T11:16:24+00:00"
 }
