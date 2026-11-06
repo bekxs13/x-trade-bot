@@ -995,7 +995,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118745731158724763",
+      "last_id": "2118747133205717233",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1079,20 +1079,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T02:28:58.000Z",
-          "id": "2118531055984537766",
-          "images": [
-            "https://pbs.twimg.com/media/HWaHYGcXcAAGYxG.jpg",
-            "https://pbs.twimg.com/media/HWaHYGaXgAEbpI1.jpg"
-          ],
-          "text": "shorted 1M $SOL this morning on pump &amp; made $35k from the callout rewards while trade's pnl is only ~$60k\n\ndont think ppl are realizing how much they are giving away to traders for the same behavior they'd be doing anywhere else\n\nperps/memecoins/gacha https://t.co/6UiG9BRtzH"
-        },
-        {
-          "created_at": "2026-11-06T02:36:27.000Z",
-          "id": "2118532936932757723",
-          "text": "my annualized pump fun callout trading rewards are $12,600,000"
-        },
         {
           "created_at": "2026-11-06T02:51:34.000Z",
           "id": "2118536741892358553",
@@ -1206,11 +1192,20 @@
           "created_at": "2026-11-06T16:42:01.000Z",
           "id": "2118745731158724763",
           "text": "zcash which first"
+        },
+        {
+          "created_at": "2026-11-06T16:46:20.000Z",
+          "id": "2118746817504424387",
+          "quoted_text": "Tyler and Farokh explain why Pumpfun ($PUMP) new Diamond and Degen algorithm update is their best release yet by rewarding long-term holds and higher market cap plays\n\n\u201cPump is changing the call-out rewards, using a portion of the daily rewards pot to go to this new Diamond algorithm. \n\n\u201cIt's focused on higher market cap tokens, incentivizing holding, reducing call-out spam, and boosting rewards for certain asset classes like perps.\u201d\n\n\u201cThis is Pump responding to the criticism that all they rewar",
+          "text": "agree https://t.co/iYjfE9VZj9"
+        },
+        {
+          "created_at": "2026-11-06T16:47:35.000Z",
+          "id": "2118747133205717233",
+          "text": "pa reminds me of the 23rd"
         }
       ],
       "reads": {
-        "2118531055984537766": "No call",
-        "2118532936932757723": "No call",
         "2118536741892358553": "No call",
         "2118553023832322414": "No call",
         "2118553660691279908": "No call",
@@ -1227,7 +1222,9 @@
         "2118739508548038858": "No call",
         "2118740364211404876": "No call",
         "2118742449137009099": "No call",
-        "2118745731158724763": "No call"
+        "2118745731158724763": "No call",
+        "2118746817504424387": "No call",
+        "2118747133205717233": "No call"
       },
       "replies": [
         {
@@ -1322,14 +1319,6 @@
         }
       ],
       "threads": {
-        "2115956651371139456": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2115972574668857526": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115976433302409694": {
           "alerted": [],
           "self_replies": 0
@@ -1737,11 +1726,17 @@
         "2118745731158724763": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118746817504424387": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2118747133205717233": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118531055984537766": true,
-        "2118532936932757723": true,
         "2118536741892358553": false,
         "2118540327879410058": false,
         "2118553023832322414": true,
@@ -1774,7 +1769,9 @@
         "2118739508548038858": true,
         "2118740364211404876": true,
         "2118742449137009099": false,
-        "2118745731158724763": true
+        "2118745731158724763": true,
+        "2118746817504424387": true,
+        "2118747133205717233": true
       },
       "user_id": "973261472"
     },
@@ -7044,5 +7041,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-06T16:42:24+00:00"
+  "updated_at": "2026-11-06T16:48:29+00:00"
 }
