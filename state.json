@@ -994,7 +994,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118863689419808967",
+      "last_id": "2118864997199556856",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1247,12 +1247,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T21:17:47.000Z",
-          "id": "2118815129815191881",
-          "reply_to_id": "2118809798020055288",
-          "text": "@unclecoco \ud83d\ude4f\ud83c\udffe\ud83d\ude4f\ud83c\udffe"
-        },
-        {
           "created_at": "2026-11-06T21:30:37.000Z",
           "id": "2118818359286358121",
           "reply_to_id": "2118813337282834510",
@@ -1338,6 +1332,12 @@
           "id": "2118863689419808967",
           "reply_to_id": "2118856727294812284",
           "text": "@CastilloTrading there is no beef, he is lying for attention and ct is giving it to him"
+        },
+        {
+          "created_at": "2026-11-07T00:35:56.000Z",
+          "id": "2118864997199556856",
+          "reply_to_id": "2118862620115587432",
+          "text": "@hyler88 @wirelyss @OttoSuwen how many of you are running these"
         }
       ],
       "threads": {
@@ -1778,7 +1778,6 @@
         "2118809774938862028": false,
         "2118810559776727408": false,
         "2118811474282062285": false,
-        "2118815129815191881": false,
         "2118818359286358121": false,
         "2118823612232946048": false,
         "2118826889569529951": false,
@@ -1793,7 +1792,8 @@
         "2118858130197246127": false,
         "2118859783151448279": false,
         "2118862290225369184": false,
-        "2118863689419808967": false
+        "2118863689419808967": false,
+        "2118864997199556856": false
       },
       "user_id": "973261472"
     },
@@ -7066,5 +7066,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-07T00:34:17+00:00"
+  "updated_at": "2026-11-07T00:36:18+00:00"
 }
