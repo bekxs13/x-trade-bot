@@ -835,12 +835,12 @@
       "biases": {
         "ai stocks": {
           "market": "stocks",
-          "post_id": "2118334729355399533",
-          "reason": "\"i like this take\" endorses the quoted call that money leaves AI and memory names (Micron, SK Hynix, neo clouds) for non-AI safe havens like Eli Lilly. His earlier \"memory getting shallacked\" backs this up, and it matches his recorded bearish AI stocks view.",
+          "post_id": "2119096288213975395",
+          "reason": "He says \"agree\" to a post calling the AI trade a bubble that will overshoot on the way down, with buying only after capitulation. That matches his recorded bearish view on ai stocks.",
           "scope": "ai stocks",
           "since": "2026-10-28",
           "stance": "bearish",
-          "updated_at": "2026-11-05T13:28:50.000Z"
+          "updated_at": "2026-11-07T15:55:00.000Z"
         },
         "alts": {
           "market": "crypto",
@@ -996,7 +996,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119093632938484092",
+      "last_id": "2119096288213975395",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1096,15 +1096,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T17:30:33.000Z",
-          "id": "2118757947274830028",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2118757489357529090/img/GkgxFsi-8i0kk692.jpg"
-          ],
-          "quoted_text": "think ppl are sleeping on elysium",
-          "text": "i think @Enter_Elysium could be an interesting development for the Hyperliquid ecosystem\n\nHyperCore has already attracted significant trading activity, but HyperEVM hasn't seen the same level of adoption from applications\n\nKinetiq is building Elysium as a faster L2 to support more onchain activity, and i'm particularly interested in how they're approaching token economics\n\nthe plan to direct a portion of revenue toward KNTQ buybacks and burns, while encouraging applications to do the same, is worth paying attention to\n\ni think L2s that can build active ecosystems and create sustainable value for their native tokens will have a better chance of standing out"
-        },
         {
           "created_at": "2026-11-06T17:34:36.000Z",
           "id": "2118758965177880768",
@@ -1224,10 +1215,15 @@
             "https://pbs.twimg.com/amplify_video_thumb/2119045460761640960/img/Uw-LcYSMluwf74Hg.jpg"
           ],
           "text": "i like the direction Kinetiq is taking with Elysium\n\nthe buyback and burn mechanism is interesting, especially with a portion of protocol revenue going toward reducing token supply\n\nwhat i'm paying more attention to is their plan to get applications across the ecosystem to direct value back to KNTQ as well\n\ni think that's an important differentiator for L2s, where a lot of networks struggle to create meaningful value for their native tokens\n\nHyperliquid already has significant mindshare, and Kinetiq has an opportunity to build around that existing attention"
+        },
+        {
+          "created_at": "2026-11-07T15:55:00.000Z",
+          "id": "2119096288213975395",
+          "quoted_text": "i don\u2019t think anyone can confidently say that ai stonks are currently expensive, cheap, or fairly priced. that requires a crystal ball in future ai breakthroughs, the supply chain, credit markets, politics, and macro. and such a person simply does not exist.\n\nhowever, charts, investor psychology, and positioning suggest that the ai trade was almost certainly a big bubble. and when bubbles burst, they will always overshoot.\n\nso, what would give me the confidence to buy ai stonks in size is not \u201cf",
+          "text": "agree https://t.co/bLSRhl8BPq"
         }
       ],
       "reads": {
-        "2118757947274830028": "No call: bullish on KNTQ (65%, too unsure)",
         "2118758965177880768": "TRADE LONG XAU",
         "2118759216429281606": "No call: bearish on crypto market (65%, too unsure)",
         "2118809774938862028": "No call",
@@ -1241,7 +1237,8 @@
         "2119080424278282304": "No call",
         "2119086259796590816": "VIEW bearish on ZEC",
         "2119089099512426988": "No call",
-        "2119091505004720275": "No call: bullish on KNTQ (50%, too unsure)"
+        "2119091505004720275": "No call: bullish on KNTQ (50%, too unsure)",
+        "2119096288213975395": "No call: bearish on ai stocks (same view as before)"
       },
       "replies": [
         {
@@ -1339,10 +1336,6 @@
         }
       ],
       "threads": {
-        "2116285263932538959": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116382090505732124": {
           "alerted": [],
           "self_replies": 0
@@ -1756,10 +1749,13 @@
         "2119091505004720275": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119096288213975395": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118757947274830028": true,
         "2118758965177880768": true,
         "2118759216429281606": true,
         "2118763151462465686": false,
@@ -1793,7 +1789,8 @@
         "2119090932892975558": true,
         "2119091505004720275": true,
         "2119091620226449913": true,
-        "2119093632938484092": true
+        "2119093632938484092": true,
+        "2119096288213975395": true
       },
       "user_id": "973261472"
     },
@@ -7067,5 +7064,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-07T15:46:17+00:00"
+  "updated_at": "2026-11-07T15:56:22+00:00"
 }
