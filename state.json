@@ -996,7 +996,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119090932892975558",
+      "last_id": "2119091505004720275",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1096,11 +1096,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T17:19:46.000Z",
-          "id": "2118755232641409354",
-          "text": "think ppl are sleeping on elysium"
-        },
         {
           "created_at": "2026-11-06T17:30:33.000Z",
           "id": "2118757947274830028",
@@ -1221,10 +1216,17 @@
           "id": "2119089099512426988",
           "quoted_text": "Over the past few days, we've been rolling out more MAJOR changes to the Callout Rewards program.\n\nWe had two goals:\n\n1) Incentivize calls on higher market cap tokens\n2) Reward users who come from different ecosystems e.g. perps & crosschain (non-SOL)\n\nWe're creating a far more rewarding environment for ALL kinds of trading styles, not just the user base that Pumpfun has always appealed to.\n\nTo do this, we've introduced an additional Callout Rewards algorithm: Diamond.\n\nDiamond uses a new experi",
           "text": "pump has added ~11 chains past two weeks, & now giving out cash to people adding theses to higher market cap coins & trading perps + crosschain tokens\n\nlot of the pushback on the rewards was towards ppl spamming callouts on low mc tokens and taking advantage of volume spikes, this is completely orthogonal to that activity"
+        },
+        {
+          "created_at": "2026-11-07T15:36:00.000Z",
+          "id": "2119091505004720275",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2119045460761640960/img/Uw-LcYSMluwf74Hg.jpg"
+          ],
+          "text": "i like the direction Kinetiq is taking with Elysium\n\nthe buyback and burn mechanism is interesting, especially with a portion of protocol revenue going toward reducing token supply\n\nwhat i'm paying more attention to is their plan to get applications across the ecosystem to direct value back to KNTQ as well\n\ni think that's an important differentiator for L2s, where a lot of networks struggle to create meaningful value for their native tokens\n\nHyperliquid already has significant mindshare, and Kinetiq has an opportunity to build around that existing attention"
         }
       ],
       "reads": {
-        "2118755232641409354": "No call: bullish on elysium (65%, too unsure)",
         "2118757947274830028": "No call: bullish on KNTQ (65%, too unsure)",
         "2118758965177880768": "TRADE LONG XAU",
         "2118759216429281606": "No call: bearish on crypto market (65%, too unsure)",
@@ -1238,7 +1240,8 @@
         "2119035932133535783": "No call",
         "2119080424278282304": "No call",
         "2119086259796590816": "VIEW bearish on ZEC",
-        "2119089099512426988": "No call"
+        "2119089099512426988": "No call",
+        "2119091505004720275": "No call: bullish on KNTQ (50%, too unsure)"
       },
       "replies": [
         {
@@ -1336,10 +1339,6 @@
         }
       ],
       "threads": {
-        "2116268402729734241": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116285263932538959": {
           "alerted": [],
           "self_replies": 0
@@ -1753,10 +1752,13 @@
         "2119089099512426988": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119091505004720275": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118755232641409354": true,
         "2118757947274830028": true,
         "2118758965177880768": true,
         "2118759216429281606": true,
@@ -1790,7 +1792,8 @@
         "2119086970819445087": false,
         "2119088270701432902": true,
         "2119089099512426988": true,
-        "2119090932892975558": true
+        "2119090932892975558": true,
+        "2119091505004720275": true
       },
       "user_id": "973261472"
     },
@@ -7064,5 +7067,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-07T15:34:18+00:00"
+  "updated_at": "2026-11-07T15:36:31+00:00"
 }
