@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118858662806736994",
+      "last_id": "2118905727255531608",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,12 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T22:50:02.000Z",
-          "id": "2118475957933846740",
-          "quoted_text": "An Anthropic IPO at $500B would imply a nearly 60% haircut for some investors in its latest round, just five months after they invested",
-          "text": "Not enough. Anyone who invested in Anthropic\u2019s latest round should be in jail https://t.co/7TMnHo9YhW"
-        },
         {
           "created_at": "2026-11-05T23:19:08.000Z",
           "id": "2118483280203002142",
@@ -266,10 +260,14 @@
           "quoted_text": "The Washington Post credits Nick Fuentes with stealing the Gen Z male vote from Trump with his credibility on the Iran war being the greatest factor. Gen Z males made a historic +40 swing toward Democrats this election. https://t.co/jyNkfFx2NE",
           "reply_to_id": "2118618111079485921",
           "text": "https://t.co/6YQ6c6grx9"
+        },
+        {
+          "created_at": "2026-11-07T03:17:47.000Z",
+          "id": "2118905727255531608",
+          "text": "Local salsas n shit"
         }
       ],
       "reads": {
-        "2118475957933846740": "No call",
         "2118483280203002142": "No call",
         "2118486453902782877": "No call",
         "2118487955602096436": "No call",
@@ -288,7 +286,8 @@
         "2118618111079485921": "No call",
         "2118796550277357861": "No call",
         "2118854785785074145": "No call",
-        "2118855155185840526": "No call"
+        "2118855155185840526": "No call",
+        "2118905727255531608": "No call"
       },
       "replies": [
         {
@@ -383,10 +382,6 @@
         }
       ],
       "threads": {
-        "2113378901577842692": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113417887423578601": {
           "alerted": [],
           "self_replies": 0
@@ -787,6 +782,10 @@
         "2118854785785074145": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118905727255531608": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -795,7 +794,6 @@
         "2118292680962900015": false,
         "2118403946649903609": false,
         "2118467084535640378": true,
-        "2118475957933846740": true,
         "2118483280203002142": true,
         "2118486453902782877": false,
         "2118487955602096436": true,
@@ -824,7 +822,8 @@
         "2118855155185840526": false,
         "2118856011142582685": false,
         "2118856552509755538": false,
-        "2118858662806736994": false
+        "2118858662806736994": false,
+        "2118905727255531608": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7061,5 +7060,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-07T02:54:15+00:00"
+  "updated_at": "2026-11-07T03:18:22+00:00"
 }
