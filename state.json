@@ -996,7 +996,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119091620226449913",
+      "last_id": "2119093632938484092",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1245,12 +1245,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-07T10:32:36.000Z",
-          "id": "2119015154243244266",
-          "reply_to_id": "2119012997947437501",
-          "text": "@fibonacki dont know but would assume pump just has more cash to spend on growth, fomo likely is more reliant on trading volumes at this point in time"
-        },
-        {
           "created_at": "2026-11-07T10:34:20.000Z",
           "id": "2119015588173434954",
           "reply_to_id": "2119015277266678242",
@@ -1336,6 +1330,12 @@
           "id": "2119091620226449913",
           "reply_to_id": "2118945844967952895",
           "text": "@0xbiswasweb3 yea pretty crazy its this high even before the official launch day"
+        },
+        {
+          "created_at": "2026-11-07T15:44:27.000Z",
+          "id": "2119093632938484092",
+          "reply_to_id": "2119089655740277191",
+          "text": "@munchPRMR i think we're just supposed to buy it quietly brother"
         }
       ],
       "threads": {
@@ -1773,7 +1773,6 @@
         "2118889925693382724": false,
         "2119013989250379937": true,
         "2119014252178813292": true,
-        "2119015154243244266": true,
         "2119015588173434954": true,
         "2119020305889022214": false,
         "2119020370019643823": true,
@@ -1793,7 +1792,8 @@
         "2119089099512426988": true,
         "2119090932892975558": true,
         "2119091505004720275": true,
-        "2119091620226449913": true
+        "2119091620226449913": true,
+        "2119093632938484092": true
       },
       "user_id": "973261472"
     },
@@ -7067,5 +7067,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-07T15:38:18+00:00"
+  "updated_at": "2026-11-07T15:46:17+00:00"
 }
