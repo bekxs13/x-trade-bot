@@ -996,7 +996,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119014252178813292",
+      "last_id": "2119014756191293892",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1239,12 +1239,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-07T02:14:24.000Z",
-          "id": "2118889777760239830",
-          "reply_to_id": "2118888845248979328",
-          "text": "@TaylorArmstrong hey tay"
-        },
-        {
           "created_at": "2026-11-07T02:14:44.000Z",
           "id": "2118889859762839868",
           "reply_to_id": "2118888676570648589",
@@ -1333,6 +1327,12 @@
           ],
           "reply_to_id": "2118890699454132444",
           "text": "@Hiruzenaio @YoSoyWald https://t.co/P9ZNYldxmQ"
+        },
+        {
+          "created_at": "2026-11-07T10:31:01.000Z",
+          "id": "2119014756191293892",
+          "reply_to_id": "2119014511869079914",
+          "text": "@Sp1cytrenches tough spot, cos if onchain activity slows down will impact their revenues, &amp; its also in similar situation as zec where upnl is hiding out there"
         }
       ],
       "threads": {
@@ -1771,7 +1771,6 @@
         "2118884485874045086": true,
         "2118888190631432362": true,
         "2118888587877876017": false,
-        "2118889777760239830": false,
         "2118889859762839868": false,
         "2118889925693382724": false,
         "2118889954742808903": false,
@@ -1788,7 +1787,8 @@
         "2118891468526129317": false,
         "2118894112497668461": false,
         "2119013989250379937": true,
-        "2119014252178813292": true
+        "2119014252178813292": true,
+        "2119014756191293892": true
       },
       "user_id": "973261472"
     },
@@ -7062,5 +7062,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-07T10:30:22+00:00"
+  "updated_at": "2026-11-07T10:32:17+00:00"
 }
