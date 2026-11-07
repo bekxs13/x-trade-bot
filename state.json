@@ -862,12 +862,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2119013989250379937",
-          "reason": "Says ZEC weakness on lower timeframes shows the next direction for majors, and that ZEC is where most unrealized profit is hiding, implying majors head lower. This matches the recorded bearish crypto market view.",
+          "post_id": "2119014252178813292",
+          "reason": "Says ZEC lower-timeframe weakness is 'showing next direction for majors', implying majors head lower; matches recorded bearish crypto market view.",
           "scope": "crypto market",
           "since": "2026-10-29",
           "stance": "bearish",
-          "updated_at": "2026-11-07T10:27:59.000Z"
+          "updated_at": "2026-11-07T10:29:01.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -996,7 +996,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119013989250379937",
+      "last_id": "2119014252178813292",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1096,12 +1096,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T16:28:58.000Z",
-          "id": "2118742449137009099",
-          "quoted_text": "curing years of depression with 20 minutes of citibike in nyc",
-          "text": "incredible what cities filled with energy can do for your mental https://t.co/oYOvVa2vGr"
-        },
         {
           "created_at": "2026-11-06T16:42:01.000Z",
           "id": "2118745731158724763",
@@ -1218,10 +1212,14 @@
           "created_at": "2026-11-07T10:27:59.000Z",
           "id": "2119013989250379937",
           "text": "zec weakness ltf showing next direction for majors imo\n\nhas been strong but its also whwre most upnl is hiding"
+        },
+        {
+          "created_at": "2026-11-07T10:29:01.000Z",
+          "id": "2119014252178813292",
+          "text": "zec weakness ltf showing next direction for majors imo\n\nhas been strong but its also where most upnl is hiding"
         }
       ],
       "reads": {
-        "2118742449137009099": "No call",
         "2118745731158724763": "No call",
         "2118746817504424387": "No call",
         "2118747133205717233": "No call",
@@ -1236,7 +1234,8 @@
         "2118811474282062285": "No call",
         "2118823612232946048": "No call",
         "2118888587877876017": "No call",
-        "2119013989250379937": "No call: bearish on crypto market (same view as before)"
+        "2119013989250379937": "No call: bearish on crypto market (same view as before)",
+        "2119014252178813292": "No call: bearish on crypto market (same view as before)"
       },
       "replies": [
         {
@@ -1337,10 +1336,6 @@
         }
       ],
       "threads": {
-        "2116201298102042686": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116207443977871791": {
           "alerted": [],
           "self_replies": 0
@@ -1752,10 +1747,13 @@
         "2119013989250379937": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119014252178813292": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118742449137009099": false,
         "2118745731158724763": true,
         "2118746817504424387": true,
         "2118747133205717233": true,
@@ -1789,7 +1787,8 @@
         "2118891271964312034": false,
         "2118891468526129317": false,
         "2118894112497668461": false,
-        "2119013989250379937": true
+        "2119013989250379937": true,
+        "2119014252178813292": true
       },
       "user_id": "973261472"
     },
@@ -7063,5 +7062,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-07T10:28:21+00:00"
+  "updated_at": "2026-11-07T10:30:22+00:00"
 }
