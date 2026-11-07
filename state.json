@@ -996,7 +996,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119014756191293892",
+      "last_id": "2119015154243244266",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1239,12 +1239,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-07T02:14:44.000Z",
-          "id": "2118889859762839868",
-          "reply_to_id": "2118888676570648589",
-          "text": "@elchefdesol im going to play wednesday"
-        },
-        {
           "created_at": "2026-11-07T02:15:06.000Z",
           "id": "2118889954742808903",
           "reply_to_id": "2118888855256600577",
@@ -1333,6 +1327,12 @@
           "id": "2119014756191293892",
           "reply_to_id": "2119014511869079914",
           "text": "@Sp1cytrenches tough spot, cos if onchain activity slows down will impact their revenues, &amp; its also in similar situation as zec where upnl is hiding out there"
+        },
+        {
+          "created_at": "2026-11-07T10:32:36.000Z",
+          "id": "2119015154243244266",
+          "reply_to_id": "2119012997947437501",
+          "text": "@fibonacki dont know but would assume pump just has more cash to spend on growth, fomo likely is more reliant on trading volumes at this point in time"
         }
       ],
       "threads": {
@@ -1771,7 +1771,6 @@
         "2118884485874045086": true,
         "2118888190631432362": true,
         "2118888587877876017": false,
-        "2118889859762839868": false,
         "2118889925693382724": false,
         "2118889954742808903": false,
         "2118889974175338581": false,
@@ -1788,7 +1787,8 @@
         "2118894112497668461": false,
         "2119013989250379937": true,
         "2119014252178813292": true,
-        "2119014756191293892": true
+        "2119014756191293892": true,
+        "2119015154243244266": true
       },
       "user_id": "973261472"
     },
@@ -7062,5 +7062,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-07T10:32:17+00:00"
+  "updated_at": "2026-11-07T10:34:18+00:00"
 }
