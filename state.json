@@ -996,7 +996,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119091505004720275",
+      "last_id": "2119091620226449913",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1245,12 +1245,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-07T10:31:01.000Z",
-          "id": "2119014756191293892",
-          "reply_to_id": "2119014511869079914",
-          "text": "@Sp1cytrenches tough spot, cos if onchain activity slows down will impact their revenues, &amp; its also in similar situation as zec where upnl is hiding out there"
-        },
-        {
           "created_at": "2026-11-07T10:32:36.000Z",
           "id": "2119015154243244266",
           "reply_to_id": "2119012997947437501",
@@ -1336,6 +1330,12 @@
           "id": "2119090932892975558",
           "reply_to_id": "2119090564775727119",
           "text": "@DONMZKO idk if i need to be more clear but i believe everything is going -20-30% lower from here, this is a comment on the direction of the app &amp; callout rewards system, which i think is objectively good for encouraging trading of better coins &amp; rewarding holders longterm"
+        },
+        {
+          "created_at": "2026-11-07T15:36:27.000Z",
+          "id": "2119091620226449913",
+          "reply_to_id": "2118945844967952895",
+          "text": "@0xbiswasweb3 yea pretty crazy its this high even before the official launch day"
         }
       ],
       "threads": {
@@ -1773,7 +1773,6 @@
         "2118889925693382724": false,
         "2119013989250379937": true,
         "2119014252178813292": true,
-        "2119014756191293892": true,
         "2119015154243244266": true,
         "2119015588173434954": true,
         "2119020305889022214": false,
@@ -1793,7 +1792,8 @@
         "2119088270701432902": true,
         "2119089099512426988": true,
         "2119090932892975558": true,
-        "2119091505004720275": true
+        "2119091505004720275": true,
+        "2119091620226449913": true
       },
       "user_id": "973261472"
     },
@@ -7067,5 +7067,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-07T15:36:31+00:00"
+  "updated_at": "2026-11-07T15:38:18+00:00"
 }
