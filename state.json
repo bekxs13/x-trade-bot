@@ -970,12 +970,12 @@
         },
         "zec": {
           "market": "crypto",
-          "post_id": "2118748641817153640",
-          "reason": "He cites ZEC's 'impressive relative strength' and is 'pretty confident it could be one of the stronger performers next year', which matches his recorded bullish ZEC view.",
+          "post_id": "2119086259796590816",
+          "reason": "The ZEC chart draws a breakdown below the range with 'people panic sell beneath here' down to ~800, after this morning's posts calling ZEC weakness. That is near-term bearish, versus the recorded bullish view.",
           "scope": "ZEC",
-          "since": "2026-11-05",
-          "stance": "bullish",
-          "updated_at": "2026-11-06T16:53:35.000Z"
+          "since": "2026-11-07",
+          "stance": "bearish",
+          "updated_at": "2026-11-07T15:15:09.000Z"
         }
       },
       "closed": [
@@ -996,7 +996,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119085070849864121",
+      "last_id": "2119086259796590816",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1096,14 +1096,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T16:53:35.000Z",
-          "id": "2118748641817153640",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2118748543280353280/img/v-soRC7yYujikSEZ.jpg"
-          ],
-          "text": "ZEC continues to show impressive relative strength despite the broader market pullback\n\ni'm pretty confident it could be one of the stronger performers next year, especially if the privacy thesis continues gaining traction and ZEC keeps outperforming Bitcoin\n\nright now, i'm watching $1,030 - $1,100 as the main support area and $1,370 - $1,440 as resistance\n\ni'm interested in a breakout above the Q4 open or a deeper pullback into support\n\nthe current range is extremely choppy, and i don't see much reason to force trades in the middle of it\n\nhaving a plan for both directions matters more than catching every move"
-        },
         {
           "created_at": "2026-11-06T17:01:09.000Z",
           "id": "2118750548912456032",
@@ -1221,10 +1213,17 @@
           "id": "2119080424278282304",
           "quoted_text": "another squiggle for the books\n\nsafe to say the trade has played out. Pretty happy with how I traded the intraweek moves on both sides. Closed shorts a bit earlier than ideal and left some on the table, but feels like sellers are starting to get a little greedy here.\n\nI think the second half of the idea needs some revision. Hard to see a move back to ATHs right now. Leaning more towards something like a compressed version of '22 as long as we're dealing with tightening conditions. Staying mostly",
           "text": "contra very underrated account on here https://t.co/5VfmL43FEN"
+        },
+        {
+          "created_at": "2026-11-07T15:15:09.000Z",
+          "id": "2119086259796590816",
+          "images": [
+            "https://pbs.twimg.com/media/HWiBrUFW4AELvmg.jpg"
+          ],
+          "text": "cold hard cryptocurrencies https://t.co/mG9jLuIfHE"
         }
       ],
       "reads": {
-        "2118748641817153640": "No call: bullish on ZEC (same view as before)",
         "2118750548912456032": "No call",
         "2118755232641409354": "No call: bullish on elysium (65%, too unsure)",
         "2118757947274830028": "No call: bullish on KNTQ (65%, too unsure)",
@@ -1238,7 +1237,8 @@
         "2119013989250379937": "No call: bearish on crypto market (same view as before)",
         "2119014252178813292": "No call: bearish on crypto market (same view as before)",
         "2119035932133535783": "No call",
-        "2119080424278282304": "No call"
+        "2119080424278282304": "No call",
+        "2119086259796590816": "VIEW bearish on ZEC"
       },
       "replies": [
         {
@@ -1339,10 +1339,6 @@
         }
       ],
       "threads": {
-        "2116220650058846455": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116251607323365843": {
           "alerted": [],
           "self_replies": 0
@@ -1754,10 +1750,15 @@
         "2119080424278282304": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119086259796590816": {
+          "alerted": [
+            "bias:zec:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118748641817153640": true,
         "2118750548912456032": false,
         "2118755232641409354": true,
         "2118757947274830028": true,
@@ -1791,7 +1792,8 @@
         "2119081207560347718": false,
         "2119082992194785773": true,
         "2119083788311347615": true,
-        "2119085070849864121": false
+        "2119085070849864121": false,
+        "2119086259796590816": true
       },
       "user_id": "973261472"
     },
@@ -7065,5 +7067,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-07T15:12:16+00:00"
+  "updated_at": "2026-11-07T15:16:19+00:00"
 }
