@@ -994,7 +994,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118878254237208807",
+      "last_id": "2118882844000838124",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1247,12 +1247,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T23:17:27.000Z",
-          "id": "2118845244338815398",
-          "reply_to_id": "2118844020608897428",
-          "text": "@bitcoinPalmer @AgentChud @villainmonkey i dont think ive ever blocked anyone so fast in my life man"
-        },
-        {
           "created_at": "2026-11-06T23:20:23.000Z",
           "id": "2118845985480982793",
           "reply_to_id": "2118835718881476838",
@@ -1335,6 +1329,12 @@
           "id": "2118878254237208807",
           "reply_to_id": "2118877613670490155",
           "text": "@Twentifo24 thank you!"
+        },
+        {
+          "created_at": "2026-11-07T01:46:51.000Z",
+          "id": "2118882844000838124",
+          "reply_to_id": "2118882607689826553",
+          "text": "@RDRembert nearly broke my fingers hitting the block button"
         }
       ],
       "threads": {
@@ -1776,7 +1776,6 @@
         "2118810559776727408": false,
         "2118811474282062285": false,
         "2118823612232946048": false,
-        "2118845244338815398": false,
         "2118845985480982793": false,
         "2118846679528964379": true,
         "2118847523133551099": false,
@@ -1790,7 +1789,8 @@
         "2118865493293412685": false,
         "2118870069132525575": false,
         "2118872927437496563": true,
-        "2118878254237208807": false
+        "2118878254237208807": false,
+        "2118882844000838124": false
       },
       "user_id": "973261472"
     },
@@ -7066,5 +7066,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-07T01:30:22+00:00"
+  "updated_at": "2026-11-07T01:48:20+00:00"
 }
