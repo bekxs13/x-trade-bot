@@ -994,7 +994,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118891468526129317",
+      "last_id": "2118894112497668461",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1239,12 +1239,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-07T02:12:36.000Z",
-          "id": "2118889323303260190",
-          "reply_to_id": "2118847998142677303",
-          "text": "@DrDentalAI pendulum swings, late next year its gonna get really weird and you will remember the other part of this tweet"
-        },
-        {
           "created_at": "2026-11-07T02:14:24.000Z",
           "id": "2118889777760239830",
           "reply_to_id": "2118888845248979328",
@@ -1330,6 +1324,15 @@
           "id": "2118891468526129317",
           "reply_to_id": "2118891342252413395",
           "text": "@surfcoderepeat oh wow"
+        },
+        {
+          "created_at": "2026-11-07T02:31:38.000Z",
+          "id": "2118894112497668461",
+          "images": [
+            "https://pbs.twimg.com/media/HWfS9bdXcAABAkm.jpg"
+          ],
+          "reply_to_id": "2118890699454132444",
+          "text": "@Hiruzenaio @YoSoyWald https://t.co/P9ZNYldxmQ"
         }
       ],
       "threads": {
@@ -1770,7 +1773,6 @@
         "2118884485874045086": true,
         "2118888190631432362": true,
         "2118888587877876017": false,
-        "2118889323303260190": true,
         "2118889777760239830": false,
         "2118889859762839868": false,
         "2118889925693382724": false,
@@ -1785,7 +1787,8 @@
         "2118890685864747415": false,
         "2118890722380447858": false,
         "2118891271964312034": false,
-        "2118891468526129317": false
+        "2118891468526129317": false,
+        "2118894112497668461": false
       },
       "user_id": "973261472"
     },
@@ -7058,5 +7061,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-07T02:22:18+00:00"
+  "updated_at": "2026-11-07T02:32:20+00:00"
 }
