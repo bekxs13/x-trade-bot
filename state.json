@@ -994,7 +994,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118882844000838124",
+      "last_id": "2118884485874045086",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1094,15 +1094,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T11:12:26.000Z",
-          "id": "2118662789355168232",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2118662401617022976/img/fyG9g8uWmjtwdgWk.jpg"
-          ],
-          "quoted_text": "bro said theres 15% chance of a nuke",
-          "text": "Market Bubble ep.26: my full conversation with Mark Kimmitt (Former Army Brigadier General)\n\nIran's military strategy, the tactical nuke scenario, prediction market odds, oil prices and his experiences in the Middle East\n\n0:00 - Iran's strategy and military pressure\n8:04 - Regime collapse and the nuclear debate\n14:00 - Tactical nukes and the uranium threat\n21:11 - Polymarket odds, oil and Trump\n28:10 - Istanbul, Dubai and aliens"
-        },
         {
           "created_at": "2026-11-06T11:15:08.000Z",
           "id": "2118663468886708286",
@@ -1222,10 +1213,15 @@
           "created_at": "2026-11-06T21:51:29.000Z",
           "id": "2118823612232946048",
           "text": "this is going to be hilarious in hindsight"
+        },
+        {
+          "created_at": "2026-11-07T01:53:23.000Z",
+          "id": "2118884485874045086",
+          "reply_to_id": "2118884232940634125",
+          "text": "@mikasasolslayer i actually do think timing is decent if war shit escalates over next few months &amp; into next year"
         }
       ],
       "reads": {
-        "2118662789355168232": "No call",
         "2118663468886708286": "No call",
         "2118737595798548683": "No call",
         "2118739508548038858": "No call",
@@ -1246,12 +1242,6 @@
         "2118823612232946048": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-06T23:20:23.000Z",
-          "id": "2118845985480982793",
-          "reply_to_id": "2118835718881476838",
-          "text": "@Saint10Fourteen @AgentChud @villainmonkey \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d"
-        },
         {
           "created_at": "2026-11-06T23:23:09.000Z",
           "id": "2118846679528964379",
@@ -1335,6 +1325,12 @@
           "id": "2118882844000838124",
           "reply_to_id": "2118882607689826553",
           "text": "@RDRembert nearly broke my fingers hitting the block button"
+        },
+        {
+          "created_at": "2026-11-07T01:52:22.000Z",
+          "id": "2118884232940634125",
+          "reply_to_id": "2118883977243042043",
+          "text": "@mikasasolslayer \ud83e\ude75"
         }
       ],
       "threads": {
@@ -1756,7 +1752,6 @@
         }
       },
       "trading": {
-        "2118662789355168232": true,
         "2118663468886708286": true,
         "2118737595798548683": false,
         "2118739508548038858": true,
@@ -1776,7 +1771,6 @@
         "2118810559776727408": false,
         "2118811474282062285": false,
         "2118823612232946048": false,
-        "2118845985480982793": false,
         "2118846679528964379": true,
         "2118847523133551099": false,
         "2118848140811837511": false,
@@ -1790,7 +1784,9 @@
         "2118870069132525575": false,
         "2118872927437496563": true,
         "2118878254237208807": false,
-        "2118882844000838124": false
+        "2118882844000838124": false,
+        "2118884232940634125": false,
+        "2118884485874045086": true
       },
       "user_id": "973261472"
     },
@@ -7066,5 +7062,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-07T01:48:20+00:00"
+  "updated_at": "2026-11-07T01:54:18+00:00"
 }
