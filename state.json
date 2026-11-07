@@ -2195,7 +2195,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2118874492202033161",
+      "last_id": "2118885721016504634",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2215,15 +2215,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T05:53:41.000Z",
-          "id": "2117857795932672465",
-          "images": [
-            "https://pbs.twimg.com/media/HWQkcHVWMAAy1eA.png"
-          ],
-          "quoted_text": "susan collins is gonna try to unplug, walk around beautiful maine, reflect on a long, storied career \u2014\n\nand then a name will come into her head: christine blasey ford \n\nand she\u2019ll realize there is no end to this nightmare",
-          "text": "https://t.co/kGPVeeCk0P https://t.co/Y8RIk7L7lI"
-        },
         {
           "created_at": "2026-11-04T05:59:37.000Z",
           "id": "2117859288953803111",
@@ -2349,10 +2340,15 @@
             "https://pbs.twimg.com/media/HWfBG7zWoAASOd1.jpg"
           ],
           "text": "https://t.co/4KkijK6CJ6"
+        },
+        {
+          "created_at": "2026-11-07T01:58:17.000Z",
+          "id": "2118885721016504634",
+          "quoted_text": "*SPACEX SEES ANNUALIZED REVENUE ABOVE $500B BY DECEMBER 2027",
+          "text": "that's it? https://t.co/MT5gpDDDLx"
         }
       ],
       "reads": {
-        "2117857795932672465": "No call",
         "2117864281806897389": "No call",
         "2117865462067257404": "No call",
         "2118036274934399259": "No call",
@@ -2369,7 +2365,8 @@
         "2118566848593543529": "No call",
         "2118715158197625062": "No call",
         "2118726291905999055": "No call",
-        "2118874492202033161": "No call"
+        "2118874492202033161": "No call",
+        "2118885721016504634": "No call"
       },
       "replies": [
         {
@@ -2464,10 +2461,6 @@
         }
       ],
       "threads": {
-        "2114054704888209820": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114070284164804762": {
           "alerted": [],
           "self_replies": 0
@@ -2867,10 +2860,13 @@
         "2118874492202033161": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2118885721016504634": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117857795932672465": false,
         "2117859288953803111": false,
         "2117864281806897389": false,
         "2117865462067257404": false,
@@ -2904,7 +2900,8 @@
         "2118738096376459757": false,
         "2118799094076289172": true,
         "2118860319174930890": false,
-        "2118874492202033161": false
+        "2118874492202033161": false,
+        "2118885721016504634": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7065,5 +7062,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-07T01:58:19+00:00"
+  "updated_at": "2026-11-07T02:00:27+00:00"
 }
