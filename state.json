@@ -996,7 +996,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119088270701432902",
+      "last_id": "2119089099512426988",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1096,12 +1096,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T17:01:09.000Z",
-          "id": "2118750548912456032",
-          "quoted_text": ".@tradingview this mobile update is horrible\n\nyou have all this deadspace at the bottom of the mobile app in chart view where there used to be navigation options to return to list view\n\nnow to return to a list view i have to move my fingers all the way to the top of the screen to press this stupid down chevron button thats barely visible\n\nfire the designer or pm that made this decision directly into the fucking sun",
-          "text": "yea this has been very painful to experience @tradingview https://t.co/asMUvbxYZz"
-        },
         {
           "created_at": "2026-11-06T17:19:46.000Z",
           "id": "2118755232641409354",
@@ -1221,10 +1215,15 @@
             "https://pbs.twimg.com/media/HWiBrUFW4AELvmg.jpg"
           ],
           "text": "cold hard cryptocurrencies https://t.co/mG9jLuIfHE"
+        },
+        {
+          "created_at": "2026-11-07T15:26:26.000Z",
+          "id": "2119089099512426988",
+          "quoted_text": "Over the past few days, we've been rolling out more MAJOR changes to the Callout Rewards program.\n\nWe had two goals:\n\n1) Incentivize calls on higher market cap tokens\n2) Reward users who come from different ecosystems e.g. perps & crosschain (non-SOL)\n\nWe're creating a far more rewarding environment for ALL kinds of trading styles, not just the user base that Pumpfun has always appealed to.\n\nTo do this, we've introduced an additional Callout Rewards algorithm: Diamond.\n\nDiamond uses a new experi",
+          "text": "pump has added ~11 chains past two weeks, & now giving out cash to people adding theses to higher market cap coins & trading perps + crosschain tokens\n\nlot of the pushback on the rewards was towards ppl spamming callouts on low mc tokens and taking advantage of volume spikes, this is completely orthogonal to that activity"
         }
       ],
       "reads": {
-        "2118750548912456032": "No call",
         "2118755232641409354": "No call: bullish on elysium (65%, too unsure)",
         "2118757947274830028": "No call: bullish on KNTQ (65%, too unsure)",
         "2118758965177880768": "TRADE LONG XAU",
@@ -1238,7 +1237,8 @@
         "2119014252178813292": "No call: bearish on crypto market (same view as before)",
         "2119035932133535783": "No call",
         "2119080424278282304": "No call",
-        "2119086259796590816": "VIEW bearish on ZEC"
+        "2119086259796590816": "VIEW bearish on ZEC",
+        "2119089099512426988": "No call"
       },
       "replies": [
         {
@@ -1339,10 +1339,6 @@
         }
       ],
       "threads": {
-        "2116251607323365843": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116268402729734241": {
           "alerted": [],
           "self_replies": 0
@@ -1756,10 +1752,13 @@
             "bias:zec:bearish"
           ],
           "self_replies": 0
+        },
+        "2119089099512426988": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118750548912456032": false,
         "2118755232641409354": true,
         "2118757947274830028": true,
         "2118758965177880768": true,
@@ -1793,7 +1792,8 @@
         "2119085070849864121": false,
         "2119086259796590816": true,
         "2119086970819445087": false,
-        "2119088270701432902": true
+        "2119088270701432902": true,
+        "2119089099512426988": true
       },
       "user_id": "973261472"
     },
@@ -7067,5 +7067,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-07T15:24:20+00:00"
+  "updated_at": "2026-11-07T15:28:23+00:00"
 }
