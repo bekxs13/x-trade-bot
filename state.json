@@ -994,7 +994,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118886648377409621",
+      "last_id": "2118888190631432362",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1094,12 +1094,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T11:15:08.000Z",
-          "id": "2118663468886708286",
-          "quoted_text": "Market Bubble ep.26: my full conversation with Mark Kimmitt (Former Army Brigadier General)\n\nIran's military strategy, the tactical nuke scenario, prediction market odds, oil prices and his experiences in the Middle East\n\n0:00 - Iran's strategy and military pressure\n8:04 - Regime collapse and the nuclear debate\n14:00 - Tactical nukes and the uranium threat\n21:11 - Polymarket odds, oil and Trump\n28:10 - Istanbul, Dubai and aliens",
-          "text": "dawg this shit was crazy please watch this https://t.co/jyCfM5krOv"
-        },
         {
           "created_at": "2026-11-06T16:09:41.000Z",
           "id": "2118737595798548683",
@@ -1219,10 +1213,15 @@
           "id": "2118884485874045086",
           "reply_to_id": "2118884232940634125",
           "text": "@mikasasolslayer i actually do think timing is decent if war shit escalates over next few months &amp; into next year"
+        },
+        {
+          "created_at": "2026-11-07T02:08:06.000Z",
+          "id": "2118888190631432362",
+          "reply_to_id": "2118888099757633872",
+          "text": "@SMtrades_ im gonna be so mad if i go to sleep and then wake up to price -5% lower"
         }
       ],
       "reads": {
-        "2118663468886708286": "No call",
         "2118737595798548683": "No call",
         "2118739508548038858": "No call",
         "2118740364211404876": "No call",
@@ -1242,12 +1241,6 @@
         "2118823612232946048": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-06T23:29:41.000Z",
-          "id": "2118848324107485550",
-          "reply_to_id": "2118839073326473499",
-          "text": "@plenty888 @badattrading_ @AgentChud @villainmonkey we sent the money back ages ago"
-        },
         {
           "created_at": "2026-11-07T00:08:39.000Z",
           "id": "2118858130197246127",
@@ -1337,6 +1330,12 @@
           ],
           "reply_to_id": "2118885538795327723",
           "text": "@robbytrench @mikasasolslayer what a rollercoaster https://t.co/PenZW0ebkl"
+        },
+        {
+          "created_at": "2026-11-07T02:07:44.000Z",
+          "id": "2118888099757633872",
+          "reply_to_id": "2118887040406151524",
+          "text": "@SMtrades_ do i close and just reshort sunday or what"
         }
       ],
       "threads": {
@@ -1758,7 +1757,6 @@
         }
       },
       "trading": {
-        "2118663468886708286": true,
         "2118737595798548683": false,
         "2118739508548038858": true,
         "2118740364211404876": true,
@@ -1777,7 +1775,6 @@
         "2118810559776727408": false,
         "2118811474282062285": false,
         "2118823612232946048": false,
-        "2118848324107485550": false,
         "2118858130197246127": false,
         "2118859783151448279": false,
         "2118862290225369184": false,
@@ -1792,7 +1789,9 @@
         "2118884485874045086": true,
         "2118885530989678679": false,
         "2118886334886453411": false,
-        "2118886648377409621": false
+        "2118886648377409621": false,
+        "2118888099757633872": true,
+        "2118888190631432362": true
       },
       "user_id": "973261472"
     },
@@ -7065,5 +7064,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-07T02:02:17+00:00"
+  "updated_at": "2026-11-07T02:08:19+00:00"
 }
