@@ -1001,7 +1001,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119185233782473174",
+      "last_id": "2119209041620603114",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1244,12 +1244,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-07T15:33:43.000Z",
-          "id": "2119090932892975558",
-          "reply_to_id": "2119090564775727119",
-          "text": "@DONMZKO idk if i need to be more clear but i believe everything is going -20-30% lower from here, this is a comment on the direction of the app &amp; callout rewards system, which i think is objectively good for encouraging trading of better coins &amp; rewarding holders longterm"
-        },
-        {
           "created_at": "2026-11-07T15:36:27.000Z",
           "id": "2119091620226449913",
           "reply_to_id": "2118945844967952895",
@@ -1332,6 +1326,12 @@
           "id": "2119185233782473174",
           "reply_to_id": "2119178613723480198",
           "text": "@PopPunkOnChain slide me testflight!"
+        },
+        {
+          "created_at": "2026-11-07T23:23:03.000Z",
+          "id": "2119209041620603114",
+          "reply_to_id": "2119169536356229509",
+          "text": "@HanPGL no shot you're 6'5"
         }
       ],
       "threads": {
@@ -1771,7 +1771,6 @@
         "2119080424278282304": true,
         "2119086259796590816": true,
         "2119089099512426988": true,
-        "2119090932892975558": true,
         "2119091505004720275": true,
         "2119091620226449913": true,
         "2119093632938484092": true,
@@ -1789,7 +1788,8 @@
         "2119167815714304016": false,
         "2119172987261800652": false,
         "2119182361065615690": true,
-        "2119185233782473174": false
+        "2119185233782473174": false,
+        "2119209041620603114": false
       },
       "user_id": "973261472"
     },
@@ -7063,5 +7063,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-07T22:58:20+00:00"
+  "updated_at": "2026-11-07T23:24:19+00:00"
 }
