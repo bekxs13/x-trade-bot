@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118856011142582685",
+      "last_id": "2118856552509755538",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -292,12 +292,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T06:34:34.000Z",
-          "id": "2118230474623762907",
-          "reply_to_id": "2118229077601776062",
-          "text": "@Wench71256 @BittexXBT Optimistic"
-        },
-        {
           "created_at": "2026-11-05T07:59:32.000Z",
           "id": "2118251856011153564",
           "reply_to_id": "2118024652325101752",
@@ -380,6 +374,12 @@
           "id": "2118856011142582685",
           "reply_to_id": "2118854898754236428",
           "text": "@brkevncap Yes. Got my trackhawk"
+        },
+        {
+          "created_at": "2026-11-07T00:02:23.000Z",
+          "id": "2118856552509755538",
+          "reply_to_id": "2118769747810566558",
+          "text": "@Jason @NickJFuentes 50% of my biased twitter poll believes he is the largest figure in the Republican Party over trump etc. I think def under 30 he gets mentioned more than Trump https://t.co/CtX16REB4o"
         }
       ],
       "threads": {
@@ -790,7 +790,6 @@
         }
       },
       "trading": {
-        "2118230474623762907": false,
         "2118251856011153564": true,
         "2118275270352552210": false,
         "2118290206227157172": true,
@@ -824,7 +823,8 @@
         "2118799218093748644": true,
         "2118854785785074145": false,
         "2118855155185840526": false,
-        "2118856011142582685": false
+        "2118856011142582685": false,
+        "2118856552509755538": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7066,5 +7066,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-07T00:02:16+00:00"
+  "updated_at": "2026-11-07T00:04:20+00:00"
 }
