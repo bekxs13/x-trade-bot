@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2118856552509755538",
+      "last_id": "2118858662806736994",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -292,12 +292,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T07:59:32.000Z",
-          "id": "2118251856011153564",
-          "reply_to_id": "2118024652325101752",
-          "text": "@OnodaCapital Yea  if the demand seems is some function of venture dollars deployed and nasdaq price there\u2019s no bear case with demand"
-        },
-        {
           "created_at": "2026-11-05T09:32:34.000Z",
           "id": "2118275270352552210",
           "reply_to_id": "2118274712761520510",
@@ -380,6 +374,12 @@
           "id": "2118856552509755538",
           "reply_to_id": "2118769747810566558",
           "text": "@Jason @NickJFuentes 50% of my biased twitter poll believes he is the largest figure in the Republican Party over trump etc. I think def under 30 he gets mentioned more than Trump https://t.co/CtX16REB4o"
+        },
+        {
+          "created_at": "2026-11-07T00:10:46.000Z",
+          "id": "2118858662806736994",
+          "reply_to_id": "2118858234681540707",
+          "text": "@blade_ Do u think no? I\u2019m inclined to think yes"
         }
       ],
       "threads": {
@@ -790,7 +790,6 @@
         }
       },
       "trading": {
-        "2118251856011153564": true,
         "2118275270352552210": false,
         "2118290206227157172": true,
         "2118292680962900015": false,
@@ -824,7 +823,8 @@
         "2118854785785074145": false,
         "2118855155185840526": false,
         "2118856011142582685": false,
-        "2118856552509755538": false
+        "2118856552509755538": false,
+        "2118858662806736994": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7066,5 +7066,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-07T00:10:21+00:00"
+  "updated_at": "2026-11-07T00:12:21+00:00"
 }
