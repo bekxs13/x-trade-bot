@@ -994,7 +994,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118859783151448279",
+      "last_id": "2118862290225369184",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1247,12 +1247,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T20:32:08.000Z",
-          "id": "2118803640584671250",
-          "reply_to_id": "2118759869084000686",
-          "text": "@DjGriffith when have i ever deleted a tweet with a price prediction?"
-        },
-        {
           "created_at": "2026-11-06T20:44:25.000Z",
           "id": "2118806733560697189",
           "reply_to_id": "2118801400951914899",
@@ -1338,6 +1332,12 @@
           "id": "2118859783151448279",
           "reply_to_id": "2118859227464610016",
           "text": "@wirelyss @OttoSuwen yes, i am not sure at this point if people are just being fake angry on the internet for clicks or if they really are not even attempting to use these apps"
+        },
+        {
+          "created_at": "2026-11-07T00:25:11.000Z",
+          "id": "2118862290225369184",
+          "reply_to_id": "2118859983475368219",
+          "text": "@hyler88 @wirelyss @OttoSuwen 3k?"
         }
       ],
       "threads": {
@@ -1775,7 +1775,6 @@
         "2118758965177880768": true,
         "2118759216429281606": true,
         "2118763151462465686": false,
-        "2118803640584671250": true,
         "2118806733560697189": false,
         "2118809774938862028": false,
         "2118810559776727408": false,
@@ -1793,7 +1792,8 @@
         "2118848140811837511": false,
         "2118848324107485550": false,
         "2118858130197246127": false,
-        "2118859783151448279": false
+        "2118859783151448279": false,
+        "2118862290225369184": false
       },
       "user_id": "973261472"
     },
@@ -7066,5 +7066,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-07T00:18:19+00:00"
+  "updated_at": "2026-11-07T00:26:18+00:00"
 }
