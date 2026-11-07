@@ -996,7 +996,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119121714391003242",
+      "last_id": "2119126589732507829",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1239,12 +1239,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-07T11:15:14.000Z",
-          "id": "2119025883172196639",
-          "reply_to_id": "2119024233363939336",
-          "text": "@Willy_wonka_ws you want one?"
-        },
-        {
           "created_at": "2026-11-07T14:55:05.000Z",
           "id": "2119081207560347718",
           "reply_to_id": "2119080747772612916",
@@ -1327,6 +1321,12 @@
           "id": "2119121714391003242",
           "reply_to_id": "2119111828475458036",
           "text": "my cope bull case for this changing is that we clearly have gotten much more advanced ai models but it doesnt seem like we've seen that many breakout apps enabled by ai, & if you are betting on the thesis that blockchains will onboard trillions of capital over next several years then it also makes sense that as this happens you will see many net new apps form around this transfer of value, & solana is clearly the most performant chain to host this activity"
+        },
+        {
+          "created_at": "2026-11-07T17:55:25.000Z",
+          "id": "2119126589732507829",
+          "reply_to_id": "2119126262190919790",
+          "text": "@mayberug yes"
         }
       ],
       "threads": {
@@ -1763,7 +1763,6 @@
         "2119013989250379937": true,
         "2119014252178813292": true,
         "2119021428628762970": true,
-        "2119025883172196639": false,
         "2119035932133535783": true,
         "2119080424278282304": true,
         "2119081207560347718": false,
@@ -1784,7 +1783,8 @@
         "2119100600487121342": true,
         "2119101338021700013": true,
         "2119121483255480772": true,
-        "2119121714391003242": true
+        "2119121714391003242": true,
+        "2119126589732507829": false
       },
       "user_id": "973261472"
     },
@@ -7058,5 +7058,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-07T17:36:16+00:00"
+  "updated_at": "2026-11-07T17:56:19+00:00"
 }
