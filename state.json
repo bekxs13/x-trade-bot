@@ -996,7 +996,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119020727609225386",
+      "last_id": "2119021428628762970",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1096,11 +1096,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T16:42:01.000Z",
-          "id": "2118745731158724763",
-          "text": "zcash which first"
-        },
         {
           "created_at": "2026-11-06T16:46:20.000Z",
           "id": "2118746817504424387",
@@ -1217,10 +1212,15 @@
           "created_at": "2026-11-07T10:29:01.000Z",
           "id": "2119014252178813292",
           "text": "zec weakness ltf showing next direction for majors imo\n\nhas been strong but its also where most upnl is hiding"
+        },
+        {
+          "created_at": "2026-11-07T10:57:32.000Z",
+          "id": "2119021428628762970",
+          "reply_to_id": "2119020370019643823",
+          "text": "@cozypront intraday -&gt; daily -&gt; weekly, hard to catch in real time but notable when the leaders stop outperforming, especially at pivot points, for me this is near zec's local range highs"
         }
       ],
       "reads": {
-        "2118745731158724763": "No call",
         "2118746817504424387": "No call",
         "2118747133205717233": "No call",
         "2118748641817153640": "No call: bullish on ZEC (same view as before)",
@@ -1757,7 +1757,6 @@
         }
       },
       "trading": {
-        "2118745731158724763": true,
         "2118746817504424387": true,
         "2118747133205717233": true,
         "2118748641817153640": true,
@@ -1791,7 +1790,8 @@
         "2119015588173434954": true,
         "2119020305889022214": false,
         "2119020370019643823": true,
-        "2119020727609225386": false
+        "2119020727609225386": false,
+        "2119021428628762970": true
       },
       "user_id": "973261472"
     },
@@ -7065,5 +7065,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-07T10:56:16+00:00"
+  "updated_at": "2026-11-07T11:00:24+00:00"
 }
