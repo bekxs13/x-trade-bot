@@ -994,7 +994,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2118889078129311793",
+      "last_id": "2118889323303260190",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1242,12 +1242,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-07T00:30:44.000Z",
-          "id": "2118863689419808967",
-          "reply_to_id": "2118856727294812284",
-          "text": "@CastilloTrading there is no beef, he is lying for attention and ct is giving it to him"
-        },
-        {
           "created_at": "2026-11-07T00:35:56.000Z",
           "id": "2118864997199556856",
           "reply_to_id": "2118862620115587432",
@@ -1336,6 +1330,12 @@
           "id": "2118889078129311793",
           "reply_to_id": "2118888780895514798",
           "text": "@RAP3MEFR fire"
+        },
+        {
+          "created_at": "2026-11-07T02:12:36.000Z",
+          "id": "2118889323303260190",
+          "reply_to_id": "2118847998142677303",
+          "text": "@DrDentalAI pendulum swings, late next year its gonna get really weird and you will remember the other part of this tweet"
         }
       ],
       "threads": {
@@ -1774,7 +1774,6 @@
         "2118810559776727408": false,
         "2118811474282062285": false,
         "2118823612232946048": false,
-        "2118863689419808967": false,
         "2118864997199556856": false,
         "2118865493293412685": false,
         "2118870069132525575": false,
@@ -1791,7 +1790,8 @@
         "2118888573348819116": false,
         "2118888587877876017": false,
         "2118888974148366421": false,
-        "2118889078129311793": false
+        "2118889078129311793": false,
+        "2118889323303260190": true
       },
       "user_id": "973261472"
     },
@@ -7064,5 +7064,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-06",
-  "updated_at": "2026-11-07T02:12:18+00:00"
+  "updated_at": "2026-11-07T02:14:25+00:00"
 }
