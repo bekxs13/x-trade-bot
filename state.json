@@ -4564,7 +4564,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2119529034014928991",
+      "last_id": "2119529704445395132",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4600,14 +4600,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T00:42:24.000Z",
-          "id": "2118141847952408653",
-          "images": [
-            "https://pbs.twimg.com/media/HWUmryRWMAA-QXH.jpg"
-          ],
-          "text": "https://t.co/itLmdsaZJW"
-        },
         {
           "created_at": "2026-11-05T01:50:01.000Z",
           "id": "2118158865028227260",
@@ -4722,10 +4714,18 @@
           "id": "2119529034014928991",
           "reply_to_id": "2119528223528698252",
           "text": "like oh yeah btw we the guy on the ansem pod said 15% chance we nuke iran and oh btw dems total sweep of mid terms republicans will never win again and oh btw we lied inflation is 101010% \n\nand i\u2019m supposed to care about who jensen is fucking"
+        },
+        {
+          "created_at": "2026-11-08T20:36:46.000Z",
+          "id": "2119529584714813898",
+          "images": [
+            "https://pbs.twimg.com/media/HWoU6_VXwAE3w6Z.jpg"
+          ],
+          "quoted_text": "\"Nvidia Corp.\u2019s board is launching an investigation into whether Chief Executive Officer Jensen Huang was targeted by a foreign espionage plot after he admitted to employees that he was unfaithful to his wife.\" https://t.co/ZjXhALNr9t",
+          "text": "i am truly struggling with this story. in a lot of ways jensen represented to me the last inch of level headed competency we had in america.\noh well https://t.co/kfqkpaMIZh https://t.co/ij6vmtInOQ"
         }
       ],
       "reads": {
-        "2118141847952408653": "No call",
         "2118158865028227260": "No call: bullish on crypto market (55%, too unsure)",
         "2118328374984855889": "No call",
         "2118328681831756007": "No call",
@@ -4744,15 +4744,10 @@
         "2118695853712179456": "No call",
         "2118700188055265780": "No call",
         "2119528223528698252": "No call",
-        "2119529034014928991": "No call"
+        "2119529034014928991": "No call",
+        "2119529584714813898": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-06T23:18:52.000Z",
-          "id": "2118845601093730543",
-          "reply_to_id": "2118844719497093246",
-          "text": "@Josh_Hodlin love man thanks"
-        },
         {
           "created_at": "2026-11-07T02:52:42.000Z",
           "id": "2118899416912605272",
@@ -4836,13 +4831,15 @@
           "id": "2119528862615048368",
           "reply_to_id": "2119528521156710410",
           "text": "@iamgingertrash how do you win"
+        },
+        {
+          "created_at": "2026-11-08T20:37:15.000Z",
+          "id": "2119529704445395132",
+          "reply_to_id": "2119529350059925655",
+          "text": "@goodalexander need some fucking foresight man. jesus"
         }
       ],
       "threads": {
-        "2113316527831175441": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113336192578302265": {
           "alerted": [],
           "self_replies": 1
@@ -5240,10 +5237,13 @@
         "2119528223528698252": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2119529584714813898": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118141847952408653": false,
         "2118158865028227260": true,
         "2118328374984855889": true,
         "2118328681831756007": true,
@@ -5261,7 +5261,6 @@
         "2118686494462300433": true,
         "2118695853712179456": false,
         "2118700188055265780": true,
-        "2118845601093730543": false,
         "2118899416912605272": false,
         "2118913002871173424": false,
         "2118916995630649771": false,
@@ -5277,7 +5276,9 @@
         "2119528223528698252": false,
         "2119528709816475922": false,
         "2119528862615048368": false,
-        "2119529034014928991": false
+        "2119529034014928991": false,
+        "2119529584714813898": false,
+        "2119529704445395132": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7058,5 +7059,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-08",
-  "updated_at": "2026-11-08T20:36:25+00:00"
+  "updated_at": "2026-11-08T20:38:24+00:00"
 }
