@@ -2202,7 +2202,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2119525570203775190",
+      "last_id": "2119531917574025572",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2222,14 +2222,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T23:41:50.000Z",
-          "id": "2118126606942400530",
-          "images": [
-            "https://pbs.twimg.com/media/HWUYy73WIAAXI2j.png"
-          ],
-          "text": "who the hell is offering DRAM stock in this size at this time of night? https://t.co/rnbvJJTFDk"
-        },
         {
           "created_at": "2026-11-05T04:46:18.000Z",
           "id": "2118203227347001717",
@@ -2348,10 +2340,17 @@
           "id": "2119525570203775190",
           "quoted_text": "\"I Was Unfaithful To My Wife\": Jensen Huang Admits Affair As Nvidia Board Launches Chinese Spy Probe https://t.co/XntoOqiRyw",
           "text": "man https://t.co/I6b7Co421F"
+        },
+        {
+          "created_at": "2026-11-08T20:46:02.000Z",
+          "id": "2119531917574025572",
+          "images": [
+            "https://pbs.twimg.com/media/HWoXCPzXoAAwv8R.jpg"
+          ],
+          "text": "imagine buying the dip on nvda and then you get hit with \"lol the CEO is banging a chinese spy\"\n\nscam market honestly https://t.co/VruhE5h43W"
         }
       ],
       "reads": {
-        "2118126606942400530": "No call",
         "2118203227347001717": "No call",
         "2118304708884574447": "No call",
         "2118326893925843243": "No call",
@@ -2369,7 +2368,8 @@
         "2118922051830329732": "No call",
         "2119218111068991627": "No call",
         "2119465859194523687": "No call",
-        "2119525570203775190": "No call"
+        "2119525570203775190": "No call",
+        "2119531917574025572": "No call"
       },
       "replies": [
         {
@@ -2464,10 +2464,6 @@
         }
       ],
       "threads": {
-        "2114107231335567587": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2114145973807251923": {
           "alerted": [],
           "self_replies": 1
@@ -2865,10 +2861,13 @@
         "2119525570203775190": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119531917574025572": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118126606942400530": true,
         "2118203227347001717": false,
         "2118304708884574447": true,
         "2118326893925843243": true,
@@ -2902,7 +2901,8 @@
         "2119445303132856403": false,
         "2119465859194523687": false,
         "2119480106704056700": false,
-        "2119525570203775190": false
+        "2119525570203775190": false,
+        "2119531917574025572": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7059,5 +7059,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-08",
-  "updated_at": "2026-11-08T20:38:24+00:00"
+  "updated_at": "2026-11-08T20:46:19+00:00"
 }
