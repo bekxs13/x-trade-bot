@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2119202578387083349",
+      "last_id": "2119237974978433429",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -299,12 +299,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T10:31:55.000Z",
-          "id": "2118290206227157172",
-          "reply_to_id": "2117685016658358748",
-          "text": "@DeepDishEnjoyer @dmartin_trading A trade going against u is a signal that the trade is bad Steve Cohen speaks of this"
-        },
-        {
           "created_at": "2026-11-05T10:41:45.000Z",
           "id": "2118292680962900015",
           "reply_to_id": "2118292132876480727",
@@ -387,6 +381,12 @@
           "id": "2119163228009984017",
           "reply_to_id": "2119101666439877019",
           "text": "@michaelmiraflor @whop Trillionaire Grindset"
+        },
+        {
+          "created_at": "2026-11-08T01:18:01.000Z",
+          "id": "2119237974978433429",
+          "reply_to_id": "2119236048609845325",
+          "text": "@reaIityobserver My taste in movies yeah I like the girls with the Coppola name"
         }
       ],
       "threads": {
@@ -797,7 +797,6 @@
         }
       },
       "trading": {
-        "2118290206227157172": true,
         "2118292680962900015": false,
         "2118403946649903609": false,
         "2118467084535640378": true,
@@ -831,7 +830,8 @@
         "2119154697944916054": false,
         "2119163228009984017": false,
         "2119170904253169958": false,
-        "2119202578387083349": false
+        "2119202578387083349": false,
+        "2119237974978433429": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7060,5 +7060,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-08T01:00:29+00:00"
+  "updated_at": "2026-11-08T01:18:19+00:00"
 }
