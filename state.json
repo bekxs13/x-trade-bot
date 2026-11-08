@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2119356871970902032",
+      "last_id": "2119378209318068632",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,12 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T06:30:08.000Z",
-          "id": "2118591745307091444",
-          "reply_to_id": "2118591697198457223",
-          "text": "see that's just made up but you wouldn't really know"
-        },
         {
           "created_at": "2026-11-06T08:14:54.000Z",
           "id": "2118618111079485921",
@@ -276,10 +270,18 @@
           "created_at": "2026-11-08T09:10:28.000Z",
           "id": "2119356871970902032",
           "text": "We want supposed to make it past 25\u2026 jokes on you we still alive"
+        },
+        {
+          "created_at": "2026-11-08T10:35:15.000Z",
+          "id": "2119378209318068632",
+          "images": [
+            "https://pbs.twimg.com/media/HWmLPl4bIAAccVh.jpg"
+          ],
+          "quoted_text": "Dario Amodei testified under oath that he didn't know his home address https://t.co/MvbSbsltBE https://t.co/m10KbKKrdn",
+          "text": "Standard https://t.co/W23b1JVU6F https://t.co/V1Bh1pxrhK"
         }
       ],
       "reads": {
-        "2118591745307091444": "Read together with the post it replies to",
         "2118618111079485921": "No call",
         "2118796550277357861": "No call",
         "2118854785785074145": "No call",
@@ -298,7 +300,8 @@
         "2119353508923326783": "No call",
         "2119354232969232673": "No call",
         "2119355012774306261": "No call",
-        "2119356871970902032": "No call"
+        "2119356871970902032": "No call",
+        "2119378209318068632": "No call"
       },
       "replies": [
         {
@@ -393,10 +396,6 @@
         }
       ],
       "threads": {
-        "2113826377292222725": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113836306099003689": {
           "alerted": [],
           "self_replies": 0
@@ -795,6 +794,10 @@
         "2119356871970902032": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119378209318068632": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -803,7 +806,6 @@
         "2118535114774966313": true,
         "2118560992187846830": true,
         "2118570955996111104": false,
-        "2118591745307091444": false,
         "2118618111079485921": false,
         "2118619320574247012": false,
         "2118622265952833772": false,
@@ -832,7 +834,8 @@
         "2119353508923326783": false,
         "2119354232969232673": false,
         "2119355012774306261": false,
-        "2119356871970902032": false
+        "2119356871970902032": false,
+        "2119378209318068632": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7053,5 +7056,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-08T09:52:20+00:00"
+  "updated_at": "2026-11-08T10:36:20+00:00"
 }
