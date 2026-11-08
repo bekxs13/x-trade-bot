@@ -5329,7 +5329,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2119268625596948859",
+      "last_id": "2119269615650127926",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -5526,12 +5526,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T00:47:21.000Z",
-          "id": "2118505482939969835",
-          "reply_to_id": "2118504615012368721",
-          "text": "@DeFi_Dad Zigher"
-        },
-        {
           "created_at": "2026-11-06T00:51:42.000Z",
           "id": "2118506575447089463",
           "reply_to_id": "2118505892438233541",
@@ -5614,6 +5608,12 @@
           "id": "2119268625596948859",
           "reply_to_id": "2119247411696779553",
           "text": "@SalsaTekila Hey man from one countersignal to another, let me tell you one thing: It's only going to get much worse for us from here."
+        },
+        {
+          "created_at": "2026-11-08T03:23:45.000Z",
+          "id": "2119269615650127926",
+          "reply_to_id": "2119263794375348623",
+          "text": "@zectrillionaire I just stare at the chart and hope it goes up"
         }
       ],
       "threads": {
@@ -5752,7 +5752,6 @@
         "2117591105042550947": false,
         "2117954235698483689": true,
         "2118503326082117747": true,
-        "2118505482939969835": true,
         "2118506575447089463": true,
         "2118547333264671040": true,
         "2118698734129230136": false,
@@ -5769,7 +5768,8 @@
         "2118797741266759825": false,
         "2118813799583289549": true,
         "2119084448415465853": false,
-        "2119268625596948859": false
+        "2119268625596948859": false,
+        "2119269615650127926": true
       },
       "user_id": "1064421325186359296"
     },
@@ -7060,5 +7060,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-08T03:20:20+00:00"
+  "updated_at": "2026-11-08T03:24:16+00:00"
 }
