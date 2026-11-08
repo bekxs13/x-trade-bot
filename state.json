@@ -4564,7 +4564,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2119528862615048368",
+      "last_id": "2119529034014928991",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4600,12 +4600,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T23:42:49.000Z",
-          "id": "2118126854775153000",
-          "reply_to_id": "2118110003403915731",
-          "text": "what the fuck is a political analyst dude what am i even saying fuck you guys"
-        },
         {
           "created_at": "2026-11-05T00:42:24.000Z",
           "id": "2118141847952408653",
@@ -4722,10 +4716,15 @@
           "created_at": "2026-11-08T20:31:22.000Z",
           "id": "2119528223528698252",
           "text": "2026 is hilarious because the ceo of the most valuable company in the world who\u2019s primary goal is to beat china in a global arms race to super intelligence was caught having an affair on his wife of 41 years with a top level ccp spy and it\u2019s like the tenth most important thing that\u2019s happened this week"
+        },
+        {
+          "created_at": "2026-11-08T20:34:35.000Z",
+          "id": "2119529034014928991",
+          "reply_to_id": "2119528223528698252",
+          "text": "like oh yeah btw we the guy on the ansem pod said 15% chance we nuke iran and oh btw dems total sweep of mid terms republicans will never win again and oh btw we lied inflation is 101010% \n\nand i\u2019m supposed to care about who jensen is fucking"
         }
       ],
       "reads": {
-        "2118126854775153000": "No call",
         "2118141847952408653": "No call",
         "2118158865028227260": "No call: bullish on crypto market (55%, too unsure)",
         "2118328374984855889": "No call",
@@ -4744,7 +4743,8 @@
         "2118686494462300433": "No call",
         "2118695853712179456": "No call",
         "2118700188055265780": "No call",
-        "2119528223528698252": "No call"
+        "2119528223528698252": "No call",
+        "2119529034014928991": "No call"
       },
       "replies": [
         {
@@ -5239,11 +5239,10 @@
         },
         "2119528223528698252": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2118126854775153000": false,
         "2118141847952408653": false,
         "2118158865028227260": true,
         "2118328374984855889": true,
@@ -5277,7 +5276,8 @@
         "2119511274752995695": false,
         "2119528223528698252": false,
         "2119528709816475922": false,
-        "2119528862615048368": false
+        "2119528862615048368": false,
+        "2119529034014928991": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7058,5 +7058,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-08",
-  "updated_at": "2026-11-08T20:34:21+00:00"
+  "updated_at": "2026-11-08T20:36:25+00:00"
 }
