@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2119355012774306261",
+      "last_id": "2119356871970902032",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,11 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T06:29:56.000Z",
-          "id": "2118591697198457223",
-          "text": "Oblique, the agent framework, has raised at a 15 billion dollar valuation"
-        },
         {
           "created_at": "2026-11-06T06:30:08.000Z",
           "id": "2118591745307091444",
@@ -276,10 +271,14 @@
           "created_at": "2026-11-08T09:03:05.000Z",
           "id": "2119355012774306261",
           "text": "Just because a few anthropic employees allegedly murdered and molested those kids doesn\u2019t mean he whole company is bad"
+        },
+        {
+          "created_at": "2026-11-08T09:10:28.000Z",
+          "id": "2119356871970902032",
+          "text": "We want supposed to make it past 25\u2026 jokes on you we still alive"
         }
       ],
       "reads": {
-        "2118591697198457223": "No call",
         "2118591745307091444": "Read together with the post it replies to",
         "2118618111079485921": "No call",
         "2118796550277357861": "No call",
@@ -298,7 +297,8 @@
         "2119328844247380153": "No call",
         "2119353508923326783": "No call",
         "2119354232969232673": "No call",
-        "2119355012774306261": "No call"
+        "2119355012774306261": "No call",
+        "2119356871970902032": "No call"
       },
       "replies": [
         {
@@ -393,10 +393,6 @@
         }
       ],
       "threads": {
-        "2113820770468069611": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113826377292222725": {
           "alerted": [],
           "self_replies": 0
@@ -795,6 +791,10 @@
         "2119355012774306261": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119356871970902032": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -803,7 +803,6 @@
         "2118535114774966313": true,
         "2118560992187846830": true,
         "2118570955996111104": false,
-        "2118591697198457223": false,
         "2118591745307091444": false,
         "2118618111079485921": false,
         "2118619320574247012": false,
@@ -832,7 +831,8 @@
         "2119331577608155616": false,
         "2119353508923326783": false,
         "2119354232969232673": false,
-        "2119355012774306261": false
+        "2119355012774306261": false,
+        "2119356871970902032": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7053,5 +7053,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-08T09:04:21+00:00"
+  "updated_at": "2026-11-08T09:12:21+00:00"
 }
