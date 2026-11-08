@@ -6303,7 +6303,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2119274113692844161",
+      "last_id": "2119318160088174622",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6339,14 +6339,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T20:03:48.000Z",
-          "id": "2118434125497463082",
-          "images": [
-            "https://pbs.twimg.com/media/HWYwdzrWEAAKMeT.jpg"
-          ],
-          "text": "Yup https://t.co/tiWLkglG8D"
-        },
         {
           "created_at": "2026-11-05T20:19:14.000Z",
           "id": "2118438009435504661",
@@ -6466,10 +6458,14 @@
             "https://pbs.twimg.com/media/HWkshMwXoAAv3WG.jpg"
           ],
           "text": "Me logging into Crypto twitter last week https://t.co/zqUlyExmR8"
+        },
+        {
+          "created_at": "2026-11-08T06:36:39.000Z",
+          "id": "2119318160088174622",
+          "text": "Retail trading volume is the new oil"
         }
       ],
       "reads": {
-        "2118434125497463082": "No call",
         "2118438009435504661": "No call",
         "2118445738183323898": "No call",
         "2118447284123787514": "No call",
@@ -6485,7 +6481,8 @@
         "2118759692121833668": "No call",
         "2118777378042232977": "No call: bullish on CRWV (55%, too unsure)",
         "2118790632181567672": "No call",
-        "2119274113692844161": "No call"
+        "2119274113692844161": "No call",
+        "2119318160088174622": "No call"
       },
       "replies": [
         {
@@ -6580,10 +6577,6 @@
         }
       ],
       "threads": {
-        "2110391755179004395": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110403399208562717": {
           "alerted": [],
           "self_replies": 0
@@ -6995,6 +6988,10 @@
         "2119274113692844161": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119318160088174622": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7013,7 +7010,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118434125497463082": false,
         "2118438009435504661": true,
         "2118445738183323898": true,
         "2118447284123787514": true,
@@ -7032,7 +7028,8 @@
         "2118777378042232977": true,
         "2118790632181567672": true,
         "2119224497953755287": false,
-        "2119274113692844161": false
+        "2119274113692844161": false,
+        "2119318160088174622": true
       },
       "user_id": "809191427645181952"
     }
@@ -7055,5 +7052,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-08T06:14:15+00:00"
+  "updated_at": "2026-11-08T06:38:18+00:00"
 }
