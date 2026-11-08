@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2119327919218778552",
+      "last_id": "2119328458459459755",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,16 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T02:04:49.000Z",
-          "id": "2118524975141560543",
-          "text": "Officially went from homeless for 6 months to 3 apartments this week"
-        },
-        {
-          "created_at": "2026-11-06T02:32:18.000Z",
-          "id": "2118531894052815292",
-          "text": "A \u201cbusiness\u201d is a marketing function for selling equity, not a firm to serve customers"
-        },
         {
           "created_at": "2026-11-06T02:35:21.000Z",
           "id": "2118532663120458108",
@@ -273,11 +263,22 @@
             "https://pbs.twimg.com/media/HWldHMqawAAXxwF.jpg"
           ],
           "text": "https://t.co/behzqkxNbq"
+        },
+        {
+          "created_at": "2026-11-08T07:16:51.000Z",
+          "id": "2119328276858728741",
+          "images": [
+            "https://pbs.twimg.com/media/HWldze2aEAAu2Xa.jpg"
+          ],
+          "text": "https://t.co/iLCg5NjFWa"
+        },
+        {
+          "created_at": "2026-11-08T07:17:34.000Z",
+          "id": "2119328458459459755",
+          "text": "0 likes 2 thousand retweets"
         }
       ],
       "reads": {
-        "2118524975141560543": "No call",
-        "2118531894052815292": "No call",
         "2118532663120458108": "No call",
         "2118540566736851268": "No call",
         "2118587970039226849": "No call",
@@ -295,7 +296,9 @@
         "2119202578387083349": "No call",
         "2119240434732208240": "No call",
         "2119327512484556812": "No call",
-        "2119327919218778552": "No call"
+        "2119327919218778552": "No call",
+        "2119328276858728741": "No call",
+        "2119328458459459755": "No call"
       },
       "replies": [
         {
@@ -390,14 +393,6 @@
         }
       ],
       "threads": {
-        "2113691286347939841": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2113692851703885983": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2113693519915127017": {
           "alerted": [],
           "self_replies": 0
@@ -792,6 +787,14 @@
         "2119327919218778552": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119328276858728741": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2119328458459459755": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -799,8 +802,6 @@
         "2118403946649903609": false,
         "2118467084535640378": true,
         "2118493422063595931": false,
-        "2118524975141560543": false,
-        "2118531894052815292": true,
         "2118532663120458108": true,
         "2118535114774966313": true,
         "2118540566736851268": true,
@@ -829,7 +830,9 @@
         "2119237974978433429": false,
         "2119240434732208240": false,
         "2119327512484556812": false,
-        "2119327919218778552": false
+        "2119327919218778552": false,
+        "2119328276858728741": false,
+        "2119328458459459755": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7050,5 +7053,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-08T07:16:21+00:00"
+  "updated_at": "2026-11-08T07:18:24+00:00"
 }
