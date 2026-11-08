@@ -6306,7 +6306,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2118790632181567672",
+      "last_id": "2119224497953755287",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6342,14 +6342,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T19:42:18.000Z",
-          "id": "2118428712685211862",
-          "images": [
-            "https://pbs.twimg.com/media/HWYrm8pWIAEoz4m.jpg"
-          ],
-          "text": "BOT - $SOXL \nBOT - 70C IBIT JAN28\nBOT - TQQQ https://t.co/c4N2zbYHFO"
-        },
         {
           "created_at": "2026-11-05T20:00:44.000Z",
           "id": "2118433352483275030",
@@ -6468,10 +6460,18 @@
             "https://pbs.twimg.com/media/HWd0szaWwAAnzK_.jpg"
           ],
           "text": "Crypto people like to laugh at Buffett and boomer stocks but what an incredible compounding machine over the last few years with little volatility. https://t.co/KMaHdmUvpF"
+        },
+        {
+          "created_at": "2026-11-08T00:24:28.000Z",
+          "id": "2119224497953755287",
+          "images": [
+            "https://pbs.twimg.com/media/HWj_brmXYAAbj_1.png"
+          ],
+          "reply_to_id": "2111584400148455443",
+          "text": ". https://t.co/d0O4Rz36MA"
         }
       ],
       "reads": {
-        "2118428712685211862": "TRADE LONG SOXL \u00b7 VIEW bullish on stocks/macro",
         "2118433352483275030": "No call",
         "2118434125497463082": "No call",
         "2118438009435504661": "No call",
@@ -7018,7 +7018,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118428712685211862": true,
         "2118433352483275030": true,
         "2118434125497463082": false,
         "2118438009435504661": true,
@@ -7037,7 +7036,8 @@
         "2118752177610994128": false,
         "2118759692121833668": false,
         "2118777378042232977": true,
-        "2118790632181567672": true
+        "2118790632181567672": true,
+        "2119224497953755287": false
       },
       "user_id": "809191427645181952"
     }
@@ -7060,5 +7060,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-08T00:00:23+00:00"
+  "updated_at": "2026-11-08T00:26:20+00:00"
 }
