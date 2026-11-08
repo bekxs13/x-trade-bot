@@ -1005,7 +1005,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119409698999033942",
+      "last_id": "2119512277393043542",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1105,11 +1105,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T20:59:37.000Z",
-          "id": "2118810559776727408",
-          "text": "who is stephen miller"
-        },
         {
           "created_at": "2026-11-06T21:03:15.000Z",
           "id": "2118811474282062285",
@@ -1225,10 +1220,18 @@
             "https://pbs.twimg.com/amplify_video_thumb/2119409555553841152/img/Ye42YiXUNXqW8Mbz.jpg"
           ],
           "text": "i'm starting to pay more attention to where capital could rotate if AI stops dominating equity returns\n\nApple, Microsoft, Amazon and Google look better positioned to me than many of the memory and semiconductor names because they control more of the technology stack and have diversified businesses\n\nAI has driven so much of the market's performance over the past few years, but i'm interested in which sectors and undervalued companies could attract capital if that trend slows down\n\nthere's also growing political uncertainty that could make investors more cautious in the near term\n\nfiguring out where the next major rotation happens is one of the things i'm focused on right now"
+        },
+        {
+          "created_at": "2026-11-08T19:28:00.000Z",
+          "id": "2119512277393043542",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2119412282790977536/img/zROH5tJrjGMLpOwj.jpg"
+          ],
+          "quoted_text": "Market Bubble ep.26: my full conversation with Mark Kimmitt (Former Army Brigadier General)\n\nIran's military strategy, the tactical nuke scenario, prediction market odds, oil prices and his experiences in the Middle East\n\n0:00 - Iran's strategy and military pressure\n8:04 - Regime collapse and the nuclear debate\n14:00 - Tactical nukes and the uranium threat\n21:11 - Polymarket odds, oil and Trump\n28:10 - Istanbul, Dubai and aliens",
+          "text": "the possibility of nuclear weapons being used in the Iran conflict is something i've been trying to understand\n\nTucker Carlson recently raised concerns about a potential US nuclear strike on an Iranian mountain facility, although the claim remains unverified\n\ni asked Mark about how realistic that scenario actually is, and his experience serving in a nuclear-armed artillery unit gave some interesting historical context\n\ntactical nuclear weapons have been part of military planning for decades, and the risk of escalation is something worth taking seriously"
         }
       ],
       "reads": {
-        "2118810559776727408": "No call",
         "2118811474282062285": "No call",
         "2118823612232946048": "No call",
         "2118888587877876017": "No call",
@@ -1243,7 +1246,8 @@
         "2119098416516972779": "No call",
         "2119167815714304016": "No call",
         "2119286953141264608": "No call",
-        "2119409698999033942": "No call: bearish on memory stocks (60%, too unsure)"
+        "2119409698999033942": "No call: bearish on memory stocks (60%, too unsure)",
+        "2119512277393043542": "No call"
       },
       "replies": [
         {
@@ -1338,10 +1342,6 @@
         }
       ],
       "threads": {
-        "2117354957951102989": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117408899795927550": {
           "alerted": [],
           "self_replies": 0
@@ -1755,10 +1755,13 @@
         "2119409698999033942": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119512277393043542": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118810559776727408": false,
         "2118811474282062285": false,
         "2118823612232946048": false,
         "2118884485874045086": true,
@@ -1792,7 +1795,8 @@
         "2119360642314551548": false,
         "2119366487571874088": false,
         "2119367066176385283": false,
-        "2119409698999033942": true
+        "2119409698999033942": true,
+        "2119512277393043542": false
       },
       "user_id": "973261472"
     },
@@ -7056,5 +7060,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-08",
-  "updated_at": "2026-11-08T19:24:18+00:00"
+  "updated_at": "2026-11-08T19:28:19+00:00"
 }
