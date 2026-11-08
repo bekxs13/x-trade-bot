@@ -2195,7 +2195,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2119217419105534126",
+      "last_id": "2119218111068991627",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2215,14 +2215,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-04T06:19:27.000Z",
-          "id": "2117864281806897389",
-          "images": [
-            "https://pbs.twimg.com/media/HWQqVssWkAAHV8r.jpg"
-          ],
-          "text": "https://t.co/OSawen0SUP"
-        },
         {
           "created_at": "2026-11-04T06:24:08.000Z",
           "id": "2117865462067257404",
@@ -2346,10 +2338,14 @@
           "id": "2118922051830329732",
           "quoted_text": "Tesla will wind down Cybertruck production around mid-2027, CEO Elon Musk says, after years of persistently weak sales for a futuristic model once touted as a rival to legacy pickup trucks. https://t.co/8NC8pDGsKs",
           "text": "most performative car ever made https://t.co/sXvBFnUdqO"
+        },
+        {
+          "created_at": "2026-11-07T23:59:05.000Z",
+          "id": "2119218111068991627",
+          "text": "just went back home to celebrate my grandpa's 92nd birthday\n\nputs a lot into perspective"
         }
       ],
       "reads": {
-        "2117864281806897389": "No call",
         "2117865462067257404": "No call",
         "2118036274934399259": "No call",
         "2118126606942400530": "No call",
@@ -2367,7 +2363,8 @@
         "2118726291905999055": "No call",
         "2118874492202033161": "No call",
         "2118885721016504634": "No call",
-        "2118922051830329732": "No call"
+        "2118922051830329732": "No call",
+        "2119218111068991627": "No call"
       },
       "replies": [
         {
@@ -2462,10 +2459,6 @@
         }
       ],
       "threads": {
-        "2114085616187277684": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114092845464477881": {
           "alerted": [],
           "self_replies": 0
@@ -2865,10 +2858,13 @@
         "2118922051830329732": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119218111068991627": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2117864281806897389": false,
         "2117865462067257404": false,
         "2118036274934399259": false,
         "2118126606942400530": true,
@@ -2902,7 +2898,8 @@
         "2118874492202033161": false,
         "2118885721016504634": true,
         "2118922051830329732": false,
-        "2119217419105534126": false
+        "2119217419105534126": false,
+        "2119218111068991627": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7063,5 +7060,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-07T23:58:20+00:00"
+  "updated_at": "2026-11-08T00:00:23+00:00"
 }
