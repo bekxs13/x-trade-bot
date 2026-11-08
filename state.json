@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2119575251965374752",
+      "last_id": "2119577619763245318",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,11 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T08:14:54.000Z",
-          "id": "2118618111079485921",
-          "text": "Is Nick Fuentes the largest figure in the Republican Party"
-        },
         {
           "created_at": "2026-11-06T20:03:57.000Z",
           "id": "2118796550277357861",
@@ -279,10 +274,15 @@
           ],
           "quoted_text": "Dario Amodei testified under oath that he didn't know his home address https://t.co/MvbSbsltBE https://t.co/m10KbKKrdn",
           "text": "Standard https://t.co/W23b1JVU6F https://t.co/V1Bh1pxrhK"
+        },
+        {
+          "created_at": "2026-11-08T23:47:39.000Z",
+          "id": "2119577619763245318",
+          "reply_to_id": "2119575251965374752",
+          "text": "@LaDolceRiviera split a bottle of wine with my ex here but it was just me drinking a full bottle of red wine and then us arguing, incredible hotel"
         }
       ],
       "reads": {
-        "2118618111079485921": "No call",
         "2118796550277357861": "No call",
         "2118854785785074145": "No call",
         "2118855155185840526": "No call",
@@ -805,7 +805,6 @@
         "2118535114774966313": true,
         "2118560992187846830": true,
         "2118570955996111104": false,
-        "2118618111079485921": false,
         "2118619320574247012": false,
         "2118622265952833772": false,
         "2118796550277357861": true,
@@ -835,7 +834,8 @@
         "2119355012774306261": false,
         "2119356871970902032": false,
         "2119378209318068632": false,
-        "2119575251965374752": false
+        "2119575251965374752": false,
+        "2119577619763245318": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7059,5 +7059,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-08",
-  "updated_at": "2026-11-08T23:40:19+00:00"
+  "updated_at": "2026-11-08T23:48:19+00:00"
 }
