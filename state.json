@@ -1001,7 +1001,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119292949380968658",
+      "last_id": "2119294170716053729",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1241,12 +1241,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-07T21:37:02.000Z",
-          "id": "2119182361065615690",
-          "reply_to_id": "2119110356132131107",
-          "text": "@TheDazzleNovak im not, considered it other day when it was around 1350 and didnt pull the trigger, didnt want to be short strongest coin &amp; already have other shorts on"
-        },
-        {
           "created_at": "2026-11-07T21:48:26.000Z",
           "id": "2119185233782473174",
           "reply_to_id": "2119178613723480198",
@@ -1329,6 +1323,12 @@
           "id": "2119292949380968658",
           "reply_to_id": "2119287077015842853",
           "text": "@Benzobarks i have some unfortunate news brother"
+        },
+        {
+          "created_at": "2026-11-08T05:01:19.000Z",
+          "id": "2119294170716053729",
+          "reply_to_id": "2119293763092873499",
+          "text": "@lionsgateking you wanna play tackle?"
         }
       ],
       "threads": {
@@ -1771,7 +1771,6 @@
         "2119096288213975395": true,
         "2119098416516972779": true,
         "2119167815714304016": false,
-        "2119182361065615690": true,
         "2119185233782473174": false,
         "2119209041620603114": false,
         "2119217162892325069": false,
@@ -1786,7 +1785,8 @@
         "2119290466013249630": false,
         "2119290524649853192": false,
         "2119291118588166152": false,
-        "2119292949380968658": false
+        "2119292949380968658": false,
+        "2119294170716053729": false
       },
       "user_id": "973261472"
     },
@@ -7055,5 +7055,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-08T04:58:16+00:00"
+  "updated_at": "2026-11-08T05:02:18+00:00"
 }
