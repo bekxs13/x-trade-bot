@@ -1005,7 +1005,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119367066176385283",
+      "last_id": "2119409698999033942",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1105,12 +1105,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T20:56:30.000Z",
-          "id": "2118809774938862028",
-          "quoted_text": "So I rewatched market bubble and that military general interview they had on... \n\nAnd it was an unreal listen, genuinely awesome, but I do worry that the likelihood of a nuclear weapon being used against Iran being a 15% chance is about 14.9% too high.",
-          "text": "bro it was crazy https://t.co/9Rwtp3E7Za"
-        },
         {
           "created_at": "2026-11-06T20:59:37.000Z",
           "id": "2118810559776727408",
@@ -1223,10 +1217,17 @@
           "created_at": "2026-11-08T04:32:38.000Z",
           "id": "2119286953141264608",
           "text": "yo"
+        },
+        {
+          "created_at": "2026-11-08T12:40:23.000Z",
+          "id": "2119409698999033942",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2119409555553841152/img/Ye42YiXUNXqW8Mbz.jpg"
+          ],
+          "text": "i'm starting to pay more attention to where capital could rotate if AI stops dominating equity returns\n\nApple, Microsoft, Amazon and Google look better positioned to me than many of the memory and semiconductor names because they control more of the technology stack and have diversified businesses\n\nAI has driven so much of the market's performance over the past few years, but i'm interested in which sectors and undervalued companies could attract capital if that trend slows down\n\nthere's also growing political uncertainty that could make investors more cautious in the near term\n\nfiguring out where the next major rotation happens is one of the things i'm focused on right now"
         }
       ],
       "reads": {
-        "2118809774938862028": "No call",
         "2118810559776727408": "No call",
         "2118811474282062285": "No call",
         "2118823612232946048": "No call",
@@ -1241,7 +1242,8 @@
         "2119096288213975395": "No call: bearish on ai stocks (same view as before)",
         "2119098416516972779": "No call",
         "2119167815714304016": "No call",
-        "2119286953141264608": "No call"
+        "2119286953141264608": "No call",
+        "2119409698999033942": "No call: bearish on memory stocks (60%, too unsure)"
       },
       "replies": [
         {
@@ -1336,10 +1338,6 @@
         }
       ],
       "threads": {
-        "2117347698198106437": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117354957951102989": {
           "alerted": [],
           "self_replies": 0
@@ -1753,10 +1751,13 @@
         "2119286953141264608": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119409698999033942": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118809774938862028": false,
         "2118810559776727408": false,
         "2118811474282062285": false,
         "2118823612232946048": false,
@@ -1790,7 +1791,8 @@
         "2119360139358580901": false,
         "2119360642314551548": false,
         "2119366487571874088": false,
-        "2119367066176385283": false
+        "2119367066176385283": false,
+        "2119409698999033942": true
       },
       "user_id": "973261472"
     },
@@ -7056,5 +7058,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-08T12:40:17+00:00"
+  "updated_at": "2026-11-08T12:42:26+00:00"
 }
