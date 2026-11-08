@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2119328458459459755",
+      "last_id": "2119328844247380153",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,11 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T02:35:21.000Z",
-          "id": "2118532663120458108",
-          "text": "2026 economy makes sense once you understand that a \u201cbusiness\u201d is a marketing function to sell equity and debt, rather than a firm selling products and services to earn profits"
-        },
         {
           "created_at": "2026-11-06T03:06:46.000Z",
           "id": "2118540566736851268",
@@ -276,10 +271,14 @@
           "created_at": "2026-11-08T07:17:34.000Z",
           "id": "2119328458459459755",
           "text": "0 likes 2 thousand retweets"
+        },
+        {
+          "created_at": "2026-11-08T07:19:06.000Z",
+          "id": "2119328844247380153",
+          "text": "In love with an Asian girl but rollin with a blonde girl for the social status"
         }
       ],
       "reads": {
-        "2118532663120458108": "No call",
         "2118540566736851268": "No call",
         "2118587970039226849": "No call",
         "2118591409225880053": "No call",
@@ -298,7 +297,8 @@
         "2119327512484556812": "No call",
         "2119327919218778552": "No call",
         "2119328276858728741": "No call",
-        "2119328458459459755": "No call"
+        "2119328458459459755": "No call",
+        "2119328844247380153": "No call"
       },
       "replies": [
         {
@@ -393,10 +393,6 @@
         }
       ],
       "threads": {
-        "2113693519915127017": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113756434273882290": {
           "alerted": [],
           "self_replies": 0
@@ -795,6 +791,10 @@
         "2119328458459459755": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119328844247380153": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -802,7 +802,6 @@
         "2118403946649903609": false,
         "2118467084535640378": true,
         "2118493422063595931": false,
-        "2118532663120458108": true,
         "2118535114774966313": true,
         "2118540566736851268": true,
         "2118560992187846830": true,
@@ -832,7 +831,8 @@
         "2119327512484556812": false,
         "2119327919218778552": false,
         "2119328276858728741": false,
-        "2119328458459459755": false
+        "2119328458459459755": false,
+        "2119328844247380153": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7053,5 +7053,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-07",
-  "updated_at": "2026-11-08T07:18:24+00:00"
+  "updated_at": "2026-11-08T07:20:22+00:00"
 }
