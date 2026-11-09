@@ -6314,7 +6314,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2119318160088174622",
+      "last_id": "2119586514669547734",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6350,11 +6350,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T20:19:14.000Z",
-          "id": "2118438009435504661",
-          "text": "Trading, even on days like today should feel boring, clinical and unemotional.\n\nWho cares if some washed up shit fund like Walleye blew up. Nobody has cared about them for a decade."
-        },
         {
           "created_at": "2026-11-05T20:49:57.000Z",
           "id": "2118445738183323898",
@@ -6474,10 +6469,15 @@
           "created_at": "2026-11-08T06:36:39.000Z",
           "id": "2119318160088174622",
           "text": "Retail trading volume is the new oil"
+        },
+        {
+          "created_at": "2026-11-09T00:22:59.000Z",
+          "id": "2119586514669547734",
+          "quoted_text": "Should we do Sunday Spaces this weekend? @SoskaKyle \n\nWould you enjoy this? Are we having fun?",
+          "text": "No Sunday Spaces today unfortunately we trading quite a bit https://t.co/l8vVVKlv0b"
         }
       ],
       "reads": {
-        "2118438009435504661": "No call",
         "2118445738183323898": "No call",
         "2118447284123787514": "No call",
         "2118448237598183705": "No call: long SOXL (already called)",
@@ -6493,7 +6493,8 @@
         "2118777378042232977": "No call: bullish on CRWV (55%, too unsure)",
         "2118790632181567672": "No call",
         "2119274113692844161": "No call",
-        "2119318160088174622": "No call"
+        "2119318160088174622": "No call",
+        "2119586514669547734": "No call"
       },
       "replies": [
         {
@@ -6588,10 +6589,6 @@
         }
       ],
       "threads": {
-        "2110403399208562717": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110403945885520049": {
           "alerted": [],
           "self_replies": 0
@@ -7003,6 +7000,10 @@
         "2119318160088174622": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119586514669547734": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7021,7 +7022,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118438009435504661": true,
         "2118445738183323898": true,
         "2118447284123787514": true,
         "2118448237598183705": true,
@@ -7040,7 +7040,8 @@
         "2118790632181567672": true,
         "2119224497953755287": false,
         "2119274113692844161": false,
-        "2119318160088174622": true
+        "2119318160088174622": true,
+        "2119586514669547734": false
       },
       "user_id": "809191427645181952"
     }
@@ -7063,5 +7064,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-08",
-  "updated_at": "2026-11-09T00:22:18+00:00"
+  "updated_at": "2026-11-09T00:24:23+00:00"
 }
