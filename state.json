@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2119869365172772911",
+      "last_id": "2119930022517776777",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -305,12 +305,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-05T23:59:26.000Z",
-          "id": "2118493422063595931",
-          "reply_to_id": "2101476564311417128",
-          "text": "@SemiAnalysis_ Curb your enthusiasm theme begins"
-        },
-        {
           "created_at": "2026-11-06T02:45:06.000Z",
           "id": "2118535114774966313",
           "reply_to_id": "2118533979955765346",
@@ -393,6 +387,15 @@
           "id": "2119575251965374752",
           "reply_to_id": "2119186156890050635",
           "text": "@LaDolceRiviera This is in Mallorca"
+        },
+        {
+          "created_at": "2026-11-09T23:07:58.000Z",
+          "id": "2119930022517776777",
+          "images": [
+            "https://pbs.twimg.com/media/HWuAtFzbYAAziIV.jpg"
+          ],
+          "reply_to_id": "2119614474760142863",
+          "text": "@evanspiegel @Jack64128896 @ValueGuruu I think arguably it could be a good signal to acquire a position in your company &gt;4x your position in a boat https://t.co/CFL0umL3Qh"
         }
       ],
       "threads": {
@@ -801,7 +804,6 @@
         }
       },
       "trading": {
-        "2118493422063595931": false,
         "2118535114774966313": true,
         "2118560992187846830": true,
         "2118570955996111104": false,
@@ -835,7 +837,8 @@
         "2119378209318068632": false,
         "2119575251965374752": false,
         "2119577619763245318": false,
-        "2119869365172772911": false
+        "2119869365172772911": false,
+        "2119930022517776777": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7099,5 +7102,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T22:40:19+00:00"
+  "updated_at": "2026-11-09T23:08:22+00:00"
 }
