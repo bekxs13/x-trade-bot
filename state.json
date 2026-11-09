@@ -2215,7 +2215,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2119869405882458519",
+      "last_id": "2119871613382390233",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2235,12 +2235,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T11:29:33.000Z",
-          "id": "2118304708884574447",
-          "quoted_text": "Meritz Securities (South Korea):\n\nGenuine demand reflected in orders received by memory chipmakers for 2027 and 2028 far exceeds their supply capacity. Even if the Democrats\u2019 blue wave leads to some delays and adjustments, the supply shortage is unlikely to change materially.\n\nThis year, the memory order fulfillment rate\u2014available supply capacity relative to order volume\u2014has remained in the low-to-mid 80% range, driving sharp increases in selling prices. The shortage is expected to worsen in 202",
-          "text": "best i can do is another down 4% night https://t.co/xenYhORPCM"
-        },
         {
           "created_at": "2026-11-05T12:57:42.000Z",
           "id": "2118326893925843243",
@@ -2360,10 +2354,15 @@
             "https://pbs.twimg.com/media/HWsLDPzWsAA8xMV.jpg"
           ],
           "text": "well tyler cowen are you scared yet\n\nthe people are selling\n\nwe're all gonna die https://t.co/1vKEQELjUO"
+        },
+        {
+          "created_at": "2026-11-09T19:15:52.000Z",
+          "id": "2119871613382390233",
+          "reply_to_id": "2119869405882458519",
+          "text": "@AdsoOfBelk wait also one of drizzt's scimitars is +3, i could have sworn they were +4 and +2 but it's +5 and +3 i guess"
         }
       ],
       "reads": {
-        "2118304708884574447": "No call",
         "2118326893925843243": "No call",
         "2118353125497295162": "No call",
         "2118356622154014850": "No call",
@@ -2880,7 +2879,6 @@
         }
       },
       "trading": {
-        "2118304708884574447": true,
         "2118326893925843243": true,
         "2118353125497295162": true,
         "2118356622154014850": false,
@@ -2914,7 +2912,8 @@
         "2119531917574025572": true,
         "2119800243932016773": true,
         "2119809354073526332": false,
-        "2119869405882458519": false
+        "2119869405882458519": false,
+        "2119871613382390233": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7086,5 +7085,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T19:08:29+00:00"
+  "updated_at": "2026-11-09T19:16:22+00:00"
 }
