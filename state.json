@@ -5784,7 +5784,7 @@
       "biases": {},
       "closed": [],
       "handle": "thecryptonexus",
-      "last_id": "2119604813579067554",
+      "last_id": "2119605868241314034",
       "positions": {
         "FREN PET (FP)": {
           "asset": "Fren Pet (FP)",
@@ -5834,12 +5834,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-16T13:06:02.000Z",
-          "id": "2111081232268177599",
-          "reply_to_id": "2111073831523606867",
-          "text": "@Pickle_cRypto Fuck nvm mfs cancelled it rip"
-        },
         {
           "created_at": "2026-10-16T20:31:52.000Z",
           "id": "2111193430021832892",
@@ -5965,6 +5959,13 @@
           "created_at": "2026-11-09T01:35:42.000Z",
           "id": "2119604813579067554",
           "text": "V bearish China that she was the baddest they could throw at him if u ask me"
+        },
+        {
+          "created_at": "2026-11-09T01:39:54.000Z",
+          "id": "2119605868241314034",
+          "quoted_text": "China: October food CPI falls 2.9% year on year; non-food CPI rises 1.5%",
+          "reply_to_id": "2119604813579067554",
+          "text": "Wow Chinese hoeflation confirmed\n\nI don't know anything concrete, but if I were exposed, I would be concerned https://t.co/elJKhbWkCS"
         }
       ],
       "reads": {
@@ -5985,7 +5986,8 @@
         "2117606780071231949": "No call",
         "2119595700455346341": "No call",
         "2119595757850210394": "Read together with the post it replies to",
-        "2119604813579067554": "No call"
+        "2119604813579067554": "No call",
+        "2119605868241314034": "No call"
       },
       "replies": [
         {
@@ -6199,11 +6201,10 @@
         },
         "2119604813579067554": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2111081232268177599": false,
         "2111193430021832892": false,
         "2111676013172166960": false,
         "2111676018692133080": false,
@@ -6237,7 +6238,8 @@
         "2119595700455346341": false,
         "2119595757850210394": false,
         "2119597176657473837": false,
-        "2119604813579067554": false
+        "2119604813579067554": false,
+        "2119605868241314034": true
       },
       "user_id": "1392152416854765571"
     },
@@ -7067,5 +7069,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-08",
-  "updated_at": "2026-11-09T01:36:23+00:00"
+  "updated_at": "2026-11-09T01:40:27+00:00"
 }
