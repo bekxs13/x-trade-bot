@@ -4569,7 +4569,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2119784742627271062",
+      "last_id": "2119786611256787443",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4605,15 +4605,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T16:07:32.000Z",
-          "id": "2118374667962417403",
-          "images": [
-            "https://pbs.twimg.com/media/HWX6h0hW8AASBAj.jpg"
-          ],
-          "quoted_text": "https://t.co/2QqbZ7u9uy",
-          "text": "https://t.co/YIAYSFWXTe https://t.co/6nucl8JVnZ"
-        },
         {
           "created_at": "2026-11-05T20:18:05.000Z",
           "id": "2118437719731011787",
@@ -4731,10 +4722,14 @@
           "id": "2119613744158584933",
           "reply_to_id": "2119609608805417398",
           "text": "they yearn for collective belief"
+        },
+        {
+          "created_at": "2026-11-09T13:38:06.000Z",
+          "id": "2119786611256787443",
+          "text": "STOCK MARKET OPEN: Jensen's AFFAIR Killed the Market, Crypto Should NEVER Be Cool, WHERE DO WE GO? https://t.co/QLMBdssJEq"
         }
       ],
       "reads": {
-        "2118374667962417403": "No call",
         "2118437719731011787": "No call",
         "2118437722914435286": "Read together with the post it replies to",
         "2118500325589954604": "No call",
@@ -4753,7 +4748,8 @@
         "2119590050027503617": "No call",
         "2119591345056632856": "No call",
         "2119609608805417398": "No call",
-        "2119613744158584933": "No call"
+        "2119613744158584933": "No call",
+        "2119786611256787443": "No call"
       },
       "replies": [
         {
@@ -4848,10 +4844,6 @@
         }
       ],
       "threads": {
-        "2114000814653968769": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2114117774687494473": {
           "alerted": [],
           "self_replies": 0
@@ -5249,10 +5241,13 @@
         "2119609608805417398": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2119786611256787443": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118374667962417403": false,
         "2118437719731011787": false,
         "2118437722914435286": false,
         "2118500325589954604": true,
@@ -5286,7 +5281,8 @@
         "2119609608805417398": false,
         "2119613744158584933": false,
         "2119622056094617675": false,
-        "2119784742627271062": false
+        "2119784742627271062": false,
+        "2119786611256787443": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7081,5 +7077,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T13:32:17+00:00"
+  "updated_at": "2026-11-09T13:38:23+00:00"
 }
