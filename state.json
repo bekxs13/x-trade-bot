@@ -4564,7 +4564,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2119590050027503617",
+      "last_id": "2119591345056632856",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4600,12 +4600,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T15:06:28.000Z",
-          "id": "2118359296937497003",
-          "quoted_text": "BREAKING: JP Morgan stock, $JPM, falls after CNBC reports that Senate Democrats are preparing to investigate the bank's relationship with Jeffrey Epstein. https://t.co/vsSwGPTOuT",
-          "text": "oh my god they are about to rain hell on everyone https://t.co/zFD6HsAhiG"
-        },
         {
           "created_at": "2026-11-05T15:12:24.000Z",
           "id": "2118360792768598275",
@@ -4726,10 +4720,14 @@
           "created_at": "2026-11-09T00:37:02.000Z",
           "id": "2119590050027503617",
           "text": "hard to believe event based time can only hyper accelerate from here. i need a new metric to grasp onto"
+        },
+        {
+          "created_at": "2026-11-09T00:42:11.000Z",
+          "id": "2119591345056632856",
+          "text": "if jensen can do it why the fuck can\u2019t i"
         }
       ],
       "reads": {
-        "2118359296937497003": "No call",
         "2118360792768598275": "No call",
         "2118363176601330012": "No call",
         "2118374667962417403": "No call",
@@ -4748,7 +4746,8 @@
         "2119538566686781699": "No call",
         "2119559301391938001": "No call: bullish on crypto market (same view as before)",
         "2119584768233009366": "No call",
-        "2119590050027503617": "No call"
+        "2119590050027503617": "No call",
+        "2119591345056632856": "No call"
       },
       "replies": [
         {
@@ -4843,10 +4842,6 @@
         }
       ],
       "threads": {
-        "2113611214127583708": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113637345563971773": {
           "alerted": [],
           "self_replies": 0
@@ -5244,10 +5239,13 @@
         "2119590050027503617": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119591345056632856": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118359296937497003": true,
         "2118360792768598275": true,
         "2118363176601330012": false,
         "2118374667962417403": false,
@@ -5281,7 +5279,8 @@
         "2119573695115010495": true,
         "2119584768233009366": false,
         "2119586176008925687": false,
-        "2119590050027503617": false
+        "2119590050027503617": false,
+        "2119591345056632856": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7063,5 +7062,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-08",
-  "updated_at": "2026-11-09T00:38:22+00:00"
+  "updated_at": "2026-11-09T00:44:19+00:00"
 }
