@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2119577619763245318",
+      "last_id": "2119869365172772911",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,11 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T20:03:57.000Z",
-          "id": "2118796550277357861",
-          "text": "Not now babe I\u2019m reading the Avalanche Q3 token holder report"
-        },
         {
           "created_at": "2026-11-06T23:55:22.000Z",
           "id": "2118854785785074145",
@@ -280,10 +275,14 @@
           "id": "2119577619763245318",
           "reply_to_id": "2119575251965374752",
           "text": "@LaDolceRiviera split a bottle of wine with my ex here but it was just me drinking a full bottle of red wine and then us arguing, incredible hotel"
+        },
+        {
+          "created_at": "2026-11-09T19:06:56.000Z",
+          "id": "2119869365172772911",
+          "text": "https://t.co/ala1ufM8Ii"
         }
       ],
       "reads": {
-        "2118796550277357861": "No call",
         "2118854785785074145": "No call",
         "2118855155185840526": "No call",
         "2118905727255531608": "No call",
@@ -301,7 +300,8 @@
         "2119354232969232673": "No call",
         "2119355012774306261": "No call",
         "2119356871970902032": "No call",
-        "2119378209318068632": "No call"
+        "2119378209318068632": "No call",
+        "2119869365172772911": "No call"
       },
       "replies": [
         {
@@ -396,10 +396,6 @@
         }
       ],
       "threads": {
-        "2113836306099003689": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113845422758470139": {
           "alerted": [],
           "self_replies": 0
@@ -798,6 +794,10 @@
         "2119378209318068632": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119869365172772911": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -807,7 +807,6 @@
         "2118570955996111104": false,
         "2118619320574247012": false,
         "2118622265952833772": false,
-        "2118796550277357861": true,
         "2118799218093748644": true,
         "2118854785785074145": false,
         "2118855155185840526": false,
@@ -835,7 +834,8 @@
         "2119356871970902032": false,
         "2119378209318068632": false,
         "2119575251965374752": false,
-        "2119577619763245318": false
+        "2119577619763245318": false,
+        "2119869365172772911": false
       },
       "user_id": "1446541960181858315"
     },
@@ -2215,7 +2215,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2119809354073526332",
+      "last_id": "2119869405882458519",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2385,12 +2385,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T13:46:43.000Z",
-          "id": "2118701617004318904",
-          "reply_to_id": "2118561492098244809",
-          "text": "@Duderichy last couple of times i visited there have been bad delays on those lines and cars sardine-packed like post-sandy L trains. what gives?"
-        },
-        {
           "created_at": "2026-11-06T14:15:30.000Z",
           "id": "2118708860194091267",
           "reply_to_id": "2118704809779847471",
@@ -2473,6 +2467,12 @@
           "id": "2119809354073526332",
           "reply_to_id": "2119800743318192581",
           "text": "@macrocephalopod if you could only drink 5 more bottles of wine for the rest of your life what would they be and what meals would you pair them with"
+        },
+        {
+          "created_at": "2026-11-09T19:07:06.000Z",
+          "id": "2119869405882458519",
+          "reply_to_id": "2119832451170312582",
+          "text": "@AdsoOfBelk the only +3s in baldur's gate 1 are a staff and a great sword u fucking larp"
         }
       ],
       "threads": {
@@ -2890,7 +2890,6 @@
         "2118400995751264387": true,
         "2118434408227090738": false,
         "2118566848593543529": true,
-        "2118701617004318904": false,
         "2118708860194091267": false,
         "2118715158197625062": true,
         "2118721055346848180": false,
@@ -2914,7 +2913,8 @@
         "2119525570203775190": false,
         "2119531917574025572": true,
         "2119800243932016773": true,
-        "2119809354073526332": false
+        "2119809354073526332": false,
+        "2119869405882458519": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7086,5 +7086,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T18:46:33+00:00"
+  "updated_at": "2026-11-09T19:08:29+00:00"
 }
