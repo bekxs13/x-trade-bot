@@ -5341,7 +5341,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2119793549210489312",
+      "last_id": "2119863843870441859",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -5361,12 +5361,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T12:08:31.000Z",
-          "id": "2108530042913579048",
-          "reply_to_id": "2108529897144828181",
-          "text": "@izebel_eth Please take a second to like the video and give feedback in the comments!!! I don\u2019t take sponsors to give you unbiased content focused on quality over quantity. Just a simple click could help support me so I could invite more amazing guests in the future. Thank you!"
-        },
         {
           "created_at": "2026-10-13T13:13:00.000Z",
           "id": "2109995821613961284",
@@ -5514,10 +5508,17 @@
           ],
           "reply_to_id": "2118716728331129234",
           "text": "@HFAresearch @Pumpfun noooooooooo https://t.co/zzKlLB6Gol"
+        },
+        {
+          "created_at": "2026-11-09T18:45:00.000Z",
+          "id": "2119863843870441859",
+          "images": [
+            "https://pbs.twimg.com/media/HWtE7jtWMAAk92h.jpg"
+          ],
+          "text": "Nasdaq: +3%\nBitcoin: -0.3% https://t.co/xU8VMTXWMP"
         }
       ],
       "reads": {
-        "2108530042913579048": "No call",
         "2109995821613961284": "No call",
         "2109997859798208879": "No call",
         "2110068793187934366": "No call",
@@ -5534,7 +5535,8 @@
         "2118503326082117747": "No call: bullish on ZEC (same view as before)",
         "2118716140021272827": "No call",
         "2118716728331129234": "No call",
-        "2118741768170811600": "No call: bearish on btc (same view as before)"
+        "2118741768170811600": "No call: bearish on btc (same view as before)",
+        "2119863843870441859": "No call"
       },
       "replies": [
         {
@@ -5744,10 +5746,13 @@
         "2118741768170811600": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119863843870441859": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2108530042913579048": false,
         "2109995821613961284": true,
         "2109997859798208879": false,
         "2110068793187934366": true,
@@ -5781,7 +5786,8 @@
         "2119084448415465853": false,
         "2119268625596948859": false,
         "2119269615650127926": true,
-        "2119793549210489312": true
+        "2119793549210489312": true,
+        "2119863843870441859": true
       },
       "user_id": "1064421325186359296"
     },
@@ -7080,5 +7086,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T18:40:21+00:00"
+  "updated_at": "2026-11-09T18:46:33+00:00"
 }
