@@ -889,12 +889,12 @@
         },
         "hype": {
           "market": "crypto",
-          "post_id": "2116159045027434970",
-          "reason": "Calls the ICE partnership 'a pretty big development for Hyperliquid' with it playing an important infrastructure role, which matches the recorded bullish HYPE view.",
+          "post_id": "2119694898006028365",
+          "reason": "\"i still like the long-term thesis around Hyperliquid\" restates his bullish HYPE view, though he hedges on near-term growth. The attached chart's arrow toward ~53 hints at short-term downside.",
           "scope": "HYPE",
           "since": "2026-10-26",
           "stance": "bullish",
-          "updated_at": "2026-10-30T13:23:27.000Z"
+          "updated_at": "2026-11-09T07:33:40.000Z"
         },
         "memecoins": {
           "market": "crypto",
@@ -1005,7 +1005,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119512277393043542",
+      "last_id": "2119694898006028365",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1105,12 +1105,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T21:03:15.000Z",
-          "id": "2118811474282062285",
-          "reply_to_id": "2118810559776727408",
-          "text": "https://t.co/vHprFaWY2K"
-        },
         {
           "created_at": "2026-11-06T21:51:29.000Z",
           "id": "2118823612232946048",
@@ -1229,10 +1223,17 @@
           ],
           "quoted_text": "Market Bubble ep.26: my full conversation with Mark Kimmitt (Former Army Brigadier General)\n\nIran's military strategy, the tactical nuke scenario, prediction market odds, oil prices and his experiences in the Middle East\n\n0:00 - Iran's strategy and military pressure\n8:04 - Regime collapse and the nuclear debate\n14:00 - Tactical nukes and the uranium threat\n21:11 - Polymarket odds, oil and Trump\n28:10 - Istanbul, Dubai and aliens",
           "text": "the possibility of nuclear weapons being used in the Iran conflict is something i've been trying to understand\n\nTucker Carlson recently raised concerns about a potential US nuclear strike on an Iranian mountain facility, although the claim remains unverified\n\ni asked Mark about how realistic that scenario actually is, and his experience serving in a nuclear-armed artillery unit gave some interesting historical context\n\ntactical nuclear weapons have been part of military planning for decades, and the risk of escalation is something worth taking seriously"
+        },
+        {
+          "created_at": "2026-11-09T07:33:40.000Z",
+          "id": "2119694898006028365",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2119694720494600192/img/5QUzAyBUGU1QAd9n.jpg"
+          ],
+          "text": "i still like the long-term thesis around Hyperliquid, but the next phase of growth is going to be important\n\nright now, much of the momentum is coming from tradexyz, while crypto trading activity has slowed and the existing trader base hasn't expanded significantly\n\ni want to see Hyperliquid reach a much larger audience, similar to how Robinhood added millions of new customers as retail trading grew\n\npartnerships with Kraken and other regulated front ends could help make that possible\n\nthe bigger opportunity is Hyperliquid becoming the underlying liquidity infrastructure for a wide range of financial platforms\n\ncurrent revenue matters, but i'm more interested in how much that network could grow over the next several years"
         }
       ],
       "reads": {
-        "2118811474282062285": "No call",
         "2118823612232946048": "No call",
         "2118888587877876017": "No call",
         "2119013989250379937": "No call: bearish on crypto market (same view as before)",
@@ -1247,7 +1248,8 @@
         "2119167815714304016": "No call",
         "2119286953141264608": "No call",
         "2119409698999033942": "No call: bearish on memory stocks (60%, too unsure)",
-        "2119512277393043542": "No call"
+        "2119512277393043542": "No call",
+        "2119694898006028365": "No call: bullish on HYPE (same view as before)"
       },
       "replies": [
         {
@@ -1342,10 +1344,6 @@
         }
       ],
       "threads": {
-        "2117408899795927550": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117417803351548029": {
           "alerted": [],
           "self_replies": 0
@@ -1759,10 +1757,13 @@
         "2119512277393043542": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119694898006028365": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118811474282062285": false,
         "2118823612232946048": false,
         "2118884485874045086": true,
         "2118888190631432362": true,
@@ -1796,7 +1797,8 @@
         "2119366487571874088": false,
         "2119367066176385283": false,
         "2119409698999033942": true,
-        "2119512277393043542": false
+        "2119512277393043542": false,
+        "2119694898006028365": true
       },
       "user_id": "973261472"
     },
@@ -7076,5 +7078,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-08",
-  "updated_at": "2026-11-09T06:44:22+00:00"
+  "updated_at": "2026-11-09T07:34:26+00:00"
 }
