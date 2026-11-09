@@ -5344,7 +5344,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2119863843870441859",
+      "last_id": "2119898569604042784",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -5543,12 +5543,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T00:51:42.000Z",
-          "id": "2118506575447089463",
-          "reply_to_id": "2118505892438233541",
-          "text": "@DeFi_Dad It\u2019s ok if Zcash can break the Taiki curse, it is truly unstoppable"
-        },
-        {
           "created_at": "2026-11-06T03:33:39.000Z",
           "id": "2118547333264671040",
           "reply_to_id": "2118543062217732485",
@@ -5631,6 +5625,15 @@
           "id": "2119269615650127926",
           "reply_to_id": "2119263794375348623",
           "text": "@zectrillionaire I just stare at the chart and hope it goes up"
+        },
+        {
+          "created_at": "2026-11-09T21:02:59.000Z",
+          "id": "2119898569604042784",
+          "images": [
+            "https://pbs.twimg.com/media/HWtip5JWkAAiVJu.jpg"
+          ],
+          "reply_to_id": "2119892431437254963",
+          "text": "@zkDragon Great post! @ebfull said Testnet for Tachyon is coming out around this time, is that still in the works? https://t.co/Mfs2nExHXm"
         }
       ],
       "threads": {
@@ -5771,7 +5774,6 @@
         "2117591105042550947": false,
         "2117954235698483689": true,
         "2118503326082117747": true,
-        "2118506575447089463": true,
         "2118547333264671040": true,
         "2118698734129230136": false,
         "2118701705860620687": true,
@@ -5790,7 +5792,8 @@
         "2119268625596948859": false,
         "2119269615650127926": true,
         "2119793549210489312": true,
-        "2119863843870441859": true
+        "2119863843870441859": true,
+        "2119898569604042784": false
       },
       "user_id": "1064421325186359296"
     },
@@ -7089,5 +7092,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T21:00:26+00:00"
+  "updated_at": "2026-11-09T21:04:18+00:00"
 }
