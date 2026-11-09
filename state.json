@@ -1005,7 +1005,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119694898006028365",
+      "last_id": "2119755882548584491",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1105,11 +1105,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T21:51:29.000Z",
-          "id": "2118823612232946048",
-          "text": "this is going to be hilarious in hindsight"
-        },
         {
           "created_at": "2026-11-07T01:53:23.000Z",
           "id": "2118884485874045086",
@@ -1231,10 +1226,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2119694720494600192/img/5QUzAyBUGU1QAd9n.jpg"
           ],
           "text": "i still like the long-term thesis around Hyperliquid, but the next phase of growth is going to be important\n\nright now, much of the momentum is coming from tradexyz, while crypto trading activity has slowed and the existing trader base hasn't expanded significantly\n\ni want to see Hyperliquid reach a much larger audience, similar to how Robinhood added millions of new customers as retail trading grew\n\npartnerships with Kraken and other regulated front ends could help make that possible\n\nthe bigger opportunity is Hyperliquid becoming the underlying liquidity infrastructure for a wide range of financial platforms\n\ncurrent revenue matters, but i'm more interested in how much that network could grow over the next several years"
+        },
+        {
+          "created_at": "2026-11-09T11:36:00.000Z",
+          "id": "2119755882548584491",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2119701913252020224/img/UspAbC7Bng_vULfT.jpg"
+          ],
+          "text": "i've been following @Enter_Elysium pretty closely ahead \n\nthe pre-mainnet has already been accessible, giving early users time to explore the ecosystem and figure out bridging before wider access through apps like Pump and fomo\n\nit reminds me of the early opportunities around new chains, when being familiar with the infrastructure before everyone else can be an advantage\n\nHyperliquid already has significant attention across crypto, and i'm interested to see how much of that activity carries over to Elysium once more applications support it"
         }
       ],
       "reads": {
-        "2118823612232946048": "No call",
         "2118888587877876017": "No call",
         "2119013989250379937": "No call: bearish on crypto market (same view as before)",
         "2119014252178813292": "No call: bearish on crypto market (same view as before)",
@@ -1249,7 +1251,8 @@
         "2119286953141264608": "No call",
         "2119409698999033942": "No call: bearish on memory stocks (60%, too unsure)",
         "2119512277393043542": "No call",
-        "2119694898006028365": "No call: bullish on HYPE (same view as before)"
+        "2119694898006028365": "No call: bullish on HYPE (same view as before)",
+        "2119755882548584491": "No call"
       },
       "replies": [
         {
@@ -1344,10 +1347,6 @@
         }
       ],
       "threads": {
-        "2117417803351548029": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117423871154589732": {
           "alerted": [],
           "self_replies": 0
@@ -1761,10 +1760,13 @@
         "2119694898006028365": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119755882548584491": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118823612232946048": false,
         "2118884485874045086": true,
         "2118888190631432362": true,
         "2118888587877876017": false,
@@ -1798,7 +1800,8 @@
         "2119367066176385283": false,
         "2119409698999033942": true,
         "2119512277393043542": false,
-        "2119694898006028365": true
+        "2119694898006028365": true,
+        "2119755882548584491": true
       },
       "user_id": "973261472"
     },
@@ -7078,5 +7081,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-08",
-  "updated_at": "2026-11-09T10:56:14+00:00"
+  "updated_at": "2026-11-09T11:36:23+00:00"
 }
