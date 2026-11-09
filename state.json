@@ -6332,7 +6332,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2119682422392660088",
+      "last_id": "2119827430592438400",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6368,11 +6368,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T20:56:06.000Z",
-          "id": "2118447284123787514",
-          "text": "Color from the Ramcap desk today\n\n\"Anyone interested in some lightly used chip stocks?\"\n\n- @SoskaKyle"
-        },
         {
           "created_at": "2026-11-05T20:59:53.000Z",
           "id": "2118448237598183705",
@@ -6490,10 +6485,18 @@
           "created_at": "2026-11-09T06:44:05.000Z",
           "id": "2119682422392660088",
           "text": "I feel sick"
+        },
+        {
+          "created_at": "2026-11-09T16:20:18.000Z",
+          "id": "2119827430592438400",
+          "images": [
+            "https://pbs.twimg.com/media/HWsjz7tWoAACdV1.jpg"
+          ],
+          "reply_to_id": "2118722030774485244",
+          "text": "Hm https://t.co/PdCxUMp41l"
         }
       ],
       "reads": {
-        "2118447284123787514": "No call",
         "2118448237598183705": "No call: long SOXL (already called)",
         "2118449871963271573": "No call",
         "2118458904665333980": "No call",
@@ -7037,7 +7040,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118447284123787514": true,
         "2118448237598183705": true,
         "2118448447263215729": false,
         "2118449871963271573": true,
@@ -7056,7 +7058,8 @@
         "2119274113692844161": false,
         "2119318160088174622": true,
         "2119586514669547734": false,
-        "2119682422392660088": false
+        "2119682422392660088": false,
+        "2119827430592438400": false
       },
       "user_id": "809191427645181952"
     }
@@ -7079,5 +7082,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T15:58:25+00:00"
+  "updated_at": "2026-11-09T16:22:18+00:00"
 }
