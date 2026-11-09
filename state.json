@@ -4579,7 +4579,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2119875670079889867",
+      "last_id": "2119882186065105310",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4615,11 +4615,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T12:30:16.000Z",
-          "id": "2118682376239018477",
-          "text": "trading view should never update or change anything ever why would they do this"
-        },
         {
           "created_at": "2026-11-06T12:46:38.000Z",
           "id": "2118686494462300433",
@@ -4734,10 +4729,15 @@
             "https://pbs.twimg.com/media/HWtPfikW0AAq8ZC.png"
           ],
           "text": "\"this stocks pump makes cryptos underperformance so much more painful\" https://t.co/6jqsZAoqrD"
+        },
+        {
+          "created_at": "2026-11-09T19:57:53.000Z",
+          "id": "2119882186065105310",
+          "quoted_text": "ANTHROPIC TO LAUNCH NASDAQ IPO TUESDAY MORNING: IFR",
+          "text": "uhh like tomorrow ? https://t.co/43J3po2gXh"
         }
       ],
       "reads": {
-        "2118682376239018477": "No call",
         "2118686494462300433": "No call",
         "2118695853712179456": "No call",
         "2118700188055265780": "No call",
@@ -4755,7 +4755,8 @@
         "2119786611256787443": "No call",
         "2119846037363802174": "No call",
         "2119846235771117943": "Read together with the post it replies to",
-        "2119875670079889867": "No call"
+        "2119875670079889867": "No call",
+        "2119882186065105310": "No call"
       },
       "replies": [
         {
@@ -4850,10 +4851,6 @@
         }
       ],
       "threads": {
-        "2114693897255342556": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114697397603569667": {
           "alerted": [],
           "self_replies": 0
@@ -5251,10 +5248,13 @@
         "2119875670079889867": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119882186065105310": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118682376239018477": false,
         "2118686494462300433": true,
         "2118695853712179456": false,
         "2118700188055265780": true,
@@ -5288,7 +5288,8 @@
         "2119846037363802174": false,
         "2119846235771117943": false,
         "2119847000703173081": false,
-        "2119875670079889867": true
+        "2119875670079889867": true,
+        "2119882186065105310": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7088,5 +7089,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T19:40:35+00:00"
+  "updated_at": "2026-11-09T19:58:24+00:00"
 }
