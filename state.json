@@ -2215,7 +2215,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2119877520887619790",
+      "last_id": "2119907408986198387",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2235,11 +2235,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T14:41:56.000Z",
-          "id": "2118353125497295162",
-          "text": "DRAM casually realizing 130 vol"
-        },
         {
           "created_at": "2026-11-05T14:55:50.000Z",
           "id": "2118356622154014850",
@@ -2360,10 +2355,15 @@
           "id": "2119877520887619790",
           "quoted_text": "Fable 5.2 and Mythos 5.2 are a step above Opus 5.5 in almost all the capabilities we evaluated.\n\nTesters have found that they communicate more clearly than past Fable and Mythos models. They generate outputs up to 30% faster than Fable 5.1 and Mythos 5.1. https://t.co/nqXVdmLRpN",
           "text": "&gt;Agentic Scientific Research\n&gt;Robotics\n\noh man it's joever joever https://t.co/gTsIRakcKu"
+        },
+        {
+          "created_at": "2026-11-09T21:38:06.000Z",
+          "id": "2119907408986198387",
+          "quoted_text": "*ANTHROPIC PLANS TO START TRADING THURSDAY, FRIDAY NEXT WEEK:WSJ",
+          "text": "man https://t.co/kxg6xKSPzW"
         }
       ],
       "reads": {
-        "2118353125497295162": "No call",
         "2118356622154014850": "No call",
         "2118362882605805903": "No call",
         "2118369396943200472": "No call",
@@ -2380,7 +2380,8 @@
         "2119525570203775190": "No call",
         "2119531917574025572": "No call",
         "2119800243932016773": "No call",
-        "2119877520887619790": "No call"
+        "2119877520887619790": "No call",
+        "2119907408986198387": "No call"
       },
       "replies": [
         {
@@ -2479,10 +2480,6 @@
         }
       ],
       "threads": {
-        "2114459635683881373": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114527597719892372": {
           "alerted": [],
           "self_replies": 0
@@ -2880,10 +2877,13 @@
         "2119877520887619790": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119907408986198387": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118353125497295162": true,
         "2118356622154014850": false,
         "2118362882605805903": false,
         "2118369396943200472": true,
@@ -2917,7 +2917,8 @@
         "2119869405882458519": false,
         "2119871613382390233": false,
         "2119877016602484853": false,
-        "2119877520887619790": false
+        "2119877520887619790": false,
+        "2119907408986198387": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7098,5 +7099,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T21:26:18+00:00"
+  "updated_at": "2026-11-09T21:40:29+00:00"
 }
