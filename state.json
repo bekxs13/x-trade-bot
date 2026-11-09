@@ -5337,7 +5337,7 @@
       },
       "closed": [],
       "handle": "taikimaeda2",
-      "last_id": "2119269615650127926",
+      "last_id": "2119793549210489312",
       "positions": {
         "ZEC": {
           "asset": "ZEC",
@@ -5357,14 +5357,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-09T12:07:56.000Z",
-          "id": "2108529897144828181",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2108521324171931649/img/VZF_hRgycKaAKmzR.jpg"
-          ],
-          "text": "Interview with Jez (@izebel_eth) about how to make it this cycle\n\nTimestamps:\n0:00 Bull or Bear Market?\n3:51 How Jez Got into Crypto\n10:20 Long Degeneracy\n18:21 Building Conviction & Risk Management\n28:37 Importance of Finding Your Group\n34:07 Learning from Past Blowups\n41:48 Launching @papertrade_xyz\n55:48 Are Great Traders Born or Made?\n1:01:31 Most Memorable Trades\n1:07:20 Why is Leverage so Addicting?\n1:10:26 How to Make it This Cycle\n1:22:45 Final Words of Advice"
-        },
         {
           "created_at": "2026-10-09T12:08:31.000Z",
           "id": "2108530042913579048",
@@ -5509,10 +5501,18 @@
           "id": "2118741768170811600",
           "quoted_text": "$ZEC is an extremely misunderstood asset, which is why there's still so much upside left.\n\nZEC started to bottom around April 2025, when @ebfull shared a blog post about Project Tachyon. Tachyon makes Zcash quantum proof and paves the way to scale Zcash to 50k TPS. And you cannot address quantum without addressing scalability since post-quantum cryptographic signatures are going to be an order of magnitude larger.\n\nAt the risk of sounding hyperbolic, the real bull case for Zcash is to fulfill Sa",
           "text": "The reason $ZEC will go parabolic is because Bitcoin will face a crisis of confidence in the coming years, and ZEC will take its lunch.\n\nThose who blindly believe BTC will hit new highs every few years will have those assumptions challenged.\n\nTheir ignorance/bias is your alpha. https://t.co/a5JXWCp4pY"
+        },
+        {
+          "created_at": "2026-11-09T14:05:40.000Z",
+          "id": "2119793549210489312",
+          "images": [
+            "https://pbs.twimg.com/media/HWsE-zOWMAArAQN.jpg"
+          ],
+          "reply_to_id": "2118716728331129234",
+          "text": "@HFAresearch @Pumpfun noooooooooo https://t.co/zzKlLB6Gol"
         }
       ],
       "reads": {
-        "2108529897144828181": "No call",
         "2108530042913579048": "No call",
         "2109995821613961284": "No call",
         "2109997859798208879": "No call",
@@ -5743,7 +5743,6 @@
         }
       },
       "trading": {
-        "2108529897144828181": true,
         "2108530042913579048": false,
         "2109995821613961284": true,
         "2109997859798208879": false,
@@ -5777,7 +5776,8 @@
         "2118813799583289549": true,
         "2119084448415465853": false,
         "2119268625596948859": false,
-        "2119269615650127926": true
+        "2119269615650127926": true,
+        "2119793549210489312": true
       },
       "user_id": "1064421325186359296"
     },
@@ -7077,5 +7077,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T13:40:22+00:00"
+  "updated_at": "2026-11-09T14:06:22+00:00"
 }
