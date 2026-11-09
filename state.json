@@ -4580,7 +4580,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2119919834645610501",
+      "last_id": "2119922511206875158",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4764,12 +4764,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-08T22:51:16.000Z",
-          "id": "2119563431988895898",
-          "reply_to_id": "2119563172491440617",
-          "text": "@rasmr_eth crypto twitter doesn\u2019t exist anymore"
-        },
-        {
           "created_at": "2026-11-08T22:56:16.000Z",
           "id": "2119564689403179425",
           "reply_to_id": "2119564119154065711",
@@ -4855,6 +4849,12 @@
           "id": "2119919045554376872",
           "reply_to_id": "2119918667303412215",
           "text": "@0xFitz anyone purged was leaving anyways nobody is responsible for this"
+        },
+        {
+          "created_at": "2026-11-09T22:38:07.000Z",
+          "id": "2119922511206875158",
+          "reply_to_id": "2119921490376233035",
+          "text": "@soychotic don\u2019t they kill you or whatever if you don\u2019t go"
         }
       ],
       "threads": {
@@ -5268,7 +5268,6 @@
         "2119535941119615302": false,
         "2119538566686781699": false,
         "2119559301391938001": true,
-        "2119563431988895898": false,
         "2119564689403179425": true,
         "2119573695115010495": true,
         "2119584768233009366": false,
@@ -5296,7 +5295,8 @@
         "2119904285169263051": false,
         "2119914279755509872": false,
         "2119919045554376872": false,
-        "2119919834645610501": false
+        "2119919834645610501": false,
+        "2119922511206875158": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7099,5 +7099,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T22:28:25+00:00"
+  "updated_at": "2026-11-09T22:40:19+00:00"
 }
