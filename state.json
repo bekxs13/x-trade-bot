@@ -4564,7 +4564,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2119573695115010495",
+      "last_id": "2119584768233009366",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4600,11 +4600,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T13:40:14.000Z",
-          "id": "2118337595285356578",
-          "text": "MARKET OPEN: The AI Trade is FINISHED, PRIVACY is the ONLY WAY OUT, MIDTERMS UPDATE https://t.co/S7ZRm8Tt44"
-        },
         {
           "created_at": "2026-11-05T14:42:43.000Z",
           "id": "2118353320448344198",
@@ -4723,10 +4718,18 @@
           "created_at": "2026-11-08T22:34:51.000Z",
           "id": "2119559301391938001",
           "text": "for some reason the last competent american tech founder getting caught pillow talking about national security ai secrets to a chinese spy doesn\u2019t make me wanna sell my alternative financial system coins i don\u2019t know"
+        },
+        {
+          "created_at": "2026-11-09T00:16:03.000Z",
+          "id": "2119584768233009366",
+          "images": [
+            "https://pbs.twimg.com/media/HWpHHQ-WMAAkTx1.jpg"
+          ],
+          "quoted_text": "*TRUMP ON DANA WHITE AS PRESS SECRETARY: I WAS ONLY KIDDING",
+          "text": "dude. https://t.co/TgjOcUhZXm https://t.co/ukTSFH7KSw"
         }
       ],
       "reads": {
-        "2118337595285356578": "No call",
         "2118353320448344198": "No call: bearish on ai stocks (60%, too unsure)",
         "2118359296937497003": "No call",
         "2118360792768598275": "No call",
@@ -4745,7 +4748,8 @@
         "2119529584714813898": "No call",
         "2119535941119615302": "No call",
         "2119538566686781699": "No call",
-        "2119559301391938001": "No call: bullish on crypto market (same view as before)"
+        "2119559301391938001": "No call: bullish on crypto market (same view as before)",
+        "2119584768233009366": "No call"
       },
       "replies": [
         {
@@ -4840,10 +4844,6 @@
         }
       ],
       "threads": {
-        "2113392664184041960": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2113596301036355955": {
           "alerted": [],
           "self_replies": 0
@@ -5241,10 +5241,13 @@
         "2119559301391938001": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119584768233009366": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118337595285356578": true,
         "2118353320448344198": true,
         "2118359296937497003": true,
         "2118360792768598275": true,
@@ -5278,7 +5281,8 @@
         "2119559301391938001": true,
         "2119563431988895898": false,
         "2119564689403179425": true,
-        "2119573695115010495": true
+        "2119573695115010495": true,
+        "2119584768233009366": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7059,5 +7063,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-08",
-  "updated_at": "2026-11-08T23:48:19+00:00"
+  "updated_at": "2026-11-09T00:16:22+00:00"
 }
