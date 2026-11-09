@@ -5787,7 +5787,7 @@
       "biases": {},
       "closed": [],
       "handle": "thecryptonexus",
-      "last_id": "2119610855981748562",
+      "last_id": "2119714604674957694",
       "positions": {
         "FREN PET (FP)": {
           "asset": "Fren Pet (FP)",
@@ -5996,12 +5996,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-19T12:39:15.000Z",
-          "id": "2112161655753003435",
-          "reply_to_id": "2112154403633598753",
-          "text": "@ImTrizzy @TxFlow_L1 I mean obviously dont tell them your address while admitting to having broken their T&amp;C like ffs man what \ud83d\ude02"
-        },
-        {
           "created_at": "2026-10-19T13:02:45.000Z",
           "id": "2112167571311218845",
           "images": [
@@ -6090,6 +6084,12 @@
           ],
           "reply_to_id": "2119606299956752482",
           "text": "@droo4you https://t.co/78HXPNhX1v"
+        },
+        {
+          "created_at": "2026-11-09T08:51:58.000Z",
+          "id": "2119714604674957694",
+          "reply_to_id": "2119705885618393214",
+          "text": "@zayn4pf @chamathsintern Yeah that did strike me as quite strange behavior tbh"
         }
       ],
       "threads": {
@@ -6221,7 +6221,6 @@
         "2111676018692133080": false,
         "2111754410867269780": false,
         "2112118266839629840": true,
-        "2112161655753003435": false,
         "2112163311584231850": false,
         "2112167571311218845": false,
         "2113959190905372775": false,
@@ -6251,7 +6250,8 @@
         "2119604813579067554": false,
         "2119605868241314034": true,
         "2119607059435991213": false,
-        "2119610855981748562": true
+        "2119610855981748562": true,
+        "2119714604674957694": false
       },
       "user_id": "1392152416854765571"
     },
@@ -7078,5 +7078,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-08",
-  "updated_at": "2026-11-09T08:36:17+00:00"
+  "updated_at": "2026-11-09T08:52:18+00:00"
 }
