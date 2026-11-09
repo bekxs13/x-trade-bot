@@ -2207,7 +2207,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2119800243932016773",
+      "last_id": "2119809354073526332",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2377,12 +2377,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T11:15:10.000Z",
-          "id": "2118663479020355654",
-          "reply_to_id": "2118614670881788293",
-          "text": "@teodorio just bitterness"
-        },
-        {
           "created_at": "2026-11-06T13:46:43.000Z",
           "id": "2118701617004318904",
           "reply_to_id": "2118561492098244809",
@@ -2465,6 +2459,12 @@
           "id": "2119480106704056700",
           "reply_to_id": "2119431755383898341",
           "text": "@theoluminati well you certainly have a type"
+        },
+        {
+          "created_at": "2026-11-09T15:08:28.000Z",
+          "id": "2119809354073526332",
+          "reply_to_id": "2119800743318192581",
+          "text": "@macrocephalopod if you could only drink 5 more bottles of wine for the rest of your life what would they be and what meals would you pair them with"
         }
       ],
       "threads": {
@@ -2882,7 +2882,6 @@
         "2118400995751264387": true,
         "2118434408227090738": false,
         "2118566848593543529": true,
-        "2118663479020355654": false,
         "2118701617004318904": false,
         "2118708860194091267": false,
         "2118715158197625062": true,
@@ -2906,7 +2905,8 @@
         "2119480106704056700": false,
         "2119525570203775190": false,
         "2119531917574025572": true,
-        "2119800243932016773": true
+        "2119800243932016773": true,
+        "2119809354073526332": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7076,5 +7076,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T14:32:33+00:00"
+  "updated_at": "2026-11-09T15:10:20+00:00"
 }
