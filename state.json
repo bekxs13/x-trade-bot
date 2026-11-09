@@ -4580,7 +4580,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2119904285169263051",
+      "last_id": "2119914279755509872",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4764,12 +4764,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-08T21:51:40.000Z",
-          "id": "2119548433560125850",
-          "reply_to_id": "2119547583278481488",
-          "text": "@lialiascg erewhon"
-        },
-        {
           "created_at": "2026-11-08T22:00:56.000Z",
           "id": "2119550766457500151",
           "reply_to_id": "2119550430997066020",
@@ -4855,6 +4849,12 @@
           ],
           "reply_to_id": "2119903330701037672",
           "text": "@skulznft i have no ambition to make crypto cool outside of the people that already deem crypto cool https://t.co/O8XDkpY82N"
+        },
+        {
+          "created_at": "2026-11-09T22:05:25.000Z",
+          "id": "2119914279755509872",
+          "reply_to_id": "2119913626706325907",
+          "text": "@captaingooser @MatRabbit hey thank you"
         }
       ],
       "threads": {
@@ -5268,7 +5268,6 @@
         "2119529584714813898": false,
         "2119535941119615302": false,
         "2119538566686781699": false,
-        "2119548433560125850": false,
         "2119550766457500151": false,
         "2119559301391938001": true,
         "2119563431988895898": false,
@@ -5296,7 +5295,8 @@
         "2119882186065105310": true,
         "2119902268522651923": true,
         "2119903816506282211": false,
-        "2119904285169263051": false
+        "2119904285169263051": false,
+        "2119914279755509872": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7099,5 +7099,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T21:40:29+00:00"
+  "updated_at": "2026-11-09T22:06:19+00:00"
 }
