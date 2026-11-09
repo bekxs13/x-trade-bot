@@ -2215,7 +2215,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2119877016602484853",
+      "last_id": "2119877520887619790",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2235,12 +2235,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T12:57:42.000Z",
-          "id": "2118326893925843243",
-          "reply_to_id": "2118304708884574447",
-          "text": "i said that's the best i can do, but what you actually get is down 6%"
-        },
         {
           "created_at": "2026-11-05T14:41:56.000Z",
           "id": "2118353125497295162",
@@ -2360,10 +2354,15 @@
           "id": "2119871613382390233",
           "reply_to_id": "2119869405882458519",
           "text": "@AdsoOfBelk wait also one of drizzt's scimitars is +3, i could have sworn they were +4 and +2 but it's +5 and +3 i guess"
+        },
+        {
+          "created_at": "2026-11-09T19:39:21.000Z",
+          "id": "2119877520887619790",
+          "quoted_text": "Fable 5.2 and Mythos 5.2 are a step above Opus 5.5 in almost all the capabilities we evaluated.\n\nTesters have found that they communicate more clearly than past Fable and Mythos models. They generate outputs up to 30% faster than Fable 5.1 and Mythos 5.1. https://t.co/nqXVdmLRpN",
+          "text": "&gt;Agentic Scientific Research\n&gt;Robotics\n\noh man it's joever joever https://t.co/gTsIRakcKu"
         }
       ],
       "reads": {
-        "2118326893925843243": "No call",
         "2118353125497295162": "No call",
         "2118356622154014850": "No call",
         "2118362882605805903": "No call",
@@ -2380,7 +2379,8 @@
         "2119465859194523687": "No call",
         "2119525570203775190": "No call",
         "2119531917574025572": "No call",
-        "2119800243932016773": "No call"
+        "2119800243932016773": "No call",
+        "2119877520887619790": "No call"
       },
       "replies": [
         {
@@ -2479,10 +2479,6 @@
         }
       ],
       "threads": {
-        "2114405956746444960": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114459635683881373": {
           "alerted": [],
           "self_replies": 0
@@ -2880,10 +2876,13 @@
         "2119800243932016773": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119877520887619790": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118326893925843243": true,
         "2118353125497295162": true,
         "2118356622154014850": false,
         "2118362882605805903": false,
@@ -2917,7 +2916,8 @@
         "2119809354073526332": false,
         "2119869405882458519": false,
         "2119871613382390233": false,
-        "2119877016602484853": false
+        "2119877016602484853": false,
+        "2119877520887619790": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7088,5 +7088,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T19:38:24+00:00"
+  "updated_at": "2026-11-09T19:40:35+00:00"
 }
