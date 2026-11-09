@@ -4580,7 +4580,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2119919045554376872",
+      "last_id": "2119919834645610501",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4616,11 +4616,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T13:41:03.000Z",
-          "id": "2118700188055265780",
-          "text": "MARKET OPEN: The AI Trade is FINISHED, Elon vs SoftBank, CRYPTO IS BACK, LGW https://t.co/729pqryKH1"
-        },
         {
           "created_at": "2026-11-08T20:31:22.000Z",
           "id": "2119528223528698252",
@@ -4739,10 +4734,15 @@
           ],
           "reply_to_id": "2119902268522651923",
           "text": "it was never about being cool https://t.co/xGLCcl8rwW"
+        },
+        {
+          "created_at": "2026-11-09T22:27:29.000Z",
+          "id": "2119919834645610501",
+          "reply_to_id": "2119902268522651923",
+          "text": "watch on youtube https://t.co/akqDiWHuxi"
         }
       ],
       "reads": {
-        "2118700188055265780": "No call",
         "2119528223528698252": "No call",
         "2119529034014928991": "No call",
         "2119529584714813898": "No call",
@@ -5262,7 +5262,6 @@
         }
       },
       "trading": {
-        "2118700188055265780": true,
         "2119528223528698252": false,
         "2119529034014928991": false,
         "2119529584714813898": false,
@@ -5296,7 +5295,8 @@
         "2119903816506282211": false,
         "2119904285169263051": false,
         "2119914279755509872": false,
-        "2119919045554376872": false
+        "2119919045554376872": false,
+        "2119919834645610501": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7099,5 +7099,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T22:26:20+00:00"
+  "updated_at": "2026-11-09T22:28:25+00:00"
 }
