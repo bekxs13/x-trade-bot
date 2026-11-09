@@ -4579,7 +4579,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2119903816506282211",
+      "last_id": "2119904285169263051",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4615,15 +4615,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T13:23:49.000Z",
-          "id": "2118695853712179456",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2118695795453009920/img/GRqGnEitc4b4xA6h.jpg"
-          ],
-          "quoted_text": "Welcome back to the stream. https://t.co/naFUmEORKO",
-          "text": "https://t.co/gFpCU2SYW7 https://t.co/CnYxNF8mz0"
-        },
         {
           "created_at": "2026-11-06T13:41:03.000Z",
           "id": "2118700188055265780",
@@ -4738,10 +4729,18 @@
             "https://pbs.twimg.com/amplify_video_thumb/2119898274677014528/img/YTx86sk_hiVx5wFu.jpg"
           ],
           "text": "crypto twitter is finally dead: purge the tourists https://t.co/yl18bo9DOQ"
+        },
+        {
+          "created_at": "2026-11-09T21:25:42.000Z",
+          "id": "2119904285169263051",
+          "images": [
+            "https://pbs.twimg.com/media/HWtptNtXkAEVtSm.png"
+          ],
+          "reply_to_id": "2119902268522651923",
+          "text": "it was never about being cool https://t.co/xGLCcl8rwW"
         }
       ],
       "reads": {
-        "2118695853712179456": "No call",
         "2118700188055265780": "No call",
         "2119528223528698252": "No call",
         "2119529034014928991": "No call",
@@ -4759,7 +4758,8 @@
         "2119846235771117943": "Read together with the post it replies to",
         "2119875670079889867": "No call",
         "2119882186065105310": "No call",
-        "2119902268522651923": "No call"
+        "2119902268522651923": "No call",
+        "2119904285169263051": "No call"
       },
       "replies": [
         {
@@ -5257,11 +5257,10 @@
         },
         "2119902268522651923": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2118695853712179456": false,
         "2118700188055265780": true,
         "2119528223528698252": false,
         "2119529034014928991": false,
@@ -5295,7 +5294,8 @@
         "2119875670079889867": true,
         "2119882186065105310": true,
         "2119902268522651923": true,
-        "2119903816506282211": false
+        "2119903816506282211": false,
+        "2119904285169263051": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7098,5 +7098,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T21:24:18+00:00"
+  "updated_at": "2026-11-09T21:26:18+00:00"
 }
