@@ -2235,7 +2235,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120227232211951822",
+      "last_id": "2120229705919889835",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2255,12 +2255,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T17:52:10.000Z",
-          "id": "2118400995751264387",
-          "quoted_text": "Hearing Lone Pine now -30% YTD from +40% earlier this year, potentially converting to a family office. Any truth to this?",
-          "text": "wow?????????????? https://t.co/UUULrz8J47"
-        },
         {
           "created_at": "2026-11-05T20:04:56.000Z",
           "id": "2118434408227090738",
@@ -2385,10 +2379,15 @@
             "https://pbs.twimg.com/media/HWyPaiZWsAAOCk2.jpg"
           ],
           "text": "fml https://t.co/POqM0WmFDu"
+        },
+        {
+          "created_at": "2026-11-10T18:58:48.000Z",
+          "id": "2120229705919889835",
+          "quoted_text": "This is definitely not investment advice, but everyone with a brain is using this is as a nice opportunity to buy a f*ck-ton more Nvidia, right? Right? https://t.co/8HSov1Ntvg",
+          "text": "one way to square all of this is that frontier lab progress is going so well that their chip research is such that they plan to produce all the chips themselves. they still need to acquire foundries for that though which is tough because all the inactive ghost fabs are in china https://t.co/v6XMK6srSM"
         }
       ],
       "reads": {
-        "2118400995751264387": "No call",
         "2118434408227090738": "No call",
         "2118566848593543529": "No call",
         "2118715158197625062": "No call",
@@ -2406,7 +2405,8 @@
         "2120001734634586299": "No call",
         "2120191505281286449": "No call",
         "2120192260776120791": "No call",
-        "2120227232211951822": "No call"
+        "2120227232211951822": "No call",
+        "2120229705919889835": "No call"
       },
       "replies": [
         {
@@ -2505,10 +2505,6 @@
         }
       ],
       "threads": {
-        "2114710635527180472": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114729739109703694": {
           "alerted": [],
           "self_replies": 0
@@ -2906,10 +2902,13 @@
         "2120227232211951822": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120229705919889835": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118400995751264387": true,
         "2118434408227090738": false,
         "2118566848593543529": true,
         "2118715158197625062": true,
@@ -2943,7 +2942,8 @@
         "2120191505281286449": true,
         "2120192260776120791": false,
         "2120225191020077404": false,
-        "2120227232211951822": false
+        "2120227232211951822": false,
+        "2120229705919889835": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7125,5 +7125,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T18:56:21+00:00"
+  "updated_at": "2026-11-10T19:00:28+00:00"
 }
