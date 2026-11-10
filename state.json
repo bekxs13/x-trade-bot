@@ -4602,7 +4602,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120231676890501324",
+      "last_id": "2120232944790843679",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4783,12 +4783,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-10T03:01:53.000Z",
-          "id": "2119988889465278883",
-          "reply_to_id": "2119988207081460032",
-          "text": "@MINHxDYNASTY thanks man"
-        },
-        {
           "created_at": "2026-11-10T03:03:24.000Z",
           "id": "2119989271876530422",
           "reply_to_id": "2119989094931660888",
@@ -4871,6 +4865,12 @@
           "id": "2120231676890501324",
           "reply_to_id": "2120230417379025042",
           "text": "@chamathsintern thanks g trying some stuff out\n\ni want to make this a physical magazine for the end of the month, think owning that would rock"
+        },
+        {
+          "created_at": "2026-11-10T19:11:40.000Z",
+          "id": "2120232944790843679",
+          "reply_to_id": "2120179616589738296",
+          "text": "@comfyleverage what\u2019s this from"
         }
       ],
       "threads": {
@@ -5291,7 +5291,6 @@
         "2119902268522651923": true,
         "2119904285169263051": false,
         "2119919834645610501": false,
-        "2119988889465278883": false,
         "2119989271876530422": false,
         "2120129294097875193": true,
         "2120131071891091580": true,
@@ -5312,7 +5311,8 @@
         "2120215224342966500": false,
         "2120230124104933770": true,
         "2120231591339315444": false,
-        "2120231676890501324": false
+        "2120231676890501324": false,
+        "2120232944790843679": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7121,5 +7121,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T19:10:19+00:00"
+  "updated_at": "2026-11-10T19:12:18+00:00"
 }
