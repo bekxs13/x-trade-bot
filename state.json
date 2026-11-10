@@ -1006,7 +1006,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120294055955378517",
+      "last_id": "2120297144431284707",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1072,6 +1072,22 @@
           "structure": "spot",
           "url": "https://x.com/blknoiz06/status/2109288381767462951"
         },
+        "MIHAO": {
+          "asset": "mihao",
+          "chain": "solana",
+          "confidence": 0.75,
+          "contract_address": "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump",
+          "direction": "long",
+          "entry": "",
+          "horizon": "",
+          "market": "crypto",
+          "open_price": 0.008126,
+          "post_id": "2120297144431284707",
+          "reason": "Posts a pump.fun Solana contract address for mihao (ni hao cat) with 'vibe shift' and the cat meme image, the usual way this account shills a memecoin he's in.",
+          "since": "2026-11-10T23:26:47.000Z",
+          "structure": "spot",
+          "url": "https://x.com/blknoiz06/status/2120297144431284707"
+        },
         "SOL": {
           "asset": "SOL",
           "chain": "solana",
@@ -1106,14 +1122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-07T15:15:09.000Z",
-          "id": "2119086259796590816",
-          "images": [
-            "https://pbs.twimg.com/media/HWiBrUFW4AELvmg.jpg"
-          ],
-          "text": "cold hard cryptocurrencies https://t.co/mG9jLuIfHE"
-        },
         {
           "created_at": "2026-11-07T15:26:26.000Z",
           "id": "2119089099512426988",
@@ -1250,10 +1258,17 @@
           "id": "2120293968013607098",
           "quoted_text": "Entering solana:9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump from behind and busting inside so it\u2019ll never leave me.",
           "text": "WHAT https://t.co/okvXkkNElo"
+        },
+        {
+          "created_at": "2026-11-10T23:26:47.000Z",
+          "id": "2120297144431284707",
+          "images": [
+            "https://pbs.twimg.com/media/HWzPA0LXoAApLl9.jpg"
+          ],
+          "text": "vibe shift\n\nsolana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/jA12BxHaJs"
         }
       ],
       "reads": {
-        "2119086259796590816": "VIEW bearish on ZEC",
         "2119089099512426988": "No call",
         "2119091505004720275": "No call: bullish on KNTQ (50%, too unsure)",
         "2119096288213975395": "No call: bearish on ai stocks (same view as before)",
@@ -1272,7 +1287,8 @@
         "2120230903637004462": "No call",
         "2120283158390231331": "No call",
         "2120285364967608658": "No call",
-        "2120293968013607098": "No call"
+        "2120293968013607098": "No call",
+        "2120297144431284707": "TRADE LONG mihao"
       },
       "replies": [
         {
@@ -1370,10 +1386,6 @@
         }
       ],
       "threads": {
-        "2117656325647953982": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117666234439467072": {
           "alerted": [],
           "self_replies": 0
@@ -1789,10 +1801,15 @@
         "2120293968013607098": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120297144431284707": {
+          "alerted": [
+            "trade:MIHAO:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2119086259796590816": true,
         "2119089099512426988": true,
         "2119091505004720275": true,
         "2119096288213975395": true,
@@ -1826,7 +1843,8 @@
         "2120289896711499918": false,
         "2120290788634452184": false,
         "2120293968013607098": false,
-        "2120294055955378517": false
+        "2120294055955378517": false,
+        "2120297144431284707": true
       },
       "user_id": "973261472"
     },
@@ -7115,5 +7133,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T23:24:25+00:00"
+  "updated_at": "2026-11-10T23:28:28+00:00"
 }
