@@ -1008,7 +1008,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120283158390231331",
+      "last_id": "2120285364967608658",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1108,14 +1108,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-07T11:55:10.000Z",
-          "id": "2119035932133535783",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2119035470357381121/img/XHOx7Rs_UgkkbHop.jpg"
-          ],
-          "text": "Market Bubble ep.26: my full conversation with @armaniferrante (CEO of Backpack)\n\non rebuilding Backpack after FTX, bringing US stocks to Solana, the future of onshore perps, tokenization and Backpack's long-term vision\n\n0:00 - Backpack's evolution and the FTX collapse\n6:35 - Bringing US stocks to Solana\n11:33 - Tokenization and onshore perps\n16:08 - Security, MEV and token incentives\n21:57 - Backpack's IPO vision and what's next"
-        },
         {
           "created_at": "2026-11-07T14:51:58.000Z",
           "id": "2119080424278282304",
@@ -1254,10 +1246,15 @@
             "https://pbs.twimg.com/media/HWzCSkXWAAAVxEq.jpg"
           ],
           "text": "you guys always say i cant trade but somehow whenever theres a perps competition yall are nowhere to be found?\n\nwhats up with that? https://t.co/vcONNwdz2P"
+        },
+        {
+          "created_at": "2026-11-10T22:39:58.000Z",
+          "id": "2120285364967608658",
+          "quoted_text": "@blknoiz06 you are black",
+          "text": "hahahahaahahahaha https://t.co/47lh4NfKst"
         }
       ],
       "reads": {
-        "2119035932133535783": "No call",
         "2119080424278282304": "No call",
         "2119086259796590816": "VIEW bearish on ZEC",
         "2119089099512426988": "No call",
@@ -1276,7 +1273,8 @@
         "2120009419820007926": "VIEW bearish on sol",
         "2120215751751774604": "No call",
         "2120230903637004462": "No call",
-        "2120283158390231331": "No call"
+        "2120283158390231331": "No call",
+        "2120285364967608658": "No call"
       },
       "replies": [
         {
@@ -1374,10 +1372,6 @@
         }
       ],
       "threads": {
-        "2117624477928624204": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117655653669851190": {
           "alerted": [],
           "self_replies": 0
@@ -1793,10 +1787,13 @@
         "2120283158390231331": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120285364967608658": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2119035932133535783": true,
         "2119080424278282304": true,
         "2119086259796590816": true,
         "2119089099512426988": true,
@@ -1830,7 +1827,8 @@
         "2120232474076725653": false,
         "2120233942754177345": true,
         "2120233991244542146": false,
-        "2120283158390231331": true
+        "2120283158390231331": true,
+        "2120285364967608658": false
       },
       "user_id": "973261472"
     },
@@ -7122,5 +7120,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T22:32:25+00:00"
+  "updated_at": "2026-11-10T22:40:24+00:00"
 }
