@@ -1008,7 +1008,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120106663080288714",
+      "last_id": "2120110388964368618",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1273,12 +1273,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-08T04:46:50.000Z",
-          "id": "2119290524649853192",
-          "reply_to_id": "2119289812788404637",
-          "text": "@morgotwins @SolLunix ok \ud83d\ude02"
-        },
-        {
           "created_at": "2026-11-08T04:49:11.000Z",
           "id": "2119291118588166152",
           "reply_to_id": "2119289860595040695",
@@ -1364,6 +1358,12 @@
           "id": "2120106663080288714",
           "reply_to_id": "2120106278001512504",
           "text": "@limacrzz @0xvietnguyen no i did not, i didnt mention arc because i didnt think it would do well"
+        },
+        {
+          "created_at": "2026-11-10T11:04:41.000Z",
+          "id": "2120110388964368618",
+          "reply_to_id": "2120109436757017026",
+          "text": "@0xvietnguyen bro i do not have to mention everything that happens who the fuck are you?"
         }
       ],
       "threads": {
@@ -1801,7 +1801,6 @@
         "2119098416516972779": true,
         "2119167815714304016": false,
         "2119286953141264608": false,
-        "2119290524649853192": false,
         "2119291118588166152": false,
         "2119292949380968658": false,
         "2119294170716053729": false,
@@ -1823,7 +1822,8 @@
         "2120009419820007926": true,
         "2120050915503747294": true,
         "2120099841653039299": false,
-        "2120106663080288714": true
+        "2120106663080288714": true,
+        "2120110388964368618": false
       },
       "user_id": "973261472"
     },
@@ -7112,5 +7112,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-10T10:50:21+00:00"
+  "updated_at": "2026-11-10T11:06:18+00:00"
 }
