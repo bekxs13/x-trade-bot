@@ -4599,7 +4599,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120198028657299844",
+      "last_id": "2120202267261296811",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4635,11 +4635,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-08T21:12:28.000Z",
-          "id": "2119538566686781699",
-          "text": "i just paid $19 for a mango smoothie and haven\u2019t kissed a girl in three years   i don\u2019t care who jensen huang is having sex with"
-        },
         {
           "created_at": "2026-11-08T22:34:51.000Z",
           "id": "2119559301391938001",
@@ -4757,10 +4752,14 @@
             "https://pbs.twimg.com/media/HWxbCO9WcAAqXV1.png"
           ],
           "text": "https://t.co/657U998Y9L"
+        },
+        {
+          "created_at": "2026-11-10T17:09:46.000Z",
+          "id": "2120202267261296811",
+          "text": "tradingview should be nationalized it\u2019s too important to ever go down"
         }
       ],
       "reads": {
-        "2119538566686781699": "No call",
         "2119559301391938001": "No call: bullish on crypto market (same view as before)",
         "2119584768233009366": "No call",
         "2119590050027503617": "No call",
@@ -4777,7 +4776,8 @@
         "2120131790115311654": "No call",
         "2120148596678877297": "No call",
         "2120149819339448779": "No call",
-        "2120169629939040727": "No call"
+        "2120169629939040727": "No call",
+        "2120202267261296811": "No call"
       },
       "replies": [
         {
@@ -4875,10 +4875,6 @@
         }
       ],
       "threads": {
-        "2115060673713762765": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115113639287935358": {
           "alerted": [],
           "self_replies": 0
@@ -5276,10 +5272,13 @@
         "2120169629939040727": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120202267261296811": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2119538566686781699": false,
         "2119559301391938001": true,
         "2119584768233009366": false,
         "2119590050027503617": false,
@@ -5313,7 +5312,8 @@
         "2120149819339448779": true,
         "2120161535624646757": false,
         "2120169629939040727": false,
-        "2120198028657299844": false
+        "2120198028657299844": false,
+        "2120202267261296811": false
       },
       "user_id": "1426732252768182281"
     },
@@ -5366,36 +5366,27 @@
           "updated_at": "2026-11-06T00:38:47.000Z"
         }
       },
-      "closed": [],
-      "handle": "taikimaeda2",
-      "last_id": "2119898569604042784",
-      "positions": {
-        "ZEC": {
-          "asset": "ZEC",
-          "chain": "",
-          "confidence": 0.9,
-          "contract_address": "",
-          "direction": "long",
-          "entry": "~1336",
-          "horizon": "",
-          "market": "crypto",
-          "open_price": null,
-          "post_id": "2107265085433606342",
-          "reason": "\"hedging my $ZEC longs with more longs\" and a ZEC-PERP chart with multiple buy markers around 1,300-1,400 show he is adding to perp longs.",
-          "since": "2026-10-06T00:22:02.000Z",
-          "structure": "perp",
-          "url": "https://x.com/taikimaeda2/status/2107265085433606342"
-        }
-      },
-      "posts": [
+      "closed": [
         {
-          "created_at": "2026-10-13T13:13:00.000Z",
-          "id": "2109995821613961284",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2109783670072487937/img/nSbrKqpBbKx-qZFE.jpg"
-          ],
-          "text": "Interview with @SoskaKyle to discuss the generational HYPE trade, what it's like trading with @ThinkingUSD, and how to make it this cycle.\n\n0:00 Bull or Bear Market?\n2:49 Kyle\u2019s Journey into Crypto\n8:44 \u201cWould You Be Right or Make Money?\u201d\n15:52 Teaming up with Flood\n21:01 The Famous $HYPE Trade\n36:02 Bitcoin and the Quantum Problem\n43:20 $ZEC vs $BTC\n46:30 Selling All Their $ETH\n52:53 Crypto\u2019s Real PMF\n1:00:05 Are Great Traders Born or Made?\n1:11:11 Memorable Trade (A Painful One)\n1:21:39 Cycle Skip Theory vs 4 Year Cycle\n1:26:50 Midcurve Traps & Onchain Metas\n1:31:40 Hardest Lessons & How to Make It\n1:37:55 Managing Tilt & the Art of Selling\n1:49:02 Regrets and Final Words of Wisdom"
-        },
+          "asset": "ZEC",
+          "close_price": null,
+          "close_url": "https://x.com/taikimaeda2/status/2120201890021748995",
+          "closed": "2026-11-10T17:08:16.000Z",
+          "direction": "long",
+          "flipped": false,
+          "market": "crypto",
+          "move": null,
+          "open_price": null,
+          "open_url": "https://x.com/taikimaeda2/status/2107265085433606342",
+          "opened": "2026-10-06T00:22:02.000Z",
+          "partial": false,
+          "structure": "perp"
+        }
+      ],
+      "handle": "taikimaeda2",
+      "last_id": "2120201890021748995",
+      "positions": {},
+      "posts": [
         {
           "created_at": "2026-10-13T13:21:06.000Z",
           "id": "2109997859798208879",
@@ -5543,10 +5534,18 @@
             "https://pbs.twimg.com/media/HWtE7jtWMAAk92h.jpg"
           ],
           "text": "Nasdaq: +3%\nBitcoin: -0.3% https://t.co/xU8VMTXWMP"
+        },
+        {
+          "created_at": "2026-11-10T17:08:16.000Z",
+          "id": "2120201890021748995",
+          "images": [
+            "https://pbs.twimg.com/media/HWx4YEgbIAAsUWy.jpg"
+          ],
+          "quoted_text": "Last week, I hedged my $ZEC longs with more longs\n\nThis week, I am hedging my $ZEC longs with more longs\n\nTexas Hedge https://t.co/3vdRsjaVT1 https://t.co/mRvwk1OUTC",
+          "text": "Unfortunately, I had to capitulate my $ZEC perp longs. Spot bags will be ZODL'd. Posting the roundtrip for transparency.\n\nI still expect ZEC to be a huge winner in 2027 with Tachyon addressing Bitcoin's biggest issues. But first we must survive \ud83e\udee1  (bottom signal #ziquidated) https://t.co/XXnIY9e5Wv https://t.co/ACTDdbBoao"
         }
       ],
       "reads": {
-        "2109995821613961284": "No call",
         "2109997859798208879": "No call",
         "2110068793187934366": "No call",
         "2110071384026038470": "No call",
@@ -5563,7 +5562,8 @@
         "2118716140021272827": "No call",
         "2118716728331129234": "No call",
         "2118741768170811600": "No call: bearish on btc (same view as before)",
-        "2119863843870441859": "No call"
+        "2119863843870441859": "No call",
+        "2120201890021748995": "TRADE EXIT ZEC"
       },
       "replies": [
         {
@@ -5780,10 +5780,15 @@
         "2119863843870441859": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120201890021748995": {
+          "alerted": [
+            "trade:ZEC:exit"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2109995821613961284": true,
         "2109997859798208879": false,
         "2110068793187934366": true,
         "2110071384026038470": true,
@@ -5817,7 +5822,8 @@
         "2119269615650127926": true,
         "2119793549210489312": true,
         "2119863843870441859": true,
-        "2119898569604042784": false
+        "2119898569604042784": false,
+        "2120201890021748995": true
       },
       "user_id": "1064421325186359296"
     },
@@ -7116,5 +7122,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T16:54:22+00:00"
+  "updated_at": "2026-11-10T17:10:34+00:00"
 }
