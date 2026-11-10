@@ -2233,7 +2233,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120266422282760204",
+      "last_id": "2120278821664694512",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2407,12 +2407,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-08T13:26:20.000Z",
-          "id": "2119421260098596941",
-          "reply_to_id": "2119292201704489141",
-          "text": "@berniebiased @dylan522p culturally incredibly different"
-        },
-        {
           "created_at": "2026-11-08T13:27:56.000Z",
           "id": "2119421662860902882",
           "reply_to_id": "2119343844131221838",
@@ -2499,6 +2493,12 @@
           "id": "2120266422282760204",
           "reply_to_id": "2120263787488194906",
           "text": "@orthodox_rasta that's not copium. that would be a bad thing"
+        },
+        {
+          "created_at": "2026-11-10T22:13:58.000Z",
+          "id": "2120278821664694512",
+          "reply_to_id": "2120278637824119213",
+          "text": "@johcharts physical production isn't a trivial thing"
         }
       ],
       "threads": {
@@ -2912,7 +2912,6 @@
         "2118885721016504634": true,
         "2118922051830329732": false,
         "2119218111068991627": false,
-        "2119421260098596941": false,
         "2119421662860902882": false,
         "2119441555207459155": false,
         "2119445303132856403": false,
@@ -2940,7 +2939,8 @@
         "2120238528378323355": true,
         "2120240724130009450": false,
         "2120266037585461421": false,
-        "2120266422282760204": false
+        "2120266422282760204": false,
+        "2120278821664694512": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7122,5 +7122,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T21:44:25+00:00"
+  "updated_at": "2026-11-10T22:14:21+00:00"
 }
