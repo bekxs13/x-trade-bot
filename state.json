@@ -1008,7 +1008,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120233991244542146",
+      "last_id": "2120283158390231331",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1108,12 +1108,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-07T10:57:32.000Z",
-          "id": "2119021428628762970",
-          "reply_to_id": "2119020370019643823",
-          "text": "@cozypront intraday -&gt; daily -&gt; weekly, hard to catch in real time but notable when the leaders stop outperforming, especially at pivot points, for me this is near zec's local range highs"
-        },
         {
           "created_at": "2026-11-07T11:55:10.000Z",
           "id": "2119035932133535783",
@@ -1252,6 +1246,14 @@
           "id": "2120230903637004462",
           "quoted_text": "i have officially acquired the @ansem handle, please follow :)",
           "text": "lost access to this, please block &amp; do not engage https://t.co/7p6W1wmBXF"
+        },
+        {
+          "created_at": "2026-11-10T22:31:12.000Z",
+          "id": "2120283158390231331",
+          "images": [
+            "https://pbs.twimg.com/media/HWzCSkXWAAAVxEq.jpg"
+          ],
+          "text": "you guys always say i cant trade but somehow whenever theres a perps competition yall are nowhere to be found?\n\nwhats up with that? https://t.co/vcONNwdz2P"
         }
       ],
       "reads": {
@@ -1273,7 +1275,8 @@
         "2119942810338275657": "No call",
         "2120009419820007926": "VIEW bearish on sol",
         "2120215751751774604": "No call",
-        "2120230903637004462": "No call"
+        "2120230903637004462": "No call",
+        "2120283158390231331": "No call"
       },
       "replies": [
         {
@@ -1371,10 +1374,6 @@
         }
       ],
       "threads": {
-        "2117623967959630200": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117624477928624204": {
           "alerted": [],
           "self_replies": 0
@@ -1790,10 +1789,13 @@
         "2120230903637004462": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120283158390231331": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2119021428628762970": true,
         "2119035932133535783": true,
         "2119080424278282304": true,
         "2119086259796590816": true,
@@ -1827,7 +1829,8 @@
         "2120232269407240674": false,
         "2120232474076725653": false,
         "2120233942754177345": true,
-        "2120233991244542146": false
+        "2120233991244542146": false,
+        "2120283158390231331": true
       },
       "user_id": "973261472"
     },
@@ -4602,7 +4605,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120282874767356002",
+      "last_id": "2120283237172060483",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4781,12 +4784,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-10T17:51:16.000Z",
-          "id": "2120212708520075504",
-          "reply_to_id": "2120209208650191048",
-          "text": "@Geiger_Capital hit a bench pr a few months ago"
-        },
-        {
           "created_at": "2026-11-10T17:51:57.000Z",
           "id": "2120212881463738508",
           "reply_to_id": "2120212802614841807",
@@ -4869,6 +4866,12 @@
           "id": "2120282874767356002",
           "reply_to_id": "2120279460926947413",
           "text": "@zinceth the only point of this app is to promote yourself and victory lap winning trades. there is enough signal on twitter a whole where participation in that game is valuable, that\u2019s all"
+        },
+        {
+          "created_at": "2026-11-10T22:31:31.000Z",
+          "id": "2120283237172060483",
+          "reply_to_id": "2120283160105631983",
+          "text": "@J_Dood_ \ud83e\udee1"
         }
       ],
       "threads": {
@@ -5286,7 +5289,6 @@
         "2120169629939040727": false,
         "2120202267261296811": false,
         "2120208355801366919": true,
-        "2120212708520075504": false,
         "2120212881463738508": false,
         "2120215224342966500": false,
         "2120230124104933770": true,
@@ -5310,7 +5312,8 @@
         "2120280806841049482": false,
         "2120281525589590154": false,
         "2120281631135285392": false,
-        "2120282874767356002": false
+        "2120282874767356002": false,
+        "2120283237172060483": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7119,5 +7122,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T22:30:31+00:00"
+  "updated_at": "2026-11-10T22:32:25+00:00"
 }
