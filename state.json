@@ -1008,7 +1008,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120099841653039299",
+      "last_id": "2120106663080288714",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1273,12 +1273,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-08T04:46:36.000Z",
-          "id": "2119290466013249630",
-          "reply_to_id": "2119289822137201126",
-          "text": "@7PETERS its likely not true brudda"
-        },
-        {
           "created_at": "2026-11-08T04:46:50.000Z",
           "id": "2119290524649853192",
           "reply_to_id": "2119289812788404637",
@@ -1364,6 +1358,12 @@
           "id": "2120099841653039299",
           "reply_to_id": "2120040547117310119",
           "text": "@0xvietnguyen every time i tweet about something im excited about now you guys say its paid, there is very little new stuff happening around here, im not being paid im just attempting to actively use the new stuff that could actually get traction"
+        },
+        {
+          "created_at": "2026-11-10T10:49:52.000Z",
+          "id": "2120106663080288714",
+          "reply_to_id": "2120106278001512504",
+          "text": "@limacrzz @0xvietnguyen no i did not, i didnt mention arc because i didnt think it would do well"
         }
       ],
       "threads": {
@@ -1801,7 +1801,6 @@
         "2119098416516972779": true,
         "2119167815714304016": false,
         "2119286953141264608": false,
-        "2119290466013249630": false,
         "2119290524649853192": false,
         "2119291118588166152": false,
         "2119292949380968658": false,
@@ -1823,7 +1822,8 @@
         "2119992237069418543": false,
         "2120009419820007926": true,
         "2120050915503747294": true,
-        "2120099841653039299": false
+        "2120099841653039299": false,
+        "2120106663080288714": true
       },
       "user_id": "973261472"
     },
@@ -7112,5 +7112,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-10T10:24:17+00:00"
+  "updated_at": "2026-11-10T10:50:21+00:00"
 }
