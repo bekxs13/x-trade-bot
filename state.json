@@ -4599,7 +4599,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120203506586096030",
+      "last_id": "2120208355801366919",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4635,11 +4635,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-08T22:34:51.000Z",
-          "id": "2119559301391938001",
-          "text": "for some reason the last competent american tech founder getting caught pillow talking about national security ai secrets to a chinese spy doesn\u2019t make me wanna sell my alternative financial system coins i don\u2019t know"
-        },
         {
           "created_at": "2026-11-09T00:16:03.000Z",
           "id": "2119584768233009366",
@@ -4757,10 +4752,14 @@
           "created_at": "2026-11-10T17:09:46.000Z",
           "id": "2120202267261296811",
           "text": "tradingview should be nationalized it\u2019s too important to ever go down"
+        },
+        {
+          "created_at": "2026-11-10T17:33:58.000Z",
+          "id": "2120208355801366919",
+          "text": "you know someones portfolio is down horrendous  when they start talking about \u201cat least im  healthy\u201d"
         }
       ],
       "reads": {
-        "2119559301391938001": "No call: bullish on crypto market (same view as before)",
         "2119584768233009366": "No call",
         "2119590050027503617": "No call",
         "2119591345056632856": "No call",
@@ -4777,7 +4776,8 @@
         "2120148596678877297": "No call",
         "2120149819339448779": "No call",
         "2120169629939040727": "No call",
-        "2120202267261296811": "No call"
+        "2120202267261296811": "No call",
+        "2120208355801366919": "No call"
       },
       "replies": [
         {
@@ -4875,10 +4875,6 @@
         }
       ],
       "threads": {
-        "2115113639287935358": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115123348984201401": {
           "alerted": [],
           "self_replies": 1
@@ -5276,10 +5272,13 @@
         "2120202267261296811": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120208355801366919": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2119559301391938001": true,
         "2119584768233009366": false,
         "2119590050027503617": false,
         "2119591345056632856": false,
@@ -5313,7 +5312,8 @@
         "2120198028657299844": false,
         "2120202267261296811": false,
         "2120203198560403499": true,
-        "2120203506586096030": false
+        "2120203506586096030": false,
+        "2120208355801366919": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7122,5 +7122,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T17:16:21+00:00"
+  "updated_at": "2026-11-10T17:34:21+00:00"
 }
