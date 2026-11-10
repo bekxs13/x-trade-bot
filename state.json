@@ -2233,7 +2233,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120240724130009450",
+      "last_id": "2120266037585461421",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2253,12 +2253,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T04:51:12.000Z",
-          "id": "2118566848593543529",
-          "quoted_text": "For the people in the comments asking for context, this report today was a massive update for many people. I'm seeing a number of prominent people who were formerly skeptical now saying RSI in under 6 months and ASI in 1\u20132 years. (I agree with both)\nhttps://t.co/gAFr5Gwi2r",
-          "text": "hilarious that this releases at the pinnacle of an absolute bloodbath month for ai stocks https://t.co/xFiFn9QS14"
-        },
         {
           "created_at": "2026-11-06T14:40:32.000Z",
           "id": "2118715158197625062",
@@ -2382,10 +2376,15 @@
           "created_at": "2026-11-10T19:04:35.000Z",
           "id": "2120231159879622899",
           "text": "okay but will artificial superintelligence be best-in-class in bagholding"
+        },
+        {
+          "created_at": "2026-11-10T21:23:10.000Z",
+          "id": "2120266037585461421",
+          "quoted_text": "Greenlight has won all litigation with James Fishback. @jamesfishback has been ordered to return every penny of salary and bonus that we ever paid him, to repay the money we lent him, to pay most of our legal fees, and to stop claiming titles, roles and responsibilities he never had. No, Fishback was not the \u201cHead of Macro.\u201d Rather, as the arbitrator found, he was a \u201cfaithless servant.\u201d\n\nThat\u2019s a fancy legal way of saying that Fishback was so disloyal during his employment that he was ordered to",
+          "text": "lmao https://t.co/Q24dKoXtYM"
         }
       ],
       "reads": {
-        "2118566848593543529": "No call",
         "2118715158197625062": "No call",
         "2118726291905999055": "No call",
         "2118874492202033161": "No call",
@@ -2403,7 +2402,8 @@
         "2120192260776120791": "No call",
         "2120227232211951822": "No call",
         "2120229705919889835": "No call",
-        "2120231159879622899": "No call"
+        "2120231159879622899": "No call",
+        "2120266037585461421": "No call"
       },
       "replies": [
         {
@@ -2502,10 +2502,6 @@
         }
       ],
       "threads": {
-        "2114746352358080586": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114747674717233205": {
           "alerted": [],
           "self_replies": 0
@@ -2903,10 +2899,13 @@
         "2120231159879622899": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120266037585461421": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118566848593543529": true,
         "2118715158197625062": true,
         "2118726291905999055": true,
         "2118874492202033161": false,
@@ -2940,7 +2939,8 @@
         "2120230894082363729": true,
         "2120231159879622899": false,
         "2120238528378323355": true,
-        "2120240724130009450": false
+        "2120240724130009450": false,
+        "2120266037585461421": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7122,5 +7122,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T21:22:19+00:00"
+  "updated_at": "2026-11-10T21:24:22+00:00"
 }
