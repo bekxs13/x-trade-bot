@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2120286988217844020",
+      "last_id": "2120287863682249079",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,11 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-07T03:17:47.000Z",
-          "id": "2118905727255531608",
-          "text": "Local salsas n shit"
-        },
         {
           "created_at": "2026-11-07T03:23:40.000Z",
           "id": "2118907207983255795",
@@ -278,10 +273,14 @@
           "created_at": "2026-11-10T22:46:25.000Z",
           "id": "2120286988217844020",
           "text": "This the only one in Miami"
+        },
+        {
+          "created_at": "2026-11-10T22:49:54.000Z",
+          "id": "2120287863682249079",
+          "text": "2pm feel like 8:30"
         }
       ],
       "reads": {
-        "2118905727255531608": "No call",
         "2118907207983255795": "No call",
         "2119154697944916054": "No call",
         "2119170904253169958": "No call",
@@ -299,7 +298,8 @@
         "2119378209318068632": "No call",
         "2119869365172772911": "No call",
         "2119945016735105475": "No call",
-        "2120286988217844020": "No call"
+        "2120286988217844020": "No call",
+        "2120287863682249079": "No call"
       },
       "replies": [
         {
@@ -397,10 +397,6 @@
         }
       ],
       "threads": {
-        "2113849708624122162": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113849893811056954": {
           "alerted": [],
           "self_replies": 0
@@ -799,6 +795,10 @@
         "2120286988217844020": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120287863682249079": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -810,7 +810,6 @@
         "2118856011142582685": false,
         "2118856552509755538": false,
         "2118858662806736994": false,
-        "2118905727255531608": false,
         "2118907207983255795": false,
         "2119154697944916054": false,
         "2119163228009984017": false,
@@ -836,7 +835,8 @@
         "2119930022517776777": true,
         "2119945016735105475": false,
         "2120011572919849336": true,
-        "2120286988217844020": false
+        "2120286988217844020": false,
+        "2120287863682249079": true
       },
       "user_id": "1446541960181858315"
     },
@@ -2232,7 +2232,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120287267373924619",
+      "last_id": "2120287728306987225",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2406,12 +2406,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-08T15:01:52.000Z",
-          "id": "2119445303132856403",
-          "reply_to_id": "2119444677736767538",
-          "text": "@RealPeterTeal My mom (his daughter) and grandkid had left a year before so that was the impetus"
-        },
-        {
           "created_at": "2026-11-08T17:20:10.000Z",
           "id": "2119480106704056700",
           "reply_to_id": "2119431755383898341",
@@ -2498,6 +2492,12 @@
           "id": "2120287267373924619",
           "reply_to_id": "2120246384154812916",
           "text": "@mean_field_zane i have interacted with/read takes from both you and @DKokotajlo and his second order knowledge and calibration seem substantially better to me, as a general thing"
+        },
+        {
+          "created_at": "2026-11-10T22:49:22.000Z",
+          "id": "2120287728306987225",
+          "reply_to_id": "2120284207381614716",
+          "text": "@johcharts at the end of the day you still need to either build new fans or at least commandeer underutilized ones"
         }
       ],
       "threads": {
@@ -2911,7 +2911,6 @@
         "2118885721016504634": true,
         "2118922051830329732": false,
         "2119218111068991627": false,
-        "2119445303132856403": false,
         "2119465859194523687": false,
         "2119480106704056700": false,
         "2119525570203775190": false,
@@ -2939,7 +2938,8 @@
         "2120266422282760204": false,
         "2120278821664694512": false,
         "2120279041546834194": false,
-        "2120287267373924619": false
+        "2120287267373924619": false,
+        "2120287728306987225": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7118,5 +7118,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T22:48:27+00:00"
+  "updated_at": "2026-11-10T22:50:29+00:00"
 }
