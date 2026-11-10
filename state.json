@@ -2233,7 +2233,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120266037585461421",
+      "last_id": "2120266422282760204",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2407,12 +2407,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-08T02:11:19.000Z",
-          "id": "2119251389146919164",
-          "reply_to_id": "2119250016632226239",
-          "text": "@ptichushka ,,,"
-        },
-        {
           "created_at": "2026-11-08T13:26:20.000Z",
           "id": "2119421260098596941",
           "reply_to_id": "2119292201704489141",
@@ -2499,6 +2493,12 @@
           "id": "2120240724130009450",
           "reply_to_id": "2120238333360222702",
           "text": "@fuelfive let me get this straight, *that's* the most weird thing about the world we're living in to you?"
+        },
+        {
+          "created_at": "2026-11-10T21:24:42.000Z",
+          "id": "2120266422282760204",
+          "reply_to_id": "2120263787488194906",
+          "text": "@orthodox_rasta that's not copium. that would be a bad thing"
         }
       ],
       "threads": {
@@ -2912,7 +2912,6 @@
         "2118885721016504634": true,
         "2118922051830329732": false,
         "2119218111068991627": false,
-        "2119251389146919164": false,
         "2119421260098596941": false,
         "2119421662860902882": false,
         "2119441555207459155": false,
@@ -2940,7 +2939,8 @@
         "2120231159879622899": false,
         "2120238528378323355": true,
         "2120240724130009450": false,
-        "2120266037585461421": false
+        "2120266037585461421": false,
+        "2120266422282760204": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7122,5 +7122,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T21:24:22+00:00"
+  "updated_at": "2026-11-10T21:26:20+00:00"
 }
