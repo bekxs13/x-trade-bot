@@ -4605,7 +4605,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120215224342966500",
+      "last_id": "2120230124104933770",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4641,15 +4641,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-09T00:16:03.000Z",
-          "id": "2119584768233009366",
-          "images": [
-            "https://pbs.twimg.com/media/HWpHHQ-WMAAkTx1.jpg"
-          ],
-          "quoted_text": "*TRUMP ON DANA WHITE AS PRESS SECRETARY: I WAS ONLY KIDDING",
-          "text": "dude. https://t.co/TgjOcUhZXm https://t.co/ukTSFH7KSw"
-        },
         {
           "created_at": "2026-11-09T00:37:02.000Z",
           "id": "2119590050027503617",
@@ -4763,10 +4754,17 @@
           "created_at": "2026-11-10T17:33:58.000Z",
           "id": "2120208355801366919",
           "text": "you know someones portfolio is down horrendous  when they start talking about \u201cat least im  healthy\u201d"
+        },
+        {
+          "created_at": "2026-11-10T19:00:28.000Z",
+          "id": "2120230124104933770",
+          "images": [
+            "https://pbs.twimg.com/media/HWyR-lZWIAANS9I.jpg"
+          ],
+          "text": "The Market: November 10th https://t.co/LbYhD6821l"
         }
       ],
       "reads": {
-        "2119584768233009366": "No call",
         "2119590050027503617": "No call",
         "2119591345056632856": "No call",
         "2119609608805417398": "No call",
@@ -4783,7 +4781,8 @@
         "2120149819339448779": "No call",
         "2120169629939040727": "No call",
         "2120202267261296811": "No call",
-        "2120208355801366919": "No call"
+        "2120208355801366919": "No call",
+        "2120230124104933770": "No call"
       },
       "replies": [
         {
@@ -4878,10 +4877,6 @@
         }
       ],
       "threads": {
-        "2115123348984201401": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2115135735267229897": {
           "alerted": [],
           "self_replies": 0
@@ -5279,10 +5274,13 @@
         "2120208355801366919": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120230124104933770": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2119584768233009366": false,
         "2119590050027503617": false,
         "2119591345056632856": false,
         "2119609608805417398": false,
@@ -5316,7 +5314,8 @@
         "2120208355801366919": true,
         "2120212708520075504": false,
         "2120212881463738508": false,
-        "2120215224342966500": false
+        "2120215224342966500": false,
+        "2120230124104933770": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7125,5 +7124,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T19:00:28+00:00"
+  "updated_at": "2026-11-10T19:02:25+00:00"
 }
