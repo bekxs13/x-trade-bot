@@ -5384,7 +5384,7 @@
         }
       ],
       "handle": "taikimaeda2",
-      "last_id": "2120201890021748995",
+      "last_id": "2120226058083668033",
       "positions": {},
       "posts": [
         {
@@ -5567,12 +5567,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T03:33:39.000Z",
-          "id": "2118547333264671040",
-          "reply_to_id": "2118543062217732485",
-          "text": "@SalsaTekila Salsa and Taiki long ZEC? Yup it\u2019s over"
-        },
-        {
           "created_at": "2026-11-06T13:35:16.000Z",
           "id": "2118698734129230136",
           "reply_to_id": "2118698536703508763",
@@ -5658,6 +5652,12 @@
           ],
           "reply_to_id": "2119892431437254963",
           "text": "@zkDragon Great post! @ebfull said Testnet for Tachyon is coming out around this time, is that still in the works? https://t.co/Mfs2nExHXm"
+        },
+        {
+          "created_at": "2026-11-10T18:44:18.000Z",
+          "id": "2120226058083668033",
+          "reply_to_id": "2120222515020849413",
+          "text": "@ThePumponomics hurts tho but thanks"
         }
       ],
       "threads": {
@@ -5803,7 +5803,6 @@
         "2117591105042550947": false,
         "2117954235698483689": true,
         "2118503326082117747": true,
-        "2118547333264671040": true,
         "2118698734129230136": false,
         "2118701705860620687": true,
         "2118702365607956767": true,
@@ -5823,7 +5822,8 @@
         "2119793549210489312": true,
         "2119863843870441859": true,
         "2119898569604042784": false,
-        "2120201890021748995": true
+        "2120201890021748995": true,
+        "2120226058083668033": false
       },
       "user_id": "1064421325186359296"
     },
@@ -7122,5 +7122,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T18:42:22+00:00"
+  "updated_at": "2026-11-10T18:46:16+00:00"
 }
