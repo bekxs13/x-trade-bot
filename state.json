@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2119945016735105475",
+      "last_id": "2120011572919849336",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -305,12 +305,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T02:45:06.000Z",
-          "id": "2118535114774966313",
-          "reply_to_id": "2118533979955765346",
-          "text": "@Rhoneus Equity and debt buyers are into \u201catoms\u201d rn. They have fads of what they buy similar to handbags"
-        },
-        {
           "created_at": "2026-11-06T04:27:56.000Z",
           "id": "2118560992187846830",
           "reply_to_id": "2118560844522885582",
@@ -396,6 +390,12 @@
           ],
           "reply_to_id": "2119614474760142863",
           "text": "@evanspiegel @Jack64128896 @ValueGuruu I think arguably it could be a good signal to acquire a position in your company &gt;4x your position in a boat https://t.co/CFL0umL3Qh"
+        },
+        {
+          "created_at": "2026-11-10T04:32:01.000Z",
+          "id": "2120011572919849336",
+          "reply_to_id": "2120003202951356655",
+          "text": "@lBattleRhino $snap"
         }
       ],
       "threads": {
@@ -804,7 +804,6 @@
         }
       },
       "trading": {
-        "2118535114774966313": true,
         "2118560992187846830": true,
         "2118570955996111104": false,
         "2118619320574247012": false,
@@ -838,7 +837,8 @@
         "2119577619763245318": false,
         "2119869365172772911": false,
         "2119930022517776777": true,
-        "2119945016735105475": false
+        "2119945016735105475": false,
+        "2120011572919849336": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7112,5 +7112,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-10T04:24:25+00:00"
+  "updated_at": "2026-11-10T04:32:20+00:00"
 }
