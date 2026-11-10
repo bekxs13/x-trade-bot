@@ -4602,7 +4602,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120261996478169142",
+      "last_id": "2120262705005343182",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4784,18 +4784,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-10T12:26:52.000Z",
-          "id": "2120131071891091580",
-          "reply_to_id": "2119896730875707477",
-          "text": "@Pixeldreams_art should i have picked neoclouds? photonics? semiconductors? what do you prefer"
-        },
-        {
-          "created_at": "2026-11-10T13:21:47.000Z",
-          "id": "2120144894299693116",
-          "reply_to_id": "2120130469962666198",
-          "text": "i have spent 3 hours a day, monday-friday life in front of a camera talking about crypto and other markets for the last 14 months straight \n\ni\u2019m not entirely sure what you\u2019re arguing but it\u2019s either ill informed or just retarded \n\nlook, i too, am not particularly happy with price action. i suppose we can meet there"
-        },
-        {
           "created_at": "2026-11-10T13:38:11.000Z",
           "id": "2120149018562965892",
           "reply_to_id": "2120137137068585299",
@@ -4872,6 +4860,18 @@
           "id": "2120247556537983091",
           "reply_to_id": "2120235896242889027",
           "text": "@VendiGX ty"
+        },
+        {
+          "created_at": "2026-11-10T21:09:28.000Z",
+          "id": "2120262589913370820",
+          "reply_to_id": "2120261935786873221",
+          "text": "@0xMerp unfortunate"
+        },
+        {
+          "created_at": "2026-11-10T21:09:56.000Z",
+          "id": "2120262705005343182",
+          "reply_to_id": "2120235561164435856",
+          "text": "@Icebergy wow"
         }
       ],
       "threads": {
@@ -5284,9 +5284,7 @@
         "2119902268522651923": true,
         "2119904285169263051": false,
         "2119919834645610501": false,
-        "2120131071891091580": true,
         "2120131790115311654": true,
-        "2120144894299693116": true,
         "2120148596678877297": true,
         "2120149018562965892": false,
         "2120149819339448779": true,
@@ -5313,7 +5311,9 @@
         "2120256985979326693": false,
         "2120259859862147581": false,
         "2120260820168847633": true,
-        "2120261996478169142": false
+        "2120261996478169142": false,
+        "2120262589913370820": false,
+        "2120262705005343182": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7122,5 +7122,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T21:08:25+00:00"
+  "updated_at": "2026-11-10T21:10:21+00:00"
 }
