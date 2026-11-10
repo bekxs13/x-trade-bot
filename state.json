@@ -2232,7 +2232,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120060280591757350",
+      "last_id": "2120187128806019576",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2401,12 +2401,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-06T15:11:26.000Z",
-          "id": "2118722934126575704",
-          "reply_to_id": "2118721315310104957",
-          "text": "@quantian1 it's not really a meme. whether or not you think it's valid it's what anthropic believes and that's the relevant point here since that guides their decision making"
-        },
-        {
           "created_at": "2026-11-06T16:11:41.000Z",
           "id": "2118738096376459757",
           "reply_to_id": "2118734874055967193",
@@ -2493,6 +2487,12 @@
           "id": "2120060280591757350",
           "reply_to_id": "2120048443892875688",
           "text": "@ebervector wait when did you leave theorem"
+        },
+        {
+          "created_at": "2026-11-10T16:09:37.000Z",
+          "id": "2120187128806019576",
+          "reply_to_id": "2120180880002138600",
+          "text": "@ptichushka they should purchase nicer coffee"
         }
       ],
       "threads": {
@@ -2907,7 +2907,6 @@
         "2118434408227090738": false,
         "2118566848593543529": true,
         "2118715158197625062": true,
-        "2118722934126575704": false,
         "2118726291905999055": true,
         "2118738096376459757": false,
         "2118799094076289172": true,
@@ -2934,7 +2933,8 @@
         "2119877520887619790": false,
         "2119907408986198387": true,
         "2120001734634586299": false,
-        "2120060280591757350": false
+        "2120060280591757350": false,
+        "2120187128806019576": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7113,5 +7113,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T16:02:16+00:00"
+  "updated_at": "2026-11-10T16:10:23+00:00"
 }
