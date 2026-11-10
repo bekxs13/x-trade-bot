@@ -1008,7 +1008,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120113899932377482",
+      "last_id": "2120122789168349664",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1273,12 +1273,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-08T04:56:28.000Z",
-          "id": "2119292949380968658",
-          "reply_to_id": "2119287077015842853",
-          "text": "@Benzobarks i have some unfortunate news brother"
-        },
-        {
           "created_at": "2026-11-08T05:01:19.000Z",
           "id": "2119294170716053729",
           "reply_to_id": "2119293763092873499",
@@ -1364,6 +1358,12 @@
           "id": "2120113899932377482",
           "reply_to_id": "2120113440719028654",
           "text": "@Jimmy_Russl3 @0xvietnguyen what does fomo being the exclusive trading partner have to do with me?"
+        },
+        {
+          "created_at": "2026-11-10T11:53:57.000Z",
+          "id": "2120122789168349664",
+          "reply_to_id": "2120117226179117470",
+          "text": "@DUsmc18389 @0xvietnguyen \ud83d\udc4d\ud83c\udffe"
         }
       ],
       "threads": {
@@ -1801,7 +1801,6 @@
         "2119098416516972779": true,
         "2119167815714304016": false,
         "2119286953141264608": false,
-        "2119292949380968658": false,
         "2119294170716053729": false,
         "2119296840051097872": false,
         "2119296922104082600": false,
@@ -1823,7 +1822,8 @@
         "2120099841653039299": false,
         "2120106663080288714": true,
         "2120110388964368618": false,
-        "2120113899932377482": false
+        "2120113899932377482": false,
+        "2120122789168349664": false
       },
       "user_id": "973261472"
     },
@@ -7112,5 +7112,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-10T11:20:21+00:00"
+  "updated_at": "2026-11-10T11:54:18+00:00"
 }
