@@ -4596,7 +4596,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120161535624646757",
+      "last_id": "2120169629939040727",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4632,12 +4632,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-08T21:02:02.000Z",
-          "id": "2119535941119615302",
-          "quoted_text": "2026 is hilarious because the ceo of the most valuable company in the world who\u2019s primary goal is to beat china in a global arms race to super intelligence was caught having an affair on his wife of 41 years with a top level ccp spy and it\u2019s like the tenth most important thing that\u2019s happened this week",
-          "text": "watergate wouldn\u2019t even get a financial times article if it happened today https://t.co/BeduB6lvRX"
-        },
         {
           "created_at": "2026-11-08T21:12:28.000Z",
           "id": "2119538566686781699",
@@ -4752,10 +4746,17 @@
           "created_at": "2026-11-10T13:41:22.000Z",
           "id": "2120149819339448779",
           "text": "STOCK MARKET OPEN: Anthropic IPO, The JENSEN FILES Part 2, NOW WHAT? https://t.co/DtsRfqev2b"
+        },
+        {
+          "created_at": "2026-11-10T15:00:05.000Z",
+          "id": "2120169629939040727",
+          "images": [
+            "https://pbs.twimg.com/media/HWxbCO9WcAAqXV1.png"
+          ],
+          "text": "https://t.co/657U998Y9L"
         }
       ],
       "reads": {
-        "2119535941119615302": "No call",
         "2119538566686781699": "No call",
         "2119559301391938001": "No call: bullish on crypto market (same view as before)",
         "2119584768233009366": "No call",
@@ -4772,7 +4773,8 @@
         "2119904285169263051": "No call",
         "2120131790115311654": "No call",
         "2120148596678877297": "No call",
-        "2120149819339448779": "No call"
+        "2120149819339448779": "No call",
+        "2120169629939040727": "No call"
       },
       "replies": [
         {
@@ -4870,10 +4872,6 @@
         }
       ],
       "threads": {
-        "2115052832449548371": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115060673713762765": {
           "alerted": [],
           "self_replies": 0
@@ -5271,10 +5269,13 @@
         "2120149819339448779": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120169629939040727": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2119535941119615302": false,
         "2119538566686781699": false,
         "2119559301391938001": true,
         "2119584768233009366": false,
@@ -5308,7 +5309,8 @@
         "2120148596678877297": true,
         "2120149018562965892": false,
         "2120149819339448779": true,
-        "2120161535624646757": false
+        "2120161535624646757": false,
+        "2120169629939040727": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7111,5 +7113,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T14:28:18+00:00"
+  "updated_at": "2026-11-10T15:00:31+00:00"
 }
