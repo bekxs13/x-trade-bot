@@ -1008,7 +1008,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120126099808022932",
+      "last_id": "2120128122414932030",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1273,12 +1273,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-08T09:25:27.000Z",
-          "id": "2119360642314551548",
-          "reply_to_id": "2119341042331754535",
-          "text": "@FeralPHunter yes you can"
-        },
-        {
           "created_at": "2026-11-08T09:48:41.000Z",
           "id": "2119366487571874088",
           "reply_to_id": "2119366043734847532",
@@ -1367,6 +1361,12 @@
           "id": "2120126099808022932",
           "reply_to_id": "2120123269617484041",
           "text": "@Beaaar @Jimmy_Russl3 LMAOOOOOOOOOO"
+        },
+        {
+          "created_at": "2026-11-10T12:15:09.000Z",
+          "id": "2120128122414932030",
+          "reply_to_id": "2120127576114913725",
+          "text": "@ika_xbt @gMAKcrypto @spinor_ @CryptoTomYT can somebody explain to me what is crime about buying the coin of a dev who i know?"
         }
       ],
       "threads": {
@@ -1804,7 +1804,6 @@
         "2119098416516972779": true,
         "2119167815714304016": false,
         "2119286953141264608": false,
-        "2119360642314551548": false,
         "2119366487571874088": false,
         "2119367066176385283": false,
         "2119409698999033942": true,
@@ -1826,7 +1825,8 @@
         "2120122841207292140": false,
         "2120123011256709424": false,
         "2120125981302145295": false,
-        "2120126099808022932": false
+        "2120126099808022932": false,
+        "2120128122414932030": true
       },
       "user_id": "973261472"
     },
@@ -7115,5 +7115,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-10T12:08:16+00:00"
+  "updated_at": "2026-11-10T12:16:18+00:00"
 }
