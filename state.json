@@ -4602,7 +4602,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120280806841049482",
+      "last_id": "2120281631135285392",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4638,14 +4638,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-09T19:31:59.000Z",
-          "id": "2119875670079889867",
-          "images": [
-            "https://pbs.twimg.com/media/HWtPfikW0AAq8ZC.png"
-          ],
-          "text": "\"this stocks pump makes cryptos underperformance so much more painful\" https://t.co/6jqsZAoqrD"
-        },
         {
           "created_at": "2026-11-09T19:57:53.000Z",
           "id": "2119882186065105310",
@@ -4762,10 +4754,15 @@
           "created_at": "2026-11-10T21:07:07.000Z",
           "id": "2120261996478169142",
           "text": "is anyone going to TomorrowX i want to meet people while I'm there"
+        },
+        {
+          "created_at": "2026-11-10T22:25:08.000Z",
+          "id": "2120281631135285392",
+          "reply_to_id": "2120260820168847633",
+          "text": "if you feel like the walls are caving in just start watching stream every morning"
         }
       ],
       "reads": {
-        "2119875670079889867": "No call",
         "2119882186065105310": "No call",
         "2119902268522651923": "No call",
         "2119904285169263051": "No call",
@@ -4783,12 +4780,6 @@
         "2120261996478169142": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-10T17:13:28.000Z",
-          "id": "2120203198560403499",
-          "reply_to_id": "2120201349140988263",
-          "text": "@sqalef elite trade"
-        },
         {
           "created_at": "2026-11-10T17:14:42.000Z",
           "id": "2120203506586096030",
@@ -4872,6 +4863,12 @@
           "id": "2120280806841049482",
           "reply_to_id": "2120280594504384821",
           "text": "@Jack_Raines hi"
+        },
+        {
+          "created_at": "2026-11-10T22:24:43.000Z",
+          "id": "2120281525589590154",
+          "reply_to_id": "2120261912692711636",
+          "text": "@HouseExtractor start watching stream i got you"
         }
       ],
       "threads": {
@@ -5279,7 +5276,6 @@
         }
       },
       "trading": {
-        "2119875670079889867": true,
         "2119882186065105310": true,
         "2119902268522651923": true,
         "2119904285169263051": false,
@@ -5289,7 +5285,6 @@
         "2120149819339448779": true,
         "2120169629939040727": false,
         "2120202267261296811": false,
-        "2120203198560403499": true,
         "2120203506586096030": false,
         "2120208355801366919": true,
         "2120212708520075504": false,
@@ -5313,7 +5308,9 @@
         "2120262705005343182": false,
         "2120268628448686352": false,
         "2120271250769777069": false,
-        "2120280806841049482": false
+        "2120280806841049482": false,
+        "2120281525589590154": false,
+        "2120281631135285392": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7122,5 +7119,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T22:22:21+00:00"
+  "updated_at": "2026-11-10T22:26:19+00:00"
 }
