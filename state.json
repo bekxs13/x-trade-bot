@@ -4602,7 +4602,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120254977343885468",
+      "last_id": "2120255372556673442",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4638,12 +4638,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-09T02:11:11.000Z",
-          "id": "2119613744158584933",
-          "reply_to_id": "2119609608805417398",
-          "text": "they yearn for collective belief"
-        },
         {
           "created_at": "2026-11-09T13:38:06.000Z",
           "id": "2119786611256787443",
@@ -4761,10 +4755,15 @@
           "id": "2120254977343885468",
           "quoted_text": "i've been trying to figure out why the 2026 drawdown feels so much more personal than 2018/2022 even though it\u2019s not nearly as bad price wise. my take:\n\na lot of people on here have decided there's now a clock running. ai is coming, the door to escaping the middle class is closing, and if you haven't made it in the next couple years you're on ubi as a pleb forever. \n\ni don't know if that's true. but it doesn't matter if it's true. people here believe it, so they're putting a deadline on themselv",
           "text": "the only way to move forward is to declare a multi decade time horizon for yourself to \"make it.\" anything less is blatant insecurity and a self induced handicap. The permanent underclass meme has done insurmountable damage to young people.\n\nviolently reject it and save yourself. Anyone that disagrees has slop to sell, just get good."
+        },
+        {
+          "created_at": "2026-11-10T20:40:47.000Z",
+          "id": "2120255372556673442",
+          "reply_to_id": "2120254977343885468",
+          "text": "it's like technical analysis. If a support line breaks, just draw a new one."
         }
       ],
       "reads": {
-        "2119613744158584933": "No call",
         "2119786611256787443": "No call",
         "2119846037363802174": "No call",
         "2119846235771117943": "Read together with the post it replies to",
@@ -4781,7 +4780,8 @@
         "2120230124104933770": "No call",
         "2120233651405209678": "No call",
         "2120251622064603330": "No call",
-        "2120254977343885468": "No call"
+        "2120254977343885468": "No call",
+        "2120255372556673442": "No call"
       },
       "replies": [
         {
@@ -5276,11 +5276,10 @@
         },
         "2120254977343885468": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2119613744158584933": false,
         "2119786611256787443": true,
         "2119846037363802174": false,
         "2119846235771117943": false,
@@ -5314,7 +5313,8 @@
         "2120246292072763734": false,
         "2120247556537983091": false,
         "2120251622064603330": false,
-        "2120254977343885468": false
+        "2120254977343885468": false,
+        "2120255372556673442": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7123,5 +7123,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T20:40:26+00:00"
+  "updated_at": "2026-11-10T20:42:22+00:00"
 }
