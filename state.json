@@ -4602,7 +4602,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120247556537983091",
+      "last_id": "2120251622064603330",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4638,11 +4638,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-09T00:42:11.000Z",
-          "id": "2119591345056632856",
-          "text": "if jensen can do it why the fuck can\u2019t i"
-        },
         {
           "created_at": "2026-11-09T01:54:45.000Z",
           "id": "2119609608805417398",
@@ -4760,10 +4755,14 @@
           "id": "2120233651405209678",
           "reply_to_id": "2120230124104933770",
           "text": "i need a designer / artist that wants to work on these with me i am really good at references and really bad at designing and art would be alot of fun and not that hard, one a day m-f (when i stream) for a physical magazine at the end of the month\n\nwould be peak"
+        },
+        {
+          "created_at": "2026-11-10T20:25:53.000Z",
+          "id": "2120251622064603330",
+          "text": "how do i tell if this girl coming on to me (really aggressively) is a spy"
         }
       ],
       "reads": {
-        "2119591345056632856": "No call",
         "2119609608805417398": "No call",
         "2119613744158584933": "No call",
         "2119786611256787443": "No call",
@@ -4780,7 +4779,8 @@
         "2120202267261296811": "No call",
         "2120208355801366919": "No call",
         "2120230124104933770": "No call",
-        "2120233651405209678": "No call"
+        "2120233651405209678": "No call",
+        "2120251622064603330": "No call"
       },
       "replies": [
         {
@@ -4875,10 +4875,6 @@
         }
       ],
       "threads": {
-        "2115135735267229897": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115223935482728836": {
           "alerted": [],
           "self_replies": 0
@@ -5276,10 +5272,13 @@
         "2120230124104933770": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2120251622064603330": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2119591345056632856": false,
         "2119609608805417398": false,
         "2119613744158584933": false,
         "2119786611256787443": true,
@@ -5313,7 +5312,8 @@
         "2120232944790843679": false,
         "2120233651405209678": false,
         "2120246292072763734": false,
-        "2120247556537983091": false
+        "2120247556537983091": false,
+        "2120251622064603330": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7122,5 +7122,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T20:10:22+00:00"
+  "updated_at": "2026-11-10T20:26:24+00:00"
 }
