@@ -1008,7 +1008,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119834776026661177",
+      "last_id": "2119942810338275657",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1108,11 +1108,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-07T02:09:41.000Z",
-          "id": "2118888587877876017",
-          "text": "wyd"
-        },
         {
           "created_at": "2026-11-07T02:15:00.000Z",
           "id": "2118889925693382724",
@@ -1243,10 +1238,17 @@
           ],
           "quoted_text": "zec weakness ltf showing next direction for majors imo\n\nhas been strong but its also where most upnl is hiding",
           "text": "https://t.co/Gb7XdMee7s https://t.co/oe9R1XxVgT"
+        },
+        {
+          "created_at": "2026-11-09T23:58:47.000Z",
+          "id": "2119942810338275657",
+          "images": [
+            "https://pbs.twimg.com/media/HWuMu1NXgAAzAwI.jpg"
+          ],
+          "text": "https://t.co/UnWQpD76E2"
         }
       ],
       "reads": {
-        "2118888587877876017": "No call",
         "2119013989250379937": "No call: bearish on crypto market (same view as before)",
         "2119014252178813292": "No call: bearish on crypto market (same view as before)",
         "2119035932133535783": "No call",
@@ -1263,7 +1265,8 @@
         "2119694898006028365": "No call: bullish on HYPE (same view as before)",
         "2119755882548584491": "No call",
         "2119821655975629247": "No call: bearish on btc (same view as before)",
-        "2119834776026661177": "No call"
+        "2119834776026661177": "No call",
+        "2119942810338275657": "No call"
       },
       "replies": [
         {
@@ -1358,10 +1361,6 @@
         }
       ],
       "threads": {
-        "2117441633713082652": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117449038979072008": {
           "alerted": [],
           "self_replies": 0
@@ -1775,10 +1774,13 @@
         "2119834776026661177": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2119942810338275657": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118888587877876017": false,
         "2118889925693382724": false,
         "2119013989250379937": true,
         "2119014252178813292": true,
@@ -1812,7 +1814,8 @@
         "2119694898006028365": true,
         "2119755882548584491": true,
         "2119821655975629247": true,
-        "2119834776026661177": true
+        "2119834776026661177": true,
+        "2119942810338275657": false
       },
       "user_id": "973261472"
     },
@@ -7102,5 +7105,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-09T23:08:22+00:00"
+  "updated_at": "2026-11-10T00:00:29+00:00"
 }
