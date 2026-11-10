@@ -6391,7 +6391,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120299018030833889",
+      "last_id": "2120299701735948379",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6427,11 +6427,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T21:42:16.000Z",
-          "id": "2118458904665333980",
-          "text": "A departure from my usual gloating:\n\nIf you lost all your money today, I'm sorry that happened. However you must understand that it was deserved. It means you had critical leaks in your trading and you need to take a break. Days like this happen infrequently but they will continue to happen for entirety of your trading career. \n\nBeing levered is reserved for only the specialist of situations, you should almost never leverage. Never allow yourself to be in the position of a forced seller.\n\nIf you're having dark thoughts, or feel like you've taken 10 steps backwards and want to do something drastic, please don't. Life is far longer and opportunities are abundant.\n\nDo not trade anytime soon. Go back and reflect on what your leak was (risk management, sloppy order placement, etc.) and learn. You paid your tuition.\n\nIf you continue trading without being self critical you are not a trader you are a PROBLEM GAMBLER.\n\nInvesting, trading and the journey to becoming wealthy rarely happens overnight. The only way to become profitable is to become your own harshest critic."
-        },
         {
           "created_at": "2026-11-05T21:43:17.000Z",
           "id": "2118459158609690972",
@@ -6548,10 +6543,15 @@
           "created_at": "2026-11-10T23:34:13.000Z",
           "id": "2120299018030833889",
           "text": "Rewrote our entire portfolio tracking software from scratch with Grokbot + Claude today. \n\nHighly recommend. These tools have come a long way."
+        },
+        {
+          "created_at": "2026-11-10T23:36:56.000Z",
+          "id": "2120299701735948379",
+          "reply_to_id": "2120295855114932288",
+          "text": "It's crazy to have such talentless people trying to figure out their crypto integrations while it's still close to 10% of their earnings."
         }
       ],
       "reads": {
-        "2118458904665333980": "No call",
         "2118459158609690972": "Read together with the post it replies to",
         "2118461410242125845": "No call",
         "2118720688349659268": "TRADE LONG BTC",
@@ -6567,7 +6567,8 @@
         "2119682422392660088": "No call",
         "2119846821602443321": "No call",
         "2120295855114932288": "No call",
-        "2120299018030833889": "No call"
+        "2120299018030833889": "No call",
+        "2120299701735948379": "No call"
       },
       "replies": [
         {
@@ -7072,7 +7073,7 @@
         },
         "2120295855114932288": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2120299018030833889": {
           "alerted": [],
@@ -7095,7 +7096,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118458904665333980": true,
         "2118459158609690972": false,
         "2118461410242125845": true,
         "2118720688349659268": true,
@@ -7114,7 +7114,8 @@
         "2119827430592438400": false,
         "2119846821602443321": true,
         "2120295855114932288": true,
-        "2120299018030833889": false
+        "2120299018030833889": false,
+        "2120299701735948379": false
       },
       "user_id": "809191427645181952"
     }
@@ -7137,5 +7138,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T23:36:29+00:00"
+  "updated_at": "2026-11-10T23:38:18+00:00"
 }
