@@ -4601,7 +4601,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120287061706223722",
+      "last_id": "2120291291036827676",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4637,12 +4637,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-09T19:57:53.000Z",
-          "id": "2119882186065105310",
-          "quoted_text": "ANTHROPIC TO LAUNCH NASDAQ IPO TUESDAY MORNING: IFR",
-          "text": "uhh like tomorrow ? https://t.co/43J3po2gXh"
-        },
         {
           "created_at": "2026-11-09T21:17:41.000Z",
           "id": "2119902268522651923",
@@ -4759,10 +4753,15 @@
           "id": "2120281631135285392",
           "reply_to_id": "2120260820168847633",
           "text": "if you feel like the walls are caving in just start watching stream every morning"
+        },
+        {
+          "created_at": "2026-11-10T23:03:31.000Z",
+          "id": "2120291291036827676",
+          "quoted_text": "*HOUSE VOTES TO BLOCK IMPEACHMENT ARTICLES AGAINST HEGSETH",
+          "text": "they\u2019re calling it the forever war https://t.co/GAuOD2IRpS"
         }
       ],
       "reads": {
-        "2119882186065105310": "No call",
         "2119902268522651923": "No call",
         "2119904285169263051": "No call",
         "2120131790115311654": "No call",
@@ -4776,7 +4775,8 @@
         "2120251622064603330": "No call",
         "2120254977343885468": "No call",
         "2120255372556673442": "No call",
-        "2120261996478169142": "No call"
+        "2120261996478169142": "No call",
+        "2120291291036827676": "No call"
       },
       "replies": [
         {
@@ -4871,10 +4871,6 @@
         }
       ],
       "threads": {
-        "2115423258850033813": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115423821645963569": {
           "alerted": [],
           "self_replies": 0
@@ -5272,10 +5268,13 @@
         "2120261996478169142": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120291291036827676": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2119882186065105310": true,
         "2119902268522651923": true,
         "2119904285169263051": false,
         "2119919834645610501": false,
@@ -5309,7 +5308,8 @@
         "2120281631135285392": false,
         "2120282874767356002": false,
         "2120283237172060483": false,
-        "2120287061706223722": false
+        "2120287061706223722": false,
+        "2120291291036827676": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7118,5 +7118,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T23:02:18+00:00"
+  "updated_at": "2026-11-10T23:04:21+00:00"
 }
