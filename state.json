@@ -955,12 +955,12 @@
         },
         "sol": {
           "market": "crypto",
-          "post_id": "2118511108692791731",
-          "reason": "Says the original single-chain Solana thesis still makes sense and 'we're getting closer to the vision', which matches his recorded bullish SOL view.",
+          "post_id": "2120009419820007926",
+          "reason": "The chapter titles 'SOL monthly bearish signals and $125 resistance' and 'daily weakness' point to a bearish SOL read, which differs from the recorded bullish view.",
           "scope": "sol",
-          "since": "2026-10-09",
-          "stance": "bullish",
-          "updated_at": "2026-11-06T01:09:43.000Z"
+          "since": "2026-11-10",
+          "stance": "bearish",
+          "updated_at": "2026-11-10T04:23:28.000Z"
         },
         "stocks/macro": {
           "market": "stocks",
@@ -1008,7 +1008,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2119992237069418543",
+      "last_id": "2120009419820007926",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1108,12 +1108,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-07T02:15:00.000Z",
-          "id": "2118889925693382724",
-          "reply_to_id": "2118889859762839868",
-          "text": "@elchefdesol actually i lied i think friday"
-        },
         {
           "created_at": "2026-11-07T10:27:59.000Z",
           "id": "2119013989250379937",
@@ -1246,6 +1240,14 @@
             "https://pbs.twimg.com/media/HWuMu1NXgAAzAwI.jpg"
           ],
           "text": "https://t.co/UnWQpD76E2"
+        },
+        {
+          "created_at": "2026-11-10T04:23:28.000Z",
+          "id": "2120009419820007926",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2120008853874184192/img/oeTBmPdxhja4YL7W.jpg"
+          ],
+          "text": "SOL, BTC and ZEC market breakdown\n\n0:00 - SOL monthly bearish signals and $125 resistance\n9:40 - weekly breakdown and key demand\n20:05 - SOL bottom scenarios and daily weakness\n30:00 - SOL 4h setup and BTC levels\n40:35 - crypto underperformance and the BTC/ZEC outlook\n\nnovember 9th, 2026"
         }
       ],
       "reads": {
@@ -1266,7 +1268,8 @@
         "2119755882548584491": "No call",
         "2119821655975629247": "No call: bearish on btc (same view as before)",
         "2119834776026661177": "No call",
-        "2119942810338275657": "No call"
+        "2119942810338275657": "No call",
+        "2120009419820007926": "VIEW bearish on sol"
       },
       "replies": [
         {
@@ -1364,10 +1367,6 @@
         }
       ],
       "threads": {
-        "2117449038979072008": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117593142824436045": {
           "alerted": [],
           "self_replies": 0
@@ -1781,10 +1780,15 @@
         "2119942810338275657": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120009419820007926": {
+          "alerted": [
+            "bias:sol:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118889925693382724": false,
         "2119013989250379937": true,
         "2119014252178813292": true,
         "2119021428628762970": true,
@@ -1818,7 +1822,8 @@
         "2119834776026661177": true,
         "2119942810338275657": false,
         "2119991966658130248": false,
-        "2119992237069418543": false
+        "2119992237069418543": false,
+        "2120009419820007926": true
       },
       "user_id": "973261472"
     },
@@ -7107,5 +7112,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-09",
-  "updated_at": "2026-11-10T03:54:23+00:00"
+  "updated_at": "2026-11-10T04:24:25+00:00"
 }
