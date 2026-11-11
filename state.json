@@ -1010,7 +1010,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120492437034488221",
+      "last_id": "2120493557622661458",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1126,15 +1126,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T01:02:02.000Z",
-          "id": "2120321117219172427",
-          "images": [
-            "https://pbs.twimg.com/media/HWzkzLPX0AAr3SZ.jpg"
-          ],
-          "quoted_text": "Since I started bagworking real memes my followercount and engages started to go up again.\n\nThe market is tired of new pairs.\n\nWe must reward communities and bagworkers again. https://t.co/7tUJapkdjX",
-          "text": "make bagworking great again https://t.co/OrAAFSCabv https://t.co/IKHCevqGl7"
-        },
         {
           "created_at": "2026-11-11T01:11:00.000Z",
           "id": "2120323372328648907",
@@ -1265,10 +1256,17 @@
           ],
           "quoted_text": "believe solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump will revive good vibes onchain\n\npfp cult -> easy to raid and easy to extend community\nchinese -> combining west & east whales to bid onchain\n\nextremely normie friendly interacting/pfping & fulfilling gcr prophesized cat coin thesis\n\neveryone has been complaining about new pairs and how there's too many coins and nobody bids good memes with good communities anymore, believe this one can unite large portion of CT, also callouts and social",
           "text": "ni hao cat https://t.co/rRg9h4g87o https://t.co/PFzXR0WzSk"
+        },
+        {
+          "created_at": "2026-11-11T12:27:15.000Z",
+          "id": "2120493557622661458",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2120493378060353536/img/Z_TcNbn4aqtxBTpH.jpg"
+          ],
+          "text": "the biggest concern for me is what happens if equities enter a prolonged downtrend, crypto has already been relatively weak compared to other risk assets, and a broader market correction could put even more pressure on prices\n\ni'm watching the summer lows and previous range lows closely"
         }
       ],
       "reads": {
-        "2120321117219172427": "No call",
         "2120323372328648907": "No call",
         "2120323819126554705": "No call",
         "2120324070038184064": "No call",
@@ -1286,7 +1284,8 @@
         "2120490276569415919": "No call",
         "2120490874568429613": "No call",
         "2120492208558121208": "VIEW bullish on solana memes",
-        "2120492437034488221": "No call"
+        "2120492437034488221": "No call",
+        "2120493557622661458": "No call: bearish on crypto market (60%, too unsure)"
       },
       "replies": [
         {
@@ -1381,10 +1380,6 @@
         }
       ],
       "threads": {
-        "2118332785656004757": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118334729355399533": {
           "alerted": [],
           "self_replies": 0
@@ -1803,10 +1798,13 @@
         "2120492437034488221": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120493557622661458": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120321117219172427": true,
         "2120323372328648907": false,
         "2120323819126554705": true,
         "2120324070038184064": true,
@@ -1840,7 +1838,8 @@
         "2120490979656655097": false,
         "2120491095662756296": false,
         "2120492208558121208": true,
-        "2120492437034488221": true
+        "2120492437034488221": true,
+        "2120493557622661458": true
       },
       "user_id": "973261472"
     },
@@ -7127,5 +7126,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T12:24:29+00:00"
+  "updated_at": "2026-11-11T12:28:27+00:00"
 }
