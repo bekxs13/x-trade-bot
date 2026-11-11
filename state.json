@@ -4627,7 +4627,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120588429046247424",
+      "last_id": "2120589219928420568",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4663,12 +4663,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T13:36:30.000Z",
-          "id": "2120148596678877297",
-          "quoted_text": "BREAKING: @X NOW LETS USERS TAP ANY @solana TOKEN CASHTAG AND TRADE IT ON @fomo https://t.co/UwoAjdZ2IE",
-          "text": "X is genuinely the holy grail of finance partnerships https://t.co/GpJoQ11gQH"
-        },
         {
           "created_at": "2026-11-10T13:41:22.000Z",
           "id": "2120149819339448779",
@@ -4779,10 +4773,15 @@
           "created_at": "2026-11-11T18:44:14.000Z",
           "id": "2120588429046247424",
           "text": "trader beef is AWESOME the only purpose to publicly post about the market is to victory lap winning trades. forget price action this place is ALIVE"
+        },
+        {
+          "created_at": "2026-11-11T18:46:46.000Z",
+          "id": "2120589064789488114",
+          "reply_to_id": "2120588429046247424",
+          "text": "FLOOD thanks for the hundred gifted solana doomer THANK YOU for the hope core of +28mm from the phone i LOVE IT HERE YOU WILL NEVER CONVINCE ME MY FAVORITE PLACE ON EARTH IS A ROTTEN HELLSCAPE, it\u2019s not me but YOU THAT IS  A MISERABLE SWINE, i\u2019m here for LIFE because this beautiful utopia makes me feel ALIVE if you\u2019re having a bad time YOU ARE BAD AT SOCIAL MEDIA AND SHOULD FIND SOME NEW IDOLS to inspire A WILL TO DO MORE. journalism (now fintwit) has ALWAYS been miserable and ran by BRAINLETS find some irony, go make some money and DUNK ON EVERYONE"
         }
       ],
       "reads": {
-        "2120148596678877297": "No call",
         "2120149819339448779": "No call",
         "2120169629939040727": "No call",
         "2120202267261296811": "No call",
@@ -4797,15 +4796,10 @@
         "2120296323551256874": "No call",
         "2120511031340384488": "No call",
         "2120512084853047610": "No call",
-        "2120588429046247424": "No call"
+        "2120588429046247424": "No call",
+        "2120589064789488114": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-10T21:09:28.000Z",
-          "id": "2120262589913370820",
-          "reply_to_id": "2120261935786873221",
-          "text": "@0xMerp unfortunate"
-        },
         {
           "created_at": "2026-11-10T21:09:56.000Z",
           "id": "2120262705005343182",
@@ -4889,6 +4883,12 @@
           "id": "2120585273960509598",
           "reply_to_id": "2120585038588748033",
           "text": "@matt_willemsen \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d"
+        },
+        {
+          "created_at": "2026-11-11T18:47:23.000Z",
+          "id": "2120589219928420568",
+          "reply_to_id": "2120588671837757910",
+          "text": "@ThinkingUSD we\u2019re still waiting on that hype pnl , thinking usd"
         }
       ],
       "threads": {
@@ -5292,11 +5292,10 @@
         },
         "2120588429046247424": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2120148596678877297": true,
         "2120149819339448779": true,
         "2120169629939040727": false,
         "2120202267261296811": false,
@@ -5310,7 +5309,6 @@
         "2120259859862147581": false,
         "2120260820168847633": true,
         "2120261996478169142": false,
-        "2120262589913370820": false,
         "2120262705005343182": false,
         "2120268628448686352": false,
         "2120271250769777069": false,
@@ -5330,7 +5328,9 @@
         "2120512084853047610": true,
         "2120553681573614063": true,
         "2120585273960509598": false,
-        "2120588429046247424": false
+        "2120588429046247424": false,
+        "2120589064789488114": true,
+        "2120589219928420568": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7132,5 +7132,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T18:46:24+00:00"
+  "updated_at": "2026-11-11T18:48:23+00:00"
 }
