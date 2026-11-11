@@ -1010,7 +1010,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120562627621380222",
+      "last_id": "2120562969071239665",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1126,12 +1126,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T04:31:52.000Z",
-          "id": "2120373922537549973",
-          "reply_to_id": "2120373686976893330",
-          "text": "@lBattleRhino @Tradermayne pepe chart also looks good atm? for some reason?"
-        },
         {
           "created_at": "2026-11-11T04:58:11.000Z",
           "id": "2120380547621163210",
@@ -1264,6 +1258,15 @@
           "created_at": "2026-11-11T17:01:43.000Z",
           "id": "2120562627621380222",
           "text": "https://t.co/AS922TYazm"
+        },
+        {
+          "created_at": "2026-11-11T17:03:04.000Z",
+          "id": "2120562969071239665",
+          "images": [
+            "https://pbs.twimg.com/media/HW3Ax8xWMAABPTn.jpg"
+          ],
+          "quoted_text": "the coldest one breathing @blknoiz06 called out solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump at $1.5m mcap [now at ~$24M mcap].\n\ncurrent peak at $28M, does it go higher?\n\nHis tailers reached a peak of $830K in PnL.\n\nonly on the pumpfun app. https://t.co/YpRyOWKxVI",
+          "text": "lock in fn https://t.co/MrsKadDCse https://t.co/AjkZQk3wDI"
         }
       ],
       "reads": {
@@ -1285,7 +1288,8 @@
         "2120528279186915620": "No call",
         "2120529080261165227": "No call",
         "2120557247843487785": "No call: bullish on solana memes (same view as before)",
-        "2120562627621380222": "No call"
+        "2120562627621380222": "No call",
+        "2120562969071239665": "No call"
       },
       "replies": [
         {
@@ -1383,12 +1387,6 @@
         }
       ],
       "threads": {
-        "2118479625009721663": {
-          "alerted": [
-            "bias:zec:bullish"
-          ],
-          "self_replies": 0
-        },
         "2118482799456108930": {
           "alerted": [],
           "self_replies": 0
@@ -1805,10 +1803,13 @@
         "2120562627621380222": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120562969071239665": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120373922537549973": true,
         "2120380547621163210": true,
         "2120384030436708849": true,
         "2120384900800884854": true,
@@ -1842,7 +1843,8 @@
         "2120557247843487785": true,
         "2120560705011077215": false,
         "2120562479226921253": false,
-        "2120562627621380222": false
+        "2120562627621380222": false,
+        "2120562969071239665": true
       },
       "user_id": "973261472"
     },
@@ -6382,7 +6384,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120553399452143688",
+      "last_id": "2120563000012832946",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6418,11 +6420,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T17:07:38.000Z",
-          "id": "2118752177610994128",
-          "text": "All is well in the world:\n\n@tradingview shipped another absolutely terrible mobile update"
-        },
         {
           "created_at": "2026-11-06T17:37:29.000Z",
           "id": "2118759692121833668",
@@ -6539,10 +6536,17 @@
           "created_at": "2026-11-11T16:25:03.000Z",
           "id": "2120553399452143688",
           "text": "Who's building the right wing Jane Street"
+        },
+        {
+          "created_at": "2026-11-11T17:03:12.000Z",
+          "id": "2120563000012832946",
+          "images": [
+            "https://pbs.twimg.com/media/HW3Azu7WQAA817v.jpg"
+          ],
+          "text": "Neon Genesis Evangelion https://t.co/b2GhkJICwY"
         }
       ],
       "reads": {
-        "2118752177610994128": "No call",
         "2118759692121833668": "No call",
         "2118777378042232977": "No call: bullish on CRWV (55%, too unsure)",
         "2118790632181567672": "No call",
@@ -6559,7 +6563,8 @@
         "2120543237341646968": "No call",
         "2120543529176850788": "Read together with the post it replies to",
         "2120546860691845585": "No call",
-        "2120553399452143688": "No call"
+        "2120553399452143688": "No call",
+        "2120563000012832946": "No call"
       },
       "replies": [
         {
@@ -6654,10 +6659,6 @@
         }
       ],
       "threads": {
-        "2110500007421890959": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110549994738733342": {
           "alerted": [],
           "self_replies": 0
@@ -7071,6 +7072,10 @@
         "2120553399452143688": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120563000012832946": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7088,7 +7093,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118752177610994128": false,
         "2118759692121833668": false,
         "2118777378042232977": true,
         "2118790632181567672": true,
@@ -7108,7 +7112,8 @@
         "2120543529176850788": true,
         "2120546317898227979": true,
         "2120546860691845585": true,
-        "2120553399452143688": false
+        "2120553399452143688": false,
+        "2120563000012832946": false
       },
       "user_id": "809191427645181952"
     }
@@ -7131,5 +7136,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T17:02:30+00:00"
+  "updated_at": "2026-11-11T17:04:28+00:00"
 }
