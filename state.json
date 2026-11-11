@@ -6381,7 +6381,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120563000012832946",
+      "last_id": "2120567064611951044",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6417,11 +6417,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T17:37:29.000Z",
-          "id": "2118759692121833668",
-          "text": "\"I avoid bad luck by being patient\"\n\n- Jay Gould"
-        },
         {
           "created_at": "2026-11-06T18:47:46.000Z",
           "id": "2118777378042232977",
@@ -6541,10 +6536,14 @@
             "https://pbs.twimg.com/media/HW3Azu7WQAA817v.jpg"
           ],
           "text": "Neon Genesis Evangelion https://t.co/b2GhkJICwY"
+        },
+        {
+          "created_at": "2026-11-11T17:19:21.000Z",
+          "id": "2120567064611951044",
+          "text": "Good decisions compound in trading.\n\nPrudent balance sheet and portfolio management = excess capital to capitalize on special situations.\n\nPositive trading rPnL = more capital to speculatively hedge and protect downside // crystallize gains.\n\nStrict position sizing and risk/leverage controls ensure you can never blow up, always giving you a seat at the table.\n\nGOOD TRADES COMPOUND"
         }
       ],
       "reads": {
-        "2118759692121833668": "No call",
         "2118777378042232977": "No call: bullish on CRWV (55%, too unsure)",
         "2118790632181567672": "No call",
         "2119274113692844161": "No call",
@@ -6561,7 +6560,8 @@
         "2120543529176850788": "Read together with the post it replies to",
         "2120546860691845585": "No call",
         "2120553399452143688": "No call",
-        "2120563000012832946": "No call"
+        "2120563000012832946": "No call",
+        "2120567064611951044": "No call"
       },
       "replies": [
         {
@@ -6656,10 +6656,6 @@
         }
       ],
       "threads": {
-        "2110549994738733342": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110589117792735525": {
           "alerted": [],
           "self_replies": 0
@@ -7073,6 +7069,10 @@
         "2120563000012832946": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120567064611951044": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7090,7 +7090,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118759692121833668": false,
         "2118777378042232977": true,
         "2118790632181567672": true,
         "2119224497953755287": false,
@@ -7110,7 +7109,8 @@
         "2120546317898227979": true,
         "2120546860691845585": true,
         "2120553399452143688": false,
-        "2120563000012832946": false
+        "2120563000012832946": false,
+        "2120567064611951044": true
       },
       "user_id": "809191427645181952"
     }
@@ -7133,5 +7133,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T17:06:20+00:00"
+  "updated_at": "2026-11-11T17:20:24+00:00"
 }
