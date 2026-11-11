@@ -2267,7 +2267,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120309513198653761",
+      "last_id": "2120313070702747817",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2287,12 +2287,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T15:24:46.000Z",
-          "id": "2118726291905999055",
-          "quoted_text": "Nate Silver doubts that one of the best election forecasters in the world is a profitable trader. Guys like @PoliticalKiwi ,@iabvek  @nonsenseking , @tehspeleeng , @carnitastaco , and @LanceupperPI  are my heroes when it comes to election modeling. https://t.co/2TCVnwrstV",
-          "text": "this is also just nonsense? if you have huge influence on the market that's a good thing! you trade first, publish your public forecast (with disclosures that you have positions on) and watch the profits roll in https://t.co/TzaGynqeTK"
-        },
         {
           "created_at": "2026-11-07T01:13:40.000Z",
           "id": "2118874492202033161",
@@ -2418,10 +2412,17 @@
             "https://pbs.twimg.com/media/HWzMNIMWwAAxaCe.jpg"
           ],
           "text": "so dark so early https://t.co/twzJ6Hn6eD"
+        },
+        {
+          "created_at": "2026-11-11T00:30:04.000Z",
+          "id": "2120313070702747817",
+          "images": [
+            "https://pbs.twimg.com/media/HWzdcaNWoAA0u1V.jpg"
+          ],
+          "text": "chris bauer was 35 years old when playing frank sobatka in the wire https://t.co/mqCF3D8VqV"
         }
       ],
       "reads": {
-        "2118726291905999055": "No call",
         "2118874492202033161": "No call",
         "2118885721016504634": "No call",
         "2118922051830329732": "No call",
@@ -2439,7 +2440,8 @@
         "2120229705919889835": "No call",
         "2120231159879622899": "No call",
         "2120266037585461421": "No call",
-        "2120294077296156748": "No call"
+        "2120294077296156748": "No call",
+        "2120313070702747817": "No call"
       },
       "replies": [
         {
@@ -2538,10 +2540,6 @@
         }
       ],
       "threads": {
-        "2114764836647129096": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114783014597366013": {
           "alerted": [],
           "self_replies": 0
@@ -2939,10 +2937,13 @@
         "2120294077296156748": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120313070702747817": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118726291905999055": true,
         "2118874492202033161": false,
         "2118885721016504634": true,
         "2118922051830329732": false,
@@ -2976,7 +2977,8 @@
         "2120294077296156748": false,
         "2120303516296065283": false,
         "2120305805555888233": false,
-        "2120309513198653761": false
+        "2120309513198653761": false,
+        "2120313070702747817": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7152,5 +7154,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T00:26:26+00:00"
+  "updated_at": "2026-11-11T00:30:27+00:00"
 }
