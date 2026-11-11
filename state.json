@@ -6343,12 +6343,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2111577993311117630",
-          "reason": "'Admin didn't even try and save market this weekend' plus 'hope everyone has plenty of cash' continues his bearish calls, after Friday's 'reshort Monday' post and the 1987 crash reference. This matches his recorded bearish views on btc and alts.",
+          "post_id": "2120308472390541751",
+          "reason": "\"Short term, crypto may be uninvestable\" on regulatory fears, though he expects volatility to bring buying opportunities and is bullish BTC longer term.",
           "scope": "crypto market",
           "since": "2026-10-17",
           "stance": "bearish",
-          "updated_at": "2026-10-17T21:59:59.000Z"
+          "updated_at": "2026-11-11T00:11:47.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -6396,7 +6396,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120299701735948379",
+      "last_id": "2120308472390541751",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6432,12 +6432,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T21:43:17.000Z",
-          "id": "2118459158609690972",
-          "reply_to_id": "2118458904665333980",
-          "text": "Check up on your friends, be there for people when they're at their lowest and be a good human. It costs almost nothing.\n\n\"Don't fucking dance\""
-        },
         {
           "created_at": "2026-11-05T21:52:13.000Z",
           "id": "2118461410242125845",
@@ -6554,10 +6548,14 @@
           "id": "2120299701735948379",
           "reply_to_id": "2120295855114932288",
           "text": "It's crazy to have such talentless people trying to figure out their crypto integrations while it's still close to 10% of their earnings."
+        },
+        {
+          "created_at": "2026-11-11T00:11:47.000Z",
+          "id": "2120308472390541751",
+          "text": "We've derisked quite a bit. After derisking higher we kept re-adding. That has completely stopped.\n\nThis isn't purely an alpha based call. I don't have a good read on the market, we're up a lot into year end and want to crystallize gains, and I'm worried about what's coming.\n\nShort term, crypto may be uninvestable. Democrats are probably going Gensler 2.0. There are plenty of nasty outcomes:\n\n- DATs made illegal and forced to unwind\n-Warren Banking Oversight\n- Protocols pushing memecoins getting prosecuted\n- Privacy tokens treated as hostile\n\nMid to long term, this is obviously a net good for Bitcoin. Democrats will likely accelerate spending and fiat debasement, and the industry may come out better once it gets \"cleaned up.\"\n\nExpect a tremendous amount of volatility. It will present incredible buying opportunities.\n\nNote: The democrats cannot replace the CFTC chair who has been ruling favorably for stock perps and DeFi generally, so some assets may not be totally evisercated."
         }
       ],
       "reads": {
-        "2118459158609690972": "Read together with the post it replies to",
         "2118461410242125845": "No call",
         "2118720688349659268": "TRADE LONG BTC",
         "2118722030774485244": "No call: long BTC (already called)",
@@ -6573,7 +6571,8 @@
         "2119846821602443321": "No call",
         "2120295855114932288": "No call",
         "2120299018030833889": "No call",
-        "2120299701735948379": "No call"
+        "2120299701735948379": "No call",
+        "2120308472390541751": "TRADE TRIM BTC"
       },
       "replies": [
         {
@@ -6668,10 +6667,6 @@
         }
       ],
       "threads": {
-        "2110424262620103125": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110429740612075788": {
           "alerted": [],
           "self_replies": 0
@@ -7083,6 +7078,12 @@
         "2120299018030833889": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120308472390541751": {
+          "alerted": [
+            "trade:BTC:trim"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7101,7 +7102,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118459158609690972": false,
         "2118461410242125845": true,
         "2118720688349659268": true,
         "2118722030774485244": true,
@@ -7120,7 +7120,8 @@
         "2119846821602443321": true,
         "2120295855114932288": true,
         "2120299018030833889": false,
-        "2120299701735948379": false
+        "2120299701735948379": false,
+        "2120308472390541751": true
       },
       "user_id": "809191427645181952"
     }
@@ -7143,5 +7144,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T00:02:15+00:00"
+  "updated_at": "2026-11-11T00:12:27+00:00"
 }
