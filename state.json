@@ -1006,7 +1006,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120321117219172427",
+      "last_id": "2120321568920461705",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1307,18 +1307,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-10T22:41:32.000Z",
-          "id": "2120285759886307797",
-          "reply_to_id": "2120283774412111932",
-          "text": "@rvttrades lets get it"
-        },
-        {
-          "created_at": "2026-11-10T22:57:59.000Z",
-          "id": "2120289896711499918",
-          "reply_to_id": "2120285694199574891",
-          "text": "@imjapt funny how that works innit"
-        },
-        {
           "created_at": "2026-11-10T23:01:31.000Z",
           "id": "2120290788634452184",
           "reply_to_id": "2120126685567754644",
@@ -1401,6 +1389,18 @@
           "id": "2120318291256435038",
           "reply_to_id": "2120309975847227572",
           "text": "@slingoorio i wish no harm to you brother and hope you &amp; your family are safe, but you are still a farming faggot, dont mention my name ever again"
+        },
+        {
+          "created_at": "2026-11-11T01:03:21.000Z",
+          "id": "2120321447348293741",
+          "reply_to_id": "2120301204915777987",
+          "text": "@berboche you guys really are never going to let me live that down are you I'M SORRY OK"
+        },
+        {
+          "created_at": "2026-11-11T01:03:50.000Z",
+          "id": "2120321568920461705",
+          "reply_to_id": "2120315498894336320",
+          "text": "@Jxjethro i do."
         }
       ],
       "threads": {
@@ -1839,8 +1839,6 @@
         "2120230903637004462": false,
         "2120283158390231331": true,
         "2120285364967608658": false,
-        "2120285759886307797": false,
-        "2120289896711499918": false,
         "2120290788634452184": false,
         "2120293968013607098": false,
         "2120294055955378517": false,
@@ -1862,7 +1860,9 @@
         "2120313973207953799": false,
         "2120317920429445227": false,
         "2120318291256435038": false,
-        "2120321117219172427": true
+        "2120321117219172427": true,
+        "2120321447348293741": false,
+        "2120321568920461705": false
       },
       "user_id": "973261472"
     },
@@ -7149,5 +7149,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T01:02:30+00:00"
+  "updated_at": "2026-11-11T01:04:19+00:00"
 }
