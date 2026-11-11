@@ -6372,7 +6372,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120652331276779817",
+      "last_id": "2120652998020153735",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6408,11 +6408,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T15:29:58.000Z",
-          "id": "2120539539467030683",
-          "text": "Good morning Grokbot my Silicon friend"
-        },
         {
           "created_at": "2026-11-11T15:44:40.000Z",
           "id": "2120543237341646968",
@@ -6518,10 +6513,15 @@
           "created_at": "2026-11-11T22:58:10.000Z",
           "id": "2120652331276779817",
           "text": "New head of NVDA is going to be some guy named Ross Keller who's served on the national security council for 20 years with deep expertise in Taiwan political affairs and a China hawk.\n\nSpooks in control"
+        },
+        {
+          "created_at": "2026-11-11T23:00:49.000Z",
+          "id": "2120652998020153735",
+          "reply_to_id": "2120652331276779817",
+          "text": "Nationalize, but don't make it too obvious"
         }
       ],
       "reads": {
-        "2120539539467030683": "No call",
         "2120543237341646968": "No call",
         "2120543529176850788": "Read together with the post it replies to",
         "2120546860691845585": "No call",
@@ -6538,7 +6538,8 @@
         "2120642725154263271": "No call",
         "2120643987513954484": "No call",
         "2120645516325458002": "No call",
-        "2120652331276779817": "No call"
+        "2120652331276779817": "No call",
+        "2120652998020153735": "No call"
       },
       "replies": [
         {
@@ -7049,7 +7050,7 @@
         },
         "2120652331276779817": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
@@ -7067,7 +7068,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2120539539467030683": false,
         "2120543237341646968": true,
         "2120543529176850788": true,
         "2120546317898227979": true,
@@ -7087,7 +7087,8 @@
         "2120643987513954484": false,
         "2120645516325458002": false,
         "2120646674443907075": false,
-        "2120652331276779817": true
+        "2120652331276779817": true,
+        "2120652998020153735": false
       },
       "user_id": "809191427645181952"
     }
@@ -7110,5 +7111,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T23:00:27+00:00"
+  "updated_at": "2026-11-11T23:02:24+00:00"
 }
