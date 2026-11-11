@@ -1010,7 +1010,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120628070537105487",
+      "last_id": "2120642083254046950",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1126,15 +1126,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T12:16:35.000Z",
-          "id": "2120490874568429613",
-          "images": [
-            "https://pbs.twimg.com/media/HW1_NPUWAAAEH53.jpg"
-          ],
-          "quoted_text": "mihao is the only coin I\u2019ve seen tons of raiders and a strong community for in a long time, deserves to go high and anyone hating on it is being a gay",
-          "text": "when the trenches needed it the most https://t.co/VqVs9TunzP https://t.co/Qvibk5Ra2c"
-        },
         {
           "created_at": "2026-11-11T12:21:54.000Z",
           "id": "2120492208558121208",
@@ -1264,10 +1255,14 @@
           "created_at": "2026-11-11T20:51:17.000Z",
           "id": "2120620399629377874",
           "text": "really believe custom meme-pairs are going to be the trenches own infinite flywheel"
+        },
+        {
+          "created_at": "2026-11-11T22:17:26.000Z",
+          "id": "2120642083254046950",
+          "text": "knocking hundreds of billions off your company's market cap cos you couldnt stop fuckin hoes is mad funny ngl"
         }
       ],
       "reads": {
-        "2120490874568429613": "No call",
         "2120492208558121208": "VIEW bullish on solana memes",
         "2120492437034488221": "No call",
         "2120493557622661458": "No call: bearish on crypto market (60%, too unsure)",
@@ -1286,7 +1281,8 @@
         "2120595582901158058": "No call",
         "2120616061854715904": "No call",
         "2120617794488127516": "No call",
-        "2120620399629377874": "No call"
+        "2120620399629377874": "No call",
+        "2120642083254046950": "No call"
       },
       "replies": [
         {
@@ -1390,10 +1386,6 @@
         }
       ],
       "threads": {
-        "2118514805107552258": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118529539014107400": {
           "alerted": [
             "trade:SOL:short"
@@ -1806,10 +1798,13 @@
         "2120620399629377874": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120642083254046950": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120490874568429613": true,
         "2120492208558121208": true,
         "2120492437034488221": true,
         "2120493557622661458": true,
@@ -1843,7 +1838,8 @@
         "2120616061854715904": false,
         "2120617794488127516": true,
         "2120620399629377874": true,
-        "2120628070537105487": true
+        "2120628070537105487": true,
+        "2120642083254046950": true
       },
       "user_id": "973261472"
     },
@@ -4618,7 +4614,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120641638556963199",
+      "last_id": "2120642188673753426",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4794,12 +4790,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-10T22:24:43.000Z",
-          "id": "2120281525589590154",
-          "reply_to_id": "2120261912692711636",
-          "text": "@HouseExtractor start watching stream i got you"
-        },
-        {
           "created_at": "2026-11-10T22:30:04.000Z",
           "id": "2120282874767356002",
           "reply_to_id": "2120279460926947413",
@@ -4882,6 +4872,12 @@
           "id": "2120641638556963199",
           "reply_to_id": "2120641595053678902",
           "text": "@marginsmall lol"
+        },
+        {
+          "created_at": "2026-11-11T22:17:52.000Z",
+          "id": "2120642188673753426",
+          "reply_to_id": "2120642083254046950",
+          "text": "@blknoiz06 WHATS THE MONEY EVEN FOR OTHERWISE"
         }
       ],
       "threads": {
@@ -5295,7 +5291,6 @@
         "2120259859862147581": false,
         "2120260820168847633": true,
         "2120261996478169142": false,
-        "2120281525589590154": false,
         "2120281631135285392": false,
         "2120282874767356002": false,
         "2120283237172060483": false,
@@ -5323,7 +5318,8 @@
         "2120638901740278045": true,
         "2120640023234003182": true,
         "2120641490414350659": false,
-        "2120641638556963199": false
+        "2120641638556963199": false,
+        "2120642188673753426": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7123,5 +7119,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T22:16:21+00:00"
+  "updated_at": "2026-11-11T22:18:25+00:00"
 }
