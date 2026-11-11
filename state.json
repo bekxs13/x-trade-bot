@@ -4613,7 +4613,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120645115320655949",
+      "last_id": "2120646293773000962",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4649,12 +4649,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T20:40:47.000Z",
-          "id": "2120255372556673442",
-          "reply_to_id": "2120254977343885468",
-          "text": "it's like technical analysis. If a support line breaks, just draw a new one."
-        },
         {
           "created_at": "2026-11-10T20:47:12.000Z",
           "id": "2120256985979326693",
@@ -4772,10 +4766,14 @@
           ],
           "quoted_text": "https://t.co/1TXPSuowgv https://t.co/EPbTZR6BHF",
           "text": "oh my god https://t.co/Zb1CxZ2k3H https://t.co/3pKbLhofNh"
+        },
+        {
+          "created_at": "2026-11-11T22:34:10.000Z",
+          "id": "2120646293773000962",
+          "text": "BREAKING: JENSEN OUT AS NVDA CEO https://t.co/STfv4ZgGzd"
         }
       ],
       "reads": {
-        "2120255372556673442": "No call",
         "2120261996478169142": "No call",
         "2120291291036827676": "No call",
         "2120296323551256874": "No call",
@@ -4788,7 +4786,8 @@
         "2120637627749564856": "No call: bearish on stocks/macro (55%, too unsure)",
         "2120638901740278045": "No call",
         "2120640023234003182": "No call",
-        "2120645115320655949": "No call"
+        "2120645115320655949": "No call",
+        "2120646293773000962": "No call"
       },
       "replies": [
         {
@@ -4883,10 +4882,6 @@
         }
       ],
       "threads": {
-        "2115771367388037504": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115773193545712105": {
           "alerted": [],
           "self_replies": 1
@@ -5284,10 +5279,13 @@
         "2120645115320655949": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120646293773000962": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120255372556673442": true,
         "2120256985979326693": false,
         "2120259859862147581": false,
         "2120260820168847633": true,
@@ -5321,7 +5319,8 @@
         "2120642188673753426": false,
         "2120643039463092326": false,
         "2120644119131480266": false,
-        "2120645115320655949": false
+        "2120645115320655949": false,
+        "2120646293773000962": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6380,7 +6379,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120645516325458002",
+      "last_id": "2120646674443907075",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6416,12 +6415,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T23:36:56.000Z",
-          "id": "2120299701735948379",
-          "reply_to_id": "2120295855114932288",
-          "text": "It's crazy to have such talentless people trying to figure out their crypto integrations while it's still close to 10% of their earnings."
-        },
         {
           "created_at": "2026-11-11T00:11:47.000Z",
           "id": "2120308472390541751",
@@ -6526,10 +6519,15 @@
           "id": "2120645516325458002",
           "reply_to_id": "2120643987513954484",
           "text": "Normies will unironically point to some Warren Buffett YouTube video with him drinking a Coca-Cola and have this fantasy that all uber wealthy people are these lovable grandpas who have immense amounts of empathy for the world and want everyone to do well. \n\nThese people are cartoonishly evil and sociopaths who want to consume everything in sight."
+        },
+        {
+          "created_at": "2026-11-11T22:35:41.000Z",
+          "id": "2120646674443907075",
+          "reply_to_id": "2120643987513954484",
+          "text": "To be clear I\u2019m a /wifeguy/ and think polygamy is degenerate but it is the reality of a lot do these famous/business marriages"
         }
       ],
       "reads": {
-        "2120299701735948379": "No call",
         "2120308472390541751": "TRADE TRIM BTC",
         "2120539539467030683": "No call",
         "2120543237341646968": "No call",
@@ -7076,7 +7074,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2120299701735948379": false,
         "2120308472390541751": true,
         "2120539539467030683": false,
         "2120543237341646968": true,
@@ -7096,7 +7093,8 @@
         "2120642470094753845": false,
         "2120642725154263271": true,
         "2120643987513954484": false,
-        "2120645516325458002": false
+        "2120645516325458002": false,
+        "2120646674443907075": false
       },
       "user_id": "809191427645181952"
     }
@@ -7119,5 +7117,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T22:32:25+00:00"
+  "updated_at": "2026-11-11T22:36:25+00:00"
 }
