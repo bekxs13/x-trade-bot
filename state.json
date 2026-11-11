@@ -1002,7 +1002,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120404478474010916",
+      "last_id": "2120406159815331896",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1118,12 +1118,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T23:36:07.000Z",
-          "id": "2120299495732768824",
-          "quoted_text": "https://t.co/Xfd70roJAj",
-          "text": "pfp up. https://t.co/XF4oz6bOA5"
-        },
         {
           "created_at": "2026-11-10T23:46:59.000Z",
           "id": "2120302231065157805",
@@ -1257,10 +1251,19 @@
           "id": "2120384900800884854",
           "quoted_text": "Ansem is the one shilling this \n\nImagine others big kols like @blknoiz06 all cooperate together \n\nHow parabolic or insane you all think it will go \n\n$mihao in the fucking chat https://t.co/26k5G7LQju",
           "text": "lets work https://t.co/T8b1OVufEJ"
+        },
+        {
+          "created_at": "2026-11-11T06:39:58.000Z",
+          "id": "2120406159815331896",
+          "images": [
+            "https://pbs.twimg.com/media/HW0yKbAXQAABkTF.jpg",
+            "https://pbs.twimg.com/media/HW0yKa6WcAA0fZt.jpg"
+          ],
+          "quoted_text": "cold hard cryptocurrencies https://t.co/mG9jLuIfHE",
+          "text": "https://t.co/cYqWqZnl3V https://t.co/dHwdmCojY5"
         }
       ],
       "reads": {
-        "2120299495732768824": "No call",
         "2120302231065157805": "No call",
         "2120304422790250670": "No call",
         "2120309998723182905": "No call",
@@ -1278,7 +1281,8 @@
         "2120363216043704466": "No call",
         "2120380547621163210": "No call",
         "2120384030436708849": "TRADE TRIM BTC, ETH, SOL shorts \u00b7 VIEW neutral on crypto market",
-        "2120384900800884854": "No call"
+        "2120384900800884854": "No call",
+        "2120406159815331896": "No call"
       },
       "replies": [
         {
@@ -1376,10 +1380,6 @@
         }
       ],
       "threads": {
-        "2118292214832943386": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118297342432440421": {
           "alerted": [],
           "self_replies": 1
@@ -1796,10 +1796,13 @@
         "2120384900800884854": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120406159815331896": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120299495732768824": false,
         "2120302231065157805": false,
         "2120304422790250670": false,
         "2120309998723182905": true,
@@ -1833,7 +1836,8 @@
         "2120403840763576392": false,
         "2120403890546114632": false,
         "2120404235690905840": false,
-        "2120404478474010916": false
+        "2120404478474010916": false,
+        "2120406159815331896": false
       },
       "user_id": "973261472"
     },
@@ -7120,5 +7124,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T06:34:19+00:00"
+  "updated_at": "2026-11-11T06:40:24+00:00"
 }
