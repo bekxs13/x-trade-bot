@@ -1006,7 +1006,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120329486520508812",
+      "last_id": "2120331477124882934",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1122,24 +1122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-09T15:57:21.000Z",
-          "id": "2119821655975629247",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2119819059013541888/img/gLPhB0zuXFAizgIL.jpg"
-          ],
-          "text": "a look at Bitcoin's failed breakout, key support levels, higher-low setups, Ethereum weakness and Gold's recovery\n\n0:00 - BTC failed breakout and downside risk\n9:25 - BTC vs Gold and macro concerns\n15:25 - BTC support, higher lows and entry setups\n32:00 - Weekly bearish signals and key demand\n40:05 - ETH weakness and Gold's recovery\n\nnovember 9th, 2026"
-        },
-        {
-          "created_at": "2026-11-09T16:49:29.000Z",
-          "id": "2119834776026661177",
-          "images": [
-            "https://pbs.twimg.com/media/HWsqehRW8AArWZg.jpg",
-            "https://pbs.twimg.com/media/HWsqehRXEAAMDzP.jpg"
-          ],
-          "quoted_text": "zec weakness ltf showing next direction for majors imo\n\nhas been strong but its also where most upnl is hiding",
-          "text": "https://t.co/Gb7XdMee7s https://t.co/oe9R1XxVgT"
-        },
         {
           "created_at": "2026-11-09T23:58:47.000Z",
           "id": "2119942810338275657",
@@ -1280,11 +1262,22 @@
           "id": "2120324070038184064",
           "quoted_text": "how tf is crypto dead yall not seeing these fuckin mihao niggas? havent seen bag working like this in over a year at least",
           "text": "how tf is crypto dead yall not seeing these fuckin solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump niggas? havent seen bag working like this in over a year at least https://t.co/Z0DxbPEtSk"
+        },
+        {
+          "created_at": "2026-11-11T01:40:36.000Z",
+          "id": "2120330822381441308",
+          "images": [
+            "https://pbs.twimg.com/media/HWztjLxXIAAM6Uj.jpg"
+          ],
+          "text": "it came to me in a dream https://t.co/NwtttWs1ZT"
+        },
+        {
+          "created_at": "2026-11-11T01:43:12.000Z",
+          "id": "2120331477124882934",
+          "text": "\u8b93\u888b\u5b50\u5de5\u4f5c\u518d\u6b21\u8b8a\u5f97\u51fa\u8272"
         }
       ],
       "reads": {
-        "2119821655975629247": "No call: bearish on btc (same view as before)",
-        "2119834776026661177": "No call",
         "2119942810338275657": "No call",
         "2120009419820007926": "VIEW bearish on sol",
         "2120215751751774604": "No call",
@@ -1302,7 +1295,9 @@
         "2120321117219172427": "No call",
         "2120323372328648907": "No call",
         "2120323819126554705": "No call",
-        "2120324070038184064": "No call"
+        "2120324070038184064": "No call",
+        "2120330822381441308": "No call: bullish on memecoins (65%, too unsure)",
+        "2120331477124882934": "No call"
       },
       "replies": [
         {
@@ -1397,16 +1392,6 @@
         }
       ],
       "threads": {
-        "2117963620554616973": {
-          "alerted": [
-            "trade:BTC:short"
-          ],
-          "self_replies": 0
-        },
-        "2118006432519921750": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118006477889609953": {
           "alerted": [],
           "self_replies": 0
@@ -1818,11 +1803,17 @@
         "2120324070038184064": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120330822381441308": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2120331477124882934": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2119821655975629247": true,
-        "2119834776026661177": true,
         "2119942810338275657": false,
         "2120009419820007926": true,
         "2120215751751774604": true,
@@ -1855,7 +1846,9 @@
         "2120324070038184064": true,
         "2120326346677387617": false,
         "2120327777195098182": true,
-        "2120329486520508812": true
+        "2120329486520508812": true,
+        "2120330822381441308": false,
+        "2120331477124882934": true
       },
       "user_id": "973261472"
     },
@@ -7142,5 +7135,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T01:36:20+00:00"
+  "updated_at": "2026-11-11T01:44:31+00:00"
 }
