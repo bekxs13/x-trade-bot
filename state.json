@@ -1010,7 +1010,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120653544973864966",
+      "last_id": "2120656581264335230",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1126,12 +1126,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T12:53:39.000Z",
-          "id": "2120500201844605164",
-          "quoted_text": "make topblasting great again https://t.co/U9iEQyBdGN",
-          "text": "make topblasting great again https://t.co/w87QiQYTB4"
-        },
         {
           "created_at": "2026-11-11T12:58:47.000Z",
           "id": "2120501494638113203",
@@ -1254,10 +1248,14 @@
           ],
           "quoted_text": "New head of NVDA is going to be some guy named Ross Keller who's served on the national security council for 20 years with deep expertise in Taiwan political affairs and a China hawk.\n\nSpooks in control",
           "text": "solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/m92IbBW6jR https://t.co/YBzUIzXPKM"
+        },
+        {
+          "created_at": "2026-11-11T23:14:40.000Z",
+          "id": "2120656482949562381",
+          "text": "thread binked this"
         }
       ],
       "reads": {
-        "2120500201844605164": "No call",
         "2120501494638113203": "No call",
         "2120502471839940718": "No call: bullish on memecoins (same view as before)",
         "2120512025956942157": "No call",
@@ -1276,15 +1274,10 @@
         "2120642272228454457": "No call",
         "2120647975374618806": "No call",
         "2120648455093960827": "No call",
-        "2120653544973864966": "No call"
+        "2120653544973864966": "No call",
+        "2120656482949562381": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-11T15:45:41.000Z",
-          "id": "2120543493797843108",
-          "reply_to_id": "2120543237341646968",
-          "text": "@ThinkingUSD @SoskaKyle smashed it"
-        },
         {
           "created_at": "2026-11-11T16:54:04.000Z",
           "id": "2120560705011077215",
@@ -1377,13 +1370,15 @@
           "id": "2120644534745068018",
           "reply_to_id": "2120644205080895828",
           "text": "@Sp1cytrenches am watching it yea"
+        },
+        {
+          "created_at": "2026-11-11T23:15:03.000Z",
+          "id": "2120656581264335230",
+          "reply_to_id": "2120637636016734695",
+          "text": "@factorydoge69 stop"
         }
       ],
       "threads": {
-        "2118536741892358553": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118553660691279908": {
           "alerted": [],
           "self_replies": 0
@@ -1794,17 +1789,19 @@
         "2120653544973864966": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120656482949562381": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120500201844605164": true,
         "2120501494638113203": false,
         "2120502471839940718": true,
         "2120512025956942157": false,
         "2120518910550458419": true,
         "2120528279186915620": false,
         "2120529080261165227": true,
-        "2120543493797843108": false,
         "2120557247843487785": true,
         "2120560705011077215": false,
         "2120562479226921253": false,
@@ -1831,7 +1828,9 @@
         "2120644534745068018": false,
         "2120647975374618806": false,
         "2120648455093960827": false,
-        "2120653544973864966": true
+        "2120653544973864966": true,
+        "2120656482949562381": false,
+        "2120656581264335230": false
       },
       "user_id": "973261472"
     },
@@ -7109,5 +7108,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T23:14:28+00:00"
+  "updated_at": "2026-11-11T23:16:31+00:00"
 }
