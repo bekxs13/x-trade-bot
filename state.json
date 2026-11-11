@@ -1010,7 +1010,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120510594402942979",
+      "last_id": "2120511141449203925",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1283,18 +1283,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-11T12:17:01.000Z",
-          "id": "2120490979656655097",
-          "reply_to_id": "2120449185358950497",
-          "text": "@StarPlatinum_ wanna bet"
-        },
-        {
-          "created_at": "2026-11-11T12:17:28.000Z",
-          "id": "2120491095662756296",
-          "reply_to_id": "2120490496665485352",
-          "text": "@thedefivillain bookmarked"
-        },
-        {
           "created_at": "2026-11-11T12:38:10.000Z",
           "id": "2120496304132440510",
           "reply_to_id": "2120491799949054135",
@@ -1377,6 +1365,18 @@
           "id": "2120510594402942979",
           "reply_to_id": "2120502569197781113",
           "text": "@sandyXBT &amp; sandy!"
+        },
+        {
+          "created_at": "2026-11-11T13:36:07.000Z",
+          "id": "2120510889388319219",
+          "reply_to_id": "2120510143636946954",
+          "text": "@sadcrissy \ud83d\ude4f\ud83c\udffe\ud83e\udef6\ud83c\udffe"
+        },
+        {
+          "created_at": "2026-11-11T13:37:07.000Z",
+          "id": "2120511141449203925",
+          "reply_to_id": "2120508083881275638",
+          "text": "@whalewatchalert real nigga"
         }
       ],
       "threads": {
@@ -1818,8 +1818,6 @@
         "2120406159815331896": false,
         "2120490276569415919": true,
         "2120490874568429613": true,
-        "2120490979656655097": false,
-        "2120491095662756296": false,
         "2120492208558121208": true,
         "2120492437034488221": true,
         "2120493557622661458": true,
@@ -1839,7 +1837,9 @@
         "2120505667106590820": false,
         "2120506300073205791": false,
         "2120507031735984399": false,
-        "2120510594402942979": false
+        "2120510594402942979": false,
+        "2120510889388319219": false,
+        "2120511141449203925": false
       },
       "user_id": "973261472"
     },
@@ -4612,7 +4612,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120509778392719580",
+      "last_id": "2120511031340384488",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4648,15 +4648,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-09T21:25:42.000Z",
-          "id": "2119904285169263051",
-          "images": [
-            "https://pbs.twimg.com/media/HWtptNtXkAEVtSm.png"
-          ],
-          "reply_to_id": "2119902268522651923",
-          "text": "it was never about being cool https://t.co/xGLCcl8rwW"
-        },
         {
           "created_at": "2026-11-09T22:27:29.000Z",
           "id": "2119919834645610501",
@@ -4768,10 +4759,15 @@
           "id": "2120296323551256874",
           "reply_to_id": "2120202267261296811",
           "text": "it\u2019s genuinely hilarious how many people want to build a \u201ctrading view killer\u201d like why? it\u2019s fucking good it almost always works and the business sucks unless you utterly dominate \n\nidgi"
+        },
+        {
+          "created_at": "2026-11-11T13:36:41.000Z",
+          "id": "2120511031340384488",
+          "quoted_text": "Labubu says he values Anthropic at 1.6-1.8 and it\u2019s trading on the exchanges at 1.4 so I bought",
+          "text": "sick trade https://t.co/7fgy9wIGTd"
         }
       ],
       "reads": {
-        "2119904285169263051": "No call",
         "2120131790115311654": "No call",
         "2120148596678877297": "No call",
         "2120149819339448779": "No call",
@@ -4785,7 +4781,8 @@
         "2120255372556673442": "No call",
         "2120261996478169142": "No call",
         "2120291291036827676": "No call",
-        "2120296323551256874": "No call"
+        "2120296323551256874": "No call",
+        "2120511031340384488": "No call"
       },
       "replies": [
         {
@@ -4880,10 +4877,6 @@
         }
       ],
       "threads": {
-        "2115423821645963569": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115423849747824958": {
           "alerted": [],
           "self_replies": 0
@@ -5281,10 +5274,13 @@
         "2120291291036827676": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120511031340384488": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2119904285169263051": false,
         "2119919834645610501": false,
         "2120131790115311654": true,
         "2120148596678877297": true,
@@ -5318,7 +5314,8 @@
         "2120327058979238205": false,
         "2120500120043327674": false,
         "2120502318953312696": false,
-        "2120509778392719580": false
+        "2120509778392719580": false,
+        "2120511031340384488": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7126,5 +7123,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T13:36:18+00:00"
+  "updated_at": "2026-11-11T13:38:25+00:00"
 }
