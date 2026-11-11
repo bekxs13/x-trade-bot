@@ -1010,7 +1010,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120658712469889089",
+      "last_id": "2120662063538204679",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1127,20 +1127,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-11T13:02:40.000Z",
-          "id": "2120502471839940718",
-          "quoted_text": "this is the essence of crypto\n\nit was never supposed to be bullshit fees or rewards or vamps or whatever\n\nreturn to memes https://t.co/Qm7GqOip2i",
-          "text": "return to memes https://t.co/9ptPidRnrm"
-        },
-        {
-          "created_at": "2026-11-11T13:40:38.000Z",
-          "id": "2120512025956942157",
-          "images": [
-            "https://pbs.twimg.com/media/HW2SbzVXwAAYi67.jpg"
-          ],
-          "text": "my bamboo is extremely stiff rn https://t.co/qZ3XF9sMve"
-        },
-        {
           "created_at": "2026-11-11T14:08:00.000Z",
           "id": "2120518910550458419",
           "images": [
@@ -1252,11 +1238,19 @@
           "created_at": "2026-11-11T23:23:31.000Z",
           "id": "2120658712469889089",
           "text": "who woulda guessed that long amd short nvda would print this month"
+        },
+        {
+          "created_at": "2026-11-11T23:36:25.000Z",
+          "id": "2120661956885700818",
+          "text": "7"
+        },
+        {
+          "created_at": "2026-11-11T23:36:50.000Z",
+          "id": "2120662063538204679",
+          "text": "6"
         }
       ],
       "reads": {
-        "2120502471839940718": "No call: bullish on memecoins (same view as before)",
-        "2120512025956942157": "No call",
         "2120518910550458419": "No call",
         "2120528279186915620": "No call",
         "2120529080261165227": "No call",
@@ -1274,7 +1268,9 @@
         "2120648455093960827": "No call",
         "2120653544973864966": "No call",
         "2120656482949562381": "No call",
-        "2120658712469889089": "No call"
+        "2120658712469889089": "No call",
+        "2120661956885700818": "No call",
+        "2120662063538204679": "No call"
       },
       "replies": [
         {
@@ -1378,14 +1374,6 @@
         }
       ],
       "threads": {
-        "2118553868040888338": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2118580858676449596": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118618737158799569": {
           "alerted": [],
           "self_replies": 0
@@ -1792,11 +1780,17 @@
         "2120658712469889089": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120661956885700818": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2120662063538204679": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120502471839940718": true,
-        "2120512025956942157": false,
         "2120518910550458419": true,
         "2120528279186915620": false,
         "2120529080261165227": true,
@@ -1829,7 +1823,9 @@
         "2120653544973864966": true,
         "2120656482949562381": false,
         "2120656581264335230": false,
-        "2120658712469889089": true
+        "2120658712469889089": true,
+        "2120661956885700818": false,
+        "2120662063538204679": false
       },
       "user_id": "973261472"
     },
@@ -7102,5 +7098,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T23:30:27+00:00"
+  "updated_at": "2026-11-11T23:38:26+00:00"
 }
