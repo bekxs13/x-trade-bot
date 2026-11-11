@@ -894,12 +894,12 @@
         },
         "memecoins": {
           "market": "crypto",
-          "post_id": "2109701956440891883",
-          "reason": "\"one of my strongest convictions this cycle is the social token thesis\" is bullish on influencer-driven memecoins, matching his recorded bullish memecoins view.",
+          "post_id": "2120502471839940718",
+          "reason": "Quoting 'this is the essence of crypto... return to memes' restates his bullish memecoin view.",
           "scope": "memecoins",
           "since": "2026-10-09",
           "stance": "bullish",
-          "updated_at": "2026-10-12T17:45:17.000Z"
+          "updated_at": "2026-11-11T13:02:40.000Z"
         },
         "memory stocks": {
           "market": "stocks",
@@ -1010,7 +1010,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120501893528969470",
+      "last_id": "2120502471839940718",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1126,14 +1126,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T01:40:36.000Z",
-          "id": "2120330822381441308",
-          "images": [
-            "https://pbs.twimg.com/media/HWztjLxXIAAM6Uj.jpg"
-          ],
-          "text": "it came to me in a dream https://t.co/NwtttWs1ZT"
-        },
         {
           "created_at": "2026-11-11T01:43:12.000Z",
           "id": "2120331477124882934",
@@ -1260,10 +1252,15 @@
           "id": "2120501494638113203",
           "quoted_text": "shoutout to my favourite BOLs rn\n\n(bagwork opinion leaders)\n\n1. @faceofsol \n2. @basilda_a \n3. @_Shadow36 \n4. @hdegroott \n5. @mikasasolslayer \n\nShowing up everyday, despite conditions and who I think can lead this space to victory\n\n(with believing in something)",
           "text": "s/o the BOLs https://t.co/Gxxd6tWF7t"
+        },
+        {
+          "created_at": "2026-11-11T13:02:40.000Z",
+          "id": "2120502471839940718",
+          "quoted_text": "this is the essence of crypto\n\nit was never supposed to be bullshit fees or rewards or vamps or whatever\n\nreturn to memes https://t.co/Qm7GqOip2i",
+          "text": "return to memes https://t.co/9ptPidRnrm"
         }
       ],
       "reads": {
-        "2120330822381441308": "No call: bullish on memecoins (65%, too unsure)",
         "2120331477124882934": "No call",
         "2120340685190496413": "No call",
         "2120340860835598724": "No call",
@@ -1281,7 +1278,8 @@
         "2120493557622661458": "No call: bearish on crypto market (60%, too unsure)",
         "2120500077282394114": "No call",
         "2120500201844605164": "No call",
-        "2120501494638113203": "No call"
+        "2120501494638113203": "No call",
+        "2120502471839940718": "No call: bullish on memecoins (same view as before)"
       },
       "replies": [
         {
@@ -1379,10 +1377,6 @@
         }
       ],
       "threads": {
-        "2118354783723786478": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118388141300039810": {
           "alerted": [],
           "self_replies": 0
@@ -1801,10 +1795,13 @@
         "2120501494638113203": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120502471839940718": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120330822381441308": false,
         "2120331477124882934": true,
         "2120340685190496413": false,
         "2120340860835598724": false,
@@ -1838,7 +1835,8 @@
         "2120500536411635877": false,
         "2120501434760270069": false,
         "2120501494638113203": false,
-        "2120501893528969470": true
+        "2120501893528969470": true,
+        "2120502471839940718": true
       },
       "user_id": "973261472"
     },
@@ -7125,5 +7123,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T13:02:23+00:00"
+  "updated_at": "2026-11-11T13:04:21+00:00"
 }
