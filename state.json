@@ -1010,7 +1010,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120648455093960827",
+      "last_id": "2120653544973864966",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1126,14 +1126,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T12:53:10.000Z",
-          "id": "2120500077282394114",
-          "images": [
-            "https://pbs.twimg.com/media/HW2Hk2PWwAAX8mP.jpg"
-          ],
-          "text": "gmihao = good morning\n\ngnihao = good night https://t.co/mPS1zHnJIO"
-        },
         {
           "created_at": "2026-11-11T12:53:39.000Z",
           "id": "2120500201844605164",
@@ -1253,10 +1245,18 @@
           "created_at": "2026-11-11T22:42:46.000Z",
           "id": "2120648455093960827",
           "text": "https://t.co/z9QuOWA1In"
+        },
+        {
+          "created_at": "2026-11-11T23:02:59.000Z",
+          "id": "2120653544973864966",
+          "images": [
+            "https://pbs.twimg.com/media/HW4TKSDXMAAFq24.jpg"
+          ],
+          "quoted_text": "New head of NVDA is going to be some guy named Ross Keller who's served on the national security council for 20 years with deep expertise in Taiwan political affairs and a China hawk.\n\nSpooks in control",
+          "text": "solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/m92IbBW6jR https://t.co/YBzUIzXPKM"
         }
       ],
       "reads": {
-        "2120500077282394114": "No call",
         "2120500201844605164": "No call",
         "2120501494638113203": "No call",
         "2120502471839940718": "No call: bullish on memecoins (same view as before)",
@@ -1275,7 +1275,8 @@
         "2120642083254046950": "No call",
         "2120642272228454457": "No call",
         "2120647975374618806": "No call",
-        "2120648455093960827": "No call"
+        "2120648455093960827": "No call",
+        "2120653544973864966": "No call"
       },
       "replies": [
         {
@@ -1379,10 +1380,6 @@
         }
       ],
       "threads": {
-        "2118532936932757723": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118536741892358553": {
           "alerted": [],
           "self_replies": 0
@@ -1793,10 +1790,13 @@
         "2120648455093960827": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120653544973864966": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120500077282394114": false,
         "2120500201844605164": true,
         "2120501494638113203": false,
         "2120502471839940718": true,
@@ -1830,7 +1830,8 @@
         "2120642857216458784": false,
         "2120644534745068018": false,
         "2120647975374618806": false,
-        "2120648455093960827": false
+        "2120648455093960827": false,
+        "2120653544973864966": true
       },
       "user_id": "973261472"
     },
@@ -7111,5 +7112,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T23:02:24+00:00"
+  "updated_at": "2026-11-11T23:04:25+00:00"
 }
