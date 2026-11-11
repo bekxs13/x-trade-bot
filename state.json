@@ -1006,7 +1006,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120335461826642235",
+      "last_id": "2120336604107862066",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1301,12 +1301,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-11T00:19:20.000Z",
-          "id": "2120310371588231408",
-          "reply_to_id": "2120296670374346923",
-          "text": "@faceofsol \ud83d\udc4d\ud83c\udffe"
-        },
-        {
           "created_at": "2026-11-11T00:19:53.000Z",
           "id": "2120310508074979724",
           "reply_to_id": "2120156756726669346",
@@ -1389,6 +1383,12 @@
           "id": "2120335461826642235",
           "reply_to_id": "2120335096737915041",
           "text": "@ponzibaron no i just woke up"
+        },
+        {
+          "created_at": "2026-11-11T02:03:35.000Z",
+          "id": "2120336604107862066",
+          "reply_to_id": "2120335497033658784",
+          "text": "@frankdegods they have a little bit left i think brother"
         }
       ],
       "threads": {
@@ -1827,7 +1827,6 @@
         "2120302231065157805": false,
         "2120304422790250670": false,
         "2120309998723182905": true,
-        "2120310371588231408": false,
         "2120310508074979724": false,
         "2120311693846999437": true,
         "2120313687915348189": true,
@@ -1848,7 +1847,8 @@
         "2120331477124882934": true,
         "2120334707858759896": true,
         "2120334929829511287": false,
-        "2120335461826642235": false
+        "2120335461826642235": false,
+        "2120336604107862066": false
       },
       "user_id": "973261472"
     },
@@ -2254,7 +2254,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120320179599192337",
+      "last_id": "2120336331352236104",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2274,12 +2274,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-07T01:58:17.000Z",
-          "id": "2118885721016504634",
-          "quoted_text": "*SPACEX SEES ANNUALIZED REVENUE ABOVE $500B BY DECEMBER 2027",
-          "text": "that's it? https://t.co/MT5gpDDDLx"
-        },
         {
           "created_at": "2026-11-07T04:22:39.000Z",
           "id": "2118922051830329732",
@@ -2405,10 +2399,15 @@
           "id": "2120313139577471060",
           "reply_to_id": "2120313070702747817",
           "text": "what the hell"
+        },
+        {
+          "created_at": "2026-11-11T02:02:29.000Z",
+          "id": "2120336331352236104",
+          "quoted_text": "So, in the end, the only jobs left will be at AI labs and HFT firms",
+          "text": "these are like the first jobs to be automated away what are you talking about https://t.co/UrbdZFprFT"
         }
       ],
       "reads": {
-        "2118885721016504634": "No call",
         "2118922051830329732": "No call",
         "2119218111068991627": "No call",
         "2119465859194523687": "No call",
@@ -2426,7 +2425,8 @@
         "2120266037585461421": "No call",
         "2120294077296156748": "No call",
         "2120313070702747817": "No call",
-        "2120313139577471060": "No call"
+        "2120313139577471060": "No call",
+        "2120336331352236104": "No call"
       },
       "replies": [
         {
@@ -2521,10 +2521,6 @@
         }
       ],
       "threads": {
-        "2114783014597366013": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114819950816727513": {
           "alerted": [],
           "self_replies": 0
@@ -2922,10 +2918,13 @@
         "2120313070702747817": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2120336331352236104": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118885721016504634": true,
         "2118922051830329732": false,
         "2119218111068991627": false,
         "2119465859194523687": false,
@@ -2959,7 +2958,8 @@
         "2120313070702747817": false,
         "2120313139577471060": false,
         "2120319517079593282": false,
-        "2120320179599192337": false
+        "2120320179599192337": false,
+        "2120336331352236104": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7135,5 +7135,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T02:00:27+00:00"
+  "updated_at": "2026-11-11T02:04:20+00:00"
 }
