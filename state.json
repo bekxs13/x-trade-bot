@@ -1010,7 +1010,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120656581264335230",
+      "last_id": "2120658712469889089",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1126,12 +1126,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T12:58:47.000Z",
-          "id": "2120501494638113203",
-          "quoted_text": "shoutout to my favourite BOLs rn\n\n(bagwork opinion leaders)\n\n1. @faceofsol \n2. @basilda_a \n3. @_Shadow36 \n4. @hdegroott \n5. @mikasasolslayer \n\nShowing up everyday, despite conditions and who I think can lead this space to victory\n\n(with believing in something)",
-          "text": "s/o the BOLs https://t.co/Gxxd6tWF7t"
-        },
         {
           "created_at": "2026-11-11T13:02:40.000Z",
           "id": "2120502471839940718",
@@ -1253,10 +1247,14 @@
           "created_at": "2026-11-11T23:14:40.000Z",
           "id": "2120656482949562381",
           "text": "thread binked this"
+        },
+        {
+          "created_at": "2026-11-11T23:23:31.000Z",
+          "id": "2120658712469889089",
+          "text": "who woulda guessed that long amd short nvda would print this month"
         }
       ],
       "reads": {
-        "2120501494638113203": "No call",
         "2120502471839940718": "No call: bullish on memecoins (same view as before)",
         "2120512025956942157": "No call",
         "2120518910550458419": "No call",
@@ -1275,7 +1273,8 @@
         "2120647975374618806": "No call",
         "2120648455093960827": "No call",
         "2120653544973864966": "No call",
-        "2120656482949562381": "No call"
+        "2120656482949562381": "No call",
+        "2120658712469889089": "No call"
       },
       "replies": [
         {
@@ -1379,10 +1378,6 @@
         }
       ],
       "threads": {
-        "2118553660691279908": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118553868040888338": {
           "alerted": [],
           "self_replies": 0
@@ -1793,10 +1788,13 @@
         "2120656482949562381": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120658712469889089": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120501494638113203": false,
         "2120502471839940718": true,
         "2120512025956942157": false,
         "2120518910550458419": true,
@@ -1830,7 +1828,8 @@
         "2120648455093960827": false,
         "2120653544973864966": true,
         "2120656482949562381": false,
-        "2120656581264335230": false
+        "2120656581264335230": false,
+        "2120658712469889089": true
       },
       "user_id": "973261472"
     },
@@ -7106,5 +7105,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T23:20:25+00:00"
+  "updated_at": "2026-11-11T23:24:26+00:00"
 }
