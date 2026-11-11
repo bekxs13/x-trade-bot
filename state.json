@@ -2231,7 +2231,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120663202036076891",
+      "last_id": "2120663665028296774",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2251,14 +2251,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T18:48:58.000Z",
-          "id": "2120227232211951822",
-          "images": [
-            "https://pbs.twimg.com/media/HWyPaiZWsAAOCk2.jpg"
-          ],
-          "text": "fml https://t.co/POqM0WmFDu"
-        },
         {
           "created_at": "2026-11-10T18:58:48.000Z",
           "id": "2120229705919889835",
@@ -2376,10 +2368,15 @@
           "created_at": "2026-11-11T23:41:22.000Z",
           "id": "2120663202036076891",
           "text": "what's the best jfk lounge out of the sapphire lounge, the centurion lounge, and delta sky club"
+        },
+        {
+          "created_at": "2026-11-11T23:43:12.000Z",
+          "id": "2120663665028296774",
+          "reply_to_id": "2120663202036076891",
+          "text": "food &gt; comfort &gt; drinks &gt; misc services in importance"
         }
       ],
       "reads": {
-        "2120227232211951822": "No call",
         "2120229705919889835": "No call",
         "2120231159879622899": "No call",
         "2120266037585461421": "No call",
@@ -2398,7 +2395,8 @@
         "2120657183914201132": "No call",
         "2120657655362412563": "No call",
         "2120660166286921757": "No call",
-        "2120663202036076891": "No call"
+        "2120663202036076891": "No call",
+        "2120663665028296774": "No call"
       },
       "replies": [
         {
@@ -2893,11 +2891,10 @@
         },
         "2120663202036076891": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2120227232211951822": false,
         "2120229705919889835": true,
         "2120231159879622899": false,
         "2120266037585461421": false,
@@ -2931,7 +2928,8 @@
         "2120657183914201132": true,
         "2120657655362412563": false,
         "2120660166286921757": false,
-        "2120663202036076891": false
+        "2120663202036076891": false,
+        "2120663665028296774": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7094,5 +7092,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T23:42:21+00:00"
+  "updated_at": "2026-11-11T23:44:24+00:00"
 }
