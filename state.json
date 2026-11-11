@@ -4627,7 +4627,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120592455271674060",
+      "last_id": "2120593565244092828",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4663,14 +4663,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T15:00:05.000Z",
-          "id": "2120169629939040727",
-          "images": [
-            "https://pbs.twimg.com/media/HWxbCO9WcAAqXV1.png"
-          ],
-          "text": "https://t.co/657U998Y9L"
-        },
         {
           "created_at": "2026-11-10T17:09:46.000Z",
           "id": "2120202267261296811",
@@ -4780,10 +4772,15 @@
           "id": "2120590760793788838",
           "reply_to_id": "2120589064789488114",
           "text": "i am only here to take your money in the market  i want to steal from you"
+        },
+        {
+          "created_at": "2026-11-11T19:04:39.000Z",
+          "id": "2120593565244092828",
+          "reply_to_id": "2120590760793788838",
+          "text": "i\u2019m not currently doing a great job of it though"
         }
       ],
       "reads": {
-        "2120169629939040727": "No call",
         "2120202267261296811": "No call",
         "2120208355801366919": "No call",
         "2120230124104933770": "No call",
@@ -5296,7 +5293,6 @@
         }
       },
       "trading": {
-        "2120169629939040727": false,
         "2120202267261296811": false,
         "2120208355801366919": true,
         "2120230124104933770": true,
@@ -5330,7 +5326,8 @@
         "2120589064789488114": true,
         "2120589219928420568": true,
         "2120590760793788838": true,
-        "2120592455271674060": false
+        "2120592455271674060": false,
+        "2120593565244092828": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7130,5 +7127,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T19:04:23+00:00"
+  "updated_at": "2026-11-11T19:06:27+00:00"
 }
