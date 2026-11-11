@@ -4618,7 +4618,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120637720498204980",
+      "last_id": "2120638901740278045",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4654,12 +4654,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T19:14:29.000Z",
-          "id": "2120233651405209678",
-          "reply_to_id": "2120230124104933770",
-          "text": "i need a designer / artist that wants to work on these with me i am really good at references and really bad at designing and art would be alot of fun and not that hard, one a day m-f (when i stream) for a physical magazine at the end of the month\n\nwould be peak"
-        },
         {
           "created_at": "2026-11-10T20:25:53.000Z",
           "id": "2120251622064603330",
@@ -4770,10 +4764,18 @@
           "created_at": "2026-11-11T21:59:44.000Z",
           "id": "2120637627749564856",
           "text": "the jensen files to end a 20+ year tech supercycle in america"
+        },
+        {
+          "created_at": "2026-11-11T22:04:48.000Z",
+          "id": "2120638901740278045",
+          "images": [
+            "https://pbs.twimg.com/media/HW4F0iUXcAADXuk.jpg"
+          ],
+          "quoted_text": "the jensen files to end a 20+ year tech supercycle in america",
+          "text": "https://t.co/1TXPSuowgv https://t.co/EPbTZR6BHF"
         }
       ],
       "reads": {
-        "2120233651405209678": "No call",
         "2120251622064603330": "No call",
         "2120254977343885468": "No call",
         "2120255372556673442": "No call",
@@ -4786,7 +4788,8 @@
         "2120589064789488114": "No call",
         "2120616001049911456": "No call",
         "2120636959127163361": "No call",
-        "2120637627749564856": "No call: bearish on stocks/macro (55%, too unsure)"
+        "2120637627749564856": "No call: bearish on stocks/macro (55%, too unsure)",
+        "2120638901740278045": "No call"
       },
       "replies": [
         {
@@ -4881,10 +4884,6 @@
         }
       ],
       "threads": {
-        "2115514887132848432": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115517817160417719": {
           "alerted": [],
           "self_replies": 0
@@ -5282,10 +5281,13 @@
         "2120637627749564856": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120638901740278045": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120233651405209678": false,
         "2120251622064603330": false,
         "2120254977343885468": false,
         "2120255372556673442": true,
@@ -5319,7 +5321,8 @@
         "2120616001049911456": true,
         "2120636959127163361": true,
         "2120637627749564856": true,
-        "2120637720498204980": false
+        "2120637720498204980": false,
+        "2120638901740278045": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7119,5 +7122,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T22:02:23+00:00"
+  "updated_at": "2026-11-11T22:08:24+00:00"
 }
