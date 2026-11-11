@@ -2249,7 +2249,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120634740344860804",
+      "last_id": "2120640431990174168",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2427,12 +2427,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-10T23:52:06.000Z",
-          "id": "2120303516296065283",
-          "reply_to_id": "2120280473931034900",
-          "text": "@inerati it's an underspecified question since to measure spikiness you need to have a normalization between different cognitive tasks, but such quantifiers are obviously arbitrary. for example how do you weigh the tradeoff between our superior language ability but low reaction speed"
-        },
-        {
           "created_at": "2026-11-11T00:01:12.000Z",
           "id": "2120305805555888233",
           "reply_to_id": "2120246777253421336",
@@ -2515,6 +2509,12 @@
           "id": "2120634740344860804",
           "reply_to_id": "2120609701360509099",
           "text": "@AdsoOfBelk fuck wizard sleeves"
+        },
+        {
+          "created_at": "2026-11-11T22:10:53.000Z",
+          "id": "2120640431990174168",
+          "reply_to_id": "2120601110784471140",
+          "text": "@LacertaXG1 yea, their end game plan of robotics is a plausible one but requires soooooo much capex"
         }
       ],
       "threads": {
@@ -2934,7 +2934,6 @@
         "2120231159879622899": false,
         "2120266037585461421": false,
         "2120294077296156748": false,
-        "2120303516296065283": false,
         "2120305805555888233": false,
         "2120309513198653761": false,
         "2120313070702747817": false,
@@ -2956,7 +2955,8 @@
         "2120577702465818808": false,
         "2120616674046955602": true,
         "2120634577588756965": false,
-        "2120634740344860804": false
+        "2120634740344860804": false,
+        "2120640431990174168": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6382,7 +6382,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120591562208051377",
+      "last_id": "2120640693970579557",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6418,11 +6418,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-09T06:44:05.000Z",
-          "id": "2119682422392660088",
-          "text": "I feel sick"
-        },
         {
           "created_at": "2026-11-09T16:20:18.000Z",
           "id": "2119827430592438400",
@@ -6531,10 +6526,14 @@
           "created_at": "2026-11-11T18:56:41.000Z",
           "id": "2120591562208051377",
           "text": "Spend that little check you got and stay up out my business"
+        },
+        {
+          "created_at": "2026-11-11T22:11:55.000Z",
+          "id": "2120640693970579557",
+          "text": "Jay Gould mode"
         }
       ],
       "reads": {
-        "2119682422392660088": "No call",
         "2119846821602443321": "No call",
         "2120295855114932288": "No call",
         "2120299018030833889": "No call",
@@ -6551,7 +6550,8 @@
         "2120577037370818795": "No call",
         "2120585351219789956": "No call",
         "2120588671837757910": "No call",
-        "2120591562208051377": "No call"
+        "2120591562208051377": "No call",
+        "2120640693970579557": "No call"
       },
       "replies": [
         {
@@ -6646,10 +6646,6 @@
         }
       ],
       "threads": {
-        "2110726826704154734": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110735678548164666": {
           "alerted": [],
           "self_replies": 0
@@ -7063,6 +7059,10 @@
         "2120591562208051377": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120640693970579557": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7080,7 +7080,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2119682422392660088": false,
         "2119827430592438400": false,
         "2119846821602443321": true,
         "2120295855114932288": true,
@@ -7100,7 +7099,8 @@
         "2120585351219789956": false,
         "2120588671837757910": true,
         "2120590962443403732": true,
-        "2120591562208051377": false
+        "2120591562208051377": false,
+        "2120640693970579557": true
       },
       "user_id": "809191427645181952"
     }
@@ -7123,5 +7123,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T22:10:30+00:00"
+  "updated_at": "2026-11-11T22:12:25+00:00"
 }
