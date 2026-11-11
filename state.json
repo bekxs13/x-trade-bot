@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2120373682145202482",
+      "last_id": "2120432883064266933",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,15 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-07T20:51:30.000Z",
-          "id": "2119170904253169958",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2119170700309299200/img/bOcb5gGYxtJwN19E.jpg"
-          ],
-          "quoted_text": "Someone deserves to go to jail for this one. @whop cmon bro. https://t.co/3qgt0rTRBN",
-          "text": "https://t.co/uoSEM4DXPW https://t.co/TaeYtLK9G3"
-        },
         {
           "created_at": "2026-11-07T22:57:22.000Z",
           "id": "2119202578387083349",
@@ -272,10 +263,17 @@
           "id": "2120373682145202482",
           "reply_to_id": "2120373414192095290",
           "text": "@taobanker Oh wow saw the listing geez"
+        },
+        {
+          "created_at": "2026-11-11T08:26:09.000Z",
+          "id": "2120432883064266933",
+          "images": [
+            "https://pbs.twimg.com/media/HWqa7hjXYAAPR3E.jpg"
+          ],
+          "text": "https://t.co/VtfW9CphuC"
         }
       ],
       "reads": {
-        "2119170904253169958": "No call",
         "2119202578387083349": "No call",
         "2119240434732208240": "No call",
         "2119327512484556812": "No call",
@@ -292,7 +290,8 @@
         "2119945016735105475": "No call",
         "2120286988217844020": "No call",
         "2120287863682249079": "No call",
-        "2120348380975251808": "No call"
+        "2120348380975251808": "No call",
+        "2120432883064266933": "No call"
       },
       "replies": [
         {
@@ -393,10 +392,6 @@
         }
       ],
       "threads": {
-        "2113917872586240415": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114202391566279099": {
           "alerted": [],
           "self_replies": 0
@@ -795,6 +790,10 @@
         "2120348380975251808": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120432883064266933": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -803,7 +802,6 @@
         "2118856552509755538": false,
         "2118858662806736994": false,
         "2119163228009984017": false,
-        "2119170904253169958": false,
         "2119202578387083349": false,
         "2119237974978433429": false,
         "2119240434732208240": false,
@@ -832,7 +830,8 @@
         "2120363323669844317": true,
         "2120370997165707729": false,
         "2120373414192095290": false,
-        "2120373682145202482": true
+        "2120373682145202482": true,
+        "2120432883064266933": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7121,5 +7120,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T07:38:21+00:00"
+  "updated_at": "2026-11-11T08:26:28+00:00"
 }
