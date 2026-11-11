@@ -6382,7 +6382,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120308472390541751",
+      "last_id": "2120539539467030683",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6418,11 +6418,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-05T21:52:13.000Z",
-          "id": "2118461410242125845",
-          "text": "Good thought exercise:\n\nHow many points down would OAI and ANT be today if they were liquid instruments?"
-        },
         {
           "created_at": "2026-11-06T15:02:30.000Z",
           "id": "2118720688349659268",
@@ -6539,10 +6534,14 @@
           "created_at": "2026-11-11T00:11:47.000Z",
           "id": "2120308472390541751",
           "text": "We've derisked quite a bit. After derisking higher we kept re-adding. That has completely stopped.\n\nThis isn't purely an alpha based call. I don't have a good read on the market, we're up a lot into year end and want to crystallize gains, and I'm worried about what's coming.\n\nShort term, crypto may be uninvestable. Democrats are probably going Gensler 2.0. There are plenty of nasty outcomes:\n\n- DATs made illegal and forced to unwind\n-Warren Banking Oversight\n- Protocols pushing memecoins getting prosecuted\n- Privacy tokens treated as hostile\n\nMid to long term, this is obviously a net good for Bitcoin. Democrats will likely accelerate spending and fiat debasement, and the industry may come out better once it gets \"cleaned up.\"\n\nExpect a tremendous amount of volatility. It will present incredible buying opportunities.\n\nNote: The democrats cannot replace the CFTC chair who has been ruling favorably for stock perps and DeFi generally, so some assets may not be totally evisercated."
+        },
+        {
+          "created_at": "2026-11-11T15:29:58.000Z",
+          "id": "2120539539467030683",
+          "text": "Good morning Grokbot my Silicon friend"
         }
       ],
       "reads": {
-        "2118461410242125845": "No call",
         "2118720688349659268": "TRADE LONG BTC",
         "2118722030774485244": "No call: long BTC (already called)",
         "2118727970021904749": "No call",
@@ -6558,7 +6557,8 @@
         "2120295855114932288": "No call",
         "2120299018030833889": "No call",
         "2120299701735948379": "No call",
-        "2120308472390541751": "TRADE TRIM BTC"
+        "2120308472390541751": "TRADE TRIM BTC",
+        "2120539539467030683": "No call"
       },
       "replies": [
         {
@@ -6653,10 +6653,6 @@
         }
       ],
       "threads": {
-        "2110429740612075788": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110482457686315161": {
           "alerted": [],
           "self_replies": 0
@@ -7070,6 +7066,10 @@
             "trade:BTC:trim"
           ],
           "self_replies": 0
+        },
+        "2120539539467030683": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7088,7 +7088,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118461410242125845": true,
         "2118720688349659268": true,
         "2118722030774485244": true,
         "2118727970021904749": true,
@@ -7107,7 +7106,8 @@
         "2120295855114932288": true,
         "2120299018030833889": false,
         "2120299701735948379": false,
-        "2120308472390541751": true
+        "2120308472390541751": true,
+        "2120539539467030683": false
       },
       "user_id": "809191427645181952"
     }
@@ -7130,5 +7130,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T15:26:18+00:00"
+  "updated_at": "2026-11-11T15:30:28+00:00"
 }
