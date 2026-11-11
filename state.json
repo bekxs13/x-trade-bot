@@ -2239,7 +2239,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120360748522283447",
+      "last_id": "2120467968064643336",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2259,12 +2259,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-07T04:22:39.000Z",
-          "id": "2118922051830329732",
-          "quoted_text": "Tesla will wind down Cybertruck production around mid-2027, CEO Elon Musk says, after years of persistently weak sales for a futuristic model once touted as a rival to legacy pickup trucks. https://t.co/8NC8pDGsKs",
-          "text": "most performative car ever made https://t.co/sXvBFnUdqO"
-        },
         {
           "created_at": "2026-11-07T23:59:05.000Z",
           "id": "2119218111068991627",
@@ -2390,10 +2384,15 @@
           "id": "2120336331352236104",
           "quoted_text": "So, in the end, the only jobs left will be at AI labs and HFT firms",
           "text": "these are like the first jobs to be automated away what are you talking about https://t.co/UrbdZFprFT"
+        },
+        {
+          "created_at": "2026-11-11T10:45:34.000Z",
+          "id": "2120467968064643336",
+          "quoted_text": "Apparently, Anthropic gave conservative Q4 guidance because engineers tend to take time off in December.\n\nSeems like a sensible approach. https://t.co/nmR4XC0NM0",
+          "text": "do the autoresearchers take time off https://t.co/206OdTIWyT"
         }
       ],
       "reads": {
-        "2118922051830329732": "No call",
         "2119218111068991627": "No call",
         "2119465859194523687": "No call",
         "2119525570203775190": "No call",
@@ -2411,7 +2410,8 @@
         "2120294077296156748": "No call",
         "2120313070702747817": "No call",
         "2120313139577471060": "No call",
-        "2120336331352236104": "No call"
+        "2120336331352236104": "No call",
+        "2120467968064643336": "No call"
       },
       "replies": [
         {
@@ -2506,10 +2506,6 @@
         }
       ],
       "threads": {
-        "2114819950816727513": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114846392220868633": {
           "alerted": [],
           "self_replies": 0
@@ -2907,10 +2903,13 @@
         "2120336331352236104": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120467968064643336": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118922051830329732": false,
         "2119218111068991627": false,
         "2119465859194523687": false,
         "2119525570203775190": false,
@@ -2944,7 +2943,8 @@
         "2120336839026614563": false,
         "2120337404645318881": false,
         "2120340324115472630": false,
-        "2120360748522283447": false
+        "2120360748522283447": false,
+        "2120467968064643336": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7120,5 +7120,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T10:30:22+00:00"
+  "updated_at": "2026-11-11T10:46:23+00:00"
 }
