@@ -4618,7 +4618,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120636959127163361",
+      "last_id": "2120637720498204980",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4654,14 +4654,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T19:00:28.000Z",
-          "id": "2120230124104933770",
-          "images": [
-            "https://pbs.twimg.com/media/HWyR-lZWIAANS9I.jpg"
-          ],
-          "text": "The Market: November 10th https://t.co/LbYhD6821l"
-        },
         {
           "created_at": "2026-11-10T19:14:29.000Z",
           "id": "2120233651405209678",
@@ -4773,10 +4765,14 @@
           "id": "2120636959127163361",
           "quoted_text": "*NVIDIA (NVDA) CEO JENSEN HUANG HAD AFFAIR WITH SUBORDINATE VP: NYT\n\n*HUANG'S ALLEGED RELATIONSHIP WAS WITH NVIDIA (NVDA) HEALTH CARE VP KIMBERLY POWELL\n\n*HUANG HUNG UP ON NYT INQUIRY; NVIDIA (NVDA) DECLINED COMMENT\n\n$NVDA",
           "text": "oh it\u2019s generationally over https://t.co/x9wQOnRUBa"
+        },
+        {
+          "created_at": "2026-11-11T21:59:44.000Z",
+          "id": "2120637627749564856",
+          "text": "the jensen files to end a 20+ year tech supercycle in america"
         }
       ],
       "reads": {
-        "2120230124104933770": "No call",
         "2120233651405209678": "No call",
         "2120251622064603330": "No call",
         "2120254977343885468": "No call",
@@ -4789,15 +4785,10 @@
         "2120588429046247424": "No call",
         "2120589064789488114": "No call",
         "2120616001049911456": "No call",
-        "2120636959127163361": "No call"
+        "2120636959127163361": "No call",
+        "2120637627749564856": "No call: bearish on stocks/macro (55%, too unsure)"
       },
       "replies": [
-        {
-          "created_at": "2026-11-10T21:33:28.000Z",
-          "id": "2120268628448686352",
-          "reply_to_id": "2120268476027990311",
-          "text": "@callsecuriteas thanks g"
-        },
         {
           "created_at": "2026-11-10T21:43:53.000Z",
           "id": "2120271250769777069",
@@ -4881,13 +4872,15 @@
           "id": "2120592455271674060",
           "reply_to_id": "2120591655137059206",
           "text": "@chiefingza i seem to be on the wrong side of this one!"
+        },
+        {
+          "created_at": "2026-11-11T22:00:06.000Z",
+          "id": "2120637720498204980",
+          "reply_to_id": "2120637484224680293",
+          "text": "@chiefingza him"
         }
       ],
       "threads": {
-        "2115513597447086132": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115514887132848432": {
           "alerted": [],
           "self_replies": 0
@@ -5285,10 +5278,13 @@
         "2120636959127163361": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120637627749564856": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120230124104933770": true,
         "2120233651405209678": false,
         "2120251622064603330": false,
         "2120254977343885468": false,
@@ -5297,7 +5293,6 @@
         "2120259859862147581": false,
         "2120260820168847633": true,
         "2120261996478169142": false,
-        "2120268628448686352": false,
         "2120271250769777069": false,
         "2120280806841049482": false,
         "2120281525589590154": false,
@@ -5322,7 +5317,9 @@
         "2120592455271674060": false,
         "2120593565244092828": false,
         "2120616001049911456": true,
-        "2120636959127163361": true
+        "2120636959127163361": true,
+        "2120637627749564856": true,
+        "2120637720498204980": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7122,5 +7119,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T21:58:23+00:00"
+  "updated_at": "2026-11-11T22:00:29+00:00"
 }
