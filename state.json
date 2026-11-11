@@ -2248,7 +2248,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120537214329245873",
+      "last_id": "2120537725686493348",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2268,12 +2268,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-08T20:20:49.000Z",
-          "id": "2119525570203775190",
-          "quoted_text": "\"I Was Unfaithful To My Wife\": Jensen Huang Admits Affair As Nvidia Board Launches Chinese Spy Probe https://t.co/XntoOqiRyw",
-          "text": "man https://t.co/I6b7Co421F"
-        },
         {
           "created_at": "2026-11-08T20:46:02.000Z",
           "id": "2119531917574025572",
@@ -2403,10 +2397,15 @@
           ],
           "quoted_text": "Not HFT , come on dude . https://t.co/j9B4XCdQh5",
           "text": "even in public it's starting to happen https://t.co/05VTQjGTvD https://t.co/SIBIOoU8iE"
+        },
+        {
+          "created_at": "2026-11-11T15:22:46.000Z",
+          "id": "2120537725686493348",
+          "reply_to_id": "2120537214329245873",
+          "text": "HFT is like the worst spot for trading too because the risk is so low relative to mid/long frequency (so is entering those spaces too but sure there will be human oversight for a while)"
         }
       ],
       "reads": {
-        "2119525570203775190": "No call",
         "2119531917574025572": "No call",
         "2119800243932016773": "No call",
         "2119877520887619790": "No call",
@@ -2424,7 +2423,8 @@
         "2120336331352236104": "No call",
         "2120467968064643336": "No call",
         "2120534964332875883": "No call",
-        "2120537214329245873": "No call"
+        "2120537214329245873": "No call",
+        "2120537725686493348": "No call"
       },
       "replies": [
         {
@@ -2919,11 +2919,10 @@
         },
         "2120537214329245873": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2119525570203775190": false,
         "2119531917574025572": true,
         "2119800243932016773": true,
         "2119871613382390233": false,
@@ -2957,7 +2956,8 @@
         "2120473865650589780": false,
         "2120534964332875883": true,
         "2120536888285299022": true,
-        "2120537214329245873": false
+        "2120537214329245873": false,
+        "2120537725686493348": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7130,5 +7130,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T15:22:20+00:00"
+  "updated_at": "2026-11-11T15:24:23+00:00"
 }
