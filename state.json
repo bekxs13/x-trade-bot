@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2120321781496263064",
+      "last_id": "2120348380975251808",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,15 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-07T03:23:40.000Z",
-          "id": "2118907207983255795",
-          "images": [
-            "https://pbs.twimg.com/media/HWfe3kFbgAAWkER.jpg"
-          ],
-          "quoted_text": "A car full of girls pulled up to me today and one of them flashed me. You're a zoomer this isn't 1999 stop larping",
-          "text": "https://t.co/HKehxnlKGB https://t.co/Nfi5yYAzMY"
-        },
         {
           "created_at": "2026-11-07T19:47:06.000Z",
           "id": "2119154697944916054",
@@ -278,10 +269,14 @@
           "created_at": "2026-11-10T22:49:54.000Z",
           "id": "2120287863682249079",
           "text": "2pm feel like 8:30"
+        },
+        {
+          "created_at": "2026-11-11T02:50:22.000Z",
+          "id": "2120348380975251808",
+          "text": "I got unlimited cheat codes"
         }
       ],
       "reads": {
-        "2118907207983255795": "No call",
         "2119154697944916054": "No call",
         "2119170904253169958": "No call",
         "2119202578387083349": "No call",
@@ -299,7 +294,8 @@
         "2119869365172772911": "No call",
         "2119945016735105475": "No call",
         "2120286988217844020": "No call",
-        "2120287863682249079": "No call"
+        "2120287863682249079": "No call",
+        "2120348380975251808": "No call"
       },
       "replies": [
         {
@@ -397,10 +393,6 @@
         }
       ],
       "threads": {
-        "2113849893811056954": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2113917872586240415": {
           "alerted": [],
           "self_replies": 0
@@ -799,6 +791,10 @@
         "2120287863682249079": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120348380975251808": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -809,7 +805,6 @@
         "2118856011142582685": false,
         "2118856552509755538": false,
         "2118858662806736994": false,
-        "2118907207983255795": false,
         "2119154697944916054": false,
         "2119163228009984017": false,
         "2119170904253169958": false,
@@ -836,7 +831,8 @@
         "2120011572919849336": true,
         "2120286988217844020": false,
         "2120287863682249079": true,
-        "2120321781496263064": false
+        "2120321781496263064": false,
+        "2120348380975251808": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7128,5 +7124,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T02:42:23+00:00"
+  "updated_at": "2026-11-11T02:52:24+00:00"
 }
