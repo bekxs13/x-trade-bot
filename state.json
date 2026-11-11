@@ -6384,7 +6384,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120570187829366807",
+      "last_id": "2120577037370818795",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6420,14 +6420,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T19:40:26.000Z",
-          "id": "2118790632181567672",
-          "images": [
-            "https://pbs.twimg.com/media/HWd0szaWwAAnzK_.jpg"
-          ],
-          "text": "Crypto people like to laugh at Buffett and boomer stocks but what an incredible compounding machine over the last few years with little volatility. https://t.co/KMaHdmUvpF"
-        },
         {
           "created_at": "2026-11-08T00:24:28.000Z",
           "id": "2119224497953755287",
@@ -6543,10 +6535,14 @@
           "created_at": "2026-11-11T17:31:45.000Z",
           "id": "2120570187829366807",
           "text": "Ramiel Capital: We do hate speech and retail trading applications"
+        },
+        {
+          "created_at": "2026-11-11T17:58:58.000Z",
+          "id": "2120577037370818795",
+          "text": "Crypto can't imagine having derivative positions on that express one view while derisking your portfolio."
         }
       ],
       "reads": {
-        "2118790632181567672": "No call",
         "2119274113692844161": "No call",
         "2119318160088174622": "No call",
         "2119586514669547734": "No call",
@@ -6563,7 +6559,8 @@
         "2120553399452143688": "No call",
         "2120563000012832946": "No call",
         "2120567064611951044": "No call",
-        "2120570187829366807": "No call"
+        "2120570187829366807": "No call",
+        "2120577037370818795": "No call"
       },
       "replies": [
         {
@@ -6658,10 +6655,6 @@
         }
       ],
       "threads": {
-        "2110602888271548814": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110604448217124963": {
           "alerted": [],
           "self_replies": 0
@@ -7075,6 +7068,10 @@
         "2120570187829366807": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120577037370818795": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7092,7 +7089,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118790632181567672": true,
         "2119224497953755287": false,
         "2119274113692844161": false,
         "2119318160088174622": true,
@@ -7112,7 +7108,8 @@
         "2120553399452143688": false,
         "2120563000012832946": false,
         "2120567064611951044": true,
-        "2120570187829366807": false
+        "2120570187829366807": false,
+        "2120577037370818795": true
       },
       "user_id": "809191427645181952"
     }
@@ -7135,5 +7132,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T17:48:18+00:00"
+  "updated_at": "2026-11-11T18:00:30+00:00"
 }
