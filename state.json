@@ -2259,7 +2259,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120305805555888233",
+      "last_id": "2120309513198653761",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2435,12 +2435,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-09T19:07:06.000Z",
-          "id": "2119869405882458519",
-          "reply_to_id": "2119832451170312582",
-          "text": "@AdsoOfBelk the only +3s in baldur's gate 1 are a staff and a great sword u fucking larp"
-        },
-        {
           "created_at": "2026-11-09T19:37:20.000Z",
           "id": "2119877016602484853",
           "images": [
@@ -2527,6 +2521,12 @@
           "id": "2120305805555888233",
           "reply_to_id": "2120246777253421336",
           "text": "@_OH_71 probably not"
+        },
+        {
+          "created_at": "2026-11-11T00:15:56.000Z",
+          "id": "2120309513198653761",
+          "reply_to_id": "2120308451930993065",
+          "text": "@inerati 1) ordinal ranking is super arbitrary\n2) requires us to define what distinct animals even are which is arbitrary\n3) the exact slice of a what skills are is pretty arbitrary too"
         }
       ],
       "threads": {
@@ -2943,7 +2943,6 @@
         "2119525570203775190": false,
         "2119531917574025572": true,
         "2119800243932016773": true,
-        "2119869405882458519": false,
         "2119871613382390233": false,
         "2119877016602484853": false,
         "2119877520887619790": false,
@@ -2968,7 +2967,8 @@
         "2120287728306987225": false,
         "2120294077296156748": false,
         "2120303516296065283": false,
-        "2120305805555888233": false
+        "2120305805555888233": false,
+        "2120309513198653761": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7144,5 +7144,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T00:12:27+00:00"
+  "updated_at": "2026-11-11T00:16:15+00:00"
 }
