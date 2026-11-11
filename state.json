@@ -1010,7 +1010,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120568367337677186",
+      "last_id": "2120572179137880239",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1126,11 +1126,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T04:58:11.000Z",
-          "id": "2120380547621163210",
-          "text": "ni hao cat bringing the good vibes back to onchain"
-        },
         {
           "created_at": "2026-11-11T05:12:02.000Z",
           "id": "2120384030436708849",
@@ -1267,10 +1262,14 @@
           ],
           "quoted_text": "the coldest one breathing @blknoiz06 called out solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump at $1.5m mcap [now at ~$24M mcap].\n\ncurrent peak at $28M, does it go higher?\n\nHis tailers reached a peak of $830K in PnL.\n\nonly on the pumpfun app. https://t.co/YpRyOWKxVI",
           "text": "lock in fn https://t.co/MrsKadDCse https://t.co/AjkZQk3wDI"
+        },
+        {
+          "created_at": "2026-11-11T17:39:40.000Z",
+          "id": "2120572179137880239",
+          "text": "jesus nq is ripping"
         }
       ],
       "reads": {
-        "2120380547621163210": "No call",
         "2120384030436708849": "TRADE TRIM BTC, ETH, SOL shorts \u00b7 VIEW neutral on crypto market",
         "2120384900800884854": "No call",
         "2120406159815331896": "No call",
@@ -1289,7 +1288,8 @@
         "2120529080261165227": "No call",
         "2120557247843487785": "No call: bullish on solana memes (same view as before)",
         "2120562627621380222": "No call",
-        "2120562969071239665": "No call"
+        "2120562969071239665": "No call",
+        "2120572179137880239": "No call"
       },
       "replies": [
         {
@@ -1387,10 +1387,6 @@
         }
       ],
       "threads": {
-        "2118482799456108930": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118488028339650745": {
           "alerted": [
             "bias:oil:bullish"
@@ -1807,10 +1803,13 @@
         "2120562969071239665": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120572179137880239": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120380547621163210": true,
         "2120384030436708849": true,
         "2120384900800884854": true,
         "2120406159815331896": false,
@@ -1844,7 +1843,8 @@
         "2120562969071239665": true,
         "2120563576809427141": true,
         "2120567486085275936": true,
-        "2120568367337677186": false
+        "2120568367337677186": false,
+        "2120572179137880239": true
       },
       "user_id": "973261472"
     },
@@ -7135,5 +7135,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T17:32:29+00:00"
+  "updated_at": "2026-11-11T17:40:22+00:00"
 }
