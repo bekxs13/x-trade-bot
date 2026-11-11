@@ -4591,7 +4591,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120657224658022843",
+      "last_id": "2120665786373345701",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4627,12 +4627,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T20:47:12.000Z",
-          "id": "2120256985979326693",
-          "reply_to_id": "2120255372556673442",
-          "text": "serious note it's not even productive to joke about.  The people that are good will be fine and the one's that aren't won't. life has been like this since inception. The reason I stream, and post on this app and trade and [...] is to get good. skilled.  You're sort of born retarded and thrown to the wolves that is the algorithm which has a devils mandate to turn brains into mush. Must consciously add to the stack and curate informational inflows with some attempt at precision (or they point the Nicolas Maduro goybeam at your heart and force you to start applying for jobs on linkedin)\n\nfuck linkedin"
-        },
         {
           "created_at": "2026-11-10T20:58:37.000Z",
           "id": "2120259859862147581",
@@ -4749,6 +4743,11 @@
           "created_at": "2026-11-11T22:34:10.000Z",
           "id": "2120646293773000962",
           "text": "BREAKING: JENSEN OUT AS NVDA CEO https://t.co/STfv4ZgGzd"
+        },
+        {
+          "created_at": "2026-11-11T23:51:38.000Z",
+          "id": "2120665786373345701",
+          "text": "artificial inu is officially the most cursed token ever created"
         }
       ],
       "reads": {
@@ -4765,7 +4764,8 @@
         "2120638901740278045": "No call",
         "2120640023234003182": "No call",
         "2120645115320655949": "No call",
-        "2120646293773000962": "No call"
+        "2120646293773000962": "No call",
+        "2120665786373345701": "No call"
       },
       "replies": [
         {
@@ -4860,10 +4860,6 @@
         }
       ],
       "threads": {
-        "2115773193545712105": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2115773634673615293": {
           "alerted": [],
           "self_replies": 0
@@ -5261,10 +5257,13 @@
         "2120646293773000962": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120665786373345701": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120256985979326693": false,
         "2120259859862147581": false,
         "2120260820168847633": true,
         "2120261996478169142": false,
@@ -5298,7 +5297,8 @@
         "2120644119131480266": false,
         "2120645115320655949": false,
         "2120646293773000962": true,
-        "2120657224658022843": false
+        "2120657224658022843": false,
+        "2120665786373345701": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7092,5 +7092,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T23:48:19+00:00"
+  "updated_at": "2026-11-11T23:52:24+00:00"
 }
