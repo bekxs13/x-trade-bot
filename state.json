@@ -1010,7 +1010,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120512544247013450",
+      "last_id": "2120518910550458419",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1126,11 +1126,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T02:19:48.000Z",
-          "id": "2120340685190496413",
-          "text": "https://t.co/PwhlF7t0Bz"
-        },
         {
           "created_at": "2026-11-11T02:20:29.000Z",
           "id": "2120340860835598724",
@@ -1261,10 +1256,17 @@
             "https://pbs.twimg.com/media/HW2SbzVXwAAYi67.jpg"
           ],
           "text": "my bamboo is extremely stiff rn https://t.co/qZ3XF9sMve"
+        },
+        {
+          "created_at": "2026-11-11T14:08:00.000Z",
+          "id": "2120518910550458419",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2120487211556917248/img/QM0Q64gUJ_crk1kS.jpg"
+          ],
+          "text": "Market Bubble ep.26: my full conversation\n\nZcash's relative strength, Iran and oil, Pump, HYPE and his Q2 timeline for the next bull run\n\n0:00 - Bitcoin's $75K support and risk management\n15:45 - AI, Hyperliquid and the oil trade\n31:19 - Iran, Polymarket and MemeFi\n42:57 - Pump, Zcash and HYPE outlook\n59:17 - Bitcoin downside and the Q2 bull timeline"
         }
       ],
       "reads": {
-        "2120340685190496413": "No call",
         "2120340860835598724": "No call",
         "2120341388768207129": "No call",
         "2120346125563789534": "No call",
@@ -1282,7 +1284,8 @@
         "2120500201844605164": "No call",
         "2120501494638113203": "No call",
         "2120502471839940718": "No call: bullish on memecoins (same view as before)",
-        "2120512025956942157": "No call"
+        "2120512025956942157": "No call",
+        "2120518910550458419": "No call"
       },
       "replies": [
         {
@@ -1383,10 +1386,6 @@
         }
       ],
       "threads": {
-        "2118398194996461874": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118420839804834119": {
           "alerted": [],
           "self_replies": 0
@@ -1805,10 +1804,13 @@
         "2120512025956942157": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120518910550458419": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120340685190496413": false,
         "2120340860835598724": false,
         "2120341388768207129": true,
         "2120346125563789534": false,
@@ -1842,7 +1844,8 @@
         "2120510889388319219": false,
         "2120511141449203925": false,
         "2120512025956942157": false,
-        "2120512544247013450": false
+        "2120512544247013450": false,
+        "2120518910550458419": true
       },
       "user_id": "973261472"
     },
@@ -7126,5 +7129,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T13:44:20+00:00"
+  "updated_at": "2026-11-11T14:08:27+00:00"
 }
