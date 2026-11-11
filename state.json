@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2120373414192095290",
+      "last_id": "2120373682145202482",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,14 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-07T19:47:06.000Z",
-          "id": "2119154697944916054",
-          "images": [
-            "https://pbs.twimg.com/media/HWi_9j1aYAA8JQS.jpg"
-          ],
-          "text": "Redacted https://t.co/H5FzRICP25"
-        },
         {
           "created_at": "2026-11-07T20:51:30.000Z",
           "id": "2119170904253169958",
@@ -274,10 +266,15 @@
           "created_at": "2026-11-11T02:50:22.000Z",
           "id": "2120348380975251808",
           "text": "I got unlimited cheat codes"
+        },
+        {
+          "created_at": "2026-11-11T04:30:55.000Z",
+          "id": "2120373682145202482",
+          "reply_to_id": "2120373414192095290",
+          "text": "@taobanker Oh wow saw the listing geez"
         }
       ],
       "reads": {
-        "2119154697944916054": "No call",
         "2119170904253169958": "No call",
         "2119202578387083349": "No call",
         "2119240434732208240": "No call",
@@ -805,7 +802,6 @@
         "2118856011142582685": false,
         "2118856552509755538": false,
         "2118858662806736994": false,
-        "2119154697944916054": false,
         "2119163228009984017": false,
         "2119170904253169958": false,
         "2119202578387083349": false,
@@ -835,7 +831,8 @@
         "2120348380975251808": false,
         "2120363323669844317": true,
         "2120370997165707729": false,
-        "2120373414192095290": false
+        "2120373414192095290": false,
+        "2120373682145202482": true
       },
       "user_id": "1446541960181858315"
     },
@@ -1005,7 +1002,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120366052227924353",
+      "last_id": "2120373922537549973",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1121,12 +1118,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T22:39:58.000Z",
-          "id": "2120285364967608658",
-          "quoted_text": "@blknoiz06 you are black",
-          "text": "hahahahaahahahaha https://t.co/47lh4NfKst"
-        },
         {
           "created_at": "2026-11-10T23:14:09.000Z",
           "id": "2120293968013607098",
@@ -1267,10 +1258,15 @@
             "https://pbs.twimg.com/media/HW0LFmBWQAAA2-n.jpg"
           ],
           "text": "you've met me at a very chinese time in my life https://t.co/6Vht2FHAOf"
+        },
+        {
+          "created_at": "2026-11-11T04:31:52.000Z",
+          "id": "2120373922537549973",
+          "reply_to_id": "2120373686976893330",
+          "text": "@lBattleRhino @Tradermayne pepe chart also looks good atm? for some reason?"
         }
       ],
       "reads": {
-        "2120285364967608658": "No call",
         "2120293968013607098": "No call",
         "2120297144431284707": "TRADE LONG mihao",
         "2120299275506655570": "No call",
@@ -1292,12 +1288,6 @@
         "2120363216043704466": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-11T02:10:34.000Z",
-          "id": "2120338365161578569",
-          "reply_to_id": "2120337638347718726",
-          "text": "@frankdegods \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d"
-        },
         {
           "created_at": "2026-11-11T02:14:37.000Z",
           "id": "2120339383467585775",
@@ -1381,6 +1371,12 @@
           "id": "2120366052227924353",
           "reply_to_id": "2120364106918318366",
           "text": "@DiamondhandVN tough"
+        },
+        {
+          "created_at": "2026-11-11T04:30:56.000Z",
+          "id": "2120373686976893330",
+          "reply_to_id": "2120361670946206178",
+          "text": "@lBattleRhino @Tradermayne i mean, mid 2023 btc was 25k, eth was like 1800, and onchain was pretty dead all things considered\n\nspx like 4k and not that far off bear market bottom from 2022 so not that risk on env"
         }
       ],
       "threads": {
@@ -1806,7 +1802,6 @@
         }
       },
       "trading": {
-        "2120285364967608658": false,
         "2120293968013607098": false,
         "2120297144431284707": true,
         "2120299275506655570": true,
@@ -1821,7 +1816,6 @@
         "2120324070038184064": true,
         "2120330822381441308": false,
         "2120331477124882934": true,
-        "2120338365161578569": false,
         "2120339383467585775": true,
         "2120340685190496413": false,
         "2120340860835598724": false,
@@ -1840,7 +1834,9 @@
         "2120363249531338937": false,
         "2120364814543229062": true,
         "2120365925727711481": false,
-        "2120366052227924353": false
+        "2120366052227924353": false,
+        "2120373686976893330": true,
+        "2120373922537549973": true
       },
       "user_id": "973261472"
     },
@@ -7127,5 +7123,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T04:30:22+00:00"
+  "updated_at": "2026-11-11T04:32:19+00:00"
 }
