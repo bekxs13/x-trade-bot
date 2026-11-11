@@ -4618,7 +4618,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120638901740278045",
+      "last_id": "2120640023234003182",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4654,11 +4654,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T20:25:53.000Z",
-          "id": "2120251622064603330",
-          "text": "how do i tell if this girl coming on to me (really aggressively) is a spy"
-        },
         {
           "created_at": "2026-11-10T20:39:13.000Z",
           "id": "2120254977343885468",
@@ -4773,10 +4768,15 @@
           ],
           "quoted_text": "the jensen files to end a 20+ year tech supercycle in america",
           "text": "https://t.co/1TXPSuowgv https://t.co/EPbTZR6BHF"
+        },
+        {
+          "created_at": "2026-11-11T22:09:15.000Z",
+          "id": "2120640023234003182",
+          "quoted_text": "We believe if Jensen was removed as CEO, Nvidia is worth a lot less (25%-30%) as a company/stock and would change the future direction of the company and create a dramatically different competitive environment around AI GPUs globally especially for China. ~15% chance he removed (as of now) in our view",
+          "text": "update? https://t.co/lD84bsFwtL"
         }
       ],
       "reads": {
-        "2120251622064603330": "No call",
         "2120254977343885468": "No call",
         "2120255372556673442": "No call",
         "2120261996478169142": "No call",
@@ -4789,7 +4789,8 @@
         "2120616001049911456": "No call",
         "2120636959127163361": "No call",
         "2120637627749564856": "No call: bearish on stocks/macro (55%, too unsure)",
-        "2120638901740278045": "No call"
+        "2120638901740278045": "No call",
+        "2120640023234003182": "No call"
       },
       "replies": [
         {
@@ -4884,10 +4885,6 @@
         }
       ],
       "threads": {
-        "2115517817160417719": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115574844511449107": {
           "alerted": [],
           "self_replies": 0
@@ -5285,10 +5282,13 @@
         "2120638901740278045": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120640023234003182": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120251622064603330": false,
         "2120254977343885468": false,
         "2120255372556673442": true,
         "2120256985979326693": false,
@@ -5322,7 +5322,8 @@
         "2120636959127163361": true,
         "2120637627749564856": true,
         "2120637720498204980": false,
-        "2120638901740278045": true
+        "2120638901740278045": true,
+        "2120640023234003182": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7122,5 +7123,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T22:08:24+00:00"
+  "updated_at": "2026-11-11T22:10:30+00:00"
 }
