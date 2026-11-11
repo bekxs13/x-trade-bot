@@ -2259,7 +2259,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120303516296065283",
+      "last_id": "2120305805555888233",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2435,12 +2435,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-09T15:08:28.000Z",
-          "id": "2119809354073526332",
-          "reply_to_id": "2119800743318192581",
-          "text": "@macrocephalopod if you could only drink 5 more bottles of wine for the rest of your life what would they be and what meals would you pair them with"
-        },
-        {
           "created_at": "2026-11-09T19:07:06.000Z",
           "id": "2119869405882458519",
           "reply_to_id": "2119832451170312582",
@@ -2527,6 +2521,12 @@
           "id": "2120303516296065283",
           "reply_to_id": "2120280473931034900",
           "text": "@inerati it's an underspecified question since to measure spikiness you need to have a normalization between different cognitive tasks, but such quantifiers are obviously arbitrary. for example how do you weigh the tradeoff between our superior language ability but low reaction speed"
+        },
+        {
+          "created_at": "2026-11-11T00:01:12.000Z",
+          "id": "2120305805555888233",
+          "reply_to_id": "2120246777253421336",
+          "text": "@_OH_71 probably not"
         }
       ],
       "threads": {
@@ -2943,7 +2943,6 @@
         "2119525570203775190": false,
         "2119531917574025572": true,
         "2119800243932016773": true,
-        "2119809354073526332": false,
         "2119869405882458519": false,
         "2119871613382390233": false,
         "2119877016602484853": false,
@@ -2968,7 +2967,8 @@
         "2120287267373924619": false,
         "2120287728306987225": false,
         "2120294077296156748": false,
-        "2120303516296065283": false
+        "2120303516296065283": false,
+        "2120305805555888233": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7143,5 +7143,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-10T23:56:23+00:00"
+  "updated_at": "2026-11-11T00:02:15+00:00"
 }
