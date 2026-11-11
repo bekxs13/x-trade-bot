@@ -6390,7 +6390,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120590962443403732",
+      "last_id": "2120591562208051377",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6426,12 +6426,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-09T00:22:59.000Z",
-          "id": "2119586514669547734",
-          "quoted_text": "Should we do Sunday Spaces this weekend? @SoskaKyle \n\nWould you enjoy this? Are we having fun?",
-          "text": "No Sunday Spaces today unfortunately we trading quite a bit https://t.co/l8vVVKlv0b"
-        },
         {
           "created_at": "2026-11-09T06:44:05.000Z",
           "id": "2119682422392660088",
@@ -6540,10 +6534,14 @@
           "id": "2120590962443403732",
           "reply_to_id": "2120543237341646968",
           "text": "@SoskaKyle Sorry this post wasn't very nice or full of empathy for the counterparties on this trade. \n\nWe're going to be nicemaxxing going forward and making sure everyone wins."
+        },
+        {
+          "created_at": "2026-11-11T18:56:41.000Z",
+          "id": "2120591562208051377",
+          "text": "Spend that little check you got and stay up out my business"
         }
       ],
       "reads": {
-        "2119586514669547734": "No call",
         "2119682422392660088": "No call",
         "2119846821602443321": "No call",
         "2120295855114932288": "No call",
@@ -6560,7 +6558,8 @@
         "2120570187829366807": "No call",
         "2120577037370818795": "No call",
         "2120585351219789956": "No call",
-        "2120588671837757910": "No call"
+        "2120588671837757910": "No call",
+        "2120591562208051377": "No call"
       },
       "replies": [
         {
@@ -6655,10 +6654,6 @@
         }
       ],
       "threads": {
-        "2110724646974767398": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110726826704154734": {
           "alerted": [],
           "self_replies": 0
@@ -7072,6 +7067,10 @@
         "2120588671837757910": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120591562208051377": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7089,7 +7088,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2119586514669547734": false,
         "2119682422392660088": false,
         "2119827430592438400": false,
         "2119846821602443321": true,
@@ -7109,7 +7107,8 @@
         "2120577037370818795": true,
         "2120585351219789956": false,
         "2120588671837757910": true,
-        "2120590962443403732": true
+        "2120590962443403732": true,
+        "2120591562208051377": false
       },
       "user_id": "809191427645181952"
     }
@@ -7132,5 +7131,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T18:56:21+00:00"
+  "updated_at": "2026-11-11T18:58:21+00:00"
 }
