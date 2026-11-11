@@ -4619,7 +4619,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120512084853047610",
+      "last_id": "2120553681573614063",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4793,12 +4793,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-10T20:04:42.000Z",
-          "id": "2120246292072763734",
-          "reply_to_id": "2120246156017942575",
-          "text": "@royalarp it\u2019s a little rough on the eyes"
-        },
-        {
           "created_at": "2026-11-10T20:09:44.000Z",
           "id": "2120247556537983091",
           "reply_to_id": "2120235896242889027",
@@ -4881,6 +4875,12 @@
           "id": "2120509778392719580",
           "reply_to_id": "2120508820581700005",
           "text": "@zoomerfied sorry i am over exposed  and edgy love you buddy"
+        },
+        {
+          "created_at": "2026-11-11T16:26:10.000Z",
+          "id": "2120553681573614063",
+          "reply_to_id": "2120549564344361054",
+          "text": "@sqalef what\u2019s auction market theory i like"
         }
       ],
       "threads": {
@@ -5296,7 +5296,6 @@
         "2120208355801366919": true,
         "2120230124104933770": true,
         "2120233651405209678": false,
-        "2120246292072763734": false,
         "2120247556537983091": false,
         "2120251622064603330": false,
         "2120254977343885468": false,
@@ -5322,7 +5321,8 @@
         "2120502318953312696": false,
         "2120509778392719580": false,
         "2120511031340384488": true,
-        "2120512084853047610": true
+        "2120512084853047610": true,
+        "2120553681573614063": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6382,7 +6382,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120546860691845585",
+      "last_id": "2120553399452143688",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6418,12 +6418,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T15:36:38.000Z",
-          "id": "2118729277638320625",
-          "reply_to_id": "2118720688349659268",
-          "text": "Plan is just to rebalance and deploy cash left into Bitcoin into end of year, don\u2019t really think any other asset I\u2019m comfortable holding through 2027 with my eyes closed"
-        },
         {
           "created_at": "2026-11-06T17:07:38.000Z",
           "id": "2118752177610994128",
@@ -6540,6 +6534,11 @@
           "id": "2120546860691845585",
           "reply_to_id": "2118777378042232977",
           "text": "Sometimes trades can work out for the wrong reasons. Crypto twitter was convinced CRWV was going bankrupt.\n\nAlways fade CT."
+        },
+        {
+          "created_at": "2026-11-11T16:25:03.000Z",
+          "id": "2120553399452143688",
+          "text": "Who's building the right wing Jane Street"
         }
       ],
       "reads": {
@@ -6559,7 +6558,8 @@
         "2120539539467030683": "No call",
         "2120543237341646968": "No call",
         "2120543529176850788": "Read together with the post it replies to",
-        "2120546860691845585": "No call"
+        "2120546860691845585": "No call",
+        "2120553399452143688": "No call"
       },
       "replies": [
         {
@@ -6654,10 +6654,6 @@
         }
       ],
       "threads": {
-        "2110494346646630545": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110500007421890959": {
           "alerted": [],
           "self_replies": 0
@@ -7071,6 +7067,10 @@
         "2120543237341646968": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2120553399452143688": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7088,7 +7088,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118729277638320625": true,
         "2118752177610994128": false,
         "2118759692121833668": false,
         "2118777378042232977": true,
@@ -7108,7 +7107,8 @@
         "2120543237341646968": true,
         "2120543529176850788": true,
         "2120546317898227979": true,
-        "2120546860691845585": true
+        "2120546860691845585": true,
+        "2120553399452143688": false
       },
       "user_id": "809191427645181952"
     }
@@ -7131,5 +7131,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T16:00:27+00:00"
+  "updated_at": "2026-11-11T16:26:23+00:00"
 }
