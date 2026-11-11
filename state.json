@@ -1010,7 +1010,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120528279186915620",
+      "last_id": "2120529080261165227",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1126,12 +1126,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T02:22:35.000Z",
-          "id": "2120341388768207129",
-          "quoted_text": "Wait this is perfect \nsolana:9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump &amp; solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/TWUv82AmEA",
-          "text": "LOOKS GOOD UP HERE TWIN https://t.co/5QpHuWu4D0"
-        },
         {
           "created_at": "2026-11-11T02:41:25.000Z",
           "id": "2120346125563789534",
@@ -1264,10 +1258,15 @@
           "id": "2120528279186915620",
           "quoted_text": "T.O. really signed a waiver releasing Philly from all liability so he could play in the Super Bowl with a broken leg \ud83d\ude33 \n\nTerrell &amp; T.O. is now streaming on Prime Video. https://t.co/1vJuom2rwy",
           "text": "still cant believe fucking mcnabb lost us this super bowl https://t.co/jJqDfAmccT"
+        },
+        {
+          "created_at": "2026-11-11T14:48:24.000Z",
+          "id": "2120529080261165227",
+          "quoted_text": "The Pumpfun leaderboard has come a long way. \n\nLook at the numbers our users are pulling in this market. \n\nJust getting started! https://t.co/fdzzetmcOl",
+          "text": "make bagworking great again. https://t.co/zOhEXpBMDj"
         }
       ],
       "reads": {
-        "2120341388768207129": "No call",
         "2120346125563789534": "No call",
         "2120363216043704466": "No call",
         "2120380547621163210": "No call",
@@ -1285,7 +1284,8 @@
         "2120502471839940718": "No call: bullish on memecoins (same view as before)",
         "2120512025956942157": "No call",
         "2120518910550458419": "No call",
-        "2120528279186915620": "No call"
+        "2120528279186915620": "No call",
+        "2120529080261165227": "No call"
       },
       "replies": [
         {
@@ -1383,10 +1383,6 @@
         }
       ],
       "threads": {
-        "2118424262230892961": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118451581850951898": {
           "alerted": [],
           "self_replies": 0
@@ -1805,10 +1801,13 @@
         "2120528279186915620": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120529080261165227": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120341388768207129": true,
         "2120346125563789534": false,
         "2120363216043704466": false,
         "2120373922537549973": true,
@@ -1842,7 +1841,8 @@
         "2120512544247013450": false,
         "2120518910550458419": true,
         "2120524387254493209": true,
-        "2120528279186915620": false
+        "2120528279186915620": false,
+        "2120529080261165227": true
       },
       "user_id": "973261472"
     },
@@ -7126,5 +7126,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T14:46:26+00:00"
+  "updated_at": "2026-11-11T14:50:28+00:00"
 }
