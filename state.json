@@ -6373,7 +6373,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120652998020153735",
+      "last_id": "2120654125029277917",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6409,20 +6409,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T15:44:40.000Z",
-          "id": "2120543237341646968",
-          "images": [
-            "https://pbs.twimg.com/media/HW2uUFCXgAAPSSG.jpg"
-          ],
-          "text": "Fun fact: We had an astonishing +1,671 bps of capture on SOXL across all trading accounts as a firm. Meaning we had $1.18mm of PnL for every $7mm of notional volume traded.\n\nAlso most profitable open position on Hyperliquid today\n\nGuess we should be trading more Semis @SoskaKyle https://t.co/E7byhjkbNM"
-        },
-        {
-          "created_at": "2026-11-11T15:45:49.000Z",
-          "id": "2120543529176850788",
-          "reply_to_id": "2120543237341646968",
-          "text": "@SoskaKyle It's kind of frustrating because there isn't really HFT or execution optimization we can make as it's all long term directional trading with 30d+ hold times typically but still cool!"
-        },
         {
           "created_at": "2026-11-11T15:59:04.000Z",
           "id": "2120546860691845585",
@@ -6520,11 +6506,20 @@
           "id": "2120652998020153735",
           "reply_to_id": "2120652331276779817",
           "text": "Nationalize, but don't make it too obvious"
+        },
+        {
+          "created_at": "2026-11-11T23:04:12.000Z",
+          "id": "2120653852588617981",
+          "text": "Elon always 10 steps ahead. Completely insulates himself from moralfagging by having 10 wives and 15 kids."
+        },
+        {
+          "created_at": "2026-11-11T23:05:17.000Z",
+          "id": "2120654125029277917",
+          "reply_to_id": "2120653852588617981",
+          "text": "Kind of shows how absurdity is a defense. Take the grifting by government over past couple of years. People up in arms about hundreds of millions of dollars stolen by Somali learing centers. \n\nMeanwhile California stole $80B for a railroad that doesn't exist and people just laugh it off."
         }
       ],
       "reads": {
-        "2120543237341646968": "No call",
-        "2120543529176850788": "Read together with the post it replies to",
         "2120546860691845585": "No call",
         "2120553399452143688": "No call",
         "2120563000012832946": "No call",
@@ -6540,7 +6535,9 @@
         "2120643987513954484": "No call",
         "2120645516325458002": "No call",
         "2120652331276779817": "No call",
-        "2120652998020153735": "No call"
+        "2120652998020153735": "No call",
+        "2120653852588617981": "No call",
+        "2120654125029277917": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -6635,10 +6632,6 @@
         }
       ],
       "threads": {
-        "2110800906669453697": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110828743505674266": {
           "alerted": [],
           "self_replies": 1
@@ -7052,6 +7045,10 @@
         "2120652331276779817": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2120653852588617981": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
@@ -7069,8 +7066,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2120543237341646968": true,
-        "2120543529176850788": true,
         "2120546317898227979": true,
         "2120546860691845585": true,
         "2120553399452143688": false,
@@ -7089,7 +7084,9 @@
         "2120645516325458002": false,
         "2120646674443907075": false,
         "2120652331276779817": true,
-        "2120652998020153735": false
+        "2120652998020153735": false,
+        "2120653852588617981": false,
+        "2120654125029277917": false
       },
       "user_id": "809191427645181952"
     }
@@ -7112,5 +7109,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T23:04:25+00:00"
+  "updated_at": "2026-11-11T23:06:23+00:00"
 }
