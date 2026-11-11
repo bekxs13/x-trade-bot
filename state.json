@@ -2248,7 +2248,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120473865650589780",
+      "last_id": "2120534964332875883",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2268,11 +2268,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-07T23:59:05.000Z",
-          "id": "2119218111068991627",
-          "text": "just went back home to celebrate my grandpa's 92nd birthday\n\nputs a lot into perspective"
-        },
         {
           "created_at": "2026-11-08T16:23:33.000Z",
           "id": "2119465859194523687",
@@ -2399,10 +2394,15 @@
           "id": "2120467968064643336",
           "quoted_text": "Apparently, Anthropic gave conservative Q4 guidance because engineers tend to take time off in December.\n\nSeems like a sensible approach. https://t.co/nmR4XC0NM0",
           "text": "do the autoresearchers take time off https://t.co/206OdTIWyT"
+        },
+        {
+          "created_at": "2026-11-11T15:11:47.000Z",
+          "id": "2120534964332875883",
+          "quoted_text": "@DeepDishEnjoyer markets just going to be Claude\u2019s trading against each other?",
+          "text": "no retail will also light money on fire https://t.co/1UMNMaCdGy"
         }
       ],
       "reads": {
-        "2119218111068991627": "No call",
         "2119465859194523687": "No call",
         "2119525570203775190": "No call",
         "2119531917574025572": "No call",
@@ -2420,7 +2420,8 @@
         "2120313070702747817": "No call",
         "2120313139577471060": "No call",
         "2120336331352236104": "No call",
-        "2120467968064643336": "No call"
+        "2120467968064643336": "No call",
+        "2120534964332875883": "No call"
       },
       "replies": [
         {
@@ -2515,10 +2516,6 @@
         }
       ],
       "threads": {
-        "2114846392220868633": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114881511216283993": {
           "alerted": [],
           "self_replies": 0
@@ -2916,10 +2913,13 @@
         "2120467968064643336": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120534964332875883": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2119218111068991627": false,
         "2119465859194523687": false,
         "2119525570203775190": false,
         "2119531917574025572": true,
@@ -2953,7 +2953,8 @@
         "2120340324115472630": false,
         "2120360748522283447": false,
         "2120467968064643336": false,
-        "2120473865650589780": false
+        "2120473865650589780": false,
+        "2120534964332875883": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7126,5 +7127,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T15:10:21+00:00"
+  "updated_at": "2026-11-11T15:12:22+00:00"
 }
