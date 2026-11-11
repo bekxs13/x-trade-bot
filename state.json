@@ -2236,7 +2236,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120657183914201132",
+      "last_id": "2120657655362412563",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2256,11 +2256,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T03:52:55.000Z",
-          "id": "2120001734634586299",
-          "text": "\u201cThe world is not driven by greed. It\u2019s driven by envy.\u201d - Charlie Munger"
-        },
         {
           "created_at": "2026-11-10T16:27:00.000Z",
           "id": "2120191505281286449",
@@ -2388,10 +2383,14 @@
           "created_at": "2026-11-11T23:17:27.000Z",
           "id": "2120657183914201132",
           "text": "honestly im bitter enough that ive joined the war of the scam market on the side of the scam"
+        },
+        {
+          "created_at": "2026-11-11T23:19:19.000Z",
+          "id": "2120657655362412563",
+          "text": "can artificial superintelligence beat the human experts at committing adultery"
         }
       ],
       "reads": {
-        "2120001734634586299": "No call",
         "2120191505281286449": "No call",
         "2120192260776120791": "No call",
         "2120227232211951822": "No call",
@@ -2410,7 +2409,8 @@
         "2120642538449088837": "No call",
         "2120643578271514984": "No call",
         "2120656111418392948": "No call",
-        "2120657183914201132": "No call"
+        "2120657183914201132": "No call",
+        "2120657655362412563": "No call"
       },
       "replies": [
         {
@@ -2505,10 +2505,6 @@
         }
       ],
       "threads": {
-        "2115115536652849400": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115143103698911565": {
           "alerted": [],
           "self_replies": 0
@@ -2906,10 +2902,13 @@
         "2120657183914201132": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120657655362412563": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120001734634586299": false,
         "2120191505281286449": true,
         "2120192260776120791": false,
         "2120227232211951822": false,
@@ -2943,7 +2942,8 @@
         "2120642538449088837": true,
         "2120643578271514984": false,
         "2120656111418392948": true,
-        "2120657183914201132": true
+        "2120657183914201132": true,
+        "2120657655362412563": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7106,5 +7106,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T23:18:31+00:00"
+  "updated_at": "2026-11-11T23:20:25+00:00"
 }
