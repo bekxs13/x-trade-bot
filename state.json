@@ -868,12 +868,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2119014252178813292",
-          "reason": "Says ZEC lower-timeframe weakness is 'showing next direction for majors', implying majors head lower; matches recorded bearish crypto market view.",
+          "post_id": "2120384030436708849",
+          "reason": "He says it doesn't feel like a technical bottom on majors yet, but it feels like a \"spiritual bottom on coins\" with extreme despair. That softens his recorded bearish view toward a bottoming outlook.",
           "scope": "crypto market",
-          "since": "2026-10-29",
-          "stance": "bearish",
-          "updated_at": "2026-11-07T10:29:01.000Z"
+          "since": "2026-11-11",
+          "stance": "neutral",
+          "updated_at": "2026-11-11T05:12:02.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -1002,7 +1002,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120380547621163210",
+      "last_id": "2120384030436708849",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1118,14 +1118,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T23:26:47.000Z",
-          "id": "2120297144431284707",
-          "images": [
-            "https://pbs.twimg.com/media/HWzPA0LXoAApLl9.jpg"
-          ],
-          "text": "vibe shift\n\nsolana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/jA12BxHaJs"
-        },
         {
           "created_at": "2026-11-10T23:35:15.000Z",
           "id": "2120299275506655570",
@@ -1263,10 +1255,14 @@
           "created_at": "2026-11-11T04:58:11.000Z",
           "id": "2120380547621163210",
           "text": "ni hao cat bringing the good vibes back to onchain"
+        },
+        {
+          "created_at": "2026-11-11T05:12:02.000Z",
+          "id": "2120384030436708849",
+          "text": "tp'd partials on shorts\n\ndoesnt feel like technical bottom to me on majors yet, but it definitely feels like a spiritual bottom on coins, have never seen so much despair here"
         }
       ],
       "reads": {
-        "2120297144431284707": "TRADE LONG mihao",
         "2120299275506655570": "No call",
         "2120299495732768824": "No call",
         "2120302231065157805": "No call",
@@ -1284,15 +1280,10 @@
         "2120341388768207129": "No call",
         "2120346125563789534": "No call",
         "2120363216043704466": "No call",
-        "2120380547621163210": "No call"
+        "2120380547621163210": "No call",
+        "2120384030436708849": "TRADE TRIM BTC, ETH, SOL shorts \u00b7 VIEW neutral on crypto market"
       },
       "replies": [
-        {
-          "created_at": "2026-11-11T02:39:44.000Z",
-          "id": "2120345701947236719",
-          "reply_to_id": "2120340869303726097",
-          "text": "@a1lon9parody art school's thesis manifesting in real time"
-        },
         {
           "created_at": "2026-11-11T03:01:51.000Z",
           "id": "2120351270888231232",
@@ -1379,13 +1370,15 @@
           "id": "2120378953093263774",
           "reply_to_id": "2120378535659356449",
           "text": "@frankdegods \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d"
+        },
+        {
+          "created_at": "2026-11-11T05:10:17.000Z",
+          "id": "2120383591121297896",
+          "reply_to_id": "2120336071430984152",
+          "text": "@ImJustGroovy whos trolling"
         }
       ],
       "threads": {
-        "2118200824119935326": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118292132876480727": {
           "alerted": [
             "trade:GOLD:long"
@@ -1801,10 +1794,16 @@
         "2120380547621163210": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120384030436708849": {
+          "alerted": [
+            "trade:BTC, ETH, SOL SHORTS:trim",
+            "bias:crypto market:neutral"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120297144431284707": true,
         "2120299275506655570": true,
         "2120299495732768824": false,
         "2120302231065157805": false,
@@ -1820,7 +1819,6 @@
         "2120340685190496413": false,
         "2120340860835598724": false,
         "2120341388768207129": true,
-        "2120345701947236719": false,
         "2120346125563789534": false,
         "2120351270888231232": true,
         "2120356524673450348": false,
@@ -1838,7 +1836,9 @@
         "2120376393879949483": false,
         "2120378385197039641": false,
         "2120378953093263774": false,
-        "2120380547621163210": true
+        "2120380547621163210": true,
+        "2120383591121297896": false,
+        "2120384030436708849": true
       },
       "user_id": "973261472"
     },
@@ -7125,5 +7125,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T05:00:23+00:00"
+  "updated_at": "2026-11-11T05:12:20+00:00"
 }
