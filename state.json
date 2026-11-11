@@ -2248,7 +2248,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120537725686493348",
+      "last_id": "2120538487615295600",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2428,12 +2428,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-10T22:13:58.000Z",
-          "id": "2120278821664694512",
-          "reply_to_id": "2120278637824119213",
-          "text": "@johcharts physical production isn't a trivial thing"
-        },
-        {
           "created_at": "2026-11-10T22:14:51.000Z",
           "id": "2120279041546834194",
           "reply_to_id": "2120267146135790029",
@@ -2516,6 +2510,12 @@
           "id": "2120536888285299022",
           "reply_to_id": "2120536293776175356",
           "text": "@EmrlDWill absolutely HFT. it's already happening!"
+        },
+        {
+          "created_at": "2026-11-11T15:25:47.000Z",
+          "id": "2120538487615295600",
+          "reply_to_id": "2120538158094016563",
+          "text": "@EmrlDWill dude there are billions of dollars of GMV fully autonomous AI strats deployed today lmao"
         }
       ],
       "threads": {
@@ -2935,7 +2935,6 @@
         "2120229705919889835": true,
         "2120231159879622899": false,
         "2120266037585461421": false,
-        "2120278821664694512": false,
         "2120279041546834194": false,
         "2120287267373924619": false,
         "2120287728306987225": false,
@@ -2957,7 +2956,8 @@
         "2120534964332875883": true,
         "2120536888285299022": true,
         "2120537214329245873": false,
-        "2120537725686493348": true
+        "2120537725686493348": true,
+        "2120538487615295600": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7130,5 +7130,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T15:24:23+00:00"
+  "updated_at": "2026-11-11T15:26:18+00:00"
 }
