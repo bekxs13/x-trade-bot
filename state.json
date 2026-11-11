@@ -1010,7 +1010,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120534552104112426",
+      "last_id": "2120543493797843108",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1289,12 +1289,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-11T12:58:33.000Z",
-          "id": "2120501434760270069",
-          "reply_to_id": "2120054599998636155",
-          "text": "@isellbeforeyou @faceofsol @basilda_a @_Shadow36 @hdegroott @mikasasolslayer cannot forget @Saint10Fourteen and @RAP3MEFR"
-        },
-        {
           "created_at": "2026-11-11T13:00:23.000Z",
           "id": "2120501893528969470",
           "reply_to_id": "2120475859685417159",
@@ -1380,6 +1374,12 @@
           "id": "2120534552104112426",
           "reply_to_id": "2120510895231054268",
           "text": "@MissionGains funny innit"
+        },
+        {
+          "created_at": "2026-11-11T15:45:41.000Z",
+          "id": "2120543493797843108",
+          "reply_to_id": "2120543237341646968",
+          "text": "@ThinkingUSD @SoskaKyle smashed it"
         }
       ],
       "threads": {
@@ -1822,7 +1822,6 @@
         "2120493557622661458": true,
         "2120500077282394114": false,
         "2120500201844605164": true,
-        "2120501434760270069": false,
         "2120501494638113203": false,
         "2120501893528969470": true,
         "2120502471839940718": true,
@@ -1842,7 +1841,8 @@
         "2120531710282436774": true,
         "2120532748045816156": false,
         "2120534273451077972": false,
-        "2120534552104112426": false
+        "2120534552104112426": false,
+        "2120543493797843108": false
       },
       "user_id": "973261472"
     },
@@ -6382,7 +6382,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120539539467030683",
+      "last_id": "2120543529176850788",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6418,20 +6418,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-06T15:02:30.000Z",
-          "id": "2118720688349659268",
-          "text": "Fullport bitcoin and log off season"
-        },
-        {
-          "created_at": "2026-11-06T15:07:50.000Z",
-          "id": "2118722030774485244",
-          "images": [
-            "https://pbs.twimg.com/media/HWc2cOZWEAAfDVw.jpg"
-          ],
-          "reply_to_id": "2118720688349659268",
-          "text": "Trying to fill more under 75k down to 73k https://t.co/7OKTZwM2Wn"
-        },
         {
           "created_at": "2026-11-06T15:31:26.000Z",
           "id": "2118727970021904749",
@@ -6539,11 +6525,23 @@
           "created_at": "2026-11-11T15:29:58.000Z",
           "id": "2120539539467030683",
           "text": "Good morning Grokbot my Silicon friend"
+        },
+        {
+          "created_at": "2026-11-11T15:44:40.000Z",
+          "id": "2120543237341646968",
+          "images": [
+            "https://pbs.twimg.com/media/HW2uUFCXgAAPSSG.jpg"
+          ],
+          "text": "Fun fact: We had an astonishing +1,671 bps of capture on SOXL across all trading accounts as a firm. Meaning we had $1.18mm of PnL for every $7mm of notional volume traded.\n\nAlso most profitable open position on Hyperliquid today\n\nGuess we should be trading more Semis @SoskaKyle https://t.co/E7byhjkbNM"
+        },
+        {
+          "created_at": "2026-11-11T15:45:49.000Z",
+          "id": "2120543529176850788",
+          "reply_to_id": "2120543237341646968",
+          "text": "@SoskaKyle It's kind of frustrating because there isn't really HFT or execution optimization we can make as it's all long term directional trading with 30d+ hold times typically but still cool!"
         }
       ],
       "reads": {
-        "2118720688349659268": "TRADE LONG BTC",
-        "2118722030774485244": "No call: long BTC (already called)",
         "2118727970021904749": "No call",
         "2118752177610994128": "No call",
         "2118759692121833668": "No call",
@@ -6558,7 +6556,9 @@
         "2120299018030833889": "No call",
         "2120299701735948379": "No call",
         "2120308472390541751": "TRADE TRIM BTC",
-        "2120539539467030683": "No call"
+        "2120539539467030683": "No call",
+        "2120543237341646968": "No call",
+        "2120543529176850788": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -6653,10 +6653,6 @@
         }
       ],
       "threads": {
-        "2110482457686315161": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110494346646630545": {
           "alerted": [],
           "self_replies": 0
@@ -7070,6 +7066,10 @@
         "2120539539467030683": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120543237341646968": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
@@ -7088,8 +7088,6 @@
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
-        "2118720688349659268": true,
-        "2118722030774485244": true,
         "2118727970021904749": true,
         "2118729277638320625": true,
         "2118752177610994128": false,
@@ -7107,7 +7105,9 @@
         "2120299018030833889": false,
         "2120299701735948379": false,
         "2120308472390541751": true,
-        "2120539539467030683": false
+        "2120539539467030683": false,
+        "2120543237341646968": true,
+        "2120543529176850788": true
       },
       "user_id": "809191427645181952"
     }
@@ -7130,5 +7130,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-11T15:30:28+00:00"
+  "updated_at": "2026-11-11T15:46:22+00:00"
 }
