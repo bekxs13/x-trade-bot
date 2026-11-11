@@ -1006,7 +1006,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120345701947236719",
+      "last_id": "2120346125563789534",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1122,12 +1122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T19:03:34.000Z",
-          "id": "2120230903637004462",
-          "quoted_text": "i have officially acquired the @ansem handle, please follow :)",
-          "text": "lost access to this, please block &amp; do not engage https://t.co/7p6W1wmBXF"
-        },
         {
           "created_at": "2026-11-10T22:31:12.000Z",
           "id": "2120283158390231331",
@@ -1268,10 +1262,15 @@
           "id": "2120341388768207129",
           "quoted_text": "Wait this is perfect \nsolana:9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump &amp; solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/TWUv82AmEA",
           "text": "LOOKS GOOD UP HERE TWIN https://t.co/5QpHuWu4D0"
+        },
+        {
+          "created_at": "2026-11-11T02:41:25.000Z",
+          "id": "2120346125563789534",
+          "quoted_text": "70% of this rant was good but I have to strongly disagree with this take floating around all week that CT is dead. CT is not dead or dying\n\n1) CT is the information hub of crypto industry. It\u2019s the MarketWatch, the CNBC and WSJ, wallstreetbets and town square of the industry. There is no alternative, and that makes it not comparable to fintwit\n\n2) There have always been alternative platforms for social trading in crypto: Telegram last cycle, Discord cycle before that. None of them meant the deat",
+          "text": "CT will never die https://t.co/GiqVJEP2MN"
         }
       ],
       "reads": {
-        "2120230903637004462": "No call",
         "2120283158390231331": "No call",
         "2120285364967608658": "No call",
         "2120293968013607098": "No call",
@@ -1290,7 +1289,8 @@
         "2120331477124882934": "No call",
         "2120340685190496413": "No call",
         "2120340860835598724": "No call",
-        "2120341388768207129": "No call"
+        "2120341388768207129": "No call",
+        "2120346125563789534": "No call"
       },
       "replies": [
         {
@@ -1385,10 +1385,6 @@
         }
       ],
       "threads": {
-        "2118131326587220274": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118178667985580071": {
           "alerted": [],
           "self_replies": 0
@@ -1804,10 +1800,13 @@
         "2120341388768207129": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120346125563789534": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120230903637004462": false,
         "2120283158390231331": true,
         "2120285364967608658": false,
         "2120293968013607098": false,
@@ -1841,7 +1840,8 @@
         "2120341388768207129": true,
         "2120343373546692612": false,
         "2120344284235010246": false,
-        "2120345701947236719": false
+        "2120345701947236719": false,
+        "2120346125563789534": false
       },
       "user_id": "973261472"
     },
@@ -7128,5 +7128,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T02:40:18+00:00"
+  "updated_at": "2026-11-11T02:42:23+00:00"
 }
