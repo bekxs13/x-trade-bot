@@ -1006,7 +1006,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120310508074979724",
+      "last_id": "2120311693846999437",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1122,11 +1122,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-08T04:32:38.000Z",
-          "id": "2119286953141264608",
-          "text": "yo"
-        },
         {
           "created_at": "2026-11-08T12:40:23.000Z",
           "id": "2119409698999033942",
@@ -1276,10 +1271,18 @@
           ],
           "quoted_text": "ni hao https://t.co/aO3HJdwUPd",
           "text": "solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/catBPEwEWe https://t.co/wConF7qJAa"
+        },
+        {
+          "created_at": "2026-11-11T00:24:35.000Z",
+          "id": "2120311693846999437",
+          "images": [
+            "https://pbs.twimg.com/media/HWzcPuHXkAA8Fsk.jpg"
+          ],
+          "quoted_text": "Like it or not mihao going up is a good thing for the trenches. Give ppl something to believe in.",
+          "text": "pfp up https://t.co/23h4d9gnWD https://t.co/CyoXmHy3UT"
         }
       ],
       "reads": {
-        "2119286953141264608": "No call",
         "2119409698999033942": "No call: bearish on memory stocks (60%, too unsure)",
         "2119512277393043542": "No call",
         "2119694898006028365": "No call: bullish on HYPE (same view as before)",
@@ -1298,7 +1301,8 @@
         "2120299495732768824": "No call",
         "2120302231065157805": "No call",
         "2120304422790250670": "No call",
-        "2120309998723182905": "No call"
+        "2120309998723182905": "No call",
+        "2120311693846999437": "No call"
       },
       "replies": [
         {
@@ -1399,10 +1403,6 @@
         }
       ],
       "threads": {
-        "2117744887873581394": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117763070982504829": {
           "alerted": [],
           "self_replies": 0
@@ -1820,10 +1820,13 @@
         "2120309998723182905": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120311693846999437": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2119286953141264608": false,
         "2119409698999033942": true,
         "2119512277393043542": false,
         "2119694898006028365": true,
@@ -1857,7 +1860,8 @@
         "2120304422790250670": false,
         "2120309998723182905": true,
         "2120310371588231408": false,
-        "2120310508074979724": false
+        "2120310508074979724": false,
+        "2120311693846999437": true
       },
       "user_id": "973261472"
     },
@@ -7148,5 +7152,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T00:20:22+00:00"
+  "updated_at": "2026-11-11T00:26:26+00:00"
 }
