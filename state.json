@@ -1002,7 +1002,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120378953093263774",
+      "last_id": "2120380547621163210",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1118,12 +1118,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T23:14:09.000Z",
-          "id": "2120293968013607098",
-          "quoted_text": "Entering solana:9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump from behind and busting inside so it\u2019ll never leave me.",
-          "text": "WHAT https://t.co/okvXkkNElo"
-        },
         {
           "created_at": "2026-11-10T23:26:47.000Z",
           "id": "2120297144431284707",
@@ -1264,10 +1258,14 @@
           "id": "2120373922537549973",
           "reply_to_id": "2120373686976893330",
           "text": "@lBattleRhino @Tradermayne pepe chart also looks good atm? for some reason?"
+        },
+        {
+          "created_at": "2026-11-11T04:58:11.000Z",
+          "id": "2120380547621163210",
+          "text": "ni hao cat bringing the good vibes back to onchain"
         }
       ],
       "reads": {
-        "2120293968013607098": "No call",
         "2120297144431284707": "TRADE LONG mihao",
         "2120299275506655570": "No call",
         "2120299495732768824": "No call",
@@ -1285,7 +1283,8 @@
         "2120340860835598724": "No call",
         "2120341388768207129": "No call",
         "2120346125563789534": "No call",
-        "2120363216043704466": "No call"
+        "2120363216043704466": "No call",
+        "2120380547621163210": "No call"
       },
       "replies": [
         {
@@ -1383,10 +1382,6 @@
         }
       ],
       "threads": {
-        "2118179608251990523": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118200824119935326": {
           "alerted": [],
           "self_replies": 0
@@ -1802,10 +1797,13 @@
         "2120363216043704466": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120380547621163210": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120293968013607098": false,
         "2120297144431284707": true,
         "2120299275506655570": true,
         "2120299495732768824": false,
@@ -1839,7 +1837,8 @@
         "2120373922537549973": true,
         "2120376393879949483": false,
         "2120378385197039641": false,
-        "2120378953093263774": false
+        "2120378953093263774": false,
+        "2120380547621163210": true
       },
       "user_id": "973261472"
     },
@@ -7126,5 +7125,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T04:52:17+00:00"
+  "updated_at": "2026-11-11T05:00:23+00:00"
 }
