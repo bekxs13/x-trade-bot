@@ -1002,7 +1002,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120384512177696778",
+      "last_id": "2120384900800884854",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1118,15 +1118,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T23:35:15.000Z",
-          "id": "2120299275506655570",
-          "images": [
-            "https://pbs.twimg.com/media/HWzQ834WAAAt3G6.jpg"
-          ],
-          "quoted_text": "vibe shift\n\nsolana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/jA12BxHaJs",
-          "text": "https://t.co/hYa60W6BxQ https://t.co/RKnG2Xocf9"
-        },
         {
           "created_at": "2026-11-10T23:36:07.000Z",
           "id": "2120299495732768824",
@@ -1260,10 +1251,15 @@
           "created_at": "2026-11-11T05:12:02.000Z",
           "id": "2120384030436708849",
           "text": "tp'd partials on shorts\n\ndoesnt feel like technical bottom to me on majors yet, but it definitely feels like a spiritual bottom on coins, have never seen so much despair here"
+        },
+        {
+          "created_at": "2026-11-11T05:15:29.000Z",
+          "id": "2120384900800884854",
+          "quoted_text": "Ansem is the one shilling this \n\nImagine others big kols like @blknoiz06 all cooperate together \n\nHow parabolic or insane you all think it will go \n\n$mihao in the fucking chat https://t.co/26k5G7LQju",
+          "text": "lets work https://t.co/T8b1OVufEJ"
         }
       ],
       "reads": {
-        "2120299275506655570": "No call",
         "2120299495732768824": "No call",
         "2120302231065157805": "No call",
         "2120304422790250670": "No call",
@@ -1281,15 +1277,10 @@
         "2120346125563789534": "No call",
         "2120363216043704466": "No call",
         "2120380547621163210": "No call",
-        "2120384030436708849": "TRADE TRIM BTC, ETH, SOL shorts \u00b7 VIEW neutral on crypto market"
+        "2120384030436708849": "TRADE TRIM BTC, ETH, SOL shorts \u00b7 VIEW neutral on crypto market",
+        "2120384900800884854": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-11T03:22:44.000Z",
-          "id": "2120356524673450348",
-          "reply_to_id": "2120347130766426430",
-          "text": "@izebel_eth been watching this guy cook lol"
-        },
         {
           "created_at": "2026-11-11T03:26:35.000Z",
           "id": "2120357493906002128",
@@ -1376,15 +1367,15 @@
           "id": "2120384512177696778",
           "reply_to_id": "2120384193641234597",
           "text": "@elchefdesol lets work"
+        },
+        {
+          "created_at": "2026-11-11T05:14:15.000Z",
+          "id": "2120384587071443172",
+          "reply_to_id": "2120384117372289311",
+          "text": "@0xZyaf you feel it"
         }
       ],
       "threads": {
-        "2118292132876480727": {
-          "alerted": [
-            "trade:GOLD:long"
-          ],
-          "self_replies": 0
-        },
         "2118292214832943386": {
           "alerted": [],
           "self_replies": 0
@@ -1801,10 +1792,13 @@
             "bias:crypto market:neutral"
           ],
           "self_replies": 0
+        },
+        "2120384900800884854": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120299275506655570": true,
         "2120299495732768824": false,
         "2120302231065157805": false,
         "2120304422790250670": false,
@@ -1820,7 +1814,6 @@
         "2120340860835598724": false,
         "2120341388768207129": true,
         "2120346125563789534": false,
-        "2120356524673450348": false,
         "2120357493906002128": true,
         "2120357851424313702": false,
         "2120361430331560322": true,
@@ -1838,7 +1831,9 @@
         "2120380547621163210": true,
         "2120383591121297896": false,
         "2120384030436708849": true,
-        "2120384512177696778": false
+        "2120384512177696778": false,
+        "2120384587071443172": false,
+        "2120384900800884854": true
       },
       "user_id": "973261472"
     },
@@ -7125,5 +7120,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T05:14:18+00:00"
+  "updated_at": "2026-11-11T05:16:24+00:00"
 }
