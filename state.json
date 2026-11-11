@@ -1010,7 +1010,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120500536411635877",
+      "last_id": "2120501494638113203",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1126,12 +1126,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T01:13:46.000Z",
-          "id": "2120324070038184064",
-          "quoted_text": "how tf is crypto dead yall not seeing these fuckin mihao niggas? havent seen bag working like this in over a year at least",
-          "text": "how tf is crypto dead yall not seeing these fuckin solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump niggas? havent seen bag working like this in over a year at least https://t.co/Z0DxbPEtSk"
-        },
         {
           "created_at": "2026-11-11T01:40:36.000Z",
           "id": "2120330822381441308",
@@ -1260,10 +1254,15 @@
           "id": "2120500201844605164",
           "quoted_text": "make topblasting great again https://t.co/U9iEQyBdGN",
           "text": "make topblasting great again https://t.co/w87QiQYTB4"
+        },
+        {
+          "created_at": "2026-11-11T12:58:47.000Z",
+          "id": "2120501494638113203",
+          "quoted_text": "shoutout to my favourite BOLs rn\n\n(bagwork opinion leaders)\n\n1. @faceofsol \n2. @basilda_a \n3. @_Shadow36 \n4. @hdegroott \n5. @mikasasolslayer \n\nShowing up everyday, despite conditions and who I think can lead this space to victory\n\n(with believing in something)",
+          "text": "s/o the BOLs https://t.co/Gxxd6tWF7t"
         }
       ],
       "reads": {
-        "2120324070038184064": "No call",
         "2120330822381441308": "No call: bullish on memecoins (65%, too unsure)",
         "2120331477124882934": "No call",
         "2120340685190496413": "No call",
@@ -1281,15 +1280,10 @@
         "2120492437034488221": "No call",
         "2120493557622661458": "No call: bearish on crypto market (60%, too unsure)",
         "2120500077282394114": "No call",
-        "2120500201844605164": "No call"
+        "2120500201844605164": "No call",
+        "2120501494638113203": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-11T06:33:17.000Z",
-          "id": "2120404478474010916",
-          "reply_to_id": "2120398166122238072",
-          "text": "@capexbt watch"
-        },
         {
           "created_at": "2026-11-11T06:43:26.000Z",
           "id": "2120407033119912295",
@@ -1376,13 +1370,15 @@
           "id": "2120500536411635877",
           "reply_to_id": "2120456825757684183",
           "text": "@topGzed lets work"
+        },
+        {
+          "created_at": "2026-11-11T12:58:33.000Z",
+          "id": "2120501434760270069",
+          "reply_to_id": "2120054599998636155",
+          "text": "@isellbeforeyou @faceofsol @basilda_a @_Shadow36 @hdegroott @mikasasolslayer cannot forget @Saint10Fourteen and @RAP3MEFR"
         }
       ],
       "threads": {
-        "2118353945370489099": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118354783723786478": {
           "alerted": [],
           "self_replies": 0
@@ -1801,10 +1797,13 @@
         "2120500201844605164": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120501494638113203": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120324070038184064": true,
         "2120330822381441308": false,
         "2120331477124882934": true,
         "2120340685190496413": false,
@@ -1816,7 +1815,6 @@
         "2120380547621163210": true,
         "2120384030436708849": true,
         "2120384900800884854": true,
-        "2120404478474010916": false,
         "2120406159815331896": false,
         "2120407033119912295": true,
         "2120409639657291931": true,
@@ -1838,7 +1836,9 @@
         "2120500077282394114": false,
         "2120500140435972382": false,
         "2120500201844605164": true,
-        "2120500536411635877": false
+        "2120500536411635877": false,
+        "2120501434760270069": false,
+        "2120501494638113203": false
       },
       "user_id": "973261472"
     },
@@ -7124,6 +7124,6 @@
     }
   },
   "markets_labeled": true,
-  "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T12:56:17+00:00"
+  "summary_date": "2026-11-11",
+  "updated_at": "2026-11-11T13:00:29+00:00"
 }
