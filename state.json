@@ -1006,7 +1006,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120334707858759896",
+      "last_id": "2120334929829511287",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1301,12 +1301,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-10T23:51:39.000Z",
-          "id": "2120303403821846645",
-          "reply_to_id": "2120247840030982394",
-          "text": "@bigwarzeth pfp up."
-        },
-        {
           "created_at": "2026-11-10T23:52:10.000Z",
           "id": "2120303533530726491",
           "reply_to_id": "2120303125794066931",
@@ -1389,6 +1383,12 @@
           "id": "2120334707858759896",
           "reply_to_id": "2120328208872542256",
           "text": "@ponzibaron bring back bagworking\n\nbring back hardworking devs\n\nbring back communities raiding on the timeline\n\nbring back positive vibes onchain"
+        },
+        {
+          "created_at": "2026-11-11T01:56:55.000Z",
+          "id": "2120334929829511287",
+          "reply_to_id": "2120174726551159125",
+          "text": "@LagxSol my fault og"
         }
       ],
       "threads": {
@@ -1825,7 +1825,6 @@
         "2120299275506655570": true,
         "2120299495732768824": false,
         "2120302231065157805": false,
-        "2120303403821846645": false,
         "2120303533530726491": false,
         "2120304422790250670": false,
         "2120309998723182905": true,
@@ -1848,7 +1847,8 @@
         "2120329486520508812": true,
         "2120330822381441308": false,
         "2120331477124882934": true,
-        "2120334707858759896": true
+        "2120334707858759896": true,
+        "2120334929829511287": false
       },
       "user_id": "973261472"
     },
@@ -7135,5 +7135,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-10",
-  "updated_at": "2026-11-11T01:56:21+00:00"
+  "updated_at": "2026-11-11T01:58:19+00:00"
 }
