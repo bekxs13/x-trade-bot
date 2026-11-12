@@ -6414,7 +6414,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120969204128235808",
+      "last_id": "2120990011680284676",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6431,6 +6431,22 @@
           "since": "2026-11-05T16:11:16.000Z",
           "structure": "spot",
           "url": "https://x.com/thinkingusd/status/2118720688349659268"
+        },
+        "HYPE": {
+          "asset": "HYPE",
+          "chain": "other",
+          "confidence": 0.75,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "",
+          "market": "crypto",
+          "open_price": 71.74,
+          "post_id": "2120990011680284676",
+          "reason": "Post says the book runs 'spot hype + cash + derivative shorts' and the image shows HYPE as the largest spot weight at 44.7% of AUM. It reads as a performance showcase of an existing book, not a fresh entry.",
+          "since": "2026-11-12T21:19:59.000Z",
+          "structure": "spot",
+          "url": "https://x.com/thinkingusd/status/2120990011680284676"
         },
         "SOXL": {
           "asset": "SOXL",
@@ -6450,11 +6466,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T22:58:10.000Z",
-          "id": "2120652331276779817",
-          "text": "New head of NVDA is going to be some guy named Ross Keller who's served on the national security council for 20 years with deep expertise in Taiwan political affairs and a China hawk.\n\nSpooks in control"
-        },
         {
           "created_at": "2026-11-11T23:00:49.000Z",
           "id": "2120652998020153735",
@@ -6557,10 +6568,17 @@
           "created_at": "2026-11-12T19:01:13.000Z",
           "id": "2120955088197812345",
           "text": "We are fucking cooking with @fullstack_trade.\n\nI've never been more excited to release a project in my life. We're building the best trading front end in the world with cutting edge execution.\n\nIf you're interested in joining our team in NYC, working with people from top trading firms apply today:\n\nhttps://t.co/q5O9gtkXAE"
+        },
+        {
+          "created_at": "2026-11-12T21:19:59.000Z",
+          "id": "2120990011680284676",
+          "images": [
+            "https://pbs.twimg.com/media/HW9FC6fWYAAgrM2.jpg"
+          ],
+          "text": "Here's one of our trading books where we've run spot hype + cash + derivative shorts. \n\nSetting aside concentration risk it's quite a bit of alpha! https://t.co/hUiE9IL19b"
         }
       ],
       "reads": {
-        "2120652331276779817": "No call",
         "2120652998020153735": "No call",
         "2120653852588617981": "No call",
         "2120654125029277917": "Read together with the post it replies to",
@@ -6578,7 +6596,8 @@
         "2120933886100152481": "No call",
         "2120934928602779707": "No call",
         "2120950653098832289": "No call",
-        "2120955088197812345": "No call"
+        "2120955088197812345": "No call",
+        "2120990011680284676": "TRADE LONG HYPE"
       },
       "replies": [
         {
@@ -6676,10 +6695,6 @@
         }
       ],
       "threads": {
-        "2111173105548931476": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111179389362937999": {
           "alerted": [],
           "self_replies": 0
@@ -7093,6 +7108,12 @@
         "2120955088197812345": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120990011680284676": {
+          "alerted": [
+            "trade:HYPE:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7103,7 +7124,6 @@
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
-        "2120652331276779817": true,
         "2120652998020153735": false,
         "2120653852588617981": false,
         "2120654125029277917": false,
@@ -7130,7 +7150,8 @@
         "2120942476978483206": false,
         "2120950653098832289": true,
         "2120955088197812345": false,
-        "2120969204128235808": true
+        "2120969204128235808": true,
+        "2120990011680284676": true
       },
       "user_id": "809191427645181952"
     }
@@ -7153,5 +7174,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T21:18:19+00:00"
+  "updated_at": "2026-11-12T21:20:27+00:00"
 }
