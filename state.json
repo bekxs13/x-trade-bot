@@ -1005,7 +1005,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120709100548010135",
+      "last_id": "2120709507181584503",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1122,12 +1122,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-11T14:48:24.000Z",
-          "id": "2120529080261165227",
-          "quoted_text": "The Pumpfun leaderboard has come a long way. \n\nLook at the numbers our users are pulling in this market. \n\nJust getting started! https://t.co/fdzzetmcOl",
-          "text": "make bagworking great again. https://t.co/zOhEXpBMDj"
-        },
-        {
           "created_at": "2026-11-11T16:40:20.000Z",
           "id": "2120557247843487785",
           "images": [
@@ -1239,10 +1233,15 @@
           "created_at": "2026-11-12T02:38:08.000Z",
           "id": "2120707686794928479",
           "text": "the combined realized+unrealized PNL of traders who tailed my last pumpfun callout is +$864k"
+        },
+        {
+          "created_at": "2026-11-12T02:45:22.000Z",
+          "id": "2120709507181584503",
+          "reply_to_id": "2120709465968132204",
+          "text": "@HFTD3G3N also i dont have any side wallets"
         }
       ],
       "reads": {
-        "2120529080261165227": "No call",
         "2120557247843487785": "No call: bullish on solana memes (same view as before)",
         "2120562627621380222": "No call",
         "2120562969071239665": "No call",
@@ -1264,12 +1263,6 @@
         "2120707686794928479": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-11T17:05:29.000Z",
-          "id": "2120563576809427141",
-          "reply_to_id": "2120549525605531854",
-          "text": "@ashtoshii i didnt even see it in any chats before i bought i legit just saw it on the app, they are in every coin before me because they are more active in the trenches than me, its really not more complicated than that"
-        },
         {
           "created_at": "2026-11-11T17:21:01.000Z",
           "id": "2120567486085275936",
@@ -1362,6 +1355,12 @@
           "id": "2120709100548010135",
           "reply_to_id": "2120705086901088498",
           "text": "@izebel_eth can u make a bitmex ui"
+        },
+        {
+          "created_at": "2026-11-12T02:45:12.000Z",
+          "id": "2120709465968132204",
+          "reply_to_id": "2120708838680625490",
+          "text": "@HFTD3G3N if you can name one person who knew i was going to buy this coin yesterday ill send you one million dollars right now"
         }
       ],
       "threads": {
@@ -1780,11 +1779,9 @@
         }
       },
       "trading": {
-        "2120529080261165227": true,
         "2120557247843487785": true,
         "2120562627621380222": false,
         "2120562969071239665": true,
-        "2120563576809427141": true,
         "2120567486085275936": true,
         "2120568367337677186": false,
         "2120572179137880239": true,
@@ -1814,7 +1811,9 @@
         "2120668467955171356": true,
         "2120707686794928479": true,
         "2120708502184235191": false,
-        "2120709100548010135": false
+        "2120709100548010135": false,
+        "2120709465968132204": true,
+        "2120709507181584503": false
       },
       "user_id": "973261472"
     },
@@ -7082,5 +7081,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-12T02:44:20+00:00"
+  "updated_at": "2026-11-12T02:46:22+00:00"
 }
