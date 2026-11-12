@@ -4584,7 +4584,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120892665038541245",
+      "last_id": "2120895187102892181",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4767,12 +4767,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-11T22:21:14.000Z",
-          "id": "2120643039463092326",
-          "reply_to_id": "2120642857216458784",
-          "text": "@blknoiz06 no middleground here \n\ni look forward to hearing about affair #3 and #4"
-        },
-        {
           "created_at": "2026-11-11T22:25:32.000Z",
           "id": "2120644119131480266",
           "reply_to_id": "2120643987513954484",
@@ -4858,6 +4852,12 @@
           "id": "2120871601818198019",
           "reply_to_id": "2120871231864082878",
           "text": "@_tolks \ud83d\ude2d"
+        },
+        {
+          "created_at": "2026-11-12T15:03:11.000Z",
+          "id": "2120895187102892181",
+          "reply_to_id": "2120895026754617723",
+          "text": "@ThinkingUSD what a nice guy"
         }
       ],
       "threads": {
@@ -5271,7 +5271,6 @@
         "2120637627749564856": true,
         "2120638901740278045": true,
         "2120640023234003182": true,
-        "2120643039463092326": false,
         "2120644119131480266": false,
         "2120645115320655949": false,
         "2120646293773000962": true,
@@ -5297,7 +5296,8 @@
         "2120870843765146078": true,
         "2120871601818198019": false,
         "2120874376098730257": true,
-        "2120892665038541245": false
+        "2120892665038541245": false,
+        "2120895187102892181": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6356,7 +6356,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120886448425681182",
+      "last_id": "2120895026754617723",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6392,14 +6392,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T17:03:12.000Z",
-          "id": "2120563000012832946",
-          "images": [
-            "https://pbs.twimg.com/media/HW3Azu7WQAA817v.jpg"
-          ],
-          "text": "Neon Genesis Evangelion https://t.co/b2GhkJICwY"
-        },
         {
           "created_at": "2026-11-11T17:19:21.000Z",
           "id": "2120567064611951044",
@@ -6499,10 +6491,14 @@
           "created_at": "2026-11-12T14:28:28.000Z",
           "id": "2120886448425681182",
           "text": "I look forward to buying your coins from you at a lower price"
+        },
+        {
+          "created_at": "2026-11-12T15:02:33.000Z",
+          "id": "2120895026754617723",
+          "text": "I hope everyone is profitable trading and wish everyone success"
         }
       ],
       "reads": {
-        "2120563000012832946": "No call",
         "2120567064611951044": "No call",
         "2120570187829366807": "No call",
         "2120577037370818795": "No call",
@@ -6519,7 +6515,8 @@
         "2120653852588617981": "No call",
         "2120654125029277917": "Read together with the post it replies to",
         "2120656959024115846": "No call",
-        "2120886448425681182": "No call: bearish on crypto market (60%, too unsure)"
+        "2120886448425681182": "No call: bearish on crypto market (60%, too unsure)",
+        "2120895026754617723": "No call"
       },
       "replies": [
         {
@@ -6614,10 +6611,6 @@
         }
       ],
       "threads": {
-        "2110846742430408938": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111093318365196739": {
           "alerted": [],
           "self_replies": 0
@@ -7031,6 +7024,10 @@
         "2120886448425681182": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120895026754617723": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7049,7 +7046,6 @@
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
-        "2120563000012832946": false,
         "2120567064611951044": true,
         "2120570187829366807": false,
         "2120577037370818795": true,
@@ -7068,7 +7064,8 @@
         "2120653852588617981": false,
         "2120654125029277917": false,
         "2120656959024115846": true,
-        "2120886448425681182": true
+        "2120886448425681182": true,
+        "2120895026754617723": true
       },
       "user_id": "809191427645181952"
     }
@@ -7091,5 +7088,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T14:54:28+00:00"
+  "updated_at": "2026-11-12T15:04:27+00:00"
 }
