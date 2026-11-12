@@ -6356,7 +6356,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120896790807642297",
+      "last_id": "2120897694810182133",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6392,11 +6392,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T17:31:45.000Z",
-          "id": "2120570187829366807",
-          "text": "Ramiel Capital: We do hate speech and retail trading applications"
-        },
         {
           "created_at": "2026-11-11T17:58:58.000Z",
           "id": "2120577037370818795",
@@ -6496,10 +6491,14 @@
           "created_at": "2026-11-12T15:09:33.000Z",
           "id": "2120896790807642297",
           "text": "Clear sign of an unprofitable trader is a guy who makes fun of someone for switching their bias.\n\nMarkets change the rules all the time. You have to remain intellectually flexible."
+        },
+        {
+          "created_at": "2026-11-12T15:13:09.000Z",
+          "id": "2120897694810182133",
+          "text": "https://t.co/YQHqOxMf5O"
         }
       ],
       "reads": {
-        "2120570187829366807": "No call",
         "2120577037370818795": "No call",
         "2120585351219789956": "No call",
         "2120588671837757910": "No call",
@@ -6516,7 +6515,8 @@
         "2120656959024115846": "No call",
         "2120886448425681182": "No call: bearish on crypto market (60%, too unsure)",
         "2120895026754617723": "No call",
-        "2120896790807642297": "No call"
+        "2120896790807642297": "No call",
+        "2120897694810182133": "No call"
       },
       "replies": [
         {
@@ -6611,10 +6611,6 @@
         }
       ],
       "threads": {
-        "2111098312845861289": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111114374412636556": {
           "alerted": [],
           "self_replies": 0
@@ -7028,6 +7024,10 @@
         "2120896790807642297": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120897694810182133": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7046,7 +7046,6 @@
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
-        "2120570187829366807": false,
         "2120577037370818795": true,
         "2120585351219789956": false,
         "2120588671837757910": true,
@@ -7065,7 +7064,8 @@
         "2120656959024115846": true,
         "2120886448425681182": true,
         "2120895026754617723": true,
-        "2120896790807642297": true
+        "2120896790807642297": true,
+        "2120897694810182133": false
       },
       "user_id": "809191427645181952"
     }
@@ -7088,5 +7088,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T15:10:24+00:00"
+  "updated_at": "2026-11-12T15:14:27+00:00"
 }
