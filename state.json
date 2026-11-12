@@ -2230,7 +2230,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120886121689407518",
+      "last_id": "2120887119048581298",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2250,12 +2250,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T15:22:46.000Z",
-          "id": "2120537725686493348",
-          "reply_to_id": "2120537214329245873",
-          "text": "HFT is like the worst spot for trading too because the risk is so low relative to mid/long frequency (so is entering those spaces too but sure there will be human oversight for a while)"
-        },
         {
           "created_at": "2026-11-11T20:36:28.000Z",
           "id": "2120616674046955602",
@@ -2365,10 +2359,17 @@
           "created_at": "2026-11-12T14:27:10.000Z",
           "id": "2120886121689407518",
           "text": "citrini actually predicted this in May, he said spx would flirt with 8000 and then jensen huang would flirt with women working in chinese intelligence and the stock market would crash"
+        },
+        {
+          "created_at": "2026-11-12T14:31:08.000Z",
+          "id": "2120887119048581298",
+          "images": [
+            "https://pbs.twimg.com/media/HW7ne5bWkAA6b4m.jpg"
+          ],
+          "text": "this is the barometer about how retail feels about the ai trade because there are shitcos that people actually in the know (who are bullish ai) really dislike https://t.co/DIRpgSCNHm"
         }
       ],
       "reads": {
-        "2120537725686493348": "No call",
         "2120616674046955602": "No call",
         "2120642538449088837": "No call",
         "2120643578271514984": "No call",
@@ -2387,7 +2388,8 @@
         "2120734804689965186": "No call",
         "2120878056625652020": "No call",
         "2120878567269806153": "No call",
-        "2120886121689407518": "No call"
+        "2120886121689407518": "No call",
+        "2120887119048581298": "No call"
       },
       "replies": [
         {
@@ -2482,10 +2484,6 @@
         }
       ],
       "threads": {
-        "2115535426589241612": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115575054545072216": {
           "alerted": [],
           "self_replies": 0
@@ -2883,6 +2881,10 @@
         "2120886121689407518": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120887119048581298": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -2890,7 +2892,6 @@
         "2120360748522283447": false,
         "2120473865650589780": false,
         "2120536888285299022": true,
-        "2120537725686493348": true,
         "2120538487615295600": true,
         "2120577702465818808": false,
         "2120616674046955602": true,
@@ -2920,7 +2921,8 @@
         "2120734804689965186": false,
         "2120878056625652020": true,
         "2120878567269806153": true,
-        "2120886121689407518": true
+        "2120886121689407518": true,
+        "2120887119048581298": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7089,5 +7091,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T14:30:33+00:00"
+  "updated_at": "2026-11-12T14:32:35+00:00"
 }
