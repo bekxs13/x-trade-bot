@@ -1011,7 +1011,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120929866396897737",
+      "last_id": "2120931029938577621",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1127,11 +1127,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T23:36:50.000Z",
-          "id": "2120662063538204679",
-          "text": "6"
-        },
         {
           "created_at": "2026-11-12T00:02:17.000Z",
           "id": "2120668467955171356",
@@ -1261,10 +1256,15 @@
           "created_at": "2026-11-12T14:20:09.000Z",
           "id": "2120884358374359168",
           "text": "https://t.co/z9QuOWztSP"
+        },
+        {
+          "created_at": "2026-11-12T17:24:46.000Z",
+          "id": "2120930818675835074",
+          "quoted_text": "Fears of open source providers shutting down is an opportunity for the crypto community to stand on its cypherpunk ideals and create a decentralized solution https://t.co/DGCJfklXfc",
+          "text": "i like this bull case, i can work with this https://t.co/h5uistXHpQ"
         }
       ],
       "reads": {
-        "2120662063538204679": "No call",
         "2120668467955171356": "No call",
         "2120707686794928479": "No call",
         "2120711870596399159": "No call",
@@ -1280,15 +1280,10 @@
         "2120875832256160012": "No call",
         "2120876101543379312": "No call",
         "2120878236800270790": "No call",
-        "2120884358374359168": "No call"
+        "2120884358374359168": "No call",
+        "2120930818675835074": "No call: bullish on ai coins (55%, too unsure)"
       },
       "replies": [
-        {
-          "created_at": "2026-11-12T12:06:20.000Z",
-          "id": "2120850681687150850",
-          "reply_to_id": "2120850399288558038",
-          "text": "@southldnft @Pumpfun i dont get paid to tweet i get paid to use the app"
-        },
         {
           "created_at": "2026-11-12T12:25:05.000Z",
           "id": "2120855397678592177",
@@ -1375,13 +1370,15 @@
           "id": "2120929866396897737",
           "reply_to_id": "2120926139627839559",
           "text": "@notwashed i am genuinely trying my best to not fall into this camp"
+        },
+        {
+          "created_at": "2026-11-12T17:25:37.000Z",
+          "id": "2120931029938577621",
+          "reply_to_id": "2120929801359831500",
+          "text": "@Tradermayne @tradingview its so fucked bro"
         }
       ],
       "threads": {
-        "2118750548912456032": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118755232641409354": {
           "alerted": [],
           "self_replies": 0
@@ -1790,10 +1787,13 @@
         "2120884358374359168": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120930818675835074": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120662063538204679": false,
         "2120668467955171356": true,
         "2120707686794928479": true,
         "2120709507181584503": false,
@@ -1803,7 +1803,6 @@
         "2120833445408510011": true,
         "2120835250498461829": true,
         "2120845385971499478": false,
-        "2120850681687150850": false,
         "2120851782272471418": false,
         "2120854917074264185": false,
         "2120855397678592177": false,
@@ -1827,7 +1826,9 @@
         "2120884358374359168": false,
         "2120902344141652185": false,
         "2120929359833772452": false,
-        "2120929866396897737": false
+        "2120929866396897737": false,
+        "2120930818675835074": true,
+        "2120931029938577621": false
       },
       "user_id": "973261472"
     },
@@ -7098,5 +7099,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T17:24:24+00:00"
+  "updated_at": "2026-11-12T17:26:24+00:00"
 }
