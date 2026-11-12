@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2120749639129583796",
+      "last_id": "2120753335871660350",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,11 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-08T08:59:59.000Z",
-          "id": "2119354232969232673",
-          "text": "People assume every anthropic employee is a pedophile but I think that\u2019s a gross overgeneralization"
-        },
         {
           "created_at": "2026-11-08T09:03:05.000Z",
           "id": "2119355012774306261",
@@ -269,10 +264,14 @@
             "https://pbs.twimg.com/media/HW5fVrea0AA-nmr.jpg"
           ],
           "text": "MLM https://t.co/GgGh4rY0df"
+        },
+        {
+          "created_at": "2026-11-12T05:39:31.000Z",
+          "id": "2120753335871660350",
+          "text": "First rule of politics, kiddo: never let the truth get in the way of a good story"
         }
       ],
       "reads": {
-        "2119354232969232673": "No call",
         "2119355012774306261": "No call",
         "2119356871970902032": "No call",
         "2119378209318068632": "No call",
@@ -289,7 +288,8 @@
         "2120684253185016306": "No call",
         "2120684321325584887": "Read together with the post it replies to",
         "2120704243783094781": "No call",
-        "2120737326645338509": "No call"
+        "2120737326645338509": "No call",
+        "2120753335871660350": "No call"
       },
       "replies": [
         {
@@ -393,10 +393,6 @@
         }
       ],
       "threads": {
-        "2114940232256868497": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114967310498992380": {
           "alerted": [],
           "self_replies": 0
@@ -795,13 +791,16 @@
         "2120737326645338509": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120753335871660350": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2119237974978433429": false,
         "2119330801938731223": false,
         "2119331577608155616": false,
-        "2119354232969232673": false,
         "2119355012774306261": false,
         "2119356871970902032": false,
         "2119378209318068632": false,
@@ -832,7 +831,8 @@
         "2120726647121023289": false,
         "2120732806049603802": false,
         "2120737326645338509": false,
-        "2120749639129583796": false
+        "2120749639129583796": false,
+        "2120753335871660350": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7082,5 +7082,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-12T05:26:19+00:00"
+  "updated_at": "2026-11-12T05:40:25+00:00"
 }
