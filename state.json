@@ -6356,7 +6356,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120922255936929882",
+      "last_id": "2120928590464233529",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6392,17 +6392,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T18:45:12.000Z",
-          "id": "2120588671837757910",
-          "text": "Before you post PnL STOP\n\nYou have to consider the feelings of the people on the other side of your trade. It's not NICE for you to celebrate when other people lose. We need to find a way where everyone can win trading."
-        },
-        {
-          "created_at": "2026-11-11T18:54:18.000Z",
-          "id": "2120590962443403732",
-          "reply_to_id": "2120543237341646968",
-          "text": "@SoskaKyle Sorry this post wasn't very nice or full of empathy for the counterparties on this trade. \n\nWe're going to be nicemaxxing going forward and making sure everyone wins."
-        },
         {
           "created_at": "2026-11-11T18:56:41.000Z",
           "id": "2120591562208051377",
@@ -6499,10 +6488,20 @@
             "https://pbs.twimg.com/media/HW74Zi4XYAA6jMk.png"
           ],
           "text": "Truly https://t.co/WRFlcDLn2U"
+        },
+        {
+          "created_at": "2026-11-12T17:15:02.000Z",
+          "id": "2120928369823096999",
+          "text": "So bullish, 10YR back above 5.1%"
+        },
+        {
+          "created_at": "2026-11-12T17:15:55.000Z",
+          "id": "2120928590464233529",
+          "quoted_text": "Derisked because 10Y",
+          "text": "It's literally that simple sometimes\n\nTepper mode https://t.co/qKmXdZW0Yf"
         }
       ],
       "reads": {
-        "2120588671837757910": "No call",
         "2120591562208051377": "No call",
         "2120640693970579557": "No call",
         "2120642470094753845": "No call",
@@ -6519,7 +6518,9 @@
         "2120896790807642297": "No call",
         "2120897694810182133": "No call",
         "2120898402485715425": "No call",
-        "2120905750033916381": "No call"
+        "2120905750033916381": "No call",
+        "2120928369823096999": "No call: bearish on stocks/macro (60%, too unsure)",
+        "2120928590464233529": "No call: maybe trim SOXL (50%, too unsure)"
       },
       "replies": [
         {
@@ -6617,14 +6618,6 @@
         }
       ],
       "threads": {
-        "2111116591400468819": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2111120109729407227": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111139510926893163": {
           "alerted": [],
           "self_replies": 0
@@ -7034,6 +7027,14 @@
         "2120905750033916381": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120928369823096999": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2120928590464233529": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7051,8 +7052,6 @@
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
-        "2120588671837757910": true,
-        "2120590962443403732": true,
         "2120591562208051377": false,
         "2120640693970579557": true,
         "2120642470094753845": false,
@@ -7071,7 +7070,9 @@
         "2120897694810182133": false,
         "2120898402485715425": false,
         "2120905750033916381": false,
-        "2120922255936929882": false
+        "2120922255936929882": false,
+        "2120928369823096999": true,
+        "2120928590464233529": true
       },
       "user_id": "809191427645181952"
     }
@@ -7094,5 +7095,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T16:52:19+00:00"
+  "updated_at": "2026-11-12T17:16:34+00:00"
 }
