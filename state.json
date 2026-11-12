@@ -1011,7 +1011,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120878236800270790",
+      "last_id": "2120884358374359168",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1127,11 +1127,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T23:36:25.000Z",
-          "id": "2120661956885700818",
-          "text": "7"
-        },
         {
           "created_at": "2026-11-11T23:36:50.000Z",
           "id": "2120662063538204679",
@@ -1261,10 +1256,14 @@
           "id": "2120878236800270790",
           "quoted_text": "$NVDA  - BREAKING: NVIDIA CEO JENSEN HUANG RESIGNS EFFECTIVE IMMEDIATELY\n\nNvidia announces a major leadership shake-up:\n\n\ud83d\udd38 Jensen Huang resigns as CEO, president and board member, effective immediately.\n\ud83d\udd38 Colette Kress, Nvidia's CFO, appointed interim CEO.\n\ud83d\udd38 Harvey C. Jones named board chair.\n\ud83d\udd38 Search for permanent CEO begins, considering internal and external candidates.\n\nHuang's departure ends his 33-year tenure leading the AI chip giant he co-founded.",
           "text": "oh my god https://t.co/IKIj09gWAL"
+        },
+        {
+          "created_at": "2026-11-12T14:20:09.000Z",
+          "id": "2120884358374359168",
+          "text": "https://t.co/z9QuOWztSP"
         }
       ],
       "reads": {
-        "2120661956885700818": "No call",
         "2120662063538204679": "No call",
         "2120668467955171356": "No call",
         "2120707686794928479": "No call",
@@ -1280,7 +1279,8 @@
         "2120875227622277535": "No call",
         "2120875832256160012": "No call",
         "2120876101543379312": "No call",
-        "2120878236800270790": "No call"
+        "2120878236800270790": "No call",
+        "2120884358374359168": "No call"
       },
       "replies": [
         {
@@ -1375,10 +1375,6 @@
         }
       ],
       "threads": {
-        "2118748641817153640": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118750548912456032": {
           "alerted": [],
           "self_replies": 0
@@ -1787,10 +1783,13 @@
         "2120878236800270790": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120884358374359168": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120661956885700818": false,
         "2120662063538204679": false,
         "2120668467955171356": true,
         "2120707686794928479": true,
@@ -1824,7 +1823,8 @@
         "2120875832256160012": true,
         "2120876101543379312": true,
         "2120877433306190176": false,
-        "2120878236800270790": true
+        "2120878236800270790": true,
+        "2120884358374359168": false
       },
       "user_id": "973261472"
     },
@@ -7093,5 +7093,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T13:58:24+00:00"
+  "updated_at": "2026-11-12T14:22:26+00:00"
 }
