@@ -2230,7 +2230,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120887119048581298",
+      "last_id": "2120896056770641999",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2393,12 +2393,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-11T02:18:21.000Z",
-          "id": "2120340324115472630",
-          "reply_to_id": "2120337580306698246",
-          "text": "@YosarianTwo @NLRG_it if you have a family to take care of i just don't think that's true. you get a lot of expenses you weren't used to as well (big one: health insurance)"
-        },
-        {
           "created_at": "2026-11-11T03:39:31.000Z",
           "id": "2120360748522283447",
           "reply_to_id": "2120359482660110739",
@@ -2481,6 +2475,12 @@
           "id": "2120732715708239968",
           "reply_to_id": "2120671215249711343",
           "text": "@based16z more importantly nobody in ct has sex"
+        },
+        {
+          "created_at": "2026-11-12T15:06:38.000Z",
+          "id": "2120896056770641999",
+          "reply_to_id": "2120726750359658582",
+          "text": "@zavetn0e i would hope my future wife understands sarcastic humor"
         }
       ],
       "threads": {
@@ -2888,7 +2888,6 @@
         }
       },
       "trading": {
-        "2120340324115472630": false,
         "2120360748522283447": false,
         "2120473865650589780": false,
         "2120536888285299022": true,
@@ -2922,7 +2921,8 @@
         "2120878056625652020": true,
         "2120878567269806153": true,
         "2120886121689407518": true,
-        "2120887119048581298": true
+        "2120887119048581298": true,
+        "2120896056770641999": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7088,5 +7088,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T15:04:27+00:00"
+  "updated_at": "2026-11-12T15:08:22+00:00"
 }
