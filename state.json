@@ -6359,7 +6359,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120933886100152481",
+      "last_id": "2120934928602779707",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6395,11 +6395,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T22:19:59.000Z",
-          "id": "2120642725154263271",
-          "text": "The only consideration they need to make for Jensen\u2019s replacement is whoever is the nicest guy at NVDA"
-        },
         {
           "created_at": "2026-11-11T22:25:00.000Z",
           "id": "2120643987513954484",
@@ -6502,10 +6497,15 @@
           "created_at": "2026-11-12T17:36:58.000Z",
           "id": "2120933886100152481",
           "text": "My old high school rejected my significant gift to establish a finance club where students can propose one trade and the portfolio will sit in 33% SPX 33% IBIT and 33% SGOV to illustrate the differences in returns. \n\nAs we approach end of year, what other math and finance charties do people think are exceptional?"
+        },
+        {
+          "created_at": "2026-11-12T17:41:06.000Z",
+          "id": "2120934928602779707",
+          "reply_to_id": "2120933886100152481",
+          "text": "It also included a fully paid trip for all students in the club to the New York stock exchange, and 2+ full college scholarships for exceptional students in the club.\n\nMy goal was to establish a sustainable club where the compounded returns would eventually finance itself without the need for additional contributions. \n\nThis model could expand out to other schools to encourage financial literacy that is not currently in school curriculum."
         }
       ],
       "reads": {
-        "2120642725154263271": "No call",
         "2120643987513954484": "No call",
         "2120645516325458002": "No call",
         "2120652331276779817": "No call",
@@ -6523,7 +6523,8 @@
         "2120928590464233529": "No call: maybe trim SOXL (50%, too unsure)",
         "2120929784951890402": "No call: maybe exit BTC, SOXL (60%, too unsure)",
         "2120930157716500796": "No call",
-        "2120933886100152481": "No call"
+        "2120933886100152481": "No call",
+        "2120934928602779707": "No call"
       },
       "replies": [
         {
@@ -7037,7 +7038,7 @@
         },
         "2120933886100152481": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
@@ -7054,7 +7055,6 @@
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
-        "2120642725154263271": true,
         "2120643987513954484": false,
         "2120645516325458002": false,
         "2120646674443907075": false,
@@ -7075,7 +7075,8 @@
         "2120929784951890402": true,
         "2120930157716500796": false,
         "2120930300046049477": true,
-        "2120933886100152481": true
+        "2120933886100152481": true,
+        "2120934928602779707": false
       },
       "user_id": "809191427645181952"
     }
@@ -7098,5 +7099,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T17:38:23+00:00"
+  "updated_at": "2026-11-12T17:42:20+00:00"
 }
