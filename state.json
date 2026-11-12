@@ -1011,7 +1011,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120850681687150850",
+      "last_id": "2120851782272471418",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1128,14 +1128,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-11T20:40:56.000Z",
-          "id": "2120617794488127516",
-          "images": [
-            "https://pbs.twimg.com/media/HW3ypKXW8AAF9qm.jpg"
-          ],
-          "text": "$mihao mafia pfp check in https://t.co/iqhRDDtfBE"
-        },
-        {
           "created_at": "2026-11-11T20:51:17.000Z",
           "id": "2120620399629377874",
           "text": "really believe custom meme-pairs are going to be the trenches own infinite flywheel"
@@ -1250,10 +1242,15 @@
             "https://pbs.twimg.com/media/HW7BovdWMAAkyds.jpg"
           ],
           "text": "gmihao https://t.co/mkg1xAIfGg"
+        },
+        {
+          "created_at": "2026-11-12T12:10:43.000Z",
+          "id": "2120851782272471418",
+          "quoted_text": "\"you already know what to do, you're just negotiating with comfort\" https://t.co/XC5RxeJcO2",
+          "text": "banger https://t.co/ydpwRvDD2p"
         }
       ],
       "reads": {
-        "2120617794488127516": "No call",
         "2120620399629377874": "No call",
         "2120642083254046950": "No call",
         "2120642272228454457": "No call",
@@ -1271,7 +1268,8 @@
         "2120830982592802988": "No call",
         "2120833445408510011": "No call",
         "2120835250498461829": "No call",
-        "2120845385971499478": "No call"
+        "2120845385971499478": "No call",
+        "2120851782272471418": "No call"
       },
       "replies": [
         {
@@ -1366,10 +1364,6 @@
         }
       ],
       "threads": {
-        "2118737595798548683": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118739508548038858": {
           "alerted": [],
           "self_replies": 0
@@ -1778,10 +1772,13 @@
         "2120845385971499478": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120851782272471418": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120617794488127516": true,
         "2120620399629377874": true,
         "2120642083254046950": true,
         "2120642272228454457": false,
@@ -1815,7 +1812,8 @@
         "2120844483898339334": false,
         "2120844685753065585": false,
         "2120845385971499478": false,
-        "2120850681687150850": false
+        "2120850681687150850": false,
+        "2120851782272471418": false
       },
       "user_id": "973261472"
     },
@@ -7085,5 +7083,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-12T12:08:18+00:00"
+  "updated_at": "2026-11-12T12:12:22+00:00"
 }
