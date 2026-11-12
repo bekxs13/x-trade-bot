@@ -6359,7 +6359,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120929784951890402",
+      "last_id": "2120930300046049477",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6395,11 +6395,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T22:11:55.000Z",
-          "id": "2120640693970579557",
-          "text": "Jay Gould mode"
-        },
         {
           "created_at": "2026-11-11T22:18:59.000Z",
           "id": "2120642470094753845",
@@ -6502,10 +6497,14 @@
           "created_at": "2026-11-12T17:20:40.000Z",
           "id": "2120929784951890402",
           "text": "Sitting in cash, tending to my garden and nicemaxxing"
+        },
+        {
+          "created_at": "2026-11-12T17:22:09.000Z",
+          "id": "2120930157716500796",
+          "text": "I appreciate the people reaching out over email/DM asking if we're open to running capital but currently we are capacity constrained at the family office with our capital alone. I don't feel like replying to everyone so tweeting this as a PSA.\n\nThank you for your interest but no."
         }
       ],
       "reads": {
-        "2120640693970579557": "No call",
         "2120642470094753845": "No call",
         "2120642725154263271": "No call",
         "2120643987513954484": "No call",
@@ -6523,15 +6522,10 @@
         "2120905750033916381": "No call",
         "2120928369823096999": "No call: bearish on stocks/macro (60%, too unsure)",
         "2120928590464233529": "No call: maybe trim SOXL (50%, too unsure)",
-        "2120929784951890402": "No call: maybe exit BTC, SOXL (60%, too unsure)"
+        "2120929784951890402": "No call: maybe exit BTC, SOXL (60%, too unsure)",
+        "2120930157716500796": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-16T16:43:27.000Z",
-          "id": "2111135946112397498",
-          "reply_to_id": "2111133375520026872",
-          "text": "@Duhhhduhhhduhhh Where did I say people should long in this tweet?"
-        },
         {
           "created_at": "2026-10-16T19:51:17.000Z",
           "id": "2111183217843679578",
@@ -6618,13 +6612,15 @@
           ],
           "reply_to_id": "2120875227622277535",
           "text": "@blknoiz06 I was born here https://t.co/6lzUvL4w5J"
+        },
+        {
+          "created_at": "2026-11-12T17:22:43.000Z",
+          "id": "2120930300046049477",
+          "reply_to_id": "2120929954384711990",
+          "text": "@NFTweb_3 Tens of millions of dollars but that's more of a core position not really something I think about"
         }
       ],
       "threads": {
-        "2111144786912522255": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111161559317946701": {
           "alerted": [],
           "self_replies": 0
@@ -7038,10 +7034,13 @@
         "2120929784951890402": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120930157716500796": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2111135946112397498": true,
         "2111183217843679578": false,
         "2111505410444411366": true,
         "2111581235793588319": true,
@@ -7055,7 +7054,6 @@
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
-        "2120640693970579557": true,
         "2120642470094753845": false,
         "2120642725154263271": true,
         "2120643987513954484": false,
@@ -7075,7 +7073,9 @@
         "2120922255936929882": false,
         "2120928369823096999": true,
         "2120928590464233529": true,
-        "2120929784951890402": true
+        "2120929784951890402": true,
+        "2120930157716500796": false,
+        "2120930300046049477": true
       },
       "user_id": "809191427645181952"
     }
@@ -7098,5 +7098,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T17:22:28+00:00"
+  "updated_at": "2026-11-12T17:24:24+00:00"
 }
