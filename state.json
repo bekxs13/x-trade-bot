@@ -2225,7 +2225,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120679530855854372",
+      "last_id": "2120682425990939044",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2245,11 +2245,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T19:04:35.000Z",
-          "id": "2120231159879622899",
-          "text": "okay but will artificial superintelligence be best-in-class in bagholding"
-        },
         {
           "created_at": "2026-11-10T21:23:10.000Z",
           "id": "2120266037585461421",
@@ -2367,10 +2362,17 @@
           "created_at": "2026-11-12T00:03:24.000Z",
           "id": "2120668750563389555",
           "text": "he was the one billionaire who supported paying his fair share of taxes so They burned him\n\nit's that simple"
+        },
+        {
+          "created_at": "2026-11-12T00:57:45.000Z",
+          "id": "2120682425990939044",
+          "images": [
+            "https://pbs.twimg.com/media/HW4tZ2AWwAECgoN.jpg"
+          ],
+          "text": "to be fair none of the ai-pilled people i knew ever talked about being long nvda lately https://t.co/GaJaBQwEo8"
         }
       ],
       "reads": {
-        "2120231159879622899": "No call",
         "2120266037585461421": "No call",
         "2120294077296156748": "No call",
         "2120313070702747817": "No call",
@@ -2389,7 +2391,8 @@
         "2120660166286921757": "No call",
         "2120663202036076891": "No call",
         "2120663665028296774": "No call",
-        "2120668750563389555": "No call"
+        "2120668750563389555": "No call",
+        "2120682425990939044": "No call"
       },
       "replies": [
         {
@@ -2484,10 +2487,6 @@
         }
       ],
       "threads": {
-        "2115224658832195673": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115225641771762029": {
           "alerted": [],
           "self_replies": 0
@@ -2885,10 +2884,13 @@
         "2120668750563389555": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120682425990939044": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120231159879622899": false,
         "2120266037585461421": false,
         "2120294077296156748": false,
         "2120313070702747817": false,
@@ -2922,7 +2924,8 @@
         "2120664838699638848": false,
         "2120668750563389555": false,
         "2120679405710102824": false,
-        "2120679530855854372": false
+        "2120679530855854372": false,
+        "2120682425990939044": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7087,5 +7090,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-12T00:48:14+00:00"
+  "updated_at": "2026-11-12T00:58:18+00:00"
 }
