@@ -1011,7 +1011,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120723186681880926",
+      "last_id": "2120780634922582027",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1128,11 +1128,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-11T17:01:43.000Z",
-          "id": "2120562627621380222",
-          "text": "https://t.co/AS922TYazm"
-        },
-        {
           "created_at": "2026-11-11T17:03:04.000Z",
           "id": "2120562969071239665",
           "images": [
@@ -1241,10 +1236,17 @@
           "created_at": "2026-11-12T02:54:45.000Z",
           "id": "2120711870596399159",
           "text": "did you guys know manhattan was named after native americans"
+        },
+        {
+          "created_at": "2026-11-12T07:28:00.000Z",
+          "id": "2120780634922582027",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2120711698021756928/img/FpoWpwqKj4g-JXNo.jpg"
+          ],
+          "text": "i think one of the best ways to deal with market volatility is to extend your time horizon\n\nif you're investing in quality companies and assets over several years, short-term pullbacks become a lot easier to manage\n\ni also think people underestimate the value of holding cash\n\nwhen you've made significant gains on stocks, gold, silver or other investments, taking profits and keeping some capital in dollars gives you flexibility\n\nyou don't need to be fully invested all the time\n\nbuilding wealth over the long term also means knowing when to realize gains and preserve your purchasing power"
         }
       ],
       "reads": {
-        "2120562627621380222": "No call",
         "2120562969071239665": "No call",
         "2120572179137880239": "No call",
         "2120595582901158058": "No call",
@@ -1262,7 +1264,8 @@
         "2120662063538204679": "No call",
         "2120668467955171356": "No call",
         "2120707686794928479": "No call",
-        "2120711870596399159": "No call"
+        "2120711870596399159": "No call",
+        "2120780634922582027": "No call"
       },
       "replies": [
         {
@@ -1363,10 +1366,6 @@
         }
       ],
       "threads": {
-        "2118659436013384033": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118661005110886492": {
           "alerted": [],
           "self_replies": 0
@@ -1775,10 +1774,13 @@
         "2120711870596399159": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120780634922582027": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120562627621380222": false,
         "2120562969071239665": true,
         "2120572179137880239": true,
         "2120585514776682744": false,
@@ -1812,7 +1814,8 @@
         "2120711870596399159": false,
         "2120720994130403354": false,
         "2120721366940790863": false,
-        "2120723186681880926": false
+        "2120723186681880926": false,
+        "2120780634922582027": true
       },
       "user_id": "973261472"
     },
@@ -7082,5 +7085,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-12T06:42:18+00:00"
+  "updated_at": "2026-11-12T07:28:24+00:00"
 }
