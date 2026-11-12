@@ -6359,7 +6359,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120934928602779707",
+      "last_id": "2120935643563917459",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6395,11 +6395,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T22:25:00.000Z",
-          "id": "2120643987513954484",
-          "text": "A lot of people (normies) fail to realize that at Jensen\u2019s level you can basically do whatever you want and women will tolerate it. At that level of wealth, control, access and fame (he\u2019s hanging out with the sitting president) marriages typically open up. I\u2019m not commenting on whether this is a good or bad thing, but public\u2019s reaction is always amusing to this sort of thing."
-        },
         {
           "created_at": "2026-11-11T22:31:05.000Z",
           "id": "2120645516325458002",
@@ -6503,10 +6498,15 @@
           "id": "2120934928602779707",
           "reply_to_id": "2120933886100152481",
           "text": "It also included a fully paid trip for all students in the club to the New York stock exchange, and 2+ full college scholarships for exceptional students in the club.\n\nMy goal was to establish a sustainable club where the compounded returns would eventually finance itself without the need for additional contributions. \n\nThis model could expand out to other schools to encourage financial literacy that is not currently in school curriculum."
+        },
+        {
+          "created_at": "2026-11-12T17:43:57.000Z",
+          "id": "2120935643563917459",
+          "reply_to_id": "2120934928602779707",
+          "text": "I'm quite disappointed as my school lacked a sufficiently rigorous program. Students who excelled in math had to take classes at the community college because of a lack of teachers.\n\nOpen to feedback on this structure, maybe will do a longer form post about it."
         }
       ],
       "reads": {
-        "2120643987513954484": "No call",
         "2120645516325458002": "No call",
         "2120652331276779817": "No call",
         "2120652998020153735": "No call",
@@ -6527,12 +6527,6 @@
         "2120934928602779707": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-10-16T19:51:17.000Z",
-          "id": "2111183217843679578",
-          "reply_to_id": "2110371075095970021",
-          "text": "@_ozalyn update?"
-        },
         {
           "created_at": "2026-10-17T17:11:34.000Z",
           "id": "2111505410444411366",
@@ -6619,6 +6613,12 @@
           "id": "2120930300046049477",
           "reply_to_id": "2120929954384711990",
           "text": "@NFTweb_3 Tens of millions of dollars but that's more of a core position not really something I think about"
+        },
+        {
+          "created_at": "2026-11-12T17:42:09.000Z",
+          "id": "2120935191342694537",
+          "reply_to_id": "2120934770855256276",
+          "text": "@yackcap It's what I'm passionate about and how I made my fortune."
         }
       ],
       "threads": {
@@ -7042,7 +7042,6 @@
         }
       },
       "trading": {
-        "2111183217843679578": false,
         "2111505410444411366": true,
         "2111581235793588319": true,
         "2111868524427948399": false,
@@ -7055,7 +7054,6 @@
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
-        "2120643987513954484": false,
         "2120645516325458002": false,
         "2120646674443907075": false,
         "2120652331276779817": true,
@@ -7076,7 +7074,9 @@
         "2120930157716500796": false,
         "2120930300046049477": true,
         "2120933886100152481": true,
-        "2120934928602779707": false
+        "2120934928602779707": false,
+        "2120935191342694537": false,
+        "2120935643563917459": false
       },
       "user_id": "809191427645181952"
     }
@@ -7099,5 +7099,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T17:42:20+00:00"
+  "updated_at": "2026-11-12T17:44:22+00:00"
 }
