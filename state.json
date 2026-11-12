@@ -6354,7 +6354,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120656959024115846",
+      "last_id": "2120886448425681182",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6390,11 +6390,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T16:25:03.000Z",
-          "id": "2120553399452143688",
-          "text": "Who's building the right wing Jane Street"
-        },
         {
           "created_at": "2026-11-11T17:03:12.000Z",
           "id": "2120563000012832946",
@@ -6497,10 +6492,14 @@
           "created_at": "2026-11-11T23:16:33.000Z",
           "id": "2120656959024115846",
           "text": "People didnt realize you had to hedge out affair risk to be factor neutral on semis"
+        },
+        {
+          "created_at": "2026-11-12T14:28:28.000Z",
+          "id": "2120886448425681182",
+          "text": "I look forward to buying your coins from you at a lower price"
         }
       ],
       "reads": {
-        "2120553399452143688": "No call",
         "2120563000012832946": "No call",
         "2120567064611951044": "No call",
         "2120570187829366807": "No call",
@@ -6517,7 +6516,8 @@
         "2120652998020153735": "No call",
         "2120653852588617981": "No call",
         "2120654125029277917": "Read together with the post it replies to",
-        "2120656959024115846": "No call"
+        "2120656959024115846": "No call",
+        "2120886448425681182": "No call: bearish on crypto market (60%, too unsure)"
       },
       "replies": [
         {
@@ -6612,10 +6612,6 @@
         }
       ],
       "threads": {
-        "2110838124645622210": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2110846742430408938": {
           "alerted": [],
           "self_replies": 0
@@ -7029,6 +7025,10 @@
         "2120656959024115846": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120886448425681182": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7047,7 +7047,6 @@
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
-        "2120553399452143688": false,
         "2120563000012832946": false,
         "2120567064611951044": true,
         "2120570187829366807": false,
@@ -7066,7 +7065,8 @@
         "2120652998020153735": false,
         "2120653852588617981": false,
         "2120654125029277917": false,
-        "2120656959024115846": true
+        "2120656959024115846": true,
+        "2120886448425681182": true
       },
       "user_id": "809191427645181952"
     }
@@ -7089,5 +7089,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T14:28:23+00:00"
+  "updated_at": "2026-11-12T14:30:33+00:00"
 }
