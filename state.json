@@ -4587,7 +4587,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120665786373345701",
+      "last_id": "2120670823660876273",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4623,18 +4623,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T20:58:37.000Z",
-          "id": "2120259859862147581",
-          "reply_to_id": "2120256985979326693",
-          "text": "my ascension will not be rushed it will not be driven my lack and i will be ready when it\u2019s my time"
-        },
-        {
-          "created_at": "2026-11-10T21:02:26.000Z",
-          "id": "2120260820168847633",
-          "reply_to_id": "2120259859862147581",
-          "text": "long degeneracy should be rather inspiring, your counterparty is poor, mentally fried addicted to gambling and porn. there\u2019s $3T USD in circulation   surely that makes the road to getting it easier"
-        },
         {
           "created_at": "2026-11-10T21:07:07.000Z",
           "id": "2120261996478169142",
@@ -4744,6 +4732,18 @@
           "created_at": "2026-11-11T23:51:38.000Z",
           "id": "2120665786373345701",
           "text": "artificial inu is officially the most cursed token ever created"
+        },
+        {
+          "created_at": "2026-11-12T00:10:33.000Z",
+          "id": "2120670549089169625",
+          "reply_to_id": "2120640023234003182",
+          "text": "hi Dan, you should call into my steam tomorrow for 15 minutes and talk about the implications here"
+        },
+        {
+          "created_at": "2026-11-12T00:11:39.000Z",
+          "id": "2120670823660876273",
+          "reply_to_id": "2120616001049911456",
+          "text": "this uh needs an update"
         }
       ],
       "reads": {
@@ -4761,7 +4761,9 @@
         "2120640023234003182": "No call",
         "2120645115320655949": "No call",
         "2120646293773000962": "No call",
-        "2120665786373345701": "No call"
+        "2120665786373345701": "No call",
+        "2120670549089169625": "No call",
+        "2120670823660876273": "No call"
       },
       "replies": [
         {
@@ -5228,7 +5230,7 @@
         },
         "2120616001049911456": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2120636959127163361": {
           "alerted": [],
@@ -5244,7 +5246,7 @@
         },
         "2120640023234003182": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2120645115320655949": {
           "alerted": [],
@@ -5260,8 +5262,6 @@
         }
       },
       "trading": {
-        "2120259859862147581": false,
-        "2120260820168847633": true,
         "2120261996478169142": false,
         "2120281631135285392": false,
         "2120291291036827676": false,
@@ -5294,7 +5294,9 @@
         "2120645115320655949": false,
         "2120646293773000962": true,
         "2120657224658022843": false,
-        "2120665786373345701": true
+        "2120665786373345701": true,
+        "2120670549089169625": false,
+        "2120670823660876273": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7088,5 +7090,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-12T00:04:28+00:00"
+  "updated_at": "2026-11-12T00:12:23+00:00"
 }
