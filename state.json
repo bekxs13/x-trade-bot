@@ -1011,7 +1011,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120877433306190176",
+      "last_id": "2120878236800270790",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1127,11 +1127,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T23:23:31.000Z",
-          "id": "2120658712469889089",
-          "text": "who woulda guessed that long amd short nvda would print this month"
-        },
         {
           "created_at": "2026-11-11T23:36:25.000Z",
           "id": "2120661956885700818",
@@ -1260,10 +1255,15 @@
           "created_at": "2026-11-12T13:47:21.000Z",
           "id": "2120876101543379312",
           "text": "nvidia today"
+        },
+        {
+          "created_at": "2026-11-12T13:55:50.000Z",
+          "id": "2120878236800270790",
+          "quoted_text": "$NVDA  - BREAKING: NVIDIA CEO JENSEN HUANG RESIGNS EFFECTIVE IMMEDIATELY\n\nNvidia announces a major leadership shake-up:\n\n\ud83d\udd38 Jensen Huang resigns as CEO, president and board member, effective immediately.\n\ud83d\udd38 Colette Kress, Nvidia's CFO, appointed interim CEO.\n\ud83d\udd38 Harvey C. Jones named board chair.\n\ud83d\udd38 Search for permanent CEO begins, considering internal and external candidates.\n\nHuang's departure ends his 33-year tenure leading the AI chip giant he co-founded.",
+          "text": "oh my god https://t.co/IKIj09gWAL"
         }
       ],
       "reads": {
-        "2120658712469889089": "No call",
         "2120661956885700818": "No call",
         "2120662063538204679": "No call",
         "2120668467955171356": "No call",
@@ -1279,7 +1279,8 @@
         "2120871231809536481": "No call",
         "2120875227622277535": "No call",
         "2120875832256160012": "No call",
-        "2120876101543379312": "No call"
+        "2120876101543379312": "No call",
+        "2120878236800270790": "No call"
       },
       "replies": [
         {
@@ -1374,10 +1375,6 @@
         }
       ],
       "threads": {
-        "2118747133205717233": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118748641817153640": {
           "alerted": [],
           "self_replies": 0
@@ -1786,10 +1783,13 @@
         "2120876101543379312": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120878236800270790": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120658712469889089": true,
         "2120661956885700818": false,
         "2120662063538204679": false,
         "2120668467955171356": true,
@@ -1823,7 +1823,8 @@
         "2120875227622277535": false,
         "2120875832256160012": true,
         "2120876101543379312": true,
-        "2120877433306190176": false
+        "2120877433306190176": false,
+        "2120878236800270790": true
       },
       "user_id": "973261472"
     },
@@ -2229,7 +2230,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120734804689965186",
+      "last_id": "2120878056625652020",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2249,12 +2250,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T10:45:34.000Z",
-          "id": "2120467968064643336",
-          "quoted_text": "Apparently, Anthropic gave conservative Q4 guidance because engineers tend to take time off in December.\n\nSeems like a sensible approach. https://t.co/nmR4XC0NM0",
-          "text": "do the autoresearchers take time off https://t.co/206OdTIWyT"
-        },
         {
           "created_at": "2026-11-11T15:11:47.000Z",
           "id": "2120534964332875883",
@@ -2369,10 +2364,15 @@
             "https://pbs.twimg.com/amplify_video_thumb/2120734743377362944/img/LN0MZuaf0tEnQMNx.jpg"
           ],
           "text": "bawston https://t.co/S8KeknLZa7"
+        },
+        {
+          "created_at": "2026-11-12T13:55:07.000Z",
+          "id": "2120878056625652020",
+          "quoted_text": "$NVDA  - NVIDIA CORPORATION - JENSEN HUANG RESIGNS AS PRESIDENT, CEO, AND BOARD MEMBER EFFECTIVE IMMEDIATELY",
+          "text": "loser mentality https://t.co/x1eAgyNTcp"
         }
       ],
       "reads": {
-        "2120467968064643336": "No call",
         "2120534964332875883": "No call",
         "2120537214329245873": "No call",
         "2120537725686493348": "No call",
@@ -2391,7 +2391,8 @@
         "2120690332740293049": "No call",
         "2120690490492264463": "Read together with the post it replies to",
         "2120724000343048509": "No call",
-        "2120734804689965186": "No call"
+        "2120734804689965186": "No call",
+        "2120878056625652020": "No call"
       },
       "replies": [
         {
@@ -2486,10 +2487,6 @@
         }
       ],
       "threads": {
-        "2115258826580451841": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115436629166784742": {
           "alerted": [],
           "self_replies": 1
@@ -2887,12 +2884,15 @@
         "2120734804689965186": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120878056625652020": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2120340324115472630": false,
         "2120360748522283447": false,
-        "2120467968064643336": false,
         "2120473865650589780": false,
         "2120534964332875883": true,
         "2120536888285299022": true,
@@ -2924,7 +2924,8 @@
         "2120690490492264463": false,
         "2120724000343048509": false,
         "2120732715708239968": false,
-        "2120734804689965186": false
+        "2120734804689965186": false,
+        "2120878056625652020": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7093,5 +7094,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T13:54:17+00:00"
+  "updated_at": "2026-11-12T13:56:33+00:00"
 }
