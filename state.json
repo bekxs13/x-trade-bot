@@ -4592,7 +4592,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120952390346293668",
+      "last_id": "2120961879639994777",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4628,12 +4628,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T18:53:30.000Z",
-          "id": "2120590760793788838",
-          "reply_to_id": "2120589064789488114",
-          "text": "i am only here to take your money in the market  i want to steal from you"
-        },
         {
           "created_at": "2026-11-11T19:04:39.000Z",
           "id": "2120593565244092828",
@@ -4750,6 +4744,11 @@
           "created_at": "2026-11-12T17:59:38.000Z",
           "id": "2120939591507075557",
           "text": "scrolling the timeline for market alpha is probably the single worst possible way to spend  the next couple days"
+        },
+        {
+          "created_at": "2026-11-12T19:28:12.000Z",
+          "id": "2120961879639994777",
+          "text": "there\u2019s just NO WAY"
         }
       ],
       "reads": {
@@ -4770,7 +4769,8 @@
         "2120869755758538991": "No call: bearish on stocks/macro (60%, too unsure)",
         "2120874376098730257": "No call",
         "2120892665038541245": "No call",
-        "2120939591507075557": "No call"
+        "2120939591507075557": "No call",
+        "2120961879639994777": "No call"
       },
       "replies": [
         {
@@ -4868,10 +4868,6 @@
         }
       ],
       "threads": {
-        "2115858374218928131": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115861507884110173": {
           "alerted": [],
           "self_replies": 1
@@ -5267,10 +5263,13 @@
         "2120939591507075557": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120961879639994777": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120590760793788838": true,
         "2120593565244092828": false,
         "2120616001049911456": true,
         "2120636959127163361": true,
@@ -5304,7 +5303,8 @@
         "2120895187102892181": false,
         "2120939591507075557": true,
         "2120952223471718400": false,
-        "2120952390346293668": false
+        "2120952390346293668": false,
+        "2120961879639994777": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7109,5 +7109,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T19:16:22+00:00"
+  "updated_at": "2026-11-12T19:30:28+00:00"
 }
