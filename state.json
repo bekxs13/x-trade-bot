@@ -2230,7 +2230,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120878056625652020",
+      "last_id": "2120878567269806153",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2250,12 +2250,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T15:11:47.000Z",
-          "id": "2120534964332875883",
-          "quoted_text": "@DeepDishEnjoyer markets just going to be Claude\u2019s trading against each other?",
-          "text": "no retail will also light money on fire https://t.co/1UMNMaCdGy"
-        },
         {
           "created_at": "2026-11-11T15:20:44.000Z",
           "id": "2120537214329245873",
@@ -2370,10 +2364,14 @@
           "id": "2120878056625652020",
           "quoted_text": "$NVDA  - NVIDIA CORPORATION - JENSEN HUANG RESIGNS AS PRESIDENT, CEO, AND BOARD MEMBER EFFECTIVE IMMEDIATELY",
           "text": "loser mentality https://t.co/x1eAgyNTcp"
+        },
+        {
+          "created_at": "2026-11-12T13:57:09.000Z",
+          "id": "2120878567269806153",
+          "text": "this is actually incredibly bullish for NVDA because now it has no beta to jensen's next 11 revealed extramarital affairs"
         }
       ],
       "reads": {
-        "2120534964332875883": "No call",
         "2120537214329245873": "No call",
         "2120537725686493348": "No call",
         "2120616674046955602": "No call",
@@ -2392,7 +2390,8 @@
         "2120690490492264463": "Read together with the post it replies to",
         "2120724000343048509": "No call",
         "2120734804689965186": "No call",
-        "2120878056625652020": "No call"
+        "2120878056625652020": "No call",
+        "2120878567269806153": "No call"
       },
       "replies": [
         {
@@ -2487,10 +2486,6 @@
         }
       ],
       "threads": {
-        "2115436629166784742": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2115495637269557447": {
           "alerted": [],
           "self_replies": 0
@@ -2888,13 +2883,16 @@
         "2120878056625652020": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120878567269806153": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2120340324115472630": false,
         "2120360748522283447": false,
         "2120473865650589780": false,
-        "2120534964332875883": true,
         "2120536888285299022": true,
         "2120537214329245873": false,
         "2120537725686493348": true,
@@ -2925,7 +2923,8 @@
         "2120724000343048509": false,
         "2120732715708239968": false,
         "2120734804689965186": false,
-        "2120878056625652020": true
+        "2120878056625652020": true,
+        "2120878567269806153": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7094,5 +7093,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T13:56:33+00:00"
+  "updated_at": "2026-11-12T13:58:24+00:00"
 }
