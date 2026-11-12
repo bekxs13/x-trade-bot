@@ -1029,7 +1029,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120987461967085700",
+      "last_id": "2120996476260352314",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1312,12 +1312,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-12T13:16:18.000Z",
-          "id": "2120868287231726035",
-          "reply_to_id": "2120868003315085824",
-          "text": "@gurutooyou me? surely you dont mean me"
-        },
-        {
           "created_at": "2026-11-12T13:24:45.000Z",
           "id": "2120870416541458649",
           "reply_to_id": "2120723835708477450",
@@ -1406,6 +1400,12 @@
           "id": "2120987461967085700",
           "reply_to_id": "2120987269670781159",
           "text": "@zapmethod hahahahaha"
+        },
+        {
+          "created_at": "2026-11-12T21:45:40.000Z",
+          "id": "2120996476260352314",
+          "reply_to_id": "2120995937057439895",
+          "text": "i mean id say they've improved meaningfully since the summer, and what i said is true, if you simply take the exact same trades you take anywhere else currently in crypto on the app you will get paid for them without any other change in behavior, the paid partnership tag is reflective of that"
         }
       ],
       "threads": {
@@ -1832,7 +1832,6 @@
         "2120854917074264185": false,
         "2120864249341718899": true,
         "2120867407082201452": false,
-        "2120868287231726035": false,
         "2120870416541458649": false,
         "2120871231809536481": true,
         "2120875227622277535": false,
@@ -1862,7 +1861,8 @@
         "2120967633776644415": false,
         "2120969239154880593": true,
         "2120978487343558720": true,
-        "2120987461967085700": false
+        "2120987461967085700": false,
+        "2120996476260352314": true
       },
       "user_id": "973261472"
     },
@@ -7173,5 +7173,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T21:32:27+00:00"
+  "updated_at": "2026-11-12T21:46:18+00:00"
 }
