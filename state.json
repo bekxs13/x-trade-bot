@@ -2225,7 +2225,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120668750563389555",
+      "last_id": "2120679405710102824",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2393,12 +2393,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-11T00:15:56.000Z",
-          "id": "2120309513198653761",
-          "reply_to_id": "2120308451930993065",
-          "text": "@inerati 1) ordinal ranking is super arbitrary\n2) requires us to define what distinct animals even are which is arbitrary\n3) the exact slice of a what skills are is pretty arbitrary too"
-        },
-        {
           "created_at": "2026-11-11T00:55:41.000Z",
           "id": "2120319517079593282",
           "reply_to_id": "2120315665781514601",
@@ -2481,6 +2475,12 @@
           "id": "2120664838699638848",
           "reply_to_id": "2120664207750201751",
           "text": "@strictrope don't have status :/"
+        },
+        {
+          "created_at": "2026-11-12T00:45:45.000Z",
+          "id": "2120679405710102824",
+          "reply_to_id": "2120679215938843091",
+          "text": "@quantian1 can't access even tho im flying first cause it's domestic"
         }
       ],
       "threads": {
@@ -2891,7 +2891,6 @@
         "2120231159879622899": false,
         "2120266037585461421": false,
         "2120294077296156748": false,
-        "2120309513198653761": false,
         "2120313070702747817": false,
         "2120313139577471060": false,
         "2120319517079593282": false,
@@ -2922,7 +2921,8 @@
         "2120663202036076891": false,
         "2120663665028296774": false,
         "2120664838699638848": false,
-        "2120668750563389555": false
+        "2120668750563389555": false,
+        "2120679405710102824": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7087,5 +7087,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-12T00:42:16+00:00"
+  "updated_at": "2026-11-12T00:46:18+00:00"
 }
