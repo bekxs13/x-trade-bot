@@ -1011,7 +1011,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120832532287488462",
+      "last_id": "2120833445408510011",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1128,11 +1128,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-11T17:39:40.000Z",
-          "id": "2120572179137880239",
-          "text": "jesus nq is ripping"
-        },
-        {
           "created_at": "2026-11-11T19:12:40.000Z",
           "id": "2120595582901158058",
           "images": [
@@ -1245,10 +1240,18 @@
             "https://pbs.twimg.com/media/HW60iSQWAAAKVww.jpg"
           ],
           "text": "first week actively trenching on pump\n\ncallout rewards ($140k) & perps pnl ($188k) dunno my shitcoins pnl as most is unrealized & here it includes part of my $ANSEM bag\n\nlooks like they've paid out ~$3M in rewards this week to callouts, diamond specifically for perps trades / high market cap plays / crosschain trades\n\nif you are a good trader, believe this objectively is the most profitable place to be trading currently, whether you are trading microcaps or whether you are trading perps on hyperliquid\n\nif you are a smaller trader with not a lot of followers and a good track record, drop your username, callout rewards are heavily boosted by the volume that you bring in for your calls so i am down to follow ppl who are good on here"
+        },
+        {
+          "created_at": "2026-11-12T10:57:51.000Z",
+          "id": "2120833445408510011",
+          "images": [
+            "https://pbs.twimg.com/media/HW62xyDXAAADswN.jpg"
+          ],
+          "quoted_text": "Tyler says you could be up 7\u20138x on $MIHAO just by getting notified when Ansem first buys on the Pump app\n\n\"I saw Ansem buy notification on the pump app at like 2.3 million.\"\n\n\"Two hours later, he just started bag working it insanely on Twitter\"\n\n\"This thing legged up from 3m to 12m, and then it went 12m to 16m\"\n\n\"And then the Dev had 8%. And the dev locked 5% of that for a year. That's what drove the candle this morning from 12m to 24m.\"\n\n\"Even if you just saw the Ansem first trade, you could ha",
+          "text": "here is the callout data that i was paid for this\n\n~$31k for the solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump callout because of how many ppl tailed, at peak ~$867k in profits for traders who bought after the callout\n\nthe actual numbers of ppl trading is approx. ~3% of my followers on here, 1.4M on @X, only 3.5k ppl have tailed all my callouts on pump"
         }
       ],
       "reads": {
-        "2120572179137880239": "No call",
         "2120595582901158058": "No call",
         "2120616061854715904": "No call",
         "2120617794488127516": "No call",
@@ -1266,7 +1269,8 @@
         "2120707686794928479": "No call",
         "2120711870596399159": "No call",
         "2120780634922582027": "No call",
-        "2120830982592802988": "No call"
+        "2120830982592802988": "No call",
+        "2120833445408510011": "No call"
       },
       "replies": [
         {
@@ -1361,10 +1365,6 @@
         }
       ],
       "threads": {
-        "2118662789355168232": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118663468886708286": {
           "alerted": [],
           "self_replies": 0
@@ -1773,10 +1773,13 @@
         "2120830982592802988": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120833445408510011": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120572179137880239": true,
         "2120595582901158058": false,
         "2120616061854715904": false,
         "2120617794488127516": true,
@@ -1810,7 +1813,8 @@
         "2120831604780069063": false,
         "2120831962734846352": false,
         "2120832416784757152": true,
-        "2120832532287488462": true
+        "2120832532287488462": true,
+        "2120833445408510011": true
       },
       "user_id": "973261472"
     },
@@ -7080,5 +7084,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-12T10:56:18+00:00"
+  "updated_at": "2026-11-12T10:58:27+00:00"
 }
