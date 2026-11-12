@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2120732806049603802",
+      "last_id": "2120737326645338509",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,11 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-08T08:57:06.000Z",
-          "id": "2119353508923326783",
-          "text": "The new 2027 hierarchy of people \n1. Zohran Mamdani\n2. Black guys \n3. Anyone else really \n4. People who live in San Francisco \n5. Anthropic employees (worse than Hitler, allegedly)"
-        },
         {
           "created_at": "2026-11-08T08:59:59.000Z",
           "id": "2119354232969232673",
@@ -266,10 +261,17 @@
           "created_at": "2026-11-12T02:24:27.000Z",
           "id": "2120704243783094781",
           "text": "All other things fixed, -5% in SPY reduces consumption:"
+        },
+        {
+          "created_at": "2026-11-12T04:35:54.000Z",
+          "id": "2120737326645338509",
+          "images": [
+            "https://pbs.twimg.com/media/HW5fVrea0AA-nmr.jpg"
+          ],
+          "text": "MLM https://t.co/GgGh4rY0df"
         }
       ],
       "reads": {
-        "2119353508923326783": "No call",
         "2119354232969232673": "No call",
         "2119355012774306261": "No call",
         "2119356871970902032": "No call",
@@ -286,7 +288,8 @@
         "2120671215249711343": "No call",
         "2120684253185016306": "No call",
         "2120684321325584887": "Read together with the post it replies to",
-        "2120704243783094781": "No call"
+        "2120704243783094781": "No call",
+        "2120737326645338509": "No call"
       },
       "replies": [
         {
@@ -390,10 +393,6 @@
         }
       ],
       "threads": {
-        "2114932525705646443": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114940232256868497": {
           "alerted": [],
           "self_replies": 0
@@ -792,6 +791,10 @@
         "2120704243783094781": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120737326645338509": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -799,7 +802,6 @@
         "2119237974978433429": false,
         "2119330801938731223": false,
         "2119331577608155616": false,
-        "2119353508923326783": false,
         "2119354232969232673": false,
         "2119355012774306261": false,
         "2119356871970902032": false,
@@ -829,7 +831,8 @@
         "2120690741731307819": true,
         "2120704243783094781": true,
         "2120726647121023289": false,
-        "2120732806049603802": false
+        "2120732806049603802": false,
+        "2120737326645338509": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7079,5 +7082,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-12T04:26:25+00:00"
+  "updated_at": "2026-11-12T04:36:20+00:00"
 }
