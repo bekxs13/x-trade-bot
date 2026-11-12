@@ -6396,7 +6396,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120955088197812345",
+      "last_id": "2120969204128235808",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6564,12 +6564,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T17:33:34.000Z",
-          "id": "2111873335772541162",
-          "reply_to_id": "2111873183204639097",
-          "text": "@koolkrypto223 Post position"
-        },
-        {
           "created_at": "2026-10-18T17:37:39.000Z",
           "id": "2111874363234426989",
           "reply_to_id": "2111873940054516161",
@@ -6655,6 +6649,12 @@
           "id": "2120942476978483206",
           "reply_to_id": "2120934840648290519",
           "text": "@thedudeonx No idea, after multiple months of meetings and refining structure we were waiting to hear back from the school district and I've heard nothing"
+        },
+        {
+          "created_at": "2026-11-12T19:57:18.000Z",
+          "id": "2120969204128235808",
+          "reply_to_id": "2120967924525695158",
+          "text": "Insilico is an OEMS \n\nFullstack is an onchain prime brokerage where you'll be able to use portfolio margin with collateral from any chain to trade simultaneously on Hyperliquid, Polymarket and any other relevant venue.\n\nImagine taking Anthropic stock from Robinhood chain and using it as collateral to trade on Hyperliquid.\n\nIncomparable."
         }
       ],
       "threads": {
@@ -7078,7 +7078,6 @@
         }
       },
       "trading": {
-        "2111873335772541162": true,
         "2111874363234426989": true,
         "2111875879865389103": false,
         "2111892500210458979": true,
@@ -7112,7 +7111,8 @@
         "2120937737994088669": false,
         "2120942476978483206": false,
         "2120950653098832289": true,
-        "2120955088197812345": false
+        "2120955088197812345": false,
+        "2120969204128235808": true
       },
       "user_id": "809191427645181952"
     }
@@ -7135,5 +7135,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T19:52:20+00:00"
+  "updated_at": "2026-11-12T19:58:20+00:00"
 }
