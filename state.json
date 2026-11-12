@@ -1011,7 +1011,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120875227622277535",
+      "last_id": "2120876101543379312",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1127,20 +1127,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T23:02:59.000Z",
-          "id": "2120653544973864966",
-          "images": [
-            "https://pbs.twimg.com/media/HW4TKSDXMAAFq24.jpg"
-          ],
-          "quoted_text": "New head of NVDA is going to be some guy named Ross Keller who's served on the national security council for 20 years with deep expertise in Taiwan political affairs and a China hawk.\n\nSpooks in control",
-          "text": "solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/m92IbBW6jR https://t.co/YBzUIzXPKM"
-        },
-        {
-          "created_at": "2026-11-11T23:14:40.000Z",
-          "id": "2120656482949562381",
-          "text": "thread binked this"
-        },
         {
           "created_at": "2026-11-11T23:23:31.000Z",
           "id": "2120658712469889089",
@@ -1260,11 +1246,23 @@
             "https://pbs.twimg.com/media/HW7cxuvWEAApiPY.jpg"
           ],
           "text": "i grew up here https://t.co/NfnDSyxoby"
+        },
+        {
+          "created_at": "2026-11-12T13:46:17.000Z",
+          "id": "2120875832256160012",
+          "images": [
+            "https://pbs.twimg.com/media/HW7dVEcW8AAA74G.jpg"
+          ],
+          "quoted_text": "we have a chance to do something much bigger than just numbers going up on a chart\n\nsomething to leave a dent in history\n\nthe biggest ever pfp cult\n\nAFFIRM https://t.co/ady9amCRbD",
+          "text": "solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump mafia https://t.co/cAYs6B8Hdg https://t.co/p1puasJ49f"
+        },
+        {
+          "created_at": "2026-11-12T13:47:21.000Z",
+          "id": "2120876101543379312",
+          "text": "nvidia today"
         }
       ],
       "reads": {
-        "2120653544973864966": "No call",
-        "2120656482949562381": "No call",
         "2120658712469889089": "No call",
         "2120661956885700818": "No call",
         "2120662063538204679": "No call",
@@ -1279,7 +1277,9 @@
         "2120851782272471418": "No call",
         "2120854917074264185": "No call",
         "2120871231809536481": "No call",
-        "2120875227622277535": "No call"
+        "2120875227622277535": "No call",
+        "2120875832256160012": "No call",
+        "2120876101543379312": "No call"
       },
       "replies": [
         {
@@ -1374,14 +1374,6 @@
         }
       ],
       "threads": {
-        "2118745731158724763": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2118746817504424387": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118747133205717233": {
           "alerted": [],
           "self_replies": 0
@@ -1786,11 +1778,17 @@
         "2120875227622277535": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120875832256160012": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2120876101543379312": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120653544973864966": true,
-        "2120656482949562381": false,
         "2120658712469889089": true,
         "2120661956885700818": false,
         "2120662063538204679": false,
@@ -1823,7 +1821,9 @@
         "2120868287231726035": false,
         "2120870416541458649": false,
         "2120871231809536481": true,
-        "2120875227622277535": false
+        "2120875227622277535": false,
+        "2120875832256160012": true,
+        "2120876101543379312": true
       },
       "user_id": "973261472"
     },
@@ -7093,5 +7093,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T13:44:22+00:00"
+  "updated_at": "2026-11-12T13:48:37+00:00"
 }
