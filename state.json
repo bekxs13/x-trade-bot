@@ -4583,7 +4583,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120871601818198019",
+      "last_id": "2120874376098730257",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4619,11 +4619,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T13:40:52.000Z",
-          "id": "2120512084853047610",
-          "text": "STOCK MARKET OPEN: Pete Hegseth IMPEACHED?, Crypto is OVER, TAKE THE BLACK PILL https://t.co/BpFmMMZaP0"
-        },
         {
           "created_at": "2026-11-11T18:44:14.000Z",
           "id": "2120588429046247424",
@@ -4742,10 +4737,14 @@
           "id": "2120869755758538991",
           "quoted_text": "TRUMP ON IRAN: WE DON'T NEED A DEAL WITH IRAN.",
           "text": "mid terms are over, 2028 is a lost cause, let\u2019s just burn everything down on the way out. the war. the ai trade. bonds. all of it https://t.co/YrzORGXoSb"
+        },
+        {
+          "created_at": "2026-11-12T13:40:29.000Z",
+          "id": "2120874376098730257",
+          "text": "STOCK MARKET OPEN: The JENSEN FILES, He is OUT... WHAT NOW? https://t.co/wPhl5rjRjd"
         }
       ],
       "reads": {
-        "2120512084853047610": "No call",
         "2120588429046247424": "No call",
         "2120589064789488114": "No call",
         "2120616001049911456": "No call",
@@ -4762,7 +4761,8 @@
         "2120710632731292056": "No call",
         "2120860728974610819": "No call",
         "2120860891357053379": "Read together with the post it replies to",
-        "2120869755758538991": "No call: bearish on stocks/macro (60%, too unsure)"
+        "2120869755758538991": "No call: bearish on stocks/macro (60%, too unsure)",
+        "2120874376098730257": "No call"
       },
       "replies": [
         {
@@ -4860,10 +4860,6 @@
         }
       ],
       "threads": {
-        "2115786216239247399": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115807782964183450": {
           "alerted": [],
           "self_replies": 0
@@ -5259,10 +5255,13 @@
         "2120869755758538991": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120874376098730257": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120512084853047610": true,
         "2120588429046247424": false,
         "2120589064789488114": true,
         "2120590760793788838": true,
@@ -5296,7 +5295,8 @@
         "2120860891357053379": false,
         "2120869755758538991": true,
         "2120870843765146078": true,
-        "2120871601818198019": false
+        "2120871601818198019": false,
+        "2120874376098730257": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7090,5 +7090,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T13:30:29+00:00"
+  "updated_at": "2026-11-12T13:42:26+00:00"
 }
