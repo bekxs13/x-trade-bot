@@ -2223,7 +2223,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120689242745831904",
+      "last_id": "2120690490492264463",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2243,22 +2243,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-10T23:14:35.000Z",
-          "id": "2120294077296156748",
-          "images": [
-            "https://pbs.twimg.com/media/HWzMNIMWwAAxaCe.jpg"
-          ],
-          "text": "so dark so early https://t.co/twzJ6Hn6eD"
-        },
-        {
-          "created_at": "2026-11-11T00:30:04.000Z",
-          "id": "2120313070702747817",
-          "images": [
-            "https://pbs.twimg.com/media/HWzdcaNWoAA0u1V.jpg"
-          ],
-          "text": "chris bauer was 35 years old when playing frank sobatka in the wire https://t.co/mqCF3D8VqV"
-        },
         {
           "created_at": "2026-11-11T00:30:20.000Z",
           "id": "2120313139577471060",
@@ -2367,11 +2351,20 @@
           "created_at": "2026-11-12T01:19:11.000Z",
           "id": "2120687820440490026",
           "text": "god forbid an asian boy show a little motion"
+        },
+        {
+          "created_at": "2026-11-12T01:29:10.000Z",
+          "id": "2120690332740293049",
+          "text": "hear me out: corgi cafe but it's a short activist fund and the corgi girls try everything in their power to fuck the ceos of random megacaps"
+        },
+        {
+          "created_at": "2026-11-12T01:29:48.000Z",
+          "id": "2120690490492264463",
+          "reply_to_id": "2120690332740293049",
+          "text": "i am accepting anchor investors with a 50 million dollar minimum"
         }
       ],
       "reads": {
-        "2120294077296156748": "No call",
-        "2120313070702747817": "No call",
         "2120313139577471060": "No call",
         "2120336331352236104": "No call",
         "2120467968064643336": "No call",
@@ -2389,7 +2382,9 @@
         "2120663665028296774": "No call",
         "2120668750563389555": "No call",
         "2120682425990939044": "No call",
-        "2120687820440490026": "No call"
+        "2120687820440490026": "No call",
+        "2120690332740293049": "No call",
+        "2120690490492264463": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -2484,10 +2479,6 @@
         }
       ],
       "threads": {
-        "2115227097345982956": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115235679399731282": {
           "alerted": [],
           "self_replies": 0
@@ -2885,11 +2876,13 @@
         "2120687820440490026": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120690332740293049": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2120294077296156748": false,
-        "2120313070702747817": false,
         "2120313139577471060": false,
         "2120336331352236104": false,
         "2120337404645318881": false,
@@ -2922,7 +2915,9 @@
         "2120682425990939044": true,
         "2120685859401785773": false,
         "2120687820440490026": false,
-        "2120689242745831904": false
+        "2120689242745831904": false,
+        "2120690332740293049": false,
+        "2120690490492264463": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7087,5 +7082,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-12T01:26:16+00:00"
+  "updated_at": "2026-11-12T01:30:29+00:00"
 }
