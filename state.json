@@ -2215,7 +2215,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120732715708239968",
+      "last_id": "2120734804689965186",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2235,12 +2235,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T02:02:29.000Z",
-          "id": "2120336331352236104",
-          "quoted_text": "So, in the end, the only jobs left will be at AI labs and HFT firms",
-          "text": "these are like the first jobs to be automated away what are you talking about https://t.co/UrbdZFprFT"
-        },
         {
           "created_at": "2026-11-11T10:45:34.000Z",
           "id": "2120467968064643336",
@@ -2353,10 +2347,17 @@
           "created_at": "2026-11-12T03:42:57.000Z",
           "id": "2120724000343048509",
           "text": "we trained      the asi Super  expert on a corpus of  Over    seventy four thousand peepeepoopoo tweets     and  It      decided to kill  itself"
+        },
+        {
+          "created_at": "2026-11-12T04:25:53.000Z",
+          "id": "2120734804689965186",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2120734743377362944/img/LN0MZuaf0tEnQMNx.jpg"
+          ],
+          "text": "bawston https://t.co/S8KeknLZa7"
         }
       ],
       "reads": {
-        "2120336331352236104": "No call",
         "2120467968064643336": "No call",
         "2120534964332875883": "No call",
         "2120537214329245873": "No call",
@@ -2375,7 +2376,8 @@
         "2120687820440490026": "No call",
         "2120690332740293049": "No call",
         "2120690490492264463": "Read together with the post it replies to",
-        "2120724000343048509": "No call"
+        "2120724000343048509": "No call",
+        "2120734804689965186": "No call"
       },
       "replies": [
         {
@@ -2470,10 +2472,6 @@
         }
       ],
       "threads": {
-        "2115246211297079682": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115258826580451841": {
           "alerted": [],
           "self_replies": 0
@@ -2871,10 +2869,13 @@
         "2120724000343048509": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120734804689965186": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120336331352236104": false,
         "2120340324115472630": false,
         "2120360748522283447": false,
         "2120467968064643336": false,
@@ -2908,7 +2909,8 @@
         "2120690332740293049": false,
         "2120690490492264463": false,
         "2120724000343048509": false,
-        "2120732715708239968": false
+        "2120732715708239968": false,
+        "2120734804689965186": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7077,5 +7079,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-12T04:18:21+00:00"
+  "updated_at": "2026-11-12T04:26:25+00:00"
 }
