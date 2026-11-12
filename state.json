@@ -1008,10 +1008,25 @@
           "opened": "2026-10-09T02:13:40.000Z",
           "partial": false,
           "structure": "unknown"
+        },
+        {
+          "asset": "GOLD",
+          "close_price": null,
+          "close_url": "https://x.com/blknoiz06/status/2120931944452002167",
+          "closed": "2026-11-12T17:29:15.000Z",
+          "direction": "long",
+          "flipped": false,
+          "market": "macro",
+          "move": null,
+          "open_price": null,
+          "open_url": "https://x.com/blknoiz06/status/2118292132876480727",
+          "opened": "2026-11-05T10:39:35.000Z",
+          "partial": false,
+          "structure": "unknown"
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120931029938577621",
+      "last_id": "2120932098403922372",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1044,22 +1059,6 @@
           "since": "2026-10-30T11:38:13.000Z",
           "structure": "unknown",
           "url": "https://x.com/blknoiz06/status/2116132561843896668"
-        },
-        "GOLD": {
-          "asset": "GOLD",
-          "chain": "",
-          "confidence": 0.8,
-          "contract_address": "",
-          "direction": "long",
-          "entry": "",
-          "horizon": "",
-          "market": "macro",
-          "open_price": null,
-          "post_id": "2118292132876480727",
-          "reason": "\"bought gold\" is a direct statement of buying gold; it could be a token or a joke, but it reads as a plain long on the commodity.",
-          "since": "2026-11-05T10:39:35.000Z",
-          "structure": "unknown",
-          "url": "https://x.com/blknoiz06/status/2118292132876480727"
         },
         "GRASS": {
           "asset": "GRASS",
@@ -1127,22 +1126,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T00:02:17.000Z",
-          "id": "2120668467955171356",
-          "text": "NEW DAILIES"
-        },
-        {
-          "created_at": "2026-11-12T02:38:08.000Z",
-          "id": "2120707686794928479",
-          "text": "the combined realized+unrealized PNL of traders who tailed my last pumpfun callout is +$864k"
-        },
-        {
-          "created_at": "2026-11-12T02:45:22.000Z",
-          "id": "2120709507181584503",
-          "reply_to_id": "2120709465968132204",
-          "text": "@HFTD3G3N also i dont have any side wallets"
-        },
         {
           "created_at": "2026-11-12T02:54:45.000Z",
           "id": "2120711870596399159",
@@ -1262,11 +1245,24 @@
           "id": "2120930818675835074",
           "quoted_text": "Fears of open source providers shutting down is an opportunity for the crypto community to stand on its cypherpunk ideals and create a decentralized solution https://t.co/DGCJfklXfc",
           "text": "i like this bull case, i can work with this https://t.co/h5uistXHpQ"
+        },
+        {
+          "created_at": "2026-11-12T17:29:15.000Z",
+          "id": "2120931944452002167",
+          "text": "nuked the gold position"
+        },
+        {
+          "created_at": "2026-11-12T17:29:28.000Z",
+          "id": "2120932002211975640",
+          "text": "dollar and rates best charts on my screen is absolutely abysmal"
+        },
+        {
+          "created_at": "2026-11-12T17:29:51.000Z",
+          "id": "2120932098403922372",
+          "text": "i want to be bullish btc so bad"
         }
       ],
       "reads": {
-        "2120668467955171356": "No call",
-        "2120707686794928479": "No call",
         "2120711870596399159": "No call",
         "2120780634922582027": "No call",
         "2120830982592802988": "No call",
@@ -1281,15 +1277,12 @@
         "2120876101543379312": "No call",
         "2120878236800270790": "No call",
         "2120884358374359168": "No call",
-        "2120930818675835074": "No call: bullish on ai coins (55%, too unsure)"
+        "2120930818675835074": "No call: bullish on ai coins (55%, too unsure)",
+        "2120931944452002167": "TRADE EXIT GOLD",
+        "2120932002211975640": "No call",
+        "2120932098403922372": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-12T12:25:05.000Z",
-          "id": "2120855397678592177",
-          "reply_to_id": "2120854571127828532",
-          "text": "@Fiskantes how"
-        },
         {
           "created_at": "2026-11-12T12:47:39.000Z",
           "id": "2120861077856485385",
@@ -1376,23 +1369,15 @@
           "id": "2120931029938577621",
           "reply_to_id": "2120929801359831500",
           "text": "@Tradermayne @tradingview its so fucked bro"
+        },
+        {
+          "created_at": "2026-11-12T17:28:39.000Z",
+          "id": "2120931796300750975",
+          "reply_to_id": "2120931665966932187",
+          "text": "@VantaxFounder what"
         }
       ],
       "threads": {
-        "2118755232641409354": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2118757947274830028": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2118758965177880768": {
-          "alerted": [
-            "trade:XAU:long"
-          ],
-          "self_replies": 0
-        },
         "2118759216429281606": {
           "alerted": [],
           "self_replies": 0
@@ -1791,12 +1776,23 @@
         "2120930818675835074": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120931944452002167": {
+          "alerted": [
+            "trade:GOLD:exit"
+          ],
+          "self_replies": 0
+        },
+        "2120932002211975640": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2120932098403922372": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120668467955171356": true,
-        "2120707686794928479": true,
-        "2120709507181584503": false,
         "2120711870596399159": false,
         "2120780634922582027": true,
         "2120830982592802988": true,
@@ -1805,7 +1801,6 @@
         "2120845385971499478": false,
         "2120851782272471418": false,
         "2120854917074264185": false,
-        "2120855397678592177": false,
         "2120861077856485385": false,
         "2120862295962378351": true,
         "2120863880788455933": false,
@@ -1828,7 +1823,11 @@
         "2120929359833772452": false,
         "2120929866396897737": false,
         "2120930818675835074": true,
-        "2120931029938577621": false
+        "2120931029938577621": false,
+        "2120931796300750975": false,
+        "2120931944452002167": true,
+        "2120932002211975640": true,
+        "2120932098403922372": true
       },
       "user_id": "973261472"
     },
@@ -7099,5 +7098,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T17:26:24+00:00"
+  "updated_at": "2026-11-12T17:30:30+00:00"
 }
