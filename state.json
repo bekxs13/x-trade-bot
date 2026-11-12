@@ -969,13 +969,13 @@
           "updated_at": "2026-11-11T16:40:20.000Z"
         },
         "stocks/macro": {
-          "market": "stocks",
-          "post_id": "2118482799456108930",
-          "reason": "\"still leaning bearish on the broader market and expect more downside next week\" despite expecting a short-term Nasdaq relief bounce; matches recorded bearish view.",
+          "market": "macro",
+          "post_id": "2120967022272008380",
+          "reason": "\"short: everything else\" while long only bonds and oil reads as a risk-off view across markets, matching his recorded bearish stocks/macro view.",
           "scope": "stocks/macro",
           "since": "2026-10-29",
           "stance": "bearish",
-          "updated_at": "2026-11-05T23:17:13.000Z"
+          "updated_at": "2026-11-12T19:48:38.000Z"
         },
         "vvv": {
           "market": "crypto",
@@ -1029,8 +1029,24 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120966496440791196",
+      "last_id": "2120967022272008380",
       "positions": {
+        "BONDS": {
+          "asset": "bonds",
+          "chain": "",
+          "confidence": 0.75,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "",
+          "market": "macro",
+          "open_price": null,
+          "post_id": "2120967022272008380",
+          "reason": "\"current portfolio long: bonds, oil\" states positions; bonds is new, oil matches his bullish view. The mihao long is already on record, and \"short: everything else\" is a broad, partly joking summary.",
+          "since": "2026-11-12T19:48:38.000Z",
+          "structure": "unknown",
+          "url": "https://x.com/blknoiz06/status/2120967022272008380"
+        },
         "BTC": {
           "asset": "BTC",
           "chain": "",
@@ -1095,6 +1111,22 @@
           "structure": "spot",
           "url": "https://x.com/blknoiz06/status/2120297144431284707"
         },
+        "OIL": {
+          "asset": "oil",
+          "chain": "",
+          "confidence": 0.75,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "",
+          "market": "macro",
+          "open_price": null,
+          "post_id": "2120967022272008380",
+          "reason": "\"current portfolio long: bonds, oil\" states positions; bonds is new, oil matches his bullish view. The mihao long is already on record, and \"short: everything else\" is a broad, partly joking summary.",
+          "since": "2026-11-12T19:48:38.000Z",
+          "structure": "unknown",
+          "url": "https://x.com/blknoiz06/status/2120967022272008380"
+        },
         "SOL": {
           "asset": "SOL",
           "chain": "solana",
@@ -1129,12 +1161,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T11:05:01.000Z",
-          "id": "2120835250498461829",
-          "reply_to_id": "2120833445408510011",
-          "text": "im tripping its less than .3%, its more like .25%"
-        },
         {
           "created_at": "2026-11-12T11:45:18.000Z",
           "id": "2120845385971499478",
@@ -1257,10 +1283,14 @@
           "id": "2120966496440791196",
           "quoted_text": "https://t.co/0tI674KgdJ",
           "text": "what https://t.co/Hmwrfi3AIQ"
+        },
+        {
+          "created_at": "2026-11-12T19:48:38.000Z",
+          "id": "2120967022272008380",
+          "text": "current portfolio\n\nlong: bonds, oil, solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump \n\nshort: everything else"
         }
       ],
       "reads": {
-        "2120835250498461829": "No call",
         "2120845385971499478": "No call",
         "2120851782272471418": "No call",
         "2120854917074264185": "No call",
@@ -1276,7 +1306,8 @@
         "2120932098403922372": "No call",
         "2120932357796446584": "No call",
         "2120964381211050460": "No call",
-        "2120966496440791196": "No call"
+        "2120966496440791196": "No call",
+        "2120967022272008380": "TRADE LONG bonds, oil"
       },
       "replies": [
         {
@@ -1377,10 +1408,6 @@
         }
       ],
       "threads": {
-        "2118823612232946048": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118888587877876017": {
           "alerted": [],
           "self_replies": 0
@@ -1789,10 +1816,15 @@
         "2120966496440791196": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120967022272008380": {
+          "alerted": [
+            "trade:BONDS, OIL:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120835250498461829": true,
         "2120845385971499478": false,
         "2120851782272471418": false,
         "2120854917074264185": false,
@@ -1826,7 +1858,8 @@
         "2120964190462689686": false,
         "2120964252555198858": false,
         "2120964381211050460": true,
-        "2120966496440791196": false
+        "2120966496440791196": false,
+        "2120967022272008380": true
       },
       "user_id": "973261472"
     },
@@ -7102,5 +7135,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T19:48:19+00:00"
+  "updated_at": "2026-11-12T19:49:33+00:00"
 }
