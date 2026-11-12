@@ -6358,7 +6358,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120937340495339809",
+      "last_id": "2120937737994088669",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6527,12 +6527,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T17:14:27.000Z",
-          "id": "2111868524427948399",
-          "reply_to_id": "2111867961363599494",
-          "text": "@frankdegods nah"
-        },
-        {
           "created_at": "2026-10-18T17:21:05.000Z",
           "id": "2111870195140554867",
           "reply_to_id": "2111856652685123781",
@@ -6618,6 +6612,12 @@
           "id": "2120937340495339809",
           "reply_to_id": "2120936302870773867",
           "text": "@thybead Under the format students were allowed to select one trade and do research from Sept - Dec (school year start) and the trade would be put on first trading day of the year and could not exceed 5% of the book.\n\nI thought it was very clever."
+        },
+        {
+          "created_at": "2026-11-12T17:52:16.000Z",
+          "id": "2120937737994088669",
+          "reply_to_id": "2120936014839505042",
+          "text": "@0puppeteer0 No idea just full ghost sadly after multiple months of meetings/followups"
         }
       ],
       "threads": {
@@ -7041,7 +7041,6 @@
         }
       },
       "trading": {
-        "2111868524427948399": false,
         "2111870195140554867": true,
         "2111873335772541162": true,
         "2111874363234426989": true,
@@ -7075,7 +7074,8 @@
         "2120935191342694537": false,
         "2120935643563917459": false,
         "2120935916424622157": false,
-        "2120937340495339809": true
+        "2120937340495339809": true,
+        "2120937737994088669": false
       },
       "user_id": "809191427645181952"
     }
@@ -7098,5 +7098,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T17:52:19+00:00"
+  "updated_at": "2026-11-12T17:54:22+00:00"
 }
