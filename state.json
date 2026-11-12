@@ -6363,7 +6363,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120950653098832289",
+      "last_id": "2120955088197812345",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6399,12 +6399,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T22:35:41.000Z",
-          "id": "2120646674443907075",
-          "reply_to_id": "2120643987513954484",
-          "text": "To be clear I\u2019m a /wifeguy/ and think polygamy is degenerate but it is the reality of a lot do these famous/business marriages"
-        },
         {
           "created_at": "2026-11-11T22:58:10.000Z",
           "id": "2120652331276779817",
@@ -6507,6 +6501,11 @@
           "created_at": "2026-11-12T18:43:35.000Z",
           "id": "2120950653098832289",
           "text": "Probably the best thing you can do to have an edge in Finance is be a student of history"
+        },
+        {
+          "created_at": "2026-11-12T19:01:13.000Z",
+          "id": "2120955088197812345",
+          "text": "We are fucking cooking with @fullstack_trade.\n\nI've never been more excited to release a project in my life. We're building the best trading front end in the world with cutting edge execution.\n\nIf you're interested in joining our team in NYC, working with people from top trading firms apply today:\n\nhttps://t.co/q5O9gtkXAE"
         }
       ],
       "reads": {
@@ -6527,7 +6526,8 @@
         "2120930157716500796": "No call",
         "2120933886100152481": "No call",
         "2120934928602779707": "No call",
-        "2120950653098832289": "No call"
+        "2120950653098832289": "No call",
+        "2120955088197812345": "No call"
       },
       "replies": [
         {
@@ -6625,10 +6625,6 @@
         }
       ],
       "threads": {
-        "2111172044972757120": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111173105548931476": {
           "alerted": [],
           "self_replies": 0
@@ -7042,6 +7038,10 @@
         "2120950653098832289": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120955088197812345": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7053,7 +7053,6 @@
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
-        "2120646674443907075": false,
         "2120652331276779817": true,
         "2120652998020153735": false,
         "2120653852588617981": false,
@@ -7079,7 +7078,8 @@
         "2120937340495339809": true,
         "2120937737994088669": false,
         "2120942476978483206": false,
-        "2120950653098832289": true
+        "2120950653098832289": true,
+        "2120955088197812345": false
       },
       "user_id": "809191427645181952"
     }
@@ -7102,5 +7102,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T18:52:21+00:00"
+  "updated_at": "2026-11-12T19:02:40+00:00"
 }
