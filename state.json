@@ -6358,7 +6358,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120935916424622157",
+      "last_id": "2120937340495339809",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6527,12 +6527,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-17T22:12:52.000Z",
-          "id": "2111581235793588319",
-          "reply_to_id": "2111578632980431235",
-          "text": "@itsXGTE3X I derisked a few thousand points higher, I don't really think BTC is going to be a comfy hold if equities trade -10%. \n\nDefinitely will get omegarekt if equities -30%. I think 50k sweep guarenteed in that scenario."
-        },
-        {
           "created_at": "2026-10-18T17:14:27.000Z",
           "id": "2111868524427948399",
           "reply_to_id": "2111867961363599494",
@@ -6618,6 +6612,12 @@
           "id": "2120935916424622157",
           "reply_to_id": "2120935267532263881",
           "text": "@carlcashmere I'm conservative and it's a super liberal area, or it was just too complicated for the school district to implement. I went to a public high school."
+        },
+        {
+          "created_at": "2026-11-12T17:50:41.000Z",
+          "id": "2120937340495339809",
+          "reply_to_id": "2120936302870773867",
+          "text": "@thybead Under the format students were allowed to select one trade and do research from Sept - Dec (school year start) and the trade would be put on first trading day of the year and could not exceed 5% of the book.\n\nI thought it was very clever."
         }
       ],
       "threads": {
@@ -7041,7 +7041,6 @@
         }
       },
       "trading": {
-        "2111581235793588319": true,
         "2111868524427948399": false,
         "2111870195140554867": true,
         "2111873335772541162": true,
@@ -7075,7 +7074,8 @@
         "2120934928602779707": false,
         "2120935191342694537": false,
         "2120935643563917459": false,
-        "2120935916424622157": false
+        "2120935916424622157": false,
+        "2120937340495339809": true
       },
       "user_id": "809191427645181952"
     }
@@ -7098,5 +7098,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T17:46:27+00:00"
+  "updated_at": "2026-11-12T17:52:19+00:00"
 }
