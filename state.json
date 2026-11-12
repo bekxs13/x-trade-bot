@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2120690741731307819",
+      "last_id": "2120704243783094781",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,11 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-08T07:19:06.000Z",
-          "id": "2119328844247380153",
-          "text": "In love with an Asian girl but rollin with a blonde girl for the social status"
-        },
         {
           "created_at": "2026-11-08T08:57:06.000Z",
           "id": "2119353508923326783",
@@ -266,10 +261,14 @@
           "id": "2120684321325584887",
           "reply_to_id": "2120684253185016306",
           "text": "Then again maybe every few days he doesn\u2019t step down they drop a new thing"
+        },
+        {
+          "created_at": "2026-11-12T02:24:27.000Z",
+          "id": "2120704243783094781",
+          "text": "All other things fixed, -5% in SPY reduces consumption:"
         }
       ],
       "reads": {
-        "2119328844247380153": "No call",
         "2119353508923326783": "No call",
         "2119354232969232673": "No call",
         "2119355012774306261": "No call",
@@ -286,7 +285,8 @@
         "2120638105749512676": "No call",
         "2120671215249711343": "No call",
         "2120684253185016306": "No call",
-        "2120684321325584887": "Read together with the post it replies to"
+        "2120684321325584887": "Read together with the post it replies to",
+        "2120704243783094781": "No call"
       },
       "replies": [
         {
@@ -387,10 +387,6 @@
         }
       ],
       "threads": {
-        "2114552533163311386": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2114932525705646443": {
           "alerted": [],
           "self_replies": 0
@@ -789,6 +785,10 @@
         "2120684253185016306": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2120704243783094781": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -796,7 +796,6 @@
         "2118858662806736994": false,
         "2119163228009984017": false,
         "2119237974978433429": false,
-        "2119328844247380153": false,
         "2119330801938731223": false,
         "2119331577608155616": false,
         "2119353508923326783": false,
@@ -826,7 +825,8 @@
         "2120684253185016306": false,
         "2120684321325584887": false,
         "2120686119595737151": false,
-        "2120690741731307819": true
+        "2120690741731307819": true,
+        "2120704243783094781": true
       },
       "user_id": "1446541960181858315"
     },
@@ -4579,7 +4579,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120698160704098392",
+      "last_id": "2120704541461016789",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4759,18 +4759,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-11T13:31:42.000Z",
-          "id": "2120509778392719580",
-          "reply_to_id": "2120508820581700005",
-          "text": "@zoomerfied sorry i am over exposed  and edgy love you buddy"
-        },
-        {
-          "created_at": "2026-11-11T16:26:10.000Z",
-          "id": "2120553681573614063",
-          "reply_to_id": "2120549564344361054",
-          "text": "@sqalef what\u2019s auction market theory i like"
-        },
-        {
           "created_at": "2026-11-11T18:31:42.000Z",
           "id": "2120585273960509598",
           "reply_to_id": "2120585038588748033",
@@ -4847,6 +4835,21 @@
           "id": "2120698160704098392",
           "reply_to_id": "2120697397340754397",
           "text": "@steve2bacon send me to federal prison"
+        },
+        {
+          "created_at": "2026-11-12T02:24:24.000Z",
+          "id": "2120704233712369745",
+          "images": [
+            "https://pbs.twimg.com/media/HW5BQw4WUAAxLoj.jpg"
+          ],
+          "reply_to_id": "2120634649793966162",
+          "text": "@orangie https://t.co/jbWnPfV71V"
+        },
+        {
+          "created_at": "2026-11-12T02:25:38.000Z",
+          "id": "2120704541461016789",
+          "reply_to_id": "2120704385760030968",
+          "text": "@udiWertheimer look at the guy with a happy life and good morals"
         }
       ],
       "threads": {
@@ -5257,10 +5260,8 @@
         "2120281631135285392": false,
         "2120291291036827676": false,
         "2120296323551256874": false,
-        "2120509778392719580": false,
         "2120511031340384488": true,
         "2120512084853047610": true,
-        "2120553681573614063": true,
         "2120585273960509598": false,
         "2120588429046247424": false,
         "2120589064789488114": true,
@@ -5288,7 +5289,9 @@
         "2120678428735045817": false,
         "2120692725351862588": false,
         "2120693178148000220": false,
-        "2120698160704098392": false
+        "2120698160704098392": false,
+        "2120704233712369745": false,
+        "2120704541461016789": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7082,5 +7085,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-12T02:02:21+00:00"
+  "updated_at": "2026-11-12T02:26:25+00:00"
 }
