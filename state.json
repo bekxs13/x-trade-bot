@@ -4621,7 +4621,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2120989408748789762",
+      "last_id": "2120990196678201432",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4819,12 +4819,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-12T02:25:38.000Z",
-          "id": "2120704541461016789",
-          "reply_to_id": "2120704385760030968",
-          "text": "@udiWertheimer look at the guy with a happy life and good morals"
-        },
-        {
           "created_at": "2026-11-12T02:30:59.000Z",
           "id": "2120705891389599773",
           "reply_to_id": "2120631082869497982",
@@ -4907,6 +4901,12 @@
           "id": "2120989408748789762",
           "reply_to_id": "2120988710724579424",
           "text": "@kloss_xyz \ud83e\udee1"
+        },
+        {
+          "created_at": "2026-11-12T21:20:43.000Z",
+          "id": "2120990196678201432",
+          "reply_to_id": "2120988227653747103",
+          "text": "@silksteele @kloss_xyz i don\u2019t feel particularly interested in meeting you either, fwiw"
         }
       ],
       "threads": {
@@ -5323,7 +5323,6 @@
         "2120670549089169625": false,
         "2120670823660876273": false,
         "2120693178148000220": false,
-        "2120704541461016789": false,
         "2120705891389599773": false,
         "2120706484111909134": false,
         "2120710632731292056": false,
@@ -5348,7 +5347,8 @@
         "2120972973847027947": false,
         "2120982706129396107": true,
         "2120987108080775272": true,
-        "2120989408748789762": false
+        "2120989408748789762": false,
+        "2120990196678201432": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7174,5 +7174,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T21:20:27+00:00"
+  "updated_at": "2026-11-12T21:22:19+00:00"
 }
