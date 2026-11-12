@@ -6359,7 +6359,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120930300046049477",
+      "last_id": "2120933886100152481",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6395,11 +6395,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T22:18:59.000Z",
-          "id": "2120642470094753845",
-          "text": "Jensen clearly pissed off the spooks"
-        },
         {
           "created_at": "2026-11-11T22:19:59.000Z",
           "id": "2120642725154263271",
@@ -6502,10 +6497,14 @@
           "created_at": "2026-11-12T17:22:09.000Z",
           "id": "2120930157716500796",
           "text": "I appreciate the people reaching out over email/DM asking if we're open to running capital but currently we are capacity constrained at the family office with our capital alone. I don't feel like replying to everyone so tweeting this as a PSA.\n\nThank you for your interest but no."
+        },
+        {
+          "created_at": "2026-11-12T17:36:58.000Z",
+          "id": "2120933886100152481",
+          "text": "My old high school rejected my significant gift to establish a finance club where students can propose one trade and the portfolio will sit in 33% SPX 33% IBIT and 33% SGOV to illustrate the differences in returns. \n\nAs we approach end of year, what other math and finance charties do people think are exceptional?"
         }
       ],
       "reads": {
-        "2120642470094753845": "No call",
         "2120642725154263271": "No call",
         "2120643987513954484": "No call",
         "2120645516325458002": "No call",
@@ -6523,7 +6522,8 @@
         "2120928369823096999": "No call: bearish on stocks/macro (60%, too unsure)",
         "2120928590464233529": "No call: maybe trim SOXL (50%, too unsure)",
         "2120929784951890402": "No call: maybe exit BTC, SOXL (60%, too unsure)",
-        "2120930157716500796": "No call"
+        "2120930157716500796": "No call",
+        "2120933886100152481": "No call"
       },
       "replies": [
         {
@@ -6621,10 +6621,6 @@
         }
       ],
       "threads": {
-        "2111161559317946701": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111171350538666230": {
           "alerted": [],
           "self_replies": 0
@@ -7038,6 +7034,10 @@
         "2120930157716500796": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120933886100152481": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7054,7 +7054,6 @@
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
-        "2120642470094753845": false,
         "2120642725154263271": true,
         "2120643987513954484": false,
         "2120645516325458002": false,
@@ -7075,7 +7074,8 @@
         "2120928590464233529": true,
         "2120929784951890402": true,
         "2120930157716500796": false,
-        "2120930300046049477": true
+        "2120930300046049477": true,
+        "2120933886100152481": true
       },
       "user_id": "809191427645181952"
     }
@@ -7098,5 +7098,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T17:32:22+00:00"
+  "updated_at": "2026-11-12T17:38:23+00:00"
 }
