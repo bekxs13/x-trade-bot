@@ -2233,7 +2233,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120896056770641999",
+      "last_id": "2120935840658661401",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2253,12 +2253,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T20:36:28.000Z",
-          "id": "2120616674046955602",
-          "quoted_text": "Anthropic pre-IPO broker call was absolutely WILD.  The party line was:\n\u2022We are or plan on imminently destroying: hyperscalers, every other lab, SpaceX, biotech, robot cos; for fun\n\u2022Chipmakers may survive at our pleasure\n\u2022$1tn ARR by 4Q28\n\u2022Fuck investors it\u2019s capex time",
-          "text": "&gt;Fuck investors it\u2019s capex time\n\ni mean ive been saying this https://t.co/oc6LOULhw1"
-        },
         {
           "created_at": "2026-11-11T22:19:15.000Z",
           "id": "2120642538449088837",
@@ -2370,10 +2364,14 @@
             "https://pbs.twimg.com/media/HW7ne5bWkAA6b4m.jpg"
           ],
           "text": "this is the barometer about how retail feels about the ai trade because there are shitcos that people actually in the know (who are bullish ai) really dislike https://t.co/DIRpgSCNHm"
+        },
+        {
+          "created_at": "2026-11-12T17:44:44.000Z",
+          "id": "2120935840658661401",
+          "text": "how strong is the CUDA moat really? already 50% of code is written by AI and LLMs don't give a shit about migrating to ROCm"
         }
       ],
       "reads": {
-        "2120616674046955602": "No call",
         "2120642538449088837": "No call",
         "2120643578271514984": "No call",
         "2120656111418392948": "No call",
@@ -2392,7 +2390,8 @@
         "2120878056625652020": "No call",
         "2120878567269806153": "No call",
         "2120886121689407518": "No call",
-        "2120887119048581298": "No call"
+        "2120887119048581298": "No call",
+        "2120935840658661401": "No call: bearish on NVDA (60%, too unsure)"
       },
       "replies": [
         {
@@ -2487,10 +2486,6 @@
         }
       ],
       "threads": {
-        "2115575054545072216": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115582687427609059": {
           "alerted": [],
           "self_replies": 1
@@ -2888,6 +2883,10 @@
         "2120887119048581298": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120935840658661401": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -2896,7 +2895,6 @@
         "2120536888285299022": true,
         "2120538487615295600": true,
         "2120577702465818808": false,
-        "2120616674046955602": true,
         "2120634577588756965": false,
         "2120634740344860804": false,
         "2120640431990174168": true,
@@ -2925,7 +2923,8 @@
         "2120878567269806153": true,
         "2120886121689407518": true,
         "2120887119048581298": true,
-        "2120896056770641999": false
+        "2120896056770641999": false,
+        "2120935840658661401": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6359,7 +6358,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120935643563917459",
+      "last_id": "2120935916424622157",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6528,12 +6527,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-17T17:11:34.000Z",
-          "id": "2111505410444411366",
-          "reply_to_id": "2111212268801478808",
-          "text": "@masayoshisson End of year revenue &gt; $20B the entity should probably go public if it raised venture capital"
-        },
-        {
           "created_at": "2026-10-17T22:12:52.000Z",
           "id": "2111581235793588319",
           "reply_to_id": "2111578632980431235",
@@ -6619,6 +6612,12 @@
           "id": "2120935191342694537",
           "reply_to_id": "2120934770855256276",
           "text": "@yackcap It's what I'm passionate about and how I made my fortune."
+        },
+        {
+          "created_at": "2026-11-12T17:45:02.000Z",
+          "id": "2120935916424622157",
+          "reply_to_id": "2120935267532263881",
+          "text": "@carlcashmere I'm conservative and it's a super liberal area, or it was just too complicated for the school district to implement. I went to a public high school."
         }
       ],
       "threads": {
@@ -7042,7 +7041,6 @@
         }
       },
       "trading": {
-        "2111505410444411366": true,
         "2111581235793588319": true,
         "2111868524427948399": false,
         "2111870195140554867": true,
@@ -7076,7 +7074,8 @@
         "2120933886100152481": true,
         "2120934928602779707": false,
         "2120935191342694537": false,
-        "2120935643563917459": false
+        "2120935643563917459": false,
+        "2120935916424622157": false
       },
       "user_id": "809191427645181952"
     }
@@ -7099,5 +7098,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T17:44:22+00:00"
+  "updated_at": "2026-11-12T17:46:27+00:00"
 }
