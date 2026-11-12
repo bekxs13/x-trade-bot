@@ -1011,7 +1011,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120867407082201452",
+      "last_id": "2120868287231726035",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1277,12 +1277,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-12T11:36:20.000Z",
-          "id": "2120843129259692532",
-          "reply_to_id": "2120840910468747639",
-          "text": "@notmrvinnychase @Sp1cytrenches what do you mean"
-        },
-        {
           "created_at": "2026-11-12T11:36:58.000Z",
           "id": "2120843291734278623",
           "reply_to_id": "2120838942559985754",
@@ -1365,6 +1359,12 @@
           "id": "2120867160142532832",
           "reply_to_id": "2120866985596645462",
           "text": "@cryptoklotz @degengambleh brother ive been posting hour long bearpost videos it isnt working"
+        },
+        {
+          "created_at": "2026-11-12T13:16:18.000Z",
+          "id": "2120868287231726035",
+          "reply_to_id": "2120868003315085824",
+          "text": "@gurutooyou me? surely you dont mean me"
         }
       ],
       "threads": {
@@ -1798,7 +1798,6 @@
         "2120830982592802988": true,
         "2120833445408510011": true,
         "2120835250498461829": true,
-        "2120843129259692532": false,
         "2120843291734278623": true,
         "2120844362531938574": false,
         "2120844450742329609": false,
@@ -1817,7 +1816,8 @@
         "2120864495870304650": false,
         "2120865651380175205": true,
         "2120867160142532832": true,
-        "2120867407082201452": false
+        "2120867407082201452": false,
+        "2120868287231726035": false
       },
       "user_id": "973261472"
     },
@@ -7089,5 +7089,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T13:14:17+00:00"
+  "updated_at": "2026-11-12T13:18:20+00:00"
 }
