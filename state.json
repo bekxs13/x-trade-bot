@@ -1026,7 +1026,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120932505482379473",
+      "last_id": "2120946231769792558",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1284,12 +1284,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-12T12:52:29.000Z",
-          "id": "2120862295962378351",
-          "reply_to_id": "2120859412831281638",
-          "text": "@piovincenzo_ over the past 9 years, $QQQ has outperformed $BTC, what is the catalyst that changes this dynamic such that $BTC outperforms meaningfully again"
-        },
-        {
           "created_at": "2026-11-12T12:58:47.000Z",
           "id": "2120863880788455933",
           "reply_to_id": "2120863620284211433",
@@ -1375,6 +1369,15 @@
           "id": "2120932505482379473",
           "reply_to_id": "2120932211134509531",
           "text": "@divotends_ just dont think its time yet"
+        },
+        {
+          "created_at": "2026-11-12T18:26:01.000Z",
+          "id": "2120946231769792558",
+          "images": [
+            "https://pbs.twimg.com/media/HW8dW10XQAAds7N.jpg"
+          ],
+          "reply_to_id": "2120917469447786934",
+          "text": "@heat ethereum:0xb3a6add33f777ac6ea0ec88bdf533573c8bbbc03 https://t.co/ZzkcSr8dnq"
         }
       ],
       "threads": {
@@ -1800,7 +1803,6 @@
         "2120845385971499478": false,
         "2120851782272471418": false,
         "2120854917074264185": false,
-        "2120862295962378351": true,
         "2120863880788455933": false,
         "2120863987197706319": true,
         "2120864249341718899": true,
@@ -1827,7 +1829,8 @@
         "2120932002211975640": true,
         "2120932098403922372": true,
         "2120932357796446584": false,
-        "2120932505482379473": false
+        "2120932505482379473": false,
+        "2120946231769792558": true
       },
       "user_id": "973261472"
     },
@@ -7097,5 +7100,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T18:12:18+00:00"
+  "updated_at": "2026-11-12T18:28:20+00:00"
 }
