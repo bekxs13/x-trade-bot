@@ -2236,7 +2236,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2120935840658661401",
+      "last_id": "2120950774993936569",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2398,12 +2398,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-11T03:39:31.000Z",
-          "id": "2120360748522283447",
-          "reply_to_id": "2120359482660110739",
-          "text": "@dimsumsignal yes"
-        },
-        {
           "created_at": "2026-11-11T11:09:00.000Z",
           "id": "2120473865650589780",
           "reply_to_id": "2120398151827997044",
@@ -2486,6 +2480,12 @@
           "id": "2120896056770641999",
           "reply_to_id": "2120726750359658582",
           "text": "@zavetn0e i would hope my future wife understands sarcastic humor"
+        },
+        {
+          "created_at": "2026-11-12T18:44:04.000Z",
+          "id": "2120950774993936569",
+          "reply_to_id": "2120945641836744831",
+          "text": "@AdsoOfBelk 8 bedrooms???"
         }
       ],
       "threads": {
@@ -2893,7 +2893,6 @@
         }
       },
       "trading": {
-        "2120360748522283447": false,
         "2120473865650589780": false,
         "2120536888285299022": true,
         "2120538487615295600": true,
@@ -2927,7 +2926,8 @@
         "2120886121689407518": true,
         "2120887119048581298": true,
         "2120896056770641999": false,
-        "2120935840658661401": true
+        "2120935840658661401": true,
+        "2120950774993936569": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6360,7 +6360,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120942476978483206",
+      "last_id": "2120950653098832289",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6396,12 +6396,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T22:31:05.000Z",
-          "id": "2120645516325458002",
-          "reply_to_id": "2120643987513954484",
-          "text": "Normies will unironically point to some Warren Buffett YouTube video with him drinking a Coca-Cola and have this fantasy that all uber wealthy people are these lovable grandpas who have immense amounts of empathy for the world and want everyone to do well. \n\nThese people are cartoonishly evil and sociopaths who want to consume everything in sight."
-        },
         {
           "created_at": "2026-11-11T22:35:41.000Z",
           "id": "2120646674443907075",
@@ -6505,10 +6499,14 @@
           "id": "2120935643563917459",
           "reply_to_id": "2120934928602779707",
           "text": "I'm quite disappointed as my school lacked a sufficiently rigorous program. Students who excelled in math had to take classes at the community college because of a lack of teachers.\n\nOpen to feedback on this structure, maybe will do a longer form post about it."
+        },
+        {
+          "created_at": "2026-11-12T18:43:35.000Z",
+          "id": "2120950653098832289",
+          "text": "Probably the best thing you can do to have an edge in Finance is be a student of history"
         }
       ],
       "reads": {
-        "2120645516325458002": "No call",
         "2120652331276779817": "No call",
         "2120652998020153735": "No call",
         "2120653852588617981": "No call",
@@ -6525,7 +6523,8 @@
         "2120929784951890402": "No call: maybe exit BTC, SOXL (60%, too unsure)",
         "2120930157716500796": "No call",
         "2120933886100152481": "No call",
-        "2120934928602779707": "No call"
+        "2120934928602779707": "No call",
+        "2120950653098832289": "No call"
       },
       "replies": [
         {
@@ -6623,10 +6622,6 @@
         }
       ],
       "threads": {
-        "2111171350538666230": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111172044972757120": {
           "alerted": [],
           "self_replies": 0
@@ -7040,6 +7035,10 @@
         "2120933886100152481": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2120950653098832289": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7051,7 +7050,6 @@
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
-        "2120645516325458002": false,
         "2120646674443907075": false,
         "2120652331276779817": true,
         "2120652998020153735": false,
@@ -7077,7 +7075,8 @@
         "2120935916424622157": false,
         "2120937340495339809": true,
         "2120937737994088669": false,
-        "2120942476978483206": false
+        "2120942476978483206": false,
+        "2120950653098832289": true
       },
       "user_id": "809191427645181952"
     }
@@ -7100,5 +7099,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T18:28:20+00:00"
+  "updated_at": "2026-11-12T18:44:26+00:00"
 }
