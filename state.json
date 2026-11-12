@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2120686119595737151",
+      "last_id": "2120690741731307819",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -290,12 +290,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-07T00:00:14.000Z",
-          "id": "2118856011142582685",
-          "reply_to_id": "2118854898754236428",
-          "text": "@brkevncap Yes. Got my trackhawk"
-        },
-        {
           "created_at": "2026-11-07T00:02:23.000Z",
           "id": "2118856552509755538",
           "reply_to_id": "2118769747810566558",
@@ -384,6 +378,12 @@
           "id": "2120686119595737151",
           "reply_to_id": "2120685859401785773",
           "text": "@DeepDishEnjoyer You\u2019re doubting the conditional basically like there\u2019s probly more shit?"
+        },
+        {
+          "created_at": "2026-11-12T01:30:48.000Z",
+          "id": "2120690741731307819",
+          "reply_to_id": "2120690106243678290",
+          "text": "@dyzcrypto @DeepDishEnjoyer Use up only as much leverage as necessary"
         }
       ],
       "threads": {
@@ -792,7 +792,6 @@
         }
       },
       "trading": {
-        "2118856011142582685": false,
         "2118856552509755538": false,
         "2118858662806736994": false,
         "2119163228009984017": false,
@@ -826,7 +825,8 @@
         "2120671215249711343": true,
         "2120684253185016306": false,
         "2120684321325584887": false,
-        "2120686119595737151": false
+        "2120686119595737151": false,
+        "2120690741731307819": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7082,5 +7082,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-11",
-  "updated_at": "2026-11-12T01:30:29+00:00"
+  "updated_at": "2026-11-12T01:32:21+00:00"
 }
