@@ -1029,7 +1029,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120969239154880593",
+      "last_id": "2120978487343558720",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1050,18 +1050,18 @@
         "BTC": {
           "asset": "BTC",
           "chain": "",
-          "confidence": 0.75,
+          "confidence": 0.8,
           "contract_address": "",
           "direction": "short",
-          "entry": "",
+          "entry": "$123K",
           "horizon": "",
           "market": "crypto",
           "open_price": 78113.16,
-          "post_id": "2117963620554616973",
-          "reason": "Podcast summary mentions 'his BTC and ETH shorts'; ETH short is already on record, BTC short appears new.",
+          "post_id": "2120978487343558720",
+          "reason": "Quoted post says ansem is short at $123K with 10x and he replies \"let's ride\", confirming the short. The asset isn't named, but $123K fits BTC. A BTC short is already on record (since 11-04), so this mostly confirms the entry level.",
           "since": "2026-11-04T12:54:11.000Z",
-          "structure": "unknown",
-          "url": "https://x.com/blknoiz06/status/2117963620554616973"
+          "structure": "perp",
+          "url": "https://x.com/blknoiz06/status/2120978487343558720"
         },
         "ETH": {
           "asset": "ETH",
@@ -1161,14 +1161,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T11:45:18.000Z",
-          "id": "2120845385971499478",
-          "images": [
-            "https://pbs.twimg.com/media/HW7BovdWMAAkyds.jpg"
-          ],
-          "text": "gmihao https://t.co/mkg1xAIfGg"
-        },
         {
           "created_at": "2026-11-12T12:10:43.000Z",
           "id": "2120851782272471418",
@@ -1288,10 +1280,18 @@
           "created_at": "2026-11-12T19:48:38.000Z",
           "id": "2120967022272008380",
           "text": "current portfolio\n\nlong: bonds, oil, solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump \n\nshort: everything else"
+        },
+        {
+          "created_at": "2026-11-12T20:34:11.000Z",
+          "id": "2120978487343558720",
+          "images": [
+            "https://pbs.twimg.com/media/HW86sTDXsAAt-1H.jpg"
+          ],
+          "quoted_text": "we officially have @_TJRTrades vs @blknoiz06 \n\ntjr: $135K / 10x / Long\nansem: $123K / 10x / Short https://t.co/qw0pZzVOw4",
+          "text": "let's ride https://t.co/aLeJRwxYTF https://t.co/4jx8InBn1X"
         }
       ],
       "reads": {
-        "2120845385971499478": "No call",
         "2120851782272471418": "No call",
         "2120854917074264185": "No call",
         "2120871231809536481": "No call",
@@ -1307,7 +1307,8 @@
         "2120932357796446584": "No call",
         "2120964381211050460": "No call",
         "2120966496440791196": "No call",
-        "2120967022272008380": "TRADE LONG bonds, oil"
+        "2120967022272008380": "TRADE LONG bonds, oil",
+        "2120978487343558720": "TRADE SHORT BTC"
       },
       "replies": [
         {
@@ -1408,10 +1409,6 @@
         }
       ],
       "threads": {
-        "2118888587877876017": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119013989250379937": {
           "alerted": [],
           "self_replies": 0
@@ -1822,10 +1819,15 @@
             "trade:BONDS, OIL:long"
           ],
           "self_replies": 0
+        },
+        "2120978487343558720": {
+          "alerted": [
+            "trade:BTC:short"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120845385971499478": false,
         "2120851782272471418": false,
         "2120854917074264185": false,
         "2120864249341718899": true,
@@ -1859,7 +1861,8 @@
         "2120966496440791196": false,
         "2120967022272008380": true,
         "2120967633776644415": false,
-        "2120969239154880593": true
+        "2120969239154880593": true,
+        "2120978487343558720": true
       },
       "user_id": "973261472"
     },
@@ -7153,5 +7156,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T20:14:31+00:00"
+  "updated_at": "2026-11-12T20:36:23+00:00"
 }
