@@ -1011,7 +1011,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2120929359833772452",
+      "last_id": "2120929866396897737",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -1284,12 +1284,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-12T11:42:31.000Z",
-          "id": "2120844685753065585",
-          "reply_to_id": "2120837780796293297",
-          "text": "@FTPager followed"
-        },
-        {
           "created_at": "2026-11-12T12:06:20.000Z",
           "id": "2120850681687150850",
           "reply_to_id": "2120850399288558038",
@@ -1375,6 +1369,12 @@
           ],
           "reply_to_id": "2120925340197323235",
           "text": "@chiefingza https://t.co/tR3rswCk2A"
+        },
+        {
+          "created_at": "2026-11-12T17:20:59.000Z",
+          "id": "2120929866396897737",
+          "reply_to_id": "2120926139627839559",
+          "text": "@notwashed i am genuinely trying my best to not fall into this camp"
         }
       ],
       "threads": {
@@ -1802,7 +1802,6 @@
         "2120830982592802988": true,
         "2120833445408510011": true,
         "2120835250498461829": true,
-        "2120844685753065585": false,
         "2120845385971499478": false,
         "2120850681687150850": false,
         "2120851782272471418": false,
@@ -1827,7 +1826,8 @@
         "2120878236800270790": true,
         "2120884358374359168": false,
         "2120902344141652185": false,
-        "2120929359833772452": false
+        "2120929359833772452": false,
+        "2120929866396897737": false
       },
       "user_id": "973261472"
     },
@@ -6359,7 +6359,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120928590464233529",
+      "last_id": "2120929784951890402",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6395,11 +6395,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T18:56:41.000Z",
-          "id": "2120591562208051377",
-          "text": "Spend that little check you got and stay up out my business"
-        },
         {
           "created_at": "2026-11-11T22:11:55.000Z",
           "id": "2120640693970579557",
@@ -6502,10 +6497,14 @@
           "id": "2120928590464233529",
           "quoted_text": "Derisked because 10Y",
           "text": "It's literally that simple sometimes\n\nTepper mode https://t.co/qKmXdZW0Yf"
+        },
+        {
+          "created_at": "2026-11-12T17:20:40.000Z",
+          "id": "2120929784951890402",
+          "text": "Sitting in cash, tending to my garden and nicemaxxing"
         }
       ],
       "reads": {
-        "2120591562208051377": "No call",
         "2120640693970579557": "No call",
         "2120642470094753845": "No call",
         "2120642725154263271": "No call",
@@ -6523,7 +6522,8 @@
         "2120898402485715425": "No call",
         "2120905750033916381": "No call",
         "2120928369823096999": "No call: bearish on stocks/macro (60%, too unsure)",
-        "2120928590464233529": "No call: maybe trim SOXL (50%, too unsure)"
+        "2120928590464233529": "No call: maybe trim SOXL (50%, too unsure)",
+        "2120929784951890402": "No call: maybe exit BTC, SOXL (60%, too unsure)"
       },
       "replies": [
         {
@@ -6621,10 +6621,6 @@
         }
       ],
       "threads": {
-        "2111139510926893163": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111144786912522255": {
           "alerted": [],
           "self_replies": 0
@@ -7038,6 +7034,10 @@
         "2120928590464233529": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2120929784951890402": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7055,7 +7055,6 @@
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
-        "2120591562208051377": false,
         "2120640693970579557": true,
         "2120642470094753845": false,
         "2120642725154263271": true,
@@ -7075,7 +7074,8 @@
         "2120905750033916381": false,
         "2120922255936929882": false,
         "2120928369823096999": true,
-        "2120928590464233529": true
+        "2120928590464233529": true,
+        "2120929784951890402": true
       },
       "user_id": "809191427645181952"
     }
@@ -7098,5 +7098,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T17:20:22+00:00"
+  "updated_at": "2026-11-12T17:22:28+00:00"
 }
