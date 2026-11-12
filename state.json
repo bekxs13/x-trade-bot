@@ -6357,7 +6357,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2120937737994088669",
+      "last_id": "2120942476978483206",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6526,12 +6526,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T17:21:05.000Z",
-          "id": "2111870195140554867",
-          "reply_to_id": "2111856652685123781",
-          "text": "@BoringBiz_ What if they pull out? \n\nWhat if they let the equity go to zero to acquire the company cheaper?\n\nWhat if their own credit gets downgraded because they step in to rightsize these businesses?"
-        },
-        {
           "created_at": "2026-10-18T17:33:34.000Z",
           "id": "2111873335772541162",
           "reply_to_id": "2111873183204639097",
@@ -6617,6 +6611,12 @@
           "id": "2120937737994088669",
           "reply_to_id": "2120936014839505042",
           "text": "@0puppeteer0 No idea just full ghost sadly after multiple months of meetings/followups"
+        },
+        {
+          "created_at": "2026-11-12T18:11:06.000Z",
+          "id": "2120942476978483206",
+          "reply_to_id": "2120934840648290519",
+          "text": "@thedudeonx No idea, after multiple months of meetings and refining structure we were waiting to hear back from the school district and I've heard nothing"
         }
       ],
       "threads": {
@@ -7040,7 +7040,6 @@
         }
       },
       "trading": {
-        "2111870195140554867": true,
         "2111873335772541162": true,
         "2111874363234426989": true,
         "2111875879865389103": false,
@@ -7074,7 +7073,8 @@
         "2120935643563917459": false,
         "2120935916424622157": false,
         "2120937340495339809": true,
-        "2120937737994088669": false
+        "2120937737994088669": false,
+        "2120942476978483206": false
       },
       "user_id": "809191427645181952"
     }
@@ -7097,5 +7097,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-12T18:00:28+00:00"
+  "updated_at": "2026-11-12T18:12:18+00:00"
 }
