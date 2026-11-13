@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2121192689324691510",
+      "last_id": "2121193461579972839",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -298,12 +298,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-12T03:53:28.000Z",
-          "id": "2120726647121023289",
-          "reply_to_id": "2120672808414122467",
-          "text": "@Jackkk You need permitting at foreign airport and captain has to report passengers on private flights as well"
-        },
-        {
           "created_at": "2026-11-12T04:17:56.000Z",
           "id": "2120732806049603802",
           "images": [
@@ -389,6 +383,12 @@
           "id": "2121190702801637820",
           "reply_to_id": "2121190057075765502",
           "text": "@haha44955371 I haven't been properly in nyc for months"
+        },
+        {
+          "created_at": "2026-11-13T10:48:25.000Z",
+          "id": "2121193461579972839",
+          "reply_to_id": "2121192990387376559",
+          "text": "@Fabian_v4 @whop I'm still too lazy"
         }
       ],
       "threads": {
@@ -805,7 +805,6 @@
         "2120684253185016306": false,
         "2120684321325584887": false,
         "2120704243783094781": true,
-        "2120726647121023289": false,
         "2120732806049603802": false,
         "2120737326645338509": false,
         "2120749639129583796": false,
@@ -831,7 +830,8 @@
         "2121188474086961473": false,
         "2121189886434910402": false,
         "2121190702801637820": false,
-        "2121192689324691510": false
+        "2121192689324691510": false,
+        "2121193461579972839": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7170,5 +7170,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T10:46:22+00:00"
+  "updated_at": "2026-11-13T10:50:19+00:00"
 }
