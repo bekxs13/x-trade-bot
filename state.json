@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2121185597343867326",
+      "last_id": "2121186109212528653",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -297,12 +297,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-11T01:04:41.000Z",
-          "id": "2120321781496263064",
-          "reply_to_id": "2120312108927558006",
-          "text": "@WillManidis True although it\u2019s not even clear these people are right about the technological direction. And if they are i doesn\u2019t seem like an especially rare view or a view someone should be paid for"
-        },
-        {
           "created_at": "2026-11-11T03:49:45.000Z",
           "id": "2120363323669844317",
           "reply_to_id": "2120324218063892888",
@@ -391,6 +385,12 @@
           "id": "2121185597343867326",
           "reply_to_id": "2121185431442125185",
           "text": "@poca_08 My assistant bought skims for me"
+        },
+        {
+          "created_at": "2026-11-13T10:19:12.000Z",
+          "id": "2121186109212528653",
+          "reply_to_id": "2121185352669171928",
+          "text": "@grimace85 \u2708\ufe0f"
         }
       ],
       "threads": {
@@ -799,7 +799,6 @@
         }
       },
       "trading": {
-        "2120321781496263064": false,
         "2120363323669844317": true,
         "2120370997165707729": false,
         "2120373414192095290": false,
@@ -7171,5 +7170,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T10:18:36+00:00"
+  "updated_at": "2026-11-13T10:20:39+00:00"
 }
