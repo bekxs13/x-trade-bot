@@ -1029,7 +1029,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121081136302670030",
+      "last_id": "2121081603686351239",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1162,12 +1162,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-12T13:12:48.000Z",
-          "id": "2120867407082201452",
-          "reply_to_id": "2120867160142532832",
-          "text": "@cryptoklotz @degengambleh it got so dark i just stopped talking and started typing out my thoughts instead"
-        },
-        {
           "created_at": "2026-11-12T13:28:00.000Z",
           "id": "2120871231809536481",
           "images": [
@@ -1285,6 +1279,12 @@
           "id": "2121079432320340262",
           "quoted_text": "am really liking @papertrade_xyz, the high leverage individual positions w/ no worry about order book fills is very good for low timeframe scalping, especially in a trending market\n\nthink ppl are still underappreciating this as a protocol & $PAPER stakers are still printing cash off rewards",
           "text": "also this model is extremely extensible to be built on top of https://t.co/jDYhKTJfzc"
+        },
+        {
+          "created_at": "2026-11-13T03:23:56.000Z",
+          "id": "2121081603686351239",
+          "quoted_text": "a look at Bitcoin's failed breakout, key support levels, higher-low setups, Ethereum weakness and Gold's recovery\n\n0:00 - BTC failed breakout and downside risk\n9:25 - BTC vs Gold and macro concerns\n15:25 - BTC support, higher lows and entry setups\n32:00 - Weekly bearish signals and key demand\n40:05 - ETH weakness and Gold's recovery\n\nnovember 9th, 2026",
+          "text": "tick by tick https://t.co/dw06u9DUVn"
         }
       ],
       "reads": {
@@ -1305,7 +1305,8 @@
         "2120978487343558720": "TRADE SHORT BTC",
         "2121068477566038030": "No call",
         "2121079206733873660": "No call: bullish on PAPER (same view as before)",
-        "2121079432320340262": "No call: bullish on PAPER (same view as before)"
+        "2121079432320340262": "No call: bullish on PAPER (same view as before)",
+        "2121081603686351239": "No call"
       },
       "replies": [
         {
@@ -1409,10 +1410,6 @@
         }
       ],
       "threads": {
-        "2119080424278282304": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119086259796590816": {
           "alerted": [
             "bias:zec:bearish"
@@ -1825,10 +1822,13 @@
         "2121079432320340262": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121081603686351239": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120867407082201452": false,
         "2120871231809536481": true,
         "2120875227622277535": false,
         "2120875832256160012": true,
@@ -1862,7 +1862,8 @@
         "2121079206733873660": true,
         "2121079432320340262": true,
         "2121079655025213829": false,
-        "2121081136302670030": true
+        "2121081136302670030": true,
+        "2121081603686351239": true
       },
       "user_id": "973261472"
     },
@@ -7174,5 +7175,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T03:22:18+00:00"
+  "updated_at": "2026-11-13T03:24:20+00:00"
 }
