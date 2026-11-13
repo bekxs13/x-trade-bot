@@ -1029,7 +1029,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121149548253090209",
+      "last_id": "2121151869762351403",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1314,12 +1314,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T05:02:20.000Z",
-          "id": "2121106365771121023",
-          "reply_to_id": "2121098004723876118",
-          "text": "@Lowskii whats your profile ill follow you"
-        },
-        {
           "created_at": "2026-11-13T05:18:09.000Z",
           "id": "2121110345226105189",
           "reply_to_id": "2121110157757395408",
@@ -1405,6 +1399,15 @@
           "id": "2121149364848697834",
           "reply_to_id": "2121119945459454405",
           "text": "@lBattleRhino https://t.co/WIbENHC9QM https://t.co/sna1jYAF6Q"
+        },
+        {
+          "created_at": "2026-11-13T08:03:09.000Z",
+          "id": "2121151869762351403",
+          "images": [
+            "https://pbs.twimg.com/media/HW_YYk5W8AAd1aa.jpg"
+          ],
+          "reply_to_id": "2121149684224028772",
+          "text": "@Bagphilosopher @lBattleRhino https://t.co/81rCeyeOAi"
         }
       ],
       "threads": {
@@ -1842,7 +1845,6 @@
         "2121100714298524099": false,
         "2121101168948416608": true,
         "2121105640462422424": true,
-        "2121106365771121023": false,
         "2121108153081462890": true,
         "2121110345226105189": false,
         "2121111540560453811": true,
@@ -1861,7 +1863,8 @@
         "2121143778329424211": true,
         "2121145909325230131": true,
         "2121149364848697834": false,
-        "2121149548253090209": false
+        "2121149548253090209": false,
+        "2121151869762351403": false
       },
       "user_id": "973261472"
     },
@@ -7171,5 +7174,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T07:54:26+00:00"
+  "updated_at": "2026-11-13T08:04:19+00:00"
 }
