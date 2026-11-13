@@ -1019,7 +1019,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121244075575665009",
+      "last_id": "2121257385394155563",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1152,15 +1152,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-12T20:34:11.000Z",
-          "id": "2120978487343558720",
-          "images": [
-            "https://pbs.twimg.com/media/HW86sTDXsAAt-1H.jpg"
-          ],
-          "quoted_text": "we officially have @_TJRTrades vs @blknoiz06 \n\ntjr: $135K / 10x / Long\nansem: $123K / 10x / Short https://t.co/qw0pZzVOw4",
-          "text": "let's ride https://t.co/aLeJRwxYTF https://t.co/4jx8InBn1X"
-        },
-        {
           "created_at": "2026-11-13T02:31:47.000Z",
           "id": "2121068477566038030",
           "quoted_text": "The angels protecting you are stronger than the demons that are trying to harm you.",
@@ -1285,10 +1276,14 @@
           ],
           "reply_to_id": "2120404478474010916",
           "text": "@capexbt https://t.co/11qRk2sBUl"
+        },
+        {
+          "created_at": "2026-11-13T15:02:26.000Z",
+          "id": "2121257385394155563",
+          "text": "whats up"
         }
       ],
       "reads": {
-        "2120978487343558720": "TRADE SHORT BTC",
         "2121068477566038030": "No call",
         "2121079206733873660": "No call: bullish on PAPER (same view as before)",
         "2121079432320340262": "No call: bullish on PAPER (same view as before)",
@@ -1304,7 +1299,8 @@
         "2121114446080737288": "No call",
         "2121140489156174173": "No call",
         "2121205434224918732": "No call",
-        "2121230917968540062": "No call"
+        "2121230917968540062": "No call",
+        "2121257385394155563": "No call"
       },
       "replies": [
         {
@@ -1405,10 +1401,6 @@
         }
       ],
       "threads": {
-        "2119834776026661177": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119942810338275657": {
           "alerted": [],
           "self_replies": 0
@@ -1821,10 +1813,13 @@
         "2121230917968540062": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121257385394155563": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120978487343558720": true,
         "2121068477566038030": false,
         "2121079206733873660": true,
         "2121079432320340262": true,
@@ -1858,7 +1853,8 @@
         "2121231465447149924": false,
         "2121232994283266134": false,
         "2121240902756934046": false,
-        "2121244075575665009": false
+        "2121244075575665009": false,
+        "2121257385394155563": false
       },
       "user_id": "973261472"
     },
@@ -7164,5 +7160,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T14:10:20+00:00"
+  "updated_at": "2026-11-13T15:04:23+00:00"
 }
