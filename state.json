@@ -1029,7 +1029,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121067782338912511",
+      "last_id": "2121068477566038030",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1162,12 +1162,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-12T12:10:43.000Z",
-          "id": "2120851782272471418",
-          "quoted_text": "\"you already know what to do, you're just negotiating with comfort\" https://t.co/XC5RxeJcO2",
-          "text": "banger https://t.co/ydpwRvDD2p"
-        },
-        {
           "created_at": "2026-11-12T12:23:10.000Z",
           "id": "2120854917074264185",
           "quoted_text": "How fukd is it that you're expected to be reachable 24/7 by literally anyone via your portable mind-rayping device",
@@ -1289,10 +1283,15 @@
           ],
           "quoted_text": "we officially have @_TJRTrades vs @blknoiz06 \n\ntjr: $135K / 10x / Long\nansem: $123K / 10x / Short https://t.co/qw0pZzVOw4",
           "text": "let's ride https://t.co/aLeJRwxYTF https://t.co/4jx8InBn1X"
+        },
+        {
+          "created_at": "2026-11-13T02:31:47.000Z",
+          "id": "2121068477566038030",
+          "quoted_text": "The angels protecting you are stronger than the demons that are trying to harm you.",
+          "text": "affirm https://t.co/n31Z1yoUxn"
         }
       ],
       "reads": {
-        "2120851782272471418": "No call",
         "2120854917074264185": "No call",
         "2120871231809536481": "No call",
         "2120875227622277535": "No call",
@@ -1308,15 +1307,10 @@
         "2120964381211050460": "No call",
         "2120966496440791196": "No call",
         "2120967022272008380": "TRADE LONG bonds, oil",
-        "2120978487343558720": "TRADE SHORT BTC"
+        "2120978487343558720": "TRADE SHORT BTC",
+        "2121068477566038030": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-12T22:12:03.000Z",
-          "id": "2121003114102939757",
-          "reply_to_id": "2121001791227613630",
-          "text": "@JimmySsolana @the_smart_ape @Pumpfun market is/was the worst it had ever been when i cto'd $ANSEM so dunno wym"
-        },
         {
           "created_at": "2026-11-12T22:12:50.000Z",
           "id": "2121003313730625896",
@@ -1403,13 +1397,18 @@
           "id": "2121067782338912511",
           "reply_to_id": "2121060574012612736",
           "text": "im not changing it ive picked my spots, $ANSEM will be my creator coin to build around, solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump will be my memecoin to pfp & raid the TL with, both will do well and benefit from each other going up, will support others along the way on the apps"
+        },
+        {
+          "created_at": "2026-11-13T02:30:55.000Z",
+          "id": "2121068259265085880",
+          "images": [
+            "https://pbs.twimg.com/media/HW-MVfYWMAEvn_2.jpg"
+          ],
+          "reply_to_id": "2121067411931898079",
+          "text": "@MINHxDYNASTY @fomo https://t.co/sxabfQ5guG"
         }
       ],
       "threads": {
-        "2119013989250379937": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119014252178813292": {
           "alerted": [],
           "self_replies": 0
@@ -1822,10 +1821,13 @@
             "trade:BTC:short"
           ],
           "self_replies": 0
+        },
+        "2121068477566038030": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120851782272471418": false,
         "2120854917074264185": false,
         "2120864249341718899": true,
         "2120867407082201452": false,
@@ -1845,7 +1847,6 @@
         "2120966496440791196": false,
         "2120967022272008380": true,
         "2120978487343558720": true,
-        "2121003114102939757": true,
         "2121003313730625896": false,
         "2121004619199619411": true,
         "2121005575546827029": false,
@@ -1859,7 +1860,9 @@
         "2121065270106083478": false,
         "2121065342411944427": false,
         "2121066373090578886": false,
-        "2121067782338912511": true
+        "2121067782338912511": true,
+        "2121068259265085880": false,
+        "2121068477566038030": false
       },
       "user_id": "973261472"
     },
@@ -7164,5 +7167,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T02:30:22+00:00"
+  "updated_at": "2026-11-13T02:32:21+00:00"
 }
