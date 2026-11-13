@@ -1019,7 +1019,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121273470839591334",
+      "last_id": "2121278114278039870",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1152,11 +1152,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-13T03:14:25.000Z",
-          "id": "2121079206733873660",
-          "text": "am really liking @papertrade_xyz, the high leverage individual positions w/ no worry about order book fills is very good for low timeframe scalping, especially in a trending market\n\nthink ppl are still underappreciating this as a protocol & $PAPER stakers are still printing cash off rewards"
-        },
-        {
           "created_at": "2026-11-13T03:15:19.000Z",
           "id": "2121079432320340262",
           "quoted_text": "am really liking @papertrade_xyz, the high leverage individual positions w/ no worry about order book fills is very good for low timeframe scalping, especially in a trending market\n\nthink ppl are still underappreciating this as a protocol & $PAPER stakers are still printing cash off rewards",
@@ -1281,10 +1276,14 @@
           "id": "2121258486201790652",
           "reply_to_id": "2121258052426834067",
           "text": "ive been doing this on X for years for free, it is the only reason i have followers on this app, i just post trades and my ideas and that resulted in me getting followers on here\n\nnow there are apps with billions of dollars willing to pay traders to do the exact same thing they were doing on X on their apps, this is a good thing"
+        },
+        {
+          "created_at": "2026-11-13T16:24:48.000Z",
+          "id": "2121278114278039870",
+          "text": "https://t.co/7d3oY6GOBK"
         }
       ],
       "reads": {
-        "2121079206733873660": "No call: bullish on PAPER (same view as before)",
         "2121079432320340262": "No call: bullish on PAPER (same view as before)",
         "2121081603686351239": "No call",
         "2121089005114867983": "No call",
@@ -1299,7 +1298,8 @@
         "2121140489156174173": "No call",
         "2121205434224918732": "No call",
         "2121230917968540062": "No call",
-        "2121257385394155563": "No call"
+        "2121257385394155563": "No call",
+        "2121278114278039870": "No call"
       },
       "replies": [
         {
@@ -1394,10 +1394,6 @@
         }
       ],
       "threads": {
-        "2119942810338275657": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120009419820007926": {
           "alerted": [
             "bias:sol:bearish"
@@ -1810,10 +1806,13 @@
         "2121257385394155563": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121278114278039870": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121079206733873660": true,
         "2121079432320340262": true,
         "2121081603686351239": true,
         "2121088376086651273": true,
@@ -1847,7 +1846,8 @@
         "2121270878549762383": false,
         "2121271763149471915": true,
         "2121272535216267470": true,
-        "2121273470839591334": false
+        "2121273470839591334": false,
+        "2121278114278039870": false
       },
       "user_id": "973261472"
     },
@@ -7152,5 +7152,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T16:08:28+00:00"
+  "updated_at": "2026-11-13T16:28:23+00:00"
 }
