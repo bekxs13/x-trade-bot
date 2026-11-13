@@ -6398,7 +6398,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121099526400508073",
+      "last_id": "2121265838338548157",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6450,11 +6450,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T15:09:33.000Z",
-          "id": "2120896790807642297",
-          "text": "Clear sign of an unprofitable trader is a guy who makes fun of someone for switching their bias.\n\nMarkets change the rules all the time. You have to remain intellectually flexible."
-        },
         {
           "created_at": "2026-11-12T15:13:09.000Z",
           "id": "2120897694810182133",
@@ -6565,10 +6560,14 @@
           "created_at": "2026-11-13T04:35:09.000Z",
           "id": "2121099526400508073",
           "text": "Think people have lost a lot more money than they're willing to admit this year and we're getting close to the final capitulation candle."
+        },
+        {
+          "created_at": "2026-11-13T15:36:01.000Z",
+          "id": "2121265838338548157",
+          "text": "This has been some of the nastiest price action I've ever seen. If you're chopping yourself up recognize you may not have much edge here and take a break + DCA."
         }
       ],
       "reads": {
-        "2120896790807642297": "No call",
         "2120897694810182133": "No call",
         "2120898402485715425": "No call",
         "2120905750033916381": "No call",
@@ -6586,7 +6585,8 @@
         "2121066183143121055": "No call",
         "2121076937699279260": "No call",
         "2121077529541013955": "No call",
-        "2121099526400508073": "No call: bearish on crypto market (60%, too unsure)"
+        "2121099526400508073": "No call: bearish on crypto market (60%, too unsure)",
+        "2121265838338548157": "No call"
       },
       "replies": [
         {
@@ -6684,10 +6684,6 @@
         }
       ],
       "threads": {
-        "2111582307996082446": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111582981420642576": {
           "alerted": [],
           "self_replies": 1
@@ -7099,6 +7095,10 @@
         "2121099526400508073": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121265838338548157": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7109,7 +7109,6 @@
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
-        "2120896790807642297": true,
         "2120897694810182133": false,
         "2120898402485715425": false,
         "2120905750033916381": false,
@@ -7136,7 +7135,8 @@
         "2121066183143121055": true,
         "2121076937699279260": true,
         "2121077529541013955": false,
-        "2121099526400508073": true
+        "2121099526400508073": true,
+        "2121265838338548157": true
       },
       "user_id": "809191427645181952"
     }
@@ -7159,5 +7159,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T15:20:29+00:00"
+  "updated_at": "2026-11-13T15:36:35+00:00"
 }
