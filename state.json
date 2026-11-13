@@ -1022,7 +1022,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121355067739828429",
+      "last_id": "2121357423713857969",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1155,12 +1155,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-13T04:39:53.000Z",
-          "id": "2121100714298524099",
-          "quoted_text": "@blknoiz06 stream it brother, it would be fun https://t.co/9yZFoaHNzl",
-          "text": "should i! https://t.co/Kt6JU1twhA"
-        },
-        {
           "created_at": "2026-11-13T04:41:41.000Z",
           "id": "2121101168948416608",
           "text": "getting to the accelerated selling part, recommend not trying to knife catch on leverage, unnecessary and will get you blown up way more times than the hero long you want from the bottom\n\nalso whenever bottom forms, you will very likely have another shot at bidding very close to same lows some time period after, so much better to wait\n\nlet the liquidations happen and then re-assess, or set spot bids at the levels you want with cash you have aside"
@@ -1287,10 +1281,15 @@
           "created_at": "2026-11-13T21:26:28.000Z",
           "id": "2121354029909299475",
           "text": "what do you call a cyber world war"
+        },
+        {
+          "created_at": "2026-11-13T21:38:10.000Z",
+          "id": "2121356977364418744",
+          "quoted_text": "holy shit\n\nall flights grounded in the US because of a cybersecurity incident\n\nbetween this and microsoft being down for 18h+ yesterday, this is all feeling like a black mirror episode\n\ndef some rogue AI agent gone wild right?? https://t.co/AFxcwN2GAV",
+          "text": "sigh https://t.co/4CYOhCsQxm"
         }
       ],
       "reads": {
-        "2121100714298524099": "No call",
         "2121101168948416608": "VIEW bearish on crypto market",
         "2121105640462422424": "No call: bearish on btc (same view as before)",
         "2121108153081462890": "No call",
@@ -1306,15 +1305,10 @@
         "2121306256556409097": "No call",
         "2121317620943364411": "No call",
         "2121332435266769103": "No call",
-        "2121354029909299475": "No call"
+        "2121354029909299475": "No call",
+        "2121356977364418744": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-13T16:53:34.000Z",
-          "id": "2121285354044919816",
-          "reply_to_id": "2121282079954477196",
-          "text": "@methropic wym"
-        },
         {
           "created_at": "2026-11-13T16:58:34.000Z",
           "id": "2121286610239275136",
@@ -1398,15 +1392,15 @@
           "id": "2121355067739828429",
           "reply_to_id": "2121354907210981872",
           "text": "@needs0lana world war zero is kinda tough im ngl"
+        },
+        {
+          "created_at": "2026-11-13T21:39:57.000Z",
+          "id": "2121357423713857969",
+          "reply_to_id": "2121356580402733264",
+          "text": "@FabianoSolana except none of those guys also made their fans millions of dollars"
         }
       ],
       "threads": {
-        "2120297144431284707": {
-          "alerted": [
-            "trade:MIHAO:long"
-          ],
-          "self_replies": 0
-        },
         "2120299275506655570": {
           "alerted": [],
           "self_replies": 0
@@ -1815,10 +1809,13 @@
         "2121354029909299475": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121356977364418744": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121100714298524099": false,
         "2121101168948416608": true,
         "2121105640462422424": true,
         "2121108153081462890": true,
@@ -1833,7 +1830,6 @@
         "2121258486201790652": false,
         "2121278114278039870": false,
         "2121281001657958823": false,
-        "2121285354044919816": false,
         "2121286610239275136": true,
         "2121287410516377909": true,
         "2121300897510601185": true,
@@ -1852,7 +1848,9 @@
         "2121340698607665328": false,
         "2121341370858418638": false,
         "2121354029909299475": false,
-        "2121355067739828429": false
+        "2121355067739828429": false,
+        "2121356977364418744": false,
+        "2121357423713857969": false
       },
       "user_id": "973261472"
     },
@@ -7161,5 +7159,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T21:32:24+00:00"
+  "updated_at": "2026-11-13T21:40:23+00:00"
 }
