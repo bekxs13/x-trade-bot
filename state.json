@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2121197627903783221",
+      "last_id": "2121202474497544522",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,14 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T08:26:09.000Z",
-          "id": "2120432883064266933",
-          "images": [
-            "https://pbs.twimg.com/media/HWqa7hjXYAAPR3E.jpg"
-          ],
-          "text": "https://t.co/VtfW9CphuC"
-        },
         {
           "created_at": "2026-11-11T21:16:10.000Z",
           "id": "2120626662312460541",
@@ -273,10 +265,14 @@
           "id": "2121192689324691510",
           "quoted_text": "Ok wrote something\n\nhttps://t.co/aHXZsLx7rL",
           "text": "Added a twitch chat to the site too. $1/mo subscription post on the live chat. via @whop https://t.co/32FOYlUyAx"
+        },
+        {
+          "created_at": "2026-11-13T11:24:14.000Z",
+          "id": "2121202474497544522",
+          "text": "https://t.co/voCFnw0WRX"
         }
       ],
       "reads": {
-        "2120432883064266933": "No call",
         "2120626662312460541": "No call",
         "2120633259927523615": "No call",
         "2120638105749512676": "No call",
@@ -294,7 +290,8 @@
         "2121175103572734418": "No call",
         "2121175259898638629": "No call",
         "2121182305591128178": "No call",
-        "2121192689324691510": "No call"
+        "2121192689324691510": "No call",
+        "2121202474497544522": "No call"
       },
       "replies": [
         {
@@ -389,10 +386,6 @@
         }
       ],
       "threads": {
-        "2115197542522864124": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2115198137531011289": {
           "alerted": [],
           "self_replies": 0
@@ -791,10 +784,13 @@
         "2121192689324691510": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121202474497544522": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120432883064266933": false,
         "2120626662312460541": false,
         "2120633259927523615": false,
         "2120638105749512676": false,
@@ -828,7 +824,8 @@
         "2121194330987843619": false,
         "2121195102337208452": false,
         "2121195470823534777": false,
-        "2121197627903783221": false
+        "2121197627903783221": false,
+        "2121202474497544522": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7167,5 +7164,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T11:06:17+00:00"
+  "updated_at": "2026-11-13T11:26:20+00:00"
 }
