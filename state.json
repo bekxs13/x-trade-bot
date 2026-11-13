@@ -969,13 +969,13 @@
           "updated_at": "2026-11-11T16:40:20.000Z"
         },
         "stocks/macro": {
-          "market": "macro",
-          "post_id": "2120967022272008380",
-          "reason": "\"short: everything else\" while long only bonds and oil reads as a risk-off view across markets, matching his recorded bearish stocks/macro view.",
+          "market": "stocks",
+          "post_id": "2121111540560453811",
+          "reason": "\"i think that was top of bounce for equities, probably lower into eoy\" with a QQQ chart showing rejection at the broken ~700 range support.",
           "scope": "stocks/macro",
           "since": "2026-10-29",
           "stance": "bearish",
-          "updated_at": "2026-11-12T19:48:38.000Z"
+          "updated_at": "2026-11-13T05:22:54.000Z"
         },
         "vvv": {
           "market": "crypto",
@@ -1029,7 +1029,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121110345226105189",
+      "last_id": "2121111540560453811",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1162,11 +1162,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-12T17:29:28.000Z",
-          "id": "2120932002211975640",
-          "text": "dollar and rates best charts on my screen is absolutely abysmal"
-        },
-        {
           "created_at": "2026-11-12T17:29:51.000Z",
           "id": "2120932098403922372",
           "text": "i want to be bullish btc so bad"
@@ -1282,10 +1277,18 @@
             "https://pbs.twimg.com/media/HW-wnmkWMAAuiqh.png"
           ],
           "text": "finance https://t.co/0bQbHfsXgk"
+        },
+        {
+          "created_at": "2026-11-13T05:22:54.000Z",
+          "id": "2121111540560453811",
+          "images": [
+            "https://pbs.twimg.com/media/HW-zrgtWkAAczfj.png"
+          ],
+          "quoted_text": "i think we're getting close to a relief bounce in Micron and some of the AI names that have been hit hardest this week\n\nMicron has dropped roughly 34% in a week, and the selling looks pretty extended at these levels\n\ni wouldn't be surprised to see a green week next week, but i'm still cautious about what happens after that\n\na bounce back into previous support could offer an opportunity to reduce risk before these stocks enter a longer period of consolidation\n\ni expect the eventual bottoming proc",
+          "text": "i think that was top of bounce for equities, probably lower into eoy https://t.co/83myv6ZFCh https://t.co/7UECCxdXXi"
         }
       ],
       "reads": {
-        "2120932002211975640": "No call",
         "2120932098403922372": "No call",
         "2120932357796446584": "No call",
         "2120964381211050460": "No call",
@@ -1302,7 +1305,8 @@
         "2121100714298524099": "No call",
         "2121101168948416608": "VIEW bearish on crypto market",
         "2121105640462422424": "No call: bearish on btc (same view as before)",
-        "2121108153081462890": "No call"
+        "2121108153081462890": "No call",
+        "2121111540560453811": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -1397,10 +1401,6 @@
         }
       ],
       "threads": {
-        "2119409698999033942": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119512277393043542": {
           "alerted": [],
           "self_replies": 0
@@ -1813,10 +1813,13 @@
         "2121108153081462890": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121111540560453811": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120932002211975640": true,
         "2120932098403922372": true,
         "2120932357796446584": false,
         "2120964252555198858": false,
@@ -1850,7 +1853,8 @@
         "2121105640462422424": true,
         "2121106365771121023": false,
         "2121108153081462890": true,
-        "2121110345226105189": false
+        "2121110345226105189": false,
+        "2121111540560453811": true
       },
       "user_id": "973261472"
     },
@@ -7160,5 +7164,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T05:20:21+00:00"
+  "updated_at": "2026-11-13T05:24:20+00:00"
 }
