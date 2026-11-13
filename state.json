@@ -1022,7 +1022,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121368523444220235",
+      "last_id": "2121369933418483856",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1155,14 +1155,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-13T05:09:26.000Z",
-          "id": "2121108153081462890",
-          "images": [
-            "https://pbs.twimg.com/media/HW-wnmkWMAAuiqh.png"
-          ],
-          "text": "finance https://t.co/0bQbHfsXgk"
-        },
-        {
           "created_at": "2026-11-13T05:22:54.000Z",
           "id": "2121111540560453811",
           "images": [
@@ -1292,10 +1284,14 @@
           "created_at": "2026-11-13T22:14:02.000Z",
           "id": "2121366000436154784",
           "text": "how are we feeling"
+        },
+        {
+          "created_at": "2026-11-13T22:29:39.000Z",
+          "id": "2121369933418483856",
+          "text": "so the aliens are here or we're entering world war 3, 2026 is lit so far"
         }
       ],
       "reads": {
-        "2121108153081462890": "No call",
         "2121111540560453811": "No call: bearish on stocks/macro (same view as before)",
         "2121114446080737288": "No call",
         "2121140489156174173": "No call",
@@ -1311,7 +1307,8 @@
         "2121354029909299475": "No call",
         "2121356977364418744": "No call",
         "2121362703713288583": "No call: bearish on btc (same view as before)",
-        "2121366000436154784": "No call"
+        "2121366000436154784": "No call",
+        "2121369933418483856": "No call"
       },
       "replies": [
         {
@@ -1406,10 +1403,6 @@
         }
       ],
       "threads": {
-        "2120302231065157805": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120304422790250670": {
           "alerted": [],
           "self_replies": 0
@@ -1818,10 +1811,13 @@
         "2121366000436154784": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121369933418483856": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121108153081462890": true,
         "2121111540560453811": true,
         "2121114446080737288": false,
         "2121140489156174173": false,
@@ -1855,7 +1851,8 @@
         "2121365466769707367": false,
         "2121366000436154784": false,
         "2121367683815866809": true,
-        "2121368523444220235": false
+        "2121368523444220235": false,
+        "2121369933418483856": false
       },
       "user_id": "973261472"
     },
@@ -6360,12 +6357,12 @@
         },
         "eth": {
           "market": "crypto",
-          "post_id": "2121367916608364803",
-          "reason": "Sarcastic 'Congratulations, Ethereum holders' after listing ETH -58.7% over 5 years mocks ETH, matching the recorded bearish ETH view.",
+          "post_id": "2121369985150832923",
+          "reason": "Calls ETH a contender for 'the worst asset of all time' and says retail lost money longing it, which matches the recorded bearish ETH view.",
           "scope": "eth",
           "since": "2026-10-18",
           "stance": "bearish",
-          "updated_at": "2026-11-13T22:21:39.000Z"
+          "updated_at": "2026-11-13T22:29:52.000Z"
         },
         "mu": {
           "market": "stocks",
@@ -6404,7 +6401,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121368520252334151",
+      "last_id": "2121369985150832923",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6456,11 +6453,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T17:36:58.000Z",
-          "id": "2120933886100152481",
-          "text": "My old high school rejected my significant gift to establish a finance club where students can propose one trade and the portfolio will sit in 33% SPX 33% IBIT and 33% SGOV to illustrate the differences in returns. \n\nAs we approach end of year, what other math and finance charties do people think are exceptional?"
-        },
         {
           "created_at": "2026-11-12T17:41:06.000Z",
           "id": "2120934928602779707",
@@ -6573,10 +6565,17 @@
           "created_at": "2026-11-13T22:21:39.000Z",
           "id": "2121367916608364803",
           "text": "Ethereum 5 year performance: -58.7%\nNasdaq: +58.5%\nSPY: +72.6%\nBitcoin: +5.8%\n\nCongratulations, Ethereum holders."
+        },
+        {
+          "created_at": "2026-11-13T22:29:52.000Z",
+          "id": "2121369985150832923",
+          "images": [
+            "https://pbs.twimg.com/media/HXCewFLX0AARtJw.jpg"
+          ],
+          "text": "Arguably Ethereum is one of the worst things to happen to humanity. The amount of capital lost to hacks, human capital lost due to developing with suboptimal tooling and retail capital destroyed from longing the asset makes it a contender for the worst asset of all time. https://t.co/1BLMEOQ6QD"
         }
       ],
       "reads": {
-        "2120933886100152481": "No call",
         "2120934928602779707": "No call",
         "2120950653098832289": "No call",
         "2120955088197812345": "No call",
@@ -6594,7 +6593,8 @@
         "2121340793646686278": "No call",
         "2121352038999003623": "No call",
         "2121360211894255959": "No call",
-        "2121367916608364803": "No call: bearish on eth (same view as before)"
+        "2121367916608364803": "No call: bearish on eth (same view as before)",
+        "2121369985150832923": "No call: bearish on eth (same view as before)"
       },
       "replies": [
         {
@@ -6692,10 +6692,6 @@
         }
       ],
       "threads": {
-        "2111846835467747488": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111859899441549668": {
           "alerted": [],
           "self_replies": 0
@@ -7107,6 +7103,10 @@
         "2121367916608364803": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121369985150832923": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7118,7 +7118,6 @@
         "2120546317898227979": true,
         "2120922255936929882": false,
         "2120930300046049477": true,
-        "2120933886100152481": true,
         "2120934928602779707": false,
         "2120935191342694537": false,
         "2120935643563917459": false,
@@ -7144,7 +7143,8 @@
         "2121352038999003623": false,
         "2121360211894255959": true,
         "2121367916608364803": true,
-        "2121368520252334151": true
+        "2121368520252334151": true,
+        "2121369985150832923": true
       },
       "user_id": "809191427645181952"
     }
@@ -7167,5 +7167,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T22:24:21+00:00"
+  "updated_at": "2026-11-13T22:30:27+00:00"
 }
