@@ -1019,7 +1019,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121261701802737956",
+      "last_id": "2121267160093982821",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1303,12 +1303,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T07:04:57.000Z",
-          "id": "2121137225299812808",
-          "reply_to_id": "2121133545481806166",
-          "text": "@zinceth LMAO"
-        },
-        {
           "created_at": "2026-11-13T07:15:16.000Z",
           "id": "2121139819287863528",
           "images": [
@@ -1397,6 +1391,12 @@
           "id": "2121261701802737956",
           "reply_to_id": "2121261170858353081",
           "text": "@moeksr im not changing it lol"
+        },
+        {
+          "created_at": "2026-11-13T15:41:16.000Z",
+          "id": "2121267160093982821",
+          "reply_to_id": "2121263026384883888",
+          "text": "@Pickle_cRypto yea"
         }
       ],
       "threads": {
@@ -1832,7 +1832,6 @@
         "2121108153081462890": true,
         "2121111540560453811": true,
         "2121114446080737288": false,
-        "2121137225299812808": false,
         "2121139819287863528": false,
         "2121140421900325354": false,
         "2121140489156174173": false,
@@ -1853,7 +1852,8 @@
         "2121258486201790652": false,
         "2121258893200310622": false,
         "2121259163355320749": false,
-        "2121261701802737956": false
+        "2121261701802737956": false,
+        "2121267160093982821": false
       },
       "user_id": "973261472"
     },
@@ -6397,7 +6397,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121265838338548157",
+      "last_id": "2121267317493408147",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6449,11 +6449,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T15:13:09.000Z",
-          "id": "2120897694810182133",
-          "text": "https://t.co/YQHqOxMf5O"
-        },
         {
           "created_at": "2026-11-12T15:15:58.000Z",
           "id": "2120898402485715425",
@@ -6564,10 +6559,14 @@
           "created_at": "2026-11-13T15:36:01.000Z",
           "id": "2121265838338548157",
           "text": "This has been some of the nastiest price action I've ever seen. If you're chopping yourself up recognize you may not have much edge here and take a break + DCA."
+        },
+        {
+          "created_at": "2026-11-13T15:41:54.000Z",
+          "id": "2121267317493408147",
+          "text": "You should have minimum three portfolios. \n\nPortfolio 1: One that sits mostly cash and is your break glass in case of emergency war chest. This is where you take profit to for tax and special situations Crypto wipeouts.\n\nPortfolio 2: Active trading, mix of spot you like, cash and where you do your derivative trading. Don't keep your entire balance on one exchange, ideally have minimum of 2.\n\nPortfolio 3 (optional): COLD STORAGE BITCOIN. This is where you bank the hardest capital on earth, and where you send funds that will never be touched. This is the only realized profit and your emergency fund if you ever need to move fast."
         }
       ],
       "reads": {
-        "2120897694810182133": "No call",
         "2120898402485715425": "No call",
         "2120905750033916381": "No call",
         "2120928369823096999": "No call: bearish on stocks/macro (60%, too unsure)",
@@ -6585,7 +6584,8 @@
         "2121076937699279260": "No call",
         "2121077529541013955": "No call",
         "2121099526400508073": "No call: bearish on crypto market (60%, too unsure)",
-        "2121265838338548157": "No call"
+        "2121265838338548157": "No call",
+        "2121267317493408147": "No call"
       },
       "replies": [
         {
@@ -6683,10 +6683,6 @@
         }
       ],
       "threads": {
-        "2111582981420642576": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2111583825256214637": {
           "alerted": [],
           "self_replies": 0
@@ -7098,6 +7094,10 @@
         "2121265838338548157": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121267317493408147": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7108,7 +7108,6 @@
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
-        "2120897694810182133": false,
         "2120898402485715425": false,
         "2120905750033916381": false,
         "2120922255936929882": false,
@@ -7135,7 +7134,8 @@
         "2121076937699279260": true,
         "2121077529541013955": false,
         "2121099526400508073": true,
-        "2121265838338548157": true
+        "2121265838338548157": true,
+        "2121267317493408147": true
       },
       "user_id": "809191427645181952"
     }
@@ -7158,5 +7158,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T15:40:24+00:00"
+  "updated_at": "2026-11-13T15:42:45+00:00"
 }
