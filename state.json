@@ -1019,7 +1019,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121257385394155563",
+      "last_id": "2121258052426834067",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1304,12 +1304,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T05:39:11.000Z",
-          "id": "2121115638441914516",
-          "reply_to_id": "2121112459838656961",
-          "text": "@stogolp his name was sgp"
-        },
-        {
           "created_at": "2026-11-13T05:43:37.000Z",
           "id": "2121116756374618531",
           "reply_to_id": "2121116627035160653",
@@ -1398,6 +1392,12 @@
           "id": "2121244075575665009",
           "reply_to_id": "2121243906360889510",
           "text": "@fienixtaranova its nuts lol"
+        },
+        {
+          "created_at": "2026-11-13T15:05:05.000Z",
+          "id": "2121258052426834067",
+          "reply_to_id": "2121257168586363298",
+          "text": "my solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump pumpfun callout has ~1M in realized+unrealized pnl from ppl who tailed me\n\nmy last perps trades callouts are all immensely in the green and everyone who tailed is in profit\n\nyes 90% of traders lose, that is why the apps are incentivizing traders who win with portions of protocol revenue to share their ideas, i dont know why this is even controversial"
         }
       ],
       "threads": {
@@ -1834,7 +1834,6 @@
         "2121108153081462890": true,
         "2121111540560453811": true,
         "2121114446080737288": false,
-        "2121115638441914516": false,
         "2121116756374618531": true,
         "2121117947007775091": false,
         "2121118402869604531": false,
@@ -1854,7 +1853,8 @@
         "2121232994283266134": false,
         "2121240902756934046": false,
         "2121244075575665009": false,
-        "2121257385394155563": false
+        "2121257385394155563": false,
+        "2121258052426834067": true
       },
       "user_id": "973261472"
     },
@@ -7160,5 +7160,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T15:04:23+00:00"
+  "updated_at": "2026-11-13T15:06:30+00:00"
 }
