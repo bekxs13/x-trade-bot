@@ -1022,7 +1022,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121366000436154784",
+      "last_id": "2121367683815866809",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1315,12 +1315,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T19:02:20.000Z",
-          "id": "2121317760173302192",
-          "reply_to_id": "2121296644289540173",
-          "text": "@lazulcapital congrats g"
-        },
-        {
           "created_at": "2026-11-13T19:13:39.000Z",
           "id": "2121320604930306112",
           "reply_to_id": "2121318599965155783",
@@ -1403,6 +1397,12 @@
           "id": "2121365466769707367",
           "reply_to_id": "2121363059432468640",
           "text": "@uncledoomer lol"
+        },
+        {
+          "created_at": "2026-11-13T22:20:43.000Z",
+          "id": "2121367683815866809",
+          "reply_to_id": "2121363079032340607",
+          "text": "@rizzkola im saying it needs to hold or else no bueno"
         }
       ],
       "threads": {
@@ -1836,7 +1836,6 @@
         "2121287410516377909": true,
         "2121306256556409097": true,
         "2121317620943364411": true,
-        "2121317760173302192": false,
         "2121320604930306112": false,
         "2121323022820798791": false,
         "2121325074376753165": false,
@@ -1855,7 +1854,8 @@
         "2121362703713288583": true,
         "2121362969917567274": false,
         "2121365466769707367": false,
-        "2121366000436154784": false
+        "2121366000436154784": false,
+        "2121367683815866809": true
       },
       "user_id": "973261472"
     },
@@ -6360,12 +6360,12 @@
         },
         "eth": {
           "market": "crypto",
-          "post_id": "2111898450333757538",
-          "reason": "Mocking 'people long Ethereum in 2026' as easy-to-beat traders implies a bearish view on ETH. There is no prior ETH view on record.",
+          "post_id": "2121367916608364803",
+          "reason": "Sarcastic 'Congratulations, Ethereum holders' after listing ETH -58.7% over 5 years mocks ETH, matching the recorded bearish ETH view.",
           "scope": "eth",
           "since": "2026-10-18",
           "stance": "bearish",
-          "updated_at": "2026-10-18T19:13:22.000Z"
+          "updated_at": "2026-11-13T22:21:39.000Z"
         },
         "mu": {
           "market": "stocks",
@@ -6404,7 +6404,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121360211894255959",
+      "last_id": "2121367916608364803",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6456,11 +6456,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T17:22:09.000Z",
-          "id": "2120930157716500796",
-          "text": "I appreciate the people reaching out over email/DM asking if we're open to running capital but currently we are capacity constrained at the family office with our capital alone. I don't feel like replying to everyone so tweeting this as a PSA.\n\nThank you for your interest but no."
-        },
         {
           "created_at": "2026-11-12T17:36:58.000Z",
           "id": "2120933886100152481",
@@ -6573,10 +6568,14 @@
             "https://pbs.twimg.com/media/HXCV1_7XsAABs8Y.jpg"
           ],
           "text": "Bearish? Short Bitcoin was the trade all year... https://t.co/Qj4Sos9OCp"
+        },
+        {
+          "created_at": "2026-11-13T22:21:39.000Z",
+          "id": "2121367916608364803",
+          "text": "Ethereum 5 year performance: -58.7%\nNasdaq: +58.5%\nSPY: +72.6%\nBitcoin: +5.8%\n\nCongratulations, Ethereum holders."
         }
       ],
       "reads": {
-        "2120930157716500796": "No call",
         "2120933886100152481": "No call",
         "2120934928602779707": "No call",
         "2120950653098832289": "No call",
@@ -6594,7 +6593,8 @@
         "2121328035546939453": "No call",
         "2121340793646686278": "No call",
         "2121352038999003623": "No call",
-        "2121360211894255959": "No call"
+        "2121360211894255959": "No call",
+        "2121367916608364803": "No call: bearish on eth (same view as before)"
       },
       "replies": [
         {
@@ -6692,10 +6692,6 @@
         }
       ],
       "threads": {
-        "2111660440891932781": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111846835467747488": {
           "alerted": [],
           "self_replies": 0
@@ -7107,6 +7103,10 @@
         "2121360211894255959": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121367916608364803": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7118,7 +7118,6 @@
         "2118072324658192831": false,
         "2120546317898227979": true,
         "2120922255936929882": false,
-        "2120930157716500796": false,
         "2120930300046049477": true,
         "2120933886100152481": true,
         "2120934928602779707": false,
@@ -7144,7 +7143,8 @@
         "2121328035546939453": true,
         "2121340793646686278": false,
         "2121352038999003623": false,
-        "2121360211894255959": true
+        "2121360211894255959": true,
+        "2121367916608364803": true
       },
       "user_id": "809191427645181952"
     }
@@ -7167,5 +7167,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T22:14:31+00:00"
+  "updated_at": "2026-11-13T22:22:28+00:00"
 }
