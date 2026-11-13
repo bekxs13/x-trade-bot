@@ -862,12 +862,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2119821655975629247",
-          "reason": "Talks of BTC 'failed breakout', 'downside risk' and 'weekly bearish signals', matching his recorded bearish BTC view.",
+          "post_id": "2121105640462422424",
+          "reason": "Compares 6 red weeklies into accelerated selling to April-May 2022, implying more downside; matches recorded bearish BTC view.",
           "scope": "btc",
           "since": "2026-10-26",
           "stance": "bearish",
-          "updated_at": "2026-11-09T15:57:21.000Z"
+          "updated_at": "2026-11-13T04:59:27.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -1029,7 +1029,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121103946790081016",
+      "last_id": "2121105640462422424",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1162,12 +1162,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-12T17:24:46.000Z",
-          "id": "2120930818675835074",
-          "quoted_text": "Fears of open source providers shutting down is an opportunity for the crypto community to stand on its cypherpunk ideals and create a decentralized solution https://t.co/DGCJfklXfc",
-          "text": "i like this bull case, i can work with this https://t.co/h5uistXHpQ"
-        },
-        {
           "created_at": "2026-11-12T17:29:15.000Z",
           "id": "2120931944452002167",
           "text": "nuked the gold position"
@@ -1280,10 +1274,14 @@
           "created_at": "2026-11-13T04:41:41.000Z",
           "id": "2121101168948416608",
           "text": "getting to the accelerated selling part, recommend not trying to knife catch on leverage, unnecessary and will get you blown up way more times than the hero long you want from the bottom\n\nalso whenever bottom forms, you will very likely have another shot at bidding very close to same lows some time period after, so much better to wait\n\nlet the liquidations happen and then re-assess, or set spot bids at the levels you want with cash you have aside"
+        },
+        {
+          "created_at": "2026-11-13T04:59:27.000Z",
+          "id": "2121105640462422424",
+          "text": "not to scare anyone but im pretty sure there's only been one time bitcoin has printed 6 red weeklies like this into accelerated selling at the end, and it was april-may 2022"
         }
       ],
       "reads": {
-        "2120930818675835074": "No call: bullish on ai coins (55%, too unsure)",
         "2120931944452002167": "TRADE EXIT GOLD",
         "2120932002211975640": "No call",
         "2120932098403922372": "No call",
@@ -1300,7 +1298,8 @@
         "2121089318362005768": "No call",
         "2121089911814242616": "No call",
         "2121100714298524099": "No call",
-        "2121101168948416608": "VIEW bearish on crypto market"
+        "2121101168948416608": "VIEW bearish on crypto market",
+        "2121105640462422424": "No call: bearish on btc (same view as before)"
       },
       "replies": [
         {
@@ -1398,10 +1397,6 @@
         }
       ],
       "threads": {
-        "2119167815714304016": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119286953141264608": {
           "alerted": [],
           "self_replies": 0
@@ -1814,10 +1809,13 @@
             "bias:crypto market:bearish"
           ],
           "self_replies": 0
+        },
+        "2121105640462422424": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120930818675835074": true,
         "2120931944452002167": true,
         "2120932002211975640": true,
         "2120932098403922372": true,
@@ -1851,7 +1849,8 @@
         "2121100714298524099": false,
         "2121101168948416608": true,
         "2121102825430368430": false,
-        "2121103946790081016": false
+        "2121103946790081016": false,
+        "2121105640462422424": true
       },
       "user_id": "973261472"
     },
@@ -7161,5 +7160,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T04:54:20+00:00"
+  "updated_at": "2026-11-13T05:00:33+00:00"
 }
