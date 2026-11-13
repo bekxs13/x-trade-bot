@@ -4612,7 +4612,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2121236584808718590",
+      "last_id": "2121266693385384306",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4664,12 +4664,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T00:10:33.000Z",
-          "id": "2120670549089169625",
-          "reply_to_id": "2120640023234003182",
-          "text": "hi Dan, you should call into my steam tomorrow for 15 minutes and talk about the implications here"
-        },
         {
           "created_at": "2026-11-12T00:11:39.000Z",
           "id": "2120670823660876273",
@@ -4779,10 +4773,14 @@
           "created_at": "2026-11-13T13:39:47.000Z",
           "id": "2121236584808718590",
           "text": "STOCK MARKET OPEN: The JENSEN FILES Get WORSE, Crypto Has ZERO BID... NOW WHAT? https://t.co/IMsGayM71Y"
+        },
+        {
+          "created_at": "2026-11-13T15:39:25.000Z",
+          "id": "2121266693385384306",
+          "text": "average day trading crypto"
         }
       ],
       "reads": {
-        "2120670549089169625": "No call",
         "2120670823660876273": "No call",
         "2120693178148000220": "No call",
         "2120710632731292056": "No call",
@@ -4799,7 +4797,8 @@
         "2121051905371865414": "No call",
         "2121055652453798321": "No call",
         "2121087402340983292": "No call",
-        "2121236584808718590": "No call"
+        "2121236584808718590": "No call",
+        "2121266693385384306": "No call"
       },
       "replies": [
         {
@@ -4894,10 +4893,6 @@
         }
       ],
       "threads": {
-        "2115928685907689568": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115934711101137273": {
           "alerted": [],
           "self_replies": 0
@@ -5295,10 +5290,13 @@
         "2121236584808718590": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121266693385384306": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120670549089169625": false,
         "2120670823660876273": false,
         "2120693178148000220": false,
         "2120710632731292056": false,
@@ -5332,7 +5330,8 @@
         "2121217814984110345": false,
         "2121220625528238091": false,
         "2121220923164442944": false,
-        "2121236584808718590": true
+        "2121236584808718590": true,
+        "2121266693385384306": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7159,5 +7158,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T15:36:35+00:00"
+  "updated_at": "2026-11-13T15:40:24+00:00"
 }
