@@ -1019,7 +1019,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121258052426834067",
+      "last_id": "2121259163355320749",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1152,12 +1152,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-13T02:31:47.000Z",
-          "id": "2121068477566038030",
-          "quoted_text": "The angels protecting you are stronger than the demons that are trying to harm you.",
-          "text": "affirm https://t.co/n31Z1yoUxn"
-        },
-        {
           "created_at": "2026-11-13T03:14:25.000Z",
           "id": "2121079206733873660",
           "text": "am really liking @papertrade_xyz, the high leverage individual positions w/ no worry about order book fills is very good for low timeframe scalping, especially in a trending market\n\nthink ppl are still underappreciating this as a protocol & $PAPER stakers are still printing cash off rewards"
@@ -1281,10 +1275,15 @@
           "created_at": "2026-11-13T15:02:26.000Z",
           "id": "2121257385394155563",
           "text": "whats up"
+        },
+        {
+          "created_at": "2026-11-13T15:06:48.000Z",
+          "id": "2121258486201790652",
+          "reply_to_id": "2121258052426834067",
+          "text": "ive been doing this on X for years for free, it is the only reason i have followers on this app, i just post trades and my ideas and that resulted in me getting followers on here\n\nnow there are apps with billions of dollars willing to pay traders to do the exact same thing they were doing on X on their apps, this is a good thing"
         }
       ],
       "reads": {
-        "2121068477566038030": "No call",
         "2121079206733873660": "No call: bullish on PAPER (same view as before)",
         "2121079432320340262": "No call: bullish on PAPER (same view as before)",
         "2121081603686351239": "No call",
@@ -1303,18 +1302,6 @@
         "2121257385394155563": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-13T05:43:37.000Z",
-          "id": "2121116756374618531",
-          "reply_to_id": "2121116627035160653",
-          "text": "@Saint_pablo123 might be time to close bro lol"
-        },
-        {
-          "created_at": "2026-11-13T05:48:21.000Z",
-          "id": "2121117947007775091",
-          "reply_to_id": "2121107255932170520",
-          "text": "@Fwasty @Pumpfun whats your account name"
-        },
         {
           "created_at": "2026-11-13T05:50:10.000Z",
           "id": "2121118402869604531",
@@ -1398,6 +1385,18 @@
           "id": "2121258052426834067",
           "reply_to_id": "2121257168586363298",
           "text": "my solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump pumpfun callout has ~1M in realized+unrealized pnl from ppl who tailed me\n\nmy last perps trades callouts are all immensely in the green and everyone who tailed is in profit\n\nyes 90% of traders lose, that is why the apps are incentivizing traders who win with portions of protocol revenue to share their ideas, i dont know why this is even controversial"
+        },
+        {
+          "created_at": "2026-11-13T15:08:25.000Z",
+          "id": "2121258893200310622",
+          "reply_to_id": "2121258438269493717",
+          "text": "@nebb_1 my g"
+        },
+        {
+          "created_at": "2026-11-13T15:09:30.000Z",
+          "id": "2121259163355320749",
+          "reply_to_id": "2121257497277194311",
+          "text": "@auraslayer1 nice"
         }
       ],
       "threads": {
@@ -1820,7 +1819,6 @@
         }
       },
       "trading": {
-        "2121068477566038030": false,
         "2121079206733873660": true,
         "2121079432320340262": true,
         "2121081603686351239": true,
@@ -1834,8 +1832,6 @@
         "2121108153081462890": true,
         "2121111540560453811": true,
         "2121114446080737288": false,
-        "2121116756374618531": true,
-        "2121117947007775091": false,
         "2121118402869604531": false,
         "2121137225299812808": false,
         "2121139819287863528": false,
@@ -1854,7 +1850,10 @@
         "2121240902756934046": false,
         "2121244075575665009": false,
         "2121257385394155563": false,
-        "2121258052426834067": true
+        "2121258052426834067": true,
+        "2121258486201790652": false,
+        "2121258893200310622": false,
+        "2121259163355320749": false
       },
       "user_id": "973261472"
     },
@@ -7160,5 +7159,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T15:06:30+00:00"
+  "updated_at": "2026-11-13T15:10:26+00:00"
 }
