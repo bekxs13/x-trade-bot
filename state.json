@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2121190702801637820",
+      "last_id": "2121192689324691510",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,12 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T04:30:55.000Z",
-          "id": "2120373682145202482",
-          "reply_to_id": "2120373414192095290",
-          "text": "@taobanker Oh wow saw the listing geez"
-        },
         {
           "created_at": "2026-11-11T08:26:09.000Z",
           "id": "2120432883064266933",
@@ -273,6 +267,12 @@
           "created_at": "2026-11-13T10:04:05.000Z",
           "id": "2121182305591128178",
           "text": "Ok wrote something\n\nhttps://t.co/aHXZsLx7rL"
+        },
+        {
+          "created_at": "2026-11-13T10:45:21.000Z",
+          "id": "2121192689324691510",
+          "quoted_text": "Ok wrote something\n\nhttps://t.co/aHXZsLx7rL",
+          "text": "Added a twitch chat to the site too. $1/mo subscription post on the live chat. via @whop https://t.co/32FOYlUyAx"
         }
       ],
       "reads": {
@@ -293,7 +293,8 @@
         "2121161477247893921": "No call",
         "2121175103572734418": "No call",
         "2121175259898638629": "No call",
-        "2121182305591128178": "No call"
+        "2121182305591128178": "No call",
+        "2121192689324691510": "No call"
       },
       "replies": [
         {
@@ -391,10 +392,6 @@
         }
       ],
       "threads": {
-        "2115195522944549306": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115197542522864124": {
           "alerted": [],
           "self_replies": 1
@@ -793,10 +790,13 @@
         "2121182305591128178": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121192689324691510": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120373682145202482": true,
         "2120432883064266933": false,
         "2120626662312460541": false,
         "2120633259927523615": false,
@@ -830,7 +830,8 @@
         "2121187832639471709": false,
         "2121188474086961473": false,
         "2121189886434910402": false,
-        "2121190702801637820": false
+        "2121190702801637820": false,
+        "2121192689324691510": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7169,5 +7170,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T10:38:19+00:00"
+  "updated_at": "2026-11-13T10:46:22+00:00"
 }
