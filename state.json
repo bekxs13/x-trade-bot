@@ -2258,7 +2258,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2121307338279969001",
+      "last_id": "2121354566281171436",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2278,11 +2278,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T23:29:18.000Z",
-          "id": "2120660166286921757",
-          "text": "jensen angrily articulating that people calling for his resignation have \"loser mentality\""
-        },
         {
           "created_at": "2026-11-11T23:41:22.000Z",
           "id": "2120663202036076891",
@@ -2398,10 +2393,15 @@
           ],
           "quoted_text": "*OPENAI DISBANDS ITS ROBOTICS TEAM: FORTUNE https://t.co/GMMpRUzK6A",
           "text": "misleading tweet... the general models are working so well that they don't need a standalone team https://t.co/nfKTBQlO0T https://t.co/5NGg3cLeRF"
+        },
+        {
+          "created_at": "2026-11-13T21:28:36.000Z",
+          "id": "2121354566281171436",
+          "quoted_text": "Issued by the FAA just moments ago, ALL US airports are currently ground stopped. This means NO flights may depart for US airports. Flights already in the air will be allowed to land. This is related to an FAA equipment outage. https://t.co/wgyuOXeF0k",
+          "text": "genuinely is this end times? all microsoft down now full faa stop? https://t.co/UE6jDiWh9t"
         }
       ],
       "reads": {
-        "2120660166286921757": "No call",
         "2120663202036076891": "No call",
         "2120663665028296774": "No call",
         "2120668750563389555": "No call",
@@ -2420,7 +2420,8 @@
         "2121049489222115442": "No call",
         "2121069468193550347": "No call",
         "2121093324962504716": "No call",
-        "2121304502498128351": "No call"
+        "2121304502498128351": "No call",
+        "2121354566281171436": "No call"
       },
       "replies": [
         {
@@ -2515,10 +2516,6 @@
         }
       ],
       "threads": {
-        "2115898853237178469": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115901010296426643": {
           "alerted": [],
           "self_replies": 0
@@ -2916,6 +2913,10 @@
         "2121304502498128351": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121354566281171436": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -2924,7 +2925,6 @@
         "2120634577588756965": false,
         "2120634740344860804": false,
         "2120640431990174168": true,
-        "2120660166286921757": false,
         "2120663202036076891": false,
         "2120663665028296774": false,
         "2120664838699638848": false,
@@ -2953,7 +2953,8 @@
         "2121069468193550347": true,
         "2121093324962504716": true,
         "2121304502498128351": false,
-        "2121307338279969001": false
+        "2121307338279969001": false,
+        "2121354566281171436": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7160,5 +7161,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T21:28:29+00:00"
+  "updated_at": "2026-11-13T21:29:46+00:00"
 }
