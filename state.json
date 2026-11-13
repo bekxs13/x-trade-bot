@@ -1022,7 +1022,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121370509468213545",
+      "last_id": "2121370779023802599",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1312,12 +1312,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T19:31:24.000Z",
-          "id": "2121325074376753165",
-          "reply_to_id": "2121320262654157299",
-          "text": "@toplonging irl"
-        },
-        {
           "created_at": "2026-11-13T19:33:47.000Z",
           "id": "2121325675239932210",
           "reply_to_id": "2121257614361182477",
@@ -1403,6 +1397,12 @@
           ],
           "reply_to_id": "2121370009406697791",
           "text": "@poopypee6741 https://t.co/RRP8JCaktN"
+        },
+        {
+          "created_at": "2026-11-13T22:33:01.000Z",
+          "id": "2121370779023802599",
+          "reply_to_id": "2121369985150832923",
+          "text": "@ThinkingUSD i cant believe he aped 20 billion dollars into this"
         }
       ],
       "threads": {
@@ -1835,7 +1835,6 @@
         "2121287410516377909": true,
         "2121306256556409097": true,
         "2121317620943364411": true,
-        "2121325074376753165": false,
         "2121325675239932210": false,
         "2121326841588060515": false,
         "2121332435266769103": false,
@@ -1855,7 +1854,8 @@
         "2121367683815866809": true,
         "2121368523444220235": false,
         "2121369933418483856": false,
-        "2121370509468213545": false
+        "2121370509468213545": false,
+        "2121370779023802599": true
       },
       "user_id": "973261472"
     },
@@ -6404,7 +6404,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121370392912638212",
+      "last_id": "2121370893020549192",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6600,12 +6600,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T17:43:41.000Z",
-          "id": "2111875879865389103",
-          "reply_to_id": "2111875711028056173",
-          "text": "@koolkrypto223 You're the one quote tweeting me. Next time you place a trade can just P2P it with me, will save time."
-        },
-        {
           "created_at": "2026-10-18T18:49:43.000Z",
           "id": "2111892500210458979",
           "reply_to_id": "2111885357319148019",
@@ -6691,6 +6685,12 @@
           "id": "2121368520252334151",
           "reply_to_id": "2121366718538748124",
           "text": "@trading_axe What holding Ethereum does to a mfer"
+        },
+        {
+          "created_at": "2026-11-13T22:33:28.000Z",
+          "id": "2121370893020549192",
+          "reply_to_id": "2121370779023802599",
+          "text": "@blknoiz06 Imagine if he listened to me and did Hype. What a different timeline. He might be one of the richest people on Earth."
         }
       ],
       "threads": {
@@ -7112,7 +7112,6 @@
         }
       },
       "trading": {
-        "2111875879865389103": false,
         "2111892500210458979": true,
         "2118008698790641737": false,
         "2118009522807505340": true,
@@ -7146,7 +7145,8 @@
         "2121367916608364803": true,
         "2121368520252334151": true,
         "2121369985150832923": true,
-        "2121370392912638212": false
+        "2121370392912638212": false,
+        "2121370893020549192": true
       },
       "user_id": "809191427645181952"
     }
@@ -7169,5 +7169,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T22:32:23+00:00"
+  "updated_at": "2026-11-13T22:34:18+00:00"
 }
