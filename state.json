@@ -1019,7 +1019,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121205434224918732",
+      "last_id": "2121230917968540062",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1152,12 +1152,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-12T19:46:33.000Z",
-          "id": "2120966496440791196",
-          "quoted_text": "https://t.co/0tI674KgdJ",
-          "text": "what https://t.co/Hmwrfi3AIQ"
-        },
-        {
           "created_at": "2026-11-12T19:48:38.000Z",
           "id": "2120967022272008380",
           "text": "current portfolio\n\nlong: bonds, oil, solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump \n\nshort: everything else"
@@ -1279,10 +1273,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2121004144945426432/img/78YiANifVkZGAjAE.jpg"
           ],
           "text": "i think one of the biggest catalysts crypto needs right now is a breakout application that brings in an entirely new group of users\n\nwe saw glimpses of that with Pumpfun and fomo this summer, and Friendtech had a similar effect in 2023 when it attracted people outside the usual crypto crowd\n\ni'm also paying attention to crypto neobanks and payment cards, where products like etherfi have been gaining traction\n\nthe next major wave of activity could come from an application that gives people a new reason to spend money, speculate and participate onchain\n\nnew users and fresh capital are two of the most important things i'm watching for the next crypto expansion"
+        },
+        {
+          "created_at": "2026-11-13T13:17:16.000Z",
+          "id": "2121230917968540062",
+          "images": [
+            "https://pbs.twimg.com/media/HXAgR2CWsAAjgWU.jpg"
+          ],
+          "text": "gmihao https://t.co/umweIA7Z9H"
         }
       ],
       "reads": {
-        "2120966496440791196": "No call",
         "2120967022272008380": "TRADE LONG bonds, oil",
         "2120978487343558720": "TRADE SHORT BTC",
         "2121068477566038030": "No call",
@@ -1299,7 +1300,8 @@
         "2121111540560453811": "No call: bearish on stocks/macro (same view as before)",
         "2121114446080737288": "No call",
         "2121140489156174173": "No call",
-        "2121205434224918732": "No call"
+        "2121205434224918732": "No call",
+        "2121230917968540062": "No call"
       },
       "replies": [
         {
@@ -1400,10 +1402,6 @@
         }
       ],
       "threads": {
-        "2119821655975629247": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119834776026661177": {
           "alerted": [],
           "self_replies": 0
@@ -1816,10 +1814,13 @@
         "2121205434224918732": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121230917968540062": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120966496440791196": false,
         "2120967022272008380": true,
         "2120978487343558720": true,
         "2121068477566038030": false,
@@ -1853,7 +1854,8 @@
         "2121149364848697834": false,
         "2121149548253090209": false,
         "2121151869762351403": false,
-        "2121205434224918732": true
+        "2121205434224918732": true,
+        "2121230917968540062": false
       },
       "user_id": "973261472"
     },
@@ -7159,5 +7161,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T13:00:26+00:00"
+  "updated_at": "2026-11-13T13:18:26+00:00"
 }
