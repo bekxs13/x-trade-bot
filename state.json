@@ -1029,7 +1029,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121089005114867983",
+      "last_id": "2121089527393681836",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1162,15 +1162,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-12T13:46:17.000Z",
-          "id": "2120875832256160012",
-          "images": [
-            "https://pbs.twimg.com/media/HW7dVEcW8AAA74G.jpg"
-          ],
-          "quoted_text": "we have a chance to do something much bigger than just numbers going up on a chart\n\nsomething to leave a dent in history\n\nthe biggest ever pfp cult\n\nAFFIRM https://t.co/ady9amCRbD",
-          "text": "solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump mafia https://t.co/cAYs6B8Hdg https://t.co/p1puasJ49f"
-        },
-        {
           "created_at": "2026-11-12T13:47:21.000Z",
           "id": "2120876101543379312",
           "text": "nvidia today"
@@ -1281,10 +1272,14 @@
           "id": "2121089005114867983",
           "quoted_text": "most exciting time maybe ever to be a trader",
           "text": "they called me crazy for this take and i just want to know how? \n\nthis is one of the craziest periods in human history re: markets and technological progress but also infinite fucking destabilizing macro events &amp; nonstop event-based trades to take https://t.co/CfbzwaQ6Mu"
+        },
+        {
+          "created_at": "2026-11-13T03:54:36.000Z",
+          "id": "2121089318362005768",
+          "text": "bitmex pa"
         }
       ],
       "reads": {
-        "2120875832256160012": "No call",
         "2120876101543379312": "No call",
         "2120878236800270790": "No call",
         "2120884358374359168": "No call",
@@ -1301,24 +1296,10 @@
         "2121079206733873660": "No call: bullish on PAPER (same view as before)",
         "2121079432320340262": "No call: bullish on PAPER (same view as before)",
         "2121081603686351239": "No call",
-        "2121089005114867983": "No call"
+        "2121089005114867983": "No call",
+        "2121089318362005768": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-13T02:42:48.000Z",
-          "id": "2121071250915447066",
-          "images": [
-            "https://pbs.twimg.com/media/HW-PDmhXQAEFmJH.jpg"
-          ],
-          "reply_to_id": "2121070486033502434",
-          "text": "@tradingbubblesz you're either with me or against me https://t.co/btp9zHhZKu"
-        },
-        {
-          "created_at": "2026-11-13T02:44:10.000Z",
-          "id": "2121071593719754793",
-          "reply_to_id": "2121070092473839856",
-          "text": "@TheDudeofDeFi idk why ppl keep tryna gaslighting me into believing they wouldn't use a platform paying them $150k a week simply for posting the trades they are already taking but i WISH THEY WOULD STOP"
-        },
         {
           "created_at": "2026-11-13T02:45:41.000Z",
           "id": "2121071975137448276",
@@ -1402,13 +1383,21 @@
           "id": "2121088272915218482",
           "reply_to_id": "2121087402340983292",
           "text": "@notthreadguy bro no days off its time to lock in this is about to be the most volatile weeks of the year before death of volatility and boring gaming time"
+        },
+        {
+          "created_at": "2026-11-13T03:55:06.000Z",
+          "id": "2121089446296866924",
+          "reply_to_id": "2121085131616326050",
+          "text": "@Kodakfn12 will do"
+        },
+        {
+          "created_at": "2026-11-13T03:55:25.000Z",
+          "id": "2121089527393681836",
+          "reply_to_id": "2121084103948968168",
+          "text": "@PedroRo30689168 thank you"
         }
       ],
       "threads": {
-        "2119089099512426988": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119091505004720275": {
           "alerted": [],
           "self_replies": 0
@@ -1819,10 +1808,13 @@
         "2121089005114867983": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121089318362005768": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120875832256160012": true,
         "2120876101543379312": true,
         "2120878236800270790": true,
         "2120884358374359168": false,
@@ -1837,8 +1829,6 @@
         "2120967022272008380": true,
         "2120978487343558720": true,
         "2121068477566038030": false,
-        "2121071250915447066": false,
-        "2121071593719754793": true,
         "2121071975137448276": false,
         "2121072142481584507": false,
         "2121072326053617919": false,
@@ -1856,7 +1846,10 @@
         "2121085015270531241": true,
         "2121088272915218482": true,
         "2121088376086651273": true,
-        "2121089005114867983": true
+        "2121089005114867983": true,
+        "2121089318362005768": false,
+        "2121089446296866924": false,
+        "2121089527393681836": false
       },
       "user_id": "973261472"
     },
@@ -7167,5 +7160,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T03:54:32+00:00"
+  "updated_at": "2026-11-13T03:56:24+00:00"
 }
