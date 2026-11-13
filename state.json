@@ -871,12 +871,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2120384030436708849",
-          "reason": "He says it doesn't feel like a technical bottom on majors yet, but it feels like a \"spiritual bottom on coins\" with extreme despair. That softens his recorded bearish view toward a bottoming outlook.",
+          "post_id": "2121101168948416608",
+          "reason": "Says the market is 'getting to the accelerated selling part' and to let liquidations happen before bidding, expecting more downside first.",
           "scope": "crypto market",
-          "since": "2026-11-11",
-          "stance": "neutral",
-          "updated_at": "2026-11-11T05:12:02.000Z"
+          "since": "2026-11-13",
+          "stance": "bearish",
+          "updated_at": "2026-11-13T04:41:41.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -1029,7 +1029,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121098848621776974",
+      "last_id": "2121101168948416608",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1162,17 +1162,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-12T13:55:50.000Z",
-          "id": "2120878236800270790",
-          "quoted_text": "$NVDA  - BREAKING: NVIDIA CEO JENSEN HUANG RESIGNS EFFECTIVE IMMEDIATELY\n\nNvidia announces a major leadership shake-up:\n\n\ud83d\udd38 Jensen Huang resigns as CEO, president and board member, effective immediately.\n\ud83d\udd38 Colette Kress, Nvidia's CFO, appointed interim CEO.\n\ud83d\udd38 Harvey C. Jones named board chair.\n\ud83d\udd38 Search for permanent CEO begins, considering internal and external candidates.\n\nHuang's departure ends his 33-year tenure leading the AI chip giant he co-founded.",
-          "text": "oh my god https://t.co/IKIj09gWAL"
-        },
-        {
-          "created_at": "2026-11-12T14:20:09.000Z",
-          "id": "2120884358374359168",
-          "text": "https://t.co/z9QuOWztSP"
-        },
-        {
           "created_at": "2026-11-12T17:24:46.000Z",
           "id": "2120930818675835074",
           "quoted_text": "Fears of open source providers shutting down is an opportunity for the crypto community to stand on its cypherpunk ideals and create a decentralized solution https://t.co/DGCJfklXfc",
@@ -1280,11 +1269,20 @@
             "https://pbs.twimg.com/media/HW-gByrXUAAR-P3.jpg"
           ],
           "text": "gnihao https://t.co/wrc1CrVuGo"
+        },
+        {
+          "created_at": "2026-11-13T04:39:53.000Z",
+          "id": "2121100714298524099",
+          "quoted_text": "@blknoiz06 stream it brother, it would be fun https://t.co/9yZFoaHNzl",
+          "text": "should i! https://t.co/Kt6JU1twhA"
+        },
+        {
+          "created_at": "2026-11-13T04:41:41.000Z",
+          "id": "2121101168948416608",
+          "text": "getting to the accelerated selling part, recommend not trying to knife catch on leverage, unnecessary and will get you blown up way more times than the hero long you want from the bottom\n\nalso whenever bottom forms, you will very likely have another shot at bidding very close to same lows some time period after, so much better to wait\n\nlet the liquidations happen and then re-assess, or set spot bids at the levels you want with cash you have aside"
         }
       ],
       "reads": {
-        "2120878236800270790": "No call",
-        "2120884358374359168": "No call",
         "2120930818675835074": "No call: bullish on ai coins (55%, too unsure)",
         "2120931944452002167": "TRADE EXIT GOLD",
         "2120932002211975640": "No call",
@@ -1300,7 +1298,9 @@
         "2121081603686351239": "No call",
         "2121089005114867983": "No call",
         "2121089318362005768": "No call",
-        "2121089911814242616": "No call"
+        "2121089911814242616": "No call",
+        "2121100714298524099": "No call",
+        "2121101168948416608": "VIEW bearish on crypto market"
       },
       "replies": [
         {
@@ -1398,14 +1398,6 @@
         }
       ],
       "threads": {
-        "2119096288213975395": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2119098416516972779": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119167815714304016": {
           "alerted": [],
           "self_replies": 0
@@ -1812,11 +1804,19 @@
         "2121089911814242616": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121100714298524099": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2121101168948416608": {
+          "alerted": [
+            "bias:crypto market:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120878236800270790": true,
-        "2120884358374359168": false,
         "2120930818675835074": true,
         "2120931944452002167": true,
         "2120932002211975640": true,
@@ -1849,7 +1849,9 @@
         "2121089527393681836": false,
         "2121089911814242616": false,
         "2121094774245716125": true,
-        "2121098848621776974": true
+        "2121098848621776974": true,
+        "2121100714298524099": false,
+        "2121101168948416608": true
       },
       "user_id": "973261472"
     },
@@ -7159,5 +7161,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T04:40:24+00:00"
+  "updated_at": "2026-11-13T04:42:22+00:00"
 }
