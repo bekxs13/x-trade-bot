@@ -1029,7 +1029,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121102825430368430",
+      "last_id": "2121103946790081016",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1304,12 +1304,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T02:55:44.000Z",
-          "id": "2121074505342664715",
-          "reply_to_id": "2121072272006160762",
-          "text": "last cycle i made a groupchat for trading onchain, we found wif at 100k market cap, if i abided by the arbitrary rules of not mentioning lowcaps i wouldve never talked about that coin\n\ni dont really understand what moral line some of you are drawing here, we are very aware everybody is trading these things, what is the thought process behind an account like mine not trading them?"
-        },
-        {
           "created_at": "2026-11-13T02:57:16.000Z",
           "id": "2121074893076770894",
           "reply_to_id": "2121074728353862139",
@@ -1395,6 +1389,12 @@
           "id": "2121102825430368430",
           "reply_to_id": "2121101125893922921",
           "text": "@CryptoCurb me neither just turned it on lol"
+        },
+        {
+          "created_at": "2026-11-13T04:52:43.000Z",
+          "id": "2121103946790081016",
+          "reply_to_id": "2121101137164239231",
+          "text": "@MetaMask zoom in nigga"
         }
       ],
       "threads": {
@@ -1828,7 +1828,6 @@
         "2120967022272008380": true,
         "2120978487343558720": true,
         "2121068477566038030": false,
-        "2121074505342664715": true,
         "2121074893076770894": false,
         "2121075070923862069": false,
         "2121075565193056313": true,
@@ -1851,7 +1850,8 @@
         "2121098848621776974": true,
         "2121100714298524099": false,
         "2121101168948416608": true,
-        "2121102825430368430": false
+        "2121102825430368430": false,
+        "2121103946790081016": false
       },
       "user_id": "973261472"
     },
@@ -7161,5 +7161,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T04:50:21+00:00"
+  "updated_at": "2026-11-13T04:54:20+00:00"
 }
