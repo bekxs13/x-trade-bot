@@ -1019,7 +1019,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121325074376753165",
+      "last_id": "2121325675239932210",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1309,12 +1309,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T15:48:33.000Z",
-          "id": "2121268989896896854",
-          "reply_to_id": "2121263304178036828",
-          "text": "@hasntpumpedyet everything is an attention + ta trade and once you realize this trading becomes a lot easier"
-        },
-        {
           "created_at": "2026-11-13T15:56:03.000Z",
           "id": "2121270878549762383",
           "reply_to_id": "2121262609894724043",
@@ -1397,6 +1391,12 @@
           "id": "2121325074376753165",
           "reply_to_id": "2121320262654157299",
           "text": "@toplonging irl"
+        },
+        {
+          "created_at": "2026-11-13T19:33:47.000Z",
+          "id": "2121325675239932210",
+          "reply_to_id": "2121257614361182477",
+          "text": "@andyyy @therollupco @musalbas @robbieklages \ud83d\udd25\ud83d\udd25\ud83d\udd25"
         }
       ],
       "threads": {
@@ -1832,7 +1832,6 @@
         "2121240902756934046": false,
         "2121257385394155563": false,
         "2121258486201790652": false,
-        "2121268989896896854": true,
         "2121270878549762383": false,
         "2121271763149471915": true,
         "2121272535216267470": true,
@@ -1851,7 +1850,8 @@
         "2121317760173302192": false,
         "2121320604930306112": false,
         "2121323022820798791": false,
-        "2121325074376753165": false
+        "2121325074376753165": false,
+        "2121325675239932210": false
       },
       "user_id": "973261472"
     },
@@ -7160,5 +7160,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T19:32:16+00:00"
+  "updated_at": "2026-11-13T19:34:18+00:00"
 }
