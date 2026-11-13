@@ -6414,7 +6414,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121066183143121055",
+      "last_id": "2121076937699279260",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6466,11 +6466,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T23:16:33.000Z",
-          "id": "2120656959024115846",
-          "text": "People didnt realize you had to hedge out affair risk to be factor neutral on semis"
-        },
         {
           "created_at": "2026-11-12T14:28:28.000Z",
           "id": "2120886448425681182",
@@ -6574,10 +6569,17 @@
           "created_at": "2026-11-13T02:22:40.000Z",
           "id": "2121066183143121055",
           "text": "Some nice capitulation after hours on BTC here.\n\nSeems like someone might need margin fast..."
+        },
+        {
+          "created_at": "2026-11-13T03:05:24.000Z",
+          "id": "2121076937699279260",
+          "images": [
+            "https://pbs.twimg.com/media/HW-UOtvXwAAHWvb.jpg"
+          ],
+          "text": "People made fun of me for being bearish and then we proceeded to print 6 red weekly candles on BTC https://t.co/obBgF7yJvA"
         }
       ],
       "reads": {
-        "2120656959024115846": "No call",
         "2120886448425681182": "No call: bearish on crypto market (60%, too unsure)",
         "2120895026754617723": "No call",
         "2120896790807642297": "No call",
@@ -6595,7 +6597,8 @@
         "2120990011680284676": "TRADE LONG HYPE",
         "2120992788271550673": "No call",
         "2121040486635131375": "No call",
-        "2121066183143121055": "No call"
+        "2121066183143121055": "No call",
+        "2121076937699279260": "No call"
       },
       "replies": [
         {
@@ -6693,12 +6696,6 @@
         }
       ],
       "threads": {
-        "2111577993311117630": {
-          "alerted": [
-            "bias:crypto market:bearish"
-          ],
-          "self_replies": 0
-        },
         "2111579791379820967": {
           "alerted": [
             "bias:mu:bearish"
@@ -7112,6 +7109,10 @@
         "2121066183143121055": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121076937699279260": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7122,7 +7123,6 @@
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
-        "2120656959024115846": true,
         "2120886448425681182": true,
         "2120895026754617723": true,
         "2120896790807642297": true,
@@ -7149,7 +7149,8 @@
         "2120990011680284676": true,
         "2120992788271550673": true,
         "2121040486635131375": true,
-        "2121066183143121055": true
+        "2121066183143121055": true,
+        "2121076937699279260": true
       },
       "user_id": "809191427645181952"
     }
@@ -7172,5 +7173,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T03:02:16+00:00"
+  "updated_at": "2026-11-13T03:06:29+00:00"
 }
