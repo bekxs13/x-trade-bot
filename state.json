@@ -1022,7 +1022,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121367683815866809",
+      "last_id": "2121368523444220235",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1315,12 +1315,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T19:13:39.000Z",
-          "id": "2121320604930306112",
-          "reply_to_id": "2121318599965155783",
-          "text": "@sirceen hey ceen"
-        },
-        {
           "created_at": "2026-11-13T19:23:15.000Z",
           "id": "2121323022820798791",
           "reply_to_id": "2121317198757277756",
@@ -1403,6 +1397,12 @@
           "id": "2121367683815866809",
           "reply_to_id": "2121363079032340607",
           "text": "@rizzkola im saying it needs to hold or else no bueno"
+        },
+        {
+          "created_at": "2026-11-13T22:24:03.000Z",
+          "id": "2121368523444220235",
+          "reply_to_id": "2121366521197048088",
+          "text": "@RAP3MEFR yea i saw"
         }
       ],
       "threads": {
@@ -1836,7 +1836,6 @@
         "2121287410516377909": true,
         "2121306256556409097": true,
         "2121317620943364411": true,
-        "2121320604930306112": false,
         "2121323022820798791": false,
         "2121325074376753165": false,
         "2121325675239932210": false,
@@ -1855,7 +1854,8 @@
         "2121362969917567274": false,
         "2121365466769707367": false,
         "2121366000436154784": false,
-        "2121367683815866809": true
+        "2121367683815866809": true,
+        "2121368523444220235": false
       },
       "user_id": "973261472"
     },
@@ -6404,7 +6404,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121367916608364803",
+      "last_id": "2121368520252334151",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6598,12 +6598,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T17:37:39.000Z",
-          "id": "2111874363234426989",
-          "reply_to_id": "2111873940054516161",
-          "text": "@koolkrypto223 Hopefully this one fairs better than your ETH call spread (-50% or so at this point?)"
-        },
-        {
           "created_at": "2026-10-18T17:43:41.000Z",
           "id": "2111875879865389103",
           "reply_to_id": "2111875711028056173",
@@ -6689,6 +6683,12 @@
           "id": "2120969204128235808",
           "reply_to_id": "2120967924525695158",
           "text": "Insilico is an OEMS \n\nFullstack is an onchain prime brokerage where you'll be able to use portfolio margin with collateral from any chain to trade simultaneously on Hyperliquid, Polymarket and any other relevant venue.\n\nImagine taking Anthropic stock from Robinhood chain and using it as collateral to trade on Hyperliquid.\n\nIncomparable."
+        },
+        {
+          "created_at": "2026-11-13T22:24:03.000Z",
+          "id": "2121368520252334151",
+          "reply_to_id": "2121366718538748124",
+          "text": "@trading_axe What holding Ethereum does to a mfer"
         }
       ],
       "threads": {
@@ -7110,7 +7110,6 @@
         }
       },
       "trading": {
-        "2111874363234426989": true,
         "2111875879865389103": false,
         "2111892500210458979": true,
         "2118008698790641737": false,
@@ -7144,7 +7143,8 @@
         "2121340793646686278": false,
         "2121352038999003623": false,
         "2121360211894255959": true,
-        "2121367916608364803": true
+        "2121367916608364803": true,
+        "2121368520252334151": true
       },
       "user_id": "809191427645181952"
     }
@@ -7167,5 +7167,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T22:22:28+00:00"
+  "updated_at": "2026-11-13T22:24:21+00:00"
 }
