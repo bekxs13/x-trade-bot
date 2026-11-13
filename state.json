@@ -1019,7 +1019,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121286610239275136",
+      "last_id": "2121287410516377909",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1152,12 +1152,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-13T03:23:56.000Z",
-          "id": "2121081603686351239",
-          "quoted_text": "a look at Bitcoin's failed breakout, key support levels, higher-low setups, Ethereum weakness and Gold's recovery\n\n0:00 - BTC failed breakout and downside risk\n9:25 - BTC vs Gold and macro concerns\n15:25 - BTC support, higher lows and entry setups\n32:00 - Weekly bearish signals and key demand\n40:05 - ETH weakness and Gold's recovery\n\nnovember 9th, 2026",
-          "text": "tick by tick https://t.co/dw06u9DUVn"
-        },
-        {
           "created_at": "2026-11-13T03:50:51.000Z",
           "id": "2121088376086651273",
           "reply_to_id": "2121088272915218482",
@@ -1280,10 +1274,17 @@
           "created_at": "2026-11-13T16:36:16.000Z",
           "id": "2121281001657958823",
           "text": "https://t.co/UFemH9wZxq"
+        },
+        {
+          "created_at": "2026-11-13T17:01:44.000Z",
+          "id": "2121287410516377909",
+          "images": [
+            "https://pbs.twimg.com/media/HXBTqHlX0AArxcs.jpg"
+          ],
+          "text": "just checked the charts https://t.co/WgwaII1bAM"
         }
       ],
       "reads": {
-        "2121081603686351239": "No call",
         "2121089005114867983": "No call",
         "2121089318362005768": "No call",
         "2121089911814242616": "No call",
@@ -1298,7 +1299,8 @@
         "2121230917968540062": "No call",
         "2121257385394155563": "No call",
         "2121278114278039870": "No call",
-        "2121281001657958823": "No call"
+        "2121281001657958823": "No call",
+        "2121287410516377909": "No call"
       },
       "replies": [
         {
@@ -1393,10 +1395,6 @@
         }
       ],
       "threads": {
-        "2120215751751774604": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120230903637004462": {
           "alerted": [],
           "self_replies": 0
@@ -1807,10 +1805,13 @@
         "2121281001657958823": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121287410516377909": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121081603686351239": true,
         "2121088376086651273": true,
         "2121089005114867983": true,
         "2121089318362005768": false,
@@ -1844,7 +1845,8 @@
         "2121280622672879884": false,
         "2121281001657958823": false,
         "2121285354044919816": false,
-        "2121286610239275136": true
+        "2121286610239275136": true,
+        "2121287410516377909": true
       },
       "user_id": "973261472"
     },
@@ -7149,5 +7151,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T17:00:25+00:00"
+  "updated_at": "2026-11-13T17:02:22+00:00"
 }
