@@ -1019,7 +1019,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121232994283266134",
+      "last_id": "2121240902756934046",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1152,11 +1152,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-12T19:48:38.000Z",
-          "id": "2120967022272008380",
-          "text": "current portfolio\n\nlong: bonds, oil, solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump \n\nshort: everything else"
-        },
-        {
           "created_at": "2026-11-12T20:34:11.000Z",
           "id": "2120978487343558720",
           "images": [
@@ -1281,10 +1276,18 @@
             "https://pbs.twimg.com/media/HXAgR2CWsAAjgWU.jpg"
           ],
           "text": "gmihao https://t.co/umweIA7Z9H"
+        },
+        {
+          "created_at": "2026-11-13T13:56:56.000Z",
+          "id": "2121240902756934046",
+          "images": [
+            "https://pbs.twimg.com/tweet_video_thumb/HXApWeHWgAAeF1F.jpg"
+          ],
+          "reply_to_id": "2120404478474010916",
+          "text": "@capexbt https://t.co/11qRk2sBUl"
         }
       ],
       "reads": {
-        "2120967022272008380": "TRADE LONG bonds, oil",
         "2120978487343558720": "TRADE SHORT BTC",
         "2121068477566038030": "No call",
         "2121079206733873660": "No call: bullish on PAPER (same view as before)",
@@ -1821,7 +1824,6 @@
         }
       },
       "trading": {
-        "2120967022272008380": true,
         "2120978487343558720": true,
         "2121068477566038030": false,
         "2121079206733873660": true,
@@ -1855,7 +1857,8 @@
         "2121205434224918732": true,
         "2121230917968540062": false,
         "2121231465447149924": false,
-        "2121232994283266134": false
+        "2121232994283266134": false,
+        "2121240902756934046": false
       },
       "user_id": "973261472"
     },
@@ -7161,5 +7164,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T13:40:41+00:00"
+  "updated_at": "2026-11-13T13:58:20+00:00"
 }
