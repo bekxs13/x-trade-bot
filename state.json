@@ -1019,7 +1019,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121151869762351403",
+      "last_id": "2121205434224918732",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1152,15 +1152,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-12T19:38:08.000Z",
-          "id": "2120964381211050460",
-          "images": [
-            "https://pbs.twimg.com/media/HW8t3QCXkAAHey6.jpg"
-          ],
-          "quoted_text": "Most clicked cashtags since launch.\n\nTrade it on fomo. https://t.co/GKscMvHHIK",
-          "text": "solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/kyoJo7QNgz https://t.co/uZeWV8nDh2"
-        },
-        {
           "created_at": "2026-11-12T19:46:33.000Z",
           "id": "2120966496440791196",
           "quoted_text": "https://t.co/0tI674KgdJ",
@@ -1280,10 +1271,17 @@
           ],
           "reply_to_id": "2121149364848697834",
           "text": "@lBattleRhino https://t.co/DG7g4IqYa2"
+        },
+        {
+          "created_at": "2026-11-13T11:36:00.000Z",
+          "id": "2121205434224918732",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2121004144945426432/img/78YiANifVkZGAjAE.jpg"
+          ],
+          "text": "i think one of the biggest catalysts crypto needs right now is a breakout application that brings in an entirely new group of users\n\nwe saw glimpses of that with Pumpfun and fomo this summer, and Friendtech had a similar effect in 2023 when it attracted people outside the usual crypto crowd\n\ni'm also paying attention to crypto neobanks and payment cards, where products like etherfi have been gaining traction\n\nthe next major wave of activity could come from an application that gives people a new reason to spend money, speculate and participate onchain\n\nnew users and fresh capital are two of the most important things i'm watching for the next crypto expansion"
         }
       ],
       "reads": {
-        "2120964381211050460": "No call",
         "2120966496440791196": "No call",
         "2120967022272008380": "TRADE LONG bonds, oil",
         "2120978487343558720": "TRADE SHORT BTC",
@@ -1300,7 +1298,8 @@
         "2121108153081462890": "No call",
         "2121111540560453811": "No call: bearish on stocks/macro (same view as before)",
         "2121114446080737288": "No call",
-        "2121140489156174173": "No call"
+        "2121140489156174173": "No call",
+        "2121205434224918732": "No call"
       },
       "replies": [
         {
@@ -1401,10 +1400,6 @@
         }
       ],
       "threads": {
-        "2119755882548584491": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119821655975629247": {
           "alerted": [],
           "self_replies": 0
@@ -1817,10 +1812,13 @@
         "2121140489156174173": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121205434224918732": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120964381211050460": true,
         "2120966496440791196": false,
         "2120967022272008380": true,
         "2120978487343558720": true,
@@ -1854,7 +1852,8 @@
         "2121145909325230131": true,
         "2121149364848697834": false,
         "2121149548253090209": false,
-        "2121151869762351403": false
+        "2121151869762351403": false,
+        "2121205434224918732": true
       },
       "user_id": "973261472"
     },
@@ -7164,5 +7163,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T11:28:16+00:00"
+  "updated_at": "2026-11-13T11:36:25+00:00"
 }
