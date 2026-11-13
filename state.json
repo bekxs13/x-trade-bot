@@ -4615,7 +4615,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2121052647968936343",
+      "last_id": "2121055652453798321",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4667,15 +4667,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T22:04:48.000Z",
-          "id": "2120638901740278045",
-          "images": [
-            "https://pbs.twimg.com/media/HW4F0iUXcAADXuk.jpg"
-          ],
-          "quoted_text": "the jensen files to end a 20+ year tech supercycle in america",
-          "text": "https://t.co/1TXPSuowgv https://t.co/EPbTZR6BHF"
-        },
         {
           "created_at": "2026-11-11T22:09:15.000Z",
           "id": "2120640023234003182",
@@ -4788,10 +4779,15 @@
           "id": "2121051905371865414",
           "quoted_text": "Jensen lately per Bloomberg:\n\n\u201cAccording to people who\u2019ve spoken with him in recent days,\u00a0\u00a0Huang has already taken a penitent turn,\u00a0castigating\u00a0himself as a \u201cpiece of sh--.\u201d\u00a0He claims not to care\u00a0what happens to himself at this point. His main concern, he says,\u00a0is\u00a0his wife, and not \u201cruining the lives\u201d\u00a0of the multiple women\u00a0now\u00a0romantically linked to him in the public imagination.\u201d",
           "text": "nah no way my goat going out sad bro what the hell https://t.co/fzdn6A1epX"
+        },
+        {
+          "created_at": "2026-11-13T01:40:49.000Z",
+          "id": "2121055652453798321",
+          "reply_to_id": "2121051905371865414",
+          "text": "telling me ex i fucking hate myself i\u2019m stupid stupid stupid stupid FUCK IM STUPID I HATE ME FUCK WHY DIDNI FUCK I NEVERL OVED HER FUCK my way back into her life"
         }
       ],
       "reads": {
-        "2120638901740278045": "No call",
         "2120640023234003182": "No call",
         "2120645115320655949": "No call",
         "2120646293773000962": "No call",
@@ -4810,7 +4806,8 @@
         "2120964745532764218": "No call",
         "2120972971703705709": "TRADE SHORT NVDA",
         "2120972973847027947": "Read together with the post it replies to",
-        "2121051905371865414": "No call"
+        "2121051905371865414": "No call",
+        "2121055652453798321": "No call"
       },
       "replies": [
         {
@@ -5305,11 +5302,10 @@
         },
         "2121051905371865414": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2120638901740278045": true,
         "2120640023234003182": true,
         "2120645115320655949": false,
         "2120646293773000962": true,
@@ -5343,7 +5339,8 @@
         "2121025430325276721": false,
         "2121051905371865414": false,
         "2121051930051142048": false,
-        "2121052647968936343": false
+        "2121052647968936343": false,
+        "2121055652453798321": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7168,5 +7165,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T01:36:19+00:00"
+  "updated_at": "2026-11-13T01:42:27+00:00"
 }
