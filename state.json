@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2121372475032588347",
+      "last_id": "2121389071947960700",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,14 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T22:01:38.000Z",
-          "id": "2120638105749512676",
-          "images": [
-            "https://pbs.twimg.com/media/HW4FFvUbsAE-fmb.jpg"
-          ],
-          "text": "Jensen has more hoes than we thought https://t.co/Rg7hFyhaz3"
-        },
         {
           "created_at": "2026-11-12T00:13:12.000Z",
           "id": "2120671215249711343",
@@ -273,10 +265,14 @@
             "https://pbs.twimg.com/media/HXCGVogbYAA0Ohy.jpg"
           ],
           "text": "Reaching new audiences https://t.co/MVMVCp9YYo"
+        },
+        {
+          "created_at": "2026-11-13T23:45:42.000Z",
+          "id": "2121389071947960700",
+          "text": "Democrats win and we lost air travel in the first week"
         }
       ],
       "reads": {
-        "2120638105749512676": "No call",
         "2120671215249711343": "No call",
         "2120684253185016306": "No call",
         "2120684321325584887": "Read together with the post it replies to",
@@ -294,7 +290,8 @@
         "2121192689324691510": "No call",
         "2121202474497544522": "No call",
         "2121339354631307537": "No call",
-        "2121343134785544351": "No call"
+        "2121343134785544351": "No call",
+        "2121389071947960700": "No call"
       },
       "replies": [
         {
@@ -389,10 +386,6 @@
         }
       ],
       "threads": {
-        "2115199324724359362": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115497371807412663": {
           "alerted": [],
           "self_replies": 0
@@ -791,10 +784,13 @@
         "2121343134785544351": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121389071947960700": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120638105749512676": false,
         "2120671215249711343": true,
         "2120684253185016306": false,
         "2120684321325584887": false,
@@ -828,7 +824,8 @@
         "2121345281619083512": true,
         "2121358093363896574": false,
         "2121365392673419699": false,
-        "2121372475032588347": false
+        "2121372475032588347": false,
+        "2121389071947960700": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7157,5 +7154,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T23:38:24+00:00"
+  "updated_at": "2026-11-13T23:46:21+00:00"
 }
