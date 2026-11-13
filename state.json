@@ -1029,7 +1029,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121106365771121023",
+      "last_id": "2121108153081462890",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1162,11 +1162,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-12T17:29:15.000Z",
-          "id": "2120931944452002167",
-          "text": "nuked the gold position"
-        },
-        {
           "created_at": "2026-11-12T17:29:28.000Z",
           "id": "2120932002211975640",
           "text": "dollar and rates best charts on my screen is absolutely abysmal"
@@ -1279,10 +1274,17 @@
           "created_at": "2026-11-13T04:59:27.000Z",
           "id": "2121105640462422424",
           "text": "not to scare anyone but im pretty sure there's only been one time bitcoin has printed 6 red weeklies like this into accelerated selling at the end, and it was april-may 2022"
+        },
+        {
+          "created_at": "2026-11-13T05:09:26.000Z",
+          "id": "2121108153081462890",
+          "images": [
+            "https://pbs.twimg.com/media/HW-wnmkWMAAuiqh.png"
+          ],
+          "text": "finance https://t.co/0bQbHfsXgk"
         }
       ],
       "reads": {
-        "2120931944452002167": "TRADE EXIT GOLD",
         "2120932002211975640": "No call",
         "2120932098403922372": "No call",
         "2120932357796446584": "No call",
@@ -1299,7 +1301,8 @@
         "2121089911814242616": "No call",
         "2121100714298524099": "No call",
         "2121101168948416608": "VIEW bearish on crypto market",
-        "2121105640462422424": "No call: bearish on btc (same view as before)"
+        "2121105640462422424": "No call: bearish on btc (same view as before)",
+        "2121108153081462890": "No call"
       },
       "replies": [
         {
@@ -1397,10 +1400,6 @@
         }
       ],
       "threads": {
-        "2119286953141264608": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119409698999033942": {
           "alerted": [],
           "self_replies": 0
@@ -1813,10 +1812,13 @@
         "2121105640462422424": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121108153081462890": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120931944452002167": true,
         "2120932002211975640": true,
         "2120932098403922372": true,
         "2120932357796446584": false,
@@ -1850,7 +1852,8 @@
         "2121102825430368430": false,
         "2121103946790081016": false,
         "2121105640462422424": true,
-        "2121106365771121023": false
+        "2121106365771121023": false,
+        "2121108153081462890": true
       },
       "user_id": "973261472"
     },
@@ -7160,5 +7163,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T05:04:17+00:00"
+  "updated_at": "2026-11-13T05:10:23+00:00"
 }
