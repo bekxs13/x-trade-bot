@@ -6393,7 +6393,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121371411273130066",
+      "last_id": "2121384370540102139",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6590,12 +6590,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-10-18T18:49:43.000Z",
-          "id": "2111892500210458979",
-          "reply_to_id": "2111885357319148019",
-          "text": "@koolkrypto223 @DeriveXYZ Pleb size, also not using Derive - DM\u2019d though"
-        },
-        {
           "created_at": "2026-11-04T15:53:19.000Z",
           "id": "2118008698790641737",
           "reply_to_id": "2118008063638822993",
@@ -6681,6 +6675,12 @@
           "id": "2121370893020549192",
           "reply_to_id": "2121370779023802599",
           "text": "@blknoiz06 Imagine if he listened to me and did Hype. What a different timeline. He might be one of the richest people on Earth."
+        },
+        {
+          "created_at": "2026-11-13T23:27:02.000Z",
+          "id": "2121384370540102139",
+          "reply_to_id": "2121382184758260138",
+          "text": "@kingbtc Dr Robert Lax, what is the prognosis"
         }
       ],
       "threads": {
@@ -7102,7 +7102,6 @@
         }
       },
       "trading": {
-        "2111892500210458979": true,
         "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
@@ -7136,7 +7135,8 @@
         "2121370392912638212": false,
         "2121370893020549192": true,
         "2121371060213805352": true,
-        "2121371411273130066": false
+        "2121371411273130066": false,
+        "2121384370540102139": false
       },
       "user_id": "809191427645181952"
     }
@@ -7159,5 +7159,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T23:24:20+00:00"
+  "updated_at": "2026-11-13T23:28:19+00:00"
 }
