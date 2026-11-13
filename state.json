@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2121186786869403708",
+      "last_id": "2121187832639471709",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -297,15 +297,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-11T04:20:14.000Z",
-          "id": "2120370997165707729",
-          "images": [
-            "https://pbs.twimg.com/media/HW0SLzIaUAA5HKa.jpg"
-          ],
-          "reply_to_id": "2120282720853197236",
-          "text": "@willdepue @niloofar_mire @OpenAI https://t.co/2oWM93j1UF"
-        },
-        {
           "created_at": "2026-11-11T04:29:51.000Z",
           "id": "2120373414192095290",
           "reply_to_id": "2120122022734762282",
@@ -391,6 +382,12 @@
           "id": "2121186786869403708",
           "reply_to_id": "2121186319980482562",
           "text": "@nevera07 hope u been well"
+        },
+        {
+          "created_at": "2026-11-13T10:26:03.000Z",
+          "id": "2121187832639471709",
+          "reply_to_id": "2121187222343033288",
+          "text": "@jjshredit hope so he's been my biggest supporter in the mainstream tbh @notthreadguy @notthreadguy @notthreadguy"
         }
       ],
       "threads": {
@@ -799,7 +796,6 @@
         }
       },
       "trading": {
-        "2120370997165707729": false,
         "2120373414192095290": false,
         "2120373682145202482": true,
         "2120432883064266933": false,
@@ -833,7 +829,8 @@
         "2121184950988988680": false,
         "2121185597343867326": false,
         "2121186109212528653": false,
-        "2121186786869403708": false
+        "2121186786869403708": false,
+        "2121187832639471709": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7172,5 +7169,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T10:24:29+00:00"
+  "updated_at": "2026-11-13T10:26:22+00:00"
 }
