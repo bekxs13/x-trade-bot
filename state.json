@@ -1022,7 +1022,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121369933418483856",
+      "last_id": "2121370509468213545",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1312,12 +1312,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T19:23:15.000Z",
-          "id": "2121323022820798791",
-          "reply_to_id": "2121317198757277756",
-          "text": "@rayan_oncyber sick bro"
-        },
-        {
           "created_at": "2026-11-13T19:31:24.000Z",
           "id": "2121325074376753165",
           "reply_to_id": "2121320262654157299",
@@ -1400,6 +1394,15 @@
           "id": "2121368523444220235",
           "reply_to_id": "2121366521197048088",
           "text": "@RAP3MEFR yea i saw"
+        },
+        {
+          "created_at": "2026-11-13T22:31:57.000Z",
+          "id": "2121370509468213545",
+          "images": [
+            "https://pbs.twimg.com/tweet_video_thumb/HXCfO9aWIAA52oB.jpg"
+          ],
+          "reply_to_id": "2121370009406697791",
+          "text": "@poopypee6741 https://t.co/RRP8JCaktN"
         }
       ],
       "threads": {
@@ -1832,7 +1835,6 @@
         "2121287410516377909": true,
         "2121306256556409097": true,
         "2121317620943364411": true,
-        "2121323022820798791": false,
         "2121325074376753165": false,
         "2121325675239932210": false,
         "2121326841588060515": false,
@@ -1852,7 +1854,8 @@
         "2121366000436154784": false,
         "2121367683815866809": true,
         "2121368523444220235": false,
-        "2121369933418483856": false
+        "2121369933418483856": false,
+        "2121370509468213545": false
       },
       "user_id": "973261472"
     },
@@ -6401,7 +6404,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121369985150832923",
+      "last_id": "2121370392912638212",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6453,12 +6456,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T17:41:06.000Z",
-          "id": "2120934928602779707",
-          "reply_to_id": "2120933886100152481",
-          "text": "It also included a fully paid trip for all students in the club to the New York stock exchange, and 2+ full college scholarships for exceptional students in the club.\n\nMy goal was to establish a sustainable club where the compounded returns would eventually finance itself without the need for additional contributions. \n\nThis model could expand out to other schools to encourage financial literacy that is not currently in school curriculum."
-        },
         {
           "created_at": "2026-11-12T17:43:57.000Z",
           "id": "2120935643563917459",
@@ -6573,10 +6570,14 @@
             "https://pbs.twimg.com/media/HXCewFLX0AARtJw.jpg"
           ],
           "text": "Arguably Ethereum is one of the worst things to happen to humanity. The amount of capital lost to hacks, human capital lost due to developing with suboptimal tooling and retail capital destroyed from longing the asset makes it a contender for the worst asset of all time. https://t.co/1BLMEOQ6QD"
+        },
+        {
+          "created_at": "2026-11-13T22:31:29.000Z",
+          "id": "2121370392912638212",
+          "text": "Privileged and honored to announce I've been selected to be a speaker at Ethereum Denver on positivity, nicemaxxing and the benefits of Ethereum DeFi."
         }
       ],
       "reads": {
-        "2120934928602779707": "No call",
         "2120950653098832289": "No call",
         "2120955088197812345": "No call",
         "2120990011680284676": "TRADE LONG HYPE",
@@ -6594,7 +6595,8 @@
         "2121352038999003623": "No call",
         "2121360211894255959": "No call",
         "2121367916608364803": "No call: bearish on eth (same view as before)",
-        "2121369985150832923": "No call: bearish on eth (same view as before)"
+        "2121369985150832923": "No call: bearish on eth (same view as before)",
+        "2121370392912638212": "No call"
       },
       "replies": [
         {
@@ -6692,10 +6694,6 @@
         }
       ],
       "threads": {
-        "2111859899441549668": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111861754129227930": {
           "alerted": [],
           "self_replies": 1
@@ -7107,6 +7105,10 @@
         "2121369985150832923": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121370392912638212": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7118,7 +7120,6 @@
         "2120546317898227979": true,
         "2120922255936929882": false,
         "2120930300046049477": true,
-        "2120934928602779707": false,
         "2120935191342694537": false,
         "2120935643563917459": false,
         "2120935916424622157": false,
@@ -7144,7 +7145,8 @@
         "2121360211894255959": true,
         "2121367916608364803": true,
         "2121368520252334151": true,
-        "2121369985150832923": true
+        "2121369985150832923": true,
+        "2121370392912638212": false
       },
       "user_id": "809191427645181952"
     }
@@ -7167,5 +7169,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T22:30:27+00:00"
+  "updated_at": "2026-11-13T22:32:23+00:00"
 }
