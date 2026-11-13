@@ -1019,7 +1019,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121272535216267470",
+      "last_id": "2121273470839591334",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1303,15 +1303,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T08:03:09.000Z",
-          "id": "2121151869762351403",
-          "images": [
-            "https://pbs.twimg.com/media/HW_YYk5W8AAd1aa.jpg"
-          ],
-          "reply_to_id": "2121149684224028772",
-          "text": "@Bagphilosopher @lBattleRhino https://t.co/81rCeyeOAi"
-        },
-        {
           "created_at": "2026-11-13T13:19:26.000Z",
           "id": "2121231465447149924",
           "reply_to_id": "2121227192830992793",
@@ -1394,6 +1385,12 @@
           "id": "2121272535216267470",
           "reply_to_id": "2121272321449283593",
           "text": "@cryptonio123 this is not crypto its all of trading, and its not a mission this is commentary on what could improve the #s of ppl winning while sharing revenue with users"
+        },
+        {
+          "created_at": "2026-11-13T16:06:21.000Z",
+          "id": "2121273470839591334",
+          "reply_to_id": "2121272236283670847",
+          "text": "@Credib1eGuy @rbthreek :/"
         }
       ],
       "threads": {
@@ -1831,7 +1828,6 @@
         "2121114446080737288": false,
         "2121140489156174173": false,
         "2121149548253090209": false,
-        "2121151869762351403": false,
         "2121205434224918732": true,
         "2121230917968540062": false,
         "2121231465447149924": false,
@@ -1850,7 +1846,8 @@
         "2121268989896896854": true,
         "2121270878549762383": false,
         "2121271763149471915": true,
-        "2121272535216267470": true
+        "2121272535216267470": true,
+        "2121273470839591334": false
       },
       "user_id": "973261472"
     },
@@ -6394,7 +6391,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121267317493408147",
+      "last_id": "2121273483305042028",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6446,11 +6443,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T15:15:58.000Z",
-          "id": "2120898402485715425",
-          "text": "In finance PnL does not matter. Alpha does not matter. \n\nDon\u2019t let anyone tell you otherwise. All that matters is that you\u2019re really nice to other people and that you make sure you have large amounts of empathy for everyone. Don\u2019t focus on making money, focus on friends."
-        },
         {
           "created_at": "2026-11-12T15:45:09.000Z",
           "id": "2120905750033916381",
@@ -6561,10 +6553,14 @@
           "created_at": "2026-11-13T15:41:54.000Z",
           "id": "2121267317493408147",
           "text": "You should have minimum three portfolios. \n\nPortfolio 1: One that sits mostly cash and is your break glass in case of emergency war chest. This is where you take profit to for tax and special situations Crypto wipeouts.\n\nPortfolio 2: Active trading, mix of spot you like, cash and where you do your derivative trading. Don't keep your entire balance on one exchange, ideally have minimum of 2.\n\nPortfolio 3 (optional): COLD STORAGE BITCOIN. This is where you bank the hardest capital on earth, and where you send funds that will never be touched. This is the only realized profit and your emergency fund if you ever need to move fast."
+        },
+        {
+          "created_at": "2026-11-13T16:06:24.000Z",
+          "id": "2121273483305042028",
+          "text": "Given so much retail trading activity in leveraged ETFs markets don't even have to go down that much. Just sideways for a few years and they'll be completely wiped out.\n\nPerpetual swaps maximalism."
         }
       ],
       "reads": {
-        "2120898402485715425": "No call",
         "2120905750033916381": "No call",
         "2120928369823096999": "No call: bearish on stocks/macro (60%, too unsure)",
         "2120928590464233529": "No call: maybe trim SOXL (50%, too unsure)",
@@ -6582,7 +6578,8 @@
         "2121077529541013955": "No call",
         "2121099526400508073": "No call: bearish on crypto market (60%, too unsure)",
         "2121265838338548157": "No call",
-        "2121267317493408147": "No call"
+        "2121267317493408147": "No call",
+        "2121273483305042028": "No call"
       },
       "replies": [
         {
@@ -6680,10 +6677,6 @@
         }
       ],
       "threads": {
-        "2111583825256214637": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2111605916680196276": {
           "alerted": [],
           "self_replies": 0
@@ -7095,6 +7088,10 @@
         "2121267317493408147": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121273483305042028": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7105,7 +7102,6 @@
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
-        "2120898402485715425": false,
         "2120905750033916381": false,
         "2120922255936929882": false,
         "2120928369823096999": true,
@@ -7132,7 +7128,8 @@
         "2121077529541013955": false,
         "2121099526400508073": true,
         "2121265838338548157": true,
-        "2121267317493408147": true
+        "2121267317493408147": true,
+        "2121273483305042028": true
       },
       "user_id": "809191427645181952"
     }
@@ -7155,5 +7152,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T16:04:24+00:00"
+  "updated_at": "2026-11-13T16:08:28+00:00"
 }
