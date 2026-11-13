@@ -1029,7 +1029,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121068477566038030",
+      "last_id": "2121069500032250087",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1312,15 +1312,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-12T22:12:50.000Z",
-          "id": "2121003313730625896",
-          "images": [
-            "https://pbs.twimg.com/media/HW9RRcEW0AAWOdo.jpg"
-          ],
-          "reply_to_id": "2121001215186125270",
-          "text": "@CrypTicKori @the_smart_ape @Pumpfun https://t.co/CPL6tFP4m7"
-        },
-        {
           "created_at": "2026-11-12T22:18:02.000Z",
           "id": "2121004619199619411",
           "reply_to_id": "2121003366465802255",
@@ -1406,6 +1397,12 @@
           ],
           "reply_to_id": "2121067411931898079",
           "text": "@MINHxDYNASTY @fomo https://t.co/sxabfQ5guG"
+        },
+        {
+          "created_at": "2026-11-13T02:35:51.000Z",
+          "id": "2121069500032250087",
+          "reply_to_id": "2121069264060723322",
+          "text": "@TheDudeofDeFi well i p much consider memecoins as 0s or heroes and size them that way as part of port so the perps pnl is what actually matters to me"
         }
       ],
       "threads": {
@@ -1847,7 +1844,6 @@
         "2120966496440791196": false,
         "2120967022272008380": true,
         "2120978487343558720": true,
-        "2121003313730625896": false,
         "2121004619199619411": true,
         "2121005575546827029": false,
         "2121006407617278229": false,
@@ -1862,7 +1858,8 @@
         "2121066373090578886": false,
         "2121067782338912511": true,
         "2121068259265085880": false,
-        "2121068477566038030": false
+        "2121068477566038030": false,
+        "2121069500032250087": true
       },
       "user_id": "973261472"
     },
@@ -2268,7 +2265,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2121049489222115442",
+      "last_id": "2121069468193550347",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2288,12 +2285,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T23:13:11.000Z",
-          "id": "2120656111418392948",
-          "quoted_text": "*NVIDIA PREPARING TO OUST CEO JENSEN HUANG: WSJ",
-          "text": "lol https://t.co/IY2pq8ryov"
-        },
         {
           "created_at": "2026-11-11T23:17:27.000Z",
           "id": "2120657183914201132",
@@ -2401,10 +2392,17 @@
           "id": "2121049489222115442",
           "reply_to_id": "2121047373635825765",
           "text": "is this a cyber attack of some sort?"
+        },
+        {
+          "created_at": "2026-11-13T02:35:43.000Z",
+          "id": "2121069468193550347",
+          "images": [
+            "https://pbs.twimg.com/media/HW-NbwdXgAA8UVB.jpg"
+          ],
+          "text": "the longer microsoft teams stays down the lower bitcoin will drop on ai hacking ability fears https://t.co/62Jzl1Bwaf"
         }
       ],
       "reads": {
-        "2120656111418392948": "No call",
         "2120657183914201132": "No call",
         "2120657655362412563": "No call",
         "2120660166286921757": "No call",
@@ -2423,7 +2421,8 @@
         "2120887119048581298": "No call",
         "2120935840658661401": "No call: bearish on NVDA (60%, too unsure)",
         "2121047373635825765": "No call",
-        "2121049489222115442": "No call"
+        "2121049489222115442": "No call",
+        "2121069468193550347": "No call"
       },
       "replies": [
         {
@@ -2518,10 +2517,6 @@
         }
       ],
       "threads": {
-        "2115592646643097624": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115602948231446715": {
           "alerted": [],
           "self_replies": 0
@@ -2919,6 +2914,10 @@
         "2121047373635825765": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2121069468193550347": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -2928,7 +2927,6 @@
         "2120634577588756965": false,
         "2120634740344860804": false,
         "2120640431990174168": true,
-        "2120656111418392948": true,
         "2120657183914201132": true,
         "2120657655362412563": false,
         "2120660166286921757": false,
@@ -2956,7 +2954,8 @@
         "2120950774993936569": false,
         "2120952403147255911": false,
         "2121047373635825765": false,
-        "2121049489222115442": false
+        "2121049489222115442": false,
+        "2121069468193550347": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7167,5 +7166,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T02:32:21+00:00"
+  "updated_at": "2026-11-13T02:36:22+00:00"
 }
