@@ -1022,7 +1022,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121383441577222597",
+      "last_id": "2121386666233315396",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1155,14 +1155,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-13T13:17:16.000Z",
-          "id": "2121230917968540062",
-          "images": [
-            "https://pbs.twimg.com/media/HXAgR2CWsAAjgWU.jpg"
-          ],
-          "text": "gmihao https://t.co/umweIA7Z9H"
-        },
-        {
           "created_at": "2026-11-13T13:56:56.000Z",
           "id": "2121240902756934046",
           "images": [
@@ -1277,10 +1269,15 @@
           "created_at": "2026-11-13T23:15:33.000Z",
           "id": "2121381483319640137",
           "text": "ordering some chinese food what should i get"
+        },
+        {
+          "created_at": "2026-11-13T23:36:09.000Z",
+          "id": "2121386666233315396",
+          "quoted_text": "$NVDA on @tradexyz has surpassed $1.85B in 24h trading volume. https://t.co/yfZqfuYVyT",
+          "text": "2026 was a historic year for equity perps https://t.co/PWlzNKPKIO"
         }
       ],
       "reads": {
-        "2121230917968540062": "No call",
         "2121257385394155563": "No call",
         "2121278114278039870": "No call",
         "2121281001657958823": "No call",
@@ -1297,7 +1294,8 @@
         "2121372204470534545": "No call",
         "2121376333502779778": "No call",
         "2121380787794722877": "No call",
-        "2121381483319640137": "No call"
+        "2121381483319640137": "No call",
+        "2121386666233315396": "No call"
       },
       "replies": [
         {
@@ -1395,10 +1393,6 @@
         }
       ],
       "threads": {
-        "2120323819126554705": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120324070038184064": {
           "alerted": [],
           "self_replies": 0
@@ -1807,10 +1801,13 @@
         "2121381483319640137": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121386666233315396": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121230917968540062": false,
         "2121240902756934046": false,
         "2121257385394155563": false,
         "2121258486201790652": false,
@@ -1844,7 +1841,8 @@
         "2121377036904092007": false,
         "2121380787794722877": true,
         "2121381483319640137": false,
-        "2121383441577222597": false
+        "2121383441577222597": false,
+        "2121386666233315396": true
       },
       "user_id": "973261472"
     },
@@ -7159,5 +7157,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T23:28:19+00:00"
+  "updated_at": "2026-11-13T23:38:24+00:00"
 }
