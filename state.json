@@ -1029,7 +1029,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121085015270531241",
+      "last_id": "2121088376086651273",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1162,14 +1162,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-12T13:28:00.000Z",
-          "id": "2120871231809536481",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2120710851170795520/img/wPmSy-8bz8p3izU_.jpg"
-          ],
-          "text": "keeping your crypto secure should be a priority, especially if you're holding significant amounts long term\n\ni prefer the idea of having dedicated offline devices for cold storage, separate from the wallets you use for everyday trading and onchain activity https://t.co/SFgHE3ifyM"
-        },
-        {
           "created_at": "2026-11-12T13:43:52.000Z",
           "id": "2120875227622277535",
           "images": [
@@ -1285,10 +1277,15 @@
           "id": "2121081603686351239",
           "quoted_text": "a look at Bitcoin's failed breakout, key support levels, higher-low setups, Ethereum weakness and Gold's recovery\n\n0:00 - BTC failed breakout and downside risk\n9:25 - BTC vs Gold and macro concerns\n15:25 - BTC support, higher lows and entry setups\n32:00 - Weekly bearish signals and key demand\n40:05 - ETH weakness and Gold's recovery\n\nnovember 9th, 2026",
           "text": "tick by tick https://t.co/dw06u9DUVn"
+        },
+        {
+          "created_at": "2026-11-13T03:50:51.000Z",
+          "id": "2121088376086651273",
+          "reply_to_id": "2121088272915218482",
+          "text": "@notthreadguy this is an extremely rare time period of many things happening all at once"
         }
       ],
       "reads": {
-        "2120871231809536481": "No call",
         "2120875227622277535": "No call",
         "2120875832256160012": "No call",
         "2120876101543379312": "No call",
@@ -1309,12 +1306,6 @@
         "2121081603686351239": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-13T02:41:29.000Z",
-          "id": "2121070917992186200",
-          "reply_to_id": "2121067231945908307",
-          "text": "@TheDudeofDeFi @KntOnTrenches @iLiquidatebots @the_smart_ape @Pumpfun 2nd part i agree, 1st part im not sure its that simple, current LP ratios obviously work for the people playing these games, you dont want liquidity that is too deep so the coins dont move, ppl like trading the volatility is what i have learned after looking more into it"
-        },
         {
           "created_at": "2026-11-13T02:42:48.000Z",
           "id": "2121071250915447066",
@@ -1407,6 +1398,12 @@
           "id": "2121085015270531241",
           "reply_to_id": "2121084679231242556",
           "text": "@json1444 the trenches are actually the only thing insulated from majors weakness, unironically"
+        },
+        {
+          "created_at": "2026-11-13T03:50:26.000Z",
+          "id": "2121088272915218482",
+          "reply_to_id": "2121087402340983292",
+          "text": "@notthreadguy bro no days off its time to lock in this is about to be the most volatile weeks of the year before death of volatility and boring gaming time"
         }
       ],
       "threads": {
@@ -1829,7 +1826,6 @@
         }
       },
       "trading": {
-        "2120871231809536481": true,
         "2120875227622277535": false,
         "2120875832256160012": true,
         "2120876101543379312": true,
@@ -1846,7 +1842,6 @@
         "2120967022272008380": true,
         "2120978487343558720": true,
         "2121068477566038030": false,
-        "2121070917992186200": true,
         "2121071250915447066": false,
         "2121071593719754793": true,
         "2121071975137448276": false,
@@ -1863,7 +1858,9 @@
         "2121079655025213829": false,
         "2121081136302670030": true,
         "2121081603686351239": true,
-        "2121085015270531241": true
+        "2121085015270531241": true,
+        "2121088272915218482": true,
+        "2121088376086651273": true
       },
       "user_id": "973261472"
     },
@@ -7174,5 +7171,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T03:48:21+00:00"
+  "updated_at": "2026-11-13T03:52:22+00:00"
 }
