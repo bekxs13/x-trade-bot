@@ -1029,7 +1029,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121139819287863528",
+      "last_id": "2121140489156174173",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1162,11 +1162,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-12T17:30:53.000Z",
-          "id": "2120932357796446584",
-          "text": "stockholm syndrome"
-        },
-        {
           "created_at": "2026-11-12T19:37:38.000Z",
           "id": "2120964252555198858",
           "reply_to_id": "2120964190462689686",
@@ -1287,10 +1282,14 @@
           "id": "2121114446080737288",
           "quoted_text": "ishowspeed probably the biggest worldwide phenom since michael jackson",
           "text": "incredible talent https://t.co/yjNdvf4ZNn"
+        },
+        {
+          "created_at": "2026-11-13T07:17:56.000Z",
+          "id": "2121140489156174173",
+          "text": "https://t.co/7DqlKYKy7P"
         }
       ],
       "reads": {
-        "2120932357796446584": "No call",
         "2120964381211050460": "No call",
         "2120966496440791196": "No call",
         "2120967022272008380": "TRADE LONG bonds, oil",
@@ -1307,15 +1306,10 @@
         "2121105640462422424": "No call: bearish on btc (same view as before)",
         "2121108153081462890": "No call",
         "2121111540560453811": "No call: bearish on stocks/macro (same view as before)",
-        "2121114446080737288": "No call"
+        "2121114446080737288": "No call",
+        "2121140489156174173": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-13T03:55:25.000Z",
-          "id": "2121089527393681836",
-          "reply_to_id": "2121084103948968168",
-          "text": "@PedroRo30689168 thank you"
-        },
         {
           "created_at": "2026-11-13T04:16:16.000Z",
           "id": "2121094774245716125",
@@ -1402,13 +1396,15 @@
           ],
           "reply_to_id": "2121045837778157735",
           "text": "@MissionGains https://t.co/tVKlYfDarD"
+        },
+        {
+          "created_at": "2026-11-13T07:17:40.000Z",
+          "id": "2121140421900325354",
+          "reply_to_id": "2121138362069508208",
+          "text": "@zinceth moon controls the waves man"
         }
       ],
       "threads": {
-        "2119694898006028365": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119755882548584491": {
           "alerted": [],
           "self_replies": 0
@@ -1821,10 +1817,13 @@
         "2121114446080737288": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121140489156174173": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120932357796446584": false,
         "2120964252555198858": false,
         "2120964381211050460": true,
         "2120966496440791196": false,
@@ -1837,7 +1836,6 @@
         "2121088376086651273": true,
         "2121089005114867983": true,
         "2121089318362005768": false,
-        "2121089527393681836": false,
         "2121089911814242616": false,
         "2121094774245716125": true,
         "2121098848621776974": true,
@@ -1858,7 +1856,9 @@
         "2121117947007775091": false,
         "2121118402869604531": false,
         "2121137225299812808": false,
-        "2121139819287863528": false
+        "2121139819287863528": false,
+        "2121140421900325354": false,
+        "2121140489156174173": false
       },
       "user_id": "973261472"
     },
@@ -7168,5 +7168,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T07:16:21+00:00"
+  "updated_at": "2026-11-13T07:18:27+00:00"
 }
