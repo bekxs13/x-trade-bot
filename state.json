@@ -4615,7 +4615,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2121025430325276721",
+      "last_id": "2121051930051142048",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4667,11 +4667,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T21:59:44.000Z",
-          "id": "2120637627749564856",
-          "text": "the jensen files to end a 20+ year tech supercycle in america"
-        },
         {
           "created_at": "2026-11-11T22:04:48.000Z",
           "id": "2120638901740278045",
@@ -4787,10 +4782,15 @@
           "id": "2120972973847027947",
           "reply_to_id": "2120972971703705709",
           "text": "watch on YT!\nhttps://t.co/5IfE3ekUPu"
+        },
+        {
+          "created_at": "2026-11-13T01:25:56.000Z",
+          "id": "2121051905371865414",
+          "quoted_text": "Jensen lately per Bloomberg:\n\n\u201cAccording to people who\u2019ve spoken with him in recent days,\u00a0\u00a0Huang has already taken a penitent turn,\u00a0castigating\u00a0himself as a \u201cpiece of sh--.\u201d\u00a0He claims not to care\u00a0what happens to himself at this point. His main concern, he says,\u00a0is\u00a0his wife, and not \u201cruining the lives\u201d\u00a0of the multiple women\u00a0now\u00a0romantically linked to him in the public imagination.\u201d",
+          "text": "nah no way my goat going out sad bro what the hell https://t.co/fzdn6A1epX"
         }
       ],
       "reads": {
-        "2120637627749564856": "No call: bearish on stocks/macro (55%, too unsure)",
         "2120638901740278045": "No call",
         "2120640023234003182": "No call",
         "2120645115320655949": "No call",
@@ -4809,15 +4809,10 @@
         "2120961879639994777": "No call",
         "2120964745532764218": "No call",
         "2120972971703705709": "TRADE SHORT NVDA",
-        "2120972973847027947": "Read together with the post it replies to"
+        "2120972973847027947": "Read together with the post it replies to",
+        "2121051905371865414": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-12T02:52:04.000Z",
-          "id": "2120711195628052788",
-          "reply_to_id": "2120586546646753377",
-          "text": "@OinkersRUs @swansonbenson0 \ud83e\udd76"
-        },
         {
           "created_at": "2026-11-12T03:39:47.000Z",
           "id": "2120723201525461121",
@@ -4901,13 +4896,15 @@
           "id": "2121025430325276721",
           "reply_to_id": "2121015030049386911",
           "text": "@villagebythexyz wow let\u2019s go"
+        },
+        {
+          "created_at": "2026-11-13T01:26:02.000Z",
+          "id": "2121051930051142048",
+          "reply_to_id": "2121051746541748676",
+          "text": "@negligible_cap dude WHAT"
         }
       ],
       "threads": {
-        "2115898434838200462": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115904438955135095": {
           "alerted": [],
           "self_replies": 0
@@ -5305,10 +5302,13 @@
             "trade:NVDA:short"
           ],
           "self_replies": 1
+        },
+        "2121051905371865414": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120637627749564856": true,
         "2120638901740278045": true,
         "2120640023234003182": true,
         "2120645115320655949": false,
@@ -5318,7 +5318,6 @@
         "2120670823660876273": false,
         "2120693178148000220": false,
         "2120710632731292056": false,
-        "2120711195628052788": false,
         "2120723201525461121": false,
         "2120854234367393946": false,
         "2120860728974610819": true,
@@ -5342,7 +5341,9 @@
         "2120989408748789762": false,
         "2120990196678201432": false,
         "2121003041700671512": false,
-        "2121025430325276721": false
+        "2121025430325276721": false,
+        "2121051905371865414": false,
+        "2121051930051142048": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7167,5 +7168,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-12",
-  "updated_at": "2026-11-13T01:18:21+00:00"
+  "updated_at": "2026-11-13T01:26:23+00:00"
 }
