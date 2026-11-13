@@ -1022,7 +1022,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121365466769707367",
+      "last_id": "2121366000436154784",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1154,11 +1154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T04:59:27.000Z",
-          "id": "2121105640462422424",
-          "text": "not to scare anyone but im pretty sure there's only been one time bitcoin has printed 6 red weeklies like this into accelerated selling at the end, and it was april-may 2022"
-        },
         {
           "created_at": "2026-11-13T05:09:26.000Z",
           "id": "2121108153081462890",
@@ -1292,10 +1287,14 @@
           ],
           "quoted_text": "i am bearish btc/eth & large cap stocks believe btc & eth have broken mid timeframe trend and will continue to accelerate to downside under 82k/2400\n\ndont think the average retail speculator is going to slow down tho, Q4 is going to have a lot of volatility for traders in both directions & believe pockets of onchain will do well\n\nheadline risk is also very real and continues to impact markets, this week specifically we have fomc + lot of important earnings releases\n\ntechnicals am bearish bc ai m",
           "text": "last drive down soon\n\nbelieve next couple weeks will be important, want to see current range lows hold https://t.co/iNDJWwzNVx https://t.co/V0viv7tU67"
+        },
+        {
+          "created_at": "2026-11-13T22:14:02.000Z",
+          "id": "2121366000436154784",
+          "text": "how are we feeling"
         }
       ],
       "reads": {
-        "2121105640462422424": "No call: bearish on btc (same view as before)",
         "2121108153081462890": "No call",
         "2121111540560453811": "No call: bearish on stocks/macro (same view as before)",
         "2121114446080737288": "No call",
@@ -1311,7 +1310,8 @@
         "2121332435266769103": "No call",
         "2121354029909299475": "No call",
         "2121356977364418744": "No call",
-        "2121362703713288583": "No call: bearish on btc (same view as before)"
+        "2121362703713288583": "No call: bearish on btc (same view as before)",
+        "2121366000436154784": "No call"
       },
       "replies": [
         {
@@ -1406,10 +1406,6 @@
         }
       ],
       "threads": {
-        "2120299495732768824": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120302231065157805": {
           "alerted": [],
           "self_replies": 0
@@ -1818,10 +1814,13 @@
         "2121362703713288583": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121366000436154784": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121105640462422424": true,
         "2121108153081462890": true,
         "2121111540560453811": true,
         "2121114446080737288": false,
@@ -1855,7 +1854,8 @@
         "2121359811983897083": false,
         "2121362703713288583": true,
         "2121362969917567274": false,
-        "2121365466769707367": false
+        "2121365466769707367": false,
+        "2121366000436154784": false
       },
       "user_id": "973261472"
     },
@@ -7167,5 +7167,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-13T22:12:23+00:00"
+  "updated_at": "2026-11-13T22:14:31+00:00"
 }
