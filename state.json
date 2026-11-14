@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2121404053372764582",
+      "last_id": "2121416658376089722",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,14 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T04:35:54.000Z",
-          "id": "2120737326645338509",
-          "images": [
-            "https://pbs.twimg.com/media/HW5fVrea0AA-nmr.jpg"
-          ],
-          "text": "MLM https://t.co/GgGh4rY0df"
-        },
         {
           "created_at": "2026-11-12T05:39:31.000Z",
           "id": "2120753335871660350",
@@ -272,10 +264,17 @@
           "created_at": "2026-11-14T00:45:14.000Z",
           "id": "2121404053372764582",
           "text": "France announces preemptive surrender"
+        },
+        {
+          "created_at": "2026-11-14T01:35:20.000Z",
+          "id": "2121416658376089722",
+          "images": [
+            "https://pbs.twimg.com/media/HXDJNJubwAAgwb-.png"
+          ],
+          "text": "How's the AI trade going? https://t.co/TgrnByCMnH"
         }
       ],
       "reads": {
-        "2120737326645338509": "No call",
         "2120753335871660350": "No call",
         "2120952028822376540": "No call",
         "2121089865026884078": "No call: bearish on crypto market (55%, too unsure)",
@@ -293,7 +292,8 @@
         "2121393490244551021": "No call",
         "2121393930868863125": "No call",
         "2121399584727675247": "No call",
-        "2121404053372764582": "No call"
+        "2121404053372764582": "No call",
+        "2121416658376089722": "No call: bearish on semis/ai stocks (65%, too unsure)"
       },
       "replies": [
         {
@@ -388,10 +388,6 @@
         }
       ],
       "threads": {
-        "2115531471092154614": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115670337992155179": {
           "alerted": [],
           "self_replies": 0
@@ -790,10 +786,13 @@
         "2121404053372764582": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121416658376089722": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120737326645338509": false,
         "2120753335871660350": false,
         "2120952028822376540": false,
         "2121089865026884078": true,
@@ -827,7 +826,8 @@
         "2121393490244551021": false,
         "2121393930868863125": true,
         "2121399584727675247": false,
-        "2121404053372764582": false
+        "2121404053372764582": false,
+        "2121416658376089722": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7154,5 +7154,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-14T01:02:21+00:00"
+  "updated_at": "2026-11-14T01:36:03+00:00"
 }
