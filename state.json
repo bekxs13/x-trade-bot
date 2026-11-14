@@ -6386,7 +6386,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121623558606725513",
+      "last_id": "2121626092020883488",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6438,11 +6438,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T15:41:54.000Z",
-          "id": "2121267317493408147",
-          "text": "You should have minimum three portfolios. \n\nPortfolio 1: One that sits mostly cash and is your break glass in case of emergency war chest. This is where you take profit to for tax and special situations Crypto wipeouts.\n\nPortfolio 2: Active trading, mix of spot you like, cash and where you do your derivative trading. Don't keep your entire balance on one exchange, ideally have minimum of 2.\n\nPortfolio 3 (optional): COLD STORAGE BITCOIN. This is where you bank the hardest capital on earth, and where you send funds that will never be touched. This is the only realized profit and your emergency fund if you ever need to move fast."
-        },
         {
           "created_at": "2026-11-13T16:06:24.000Z",
           "id": "2121273483305042028",
@@ -6550,10 +6545,14 @@
             "https://pbs.twimg.com/media/HXGFWdvW0AAxLDa.jpg"
           ],
           "text": "Don't see why bidding 50s on HYPE isn't reasonable https://t.co/CvKmy73duX"
+        },
+        {
+          "created_at": "2026-11-14T15:27:32.000Z",
+          "id": "2121626092020883488",
+          "text": "Important to remind people to tax loss harvest into end of year."
         }
       ],
       "reads": {
-        "2121267317493408147": "No call",
         "2121273483305042028": "No call",
         "2121328035546939453": "No call",
         "2121340793646686278": "No call",
@@ -6572,7 +6571,8 @@
         "2121618231362486325": "No call",
         "2121620960961044497": "No call: bullish on crypto market (65%, too unsure)",
         "2121621495793483861": "No call",
-        "2121623558606725513": "No call: maybe long HYPE (60%, too unsure)"
+        "2121623558606725513": "No call: maybe long HYPE (60%, too unsure)",
+        "2121626092020883488": "No call"
       },
       "replies": [
         {
@@ -6670,10 +6670,6 @@
         }
       ],
       "threads": {
-        "2118006107863998667": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118007664185835677": {
           "alerted": [
             "trade:EQUITY SHORTS:exit",
@@ -7083,6 +7079,10 @@
         "2121623558606725513": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121626092020883488": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7096,7 +7096,6 @@
         "2120937737994088669": false,
         "2120942476978483206": false,
         "2120969204128235808": true,
-        "2121267317493408147": true,
         "2121273483305042028": true,
         "2121328035546939453": true,
         "2121340793646686278": false,
@@ -7120,7 +7119,8 @@
         "2121620960961044497": true,
         "2121621078405783948": true,
         "2121621495793483861": true,
-        "2121623558606725513": true
+        "2121623558606725513": true,
+        "2121626092020883488": true
       },
       "user_id": "809191427645181952"
     }
@@ -7143,5 +7143,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T15:22:20+00:00"
+  "updated_at": "2026-11-14T15:28:19+00:00"
 }
