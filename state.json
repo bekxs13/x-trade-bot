@@ -1025,7 +1025,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121441068730187785",
+      "last_id": "2121450792087404775",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1158,11 +1158,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-13T21:26:28.000Z",
-          "id": "2121354029909299475",
-          "text": "what do you call a cyber world war"
-        },
-        {
           "created_at": "2026-11-13T21:38:10.000Z",
           "id": "2121356977364418744",
           "quoted_text": "holy shit\n\nall flights grounded in the US because of a cybersecurity incident\n\nbetween this and microsoft being down for 18h+ yesterday, this is all feeling like a black mirror episode\n\ndef some rogue AI agent gone wild right?? https://t.co/AFxcwN2GAV",
@@ -1271,10 +1266,14 @@
             "https://pbs.twimg.com/media/HXDXnoMXIAArIz6.jpg"
           ],
           "text": "gnihao https://t.co/nlPz5X6sZS"
+        },
+        {
+          "created_at": "2026-11-14T03:50:58.000Z",
+          "id": "2121450792087404775",
+          "text": "https://t.co/TV4pe987Us"
         }
       ],
       "reads": {
-        "2121354029909299475": "No call",
         "2121356977364418744": "No call",
         "2121362703713288583": "No call: bearish on btc (same view as before)",
         "2121366000436154784": "No call",
@@ -1293,7 +1292,8 @@
         "2121429990730326484": "No call",
         "2121430169982226821": "No call",
         "2121431092829868290": "No call",
-        "2121432509636637028": "No call"
+        "2121432509636637028": "No call",
+        "2121450792087404775": "No call"
       },
       "replies": [
         {
@@ -1388,13 +1388,6 @@
         }
       ],
       "threads": {
-        "2120384030436708849": {
-          "alerted": [
-            "trade:BTC, ETH, SOL SHORTS:trim",
-            "bias:crypto market:neutral"
-          ],
-          "self_replies": 0
-        },
         "2120384900800884854": {
           "alerted": [],
           "self_replies": 0
@@ -1800,10 +1793,13 @@
         "2121432509636637028": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121450792087404775": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121354029909299475": false,
         "2121356977364418744": false,
         "2121362703713288583": true,
         "2121366000436154784": false,
@@ -1837,7 +1833,8 @@
         "2121435327474888941": false,
         "2121435706161520862": false,
         "2121439124951359769": false,
-        "2121441068730187785": false
+        "2121441068730187785": false,
+        "2121450792087404775": false
       },
       "user_id": "973261472"
     },
@@ -7154,5 +7151,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-14T03:48:21+00:00"
+  "updated_at": "2026-11-14T03:52:34+00:00"
 }
