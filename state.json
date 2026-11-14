@@ -1021,7 +1021,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121429712480157924",
+      "last_id": "2121430169982226821",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1154,22 +1154,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-13T17:01:44.000Z",
-          "id": "2121287410516377909",
-          "images": [
-            "https://pbs.twimg.com/media/HXBTqHlX0AArxcs.jpg"
-          ],
-          "text": "just checked the charts https://t.co/WgwaII1bAM"
-        },
-        {
-          "created_at": "2026-11-13T18:16:38.000Z",
-          "id": "2121306256556409097",
-          "images": [
-            "https://pbs.twimg.com/media/HXBkxRdW4AAYpQd.jpg"
-          ],
-          "text": "solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump mafia check in https://t.co/43GNu3T0EW"
-        },
-        {
           "created_at": "2026-11-13T19:01:47.000Z",
           "id": "2121317620943364411",
           "images": [
@@ -1274,11 +1258,19 @@
           "created_at": "2026-11-14T02:27:12.000Z",
           "id": "2121429712480157924",
           "text": "kinda in disbelief at the lack of no bounce ngl"
+        },
+        {
+          "created_at": "2026-11-14T02:28:18.000Z",
+          "id": "2121429990730326484",
+          "text": "they really gave us wow forever and gta6 and said yea just log off fr"
+        },
+        {
+          "created_at": "2026-11-14T02:29:01.000Z",
+          "id": "2121430169982226821",
+          "text": "kinda in disbelief at just no bounce ngl"
         }
       ],
       "reads": {
-        "2121287410516377909": "No call",
-        "2121306256556409097": "No call",
         "2121317620943364411": "No call",
         "2121332435266769103": "No call",
         "2121354029909299475": "No call",
@@ -1296,7 +1288,9 @@
         "2121406244917584250": "No call",
         "2121419960845213981": "No call",
         "2121429596503527480": "No call",
-        "2121429712480157924": "No call"
+        "2121429712480157924": "No call",
+        "2121429990730326484": "No call",
+        "2121430169982226821": "No call"
       },
       "replies": [
         {
@@ -1394,14 +1388,6 @@
         }
       ],
       "threads": {
-        "2120341388768207129": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2120346125563789534": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120363216043704466": {
           "alerted": [],
           "self_replies": 0
@@ -1806,11 +1792,17 @@
         "2121429712480157924": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121429990730326484": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2121430169982226821": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121287410516377909": true,
-        "2121306256556409097": true,
         "2121317620943364411": true,
         "2121332435266769103": false,
         "2121354029909299475": false,
@@ -1843,7 +1835,9 @@
         "2121408150410555473": false,
         "2121419960845213981": true,
         "2121429596503527480": false,
-        "2121429712480157924": true
+        "2121429712480157924": true,
+        "2121429990730326484": false,
+        "2121430169982226821": true
       },
       "user_id": "973261472"
     },
@@ -7158,5 +7152,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-14T02:28:28+00:00"
+  "updated_at": "2026-11-14T02:30:27+00:00"
 }
