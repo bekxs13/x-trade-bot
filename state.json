@@ -1025,7 +1025,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121439124951359769",
+      "last_id": "2121441068730187785",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1297,12 +1297,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T22:40:02.000Z",
-          "id": "2121372543483252837",
-          "reply_to_id": "2121372483030790289",
-          "text": "@fulldividends riddim?"
-        },
-        {
           "created_at": "2026-11-13T22:40:13.000Z",
           "id": "2121372588878475611",
           "reply_to_id": "2121372259013279748",
@@ -1385,6 +1379,12 @@
           "id": "2121439124951359769",
           "reply_to_id": "2121438998140764370",
           "text": "@milady3224 ya momma!"
+        },
+        {
+          "created_at": "2026-11-14T03:12:19.000Z",
+          "id": "2121441068730187785",
+          "reply_to_id": "2121440151457202452",
+          "text": "@AgentChud yea i can actually"
         }
       ],
       "threads": {
@@ -1810,7 +1810,6 @@
         "2121369933418483856": false,
         "2121371299671138669": false,
         "2121372204470534545": true,
-        "2121372543483252837": false,
         "2121372588878475611": false,
         "2121374341023834612": false,
         "2121374509290725747": false,
@@ -1837,7 +1836,8 @@
         "2121432509636637028": false,
         "2121435327474888941": false,
         "2121435706161520862": false,
-        "2121439124951359769": false
+        "2121439124951359769": false,
+        "2121441068730187785": false
       },
       "user_id": "973261472"
     },
@@ -2243,7 +2243,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2121435853113430113",
+      "last_id": "2121441396607345065",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2263,11 +2263,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T00:03:24.000Z",
-          "id": "2120668750563389555",
-          "text": "he was the one billionaire who supported paying his fair share of taxes so They burned him\n\nit's that simple"
-        },
         {
           "created_at": "2026-11-12T00:57:45.000Z",
           "id": "2120682425990939044",
@@ -2385,10 +2380,15 @@
           "id": "2121435853113430113",
           "quoted_text": "How's the AI trade going? https://t.co/TgrnByCMnH",
           "text": "checked overnight crypto moves makes sense https://t.co/M0dOY7MdIn"
+        },
+        {
+          "created_at": "2026-11-14T03:13:38.000Z",
+          "id": "2121441396607345065",
+          "quoted_text": "this is easily the best model in the world https://t.co/p4Y3XaWd2z",
+          "text": "anyone else have thoughts? what is gemini carbon better than opus at? what is it worse at? https://t.co/nPdcDRccLs"
         }
       ],
       "reads": {
-        "2120668750563389555": "No call",
         "2120682425990939044": "No call",
         "2120687820440490026": "No call",
         "2120690332740293049": "No call",
@@ -2406,7 +2406,8 @@
         "2121093324962504716": "No call",
         "2121304502498128351": "No call",
         "2121354566281171436": "No call",
-        "2121435853113430113": "No call"
+        "2121435853113430113": "No call",
+        "2121441396607345065": "No call"
       },
       "replies": [
         {
@@ -2501,10 +2502,6 @@
         }
       ],
       "threads": {
-        "2115901361728479470": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115903745007747572": {
           "alerted": [],
           "self_replies": 0
@@ -2902,6 +2899,10 @@
         "2121435853113430113": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121441396607345065": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -2909,7 +2910,6 @@
         "2120634740344860804": false,
         "2120640431990174168": true,
         "2120664838699638848": false,
-        "2120668750563389555": false,
         "2120679405710102824": false,
         "2120679530855854372": false,
         "2120682425990939044": true,
@@ -2939,7 +2939,8 @@
         "2121408234452042065": false,
         "2121408277963841804": false,
         "2121435631981297676": false,
-        "2121435853113430113": true
+        "2121435853113430113": true,
+        "2121441396607345065": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7150,5 +7151,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-14T03:06:19+00:00"
+  "updated_at": "2026-11-14T03:14:26+00:00"
 }
