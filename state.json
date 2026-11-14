@@ -1021,7 +1021,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121408150410555473",
+      "last_id": "2121419960845213981",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1154,12 +1154,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-13T15:06:48.000Z",
-          "id": "2121258486201790652",
-          "reply_to_id": "2121258052426834067",
-          "text": "ive been doing this on X for years for free, it is the only reason i have followers on this app, i just post trades and my ideas and that resulted in me getting followers on here\n\nnow there are apps with billions of dollars willing to pay traders to do the exact same thing they were doing on X on their apps, this is a good thing"
-        },
-        {
           "created_at": "2026-11-13T16:24:48.000Z",
           "id": "2121278114278039870",
           "text": "https://t.co/7d3oY6GOBK"
@@ -1271,6 +1265,12 @@
           "created_at": "2026-11-14T00:53:57.000Z",
           "id": "2121406244917584250",
           "text": "how do we feel about pearl bros"
+        },
+        {
+          "created_at": "2026-11-14T01:48:27.000Z",
+          "id": "2121419960845213981",
+          "quoted_text": "*NEW META PREDICTION-MARKET APP LETS USERS WAGER 'CRED,' NOT MONEY: WSJ\n\n*META PREDICTION-MARKET APP IS INTERNALLY CALLED 'TAKES,' SOURCES SAY: WSJ\n\n$META",
+          "text": "feels like every social app is enabling trading and or prediction markets in-app https://t.co/TnapNH4T66"
         }
       ],
       "reads": {
@@ -1292,7 +1292,8 @@
         "2121381483319640137": "No call",
         "2121386666233315396": "No call",
         "2121401576497836279": "No call",
-        "2121406244917584250": "No call"
+        "2121406244917584250": "No call",
+        "2121419960845213981": "No call"
       },
       "replies": [
         {
@@ -1390,10 +1391,6 @@
         }
       ],
       "threads": {
-        "2120331477124882934": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120340685190496413": {
           "alerted": [],
           "self_replies": 0
@@ -1802,10 +1799,13 @@
         "2121406244917584250": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121419960845213981": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121258486201790652": false,
         "2121278114278039870": false,
         "2121281001657958823": false,
         "2121287410516377909": true,
@@ -1839,7 +1839,8 @@
         "2121405677738607044": false,
         "2121406244917584250": true,
         "2121406350135841138": false,
-        "2121408150410555473": false
+        "2121408150410555473": false,
+        "2121419960845213981": true
       },
       "user_id": "973261472"
     },
@@ -7154,5 +7155,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-14T01:40:16+00:00"
+  "updated_at": "2026-11-14T01:50:21+00:00"
 }
