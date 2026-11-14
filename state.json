@@ -6389,7 +6389,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121631560336294142",
+      "last_id": "2121653483099377741",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6441,11 +6441,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T21:18:33.000Z",
-          "id": "2121352038999003623",
-          "text": "Why haven't the EAs recommended nuking North Korea?"
-        },
         {
           "created_at": "2026-11-13T21:51:02.000Z",
           "id": "2121360211894255959",
@@ -6557,10 +6552,14 @@
           "created_at": "2026-11-14T15:49:16.000Z",
           "id": "2121631560336294142",
           "text": "Time to start blogging again"
+        },
+        {
+          "created_at": "2026-11-14T17:16:23.000Z",
+          "id": "2121653483099377741",
+          "text": "Sellers are not being very nice"
         }
       ],
       "reads": {
-        "2121352038999003623": "No call",
         "2121360211894255959": "No call",
         "2121367916608364803": "No call: bearish on eth (same view as before)",
         "2121369985150832923": "No call: bearish on eth (same view as before)",
@@ -6578,7 +6577,8 @@
         "2121623558606725513": "No call: maybe long HYPE (60%, too unsure)",
         "2121626092020883488": "No call",
         "2121627603060556243": "No call: bearish on crypto market (same view as before)",
-        "2121631560336294142": "No call"
+        "2121631560336294142": "No call",
+        "2121653483099377741": "No call"
       },
       "replies": [
         {
@@ -6676,10 +6676,6 @@
         }
       ],
       "threads": {
-        "2118013350693216630": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118067221691797702": {
           "alerted": [],
           "self_replies": 0
@@ -7086,6 +7082,10 @@
         "2121631560336294142": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121653483099377741": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7099,7 +7099,6 @@
         "2120937737994088669": false,
         "2120942476978483206": false,
         "2120969204128235808": true,
-        "2121352038999003623": false,
         "2121360211894255959": true,
         "2121367916608364803": true,
         "2121368520252334151": true,
@@ -7123,7 +7122,8 @@
         "2121626092020883488": true,
         "2121627603060556243": true,
         "2121628282638782958": true,
-        "2121631560336294142": false
+        "2121631560336294142": false,
+        "2121653483099377741": true
       },
       "user_id": "809191427645181952"
     }
@@ -7146,5 +7146,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T17:12:18+00:00"
+  "updated_at": "2026-11-14T17:18:20+00:00"
 }
