@@ -1025,7 +1025,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121632204833063332",
+      "last_id": "2121634733880971625",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1297,18 +1297,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-14T14:14:26.000Z",
-          "id": "2121607693903204673",
-          "reply_to_id": "2121607238318260517",
-          "text": "@rebelwithsnacks @TitanicXBT https://t.co/ZxgXgr9we2"
-        },
-        {
-          "created_at": "2026-11-14T14:15:49.000Z",
-          "id": "2121608042999361813",
-          "reply_to_id": "2121604849913487764",
-          "text": "@jimmyboz5 @degenpajeet https://t.co/kK3X9u6EkW"
-        },
-        {
           "created_at": "2026-11-14T14:17:41.000Z",
           "id": "2121608513554166021",
           "reply_to_id": "2121607540228100497",
@@ -1385,6 +1373,18 @@
           "id": "2121632204833063332",
           "reply_to_id": "2121630806926041182",
           "text": "@notwashed i struggle with this a lot but i also think its just timing\n\nppl got radicalized on btc for similar reasons in 09/2010 when it was &lt; $1\n\nthe thesis hasnt changed the price has just gone up a lot\n\nagree that saylor (&amp; trump) association is net negative"
+        },
+        {
+          "created_at": "2026-11-14T16:00:43.000Z",
+          "id": "2121634441340621106",
+          "reply_to_id": "2121633877210890419",
+          "text": "@robustus @tulipking @torvaman_ terrible incentives in what way"
+        },
+        {
+          "created_at": "2026-11-14T16:01:53.000Z",
+          "id": "2121634733880971625",
+          "reply_to_id": "2121632924680274330",
+          "text": "@tulipking @torvaman_ that sounds generally correct to me"
         }
       ],
       "threads": {
@@ -1819,8 +1819,6 @@
         "2121592402234548448": true,
         "2121601329970000062": false,
         "2121606753729364443": true,
-        "2121607693903204673": false,
-        "2121608042999361813": false,
         "2121608513554166021": true,
         "2121608598489026566": false,
         "2121608623382315314": false,
@@ -1834,7 +1832,9 @@
         "2121628437396005330": true,
         "2121630416486711391": false,
         "2121631598760387042": true,
-        "2121632204833063332": true
+        "2121632204833063332": true,
+        "2121634441340621106": false,
+        "2121634733880971625": false
       },
       "user_id": "973261472"
     },
@@ -7143,5 +7143,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T15:52:16+00:00"
+  "updated_at": "2026-11-14T16:02:18+00:00"
 }
