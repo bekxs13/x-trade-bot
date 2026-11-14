@@ -6386,7 +6386,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121618231362486325",
+      "last_id": "2121621078405783948",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6438,15 +6438,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T03:07:45.000Z",
-          "id": "2121077529541013955",
-          "images": [
-            "https://pbs.twimg.com/media/HW-UxMQWsAAapMr.jpg"
-          ],
-          "reply_to_id": "2120308472390541751",
-          "text": "Update? https://t.co/nn3eXhtKv1"
-        },
         {
           "created_at": "2026-11-13T04:35:09.000Z",
           "id": "2121099526400508073",
@@ -6551,10 +6542,14 @@
           "created_at": "2026-11-14T14:56:18.000Z",
           "id": "2121618231362486325",
           "text": "Good morning"
+        },
+        {
+          "created_at": "2026-11-14T15:07:09.000Z",
+          "id": "2121620960961044497",
+          "text": "Tops are almost always marked by complacency and bottoms are marked by terrified, fearful over analysis.\n\nNot quite at bottom yet, but when you see Crypto twitter tweeting about bond yields good idea to cover your shorts."
         }
       ],
       "reads": {
-        "2121077529541013955": "No call",
         "2121099526400508073": "No call: bearish on crypto market (60%, too unsure)",
         "2121265838338548157": "No call",
         "2121267317493408147": "No call",
@@ -6573,15 +6568,10 @@
         "2121468277599936750": "No call",
         "2121473261041045930": "No call",
         "2121486359491719366": "No call",
-        "2121618231362486325": "No call"
+        "2121618231362486325": "No call",
+        "2121620960961044497": "No call: bullish on crypto market (65%, too unsure)"
       },
       "replies": [
-        {
-          "created_at": "2026-11-04T15:56:35.000Z",
-          "id": "2118009522807505340",
-          "reply_to_id": "2118009125653393877",
-          "text": "@0xRiver8 Good thing a portion of our trades are public on Hyperliquid https://t.co/7ieYqtiXDj"
-        },
         {
           "created_at": "2026-11-04T20:06:08.000Z",
           "id": "2118072324658192831",
@@ -6668,13 +6658,15 @@
           "id": "2121483826731885024",
           "reply_to_id": "2118285805206540690",
           "text": "@TorchTheEarth__ \u201c\u2026at night at my desk\u2026 just me and the tape\u2026 always clicking\u2026\u201d"
+        },
+        {
+          "created_at": "2026-11-14T15:07:37.000Z",
+          "id": "2121621078405783948",
+          "reply_to_id": "2121617783171543396",
+          "text": "@paoloardoino Don't save it yet Paolo you'll probably get mid/low 50ks"
         }
       ],
       "threads": {
-        "2112544605304672382": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2112613021264773136": {
           "alerted": [],
           "self_replies": 0
@@ -7084,10 +7076,13 @@
         "2121618231362486325": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121620960961044497": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
         "2120922255936929882": false,
@@ -7098,7 +7093,6 @@
         "2120937737994088669": false,
         "2120942476978483206": false,
         "2120969204128235808": true,
-        "2121077529541013955": false,
         "2121099526400508073": true,
         "2121265838338548157": true,
         "2121267317493408147": true,
@@ -7121,7 +7115,9 @@
         "2121473261041045930": false,
         "2121483826731885024": false,
         "2121486359491719366": true,
-        "2121618231362486325": false
+        "2121618231362486325": false,
+        "2121620960961044497": true,
+        "2121621078405783948": true
       },
       "user_id": "809191427645181952"
     }
@@ -7144,5 +7140,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T14:58:23+00:00"
+  "updated_at": "2026-11-14T15:08:24+00:00"
 }
