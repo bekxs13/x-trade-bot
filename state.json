@@ -1027,7 +1027,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121734010774732976",
+      "last_id": "2121738294434177439",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1299,12 +1299,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-14T16:00:43.000Z",
-          "id": "2121634441340621106",
-          "reply_to_id": "2121633877210890419",
-          "text": "@robustus @tulipking @torvaman_ terrible incentives in what way"
-        },
-        {
           "created_at": "2026-11-14T16:01:53.000Z",
           "id": "2121634733880971625",
           "reply_to_id": "2121632924680274330",
@@ -1387,6 +1381,12 @@
           "id": "2121722095516443108",
           "reply_to_id": "2121720338757357625",
           "text": "@faceofsol @MINHxDYNASTY solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump bros need some help"
+        },
+        {
+          "created_at": "2026-11-14T22:53:24.000Z",
+          "id": "2121738294434177439",
+          "reply_to_id": "2121674794303189205",
+          "text": "@ercwl see yall in the order books https://t.co/Mz8uogJNFY"
         }
       ],
       "threads": {
@@ -1812,7 +1812,6 @@
         "2121601329970000062": false,
         "2121606753729364443": true,
         "2121612770835628044": true,
-        "2121634441340621106": false,
         "2121634733880971625": false,
         "2121641290479579320": true,
         "2121641494545412140": false,
@@ -1836,7 +1835,8 @@
         "2121719173319659586": true,
         "2121721569257095633": false,
         "2121722095516443108": true,
-        "2121734010774732976": false
+        "2121734010774732976": false,
+        "2121738294434177439": true
       },
       "user_id": "973261472"
     },
@@ -7162,5 +7162,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T22:38:21+00:00"
+  "updated_at": "2026-11-14T22:54:15+00:00"
 }
