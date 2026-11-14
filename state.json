@@ -6391,7 +6391,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121746316707656089",
+      "last_id": "2121747269359985146",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6592,12 +6592,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-04T20:06:08.000Z",
-          "id": "2118072324658192831",
-          "reply_to_id": "2118071854061765037",
-          "text": "@chillyhouse101 Will still do sunday spaces but we may be upping production..."
-        },
-        {
           "created_at": "2026-11-11T15:56:54.000Z",
           "id": "2120546317898227979",
           "reply_to_id": "2120545769921135015",
@@ -6683,6 +6677,12 @@
           "id": "2121621078405783948",
           "reply_to_id": "2121617783171543396",
           "text": "@paoloardoino Don't save it yet Paolo you'll probably get mid/low 50ks"
+        },
+        {
+          "created_at": "2026-11-14T23:29:03.000Z",
+          "id": "2121747269359985146",
+          "reply_to_id": "2121746912466628870",
+          "text": "@MaushishYadav That was the old me"
         }
       ],
       "threads": {
@@ -7096,7 +7096,6 @@
         }
       },
       "trading": {
-        "2118072324658192831": false,
         "2120546317898227979": true,
         "2120922255936929882": false,
         "2120930300046049477": true,
@@ -7130,7 +7129,8 @@
         "2121742692124434799": false,
         "2121744155307016192": false,
         "2121745920358334881": true,
-        "2121746316707656089": false
+        "2121746316707656089": false,
+        "2121747269359985146": false
       },
       "user_id": "809191427645181952"
     }
@@ -7153,5 +7153,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T23:26:21+00:00"
+  "updated_at": "2026-11-14T23:30:23+00:00"
 }
