@@ -6389,7 +6389,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121724698899665065",
+      "last_id": "2121731261480026203",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6441,11 +6441,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T15:27:32.000Z",
-          "id": "2121626092020883488",
-          "text": "Important to remind people to tax loss harvest into end of year."
-        },
         {
           "created_at": "2026-11-14T15:33:33.000Z",
           "id": "2121627603060556243",
@@ -6568,10 +6563,17 @@
             "https://pbs.twimg.com/media/HXHhTMFWcAAc7zc.png"
           ],
           "text": "https://t.co/9h2wxJnM6B https://t.co/M7wBd2OmIJ"
+        },
+        {
+          "created_at": "2026-11-14T22:25:27.000Z",
+          "id": "2121731261480026203",
+          "images": [
+            "https://pbs.twimg.com/media/HXHnVNkXAAE_DAG.jpg"
+          ],
+          "text": "https://t.co/ACqgARxHuY"
         }
       ],
       "reads": {
-        "2121626092020883488": "No call",
         "2121627603060556243": "No call: bearish on crypto market (same view as before)",
         "2121631560336294142": "No call",
         "2121653483099377741": "No call",
@@ -6589,7 +6591,8 @@
         "2121714139894526394": "No call",
         "2121714839186010514": "No call: maybe long  (50%, too unsure)",
         "2121719931095974394": "No call",
-        "2121724698899665065": "No call"
+        "2121724698899665065": "No call",
+        "2121731261480026203": "No call"
       },
       "replies": [
         {
@@ -6687,10 +6690,6 @@
         }
       ],
       "threads": {
-        "2118421335332499526": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118428712685211862": {
           "alerted": [
             "trade:SOXL:long",
@@ -7097,6 +7096,10 @@
         "2121724698899665065": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121731261480026203": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7115,7 +7118,6 @@
         "2121384370540102139": false,
         "2121483826731885024": false,
         "2121621078405783948": true,
-        "2121626092020883488": true,
         "2121627603060556243": true,
         "2121628282638782958": true,
         "2121631560336294142": false,
@@ -7134,7 +7136,8 @@
         "2121714139894526394": true,
         "2121714839186010514": true,
         "2121719931095974394": false,
-        "2121724698899665065": false
+        "2121724698899665065": false,
+        "2121731261480026203": false
       },
       "user_id": "809191427645181952"
     }
@@ -7157,5 +7160,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T22:00:33+00:00"
+  "updated_at": "2026-11-14T22:26:23+00:00"
 }
