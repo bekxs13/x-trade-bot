@@ -1021,7 +1021,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121406350135841138",
+      "last_id": "2121408150410555473",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1296,12 +1296,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T22:24:03.000Z",
-          "id": "2121368523444220235",
-          "reply_to_id": "2121366521197048088",
-          "text": "@RAP3MEFR yea i saw"
-        },
-        {
           "created_at": "2026-11-13T22:31:57.000Z",
           "id": "2121370509468213545",
           "images": [
@@ -1387,6 +1381,12 @@
           "id": "2121406350135841138",
           "reply_to_id": "2121402618236833909",
           "text": "@RAP3MEFR @mihaopfps"
+        },
+        {
+          "created_at": "2026-11-14T01:01:31.000Z",
+          "id": "2121408150410555473",
+          "reply_to_id": "2121407107140292765",
+          "text": "@heat my fault og"
         }
       ],
       "threads": {
@@ -1816,7 +1816,6 @@
         "2121356977364418744": false,
         "2121362703713288583": true,
         "2121366000436154784": false,
-        "2121368523444220235": false,
         "2121369933418483856": false,
         "2121370509468213545": false,
         "2121370779023802599": true,
@@ -1839,7 +1838,8 @@
         "2121401576497836279": true,
         "2121405677738607044": false,
         "2121406244917584250": true,
-        "2121406350135841138": false
+        "2121406350135841138": false,
+        "2121408150410555473": false
       },
       "user_id": "973261472"
     },
@@ -2245,7 +2245,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2121354566281171436",
+      "last_id": "2121408277963841804",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2265,11 +2265,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-11T23:41:22.000Z",
-          "id": "2120663202036076891",
-          "text": "what's the best jfk lounge out of the sapphire lounge, the centurion lounge, and delta sky club"
-        },
         {
           "created_at": "2026-11-11T23:43:12.000Z",
           "id": "2120663665028296774",
@@ -2386,10 +2381,15 @@
           "id": "2121354566281171436",
           "quoted_text": "Issued by the FAA just moments ago, ALL US airports are currently ground stopped. This means NO flights may depart for US airports. Flights already in the air will be allowed to land. This is related to an FAA equipment outage. https://t.co/wgyuOXeF0k",
           "text": "genuinely is this end times? all microsoft down now full faa stop? https://t.co/UE6jDiWh9t"
+        },
+        {
+          "created_at": "2026-11-14T01:02:01.000Z",
+          "id": "2121408277963841804",
+          "reply_to_id": "2121408234452042065",
+          "text": "@minhnguyen gdp based you mean?"
         }
       ],
       "reads": {
-        "2120663202036076891": "No call",
         "2120663665028296774": "No call",
         "2120668750563389555": "No call",
         "2120682425990939044": "No call",
@@ -2411,12 +2411,6 @@
         "2121354566281171436": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-11T15:25:47.000Z",
-          "id": "2120538487615295600",
-          "reply_to_id": "2120538158094016563",
-          "text": "@EmrlDWill dude there are billions of dollars of GMV fully autonomous AI strats deployed today lmao"
-        },
         {
           "created_at": "2026-11-11T18:01:37.000Z",
           "id": "2120577702465818808",
@@ -2500,6 +2494,12 @@
           "id": "2121307338279969001",
           "reply_to_id": "2121307088857293066",
           "text": "@masayoshisson what's retarded is you not courtesy liking"
+        },
+        {
+          "created_at": "2026-11-14T01:01:51.000Z",
+          "id": "2121408234452042065",
+          "reply_to_id": "2121377698169983192",
+          "text": "@minhnguyen what do you mean by fast takeoff"
         }
       ],
       "threads": {
@@ -2907,12 +2907,10 @@
         }
       },
       "trading": {
-        "2120538487615295600": true,
         "2120577702465818808": false,
         "2120634577588756965": false,
         "2120634740344860804": false,
         "2120640431990174168": true,
-        "2120663202036076891": false,
         "2120663665028296774": false,
         "2120664838699638848": false,
         "2120668750563389555": false,
@@ -2941,7 +2939,9 @@
         "2121093324962504716": true,
         "2121304502498128351": false,
         "2121307338279969001": false,
-        "2121354566281171436": false
+        "2121354566281171436": false,
+        "2121408234452042065": false,
+        "2121408277963841804": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7154,5 +7154,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-14T00:56:20+00:00"
+  "updated_at": "2026-11-14T01:02:21+00:00"
 }
