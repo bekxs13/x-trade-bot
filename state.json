@@ -1027,7 +1027,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121722095516443108",
+      "last_id": "2121734010774732976",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1160,11 +1160,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-14T02:28:18.000Z",
-          "id": "2121429990730326484",
-          "text": "they really gave us wow forever and gta6 and said yea just log off fr"
-        },
-        {
           "created_at": "2026-11-14T02:29:01.000Z",
           "id": "2121430169982226821",
           "text": "kinda in disbelief at just no bounce ngl"
@@ -1274,10 +1269,14 @@
           "created_at": "2026-11-14T21:46:56.000Z",
           "id": "2121721569257095633",
           "text": "https://t.co/6ax3yLQVja"
+        },
+        {
+          "created_at": "2026-11-14T22:36:22.000Z",
+          "id": "2121734010774732976",
+          "text": "https://t.co/hlSDg2cEJY"
         }
       ],
       "reads": {
-        "2121429990730326484": "No call",
         "2121430169982226821": "No call",
         "2121431092829868290": "No call",
         "2121432509636637028": "No call",
@@ -1295,7 +1294,8 @@
         "2121650205745635538": "No call: bearish on PUMP (60%, too unsure)",
         "2121674279913972027": "No call: bearish on stocks/macro (same view as before)",
         "2121719173319659586": "No call: bearish on crypto market (60%, too unsure)",
-        "2121721569257095633": "No call"
+        "2121721569257095633": "No call",
+        "2121734010774732976": "No call"
       },
       "replies": [
         {
@@ -1390,10 +1390,6 @@
         }
       ],
       "threads": {
-        "2120529080261165227": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120557247843487785": {
           "alerted": [],
           "self_replies": 0
@@ -1799,10 +1795,13 @@
         "2121721569257095633": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121734010774732976": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121429990730326484": false,
         "2121430169982226821": true,
         "2121431092829868290": false,
         "2121432509636637028": false,
@@ -1836,7 +1835,8 @@
         "2121712253913485711": true,
         "2121719173319659586": true,
         "2121721569257095633": false,
-        "2121722095516443108": true
+        "2121722095516443108": true,
+        "2121734010774732976": false
       },
       "user_id": "973261472"
     },
@@ -7162,5 +7162,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T22:32:20+00:00"
+  "updated_at": "2026-11-14T22:38:21+00:00"
 }
