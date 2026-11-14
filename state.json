@@ -965,13 +965,13 @@
           "updated_at": "2026-11-11T16:40:20.000Z"
         },
         "stocks/macro": {
-          "market": "stocks",
-          "post_id": "2121111540560453811",
-          "reason": "\"i think that was top of bounce for equities, probably lower into eoy\" with a QQQ chart showing rejection at the broken ~700 range support.",
+          "market": "macro",
+          "post_id": "2121674279913972027",
+          "reason": "\"on point\" endorses a quote calling for risk being obliterated across coins and stocks, with hiking, DXY highs and stocks puking more. That matches his recorded bearish stocks/macro view.",
           "scope": "stocks/macro",
           "since": "2026-10-29",
           "stance": "bearish",
-          "updated_at": "2026-11-13T05:22:54.000Z"
+          "updated_at": "2026-11-14T18:39:01.000Z"
         },
         "vvv": {
           "market": "crypto",
@@ -1025,7 +1025,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121665452128514437",
+      "last_id": "2121674279913972027",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1158,12 +1158,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-14T01:48:27.000Z",
-          "id": "2121419960845213981",
-          "quoted_text": "*NEW META PREDICTION-MARKET APP LETS USERS WAGER 'CRED,' NOT MONEY: WSJ\n\n*META PREDICTION-MARKET APP IS INTERNALLY CALLED 'TAKES,' SOURCES SAY: WSJ\n\n$META",
-          "text": "feels like every social app is enabling trading and or prediction markets in-app https://t.co/TnapNH4T66"
-        },
-        {
           "created_at": "2026-11-14T02:26:44.000Z",
           "id": "2121429596503527480",
           "images": [
@@ -1275,10 +1269,15 @@
           "created_at": "2026-11-14T17:03:22.000Z",
           "id": "2121650205745635538",
           "text": "prolly get to rebuy pump at like .002"
+        },
+        {
+          "created_at": "2026-11-14T18:39:01.000Z",
+          "id": "2121674279913972027",
+          "quoted_text": "this is probably going to upset some people because binance and cz are the easy scapegoats for losing money (they're ofc scum), but people are missing the forest for the trees \n\nwe are, for now, in a hiking cycle. dxy is routinely hitting new yearly highs. the ai trade as we know it is over. (i think) stocks puke more. yields and dxy are a black hole of capital. metals are down only. ai hacks are terrifying. risk is being obliterated because it's falling apart at the seams *across* the board. de",
+          "text": "on point https://t.co/C60EoTXhpz"
         }
       ],
       "reads": {
-        "2121419960845213981": "No call",
         "2121429596503527480": "No call",
         "2121429712480157924": "No call",
         "2121429990730326484": "No call",
@@ -1296,7 +1295,8 @@
         "2121646170367758767": "No call",
         "2121647061778997539": "No call",
         "2121648812066238964": "No call",
-        "2121650205745635538": "No call: bearish on PUMP (60%, too unsure)"
+        "2121650205745635538": "No call: bearish on PUMP (60%, too unsure)",
+        "2121674279913972027": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
         {
@@ -1391,10 +1391,6 @@
         }
       ],
       "threads": {
-        "2120512025956942157": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120518910550458419": {
           "alerted": [],
           "self_replies": 0
@@ -1800,10 +1796,13 @@
         "2121650205745635538": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121674279913972027": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121419960845213981": true,
         "2121429596503527480": false,
         "2121429712480157924": true,
         "2121429990730326484": false,
@@ -1837,7 +1836,8 @@
         "2121652100098658440": false,
         "2121654251030237433": true,
         "2121654419750277494": false,
-        "2121665452128514437": false
+        "2121665452128514437": false,
+        "2121674279913972027": true
       },
       "user_id": "973261472"
     },
@@ -7140,5 +7140,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T18:18:22+00:00"
+  "updated_at": "2026-11-14T18:40:25+00:00"
 }
