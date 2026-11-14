@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2121416658376089722",
+      "last_id": "2121417710685073453",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -297,12 +297,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T10:48:25.000Z",
-          "id": "2121193461579972839",
-          "reply_to_id": "2121192990387376559",
-          "text": "@Fabian_v4 @whop I'm still too lazy"
-        },
-        {
           "created_at": "2026-11-13T10:51:53.000Z",
           "id": "2121194330987843619",
           "reply_to_id": "2121193991550976163",
@@ -385,6 +379,12 @@
           "id": "2121372475032588347",
           "reply_to_id": "2121368934456623245",
           "text": "@Jordan0CL Yeah I had this same critique of someone else\u2019s writing  recently I usually over lean on it when I don\u2019t go straight from irl inspo + thesis to writing. This was just me crossfaded like I should write smth"
+        },
+        {
+          "created_at": "2026-11-14T01:39:30.000Z",
+          "id": "2121417710685073453",
+          "reply_to_id": "2110436026527477863",
+          "text": "@Hassandarr313 Here we are"
         }
       ],
       "threads": {
@@ -804,7 +804,6 @@
         "2121179953261920561": false,
         "2121182305591128178": false,
         "2121192689324691510": false,
-        "2121193461579972839": false,
         "2121194330987843619": false,
         "2121195102337208452": false,
         "2121195470823534777": false,
@@ -827,7 +826,8 @@
         "2121393930868863125": true,
         "2121399584727675247": false,
         "2121404053372764582": false,
-        "2121416658376089722": true
+        "2121416658376089722": true,
+        "2121417710685073453": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7154,5 +7154,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-14T01:36:03+00:00"
+  "updated_at": "2026-11-14T01:40:16+00:00"
 }
