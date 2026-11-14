@@ -1025,7 +1025,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121630416486711391",
+      "last_id": "2121631598760387042",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1297,12 +1297,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-14T13:54:56.000Z",
-          "id": "2121602788253708721",
-          "reply_to_id": "2121602510691696927",
-          "text": "@vividhl 20 is crazy"
-        },
-        {
           "created_at": "2026-11-14T14:09:40.000Z",
           "id": "2121606495708082548",
           "reply_to_id": "2121597679264579591",
@@ -1385,6 +1379,12 @@
           "id": "2121630416486711391",
           "reply_to_id": "2121292740763791708",
           "text": "@nicestwether bro lol"
+        },
+        {
+          "created_at": "2026-11-14T15:49:25.000Z",
+          "id": "2121631598760387042",
+          "reply_to_id": "2121631037637705745",
+          "text": "@tulipking @torvaman_ so the bear case for bitcoin is ai solving gdp growth + stablecoins solving usd debt + dominance globally?"
         }
       ],
       "threads": {
@@ -1818,7 +1818,6 @@
         "2121590744049983807": false,
         "2121592402234548448": true,
         "2121601329970000062": false,
-        "2121602788253708721": false,
         "2121606495708082548": true,
         "2121606753729364443": true,
         "2121607693903204673": false,
@@ -1834,7 +1833,8 @@
         "2121622591160947192": true,
         "2121624304987079087": false,
         "2121628437396005330": true,
-        "2121630416486711391": false
+        "2121630416486711391": false,
+        "2121631598760387042": true
       },
       "user_id": "973261472"
     },
@@ -6386,7 +6386,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121628282638782958",
+      "last_id": "2121631560336294142",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6438,11 +6438,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T20:33:52.000Z",
-          "id": "2121340793646686278",
-          "text": "What are we doing for New Years?"
-        },
         {
           "created_at": "2026-11-13T21:18:33.000Z",
           "id": "2121352038999003623",
@@ -6554,10 +6549,14 @@
           ],
           "reply_to_id": "2120308472390541751",
           "text": "Binance spot listing is nuts https://t.co/8i3FgGZJrn"
+        },
+        {
+          "created_at": "2026-11-14T15:49:16.000Z",
+          "id": "2121631560336294142",
+          "text": "Time to start blogging again"
         }
       ],
       "reads": {
-        "2121340793646686278": "No call",
         "2121352038999003623": "No call",
         "2121360211894255959": "No call",
         "2121367916608364803": "No call: bearish on eth (same view as before)",
@@ -6575,7 +6574,8 @@
         "2121621495793483861": "No call",
         "2121623558606725513": "No call: maybe long HYPE (60%, too unsure)",
         "2121626092020883488": "No call",
-        "2121627603060556243": "No call: bearish on crypto market (same view as before)"
+        "2121627603060556243": "No call: bearish on crypto market (same view as before)",
+        "2121631560336294142": "No call"
       },
       "replies": [
         {
@@ -6673,10 +6673,6 @@
         }
       ],
       "threads": {
-        "2118009229705662536": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118013350693216630": {
           "alerted": [],
           "self_replies": 0
@@ -7083,6 +7079,10 @@
         "2121627603060556243": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121631560336294142": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7096,7 +7096,6 @@
         "2120937737994088669": false,
         "2120942476978483206": false,
         "2120969204128235808": true,
-        "2121340793646686278": false,
         "2121352038999003623": false,
         "2121360211894255959": true,
         "2121367916608364803": true,
@@ -7120,7 +7119,8 @@
         "2121623558606725513": true,
         "2121626092020883488": true,
         "2121627603060556243": true,
-        "2121628282638782958": true
+        "2121628282638782958": true,
+        "2121631560336294142": false
       },
       "user_id": "809191427645181952"
     }
@@ -7143,5 +7143,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T15:46:20+00:00"
+  "updated_at": "2026-11-14T15:50:25+00:00"
 }
