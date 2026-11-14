@@ -6391,7 +6391,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121731261480026203",
+      "last_id": "2121740936854008160",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6443,14 +6443,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T15:33:33.000Z",
-          "id": "2121627603060556243",
-          "images": [
-            "https://pbs.twimg.com/media/HXGI1ZaXoAA6_F-.jpg"
-          ],
-          "text": "Crazy to see BTC revisit the old 62-67k range\n\nI guess you can start filling out of sympathy here but really it feels like something is completely and utterly broken in the crypto markets and you're going to be rewarded for being patient. https://t.co/zoGUOMlkfK"
-        },
         {
           "created_at": "2026-11-14T15:36:15.000Z",
           "id": "2121628282638782958",
@@ -6573,10 +6565,14 @@
             "https://pbs.twimg.com/media/HXHnVNkXAAE_DAG.jpg"
           ],
           "text": "https://t.co/ACqgARxHuY"
+        },
+        {
+          "created_at": "2026-11-14T23:03:54.000Z",
+          "id": "2121740936854008160",
+          "text": "All my opps are dust"
         }
       ],
       "reads": {
-        "2121627603060556243": "No call: bearish on crypto market (same view as before)",
         "2121631560336294142": "No call",
         "2121653483099377741": "No call",
         "2121667199337386025": "No call",
@@ -6594,7 +6590,8 @@
         "2121714839186010514": "No call: maybe long  (50%, too unsure)",
         "2121719931095974394": "No call",
         "2121724698899665065": "No call",
-        "2121731261480026203": "No call"
+        "2121731261480026203": "No call",
+        "2121740936854008160": "No call"
       },
       "replies": [
         {
@@ -6692,13 +6689,6 @@
         }
       ],
       "threads": {
-        "2118428712685211862": {
-          "alerted": [
-            "trade:SOXL:long",
-            "bias:stocks/macro:bullish"
-          ],
-          "self_replies": 1
-        },
         "2118433352483275030": {
           "alerted": [],
           "self_replies": 0
@@ -7102,6 +7092,10 @@
         "2121731261480026203": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121740936854008160": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7120,7 +7114,6 @@
         "2121384370540102139": false,
         "2121483826731885024": false,
         "2121621078405783948": true,
-        "2121627603060556243": true,
         "2121628282638782958": true,
         "2121631560336294142": false,
         "2121653483099377741": true,
@@ -7139,7 +7132,8 @@
         "2121714839186010514": true,
         "2121719931095974394": false,
         "2121724698899665065": false,
-        "2121731261480026203": false
+        "2121731261480026203": false,
+        "2121740936854008160": false
       },
       "user_id": "809191427645181952"
     }
@@ -7162,5 +7156,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T22:56:18+00:00"
+  "updated_at": "2026-11-14T23:04:25+00:00"
 }
