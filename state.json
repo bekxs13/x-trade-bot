@@ -4599,7 +4599,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2121661769030435301",
+      "last_id": "2121705734295413096",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4651,12 +4651,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T02:49:50.000Z",
-          "id": "2120710632731292056",
-          "reply_to_id": "2120693178148000220",
-          "text": "guys who\u2019s wives follow them on twitter are like \u201ci am so shocked and appalled of the character from the anonymous finance gamblers suggesting they too would cheat  if given the chance \ud83d\ude21 \ud83d\ude21 \ud83d\ude21 \ud83d\ude21\u201d"
-        },
         {
           "created_at": "2026-11-12T12:46:16.000Z",
           "id": "2120860728974610819",
@@ -4765,10 +4759,14 @@
           "id": "2121661769030435301",
           "reply_to_id": "2112710480011591849",
           "text": "well this was obviously wrong, but it was a fun thesis nonetheless"
+        },
+        {
+          "created_at": "2026-11-14T20:44:01.000Z",
+          "id": "2121705734295413096",
+          "text": "the double hundy roll hyperliquid bull trap will go in the history books. nasty"
         }
       ],
       "reads": {
-        "2120710632731292056": "No call",
         "2120860728974610819": "No call",
         "2120860891357053379": "Read together with the post it replies to",
         "2120869755758538991": "No call: bearish on stocks/macro (60%, too unsure)",
@@ -4784,7 +4782,8 @@
         "2121087402340983292": "No call",
         "2121236584808718590": "No call",
         "2121266693385384306": "No call",
-        "2121456757675303144": "No call"
+        "2121456757675303144": "No call",
+        "2121705734295413096": "No call: bearish on HYPE (60%, too unsure)"
       },
       "replies": [
         {
@@ -4882,10 +4881,6 @@
         }
       ],
       "threads": {
-        "2115955400180719737": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116127249162489957": {
           "alerted": [],
           "self_replies": 1
@@ -5283,10 +5278,13 @@
         "2121456757675303144": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121705734295413096": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120710632731292056": false,
         "2120860728974610819": true,
         "2120860891357053379": false,
         "2120869755758538991": true,
@@ -5320,7 +5318,8 @@
         "2121449766672642433": false,
         "2121456757675303144": true,
         "2121456949493473756": false,
-        "2121661769030435301": true
+        "2121661769030435301": true,
+        "2121705734295413096": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7149,5 +7148,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T20:34:23+00:00"
+  "updated_at": "2026-11-14T20:44:25+00:00"
 }
