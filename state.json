@@ -1021,7 +1021,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121400820071600139",
+      "last_id": "2121401576497836279",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1154,15 +1154,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-13T13:56:56.000Z",
-          "id": "2121240902756934046",
-          "images": [
-            "https://pbs.twimg.com/tweet_video_thumb/HXApWeHWgAAeF1F.jpg"
-          ],
-          "reply_to_id": "2120404478474010916",
-          "text": "@capexbt https://t.co/11qRk2sBUl"
-        },
-        {
           "created_at": "2026-11-13T15:02:26.000Z",
           "id": "2121257385394155563",
           "text": "whats up"
@@ -1274,6 +1265,12 @@
           "id": "2121386666233315396",
           "quoted_text": "$NVDA on @tradexyz has surpassed $1.85B in 24h trading volume. https://t.co/yfZqfuYVyT",
           "text": "2026 was a historic year for equity perps https://t.co/PWlzNKPKIO"
+        },
+        {
+          "created_at": "2026-11-14T00:35:24.000Z",
+          "id": "2121401576497836279",
+          "quoted_text": "we will find you and touch you https://t.co/qx25b3AitE",
+          "text": "ride wit the mob solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump \ud83d\ude01 https://t.co/xYGYAtJZSn"
         }
       ],
       "reads": {
@@ -1294,7 +1291,8 @@
         "2121376333502779778": "No call",
         "2121380787794722877": "No call",
         "2121381483319640137": "No call",
-        "2121386666233315396": "No call"
+        "2121386666233315396": "No call",
+        "2121401576497836279": "No call"
       },
       "replies": [
         {
@@ -1392,10 +1390,6 @@
         }
       ],
       "threads": {
-        "2120324070038184064": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120330822381441308": {
           "alerted": [],
           "self_replies": 0
@@ -1804,10 +1798,13 @@
         "2121386666233315396": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121401576497836279": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121240902756934046": false,
         "2121257385394155563": false,
         "2121258486201790652": false,
         "2121278114278039870": false,
@@ -1841,7 +1838,8 @@
         "2121383441577222597": false,
         "2121386666233315396": true,
         "2121399828139622723": true,
-        "2121400820071600139": false
+        "2121400820071600139": false,
+        "2121401576497836279": true
       },
       "user_id": "973261472"
     },
@@ -7156,5 +7154,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-14T00:34:18+00:00"
+  "updated_at": "2026-11-14T00:36:22+00:00"
 }
