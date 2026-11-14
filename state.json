@@ -2243,7 +2243,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2121494928241078553",
+      "last_id": "2121665724699885572",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2263,14 +2263,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T00:57:45.000Z",
-          "id": "2120682425990939044",
-          "images": [
-            "https://pbs.twimg.com/media/HW4tZ2AWwAECgoN.jpg"
-          ],
-          "text": "to be fair none of the ai-pilled people i knew ever talked about being long nvda lately https://t.co/GaJaBQwEo8"
-        },
         {
           "created_at": "2026-11-12T01:19:11.000Z",
           "id": "2120687820440490026",
@@ -2386,10 +2378,14 @@
           "id": "2121441396607345065",
           "quoted_text": "this is easily the best model in the world https://t.co/p4Y3XaWd2z",
           "text": "anyone else have thoughts? what is gemini carbon better than opus at? what is it worse at? https://t.co/nPdcDRccLs"
+        },
+        {
+          "created_at": "2026-11-14T18:05:02.000Z",
+          "id": "2121665724699885572",
+          "text": "the good news is that the 5 year return of bitcoin should keep increasing from here. not because bitcoin will go up necessarily just that from Nov '21 to dec '22 btc dropped from 65k to like 16k"
         }
       ],
       "reads": {
-        "2120682425990939044": "No call",
         "2120687820440490026": "No call",
         "2120690332740293049": "No call",
         "2120690490492264463": "Read together with the post it replies to",
@@ -2407,7 +2403,8 @@
         "2121304502498128351": "No call",
         "2121354566281171436": "No call",
         "2121435853113430113": "No call",
-        "2121441396607345065": "No call"
+        "2121441396607345065": "No call",
+        "2121665724699885572": "No call"
       },
       "replies": [
         {
@@ -2502,10 +2499,6 @@
         }
       ],
       "threads": {
-        "2115903745007747572": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115913150314787235": {
           "alerted": [],
           "self_replies": 0
@@ -2903,6 +2896,10 @@
         "2121441396607345065": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121665724699885572": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -2910,7 +2907,6 @@
         "2120664838699638848": false,
         "2120679405710102824": false,
         "2120679530855854372": false,
-        "2120682425990939044": true,
         "2120685859401785773": false,
         "2120687820440490026": false,
         "2120689242745831904": false,
@@ -2940,7 +2936,8 @@
         "2121435853113430113": true,
         "2121441396607345065": false,
         "2121485116593656033": false,
-        "2121494928241078553": false
+        "2121494928241078553": false,
+        "2121665724699885572": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7146,5 +7143,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T18:04:17+00:00"
+  "updated_at": "2026-11-14T18:06:19+00:00"
 }
