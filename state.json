@@ -6386,7 +6386,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121667199337386025",
+      "last_id": "2121668960127005162",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6438,11 +6438,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T22:21:39.000Z",
-          "id": "2121367916608364803",
-          "text": "Ethereum 5 year performance: -58.7%\nNasdaq: +58.5%\nSPY: +72.6%\nBitcoin: +5.8%\n\nCongratulations, Ethereum holders."
-        },
         {
           "created_at": "2026-11-13T22:29:52.000Z",
           "id": "2121369985150832923",
@@ -6551,10 +6546,14 @@
           "created_at": "2026-11-14T18:10:53.000Z",
           "id": "2121667199337386025",
           "text": "Going to do a meetup at the McDonald's by Central park"
+        },
+        {
+          "created_at": "2026-11-14T18:17:53.000Z",
+          "id": "2121668960127005162",
+          "text": "Feels like Pumpfun would have gotten a much higher multiple if they acquired a casino. Diversifying revenues, and getting away from low multiple memecoin trading would be a great boost to the token. Letting people using pumpfun token as chips would be a great deflationary sink."
         }
       ],
       "reads": {
-        "2121367916608364803": "No call: bearish on eth (same view as before)",
         "2121369985150832923": "No call: bearish on eth (same view as before)",
         "2121370392912638212": "No call",
         "2121371060213805352": "No call",
@@ -6572,7 +6571,8 @@
         "2121627603060556243": "No call: bearish on crypto market (same view as before)",
         "2121631560336294142": "No call",
         "2121653483099377741": "No call",
-        "2121667199337386025": "No call"
+        "2121667199337386025": "No call",
+        "2121668960127005162": "No call"
       },
       "replies": [
         {
@@ -6670,10 +6670,6 @@
         }
       ],
       "threads": {
-        "2118068833294422283": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118071753922805977": {
           "alerted": [],
           "self_replies": 0
@@ -7080,6 +7076,10 @@
         "2121667199337386025": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121668960127005162": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7093,7 +7093,6 @@
         "2120937737994088669": false,
         "2120942476978483206": false,
         "2120969204128235808": true,
-        "2121367916608364803": true,
         "2121368520252334151": true,
         "2121369985150832923": true,
         "2121370392912638212": false,
@@ -7117,7 +7116,8 @@
         "2121628282638782958": true,
         "2121631560336294142": false,
         "2121653483099377741": true,
-        "2121667199337386025": false
+        "2121667199337386025": false,
+        "2121668960127005162": true
       },
       "user_id": "809191427645181952"
     }
@@ -7140,5 +7140,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T18:12:23+00:00"
+  "updated_at": "2026-11-14T18:18:22+00:00"
 }
