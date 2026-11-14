@@ -1025,7 +1025,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121674279913972027",
+      "last_id": "2121706045005566249",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1300,12 +1300,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-14T15:44:43.000Z",
-          "id": "2121630416486711391",
-          "reply_to_id": "2121292740763791708",
-          "text": "@nicestwether bro lol"
-        },
-        {
           "created_at": "2026-11-14T15:49:25.000Z",
           "id": "2121631598760387042",
           "reply_to_id": "2121631037637705745",
@@ -1388,6 +1382,12 @@
           "id": "2121665452128514437",
           "reply_to_id": "2121655452702310734",
           "text": "@oxlongoink lmk how it goes hope you win brother"
+        },
+        {
+          "created_at": "2026-11-14T20:45:15.000Z",
+          "id": "2121706045005566249",
+          "reply_to_id": "2121701438543765846",
+          "text": "@mauritsneo gl king"
         }
       ],
       "threads": {
@@ -1816,7 +1816,6 @@
         "2121601329970000062": false,
         "2121606753729364443": true,
         "2121612770835628044": true,
-        "2121630416486711391": false,
         "2121631598760387042": true,
         "2121632204833063332": true,
         "2121634441340621106": false,
@@ -1837,7 +1836,8 @@
         "2121654251030237433": true,
         "2121654419750277494": false,
         "2121665452128514437": false,
-        "2121674279913972027": true
+        "2121674279913972027": true,
+        "2121706045005566249": false
       },
       "user_id": "973261472"
     },
@@ -4599,7 +4599,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2121705734295413096",
+      "last_id": "2121705855007519033",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4651,14 +4651,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T12:46:16.000Z",
-          "id": "2120860728974610819",
-          "images": [
-            "https://pbs.twimg.com/media/HW7PlkxWQAAAGBw.png"
-          ],
-          "text": "fintwit superbowl https://t.co/lon9GJA1ku"
-        },
         {
           "created_at": "2026-11-12T12:46:54.000Z",
           "id": "2120860891357053379",
@@ -4764,10 +4756,15 @@
           "created_at": "2026-11-14T20:44:01.000Z",
           "id": "2121705734295413096",
           "text": "the double hundy roll hyperliquid bull trap will go in the history books. nasty"
+        },
+        {
+          "created_at": "2026-11-14T20:44:29.000Z",
+          "id": "2121705855007519033",
+          "reply_to_id": "2121456757675303144",
+          "text": "can you worthless fucking plumbers do anything"
         }
       ],
       "reads": {
-        "2120860728974610819": "No call",
         "2120860891357053379": "Read together with the post it replies to",
         "2120869755758538991": "No call: bearish on stocks/macro (60%, too unsure)",
         "2120874376098730257": "No call",
@@ -4783,7 +4780,8 @@
         "2121236584808718590": "No call",
         "2121266693385384306": "No call",
         "2121456757675303144": "No call",
-        "2121705734295413096": "No call: bearish on HYPE (60%, too unsure)"
+        "2121705734295413096": "No call: bearish on HYPE (60%, too unsure)",
+        "2121705855007519033": "No call"
       },
       "replies": [
         {
@@ -5277,7 +5275,7 @@
         },
         "2121456757675303144": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2121705734295413096": {
           "alerted": [],
@@ -5285,7 +5283,6 @@
         }
       },
       "trading": {
-        "2120860728974610819": true,
         "2120860891357053379": false,
         "2120869755758538991": true,
         "2120874376098730257": true,
@@ -5319,7 +5316,8 @@
         "2121456757675303144": true,
         "2121456949493473756": false,
         "2121661769030435301": true,
-        "2121705734295413096": true
+        "2121705734295413096": true,
+        "2121705855007519033": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7148,5 +7146,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T20:44:25+00:00"
+  "updated_at": "2026-11-14T20:46:29+00:00"
 }
