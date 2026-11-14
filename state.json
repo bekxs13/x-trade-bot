@@ -6333,12 +6333,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2120308472390541751",
-          "reason": "\"Short term, crypto may be uninvestable\" on regulatory fears, though he expects volatility to bring buying opportunities and is bullish BTC longer term.",
+          "post_id": "2121627603060556243",
+          "reason": "\"something is completely and utterly broken in the crypto markets\" and \"rewarded for being patient\" point to more downside before a real bottom, matching their recorded bearish crypto market view.",
           "scope": "crypto market",
           "since": "2026-10-17",
           "stance": "bearish",
-          "updated_at": "2026-11-11T00:11:47.000Z"
+          "updated_at": "2026-11-14T15:33:33.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -6386,7 +6386,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121626092020883488",
+      "last_id": "2121627603060556243",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6438,11 +6438,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T16:06:24.000Z",
-          "id": "2121273483305042028",
-          "text": "Given so much retail trading activity in leveraged ETFs markets don't even have to go down that much. Just sideways for a few years and they'll be completely wiped out.\n\nPerpetual swaps maximalism."
-        },
         {
           "created_at": "2026-11-13T19:43:10.000Z",
           "id": "2121328035546939453",
@@ -6550,10 +6545,17 @@
           "created_at": "2026-11-14T15:27:32.000Z",
           "id": "2121626092020883488",
           "text": "Important to remind people to tax loss harvest into end of year."
+        },
+        {
+          "created_at": "2026-11-14T15:33:33.000Z",
+          "id": "2121627603060556243",
+          "images": [
+            "https://pbs.twimg.com/media/HXGI1ZaXoAA6_F-.jpg"
+          ],
+          "text": "Crazy to see BTC revisit the old 62-67k range\n\nI guess you can start filling out of sympathy here but really it feels like something is completely and utterly broken in the crypto markets and you're going to be rewarded for being patient. https://t.co/zoGUOMlkfK"
         }
       ],
       "reads": {
-        "2121273483305042028": "No call",
         "2121328035546939453": "No call",
         "2121340793646686278": "No call",
         "2121352038999003623": "No call",
@@ -6572,7 +6574,8 @@
         "2121620960961044497": "No call: bullish on crypto market (65%, too unsure)",
         "2121621495793483861": "No call",
         "2121623558606725513": "No call: maybe long HYPE (60%, too unsure)",
-        "2121626092020883488": "No call"
+        "2121626092020883488": "No call",
+        "2121627603060556243": "No call: bearish on crypto market (same view as before)"
       },
       "replies": [
         {
@@ -6670,13 +6673,6 @@
         }
       ],
       "threads": {
-        "2118007664185835677": {
-          "alerted": [
-            "trade:EQUITY SHORTS:exit",
-            "bias:stocks/macro:neutral"
-          ],
-          "self_replies": 0
-        },
         "2118009229705662536": {
           "alerted": [],
           "self_replies": 0
@@ -7083,6 +7079,10 @@
         "2121626092020883488": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121627603060556243": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7096,7 +7096,6 @@
         "2120937737994088669": false,
         "2120942476978483206": false,
         "2120969204128235808": true,
-        "2121273483305042028": true,
         "2121328035546939453": true,
         "2121340793646686278": false,
         "2121352038999003623": false,
@@ -7120,7 +7119,8 @@
         "2121621078405783948": true,
         "2121621495793483861": true,
         "2121623558606725513": true,
-        "2121626092020883488": true
+        "2121626092020883488": true,
+        "2121627603060556243": true
       },
       "user_id": "809191427645181952"
     }
@@ -7143,5 +7143,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T15:28:19+00:00"
+  "updated_at": "2026-11-14T15:34:18+00:00"
 }
