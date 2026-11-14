@@ -1027,7 +1027,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121738294434177439",
+      "last_id": "2121748384860311786",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1160,16 +1160,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-14T02:29:01.000Z",
-          "id": "2121430169982226821",
-          "text": "kinda in disbelief at just no bounce ngl"
-        },
-        {
-          "created_at": "2026-11-14T02:32:41.000Z",
-          "id": "2121431092829868290",
-          "text": "https://t.co/4RAnZNEFt0"
-        },
-        {
           "created_at": "2026-11-14T02:38:19.000Z",
           "id": "2121432509636637028",
           "images": [
@@ -1274,11 +1264,19 @@
           "created_at": "2026-11-14T22:36:22.000Z",
           "id": "2121734010774732976",
           "text": "https://t.co/hlSDg2cEJY"
+        },
+        {
+          "created_at": "2026-11-14T23:32:10.000Z",
+          "id": "2121748051890979000",
+          "text": "how has it not bounced yet"
+        },
+        {
+          "created_at": "2026-11-14T23:32:35.000Z",
+          "id": "2121748157814231115",
+          "text": "just absolute drilling all day all the way to the close what the fuck"
         }
       ],
       "reads": {
-        "2121430169982226821": "No call",
-        "2121431092829868290": "No call",
         "2121432509636637028": "No call",
         "2121450792087404775": "No call",
         "2121457857291751877": "No call",
@@ -1295,15 +1293,11 @@
         "2121674279913972027": "No call: bearish on stocks/macro (same view as before)",
         "2121719173319659586": "No call: bearish on crypto market (60%, too unsure)",
         "2121721569257095633": "No call",
-        "2121734010774732976": "No call"
+        "2121734010774732976": "No call",
+        "2121748051890979000": "No call",
+        "2121748157814231115": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-14T16:01:53.000Z",
-          "id": "2121634733880971625",
-          "reply_to_id": "2121632924680274330",
-          "text": "@tulipking @torvaman_ that sounds generally correct to me"
-        },
         {
           "created_at": "2026-11-14T16:27:56.000Z",
           "id": "2121641290479579320",
@@ -1387,17 +1381,15 @@
           "id": "2121738294434177439",
           "reply_to_id": "2121674794303189205",
           "text": "@ercwl see yall in the order books https://t.co/Mz8uogJNFY"
+        },
+        {
+          "created_at": "2026-11-14T23:33:29.000Z",
+          "id": "2121748384860311786",
+          "reply_to_id": "2121748213904351325",
+          "text": "@trunoest IM TRYING TO GET SOME SIGNALS OF STRENGTH HERE BROTHER I WANT TO"
         }
       ],
       "threads": {
-        "2120557247843487785": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2120562627621380222": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120562969071239665": {
           "alerted": [],
           "self_replies": 0
@@ -1799,11 +1791,17 @@
         "2121734010774732976": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121748051890979000": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2121748157814231115": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121430169982226821": true,
-        "2121431092829868290": false,
         "2121432509636637028": false,
         "2121450792087404775": false,
         "2121457857291751877": true,
@@ -1812,7 +1810,6 @@
         "2121601329970000062": false,
         "2121606753729364443": true,
         "2121612770835628044": true,
-        "2121634733880971625": false,
         "2121641290479579320": true,
         "2121641494545412140": false,
         "2121641656738865417": false,
@@ -1836,7 +1833,10 @@
         "2121721569257095633": false,
         "2121722095516443108": true,
         "2121734010774732976": false,
-        "2121738294434177439": true
+        "2121738294434177439": true,
+        "2121748051890979000": true,
+        "2121748157814231115": true,
+        "2121748384860311786": true
       },
       "user_id": "973261472"
     },
@@ -7153,5 +7153,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T23:30:23+00:00"
+  "updated_at": "2026-11-14T23:34:27+00:00"
 }
