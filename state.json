@@ -4599,7 +4599,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2121705855007519033",
+      "last_id": "2121709010512662694",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4785,12 +4785,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T01:28:53.000Z",
-          "id": "2121052647968936343",
-          "reply_to_id": "2121052577223594287",
-          "text": "@TrustlessState i don't beleive it bro"
-        },
-        {
           "created_at": "2026-11-13T03:10:31.000Z",
           "id": "2121078225832939761",
           "reply_to_id": "2121074945828532734",
@@ -4876,6 +4870,12 @@
           "id": "2121456949493473756",
           "reply_to_id": "2121456849186693498",
           "text": "@frankdegods this is genuinely getting a little nuts"
+        },
+        {
+          "created_at": "2026-11-14T20:57:02.000Z",
+          "id": "2121709010512662694",
+          "reply_to_id": "2121708773148664157",
+          "text": "@pepye_ brother all the plumbers quit"
         }
       ],
       "threads": {
@@ -5293,7 +5293,6 @@
         "2120972971703705709": true,
         "2120972973847027947": false,
         "2121051905371865414": false,
-        "2121052647968936343": false,
         "2121055652453798321": false,
         "2121078225832939761": false,
         "2121087402340983292": true,
@@ -5317,7 +5316,8 @@
         "2121456949493473756": false,
         "2121661769030435301": true,
         "2121705734295413096": true,
-        "2121705855007519033": false
+        "2121705855007519033": false,
+        "2121709010512662694": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6346,6 +6346,15 @@
           "stance": "bearish",
           "updated_at": "2026-11-13T22:29:52.000Z"
         },
+        "gold": {
+          "market": "macro",
+          "post_id": "2121708902467416257",
+          "reason": "With gold at ~3885 in a weekly downtrend, wanting it at 3200 (the marked support line) implies they expect it to fall further before buying.",
+          "scope": "gold",
+          "since": "2026-11-14",
+          "stance": "bearish",
+          "updated_at": "2026-11-14T20:56:36.000Z"
+        },
         "mu": {
           "market": "stocks",
           "post_id": "2111579791379820967",
@@ -6383,7 +6392,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121708653812257266",
+      "last_id": "2121708902467416257",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6435,11 +6444,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T05:00:27.000Z",
-          "id": "2121468277599936750",
-          "text": "Everybody will make it. Everyone will win. Do not focus on making money, focus on being a good person and being nice. Think of your counterparties, they deserve to win too. Finance is not about winning and losing, we're here to make the world a better place."
-        },
         {
           "created_at": "2026-11-14T05:20:15.000Z",
           "id": "2121473261041045930",
@@ -6559,10 +6563,17 @@
           "created_at": "2026-11-14T20:55:37.000Z",
           "id": "2121708653812257266",
           "text": "\u26a0\ufe0f Liquidation Cascade"
+        },
+        {
+          "created_at": "2026-11-14T20:56:36.000Z",
+          "id": "2121708902467416257",
+          "images": [
+            "https://pbs.twimg.com/media/HXHS-1TWwAA8URd.jpg"
+          ],
+          "text": "Love Gold at 3200 https://t.co/O1noMvyNEe"
         }
       ],
       "reads": {
-        "2121468277599936750": "No call",
         "2121473261041045930": "No call",
         "2121486359491719366": "No call",
         "2121618231362486325": "No call",
@@ -6580,7 +6591,8 @@
         "2121692384870445363": "No call",
         "2121694189977260112": "No call",
         "2121700004414808470": "No call",
-        "2121708653812257266": "No call"
+        "2121708653812257266": "No call",
+        "2121708902467416257": "VIEW bearish on gold"
       },
       "replies": [
         {
@@ -6678,10 +6690,6 @@
         }
       ],
       "threads": {
-        "2118377694056604119": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118382800302756058": {
           "alerted": [],
           "self_replies": 0
@@ -7086,6 +7094,12 @@
         "2121708653812257266": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121708902467416257": {
+          "alerted": [
+            "bias:gold:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7102,7 +7116,6 @@
         "2121368520252334151": true,
         "2121370893020549192": true,
         "2121384370540102139": false,
-        "2121468277599936750": false,
         "2121473261041045930": false,
         "2121483826731885024": false,
         "2121486359491719366": true,
@@ -7123,7 +7136,8 @@
         "2121692384870445363": false,
         "2121694189977260112": false,
         "2121700004414808470": false,
-        "2121708653812257266": true
+        "2121708653812257266": true,
+        "2121708902467416257": true
       },
       "user_id": "809191427645181952"
     }
@@ -7146,5 +7160,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T20:56:25+00:00"
+  "updated_at": "2026-11-14T20:58:25+00:00"
 }
