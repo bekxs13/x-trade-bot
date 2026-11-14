@@ -1025,7 +1025,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121590744049983807",
+      "last_id": "2121592402234548448",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1158,11 +1158,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-13T22:14:02.000Z",
-          "id": "2121366000436154784",
-          "text": "how are we feeling"
-        },
-        {
           "created_at": "2026-11-13T22:29:39.000Z",
           "id": "2121369933418483856",
           "text": "so the aliens are here or we're entering world war 3, 2026 is lit so far"
@@ -1268,10 +1263,17 @@
             "https://pbs.twimg.com/media/HXFnhQJW4AAGbQS.jpg"
           ],
           "text": "https://t.co/ChR40mugbE"
+        },
+        {
+          "created_at": "2026-11-14T13:13:40.000Z",
+          "id": "2121592402234548448",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2121591630721683456/img/QLTsyu1W5MJUGLLe.jpg"
+          ],
+          "text": "a recap of my bearish BTC + ETH calls, Micron + NASDAQ setups, Zcash + SOL targets, and how the prices actually performed following my analysis\n\n0:00 - BTC, ETH and Micron bearish calls\n1:38 - ETH targets and NASDAQ downside\n3:04 - ZEC, Micron and BTC outlook\n5:07 - BTC and SOL breakdowns\n6:05 - My calls vs actual price action"
         }
       ],
       "reads": {
-        "2121366000436154784": "No call",
         "2121369933418483856": "No call",
         "2121371299671138669": "No call",
         "2121372204470534545": "No call",
@@ -1290,7 +1292,8 @@
         "2121432509636637028": "No call",
         "2121450792087404775": "No call",
         "2121457857291751877": "No call",
-        "2121590744049983807": "VIEW bearish on HYPE"
+        "2121590744049983807": "VIEW bearish on HYPE",
+        "2121592402234548448": "No call"
       },
       "replies": [
         {
@@ -1385,10 +1388,6 @@
         }
       ],
       "threads": {
-        "2120490276569415919": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120490874568429613": {
           "alerted": [],
           "self_replies": 0
@@ -1796,10 +1795,13 @@
             "bias:hype:bearish"
           ],
           "self_replies": 0
+        },
+        "2121592402234548448": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121366000436154784": false,
         "2121369933418483856": false,
         "2121371299671138669": false,
         "2121372204470534545": true,
@@ -1833,7 +1835,8 @@
         "2121451198658306244": true,
         "2121451722719781238": false,
         "2121457857291751877": true,
-        "2121590744049983807": false
+        "2121590744049983807": false,
+        "2121592402234548448": true
       },
       "user_id": "973261472"
     },
@@ -7146,5 +7149,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T13:08:23+00:00"
+  "updated_at": "2026-11-14T13:14:22+00:00"
 }
