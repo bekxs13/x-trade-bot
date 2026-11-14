@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2121459894637547761",
+      "last_id": "2121468644966465813",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,14 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T18:49:03.000Z",
-          "id": "2120952028822376540",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2120951720293605376/img/U_yBTVOpiXNGVs9P.jpg"
-          ],
-          "text": "Have a great weekend everyone https://t.co/ycycKfeMEP"
-        },
         {
           "created_at": "2026-11-13T03:56:46.000Z",
           "id": "2121089865026884078",
@@ -273,10 +265,14 @@
           "id": "2121434427574345894",
           "quoted_text": "The average San Francisco AI bro has way more social skill than people in NYC, LA, London, etc. Hear me out for a second. We go to tech parties in SF that have guests ranging from ultra high net worth, prestigious industry leaders all the way to podunk interns. We have to figure out who's who in seconds after meeting them and adjust our conversation topics and respect levels on the fly. Literally where else could you go from having the opportunity to impress Sam Altman to walking away mid conver",
           "text": "If u ever find yourself in the unfortunate circumstance of a sf house party and ppl ask what u do for work say gambling and they go away https://t.co/3zKBAVZHwa"
+        },
+        {
+          "created_at": "2026-11-14T05:01:54.000Z",
+          "id": "2121468644966465813",
+          "text": "Hey Siri play Jonny Manziel Hate Bein Sober edit"
         }
       ],
       "reads": {
-        "2120952028822376540": "No call",
         "2121089865026884078": "No call: bearish on crypto market (55%, too unsure)",
         "2121099379306307895": "No call: bearish on semis/ai stocks (65%, too unsure)",
         "2121100741800825205": "No call",
@@ -294,7 +290,8 @@
         "2121399584727675247": "No call",
         "2121404053372764582": "No call",
         "2121416658376089722": "No call: bearish on semis/ai stocks (65%, too unsure)",
-        "2121434427574345894": "No call"
+        "2121434427574345894": "No call",
+        "2121468644966465813": "No call"
       },
       "replies": [
         {
@@ -392,10 +389,6 @@
         }
       ],
       "threads": {
-        "2115838277895008549": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115859362371797420": {
           "alerted": [],
           "self_replies": 0
@@ -794,10 +787,13 @@
         "2121434427574345894": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121468644966465813": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120952028822376540": false,
         "2121089865026884078": true,
         "2121099379306307895": true,
         "2121100741800825205": true,
@@ -831,7 +827,8 @@
         "2121434639386677493": false,
         "2121436185633685786": true,
         "2121436846836318339": false,
-        "2121459894637547761": true
+        "2121459894637547761": true,
+        "2121468644966465813": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6385,7 +6382,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121466340129042813",
+      "last_id": "2121468277599936750",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6437,11 +6434,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T21:31:01.000Z",
-          "id": "2120992788271550673",
-          "text": "Breakout year\n\nhttps://t.co/2fsfT3f0KM"
-        },
         {
           "created_at": "2026-11-13T00:40:33.000Z",
           "id": "2121040486635131375",
@@ -6553,10 +6545,14 @@
           "created_at": "2026-11-14T04:52:45.000Z",
           "id": "2121466340129042813",
           "text": "Grew up a forum troll, will live and die a forum troll no amount of money will ever change that\n\nsage and report newfags let's get /b/ack to basics"
+        },
+        {
+          "created_at": "2026-11-14T05:00:27.000Z",
+          "id": "2121468277599936750",
+          "text": "Everybody will make it. Everyone will win. Do not focus on making money, focus on being a good person and being nice. Think of your counterparties, they deserve to win too. Finance is not about winning and losing, we're here to make the world a better place."
         }
       ],
       "reads": {
-        "2120992788271550673": "No call",
         "2121040486635131375": "No call",
         "2121066183143121055": "No call",
         "2121076937699279260": "No call",
@@ -6575,7 +6571,8 @@
         "2121371060213805352": "No call",
         "2121371411273130066": "No call",
         "2121436423265955951": "No call",
-        "2121466340129042813": "No call"
+        "2121466340129042813": "No call",
+        "2121468277599936750": "No call"
       },
       "replies": [
         {
@@ -6673,10 +6670,6 @@
         }
       ],
       "threads": {
-        "2112182070260965441": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2112229752572424657": {
           "alerted": [],
           "self_replies": 0
@@ -7086,6 +7079,10 @@
         "2121466340129042813": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121468277599936750": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7101,7 +7098,6 @@
         "2120937737994088669": false,
         "2120942476978483206": false,
         "2120969204128235808": true,
-        "2120992788271550673": true,
         "2121040486635131375": true,
         "2121066183143121055": true,
         "2121076937699279260": true,
@@ -7123,7 +7119,8 @@
         "2121371411273130066": false,
         "2121384370540102139": false,
         "2121436423265955951": true,
-        "2121466340129042813": false
+        "2121466340129042813": false,
+        "2121468277599936750": false
       },
       "user_id": "809191427645181952"
     }
@@ -7146,5 +7143,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-14T04:54:19+00:00"
+  "updated_at": "2026-11-14T05:02:27+00:00"
 }
