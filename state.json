@@ -6382,7 +6382,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121473261041045930",
+      "last_id": "2121483826731885024",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6576,12 +6576,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-04T15:53:19.000Z",
-          "id": "2118008698790641737",
-          "reply_to_id": "2118008063638822993",
-          "text": "@0xRiver8 I used to tweet in realtime but I no longer feel obligated to do so."
-        },
-        {
           "created_at": "2026-11-04T15:56:35.000Z",
           "id": "2118009522807505340",
           "reply_to_id": "2118009125653393877",
@@ -6667,6 +6661,12 @@
           "id": "2121384370540102139",
           "reply_to_id": "2121382184758260138",
           "text": "@kingbtc Dr Robert Lax, what is the prognosis"
+        },
+        {
+          "created_at": "2026-11-14T06:02:14.000Z",
+          "id": "2121483826731885024",
+          "reply_to_id": "2118285805206540690",
+          "text": "@TorchTheEarth__ \u201c\u2026at night at my desk\u2026 just me and the tape\u2026 always clicking\u2026\u201d"
         }
       ],
       "threads": {
@@ -7086,7 +7086,6 @@
         }
       },
       "trading": {
-        "2118008698790641737": false,
         "2118009522807505340": true,
         "2118072324658192831": false,
         "2120546317898227979": true,
@@ -7120,7 +7119,8 @@
         "2121436423265955951": true,
         "2121466340129042813": false,
         "2121468277599936750": false,
-        "2121473261041045930": false
+        "2121473261041045930": false,
+        "2121483826731885024": false
       },
       "user_id": "809191427645181952"
     }
@@ -7143,5 +7143,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-14T05:22:21+00:00"
+  "updated_at": "2026-11-14T06:07:27+00:00"
 }
