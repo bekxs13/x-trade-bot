@@ -1021,7 +1021,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121431092829868290",
+      "last_id": "2121432509636637028",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1154,12 +1154,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-13T20:00:39.000Z",
-          "id": "2121332435266769103",
-          "quoted_text": "https://t.co/ibWxw2RkMN",
-          "text": "lmao sick angle https://t.co/cDCwMUfmut"
-        },
-        {
           "created_at": "2026-11-13T21:26:28.000Z",
           "id": "2121354029909299475",
           "text": "what do you call a cyber world war"
@@ -1265,10 +1259,17 @@
           "created_at": "2026-11-14T02:32:41.000Z",
           "id": "2121431092829868290",
           "text": "https://t.co/4RAnZNEFt0"
+        },
+        {
+          "created_at": "2026-11-14T02:38:19.000Z",
+          "id": "2121432509636637028",
+          "images": [
+            "https://pbs.twimg.com/media/HXDXnoMXIAArIz6.jpg"
+          ],
+          "text": "gnihao https://t.co/nlPz5X6sZS"
         }
       ],
       "reads": {
-        "2121332435266769103": "No call",
         "2121354029909299475": "No call",
         "2121356977364418744": "No call",
         "2121362703713288583": "No call: bearish on btc (same view as before)",
@@ -1287,7 +1288,8 @@
         "2121429712480157924": "No call",
         "2121429990730326484": "No call",
         "2121430169982226821": "No call",
-        "2121431092829868290": "No call"
+        "2121431092829868290": "No call",
+        "2121432509636637028": "No call"
       },
       "replies": [
         {
@@ -1385,10 +1387,6 @@
         }
       ],
       "threads": {
-        "2120380547621163210": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120384030436708849": {
           "alerted": [
             "trade:BTC, ETH, SOL SHORTS:trim",
@@ -1797,10 +1795,13 @@
         "2121431092829868290": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121432509636637028": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121332435266769103": false,
         "2121354029909299475": false,
         "2121356977364418744": false,
         "2121362703713288583": true,
@@ -1834,7 +1835,8 @@
         "2121429712480157924": true,
         "2121429990730326484": false,
         "2121430169982226821": true,
-        "2121431092829868290": false
+        "2121431092829868290": false,
+        "2121432509636637028": false
       },
       "user_id": "973261472"
     },
@@ -7149,5 +7151,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-14T02:34:28+00:00"
+  "updated_at": "2026-11-14T02:40:31+00:00"
 }
