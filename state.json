@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2121434639386677493",
+      "last_id": "2121436185633685786",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -298,12 +298,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T10:56:24.000Z",
-          "id": "2121195470823534777",
-          "reply_to_id": "2121195143818580141",
-          "text": "@auradesk1 respect"
-        },
-        {
           "created_at": "2026-11-13T11:04:59.000Z",
           "id": "2121197627903783221",
           "reply_to_id": "2121197425281126662",
@@ -386,6 +380,15 @@
           "id": "2121434639386677493",
           "reply_to_id": "2121427664686944685",
           "text": "@CathPoaster If u ever find yourself in the unfortunate circumstance of a sf house party and ppl ask what u do for work say gambling and they go away"
+        },
+        {
+          "created_at": "2026-11-14T02:52:55.000Z",
+          "id": "2121436185633685786",
+          "images": [
+            "https://pbs.twimg.com/media/HXDa9EYbIAAOcHa.jpg"
+          ],
+          "reply_to_id": "2121435853113430113",
+          "text": "@DeepDishEnjoyer Just a lil lower plz gambling budget low https://t.co/XGznI6IAzB"
         }
       ],
       "threads": {
@@ -804,7 +807,6 @@
         "2121179953261920561": false,
         "2121182305591128178": false,
         "2121192689324691510": false,
-        "2121195470823534777": false,
         "2121197627903783221": false,
         "2121202474497544522": false,
         "2121203087943860275": false,
@@ -828,7 +830,8 @@
         "2121417710685073453": false,
         "2121425432759374257": false,
         "2121434427574345894": false,
-        "2121434639386677493": false
+        "2121434639386677493": false,
+        "2121436185633685786": true
       },
       "user_id": "1446541960181858315"
     },
@@ -6383,7 +6386,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121384370540102139",
+      "last_id": "2121436423265955951",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6435,11 +6438,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T19:01:13.000Z",
-          "id": "2120955088197812345",
-          "text": "We are fucking cooking with @fullstack_trade.\n\nI've never been more excited to release a project in my life. We're building the best trading front end in the world with cutting edge execution.\n\nIf you're interested in joining our team in NYC, working with people from top trading firms apply today:\n\nhttps://t.co/q5O9gtkXAE"
-        },
         {
           "created_at": "2026-11-12T21:19:59.000Z",
           "id": "2120990011680284676",
@@ -6554,10 +6552,14 @@
           "created_at": "2026-11-13T22:35:32.000Z",
           "id": "2121371411273130066",
           "text": "Reluctantly but with a heavy heart, I have to withdraw my nomination for director of the Ethereum foundation. They looked through my trading history and found Ethereum purchases. While I contested that it was an account I may not have full control over it bars you from joining."
+        },
+        {
+          "created_at": "2026-11-14T02:53:52.000Z",
+          "id": "2121436423265955951",
+          "text": "ngl druck\u2019s first tweet in history to be my exit liquidity is a childhood dream moment"
         }
       ],
       "reads": {
-        "2120955088197812345": "No call",
         "2120990011680284676": "TRADE LONG HYPE",
         "2120992788271550673": "No call",
         "2121040486635131375": "No call",
@@ -6576,7 +6578,8 @@
         "2121369985150832923": "No call: bearish on eth (same view as before)",
         "2121370392912638212": "No call",
         "2121371060213805352": "No call",
-        "2121371411273130066": "No call"
+        "2121371411273130066": "No call",
+        "2121436423265955951": "No call"
       },
       "replies": [
         {
@@ -6674,12 +6677,6 @@
         }
       ],
       "threads": {
-        "2111898450333757538": {
-          "alerted": [
-            "bias:eth:bearish"
-          ],
-          "self_replies": 0
-        },
         "2111957092781240827": {
           "alerted": [],
           "self_replies": 0
@@ -7089,6 +7086,10 @@
         "2121371411273130066": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121436423265955951": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7103,7 +7104,6 @@
         "2120937340495339809": true,
         "2120937737994088669": false,
         "2120942476978483206": false,
-        "2120955088197812345": false,
         "2120969204128235808": true,
         "2120990011680284676": true,
         "2120992788271550673": true,
@@ -7126,7 +7126,8 @@
         "2121370893020549192": true,
         "2121371060213805352": true,
         "2121371411273130066": false,
-        "2121384370540102139": false
+        "2121384370540102139": false,
+        "2121436423265955951": true
       },
       "user_id": "809191427645181952"
     }
@@ -7149,5 +7150,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-13",
-  "updated_at": "2026-11-14T02:52:21+00:00"
+  "updated_at": "2026-11-14T02:54:27+00:00"
 }
