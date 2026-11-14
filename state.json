@@ -1025,7 +1025,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121646297199587552",
+      "last_id": "2121647061778997539",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1158,12 +1158,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-13T23:36:09.000Z",
-          "id": "2121386666233315396",
-          "quoted_text": "$NVDA on @tradexyz has surpassed $1.85B in 24h trading volume. https://t.co/yfZqfuYVyT",
-          "text": "2026 was a historic year for equity perps https://t.co/PWlzNKPKIO"
-        },
-        {
           "created_at": "2026-11-14T00:35:24.000Z",
           "id": "2121401576497836279",
           "quoted_text": "we will find you and touch you https://t.co/qx25b3AitE",
@@ -1276,10 +1270,14 @@
           "created_at": "2026-11-14T16:47:19.000Z",
           "id": "2121646170367758767",
           "text": "ok well uh"
+        },
+        {
+          "created_at": "2026-11-14T16:50:52.000Z",
+          "id": "2121647061778997539",
+          "text": "this is carnage"
         }
       ],
       "reads": {
-        "2121386666233315396": "No call",
         "2121401576497836279": "No call",
         "2121406244917584250": "No call",
         "2121419960845213981": "No call",
@@ -1297,7 +1295,8 @@
         "2121612770835628044": "No call",
         "2121641494545412140": "No call",
         "2121646080219897971": "No call: bearish on btc (same view as before)",
-        "2121646170367758767": "No call"
+        "2121646170367758767": "No call",
+        "2121647061778997539": "No call"
       },
       "replies": [
         {
@@ -1392,10 +1391,6 @@
         }
       ],
       "threads": {
-        "2120500201844605164": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120501494638113203": {
           "alerted": [],
           "self_replies": 0
@@ -1801,10 +1796,13 @@
         "2121646170367758767": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121647061778997539": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121386666233315396": true,
         "2121401576497836279": true,
         "2121406244917584250": true,
         "2121419960845213981": true,
@@ -1838,7 +1836,8 @@
         "2121641656738865417": false,
         "2121646080219897971": true,
         "2121646170367758767": false,
-        "2121646297199587552": false
+        "2121646297199587552": false,
+        "2121647061778997539": true
       },
       "user_id": "973261472"
     },
@@ -7147,5 +7146,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T16:48:25+00:00"
+  "updated_at": "2026-11-14T16:52:21+00:00"
 }
