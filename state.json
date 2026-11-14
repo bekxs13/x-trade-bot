@@ -858,12 +858,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2121362703713288583",
-          "reason": "'last drive down soon' expects one more leg lower, but he wants range lows to hold, which hints at a bottom forming. This is still a bearish near-term view on BTC, in line with the recorded stance.",
+          "post_id": "2121646080219897971",
+          "reason": "\"yea\" endorses the quoted post saying the muted reaction to the hack doesn't mean the downtrend won't continue, matching the recorded bearish btc view.",
           "scope": "btc",
           "since": "2026-10-26",
           "stance": "bearish",
-          "updated_at": "2026-11-13T22:00:56.000Z"
+          "updated_at": "2026-11-14T16:46:58.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -1025,7 +1025,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121641656738865417",
+      "last_id": "2121646297199587552",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1158,16 +1158,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-13T23:12:47.000Z",
-          "id": "2121380787794722877",
-          "text": "just abysmal pa man"
-        },
-        {
-          "created_at": "2026-11-13T23:15:33.000Z",
-          "id": "2121381483319640137",
-          "text": "ordering some chinese food what should i get"
-        },
-        {
           "created_at": "2026-11-13T23:36:09.000Z",
           "id": "2121386666233315396",
           "quoted_text": "$NVDA on @tradexyz has surpassed $1.85B in 24h trading volume. https://t.co/yfZqfuYVyT",
@@ -1275,11 +1265,20 @@
             "https://pbs.twimg.com/media/HXGVseiWkAAa1vM.jpg"
           ],
           "text": "gmihao https://t.co/nUxNiMM1RS"
+        },
+        {
+          "created_at": "2026-11-14T16:46:58.000Z",
+          "id": "2121646080219897971",
+          "quoted_text": "keep seeing people say \"$6b hack and bitcoin only down 2%\" as a bullish thing\n\nbelieve ppl are fundamentally misunderstanding the difference to how bitcoin trades now versus years ago\n\n$BTC used to be the primary driver for retail speculation in crypto, we were all aping leveraged positions on perps in 2017, alts were also part of the speculation but btc much moreso than now\n\nthis changed in 2020/21 when retail mostly were trading alts as their way of going down the risk curve, the new traders o",
+          "text": "yea https://t.co/Ku7hjgB4f9"
+        },
+        {
+          "created_at": "2026-11-14T16:47:19.000Z",
+          "id": "2121646170367758767",
+          "text": "ok well uh"
         }
       ],
       "reads": {
-        "2121380787794722877": "No call",
-        "2121381483319640137": "No call",
         "2121386666233315396": "No call",
         "2121401576497836279": "No call",
         "2121406244917584250": "No call",
@@ -1296,15 +1295,11 @@
         "2121592402234548448": "No call",
         "2121601329970000062": "No call",
         "2121612770835628044": "No call",
-        "2121641494545412140": "No call"
+        "2121641494545412140": "No call",
+        "2121646080219897971": "No call: bearish on btc (same view as before)",
+        "2121646170367758767": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-14T14:18:08.000Z",
-          "id": "2121608623382315314",
-          "reply_to_id": "2121594171567800519",
-          "text": "@bckfv_eth not always"
-        },
         {
           "created_at": "2026-11-14T14:18:27.000Z",
           "id": "2121608706144284770",
@@ -1388,17 +1383,15 @@
           "id": "2121641656738865417",
           "reply_to_id": "2121592236400091490",
           "text": "@mostluckiestmax thank you bro"
+        },
+        {
+          "created_at": "2026-11-14T16:47:50.000Z",
+          "id": "2121646297199587552",
+          "reply_to_id": "2121513371644088366",
+          "text": "@justalexoki @PhilCrypto77 dude"
         }
       ],
       "threads": {
-        "2120493557622661458": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2120500077282394114": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120500201844605164": {
           "alerted": [],
           "self_replies": 0
@@ -1800,11 +1793,17 @@
         "2121641494545412140": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121646080219897971": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2121646170367758767": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121380787794722877": true,
-        "2121381483319640137": false,
         "2121386666233315396": true,
         "2121401576497836279": true,
         "2121406244917584250": true,
@@ -1821,7 +1820,6 @@
         "2121592402234548448": true,
         "2121601329970000062": false,
         "2121606753729364443": true,
-        "2121608623382315314": false,
         "2121608706144284770": true,
         "2121608801556013554": true,
         "2121612467784851675": false,
@@ -1837,7 +1835,10 @@
         "2121634733880971625": false,
         "2121641290479579320": true,
         "2121641494545412140": false,
-        "2121641656738865417": false
+        "2121641656738865417": false,
+        "2121646080219897971": true,
+        "2121646170367758767": false,
+        "2121646297199587552": false
       },
       "user_id": "973261472"
     },
@@ -7146,5 +7147,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T16:30:25+00:00"
+  "updated_at": "2026-11-14T16:48:25+00:00"
 }
