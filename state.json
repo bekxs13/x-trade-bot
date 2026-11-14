@@ -6389,7 +6389,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121714839186010514",
+      "last_id": "2121719931095974394",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6441,11 +6441,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T15:09:17.000Z",
-          "id": "2121621495793483861",
-          "text": "The three types of investors you see in every market cycle\n\nThe innovators\nThe imitators \n\nand then,\n\nThe idiots"
-        },
         {
           "created_at": "2026-11-14T15:17:28.000Z",
           "id": "2121623558606725513",
@@ -6568,10 +6563,14 @@
           "created_at": "2026-11-14T21:20:11.000Z",
           "id": "2121714839186010514",
           "text": "0x082e843a431aef031264dc232693dd710aedca88"
+        },
+        {
+          "created_at": "2026-11-14T21:40:25.000Z",
+          "id": "2121719931095974394",
+          "text": "Okay safe for now, see you tomorrow!\n\nCongratulations to SpaceX and Elon Musk, going to go watch the rockets now."
         }
       ],
       "reads": {
-        "2121621495793483861": "No call",
         "2121623558606725513": "No call: maybe long HYPE (60%, too unsure)",
         "2121626092020883488": "No call",
         "2121627603060556243": "No call: bearish on crypto market (same view as before)",
@@ -6589,7 +6588,8 @@
         "2121709409428762636": "No call",
         "2121710899446837495": "No call",
         "2121714139894526394": "No call",
-        "2121714839186010514": "No call: maybe long  (50%, too unsure)"
+        "2121714839186010514": "No call: maybe long  (50%, too unsure)",
+        "2121719931095974394": "No call"
       },
       "replies": [
         {
@@ -6687,10 +6687,6 @@
         }
       ],
       "threads": {
-        "2118396199137104248": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118410832665071810": {
           "alerted": [],
           "self_replies": 0
@@ -7097,6 +7093,10 @@
         "2121714839186010514": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121719931095974394": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7115,7 +7115,6 @@
         "2121384370540102139": false,
         "2121483826731885024": false,
         "2121621078405783948": true,
-        "2121621495793483861": true,
         "2121623558606725513": true,
         "2121626092020883488": true,
         "2121627603060556243": true,
@@ -7134,7 +7133,8 @@
         "2121709409428762636": false,
         "2121710899446837495": false,
         "2121714139894526394": true,
-        "2121714839186010514": true
+        "2121714839186010514": true,
+        "2121719931095974394": false
       },
       "user_id": "809191427645181952"
     }
@@ -7157,5 +7157,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T21:38:26+00:00"
+  "updated_at": "2026-11-14T21:42:25+00:00"
 }
