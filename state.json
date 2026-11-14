@@ -6386,7 +6386,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121689648393298169",
+      "last_id": "2121692384870445363",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6438,12 +6438,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T22:34:08.000Z",
-          "id": "2121371060213805352",
-          "quoted_text": "Tom Lee could actually realistically trade his way out of the hole.\n\nStep 1) Open massive OTM puts on ETH and short ETH perps on Hyperliquid \n\nStep 2) Buy massive OTM call options on HYPE (150/200 CSP)\n\nStep 3) Unwind your ETH position publicly, and quickly with the announcement that you're converting all of it to HYPE\n\nStep 4) Unwind both your ETH short exposure and your HYPE calls and bank 10B+\n\nStep 5) Let HYPE spot appreciation take care of the rest",
-          "text": "It's not too late @fundstrat https://t.co/QAVbtuelJH"
-        },
         {
           "created_at": "2026-11-13T22:35:32.000Z",
           "id": "2121371411273130066",
@@ -6554,10 +6548,17 @@
             "https://pbs.twimg.com/media/HXHBccFWwAE7_wF.png"
           ],
           "text": "Red Candle Crew on the lookout https://t.co/p9SBwbETZb"
+        },
+        {
+          "created_at": "2026-11-14T19:50:58.000Z",
+          "id": "2121692384870445363",
+          "images": [
+            "https://pbs.twimg.com/media/HXHD-MMW8AA-7ua.jpg"
+          ],
+          "text": "\u201c...Only by being able to endure what people cannot bear, can you do what people cannot do...\u201d https://t.co/ec6QCKUqXW"
         }
       ],
       "reads": {
-        "2121371060213805352": "No call",
         "2121371411273130066": "No call",
         "2121436423265955951": "No call",
         "2121466340129042813": "No call",
@@ -6575,7 +6576,8 @@
         "2121667199337386025": "No call",
         "2121668960127005162": "No call",
         "2121689350668788005": "No call",
-        "2121689648393298169": "No call"
+        "2121689648393298169": "No call",
+        "2121692384870445363": "No call"
       },
       "replies": [
         {
@@ -6673,10 +6675,6 @@
         }
       ],
       "threads": {
-        "2118374014204977283": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118374411199717864": {
           "alerted": [],
           "self_replies": 0
@@ -7083,6 +7081,10 @@
         "2121689648393298169": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121692384870445363": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7098,7 +7100,6 @@
         "2120969204128235808": true,
         "2121368520252334151": true,
         "2121370893020549192": true,
-        "2121371060213805352": true,
         "2121371411273130066": false,
         "2121384370540102139": false,
         "2121436423265955951": true,
@@ -7120,7 +7121,8 @@
         "2121667199337386025": false,
         "2121668960127005162": true,
         "2121689350668788005": false,
-        "2121689648393298169": true
+        "2121689648393298169": true,
+        "2121692384870445363": false
       },
       "user_id": "809191427645181952"
     }
@@ -7143,5 +7145,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-14T19:40:32+00:00"
+  "updated_at": "2026-11-14T19:52:20+00:00"
 }
