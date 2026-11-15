@@ -869,12 +869,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2121646080219897971",
-          "reason": "\"yea\" endorses the quoted post saying the muted reaction to the hack doesn't mean the downtrend won't continue, matching the recorded bearish btc view.",
+          "post_id": "2121931459783201053",
+          "reason": "\"expecting chop at these levels\" with range lows to hold: giga-bull above 82k, very bearish below 57k. That moves off the recorded bearish BTC view to neutral.",
           "scope": "btc",
-          "since": "2026-10-26",
-          "stance": "bearish",
-          "updated_at": "2026-11-14T16:46:58.000Z"
+          "since": "2026-11-15",
+          "stance": "neutral",
+          "updated_at": "2026-11-15T11:40:58.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -1078,10 +1078,25 @@
           "opened": "2026-11-06T02:22:57.000Z",
           "partial": false,
           "structure": "perp"
+        },
+        {
+          "asset": "BTC",
+          "close_price": 65528.85,
+          "close_url": "https://x.com/blknoiz06/status/2121931459783201053",
+          "closed": "2026-11-15T11:40:58.000Z",
+          "direction": "",
+          "flipped": false,
+          "market": "crypto",
+          "move": null,
+          "open_price": null,
+          "open_url": "",
+          "opened": "",
+          "partial": false,
+          "structure": ""
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121929768023310813",
+      "last_id": "2121931459783201053",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1165,12 +1180,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T14:10:42.000Z",
-          "id": "2121606753729364443",
-          "reply_to_id": "2121606495708082548",
-          "text": "@TitanicXBT ive just been doing my best to let ppl know when i flipped bearish and where i think prices are going, but onchain can diverge from majors because market cap is much lower so floor is easier to hold, which is what i expect to happen"
-        },
         {
           "created_at": "2026-11-14T14:34:36.000Z",
           "id": "2121612770835628044",
@@ -1277,6 +1286,15 @@
             "https://pbs.twimg.com/amplify_video_thumb/2121929216757551104/img/RWXiF2AMdPvASi6z.jpg"
           ],
           "text": "i'm still expecting Q4 to be difficult for risk assets, and i don't think crypto has found its bottom yet\n\nequities could see a relief bounce soon, but my base case is that most of the coins that led the recent rally will eventually retest their summer lows\n\nthose levels are going to be important for how i view the next cycle\n\nif they hold, i could see the bull market starting to pick up again around Q2 2027\n\nif we break below those lows and start making new ones, i think the recovery gets pushed further out\n\nfor now, i'm watching how price reacts at those levels before getting more optimistic"
+        },
+        {
+          "created_at": "2026-11-15T11:40:58.000Z",
+          "id": "2121931459783201053",
+          "images": [
+            "https://pbs.twimg.com/media/HXKcryDWAAARRtk.png"
+          ],
+          "quoted_text": "i'm still expecting Q4 to be difficult for risk assets, and i don't think crypto has found its bottom yet\n\nequities could see a relief bounce soon, but my base case is that most of the coins that led the recent rally will eventually retest their summer lows\n\nthose levels are going to be important for how i view the next cycle\n\nif they hold, i could see the bull market starting to pick up again around Q2 2027\n\nif we break below those lows and start making new ones, i think the recovery gets pushe",
+          "text": "this was from ~10 days ago\n\nvery important spot here for $BTC, want to see these range lows hold\n\nclosed shorts yesterday currently expecting chop at these levels before another major trending move\n\ncan be giga-bull at 82k+, extremely bear sub 57k on HTF https://t.co/Cmw2uVGTA3 https://t.co/jb22dng4x9"
         }
       ],
       "reads": {
@@ -1298,7 +1316,8 @@
         "2121781530813141430": "No call",
         "2121807676539830767": "TRADE EXIT BTC, ETH, SOL",
         "2121925527246139854": "No call",
-        "2121929768023310813": "No call: bearish on crypto market (same view as before)"
+        "2121929768023310813": "No call: bearish on crypto market (same view as before)",
+        "2121931459783201053": "TRADE EXIT BTC"
       },
       "replies": [
         {
@@ -1393,10 +1412,6 @@
         }
       ],
       "threads": {
-        "2120642083254046950": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120642272228454457": {
           "alerted": [],
           "self_replies": 0
@@ -1804,10 +1819,15 @@
         "2121929768023310813": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121931459783201053": {
+          "alerted": [
+            "trade:BTC:exit"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121606753729364443": true,
         "2121612770835628044": true,
         "2121641494545412140": false,
         "2121646080219897971": true,
@@ -1841,7 +1861,8 @@
         "2121807676539830767": true,
         "2121925527246139854": true,
         "2121929119403216924": false,
-        "2121929768023310813": true
+        "2121929768023310813": true,
+        "2121931459783201053": true
       },
       "user_id": "973261472"
     },
@@ -7140,5 +7161,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T11:36:21+00:00"
+  "updated_at": "2026-11-15T11:42:23+00:00"
 }
