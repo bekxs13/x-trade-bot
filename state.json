@@ -6392,7 +6392,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121794659391545636",
+      "last_id": "2121837781508915257",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6444,11 +6444,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T20:58:37.000Z",
-          "id": "2121709409428762636",
-          "text": "https://t.co/WjtF7nfUhB"
-        },
         {
           "created_at": "2026-11-14T21:04:32.000Z",
           "id": "2121710899446837495",
@@ -6553,10 +6548,14 @@
           "created_at": "2026-11-15T02:35:32.000Z",
           "id": "2121794197321867525",
           "text": "Have a good weekend everyone\n\nWe can go up now that was enough"
+        },
+        {
+          "created_at": "2026-11-15T05:28:43.000Z",
+          "id": "2121837781508915257",
+          "text": "At this point in Crypto why would you trust any influencer, who talks about their positioning all the time who won't show their public Hyperliquid wallet. \n\nIf they refuse to share it there's only one logical conclusion, they're not profitable."
         }
       ],
       "reads": {
-        "2121709409428762636": "No call",
         "2121710899446837495": "No call",
         "2121714139894526394": "No call",
         "2121714839186010514": "No call: maybe long  (50%, too unsure)",
@@ -6572,7 +6571,8 @@
         "2121774572206977409": "VIEW bearish on btc",
         "2121776329817309449": "No call",
         "2121776966848397415": "No call",
-        "2121794197321867525": "VIEW bullish on btc"
+        "2121794197321867525": "VIEW bullish on btc",
+        "2121837781508915257": "No call"
       },
       "replies": [
         {
@@ -6670,12 +6670,6 @@
         }
       ],
       "threads": {
-        "2118720688349659268": {
-          "alerted": [
-            "trade:BTC:long"
-          ],
-          "self_replies": 1
-        },
         "2118727970021904749": {
           "alerted": [],
           "self_replies": 0
@@ -7081,6 +7075,10 @@
             "bias:btc:bullish"
           ],
           "self_replies": 0
+        },
+        "2121837781508915257": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7097,7 +7095,6 @@
         "2121384370540102139": false,
         "2121483826731885024": false,
         "2121621078405783948": true,
-        "2121709409428762636": false,
         "2121710899446837495": false,
         "2121714139894526394": true,
         "2121714839186010514": true,
@@ -7118,7 +7115,8 @@
         "2121781492523122859": false,
         "2121790458938462680": true,
         "2121794197321867525": true,
-        "2121794659391545636": true
+        "2121794659391545636": true,
+        "2121837781508915257": true
       },
       "user_id": "809191427645181952"
     }
@@ -7141,5 +7139,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T05:14:23+00:00"
+  "updated_at": "2026-11-15T05:30:22+00:00"
 }
