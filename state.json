@@ -4647,7 +4647,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122074613249126518",
+      "last_id": "2122102793695900002",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4833,12 +4833,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T17:42:50.000Z",
-          "id": "2121297752026210624",
-          "reply_to_id": "2121297585894002831",
-          "text": "@sjf_keef i can\u2019t believe you seriously think it would be a game"
-        },
-        {
           "created_at": "2026-11-13T18:05:35.000Z",
           "id": "2121303475548299624",
           "reply_to_id": "2121301470779969594",
@@ -4924,6 +4918,12 @@
           "id": "2122074613249126518",
           "reply_to_id": "2122074138097697155",
           "text": "@5morewhooppers everybody must suffer in wake of the impending anthropic valuation \n\ngoodalexander, lgw"
+        },
+        {
+          "created_at": "2026-11-15T23:01:47.000Z",
+          "id": "2122102793695900002",
+          "reply_to_id": "2122094558897160700",
+          "text": "@SCHIZO_FREQ what\u2019s the it\u2019s over catalyst in question here"
         }
       ],
       "threads": {
@@ -5344,7 +5344,6 @@
         "2121220625528238091": false,
         "2121236584808718590": true,
         "2121266693385384306": true,
-        "2121297752026210624": false,
         "2121303475548299624": true,
         "2121344091707560428": false,
         "2121402398799180001": false,
@@ -5365,7 +5364,8 @@
         "2122045724795814312": false,
         "2122046856297644246": true,
         "2122068882848616865": false,
-        "2122074613249126518": true
+        "2122074613249126518": true,
+        "2122102793695900002": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7186,5 +7186,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-15T23:00:23+00:00"
+  "updated_at": "2026-11-15T23:02:22+00:00"
 }
