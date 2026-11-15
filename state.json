@@ -6320,12 +6320,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2121774572206977409",
-          "reason": "'Most aggressive, price insensitive BTC selling' plus 'bidding levels blindingly is a good way to get clipped' reads as near-term bearish caution. This fits his earlier reply calling for 'mid/low 50ks' and the liquidation cascade posts, and it differs from his recorded bullish BTC view.",
+          "post_id": "2121794197321867525",
+          "reason": "After calling the weekend Coinbase dump \"fine to bid\" twice, \"We can go up now that was enough\" says the selling is done and BTC should bounce, a flip from the recorded bearish btc view.",
           "scope": "btc",
           "since": "2026-11-15",
-          "stance": "bearish",
-          "updated_at": "2026-11-15T01:17:33.000Z"
+          "stance": "bullish",
+          "updated_at": "2026-11-15T02:35:32.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -6391,7 +6391,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121790458938462680",
+      "last_id": "2121794197321867525",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6443,14 +6443,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T20:56:36.000Z",
-          "id": "2121708902467416257",
-          "images": [
-            "https://pbs.twimg.com/media/HXHS-1TWwAA8URd.jpg"
-          ],
-          "text": "Love Gold at 3200 https://t.co/O1noMvyNEe"
-        },
         {
           "created_at": "2026-11-14T20:58:37.000Z",
           "id": "2121709409428762636",
@@ -6555,10 +6547,14 @@
           "id": "2121790458938462680",
           "reply_to_id": "2121781492523122859",
           "text": "Calling it, either lending desk that blew up (fine to bid)\n\nOr someone jeeting 5B of BTC to buy 5B of ANT (also fine to bid)"
+        },
+        {
+          "created_at": "2026-11-15T02:35:32.000Z",
+          "id": "2121794197321867525",
+          "text": "Have a good weekend everyone\n\nWe can go up now that was enough"
         }
       ],
       "reads": {
-        "2121708902467416257": "VIEW bearish on gold",
         "2121709409428762636": "No call",
         "2121710899446837495": "No call",
         "2121714139894526394": "No call",
@@ -6574,7 +6570,8 @@
         "2121751494244397231": "No call",
         "2121774572206977409": "VIEW bearish on btc",
         "2121776329817309449": "No call",
-        "2121776966848397415": "No call"
+        "2121776966848397415": "No call",
+        "2121794197321867525": "VIEW bullish on btc"
       },
       "replies": [
         {
@@ -6672,10 +6669,6 @@
         }
       ],
       "threads": {
-        "2118461410242125845": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118720688349659268": {
           "alerted": [
             "trade:BTC:long"
@@ -7081,6 +7074,12 @@
         "2121776966848397415": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121794197321867525": {
+          "alerted": [
+            "bias:btc:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7098,7 +7097,6 @@
         "2121384370540102139": false,
         "2121483826731885024": false,
         "2121621078405783948": true,
-        "2121708902467416257": true,
         "2121709409428762636": false,
         "2121710899446837495": false,
         "2121714139894526394": true,
@@ -7118,7 +7116,8 @@
         "2121776966848397415": true,
         "2121777516566229292": true,
         "2121781492523122859": false,
-        "2121790458938462680": true
+        "2121790458938462680": true,
+        "2121794197321867525": true
       },
       "user_id": "809191427645181952"
     }
@@ -7141,5 +7140,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T02:34:17+00:00"
+  "updated_at": "2026-11-15T02:36:31+00:00"
 }
