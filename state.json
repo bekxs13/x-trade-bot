@@ -1102,7 +1102,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122046665632911597",
+      "last_id": "2122051143169949842",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1186,11 +1186,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T21:46:56.000Z",
-          "id": "2121721569257095633",
-          "text": "https://t.co/6ax3yLQVja"
-        },
         {
           "created_at": "2026-11-14T22:36:22.000Z",
           "id": "2121734010774732976",
@@ -1305,10 +1300,17 @@
           "id": "2122046665632911597",
           "quoted_text": "JENSEN HUANG DISCUSSES COMEBACK AS NVIDIA CEO WITH ALLIES: FT https://t.co/UaqJAM3fax",
           "text": "movie https://t.co/SA5BV5pSy3"
+        },
+        {
+          "created_at": "2026-11-15T19:36:32.000Z",
+          "id": "2122051143169949842",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2122050611353174016/img/xy5hzHW6LxgHo877.jpg"
+          ],
+          "text": "i'd much rather trade a volatile market than sit through months of low-volatility chop\n\ni can trade strong trends in either direction. it's the 1% daily moves and endless sideways price action that make finding good opportunities difficult https://t.co/gGxlDluo6T"
         }
       ],
       "reads": {
-        "2121721569257095633": "No call",
         "2121734010774732976": "No call",
         "2121748051890979000": "No call",
         "2121748157814231115": "No call",
@@ -1326,7 +1328,8 @@
         "2121942589666451714": "No call",
         "2121946072029204864": "No call",
         "2121948297845686312": "No call",
-        "2122046665632911597": "No call"
+        "2122046665632911597": "No call",
+        "2122051143169949842": "No call"
       },
       "replies": [
         {
@@ -1421,10 +1424,6 @@
         }
       ],
       "threads": {
-        "2120668467955171356": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120707686794928479": {
           "alerted": [],
           "self_replies": 0
@@ -1834,10 +1833,13 @@
         "2122046665632911597": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122051143169949842": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121721569257095633": false,
         "2121734010774732976": false,
         "2121748051890979000": true,
         "2121748157814231115": true,
@@ -1871,7 +1873,8 @@
         "2122039570481188931": false,
         "2122043668622184947": false,
         "2122044144868626736": true,
-        "2122046665632911597": true
+        "2122046665632911597": true,
+        "2122051143169949842": true
       },
       "user_id": "973261472"
     },
@@ -7168,5 +7171,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-15T19:28:21+00:00"
+  "updated_at": "2026-11-15T19:38:23+00:00"
 }
