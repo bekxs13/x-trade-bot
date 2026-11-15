@@ -1102,7 +1102,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121982197397860849",
+      "last_id": "2122039570481188931",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1329,12 +1329,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-15T12:47:23.000Z",
-          "id": "2121948174784823584",
-          "reply_to_id": "2121947347060171090",
-          "text": "@Ga__ke well that doesnt seem possible"
-        },
-        {
           "created_at": "2026-11-15T12:49:14.000Z",
           "id": "2121948639136563259",
           "reply_to_id": "2121948297325846660",
@@ -1417,6 +1411,12 @@
           "id": "2121982197397860849",
           "reply_to_id": "2121981138784702747",
           "text": "@I4NFTS trust the process https://t.co/Ra4C1lHR3B"
+        },
+        {
+          "created_at": "2026-11-15T18:50:33.000Z",
+          "id": "2122039570481188931",
+          "reply_to_id": "2122038606252667181",
+          "text": "@canetorin yes"
         }
       ],
       "threads": {
@@ -1854,7 +1854,6 @@
         "2121941806682341868": false,
         "2121942589666451714": true,
         "2121946072029204864": true,
-        "2121948174784823584": false,
         "2121948297845686312": true,
         "2121948639136563259": true,
         "2121949492781953034": false,
@@ -1870,7 +1869,8 @@
         "2121978042255905158": false,
         "2121978243922510288": false,
         "2121979388434530682": false,
-        "2121982197397860849": false
+        "2121982197397860849": false,
+        "2122039570481188931": false
       },
       "user_id": "973261472"
     },
@@ -6423,7 +6423,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122034439316181103",
+      "last_id": "2122039738165293102",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6475,11 +6475,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T21:40:25.000Z",
-          "id": "2121719931095974394",
-          "text": "Okay safe for now, see you tomorrow!\n\nCongratulations to SpaceX and Elon Musk, going to go watch the rockets now."
-        },
         {
           "created_at": "2026-11-14T21:59:22.000Z",
           "id": "2121724698899665065",
@@ -6585,10 +6580,17 @@
           "created_at": "2026-11-15T18:09:23.000Z",
           "id": "2122029209241452870",
           "text": "If you're not trading on Hyperliquid you're just a fundamentally unserious trader. Hyperliquid is the only transparent venue where you can trade perpetual futures on Stocks 24/7 with sufficiently liquidity for positions of tens of millions of dollars."
+        },
+        {
+          "created_at": "2026-11-15T18:51:13.000Z",
+          "id": "2122039738165293102",
+          "images": [
+            "https://pbs.twimg.com/media/HXL_5NYW4AA60E9.png"
+          ],
+          "text": "https://t.co/PA0Fa0KGKC"
         }
       ],
       "reads": {
-        "2121719931095974394": "No call",
         "2121724698899665065": "No call",
         "2121731261480026203": "No call",
         "2121740936854008160": "No call",
@@ -6604,7 +6606,8 @@
         "2121837781508915257": "No call",
         "2121838457748398123": "No call",
         "2121840174187327834": "No call",
-        "2122029209241452870": "No call"
+        "2122029209241452870": "No call",
+        "2122039738165293102": "No call"
       },
       "replies": [
         {
@@ -6699,10 +6702,6 @@
         }
       ],
       "threads": {
-        "2118759692121833668": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118777378042232977": {
           "alerted": [],
           "self_replies": 1
@@ -7108,6 +7107,10 @@
         "2122029209241452870": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122039738165293102": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7122,7 +7125,6 @@
         "2121384370540102139": false,
         "2121483826731885024": false,
         "2121621078405783948": true,
-        "2121719931095974394": false,
         "2121724698899665065": false,
         "2121731261480026203": false,
         "2121740936854008160": false,
@@ -7145,7 +7147,8 @@
         "2121838839765635395": false,
         "2121840174187327834": false,
         "2122029209241452870": true,
-        "2122034439316181103": false
+        "2122034439316181103": false,
+        "2122039738165293102": false
       },
       "user_id": "809191427645181952"
     }
@@ -7168,5 +7171,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-15T18:46:19+00:00"
+  "updated_at": "2026-11-15T18:52:21+00:00"
 }
