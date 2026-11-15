@@ -6317,12 +6317,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2118375604013916197",
-          "reason": "Buying spot BTC and long-dated IBIT calls while saying \"more! more!\" flips his recorded bearish BTC view. The bullish lean comes from the buys themselves, so it is inferred.",
+          "post_id": "2121774572206977409",
+          "reason": "'Most aggressive, price insensitive BTC selling' plus 'bidding levels blindingly is a good way to get clipped' reads as near-term bearish caution. This fits his earlier reply calling for 'mid/low 50ks' and the liquidation cascade posts, and it differs from his recorded bullish BTC view.",
           "scope": "btc",
-          "since": "2026-11-05",
-          "stance": "bullish",
-          "updated_at": "2026-11-05T16:11:16.000Z"
+          "since": "2026-11-15",
+          "stance": "bearish",
+          "updated_at": "2026-11-15T01:17:33.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -6388,7 +6388,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121751494244397231",
+      "last_id": "2121774572206977409",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6440,14 +6440,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T19:38:54.000Z",
-          "id": "2121689350668788005",
-          "images": [
-            "https://pbs.twimg.com/media/HXHBNW8WoAAPq6J.jpg"
-          ],
-          "text": "Us https://t.co/F4DKZeGK2Z"
-        },
         {
           "created_at": "2026-11-14T19:40:05.000Z",
           "id": "2121689648393298169",
@@ -6563,10 +6555,14 @@
           "created_at": "2026-11-14T23:45:51.000Z",
           "id": "2121751494244397231",
           "text": "Drop and give me 50"
+        },
+        {
+          "created_at": "2026-11-15T01:17:33.000Z",
+          "id": "2121774572206977409",
+          "text": "Some of the most aggressive, price insensitive BTC selling I've seen in my entire life.\n\nWhen you see flow like this you have to ask yourself, does this large seller know something? Is this some hidden leverage unwinding? Bidding levels blindingly is a good way to get clipped."
         }
       ],
       "reads": {
-        "2121689350668788005": "No call",
         "2121689648393298169": "No call",
         "2121692384870445363": "No call",
         "2121694189977260112": "No call",
@@ -6585,7 +6581,8 @@
         "2121744155307016192": "No call",
         "2121745920358334881": "No call",
         "2121746316707656089": "No call",
-        "2121751494244397231": "No call"
+        "2121751494244397231": "No call",
+        "2121774572206977409": "VIEW bearish on btc"
       },
       "replies": [
         {
@@ -6683,10 +6680,6 @@
         }
       ],
       "threads": {
-        "2118449871963271573": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118458904665333980": {
           "alerted": [],
           "self_replies": 1
@@ -7090,6 +7083,12 @@
         "2121751494244397231": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121774572206977409": {
+          "alerted": [
+            "bias:btc:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7107,7 +7106,6 @@
         "2121384370540102139": false,
         "2121483826731885024": false,
         "2121621078405783948": true,
-        "2121689350668788005": false,
         "2121689648393298169": true,
         "2121692384870445363": false,
         "2121694189977260112": false,
@@ -7127,7 +7125,8 @@
         "2121745920358334881": true,
         "2121746316707656089": false,
         "2121747269359985146": false,
-        "2121751494244397231": false
+        "2121751494244397231": false,
+        "2121774572206977409": true
       },
       "user_id": "809191427645181952"
     }
@@ -7150,5 +7149,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T01:10:20+00:00"
+  "updated_at": "2026-11-15T01:18:22+00:00"
 }
