@@ -1081,7 +1081,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121807676539830767",
+      "last_id": "2121925527246139854",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1165,14 +1165,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T13:13:40.000Z",
-          "id": "2121592402234548448",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2121591630721683456/img/QLTsyu1W5MJUGLLe.jpg"
-          ],
-          "text": "a recap of my bearish BTC + ETH calls, Micron + NASDAQ setups, Zcash + SOL targets, and how the prices actually performed following my analysis\n\n0:00 - BTC, ETH and Micron bearish calls\n1:38 - ETH targets and NASDAQ downside\n3:04 - ZEC, Micron and BTC outlook\n5:07 - BTC and SOL breakdowns\n6:05 - My calls vs actual price action"
-        },
         {
           "created_at": "2026-11-14T13:49:09.000Z",
           "id": "2121601329970000062",
@@ -1274,10 +1266,17 @@
           "created_at": "2026-11-15T03:29:06.000Z",
           "id": "2121807676539830767",
           "text": "closed shorts"
+        },
+        {
+          "created_at": "2026-11-15T11:17:23.000Z",
+          "id": "2121925527246139854",
+          "images": [
+            "https://pbs.twimg.com/media/HXKYBbMXAAA7bsX.jpg"
+          ],
+          "text": "gmihao bulls https://t.co/We6wuw5GCe"
         }
       ],
       "reads": {
-        "2121592402234548448": "No call",
         "2121601329970000062": "No call",
         "2121612770835628044": "No call",
         "2121641494545412140": "No call",
@@ -1295,7 +1294,8 @@
         "2121750150615814641": "No call",
         "2121771218177310983": "No call",
         "2121781530813141430": "No call",
-        "2121807676539830767": "TRADE EXIT BTC, ETH, SOL"
+        "2121807676539830767": "TRADE EXIT BTC, ETH, SOL",
+        "2121925527246139854": "No call"
       },
       "replies": [
         {
@@ -1390,10 +1390,6 @@
         }
       ],
       "threads": {
-        "2120617794488127516": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120620399629377874": {
           "alerted": [],
           "self_replies": 0
@@ -1801,10 +1797,13 @@
             "trade:BTC, ETH, SOL:exit"
           ],
           "self_replies": 0
+        },
+        "2121925527246139854": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121592402234548448": true,
         "2121601329970000062": false,
         "2121606753729364443": true,
         "2121612770835628044": true,
@@ -1838,7 +1837,8 @@
         "2121772524455199070": false,
         "2121781530813141430": true,
         "2121789294255964556": false,
-        "2121807676539830767": true
+        "2121807676539830767": true,
+        "2121925527246139854": true
       },
       "user_id": "973261472"
     },
@@ -7137,5 +7137,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T10:46:16+00:00"
+  "updated_at": "2026-11-15T11:18:22+00:00"
 }
