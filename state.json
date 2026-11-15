@@ -1096,7 +1096,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121974853653959039",
+      "last_id": "2121978042255905158",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1180,12 +1180,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T18:39:01.000Z",
-          "id": "2121674279913972027",
-          "quoted_text": "this is probably going to upset some people because binance and cz are the easy scapegoats for losing money (they're ofc scum), but people are missing the forest for the trees \n\nwe are, for now, in a hiking cycle. dxy is routinely hitting new yearly highs. the ai trade as we know it is over. (i think) stocks puke more. yields and dxy are a black hole of capital. metals are down only. ai hacks are terrifying. risk is being obliterated because it's falling apart at the seams *across* the board. de",
-          "text": "on point https://t.co/C60EoTXhpz"
-        },
         {
           "created_at": "2026-11-14T21:37:25.000Z",
           "id": "2121719173319659586",
@@ -1298,10 +1292,15 @@
             "https://pbs.twimg.com/media/HXKsuMAXkAAC7kG.jpg"
           ],
           "text": "it's time https://t.co/xhOpryfYRL"
+        },
+        {
+          "created_at": "2026-11-15T14:46:04.000Z",
+          "id": "2121978042255905158",
+          "reply_to_id": "2121977864694140969",
+          "text": "@Sully1i1 @skytsuETH maybe ill do another video"
         }
       ],
       "reads": {
-        "2121674279913972027": "No call: bearish on stocks/macro (same view as before)",
         "2121719173319659586": "No call: bearish on crypto market (60%, too unsure)",
         "2121721569257095633": "No call",
         "2121734010774732976": "No call",
@@ -1323,12 +1322,6 @@
         "2121948297845686312": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-15T12:30:09.000Z",
-          "id": "2121943839137272244",
-          "reply_to_id": "2121943703346712846",
-          "text": "@in4crypto all in zcash??!?!"
-        },
         {
           "created_at": "2026-11-15T12:33:31.000Z",
           "id": "2121944684570575332",
@@ -1415,6 +1408,12 @@
           "id": "2121974853653959039",
           "reply_to_id": "2121966966655402375",
           "text": "@rbthreek im gonna bid early next week i think we test the low placed last night but im not gonna enjoy doing it lol"
+        },
+        {
+          "created_at": "2026-11-15T14:45:22.000Z",
+          "id": "2121977864694140969",
+          "reply_to_id": "2121966247936245946",
+          "text": "@Sully1i1 @skytsuETH im mostly cash but im not short anymore"
         }
       ],
       "threads": {
@@ -1834,7 +1833,6 @@
         }
       },
       "trading": {
-        "2121674279913972027": true,
         "2121719173319659586": true,
         "2121721569257095633": false,
         "2121734010774732976": false,
@@ -1852,7 +1850,6 @@
         "2121938003262083480": true,
         "2121941806682341868": false,
         "2121942589666451714": true,
-        "2121943839137272244": true,
         "2121944684570575332": true,
         "2121946072029204864": true,
         "2121947030146670708": false,
@@ -1868,7 +1865,9 @@
         "2121965459486499222": true,
         "2121970286941917585": false,
         "2121972692022894711": false,
-        "2121974853653959039": true
+        "2121974853653959039": true,
+        "2121977864694140969": true,
+        "2121978042255905158": false
       },
       "user_id": "973261472"
     },
@@ -7167,5 +7166,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-15T14:34:22+00:00"
+  "updated_at": "2026-11-15T14:46:18+00:00"
 }
