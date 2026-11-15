@@ -6391,7 +6391,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121794197321867525",
+      "last_id": "2121794659391545636",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6575,12 +6575,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-11T15:56:54.000Z",
-          "id": "2120546317898227979",
-          "reply_to_id": "2120545769921135015",
-          "text": "@Dirnchen @SoskaKyle We were short on 51 of the 56 days we held overnight."
-        },
-        {
           "created_at": "2026-11-12T16:50:45.000Z",
           "id": "2120922255936929882",
           "images": [
@@ -6666,6 +6660,12 @@
           "id": "2121747269359985146",
           "reply_to_id": "2121746912466628870",
           "text": "@MaushishYadav That was the old me"
+        },
+        {
+          "created_at": "2026-11-15T02:37:22.000Z",
+          "id": "2121794659391545636",
+          "reply_to_id": "2121794512171524228",
+          "text": "@hammad_ismail91 smallest gets closed last, been closed"
         }
       ],
       "threads": {
@@ -7083,7 +7083,6 @@
         }
       },
       "trading": {
-        "2120546317898227979": true,
         "2120922255936929882": false,
         "2120930300046049477": true,
         "2120935191342694537": false,
@@ -7117,7 +7116,8 @@
         "2121777516566229292": true,
         "2121781492523122859": false,
         "2121790458938462680": true,
-        "2121794197321867525": true
+        "2121794197321867525": true,
+        "2121794659391545636": true
       },
       "user_id": "809191427645181952"
     }
@@ -7140,5 +7140,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T02:36:31+00:00"
+  "updated_at": "2026-11-15T02:38:19+00:00"
 }
