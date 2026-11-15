@@ -6392,7 +6392,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121837781508915257",
+      "last_id": "2121838457748398123",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6444,11 +6444,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T21:04:32.000Z",
-          "id": "2121710899446837495",
-          "text": "https://t.co/2NeGvoMjQu"
-        },
         {
           "created_at": "2026-11-14T21:17:25.000Z",
           "id": "2121714139894526394",
@@ -6553,10 +6548,15 @@
           "created_at": "2026-11-15T05:28:43.000Z",
           "id": "2121837781508915257",
           "text": "At this point in Crypto why would you trust any influencer, who talks about their positioning all the time who won't show their public Hyperliquid wallet. \n\nIf they refuse to share it there's only one logical conclusion, they're not profitable."
+        },
+        {
+          "created_at": "2026-11-15T05:31:24.000Z",
+          "id": "2121838457748398123",
+          "reply_to_id": "2121837781508915257",
+          "text": "And if they claim it's for privacy reasons, but they post about trading all the time it's just an excuse.\n\nIf they don't trade on Hyperliquid then they're fundamentally unserious anyways as any serious trader has accounts everywhere.\n\n/HL or shut the fuck up faggot"
         }
       ],
       "reads": {
-        "2121710899446837495": "No call",
         "2121714139894526394": "No call",
         "2121714839186010514": "No call: maybe long  (50%, too unsure)",
         "2121719931095974394": "No call",
@@ -6572,7 +6572,8 @@
         "2121776329817309449": "No call",
         "2121776966848397415": "No call",
         "2121794197321867525": "VIEW bullish on btc",
-        "2121837781508915257": "No call"
+        "2121837781508915257": "No call",
+        "2121838457748398123": "No call"
       },
       "replies": [
         {
@@ -7078,7 +7079,7 @@
         },
         "2121837781508915257": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
@@ -7095,7 +7096,6 @@
         "2121384370540102139": false,
         "2121483826731885024": false,
         "2121621078405783948": true,
-        "2121710899446837495": false,
         "2121714139894526394": true,
         "2121714839186010514": true,
         "2121719931095974394": false,
@@ -7116,7 +7116,8 @@
         "2121790458938462680": true,
         "2121794197321867525": true,
         "2121794659391545636": true,
-        "2121837781508915257": true
+        "2121837781508915257": true,
+        "2121838457748398123": false
       },
       "user_id": "809191427645181952"
     }
@@ -7139,5 +7140,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T05:30:22+00:00"
+  "updated_at": "2026-11-15T05:32:21+00:00"
 }
