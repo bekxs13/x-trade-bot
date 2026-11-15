@@ -6392,7 +6392,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121838457748398123",
+      "last_id": "2121838839765635395",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6577,15 +6577,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-12T16:50:45.000Z",
-          "id": "2120922255936929882",
-          "images": [
-            "https://pbs.twimg.com/media/HW8HjQRWcAATWNG.jpg"
-          ],
-          "reply_to_id": "2120875227622277535",
-          "text": "@blknoiz06 I was born here https://t.co/6lzUvL4w5J"
-        },
-        {
           "created_at": "2026-11-12T17:22:43.000Z",
           "id": "2120930300046049477",
           "reply_to_id": "2120929954384711990",
@@ -6668,6 +6659,12 @@
           "id": "2121794659391545636",
           "reply_to_id": "2121794512171524228",
           "text": "@hammad_ismail91 smallest gets closed last, been closed"
+        },
+        {
+          "created_at": "2026-11-15T05:32:55.000Z",
+          "id": "2121838839765635395",
+          "reply_to_id": "2121838442653032595",
+          "text": "@skytsuETH @notthreadguy https://t.co/7ieYqtjvsR\n\nJust search Flood"
         }
       ],
       "threads": {
@@ -7083,7 +7080,6 @@
         }
       },
       "trading": {
-        "2120922255936929882": false,
         "2120930300046049477": true,
         "2120935191342694537": false,
         "2120935916424622157": false,
@@ -7117,7 +7113,8 @@
         "2121794197321867525": true,
         "2121794659391545636": true,
         "2121837781508915257": true,
-        "2121838457748398123": false
+        "2121838457748398123": false,
+        "2121838839765635395": false
       },
       "user_id": "809191427645181952"
     }
@@ -7140,5 +7137,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T05:32:21+00:00"
+  "updated_at": "2026-11-15T05:34:16+00:00"
 }
