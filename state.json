@@ -1102,7 +1102,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122067735815630956",
+      "last_id": "2122070456308273533",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1333,12 +1333,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-15T13:01:18.000Z",
-          "id": "2121951677196709923",
-          "reply_to_id": "2121823377241362726",
-          "text": "@Picolas_Caged hahahah"
-        },
-        {
           "created_at": "2026-11-15T13:38:30.000Z",
           "id": "2121961037918560413",
           "reply_to_id": "2121875127721968112",
@@ -1421,6 +1415,17 @@
           "id": "2122067735815630956",
           "reply_to_id": "2121996650189074917",
           "text": "@RobinhoodApp did you guys forget you have a blockchain"
+        },
+        {
+          "created_at": "2026-11-15T20:53:17.000Z",
+          "id": "2122070456308273533",
+          "images": [
+            "https://pbs.twimg.com/media/HXMb1VRW8AEU0i6.jpg",
+            "https://pbs.twimg.com/media/HXMb1VlXEAAqmF2.jpg",
+            "https://pbs.twimg.com/media/HXMb1VNWwAQQqrd.jpg"
+          ],
+          "reply_to_id": "2122069802135208143",
+          "text": "@SMtrades_ dunno, im at $200k in ~12 days or so https://t.co/j9kmEzgxYh"
         }
       ],
       "threads": {
@@ -1857,7 +1862,6 @@
         "2121942589666451714": true,
         "2121946072029204864": true,
         "2121948297845686312": true,
-        "2121951677196709923": false,
         "2121961037918560413": false,
         "2121961244609462520": true,
         "2121965459486499222": true,
@@ -1874,7 +1878,8 @@
         "2122044144868626736": true,
         "2122046665632911597": true,
         "2122051143169949842": true,
-        "2122067735815630956": false
+        "2122067735815630956": false,
+        "2122070456308273533": true
       },
       "user_id": "973261472"
     },
@@ -7171,5 +7176,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-15T20:48:16+00:00"
+  "updated_at": "2026-11-15T20:54:20+00:00"
 }
