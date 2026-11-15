@@ -1102,7 +1102,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122099818872901965",
+      "last_id": "2122102109953007967",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1333,12 +1333,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-15T14:46:52.000Z",
-          "id": "2121978243922510288",
-          "reply_to_id": "2121944453610889367",
-          "text": "@in4crypto battbot is rich as fuck"
-        },
-        {
           "created_at": "2026-11-15T14:51:25.000Z",
           "id": "2121979388434530682",
           "reply_to_id": "2121971546172391612",
@@ -1432,6 +1426,12 @@
           "id": "2122099818872901965",
           "reply_to_id": "2122098231320392028",
           "text": "@rasmr_eth rasmr mode"
+        },
+        {
+          "created_at": "2026-11-15T22:59:04.000Z",
+          "id": "2122102109953007967",
+          "reply_to_id": "2122086510027821270",
+          "text": "hasnt bitcoin fulfilled its role of protecting people against debasement past 15 years tho? its the best performing asset by an extremely wide margin\n\n& if btc lead to the creation of stablecoins & upgrades to the existing financial system w/ blockchains like hyperliquid, isnt that also a win? the goal should be a society where people dont need to escape terrible circumstances & should be able to transact freely as they see fit, it seems we are more on the way to that goal\n\ni agree the co-opting of btc by large corps & govts is not ideal but i dont think that means its failed, anybody who bought on his original thesis has done extremely well"
         }
       ],
       "threads": {
@@ -1867,7 +1867,6 @@
         "2121946072029204864": true,
         "2121948297845686312": true,
         "2121978042255905158": false,
-        "2121978243922510288": false,
         "2121979388434530682": false,
         "2121982197397860849": false,
         "2122039570481188931": false,
@@ -1885,7 +1884,8 @@
         "2122081173119590578": false,
         "2122084100047778239": false,
         "2122084151319056534": false,
-        "2122099818872901965": false
+        "2122099818872901965": false,
+        "2122102109953007967": true
       },
       "user_id": "973261472"
     },
@@ -7186,5 +7186,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-15T22:50:20+00:00"
+  "updated_at": "2026-11-15T23:00:23+00:00"
 }
