@@ -6392,7 +6392,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121838839765635395",
+      "last_id": "2121840174187327834",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6444,11 +6444,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T21:17:25.000Z",
-          "id": "2121714139894526394",
-          "text": "Just let it happen stop fighting it"
-        },
         {
           "created_at": "2026-11-14T21:20:11.000Z",
           "id": "2121714839186010514",
@@ -6554,10 +6549,14 @@
           "id": "2121838457748398123",
           "reply_to_id": "2121837781508915257",
           "text": "And if they claim it's for privacy reasons, but they post about trading all the time it's just an excuse.\n\nIf they don't trade on Hyperliquid then they're fundamentally unserious anyways as any serious trader has accounts everywhere.\n\n/HL or shut the fuck up faggot"
+        },
+        {
+          "created_at": "2026-11-15T05:38:14.000Z",
+          "id": "2121840174187327834",
+          "text": "Don't do anything stupid. Goodnight.\n\nEndure EVERYTHING"
         }
       ],
       "reads": {
-        "2121714139894526394": "No call",
         "2121714839186010514": "No call: maybe long  (50%, too unsure)",
         "2121719931095974394": "No call",
         "2121724698899665065": "No call",
@@ -6573,7 +6572,8 @@
         "2121776966848397415": "No call",
         "2121794197321867525": "VIEW bullish on btc",
         "2121837781508915257": "No call",
-        "2121838457748398123": "No call"
+        "2121838457748398123": "No call",
+        "2121840174187327834": "No call"
       },
       "replies": [
         {
@@ -6668,10 +6668,6 @@
         }
       ],
       "threads": {
-        "2118727970021904749": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118752177610994128": {
           "alerted": [],
           "self_replies": 0
@@ -7077,6 +7073,10 @@
         "2121837781508915257": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2121840174187327834": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7092,7 +7092,6 @@
         "2121384370540102139": false,
         "2121483826731885024": false,
         "2121621078405783948": true,
-        "2121714139894526394": true,
         "2121714839186010514": true,
         "2121719931095974394": false,
         "2121724698899665065": false,
@@ -7114,7 +7113,8 @@
         "2121794659391545636": true,
         "2121837781508915257": true,
         "2121838457748398123": false,
-        "2121838839765635395": false
+        "2121838839765635395": false,
+        "2121840174187327834": false
       },
       "user_id": "809191427645181952"
     }
@@ -7137,5 +7137,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T05:34:16+00:00"
+  "updated_at": "2026-11-15T05:40:23+00:00"
 }
