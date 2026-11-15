@@ -6388,7 +6388,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121776329817309449",
+      "last_id": "2121776966848397415",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6440,14 +6440,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T19:50:58.000Z",
-          "id": "2121692384870445363",
-          "images": [
-            "https://pbs.twimg.com/media/HXHD-MMW8AA-7ua.jpg"
-          ],
-          "text": "\u201c...Only by being able to endure what people cannot bear, can you do what people cannot do...\u201d https://t.co/ec6QCKUqXW"
-        },
         {
           "created_at": "2026-11-14T19:58:08.000Z",
           "id": "2121694189977260112",
@@ -6558,10 +6550,14 @@
           "id": "2121776329817309449",
           "reply_to_id": "2121774572206977409",
           "text": "Things that come to mind\n\nDoes this person have some insider alpha on geopolitical events and BTC is the most liquid thing to trade on the weekend\n\nDoes this person know something about quantum\n\nIs this person front running an even larger forced seller\n\nIs this person liquidating (you bid this one)"
+        },
+        {
+          "created_at": "2026-11-15T01:27:04.000Z",
+          "id": "2121776966848397415",
+          "text": "Feels like everyone is offline (or liquidated) today where this week has been the most exciting week to trade all year and a tremendous amount of money has changed hands"
         }
       ],
       "reads": {
-        "2121692384870445363": "No call",
         "2121694189977260112": "No call",
         "2121700004414808470": "No call",
         "2121708653812257266": "No call",
@@ -6580,7 +6576,8 @@
         "2121746316707656089": "No call",
         "2121751494244397231": "No call",
         "2121774572206977409": "VIEW bearish on btc",
-        "2121776329817309449": "No call"
+        "2121776329817309449": "No call",
+        "2121776966848397415": "No call"
       },
       "replies": [
         {
@@ -6678,10 +6675,6 @@
         }
       ],
       "threads": {
-        "2118458904665333980": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2118461410242125845": {
           "alerted": [],
           "self_replies": 0
@@ -7087,6 +7080,10 @@
             "bias:btc:bearish"
           ],
           "self_replies": 1
+        },
+        "2121776966848397415": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7104,7 +7101,6 @@
         "2121384370540102139": false,
         "2121483826731885024": false,
         "2121621078405783948": true,
-        "2121692384870445363": false,
         "2121694189977260112": false,
         "2121700004414808470": false,
         "2121708653812257266": true,
@@ -7124,7 +7120,8 @@
         "2121747269359985146": false,
         "2121751494244397231": false,
         "2121774572206977409": true,
-        "2121776329817309449": true
+        "2121776329817309449": true,
+        "2121776966848397415": true
       },
       "user_id": "809191427645181952"
     }
@@ -7147,5 +7144,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T01:26:26+00:00"
+  "updated_at": "2026-11-15T01:28:22+00:00"
 }
