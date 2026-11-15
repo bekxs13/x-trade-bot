@@ -1096,7 +1096,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121935931661795479",
+      "last_id": "2121937676819697723",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1180,14 +1180,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T16:28:45.000Z",
-          "id": "2121641494545412140",
-          "images": [
-            "https://pbs.twimg.com/media/HXGVseiWkAAa1vM.jpg"
-          ],
-          "text": "gmihao https://t.co/nUxNiMM1RS"
-        },
         {
           "created_at": "2026-11-14T16:46:58.000Z",
           "id": "2121646080219897971",
@@ -1296,10 +1288,14 @@
           "id": "2121934664642216434",
           "quoted_text": "you can either take two stances here\n\n- memes are all dead, and avoid them completely, trade perps on equities, the top 5 coins, & wait for higher market cap alts onchain\n\n- memes are not dead, and the ability of these social apps incentivizing activity could facilitate more retail demand than previous cycles\n\ndo i think this is the 2024 memecoin era? no i dont\n\ndo i think we are at a local low for bullishness in the space where onchain could surprise people? yes i do\n\nat the beginning of the 20",
           "text": "my thoughts onchain https://t.co/JpML4CrjRC"
+        },
+        {
+          "created_at": "2026-11-15T12:05:40.000Z",
+          "id": "2121937676819697723",
+          "text": "whats your trading portfolio size"
         }
       ],
       "reads": {
-        "2121641494545412140": "No call",
         "2121646080219897971": "No call: bearish on btc (same view as before)",
         "2121646170367758767": "No call",
         "2121647061778997539": "No call",
@@ -1318,15 +1314,10 @@
         "2121925527246139854": "No call",
         "2121929768023310813": "No call: bearish on crypto market (same view as before)",
         "2121931459783201053": "TRADE EXIT BTC",
-        "2121934664642216434": "No call: bullish on memecoins (same view as before)"
+        "2121934664642216434": "No call: bullish on memecoins (same view as before)",
+        "2121937676819697723": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-14T22:53:24.000Z",
-          "id": "2121738294434177439",
-          "reply_to_id": "2121674794303189205",
-          "text": "@ercwl see yall in the order books https://t.co/Mz8uogJNFY"
-        },
         {
           "created_at": "2026-11-14T23:33:29.000Z",
           "id": "2121748384860311786",
@@ -1413,13 +1404,15 @@
           "id": "2121935931661795479",
           "reply_to_id": "2121271463743562092",
           "text": "the new pairs game being solved does not have any impact on coins weeks after theyve launched, thats the part that we disagree on, i actually think its easier for ppl to rally around coins now because of the social apps + incentives from larger platforms\n\nonchain is bifurcated into three games\n\n\u2022 new pairs trenching\n\u2022 cult community bagworking\n\u2022 novel protocols enabling speculation\n\nall of these can coexist & the new pairs game does not prevent the other two from happening, i dont think we would have seen many coins go to 300M+ past few months if that were true"
+        },
+        {
+          "created_at": "2026-11-15T12:04:12.000Z",
+          "id": "2121937305657077901",
+          "reply_to_id": "2121936469660983657",
+          "text": "@papertrenching @lesabrefomo like how soon to launch we talking lol"
         }
       ],
       "threads": {
-        "2120647975374618806": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120648455093960827": {
           "alerted": [],
           "self_replies": 0
@@ -1829,10 +1822,13 @@
         "2121934664642216434": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121937676819697723": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121641494545412140": false,
         "2121646080219897971": true,
         "2121646170367758767": false,
         "2121647061778997539": true,
@@ -1842,7 +1838,6 @@
         "2121719173319659586": true,
         "2121721569257095633": false,
         "2121734010774732976": false,
-        "2121738294434177439": true,
         "2121748051890979000": true,
         "2121748157814231115": true,
         "2121748384860311786": true,
@@ -1866,7 +1861,9 @@
         "2121933763353498044": true,
         "2121934664642216434": true,
         "2121934936596770965": true,
-        "2121935931661795479": true
+        "2121935931661795479": true,
+        "2121937305657077901": false,
+        "2121937676819697723": true
       },
       "user_id": "973261472"
     },
@@ -7165,5 +7162,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T12:00:23+00:00"
+  "updated_at": "2026-11-15T12:06:25+00:00"
 }
