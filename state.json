@@ -905,12 +905,12 @@
         },
         "memecoins": {
           "market": "crypto",
-          "post_id": "2120502471839940718",
-          "reason": "Quoting 'this is the essence of crypto... return to memes' restates his bullish memecoin view.",
+          "post_id": "2121934664642216434",
+          "reason": "He says 'memes are not dead' and that 'onchain could surprise people' from a local low for bullishness. This matches his recorded bullish memecoins view.",
           "scope": "memecoins",
           "since": "2026-10-09",
           "stance": "bullish",
-          "updated_at": "2026-11-11T13:02:40.000Z"
+          "updated_at": "2026-11-15T11:53:42.000Z"
         },
         "memory stocks": {
           "market": "stocks",
@@ -1096,7 +1096,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121933763353498044",
+      "last_id": "2121934664642216434",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1180,11 +1180,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T14:34:36.000Z",
-          "id": "2121612770835628044",
-          "text": "why is nvda nuking"
-        },
         {
           "created_at": "2026-11-14T16:28:45.000Z",
           "id": "2121641494545412140",
@@ -1295,10 +1290,15 @@
           ],
           "quoted_text": "i'm still expecting Q4 to be difficult for risk assets, and i don't think crypto has found its bottom yet\n\nequities could see a relief bounce soon, but my base case is that most of the coins that led the recent rally will eventually retest their summer lows\n\nthose levels are going to be important for how i view the next cycle\n\nif they hold, i could see the bull market starting to pick up again around Q2 2027\n\nif we break below those lows and start making new ones, i think the recovery gets pushe",
           "text": "this was from ~10 days ago\n\nvery important spot here for $BTC, want to see these range lows hold\n\nclosed shorts yesterday currently expecting chop at these levels before another major trending move\n\ncan be giga-bull at 82k+, extremely bear sub 57k on HTF https://t.co/Cmw2uVGTA3 https://t.co/jb22dng4x9"
+        },
+        {
+          "created_at": "2026-11-15T11:53:42.000Z",
+          "id": "2121934664642216434",
+          "quoted_text": "you can either take two stances here\n\n- memes are all dead, and avoid them completely, trade perps on equities, the top 5 coins, & wait for higher market cap alts onchain\n\n- memes are not dead, and the ability of these social apps incentivizing activity could facilitate more retail demand than previous cycles\n\ndo i think this is the 2024 memecoin era? no i dont\n\ndo i think we are at a local low for bullishness in the space where onchain could surprise people? yes i do\n\nat the beginning of the 20",
+          "text": "my thoughts onchain https://t.co/JpML4CrjRC"
         }
       ],
       "reads": {
-        "2121612770835628044": "No call",
         "2121641494545412140": "No call",
         "2121646080219897971": "No call: bearish on btc (same view as before)",
         "2121646170367758767": "No call",
@@ -1317,7 +1317,8 @@
         "2121807676539830767": "TRADE EXIT BTC, ETH, SOL",
         "2121925527246139854": "No call",
         "2121929768023310813": "No call: bearish on crypto market (same view as before)",
-        "2121931459783201053": "TRADE EXIT BTC"
+        "2121931459783201053": "TRADE EXIT BTC",
+        "2121934664642216434": "No call: bullish on memecoins (same view as before)"
       },
       "replies": [
         {
@@ -1415,10 +1416,6 @@
         }
       ],
       "threads": {
-        "2120642272228454457": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120647975374618806": {
           "alerted": [],
           "self_replies": 0
@@ -1828,10 +1825,13 @@
             "trade:BTC:exit"
           ],
           "self_replies": 0
+        },
+        "2121934664642216434": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121612770835628044": true,
         "2121641494545412140": false,
         "2121646080219897971": true,
         "2121646170367758767": false,
@@ -1865,7 +1865,8 @@
         "2121932045052236097": false,
         "2121932350825377870": false,
         "2121932785925738749": false,
-        "2121933763353498044": true
+        "2121933763353498044": true,
+        "2121934664642216434": true
       },
       "user_id": "973261472"
     },
@@ -7164,5 +7165,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T11:50:21+00:00"
+  "updated_at": "2026-11-15T11:54:21+00:00"
 }
