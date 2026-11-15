@@ -878,12 +878,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2121101168948416608",
-          "reason": "Says the market is 'getting to the accelerated selling part' and to let liquidations happen before bidding, expecting more downside first.",
+          "post_id": "2121929768023310813",
+          "reason": "Says Q4 will be difficult for risk assets, crypto hasn't bottomed, and rally leaders will likely retest summer lows. This matches the recorded bearish crypto view.",
           "scope": "crypto market",
           "since": "2026-11-13",
           "stance": "bearish",
-          "updated_at": "2026-11-13T04:41:41.000Z"
+          "updated_at": "2026-11-15T11:34:14.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -1081,7 +1081,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121929119403216924",
+      "last_id": "2121929768023310813",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1165,11 +1165,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T13:49:09.000Z",
-          "id": "2121601329970000062",
-          "text": "https://t.co/Fjkodc21KR"
-        },
         {
           "created_at": "2026-11-14T14:10:42.000Z",
           "id": "2121606753729364443",
@@ -1274,10 +1269,17 @@
             "https://pbs.twimg.com/media/HXKYBbMXAAA7bsX.jpg"
           ],
           "text": "gmihao bulls https://t.co/We6wuw5GCe"
+        },
+        {
+          "created_at": "2026-11-15T11:34:14.000Z",
+          "id": "2121929768023310813",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2121929216757551104/img/RWXiF2AMdPvASi6z.jpg"
+          ],
+          "text": "i'm still expecting Q4 to be difficult for risk assets, and i don't think crypto has found its bottom yet\n\nequities could see a relief bounce soon, but my base case is that most of the coins that led the recent rally will eventually retest their summer lows\n\nthose levels are going to be important for how i view the next cycle\n\nif they hold, i could see the bull market starting to pick up again around Q2 2027\n\nif we break below those lows and start making new ones, i think the recovery gets pushed further out\n\nfor now, i'm watching how price reacts at those levels before getting more optimistic"
         }
       ],
       "reads": {
-        "2121601329970000062": "No call",
         "2121612770835628044": "No call",
         "2121641494545412140": "No call",
         "2121646080219897971": "No call: bearish on btc (same view as before)",
@@ -1295,7 +1297,8 @@
         "2121771218177310983": "No call",
         "2121781530813141430": "No call",
         "2121807676539830767": "TRADE EXIT BTC, ETH, SOL",
-        "2121925527246139854": "No call"
+        "2121925527246139854": "No call",
+        "2121929768023310813": "No call: bearish on crypto market (same view as before)"
       },
       "replies": [
         {
@@ -1390,10 +1393,6 @@
         }
       ],
       "threads": {
-        "2120620399629377874": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120642083254046950": {
           "alerted": [],
           "self_replies": 0
@@ -1801,10 +1800,13 @@
         "2121925527246139854": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121929768023310813": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121601329970000062": false,
         "2121606753729364443": true,
         "2121612770835628044": true,
         "2121641494545412140": false,
@@ -1838,7 +1840,8 @@
         "2121789294255964556": false,
         "2121807676539830767": true,
         "2121925527246139854": true,
-        "2121929119403216924": false
+        "2121929119403216924": false,
+        "2121929768023310813": true
       },
       "user_id": "973261472"
     },
@@ -7137,5 +7140,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T11:32:17+00:00"
+  "updated_at": "2026-11-15T11:36:21+00:00"
 }
