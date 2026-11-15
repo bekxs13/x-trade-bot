@@ -1096,7 +1096,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121947230945120522",
+      "last_id": "2121948297845686312",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1180,11 +1180,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T17:03:22.000Z",
-          "id": "2121650205745635538",
-          "text": "prolly get to rebuy pump at like .002"
-        },
         {
           "created_at": "2026-11-14T18:39:01.000Z",
           "id": "2121674279913972027",
@@ -1295,10 +1290,17 @@
           ],
           "quoted_text": "you guys always say i cant trade but somehow whenever theres a perps competition yall are nowhere to be found?\n\nwhats up with that? https://t.co/vcONNwdz2P",
           "text": "gmihao https://t.co/fw4pFGcYOZ https://t.co/TYxzKc1WPb"
+        },
+        {
+          "created_at": "2026-11-15T12:47:52.000Z",
+          "id": "2121948297845686312",
+          "images": [
+            "https://pbs.twimg.com/media/HXKsuMAXkAAC7kG.jpg"
+          ],
+          "text": "it's time https://t.co/xhOpryfYRL"
         }
       ],
       "reads": {
-        "2121650205745635538": "No call: bearish on PUMP (60%, too unsure)",
         "2121674279913972027": "No call: bearish on stocks/macro (same view as before)",
         "2121719173319659586": "No call: bearish on crypto market (60%, too unsure)",
         "2121721569257095633": "No call",
@@ -1317,15 +1319,10 @@
         "2121938003262083480": "No call",
         "2121941806682341868": "No call",
         "2121942589666451714": "No call",
-        "2121946072029204864": "No call"
+        "2121946072029204864": "No call",
+        "2121948297845686312": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-15T11:44:30.000Z",
-          "id": "2121932350825377870",
-          "reply_to_id": "2121930352759345529",
-          "text": "@RAP3MEFR https://t.co/hK36GKsWmL"
-        },
         {
           "created_at": "2026-11-15T11:46:14.000Z",
           "id": "2121932785925738749",
@@ -1415,13 +1412,15 @@
           "id": "2121947230945120522",
           "reply_to_id": "2121947107095671195",
           "text": "@Ga__ke hey gake whats your favorite coin"
+        },
+        {
+          "created_at": "2026-11-15T12:47:23.000Z",
+          "id": "2121948174784823584",
+          "reply_to_id": "2121947347060171090",
+          "text": "@Ga__ke well that doesnt seem possible"
         }
       ],
       "threads": {
-        "2120661956885700818": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120662063538204679": {
           "alerted": [],
           "self_replies": 0
@@ -1831,10 +1830,13 @@
         "2121946072029204864": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121948297845686312": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121650205745635538": true,
         "2121674279913972027": true,
         "2121719173319659586": true,
         "2121721569257095633": false,
@@ -1848,7 +1850,6 @@
         "2121925527246139854": true,
         "2121929768023310813": true,
         "2121931459783201053": true,
-        "2121932350825377870": false,
         "2121932785925738749": false,
         "2121933763353498044": true,
         "2121934664642216434": true,
@@ -1868,7 +1869,9 @@
         "2121944684570575332": true,
         "2121946072029204864": true,
         "2121947030146670708": false,
-        "2121947230945120522": true
+        "2121947230945120522": true,
+        "2121948174784823584": false,
+        "2121948297845686312": true
       },
       "user_id": "973261472"
     },
@@ -7167,5 +7170,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T12:44:19+00:00"
+  "updated_at": "2026-11-15T12:48:31+00:00"
 }
