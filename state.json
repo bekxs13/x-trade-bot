@@ -1096,7 +1096,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121937676819697723",
+      "last_id": "2121938003262083480",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1180,12 +1180,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T16:46:58.000Z",
-          "id": "2121646080219897971",
-          "quoted_text": "keep seeing people say \"$6b hack and bitcoin only down 2%\" as a bullish thing\n\nbelieve ppl are fundamentally misunderstanding the difference to how bitcoin trades now versus years ago\n\n$BTC used to be the primary driver for retail speculation in crypto, we were all aping leveraged positions on perps in 2017, alts were also part of the speculation but btc much moreso than now\n\nthis changed in 2020/21 when retail mostly were trading alts as their way of going down the risk curve, the new traders o",
-          "text": "yea https://t.co/Ku7hjgB4f9"
-        },
         {
           "created_at": "2026-11-14T16:47:19.000Z",
           "id": "2121646170367758767",
@@ -1293,10 +1287,14 @@
           "created_at": "2026-11-15T12:05:40.000Z",
           "id": "2121937676819697723",
           "text": "whats your trading portfolio size"
+        },
+        {
+          "created_at": "2026-11-15T12:06:58.000Z",
+          "id": "2121938003262083480",
+          "text": "you trade with the intent of:"
         }
       ],
       "reads": {
-        "2121646080219897971": "No call: bearish on btc (same view as before)",
         "2121646170367758767": "No call",
         "2121647061778997539": "No call",
         "2121648812066238964": "No call",
@@ -1315,7 +1313,8 @@
         "2121929768023310813": "No call: bearish on crypto market (same view as before)",
         "2121931459783201053": "TRADE EXIT BTC",
         "2121934664642216434": "No call: bullish on memecoins (same view as before)",
-        "2121937676819697723": "No call"
+        "2121937676819697723": "No call",
+        "2121938003262083480": "No call"
       },
       "replies": [
         {
@@ -1413,10 +1412,6 @@
         }
       ],
       "threads": {
-        "2120648455093960827": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120653544973864966": {
           "alerted": [],
           "self_replies": 0
@@ -1826,10 +1821,13 @@
         "2121937676819697723": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121938003262083480": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121646080219897971": true,
         "2121646170367758767": false,
         "2121647061778997539": true,
         "2121648812066238964": false,
@@ -1863,7 +1861,8 @@
         "2121934936596770965": true,
         "2121935931661795479": true,
         "2121937305657077901": false,
-        "2121937676819697723": true
+        "2121937676819697723": true,
+        "2121938003262083480": true
       },
       "user_id": "973261472"
     },
@@ -7162,5 +7161,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T12:06:25+00:00"
+  "updated_at": "2026-11-15T12:08:20+00:00"
 }
