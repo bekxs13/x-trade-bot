@@ -1102,7 +1102,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122109475339243594",
+      "last_id": "2122110290745585884",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1336,12 +1336,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-15T20:42:28.000Z",
-          "id": "2122067735815630956",
-          "reply_to_id": "2121996650189074917",
-          "text": "@RobinhoodApp did you guys forget you have a blockchain"
-        },
-        {
           "created_at": "2026-11-15T20:53:17.000Z",
           "id": "2122070456308273533",
           "images": [
@@ -1435,6 +1429,12 @@
           "id": "2122109475339243594",
           "reply_to_id": "2122090031036698984",
           "text": "@GuthixHL lmao"
+        },
+        {
+          "created_at": "2026-11-15T23:31:34.000Z",
+          "id": "2122110290745585884",
+          "reply_to_id": "2122080856546402812",
+          "text": "it is a good thing for a protocol to share its revenue with its users that drive the most volume, and theres different buckets for microcaps and for perps/higher caps, also memes are heavily socially attention driven, this is what drives higher prices, its just never been structured properly before"
         }
       ],
       "threads": {
@@ -1871,7 +1871,6 @@
         "2121978042255905158": false,
         "2122046665632911597": true,
         "2122051143169949842": true,
-        "2122067735815630956": false,
         "2122070456308273533": true,
         "2122071543794770398": true,
         "2122071636019225077": true,
@@ -1888,7 +1887,8 @@
         "2122108269284229441": true,
         "2122109110959431775": true,
         "2122109398105653454": false,
-        "2122109475339243594": false
+        "2122109475339243594": false,
+        "2122110290745585884": true
       },
       "user_id": "973261472"
     },
@@ -7189,5 +7189,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-15T23:30:22+00:00"
+  "updated_at": "2026-11-15T23:32:17+00:00"
 }
