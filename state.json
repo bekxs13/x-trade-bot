@@ -6388,7 +6388,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121774572206977409",
+      "last_id": "2121776329817309449",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6440,14 +6440,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T19:40:05.000Z",
-          "id": "2121689648393298169",
-          "images": [
-            "https://pbs.twimg.com/media/HXHBccFWwAE7_wF.png"
-          ],
-          "text": "Red Candle Crew on the lookout https://t.co/p9SBwbETZb"
-        },
         {
           "created_at": "2026-11-14T19:50:58.000Z",
           "id": "2121692384870445363",
@@ -6560,10 +6552,15 @@
           "created_at": "2026-11-15T01:17:33.000Z",
           "id": "2121774572206977409",
           "text": "Some of the most aggressive, price insensitive BTC selling I've seen in my entire life.\n\nWhen you see flow like this you have to ask yourself, does this large seller know something? Is this some hidden leverage unwinding? Bidding levels blindingly is a good way to get clipped."
+        },
+        {
+          "created_at": "2026-11-15T01:24:32.000Z",
+          "id": "2121776329817309449",
+          "reply_to_id": "2121774572206977409",
+          "text": "Things that come to mind\n\nDoes this person have some insider alpha on geopolitical events and BTC is the most liquid thing to trade on the weekend\n\nDoes this person know something about quantum\n\nIs this person front running an even larger forced seller\n\nIs this person liquidating (you bid this one)"
         }
       ],
       "reads": {
-        "2121689648393298169": "No call",
         "2121692384870445363": "No call",
         "2121694189977260112": "No call",
         "2121700004414808470": "No call",
@@ -6582,7 +6579,8 @@
         "2121745920358334881": "No call",
         "2121746316707656089": "No call",
         "2121751494244397231": "No call",
-        "2121774572206977409": "VIEW bearish on btc"
+        "2121774572206977409": "VIEW bearish on btc",
+        "2121776329817309449": "No call"
       },
       "replies": [
         {
@@ -7088,7 +7086,7 @@
           "alerted": [
             "bias:btc:bearish"
           ],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
@@ -7106,7 +7104,6 @@
         "2121384370540102139": false,
         "2121483826731885024": false,
         "2121621078405783948": true,
-        "2121689648393298169": true,
         "2121692384870445363": false,
         "2121694189977260112": false,
         "2121700004414808470": false,
@@ -7126,7 +7123,8 @@
         "2121746316707656089": false,
         "2121747269359985146": false,
         "2121751494244397231": false,
-        "2121774572206977409": true
+        "2121774572206977409": true,
+        "2121776329817309449": true
       },
       "user_id": "809191427645181952"
     }
@@ -7149,5 +7147,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T01:18:22+00:00"
+  "updated_at": "2026-11-15T01:26:26+00:00"
 }
