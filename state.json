@@ -1102,7 +1102,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122110290745585884",
+      "last_id": "2122111843586175421",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1336,17 +1336,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-15T20:53:17.000Z",
-          "id": "2122070456308273533",
-          "images": [
-            "https://pbs.twimg.com/media/HXMb1VRW8AEU0i6.jpg",
-            "https://pbs.twimg.com/media/HXMb1VlXEAAqmF2.jpg",
-            "https://pbs.twimg.com/media/HXMb1VNWwAQQqrd.jpg"
-          ],
-          "reply_to_id": "2122069802135208143",
-          "text": "@SMtrades_ dunno, im at $200k in ~12 days or so https://t.co/j9kmEzgxYh"
-        },
-        {
           "created_at": "2026-11-15T20:57:36.000Z",
           "id": "2122071543794770398",
           "reply_to_id": "2122071072610885892",
@@ -1435,6 +1424,12 @@
           "id": "2122110290745585884",
           "reply_to_id": "2122080856546402812",
           "text": "it is a good thing for a protocol to share its revenue with its users that drive the most volume, and theres different buckets for microcaps and for perps/higher caps, also memes are heavily socially attention driven, this is what drives higher prices, its just never been structured properly before"
+        },
+        {
+          "created_at": "2026-11-15T23:37:45.000Z",
+          "id": "2122111843586175421",
+          "reply_to_id": "2122104160141168941",
+          "text": "@cryptoklotz @jaymesrosenthal my fault og"
         }
       ],
       "threads": {
@@ -1871,7 +1866,6 @@
         "2121978042255905158": false,
         "2122046665632911597": true,
         "2122051143169949842": true,
-        "2122070456308273533": true,
         "2122071543794770398": true,
         "2122071636019225077": true,
         "2122074625756819616": true,
@@ -1888,7 +1882,8 @@
         "2122109110959431775": true,
         "2122109398105653454": false,
         "2122109475339243594": false,
-        "2122110290745585884": true
+        "2122110290745585884": true,
+        "2122111843586175421": false
       },
       "user_id": "973261472"
     },
@@ -7189,5 +7184,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-15T23:32:17+00:00"
+  "updated_at": "2026-11-15T23:38:15+00:00"
 }
