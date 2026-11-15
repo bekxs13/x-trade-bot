@@ -4595,7 +4595,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2121713199879958745",
+      "last_id": "2121790268638920806",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4647,12 +4647,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T12:46:54.000Z",
-          "id": "2120860891357053379",
-          "reply_to_id": "2120860728974610819",
-          "text": "live from the tomorrowX summit"
-        },
         {
           "created_at": "2026-11-12T13:22:08.000Z",
           "id": "2120869755758538991",
@@ -4758,10 +4752,14 @@
           "id": "2121705855007519033",
           "reply_to_id": "2121456757675303144",
           "text": "can you worthless fucking plumbers do anything"
+        },
+        {
+          "created_at": "2026-11-15T02:19:55.000Z",
+          "id": "2121790268638920806",
+          "text": "maybe everyone is selling bitcoin to buy miami real estate before gta 6 inflates the market"
         }
       ],
       "reads": {
-        "2120860891357053379": "Read together with the post it replies to",
         "2120869755758538991": "No call: bearish on stocks/macro (60%, too unsure)",
         "2120874376098730257": "No call",
         "2120892665038541245": "No call",
@@ -4777,7 +4775,8 @@
         "2121266693385384306": "No call",
         "2121456757675303144": "No call",
         "2121705734295413096": "No call: bearish on HYPE (60%, too unsure)",
-        "2121705855007519033": "No call"
+        "2121705855007519033": "No call",
+        "2121790268638920806": "No call"
       },
       "replies": [
         {
@@ -4875,10 +4874,6 @@
         }
       ],
       "threads": {
-        "2116127249162489957": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2116130232549998912": {
           "alerted": [],
           "self_replies": 0
@@ -5276,10 +5271,13 @@
         "2121705734295413096": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121790268638920806": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120860891357053379": false,
         "2120869755758538991": true,
         "2120874376098730257": true,
         "2120892665038541245": false,
@@ -5313,7 +5311,8 @@
         "2121705734295413096": true,
         "2121705855007519033": false,
         "2121709010512662694": false,
-        "2121713199879958745": false
+        "2121713199879958745": false,
+        "2121790268638920806": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7138,5 +7137,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T02:16:21+00:00"
+  "updated_at": "2026-11-15T02:20:25+00:00"
 }
