@@ -1102,7 +1102,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122070456308273533",
+      "last_id": "2122071636019225077",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1186,11 +1186,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T22:36:22.000Z",
-          "id": "2121734010774732976",
-          "text": "https://t.co/hlSDg2cEJY"
-        },
         {
           "created_at": "2026-11-14T23:32:10.000Z",
           "id": "2121748051890979000",
@@ -1308,10 +1303,15 @@
             "https://pbs.twimg.com/amplify_video_thumb/2122050611353174016/img/xy5hzHW6LxgHo877.jpg"
           ],
           "text": "i'd much rather trade a volatile market than sit through months of low-volatility chop\n\ni can trade strong trends in either direction. it's the 1% daily moves and endless sideways price action that make finding good opportunities difficult https://t.co/gGxlDluo6T"
+        },
+        {
+          "created_at": "2026-11-15T20:57:58.000Z",
+          "id": "2122071636019225077",
+          "reply_to_id": "2122071543794770398",
+          "text": "@SMtrades_ but yea i see what ur saying idk i know pump has given away about $30M total sofar"
         }
       ],
       "reads": {
-        "2121734010774732976": "No call",
         "2121748051890979000": "No call",
         "2121748157814231115": "No call",
         "2121750150615814641": "No call",
@@ -1332,12 +1332,6 @@
         "2122051143169949842": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-15T13:38:30.000Z",
-          "id": "2121961037918560413",
-          "reply_to_id": "2121875127721968112",
-          "text": "@skytsuETH he already is"
-        },
         {
           "created_at": "2026-11-15T13:39:19.000Z",
           "id": "2121961244609462520",
@@ -1426,6 +1420,12 @@
           ],
           "reply_to_id": "2122069802135208143",
           "text": "@SMtrades_ dunno, im at $200k in ~12 days or so https://t.co/j9kmEzgxYh"
+        },
+        {
+          "created_at": "2026-11-15T20:57:36.000Z",
+          "id": "2122071543794770398",
+          "reply_to_id": "2122071072610885892",
+          "text": "@SMtrades_ poorgoat is #1 and he had very small following in june"
         }
       ],
       "threads": {
@@ -1845,7 +1845,6 @@
         }
       },
       "trading": {
-        "2121734010774732976": false,
         "2121748051890979000": true,
         "2121748157814231115": true,
         "2121750150615814641": false,
@@ -1862,7 +1861,6 @@
         "2121942589666451714": true,
         "2121946072029204864": true,
         "2121948297845686312": true,
-        "2121961037918560413": false,
         "2121961244609462520": true,
         "2121965459486499222": true,
         "2121970286941917585": false,
@@ -1879,7 +1877,9 @@
         "2122046665632911597": true,
         "2122051143169949842": true,
         "2122067735815630956": false,
-        "2122070456308273533": true
+        "2122070456308273533": true,
+        "2122071543794770398": true,
+        "2122071636019225077": true
       },
       "user_id": "973261472"
     },
@@ -7176,5 +7176,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-15T20:54:20+00:00"
+  "updated_at": "2026-11-15T20:58:24+00:00"
 }
