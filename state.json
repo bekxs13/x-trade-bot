@@ -1027,7 +1027,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2121772524455199070",
+      "last_id": "2121781530813141430",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1160,11 +1160,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-14T04:19:02.000Z",
-          "id": "2121457857291751877",
-          "text": "you guys are gonna be really annoyed at what the strongest coin is going to be off the upcoming bottom"
-        },
-        {
           "created_at": "2026-11-14T13:07:05.000Z",
           "id": "2121590744049983807",
           "images": [
@@ -1271,10 +1266,14 @@
           "created_at": "2026-11-15T01:04:13.000Z",
           "id": "2121771218177310983",
           "text": "dawg wow"
+        },
+        {
+          "created_at": "2026-11-15T01:45:12.000Z",
+          "id": "2121781530813141430",
+          "text": "where's smartest money's liq at"
         }
       ],
       "reads": {
-        "2121457857291751877": "No call",
         "2121590744049983807": "VIEW bearish on HYPE",
         "2121592402234548448": "No call",
         "2121601329970000062": "No call",
@@ -1292,7 +1291,8 @@
         "2121748051890979000": "No call",
         "2121748157814231115": "No call",
         "2121750150615814641": "No call",
-        "2121771218177310983": "No call"
+        "2121771218177310983": "No call",
+        "2121781530813141430": "No call"
       },
       "replies": [
         {
@@ -1387,10 +1387,6 @@
         }
       ],
       "threads": {
-        "2120595582901158058": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120616061854715904": {
           "alerted": [],
           "self_replies": 0
@@ -1796,10 +1792,13 @@
         "2121771218177310983": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2121781530813141430": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121457857291751877": true,
         "2121590744049983807": false,
         "2121592402234548448": true,
         "2121601329970000062": false,
@@ -1833,7 +1832,8 @@
         "2121750932580921742": false,
         "2121757282098683948": false,
         "2121771218177310983": false,
-        "2121772524455199070": false
+        "2121772524455199070": false,
+        "2121781530813141430": true
       },
       "user_id": "973261472"
     },
@@ -6388,7 +6388,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2121777516566229292",
+      "last_id": "2121781492523122859",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6440,14 +6440,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T20:21:14.000Z",
-          "id": "2121700004414808470",
-          "images": [
-            "https://pbs.twimg.com/media/HXHKgidWQAA0kKD.jpg"
-          ],
-          "text": "\u201c...The moment you are disturbed by insult or pleased by praise, you are still a slave...\u201d https://t.co/YWUqCyVYZV"
-        },
         {
           "created_at": "2026-11-14T20:55:37.000Z",
           "id": "2121708653812257266",
@@ -6553,10 +6545,15 @@
           "id": "2121777516566229292",
           "reply_to_id": "2121776329817309449",
           "text": "Clue: Almost all of the selling is happening on Coinbase"
+        },
+        {
+          "created_at": "2026-11-15T01:45:03.000Z",
+          "id": "2121781492523122859",
+          "reply_to_id": "2121777516566229292",
+          "text": "Clue: It's happening on a weekend"
         }
       ],
       "reads": {
-        "2121700004414808470": "No call",
         "2121708653812257266": "No call",
         "2121708902467416257": "VIEW bearish on gold",
         "2121709409428762636": "No call",
@@ -7098,7 +7095,6 @@
         "2121384370540102139": false,
         "2121483826731885024": false,
         "2121621078405783948": true,
-        "2121700004414808470": false,
         "2121708653812257266": true,
         "2121708902467416257": true,
         "2121709409428762636": false,
@@ -7118,7 +7114,8 @@
         "2121774572206977409": true,
         "2121776329817309449": true,
         "2121776966848397415": true,
-        "2121777516566229292": true
+        "2121777516566229292": true,
+        "2121781492523122859": false
       },
       "user_id": "809191427645181952"
     }
@@ -7141,5 +7138,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-14",
-  "updated_at": "2026-11-15T01:30:24+00:00"
+  "updated_at": "2026-11-15T01:46:24+00:00"
 }
