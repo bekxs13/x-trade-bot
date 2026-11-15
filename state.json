@@ -6423,7 +6423,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122029209241452870",
+      "last_id": "2122034439316181103",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6608,12 +6608,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-12T17:22:43.000Z",
-          "id": "2120930300046049477",
-          "reply_to_id": "2120929954384711990",
-          "text": "@NFTweb_3 Tens of millions of dollars but that's more of a core position not really something I think about"
-        },
-        {
           "created_at": "2026-11-12T17:42:09.000Z",
           "id": "2120935191342694537",
           "reply_to_id": "2120934770855256276",
@@ -6696,6 +6690,12 @@
           "id": "2121838839765635395",
           "reply_to_id": "2121838442653032595",
           "text": "@skytsuETH @notthreadguy https://t.co/7ieYqtjvsR\n\nJust search Flood"
+        },
+        {
+          "created_at": "2026-11-15T18:30:10.000Z",
+          "id": "2122034439316181103",
+          "reply_to_id": "2122031715392667915",
+          "text": "@xdavidclarkson DRW, Jump, plenty of other T2s"
         }
       ],
       "threads": {
@@ -7111,7 +7111,6 @@
         }
       },
       "trading": {
-        "2120930300046049477": true,
         "2120935191342694537": false,
         "2120935916424622157": false,
         "2120937340495339809": true,
@@ -7145,7 +7144,8 @@
         "2121838457748398123": false,
         "2121838839765635395": false,
         "2121840174187327834": false,
-        "2122029209241452870": true
+        "2122029209241452870": true,
+        "2122034439316181103": false
       },
       "user_id": "809191427645181952"
     }
@@ -7168,5 +7168,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-15T18:10:26+00:00"
+  "updated_at": "2026-11-15T18:30:25+00:00"
 }
