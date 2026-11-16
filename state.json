@@ -6450,7 +6450,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122422704460492908",
+      "last_id": "2122425061152018605",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6502,14 +6502,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T04:18:00.000Z",
-          "id": "2122182372506419356",
-          "images": [
-            "https://pbs.twimg.com/media/HXOBnvmWUAAkIcp.jpg"
-          ],
-          "text": "Green is my favorite color https://t.co/3XFKj7wCZM"
-        },
         {
           "created_at": "2026-11-16T04:23:13.000Z",
           "id": "2122183685067907468",
@@ -6639,10 +6631,17 @@
             "https://pbs.twimg.com/media/HXRQ3YKXQAEAfFS.jpg"
           ],
           "text": "Hood probably a buy in the 50s https://t.co/paW17eLU0W"
+        },
+        {
+          "created_at": "2026-11-16T20:22:21.000Z",
+          "id": "2122425061152018605",
+          "images": [
+            "https://pbs.twimg.com/media/HXReTYRXwAAIUT5.jpg"
+          ],
+          "text": "\"...Imagine listening to Lana Del Rey here...\" https://t.co/WtuK0zA4jS"
         }
       ],
       "reads": {
-        "2122182372506419356": "No call",
         "2122183685067907468": "No call",
         "2122201906848174435": "No call",
         "2122307965759685101": "No call",
@@ -6658,7 +6657,8 @@
         "2122397245555224829": "No call",
         "2122406539021439441": "No call",
         "2122408040838414705": "No call",
-        "2122410252977283480": "No call: bearish on HOOD (65%, too unsure)"
+        "2122410252977283480": "No call: bearish on HOOD (65%, too unsure)",
+        "2122425061152018605": "No call"
       },
       "replies": [
         {
@@ -6759,10 +6759,6 @@
         }
       ],
       "threads": {
-        "2120896790807642297": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120897694810182133": {
           "alerted": [],
           "self_replies": 0
@@ -7168,6 +7164,10 @@
         "2122410252977283480": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122425061152018605": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7184,7 +7184,6 @@
         "2122176211657068925": true,
         "2122176644668436730": true,
         "2122177068783771982": true,
-        "2122182372506419356": true,
         "2122183685067907468": true,
         "2122201906848174435": true,
         "2122307965759685101": false,
@@ -7205,7 +7204,8 @@
         "2122406539021439441": true,
         "2122408040838414705": false,
         "2122410252977283480": true,
-        "2122422704460492908": true
+        "2122422704460492908": true,
+        "2122425061152018605": false
       },
       "user_id": "809191427645181952"
     }
@@ -7228,5 +7228,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T20:14:28+00:00"
+  "updated_at": "2026-11-16T20:24:22+00:00"
 }
