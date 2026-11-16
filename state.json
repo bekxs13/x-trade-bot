@@ -4650,7 +4650,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122449985329361356",
+      "last_id": "2122452476016161164",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4702,11 +4702,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T03:46:59.000Z",
-          "id": "2121087402340983292",
-          "text": "i just saw a tiktok clip of steven a smith asking donald trump what he thinks about jensen huang resigning from nvda after being exposed for an affair with a chinese spy no actually a couple company employees as well before saying on a company board meeting that he \u201chates himself?\u201d while bitcoin craters below 70k, the ai trade has exploded, yields are back near local highs and trump posted that there may never be a deal with iran, the democrats swept mid terms, aoc is the leading presidential candidate and the best looking chart on my trading view is DXY\n\ni need a few days off"
-        },
         {
           "created_at": "2026-11-13T12:25:12.000Z",
           "id": "2121217814984110345",
@@ -4817,10 +4812,15 @@
           "id": "2122448425782325617",
           "quoted_text": "*JENSEN HUANG PULLS OUT OF VALOR, ATREIDES SUMMIT IN AUSTIN\n\n$NVDA",
           "text": "FUUUUCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK https://t.co/be4h5FMAeP"
+        },
+        {
+          "created_at": "2026-11-16T22:11:18.000Z",
+          "id": "2122452476016161164",
+          "reply_to_id": "2122448331142234399",
+          "text": "watch on yt\nhttps://t.co/z6RHVAxsC6"
         }
       ],
       "reads": {
-        "2121087402340983292": "No call",
         "2121236584808718590": "No call",
         "2121266693385384306": "No call",
         "2121456757675303144": "No call",
@@ -4836,7 +4836,8 @@
         "2122384229166411901": "No call",
         "2122441222912622695": "No call",
         "2122448331142234399": "No call",
-        "2122448425782325617": "No call"
+        "2122448425782325617": "No call",
+        "2122452476016161164": "No call"
       },
       "replies": [
         {
@@ -5327,7 +5328,7 @@
         },
         "2122448331142234399": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2122448425782325617": {
           "alerted": [],
@@ -5335,7 +5336,6 @@
         }
       },
       "trading": {
-        "2121087402340983292": true,
         "2121217814984110345": false,
         "2121220625528238091": false,
         "2121236584808718590": true,
@@ -5369,7 +5369,8 @@
         "2122441222912622695": false,
         "2122448331142234399": false,
         "2122448425782325617": true,
-        "2122449985329361356": false
+        "2122449985329361356": false,
+        "2122452476016161164": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7226,5 +7227,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T22:02:28+00:00"
+  "updated_at": "2026-11-16T22:12:24+00:00"
 }
