@@ -4647,7 +4647,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122460720537481379",
+      "last_id": "2122462607747748155",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4699,12 +4699,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T12:36:22.000Z",
-          "id": "2121220625528238091",
-          "reply_to_id": "2121217814984110345",
-          "text": "@based16z few years off and they gonna start doing you like sixers bron"
-        },
         {
           "created_at": "2026-11-13T13:39:47.000Z",
           "id": "2121236584808718590",
@@ -4815,6 +4809,12 @@
           "id": "2122460720537481379",
           "quoted_text": "*UNITED AIRLINES SAYS IT HAS A WIDESPREAD SYSTEM OUTAGE: AP\n\nThe outages are getting weird",
           "text": "so what happens if i\u2019m reading this in the air on a united flight https://t.co/AGKdvIGJEd"
+        },
+        {
+          "created_at": "2026-11-16T22:51:33.000Z",
+          "id": "2122462607747748155",
+          "reply_to_id": "2122460720537481379",
+          "text": "every bump of turbulence feels mad personal rn"
         }
       ],
       "reads": {
@@ -4835,7 +4835,8 @@
         "2122448331142234399": "No call",
         "2122448425782325617": "No call",
         "2122452476016161164": "No call",
-        "2122460720537481379": "No call"
+        "2122460720537481379": "No call",
+        "2122462607747748155": "No call"
       },
       "replies": [
         {
@@ -5330,11 +5331,10 @@
         },
         "2122460720537481379": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2121220625528238091": false,
         "2121236584808718590": true,
         "2121266693385384306": true,
         "2121456757675303144": true,
@@ -5368,7 +5368,8 @@
         "2122448425782325617": true,
         "2122449985329361356": false,
         "2122452476016161164": false,
-        "2122460720537481379": false
+        "2122460720537481379": false,
+        "2122462607747748155": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7225,5 +7226,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T22:50:21+00:00"
+  "updated_at": "2026-11-16T22:52:22+00:00"
 }
