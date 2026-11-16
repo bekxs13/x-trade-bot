@@ -6445,7 +6445,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122177068783771982",
+      "last_id": "2122178257667641768",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6497,11 +6497,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T05:38:14.000Z",
-          "id": "2121840174187327834",
-          "text": "Don't do anything stupid. Goodnight.\n\nEndure EVERYTHING"
-        },
         {
           "created_at": "2026-11-15T18:09:23.000Z",
           "id": "2122029209241452870",
@@ -6607,10 +6602,14 @@
           "created_at": "2026-11-16T03:34:14.000Z",
           "id": "2122171360315109588",
           "text": "Is there anything cozier than a winter night, ranting on twitter with a peppermint tea in hand.\n\nMAX COZY.\n\nSo question for my Bitcoin people, if hypothetically we do hard fork for a quantum upgrade what do we do with the coins that do not fork over, and how long does the upgrade stay possible?\n\nCould potentially take old dormant coins and add them back into the inflation curve to push out block reward security issues?"
+        },
+        {
+          "created_at": "2026-11-16T04:01:39.000Z",
+          "id": "2122178257667641768",
+          "text": "What percent of your networth is in Bitcoin?"
         }
       ],
       "reads": {
-        "2121840174187327834": "No call",
         "2122029209241452870": "No call",
         "2122039738165293102": "No call",
         "2122043132149706894": "No call",
@@ -6629,7 +6628,8 @@
         "2122169303495832027": "No call: bullish on btc (same view as before)",
         "2122170235608306116": "No call",
         "2122170797011943846": "No call",
-        "2122171360315109588": "No call"
+        "2122171360315109588": "No call",
+        "2122178257667641768": "No call"
       },
       "replies": [
         {
@@ -6730,10 +6730,6 @@
         }
       ],
       "threads": {
-        "2120563000012832946": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120567064611951044": {
           "alerted": [],
           "self_replies": 0
@@ -7139,13 +7135,16 @@
         "2122171360315109588": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122178257667641768": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2121747269359985146": false,
         "2121794659391545636": true,
         "2121838839765635395": false,
-        "2121840174187327834": false,
         "2122029209241452870": true,
         "2122034439316181103": false,
         "2122039738165293102": false,
@@ -7176,7 +7175,8 @@
         "2122176066642944226": true,
         "2122176211657068925": true,
         "2122176644668436730": true,
-        "2122177068783771982": true
+        "2122177068783771982": true,
+        "2122178257667641768": true
       },
       "user_id": "809191427645181952"
     }
@@ -7199,5 +7199,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T03:58:17+00:00"
+  "updated_at": "2026-11-16T04:02:20+00:00"
 }
