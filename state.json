@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122385993588216273",
+      "last_id": "2122388140942119199",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1194,11 +1194,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T12:06:58.000Z",
-          "id": "2121938003262083480",
-          "text": "you trade with the intent of:"
-        },
         {
           "created_at": "2026-11-15T12:22:05.000Z",
           "id": "2121941806682341868",
@@ -1319,10 +1314,17 @@
             "https://pbs.twimg.com/media/HXQ0tXJWgAA6tDa.jpg"
           ],
           "text": "my mentions every day now solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/qGImvoepoZ"
+        },
+        {
+          "created_at": "2026-11-16T17:55:39.000Z",
+          "id": "2122388140942119199",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2122387973258051584/img/RrJv2WfVTIgd_Db3.jpg"
+          ],
+          "text": "back on October 29, i was already concerned about how rapidly advancing AI models could affect security across crypto\n\nas LLMs become more capable and widely accessible, vulnerabilities that were previously difficult to exploit could become much easier to target\n\nthe biggest concern for me is that we're entering a period where nobody fully understands what these models are capable of compromising\n\nand crypto is particularly exposed because successful exploits can result in funds being stolen directly\n\ni think this uncertainty extends far beyond crypto, and we're still figuring out how serious the security implications could be"
         }
       ],
       "reads": {
-        "2121938003262083480": "No call",
         "2121941806682341868": "No call",
         "2121942589666451714": "No call",
         "2121946072029204864": "No call",
@@ -1339,7 +1341,8 @@
         "2122358956609749430": "No call",
         "2122363832878202934": "No call",
         "2122365079773716637": "VIEW neutral on memory stocks",
-        "2122379281971995072": "No call"
+        "2122379281971995072": "No call",
+        "2122388140942119199": "No call"
       },
       "replies": [
         {
@@ -1440,10 +1443,6 @@
         }
       ],
       "threads": {
-        "2120876101543379312": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120878236800270790": {
           "alerted": [],
           "self_replies": 0
@@ -1857,10 +1856,13 @@
         "2122379281971995072": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122388140942119199": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121938003262083480": true,
         "2121941806682341868": false,
         "2121942589666451714": true,
         "2121946072029204864": true,
@@ -1894,7 +1896,8 @@
         "2122381204640997449": true,
         "2122384955418243075": false,
         "2122385283870232633": false,
-        "2122385993588216273": true
+        "2122385993588216273": true,
+        "2122388140942119199": true
       },
       "user_id": "973261472"
     },
@@ -7222,5 +7225,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T17:48:19+00:00"
+  "updated_at": "2026-11-16T17:56:25+00:00"
 }
