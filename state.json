@@ -1102,7 +1102,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122460677499482376",
+      "last_id": "2122461871106310410",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1331,12 +1331,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T19:29:24.000Z",
-          "id": "2122411735017812021",
-          "reply_to_id": "2119936220478529725",
-          "text": "@notwashed good post"
-        },
-        {
           "created_at": "2026-11-16T20:48:28.000Z",
           "id": "2122431632430797104",
           "images": [
@@ -1425,6 +1419,12 @@
           "id": "2122459477819416577",
           "reply_to_id": "2122422564169392193",
           "text": "@Icebergy bc they havent sold yet"
+        },
+        {
+          "created_at": "2026-11-16T22:48:38.000Z",
+          "id": "2122461871106310410",
+          "reply_to_id": "2122446204667932725",
+          "text": "@drag0nm4n @snoxy77 what would your reasoning be for why i bought &lt; 30 seconds after him then, im curious to know"
         }
       ],
       "threads": {
@@ -1859,7 +1859,6 @@
         "2122379281971995072": true,
         "2122388140942119199": true,
         "2122406507040116962": false,
-        "2122411735017812021": false,
         "2122412411558707578": true,
         "2122431632430797104": true,
         "2122432235907236242": true,
@@ -1880,7 +1879,8 @@
         "2122453799935906240": true,
         "2122454425231061252": true,
         "2122459477819416577": true,
-        "2122460677499482376": true
+        "2122460677499482376": true,
+        "2122461871106310410": true
       },
       "user_id": "973261472"
     },
@@ -2286,7 +2286,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2122453371500323175",
+      "last_id": "2122462257087185300",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2306,11 +2306,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T13:57:09.000Z",
-          "id": "2120878567269806153",
-          "text": "this is actually incredibly bullish for NVDA because now it has no beta to jensen's next 11 revealed extramarital affairs"
-        },
         {
           "created_at": "2026-11-12T14:27:10.000Z",
           "id": "2120886121689407518",
@@ -2431,10 +2426,15 @@
           ],
           "reply_to_id": "2122449003434348586",
           "text": "https://t.co/cDotvKgr1A"
+        },
+        {
+          "created_at": "2026-11-16T22:50:10.000Z",
+          "id": "2122462257087185300",
+          "reply_to_id": "2122462047526867268",
+          "text": "@TheStalwart osakana also good, shame that the owner left to hawaii and shuttered yuji ramen"
         }
       ],
       "reads": {
-        "2120878567269806153": "No call",
         "2120886121689407518": "No call",
         "2120887119048581298": "No call",
         "2120935840658661401": "No call: bearish on NVDA (60%, too unsure)",
@@ -2455,12 +2455,6 @@
         "2122449087371018382": "Read together with the post it replies to"
       },
       "replies": [
-        {
-          "created_at": "2026-11-12T04:17:35.000Z",
-          "id": "2120732715708239968",
-          "reply_to_id": "2120671215249711343",
-          "text": "@based16z more importantly nobody in ct has sex"
-        },
         {
           "created_at": "2026-11-12T15:06:38.000Z",
           "id": "2120896056770641999",
@@ -2544,6 +2538,12 @@
           "id": "2122453371500323175",
           "reply_to_id": "2122448835427660091",
           "text": "@jukan05 why? nobody was extending them margin after july so they are basically definitionally alive"
+        },
+        {
+          "created_at": "2026-11-16T22:49:20.000Z",
+          "id": "2122462047526867268",
+          "reply_to_id": "2122443484254872049",
+          "text": "@TheStalwart this is good but tbh most of the stores you're referring to are \"fake\" japanese groceries with poor prepared food selection. often not ran by japanese folks\n\nmy preferred small japanese store in the city are the dainobus i think"
         }
       ],
       "threads": {
@@ -2951,8 +2951,6 @@
         }
       },
       "trading": {
-        "2120732715708239968": false,
-        "2120878567269806153": true,
         "2120886121689407518": true,
         "2120887119048581298": true,
         "2120896056770641999": false,
@@ -2985,7 +2983,9 @@
         "2122449003434348586": true,
         "2122449087371018382": false,
         "2122449445031956856": true,
-        "2122453371500323175": true
+        "2122453371500323175": true,
+        "2122462047526867268": false,
+        "2122462257087185300": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7225,5 +7225,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T22:44:35+00:00"
+  "updated_at": "2026-11-16T22:50:21+00:00"
 }
