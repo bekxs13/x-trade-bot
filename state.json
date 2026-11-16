@@ -1108,7 +1108,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122400757626372265",
+      "last_id": "2122406507040116962",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1192,11 +1192,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T12:22:05.000Z",
-          "id": "2121941806682341868",
-          "text": "ni hao cat"
-        },
         {
           "created_at": "2026-11-15T12:25:11.000Z",
           "id": "2121942589666451714",
@@ -1320,10 +1315,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2122387973258051584/img/RrJv2WfVTIgd_Db3.jpg"
           ],
           "text": "back on October 29, i was already concerned about how rapidly advancing AI models could affect security across crypto\n\nas LLMs become more capable and widely accessible, vulnerabilities that were previously difficult to exploit could become much easier to target\n\nthe biggest concern for me is that we're entering a period where nobody fully understands what these models are capable of compromising\n\nand crypto is particularly exposed because successful exploits can result in funds being stolen directly\n\ni think this uncertainty extends far beyond crypto, and we're still figuring out how serious the security implications could be"
+        },
+        {
+          "created_at": "2026-11-16T19:08:38.000Z",
+          "id": "2122406507040116962",
+          "text": "https://t.co/8GPiCRk6Fg"
         }
       ],
       "reads": {
-        "2121941806682341868": "No call",
         "2121942589666451714": "No call",
         "2121946072029204864": "No call",
         "2121948297845686312": "No call",
@@ -1340,7 +1339,8 @@
         "2122363832878202934": "No call",
         "2122365079773716637": "VIEW neutral on memory stocks",
         "2122379281971995072": "No call",
-        "2122388140942119199": "No call"
+        "2122388140942119199": "No call",
+        "2122406507040116962": "No call"
       },
       "replies": [
         {
@@ -1441,10 +1441,6 @@
         }
       ],
       "threads": {
-        "2120878236800270790": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120884358374359168": {
           "alerted": [],
           "self_replies": 0
@@ -1858,10 +1854,13 @@
         "2122388140942119199": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122406507040116962": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121941806682341868": false,
         "2121942589666451714": true,
         "2121946072029204864": true,
         "2121948297845686312": true,
@@ -1895,7 +1894,8 @@
         "2122399727270691215": true,
         "2122399798645198990": false,
         "2122400453434483045": false,
-        "2122400757626372265": false
+        "2122400757626372265": false,
+        "2122406507040116962": false
       },
       "user_id": "973261472"
     },
@@ -6453,7 +6453,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122397767507333376",
+      "last_id": "2122406539021439441",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6505,11 +6505,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T03:32:00.000Z",
-          "id": "2122170797011943846",
-          "text": "I think at this point a rational assumption is that things are potentially \"not quite right\" at Binance and it's important for our future that you use onchain, completely transparent and verifiably solvent products.\n\nIf you care about Crypto succeeding move your volume off CEXs."
-        },
         {
           "created_at": "2026-11-16T03:34:14.000Z",
           "id": "2122171360315109588",
@@ -6636,10 +6631,14 @@
             "https://pbs.twimg.com/media/HXREupwWwAAq3-r.png"
           ],
           "text": "Hyperliquid https://t.co/icchp6hTBi"
+        },
+        {
+          "created_at": "2026-11-16T19:08:45.000Z",
+          "id": "2122406539021439441",
+          "text": "How lucky are we to have this volatility with NVDA earnings, FED minutes and ANT IPO in the same week"
         }
       ],
       "reads": {
-        "2122170797011943846": "No call",
         "2122171360315109588": "No call",
         "2122178257667641768": "No call",
         "2122182372506419356": "No call",
@@ -6655,7 +6654,8 @@
         "2122379446212845701": "No call",
         "2122381683047666006": "No call",
         "2122384468224753946": "No call",
-        "2122397245555224829": "No call"
+        "2122397245555224829": "No call",
+        "2122406539021439441": "No call"
       },
       "replies": [
         {
@@ -6756,10 +6756,6 @@
         }
       ],
       "threads": {
-        "2120656959024115846": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120886448425681182": {
           "alerted": [],
           "self_replies": 0
@@ -7165,6 +7161,10 @@
         "2122397245555224829": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122406539021439441": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7175,7 +7175,6 @@
         "2122123254445838831": false,
         "2122165364624961955": true,
         "2122167670577512501": true,
-        "2122170797011943846": true,
         "2122171360315109588": true,
         "2122171705229554016": false,
         "2122172629582790876": true,
@@ -7202,7 +7201,8 @@
         "2122381683047666006": true,
         "2122384468224753946": false,
         "2122397245555224829": true,
-        "2122397767507333376": false
+        "2122397767507333376": false,
+        "2122406539021439441": true
       },
       "user_id": "809191427645181952"
     }
@@ -7225,5 +7225,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T19:06:15+00:00"
+  "updated_at": "2026-11-16T19:10:34+00:00"
 }
