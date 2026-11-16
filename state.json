@@ -1108,7 +1108,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122399798645198990",
+      "last_id": "2122400757626372265",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1344,21 +1344,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T16:43:44.000Z",
-          "id": "2122370040687136884",
-          "images": [
-            "https://pbs.twimg.com/media/HXQsSryW4AA4xxS.jpg"
-          ],
-          "reply_to_id": "2122366125916684556",
-          "text": "@NimbusVibe https://t.co/AhKfWuYny2"
-        },
-        {
-          "created_at": "2026-11-16T17:01:59.000Z",
-          "id": "2122374637078401387",
-          "reply_to_id": "2122344862402187413",
-          "text": "@DeriveXYZ damn nice"
-        },
-        {
           "created_at": "2026-11-16T17:08:06.000Z",
           "id": "2122376173770666085",
           "reply_to_id": "2122373864697024929",
@@ -1438,6 +1423,21 @@
           "id": "2122399798645198990",
           "reply_to_id": "2122397286336790542",
           "text": "@CastilloTrading theyve been taking turns its pretty fucked tbh"
+        },
+        {
+          "created_at": "2026-11-16T18:44:35.000Z",
+          "id": "2122400453434483045",
+          "images": [
+            "https://pbs.twimg.com/media/HXRH9svWgAAqS2m.jpg"
+          ],
+          "reply_to_id": "2122399455597023708",
+          "text": "@iruletrenches https://t.co/8Aimz0BCMO"
+        },
+        {
+          "created_at": "2026-11-16T18:45:47.000Z",
+          "id": "2122400757626372265",
+          "reply_to_id": "2122399193113457150",
+          "text": "@buyerofponzi i wanna be cool like you when i grow up"
         }
       ],
       "threads": {
@@ -1879,8 +1879,6 @@
         "2122358956609749430": true,
         "2122363832878202934": false,
         "2122365079773716637": true,
-        "2122370040687136884": false,
-        "2122374637078401387": false,
         "2122376173770666085": true,
         "2122377042985373918": false,
         "2122377247726477526": true,
@@ -1895,7 +1893,9 @@
         "2122385993588216273": true,
         "2122388140942119199": true,
         "2122399727270691215": true,
-        "2122399798645198990": false
+        "2122399798645198990": false,
+        "2122400453434483045": false,
+        "2122400757626372265": false
       },
       "user_id": "973261472"
     },
@@ -7225,5 +7225,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T18:42:27+00:00"
+  "updated_at": "2026-11-16T18:46:19+00:00"
 }
