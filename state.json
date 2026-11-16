@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122346614660751503",
+      "last_id": "2122351506925953404",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1194,11 +1194,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T01:45:12.000Z",
-          "id": "2121781530813141430",
-          "text": "where's smartest money's liq at"
-        },
         {
           "created_at": "2026-11-15T03:29:06.000Z",
           "id": "2121807676539830767",
@@ -1325,10 +1320,14 @@
           ],
           "quoted_text": "buying zcash at $800 is like buying bitcoin at $800 https://t.co/HCsgpnZ0yq",
           "text": "i still like the long-term privacy thesis and watching zcash:native for a deeper pullback, with $750 as a key level where historical resistance could turn into support https://t.co/MYsp2MVaDV https://t.co/NUEcpU9oul"
+        },
+        {
+          "created_at": "2026-11-16T15:30:05.000Z",
+          "id": "2122351506925953404",
+          "text": "send videos from breakpoint"
         }
       ],
       "reads": {
-        "2121781530813141430": "No call",
         "2121807676539830767": "TRADE EXIT BTC, ETH, SOL",
         "2121925527246139854": "No call",
         "2121929768023310813": "No call: bearish on crypto market (same view as before)",
@@ -1345,7 +1344,8 @@
         "2122074625756819616": "No call",
         "2122108269284229441": "No call",
         "2122138338710724829": "No call",
-        "2122284970949718155": "VIEW bullish on ZEC"
+        "2122284970949718155": "VIEW bullish on ZEC",
+        "2122351506925953404": "No call"
       },
       "replies": [
         {
@@ -1449,10 +1449,6 @@
         }
       ],
       "threads": {
-        "2120833445408510011": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2120845385971499478": {
           "alerted": [],
           "self_replies": 0
@@ -1864,10 +1860,13 @@
             "bias:zec:bullish"
           ],
           "self_replies": 0
+        },
+        "2122351506925953404": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121781530813141430": true,
         "2121807676539830767": true,
         "2121925527246139854": true,
         "2121929768023310813": true,
@@ -1901,7 +1900,8 @@
         "2122162134272405792": false,
         "2122162254984470678": false,
         "2122284970949718155": true,
-        "2122346614660751503": false
+        "2122346614660751503": false,
+        "2122351506925953404": false
       },
       "user_id": "973261472"
     },
@@ -7217,5 +7217,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T15:16:27+00:00"
+  "updated_at": "2026-11-16T15:30:26+00:00"
 }
