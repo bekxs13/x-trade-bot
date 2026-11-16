@@ -6454,7 +6454,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122371881672310937",
+      "last_id": "2122372450839310612",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6506,11 +6506,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T03:15:05.000Z",
-          "id": "2122166538136432699",
-          "text": "Another fun thought exercise:\n\nIf Bitcoin compounds at a rate greater than most businesses on Earth, because of it being a deflationary asset there is almost no incentive to be risk seeking capital. \n\nInflation is not a bad thing so long as demand outpaces inflation, however, deflation is a massive issue because the optimal thing to do is hoard.\n\nImagine a dynasty like the Rockefeller, but instead of holding their fortune in cash and equities which rebalance, their fortune was codified in the hardest capital on known to mankind. This seems somewhat suboptimal for wealth distribution. Bitcoin's gini coefficient is already terrible, there really is no nerf other than borrows being treated as capital gain sales, wealth taxes or estate tax redistribution."
-        },
         {
           "created_at": "2026-11-16T03:15:36.000Z",
           "id": "2122166670915506385",
@@ -6626,10 +6621,15 @@
           ],
           "reply_to_id": "2122371793843597643",
           "text": "For this sleeve our historical returns since 2019! https://t.co/PDjbQZRO0e"
+        },
+        {
+          "created_at": "2026-11-16T16:53:18.000Z",
+          "id": "2122372450839310612",
+          "reply_to_id": "2122371881672310937",
+          "text": "The calculations and formulas still need work (our sharpe is quite a bit higher...)"
         }
       ],
       "reads": {
-        "2122166538136432699": "No call",
         "2122166670915506385": "Read together with the post it replies to",
         "2122166930215993614": "No call",
         "2122169303495832027": "No call: bullish on btc (same view as before)",
@@ -7166,7 +7166,6 @@
         "2122088338366546308": false,
         "2122123254445838831": false,
         "2122165364624961955": true,
-        "2122166538136432699": true,
         "2122166670915506385": false,
         "2122166930215993614": true,
         "2122167670577512501": true,
@@ -7193,7 +7192,8 @@
         "2122370233864184016": true,
         "2122370565638136220": false,
         "2122371793843597643": true,
-        "2122371881672310937": true
+        "2122371881672310937": true,
+        "2122372450839310612": true
       },
       "user_id": "809191427645181952"
     }
@@ -7216,5 +7216,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T16:52:23+00:00"
+  "updated_at": "2026-11-16T16:54:17+00:00"
 }
