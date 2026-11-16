@@ -1105,7 +1105,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122432550333276360",
+      "last_id": "2122432887618507025",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1189,14 +1189,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T12:47:52.000Z",
-          "id": "2121948297845686312",
-          "images": [
-            "https://pbs.twimg.com/media/HXKsuMAXkAAC7kG.jpg"
-          ],
-          "text": "it's time https://t.co/xhOpryfYRL"
-        },
         {
           "created_at": "2026-11-15T14:46:04.000Z",
           "id": "2121978042255905158",
@@ -1316,10 +1308,15 @@
           "quoted_text": "think $MU beats on ER makes a fresh new all time high & then thats the memory top for a couple months\n\nmag7 has already been notably weak and down off the highs, memory & semis have been carrying the market\n\nwas wrong on SpaceX strength until first major unlocks which is another sign of retail buyer exhaustion in market imo, will cut this on sustained weakness below open price at $150\n\ncapex concerns become materially more important if open source models continue to compete w/ closed source at m",
           "reply_to_id": "2122431632430797104",
           "text": "@ThinkingUSD pico top / pico bottom https://t.co/eXlDldggnT"
+        },
+        {
+          "created_at": "2026-11-16T20:53:27.000Z",
+          "id": "2122432887618507025",
+          "quoted_text": "think $MU beats on ER makes a fresh new all time high & then thats the memory top for a couple months\n\nmag7 has already been notably weak and down off the highs, memory & semis have been carrying the market\n\nwas wrong on SpaceX strength until first major unlocks which is another sign of retail buyer exhaustion in market imo, will cut this on sustained weakness below open price at $150\n\ncapex concerns become materially more important if open source models continue to compete w/ closed source at m",
+          "text": "it seems we are here again, memory and equities are much lower while bitcoin is same price, i am less confident in the divergence this time\n\nwhat do you all think https://t.co/AbilIeFk7V"
         }
       ],
       "reads": {
-        "2121948297845686312": "No call",
         "2122046665632911597": "No call",
         "2122051143169949842": "No call",
         "2122074625756819616": "No call",
@@ -1334,7 +1331,8 @@
         "2122365079773716637": "VIEW neutral on memory stocks",
         "2122379281971995072": "No call",
         "2122388140942119199": "No call",
-        "2122406507040116962": "No call"
+        "2122406507040116962": "No call",
+        "2122432887618507025": "No call: neutral on btc (55%, too unsure)"
       },
       "replies": [
         {
@@ -1438,10 +1436,6 @@
         }
       ],
       "threads": {
-        "2120884358374359168": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120930818675835074": {
           "alerted": [],
           "self_replies": 0
@@ -1855,10 +1849,13 @@
         "2122406507040116962": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122432887618507025": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121948297845686312": true,
         "2121978042255905158": false,
         "2122046665632911597": true,
         "2122051143169949842": true,
@@ -1892,7 +1889,8 @@
         "2122412411558707578": true,
         "2122431632430797104": true,
         "2122432235907236242": true,
-        "2122432550333276360": true
+        "2122432550333276360": true,
+        "2122432887618507025": true
       },
       "user_id": "973261472"
     },
@@ -7228,5 +7226,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T20:52:20+00:00"
+  "updated_at": "2026-11-16T20:54:26+00:00"
 }
