@@ -1095,7 +1095,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122466129281261608",
+      "last_id": "2122475250646692017",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1179,20 +1179,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T23:23:32.000Z",
-          "id": "2122108269284229441",
-          "images": [
-            "https://pbs.twimg.com/media/HXM-OWYWkAAHVW0.jpg"
-          ],
-          "text": "never doom bros https://t.co/VCO8nFk6TW"
-        },
-        {
-          "created_at": "2026-11-16T01:23:02.000Z",
-          "id": "2122138338710724829",
-          "quoted_text": "This isn\u2019t rocket surgery, but once boomers are gone, casinos are cooked. Went into one recently, blew $40 on slots in 10 minutes, thought \u201cthis is nothing but brain rot for 50+ crowd.\u201d Even the table games looked depressing. Zero glamour. Gen Z will gamble from their phones.",
-          "text": "thoughts? https://t.co/Fw75uMZ8Xj"
-        },
         {
           "created_at": "2026-11-16T11:05:41.000Z",
           "id": "2122284970949718155",
@@ -1300,11 +1286,19 @@
           "created_at": "2026-11-16T23:05:04.000Z",
           "id": "2122466008292090214",
           "text": "everybody is trying to become the everything app\n\nrobinhood started with stocks and now is integrating prediction markets & crypto\n\npolymarket/kalshi started with prediction markets & now integrating perps & stocks\n\ncoinbase/kraken started with crypto spot trading & now integrating perps, prediction markets, & memecoins/onchain\n\npump started as a memecoin launchpad & now integrating crosschain trading, perps, prediction markets\n\nit seems like whoever has\n\n\u2022 stickiest customer retention\n\u2022 best rev-sharing systems for new users & whales\n\u2022 cross margining across the stack\n\nwill win this game\n\ndont really have strong thesis on how best to differentiate from others here, also asked this question at the end of coinbase's last earnings call"
+        },
+        {
+          "created_at": "2026-11-16T23:41:39.000Z",
+          "id": "2122475215489753104",
+          "text": "anthropic ipo"
+        },
+        {
+          "created_at": "2026-11-16T23:41:48.000Z",
+          "id": "2122475250646692017",
+          "text": "nvidia earnings"
         }
       ],
       "reads": {
-        "2122108269284229441": "No call",
-        "2122138338710724829": "No call",
         "2122284970949718155": "VIEW bullish on ZEC",
         "2122351506925953404": "No call",
         "2122351570415141333": "No call",
@@ -1320,7 +1314,9 @@
         "2122453707266666992": "No call: bearish on ai stocks (same view as before)",
         "2122453799935906240": "No call: bearish on ai stocks (same view as before)",
         "2122460677499482376": "No call",
-        "2122466008292090214": "No call"
+        "2122466008292090214": "No call",
+        "2122475215489753104": "No call",
+        "2122475250646692017": "No call"
       },
       "replies": [
         {
@@ -1418,14 +1414,6 @@
         }
       ],
       "threads": {
-        "2120964381211050460": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2120966496440791196": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120967022272008380": {
           "alerted": [
             "trade:BONDS, OIL:long"
@@ -1833,11 +1821,17 @@
         "2122466008292090214": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122475215489753104": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2122475250646692017": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122108269284229441": true,
-        "2122138338710724829": false,
         "2122284970949718155": true,
         "2122351506925953404": false,
         "2122351570415141333": false,
@@ -1870,7 +1864,9 @@
         "2122460677499482376": true,
         "2122461871106310410": true,
         "2122466008292090214": true,
-        "2122466129281261608": true
+        "2122466129281261608": true,
+        "2122475215489753104": true,
+        "2122475250646692017": true
       },
       "user_id": "973261472"
     },
@@ -4637,7 +4633,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122471222143508642",
+      "last_id": "2122475166269886660",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4830,12 +4826,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-15T18:44:52.000Z",
-          "id": "2122038139384660298",
-          "reply_to_id": "2122031252018774350",
-          "text": "@jukan05 @TomorrowXSummit hi"
-        },
-        {
           "created_at": "2026-11-15T19:11:26.000Z",
           "id": "2122044825130168781",
           "reply_to_id": "2122044293745664398",
@@ -4918,6 +4908,12 @@
           "id": "2122471222143508642",
           "reply_to_id": "2122469837263737090",
           "text": "@pc2124 what that gotta do with me"
+        },
+        {
+          "created_at": "2026-11-16T23:41:27.000Z",
+          "id": "2122475166269886660",
+          "reply_to_id": "2122470864289714403",
+          "text": "@CryptoEthan @based16z oh look the guy that fucking hates everything hates another cool thing"
         }
       ],
       "threads": {
@@ -5332,7 +5328,6 @@
         "2121705855007519033": false,
         "2121790268638920806": true,
         "2122029141335617892": false,
-        "2122038139384660298": false,
         "2122044825130168781": false,
         "2122045724795814312": false,
         "2122046856297644246": true,
@@ -5359,7 +5354,8 @@
         "2122460720537481379": false,
         "2122462607747748155": false,
         "2122471085300236356": false,
-        "2122471222143508642": false
+        "2122471222143508642": false,
+        "2122475166269886660": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7216,5 +7212,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T23:38:14+00:00"
+  "updated_at": "2026-11-16T23:42:25+00:00"
 }
