@@ -79,7 +79,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122374182835253478",
+      "last_id": "2122375589470646621",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -163,12 +163,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T00:03:16.000Z",
-          "id": "2121393490244551021",
-          "quoted_text": "BREAKING: Amtrak facing outages nationwide.",
-          "text": "Unrelated https://t.co/XcvqrHTPuW"
-        },
         {
           "created_at": "2026-11-14T00:05:01.000Z",
           "id": "2121393930868863125",
@@ -296,10 +290,15 @@
           "created_at": "2026-11-16T16:55:23.000Z",
           "id": "2122372973076373854",
           "text": "TradingView be like let\u2019s destroy the entire mobile app"
+        },
+        {
+          "created_at": "2026-11-16T17:05:47.000Z",
+          "id": "2122375589470646621",
+          "quoted_text": "Chamath bear posting crypto on LinkedIn\nHaven't seen this on X yet https://t.co/ekuIapPmLL",
+          "text": "If we can\u2019t bounce off range low on the Chamath LinkedIn bear post then man https://t.co/ut80PGTpHg"
         }
       ],
       "reads": {
-        "2121393490244551021": "No call",
         "2121393930868863125": "No call",
         "2121399584727675247": "No call",
         "2121404053372764582": "No call",
@@ -317,7 +316,8 @@
         "2122139084567261554": "No call",
         "2122208322539659433": "No call: bearish on semis/ai stocks (55%, too unsure)",
         "2122214531829293286": "VIEW bearish on NVDA",
-        "2122372973076373854": "No call"
+        "2122372973076373854": "No call",
+        "2122375589470646621": "No call: bullish on btc (55%, too unsure)"
       },
       "replies": [
         {
@@ -415,10 +415,6 @@
         }
       ],
       "threads": {
-        "2116217175962776030": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116218895573143641": {
           "alerted": [],
           "self_replies": 0
@@ -819,10 +815,13 @@
         "2122372973076373854": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122375589470646621": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121393490244551021": false,
         "2121393930868863125": true,
         "2121399584727675247": false,
         "2121404053372764582": false,
@@ -856,7 +855,8 @@
         "2122214635759943685": false,
         "2122239223592067323": false,
         "2122372973076373854": false,
-        "2122374182835253478": false
+        "2122374182835253478": false,
+        "2122375589470646621": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7216,5 +7216,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T17:02:17+00:00"
+  "updated_at": "2026-11-16T17:06:23+00:00"
 }
