@@ -6445,7 +6445,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122183685067907468",
+      "last_id": "2122201906848174435",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6497,11 +6497,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T19:04:43.000Z",
-          "id": "2122043132149706894",
-          "text": "You can make millions of dollars trading, consistently year after year. All you need is patience."
-        },
         {
           "created_at": "2026-11-15T19:26:25.000Z",
           "id": "2122048595168047499",
@@ -6610,10 +6605,14 @@
             "https://pbs.twimg.com/media/HXOC0HCWIAAGg_O.jpg"
           ],
           "text": "Only 2 things are guaranteed up and to the right.\n\nGoodnight https://t.co/3WiRIkhwPz"
+        },
+        {
+          "created_at": "2026-11-16T05:35:37.000Z",
+          "id": "2122201906848174435",
+          "text": "Fixing Robinhood chain is easy all they have to do is ask"
         }
       ],
       "reads": {
-        "2122043132149706894": "No call",
         "2122048595168047499": "No call",
         "2122054445278105885": "No call",
         "2122075550990655969": "No call",
@@ -6632,7 +6631,8 @@
         "2122171360315109588": "No call",
         "2122178257667641768": "No call",
         "2122182372506419356": "No call",
-        "2122183685067907468": "No call"
+        "2122183685067907468": "No call",
+        "2122201906848174435": "No call"
       },
       "replies": [
         {
@@ -6733,10 +6733,6 @@
         }
       ],
       "threads": {
-        "2120577037370818795": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120585351219789956": {
           "alerted": [],
           "self_replies": 0
@@ -7142,6 +7138,10 @@
         "2122183685067907468": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122201906848174435": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7149,7 +7149,6 @@
         "2121794659391545636": true,
         "2121838839765635395": false,
         "2122034439316181103": false,
-        "2122043132149706894": true,
         "2122048595168047499": false,
         "2122054445278105885": false,
         "2122075550990655969": false,
@@ -7179,7 +7178,8 @@
         "2122177068783771982": true,
         "2122178257667641768": true,
         "2122182372506419356": true,
-        "2122183685067907468": true
+        "2122183685067907468": true,
+        "2122201906848174435": true
       },
       "user_id": "809191427645181952"
     }
@@ -7202,5 +7202,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T04:42:18+00:00"
+  "updated_at": "2026-11-16T05:36:33+00:00"
 }
