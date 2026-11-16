@@ -6442,7 +6442,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122429437522354541",
+      "last_id": "2122446465822007696",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6654,12 +6654,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-15T05:32:55.000Z",
-          "id": "2121838839765635395",
-          "reply_to_id": "2121838442653032595",
-          "text": "@skytsuETH @notthreadguy https://t.co/7ieYqtjvsR\n\nJust search Flood"
-        },
-        {
           "created_at": "2026-11-15T18:30:10.000Z",
           "id": "2122034439316181103",
           "reply_to_id": "2122031715392667915",
@@ -6748,6 +6742,12 @@
           "id": "2122422704460492908",
           "reply_to_id": "2122421483255329235",
           "text": "@Evan_ss6 It's just one sleeve and all the wallets are public anyways"
+        },
+        {
+          "created_at": "2026-11-16T21:47:25.000Z",
+          "id": "2122446465822007696",
+          "reply_to_id": "2122443259658056046",
+          "text": "@ChairmanSelig @CFTC Hyperliquid USA coming soon"
         }
       ],
       "threads": {
@@ -7163,7 +7163,6 @@
         }
       },
       "trading": {
-        "2121838839765635395": false,
         "2122034439316181103": false,
         "2122088338366546308": false,
         "2122123254445838831": false,
@@ -7197,7 +7196,8 @@
         "2122422704460492908": true,
         "2122425061152018605": false,
         "2122426314833703317": true,
-        "2122429437522354541": true
+        "2122429437522354541": true,
+        "2122446465822007696": true
       },
       "user_id": "809191427645181952"
     }
@@ -7220,5 +7220,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T21:44:18+00:00"
+  "updated_at": "2026-11-16T21:48:31+00:00"
 }
