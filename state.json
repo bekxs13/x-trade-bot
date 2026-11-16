@@ -6441,7 +6441,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122164885064741072",
+      "last_id": "2122165364624961955",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6628,12 +6628,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-12T17:50:41.000Z",
-          "id": "2120937340495339809",
-          "reply_to_id": "2120936302870773867",
-          "text": "@thybead Under the format students were allowed to select one trade and do research from Sept - Dec (school year start) and the trade would be put on first trading day of the year and could not exceed 5% of the book.\n\nI thought it was very clever."
-        },
-        {
           "created_at": "2026-11-12T17:52:16.000Z",
           "id": "2120937737994088669",
           "reply_to_id": "2120936014839505042",
@@ -6719,6 +6713,12 @@
           ],
           "reply_to_id": "2122002522940346513",
           "text": "@rcwhalen @PeterSchiff @jameskoutoulas Yes https://t.co/9uaUUZxK4m"
+        },
+        {
+          "created_at": "2026-11-16T03:10:25.000Z",
+          "id": "2122165364624961955",
+          "reply_to_id": "2122164353679913401",
+          "text": "@0xoriok Right... but even at some relatively small holding comparatively you should be able to borrow against it and it should compound at a rate higher than whatever you spend.\n\nAdditionally if we're pricing in Bitcoin your standard of living will index against global ownership..."
         }
       ],
       "threads": {
@@ -7136,7 +7136,6 @@
         }
       },
       "trading": {
-        "2120937340495339809": true,
         "2120937737994088669": false,
         "2120942476978483206": false,
         "2120969204128235808": true,
@@ -7170,7 +7169,8 @@
         "2122162502288998628": false,
         "2122163006679212421": true,
         "2122163753340883336": true,
-        "2122164885064741072": true
+        "2122164885064741072": true,
+        "2122165364624961955": true
       },
       "user_id": "809191427645181952"
     }
@@ -7193,5 +7193,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T03:10:28+00:00"
+  "updated_at": "2026-11-16T03:12:25+00:00"
 }
