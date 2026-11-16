@@ -2290,7 +2290,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2122379575405793440",
+      "last_id": "2122449445031956856",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2310,20 +2310,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T04:25:53.000Z",
-          "id": "2120734804689965186",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2120734743377362944/img/LN0MZuaf0tEnQMNx.jpg"
-          ],
-          "text": "bawston https://t.co/S8KeknLZa7"
-        },
-        {
-          "created_at": "2026-11-12T13:55:07.000Z",
-          "id": "2120878056625652020",
-          "quoted_text": "$NVDA  - NVIDIA CORPORATION - JENSEN HUANG RESIGNS AS PRESIDENT, CEO, AND BOARD MEMBER EFFECTIVE IMMEDIATELY",
-          "text": "loser mentality https://t.co/x1eAgyNTcp"
-        },
         {
           "created_at": "2026-11-12T13:57:09.000Z",
           "id": "2120878567269806153",
@@ -2434,11 +2420,24 @@
           "id": "2122369305081987326",
           "quoted_text": "I got to meet a legendary trader who told me they\u2019ve been a fan of mine for years. I had a great time! @strictrope https://t.co/y2r8DGjNCw",
           "text": "if your for you looks like that you have to reconsider your life choices https://t.co/z1dsj7Pb5E"
+        },
+        {
+          "created_at": "2026-11-16T21:57:30.000Z",
+          "id": "2122449003434348586",
+          "quoted_text": "*SITUATIONAL AWARENESS 13F VALUE PLUNGES 92% TO $1.58B IN Q3 FROM $20.2B IN Q2",
+          "text": "it could always be worse https://t.co/M8XxIrYOwv"
+        },
+        {
+          "created_at": "2026-11-16T21:57:50.000Z",
+          "id": "2122449087371018382",
+          "images": [
+            "https://pbs.twimg.com/tweet_video_thumb/HXR0MVpWIAAtrtg.jpg"
+          ],
+          "reply_to_id": "2122449003434348586",
+          "text": "https://t.co/cDotvKgr1A"
         }
       ],
       "reads": {
-        "2120734804689965186": "No call",
-        "2120878056625652020": "No call",
         "2120878567269806153": "No call",
         "2120886121689407518": "No call",
         "2120887119048581298": "No call",
@@ -2455,15 +2454,11 @@
         "2121822838982353176": "No call",
         "2122171527701401622": "No call",
         "2122351572076408866": "No call",
-        "2122369305081987326": "No call"
+        "2122369305081987326": "No call",
+        "2122449003434348586": "No call",
+        "2122449087371018382": "Read together with the post it replies to"
       },
       "replies": [
-        {
-          "created_at": "2026-11-12T01:11:23.000Z",
-          "id": "2120685859401785773",
-          "reply_to_id": "2120684253185016306",
-          "text": "@based16z i doubt this is it if the board is thinking of firing him tbh"
-        },
         {
           "created_at": "2026-11-12T01:24:50.000Z",
           "id": "2120689242745831904",
@@ -2547,13 +2542,15 @@
           "id": "2122379575405793440",
           "reply_to_id": "2122373712431251802",
           "text": "@meta_syntactic very possibly!"
+        },
+        {
+          "created_at": "2026-11-16T21:59:15.000Z",
+          "id": "2122449445031956856",
+          "reply_to_id": "2122449339763061230",
+          "text": "@tipa_you investors are still on lock in, i don't think anyone can pull lol"
         }
       ],
       "threads": {
-        "2115953967297650762": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115954676289917102": {
           "alerted": [],
           "self_replies": 0
@@ -2951,14 +2948,15 @@
         "2122369305081987326": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122449003434348586": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2120685859401785773": false,
         "2120689242745831904": false,
         "2120732715708239968": false,
-        "2120734804689965186": false,
-        "2120878056625652020": true,
         "2120878567269806153": true,
         "2120886121689407518": true,
         "2120887119048581298": true,
@@ -2988,7 +2986,10 @@
         "2122356413959639523": false,
         "2122359209912115430": false,
         "2122369305081987326": false,
-        "2122379575405793440": false
+        "2122379575405793440": false,
+        "2122449003434348586": true,
+        "2122449087371018382": false,
+        "2122449445031956856": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7222,5 +7223,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T21:56:29+00:00"
+  "updated_at": "2026-11-16T22:00:24+00:00"
 }
