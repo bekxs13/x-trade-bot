@@ -79,7 +79,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122466321367785797",
+      "last_id": "2122469149054239037",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -163,15 +163,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T02:26:00.000Z",
-          "id": "2121791798343516541",
-          "images": [
-            "https://pbs.twimg.com/media/HXIeYuma8AAZ_PA.jpg"
-          ],
-          "reply_to_id": "2115497371807412663",
-          "text": "Ok https://t.co/Q6yBZyhu4M"
-        },
         {
           "created_at": "2026-11-15T04:37:59.000Z",
           "id": "2121825012449714179",
@@ -287,10 +278,14 @@
             "https://pbs.twimg.com/media/HXSD2-daUAAnp3K.jpg"
           ],
           "text": "https://t.co/CWxy19rcJe"
+        },
+        {
+          "created_at": "2026-11-16T23:17:33.000Z",
+          "id": "2122469149054239037",
+          "text": "Situational awareness reportedly looking to use their anthropic stake as collateral \u201cwe\u2019re not stopping until -100%\u201d"
         }
       ],
       "reads": {
-        "2121791798343516541": "No call",
         "2121825012449714179": "No call",
         "2121833884384194656": "No call",
         "2121980844340617464": "No call",
@@ -306,7 +301,8 @@
         "2122460396053496275": "No call",
         "2122462892914356297": "No call",
         "2122465435132240320": "No call",
-        "2122466321367785797": "No call"
+        "2122466321367785797": "No call",
+        "2122469149054239037": "No call"
       },
       "replies": [
         {
@@ -407,10 +403,6 @@
         }
       ],
       "threads": {
-        "2117008418271568168": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117014140224975092": {
           "alerted": [],
           "self_replies": 0
@@ -811,10 +803,13 @@
         "2122466321367785797": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122469149054239037": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121791798343516541": false,
         "2121825012449714179": false,
         "2121833884384194656": false,
         "2121980844340617464": false,
@@ -848,7 +843,8 @@
         "2122464768078598638": false,
         "2122465435132240320": false,
         "2122466146016506326": false,
-        "2122466321367785797": false
+        "2122466321367785797": false,
+        "2122469149054239037": true
       },
       "user_id": "1446541960181858315"
     },
@@ -2283,7 +2279,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2122462257087185300",
+      "last_id": "2122468789233373456",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2453,12 +2449,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-12T15:06:38.000Z",
-          "id": "2120896056770641999",
-          "reply_to_id": "2120726750359658582",
-          "text": "@zavetn0e i would hope my future wife understands sarcastic humor"
-        },
-        {
           "created_at": "2026-11-12T18:44:04.000Z",
           "id": "2120950774993936569",
           "reply_to_id": "2120945641836744831",
@@ -2541,6 +2531,12 @@
           "id": "2122462047526867268",
           "reply_to_id": "2122443484254872049",
           "text": "@TheStalwart this is good but tbh most of the stores you're referring to are \"fake\" japanese groceries with poor prepared food selection. often not ran by japanese folks\n\nmy preferred small japanese store in the city are the dainobus i think"
+        },
+        {
+          "created_at": "2026-11-16T23:16:07.000Z",
+          "id": "2122468789233373456",
+          "reply_to_id": "2122467743433658674",
+          "text": "@labibrahman @TheStalwart didn't hear about this, do you have a link?"
         }
       ],
       "threads": {
@@ -2950,7 +2946,6 @@
       "trading": {
         "2120886121689407518": true,
         "2120887119048581298": true,
-        "2120896056770641999": false,
         "2120935840658661401": true,
         "2120950774993936569": false,
         "2120952403147255911": false,
@@ -2982,7 +2977,8 @@
         "2122449445031956856": true,
         "2122453371500323175": true,
         "2122462047526867268": false,
-        "2122462257087185300": false
+        "2122462257087185300": false,
+        "2122468789233373456": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7223,5 +7219,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T23:08:38+00:00"
+  "updated_at": "2026-11-16T23:18:25+00:00"
 }
