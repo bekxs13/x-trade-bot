@@ -6445,7 +6445,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122171705229554016",
+      "last_id": "2122172629582790876",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6633,12 +6633,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-12T19:57:18.000Z",
-          "id": "2120969204128235808",
-          "reply_to_id": "2120967924525695158",
-          "text": "Insilico is an OEMS \n\nFullstack is an onchain prime brokerage where you'll be able to use portfolio margin with collateral from any chain to trade simultaneously on Hyperliquid, Polymarket and any other relevant venue.\n\nImagine taking Anthropic stock from Robinhood chain and using it as collateral to trade on Hyperliquid.\n\nIncomparable."
-        },
-        {
           "created_at": "2026-11-13T22:24:03.000Z",
           "id": "2121368520252334151",
           "reply_to_id": "2121366718538748124",
@@ -6724,6 +6718,12 @@
           "id": "2122171705229554016",
           "reply_to_id": "2122171118010110287",
           "text": "@McdoNakamoto This is a great point actually. \n\nPeople that are paying attention are watching the growth of onchain, permissionless trading and salivating to build more normie friendly products. \n\nI totally agree, 99.99% of people should never interact with a blockchain."
+        },
+        {
+          "created_at": "2026-11-16T03:39:17.000Z",
+          "id": "2122172629582790876",
+          "reply_to_id": "2122171654562369987",
+          "text": "@Buhlaque Is it stealing or do you give people 1-2 years to move coins over? You can't push it out forever if quantum risk is actually real.\n\nOpen to any ideas."
         }
       ],
       "threads": {
@@ -7139,7 +7139,6 @@
         }
       },
       "trading": {
-        "2120969204128235808": true,
         "2121368520252334151": true,
         "2121370893020549192": true,
         "2121384370540102139": false,
@@ -7173,7 +7172,8 @@
         "2122170235608306116": true,
         "2122170797011943846": true,
         "2122171360315109588": true,
-        "2122171705229554016": false
+        "2122171705229554016": false,
+        "2122172629582790876": true
       },
       "user_id": "809191427645181952"
     }
@@ -7196,5 +7196,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T03:36:26+00:00"
+  "updated_at": "2026-11-16T03:46:21+00:00"
 }
