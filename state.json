@@ -6450,7 +6450,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122426314833703317",
+      "last_id": "2122429437522354541",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6502,11 +6502,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T05:35:37.000Z",
-          "id": "2122201906848174435",
-          "text": "Fixing Robinhood chain is easy all they have to do is ask"
-        },
         {
           "created_at": "2026-11-16T12:37:04.000Z",
           "id": "2122307965759685101",
@@ -6639,10 +6634,14 @@
             "https://pbs.twimg.com/media/HXRfWI-XAAAXlmY.png"
           ],
           "text": "\"...$1.5B of buybacks is the floor... not the ceiling...\" https://t.co/6JszFU9DAr"
+        },
+        {
+          "created_at": "2026-11-16T20:39:45.000Z",
+          "id": "2122429437522354541",
+          "text": "Kind of hard to complain about Bitcoin volatility when NVDA is having -5% Intraday swings"
         }
       ],
       "reads": {
-        "2122201906848174435": "No call",
         "2122307965759685101": "No call",
         "2122331984642937161": "No call",
         "2122332344451465244": "No call",
@@ -6658,7 +6657,8 @@
         "2122408040838414705": "No call",
         "2122410252977283480": "No call: bearish on HOOD (65%, too unsure)",
         "2122425061152018605": "No call",
-        "2122426314833703317": "No call"
+        "2122426314833703317": "No call",
+        "2122429437522354541": "No call"
       },
       "replies": [
         {
@@ -6759,10 +6759,6 @@
         }
       ],
       "threads": {
-        "2120898402485715425": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120905750033916381": {
           "alerted": [],
           "self_replies": 0
@@ -7168,6 +7164,10 @@
         "2122426314833703317": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122429437522354541": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7184,7 +7184,6 @@
         "2122176211657068925": true,
         "2122176644668436730": true,
         "2122177068783771982": true,
-        "2122201906848174435": true,
         "2122307965759685101": false,
         "2122331984642937161": true,
         "2122332344451465244": true,
@@ -7205,7 +7204,8 @@
         "2122410252977283480": true,
         "2122422704460492908": true,
         "2122425061152018605": false,
-        "2122426314833703317": true
+        "2122426314833703317": true,
+        "2122429437522354541": true
       },
       "user_id": "809191427645181952"
     }
@@ -7228,5 +7228,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T20:28:27+00:00"
+  "updated_at": "2026-11-16T20:40:27+00:00"
 }
