@@ -4653,7 +4653,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122402603262963859",
+      "last_id": "2122441222912622695",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4705,12 +4705,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T20:12:17.000Z",
-          "id": "2120972973847027947",
-          "reply_to_id": "2120972971703705709",
-          "text": "watch on YT!\nhttps://t.co/5IfE3ekUPu"
-        },
         {
           "created_at": "2026-11-13T01:25:56.000Z",
           "id": "2121051905371865414",
@@ -4818,10 +4812,15 @@
           "id": "2122384229166411901",
           "quoted_text": "*NVIDIA BOARD IS NOT CONSIDERING BRINGING JENSEN HUANG BACK AS CEO, SOURCE TELLS CNBC: CNBC\n\n$NVDA",
           "text": "have they not seen the petition? what am i missing https://t.co/18FySkG8CG"
+        },
+        {
+          "created_at": "2026-11-16T21:26:35.000Z",
+          "id": "2122441222912622695",
+          "quoted_text": "is anyone going to TomorrowX i want to meet people while I'm there",
+          "text": "will be there in a couple hours. incredible timing should be fun \ud83d\udc4d https://t.co/Li5dkK3EL5"
         }
       ],
       "reads": {
-        "2120972973847027947": "Read together with the post it replies to",
         "2121051905371865414": "No call",
         "2121055652453798321": "No call",
         "2121087402340983292": "No call",
@@ -4837,7 +4836,8 @@
         "2122311853514617301": "No call",
         "2122324225297903848": "No call",
         "2122372014875005263": "No call",
-        "2122384229166411901": "No call"
+        "2122384229166411901": "No call",
+        "2122441222912622695": "No call"
       },
       "replies": [
         {
@@ -4932,10 +4932,6 @@
         }
       ],
       "threads": {
-        "2117250901115109378": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117275103612330210": {
           "alerted": [],
           "self_replies": 0
@@ -5333,10 +5329,13 @@
         "2122384229166411901": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122441222912622695": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120972973847027947": false,
         "2121051905371865414": false,
         "2121055652453798321": false,
         "2121087402340983292": true,
@@ -5370,7 +5369,8 @@
         "2122384229166411901": true,
         "2122389561334764018": false,
         "2122391128716497101": false,
-        "2122402603262963859": false
+        "2122402603262963859": false,
+        "2122441222912622695": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7223,5 +7223,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T21:04:18+00:00"
+  "updated_at": "2026-11-16T21:28:22+00:00"
 }
