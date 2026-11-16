@@ -6441,7 +6441,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122169303495832027",
+      "last_id": "2122170235608306116",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6493,11 +6493,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T02:35:32.000Z",
-          "id": "2121794197321867525",
-          "text": "Have a good weekend everyone\n\nWe can go up now that was enough"
-        },
         {
           "created_at": "2026-11-15T05:28:43.000Z",
           "id": "2121837781508915257",
@@ -6603,10 +6598,15 @@
           "created_at": "2026-11-16T03:26:04.000Z",
           "id": "2122169303495832027",
           "text": "People will likely look back at the Quantum period for Bitcoin as one of the most incredible asset buying opportunities in financial history.\n\nWithout quantum overhang Bitcoin likely trades at $250k+ right now."
+        },
+        {
+          "created_at": "2026-11-16T03:29:46.000Z",
+          "id": "2122170235608306116",
+          "reply_to_id": "2122169303495832027",
+          "text": "Things that come to mind, Oil stocks after the invention of the car but kerosine usage declining to due electricity.\n\nPost great depression equities, where companies were trading under liquidatable book value (How Buffett made his fortune).\n\nInternet stocks post 2000s bubble pop, where Microsoft 3x earnings in 3 years but stock traded flat."
         }
       ],
       "reads": {
-        "2121794197321867525": "VIEW bullish on btc",
         "2121837781508915257": "No call",
         "2121838457748398123": "No call",
         "2121840174187327834": "No call",
@@ -6625,7 +6625,8 @@
         "2122166538136432699": "No call",
         "2122166670915506385": "Read together with the post it replies to",
         "2122166930215993614": "No call",
-        "2122169303495832027": "No call: bullish on btc (same view as before)"
+        "2122169303495832027": "No call: bullish on btc (same view as before)",
+        "2122170235608306116": "No call"
       },
       "replies": [
         {
@@ -7131,7 +7132,7 @@
         },
         "2122169303495832027": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
@@ -7143,7 +7144,6 @@
         "2121483826731885024": false,
         "2121621078405783948": true,
         "2121747269359985146": false,
-        "2121794197321867525": true,
         "2121794659391545636": true,
         "2121837781508915257": true,
         "2121838457748398123": false,
@@ -7169,7 +7169,8 @@
         "2122166670915506385": false,
         "2122166930215993614": true,
         "2122167670577512501": true,
-        "2122169303495832027": true
+        "2122169303495832027": true,
+        "2122170235608306116": true
       },
       "user_id": "809191427645181952"
     }
@@ -7192,5 +7193,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T03:26:20+00:00"
+  "updated_at": "2026-11-16T03:30:28+00:00"
 }
