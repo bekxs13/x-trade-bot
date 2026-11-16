@@ -6441,7 +6441,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122163006679212421",
+      "last_id": "2122163753340883336",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6493,11 +6493,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T01:17:33.000Z",
-          "id": "2121774572206977409",
-          "text": "Some of the most aggressive, price insensitive BTC selling I've seen in my entire life.\n\nWhen you see flow like this you have to ask yourself, does this large seller know something? Is this some hidden leverage unwinding? Bidding levels blindingly is a good way to get clipped."
-        },
         {
           "created_at": "2026-11-15T01:24:32.000Z",
           "id": "2121776329817309449",
@@ -6605,10 +6600,14 @@
           "id": "2122163006679212421",
           "reply_to_id": "2122162502288998628",
           "text": "This is going to be largerly bearish equities, and in the short term continues to cap valuations on Crypto assets.\n\nIn the long term however, rampant inflation and a \"no child left behind\" economic policy will lead the greatest BTC bull market we've ever experienced to the detriment of sadly, once again, working class people."
+        },
+        {
+          "created_at": "2026-11-16T03:04:01.000Z",
+          "id": "2122163753340883336",
+          "text": "One idea that's always sort of annoyed me about Bitcoin.\n\nIf hypothetically we have complete fiat debasement debt spiral, and Bitcoin price approaches the event horizon of the dominator (infinity) does it really matter if you own 1000, 100 or .01 BTC? All that will matter is that you own some?\n\nIt's very similar to the AI problem. Why be bullish on AI and AI equities if you actually believe that money won't matter in a year."
         }
       ],
       "reads": {
-        "2121774572206977409": "VIEW bearish on btc",
         "2121776329817309449": "No call",
         "2121776966848397415": "No call",
         "2121794197321867525": "VIEW bullish on btc",
@@ -6624,7 +6623,8 @@
         "2122079207455064216": "No call",
         "2122161985370427731": "No call",
         "2122162502288998628": "No call",
-        "2122163006679212421": "VIEW bearish on stocks/macro"
+        "2122163006679212421": "VIEW bearish on stocks/macro",
+        "2122163753340883336": "No call"
       },
       "replies": [
         {
@@ -6722,10 +6722,6 @@
         }
       ],
       "threads": {
-        "2120295855114932288": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2120299018030833889": {
           "alerted": [],
           "self_replies": 0
@@ -7133,6 +7129,10 @@
             "bias:stocks/macro:bearish"
           ],
           "self_replies": 1
+        },
+        "2122163753340883336": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7146,7 +7146,6 @@
         "2121483826731885024": false,
         "2121621078405783948": true,
         "2121747269359985146": false,
-        "2121774572206977409": true,
         "2121776329817309449": true,
         "2121776966848397415": true,
         "2121777516566229292": true,
@@ -7170,7 +7169,8 @@
         "2122123254445838831": false,
         "2122161985370427731": true,
         "2122162502288998628": false,
-        "2122163006679212421": true
+        "2122163006679212421": true,
+        "2122163753340883336": true
       },
       "user_id": "809191427645181952"
     }
@@ -7193,5 +7193,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T03:02:20+00:00"
+  "updated_at": "2026-11-16T03:04:22+00:00"
 }
