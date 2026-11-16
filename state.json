@@ -2292,7 +2292,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2122171527701401622",
+      "last_id": "2122188383661244526",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2461,12 +2461,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-11T22:10:53.000Z",
-          "id": "2120640431990174168",
-          "reply_to_id": "2120601110784471140",
-          "text": "@LacertaXG1 yea, their end game plan of robotics is a plausible one but requires soooooo much capex"
-        },
-        {
           "created_at": "2026-11-11T23:47:52.000Z",
           "id": "2120664838699638848",
           "reply_to_id": "2120664207750201751",
@@ -2549,6 +2543,12 @@
           "id": "2121494928241078553",
           "reply_to_id": "2121413013421084863",
           "text": "@CA_Memorial lol"
+        },
+        {
+          "created_at": "2026-11-16T04:41:53.000Z",
+          "id": "2122188383661244526",
+          "reply_to_id": "2122180330949902640",
+          "text": "@vonillaopinions it'll never happen for me"
         }
       ],
       "threads": {
@@ -2956,7 +2956,6 @@
         }
       },
       "trading": {
-        "2120640431990174168": true,
         "2120664838699638848": false,
         "2120679405710102824": false,
         "2120679530855854372": false,
@@ -2990,7 +2989,8 @@
         "2121494928241078553": false,
         "2121665724699885572": true,
         "2121822838982353176": false,
-        "2122171527701401622": false
+        "2122171527701401622": false,
+        "2122188383661244526": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7202,5 +7202,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T04:24:20+00:00"
+  "updated_at": "2026-11-16T04:42:18+00:00"
 }
