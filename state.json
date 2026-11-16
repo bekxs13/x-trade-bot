@@ -1108,7 +1108,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122411735017812021",
+      "last_id": "2122412411558707578",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1192,11 +1192,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T12:25:11.000Z",
-          "id": "2121942589666451714",
-          "text": "what do you primarily trade"
-        },
         {
           "created_at": "2026-11-15T12:39:02.000Z",
           "id": "2121946072029204864",
@@ -1320,10 +1315,15 @@
           "created_at": "2026-11-16T19:08:38.000Z",
           "id": "2122406507040116962",
           "text": "https://t.co/8GPiCRk6Fg"
+        },
+        {
+          "created_at": "2026-11-16T19:32:06.000Z",
+          "id": "2122412411558707578",
+          "reply_to_id": "2122411735017812021",
+          "text": "we are in the middle of the trough of disillusionment, the good part about this is once tourists leave the game becomes much more interesting again, and the fundamentalists building in crypto havent ever left, im in tulip king's camp that theres still 1000x opps to capture the movement of trillions of dollars of assets onchain onto systems that are objectively better than the systems that preceded them"
         }
       ],
       "reads": {
-        "2121942589666451714": "No call",
         "2121946072029204864": "No call",
         "2121948297845686312": "No call",
         "2122046665632911597": "No call",
@@ -1861,7 +1861,6 @@
         }
       },
       "trading": {
-        "2121942589666451714": true,
         "2121946072029204864": true,
         "2121948297845686312": true,
         "2121978042255905158": false,
@@ -1895,7 +1894,8 @@
         "2122406925522682282": false,
         "2122408155623608354": false,
         "2122409322571342226": true,
-        "2122411735017812021": false
+        "2122411735017812021": false,
+        "2122412411558707578": true
       },
       "user_id": "973261472"
     },
@@ -7231,5 +7231,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T19:30:24+00:00"
+  "updated_at": "2026-11-16T19:32:27+00:00"
 }
