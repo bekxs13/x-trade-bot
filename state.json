@@ -6415,12 +6415,12 @@
         },
         "stocks/macro": {
           "market": "stocks",
-          "post_id": "2118428712685211862",
-          "reason": "Buying leveraged semis, Nasdaq and BTC calls after a flush (\"buy from forced sellers\") signals a broad risk-on turn versus the recorded neutral view.",
+          "post_id": "2122163006679212421",
+          "reason": "Reply says the political shift is \"largely bearish equities\", which flips the recorded bullish stocks/macro view. It also says crypto valuations stay capped short term while being very bullish BTC long term, which matches the existing views.",
           "scope": "stocks/macro",
-          "since": "2026-11-05",
-          "stance": "bullish",
-          "updated_at": "2026-11-05T19:42:18.000Z"
+          "since": "2026-11-16",
+          "stance": "bearish",
+          "updated_at": "2026-11-16T03:01:03.000Z"
         }
       },
       "closed": [
@@ -6441,7 +6441,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122162502288998628",
+      "last_id": "2122163006679212421",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6493,11 +6493,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T23:45:51.000Z",
-          "id": "2121751494244397231",
-          "text": "Drop and give me 50"
-        },
         {
           "created_at": "2026-11-15T01:17:33.000Z",
           "id": "2121774572206977409",
@@ -6604,10 +6599,15 @@
           "created_at": "2026-11-16T02:59:03.000Z",
           "id": "2122162502288998628",
           "text": "The reality is the dream that was told to us as children that if you get good grades, go to a good college and \"work your ass off\" entitles you to a good life is not true in the slightest. Inflation and predatory monetary policy by the asset owners has allowed them to compound at the expense of the working class.\n\nIronically, the working class does not understand economic policy and sees no way out, so rationally they'll vote for anything different.\n\nI expect to see a rise in moderate but left leaning politicians that completely take over the United States for the next decade until we have a HARD mean reversion."
+        },
+        {
+          "created_at": "2026-11-16T03:01:03.000Z",
+          "id": "2122163006679212421",
+          "reply_to_id": "2122162502288998628",
+          "text": "This is going to be largerly bearish equities, and in the short term continues to cap valuations on Crypto assets.\n\nIn the long term however, rampant inflation and a \"no child left behind\" economic policy will lead the greatest BTC bull market we've ever experienced to the detriment of sadly, once again, working class people."
         }
       ],
       "reads": {
-        "2121751494244397231": "No call",
         "2121774572206977409": "VIEW bearish on btc",
         "2121776329817309449": "No call",
         "2121776966848397415": "No call",
@@ -6623,7 +6623,8 @@
         "2122075550990655969": "No call",
         "2122079207455064216": "No call",
         "2122161985370427731": "No call",
-        "2122162502288998628": "No call"
+        "2122162502288998628": "No call",
+        "2122163006679212421": "VIEW bearish on stocks/macro"
       },
       "replies": [
         {
@@ -7128,8 +7129,10 @@
           "self_replies": 0
         },
         "2122162502288998628": {
-          "alerted": [],
-          "self_replies": 0
+          "alerted": [
+            "bias:stocks/macro:bearish"
+          ],
+          "self_replies": 1
         }
       },
       "trading": {
@@ -7143,7 +7146,6 @@
         "2121483826731885024": false,
         "2121621078405783948": true,
         "2121747269359985146": false,
-        "2121751494244397231": false,
         "2121774572206977409": true,
         "2121776329817309449": true,
         "2121776966848397415": true,
@@ -7167,7 +7169,8 @@
         "2122088338366546308": false,
         "2122123254445838831": false,
         "2122161985370427731": true,
-        "2122162502288998628": false
+        "2122162502288998628": false,
+        "2122163006679212421": true
       },
       "user_id": "809191427645181952"
     }
@@ -7190,5 +7193,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T03:00:25+00:00"
+  "updated_at": "2026-11-16T03:02:20+00:00"
 }
