@@ -79,7 +79,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122389160099197380",
+      "last_id": "2122398517486551117",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -163,12 +163,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T00:27:29.000Z",
-          "id": "2121399584727675247",
-          "quoted_text": "flights may be grounded but we still deliver \ud83d\udcaf",
-          "text": "Bugs pods etc https://t.co/yC4l5wxk76"
-        },
         {
           "created_at": "2026-11-14T00:45:14.000Z",
           "id": "2121404053372764582",
@@ -295,10 +289,15 @@
           "created_at": "2026-11-16T17:59:42.000Z",
           "id": "2122389160099197380",
           "text": "Jensen Huang school walkout"
+        },
+        {
+          "created_at": "2026-11-16T18:36:53.000Z",
+          "id": "2122398517486551117",
+          "reply_to_id": "2122209660480663831",
+          "text": "@Wild_Randomness Aight it worked and I bailed flat fumbled a mil blaming youuuu"
         }
       ],
       "reads": {
-        "2121399584727675247": "No call",
         "2121404053372764582": "No call",
         "2121416658376089722": "No call: bearish on semis/ai stocks (65%, too unsure)",
         "2121434427574345894": "No call",
@@ -821,7 +820,6 @@
         }
       },
       "trading": {
-        "2121399584727675247": false,
         "2121404053372764582": false,
         "2121416658376089722": true,
         "2121434427574345894": false,
@@ -855,7 +853,8 @@
         "2122372973076373854": false,
         "2122374182835253478": false,
         "2122375589470646621": true,
-        "2122389160099197380": false
+        "2122389160099197380": false,
+        "2122398517486551117": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7226,5 +7225,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T18:34:19+00:00"
+  "updated_at": "2026-11-16T18:38:17+00:00"
 }
