@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122351506925953404",
+      "last_id": "2122351570415141333",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1194,11 +1194,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T03:29:06.000Z",
-          "id": "2121807676539830767",
-          "text": "closed shorts"
-        },
         {
           "created_at": "2026-11-15T11:17:23.000Z",
           "id": "2121925527246139854",
@@ -1325,10 +1320,14 @@
           "created_at": "2026-11-16T15:30:05.000Z",
           "id": "2122351506925953404",
           "text": "send videos from breakpoint"
+        },
+        {
+          "created_at": "2026-11-16T15:30:20.000Z",
+          "id": "2122351570415141333",
+          "text": "solana breakpoint best conference in crypto by long shot"
         }
       ],
       "reads": {
-        "2121807676539830767": "TRADE EXIT BTC, ETH, SOL",
         "2121925527246139854": "No call",
         "2121929768023310813": "No call: bearish on crypto market (same view as before)",
         "2121931459783201053": "TRADE EXIT BTC",
@@ -1345,7 +1344,8 @@
         "2122108269284229441": "No call",
         "2122138338710724829": "No call",
         "2122284970949718155": "VIEW bullish on ZEC",
-        "2122351506925953404": "No call"
+        "2122351506925953404": "No call",
+        "2122351570415141333": "No call"
       },
       "replies": [
         {
@@ -1449,10 +1449,6 @@
         }
       ],
       "threads": {
-        "2120845385971499478": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120851782272471418": {
           "alerted": [],
           "self_replies": 0
@@ -1864,10 +1860,13 @@
         "2122351506925953404": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122351570415141333": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121807676539830767": true,
         "2121925527246139854": true,
         "2121929768023310813": true,
         "2121931459783201053": true,
@@ -1901,7 +1900,8 @@
         "2122162254984470678": false,
         "2122284970949718155": true,
         "2122346614660751503": false,
-        "2122351506925953404": false
+        "2122351506925953404": false,
+        "2122351570415141333": false
       },
       "user_id": "973261472"
     },
@@ -2307,7 +2307,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2122188383661244526",
+      "last_id": "2122351572076408866",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2327,12 +2327,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T01:29:48.000Z",
-          "id": "2120690490492264463",
-          "reply_to_id": "2120690332740293049",
-          "text": "i am accepting anchor investors with a 50 million dollar minimum"
-        },
         {
           "created_at": "2026-11-12T03:42:57.000Z",
           "id": "2120724000343048509",
@@ -2451,10 +2445,14 @@
           ],
           "quoted_text": "@pinupvamp Wait? Do you not actually know who I am? You do realize like I make like $600,000 a year. I mean you could say that's a nobody in new york, I guess that's fair",
           "text": "why would i know 3 million people https://t.co/7HzDoS48lS https://t.co/qhOpOhefPi"
+        },
+        {
+          "created_at": "2026-11-16T15:30:20.000Z",
+          "id": "2122351572076408866",
+          "text": "good for robert pattinson but this is kinda lame, all the other bonds were \"bond\" whereas im gonna think \"that's robert pattinson\""
         }
       ],
       "reads": {
-        "2120690490492264463": "Read together with the post it replies to",
         "2120724000343048509": "No call",
         "2120734804689965186": "No call",
         "2120878056625652020": "No call",
@@ -2472,7 +2470,8 @@
         "2121441396607345065": "No call",
         "2121665724699885572": "No call",
         "2121822838982353176": "No call",
-        "2122171527701401622": "No call"
+        "2122171527701401622": "No call",
+        "2122351572076408866": "No call"
       },
       "replies": [
         {
@@ -2567,10 +2566,6 @@
         }
       ],
       "threads": {
-        "2115919286568927693": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115930736679366933": {
           "alerted": [],
           "self_replies": 0
@@ -2968,6 +2963,10 @@
         "2122171527701401622": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122351572076408866": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -2976,7 +2975,6 @@
         "2120679530855854372": false,
         "2120685859401785773": false,
         "2120689242745831904": false,
-        "2120690490492264463": false,
         "2120724000343048509": false,
         "2120732715708239968": false,
         "2120734804689965186": false,
@@ -3005,7 +3003,8 @@
         "2121665724699885572": true,
         "2121822838982353176": false,
         "2122171527701401622": false,
-        "2122188383661244526": false
+        "2122188383661244526": false,
+        "2122351572076408866": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7217,5 +7216,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T15:30:26+00:00"
+  "updated_at": "2026-11-16T15:32:31+00:00"
 }
