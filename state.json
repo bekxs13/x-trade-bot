@@ -1101,7 +1101,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122150014378246244",
+      "last_id": "2122151547295465724",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1336,12 +1336,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-15T23:38:46.000Z",
-          "id": "2122112102651531577",
-          "reply_to_id": "2122102266710954132",
-          "text": "@cocojungo @jaymesrosenthal damn ive never gotten awkward thrown in as an insult in one of these replies thats kinda funny"
-        },
-        {
           "created_at": "2026-11-15T23:44:04.000Z",
           "id": "2122113434959630818",
           "images": [
@@ -1430,6 +1424,12 @@
           "id": "2122150014378246244",
           "reply_to_id": "2122148970910925144",
           "text": "@lonemikol keep crushing it g"
+        },
+        {
+          "created_at": "2026-11-16T02:15:31.000Z",
+          "id": "2122151547295465724",
+          "reply_to_id": "2122151320203432432",
+          "text": "@cozypront MMM"
         }
       ],
       "threads": {
@@ -1868,7 +1868,6 @@
         "2122071636019225077": true,
         "2122074625756819616": true,
         "2122108269284229441": true,
-        "2122112102651531577": false,
         "2122113434959630818": false,
         "2122114261103304919": false,
         "2122116912322617737": false,
@@ -1883,7 +1882,8 @@
         "2122139471680340230": false,
         "2122141916049678637": false,
         "2122142441255948672": false,
-        "2122150014378246244": false
+        "2122150014378246244": false,
+        "2122151547295465724": false
       },
       "user_id": "973261472"
     },
@@ -7187,5 +7187,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T02:10:25+00:00"
+  "updated_at": "2026-11-16T02:16:20+00:00"
 }
