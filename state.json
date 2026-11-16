@@ -4667,7 +4667,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122308031320867013",
+      "last_id": "2122311853514617301",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4719,11 +4719,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T17:59:38.000Z",
-          "id": "2120939591507075557",
-          "text": "scrolling the timeline for market alpha is probably the single worst possible way to spend  the next couple days"
-        },
         {
           "created_at": "2026-11-12T19:28:12.000Z",
           "id": "2120961879639994777",
@@ -4831,10 +4826,17 @@
           "id": "2122305058184290365",
           "quoted_text": "Bessent says only 1% of $NVDA sales to Singapore \"stayed in Singapore\" and that Nvidia needs a dramatic shakeup on Fox news earlier.",
           "text": "is Bessent aware of how many signatures the bring Jensen back petition has? https://t.co/TKWQOUcSha"
+        },
+        {
+          "created_at": "2026-11-16T12:52:31.000Z",
+          "id": "2122311853514617301",
+          "images": [
+            "https://pbs.twimg.com/media/HXP3MPyXcAAqR_6.jpg"
+          ],
+          "text": "I will be live with @willdepue at 1015am on stream today talking about idk the future of the world? https://t.co/DUhHUyy7GF"
         }
       ],
       "reads": {
-        "2120939591507075557": "No call",
         "2120961879639994777": "No call",
         "2120964745532764218": "No call",
         "2120972971703705709": "TRADE SHORT NVDA",
@@ -4850,7 +4852,8 @@
         "2121790268638920806": "No call",
         "2122029141335617892": "No call",
         "2122046856297644246": "No call",
-        "2122305058184290365": "No call"
+        "2122305058184290365": "No call",
+        "2122311853514617301": "No call"
       },
       "replies": [
         {
@@ -4948,10 +4951,6 @@
         }
       ],
       "threads": {
-        "2116138477729542270": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116149081211048039": {
           "alerted": [],
           "self_replies": 0
@@ -5349,10 +5348,13 @@
         "2122305058184290365": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122311853514617301": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120939591507075557": true,
         "2120961879639994777": false,
         "2120964745532764218": false,
         "2120972971703705709": true,
@@ -5386,7 +5388,8 @@
         "2122074613249126518": true,
         "2122102793695900002": true,
         "2122305058184290365": true,
-        "2122308031320867013": false
+        "2122308031320867013": false,
+        "2122311853514617301": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7218,5 +7221,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T12:38:33+00:00"
+  "updated_at": "2026-11-16T12:54:24+00:00"
 }
