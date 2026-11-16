@@ -1108,7 +1108,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122388140942119199",
+      "last_id": "2122399798645198990",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1344,18 +1344,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T16:13:30.000Z",
-          "id": "2122362435659296799",
-          "reply_to_id": "2122361575596040354",
-          "text": "@pureglowbotncls you can go verify all the trades if you want that's +200k in 7 days on ~250k of margin i believe"
-        },
-        {
-          "created_at": "2026-11-16T16:16:27.000Z",
-          "id": "2122363178105377048",
-          "reply_to_id": "2122363033897009517",
-          "text": "@grahamfergs home :("
-        },
-        {
           "created_at": "2026-11-16T16:43:44.000Z",
           "id": "2122370040687136884",
           "images": [
@@ -1438,6 +1426,18 @@
           "id": "2122385993588216273",
           "reply_to_id": "2122385505052725468",
           "text": "@_Cats_96 @notthreadguy tues after hours"
+        },
+        {
+          "created_at": "2026-11-16T18:41:41.000Z",
+          "id": "2122399727270691215",
+          "reply_to_id": "2122368886821822763",
+          "text": "@bigbagsbobby ticker?"
+        },
+        {
+          "created_at": "2026-11-16T18:41:58.000Z",
+          "id": "2122399798645198990",
+          "reply_to_id": "2122397286336790542",
+          "text": "@CastilloTrading theyve been taking turns its pretty fucked tbh"
         }
       ],
       "threads": {
@@ -1877,8 +1877,6 @@
         "2122351570415141333": false,
         "2122352345610903599": false,
         "2122358956609749430": true,
-        "2122362435659296799": true,
-        "2122363178105377048": false,
         "2122363832878202934": false,
         "2122365079773716637": true,
         "2122370040687136884": false,
@@ -1895,7 +1893,9 @@
         "2122384955418243075": false,
         "2122385283870232633": false,
         "2122385993588216273": true,
-        "2122388140942119199": true
+        "2122388140942119199": true,
+        "2122399727270691215": true,
+        "2122399798645198990": false
       },
       "user_id": "973261472"
     },
@@ -7225,5 +7225,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T18:38:17+00:00"
+  "updated_at": "2026-11-16T18:42:27+00:00"
 }
