@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122363178105377048",
+      "last_id": "2122363832878202934",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1194,15 +1194,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T11:40:58.000Z",
-          "id": "2121931459783201053",
-          "images": [
-            "https://pbs.twimg.com/media/HXKcryDWAAARRtk.png"
-          ],
-          "quoted_text": "i'm still expecting Q4 to be difficult for risk assets, and i don't think crypto has found its bottom yet\n\nequities could see a relief bounce soon, but my base case is that most of the coins that led the recent rally will eventually retest their summer lows\n\nthose levels are going to be important for how i view the next cycle\n\nif they hold, i could see the bull market starting to pick up again around Q2 2027\n\nif we break below those lows and start making new ones, i think the recovery gets pushe",
-          "text": "this was from ~10 days ago\n\nvery important spot here for $BTC, want to see these range lows hold\n\nclosed shorts yesterday currently expecting chop at these levels before another major trending move\n\ncan be giga-bull at 82k+, extremely bear sub 57k on HTF https://t.co/Cmw2uVGTA3 https://t.co/jb22dng4x9"
-        },
         {
           "created_at": "2026-11-15T11:53:42.000Z",
           "id": "2121934664642216434",
@@ -1321,10 +1312,14 @@
           "id": "2122358956609749430",
           "quoted_text": "The \u201cworse\u201d trader of crypto twitter who only uses his influence to make money somehow magically won the pumpfun mobile perps trading competition \n\nMake it make sense in your own heads\n\nMaybe they actually have skills you just cope cause you don\u2019t\n\nCongrats @blknoiz06 https://t.co/oFf8drsHl3",
           "text": "thank you! https://t.co/GjVode0GST"
+        },
+        {
+          "created_at": "2026-11-16T16:19:04.000Z",
+          "id": "2122363832878202934",
+          "text": "https://t.co/Tx88wJo9tM"
         }
       ],
       "reads": {
-        "2121931459783201053": "TRADE EXIT BTC",
         "2121934664642216434": "No call: bullish on memecoins (same view as before)",
         "2121937676819697723": "No call",
         "2121938003262083480": "No call",
@@ -1341,7 +1336,8 @@
         "2122351506925953404": "No call",
         "2122351570415141333": "No call",
         "2122352345610903599": "No call",
-        "2122358956609749430": "No call"
+        "2122358956609749430": "No call",
+        "2122363832878202934": "No call"
       },
       "replies": [
         {
@@ -1442,10 +1438,6 @@
         }
       ],
       "threads": {
-        "2120871231809536481": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120875227622277535": {
           "alerted": [],
           "self_replies": 0
@@ -1857,10 +1849,13 @@
         "2122358956609749430": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122363832878202934": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121931459783201053": true,
         "2121934664642216434": true,
         "2121937676819697723": true,
         "2121938003262083480": true,
@@ -1894,7 +1889,8 @@
         "2122359240190751114": false,
         "2122360395390452069": false,
         "2122362435659296799": true,
-        "2122363178105377048": false
+        "2122363178105377048": false,
+        "2122363832878202934": false
       },
       "user_id": "973261472"
     },
@@ -4659,7 +4655,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122324225297903848",
+      "last_id": "2122363979775545453",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4849,15 +4845,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-14T03:46:53.000Z",
-          "id": "2121449766672642433",
-          "images": [
-            "https://pbs.twimg.com/media/HXDnUbLWgAAShBa.jpg"
-          ],
-          "reply_to_id": "2121430469019672908",
-          "text": "@itsovernk is this your bit you just up at night thinking about others patience and your own? respectable profession i suppose https://t.co/L8WZqBVP5f"
-        },
-        {
           "created_at": "2026-11-14T04:15:26.000Z",
           "id": "2121456949493473756",
           "reply_to_id": "2121456849186693498",
@@ -4940,6 +4927,12 @@
           "id": "2122312890095145317",
           "reply_to_id": "2122245512489480357",
           "text": "@Stoiiic happy g bro"
+        },
+        {
+          "created_at": "2026-11-16T16:19:39.000Z",
+          "id": "2122363979775545453",
+          "reply_to_id": "2122363773440888960",
+          "text": "@willdepue so good"
         }
       ],
       "threads": {
@@ -5357,7 +5350,6 @@
         "2121220625528238091": false,
         "2121236584808718590": true,
         "2121266693385384306": true,
-        "2121449766672642433": false,
         "2121456757675303144": true,
         "2121456949493473756": false,
         "2121661769030435301": true,
@@ -5381,7 +5373,8 @@
         "2122311853514617301": false,
         "2122312766102868156": false,
         "2122312890095145317": false,
-        "2122324225297903848": true
+        "2122324225297903848": true,
+        "2122363979775545453": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7209,5 +7202,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T16:18:17+00:00"
+  "updated_at": "2026-11-16T16:20:33+00:00"
 }
