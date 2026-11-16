@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122377955636912220",
+      "last_id": "2122379281971995072",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1194,11 +1194,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T12:05:40.000Z",
-          "id": "2121937676819697723",
-          "text": "whats your trading portfolio size"
-        },
         {
           "created_at": "2026-11-15T12:06:58.000Z",
           "id": "2121938003262083480",
@@ -1316,10 +1311,17 @@
           "created_at": "2026-11-16T16:24:01.000Z",
           "id": "2122365079773716637",
           "text": "if you've never traded assets that have 100x'd in a few months, once they pullback 70% or so, they tend to lack volatility for awhile, believe that is what's going to happen with memory stocks and the ai bottleneck names\n\nit's kind of like a refractory period"
+        },
+        {
+          "created_at": "2026-11-16T17:20:27.000Z",
+          "id": "2122379281971995072",
+          "images": [
+            "https://pbs.twimg.com/media/HXQ0tXJWgAA6tDa.jpg"
+          ],
+          "text": "my mentions every day now solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/qGImvoepoZ"
         }
       ],
       "reads": {
-        "2121937676819697723": "No call",
         "2121938003262083480": "No call",
         "2121941806682341868": "No call",
         "2121942589666451714": "No call",
@@ -1336,7 +1338,8 @@
         "2122352345610903599": "No call",
         "2122358956609749430": "No call",
         "2122363832878202934": "No call",
-        "2122365079773716637": "VIEW neutral on memory stocks"
+        "2122365079773716637": "VIEW neutral on memory stocks",
+        "2122379281971995072": "No call"
       },
       "replies": [
         {
@@ -1434,10 +1437,6 @@
         }
       ],
       "threads": {
-        "2120875832256160012": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120876101543379312": {
           "alerted": [],
           "self_replies": 0
@@ -1851,10 +1850,13 @@
             "bias:memory stocks:neutral"
           ],
           "self_replies": 0
+        },
+        "2122379281971995072": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121937676819697723": true,
         "2121938003262083480": true,
         "2121941806682341868": false,
         "2121942589666451714": true,
@@ -1888,7 +1890,8 @@
         "2122377042985373918": false,
         "2122377247726477526": true,
         "2122377345357304275": true,
-        "2122377955636912220": true
+        "2122377955636912220": true,
+        "2122379281971995072": true
       },
       "user_id": "973261472"
     },
@@ -2294,7 +2297,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2122369305081987326",
+      "last_id": "2122379575405793440",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2463,12 +2466,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-12T00:46:15.000Z",
-          "id": "2120679530855854372",
-          "reply_to_id": "2120676054159470872",
-          "text": "@Merridew__ mom?"
-        },
-        {
           "created_at": "2026-11-12T01:11:23.000Z",
           "id": "2120685859401785773",
           "reply_to_id": "2120684253185016306",
@@ -2551,6 +2548,12 @@
           "id": "2122359209912115430",
           "reply_to_id": "2122352612045643986",
           "text": "@alexandrascaggs he's 40 lol"
+        },
+        {
+          "created_at": "2026-11-16T17:21:37.000Z",
+          "id": "2122379575405793440",
+          "reply_to_id": "2122373712431251802",
+          "text": "@meta_syntactic very possibly!"
         }
       ],
       "threads": {
@@ -2958,7 +2961,6 @@
         }
       },
       "trading": {
-        "2120679530855854372": false,
         "2120685859401785773": false,
         "2120689242745831904": false,
         "2120732715708239968": false,
@@ -2992,7 +2994,8 @@
         "2122351572076408866": false,
         "2122356413959639523": false,
         "2122359209912115430": false,
-        "2122369305081987326": false
+        "2122369305081987326": false,
+        "2122379575405793440": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6448,7 +6451,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122372450839310612",
+      "last_id": "2122379446212845701",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6500,12 +6503,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T03:15:36.000Z",
-          "id": "2122166670915506385",
-          "reply_to_id": "2122166538136432699",
-          "text": "@coinjunky curious your thoughts on this"
-        },
         {
           "created_at": "2026-11-16T03:16:38.000Z",
           "id": "2122166930215993614",
@@ -6621,10 +6618,17 @@
           "id": "2122372450839310612",
           "reply_to_id": "2122371881672310937",
           "text": "The calculations and formulas still need work (our sharpe is quite a bit higher...)"
+        },
+        {
+          "created_at": "2026-11-16T17:21:06.000Z",
+          "id": "2122379446212845701",
+          "images": [
+            "https://pbs.twimg.com/media/HXQ0uggWMAASoc-.png"
+          ],
+          "text": "That all? https://t.co/SFGDNxIGV1"
         }
       ],
       "reads": {
-        "2122166670915506385": "Read together with the post it replies to",
         "2122166930215993614": "No call",
         "2122169303495832027": "No call: bullish on btc (same view as before)",
         "2122170235608306116": "No call",
@@ -6640,7 +6644,8 @@
         "2122347916694044881": "No call: bearish on btc (60%, too unsure)",
         "2122367842196529553": "No call",
         "2122370233864184016": "No call",
-        "2122370565638136220": "Read together with the post it replies to"
+        "2122370565638136220": "Read together with the post it replies to",
+        "2122379446212845701": "No call"
       },
       "replies": [
         {
@@ -6741,10 +6746,6 @@
         }
       ],
       "threads": {
-        "2120642725154263271": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120643987513954484": {
           "alerted": [],
           "self_replies": 1
@@ -7150,6 +7151,10 @@
         "2122370233864184016": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2122379446212845701": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7160,7 +7165,6 @@
         "2122088338366546308": false,
         "2122123254445838831": false,
         "2122165364624961955": true,
-        "2122166670915506385": false,
         "2122166930215993614": true,
         "2122167670577512501": true,
         "2122169303495832027": true,
@@ -7187,7 +7191,8 @@
         "2122370565638136220": false,
         "2122371793843597643": true,
         "2122371881672310937": true,
-        "2122372450839310612": true
+        "2122372450839310612": true,
+        "2122379446212845701": false
       },
       "user_id": "809191427645181952"
     }
@@ -7210,5 +7215,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T17:16:22+00:00"
+  "updated_at": "2026-11-16T17:22:30+00:00"
 }
