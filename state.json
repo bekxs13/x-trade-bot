@@ -12,6 +12,15 @@
           "stance": "bullish",
           "updated_at": "2026-10-19T22:21:45.000Z"
         },
+        "nvda": {
+          "market": "stocks",
+          "post_id": "2122214531829293286",
+          "reason": "He calls the NVDA China smuggling allegations 'not even smoke it's like fire already game set match', which is a bearish read on NVDA. It fits his recorded bearish view on semis/ai stocks.",
+          "scope": "NVDA",
+          "since": "2026-11-16",
+          "stance": "bearish",
+          "updated_at": "2026-11-16T06:25:47.000Z"
+        },
         "semis/ai stocks": {
           "market": "stocks",
           "post_id": "2118488687982027254",
@@ -70,7 +79,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122210752895627338",
+      "last_id": "2122214531829293286",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,11 +163,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T20:28:09.000Z",
-          "id": "2121339354631307537",
-          "text": "Scott Bessent? The gay guy?"
-        },
         {
           "created_at": "2026-11-13T20:43:10.000Z",
           "id": "2121343134785544351",
@@ -285,10 +289,18 @@
           "created_at": "2026-11-16T06:01:07.000Z",
           "id": "2122208322539659433",
           "text": "So if treasury is pressing NVDA on China that's like the opposite of a fed put?"
+        },
+        {
+          "created_at": "2026-11-16T06:25:47.000Z",
+          "id": "2122214531829293286",
+          "images": [
+            "https://pbs.twimg.com/media/HXOe0ZibwAAo0zq.png"
+          ],
+          "reply_to_id": "2122208322539659433",
+          "text": "it's not even smoke it's like fire already game set match if we decide to care about the China biz or truth in NVDA statements innit? https://t.co/6lFyxPO1VO"
         }
       ],
       "reads": {
-        "2121339354631307537": "No call",
         "2121343134785544351": "No call",
         "2121389071947960700": "No call",
         "2121393490244551021": "No call",
@@ -307,7 +319,8 @@
         "2121833884384194656": "No call",
         "2121980844340617464": "No call",
         "2122139084567261554": "No call",
-        "2122208322539659433": "No call: bearish on semis/ai stocks (55%, too unsure)"
+        "2122208322539659433": "No call: bearish on semis/ai stocks (55%, too unsure)",
+        "2122214531829293286": "VIEW bearish on NVDA"
       },
       "replies": [
         {
@@ -805,12 +818,13 @@
           "self_replies": 0
         },
         "2122208322539659433": {
-          "alerted": [],
-          "self_replies": 0
+          "alerted": [
+            "bias:nvda:bearish"
+          ],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2121339354631307537": false,
         "2121343134785544351": false,
         "2121389071947960700": false,
         "2121393490244551021": false,
@@ -844,7 +858,8 @@
         "2122208322539659433": true,
         "2122209457795224061": true,
         "2122209660480663831": false,
-        "2122210752895627338": true
+        "2122210752895627338": true,
+        "2122214531829293286": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7199,5 +7214,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T06:12:18+00:00"
+  "updated_at": "2026-11-16T06:26:27+00:00"
 }
