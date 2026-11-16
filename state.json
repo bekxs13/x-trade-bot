@@ -6441,7 +6441,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122165364624961955",
+      "last_id": "2122166670915506385",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6493,17 +6493,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T01:27:04.000Z",
-          "id": "2121776966848397415",
-          "text": "Feels like everyone is offline (or liquidated) today where this week has been the most exciting week to trade all year and a tremendous amount of money has changed hands"
-        },
-        {
-          "created_at": "2026-11-15T01:29:15.000Z",
-          "id": "2121777516566229292",
-          "reply_to_id": "2121776329817309449",
-          "text": "Clue: Almost all of the selling is happening on Coinbase"
-        },
         {
           "created_at": "2026-11-15T01:45:03.000Z",
           "id": "2121781492523122859",
@@ -6605,10 +6594,20 @@
           "id": "2122164885064741072",
           "reply_to_id": "2122163753340883336",
           "text": "Game theory wise you only need to own significantly more than the rest of the current population \n\n21,000,000/8,000,000,000 = 0.002625 ?\n\n1 feels about right for most normies imo. \n\nBack to AI, if you do believe that AI is inevitable, but there might be a duration mismatch then why not be short so you can own more of the economics if it does potentially crash (me)."
+        },
+        {
+          "created_at": "2026-11-16T03:15:05.000Z",
+          "id": "2122166538136432699",
+          "text": "Another fun thought exercise:\n\nIf Bitcoin compounds at a rate greater than most businesses on Earth, because of it being a deflationary asset there is almost no incentive to be risk seeking capital. \n\nInflation is not a bad thing so long as demand outpaces inflation, however, deflation is a massive issue because the optimal thing to do is hoard.\n\nImagine a dynasty like the Rockefeller, but instead of holding their fortune in cash and equities which rebalance, their fortune was codified in the hardest capital on known to mankind. This seems somewhat suboptimal for wealth distribution. Bitcoin's gini coefficient is already terrible, there really is no nerf other than borrows being treated as capital gain sales, wealth taxes or estate tax redistribution."
+        },
+        {
+          "created_at": "2026-11-16T03:15:36.000Z",
+          "id": "2122166670915506385",
+          "reply_to_id": "2122166538136432699",
+          "text": "@coinjunky curious your thoughts on this"
         }
       ],
       "reads": {
-        "2121776966848397415": "No call",
         "2121794197321867525": "VIEW bullish on btc",
         "2121837781508915257": "No call",
         "2121838457748398123": "No call",
@@ -6624,7 +6623,9 @@
         "2122162502288998628": "No call",
         "2122163006679212421": "VIEW bearish on stocks/macro",
         "2122163753340883336": "No call",
-        "2122164885064741072": "No call: maybe short AI equities (65%, too unsure)"
+        "2122164885064741072": "No call: maybe short AI equities (65%, too unsure)",
+        "2122166538136432699": "No call",
+        "2122166670915506385": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -6722,10 +6723,6 @@
         }
       ],
       "threads": {
-        "2120299018030833889": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120308472390541751": {
           "alerted": [
             "trade:BTC:trim"
@@ -7133,6 +7130,10 @@
         "2122163753340883336": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2122166538136432699": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
@@ -7145,8 +7146,6 @@
         "2121483826731885024": false,
         "2121621078405783948": true,
         "2121747269359985146": false,
-        "2121776966848397415": true,
-        "2121777516566229292": true,
         "2121781492523122859": false,
         "2121790458938462680": true,
         "2121794197321867525": true,
@@ -7170,7 +7169,9 @@
         "2122163006679212421": true,
         "2122163753340883336": true,
         "2122164885064741072": true,
-        "2122165364624961955": true
+        "2122165364624961955": true,
+        "2122166538136432699": true,
+        "2122166670915506385": false
       },
       "user_id": "809191427645181952"
     }
@@ -7193,5 +7194,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T03:12:25+00:00"
+  "updated_at": "2026-11-16T03:16:28+00:00"
 }
