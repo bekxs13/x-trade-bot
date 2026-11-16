@@ -6370,12 +6370,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2121794197321867525",
-          "reason": "After calling the weekend Coinbase dump \"fine to bid\" twice, \"We can go up now that was enough\" says the selling is done and BTC should bounce, a flip from the recorded bearish btc view.",
+          "post_id": "2122169303495832027",
+          "reason": "Calls the quantum period 'one of the most incredible asset buying opportunities' and says BTC would be $250k+ without the overhang, which matches the recorded bullish btc view.",
           "scope": "btc",
           "since": "2026-11-15",
           "stance": "bullish",
-          "updated_at": "2026-11-15T02:35:32.000Z"
+          "updated_at": "2026-11-16T03:26:04.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -6441,7 +6441,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122167670577512501",
+      "last_id": "2122169303495832027",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6493,12 +6493,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T02:20:41.000Z",
-          "id": "2121790458938462680",
-          "reply_to_id": "2121781492523122859",
-          "text": "Calling it, either lending desk that blew up (fine to bid)\n\nOr someone jeeting 5B of BTC to buy 5B of ANT (also fine to bid)"
-        },
         {
           "created_at": "2026-11-15T02:35:32.000Z",
           "id": "2121794197321867525",
@@ -6604,6 +6598,11 @@
           "created_at": "2026-11-16T03:16:38.000Z",
           "id": "2122166930215993614",
           "text": "Bitcoin down so bad they got me posting monetary endgame bullish economic fan fiction"
+        },
+        {
+          "created_at": "2026-11-16T03:26:04.000Z",
+          "id": "2122169303495832027",
+          "text": "People will likely look back at the Quantum period for Bitcoin as one of the most incredible asset buying opportunities in financial history.\n\nWithout quantum overhang Bitcoin likely trades at $250k+ right now."
         }
       ],
       "reads": {
@@ -6625,7 +6624,8 @@
         "2122164885064741072": "No call: maybe short AI equities (65%, too unsure)",
         "2122166538136432699": "No call",
         "2122166670915506385": "Read together with the post it replies to",
-        "2122166930215993614": "No call"
+        "2122166930215993614": "No call",
+        "2122169303495832027": "No call: bullish on btc (same view as before)"
       },
       "replies": [
         {
@@ -6723,10 +6723,6 @@
         }
       ],
       "threads": {
-        "2120539539467030683": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120543237341646968": {
           "alerted": [],
           "self_replies": 1
@@ -7132,6 +7128,10 @@
         "2122166930215993614": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122169303495832027": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7143,7 +7143,6 @@
         "2121483826731885024": false,
         "2121621078405783948": true,
         "2121747269359985146": false,
-        "2121790458938462680": true,
         "2121794197321867525": true,
         "2121794659391545636": true,
         "2121837781508915257": true,
@@ -7169,7 +7168,8 @@
         "2122166538136432699": true,
         "2122166670915506385": false,
         "2122166930215993614": true,
-        "2122167670577512501": true
+        "2122167670577512501": true,
+        "2122169303495832027": true
       },
       "user_id": "809191427645181952"
     }
@@ -7192,5 +7192,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T03:20:20+00:00"
+  "updated_at": "2026-11-16T03:26:20+00:00"
 }
