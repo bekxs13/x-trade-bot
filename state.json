@@ -6464,7 +6464,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122307965759685101",
+      "last_id": "2122332344451465244",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6516,19 +6516,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T19:49:40.000Z",
-          "id": "2122054445278105885",
-          "text": "Compounding\n\nhttps://t.co/FG9UTSxIu6"
-        },
-        {
-          "created_at": "2026-11-15T21:13:32.000Z",
-          "id": "2122075550990655969",
-          "images": [
-            "https://pbs.twimg.com/media/HXMePWwXEAABER5.jpg"
-          ],
-          "text": "\u201c...When there\u2019s no way out, you just follow the way in front of you...\u201d https://t.co/k5zdYfU0sa"
-        },
         {
           "created_at": "2026-11-15T21:28:04.000Z",
           "id": "2122079207455064216",
@@ -6629,11 +6616,19 @@
           "created_at": "2026-11-16T12:37:04.000Z",
           "id": "2122307965759685101",
           "text": "Oh wow this kind of morning huh"
+        },
+        {
+          "created_at": "2026-11-16T14:12:30.000Z",
+          "id": "2122331984642937161",
+          "text": "They should make a movie about the hundreds of billions of dollars that have been made in the crypto exchange business"
+        },
+        {
+          "created_at": "2026-11-16T14:13:56.000Z",
+          "id": "2122332344451465244",
+          "text": "Oh no, anyways.\n\nHyperliquid"
         }
       ],
       "reads": {
-        "2122054445278105885": "No call",
-        "2122075550990655969": "No call",
         "2122079207455064216": "No call",
         "2122161985370427731": "No call",
         "2122162502288998628": "No call",
@@ -6651,7 +6646,9 @@
         "2122182372506419356": "No call",
         "2122183685067907468": "No call",
         "2122201906848174435": "No call",
-        "2122307965759685101": "No call"
+        "2122307965759685101": "No call",
+        "2122331984642937161": "No call",
+        "2122332344451465244": "No call"
       },
       "replies": [
         {
@@ -6752,14 +6749,6 @@
         }
       ],
       "threads": {
-        "2120588671837757910": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2120591562208051377": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120640693970579557": {
           "alerted": [],
           "self_replies": 0
@@ -7161,6 +7150,14 @@
         "2122307965759685101": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122331984642937161": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2122332344451465244": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7168,8 +7165,6 @@
         "2121794659391545636": true,
         "2121838839765635395": false,
         "2122034439316181103": false,
-        "2122054445278105885": false,
-        "2122075550990655969": false,
         "2122079207455064216": false,
         "2122088338366546308": false,
         "2122123254445838831": false,
@@ -7198,7 +7193,9 @@
         "2122182372506419356": true,
         "2122183685067907468": true,
         "2122201906848174435": true,
-        "2122307965759685101": false
+        "2122307965759685101": false,
+        "2122331984642937161": true,
+        "2122332344451465244": true
       },
       "user_id": "809191427645181952"
     }
@@ -7221,5 +7218,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T13:42:29+00:00"
+  "updated_at": "2026-11-16T14:14:29+00:00"
 }
