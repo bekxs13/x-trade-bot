@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122377042985373918",
+      "last_id": "2122377345357304275",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1340,21 +1340,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T02:58:04.000Z",
-          "id": "2122162254984470678",
-          "images": [
-            "https://pbs.twimg.com/media/HXNvUr_W8AA--Wi.jpg"
-          ],
-          "reply_to_id": "2122161596625760477",
-          "text": "@CawnSOL @ciyOnChain https://t.co/qgW0KGaga7"
-        },
-        {
-          "created_at": "2026-11-16T15:10:38.000Z",
-          "id": "2122346614660751503",
-          "reply_to_id": "2122336256411455488",
-          "text": "@austinoakes good meeting you g!"
-        },
-        {
           "created_at": "2026-11-16T15:32:24.000Z",
           "id": "2122352092828639655",
           "reply_to_id": "2122351963887043001",
@@ -1434,6 +1419,18 @@
           "id": "2122377042985373918",
           "reply_to_id": "2122130163970511240",
           "text": "@unclecoco @SMtrades_ i think it would be pretty funny if you could lose money for bad callouts lol"
+        },
+        {
+          "created_at": "2026-11-16T17:12:22.000Z",
+          "id": "2122377247726477526",
+          "reply_to_id": "2122376242041159950",
+          "text": "@iruletrenches tickers?"
+        },
+        {
+          "created_at": "2026-11-16T17:12:45.000Z",
+          "id": "2122377345357304275",
+          "reply_to_id": "2122376804824694903",
+          "text": "@rodeo_crypro 1.3T now!"
         }
       ],
       "threads": {
@@ -1870,9 +1867,7 @@
         "2122074625756819616": true,
         "2122108269284229441": true,
         "2122138338710724829": false,
-        "2122162254984470678": false,
         "2122284970949718155": true,
-        "2122346614660751503": false,
         "2122351506925953404": false,
         "2122351570415141333": false,
         "2122352092828639655": false,
@@ -1891,7 +1886,9 @@
         "2122370040687136884": false,
         "2122374637078401387": false,
         "2122376173770666085": true,
-        "2122377042985373918": false
+        "2122377042985373918": false,
+        "2122377247726477526": true,
+        "2122377345357304275": true
       },
       "user_id": "973261472"
     },
@@ -7213,5 +7210,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T17:12:20+00:00"
+  "updated_at": "2026-11-16T17:14:27+00:00"
 }
