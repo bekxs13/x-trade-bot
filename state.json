@@ -6451,7 +6451,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122379446212845701",
+      "last_id": "2122381683047666006",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6503,11 +6503,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T03:16:38.000Z",
-          "id": "2122166930215993614",
-          "text": "Bitcoin down so bad they got me posting monetary endgame bullish economic fan fiction"
-        },
         {
           "created_at": "2026-11-16T03:26:04.000Z",
           "id": "2122169303495832027",
@@ -6626,10 +6621,17 @@
             "https://pbs.twimg.com/media/HXQ0uggWMAASoc-.png"
           ],
           "text": "That all? https://t.co/SFGDNxIGV1"
+        },
+        {
+          "created_at": "2026-11-16T17:29:59.000Z",
+          "id": "2122381683047666006",
+          "images": [
+            "https://pbs.twimg.com/media/HXQ22uGWwAAThOy.jpg"
+          ],
+          "text": "That's all you got? https://t.co/CFp8vwYDC0"
         }
       ],
       "reads": {
-        "2122166930215993614": "No call",
         "2122169303495832027": "No call: bullish on btc (same view as before)",
         "2122170235608306116": "No call",
         "2122170797011943846": "No call",
@@ -6645,7 +6647,8 @@
         "2122367842196529553": "No call",
         "2122370233864184016": "No call",
         "2122370565638136220": "Read together with the post it replies to",
-        "2122379446212845701": "No call"
+        "2122379446212845701": "No call",
+        "2122381683047666006": "No call"
       },
       "replies": [
         {
@@ -6746,10 +6749,6 @@
         }
       ],
       "threads": {
-        "2120643987513954484": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2120652331276779817": {
           "alerted": [],
           "self_replies": 1
@@ -7155,6 +7154,10 @@
         "2122379446212845701": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122381683047666006": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7165,7 +7168,6 @@
         "2122088338366546308": false,
         "2122123254445838831": false,
         "2122165364624961955": true,
-        "2122166930215993614": true,
         "2122167670577512501": true,
         "2122169303495832027": true,
         "2122170235608306116": true,
@@ -7192,7 +7194,8 @@
         "2122371793843597643": true,
         "2122371881672310937": true,
         "2122372450839310612": true,
-        "2122379446212845701": false
+        "2122379446212845701": false,
+        "2122381683047666006": true
       },
       "user_id": "809191427645181952"
     }
@@ -7215,5 +7218,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T17:28:20+00:00"
+  "updated_at": "2026-11-16T17:30:48+00:00"
 }
