@@ -79,7 +79,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122476685383836014",
+      "last_id": "2122477628452192336",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -306,12 +306,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T06:00:08.000Z",
-          "id": "2122208074446623142",
-          "reply_to_id": "2122207865410904490",
-          "text": "@Wild_Randomness mandel im gonna need close 7440 or lower ty"
-        },
-        {
           "created_at": "2026-11-16T06:05:38.000Z",
           "id": "2122209457795224061",
           "reply_to_id": "2122209088708764135",
@@ -397,6 +391,12 @@
           "id": "2122476685383836014",
           "reply_to_id": "2122475636925288547",
           "text": "@chiefingza Hilarious. I used to do the same with about 1/10 the size to similar levels of unsuccess"
+        },
+        {
+          "created_at": "2026-11-16T23:51:15.000Z",
+          "id": "2122477628452192336",
+          "reply_to_id": "2122383990979985621",
+          "text": "@jeremyberman Philosophy departments have been training to defend humanity from ideologies like that of Anthropic"
         }
       ],
       "threads": {
@@ -811,7 +811,6 @@
         "2121833884384194656": false,
         "2121980844340617464": false,
         "2122139084567261554": false,
-        "2122208074446623142": true,
         "2122208322539659433": true,
         "2122209457795224061": true,
         "2122209660480663831": false,
@@ -841,7 +840,8 @@
         "2122466321367785797": false,
         "2122469149054239037": true,
         "2122470943419514973": false,
-        "2122476685383836014": true
+        "2122476685383836014": true,
+        "2122477628452192336": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4633,7 +4633,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122475166269886660",
+      "last_id": "2122477661859836251",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4685,11 +4685,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T15:39:25.000Z",
-          "id": "2121266693385384306",
-          "text": "average day trading crypto"
-        },
         {
           "created_at": "2026-11-14T04:14:40.000Z",
           "id": "2121456757675303144",
@@ -4802,10 +4797,14 @@
           "id": "2122471085300236356",
           "reply_to_id": "2122462607747748155",
           "text": "just landed, nobody said a damn word. it\u2019s probably better that way. these sweet souls don\u2019t need to know, for i can bear their burden."
+        },
+        {
+          "created_at": "2026-11-16T23:51:22.000Z",
+          "id": "2122477661859836251",
+          "text": "james bond is one of the last monocultural pillars in the west. so is robert pattinson. thank you both"
         }
       ],
       "reads": {
-        "2121266693385384306": "No call",
         "2121456757675303144": "No call",
         "2121705734295413096": "No call: bearish on HYPE (60%, too unsure)",
         "2121705855007519033": "No call",
@@ -4822,7 +4821,8 @@
         "2122448425782325617": "No call",
         "2122452476016161164": "No call",
         "2122460720537481379": "No call",
-        "2122462607747748155": "No call"
+        "2122462607747748155": "No call",
+        "2122477661859836251": "No call"
       },
       "replies": [
         {
@@ -4917,10 +4917,6 @@
         }
       ],
       "threads": {
-        "2117338129883656671": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117402892847943695": {
           "alerted": [],
           "self_replies": 0
@@ -5318,10 +5314,13 @@
         "2122460720537481379": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2122477661859836251": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121266693385384306": true,
         "2121456757675303144": true,
         "2121661769030435301": true,
         "2121705734295413096": true,
@@ -5355,7 +5354,8 @@
         "2122462607747748155": false,
         "2122471085300236356": false,
         "2122471222143508642": false,
-        "2122475166269886660": false
+        "2122475166269886660": false,
+        "2122477661859836251": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7212,5 +7212,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T23:48:18+00:00"
+  "updated_at": "2026-11-16T23:52:20+00:00"
 }
