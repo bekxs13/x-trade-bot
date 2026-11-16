@@ -6445,7 +6445,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122182372506419356",
+      "last_id": "2122183685067907468",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6497,14 +6497,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T18:51:13.000Z",
-          "id": "2122039738165293102",
-          "images": [
-            "https://pbs.twimg.com/media/HXL_5NYW4AA60E9.png"
-          ],
-          "text": "https://t.co/PA0Fa0KGKC"
-        },
         {
           "created_at": "2026-11-15T19:04:43.000Z",
           "id": "2122043132149706894",
@@ -6610,10 +6602,17 @@
             "https://pbs.twimg.com/media/HXOBnvmWUAAkIcp.jpg"
           ],
           "text": "Green is my favorite color https://t.co/3XFKj7wCZM"
+        },
+        {
+          "created_at": "2026-11-16T04:23:13.000Z",
+          "id": "2122183685067907468",
+          "images": [
+            "https://pbs.twimg.com/media/HXOC0HCWIAAGg_O.jpg"
+          ],
+          "text": "Only 2 things are guaranteed up and to the right.\n\nGoodnight https://t.co/3WiRIkhwPz"
         }
       ],
       "reads": {
-        "2122039738165293102": "No call",
         "2122043132149706894": "No call",
         "2122048595168047499": "No call",
         "2122054445278105885": "No call",
@@ -6632,7 +6631,8 @@
         "2122170797011943846": "No call",
         "2122171360315109588": "No call",
         "2122178257667641768": "No call",
-        "2122182372506419356": "No call"
+        "2122182372506419356": "No call",
+        "2122183685067907468": "No call"
       },
       "replies": [
         {
@@ -6733,10 +6733,6 @@
         }
       ],
       "threads": {
-        "2120570187829366807": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120577037370818795": {
           "alerted": [],
           "self_replies": 0
@@ -7142,6 +7138,10 @@
         "2122182372506419356": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122183685067907468": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7149,7 +7149,6 @@
         "2121794659391545636": true,
         "2121838839765635395": false,
         "2122034439316181103": false,
-        "2122039738165293102": false,
         "2122043132149706894": true,
         "2122048595168047499": false,
         "2122054445278105885": false,
@@ -7179,7 +7178,8 @@
         "2122176644668436730": true,
         "2122177068783771982": true,
         "2122178257667641768": true,
-        "2122182372506419356": true
+        "2122182372506419356": true,
+        "2122183685067907468": true
       },
       "user_id": "809191427645181952"
     }
@@ -7202,5 +7202,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T04:18:23+00:00"
+  "updated_at": "2026-11-16T04:24:20+00:00"
 }
