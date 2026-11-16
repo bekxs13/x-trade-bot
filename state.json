@@ -6441,7 +6441,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122166670915506385",
+      "last_id": "2122166930215993614",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6493,12 +6493,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T01:45:03.000Z",
-          "id": "2121781492523122859",
-          "reply_to_id": "2121777516566229292",
-          "text": "Clue: It's happening on a weekend"
-        },
         {
           "created_at": "2026-11-15T02:20:41.000Z",
           "id": "2121790458938462680",
@@ -6605,6 +6599,11 @@
           "id": "2122166670915506385",
           "reply_to_id": "2122166538136432699",
           "text": "@coinjunky curious your thoughts on this"
+        },
+        {
+          "created_at": "2026-11-16T03:16:38.000Z",
+          "id": "2122166930215993614",
+          "text": "Bitcoin down so bad they got me posting monetary endgame bullish economic fan fiction"
         }
       ],
       "reads": {
@@ -6625,7 +6624,8 @@
         "2122163753340883336": "No call",
         "2122164885064741072": "No call: maybe short AI equities (65%, too unsure)",
         "2122166538136432699": "No call",
-        "2122166670915506385": "Read together with the post it replies to"
+        "2122166670915506385": "Read together with the post it replies to",
+        "2122166930215993614": "No call"
       },
       "replies": [
         {
@@ -6723,12 +6723,6 @@
         }
       ],
       "threads": {
-        "2120308472390541751": {
-          "alerted": [
-            "trade:BTC:trim"
-          ],
-          "self_replies": 1
-        },
         "2120539539467030683": {
           "alerted": [],
           "self_replies": 0
@@ -7134,6 +7128,10 @@
         "2122166538136432699": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2122166930215993614": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7146,7 +7144,6 @@
         "2121483826731885024": false,
         "2121621078405783948": true,
         "2121747269359985146": false,
-        "2121781492523122859": false,
         "2121790458938462680": true,
         "2121794197321867525": true,
         "2121794659391545636": true,
@@ -7171,7 +7168,8 @@
         "2122164885064741072": true,
         "2122165364624961955": true,
         "2122166538136432699": true,
-        "2122166670915506385": false
+        "2122166670915506385": false,
+        "2122166930215993614": true
       },
       "user_id": "809191427645181952"
     }
@@ -7194,5 +7192,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T03:16:28+00:00"
+  "updated_at": "2026-11-16T03:18:31+00:00"
 }
