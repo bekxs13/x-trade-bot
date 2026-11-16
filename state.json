@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122351570415141333",
+      "last_id": "2122352443929612636",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1194,14 +1194,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T11:17:23.000Z",
-          "id": "2121925527246139854",
-          "images": [
-            "https://pbs.twimg.com/media/HXKYBbMXAAA7bsX.jpg"
-          ],
-          "text": "gmihao bulls https://t.co/We6wuw5GCe"
-        },
         {
           "created_at": "2026-11-15T11:34:14.000Z",
           "id": "2121929768023310813",
@@ -1325,10 +1317,15 @@
           "created_at": "2026-11-16T15:30:20.000Z",
           "id": "2122351570415141333",
           "text": "solana breakpoint best conference in crypto by long shot"
+        },
+        {
+          "created_at": "2026-11-16T15:33:25.000Z",
+          "id": "2122352345610903599",
+          "quoted_text": "Looks like I\u2019m about to take 2nd in the Pump perp challenge and honestly this has made me love what @PumpfunEco  is building even more.\n\nThe amount of money they\u2019re giving back to traders is incredible. These competitions are genuinely lucrative... but what makes them special is watching people put their ideas and trades out there in real time.\n\nI\u2019ve said it before that the future of social trading is bigger than memes.\n\nIt\u2019s public wallets trading perps on crypto majors, stocks and real world a",
+          "text": "was fun brother congrats you crushed it \ud83e\udee1 https://t.co/FTQNtejwye"
         }
       ],
       "reads": {
-        "2121925527246139854": "No call",
         "2121929768023310813": "No call: bearish on crypto market (same view as before)",
         "2121931459783201053": "TRADE EXIT BTC",
         "2121934664642216434": "No call: bullish on memecoins (same view as before)",
@@ -1345,21 +1342,10 @@
         "2122138338710724829": "No call",
         "2122284970949718155": "VIEW bullish on ZEC",
         "2122351506925953404": "No call",
-        "2122351570415141333": "No call"
+        "2122351570415141333": "No call",
+        "2122352345610903599": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-16T00:04:35.000Z",
-          "id": "2122118596876697733",
-          "reply_to_id": "2122118030956327273",
-          "text": "@divotends_ @D4sh______ lol"
-        },
-        {
-          "created_at": "2026-11-16T00:05:27.000Z",
-          "id": "2122118814703796481",
-          "reply_to_id": "2122118336599200073",
-          "text": "@BucketBoyPlunge \ud83d\ude01"
-        },
         {
           "created_at": "2026-11-16T00:05:53.000Z",
           "id": "2122118925588820139",
@@ -1446,13 +1432,21 @@
           "id": "2122346614660751503",
           "reply_to_id": "2122336256411455488",
           "text": "@austinoakes good meeting you g!"
+        },
+        {
+          "created_at": "2026-11-16T15:32:24.000Z",
+          "id": "2122352092828639655",
+          "reply_to_id": "2122351963887043001",
+          "text": "@ChrisyFrmBLOCKS fire"
+        },
+        {
+          "created_at": "2026-11-16T15:33:48.000Z",
+          "id": "2122352443929612636",
+          "reply_to_id": "2122344214638080481",
+          "text": "@TbonePoker @notthreadguy he's good!"
         }
       ],
       "threads": {
-        "2120851782272471418": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120854917074264185": {
           "alerted": [],
           "self_replies": 0
@@ -1864,10 +1858,13 @@
         "2122351570415141333": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122352345610903599": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121925527246139854": true,
         "2121929768023310813": true,
         "2121931459783201053": true,
         "2121934664642216434": true,
@@ -1883,8 +1880,6 @@
         "2122071636019225077": true,
         "2122074625756819616": true,
         "2122108269284229441": true,
-        "2122118596876697733": false,
-        "2122118814703796481": false,
         "2122118925588820139": false,
         "2122119150571032895": false,
         "2122120120118210937": false,
@@ -1901,7 +1896,10 @@
         "2122284970949718155": true,
         "2122346614660751503": false,
         "2122351506925953404": false,
-        "2122351570415141333": false
+        "2122351570415141333": false,
+        "2122352092828639655": false,
+        "2122352345610903599": false,
+        "2122352443929612636": false
       },
       "user_id": "973261472"
     },
@@ -7216,5 +7214,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T15:32:31+00:00"
+  "updated_at": "2026-11-16T15:34:20+00:00"
 }
