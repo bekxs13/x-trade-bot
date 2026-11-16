@@ -6445,7 +6445,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122176211657068925",
+      "last_id": "2122176644668436730",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6633,12 +6633,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-14T06:02:14.000Z",
-          "id": "2121483826731885024",
-          "reply_to_id": "2118285805206540690",
-          "text": "@TorchTheEarth__ \u201c\u2026at night at my desk\u2026 just me and the tape\u2026 always clicking\u2026\u201d"
-        },
-        {
           "created_at": "2026-11-14T15:07:37.000Z",
           "id": "2121621078405783948",
           "reply_to_id": "2121617783171543396",
@@ -6727,6 +6721,12 @@
           "id": "2122176211657068925",
           "reply_to_id": "2122176054919827762",
           "text": "@bahubali_usd So tokenized gold that can be frozen at any time where you have no idea if it's backed by the actual gold or not? That's just fiat 2.0 but even worse and more cumbersome."
+        },
+        {
+          "created_at": "2026-11-16T03:55:14.000Z",
+          "id": "2122176644668436730",
+          "reply_to_id": "2122165042250743968",
+          "text": "If you're hedging monetary policy and optimistic about capital seizure than yes?\n\nIf you're worried about monetary policy and worried about monetary seizure than no?\n\nI personally have some of my Bitcoin in IBIT for capital efficiency and safety (I have no access to any large funds)."
         }
       ],
       "threads": {
@@ -7142,7 +7142,6 @@
         }
       },
       "trading": {
-        "2121483826731885024": false,
         "2121621078405783948": true,
         "2121747269359985146": false,
         "2121794659391545636": true,
@@ -7176,7 +7175,8 @@
         "2122172629582790876": true,
         "2122175454752764373": true,
         "2122176066642944226": true,
-        "2122176211657068925": true
+        "2122176211657068925": true,
+        "2122176644668436730": true
       },
       "user_id": "809191427645181952"
     }
@@ -7199,5 +7199,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T03:54:16+00:00"
+  "updated_at": "2026-11-16T03:56:21+00:00"
 }
