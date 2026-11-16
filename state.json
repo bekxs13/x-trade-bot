@@ -1009,12 +1009,12 @@
         },
         "zec": {
           "market": "crypto",
-          "post_id": "2119086259796590816",
-          "reason": "The ZEC chart draws a breakdown below the range with 'people panic sell beneath here' down to ~800, after this morning's posts calling ZEC weakness. That is near-term bearish, versus the recorded bullish view.",
+          "post_id": "2122284970949718155",
+          "reason": "'still like the long-term privacy thesis' and eyes $750 as support to buy, which is bullish long-term versus the recorded bearish ZEC view, though he expects a near-term pullback.",
           "scope": "ZEC",
-          "since": "2026-11-07",
-          "stance": "bearish",
-          "updated_at": "2026-11-07T15:15:09.000Z"
+          "since": "2026-11-16",
+          "stance": "bullish",
+          "updated_at": "2026-11-16T11:05:41.000Z"
         }
       },
       "closed": [
@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122162254984470678",
+      "last_id": "2122284970949718155",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1194,11 +1194,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T01:04:13.000Z",
-          "id": "2121771218177310983",
-          "text": "dawg wow"
-        },
         {
           "created_at": "2026-11-15T01:45:12.000Z",
           "id": "2121781530813141430",
@@ -1321,10 +1316,18 @@
           "id": "2122138338710724829",
           "quoted_text": "This isn\u2019t rocket surgery, but once boomers are gone, casinos are cooked. Went into one recently, blew $40 on slots in 10 minutes, thought \u201cthis is nothing but brain rot for 50+ crowd.\u201d Even the table games looked depressing. Zero glamour. Gen Z will gamble from their phones.",
           "text": "thoughts? https://t.co/Fw75uMZ8Xj"
+        },
+        {
+          "created_at": "2026-11-16T11:05:41.000Z",
+          "id": "2122284970949718155",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2122284731647885312/img/RY4u2HAaV1u8wWNa.jpg"
+          ],
+          "quoted_text": "buying zcash at $800 is like buying bitcoin at $800 https://t.co/HCsgpnZ0yq",
+          "text": "i still like the long-term privacy thesis and watching zcash:native for a deeper pullback, with $750 as a key level where historical resistance could turn into support https://t.co/MYsp2MVaDV https://t.co/NUEcpU9oul"
         }
       ],
       "reads": {
-        "2121771218177310983": "No call",
         "2121781530813141430": "No call",
         "2121807676539830767": "TRADE EXIT BTC, ETH, SOL",
         "2121925527246139854": "No call",
@@ -1341,7 +1344,8 @@
         "2122051143169949842": "No call",
         "2122074625756819616": "No call",
         "2122108269284229441": "No call",
-        "2122138338710724829": "No call"
+        "2122138338710724829": "No call",
+        "2122284970949718155": "VIEW bullish on ZEC"
       },
       "replies": [
         {
@@ -1445,10 +1449,6 @@
         }
       ],
       "threads": {
-        "2120830982592802988": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120833445408510011": {
           "alerted": [],
           "self_replies": 1
@@ -1858,10 +1858,15 @@
         "2122138338710724829": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122284970949718155": {
+          "alerted": [
+            "bias:zec:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121771218177310983": false,
         "2121781530813141430": true,
         "2121807676539830767": true,
         "2121925527246139854": true,
@@ -1895,7 +1900,8 @@
         "2122150014378246244": false,
         "2122151547295465724": false,
         "2122162134272405792": false,
-        "2122162254984470678": false
+        "2122162254984470678": false,
+        "2122284970949718155": true
       },
       "user_id": "973261472"
     },
@@ -7211,5 +7217,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T10:10:26+00:00"
+  "updated_at": "2026-11-16T11:06:20+00:00"
 }
