@@ -6445,7 +6445,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122175454752764373",
+      "last_id": "2122176211657068925",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6633,18 +6633,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-13T22:33:28.000Z",
-          "id": "2121370893020549192",
-          "reply_to_id": "2121370779023802599",
-          "text": "@blknoiz06 Imagine if he listened to me and did Hype. What a different timeline. He might be one of the richest people on Earth."
-        },
-        {
-          "created_at": "2026-11-13T23:27:02.000Z",
-          "id": "2121384370540102139",
-          "reply_to_id": "2121382184758260138",
-          "text": "@kingbtc Dr Robert Lax, what is the prognosis"
-        },
-        {
           "created_at": "2026-11-14T06:02:14.000Z",
           "id": "2121483826731885024",
           "reply_to_id": "2118285805206540690",
@@ -6727,6 +6715,18 @@
           ],
           "reply_to_id": "2122172618363289928",
           "text": "This is 6B worth of Gold. (1.6B in 2019... inflation...)\n\nTry transporting this. You'd need a Boeing 777F or 747-8F. Additionally getting to the plane is an issue in of itself with a bunch of armored cars, security etc. \n\nNow imagine trying to use this for settlement? Disaster.\n\nNow imagine the climate in the United States changes, FAST and you need to leave now. There is not alternative form of capital.\n\nYou can't bring your house, you can bring some of your gold, but you can bring all of your Bitcoin. \n\nIt's insurance you pay no premium on."
+        },
+        {
+          "created_at": "2026-11-16T03:52:57.000Z",
+          "id": "2122176066642944226",
+          "reply_to_id": "2122172710528934207",
+          "text": "That's reasonable, I haven't thought about the touching coins optics, but I guess playing devil's advocate isn't whatever the network decides, whatever fork you choose ultimately up to you? Stay on the fork with no inflation rewards, stay on the fork with inflation rewards, stay on OG Bitcoin. \n\nBitcoin is about maximizing optionality."
+        },
+        {
+          "created_at": "2026-11-16T03:53:31.000Z",
+          "id": "2122176211657068925",
+          "reply_to_id": "2122176054919827762",
+          "text": "@bahubali_usd So tokenized gold that can be frozen at any time where you have no idea if it's backed by the actual gold or not? That's just fiat 2.0 but even worse and more cumbersome."
         }
       ],
       "threads": {
@@ -7142,8 +7142,6 @@
         }
       },
       "trading": {
-        "2121370893020549192": true,
-        "2121384370540102139": false,
         "2121483826731885024": false,
         "2121621078405783948": true,
         "2121747269359985146": false,
@@ -7176,7 +7174,9 @@
         "2122171360315109588": true,
         "2122171705229554016": false,
         "2122172629582790876": true,
-        "2122175454752764373": true
+        "2122175454752764373": true,
+        "2122176066642944226": true,
+        "2122176211657068925": true
       },
       "user_id": "809191427645181952"
     }
@@ -7199,5 +7199,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T03:52:36+00:00"
+  "updated_at": "2026-11-16T03:54:16+00:00"
 }
