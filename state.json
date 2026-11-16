@@ -6454,7 +6454,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122384468224753946",
+      "last_id": "2122397245555224829",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6506,12 +6506,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T03:29:46.000Z",
-          "id": "2122170235608306116",
-          "reply_to_id": "2122169303495832027",
-          "text": "Things that come to mind, Oil stocks after the invention of the car but kerosine usage declining to due electricity.\n\nPost great depression equities, where companies were trading under liquidatable book value (How Buffett made his fortune).\n\nInternet stocks post 2000s bubble pop, where Microsoft 3x earnings in 3 years but stock traded flat."
-        },
         {
           "created_at": "2026-11-16T03:32:00.000Z",
           "id": "2122170797011943846",
@@ -6635,10 +6629,17 @@
             "https://pbs.twimg.com/media/HXQ5X3zWEAE5cKK.jpg"
           ],
           "text": "Citadel Securities risk control room https://t.co/YFH20mZA0y"
+        },
+        {
+          "created_at": "2026-11-16T18:31:50.000Z",
+          "id": "2122397245555224829",
+          "images": [
+            "https://pbs.twimg.com/media/HXREupwWwAAq3-r.png"
+          ],
+          "text": "Hyperliquid https://t.co/icchp6hTBi"
         }
       ],
       "reads": {
-        "2122170235608306116": "No call",
         "2122170797011943846": "No call",
         "2122171360315109588": "No call",
         "2122178257667641768": "No call",
@@ -6654,7 +6655,8 @@
         "2122370565638136220": "Read together with the post it replies to",
         "2122379446212845701": "No call",
         "2122381683047666006": "No call",
-        "2122384468224753946": "No call"
+        "2122384468224753946": "No call",
+        "2122397245555224829": "No call"
       },
       "replies": [
         {
@@ -6755,10 +6757,6 @@
         }
       ],
       "threads": {
-        "2120653852588617981": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2120656959024115846": {
           "alerted": [],
           "self_replies": 0
@@ -7164,6 +7162,10 @@
         "2122384468224753946": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122397245555224829": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7175,7 +7177,6 @@
         "2122123254445838831": false,
         "2122165364624961955": true,
         "2122167670577512501": true,
-        "2122170235608306116": true,
         "2122170797011943846": true,
         "2122171360315109588": true,
         "2122171705229554016": false,
@@ -7201,7 +7202,8 @@
         "2122372450839310612": true,
         "2122379446212845701": false,
         "2122381683047666006": true,
-        "2122384468224753946": false
+        "2122384468224753946": false,
+        "2122397245555224829": true
       },
       "user_id": "809191427645181952"
     }
@@ -7224,5 +7226,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T18:08:42+00:00"
+  "updated_at": "2026-11-16T18:32:22+00:00"
 }
