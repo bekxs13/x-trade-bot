@@ -4660,7 +4660,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122363979775545453",
+      "last_id": "2122372014875005263",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4712,11 +4712,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T19:39:35.000Z",
-          "id": "2120964745532764218",
-          "text": "odds have just dramatically shifted that the jensen files isn\u2019t a cia US intelligence  coup and is exclusively related to rancid sex orgies amongst NVDA staff"
-        },
         {
           "created_at": "2026-11-12T20:12:16.000Z",
           "id": "2120972971703705709",
@@ -4827,10 +4822,14 @@
           "created_at": "2026-11-16T13:41:40.000Z",
           "id": "2122324225297903848",
           "text": "STOCK MARKET OPEN: The JENSEN FILES Continue, Crypto Might NOT SURVIVE, WTF DO WE DO NOW? https://t.co/4ZJH1fa7BM"
+        },
+        {
+          "created_at": "2026-11-16T16:51:34.000Z",
+          "id": "2122372014875005263",
+          "text": "fun game of who wants to hold nvda into the first ever non jensen earnings call"
         }
       ],
       "reads": {
-        "2120964745532764218": "No call",
         "2120972971703705709": "TRADE SHORT NVDA",
         "2120972973847027947": "Read together with the post it replies to",
         "2121051905371865414": "No call",
@@ -4846,7 +4845,8 @@
         "2122046856297644246": "No call",
         "2122305058184290365": "No call",
         "2122311853514617301": "No call",
-        "2122324225297903848": "No call"
+        "2122324225297903848": "No call",
+        "2122372014875005263": "No call"
       },
       "replies": [
         {
@@ -4941,10 +4941,6 @@
         }
       ],
       "threads": {
-        "2116211254184620337": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116259889974525991": {
           "alerted": [],
           "self_replies": 0
@@ -5342,10 +5338,13 @@
         "2122324225297903848": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122372014875005263": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120964745532764218": false,
         "2120972971703705709": true,
         "2120972973847027947": false,
         "2121051905371865414": false,
@@ -5379,7 +5378,8 @@
         "2122312766102868156": false,
         "2122312890095145317": false,
         "2122324225297903848": true,
-        "2122363979775545453": false
+        "2122363979775545453": false,
+        "2122372014875005263": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6454,7 +6454,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122370565638136220",
+      "last_id": "2122371881672310937",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6506,17 +6506,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T03:04:01.000Z",
-          "id": "2122163753340883336",
-          "text": "One idea that's always sort of annoyed me about Bitcoin.\n\nIf hypothetically we have complete fiat debasement debt spiral, and Bitcoin price approaches the event horizon of the dominator (infinity) does it really matter if you own 1000, 100 or .01 BTC? All that will matter is that you own some?\n\nIt's very similar to the AI problem. Why be bullish on AI and AI equities if you actually believe that money won't matter in a year."
-        },
-        {
-          "created_at": "2026-11-16T03:08:31.000Z",
-          "id": "2122164885064741072",
-          "reply_to_id": "2122163753340883336",
-          "text": "Game theory wise you only need to own significantly more than the rest of the current population \n\n21,000,000/8,000,000,000 = 0.002625 ?\n\n1 feels about right for most normies imo. \n\nBack to AI, if you do believe that AI is inevitable, but there might be a duration mismatch then why not be short so you can own more of the economics if it does potentially crash (me)."
-        },
         {
           "created_at": "2026-11-16T03:15:05.000Z",
           "id": "2122166538136432699",
@@ -6619,11 +6608,27 @@
           "id": "2122370565638136220",
           "reply_to_id": "2122370233864184016",
           "text": "Guess me going short learning coding (not trying at all) was a good trade"
+        },
+        {
+          "created_at": "2026-11-16T16:50:42.000Z",
+          "id": "2122371793843597643",
+          "images": [
+            "https://pbs.twimg.com/media/HXQtxBFXUAAXFfj.jpg"
+          ],
+          "reply_to_id": "2122370233864184016",
+          "text": "Also has full realtime historical trade logging https://t.co/DbKoYDYBXX"
+        },
+        {
+          "created_at": "2026-11-16T16:51:03.000Z",
+          "id": "2122371881672310937",
+          "images": [
+            "https://pbs.twimg.com/media/HXQt6deXcAAEkD7.jpg"
+          ],
+          "reply_to_id": "2122371793843597643",
+          "text": "For this sleeve our historical returns since 2019! https://t.co/PDjbQZRO0e"
         }
       ],
       "reads": {
-        "2122163753340883336": "No call",
-        "2122164885064741072": "No call: maybe short AI equities (65%, too unsure)",
         "2122166538136432699": "No call",
         "2122166670915506385": "Read together with the post it replies to",
         "2122166930215993614": "No call",
@@ -7160,8 +7165,6 @@
         "2122034439316181103": false,
         "2122088338366546308": false,
         "2122123254445838831": false,
-        "2122163753340883336": true,
-        "2122164885064741072": true,
         "2122165364624961955": true,
         "2122166538136432699": true,
         "2122166670915506385": false,
@@ -7188,7 +7191,9 @@
         "2122347916694044881": true,
         "2122367842196529553": false,
         "2122370233864184016": true,
-        "2122370565638136220": false
+        "2122370565638136220": false,
+        "2122371793843597643": true,
+        "2122371881672310937": true
       },
       "user_id": "809191427645181952"
     }
@@ -7211,5 +7216,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T16:46:24+00:00"
+  "updated_at": "2026-11-16T16:52:23+00:00"
 }
