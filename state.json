@@ -6441,7 +6441,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122163753340883336",
+      "last_id": "2122164885064741072",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6493,12 +6493,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T01:24:32.000Z",
-          "id": "2121776329817309449",
-          "reply_to_id": "2121774572206977409",
-          "text": "Things that come to mind\n\nDoes this person have some insider alpha on geopolitical events and BTC is the most liquid thing to trade on the weekend\n\nDoes this person know something about quantum\n\nIs this person front running an even larger forced seller\n\nIs this person liquidating (you bid this one)"
-        },
         {
           "created_at": "2026-11-15T01:27:04.000Z",
           "id": "2121776966848397415",
@@ -6605,10 +6599,15 @@
           "created_at": "2026-11-16T03:04:01.000Z",
           "id": "2122163753340883336",
           "text": "One idea that's always sort of annoyed me about Bitcoin.\n\nIf hypothetically we have complete fiat debasement debt spiral, and Bitcoin price approaches the event horizon of the dominator (infinity) does it really matter if you own 1000, 100 or .01 BTC? All that will matter is that you own some?\n\nIt's very similar to the AI problem. Why be bullish on AI and AI equities if you actually believe that money won't matter in a year."
+        },
+        {
+          "created_at": "2026-11-16T03:08:31.000Z",
+          "id": "2122164885064741072",
+          "reply_to_id": "2122163753340883336",
+          "text": "Game theory wise you only need to own significantly more than the rest of the current population \n\n21,000,000/8,000,000,000 = 0.002625 ?\n\n1 feels about right for most normies imo. \n\nBack to AI, if you do believe that AI is inevitable, but there might be a duration mismatch then why not be short so you can own more of the economics if it does potentially crash (me)."
         }
       ],
       "reads": {
-        "2121776329817309449": "No call",
         "2121776966848397415": "No call",
         "2121794197321867525": "VIEW bullish on btc",
         "2121837781508915257": "No call",
@@ -6624,7 +6623,8 @@
         "2122161985370427731": "No call",
         "2122162502288998628": "No call",
         "2122163006679212421": "VIEW bearish on stocks/macro",
-        "2122163753340883336": "No call"
+        "2122163753340883336": "No call",
+        "2122164885064741072": "No call: maybe short AI equities (65%, too unsure)"
       },
       "replies": [
         {
@@ -7132,7 +7132,7 @@
         },
         "2122163753340883336": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
@@ -7146,7 +7146,6 @@
         "2121483826731885024": false,
         "2121621078405783948": true,
         "2121747269359985146": false,
-        "2121776329817309449": true,
         "2121776966848397415": true,
         "2121777516566229292": true,
         "2121781492523122859": false,
@@ -7170,7 +7169,8 @@
         "2122161985370427731": true,
         "2122162502288998628": false,
         "2122163006679212421": true,
-        "2122163753340883336": true
+        "2122163753340883336": true,
+        "2122164885064741072": true
       },
       "user_id": "809191427645181952"
     }
@@ -7193,5 +7193,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T03:04:22+00:00"
+  "updated_at": "2026-11-16T03:10:28+00:00"
 }
