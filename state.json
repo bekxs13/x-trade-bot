@@ -70,7 +70,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122078867116744813",
+      "last_id": "2122139084567261554",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -154,12 +154,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T10:45:21.000Z",
-          "id": "2121192689324691510",
-          "quoted_text": "Ok wrote something\n\nhttps://t.co/aHXZsLx7rL",
-          "text": "Added a twitch chat to the site too. $1/mo subscription post on the live chat. via @whop https://t.co/32FOYlUyAx"
-        },
         {
           "created_at": "2026-11-13T11:24:14.000Z",
           "id": "2121202474497544522",
@@ -286,10 +280,14 @@
             "https://pbs.twimg.com/media/HXLKVJBaUAAPAk4.jpg"
           ],
           "text": "https://t.co/4YVl2YiS0R"
+        },
+        {
+          "created_at": "2026-11-16T01:25:59.000Z",
+          "id": "2122139084567261554",
+          "text": "AccountBasedInNigeria16z"
         }
       ],
       "reads": {
-        "2121192689324691510": "No call",
         "2121202474497544522": "No call",
         "2121339354631307537": "No call",
         "2121343134785544351": "No call",
@@ -308,7 +306,8 @@
         "2121791798343516541": "No call",
         "2121825012449714179": "No call",
         "2121833884384194656": "No call",
-        "2121980844340617464": "No call"
+        "2121980844340617464": "No call",
+        "2122139084567261554": "No call"
       },
       "replies": [
         {
@@ -409,10 +408,6 @@
         }
       ],
       "threads": {
-        "2116049376217039344": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116050244727394321": {
           "alerted": [],
           "self_replies": 0
@@ -811,10 +806,13 @@
         "2121980844340617464": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122139084567261554": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121192689324691510": false,
         "2121202474497544522": false,
         "2121339354631307537": false,
         "2121343134785544351": false,
@@ -848,7 +846,8 @@
         "2121833884384194656": false,
         "2121980844340617464": false,
         "2121981994552963238": false,
-        "2122078867116744813": false
+        "2122078867116744813": false,
+        "2122139084567261554": false
       },
       "user_id": "1446541960181858315"
     },
@@ -1102,7 +1101,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122138338710724829",
+      "last_id": "2122138831260381452",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1337,12 +1336,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-15T23:26:53.000Z",
-          "id": "2122109110959431775",
-          "reply_to_id": "2121076151602876562",
-          "text": "@ika_xbt @lesabrefomo ive been bullposting pump pretty aggressively i think, ppl are heavily discounting the possible growth if pump mobile app goes viral next year, if they have breakout like robinhood app did in 2020 when doge went to 80B then that is how you get higher ceilings"
-        },
-        {
           "created_at": "2026-11-15T23:28:02.000Z",
           "id": "2122109398105653454",
           "reply_to_id": "2122032129723052343",
@@ -1428,6 +1421,15 @@
           "id": "2122130238360453235",
           "reply_to_id": "2122021309848731964",
           "text": "@fern 20%"
+        },
+        {
+          "created_at": "2026-11-16T01:24:59.000Z",
+          "id": "2122138831260381452",
+          "images": [
+            "https://pbs.twimg.com/media/HXNaBUyWQAAFL5g.jpg"
+          ],
+          "reply_to_id": "2122138428795973855",
+          "text": "@kreo444 solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/lAofwKFubE"
         }
       ],
       "threads": {
@@ -1866,7 +1868,6 @@
         "2122071636019225077": true,
         "2122074625756819616": true,
         "2122108269284229441": true,
-        "2122109110959431775": true,
         "2122109398105653454": false,
         "2122109475339243594": false,
         "2122110290745585884": true,
@@ -1881,7 +1882,8 @@
         "2122119150571032895": false,
         "2122120120118210937": false,
         "2122130238360453235": false,
-        "2122138338710724829": false
+        "2122138338710724829": false,
+        "2122138831260381452": true
       },
       "user_id": "973261472"
     },
@@ -7185,5 +7187,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T01:24:30+00:00"
+  "updated_at": "2026-11-16T01:26:20+00:00"
 }
