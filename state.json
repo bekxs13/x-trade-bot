@@ -79,7 +79,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122239223592067323",
+      "last_id": "2122372973076373854",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -163,11 +163,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T23:45:42.000Z",
-          "id": "2121389071947960700",
-          "text": "Democrats win and we lost air travel in the first week"
-        },
         {
           "created_at": "2026-11-14T00:03:16.000Z",
           "id": "2121393490244551021",
@@ -296,10 +291,14 @@
           "id": "2122214635759943685",
           "reply_to_id": "2122214531829293286",
           "text": "\"here's this report and also he was banging the person in question and also US Gov is now coming out directly against it\" ok"
+        },
+        {
+          "created_at": "2026-11-16T16:55:23.000Z",
+          "id": "2122372973076373854",
+          "text": "TradingView be like let\u2019s destroy the entire mobile app"
         }
       ],
       "reads": {
-        "2121389071947960700": "No call",
         "2121393490244551021": "No call",
         "2121393930868863125": "No call",
         "2121399584727675247": "No call",
@@ -317,7 +316,8 @@
         "2121980844340617464": "No call",
         "2122139084567261554": "No call",
         "2122208322539659433": "No call: bearish on semis/ai stocks (55%, too unsure)",
-        "2122214531829293286": "VIEW bearish on NVDA"
+        "2122214531829293286": "VIEW bearish on NVDA",
+        "2122372973076373854": "No call"
       },
       "replies": [
         {
@@ -415,10 +415,6 @@
         }
       ],
       "threads": {
-        "2116134540716515584": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116217175962776030": {
           "alerted": [],
           "self_replies": 0
@@ -819,10 +815,13 @@
             "bias:nvda:bearish"
           ],
           "self_replies": 1
+        },
+        "2122372973076373854": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121389071947960700": false,
         "2121393490244551021": false,
         "2121393930868863125": true,
         "2121399584727675247": false,
@@ -856,7 +855,8 @@
         "2122210752895627338": true,
         "2122214531829293286": true,
         "2122214635759943685": false,
-        "2122239223592067323": false
+        "2122239223592067323": false,
+        "2122372973076373854": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7216,5 +7216,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T16:54:17+00:00"
+  "updated_at": "2026-11-16T16:56:19+00:00"
 }
