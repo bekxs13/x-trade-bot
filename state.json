@@ -1108,7 +1108,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122406925522682282",
+      "last_id": "2122408155623608354",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1344,12 +1344,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T17:11:33.000Z",
-          "id": "2122377042985373918",
-          "reply_to_id": "2122130163970511240",
-          "text": "@unclecoco @SMtrades_ i think it would be pretty funny if you could lose money for bad callouts lol"
-        },
-        {
           "created_at": "2026-11-16T17:12:22.000Z",
           "id": "2122377247726477526",
           "reply_to_id": "2122376242041159950",
@@ -1438,6 +1432,12 @@
           "id": "2122406925522682282",
           "reply_to_id": "2122252617724436643",
           "text": "@greenytrades ? https://t.co/JGa9WPoiDi"
+        },
+        {
+          "created_at": "2026-11-16T19:15:11.000Z",
+          "id": "2122408155623608354",
+          "reply_to_id": "2122407966666113527",
+          "text": "@remp0x @greenytrades bro farming clicks \ud83d\ude02"
         }
       ],
       "threads": {
@@ -1878,7 +1878,6 @@
         "2122358956609749430": true,
         "2122363832878202934": false,
         "2122365079773716637": true,
-        "2122377042985373918": false,
         "2122377247726477526": true,
         "2122377345357304275": true,
         "2122377955636912220": true,
@@ -1895,7 +1894,8 @@
         "2122400453434483045": false,
         "2122400757626372265": false,
         "2122406507040116962": false,
-        "2122406925522682282": false
+        "2122406925522682282": false,
+        "2122408155623608354": false
       },
       "user_id": "973261472"
     },
@@ -6453,7 +6453,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122406539021439441",
+      "last_id": "2122408040838414705",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6505,11 +6505,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T03:34:14.000Z",
-          "id": "2122171360315109588",
-          "text": "Is there anything cozier than a winter night, ranting on twitter with a peppermint tea in hand.\n\nMAX COZY.\n\nSo question for my Bitcoin people, if hypothetically we do hard fork for a quantum upgrade what do we do with the coins that do not fork over, and how long does the upgrade stay possible?\n\nCould potentially take old dormant coins and add them back into the inflation curve to push out block reward security issues?"
-        },
         {
           "created_at": "2026-11-16T04:01:39.000Z",
           "id": "2122178257667641768",
@@ -6636,10 +6631,17 @@
           "created_at": "2026-11-16T19:08:45.000Z",
           "id": "2122406539021439441",
           "text": "How lucky are we to have this volatility with NVDA earnings, FED minutes and ANT IPO in the same week"
+        },
+        {
+          "created_at": "2026-11-16T19:14:44.000Z",
+          "id": "2122408040838414705",
+          "images": [
+            "https://pbs.twimg.com/media/HXROAnyXkAAnDlp.jpg"
+          ],
+          "text": "\u201c...living is merely the chaos of existence...\u201d https://t.co/WQMVXbXDYz"
         }
       ],
       "reads": {
-        "2122171360315109588": "No call",
         "2122178257667641768": "No call",
         "2122182372506419356": "No call",
         "2122183685067907468": "No call",
@@ -6655,7 +6657,8 @@
         "2122381683047666006": "No call",
         "2122384468224753946": "No call",
         "2122397245555224829": "No call",
-        "2122406539021439441": "No call"
+        "2122406539021439441": "No call",
+        "2122408040838414705": "No call"
       },
       "replies": [
         {
@@ -6756,10 +6759,6 @@
         }
       ],
       "threads": {
-        "2120886448425681182": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120895026754617723": {
           "alerted": [],
           "self_replies": 0
@@ -7165,6 +7164,10 @@
         "2122406539021439441": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122408040838414705": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7175,7 +7178,6 @@
         "2122123254445838831": false,
         "2122165364624961955": true,
         "2122167670577512501": true,
-        "2122171360315109588": true,
         "2122171705229554016": false,
         "2122172629582790876": true,
         "2122175454752764373": true,
@@ -7202,7 +7204,8 @@
         "2122384468224753946": false,
         "2122397245555224829": true,
         "2122397767507333376": false,
-        "2122406539021439441": true
+        "2122406539021439441": true,
+        "2122408040838414705": false
       },
       "user_id": "809191427645181952"
     }
@@ -7225,5 +7228,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T19:12:37+00:00"
+  "updated_at": "2026-11-16T19:16:26+00:00"
 }
