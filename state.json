@@ -6450,7 +6450,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122410252977283480",
+      "last_id": "2122422704460492908",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6662,12 +6662,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-15T02:37:22.000Z",
-          "id": "2121794659391545636",
-          "reply_to_id": "2121794512171524228",
-          "text": "@hammad_ismail91 smallest gets closed last, been closed"
-        },
-        {
           "created_at": "2026-11-15T05:32:55.000Z",
           "id": "2121838839765635395",
           "reply_to_id": "2121838442653032595",
@@ -6756,6 +6750,12 @@
           "id": "2122397767507333376",
           "reply_to_id": "2122397320730018142",
           "text": "@YoshlikXBT Dimon is Irish you mongoloid"
+        },
+        {
+          "created_at": "2026-11-16T20:13:00.000Z",
+          "id": "2122422704460492908",
+          "reply_to_id": "2122421483255329235",
+          "text": "@Evan_ss6 It's just one sleeve and all the wallets are public anyways"
         }
       ],
       "threads": {
@@ -7171,7 +7171,6 @@
         }
       },
       "trading": {
-        "2121794659391545636": true,
         "2121838839765635395": false,
         "2122034439316181103": false,
         "2122088338366546308": false,
@@ -7205,7 +7204,8 @@
         "2122397767507333376": false,
         "2122406539021439441": true,
         "2122408040838414705": false,
-        "2122410252977283480": true
+        "2122410252977283480": true,
+        "2122422704460492908": true
       },
       "user_id": "809191427645181952"
     }
@@ -7228,5 +7228,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T19:56:18+00:00"
+  "updated_at": "2026-11-16T20:14:28+00:00"
 }
