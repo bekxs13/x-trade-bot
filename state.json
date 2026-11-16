@@ -6453,7 +6453,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122408040838414705",
+      "last_id": "2122410252977283480",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6505,11 +6505,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T04:01:39.000Z",
-          "id": "2122178257667641768",
-          "text": "What percent of your networth is in Bitcoin?"
-        },
         {
           "created_at": "2026-11-16T04:18:00.000Z",
           "id": "2122182372506419356",
@@ -6639,10 +6634,17 @@
             "https://pbs.twimg.com/media/HXROAnyXkAAnDlp.jpg"
           ],
           "text": "\u201c...living is merely the chaos of existence...\u201d https://t.co/WQMVXbXDYz"
+        },
+        {
+          "created_at": "2026-11-16T19:23:31.000Z",
+          "id": "2122410252977283480",
+          "images": [
+            "https://pbs.twimg.com/media/HXRQ3YKXQAEAfFS.jpg"
+          ],
+          "text": "Hood probably a buy in the 50s https://t.co/paW17eLU0W"
         }
       ],
       "reads": {
-        "2122178257667641768": "No call",
         "2122182372506419356": "No call",
         "2122183685067907468": "No call",
         "2122201906848174435": "No call",
@@ -6658,7 +6660,8 @@
         "2122384468224753946": "No call",
         "2122397245555224829": "No call",
         "2122406539021439441": "No call",
-        "2122408040838414705": "No call"
+        "2122408040838414705": "No call",
+        "2122410252977283480": "No call: bearish on HOOD (65%, too unsure)"
       },
       "replies": [
         {
@@ -6759,10 +6762,6 @@
         }
       ],
       "threads": {
-        "2120895026754617723": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120896790807642297": {
           "alerted": [],
           "self_replies": 0
@@ -7168,6 +7167,10 @@
         "2122408040838414705": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122410252977283480": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7185,7 +7188,6 @@
         "2122176211657068925": true,
         "2122176644668436730": true,
         "2122177068783771982": true,
-        "2122178257667641768": true,
         "2122182372506419356": true,
         "2122183685067907468": true,
         "2122201906848174435": true,
@@ -7205,7 +7207,8 @@
         "2122397245555224829": true,
         "2122397767507333376": false,
         "2122406539021439441": true,
-        "2122408040838414705": false
+        "2122408040838414705": false,
+        "2122410252977283480": true
       },
       "user_id": "809191427645181952"
     }
@@ -7228,5 +7231,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T19:20:23+00:00"
+  "updated_at": "2026-11-16T19:24:35+00:00"
 }
