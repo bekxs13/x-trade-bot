@@ -79,7 +79,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122449935404798195",
+      "last_id": "2122457903349235771",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -163,11 +163,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T05:01:54.000Z",
-          "id": "2121468644966465813",
-          "text": "Hey Siri play Jonny Manziel Hate Bein Sober edit"
-        },
         {
           "created_at": "2026-11-14T07:07:34.000Z",
           "id": "2121500270656114978",
@@ -292,10 +287,15 @@
           "created_at": "2026-11-16T22:01:12.000Z",
           "id": "2122449935404798195",
           "text": "Bitcoin is likely a better long at 65k than 85k"
+        },
+        {
+          "created_at": "2026-11-16T22:32:16.000Z",
+          "id": "2122457752530530598",
+          "quoted_text": "JUST IN - United Airlines is experiencing a \"widespread system outage.\"",
+          "text": "Picked a nice suburban location and bought a Dodge vehicle the jet setting lifestyle was an early 2020s phenomenon https://t.co/qXK8SrXZa1"
         }
       ],
       "reads": {
-        "2121468644966465813": "No call",
         "2121500270656114978": "No call",
         "2121702478425337871": "No call",
         "2121732821551313023": "No call",
@@ -311,15 +311,10 @@
         "2122375589470646621": "No call: bullish on btc (55%, too unsure)",
         "2122389160099197380": "No call",
         "2122417320698237391": "No call",
-        "2122449935404798195": "No call: bullish on btc (same view as before)"
+        "2122449935404798195": "No call: bullish on btc (same view as before)",
+        "2122457752530530598": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-14T23:53:27.000Z",
-          "id": "2121753409649020969",
-          "reply_to_id": "2121468169428644112",
-          "text": "@ImpliedFunding It already is"
-        },
         {
           "created_at": "2026-11-15T02:44:40.000Z",
           "id": "2121796495129387412",
@@ -406,13 +401,15 @@
           "id": "2122430347401113769",
           "reply_to_id": "2122429617084755987",
           "text": "@LiqyRourke @ktrivs Been hearing this"
+        },
+        {
+          "created_at": "2026-11-16T22:32:52.000Z",
+          "id": "2122457903349235771",
+          "reply_to_id": "2122457651489698027",
+          "text": "@stoicsavage Well I guess it was an even better long at 62k and then sale at 65k"
         }
       ],
       "threads": {
-        "2116347053747863971": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116502969181200779": {
           "alerted": [],
           "self_replies": 0
@@ -813,15 +810,17 @@
         "2122449935404798195": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122457752530530598": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121468644966465813": false,
         "2121500270656114978": false,
         "2121702478425337871": false,
         "2121732821551313023": false,
         "2121743950239469590": true,
-        "2121753409649020969": false,
         "2121791798343516541": false,
         "2121796495129387412": false,
         "2121825012449714179": false,
@@ -850,7 +849,9 @@
         "2122418007502893500": true,
         "2122418260213932091": false,
         "2122430347401113769": false,
-        "2122449935404798195": true
+        "2122449935404798195": true,
+        "2122457752530530598": false,
+        "2122457903349235771": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7225,5 +7226,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T22:20:22+00:00"
+  "updated_at": "2026-11-16T22:34:22+00:00"
 }
