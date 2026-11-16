@@ -6449,7 +6449,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122381683047666006",
+      "last_id": "2122384468224753946",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6501,11 +6501,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T03:26:04.000Z",
-          "id": "2122169303495832027",
-          "text": "People will likely look back at the Quantum period for Bitcoin as one of the most incredible asset buying opportunities in financial history.\n\nWithout quantum overhang Bitcoin likely trades at $250k+ right now."
-        },
         {
           "created_at": "2026-11-16T03:29:46.000Z",
           "id": "2122170235608306116",
@@ -6627,10 +6622,17 @@
             "https://pbs.twimg.com/media/HXQ22uGWwAAThOy.jpg"
           ],
           "text": "That's all you got? https://t.co/CFp8vwYDC0"
+        },
+        {
+          "created_at": "2026-11-16T17:41:03.000Z",
+          "id": "2122384468224753946",
+          "images": [
+            "https://pbs.twimg.com/media/HXQ5X3zWEAE5cKK.jpg"
+          ],
+          "text": "Citadel Securities risk control room https://t.co/YFH20mZA0y"
         }
       ],
       "reads": {
-        "2122169303495832027": "No call: bullish on btc (same view as before)",
         "2122170235608306116": "No call",
         "2122170797011943846": "No call",
         "2122171360315109588": "No call",
@@ -6646,7 +6648,8 @@
         "2122370233864184016": "No call",
         "2122370565638136220": "Read together with the post it replies to",
         "2122379446212845701": "No call",
-        "2122381683047666006": "No call"
+        "2122381683047666006": "No call",
+        "2122384468224753946": "No call"
       },
       "replies": [
         {
@@ -6747,10 +6750,6 @@
         }
       ],
       "threads": {
-        "2120652331276779817": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2120653852588617981": {
           "alerted": [],
           "self_replies": 1
@@ -7156,6 +7155,10 @@
         "2122381683047666006": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122384468224753946": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7167,7 +7170,6 @@
         "2122123254445838831": false,
         "2122165364624961955": true,
         "2122167670577512501": true,
-        "2122169303495832027": true,
         "2122170235608306116": true,
         "2122170797011943846": true,
         "2122171360315109588": true,
@@ -7193,7 +7195,8 @@
         "2122371881672310937": true,
         "2122372450839310612": true,
         "2122379446212845701": false,
-        "2122381683047666006": true
+        "2122381683047666006": true,
+        "2122384468224753946": false
       },
       "user_id": "809191427645181952"
     }
@@ -7216,5 +7219,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T17:40:27+00:00"
+  "updated_at": "2026-11-16T17:42:25+00:00"
 }
