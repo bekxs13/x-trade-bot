@@ -6445,7 +6445,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122176644668436730",
+      "last_id": "2122177068783771982",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6633,12 +6633,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-14T15:07:37.000Z",
-          "id": "2121621078405783948",
-          "reply_to_id": "2121617783171543396",
-          "text": "@paoloardoino Don't save it yet Paolo you'll probably get mid/low 50ks"
-        },
-        {
           "created_at": "2026-11-14T23:29:03.000Z",
           "id": "2121747269359985146",
           "reply_to_id": "2121746912466628870",
@@ -6727,6 +6721,12 @@
           "id": "2122176644668436730",
           "reply_to_id": "2122165042250743968",
           "text": "If you're hedging monetary policy and optimistic about capital seizure than yes?\n\nIf you're worried about monetary policy and worried about monetary seizure than no?\n\nI personally have some of my Bitcoin in IBIT for capital efficiency and safety (I have no access to any large funds)."
+        },
+        {
+          "created_at": "2026-11-16T03:56:55.000Z",
+          "id": "2122177068783771982",
+          "reply_to_id": "2122169369359007920",
+          "text": "Good point except I'm worried about concentration. People in the Fiat system already have so much capital they could theoretically purchase almost every relevant worldly possession and it wouldn't really effect their capital base or rate of compounding. This concentration gets even WORSE with Bitcoin because of how good of an asset it is."
         }
       ],
       "threads": {
@@ -7142,7 +7142,6 @@
         }
       },
       "trading": {
-        "2121621078405783948": true,
         "2121747269359985146": false,
         "2121794659391545636": true,
         "2121838839765635395": false,
@@ -7176,7 +7175,8 @@
         "2122175454752764373": true,
         "2122176066642944226": true,
         "2122176211657068925": true,
-        "2122176644668436730": true
+        "2122176644668436730": true,
+        "2122177068783771982": true
       },
       "user_id": "809191427645181952"
     }
@@ -7199,5 +7199,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T03:56:21+00:00"
+  "updated_at": "2026-11-16T03:58:17+00:00"
 }
