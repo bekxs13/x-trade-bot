@@ -6441,7 +6441,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122170235608306116",
+      "last_id": "2122170797011943846",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6493,11 +6493,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T05:28:43.000Z",
-          "id": "2121837781508915257",
-          "text": "At this point in Crypto why would you trust any influencer, who talks about their positioning all the time who won't show their public Hyperliquid wallet. \n\nIf they refuse to share it there's only one logical conclusion, they're not profitable."
-        },
         {
           "created_at": "2026-11-15T05:31:24.000Z",
           "id": "2121838457748398123",
@@ -6604,10 +6599,14 @@
           "id": "2122170235608306116",
           "reply_to_id": "2122169303495832027",
           "text": "Things that come to mind, Oil stocks after the invention of the car but kerosine usage declining to due electricity.\n\nPost great depression equities, where companies were trading under liquidatable book value (How Buffett made his fortune).\n\nInternet stocks post 2000s bubble pop, where Microsoft 3x earnings in 3 years but stock traded flat."
+        },
+        {
+          "created_at": "2026-11-16T03:32:00.000Z",
+          "id": "2122170797011943846",
+          "text": "I think at this point a rational assumption is that things are potentially \"not quite right\" at Binance and it's important for our future that you use onchain, completely transparent and verifiably solvent products.\n\nIf you care about Crypto succeeding move your volume off CEXs."
         }
       ],
       "reads": {
-        "2121837781508915257": "No call",
         "2121838457748398123": "No call",
         "2121840174187327834": "No call",
         "2122029209241452870": "No call",
@@ -6626,7 +6625,8 @@
         "2122166670915506385": "Read together with the post it replies to",
         "2122166930215993614": "No call",
         "2122169303495832027": "No call: bullish on btc (same view as before)",
-        "2122170235608306116": "No call"
+        "2122170235608306116": "No call",
+        "2122170797011943846": "No call"
       },
       "replies": [
         {
@@ -6724,10 +6724,6 @@
         }
       ],
       "threads": {
-        "2120543237341646968": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2120553399452143688": {
           "alerted": [],
           "self_replies": 0
@@ -7133,6 +7129,10 @@
         "2122169303495832027": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2122170797011943846": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7145,7 +7145,6 @@
         "2121621078405783948": true,
         "2121747269359985146": false,
         "2121794659391545636": true,
-        "2121837781508915257": true,
         "2121838457748398123": false,
         "2121838839765635395": false,
         "2121840174187327834": false,
@@ -7170,7 +7169,8 @@
         "2122166930215993614": true,
         "2122167670577512501": true,
         "2122169303495832027": true,
-        "2122170235608306116": true
+        "2122170235608306116": true,
+        "2122170797011943846": true
       },
       "user_id": "809191427645181952"
     }
@@ -7193,5 +7193,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T03:30:28+00:00"
+  "updated_at": "2026-11-16T03:32:24+00:00"
 }
