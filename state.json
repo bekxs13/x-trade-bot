@@ -928,12 +928,12 @@
         },
         "memory stocks": {
           "market": "stocks",
-          "post_id": "2118494077075537967",
-          "reason": "Says the memory trade (SanDisk, Micron) looks 'pretty exhausted' and expects consolidation and selling pressure, though a short-term relief bounce is possible.",
+          "post_id": "2122365079773716637",
+          "reason": "Says memory stocks and AI bottleneck names, after a ~70% pullback, will 'lack volatility for awhile' like a 'refractory period'. That reads as expecting chop and range-bound trading, not a further drop, which differs from the recorded bearish view.",
           "scope": "memory stocks",
-          "since": "2026-11-06",
-          "stance": "bearish",
-          "updated_at": "2026-11-06T00:02:02.000Z"
+          "since": "2026-11-16",
+          "stance": "neutral",
+          "updated_at": "2026-11-16T16:24:01.000Z"
         },
         "mu": {
           "market": "stocks",
@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122363832878202934",
+      "last_id": "2122365079773716637",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1194,12 +1194,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T11:53:42.000Z",
-          "id": "2121934664642216434",
-          "quoted_text": "you can either take two stances here\n\n- memes are all dead, and avoid them completely, trade perps on equities, the top 5 coins, & wait for higher market cap alts onchain\n\n- memes are not dead, and the ability of these social apps incentivizing activity could facilitate more retail demand than previous cycles\n\ndo i think this is the 2024 memecoin era? no i dont\n\ndo i think we are at a local low for bullishness in the space where onchain could surprise people? yes i do\n\nat the beginning of the 20",
-          "text": "my thoughts onchain https://t.co/JpML4CrjRC"
-        },
         {
           "created_at": "2026-11-15T12:05:40.000Z",
           "id": "2121937676819697723",
@@ -1317,10 +1311,14 @@
           "created_at": "2026-11-16T16:19:04.000Z",
           "id": "2122363832878202934",
           "text": "https://t.co/Tx88wJo9tM"
+        },
+        {
+          "created_at": "2026-11-16T16:24:01.000Z",
+          "id": "2122365079773716637",
+          "text": "if you've never traded assets that have 100x'd in a few months, once they pullback 70% or so, they tend to lack volatility for awhile, believe that is what's going to happen with memory stocks and the ai bottleneck names\n\nit's kind of like a refractory period"
         }
       ],
       "reads": {
-        "2121934664642216434": "No call: bullish on memecoins (same view as before)",
         "2121937676819697723": "No call",
         "2121938003262083480": "No call",
         "2121941806682341868": "No call",
@@ -1337,7 +1335,8 @@
         "2122351570415141333": "No call",
         "2122352345610903599": "No call",
         "2122358956609749430": "No call",
-        "2122363832878202934": "No call"
+        "2122363832878202934": "No call",
+        "2122365079773716637": "VIEW neutral on memory stocks"
       },
       "replies": [
         {
@@ -1438,10 +1437,6 @@
         }
       ],
       "threads": {
-        "2120875227622277535": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120875832256160012": {
           "alerted": [],
           "self_replies": 0
@@ -1853,10 +1848,15 @@
         "2122363832878202934": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122365079773716637": {
+          "alerted": [
+            "bias:memory stocks:neutral"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121934664642216434": true,
         "2121937676819697723": true,
         "2121938003262083480": true,
         "2121941806682341868": false,
@@ -1890,7 +1890,8 @@
         "2122360395390452069": false,
         "2122362435659296799": true,
         "2122363178105377048": false,
-        "2122363832878202934": false
+        "2122363832878202934": false,
+        "2122365079773716637": true
       },
       "user_id": "973261472"
     },
@@ -7202,5 +7203,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T16:20:33+00:00"
+  "updated_at": "2026-11-16T16:24:22+00:00"
 }
