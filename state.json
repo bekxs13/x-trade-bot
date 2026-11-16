@@ -6441,7 +6441,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122161985370427731",
+      "last_id": "2122162502288998628",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6493,11 +6493,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T23:25:16.000Z",
-          "id": "2121746316707656089",
-          "text": "In order to be a really profitable trader step 1 is being a good person.\n\nFamously, all the best hedge fund managers and capital allocators were known for their resounding kindness."
-        },
         {
           "created_at": "2026-11-14T23:45:51.000Z",
           "id": "2121751494244397231",
@@ -6604,10 +6599,14 @@
           "created_at": "2026-11-16T02:56:59.000Z",
           "id": "2122161985370427731",
           "text": "The only infinitely scalable game in trading is perpetual swaps or graduating to equities. You will never make tens, much less hundreds of millions of dollars trading anything else.\n\nLearn the game or die.\n\nOr just invest, probably best for 99% of people."
+        },
+        {
+          "created_at": "2026-11-16T02:59:03.000Z",
+          "id": "2122162502288998628",
+          "text": "The reality is the dream that was told to us as children that if you get good grades, go to a good college and \"work your ass off\" entitles you to a good life is not true in the slightest. Inflation and predatory monetary policy by the asset owners has allowed them to compound at the expense of the working class.\n\nIronically, the working class does not understand economic policy and sees no way out, so rationally they'll vote for anything different.\n\nI expect to see a rise in moderate but left leaning politicians that completely take over the United States for the next decade until we have a HARD mean reversion."
         }
       ],
       "reads": {
-        "2121746316707656089": "No call",
         "2121751494244397231": "No call",
         "2121774572206977409": "VIEW bearish on btc",
         "2121776329817309449": "No call",
@@ -6623,7 +6622,8 @@
         "2122054445278105885": "No call",
         "2122075550990655969": "No call",
         "2122079207455064216": "No call",
-        "2122161985370427731": "No call"
+        "2122161985370427731": "No call",
+        "2122162502288998628": "No call"
       },
       "replies": [
         {
@@ -6721,10 +6721,6 @@
         }
       ],
       "threads": {
-        "2119846821602443321": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120295855114932288": {
           "alerted": [],
           "self_replies": 1
@@ -7130,6 +7126,10 @@
         "2122161985370427731": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122162502288998628": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7142,7 +7142,6 @@
         "2121384370540102139": false,
         "2121483826731885024": false,
         "2121621078405783948": true,
-        "2121746316707656089": false,
         "2121747269359985146": false,
         "2121751494244397231": false,
         "2121774572206977409": true,
@@ -7167,7 +7166,8 @@
         "2122079207455064216": false,
         "2122088338366546308": false,
         "2122123254445838831": false,
-        "2122161985370427731": true
+        "2122161985370427731": true,
+        "2122162502288998628": false
       },
       "user_id": "809191427645181952"
     }
@@ -7190,5 +7190,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T02:58:21+00:00"
+  "updated_at": "2026-11-16T03:00:25+00:00"
 }
