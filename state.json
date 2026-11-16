@@ -79,7 +79,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122214531829293286",
+      "last_id": "2122214635759943685",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -163,14 +163,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T20:43:10.000Z",
-          "id": "2121343134785544351",
-          "images": [
-            "https://pbs.twimg.com/media/HXCGVogbYAA0Ohy.jpg"
-          ],
-          "text": "Reaching new audiences https://t.co/MVMVCp9YYo"
-        },
         {
           "created_at": "2026-11-13T23:45:42.000Z",
           "id": "2121389071947960700",
@@ -298,10 +290,15 @@
           ],
           "reply_to_id": "2122208322539659433",
           "text": "it's not even smoke it's like fire already game set match if we decide to care about the China biz or truth in NVDA statements innit? https://t.co/6lFyxPO1VO"
+        },
+        {
+          "created_at": "2026-11-16T06:26:12.000Z",
+          "id": "2122214635759943685",
+          "reply_to_id": "2122214531829293286",
+          "text": "\"here's this report and also he was banging the person in question and also US Gov is now coming out directly against it\" ok"
         }
       ],
       "reads": {
-        "2121343134785544351": "No call",
         "2121389071947960700": "No call",
         "2121393490244551021": "No call",
         "2121393930868863125": "No call",
@@ -825,7 +822,6 @@
         }
       },
       "trading": {
-        "2121343134785544351": false,
         "2121389071947960700": false,
         "2121393490244551021": false,
         "2121393930868863125": true,
@@ -859,7 +855,8 @@
         "2122209457795224061": true,
         "2122209660480663831": false,
         "2122210752895627338": true,
-        "2122214531829293286": true
+        "2122214531829293286": true,
+        "2122214635759943685": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7214,5 +7211,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-15",
-  "updated_at": "2026-11-16T06:26:27+00:00"
+  "updated_at": "2026-11-16T06:28:21+00:00"
 }
