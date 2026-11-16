@@ -6454,7 +6454,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122367842196529553",
+      "last_id": "2122370565638136220",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6506,17 +6506,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T02:59:03.000Z",
-          "id": "2122162502288998628",
-          "text": "The reality is the dream that was told to us as children that if you get good grades, go to a good college and \"work your ass off\" entitles you to a good life is not true in the slightest. Inflation and predatory monetary policy by the asset owners has allowed them to compound at the expense of the working class.\n\nIronically, the working class does not understand economic policy and sees no way out, so rationally they'll vote for anything different.\n\nI expect to see a rise in moderate but left leaning politicians that completely take over the United States for the next decade until we have a HARD mean reversion."
-        },
-        {
-          "created_at": "2026-11-16T03:01:03.000Z",
-          "id": "2122163006679212421",
-          "reply_to_id": "2122162502288998628",
-          "text": "This is going to be largerly bearish equities, and in the short term continues to cap valuations on Crypto assets.\n\nIn the long term however, rampant inflation and a \"no child left behind\" economic policy will lead the greatest BTC bull market we've ever experienced to the detriment of sadly, once again, working class people."
-        },
         {
           "created_at": "2026-11-16T03:04:01.000Z",
           "id": "2122163753340883336",
@@ -6616,11 +6605,23 @@
           "id": "2122367842196529553",
           "reply_to_id": "2122331984642937161",
           "text": "$28mm to make the big short, interesting"
+        },
+        {
+          "created_at": "2026-11-16T16:44:30.000Z",
+          "id": "2122370233864184016",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2122369837221515266/img/GGiQY3ly4t8umdhb.jpg"
+          ],
+          "text": "Let me know thoughts and if people want me to open source this, pretty easy to build yourself took about 2 days. Full realtime monitoring across multiple exchanges (HL, Binance, IBKR, JPM)... https://t.co/ScVlGnxyrd"
+        },
+        {
+          "created_at": "2026-11-16T16:45:49.000Z",
+          "id": "2122370565638136220",
+          "reply_to_id": "2122370233864184016",
+          "text": "Guess me going short learning coding (not trying at all) was a good trade"
         }
       ],
       "reads": {
-        "2122162502288998628": "No call",
-        "2122163006679212421": "VIEW bearish on stocks/macro",
         "2122163753340883336": "No call",
         "2122164885064741072": "No call: maybe short AI equities (65%, too unsure)",
         "2122166538136432699": "No call",
@@ -6638,7 +6639,9 @@
         "2122331984642937161": "No call",
         "2122332344451465244": "No call",
         "2122347916694044881": "No call: bearish on btc (60%, too unsure)",
-        "2122367842196529553": "No call"
+        "2122367842196529553": "No call",
+        "2122370233864184016": "No call",
+        "2122370565638136220": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -6739,10 +6742,6 @@
         }
       ],
       "threads": {
-        "2120642470094753845": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120642725154263271": {
           "alerted": [],
           "self_replies": 0
@@ -7148,6 +7147,10 @@
         "2122347916694044881": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122370233864184016": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
@@ -7157,8 +7160,6 @@
         "2122034439316181103": false,
         "2122088338366546308": false,
         "2122123254445838831": false,
-        "2122162502288998628": false,
-        "2122163006679212421": true,
         "2122163753340883336": true,
         "2122164885064741072": true,
         "2122165364624961955": true,
@@ -7185,7 +7186,9 @@
         "2122331984642937161": true,
         "2122332344451465244": true,
         "2122347916694044881": true,
-        "2122367842196529553": false
+        "2122367842196529553": false,
+        "2122370233864184016": true,
+        "2122370565638136220": false
       },
       "user_id": "809191427645181952"
     }
@@ -7208,5 +7211,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T16:44:18+00:00"
+  "updated_at": "2026-11-16T16:46:24+00:00"
 }
