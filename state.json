@@ -859,12 +859,12 @@
       "biases": {
         "ai stocks": {
           "market": "stocks",
-          "post_id": "2119096288213975395",
-          "reason": "He says \"agree\" to a post calling the AI trade a bubble that will overshoot on the way down, with buying only after capitulation. That matches his recorded bearish view on ai stocks.",
+          "post_id": "2122453707266666992",
+          "reason": "Compares the AI stock rally to the 2022 crypto bubble, predicting a 'bubble pop' and a fund liquidation. That matches his recorded bearish view on AI stocks.",
           "scope": "ai stocks",
           "since": "2026-10-28",
           "stance": "bearish",
-          "updated_at": "2026-11-07T15:55:00.000Z"
+          "updated_at": "2026-11-16T22:16:11.000Z"
         },
         "alts": {
           "market": "crypto",
@@ -1104,7 +1104,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122453071468908855",
+      "last_id": "2122453707266666992",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1188,18 +1188,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T14:46:04.000Z",
-          "id": "2121978042255905158",
-          "reply_to_id": "2121977864694140969",
-          "text": "@Sully1i1 @skytsuETH maybe ill do another video"
-        },
-        {
-          "created_at": "2026-11-15T19:18:45.000Z",
-          "id": "2122046665632911597",
-          "quoted_text": "JENSEN HUANG DISCUSSES COMEBACK AS NVIDIA CEO WITH ALLIES: FT https://t.co/UaqJAM3fax",
-          "text": "movie https://t.co/SA5BV5pSy3"
-        },
         {
           "created_at": "2026-11-15T19:36:32.000Z",
           "id": "2122051143169949842",
@@ -1313,10 +1301,20 @@
           "id": "2122432887618507025",
           "quoted_text": "think $MU beats on ER makes a fresh new all time high & then thats the memory top for a couple months\n\nmag7 has already been notably weak and down off the highs, memory & semis have been carrying the market\n\nwas wrong on SpaceX strength until first major unlocks which is another sign of retail buyer exhaustion in market imo, will cut this on sustained weakness below open price at $150\n\ncapex concerns become materially more important if open source models continue to compete w/ closed source at m",
           "text": "it seems we are here again, memory and equities are much lower while bitcoin is same price, i am less confident in the divergence this time\n\nwhat do you all think https://t.co/AbilIeFk7V"
+        },
+        {
+          "created_at": "2026-11-16T22:14:53.000Z",
+          "id": "2122453380631085133",
+          "quoted_text": "*SITUATIONAL AWARENESS 13F VALUE PLUNGES 92% TO $1.58B IN Q3 FROM $20.2B IN Q2",
+          "text": "just a scratch https://t.co/15tpNaLCum"
+        },
+        {
+          "created_at": "2026-11-16T22:16:11.000Z",
+          "id": "2122453707266666992",
+          "text": "2022: roaring crypto bull market into parabolic altcoin expansion -&gt; bubble pop -&gt; 3AC liquidation\n\n2026: roaring AI bull market into parabolic ai stocks expansion -&gt; bubble pop -&gt; Situation Awareness liquidation\n\nsame same but different"
         }
       ],
       "reads": {
-        "2122046665632911597": "No call",
         "2122051143169949842": "No call",
         "2122074625756819616": "No call",
         "2122108269284229441": "No call",
@@ -1331,7 +1329,9 @@
         "2122379281971995072": "No call",
         "2122388140942119199": "No call",
         "2122406507040116962": "No call",
-        "2122432887618507025": "No call: neutral on btc (55%, too unsure)"
+        "2122432887618507025": "No call: neutral on btc (55%, too unsure)",
+        "2122453380631085133": "No call",
+        "2122453707266666992": "No call: bearish on ai stocks (same view as before)"
       },
       "replies": [
         {
@@ -1432,16 +1432,6 @@
         }
       ],
       "threads": {
-        "2120930818675835074": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2120931944452002167": {
-          "alerted": [
-            "trade:GOLD:exit"
-          ],
-          "self_replies": 0
-        },
         "2120932002211975640": {
           "alerted": [],
           "self_replies": 0
@@ -1849,11 +1839,17 @@
         "2122432887618507025": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122453380631085133": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2122453707266666992": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121978042255905158": false,
-        "2122046665632911597": true,
         "2122051143169949842": true,
         "2122071636019225077": true,
         "2122074625756819616": true,
@@ -1886,7 +1882,9 @@
         "2122445355073614110": false,
         "2122445467761905843": false,
         "2122445562595115461": true,
-        "2122453071468908855": false
+        "2122453071468908855": false,
+        "2122453380631085133": true,
+        "2122453707266666992": true
       },
       "user_id": "973261472"
     },
@@ -2292,7 +2290,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2122449445031956856",
+      "last_id": "2122453371500323175",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2462,12 +2460,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-12T01:24:50.000Z",
-          "id": "2120689242745831904",
-          "reply_to_id": "2120686119595737151",
-          "text": "@based16z yea like we know the board wants to fire him and i don't think they'd do that just for being a sexfiend\n\nsubordinate isn't great admittedly"
-        },
-        {
           "created_at": "2026-11-12T04:17:35.000Z",
           "id": "2120732715708239968",
           "reply_to_id": "2120671215249711343",
@@ -2550,6 +2542,12 @@
           "id": "2122449445031956856",
           "reply_to_id": "2122449339763061230",
           "text": "@tipa_you investors are still on lock in, i don't think anyone can pull lol"
+        },
+        {
+          "created_at": "2026-11-16T22:14:51.000Z",
+          "id": "2122453371500323175",
+          "reply_to_id": "2122448835427660091",
+          "text": "@jukan05 why? nobody was extending them margin after july so they are basically definitionally alive"
         }
       ],
       "threads": {
@@ -2957,7 +2955,6 @@
         }
       },
       "trading": {
-        "2120689242745831904": false,
         "2120732715708239968": false,
         "2120878567269806153": true,
         "2120886121689407518": true,
@@ -2991,7 +2988,8 @@
         "2122379575405793440": false,
         "2122449003434348586": true,
         "2122449087371018382": false,
-        "2122449445031956856": true
+        "2122449445031956856": true,
+        "2122453371500323175": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7230,5 +7228,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T22:14:22+00:00"
+  "updated_at": "2026-11-16T22:16:42+00:00"
 }
