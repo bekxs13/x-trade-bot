@@ -5,12 +5,12 @@
       "biases": {
         "btc": {
           "market": "crypto",
-          "post_id": "2112308247931867339",
-          "reason": "Replying '$BTC' to news of France proposing to cancel its debt implies BTC as a hedge against sovereign debt debasement, which matches his recorded bullish btc view.",
+          "post_id": "2122449935404798195",
+          "reason": "\"Bitcoin is likely a better long at 65k than 85k\" with BTC at ~65.3k says it is attractive to buy here, which matches his recorded bullish btc view.",
           "scope": "btc",
           "since": "2026-10-13",
           "stance": "bullish",
-          "updated_at": "2026-10-19T22:21:45.000Z"
+          "updated_at": "2026-11-16T22:01:12.000Z"
         },
         "nvda": {
           "market": "stocks",
@@ -79,7 +79,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122430347401113769",
+      "last_id": "2122449935404798195",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -163,12 +163,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T02:45:56.000Z",
-          "id": "2121434427574345894",
-          "quoted_text": "The average San Francisco AI bro has way more social skill than people in NYC, LA, London, etc. Hear me out for a second. We go to tech parties in SF that have guests ranging from ultra high net worth, prestigious industry leaders all the way to podunk interns. We have to figure out who's who in seconds after meeting them and adjust our conversation topics and respect levels on the fly. Literally where else could you go from having the opportunity to impress Sam Altman to walking away mid conver",
-          "text": "If u ever find yourself in the unfortunate circumstance of a sf house party and ppl ask what u do for work say gambling and they go away https://t.co/3zKBAVZHwa"
-        },
         {
           "created_at": "2026-11-14T05:01:54.000Z",
           "id": "2121468644966465813",
@@ -293,10 +287,14 @@
           "id": "2122418260213932091",
           "reply_to_id": "2122418007502893500",
           "text": "@Evan_ss6 I think we can say after a long and arduous decade, finance has finally been democratized"
+        },
+        {
+          "created_at": "2026-11-16T22:01:12.000Z",
+          "id": "2122449935404798195",
+          "text": "Bitcoin is likely a better long at 65k than 85k"
         }
       ],
       "reads": {
-        "2121434427574345894": "No call",
         "2121468644966465813": "No call",
         "2121500270656114978": "No call",
         "2121702478425337871": "No call",
@@ -312,7 +310,8 @@
         "2122372973076373854": "No call",
         "2122375589470646621": "No call: bullish on btc (55%, too unsure)",
         "2122389160099197380": "No call",
-        "2122417320698237391": "No call"
+        "2122417320698237391": "No call",
+        "2122449935404798195": "No call: bullish on btc (same view as before)"
       },
       "replies": [
         {
@@ -410,10 +409,6 @@
         }
       ],
       "threads": {
-        "2116256357447860345": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116347053747863971": {
           "alerted": [],
           "self_replies": 0
@@ -814,10 +809,13 @@
         "2122417320698237391": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122449935404798195": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121434427574345894": false,
         "2121468644966465813": false,
         "2121500270656114978": false,
         "2121702478425337871": false,
@@ -851,7 +849,8 @@
         "2122417320698237391": true,
         "2122418007502893500": true,
         "2122418260213932091": false,
-        "2122430347401113769": false
+        "2122430347401113769": false,
+        "2122449935404798195": true
       },
       "user_id": "1446541960181858315"
     },
@@ -4651,7 +4650,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122448425782325617",
+      "last_id": "2122449985329361356",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4841,12 +4840,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-15T02:32:57.000Z",
-          "id": "2121793546168791389",
-          "reply_to_id": "2121791881705087281",
-          "text": "@memespaymyrent \ud83d\ude2d"
-        },
-        {
           "created_at": "2026-11-15T17:57:24.000Z",
           "id": "2122026193272611289",
           "reply_to_id": "2121961370270978090",
@@ -4929,6 +4922,12 @@
           "id": "2122402603262963859",
           "reply_to_id": "2122378948818743488",
           "text": "@notwashed LMAOO gg"
+        },
+        {
+          "created_at": "2026-11-16T22:01:24.000Z",
+          "id": "2122449985329361356",
+          "reply_to_id": "2122449935404798195",
+          "text": "@based16z \ud83d\udd25"
         }
       ],
       "threads": {
@@ -5346,7 +5345,6 @@
         "2121705734295413096": true,
         "2121705855007519033": false,
         "2121790268638920806": true,
-        "2121793546168791389": false,
         "2122026193272611289": true,
         "2122029141335617892": false,
         "2122038139384660298": false,
@@ -5370,7 +5368,8 @@
         "2122402603262963859": false,
         "2122441222912622695": false,
         "2122448331142234399": false,
-        "2122448425782325617": true
+        "2122448425782325617": true,
+        "2122449985329361356": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6445,7 +6444,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122446465822007696",
+      "last_id": "2122449727492968779",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6497,11 +6496,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T12:37:04.000Z",
-          "id": "2122307965759685101",
-          "text": "Oh wow this kind of morning huh"
-        },
         {
           "created_at": "2026-11-16T14:12:30.000Z",
           "id": "2122331984642937161",
@@ -6634,10 +6628,18 @@
           "created_at": "2026-11-16T20:39:45.000Z",
           "id": "2122429437522354541",
           "text": "Kind of hard to complain about Bitcoin volatility when NVDA is having -5% Intraday swings"
+        },
+        {
+          "created_at": "2026-11-16T22:00:22.000Z",
+          "id": "2122449727492968779",
+          "images": [
+            "https://pbs.twimg.com/media/HXR0xZSWQAEefa6.jpg"
+          ],
+          "quoted_text": "*SITUATIONAL AWARENESS 13F VALUE PLUNGES 92% TO $1.58B IN Q3 FROM $20.2B IN Q2",
+          "text": "https://t.co/eMxe12Mgis https://t.co/8FZ1MfxHxI"
         }
       ],
       "reads": {
-        "2122307965759685101": "No call",
         "2122331984642937161": "No call",
         "2122332344451465244": "No call",
         "2122347916694044881": "No call: bearish on btc (60%, too unsure)",
@@ -6653,7 +6655,8 @@
         "2122410252977283480": "No call: bearish on HOOD (65%, too unsure)",
         "2122425061152018605": "No call",
         "2122426314833703317": "No call",
-        "2122429437522354541": "No call"
+        "2122429437522354541": "No call",
+        "2122449727492968779": "No call"
       },
       "replies": [
         {
@@ -6754,10 +6757,6 @@
         }
       ],
       "threads": {
-        "2120905750033916381": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120928369823096999": {
           "alerted": [],
           "self_replies": 0
@@ -7163,6 +7162,10 @@
         "2122429437522354541": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122449727492968779": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7178,7 +7181,6 @@
         "2122176211657068925": true,
         "2122176644668436730": true,
         "2122177068783771982": true,
-        "2122307965759685101": false,
         "2122331984642937161": true,
         "2122332344451465244": true,
         "2122347916694044881": true,
@@ -7200,7 +7202,8 @@
         "2122425061152018605": false,
         "2122426314833703317": true,
         "2122429437522354541": true,
-        "2122446465822007696": true
+        "2122446465822007696": true,
+        "2122449727492968779": true
       },
       "user_id": "809191427645181952"
     }
@@ -7223,5 +7226,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T22:00:24+00:00"
+  "updated_at": "2026-11-16T22:02:28+00:00"
 }
