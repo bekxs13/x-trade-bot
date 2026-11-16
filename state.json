@@ -4657,7 +4657,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122372014875005263",
+      "last_id": "2122384229166411901",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4709,14 +4709,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T20:12:16.000Z",
-          "id": "2120972971703705709",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2120971981696937984/img/ASPpMaVdLxCOYjOv.jpg"
-          ],
-          "text": "I made +$30k shorting $NVDA immediately after the second affair was announced https://t.co/UXTEymEDC3"
-        },
         {
           "created_at": "2026-11-12T20:12:17.000Z",
           "id": "2120972973847027947",
@@ -4824,10 +4816,15 @@
           "created_at": "2026-11-16T16:51:34.000Z",
           "id": "2122372014875005263",
           "text": "fun game of who wants to hold nvda into the first ever non jensen earnings call"
+        },
+        {
+          "created_at": "2026-11-16T17:40:06.000Z",
+          "id": "2122384229166411901",
+          "quoted_text": "*NVIDIA BOARD IS NOT CONSIDERING BRINGING JENSEN HUANG BACK AS CEO, SOURCE TELLS CNBC: CNBC\n\n$NVDA",
+          "text": "have they not seen the petition? what am i missing https://t.co/18FySkG8CG"
         }
       ],
       "reads": {
-        "2120972971703705709": "TRADE SHORT NVDA",
         "2120972973847027947": "Read together with the post it replies to",
         "2121051905371865414": "No call",
         "2121055652453798321": "No call",
@@ -4843,7 +4840,8 @@
         "2122305058184290365": "No call",
         "2122311853514617301": "No call",
         "2122324225297903848": "No call",
-        "2122372014875005263": "No call"
+        "2122372014875005263": "No call",
+        "2122384229166411901": "No call"
       },
       "replies": [
         {
@@ -4938,10 +4936,6 @@
         }
       ],
       "threads": {
-        "2116259889974525991": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117250901115109378": {
           "alerted": [],
           "self_replies": 0
@@ -5339,10 +5333,13 @@
         "2122372014875005263": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122384229166411901": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120972971703705709": true,
         "2120972973847027947": false,
         "2121051905371865414": false,
         "2121055652453798321": false,
@@ -5376,7 +5373,8 @@
         "2122312890095145317": false,
         "2122324225297903848": true,
         "2122363979775545453": false,
-        "2122372014875005263": true
+        "2122372014875005263": true,
+        "2122384229166411901": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7218,5 +7216,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-16T17:30:48+00:00"
+  "updated_at": "2026-11-16T17:40:27+00:00"
 }
