@@ -1104,7 +1104,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122720974562795913",
+      "last_id": "2122721857011163451",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1188,14 +1188,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T17:55:39.000Z",
-          "id": "2122388140942119199",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2122387973258051584/img/RrJv2WfVTIgd_Db3.jpg"
-          ],
-          "text": "back on October 29, i was already concerned about how rapidly advancing AI models could affect security across crypto\n\nas LLMs become more capable and widely accessible, vulnerabilities that were previously difficult to exploit could become much easier to target\n\nthe biggest concern for me is that we're entering a period where nobody fully understands what these models are capable of compromising\n\nand crypto is particularly exposed because successful exploits can result in funds being stolen directly\n\ni think this uncertainty extends far beyond crypto, and we're still figuring out how serious the security implications could be"
-        },
         {
           "created_at": "2026-11-16T19:08:38.000Z",
           "id": "2122406507040116962",
@@ -1305,10 +1297,15 @@
           "created_at": "2026-11-17T15:58:13.000Z",
           "id": "2122720974562795913",
           "text": "every day now on repeat\n\n\"IRAN AND US ATTACKS ESCALATE WITH NO END IN SIGHT\"\n\n\"CRITICAL NATIONAL INFRASTRUCTURE PREVIOUSLY THOUGHT INCREDIBLY SECURE NOW COMPLETELY NON FUNCTIONAL AND WE DONT KNOW WHY\"\n\n\"THE WORLD IS ENDING BUY WATER AND NONPERISHABLES\""
+        },
+        {
+          "created_at": "2026-11-17T16:01:43.000Z",
+          "id": "2122721857011163451",
+          "quoted_text": "NSA'S HIGHLY CLASSIFIED COMMUNICATIONS NETWORK REPORTEDLY DOWN\n\nThe National Security Agency's (NSA) highly classified internal communications network, known as NSA Net, is experiencing a major outage, CNN reports, citing six people familiar with the situation.\n\nThe network enables employees to exchange classified national security information internally.\n\nThe agency has reportedly implemented staggered staff arrivals while investigating the disruption.\n\nSources say there is no evidence of a cyb",
+          "text": "like what bro https://t.co/RLHPKAWanm"
         }
       ],
       "reads": {
-        "2122388140942119199": "No call",
         "2122406507040116962": "No call",
         "2122432887618507025": "No call: neutral on btc (55%, too unsure)",
         "2122453380631085133": "No call",
@@ -1324,7 +1321,8 @@
         "2122689967512285587": "No call",
         "2122694163477192855": "No call",
         "2122714022869189003": "No call",
-        "2122720974562795913": "No call"
+        "2122720974562795913": "No call",
+        "2122721857011163451": "No call"
       },
       "replies": [
         {
@@ -1422,10 +1420,6 @@
         }
       ],
       "threads": {
-        "2121089318362005768": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121089911814242616": {
           "alerted": [],
           "self_replies": 0
@@ -1833,10 +1827,13 @@
         "2122720974562795913": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122721857011163451": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122388140942119199": true,
         "2122406507040116962": false,
         "2122412411558707578": true,
         "2122432235907236242": true,
@@ -1870,7 +1867,8 @@
         "2122716773577302419": true,
         "2122717598764691933": true,
         "2122718110595829774": true,
-        "2122720974562795913": false
+        "2122720974562795913": false,
+        "2122721857011163451": false
       },
       "user_id": "973261472"
     },
@@ -7222,5 +7220,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T16:00:32+00:00"
+  "updated_at": "2026-11-17T16:02:21+00:00"
 }
