@@ -79,7 +79,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122624639000338584",
+      "last_id": "2122716042405548447",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -163,11 +163,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T16:55:23.000Z",
-          "id": "2122372973076373854",
-          "text": "TradingView be like let\u2019s destroy the entire mobile app"
-        },
         {
           "created_at": "2026-11-16T17:05:47.000Z",
           "id": "2122375589470646621",
@@ -271,10 +266,14 @@
           "created_at": "2026-11-17T09:15:22.000Z",
           "id": "2122619596276720057",
           "text": "https://t.co/azALSZhha4"
+        },
+        {
+          "created_at": "2026-11-17T15:38:37.000Z",
+          "id": "2122716042405548447",
+          "text": "Fun tape"
         }
       ],
       "reads": {
-        "2122372973076373854": "No call",
         "2122375589470646621": "No call: bullish on btc (55%, too unsure)",
         "2122389160099197380": "No call",
         "2122417320698237391": "No call",
@@ -290,7 +289,8 @@
         "2122520967373279617": "No call",
         "2122533126136361453": "No call",
         "2122580126445764939": "No call",
-        "2122619596276720057": "No call"
+        "2122619596276720057": "No call",
+        "2122716042405548447": "No call"
       },
       "replies": [
         {
@@ -388,10 +388,6 @@
         }
       ],
       "threads": {
-        "2117785230291730738": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117925165116064060": {
           "alerted": [],
           "self_replies": 0
@@ -792,11 +788,14 @@
         "2122619596276720057": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122716042405548447": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2122239223592067323": false,
-        "2122372973076373854": false,
         "2122374182835253478": false,
         "2122375589470646621": true,
         "2122389160099197380": false,
@@ -829,7 +828,8 @@
         "2122560948896751951": false,
         "2122580126445764939": false,
         "2122619596276720057": false,
-        "2122624639000338584": false
+        "2122624639000338584": false,
+        "2122716042405548447": true
       },
       "user_id": "1446541960181858315"
     },
@@ -1083,7 +1083,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122715637315191266",
+      "last_id": "2122716043370242290",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1310,12 +1310,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-17T00:27:09.000Z",
-          "id": "2122486664983720117",
-          "reply_to_id": "2122486434900980012",
-          "text": "@0xAvast how am i biased"
-        },
-        {
           "created_at": "2026-11-17T01:43:34.000Z",
           "id": "2122505894491525259",
           "reply_to_id": "2122505262032400608",
@@ -1401,6 +1395,12 @@
           "id": "2122715637315191266",
           "reply_to_id": "2122407371028979826",
           "text": "help me understand because i keep asking this question and nobody will give me an answer\n\nwhat is the code of conduct for trading microcaps? what are you guys calling scamming & extraction vs. trading?\n\nive watched him and other trenchers streams and they are often buying coins sub 10k market cap and selling them extremely quickly\n\nthis is not an easy thing to be profitable doing or everyone would be doing it, but what about this is \"extractive\" or \"scamming\"? what behaviors would be considered just trading microcaps ethically?\n\ni havent seen anyone describe what the desired behavior is in a way that makes sense"
+        },
+        {
+          "created_at": "2026-11-17T15:38:37.000Z",
+          "id": "2122716043370242290",
+          "reply_to_id": "2122715803338383752",
+          "text": "@MissionGains @PumpfunEco @TbonePoker @gr3gor14n $1.5M competition\n\n$1M first\n\n$300k second\n\n$200k third"
         }
       ],
       "threads": {
@@ -1832,7 +1832,6 @@
         "2122475215489753104": true,
         "2122475250646692017": true,
         "2122486045916668376": true,
-        "2122486664983720117": false,
         "2122487584136069181": false,
         "2122505894491525259": false,
         "2122509165276835961": true,
@@ -1852,7 +1851,8 @@
         "2122714570200400054": false,
         "2122714678308884499": false,
         "2122714919883747497": false,
-        "2122715637315191266": true
+        "2122715637315191266": true,
+        "2122716043370242290": false
       },
       "user_id": "973261472"
     },
@@ -7205,5 +7205,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T15:38:27+00:00"
+  "updated_at": "2026-11-17T15:40:25+00:00"
 }
