@@ -1090,7 +1090,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122487584136069181",
+      "last_id": "2122505894491525259",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1311,12 +1311,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T21:41:34.000Z",
-          "id": "2122444994698989975",
-          "reply_to_id": "2122440446236352715",
-          "text": "@NewsyJohnson @notwashed tourists are not soldiers."
-        },
-        {
           "created_at": "2026-11-16T21:43:00.000Z",
           "id": "2122445355073614110",
           "reply_to_id": "2122433115977056618",
@@ -1402,6 +1396,12 @@
           "id": "2122486664983720117",
           "reply_to_id": "2122486434900980012",
           "text": "@0xAvast how am i biased"
+        },
+        {
+          "created_at": "2026-11-17T01:43:34.000Z",
+          "id": "2122505894491525259",
+          "reply_to_id": "2122505262032400608",
+          "text": "@ggs80001 wrong, there are people who were getting $3/day payouts in August who are getting $20k/day payouts now\n\nyou all complain too much and you dont want it enough, other people do and are putting in the work to do so https://t.co/6vSPyPJ2Ts"
         }
       ],
       "threads": {
@@ -1832,7 +1832,6 @@
         "2122412411558707578": true,
         "2122432235907236242": true,
         "2122432887618507025": true,
-        "2122444994698989975": false,
         "2122445355073614110": false,
         "2122445467761905843": false,
         "2122445562595115461": true,
@@ -1855,7 +1854,8 @@
         "2122486045916668376": true,
         "2122486262464713093": false,
         "2122486664983720117": false,
-        "2122487584136069181": false
+        "2122487584136069181": false,
+        "2122505894491525259": false
       },
       "user_id": "973261472"
     },
@@ -7203,5 +7203,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-17T01:42:24+00:00"
+  "updated_at": "2026-11-17T01:44:19+00:00"
 }
