@@ -94,7 +94,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122731219381289010",
+      "last_id": "2122736895176360018",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -178,11 +178,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T22:42:46.000Z",
-          "id": "2122460396053496275",
-          "text": "Stoic savage sees me get optimistic about cryptocurrencies and market sells 2,000 BTCPERP"
-        },
         {
           "created_at": "2026-11-16T22:52:41.000Z",
           "id": "2122462892914356297",
@@ -292,10 +287,14 @@
           "created_at": "2026-11-17T16:38:55.000Z",
           "id": "2122731219381289010",
           "text": "Hey @AOC why are u arresting the Kalshi founders but not Anthropic? #investing"
+        },
+        {
+          "created_at": "2026-11-17T17:01:29.000Z",
+          "id": "2122736895176360018",
+          "text": "The \u201cprice to earnings ratio\u201d is like Greek sirens for absolute retards everywhere"
         }
       ],
       "reads": {
-        "2122460396053496275": "No call",
         "2122462892914356297": "No call",
         "2122465435132240320": "No call",
         "2122466321367785797": "No call",
@@ -311,7 +310,8 @@
         "2122718758360015031": "Read together with the post it replies to",
         "2122724665311559900": "No call",
         "2122728159858819453": "No call",
-        "2122731219381289010": "No call"
+        "2122731219381289010": "No call",
+        "2122736895176360018": "No call"
       },
       "replies": [
         {
@@ -409,10 +409,6 @@
         }
       ],
       "threads": {
-        "2118272563612958820": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118280023253921798": {
           "alerted": [],
           "self_replies": 1
@@ -815,6 +811,10 @@
         "2122731219381289010": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122736895176360018": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -823,7 +823,6 @@
         "2122418007502893500": true,
         "2122430347401113769": false,
         "2122457903349235771": true,
-        "2122460396053496275": true,
         "2122462892914356297": true,
         "2122464768078598638": false,
         "2122465435132240320": false,
@@ -852,7 +851,8 @@
         "2122724665311559900": false,
         "2122726892575068187": false,
         "2122728159858819453": true,
-        "2122731219381289010": false
+        "2122731219381289010": false,
+        "2122736895176360018": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7218,5 +7218,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T16:56:27+00:00"
+  "updated_at": "2026-11-17T17:02:27+00:00"
 }
