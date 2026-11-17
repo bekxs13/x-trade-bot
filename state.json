@@ -1083,7 +1083,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122664593994768649",
+      "last_id": "2122686564786487380",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1167,12 +1167,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T15:33:25.000Z",
-          "id": "2122352345610903599",
-          "quoted_text": "Looks like I\u2019m about to take 2nd in the Pump perp challenge and honestly this has made me love what @PumpfunEco  is building even more.\n\nThe amount of money they\u2019re giving back to traders is incredible. These competitions are genuinely lucrative... but what makes them special is watching people put their ideas and trades out there in real time.\n\nI\u2019ve said it before that the future of social trading is bigger than memes.\n\nIt\u2019s public wallets trading perps on crypto majors, stocks and real world a",
-          "text": "was fun brother congrats you crushed it \ud83e\udee1 https://t.co/FTQNtejwye"
-        },
         {
           "created_at": "2026-11-16T15:59:41.000Z",
           "id": "2122358956609749430",
@@ -1284,10 +1278,17 @@
             "https://pbs.twimg.com/amplify_video_thumb/2122664371218423809/img/XqqnF2pzpB4pl-g7.jpg"
           ],
           "text": "on November 5, i asked @armaniferrante about the infrastructure needed to bring tokenized stocks to retail traders and how new platforms could compete with existing brokerages\n\nhis answer made me think about how much easier it's becoming to build financial applications onchain\n\nfomo is a good example. instead of spending years building wallets, custody, exchanges and fiat infrastructure, the team focused on product experience, distribution and user growth\n\ni think we're going to see a lot more companies take this approach as traditional financial assets become accessible through blockchain APIs\n\nthe barriers to building the next Robinhood could become significantly lower, and that opens up a lot of room for new competitors"
+        },
+        {
+          "created_at": "2026-11-17T13:41:29.000Z",
+          "id": "2122686564786487380",
+          "images": [
+            "https://pbs.twimg.com/media/HXVMLkIX0AA8i1v.jpg"
+          ],
+          "text": "gmihao comrades in war https://t.co/va7QuYEYYQ"
         }
       ],
       "reads": {
-        "2122352345610903599": "No call",
         "2122358956609749430": "No call",
         "2122363832878202934": "No call",
         "2122365079773716637": "VIEW neutral on memory stocks",
@@ -1303,7 +1304,8 @@
         "2122475215489753104": "No call",
         "2122475250646692017": "No call",
         "2122486045916668376": "No call",
-        "2122664593994768649": "No call"
+        "2122664593994768649": "No call",
+        "2122686564786487380": "No call"
       },
       "replies": [
         {
@@ -1401,10 +1403,6 @@
         }
       ],
       "threads": {
-        "2121068477566038030": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121079206733873660": {
           "alerted": [],
           "self_replies": 0
@@ -1812,10 +1810,13 @@
         "2122664593994768649": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122686564786487380": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122352345610903599": false,
         "2122358956609749430": true,
         "2122363832878202934": false,
         "2122365079773716637": true,
@@ -1849,7 +1850,8 @@
         "2122487584136069181": false,
         "2122505894491525259": false,
         "2122509165276835961": true,
-        "2122664593994768649": true
+        "2122664593994768649": true,
+        "2122686564786487380": false
       },
       "user_id": "973261472"
     },
@@ -7202,5 +7204,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T13:40:22+00:00"
+  "updated_at": "2026-11-17T13:44:33+00:00"
 }
