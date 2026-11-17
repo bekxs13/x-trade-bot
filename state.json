@@ -2258,7 +2258,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2122580173862359477",
+      "last_id": "2122717154411683940",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2278,11 +2278,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T01:07:55.000Z",
-          "id": "2121047373635825765",
-          "text": "why were so many microsoft services down today? heard about it from several people"
-        },
         {
           "created_at": "2026-11-13T01:16:20.000Z",
           "id": "2121049489222115442",
@@ -2410,10 +2405,15 @@
           ],
           "quoted_text": "dawg you have like 2 years to accumulate capital before the music stops https://t.co/1mR6jKw2DU",
           "text": "https://t.co/pFBtazNOT7 https://t.co/j2IMyU3vwg"
+        },
+        {
+          "created_at": "2026-11-17T15:43:02.000Z",
+          "id": "2122717154411683940",
+          "quoted_text": "The NSA's internal communications network is down, no comment or statement yet from the NSA. https://t.co/4LrBFbuJiC",
+          "text": "okay https://t.co/INsn1D4U9o"
         }
       ],
       "reads": {
-        "2121047373635825765": "No call",
         "2121049489222115442": "No call",
         "2121069468193550347": "No call",
         "2121093324962504716": "No call",
@@ -2430,7 +2430,8 @@
         "2122449087371018382": "Read together with the post it replies to",
         "2122480701564145872": "No call",
         "2122508222900965692": "No call: bullish on cybersecurity stocks (65%, too unsure)",
-        "2122538055966085520": "No call"
+        "2122538055966085520": "No call",
+        "2122717154411683940": "No call"
       },
       "replies": [
         {
@@ -2525,10 +2526,6 @@
         }
       ],
       "threads": {
-        "2115992592097984806": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2116009844008497613": {
           "alerted": [],
           "self_replies": 0
@@ -2926,10 +2923,13 @@
         "2122538055966085520": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122717154411683940": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121047373635825765": false,
         "2121049489222115442": false,
         "2121069468193550347": true,
         "2121093324962504716": true,
@@ -2963,7 +2963,8 @@
         "2122497576310341848": true,
         "2122508222900965692": true,
         "2122538055966085520": true,
-        "2122580173862359477": true
+        "2122580173862359477": true,
+        "2122717154411683940": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7205,5 +7206,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T15:42:20+00:00"
+  "updated_at": "2026-11-17T15:44:24+00:00"
 }
