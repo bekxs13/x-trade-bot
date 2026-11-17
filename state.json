@@ -14,12 +14,12 @@
         },
         "nvda": {
           "market": "stocks",
-          "post_id": "2122214531829293286",
-          "reason": "He calls the NVDA China smuggling allegations 'not even smoke it's like fire already game set match', which is a bearish read on NVDA. It fits his recorded bearish view on semis/ai stocks.",
+          "post_id": "2122810288328376537",
+          "reason": "The sarcastic rocket over a mere bounce to yesterday's close on a 'huge earnings beat' implies a weak reaction. This matches his recorded bearish NVDA view and his earlier posts dismissing earnings.",
           "scope": "NVDA",
           "since": "2026-11-16",
           "stance": "bearish",
-          "updated_at": "2026-11-16T06:25:47.000Z"
+          "updated_at": "2026-11-17T21:53:07.000Z"
         },
         "semis/ai stocks": {
           "market": "stocks",
@@ -94,7 +94,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122746051178475852",
+      "last_id": "2122810288328376537",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -178,14 +178,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T23:06:19.000Z",
-          "id": "2122466321367785797",
-          "images": [
-            "https://pbs.twimg.com/media/HXSD2-daUAAnp3K.jpg"
-          ],
-          "text": "https://t.co/CWxy19rcJe"
-        },
         {
           "created_at": "2026-11-16T23:17:33.000Z",
           "id": "2122469149054239037",
@@ -292,10 +284,14 @@
           "created_at": "2026-11-17T17:37:51.000Z",
           "id": "2122746051178475852",
           "text": "My glasses cost too much to have a camera that\u2019s gay"
+        },
+        {
+          "created_at": "2026-11-17T21:53:07.000Z",
+          "id": "2122810288328376537",
+          "text": "NVDA bounces to yesterdays close on huge earnings beat \ud83d\ude80"
         }
       ],
       "reads": {
-        "2122466321367785797": "No call",
         "2122469149054239037": "No call",
         "2122504035391717646": "No call",
         "2122505142029398249": "No call",
@@ -311,7 +307,8 @@
         "2122731219381289010": "No call",
         "2122736895176360018": "No call",
         "2122737320864735434": "No call",
-        "2122746051178475852": "No call"
+        "2122746051178475852": "No call",
+        "2122810288328376537": "No call: bearish on NVDA (same view as before)"
       },
       "replies": [
         {
@@ -409,10 +406,6 @@
         }
       ],
       "threads": {
-        "2118403767066595683": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118452832915640738": {
           "alerted": [],
           "self_replies": 0
@@ -815,6 +808,10 @@
         "2122746051178475852": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122810288328376537": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -823,7 +820,6 @@
         "2122457903349235771": true,
         "2122464768078598638": false,
         "2122466146016506326": false,
-        "2122466321367785797": false,
         "2122469149054239037": true,
         "2122470943419514973": false,
         "2122476685383836014": true,
@@ -852,7 +848,8 @@
         "2122737320864735434": true,
         "2122738692498538920": true,
         "2122738982299779556": false,
-        "2122746051178475852": false
+        "2122746051178475852": false,
+        "2122810288328376537": true
       },
       "user_id": "1446541960181858315"
     },
@@ -1106,7 +1103,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122799244881048002",
+      "last_id": "2122810138595557831",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1329,12 +1326,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-17T15:44:48.000Z",
-          "id": "2122717598764691933",
-          "reply_to_id": "2122716001754333268",
-          "text": "nobody is expecting him to hold coins for a long time, it is very well known this is how he trades, he has not changed his style at all, before people were tailing him without callouts because they were tracking his wallet(s), telling ppl what he's buying just makes the playing field more equal for those who are not skilled enough to be tracking wallets\n\nthis argument also doesnt make any sense"
-        },
-        {
           "created_at": "2026-11-17T15:46:50.000Z",
           "id": "2122718110595829774",
           "reply_to_id": "2122716998706610633",
@@ -1423,6 +1414,12 @@
           "id": "2122799244881048002",
           "reply_to_id": "2122784352899903938",
           "text": "@RobinhoodApp hey"
+        },
+        {
+          "created_at": "2026-11-17T21:52:31.000Z",
+          "id": "2122810138595557831",
+          "reply_to_id": "2122809078636228751",
+          "text": "@serpinxbt yea i understand that but im not understanding the pushback from ppl also doing the same thing"
         }
       ],
       "threads": {
@@ -1857,7 +1854,6 @@
         "2122689967512285587": false,
         "2122694163477192855": false,
         "2122714022869189003": true,
-        "2122717598764691933": true,
         "2122718110595829774": true,
         "2122720974562795913": false,
         "2122721857011163451": false,
@@ -1874,7 +1870,8 @@
         "2122786879376703943": false,
         "2122793574441910419": false,
         "2122793793229316230": false,
-        "2122799244881048002": false
+        "2122799244881048002": false,
+        "2122810138595557831": false
       },
       "user_id": "973261472"
     },
@@ -7230,5 +7227,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T21:36:19+00:00"
+  "updated_at": "2026-11-17T21:54:26+00:00"
 }
