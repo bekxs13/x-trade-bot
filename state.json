@@ -2258,7 +2258,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2122508222900965692",
+      "last_id": "2122538055966085520",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2278,11 +2278,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T17:44:44.000Z",
-          "id": "2120935840658661401",
-          "text": "how strong is the CUDA moat really? already 50% of code is written by AI and LLMs don't give a shit about migrating to ROCm"
-        },
         {
           "created_at": "2026-11-13T01:07:55.000Z",
           "id": "2121047373635825765",
@@ -2406,10 +2401,18 @@
           ],
           "quoted_text": "JUST IN: Google $GOOGL says \"the era of autonomous attacks has arrived.\"",
           "text": "disaster day for most ai related names EXCEPT this sort of stuff https://t.co/6wV0mw9Ift https://t.co/6Xoinga82x"
+        },
+        {
+          "created_at": "2026-11-17T03:51:22.000Z",
+          "id": "2122538055966085520",
+          "images": [
+            "https://pbs.twimg.com/media/HXTFHKrXUAA0fSc.png"
+          ],
+          "quoted_text": "dawg you have like 2 years to accumulate capital before the music stops https://t.co/1mR6jKw2DU",
+          "text": "https://t.co/pFBtazNOT7 https://t.co/j2IMyU3vwg"
         }
       ],
       "reads": {
-        "2120935840658661401": "No call: bearish on NVDA (60%, too unsure)",
         "2121047373635825765": "No call",
         "2121049489222115442": "No call",
         "2121069468193550347": "No call",
@@ -2426,7 +2429,8 @@
         "2122449003434348586": "No call",
         "2122449087371018382": "Read together with the post it replies to",
         "2122480701564145872": "No call",
-        "2122508222900965692": "No call: bullish on cybersecurity stocks (65%, too unsure)"
+        "2122508222900965692": "No call: bullish on cybersecurity stocks (65%, too unsure)",
+        "2122538055966085520": "No call"
       },
       "replies": [
         {
@@ -2521,10 +2525,6 @@
         }
       ],
       "threads": {
-        "2115980760347758721": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115992592097984806": {
           "alerted": [],
           "self_replies": 1
@@ -2922,10 +2922,13 @@
         "2122508222900965692": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122538055966085520": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120935840658661401": true,
         "2121047373635825765": false,
         "2121049489222115442": false,
         "2121069468193550347": true,
@@ -2959,7 +2962,8 @@
         "2122487487000174993": false,
         "2122495524674920621": true,
         "2122497576310341848": true,
-        "2122508222900965692": true
+        "2122508222900965692": true,
+        "2122538055966085520": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7201,5 +7205,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-17T03:32:31+00:00"
+  "updated_at": "2026-11-17T03:52:27+00:00"
 }
