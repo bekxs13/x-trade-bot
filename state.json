@@ -1083,7 +1083,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122714678308884499",
+      "last_id": "2122714919883747497",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1310,12 +1310,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-17T00:22:45.000Z",
-          "id": "2122485559012794490",
-          "reply_to_id": "2122485266698907812",
-          "text": "@WBigbucks @BigTrout300 i thought he just made like 10M past month or something"
-        },
-        {
           "created_at": "2026-11-17T00:25:33.000Z",
           "id": "2122486262464713093",
           "reply_to_id": "2121355847443906631",
@@ -1401,6 +1395,12 @@
           "id": "2122714678308884499",
           "reply_to_id": "2122680784679309789",
           "text": "@kingbtc dont fuck me bob!"
+        },
+        {
+          "created_at": "2026-11-17T15:34:09.000Z",
+          "id": "2122714919883747497",
+          "reply_to_id": "2122417558259392692",
+          "text": "@PumpfunEco @TbonePoker @gr3gor14n can you guys make the prize higher next time"
         }
       ],
       "threads": {
@@ -1831,7 +1831,6 @@
         "2122466008292090214": true,
         "2122475215489753104": true,
         "2122475250646692017": true,
-        "2122485559012794490": true,
         "2122486045916668376": true,
         "2122486262464713093": false,
         "2122486664983720117": false,
@@ -1852,7 +1851,8 @@
         "2122713877976653869": false,
         "2122714022869189003": true,
         "2122714570200400054": false,
-        "2122714678308884499": false
+        "2122714678308884499": false,
+        "2122714919883747497": false
       },
       "user_id": "973261472"
     },
@@ -6426,7 +6426,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122577969273270527",
+      "last_id": "2122715108988379554",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6478,11 +6478,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T15:15:49.000Z",
-          "id": "2122347916694044881",
-          "text": "We always want to say this time is different but if you're bearish equities it doesn't make sense to be fully allocated to BTC"
-        },
         {
           "created_at": "2026-11-16T16:34:59.000Z",
           "id": "2122367842196529553",
@@ -6619,10 +6614,14 @@
           "created_at": "2026-11-17T05:07:20.000Z",
           "id": "2122557174769479809",
           "text": "Why has nobody nailed an alternative form of trading that doesn't use a conventional orderform?"
+        },
+        {
+          "created_at": "2026-11-17T15:34:54.000Z",
+          "id": "2122715108988379554",
+          "text": "Everybody wants swaps"
         }
       ],
       "reads": {
-        "2122347916694044881": "No call: bearish on btc (60%, too unsure)",
         "2122367842196529553": "No call",
         "2122370233864184016": "No call",
         "2122370565638136220": "Read together with the post it replies to",
@@ -6638,7 +6637,8 @@
         "2122429437522354541": "No call",
         "2122449727492968779": "No call",
         "2122554410652069955": "No call",
-        "2122557174769479809": "No call"
+        "2122557174769479809": "No call",
+        "2122715108988379554": "No call"
       },
       "replies": [
         {
@@ -6736,10 +6736,6 @@
         }
       ],
       "threads": {
-        "2120929784951890402": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120930157716500796": {
           "alerted": [],
           "self_replies": 0
@@ -7145,6 +7141,10 @@
         "2122557174769479809": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122715108988379554": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7157,7 +7157,6 @@
         "2122176211657068925": true,
         "2122176644668436730": true,
         "2122177068783771982": true,
-        "2122347916694044881": true,
         "2122367842196529553": false,
         "2122370233864184016": true,
         "2122370565638136220": false,
@@ -7182,7 +7181,8 @@
         "2122554410652069955": true,
         "2122557174769479809": true,
         "2122561085966336509": true,
-        "2122577969273270527": false
+        "2122577969273270527": false,
+        "2122715108988379554": true
       },
       "user_id": "809191427645181952"
     }
@@ -7205,5 +7205,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T15:34:19+00:00"
+  "updated_at": "2026-11-17T15:36:24+00:00"
 }
