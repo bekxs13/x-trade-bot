@@ -1083,7 +1083,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122713877976653869",
+      "last_id": "2122714022869189003",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1167,11 +1167,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T16:24:01.000Z",
-          "id": "2122365079773716637",
-          "text": "if you've never traded assets that have 100x'd in a few months, once they pullback 70% or so, they tend to lack volatility for awhile, believe that is what's going to happen with memory stocks and the ai bottleneck names\n\nit's kind of like a refractory period"
-        },
         {
           "created_at": "2026-11-16T17:20:27.000Z",
           "id": "2122379281971995072",
@@ -1287,10 +1282,14 @@
           "id": "2122694163477192855",
           "quoted_text": "Jack duval rn if pumpfun never happened https://t.co/lmUtikvwXo",
           "text": "son is this real https://t.co/9goYqf1raQ"
+        },
+        {
+          "created_at": "2026-11-17T15:30:35.000Z",
+          "id": "2122714022869189003",
+          "text": "whats the apr on high yield savings accounts rn?"
         }
       ],
       "reads": {
-        "2122365079773716637": "VIEW neutral on memory stocks",
         "2122379281971995072": "No call",
         "2122388140942119199": "No call",
         "2122406507040116962": "No call",
@@ -1306,7 +1305,8 @@
         "2122664593994768649": "No call",
         "2122686564786487380": "No call",
         "2122689967512285587": "No call",
-        "2122694163477192855": "No call"
+        "2122694163477192855": "No call",
+        "2122714022869189003": "No call"
       },
       "replies": [
         {
@@ -1404,10 +1404,6 @@
         }
       ],
       "threads": {
-        "2121081603686351239": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121089005114867983": {
           "alerted": [],
           "self_replies": 0
@@ -1815,10 +1811,13 @@
         "2122694163477192855": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122714022869189003": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122365079773716637": true,
         "2122379281971995072": true,
         "2122388140942119199": true,
         "2122406507040116962": false,
@@ -1852,7 +1851,8 @@
         "2122711715796406361": false,
         "2122712348624343436": true,
         "2122713362043723795": false,
-        "2122713877976653869": false
+        "2122713877976653869": false,
+        "2122714022869189003": true
       },
       "user_id": "973261472"
     },
@@ -7205,5 +7205,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T15:30:26+00:00"
+  "updated_at": "2026-11-17T15:32:21+00:00"
 }
