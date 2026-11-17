@@ -79,7 +79,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122505142029398249",
+      "last_id": "2122508197248594149",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -163,14 +163,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T14:57:12.000Z",
-          "id": "2121980844340617464",
-          "images": [
-            "https://pbs.twimg.com/media/HXLKVJBaUAAPAk4.jpg"
-          ],
-          "text": "https://t.co/4YVl2YiS0R"
-        },
         {
           "created_at": "2026-11-16T01:25:59.000Z",
           "id": "2122139084567261554",
@@ -278,10 +270,15 @@
           "id": "2122505142029398249",
           "reply_to_id": "2122504035391717646",
           "text": "Ok and also 30 foot waves in San Francisco Jensen removal New Zealand flight tracker unusually high activity Trump no public calendar"
+        },
+        {
+          "created_at": "2026-11-17T01:52:43.000Z",
+          "id": "2122508197248594149",
+          "reply_to_id": "2122505142029398249",
+          "text": "I\u2019m not even feeling that doomy rn personally but that\u2019s definitely what they\u2019re putting on the airwaves"
         }
       ],
       "reads": {
-        "2121980844340617464": "No call",
         "2122139084567261554": "No call",
         "2122208322539659433": "No call: bearish on semis/ai stocks (55%, too unsure)",
         "2122214531829293286": "VIEW bearish on NVDA",
@@ -802,7 +799,6 @@
         }
       },
       "trading": {
-        "2121980844340617464": false,
         "2122139084567261554": false,
         "2122208322539659433": true,
         "2122209660480663831": false,
@@ -836,7 +832,8 @@
         "2122477628452192336": false,
         "2122504035391717646": false,
         "2122504567489507443": false,
-        "2122505142029398249": false
+        "2122505142029398249": false,
+        "2122508197248594149": false
       },
       "user_id": "1446541960181858315"
     },
@@ -2261,7 +2258,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2122497576310341848",
+      "last_id": "2122508222900965692",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2281,14 +2278,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-12T14:31:08.000Z",
-          "id": "2120887119048581298",
-          "images": [
-            "https://pbs.twimg.com/media/HW7ne5bWkAA6b4m.jpg"
-          ],
-          "text": "this is the barometer about how retail feels about the ai trade because there are shitcos that people actually in the know (who are bullish ai) really dislike https://t.co/DIRpgSCNHm"
-        },
         {
           "created_at": "2026-11-12T17:44:44.000Z",
           "id": "2120935840658661401",
@@ -2408,10 +2397,18 @@
           "id": "2122480701564145872",
           "quoted_text": "*SITUATIONAL AWARENESS 13F VALUE PLUNGES 92% TO $1.58B IN Q3 FROM $20.2B IN Q2",
           "text": "apologize to michael saylor NOW https://t.co/M8XxIrZmm3"
+        },
+        {
+          "created_at": "2026-11-17T01:52:49.000Z",
+          "id": "2122508222900965692",
+          "images": [
+            "https://pbs.twimg.com/media/HXSp-YwW0AATwgY.jpg"
+          ],
+          "quoted_text": "JUST IN: Google $GOOGL says \"the era of autonomous attacks has arrived.\"",
+          "text": "disaster day for most ai related names EXCEPT this sort of stuff https://t.co/6wV0mw9Ift https://t.co/6Xoinga82x"
         }
       ],
       "reads": {
-        "2120887119048581298": "No call",
         "2120935840658661401": "No call: bearish on NVDA (60%, too unsure)",
         "2121047373635825765": "No call",
         "2121049489222115442": "No call",
@@ -2428,7 +2425,8 @@
         "2122369305081987326": "No call",
         "2122449003434348586": "No call",
         "2122449087371018382": "Read together with the post it replies to",
-        "2122480701564145872": "No call"
+        "2122480701564145872": "No call",
+        "2122508222900965692": "No call: bullish on cybersecurity stocks (65%, too unsure)"
       },
       "replies": [
         {
@@ -2523,10 +2521,6 @@
         }
       ],
       "threads": {
-        "2115962255317860705": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2115980760347758721": {
           "alerted": [],
           "self_replies": 0
@@ -2924,10 +2918,13 @@
         "2122480701564145872": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122508222900965692": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2120887119048581298": true,
         "2120935840658661401": true,
         "2121047373635825765": false,
         "2121049489222115442": false,
@@ -2961,7 +2958,8 @@
         "2122480701564145872": true,
         "2122487487000174993": false,
         "2122495524674920621": true,
-        "2122497576310341848": true
+        "2122497576310341848": true,
+        "2122508222900965692": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7203,5 +7201,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-17T01:44:19+00:00"
+  "updated_at": "2026-11-17T01:54:27+00:00"
 }
