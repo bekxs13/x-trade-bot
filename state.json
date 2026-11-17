@@ -94,7 +94,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122721959394042035",
+      "last_id": "2122724665311559900",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -178,12 +178,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T19:55:20.000Z",
-          "id": "2122418260213932091",
-          "reply_to_id": "2122418007502893500",
-          "text": "@Evan_ss6 I think we can say after a long and arduous decade, finance has finally been democratized"
-        },
         {
           "created_at": "2026-11-16T22:01:12.000Z",
           "id": "2122449935404798195",
@@ -291,6 +285,14 @@
           "id": "2122719696520978784",
           "reply_to_id": "2122718906381111491",
           "text": "They always say in the investment business, buy and hold for 15 mins instead of 5 mins and double your returns"
+        },
+        {
+          "created_at": "2026-11-17T16:12:53.000Z",
+          "id": "2122724665311559900",
+          "images": [
+            "https://pbs.twimg.com/media/HXVu1Q4bcAEGg4J.jpg"
+          ],
+          "text": "https://t.co/B813UFH1Kv"
         }
       ],
       "reads": {
@@ -309,7 +311,8 @@
         "2122619596276720057": "No call",
         "2122716042405548447": "No call",
         "2122718668878696614": "TRADE EXIT SPX",
-        "2122718758360015031": "Read together with the post it replies to"
+        "2122718758360015031": "Read together with the post it replies to",
+        "2122724665311559900": "No call"
       },
       "replies": [
         {
@@ -407,10 +410,6 @@
         }
       ],
       "threads": {
-        "2118110308921389144": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2118131354600886509": {
           "alerted": [],
           "self_replies": 0
@@ -813,6 +812,10 @@
             "trade:SPX:exit"
           ],
           "self_replies": 1
+        },
+        "2122724665311559900": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -820,7 +823,6 @@
         "2122405792351686671": false,
         "2122407412011507978": true,
         "2122418007502893500": true,
-        "2122418260213932091": false,
         "2122430347401113769": false,
         "2122449935404798195": true,
         "2122457752530530598": false,
@@ -850,7 +852,8 @@
         "2122718758360015031": true,
         "2122718906381111491": true,
         "2122719696520978784": true,
-        "2122721959394042035": true
+        "2122721959394042035": true,
+        "2122724665311559900": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7220,5 +7223,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T16:04:22+00:00"
+  "updated_at": "2026-11-17T16:14:22+00:00"
 }
