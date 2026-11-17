@@ -4622,7 +4622,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122707253296029846",
+      "last_id": "2122708933517381708",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4674,11 +4674,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T02:19:55.000Z",
-          "id": "2121790268638920806",
-          "text": "maybe everyone is selling bitcoin to buy miami real estate before gta 6 inflates the market"
-        },
         {
           "created_at": "2026-11-15T18:09:07.000Z",
           "id": "2122029141335617892",
@@ -4790,10 +4785,15 @@
           "created_at": "2026-11-17T15:03:41.000Z",
           "id": "2122707253296029846",
           "text": "ai: railroad buildout \n\nrailroad buildout: 60 years\n\nam i making sense?"
+        },
+        {
+          "created_at": "2026-11-17T15:10:22.000Z",
+          "id": "2122708933517381708",
+          "quoted_text": "fun game of who wants to hold nvda into the first ever non jensen earnings call",
+          "text": "let\u2019s play again https://t.co/zmNQ4yzJsP"
         }
       ],
       "reads": {
-        "2121790268638920806": "No call",
         "2122029141335617892": "No call",
         "2122046856297644246": "No call",
         "2122305058184290365": "No call",
@@ -4811,7 +4811,8 @@
         "2122480563198255219": "No call",
         "2122485503710618047": "No call",
         "2122685880171426242": "No call",
-        "2122707253296029846": "No call"
+        "2122707253296029846": "No call",
+        "2122708933517381708": "No call"
       },
       "replies": [
         {
@@ -4906,10 +4907,6 @@
         }
       ],
       "threads": {
-        "2117412564753957290": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117610475105976734": {
           "alerted": [],
           "self_replies": 0
@@ -5307,10 +5304,13 @@
         "2122707253296029846": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122708933517381708": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121790268638920806": true,
         "2122029141335617892": false,
         "2122046856297644246": true,
         "2122305058184290365": true,
@@ -5344,7 +5344,8 @@
         "2122526446438564111": false,
         "2122682701614346409": false,
         "2122685880171426242": true,
-        "2122707253296029846": false
+        "2122707253296029846": false,
+        "2122708933517381708": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7201,5 +7202,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T15:04:23+00:00"
+  "updated_at": "2026-11-17T15:12:25+00:00"
 }
