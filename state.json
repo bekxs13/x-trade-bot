@@ -4645,7 +4645,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122718788005089773",
+      "last_id": "2122725062650278269",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4837,12 +4837,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-17T00:01:49.000Z",
-          "id": "2122480289276436702",
-          "reply_to_id": "2122480007075483861",
-          "text": "@batzdu interested in the cone star eye head proposition if this cryptocurrency thing doesn\u2019t work out"
-        },
-        {
           "created_at": "2026-11-17T00:06:08.000Z",
           "id": "2122481376457039882",
           "reply_to_id": "2122481202439602446",
@@ -4925,6 +4919,12 @@
           "id": "2122718788005089773",
           "reply_to_id": "2122707846458757126",
           "text": "@JackFarley96 @citrini @GavinSBaker @TomorrowXSummit i heard it with my own ears"
+        },
+        {
+          "created_at": "2026-11-17T16:14:27.000Z",
+          "id": "2122725062650278269",
+          "reply_to_id": "2122718288254025901",
+          "text": "@0GAntD \u270a"
         }
       ],
       "threads": {
@@ -5345,7 +5345,6 @@
         "2122462607747748155": false,
         "2122471085300236356": false,
         "2122477661859836251": false,
-        "2122480289276436702": false,
         "2122480563198255219": false,
         "2122481376457039882": false,
         "2122482808912220554": false,
@@ -5366,7 +5365,8 @@
         "2122715852126732605": false,
         "2122718253877539031": true,
         "2122718539450556582": false,
-        "2122718788005089773": false
+        "2122718788005089773": false,
+        "2122725062650278269": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7223,5 +7223,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T16:14:22+00:00"
+  "updated_at": "2026-11-17T16:16:16+00:00"
 }
