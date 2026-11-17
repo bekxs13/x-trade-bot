@@ -1083,7 +1083,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122686564786487380",
+      "last_id": "2122689967512285587",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1167,12 +1167,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T15:59:41.000Z",
-          "id": "2122358956609749430",
-          "quoted_text": "The \u201cworse\u201d trader of crypto twitter who only uses his influence to make money somehow magically won the pumpfun mobile perps trading competition \n\nMake it make sense in your own heads\n\nMaybe they actually have skills you just cope cause you don\u2019t\n\nCongrats @blknoiz06 https://t.co/oFf8drsHl3",
-          "text": "thank you! https://t.co/GjVode0GST"
-        },
         {
           "created_at": "2026-11-16T16:19:04.000Z",
           "id": "2122363832878202934",
@@ -1286,10 +1280,15 @@
             "https://pbs.twimg.com/media/HXVMLkIX0AA8i1v.jpg"
           ],
           "text": "gmihao comrades in war https://t.co/va7QuYEYYQ"
+        },
+        {
+          "created_at": "2026-11-17T13:55:00.000Z",
+          "id": "2122689967512285587",
+          "quoted_text": "Solana lowkey beats all other chains in terms of organization, events, people, pretty much everything\n\nBreakpoint was an eye-opener",
+          "text": "by a wide margin https://t.co/TcauVv0plO"
         }
       ],
       "reads": {
-        "2122358956609749430": "No call",
         "2122363832878202934": "No call",
         "2122365079773716637": "VIEW neutral on memory stocks",
         "2122379281971995072": "No call",
@@ -1305,7 +1304,8 @@
         "2122475250646692017": "No call",
         "2122486045916668376": "No call",
         "2122664593994768649": "No call",
-        "2122686564786487380": "No call"
+        "2122686564786487380": "No call",
+        "2122689967512285587": "No call"
       },
       "replies": [
         {
@@ -1403,10 +1403,6 @@
         }
       ],
       "threads": {
-        "2121079206733873660": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121079432320340262": {
           "alerted": [],
           "self_replies": 0
@@ -1814,10 +1810,13 @@
         "2122686564786487380": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122689967512285587": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122358956609749430": true,
         "2122363832878202934": false,
         "2122365079773716637": true,
         "2122379281971995072": true,
@@ -1851,7 +1850,8 @@
         "2122505894491525259": false,
         "2122509165276835961": true,
         "2122664593994768649": true,
-        "2122686564786487380": false
+        "2122686564786487380": false,
+        "2122689967512285587": false
       },
       "user_id": "973261472"
     },
@@ -7204,5 +7204,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T13:44:33+00:00"
+  "updated_at": "2026-11-17T13:58:28+00:00"
 }
