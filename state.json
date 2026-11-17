@@ -6443,7 +6443,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122837855252652117",
+      "last_id": "2122838366911713626",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6495,15 +6495,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T16:51:03.000Z",
-          "id": "2122371881672310937",
-          "images": [
-            "https://pbs.twimg.com/media/HXQt6deXcAAEkD7.jpg"
-          ],
-          "reply_to_id": "2122371793843597643",
-          "text": "For this sleeve our historical returns since 2019! https://t.co/PDjbQZRO0e"
-        },
         {
           "created_at": "2026-11-16T16:53:18.000Z",
           "id": "2122372450839310612",
@@ -6631,6 +6622,11 @@
             "https://pbs.twimg.com/media/HXXVxSkXcAA7RD6.jpg"
           ],
           "text": "\u201cMachinic desire can seem a little inhuman, as it rips up political cultures, deletes traditions, dissolves subjectivities, and hacks through security apparatuses, tracking a soulless tropism to zero control. This is because what appears to humanity as the history of capitalism is an invasion from the future by an artificial intelligent space that must assemble itself entirely from its enemy's resources.\u201d"
+        },
+        {
+          "created_at": "2026-11-17T23:44:41.000Z",
+          "id": "2122838366911713626",
+          "text": "Trump accounts will likely be one of the most consequential initiatives of any president, ever."
         }
       ],
       "reads": {
@@ -6651,7 +6647,8 @@
         "2122814382849536242": "No call",
         "2122815785798094949": "No call",
         "2122816280411729972": "No call",
-        "2122837855252652117": "No call"
+        "2122837855252652117": "No call",
+        "2122838366911713626": "No call"
       },
       "replies": [
         {
@@ -6749,12 +6746,6 @@
         }
       ],
       "threads": {
-        "2120990011680284676": {
-          "alerted": [
-            "trade:HYPE:long"
-          ],
-          "self_replies": 0
-        },
         "2120992788271550673": {
           "alerted": [],
           "self_replies": 0
@@ -7158,6 +7149,10 @@
         "2122837855252652117": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122838366911713626": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7169,7 +7164,6 @@
         "2122176211657068925": true,
         "2122176644668436730": true,
         "2122177068783771982": true,
-        "2122371881672310937": true,
         "2122372450839310612": true,
         "2122379446212845701": false,
         "2122381683047666006": true,
@@ -7195,7 +7189,8 @@
         "2122814382849536242": true,
         "2122815785798094949": true,
         "2122816280411729972": false,
-        "2122837855252652117": false
+        "2122837855252652117": false,
+        "2122838366911713626": false
       },
       "user_id": "809191427645181952"
     }
@@ -7218,5 +7213,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T23:44:21+00:00"
+  "updated_at": "2026-11-17T23:46:23+00:00"
 }
