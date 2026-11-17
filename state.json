@@ -79,7 +79,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122580126445764939",
+      "last_id": "2122619596276720057",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -163,12 +163,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T06:26:12.000Z",
-          "id": "2122214635759943685",
-          "reply_to_id": "2122214531829293286",
-          "text": "\"here's this report and also he was banging the person in question and also US Gov is now coming out directly against it\" ok"
-        },
         {
           "created_at": "2026-11-16T16:55:23.000Z",
           "id": "2122372973076373854",
@@ -272,6 +266,11 @@
           "created_at": "2026-11-17T06:38:32.000Z",
           "id": "2122580126445764939",
           "text": "Yeah so first we have all the models write all the software on then we release a better model and try to break it"
+        },
+        {
+          "created_at": "2026-11-17T09:15:22.000Z",
+          "id": "2122619596276720057",
+          "text": "https://t.co/azALSZhha4"
         }
       ],
       "reads": {
@@ -290,7 +289,8 @@
         "2122505142029398249": "No call",
         "2122520967373279617": "No call",
         "2122533126136361453": "No call",
-        "2122580126445764939": "No call"
+        "2122580126445764939": "No call",
+        "2122619596276720057": "No call"
       },
       "replies": [
         {
@@ -388,10 +388,6 @@
         }
       ],
       "threads": {
-        "2117680324457214400": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117785230291730738": {
           "alerted": [],
           "self_replies": 0
@@ -792,11 +788,14 @@
         "2122580126445764939": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122619596276720057": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2122210752895627338": true,
-        "2122214635759943685": false,
         "2122239223592067323": false,
         "2122372973076373854": false,
         "2122374182835253478": false,
@@ -829,7 +828,8 @@
         "2122520967373279617": false,
         "2122533126136361453": true,
         "2122560948896751951": false,
-        "2122580126445764939": false
+        "2122580126445764939": false,
+        "2122619596276720057": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7198,5 +7198,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-17T08:44:13+00:00"
+  "updated_at": "2026-11-17T09:16:35+00:00"
 }
