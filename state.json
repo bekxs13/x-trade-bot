@@ -4650,7 +4650,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122757205837664702",
+      "last_id": "2122770671084110164",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4702,12 +4702,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T17:40:06.000Z",
-          "id": "2122384229166411901",
-          "quoted_text": "*NVIDIA BOARD IS NOT CONSIDERING BRINGING JENSEN HUANG BACK AS CEO, SOURCE TELLS CNBC: CNBC\n\n$NVDA",
-          "text": "have they not seen the petition? what am i missing https://t.co/18FySkG8CG"
-        },
         {
           "created_at": "2026-11-16T21:26:35.000Z",
           "id": "2122441222912622695",
@@ -4815,10 +4809,15 @@
           "created_at": "2026-11-17T16:56:03.000Z",
           "id": "2122735530165076157",
           "text": "druck just got on stage and said it\u2019s over at the long ai conference. chad"
+        },
+        {
+          "created_at": "2026-11-17T19:15:41.000Z",
+          "id": "2122770671084110164",
+          "quoted_text": "*APPLE SAYS OUTAGE NOT CAUSED BY CYBER ATTACKS",
+          "text": "definitely not a cyberattack that is definitely not correlated to the 20+ other non cyberattacks in the last couple days. nothing to see here guys https://t.co/dDkTgvzdal"
         }
       ],
       "reads": {
-        "2122384229166411901": "No call",
         "2122441222912622695": "No call",
         "2122448331142234399": "No call",
         "2122448425782325617": "No call",
@@ -4835,7 +4834,8 @@
         "2122718253877539031": "No call",
         "2122732665547956693": "No call",
         "2122733483869233444": "No call",
-        "2122735530165076157": "No call: bearish on stocks/macro (65%, too unsure)"
+        "2122735530165076157": "No call: bearish on stocks/macro (65%, too unsure)",
+        "2122770671084110164": "No call"
       },
       "replies": [
         {
@@ -4930,10 +4930,6 @@
         }
       ],
       "threads": {
-        "2117697352052142314": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2117711899735519632": {
           "alerted": [],
           "self_replies": 0
@@ -5331,10 +5327,13 @@
         "2122735530165076157": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122770671084110164": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122384229166411901": true,
         "2122441222912622695": false,
         "2122448331142234399": false,
         "2122448425782325617": true,
@@ -5368,7 +5367,8 @@
         "2122735530165076157": true,
         "2122737674125468025": true,
         "2122741945495953791": false,
-        "2122757205837664702": false
+        "2122757205837664702": false,
+        "2122770671084110164": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7225,5 +7225,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T18:58:17+00:00"
+  "updated_at": "2026-11-17T19:16:23+00:00"
 }
