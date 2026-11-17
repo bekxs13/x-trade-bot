@@ -1095,7 +1095,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122485364699107539",
+      "last_id": "2122485559012794490",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1320,12 +1320,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T21:02:05.000Z",
-          "id": "2122435059609157666",
-          "reply_to_id": "2122434073931165967",
-          "text": "@NoMoreWoke_ @RuneCrypto_ you are either not paying attention or not using the app https://t.co/z1LEI2Q9Tx"
-        },
-        {
           "created_at": "2026-11-16T21:02:58.000Z",
           "id": "2122435280561193368",
           "reply_to_id": "2122432342148981037",
@@ -1411,6 +1405,12 @@
           "id": "2122485364699107539",
           "reply_to_id": "2122476546422112622",
           "text": "@LoganJastremski my time horizon is 3-5 days brotha"
+        },
+        {
+          "created_at": "2026-11-17T00:22:45.000Z",
+          "id": "2122485559012794490",
+          "reply_to_id": "2122485266698907812",
+          "text": "@WBigbucks @BigTrout300 i thought he just made like 10M past month or something"
         }
       ],
       "threads": {
@@ -1845,7 +1845,6 @@
         "2122412411558707578": true,
         "2122432235907236242": true,
         "2122432887618507025": true,
-        "2122435059609157666": false,
         "2122435280561193368": false,
         "2122444865992527979": false,
         "2122444994698989975": false,
@@ -1866,7 +1865,8 @@
         "2122475250646692017": true,
         "2122478321166393812": false,
         "2122485138387054781": true,
-        "2122485364699107539": true
+        "2122485364699107539": true,
+        "2122485559012794490": true
       },
       "user_id": "973261472"
     },
@@ -4634,7 +4634,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122482808912220554",
+      "last_id": "2122485503710618047",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4686,12 +4686,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T17:49:18.000Z",
-          "id": "2121661769030435301",
-          "reply_to_id": "2112710480011591849",
-          "text": "well this was obviously wrong, but it was a fun thesis nonetheless"
-        },
         {
           "created_at": "2026-11-14T20:44:01.000Z",
           "id": "2121705734295413096",
@@ -4804,6 +4798,11 @@
           "id": "2122480563198255219",
           "quoted_text": "Sadly I think it's safe to say that writing a 150 page essay with infographics is no longer a viable way to raise $250m with no track record",
           "text": "a finance livestream, the final frontier. https://t.co/zBBnb5BzHF"
+        },
+        {
+          "created_at": "2026-11-17T00:22:32.000Z",
+          "id": "2122485503710618047",
+          "text": "yo austin wtf is up with the birds what is happening"
         }
       ],
       "reads": {
@@ -4824,7 +4823,8 @@
         "2122460720537481379": "No call",
         "2122462607747748155": "No call",
         "2122477661859836251": "No call",
-        "2122480563198255219": "No call"
+        "2122480563198255219": "No call",
+        "2122485503710618047": "No call"
       },
       "replies": [
         {
@@ -4919,10 +4919,6 @@
         }
       ],
       "threads": {
-        "2117403055843086831": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117404658041762216": {
           "alerted": [],
           "self_replies": 1
@@ -5320,10 +5316,13 @@
         "2122480563198255219": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122485503710618047": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121661769030435301": true,
         "2121705734295413096": true,
         "2121705855007519033": false,
         "2121790268638920806": true,
@@ -5357,7 +5356,8 @@
         "2122480289276436702": false,
         "2122480563198255219": false,
         "2122481376457039882": false,
-        "2122482808912220554": false
+        "2122482808912220554": false,
+        "2122485503710618047": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7214,5 +7214,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-17T00:22:22+00:00"
+  "updated_at": "2026-11-17T00:24:23+00:00"
 }
