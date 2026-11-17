@@ -1106,7 +1106,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122793793229316230",
+      "last_id": "2122799244881048002",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1329,12 +1329,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-17T15:41:31.000Z",
-          "id": "2122716773577302419",
-          "reply_to_id": "2122715904660443136",
-          "text": "@newevo__ @drag0nm4n how is deploying coins scamming? if there were no deployers there would be no coins to trade, you cannot remove them from the ecosystem without the entire thing disappearing completely\n\nthis is a nonsensical argument"
-        },
-        {
           "created_at": "2026-11-17T15:44:48.000Z",
           "id": "2122717598764691933",
           "reply_to_id": "2122716001754333268",
@@ -1423,6 +1417,12 @@
           "id": "2122793793229316230",
           "reply_to_id": "2122763217751658788",
           "text": "@SPCMNandHOBBES same"
+        },
+        {
+          "created_at": "2026-11-17T21:09:14.000Z",
+          "id": "2122799244881048002",
+          "reply_to_id": "2122784352899903938",
+          "text": "@RobinhoodApp hey"
         }
       ],
       "threads": {
@@ -1857,7 +1857,6 @@
         "2122689967512285587": false,
         "2122694163477192855": false,
         "2122714022869189003": true,
-        "2122716773577302419": true,
         "2122717598764691933": true,
         "2122718110595829774": true,
         "2122720974562795913": false,
@@ -1874,7 +1873,8 @@
         "2122786587989733672": false,
         "2122786879376703943": false,
         "2122793574441910419": false,
-        "2122793793229316230": false
+        "2122793793229316230": false,
+        "2122799244881048002": false
       },
       "user_id": "973261472"
     },
@@ -7231,5 +7231,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T21:02:36+00:00"
+  "updated_at": "2026-11-17T21:10:23+00:00"
 }
