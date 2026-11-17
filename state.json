@@ -4644,7 +4644,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122805589189280167",
+      "last_id": "2122818271603040372",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4696,14 +4696,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T21:54:49.000Z",
-          "id": "2122448331142234399",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2122443646939127808/img/iWCJAM0ps2Y4puaE.jpg"
-          ],
-          "text": "My full conversation with @willdepue\n\n0:00 the Starship launch\n4:20 AI has a narrative problem\n8:52 it's over for human labor\n11:16 brains are meat computers\n13:13 the future is no longer ours\n19:23 finding planets with AI https://t.co/PbfX6Bo2zD"
-        },
         {
           "created_at": "2026-11-16T21:55:12.000Z",
           "id": "2122448425782325617",
@@ -4812,10 +4804,15 @@
           ],
           "quoted_text": "druck just got on stage and said it\u2019s over at the long ai conference. chad",
           "text": "https://t.co/miQL6KWSA1 https://t.co/NH24k7EA6U"
+        },
+        {
+          "created_at": "2026-11-17T22:24:50.000Z",
+          "id": "2122818271603040372",
+          "reply_to_id": "2122818242703987033",
+          "text": "@BaggerWalmart it wasn\u2019t that bad"
         }
       ],
       "reads": {
-        "2122448331142234399": "No call",
         "2122448425782325617": "No call",
         "2122452476016161164": "No call",
         "2122460720537481379": "No call",
@@ -4835,12 +4832,6 @@
         "2122773967278838083": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-17T03:05:14.000Z",
-          "id": "2122526446438564111",
-          "reply_to_id": "2122517649393611145",
-          "text": "@Oncha1nd is iran what"
-        },
         {
           "created_at": "2026-11-17T13:26:08.000Z",
           "id": "2122682701614346409",
@@ -4927,6 +4918,12 @@
           "id": "2122805589189280167",
           "reply_to_id": "2122804561236910405",
           "text": "@acoroTrades @PaikCapital uh oh!"
+        },
+        {
+          "created_at": "2026-11-17T22:24:43.000Z",
+          "id": "2122818242703987033",
+          "reply_to_id": "2122818152853803310",
+          "text": "@BaggerWalmart lmao"
         }
       ],
       "threads": {
@@ -5334,7 +5331,6 @@
         }
       },
       "trading": {
-        "2122448331142234399": false,
         "2122448425782325617": true,
         "2122452476016161164": false,
         "2122460720537481379": false,
@@ -5343,7 +5339,6 @@
         "2122477661859836251": false,
         "2122480563198255219": false,
         "2122485503710618047": false,
-        "2122526446438564111": false,
         "2122682701614346409": false,
         "2122685880171426242": true,
         "2122707253296029846": false,
@@ -5368,7 +5363,9 @@
         "2122786986213728517": false,
         "2122787707227455517": false,
         "2122803614494212306": false,
-        "2122805589189280167": false
+        "2122805589189280167": false,
+        "2122818242703987033": false,
+        "2122818271603040372": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7221,5 +7218,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T22:18:25+00:00"
+  "updated_at": "2026-11-17T22:26:19+00:00"
 }
