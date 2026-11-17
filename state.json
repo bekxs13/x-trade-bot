@@ -2277,7 +2277,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2122749857379287422",
+      "last_id": "2122755617609707808",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2453,12 +2453,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T04:41:53.000Z",
-          "id": "2122188383661244526",
-          "reply_to_id": "2122180330949902640",
-          "text": "@vonillaopinions it'll never happen for me"
-        },
-        {
           "created_at": "2026-11-16T15:49:35.000Z",
           "id": "2122356413959639523",
           "reply_to_id": "2122355689444212922",
@@ -2544,6 +2538,12 @@
           ],
           "reply_to_id": "2122743692628775372",
           "text": "@cremieuxrecueil who the fuck are these people lol\n\nonly recognize 5 (obviously), 8, and 9 https://t.co/GVs9Ebb7E8"
+        },
+        {
+          "created_at": "2026-11-17T18:15:52.000Z",
+          "id": "2122755617609707808",
+          "reply_to_id": "2122753897978872318",
+          "text": "@int_16h i don't disagree fwiw"
         }
       ],
       "threads": {
@@ -2961,7 +2961,6 @@
         "2121665724699885572": true,
         "2121822838982353176": false,
         "2122171527701401622": false,
-        "2122188383661244526": false,
         "2122351572076408866": false,
         "2122356413959639523": false,
         "2122359209912115430": false,
@@ -2985,7 +2984,8 @@
         "2122730729360732471": false,
         "2122732469585657932": false,
         "2122748571669627060": false,
-        "2122749857379287422": false
+        "2122749857379287422": false,
+        "2122755617609707808": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7222,5 +7222,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T18:10:28+00:00"
+  "updated_at": "2026-11-17T18:16:16+00:00"
 }
