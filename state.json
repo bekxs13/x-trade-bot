@@ -79,7 +79,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122533126136361453",
+      "last_id": "2122560948896751951",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -298,12 +298,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T06:06:26.000Z",
-          "id": "2122209660480663831",
-          "reply_to_id": "2122209568189207023",
-          "text": "@Wild_Randomness yeah I need to bail guess I'll set an early alarm"
-        },
-        {
           "created_at": "2026-11-16T06:10:46.000Z",
           "id": "2122210752895627338",
           "reply_to_id": "2122210429552529589",
@@ -389,6 +383,12 @@
           "id": "2122504567489507443",
           "reply_to_id": "2122504130988314971",
           "text": "@tennisball_cap One of these actually hit me irl cause I couldn\u2019t fly the day I wanted to"
+        },
+        {
+          "created_at": "2026-11-17T05:22:20.000Z",
+          "id": "2122560948896751951",
+          "reply_to_id": "1728096226023731633",
+          "text": "@GavinSBaker So true"
         }
       ],
       "threads": {
@@ -799,7 +799,6 @@
         }
       },
       "trading": {
-        "2122209660480663831": false,
         "2122210752895627338": true,
         "2122214531829293286": true,
         "2122214635759943685": false,
@@ -833,7 +832,8 @@
         "2122505142029398249": false,
         "2122508197248594149": false,
         "2122520967373279617": false,
-        "2122533126136361453": true
+        "2122533126136361453": true,
+        "2122560948896751951": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6423,7 +6423,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122557174769479809",
+      "last_id": "2122561085966336509",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6639,12 +6639,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-15T22:04:21.000Z",
-          "id": "2122088338366546308",
-          "reply_to_id": "2122077713888387215",
-          "text": "@MelioHL The Epic of Gilgamesh"
-        },
-        {
           "created_at": "2026-11-16T00:23:05.000Z",
           "id": "2122123254445838831",
           "images": [
@@ -6733,6 +6727,12 @@
           "id": "2122473968712216994",
           "reply_to_id": "2122447776302669862",
           "text": "@onchainrapist you found me"
+        },
+        {
+          "created_at": "2026-11-17T05:22:52.000Z",
+          "id": "2122561085966336509",
+          "reply_to_id": "2122558302932303975",
+          "text": "@_ErenNevin Annoying to input, click and it doesn't reach well (for example i'm trying to get out of millions of dollars of something illiquid at mid and I don't want to flash full size)"
         }
       ],
       "threads": {
@@ -7148,7 +7148,6 @@
         }
       },
       "trading": {
-        "2122088338366546308": false,
         "2122123254445838831": false,
         "2122165364624961955": true,
         "2122167670577512501": true,
@@ -7182,7 +7181,8 @@
         "2122449727492968779": true,
         "2122473968712216994": false,
         "2122554410652069955": true,
-        "2122557174769479809": true
+        "2122557174769479809": true,
+        "2122561085966336509": true
       },
       "user_id": "809191427645181952"
     }
@@ -7205,5 +7205,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-17T05:08:24+00:00"
+  "updated_at": "2026-11-17T05:24:22+00:00"
 }
