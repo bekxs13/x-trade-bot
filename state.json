@@ -6446,7 +6446,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122815785798094949",
+      "last_id": "2122816280411729972",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6498,12 +6498,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T16:45:49.000Z",
-          "id": "2122370565638136220",
-          "reply_to_id": "2122370233864184016",
-          "text": "Guess me going short learning coding (not trying at all) was a good trade"
-        },
         {
           "created_at": "2026-11-16T16:50:42.000Z",
           "id": "2122371793843597643",
@@ -6636,10 +6630,14 @@
           "created_at": "2026-11-17T22:14:58.000Z",
           "id": "2122815785798094949",
           "text": "Probably still relatively early to broad scale perpetual swap adoption\n\nStill mega early to widescale AI adoption embedded workflows. Most people bullish AI barely use it. Normies don\u2019t even use it at all."
+        },
+        {
+          "created_at": "2026-11-17T22:16:55.000Z",
+          "id": "2122816280411729972",
+          "text": "You\u2019re not bag working hard enough son"
         }
       ],
       "reads": {
-        "2122370565638136220": "Read together with the post it replies to",
         "2122379446212845701": "No call",
         "2122381683047666006": "No call",
         "2122384468224753946": "No call",
@@ -6655,7 +6653,8 @@
         "2122557174769479809": "No call",
         "2122715108988379554": "No call",
         "2122814382849536242": "No call",
-        "2122815785798094949": "No call"
+        "2122815785798094949": "No call",
+        "2122816280411729972": "No call"
       },
       "replies": [
         {
@@ -6753,10 +6752,6 @@
         }
       ],
       "threads": {
-        "2120950653098832289": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120955088197812345": {
           "alerted": [],
           "self_replies": 0
@@ -7162,6 +7157,10 @@
         "2122815785798094949": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122816280411729972": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7173,7 +7172,6 @@
         "2122176211657068925": true,
         "2122176644668436730": true,
         "2122177068783771982": true,
-        "2122370565638136220": false,
         "2122371793843597643": true,
         "2122371881672310937": true,
         "2122372450839310612": true,
@@ -7199,7 +7197,8 @@
         "2122715108988379554": true,
         "2122814012807430276": true,
         "2122814382849536242": true,
-        "2122815785798094949": true
+        "2122815785798094949": true,
+        "2122816280411729972": false
       },
       "user_id": "809191427645181952"
     }
@@ -7222,5 +7221,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T22:16:25+00:00"
+  "updated_at": "2026-11-17T22:18:25+00:00"
 }
