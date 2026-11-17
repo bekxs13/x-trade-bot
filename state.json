@@ -79,7 +79,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122520967373279617",
+      "last_id": "2122533126136361453",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -163,11 +163,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T06:01:07.000Z",
-          "id": "2122208322539659433",
-          "text": "So if treasury is pressing NVDA on China that's like the opposite of a fed put?"
-        },
         {
           "created_at": "2026-11-16T06:25:47.000Z",
           "id": "2122214531829293286",
@@ -276,10 +271,14 @@
           "created_at": "2026-11-17T02:43:27.000Z",
           "id": "2122520967373279617",
           "text": "Don\u2019t stop at Jensen. Let\u2019s replace every Mag7 CEO with a democratically elected government official"
+        },
+        {
+          "created_at": "2026-11-17T03:31:46.000Z",
+          "id": "2122533126136361453",
+          "text": "Aguila trades stole my 2023 hype farming bitcoin strategy except there\u2019s no points rn"
         }
       ],
       "reads": {
-        "2122208322539659433": "No call: bearish on semis/ai stocks (55%, too unsure)",
         "2122214531829293286": "VIEW bearish on NVDA",
         "2122372973076373854": "No call",
         "2122375589470646621": "No call: bullish on btc (55%, too unsure)",
@@ -294,7 +293,8 @@
         "2122469149054239037": "No call",
         "2122504035391717646": "No call",
         "2122505142029398249": "No call",
-        "2122520967373279617": "No call"
+        "2122520967373279617": "No call",
+        "2122533126136361453": "No call"
       },
       "replies": [
         {
@@ -392,10 +392,6 @@
         }
       ],
       "threads": {
-        "2117050454924521496": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117539968025583935": {
           "alerted": [],
           "self_replies": 0
@@ -796,10 +792,13 @@
         "2122520967373279617": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122533126136361453": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122208322539659433": true,
         "2122209660480663831": false,
         "2122210752895627338": true,
         "2122214531829293286": true,
@@ -833,7 +832,8 @@
         "2122504567489507443": false,
         "2122505142029398249": false,
         "2122508197248594149": false,
-        "2122520967373279617": false
+        "2122520967373279617": false,
+        "2122533126136361453": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7201,5 +7201,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-17T03:06:21+00:00"
+  "updated_at": "2026-11-17T03:32:31+00:00"
 }
