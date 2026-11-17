@@ -76,10 +76,25 @@
           "opened": "2026-10-20T12:38:53.000Z",
           "partial": false,
           "structure": "spot"
+        },
+        {
+          "asset": "SPX",
+          "close_price": null,
+          "close_url": "https://x.com/based16z/status/2122718668878696614",
+          "closed": "2026-11-17T15:49:03.000Z",
+          "direction": "",
+          "flipped": false,
+          "market": "stocks",
+          "move": null,
+          "open_price": null,
+          "open_url": "",
+          "opened": "",
+          "partial": false,
+          "structure": ""
         }
       ],
       "handle": "based16z",
-      "last_id": "2122716042405548447",
+      "last_id": "2122718906381111491",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -163,23 +178,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T17:05:47.000Z",
-          "id": "2122375589470646621",
-          "quoted_text": "Chamath bear posting crypto on LinkedIn\nHaven't seen this on X yet https://t.co/ekuIapPmLL",
-          "text": "If we can\u2019t bounce off range low on the Chamath LinkedIn bear post then man https://t.co/ut80PGTpHg"
-        },
-        {
-          "created_at": "2026-11-16T17:59:42.000Z",
-          "id": "2122389160099197380",
-          "text": "Jensen Huang school walkout"
-        },
-        {
-          "created_at": "2026-11-16T18:36:53.000Z",
-          "id": "2122398517486551117",
-          "reply_to_id": "2122209660480663831",
-          "text": "@Wild_Randomness Aight it worked and I bailed flat fumbled a mil blaming youuuu"
-        },
         {
           "created_at": "2026-11-16T19:51:36.000Z",
           "id": "2122417320698237391",
@@ -271,11 +269,30 @@
           "created_at": "2026-11-17T15:38:37.000Z",
           "id": "2122716042405548447",
           "text": "Fun tape"
+        },
+        {
+          "created_at": "2026-11-17T15:49:03.000Z",
+          "id": "2122718668878696614",
+          "images": [
+            "https://pbs.twimg.com/media/HXVpW_caUAAbOBa.jpg",
+            "https://pbs.twimg.com/media/HXVpW_fbQAAIiSx.jpg"
+          ],
+          "text": "Siri derive my hourly rate from that 5min candle https://t.co/wVOCoplVOY"
+        },
+        {
+          "created_at": "2026-11-17T15:49:24.000Z",
+          "id": "2122718758360015031",
+          "reply_to_id": "2122718668878696614",
+          "text": "0dte 2 fun need a hood account again"
+        },
+        {
+          "created_at": "2026-11-17T15:50:00.000Z",
+          "id": "2122718906381111491",
+          "reply_to_id": "2122718758360015031",
+          "text": "Guess I should\u2019ve held too maybe we break td"
         }
       ],
       "reads": {
-        "2122375589470646621": "No call: bullish on btc (55%, too unsure)",
-        "2122389160099197380": "No call",
         "2122417320698237391": "No call",
         "2122449935404798195": "No call: bullish on btc (same view as before)",
         "2122457752530530598": "No call",
@@ -290,7 +307,9 @@
         "2122533126136361453": "No call",
         "2122580126445764939": "No call",
         "2122619596276720057": "No call",
-        "2122716042405548447": "No call"
+        "2122716042405548447": "No call",
+        "2122718668878696614": "TRADE EXIT SPX",
+        "2122718758360015031": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -388,10 +407,6 @@
         }
       ],
       "threads": {
-        "2117925165116064060": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118110308921389144": {
           "alerted": [],
           "self_replies": 1
@@ -792,14 +807,17 @@
         "2122716042405548447": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122718668878696614": {
+          "alerted": [
+            "trade:SPX:exit"
+          ],
+          "self_replies": 1
         }
       },
       "trading": {
         "2122239223592067323": false,
         "2122374182835253478": false,
-        "2122375589470646621": true,
-        "2122389160099197380": false,
-        "2122398517486551117": true,
         "2122405792351686671": false,
         "2122407412011507978": true,
         "2122417320698237391": true,
@@ -829,7 +847,10 @@
         "2122580126445764939": false,
         "2122619596276720057": false,
         "2122624639000338584": false,
-        "2122716042405548447": true
+        "2122716042405548447": true,
+        "2122718668878696614": true,
+        "2122718758360015031": true,
+        "2122718906381111491": true
       },
       "user_id": "1446541960181858315"
     },
@@ -4626,7 +4647,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122718253877539031",
+      "last_id": "2122718788005089773",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4818,18 +4839,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T23:41:27.000Z",
-          "id": "2122475166269886660",
-          "reply_to_id": "2122470864289714403",
-          "text": "@CryptoEthan @based16z oh look the guy that fucking hates everything hates another cool thing"
-        },
-        {
-          "created_at": "2026-11-16T23:57:48.000Z",
-          "id": "2122479278780711080",
-          "reply_to_id": "2122479068713255348",
-          "text": "@d_gilz wanna kick it with the goat"
-        },
-        {
           "created_at": "2026-11-17T00:01:49.000Z",
           "id": "2122480289276436702",
           "reply_to_id": "2122480007075483861",
@@ -4906,6 +4915,18 @@
           "id": "2122713896947528012",
           "reply_to_id": "2122712780998615461",
           "text": "@frankdegods @michaelsikand @StockMKTNewz @pequityresearch many 7 figure traders (verifiable on fomo) are asking this"
+        },
+        {
+          "created_at": "2026-11-17T15:48:32.000Z",
+          "id": "2122718539450556582",
+          "reply_to_id": "2122718444294656429",
+          "text": "@fejau_inc or ai related \n\nthank god we\u2019re safe"
+        },
+        {
+          "created_at": "2026-11-17T15:49:31.000Z",
+          "id": "2122718788005089773",
+          "reply_to_id": "2122707846458757126",
+          "text": "@JackFarley96 @citrini @GavinSBaker @TomorrowXSummit i heard it with my own ears"
         }
       ],
       "threads": {
@@ -5325,9 +5346,7 @@
         "2122460720537481379": false,
         "2122462607747748155": false,
         "2122471085300236356": false,
-        "2122475166269886660": false,
         "2122477661859836251": false,
-        "2122479278780711080": false,
         "2122480289276436702": false,
         "2122480563198255219": false,
         "2122481376457039882": false,
@@ -5347,7 +5366,9 @@
         "2122713308780511584": false,
         "2122713896947528012": true,
         "2122715852126732605": false,
-        "2122718253877539031": true
+        "2122718253877539031": true,
+        "2122718539450556582": false,
+        "2122718788005089773": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7204,5 +7225,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T15:48:27+00:00"
+  "updated_at": "2026-11-17T15:50:27+00:00"
 }
