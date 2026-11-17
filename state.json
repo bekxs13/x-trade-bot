@@ -1104,7 +1104,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122718110595829774",
+      "last_id": "2122720974562795913",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1188,14 +1188,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T17:20:27.000Z",
-          "id": "2122379281971995072",
-          "images": [
-            "https://pbs.twimg.com/media/HXQ0tXJWgAA6tDa.jpg"
-          ],
-          "text": "my mentions every day now solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/qGImvoepoZ"
-        },
         {
           "created_at": "2026-11-16T17:55:39.000Z",
           "id": "2122388140942119199",
@@ -1308,10 +1300,14 @@
           "created_at": "2026-11-17T15:30:35.000Z",
           "id": "2122714022869189003",
           "text": "whats the apr on high yield savings accounts rn?"
+        },
+        {
+          "created_at": "2026-11-17T15:58:13.000Z",
+          "id": "2122720974562795913",
+          "text": "every day now on repeat\n\n\"IRAN AND US ATTACKS ESCALATE WITH NO END IN SIGHT\"\n\n\"CRITICAL NATIONAL INFRASTRUCTURE PREVIOUSLY THOUGHT INCREDIBLY SECURE NOW COMPLETELY NON FUNCTIONAL AND WE DONT KNOW WHY\"\n\n\"THE WORLD IS ENDING BUY WATER AND NONPERISHABLES\""
         }
       ],
       "reads": {
-        "2122379281971995072": "No call",
         "2122388140942119199": "No call",
         "2122406507040116962": "No call",
         "2122432887618507025": "No call: neutral on btc (55%, too unsure)",
@@ -1327,7 +1323,8 @@
         "2122686564786487380": "No call",
         "2122689967512285587": "No call",
         "2122694163477192855": "No call",
-        "2122714022869189003": "No call"
+        "2122714022869189003": "No call",
+        "2122720974562795913": "No call"
       },
       "replies": [
         {
@@ -1425,10 +1422,6 @@
         }
       ],
       "threads": {
-        "2121089005114867983": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121089318362005768": {
           "alerted": [],
           "self_replies": 0
@@ -1836,10 +1829,13 @@
         "2122714022869189003": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122720974562795913": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122379281971995072": true,
         "2122388140942119199": true,
         "2122406507040116962": false,
         "2122412411558707578": true,
@@ -1873,7 +1869,8 @@
         "2122716043370242290": false,
         "2122716773577302419": true,
         "2122717598764691933": true,
-        "2122718110595829774": true
+        "2122718110595829774": true,
+        "2122720974562795913": false
       },
       "user_id": "973261472"
     },
@@ -7225,5 +7222,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T15:54:24+00:00"
+  "updated_at": "2026-11-17T16:00:32+00:00"
 }
