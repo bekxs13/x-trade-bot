@@ -1103,7 +1103,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122813248563036636",
+      "last_id": "2122813671814345159",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1187,12 +1187,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T19:32:06.000Z",
-          "id": "2122412411558707578",
-          "reply_to_id": "2122411735017812021",
-          "text": "we are in the middle of the trough of disillusionment, the good part about this is once tourists leave the game becomes much more interesting again, and the fundamentalists building in crypto havent ever left, im in tulip king's camp that theres still 1000x opps to capture the movement of trillions of dollars of assets onchain onto systems that are objectively better than the systems that preceded them"
-        },
         {
           "created_at": "2026-11-16T20:50:52.000Z",
           "id": "2122432235907236242",
@@ -1303,6 +1297,12 @@
           "id": "2122753788800839849",
           "quoted_text": "NEW: Users are reporting outages affecting several major services, including Gmail, Marriott, Microsoft Outlook and Microsoft 365. Reports are also surging for Apple Support, the App Store, iCloud and Apple Pay. https://t.co/tcXTRihTqV",
           "text": "anthropic lowkey gotta be a long thursday no? https://t.co/U4yAHH7D4R"
+        },
+        {
+          "created_at": "2026-11-17T22:06:33.000Z",
+          "id": "2122813671814345159",
+          "quoted_text": "*NVIDIA CHAIRMAN: BOARD DOES NOT INTEND TO REINSTATE JENSEN AS CEO\n\n$NVDA",
+          "text": ":( https://t.co/h5TVDKIoGc"
         }
       ],
       "reads": {
@@ -1322,7 +1322,8 @@
         "2122714022869189003": "No call",
         "2122720974562795913": "No call",
         "2122721857011163451": "No call",
-        "2122753788800839849": "No call: bullish on anthropic (55%, too unsure)"
+        "2122753788800839849": "No call: bullish on anthropic (55%, too unsure)",
+        "2122813671814345159": "No call"
       },
       "replies": [
         {
@@ -1423,10 +1424,6 @@
         }
       ],
       "threads": {
-        "2121100714298524099": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121101168948416608": {
           "alerted": [
             "bias:crypto market:bearish"
@@ -1834,10 +1831,13 @@
         "2122753788800839849": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122813671814345159": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122412411558707578": true,
         "2122432235907236242": true,
         "2122432887618507025": true,
         "2122453380631085133": true,
@@ -1871,7 +1871,8 @@
         "2122793793229316230": false,
         "2122799244881048002": false,
         "2122810138595557831": false,
-        "2122813248563036636": true
+        "2122813248563036636": true,
+        "2122813671814345159": true
       },
       "user_id": "973261472"
     },
@@ -6448,7 +6449,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122715108988379554",
+      "last_id": "2122814012807430276",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6664,12 +6665,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T03:10:25.000Z",
-          "id": "2122165364624961955",
-          "reply_to_id": "2122164353679913401",
-          "text": "@0xoriok Right... but even at some relatively small holding comparatively you should be able to borrow against it and it should compound at a rate higher than whatever you spend.\n\nAdditionally if we're pricing in Bitcoin your standard of living will index against global ownership..."
-        },
-        {
           "created_at": "2026-11-16T03:19:35.000Z",
           "id": "2122167670577512501",
           "reply_to_id": "2122167361163636772",
@@ -6755,6 +6750,12 @@
           "id": "2122577969273270527",
           "reply_to_id": "2122573480747032579",
           "text": "@pnljourney Where?"
+        },
+        {
+          "created_at": "2026-11-17T22:07:55.000Z",
+          "id": "2122814012807430276",
+          "reply_to_id": "2122780942049902837",
+          "text": "@ShaneStoffer Trade on @HyperliquidX \n\nIt\u2019s the only place trade 10x leverage 24/7 no limits on size way better than options because you have no IV"
         }
       ],
       "threads": {
@@ -7170,7 +7171,6 @@
         }
       },
       "trading": {
-        "2122165364624961955": true,
         "2122167670577512501": true,
         "2122171705229554016": false,
         "2122172629582790876": true,
@@ -7204,7 +7204,8 @@
         "2122557174769479809": true,
         "2122561085966336509": true,
         "2122577969273270527": false,
-        "2122715108988379554": true
+        "2122715108988379554": true,
+        "2122814012807430276": true
       },
       "user_id": "809191427645181952"
     }
@@ -7227,5 +7228,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T22:06:19+00:00"
+  "updated_at": "2026-11-17T22:08:25+00:00"
 }
