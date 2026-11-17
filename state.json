@@ -1095,7 +1095,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122485559012794490",
+      "last_id": "2122486262464713093",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1179,15 +1179,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T11:05:41.000Z",
-          "id": "2122284970949718155",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2122284731647885312/img/RY4u2HAaV1u8wWNa.jpg"
-          ],
-          "quoted_text": "buying zcash at $800 is like buying bitcoin at $800 https://t.co/HCsgpnZ0yq",
-          "text": "i still like the long-term privacy thesis and watching zcash:native for a deeper pullback, with $750 as a key level where historical resistance could turn into support https://t.co/MYsp2MVaDV https://t.co/NUEcpU9oul"
-        },
         {
           "created_at": "2026-11-16T15:30:05.000Z",
           "id": "2122351506925953404",
@@ -1296,10 +1287,14 @@
           "created_at": "2026-11-16T23:41:48.000Z",
           "id": "2122475250646692017",
           "text": "nvidia earnings"
+        },
+        {
+          "created_at": "2026-11-17T00:24:41.000Z",
+          "id": "2122486045916668376",
+          "text": "feels like a very important spot for crypto im ngl"
         }
       ],
       "reads": {
-        "2122284970949718155": "VIEW bullish on ZEC",
         "2122351506925953404": "No call",
         "2122351570415141333": "No call",
         "2122352345610903599": "No call",
@@ -1316,15 +1311,10 @@
         "2122460677499482376": "No call",
         "2122466008292090214": "No call",
         "2122475215489753104": "No call",
-        "2122475250646692017": "No call"
+        "2122475250646692017": "No call",
+        "2122486045916668376": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-16T21:02:58.000Z",
-          "id": "2122435280561193368",
-          "reply_to_id": "2122432342148981037",
-          "text": "@CryptoCurb @ThinkingUSD yea sofar"
-        },
         {
           "created_at": "2026-11-16T21:41:03.000Z",
           "id": "2122444865992527979",
@@ -1411,15 +1401,15 @@
           "id": "2122485559012794490",
           "reply_to_id": "2122485266698907812",
           "text": "@WBigbucks @BigTrout300 i thought he just made like 10M past month or something"
+        },
+        {
+          "created_at": "2026-11-17T00:25:33.000Z",
+          "id": "2122486262464713093",
+          "reply_to_id": "2121355847443906631",
+          "text": "@goodalexander what if you get the first three things after the last set of things"
         }
       ],
       "threads": {
-        "2120967022272008380": {
-          "alerted": [
-            "trade:BONDS, OIL:long"
-          ],
-          "self_replies": 0
-        },
         "2120978487343558720": {
           "alerted": [
             "trade:BTC:short"
@@ -1829,10 +1819,13 @@
         "2122475250646692017": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122486045916668376": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122284970949718155": true,
         "2122351506925953404": false,
         "2122351570415141333": false,
         "2122352345610903599": false,
@@ -1845,7 +1838,6 @@
         "2122412411558707578": true,
         "2122432235907236242": true,
         "2122432887618507025": true,
-        "2122435280561193368": false,
         "2122444865992527979": false,
         "2122444994698989975": false,
         "2122445355073614110": false,
@@ -1866,7 +1858,9 @@
         "2122478321166393812": false,
         "2122485138387054781": true,
         "2122485364699107539": true,
-        "2122485559012794490": true
+        "2122485559012794490": true,
+        "2122486045916668376": true,
+        "2122486262464713093": false
       },
       "user_id": "973261472"
     },
@@ -7214,5 +7208,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-17T00:24:23+00:00"
+  "updated_at": "2026-11-17T00:26:18+00:00"
 }
