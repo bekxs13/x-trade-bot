@@ -2276,7 +2276,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2122730729360732471",
+      "last_id": "2122732469585657932",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2296,12 +2296,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-13T01:16:20.000Z",
-          "id": "2121049489222115442",
-          "reply_to_id": "2121047373635825765",
-          "text": "is this a cyber attack of some sort?"
-        },
         {
           "created_at": "2026-11-13T02:35:43.000Z",
           "id": "2121069468193550347",
@@ -2429,10 +2423,14 @@
           "id": "2122717154411683940",
           "quoted_text": "The NSA's internal communications network is down, no comment or statement yet from the NSA. https://t.co/4LrBFbuJiC",
           "text": "okay https://t.co/INsn1D4U9o"
+        },
+        {
+          "created_at": "2026-11-17T16:43:53.000Z",
+          "id": "2122732469585657932",
+          "text": "should i drink a spiked egg nog today is that allowed"
         }
       ],
       "reads": {
-        "2121049489222115442": "No call",
         "2121069468193550347": "No call",
         "2121093324962504716": "No call",
         "2121304502498128351": "No call",
@@ -2449,7 +2447,8 @@
         "2122480701564145872": "No call",
         "2122508222900965692": "No call: bullish on cybersecurity stocks (65%, too unsure)",
         "2122538055966085520": "No call",
-        "2122717154411683940": "No call"
+        "2122717154411683940": "No call",
+        "2122732469585657932": "No call"
       },
       "replies": [
         {
@@ -2544,10 +2543,6 @@
         }
       ],
       "threads": {
-        "2116009844008497613": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116155200075395195": {
           "alerted": [],
           "self_replies": 0
@@ -2945,10 +2940,13 @@
         "2122717154411683940": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122732469585657932": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121049489222115442": false,
         "2121069468193550347": true,
         "2121093324962504716": true,
         "2121304502498128351": false,
@@ -2982,7 +2980,8 @@
         "2122538055966085520": true,
         "2122580173862359477": true,
         "2122717154411683940": false,
-        "2122730729360732471": false
+        "2122730729360732471": false,
+        "2122732469585657932": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7222,5 +7221,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T16:40:27+00:00"
+  "updated_at": "2026-11-17T16:44:22+00:00"
 }
