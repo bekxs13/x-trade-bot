@@ -1095,7 +1095,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122478321166393812",
+      "last_id": "2122485364699107539",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1320,18 +1320,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T20:56:43.000Z",
-          "id": "2122433706929647850",
-          "reply_to_id": "2122404529605840923",
-          "text": "the entirety of crypto twitter is built around people trading and sharing what they are trading, everyone is raiding \"KOL\"s nonstop to talk about their coins\n\nbut when it is is natively built into the app with coins & stocks everyone is trading anyway & everyone who generates trading volume from their ideas gets a share of the trading fees it is somehow a bad thing\n\nyou guys dont make any sense"
-        },
-        {
-          "created_at": "2026-11-16T20:58:59.000Z",
-          "id": "2122434279296880872",
-          "reply_to_id": "2122433622569521156",
-          "text": "@RAP3MEFR @snoxy77 correct"
-        },
-        {
           "created_at": "2026-11-16T21:02:05.000Z",
           "id": "2122435059609157666",
           "reply_to_id": "2122434073931165967",
@@ -1411,6 +1399,18 @@
           "id": "2122478321166393812",
           "reply_to_id": "2122443259658056046",
           "text": "@ChairmanSelig @CFTC you cooking g im ngl"
+        },
+        {
+          "created_at": "2026-11-17T00:21:05.000Z",
+          "id": "2122485138387054781",
+          "reply_to_id": "2122470956115304785",
+          "text": "@WBigbucks @BigTrout300 does that say -34M all time"
+        },
+        {
+          "created_at": "2026-11-17T00:21:59.000Z",
+          "id": "2122485364699107539",
+          "reply_to_id": "2122476546422112622",
+          "text": "@LoganJastremski my time horizon is 3-5 days brotha"
         }
       ],
       "threads": {
@@ -1845,8 +1845,6 @@
         "2122412411558707578": true,
         "2122432235907236242": true,
         "2122432887618507025": true,
-        "2122433706929647850": true,
-        "2122434279296880872": false,
         "2122435059609157666": false,
         "2122435280561193368": false,
         "2122444865992527979": false,
@@ -1866,7 +1864,9 @@
         "2122466129281261608": true,
         "2122475215489753104": true,
         "2122475250646692017": true,
-        "2122478321166393812": false
+        "2122478321166393812": false,
+        "2122485138387054781": true,
+        "2122485364699107539": true
       },
       "user_id": "973261472"
     },
@@ -7214,5 +7214,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-17T00:12:23+00:00"
+  "updated_at": "2026-11-17T00:22:22+00:00"
 }
