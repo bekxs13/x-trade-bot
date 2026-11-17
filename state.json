@@ -1083,7 +1083,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122717598764691933",
+      "last_id": "2122718110595829774",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1310,12 +1310,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-17T14:21:12.000Z",
-          "id": "2122696560031281304",
-          "reply_to_id": "2122645723766259871",
-          "text": "@mert oh wow"
-        },
-        {
           "created_at": "2026-11-17T14:26:25.000Z",
           "id": "2122697873678557358",
           "reply_to_id": "2122695458514743553",
@@ -1401,6 +1395,12 @@
           "id": "2122717598764691933",
           "reply_to_id": "2122716001754333268",
           "text": "nobody is expecting him to hold coins for a long time, it is very well known this is how he trades, he has not changed his style at all, before people were tailing him without callouts because they were tracking his wallet(s), telling ppl what he's buying just makes the playing field more equal for those who are not skilled enough to be tracking wallets\n\nthis argument also doesnt make any sense"
+        },
+        {
+          "created_at": "2026-11-17T15:46:50.000Z",
+          "id": "2122718110595829774",
+          "reply_to_id": "2122716998706610633",
+          "text": "@punk607 @newevo__ @drag0nm4n ok, what is an example of a deployer launching a coin and not \"extracting\""
         }
       ],
       "threads": {
@@ -1837,7 +1837,6 @@
         "2122686564786487380": false,
         "2122689967512285587": false,
         "2122694163477192855": false,
-        "2122696560031281304": false,
         "2122697873678557358": false,
         "2122698031019503726": false,
         "2122709652878332247": true,
@@ -1852,7 +1851,8 @@
         "2122715637315191266": true,
         "2122716043370242290": false,
         "2122716773577302419": true,
-        "2122717598764691933": true
+        "2122717598764691933": true,
+        "2122718110595829774": true
       },
       "user_id": "973261472"
     },
@@ -4626,7 +4626,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122715852126732605",
+      "last_id": "2122718253877539031",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4678,13 +4678,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T19:19:30.000Z",
-          "id": "2122046856297644246",
-          "quoted_text": "JENSEN HUANG DISCUSSES COMEBACK AS NVIDIA CEO WITH ALLIES: FT https://t.co/UaqJAM3fax",
-          "reply_to_id": "2122029141335617892",
-          "text": "they thought i was trolling? https://t.co/7OWLL5gjHW"
-        },
         {
           "created_at": "2026-11-16T12:25:31.000Z",
           "id": "2122305058184290365",
@@ -4795,10 +4788,14 @@
           "created_at": "2026-11-17T15:37:51.000Z",
           "id": "2122715852126732605",
           "text": "\u201cthere is no evidence of a cyberattack\u201d ok"
+        },
+        {
+          "created_at": "2026-11-17T15:47:24.000Z",
+          "id": "2122718253877539031",
+          "text": "something bad happens in the world that has absolutely nothing to do with crypto? short bitcoin"
         }
       ],
       "reads": {
-        "2122046856297644246": "No call",
         "2122305058184290365": "No call",
         "2122311853514617301": "No call",
         "2122324225297903848": "No call",
@@ -4816,7 +4813,8 @@
         "2122685880171426242": "No call",
         "2122707253296029846": "No call",
         "2122708933517381708": "No call",
-        "2122715852126732605": "No call"
+        "2122715852126732605": "No call",
+        "2122718253877539031": "No call"
       },
       "replies": [
         {
@@ -4911,10 +4909,6 @@
         }
       ],
       "threads": {
-        "2117611853199122863": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117650227565867070": {
           "alerted": [],
           "self_replies": 0
@@ -5312,10 +5306,13 @@
         "2122715852126732605": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122718253877539031": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122046856297644246": true,
         "2122305058184290365": true,
         "2122311853514617301": false,
         "2122324225297903848": true,
@@ -5349,7 +5346,8 @@
         "2122708933517381708": true,
         "2122713308780511584": false,
         "2122713896947528012": true,
-        "2122715852126732605": false
+        "2122715852126732605": false,
+        "2122718253877539031": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7206,5 +7204,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T15:46:18+00:00"
+  "updated_at": "2026-11-17T15:48:27+00:00"
 }
