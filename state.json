@@ -6443,7 +6443,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122839803011981341",
+      "last_id": "2122840751264686182",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6495,22 +6495,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T17:21:06.000Z",
-          "id": "2122379446212845701",
-          "images": [
-            "https://pbs.twimg.com/media/HXQ0uggWMAASoc-.png"
-          ],
-          "text": "That all? https://t.co/SFGDNxIGV1"
-        },
-        {
-          "created_at": "2026-11-16T17:29:59.000Z",
-          "id": "2122381683047666006",
-          "images": [
-            "https://pbs.twimg.com/media/HXQ22uGWwAAThOy.jpg"
-          ],
-          "text": "That's all you got? https://t.co/CFp8vwYDC0"
-        },
         {
           "created_at": "2026-11-16T17:41:03.000Z",
           "id": "2122384468224753946",
@@ -6626,11 +6610,20 @@
           "created_at": "2026-11-17T23:50:24.000Z",
           "id": "2122839803011981341",
           "text": "Giving every legal kid in the United States the opportunity to start their compounding journey levels the play field. There will be no excuse for people to say \"we have ideas, but no capital to start\". Step one of investing and saving is making the account.\n\nGoing from 0 to 1 is the hardest part.\n\nTrump accounts are genius, a clever way to back into UBI, and provides alignment and education for everyone legal in the United States."
+        },
+        {
+          "created_at": "2026-11-17T23:53:00.000Z",
+          "id": "2122840459982606570",
+          "reply_to_id": "2122839803011981341",
+          "text": "Also a nice way for tech oligarchs to reduce the chances of violence by giving rakeback to labor participants in a clear, transparent and easily viewable way.\n\nElon can donate as much as he wants instantly to everyone through their trump accounts and people will receive the shares instantly."
+        },
+        {
+          "created_at": "2026-11-17T23:54:10.000Z",
+          "id": "2122840751264686182",
+          "text": "Hyperliquid is the only place to trade 24/7 perpetual stock futures with leverage, yet most retail don't even know it exists? \n\nWhat needs to change in order for retail to onboard to Hyperliquid?"
         }
       ],
       "reads": {
-        "2122379446212845701": "No call",
-        "2122381683047666006": "No call",
         "2122384468224753946": "No call",
         "2122397245555224829": "No call",
         "2122406539021439441": "No call",
@@ -6648,7 +6641,9 @@
         "2122816280411729972": "No call",
         "2122837855252652117": "No call",
         "2122838366911713626": "No call",
-        "2122839803011981341": "No call"
+        "2122839803011981341": "No call",
+        "2122840459982606570": "No call",
+        "2122840751264686182": "No call"
       },
       "replies": [
         {
@@ -6746,10 +6741,6 @@
         }
       ],
       "threads": {
-        "2121040486635131375": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121066183143121055": {
           "alerted": [],
           "self_replies": 0
@@ -7152,6 +7143,10 @@
         },
         "2122839803011981341": {
           "alerted": [],
+          "self_replies": 1
+        },
+        "2122840751264686182": {
+          "alerted": [],
           "self_replies": 0
         }
       },
@@ -7164,8 +7159,6 @@
         "2122176211657068925": true,
         "2122176644668436730": true,
         "2122177068783771982": true,
-        "2122379446212845701": false,
-        "2122381683047666006": true,
         "2122384468224753946": false,
         "2122397245555224829": true,
         "2122397767507333376": false,
@@ -7190,7 +7183,9 @@
         "2122816280411729972": false,
         "2122837855252652117": false,
         "2122838366911713626": false,
-        "2122839803011981341": false
+        "2122839803011981341": false,
+        "2122840459982606570": false,
+        "2122840751264686182": true
       },
       "user_id": "809191427645181952"
     }
@@ -7213,5 +7208,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T23:52:22+00:00"
+  "updated_at": "2026-11-17T23:54:33+00:00"
 }
