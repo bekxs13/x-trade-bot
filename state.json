@@ -6423,7 +6423,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122561085966336509",
+      "last_id": "2122577969273270527",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6639,15 +6639,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T00:23:05.000Z",
-          "id": "2122123254445838831",
-          "images": [
-            "https://pbs.twimg.com/media/HXNL2d_XgAAaOCF.jpg"
-          ],
-          "reply_to_id": "2122002522940346513",
-          "text": "@rcwhalen @PeterSchiff @jameskoutoulas Yes https://t.co/9uaUUZxK4m"
-        },
-        {
           "created_at": "2026-11-16T03:10:25.000Z",
           "id": "2122165364624961955",
           "reply_to_id": "2122164353679913401",
@@ -6733,6 +6724,12 @@
           "id": "2122561085966336509",
           "reply_to_id": "2122558302932303975",
           "text": "@_ErenNevin Annoying to input, click and it doesn't reach well (for example i'm trying to get out of millions of dollars of something illiquid at mid and I don't want to flash full size)"
+        },
+        {
+          "created_at": "2026-11-17T06:29:58.000Z",
+          "id": "2122577969273270527",
+          "reply_to_id": "2122573480747032579",
+          "text": "@pnljourney Where?"
         }
       ],
       "threads": {
@@ -7148,7 +7145,6 @@
         }
       },
       "trading": {
-        "2122123254445838831": false,
         "2122165364624961955": true,
         "2122167670577512501": true,
         "2122171705229554016": false,
@@ -7182,7 +7178,8 @@
         "2122473968712216994": false,
         "2122554410652069955": true,
         "2122557174769479809": true,
-        "2122561085966336509": true
+        "2122561085966336509": true,
+        "2122577969273270527": false
       },
       "user_id": "809191427645181952"
     }
@@ -7205,5 +7202,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-17T06:24:23+00:00"
+  "updated_at": "2026-11-17T06:30:22+00:00"
 }
