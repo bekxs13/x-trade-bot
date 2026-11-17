@@ -79,7 +79,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122504567489507443",
+      "last_id": "2122505142029398249",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -163,14 +163,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T05:13:14.000Z",
-          "id": "2121833884384194656",
-          "images": [
-            "https://pbs.twimg.com/media/HXJEq7DaEAAQaK2.jpg"
-          ],
-          "text": "https://t.co/JuIpxSj4QE"
-        },
         {
           "created_at": "2026-11-15T14:57:12.000Z",
           "id": "2121980844340617464",
@@ -280,10 +272,15 @@
           "created_at": "2026-11-17T01:36:10.000Z",
           "id": "2122504035391717646",
           "text": "Is it doomer to find microsoft outage nationwide ground stop amtrak outage tanker cruise ship collision bank outage bomb threat united airlines outage this week a bit sus?"
+        },
+        {
+          "created_at": "2026-11-17T01:40:34.000Z",
+          "id": "2122505142029398249",
+          "reply_to_id": "2122504035391717646",
+          "text": "Ok and also 30 foot waves in San Francisco Jensen removal New Zealand flight tracker unusually high activity Trump no public calendar"
         }
       ],
       "reads": {
-        "2121833884384194656": "No call",
         "2121980844340617464": "No call",
         "2122139084567261554": "No call",
         "2122208322539659433": "No call: bearish on semis/ai stocks (55%, too unsure)",
@@ -299,7 +296,8 @@
         "2122465435132240320": "No call",
         "2122466321367785797": "No call",
         "2122469149054239037": "No call",
-        "2122504035391717646": "No call"
+        "2122504035391717646": "No call",
+        "2122505142029398249": "No call"
       },
       "replies": [
         {
@@ -800,11 +798,10 @@
         },
         "2122504035391717646": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2121833884384194656": false,
         "2121980844340617464": false,
         "2122139084567261554": false,
         "2122208322539659433": true,
@@ -838,7 +835,8 @@
         "2122476685383836014": true,
         "2122477628452192336": false,
         "2122504035391717646": false,
-        "2122504567489507443": false
+        "2122504567489507443": false,
+        "2122505142029398249": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7205,5 +7203,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-17T01:40:41+00:00"
+  "updated_at": "2026-11-17T01:42:24+00:00"
 }
