@@ -6446,7 +6446,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122814382849536242",
+      "last_id": "2122815785798094949",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6498,14 +6498,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T16:44:30.000Z",
-          "id": "2122370233864184016",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2122369837221515266/img/GGiQY3ly4t8umdhb.jpg"
-          ],
-          "text": "Let me know thoughts and if people want me to open source this, pretty easy to build yourself took about 2 days. Full realtime monitoring across multiple exchanges (HL, Binance, IBKR, JPM)... https://t.co/ScVlGnxyrd"
-        },
         {
           "created_at": "2026-11-16T16:45:49.000Z",
           "id": "2122370565638136220",
@@ -6639,10 +6631,14 @@
           "id": "2122814382849536242",
           "quoted_text": "Isn\u2019t the IV on NVDA so high that regardless of the news I\u2019ll get cooked? Or am I missing something",
           "text": "If you think Onchain trading is anywhere near normie penetration most people are still stuck trading IV raped options with no ability to trade during earnings / after hours.\n\n24/7 liquid perpetual swaps with leverage will be the optimal way to transact value as humans. https://t.co/5K2Cicg7M7"
+        },
+        {
+          "created_at": "2026-11-17T22:14:58.000Z",
+          "id": "2122815785798094949",
+          "text": "Probably still relatively early to broad scale perpetual swap adoption\n\nStill mega early to widescale AI adoption embedded workflows. Most people bullish AI barely use it. Normies don\u2019t even use it at all."
         }
       ],
       "reads": {
-        "2122370233864184016": "No call",
         "2122370565638136220": "Read together with the post it replies to",
         "2122379446212845701": "No call",
         "2122381683047666006": "No call",
@@ -6658,7 +6654,8 @@
         "2122554410652069955": "No call",
         "2122557174769479809": "No call",
         "2122715108988379554": "No call",
-        "2122814382849536242": "No call"
+        "2122814382849536242": "No call",
+        "2122815785798094949": "No call"
       },
       "replies": [
         {
@@ -6756,10 +6753,6 @@
         }
       ],
       "threads": {
-        "2120933886100152481": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2120950653098832289": {
           "alerted": [],
           "self_replies": 0
@@ -7165,6 +7158,10 @@
         "2122814382849536242": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122815785798094949": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7176,7 +7173,6 @@
         "2122176211657068925": true,
         "2122176644668436730": true,
         "2122177068783771982": true,
-        "2122370233864184016": true,
         "2122370565638136220": false,
         "2122371793843597643": true,
         "2122371881672310937": true,
@@ -7202,7 +7198,8 @@
         "2122577969273270527": false,
         "2122715108988379554": true,
         "2122814012807430276": true,
-        "2122814382849536242": true
+        "2122814382849536242": true,
+        "2122815785798094949": true
       },
       "user_id": "809191427645181952"
     }
@@ -7225,5 +7222,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T22:14:21+00:00"
+  "updated_at": "2026-11-17T22:16:25+00:00"
 }
