@@ -1083,7 +1083,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122714919883747497",
+      "last_id": "2122715637315191266",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1310,12 +1310,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-17T00:25:33.000Z",
-          "id": "2122486262464713093",
-          "reply_to_id": "2121355847443906631",
-          "text": "@goodalexander what if you get the first three things after the last set of things"
-        },
-        {
           "created_at": "2026-11-17T00:27:09.000Z",
           "id": "2122486664983720117",
           "reply_to_id": "2122486434900980012",
@@ -1401,6 +1395,12 @@
           "id": "2122714919883747497",
           "reply_to_id": "2122417558259392692",
           "text": "@PumpfunEco @TbonePoker @gr3gor14n can you guys make the prize higher next time"
+        },
+        {
+          "created_at": "2026-11-17T15:37:00.000Z",
+          "id": "2122715637315191266",
+          "reply_to_id": "2122407371028979826",
+          "text": "help me understand because i keep asking this question and nobody will give me an answer\n\nwhat is the code of conduct for trading microcaps? what are you guys calling scamming & extraction vs. trading?\n\nive watched him and other trenchers streams and they are often buying coins sub 10k market cap and selling them extremely quickly\n\nthis is not an easy thing to be profitable doing or everyone would be doing it, but what about this is \"extractive\" or \"scamming\"? what behaviors would be considered just trading microcaps ethically?\n\ni havent seen anyone describe what the desired behavior is in a way that makes sense"
         }
       ],
       "threads": {
@@ -1832,7 +1832,6 @@
         "2122475215489753104": true,
         "2122475250646692017": true,
         "2122486045916668376": true,
-        "2122486262464713093": false,
         "2122486664983720117": false,
         "2122487584136069181": false,
         "2122505894491525259": false,
@@ -1852,7 +1851,8 @@
         "2122714022869189003": true,
         "2122714570200400054": false,
         "2122714678308884499": false,
-        "2122714919883747497": false
+        "2122714919883747497": false,
+        "2122715637315191266": true
       },
       "user_id": "973261472"
     },
@@ -4625,7 +4625,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122713896947528012",
+      "last_id": "2122715852126732605",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4677,11 +4677,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T18:09:07.000Z",
-          "id": "2122029141335617892",
-          "text": "i have this vision of jensen sprinting out of the tunnel for his panel at tomorrowX. he\u2019s jumping up and down and beating his chest like fucking willis reed in the nba finals. the empire ROARS. Thousands of hedge fund managers  fly to their feet. the downstream impact is so thunderous it sparks a revolt. TomorrowX, in unison, storms the capital (nvda HQ) and jensen forces his way into the building. the sea of security parts, moses has arrived. he fires that cfo, clears the desk with one swipe of the hand, smashing any and everything to the ground. everybody is frozen, outside the glass enclosure, waiting for direction. Jensen kicks his feet up, pulls out his Phone opens X dot com, and tweets \u201ci\u2019m back\u201d with a picture of michael jordan. Fuck HR"
-        },
         {
           "created_at": "2026-11-15T19:19:30.000Z",
           "id": "2122046856297644246",
@@ -4794,10 +4789,14 @@
           "id": "2122708933517381708",
           "quoted_text": "fun game of who wants to hold nvda into the first ever non jensen earnings call",
           "text": "let\u2019s play again https://t.co/zmNQ4yzJsP"
+        },
+        {
+          "created_at": "2026-11-17T15:37:51.000Z",
+          "id": "2122715852126732605",
+          "text": "\u201cthere is no evidence of a cyberattack\u201d ok"
         }
       ],
       "reads": {
-        "2122029141335617892": "No call",
         "2122046856297644246": "No call",
         "2122305058184290365": "No call",
         "2122311853514617301": "No call",
@@ -4815,7 +4814,8 @@
         "2122485503710618047": "No call",
         "2122685880171426242": "No call",
         "2122707253296029846": "No call",
-        "2122708933517381708": "No call"
+        "2122708933517381708": "No call",
+        "2122715852126732605": "No call"
       },
       "replies": [
         {
@@ -4910,10 +4910,6 @@
         }
       ],
       "threads": {
-        "2117610475105976734": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117611853199122863": {
           "alerted": [],
           "self_replies": 0
@@ -5311,10 +5307,13 @@
         "2122708933517381708": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122715852126732605": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122029141335617892": false,
         "2122046856297644246": true,
         "2122305058184290365": true,
         "2122311853514617301": false,
@@ -5348,7 +5347,8 @@
         "2122707253296029846": false,
         "2122708933517381708": true,
         "2122713308780511584": false,
-        "2122713896947528012": true
+        "2122713896947528012": true,
+        "2122715852126732605": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7205,5 +7205,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T15:36:24+00:00"
+  "updated_at": "2026-11-17T15:38:27+00:00"
 }
