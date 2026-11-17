@@ -4650,7 +4650,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122770671084110164",
+      "last_id": "2122773967278838083",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4702,12 +4702,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T21:26:35.000Z",
-          "id": "2122441222912622695",
-          "quoted_text": "is anyone going to TomorrowX i want to meet people while I'm there",
-          "text": "will be there in a couple hours. incredible timing should be fun \ud83d\udc4d https://t.co/Li5dkK3EL5"
-        },
         {
           "created_at": "2026-11-16T21:54:49.000Z",
           "id": "2122448331142234399",
@@ -4815,10 +4809,18 @@
           "id": "2122770671084110164",
           "quoted_text": "*APPLE SAYS OUTAGE NOT CAUSED BY CYBER ATTACKS",
           "text": "definitely not a cyberattack that is definitely not correlated to the 20+ other non cyberattacks in the last couple days. nothing to see here guys https://t.co/dDkTgvzdal"
+        },
+        {
+          "created_at": "2026-11-17T19:28:47.000Z",
+          "id": "2122773967278838083",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2122773920369586176/img/6MEKek-GBMW75b30.jpg"
+          ],
+          "quoted_text": "druck just got on stage and said it\u2019s over at the long ai conference. chad",
+          "text": "https://t.co/miQL6KWSA1 https://t.co/NH24k7EA6U"
         }
       ],
       "reads": {
-        "2122441222912622695": "No call",
         "2122448331142234399": "No call",
         "2122448425782325617": "No call",
         "2122452476016161164": "No call",
@@ -4835,7 +4837,8 @@
         "2122732665547956693": "No call",
         "2122733483869233444": "No call",
         "2122735530165076157": "No call: bearish on stocks/macro (65%, too unsure)",
-        "2122770671084110164": "No call"
+        "2122770671084110164": "No call",
+        "2122773967278838083": "No call"
       },
       "replies": [
         {
@@ -4930,10 +4933,6 @@
         }
       ],
       "threads": {
-        "2117711899735519632": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117713161625190745": {
           "alerted": [],
           "self_replies": 0
@@ -5331,10 +5330,13 @@
         "2122770671084110164": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122773967278838083": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122441222912622695": false,
         "2122448331142234399": false,
         "2122448425782325617": true,
         "2122452476016161164": false,
@@ -5368,7 +5370,8 @@
         "2122737674125468025": true,
         "2122741945495953791": false,
         "2122757205837664702": false,
-        "2122770671084110164": false
+        "2122770671084110164": false,
+        "2122773967278838083": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7225,5 +7228,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T19:16:23+00:00"
+  "updated_at": "2026-11-17T19:30:29+00:00"
 }
