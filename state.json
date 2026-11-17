@@ -79,7 +79,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122504035391717646",
+      "last_id": "2122504567489507443",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -303,12 +303,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T06:05:38.000Z",
-          "id": "2122209457795224061",
-          "reply_to_id": "2122209088708764135",
-          "text": "@0xKNL__ @Wild_Randomness never happening eh. I could exit +pnl rn but they don't pick up the phone at night"
-        },
-        {
           "created_at": "2026-11-16T06:06:26.000Z",
           "id": "2122209660480663831",
           "reply_to_id": "2122209568189207023",
@@ -394,6 +388,12 @@
           "id": "2122477628452192336",
           "reply_to_id": "2122383990979985621",
           "text": "@jeremyberman Philosophy departments have been training to defend humanity from ideologies like that of Anthropic"
+        },
+        {
+          "created_at": "2026-11-17T01:38:17.000Z",
+          "id": "2122504567489507443",
+          "reply_to_id": "2122504130988314971",
+          "text": "@tennisball_cap One of these actually hit me irl cause I couldn\u2019t fly the day I wanted to"
         }
       ],
       "threads": {
@@ -808,7 +808,6 @@
         "2121980844340617464": false,
         "2122139084567261554": false,
         "2122208322539659433": true,
-        "2122209457795224061": true,
         "2122209660480663831": false,
         "2122210752895627338": true,
         "2122214531829293286": true,
@@ -838,7 +837,8 @@
         "2122470943419514973": false,
         "2122476685383836014": true,
         "2122477628452192336": false,
-        "2122504035391717646": false
+        "2122504035391717646": false,
+        "2122504567489507443": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7205,5 +7205,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-16",
-  "updated_at": "2026-11-17T01:38:25+00:00"
+  "updated_at": "2026-11-17T01:40:41+00:00"
 }
