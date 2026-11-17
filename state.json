@@ -94,7 +94,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122718906381111491",
+      "last_id": "2122719696520978784",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -178,11 +178,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T19:51:36.000Z",
-          "id": "2122417320698237391",
-          "text": "Kalshi and Robinhood same valuation now"
-        },
         {
           "created_at": "2026-11-16T19:55:20.000Z",
           "id": "2122418260213932091",
@@ -290,10 +285,15 @@
           "id": "2122718906381111491",
           "reply_to_id": "2122718758360015031",
           "text": "Guess I should\u2019ve held too maybe we break td"
+        },
+        {
+          "created_at": "2026-11-17T15:53:08.000Z",
+          "id": "2122719696520978784",
+          "reply_to_id": "2122718906381111491",
+          "text": "They always say in the investment business, buy and hold for 15 mins instead of 5 mins and double your returns"
         }
       ],
       "reads": {
-        "2122417320698237391": "No call",
         "2122449935404798195": "No call: bullish on btc (same view as before)",
         "2122457752530530598": "No call",
         "2122460396053496275": "No call",
@@ -820,7 +820,6 @@
         "2122374182835253478": false,
         "2122405792351686671": false,
         "2122407412011507978": true,
-        "2122417320698237391": true,
         "2122418007502893500": true,
         "2122418260213932091": false,
         "2122430347401113769": false,
@@ -850,7 +849,8 @@
         "2122716042405548447": true,
         "2122718668878696614": true,
         "2122718758360015031": true,
-        "2122718906381111491": true
+        "2122718906381111491": true,
+        "2122719696520978784": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7225,5 +7225,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T15:50:27+00:00"
+  "updated_at": "2026-11-17T15:54:24+00:00"
 }
