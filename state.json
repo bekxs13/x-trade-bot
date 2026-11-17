@@ -94,7 +94,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122736895176360018",
+      "last_id": "2122737320864735434",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -178,11 +178,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T22:52:41.000Z",
-          "id": "2122462892914356297",
-          "text": "My 1000x long was hunted by Wintermute"
-        },
         {
           "created_at": "2026-11-16T23:02:47.000Z",
           "id": "2122465435132240320",
@@ -292,10 +287,14 @@
           "created_at": "2026-11-17T17:01:29.000Z",
           "id": "2122736895176360018",
           "text": "The \u201cprice to earnings ratio\u201d is like Greek sirens for absolute retards everywhere"
+        },
+        {
+          "created_at": "2026-11-17T17:03:10.000Z",
+          "id": "2122737320864735434",
+          "text": "Price is not a function of any kind of \u201cfundamentals\u201d or \u201cframework\u201d it\u2019s where buyers and sellers agree. \n\n2026 and people still talking about earnings revenue free cashflow etc stop it.\n\nWe sent memecoins to $50B\n\nYour private company could be worth $2b or $100b on the same #s"
         }
       ],
       "reads": {
-        "2122462892914356297": "No call",
         "2122465435132240320": "No call",
         "2122466321367785797": "No call",
         "2122469149054239037": "No call",
@@ -311,7 +310,8 @@
         "2122724665311559900": "No call",
         "2122728159858819453": "No call",
         "2122731219381289010": "No call",
-        "2122736895176360018": "No call"
+        "2122736895176360018": "No call",
+        "2122737320864735434": "No call"
       },
       "replies": [
         {
@@ -409,10 +409,6 @@
         }
       ],
       "threads": {
-        "2118280023253921798": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2118282127066517939": {
           "alerted": [],
           "self_replies": 0
@@ -815,6 +811,10 @@
         "2122736895176360018": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122737320864735434": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -823,7 +823,6 @@
         "2122418007502893500": true,
         "2122430347401113769": false,
         "2122457903349235771": true,
-        "2122462892914356297": true,
         "2122464768078598638": false,
         "2122465435132240320": false,
         "2122466146016506326": false,
@@ -852,7 +851,8 @@
         "2122726892575068187": false,
         "2122728159858819453": true,
         "2122731219381289010": false,
-        "2122736895176360018": true
+        "2122736895176360018": true,
+        "2122737320864735434": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7218,5 +7218,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-17T17:02:27+00:00"
+  "updated_at": "2026-11-17T17:04:30+00:00"
 }
