@@ -1106,7 +1106,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123089696884408356",
+      "last_id": "2123108125209494009",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1190,11 +1190,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T23:05:04.000Z",
-          "id": "2122466008292090214",
-          "text": "everybody is trying to become the everything app\n\nrobinhood started with stocks and now is integrating prediction markets & crypto\n\npolymarket/kalshi started with prediction markets & now integrating perps & stocks\n\ncoinbase/kraken started with crypto spot trading & now integrating perps, prediction markets, & memecoins/onchain\n\npump started as a memecoin launchpad & now integrating crosschain trading, perps, prediction markets\n\nit seems like whoever has\n\n\u2022 stickiest customer retention\n\u2022 best rev-sharing systems for new users & whales\n\u2022 cross margining across the stack\n\nwill win this game\n\ndont really have strong thesis on how best to differentiate from others here, also asked this question at the end of coinbase's last earnings call"
-        },
         {
           "created_at": "2026-11-16T23:41:39.000Z",
           "id": "2122475215489753104",
@@ -1301,10 +1296,17 @@
           "created_at": "2026-11-18T16:23:23.000Z",
           "id": "2123089696884408356",
           "text": "wow"
+        },
+        {
+          "created_at": "2026-11-18T17:36:37.000Z",
+          "id": "2123108125209494009",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2123107882912948225/img/aWnj-Zmdv7WoeTkf.jpg"
+          ],
+          "text": "back in 2024, i had a conversation with @notthreadguy about how leverage should actually be used in trading\n\none of the biggest mistakes i see is people leveraging their entire portfolio instead of using leverage to manage capital more efficiently\n\ni've always viewed leverage as a tool for capital efficiency and risk management rather than a reason to take oversized positions"
         }
       ],
       "reads": {
-        "2122466008292090214": "No call",
         "2122475215489753104": "No call",
         "2122475250646692017": "No call",
         "2122486045916668376": "No call",
@@ -1322,7 +1324,8 @@
         "2122878125625262334": "No call: bearish on ai stocks (60%, too unsure)",
         "2122887688596418666": "No call",
         "2122888193007894913": "No call",
-        "2123089696884408356": "No call"
+        "2123089696884408356": "No call",
+        "2123108125209494009": "No call"
       },
       "replies": [
         {
@@ -1420,10 +1423,6 @@
         }
       ],
       "threads": {
-        "2121205434224918732": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121230917968540062": {
           "alerted": [],
           "self_replies": 0
@@ -1829,10 +1828,13 @@
         "2123089696884408356": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123108125209494009": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122466008292090214": true,
         "2122475215489753104": true,
         "2122475250646692017": true,
         "2122486045916668376": true,
@@ -1866,7 +1868,8 @@
         "2123021895918399535": false,
         "2123022956204802370": false,
         "2123033327498354848": true,
-        "2123089696884408356": false
+        "2123089696884408356": false,
+        "2123108125209494009": true
       },
       "user_id": "973261472"
     },
@@ -7192,5 +7195,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-18T16:58:26+00:00"
+  "updated_at": "2026-11-18T17:38:25+00:00"
 }
