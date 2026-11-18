@@ -4645,7 +4645,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123067646757274014",
+      "last_id": "2123078525548642347",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4834,15 +4834,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-17T20:17:59.000Z",
-          "id": "2122786348163641571",
-          "images": [
-            "https://pbs.twimg.com/media/HXWm7nxWIAEjVGh.jpg"
-          ],
-          "reply_to_id": "2122785109753627023",
-          "text": "@PaikCapital https://t.co/KAt5lkJGkc"
-        },
-        {
           "created_at": "2026-11-17T20:20:31.000Z",
           "id": "2122786986213728517",
           "reply_to_id": "2122786882983747662",
@@ -4925,6 +4916,15 @@
           "id": "2123067646757274014",
           "reply_to_id": "2122785109753627023",
           "text": "@PaikCapital oh well"
+        },
+        {
+          "created_at": "2026-11-18T15:39:00.000Z",
+          "id": "2123078525548642347",
+          "images": [
+            "https://pbs.twimg.com/media/HXawqIKWoAEaIlq.jpg"
+          ],
+          "reply_to_id": "2123069165334675742",
+          "text": "@willdepue @drydenwtbrown https://t.co/uGYgcAukcY"
         }
       ],
       "threads": {
@@ -5351,7 +5351,6 @@
         "2122735530165076157": true,
         "2122770671084110164": false,
         "2122773967278838083": true,
-        "2122786348163641571": false,
         "2122786986213728517": false,
         "2122787707227455517": false,
         "2122803614494212306": false,
@@ -5366,7 +5365,8 @@
         "2122861495847690629": false,
         "2122864695744831587": false,
         "2123061122504778147": false,
-        "2123067646757274014": false
+        "2123067646757274014": false,
+        "2123078525548642347": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7194,5 +7194,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-18T15:30:26+00:00"
+  "updated_at": "2026-11-18T15:40:24+00:00"
 }
