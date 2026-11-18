@@ -1106,7 +1106,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123033327498354848",
+      "last_id": "2123089696884408356",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1190,12 +1190,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T22:43:53.000Z",
-          "id": "2122460677499482376",
-          "quoted_text": "Backpack is coming home to the USA. \ud83c\uddfa\ud83c\uddf8\n\nWe\u2019ve received landmark CFTC approval to establish the first-ever derivatives exchange powered by one order book with unified global liquidity.\n\nLeveraged perpetuals. Crypto collateral. Cross-margin. 24/7 trading.\n\nJoin the waitlist: https://t.co/xnByot5jxX\n\nLFG \ud83c\udf92",
-          "text": "wait what \ud83d\ude28 https://t.co/LQ2NQST8JM"
-        },
         {
           "created_at": "2026-11-16T23:05:04.000Z",
           "id": "2122466008292090214",
@@ -1302,10 +1296,14 @@
           "created_at": "2026-11-18T03:02:41.000Z",
           "id": "2122888193007894913",
           "text": "which asset should i do a ta video for"
+        },
+        {
+          "created_at": "2026-11-18T16:23:23.000Z",
+          "id": "2123089696884408356",
+          "text": "wow"
         }
       ],
       "reads": {
-        "2122460677499482376": "No call",
         "2122466008292090214": "No call",
         "2122475215489753104": "No call",
         "2122475250646692017": "No call",
@@ -1323,7 +1321,8 @@
         "2122878032222282095": "No call",
         "2122878125625262334": "No call: bearish on ai stocks (60%, too unsure)",
         "2122887688596418666": "No call",
-        "2122888193007894913": "No call"
+        "2122888193007894913": "No call",
+        "2123089696884408356": "No call"
       },
       "replies": [
         {
@@ -1421,10 +1420,6 @@
         }
       ],
       "threads": {
-        "2121140489156174173": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121205434224918732": {
           "alerted": [],
           "self_replies": 0
@@ -1830,10 +1825,13 @@
         "2122888193007894913": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123089696884408356": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122460677499482376": true,
         "2122466008292090214": true,
         "2122475215489753104": true,
         "2122475250646692017": true,
@@ -1867,7 +1865,8 @@
         "2123021705899569232": false,
         "2123021895918399535": false,
         "2123022956204802370": false,
-        "2123033327498354848": true
+        "2123033327498354848": true,
+        "2123089696884408356": false
       },
       "user_id": "973261472"
     },
@@ -7193,5 +7192,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-18T16:06:23+00:00"
+  "updated_at": "2026-11-18T16:24:23+00:00"
 }
