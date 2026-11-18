@@ -1106,7 +1106,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122882936114655520",
+      "last_id": "2122887688596418666",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1190,11 +1190,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T22:16:11.000Z",
-          "id": "2122453707266666992",
-          "text": "2022: roaring crypto bull market into parabolic altcoin expansion -&gt; bubble pop -&gt; 3AC liquidation\n\n2026: roaring AI bull market into parabolic ai stocks expansion -&gt; bubble pop -&gt; Situation Awareness liquidation\n\nsame same but different"
-        },
         {
           "created_at": "2026-11-16T22:16:33.000Z",
           "id": "2122453799935906240",
@@ -1302,10 +1297,14 @@
           "created_at": "2026-11-18T02:22:40.000Z",
           "id": "2122878125625262334",
           "text": "if they do this the same way they did micron earnings in june we are in for a world of hurt"
+        },
+        {
+          "created_at": "2026-11-18T03:00:40.000Z",
+          "id": "2122887688596418666",
+          "text": "this is nasty man"
         }
       ],
       "reads": {
-        "2122453707266666992": "No call: bearish on ai stocks (same view as before)",
         "2122453799935906240": "No call: bearish on ai stocks (same view as before)",
         "2122460677499482376": "No call",
         "2122466008292090214": "No call",
@@ -1323,7 +1322,8 @@
         "2122813671814345159": "No call",
         "2122814152024690958": "No call",
         "2122878032222282095": "No call",
-        "2122878125625262334": "No call: bearish on ai stocks (60%, too unsure)"
+        "2122878125625262334": "No call: bearish on ai stocks (60%, too unsure)",
+        "2122887688596418666": "No call"
       },
       "replies": [
         {
@@ -1418,10 +1418,6 @@
         }
       ],
       "threads": {
-        "2121111540560453811": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121114446080737288": {
           "alerted": [],
           "self_replies": 0
@@ -1827,10 +1823,13 @@
         "2122878125625262334": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122887688596418666": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122453707266666992": true,
         "2122453799935906240": true,
         "2122460677499482376": true,
         "2122466008292090214": true,
@@ -1864,7 +1863,8 @@
         "2122878032222282095": true,
         "2122878125625262334": true,
         "2122878351115501596": false,
-        "2122882936114655520": true
+        "2122882936114655520": true,
+        "2122887688596418666": false
       },
       "user_id": "973261472"
     },
@@ -7198,5 +7198,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-18T02:42:20+00:00"
+  "updated_at": "2026-11-18T03:02:23+00:00"
 }
