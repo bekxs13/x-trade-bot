@@ -5467,7 +5467,7 @@
         }
       ],
       "handle": "taikimaeda2",
-      "last_id": "2123085206970306788",
+      "last_id": "2123152696085758157",
       "positions": {},
       "posts": [
         {
@@ -5649,15 +5649,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-09T21:02:59.000Z",
-          "id": "2119898569604042784",
-          "images": [
-            "https://pbs.twimg.com/media/HWtip5JWkAAiVJu.jpg"
-          ],
-          "reply_to_id": "2119892431437254963",
-          "text": "@zkDragon Great post! @ebfull said Testnet for Tachyon is coming out around this time, is that still in the works? https://t.co/Mfs2nExHXm"
-        },
-        {
           "created_at": "2026-11-10T18:44:18.000Z",
           "id": "2120226058083668033",
           "reply_to_id": "2120222515020849413",
@@ -5740,6 +5731,12 @@
           "id": "2123085206970306788",
           "reply_to_id": "2123084736860139624",
           "text": "@linenmito @variational_io you're gonna make it (though you've already made it)\n\nyou're gonna make it (again)"
+        },
+        {
+          "created_at": "2026-11-18T20:33:43.000Z",
+          "id": "2123152696085758157",
+          "reply_to_id": "2123152269143421132",
+          "text": "@derteil00 how do I do that"
         }
       ],
       "threads": {
@@ -5899,7 +5896,6 @@
         "2118741768170811600": true,
         "2119793549210489312": true,
         "2119863843870441859": true,
-        "2119898569604042784": false,
         "2120201890021748995": true,
         "2120226058083668033": false,
         "2120228847132021127": false,
@@ -5917,7 +5913,8 @@
         "2121336500831076756": false,
         "2122797050890948811": false,
         "2123075929417359723": true,
-        "2123085206970306788": false
+        "2123085206970306788": false,
+        "2123152696085758157": false
       },
       "user_id": "1064421325186359296"
     },
@@ -7224,5 +7221,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-18T20:18:22+00:00"
+  "updated_at": "2026-11-18T20:34:16+00:00"
 }
