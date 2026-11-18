@@ -6441,7 +6441,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122927484232695838",
+      "last_id": "2122928832541851874",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6634,15 +6634,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T03:50:31.000Z",
-          "id": "2122175454752764373",
-          "images": [
-            "https://pbs.twimg.com/media/HXN45ASXIAAAiAl.jpg"
-          ],
-          "reply_to_id": "2122172618363289928",
-          "text": "This is 6B worth of Gold. (1.6B in 2019... inflation...)\n\nTry transporting this. You'd need a Boeing 777F or 747-8F. Additionally getting to the plane is an issue in of itself with a bunch of armored cars, security etc. \n\nNow imagine trying to use this for settlement? Disaster.\n\nNow imagine the climate in the United States changes, FAST and you need to leave now. There is not alternative form of capital.\n\nYou can't bring your house, you can bring some of your gold, but you can bring all of your Bitcoin. \n\nIt's insurance you pay no premium on."
-        },
-        {
           "created_at": "2026-11-16T03:52:57.000Z",
           "id": "2122176066642944226",
           "reply_to_id": "2122172710528934207",
@@ -6725,6 +6716,12 @@
           "id": "2122927484232695838",
           "reply_to_id": "2122925042400895056",
           "text": "@elonmusk Grokbot is actually incredible and you guys cracked it. The model of spawning multiple agents that are siloed and do specific tasks is close to optimal UI."
+        },
+        {
+          "created_at": "2026-11-18T05:44:10.000Z",
+          "id": "2122928832541851874",
+          "reply_to_id": "2122927988299968642",
+          "text": "We inhoused all our accounting, I am potentially buying part of a law firm with my GC that will help with trusts, estate planning and potentially tax at small scale for derivative traders.\n\nTax optimization and asset protection will only go up in expected value as the US turns bluer and bluer. Better get started on it now."
         }
       ],
       "threads": {
@@ -7138,7 +7135,6 @@
         }
       },
       "trading": {
-        "2122175454752764373": true,
         "2122176066642944226": true,
         "2122176211657068925": true,
         "2122176644668436730": true,
@@ -7172,7 +7168,8 @@
         "2122861413576106408": true,
         "2122861910995652899": false,
         "2122927271837053066": false,
-        "2122927484232695838": false
+        "2122927484232695838": false,
+        "2122928832541851874": false
       },
       "user_id": "809191427645181952"
     }
@@ -7195,5 +7192,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-18T05:40:19+00:00"
+  "updated_at": "2026-11-18T05:46:26+00:00"
 }
