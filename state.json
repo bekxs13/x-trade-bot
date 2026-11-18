@@ -1106,7 +1106,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123112522651975956",
+      "last_id": "2123112670278844720",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1190,11 +1190,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T23:41:39.000Z",
-          "id": "2122475215489753104",
-          "text": "anthropic ipo"
-        },
         {
           "created_at": "2026-11-16T23:41:48.000Z",
           "id": "2122475250646692017",
@@ -1304,10 +1299,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2123107882912948225/img/aWnj-Zmdv7WoeTkf.jpg"
           ],
           "text": "back in 2024, i had a conversation with @notthreadguy about how leverage should actually be used in trading\n\none of the biggest mistakes i see is people leveraging their entire portfolio instead of using leverage to manage capital more efficiently\n\ni've always viewed leverage as a tool for capital efficiency and risk management rather than a reason to take oversized positions"
+        },
+        {
+          "created_at": "2026-11-18T17:54:40.000Z",
+          "id": "2123112670278844720",
+          "text": "iight bros i fear we are approaching a do or die spot for the coins next few weeks"
         }
       ],
       "reads": {
-        "2122475215489753104": "No call",
         "2122475250646692017": "No call",
         "2122486045916668376": "No call",
         "2122664593994768649": "No call",
@@ -1325,7 +1324,8 @@
         "2122887688596418666": "No call",
         "2122888193007894913": "No call",
         "2123089696884408356": "No call",
-        "2123108125209494009": "No call"
+        "2123108125209494009": "No call",
+        "2123112670278844720": "No call: bearish on crypto market (60%, too unsure)"
       },
       "replies": [
         {
@@ -1423,10 +1423,6 @@
         }
       ],
       "threads": {
-        "2121230917968540062": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121257385394155563": {
           "alerted": [],
           "self_replies": 0
@@ -1832,10 +1828,13 @@
         "2123108125209494009": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123112670278844720": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122475215489753104": true,
         "2122475250646692017": true,
         "2122486045916668376": true,
         "2122487584136069181": false,
@@ -1869,7 +1868,8 @@
         "2123033327498354848": true,
         "2123089696884408356": false,
         "2123108125209494009": true,
-        "2123112522651975956": false
+        "2123112522651975956": false,
+        "2123112670278844720": true
       },
       "user_id": "973261472"
     },
@@ -7195,5 +7195,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-18T17:54:20+00:00"
+  "updated_at": "2026-11-18T17:56:28+00:00"
 }
