@@ -1106,7 +1106,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2122877781646225634",
+      "last_id": "2122878351115501596",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1190,18 +1190,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T20:53:27.000Z",
-          "id": "2122432887618507025",
-          "quoted_text": "think $MU beats on ER makes a fresh new all time high & then thats the memory top for a couple months\n\nmag7 has already been notably weak and down off the highs, memory & semis have been carrying the market\n\nwas wrong on SpaceX strength until first major unlocks which is another sign of retail buyer exhaustion in market imo, will cut this on sustained weakness below open price at $150\n\ncapex concerns become materially more important if open source models continue to compete w/ closed source at m",
-          "text": "it seems we are here again, memory and equities are much lower while bitcoin is same price, i am less confident in the divergence this time\n\nwhat do you all think https://t.co/AbilIeFk7V"
-        },
-        {
-          "created_at": "2026-11-16T22:14:53.000Z",
-          "id": "2122453380631085133",
-          "quoted_text": "*SITUATIONAL AWARENESS 13F VALUE PLUNGES 92% TO $1.58B IN Q3 FROM $20.2B IN Q2",
-          "text": "just a scratch https://t.co/15tpNaLCum"
-        },
         {
           "created_at": "2026-11-16T22:16:11.000Z",
           "id": "2122453707266666992",
@@ -1304,11 +1292,19 @@
           "created_at": "2026-11-17T22:08:28.000Z",
           "id": "2122814152024690958",
           "text": "trading crypto to capture nvda earnings volatility is what i imagine riding the short bus to school felt like"
+        },
+        {
+          "created_at": "2026-11-18T02:22:18.000Z",
+          "id": "2122878032222282095",
+          "text": "no way theyre nuking the nvda earnings pump omg"
+        },
+        {
+          "created_at": "2026-11-18T02:22:40.000Z",
+          "id": "2122878125625262334",
+          "text": "if they do this the same way they did micron earnings in june we are in for a world of hurt"
         }
       ],
       "reads": {
-        "2122432887618507025": "No call: neutral on btc (55%, too unsure)",
-        "2122453380631085133": "No call",
         "2122453707266666992": "No call: bearish on ai stocks (same view as before)",
         "2122453799935906240": "No call: bearish on ai stocks (same view as before)",
         "2122460677499482376": "No call",
@@ -1325,18 +1321,11 @@
         "2122721857011163451": "No call",
         "2122753788800839849": "No call: bullish on anthropic (55%, too unsure)",
         "2122813671814345159": "No call",
-        "2122814152024690958": "No call"
+        "2122814152024690958": "No call",
+        "2122878032222282095": "No call",
+        "2122878125625262334": "No call: bearish on ai stocks (60%, too unsure)"
       },
       "replies": [
-        {
-          "created_at": "2026-11-17T18:40:13.000Z",
-          "id": "2122761745378717988",
-          "images": [
-            "https://pbs.twimg.com/media/HXWQjqYWUAAgawP.jpg"
-          ],
-          "reply_to_id": "2122760226416079313",
-          "text": "@cryptosanthoshK just relax a bit brother here take a cig solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/5OJOLwfIXl"
-        },
         {
           "created_at": "2026-11-17T18:56:55.000Z",
           "id": "2122765945727074660",
@@ -1423,17 +1412,15 @@
           "id": "2122877781646225634",
           "reply_to_id": "2122864103303577830",
           "text": "@KntOnTrenches @Saint10Fourteen when the bottom is in!"
+        },
+        {
+          "created_at": "2026-11-18T02:23:34.000Z",
+          "id": "2122878351115501596",
+          "reply_to_id": "2122878278541160859",
+          "text": "@notwashed oh my GOD"
         }
       ],
       "threads": {
-        "2121105640462422424": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2121108153081462890": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121111540560453811": {
           "alerted": [],
           "self_replies": 0
@@ -1835,11 +1822,17 @@
         "2122814152024690958": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122878032222282095": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2122878125625262334": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122432887618507025": true,
-        "2122453380631085133": true,
         "2122453707266666992": true,
         "2122453799935906240": true,
         "2122460677499482376": true,
@@ -1856,7 +1849,6 @@
         "2122720974562795913": false,
         "2122721857011163451": false,
         "2122753788800839849": true,
-        "2122761745378717988": true,
         "2122765945727074660": true,
         "2122779830664012125": true,
         "2122786587989733672": false,
@@ -1872,7 +1864,10 @@
         "2122863041196741102": true,
         "2122876980215292282": true,
         "2122877372617949217": false,
-        "2122877781646225634": true
+        "2122877781646225634": true,
+        "2122878032222282095": true,
+        "2122878125625262334": true,
+        "2122878351115501596": false
       },
       "user_id": "973261472"
     },
@@ -7206,5 +7201,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-18T02:22:24+00:00"
+  "updated_at": "2026-11-18T02:24:30+00:00"
 }
