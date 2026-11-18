@@ -94,7 +94,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122846063740801250",
+      "last_id": "2122858697257021617",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -178,11 +178,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T23:17:33.000Z",
-          "id": "2122469149054239037",
-          "text": "Situational awareness reportedly looking to use their anthropic stake as collateral \u201cwe\u2019re not stopping until -100%\u201d"
-        },
         {
           "created_at": "2026-11-17T01:36:10.000Z",
           "id": "2122504035391717646",
@@ -289,10 +284,17 @@
           "created_at": "2026-11-17T21:53:07.000Z",
           "id": "2122810288328376537",
           "text": "NVDA bounces to yesterdays close on huge earnings beat \ud83d\ude80"
+        },
+        {
+          "created_at": "2026-11-18T01:05:28.000Z",
+          "id": "2122858697257021617",
+          "images": [
+            "https://pbs.twimg.com/media/HXXouQkbEAAA7jb.jpg"
+          ],
+          "text": "\u201cUs\u201d https://t.co/SqWOi67Zjv"
         }
       ],
       "reads": {
-        "2122469149054239037": "No call",
         "2122504035391717646": "No call",
         "2122505142029398249": "No call",
         "2122520967373279617": "No call",
@@ -308,7 +310,8 @@
         "2122736895176360018": "No call",
         "2122737320864735434": "No call",
         "2122746051178475852": "No call",
-        "2122810288328376537": "No call: bearish on NVDA (same view as before)"
+        "2122810288328376537": "No call: bearish on NVDA (same view as before)",
+        "2122858697257021617": "No call"
       },
       "replies": [
         {
@@ -406,10 +409,6 @@
         }
       ],
       "threads": {
-        "2118452832915640738": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118455163434475725": {
           "alerted": [],
           "self_replies": 0
@@ -812,6 +811,10 @@
         "2122810288328376537": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122858697257021617": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -819,7 +822,6 @@
         "2122457903349235771": true,
         "2122464768078598638": false,
         "2122466146016506326": false,
-        "2122469149054239037": true,
         "2122470943419514973": false,
         "2122476685383836014": true,
         "2122477628452192336": false,
@@ -849,7 +851,8 @@
         "2122738982299779556": false,
         "2122746051178475852": false,
         "2122810288328376537": true,
-        "2122846063740801250": false
+        "2122846063740801250": false,
+        "2122858697257021617": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4647,7 +4650,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2122853268267454559",
+      "last_id": "2122858755339727160",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4836,12 +4839,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-17T15:49:31.000Z",
-          "id": "2122718788005089773",
-          "reply_to_id": "2122707846458757126",
-          "text": "@JackFarley96 @citrini @GavinSBaker @TomorrowXSummit i heard it with my own ears"
-        },
-        {
           "created_at": "2026-11-17T16:14:27.000Z",
           "id": "2122725062650278269",
           "reply_to_id": "2122718288254025901",
@@ -4927,6 +4924,12 @@
           "id": "2122853268267454559",
           "reply_to_id": "2122838672319906106",
           "text": "@JamesChristoph cmon man"
+        },
+        {
+          "created_at": "2026-11-18T01:05:42.000Z",
+          "id": "2122858755339727160",
+          "reply_to_id": "2122858697257021617",
+          "text": "@based16z layup thanks g"
         }
       ],
       "threads": {
@@ -5347,7 +5350,6 @@
         "2122708933517381708": true,
         "2122715852126732605": false,
         "2122718253877539031": true,
-        "2122718788005089773": false,
         "2122725062650278269": false,
         "2122732665547956693": true,
         "2122733483869233444": true,
@@ -5368,7 +5370,8 @@
         "2122836614057807911": false,
         "2122839572350402702": false,
         "2122843614204105083": false,
-        "2122853268267454559": false
+        "2122853268267454559": false,
+        "2122858755339727160": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7206,5 +7209,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-18T00:44:18+00:00"
+  "updated_at": "2026-11-18T01:06:21+00:00"
 }
