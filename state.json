@@ -6441,7 +6441,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122928832541851874",
+      "last_id": "2122930064639889851",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6493,14 +6493,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T20:22:21.000Z",
-          "id": "2122425061152018605",
-          "images": [
-            "https://pbs.twimg.com/media/HXReTYRXwAAIUT5.jpg"
-          ],
-          "text": "\"...Imagine listening to Lana Del Rey here...\" https://t.co/WtuK0zA4jS"
-        },
         {
           "created_at": "2026-11-16T20:27:20.000Z",
           "id": "2122426314833703317",
@@ -6608,10 +6600,14 @@
           "created_at": "2026-11-18T05:37:58.000Z",
           "id": "2122927271837053066",
           "text": "Tax evasion is impossible with the advent of LLMs. Don't believe me? Upload any EVM address into an agent and ask it about all it's trading history, PnL, and current projected tax based on your jurisdiction.\n\nPay your taxes people."
+        },
+        {
+          "created_at": "2026-11-18T05:49:04.000Z",
+          "id": "2122930064639889851",
+          "text": "Long Delaware Trusts\n\nLong Off Shore Bank accounts\n\nLong Second Nationality Passport\n\nLong Asset Protection mechanisms\n\nLong per outcome based pricing lawfirms"
         }
       ],
       "reads": {
-        "2122425061152018605": "No call",
         "2122426314833703317": "No call",
         "2122429437522354541": "No call",
         "2122449727492968779": "No call",
@@ -6630,7 +6626,8 @@
         "2122842932663447614": "No call",
         "2122861413576106408": "No call",
         "2122861910995652899": "No call",
-        "2122927271837053066": "No call"
+        "2122927271837053066": "No call",
+        "2122930064639889851": "No call"
       },
       "replies": [
         {
@@ -6725,10 +6722,6 @@
         }
       ],
       "threads": {
-        "2121267317493408147": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121273483305042028": {
           "alerted": [],
           "self_replies": 0
@@ -7132,6 +7125,10 @@
         "2122927271837053066": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122930064639889851": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7141,7 +7138,6 @@
         "2122177068783771982": true,
         "2122397767507333376": false,
         "2122422704460492908": true,
-        "2122425061152018605": false,
         "2122426314833703317": true,
         "2122429437522354541": true,
         "2122446465822007696": true,
@@ -7169,7 +7165,8 @@
         "2122861910995652899": false,
         "2122927271837053066": false,
         "2122927484232695838": false,
-        "2122928832541851874": false
+        "2122928832541851874": false,
+        "2122930064639889851": false
       },
       "user_id": "809191427645181952"
     }
@@ -7192,5 +7189,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-18T05:46:26+00:00"
+  "updated_at": "2026-11-18T05:50:23+00:00"
 }
