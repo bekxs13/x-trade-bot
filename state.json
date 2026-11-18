@@ -6441,7 +6441,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122934965654442133",
+      "last_id": "2122935765634068839",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6629,12 +6629,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T03:52:57.000Z",
-          "id": "2122176066642944226",
-          "reply_to_id": "2122172710528934207",
-          "text": "That's reasonable, I haven't thought about the touching coins optics, but I guess playing devil's advocate isn't whatever the network decides, whatever fork you choose ultimately up to you? Stay on the fork with no inflation rewards, stay on the fork with inflation rewards, stay on OG Bitcoin. \n\nBitcoin is about maximizing optionality."
-        },
-        {
           "created_at": "2026-11-16T03:53:31.000Z",
           "id": "2122176211657068925",
           "reply_to_id": "2122176054919827762",
@@ -6717,6 +6711,12 @@
           "id": "2122928832541851874",
           "reply_to_id": "2122927988299968642",
           "text": "We inhoused all our accounting, I am potentially buying part of a law firm with my GC that will help with trusts, estate planning and potentially tax at small scale for derivative traders.\n\nTax optimization and asset protection will only go up in expected value as the US turns bluer and bluer. Better get started on it now."
+        },
+        {
+          "created_at": "2026-11-18T06:11:43.000Z",
+          "id": "2122935765634068839",
+          "reply_to_id": "2122934118283624748",
+          "text": "There\u2019s no need, Claude will do it better than any software and keep improving at a rate faster than you can ship.\n\nJust put your EVM address into a mid tier model and ask it to net out all your PNL and it will be very close.\n\nIf you\u2019re talking about the filing, tax optimization and other more granular things that the agent will not do for you then yeah"
         }
       ],
       "threads": {
@@ -7130,7 +7130,6 @@
         }
       },
       "trading": {
-        "2122176066642944226": true,
         "2122176211657068925": true,
         "2122176644668436730": true,
         "2122177068783771982": true,
@@ -7164,7 +7163,8 @@
         "2122927484232695838": false,
         "2122928832541851874": false,
         "2122930064639889851": false,
-        "2122934965654442133": true
+        "2122934965654442133": true,
+        "2122935765634068839": true
       },
       "user_id": "809191427645181952"
     }
@@ -7187,5 +7187,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-18T06:10:27+00:00"
+  "updated_at": "2026-11-18T06:12:19+00:00"
 }
