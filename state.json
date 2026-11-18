@@ -6446,7 +6446,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122843861990932964",
+      "last_id": "2122852278990168201",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6645,12 +6645,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T03:35:37.000Z",
-          "id": "2122171705229554016",
-          "reply_to_id": "2122171118010110287",
-          "text": "@McdoNakamoto This is a great point actually. \n\nPeople that are paying attention are watching the growth of onchain, permissionless trading and salivating to build more normie friendly products. \n\nI totally agree, 99.99% of people should never interact with a blockchain."
-        },
-        {
           "created_at": "2026-11-16T03:39:17.000Z",
           "id": "2122172629582790876",
           "reply_to_id": "2122171654562369987",
@@ -6736,6 +6730,12 @@
           "id": "2122843861990932964",
           "reply_to_id": "2122843549423239653",
           "text": "@TORROCRYPTO Dawg"
+        },
+        {
+          "created_at": "2026-11-18T00:39:58.000Z",
+          "id": "2122852278990168201",
+          "reply_to_id": "2122848126067523853",
+          "text": "@altcap Great work, you crushed it"
         }
       ],
       "threads": {
@@ -7149,7 +7149,6 @@
         }
       },
       "trading": {
-        "2122171705229554016": false,
         "2122172629582790876": true,
         "2122175454752764373": true,
         "2122176066642944226": true,
@@ -7183,7 +7182,8 @@
         "2122840751264686182": true,
         "2122842377631260804": true,
         "2122842932663447614": true,
-        "2122843861990932964": false
+        "2122843861990932964": false,
+        "2122852278990168201": false
       },
       "user_id": "809191427645181952"
     }
@@ -7206,5 +7206,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-18T00:32:18+00:00"
+  "updated_at": "2026-11-18T00:40:22+00:00"
 }
