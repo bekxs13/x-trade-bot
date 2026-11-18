@@ -6441,7 +6441,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122861910995652899",
+      "last_id": "2122927271837053066",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6493,14 +6493,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T19:23:31.000Z",
-          "id": "2122410252977283480",
-          "images": [
-            "https://pbs.twimg.com/media/HXRQ3YKXQAEAfFS.jpg"
-          ],
-          "text": "Hood probably a buy in the 50s https://t.co/paW17eLU0W"
-        },
         {
           "created_at": "2026-11-16T20:22:21.000Z",
           "id": "2122425061152018605",
@@ -6611,10 +6603,14 @@
           "created_at": "2026-11-18T01:18:15.000Z",
           "id": "2122861910995652899",
           "text": "Never been an easier or cheaper time in human history to learn and be productive. \n\nZero excuses."
+        },
+        {
+          "created_at": "2026-11-18T05:37:58.000Z",
+          "id": "2122927271837053066",
+          "text": "Tax evasion is impossible with the advent of LLMs. Don't believe me? Upload any EVM address into an agent and ask it about all it's trading history, PnL, and current projected tax based on your jurisdiction.\n\nPay your taxes people."
         }
       ],
       "reads": {
-        "2122410252977283480": "No call: bearish on HOOD (65%, too unsure)",
         "2122425061152018605": "No call",
         "2122426314833703317": "No call",
         "2122429437522354541": "No call",
@@ -6633,7 +6629,8 @@
         "2122842377631260804": "No call",
         "2122842932663447614": "No call",
         "2122861413576106408": "No call",
-        "2122861910995652899": "No call"
+        "2122861910995652899": "No call",
+        "2122927271837053066": "No call"
       },
       "replies": [
         {
@@ -6731,10 +6728,6 @@
         }
       ],
       "threads": {
-        "2121265838338548157": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121267317493408147": {
           "alerted": [],
           "self_replies": 0
@@ -7138,6 +7131,10 @@
         "2122861910995652899": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122927271837053066": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7148,7 +7145,6 @@
         "2122176644668436730": true,
         "2122177068783771982": true,
         "2122397767507333376": false,
-        "2122410252977283480": true,
         "2122422704460492908": true,
         "2122425061152018605": false,
         "2122426314833703317": true,
@@ -7175,7 +7171,8 @@
         "2122843861990932964": false,
         "2122852278990168201": false,
         "2122861413576106408": true,
-        "2122861910995652899": false
+        "2122861910995652899": false,
+        "2122927271837053066": false
       },
       "user_id": "809191427645181952"
     }
@@ -7198,5 +7195,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-18T05:22:24+00:00"
+  "updated_at": "2026-11-18T05:38:26+00:00"
 }
