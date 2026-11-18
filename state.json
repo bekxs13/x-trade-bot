@@ -94,7 +94,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123168137671753814",
+      "last_id": "2123168744268812722",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -324,12 +324,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T22:32:52.000Z",
-          "id": "2122457903349235771",
-          "reply_to_id": "2122457651489698027",
-          "text": "@stoicsavage Well I guess it was an even better long at 62k and then sale at 65k"
-        },
-        {
           "created_at": "2026-11-16T23:00:08.000Z",
           "id": "2122464768078598638",
           "images": [
@@ -415,6 +409,12 @@
           "id": "2122939256331268562",
           "reply_to_id": "2122897220920099021",
           "text": "@justinmateen @Kalshi @mansourtarek_ @luanalopeslara I do agree that the American dream is now gambling \ud83d\ude80"
+        },
+        {
+          "created_at": "2026-11-18T21:37:29.000Z",
+          "id": "2123168744268812722",
+          "reply_to_id": "2123167397385273759",
+          "text": "@abcampbell Do u own bond upside?"
         }
       ],
       "threads": {
@@ -827,7 +827,6 @@
         }
       },
       "trading": {
-        "2122457903349235771": true,
         "2122464768078598638": false,
         "2122466146016506326": false,
         "2122470943419514973": false,
@@ -861,7 +860,8 @@
         "2123114159529464276": false,
         "2123117463932207409": true,
         "2123127306067841269": false,
-        "2123168137671753814": true
+        "2123168137671753814": true,
+        "2123168744268812722": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7232,5 +7232,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-18T21:36:32+00:00"
+  "updated_at": "2026-11-18T21:38:20+00:00"
 }
