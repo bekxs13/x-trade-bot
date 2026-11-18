@@ -2275,7 +2275,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2122842126597910877",
+      "last_id": "2122843077987434817",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2450,12 +2450,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T22:14:51.000Z",
-          "id": "2122453371500323175",
-          "reply_to_id": "2122448835427660091",
-          "text": "@jukan05 why? nobody was extending them margin after july so they are basically definitionally alive"
-        },
-        {
           "created_at": "2026-11-16T22:49:20.000Z",
           "id": "2122462047526867268",
           "reply_to_id": "2122443484254872049",
@@ -2541,6 +2535,12 @@
           "id": "2122842126597910877",
           "reply_to_id": "2122842040027451652",
           "text": "@hopes_revenge chines"
+        },
+        {
+          "created_at": "2026-11-18T00:03:24.000Z",
+          "id": "2122843077987434817",
+          "reply_to_id": "2122842929559421422",
+          "text": "@IDrawCharts \ud83e\udee1\ud83e\udee1\ud83e\udee1"
         }
       ],
       "threads": {
@@ -2959,7 +2959,6 @@
         "2122369305081987326": false,
         "2122449003434348586": true,
         "2122449087371018382": false,
-        "2122453371500323175": true,
         "2122462047526867268": false,
         "2122462257087185300": false,
         "2122468789233373456": false,
@@ -2982,7 +2981,8 @@
         "2122800189513650623": true,
         "2122802681677070526": true,
         "2122841755405975768": false,
-        "2122842126597910877": false
+        "2122842126597910877": false,
+        "2122843077987434817": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6443,7 +6443,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122842377631260804",
+      "last_id": "2122842932663447614",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6495,14 +6495,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T18:31:50.000Z",
-          "id": "2122397245555224829",
-          "images": [
-            "https://pbs.twimg.com/media/HXREupwWwAAq3-r.png"
-          ],
-          "text": "Hyperliquid https://t.co/icchp6hTBi"
-        },
         {
           "created_at": "2026-11-16T19:08:45.000Z",
           "id": "2122406539021439441",
@@ -6618,10 +6610,15 @@
           "created_at": "2026-11-18T00:00:37.000Z",
           "id": "2122842377631260804",
           "text": "Probably optimal flow for trading in the far future\n\nDeposit Stablecoins -> Agent\n\nAgent asks what you want to trade, can be idea and then it suggests trades, or can be more abstracted\n\nAgent goes out and finds best pricing on available venues (ideally onchain for us crypto guys)\n\nAgent places trade\n\nBrokerages of convenience but lacking assets seem to really lose here, the only thing that matters is market access (bullish onchain, even if pricing is worse?)"
+        },
+        {
+          "created_at": "2026-11-18T00:02:50.000Z",
+          "id": "2122842932663447614",
+          "reply_to_id": "2122842377631260804",
+          "text": "Should be really bullish HL potentially since there won't be any signup and best pricing onchain is typically there? \n\nBearish brokerages with KYC and lack of market access? (RH... Schwab...)"
         }
       ],
       "reads": {
-        "2122397245555224829": "No call",
         "2122406539021439441": "No call",
         "2122408040838414705": "No call",
         "2122410252977283480": "No call: bearish on HOOD (65%, too unsure)",
@@ -6640,7 +6637,8 @@
         "2122839803011981341": "No call",
         "2122840459982606570": "No call",
         "2122840751264686182": "No call",
-        "2122842377631260804": "No call"
+        "2122842377631260804": "No call",
+        "2122842932663447614": "No call"
       },
       "replies": [
         {
@@ -7144,7 +7142,7 @@
         },
         "2122842377631260804": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
@@ -7156,7 +7154,6 @@
         "2122176211657068925": true,
         "2122176644668436730": true,
         "2122177068783771982": true,
-        "2122397245555224829": true,
         "2122397767507333376": false,
         "2122406539021439441": true,
         "2122408040838414705": false,
@@ -7182,7 +7179,8 @@
         "2122839803011981341": false,
         "2122840459982606570": false,
         "2122840751264686182": true,
-        "2122842377631260804": true
+        "2122842377631260804": true,
+        "2122842932663447614": true
       },
       "user_id": "809191427645181952"
     }
@@ -7205,5 +7203,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-18T00:02:33+00:00"
+  "updated_at": "2026-11-18T00:04:30+00:00"
 }
