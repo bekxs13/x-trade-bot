@@ -94,7 +94,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122858697257021617",
+      "last_id": "2122895895444475977",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -178,11 +178,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T01:36:10.000Z",
-          "id": "2122504035391717646",
-          "text": "Is it doomer to find microsoft outage nationwide ground stop amtrak outage tanker cruise ship collision bank outage bomb threat united airlines outage this week a bit sus?"
-        },
         {
           "created_at": "2026-11-17T01:40:34.000Z",
           "id": "2122505142029398249",
@@ -292,10 +287,14 @@
             "https://pbs.twimg.com/media/HXXouQkbEAAA7jb.jpg"
           ],
           "text": "\u201cUs\u201d https://t.co/SqWOi67Zjv"
+        },
+        {
+          "created_at": "2026-11-18T03:33:17.000Z",
+          "id": "2122895895444475977",
+          "text": "NSA Compromised: Official Press Release"
         }
       ],
       "reads": {
-        "2122504035391717646": "No call",
         "2122505142029398249": "No call",
         "2122520967373279617": "No call",
         "2122533126136361453": "No call",
@@ -311,7 +310,8 @@
         "2122737320864735434": "No call",
         "2122746051178475852": "No call",
         "2122810288328376537": "No call: bearish on NVDA (same view as before)",
-        "2122858697257021617": "No call"
+        "2122858697257021617": "No call",
+        "2122895895444475977": "No call"
       },
       "replies": [
         {
@@ -409,10 +409,6 @@
         }
       ],
       "threads": {
-        "2118455163434475725": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118467299153944660": {
           "alerted": [],
           "self_replies": 0
@@ -815,6 +811,10 @@
         "2122858697257021617": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122895895444475977": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -825,7 +825,6 @@
         "2122470943419514973": false,
         "2122476685383836014": true,
         "2122477628452192336": false,
-        "2122504035391717646": false,
         "2122504567489507443": false,
         "2122505142029398249": false,
         "2122508197248594149": false,
@@ -852,7 +851,8 @@
         "2122746051178475852": false,
         "2122810288328376537": true,
         "2122846063740801250": false,
-        "2122858697257021617": false
+        "2122858697257021617": false,
+        "2122895895444475977": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7198,5 +7198,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-18T03:24:19+00:00"
+  "updated_at": "2026-11-18T03:34:24+00:00"
 }
