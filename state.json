@@ -5436,7 +5436,7 @@
         }
       ],
       "handle": "taikimaeda2",
-      "last_id": "2123075929417359723",
+      "last_id": "2123085206970306788",
       "positions": {},
       "posts": [
         {
@@ -5618,12 +5618,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-08T03:23:45.000Z",
-          "id": "2119269615650127926",
-          "reply_to_id": "2119263794375348623",
-          "text": "@zectrillionaire I just stare at the chart and hope it goes up"
-        },
-        {
           "created_at": "2026-11-09T21:02:59.000Z",
           "id": "2119898569604042784",
           "images": [
@@ -5709,6 +5703,12 @@
           "id": "2121336500831076756",
           "reply_to_id": "2121329927417192671",
           "text": "@5morewhooppers LGW"
+        },
+        {
+          "created_at": "2026-11-18T16:05:33.000Z",
+          "id": "2123085206970306788",
+          "reply_to_id": "2123084736860139624",
+          "text": "@linenmito @variational_io you're gonna make it (though you've already made it)\n\nyou're gonna make it (again)"
         }
       ],
       "threads": {
@@ -5866,7 +5866,6 @@
         "2118716140021272827": true,
         "2118716728331129234": true,
         "2118741768170811600": true,
-        "2119269615650127926": true,
         "2119793549210489312": true,
         "2119863843870441859": true,
         "2119898569604042784": false,
@@ -5886,7 +5885,8 @@
         "2121102665962688983": true,
         "2121336500831076756": false,
         "2122797050890948811": false,
-        "2123075929417359723": true
+        "2123075929417359723": true,
+        "2123085206970306788": false
       },
       "user_id": "1064421325186359296"
     },
@@ -7193,5 +7193,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-18T15:46:24+00:00"
+  "updated_at": "2026-11-18T16:06:23+00:00"
 }
