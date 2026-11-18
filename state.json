@@ -4645,7 +4645,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123078525548642347",
+      "last_id": "2123079022867320922",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4697,12 +4697,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T21:55:12.000Z",
-          "id": "2122448425782325617",
-          "quoted_text": "*JENSEN HUANG PULLS OUT OF VALOR, ATREIDES SUMMIT IN AUSTIN\n\n$NVDA",
-          "text": "FUUUUCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK https://t.co/be4h5FMAeP"
-        },
         {
           "created_at": "2026-11-16T22:11:18.000Z",
           "id": "2122452476016161164",
@@ -4811,10 +4805,15 @@
           "id": "2122818271603040372",
           "reply_to_id": "2122818242703987033",
           "text": "@BaggerWalmart it wasn\u2019t that bad"
+        },
+        {
+          "created_at": "2026-11-18T15:40:58.000Z",
+          "id": "2123079022867320922",
+          "reply_to_id": "2122818271603040372",
+          "text": "@BaggerWalmart \ud83e\udeea"
         }
       ],
       "reads": {
-        "2122448425782325617": "No call",
         "2122452476016161164": "No call",
         "2122460720537481379": "No call",
         "2122462607747748155": "No call",
@@ -5332,7 +5331,6 @@
         }
       },
       "trading": {
-        "2122448425782325617": true,
         "2122452476016161164": false,
         "2122460720537481379": false,
         "2122462607747748155": false,
@@ -5366,7 +5364,8 @@
         "2122864695744831587": false,
         "2123061122504778147": false,
         "2123067646757274014": false,
-        "2123078525548642347": false
+        "2123078525548642347": false,
+        "2123079022867320922": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7194,5 +7193,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-18T15:40:24+00:00"
+  "updated_at": "2026-11-18T15:42:18+00:00"
 }
