@@ -6441,7 +6441,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122927271837053066",
+      "last_id": "2122927484232695838",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6634,12 +6634,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T03:39:17.000Z",
-          "id": "2122172629582790876",
-          "reply_to_id": "2122171654562369987",
-          "text": "@Buhlaque Is it stealing or do you give people 1-2 years to move coins over? You can't push it out forever if quantum risk is actually real.\n\nOpen to any ideas."
-        },
-        {
           "created_at": "2026-11-16T03:50:31.000Z",
           "id": "2122175454752764373",
           "images": [
@@ -6725,6 +6719,12 @@
           "id": "2122852278990168201",
           "reply_to_id": "2122848126067523853",
           "text": "@altcap Great work, you crushed it"
+        },
+        {
+          "created_at": "2026-11-18T05:38:48.000Z",
+          "id": "2122927484232695838",
+          "reply_to_id": "2122925042400895056",
+          "text": "@elonmusk Grokbot is actually incredible and you guys cracked it. The model of spawning multiple agents that are siloed and do specific tasks is close to optimal UI."
         }
       ],
       "threads": {
@@ -7138,7 +7138,6 @@
         }
       },
       "trading": {
-        "2122172629582790876": true,
         "2122175454752764373": true,
         "2122176066642944226": true,
         "2122176211657068925": true,
@@ -7172,7 +7171,8 @@
         "2122852278990168201": false,
         "2122861413576106408": true,
         "2122861910995652899": false,
-        "2122927271837053066": false
+        "2122927271837053066": false,
+        "2122927484232695838": false
       },
       "user_id": "809191427645181952"
     }
@@ -7195,5 +7195,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-18T05:38:26+00:00"
+  "updated_at": "2026-11-18T05:40:19+00:00"
 }
