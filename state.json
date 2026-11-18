@@ -94,7 +94,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123114159529464276",
+      "last_id": "2123117463932207409",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -178,12 +178,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T01:52:43.000Z",
-          "id": "2122508197248594149",
-          "reply_to_id": "2122505142029398249",
-          "text": "I\u2019m not even feeling that doomy rn personally but that\u2019s definitely what they\u2019re putting on the airwaves"
-        },
         {
           "created_at": "2026-11-17T02:43:27.000Z",
           "id": "2122520967373279617",
@@ -295,6 +289,12 @@
           ],
           "quoted_text": "BREAKING: Michigan shuts down sports betting on Kalshi, Polymarket, Robinhood and Coinbase\n\nPlus:\n\u2022 Polymarket must close every Michigan user\u2019s open bets by Nov 25",
           "text": "https://t.co/qZ1zZwxf1K https://t.co/1rvcz0EdK7"
+        },
+        {
+          "created_at": "2026-11-18T18:13:43.000Z",
+          "id": "2123117463932207409",
+          "reply_to_id": "2123114159529464276",
+          "text": "Gonna be a crazy couple years it\u2019s hilarious that we can\u2019t have capital market cycles where ppl don\u2019t go to jail at the end anymore. 2022 was nutty"
         }
       ],
       "reads": {
@@ -314,7 +314,8 @@
         "2122810288328376537": "No call: bearish on NVDA (same view as before)",
         "2122858697257021617": "No call",
         "2122895895444475977": "No call",
-        "2123114159529464276": "No call"
+        "2123114159529464276": "No call",
+        "2123117463932207409": "No call"
       },
       "replies": [
         {
@@ -817,7 +818,7 @@
         },
         "2123114159529464276": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
@@ -828,7 +829,6 @@
         "2122476685383836014": true,
         "2122477628452192336": false,
         "2122504567489507443": false,
-        "2122508197248594149": false,
         "2122520967373279617": false,
         "2122533126136361453": true,
         "2122560948896751951": false,
@@ -855,7 +855,8 @@
         "2122858697257021617": false,
         "2122895895444475977": false,
         "2122939256331268562": false,
-        "2123114159529464276": false
+        "2123114159529464276": false,
+        "2123117463932207409": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7222,5 +7223,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-18T18:12:21+00:00"
+  "updated_at": "2026-11-18T18:14:31+00:00"
 }
