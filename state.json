@@ -2308,7 +2308,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123169129997681036",
+      "last_id": "2123171076410671537",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2328,12 +2328,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T02:51:36.000Z",
-          "id": "2121435853113430113",
-          "quoted_text": "How's the AI trade going? https://t.co/TgrnByCMnH",
-          "text": "checked overnight crypto moves makes sense https://t.co/M0dOY7MdIn"
-        },
         {
           "created_at": "2026-11-14T03:13:38.000Z",
           "id": "2121441396607345065",
@@ -2465,10 +2459,17 @@
           ],
           "reply_to_id": "2123165114883072177",
           "text": "the water looks like pink lemonade https://t.co/3E0TUGURLu"
+        },
+        {
+          "created_at": "2026-11-18T21:46:45.000Z",
+          "id": "2123171076410671537",
+          "images": [
+            "https://pbs.twimg.com/media/HXcE0sPXYAE8Yjq.jpg"
+          ],
+          "text": "https://t.co/MkYeqG83Em"
         }
       ],
       "reads": {
-        "2121435853113430113": "No call",
         "2121441396607345065": "No call",
         "2121665724699885572": "No call",
         "2121822838982353176": "No call",
@@ -2486,7 +2487,8 @@
         "2122802681677070526": "No call",
         "2122841755405975768": "No call",
         "2123165114883072177": "No call",
-        "2123166568771367055": "No call"
+        "2123166568771367055": "No call",
+        "2123171076410671537": "No call"
       },
       "replies": [
         {
@@ -2587,10 +2589,6 @@
         }
       ],
       "threads": {
-        "2116343046484947007": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116419869730029956": {
           "alerted": [],
           "self_replies": 0
@@ -2988,10 +2986,13 @@
         "2123165114883072177": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2123171076410671537": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121435853113430113": true,
         "2121441396607345065": false,
         "2121665724699885572": true,
         "2121822838982353176": false,
@@ -3025,7 +3026,8 @@
         "2122893351578227070": false,
         "2123165114883072177": false,
         "2123166568771367055": false,
-        "2123169129997681036": false
+        "2123169129997681036": false,
+        "2123171076410671537": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7232,5 +7234,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-18T21:40:19+00:00"
+  "updated_at": "2026-11-18T21:48:25+00:00"
 }
