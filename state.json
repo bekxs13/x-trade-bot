@@ -94,7 +94,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122939256331268562",
+      "last_id": "2123114159529464276",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -178,12 +178,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T01:40:34.000Z",
-          "id": "2122505142029398249",
-          "reply_to_id": "2122504035391717646",
-          "text": "Ok and also 30 foot waves in San Francisco Jensen removal New Zealand flight tracker unusually high activity Trump no public calendar"
-        },
         {
           "created_at": "2026-11-17T01:52:43.000Z",
           "id": "2122508197248594149",
@@ -292,10 +286,18 @@
           "created_at": "2026-11-18T03:33:17.000Z",
           "id": "2122895895444475977",
           "text": "NSA Compromised: Official Press Release"
+        },
+        {
+          "created_at": "2026-11-18T18:00:35.000Z",
+          "id": "2123114159529464276",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2123114091170668544/img/YzO-k4izv7_vL3T-.jpg"
+          ],
+          "quoted_text": "BREAKING: Michigan shuts down sports betting on Kalshi, Polymarket, Robinhood and Coinbase\n\nPlus:\n\u2022 Polymarket must close every Michigan user\u2019s open bets by Nov 25",
+          "text": "https://t.co/qZ1zZwxf1K https://t.co/1rvcz0EdK7"
         }
       ],
       "reads": {
-        "2122505142029398249": "No call",
         "2122520967373279617": "No call",
         "2122533126136361453": "No call",
         "2122580126445764939": "No call",
@@ -311,7 +313,8 @@
         "2122746051178475852": "No call",
         "2122810288328376537": "No call: bearish on NVDA (same view as before)",
         "2122858697257021617": "No call",
-        "2122895895444475977": "No call"
+        "2122895895444475977": "No call",
+        "2123114159529464276": "No call"
       },
       "replies": [
         {
@@ -409,10 +412,6 @@
         }
       ],
       "threads": {
-        "2118467299153944660": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118475957933846740": {
           "alerted": [],
           "self_replies": 0
@@ -815,6 +814,10 @@
         "2122895895444475977": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123114159529464276": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -825,7 +828,6 @@
         "2122476685383836014": true,
         "2122477628452192336": false,
         "2122504567489507443": false,
-        "2122505142029398249": false,
         "2122508197248594149": false,
         "2122520967373279617": false,
         "2122533126136361453": true,
@@ -852,7 +854,8 @@
         "2122846063740801250": false,
         "2122858697257021617": false,
         "2122895895444475977": false,
-        "2122939256331268562": false
+        "2122939256331268562": false,
+        "2123114159529464276": false
       },
       "user_id": "1446541960181858315"
     },
@@ -888,12 +891,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2121929768023310813",
-          "reason": "Says Q4 will be difficult for risk assets, crypto hasn't bottomed, and rally leaders will likely retest summer lows. This matches the recorded bearish crypto view.",
+          "post_id": "2123114160481337656",
+          "reason": "\"not very optimistic atm, base case rn is bounce into the 70s and then new lows in 2027\" is broader than the bounce trade. It matches the recorded bearish crypto market view, while BTC bias stays explicitly neutral within the 57k-82.5k range.",
           "scope": "crypto market",
           "since": "2026-11-13",
           "stance": "bearish",
-          "updated_at": "2026-11-15T11:34:14.000Z"
+          "updated_at": "2026-11-18T18:00:36.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -1106,7 +1109,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123112670278844720",
+      "last_id": "2123114160481337656",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1123,6 +1126,22 @@
           "since": "2026-11-12T19:48:38.000Z",
           "structure": "unknown",
           "url": "https://x.com/blknoiz06/status/2120967022272008380"
+        },
+        "BTC": {
+          "asset": "BTC",
+          "chain": "",
+          "confidence": 0.75,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "58-61k",
+          "horizon": "bounce before eoy",
+          "market": "crypto",
+          "open_price": 63042.23,
+          "post_id": "2123114160481337656",
+          "reason": "\"will try bidding 58-61k for a bounce before eoy\" on the BTC daily chart is a planned long entry with limit bids, not yet filled.",
+          "since": "2026-11-18T18:00:36.000Z",
+          "structure": "unknown",
+          "url": "https://x.com/blknoiz06/status/2123114160481337656"
         },
         "GRASS": {
           "asset": "GRASS",
@@ -1190,11 +1209,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T23:41:48.000Z",
-          "id": "2122475250646692017",
-          "text": "nvidia earnings"
-        },
         {
           "created_at": "2026-11-17T00:24:41.000Z",
           "id": "2122486045916668376",
@@ -1304,10 +1318,18 @@
           "created_at": "2026-11-18T17:54:40.000Z",
           "id": "2123112670278844720",
           "text": "iight bros i fear we are approaching a do or die spot for the coins next few weeks"
+        },
+        {
+          "created_at": "2026-11-18T18:00:36.000Z",
+          "id": "2123114160481337656",
+          "images": [
+            "https://pbs.twimg.com/media/HXbQKnxWYAAm0Aw.png"
+          ],
+          "quoted_text": "60k 1500 60",
+          "text": "we are here again, same level from the summer, 2021 previous all time highs, support level from most of 2024 range\n\nif we are at beginning of bull we should not trade beneath 57k for any extended period of time imo\n\nwill try bidding 58-61k for a bounce before eoy\n\nwill remain neutral on bias until range breaks in either direction, 82.5k+ bull, < 57k bear\n\nwill say that 2027 looks like a much tougher setup than 2026 and crypto already has done very poorly this year, so am not very optimistic atm, base case rn is bounce into the 70s and then new lows in 2027"
         }
       ],
       "reads": {
-        "2122475250646692017": "No call",
         "2122486045916668376": "No call",
         "2122664593994768649": "No call",
         "2122686564786487380": "No call",
@@ -1325,7 +1347,8 @@
         "2122888193007894913": "No call",
         "2123089696884408356": "No call",
         "2123108125209494009": "No call",
-        "2123112670278844720": "No call: bearish on crypto market (60%, too unsure)"
+        "2123112670278844720": "No call: bearish on crypto market (60%, too unsure)",
+        "2123114160481337656": "TRADE LONG BTC"
       },
       "replies": [
         {
@@ -1423,10 +1446,6 @@
         }
       ],
       "threads": {
-        "2121257385394155563": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121278114278039870": {
           "alerted": [],
           "self_replies": 0
@@ -1832,10 +1851,15 @@
         "2123112670278844720": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123114160481337656": {
+          "alerted": [
+            "trade:BTC:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122475250646692017": true,
         "2122486045916668376": true,
         "2122487584136069181": false,
         "2122664593994768649": true,
@@ -1869,7 +1893,8 @@
         "2123089696884408356": false,
         "2123108125209494009": true,
         "2123112522651975956": false,
-        "2123112670278844720": true
+        "2123112670278844720": true,
+        "2123114160481337656": true
       },
       "user_id": "973261472"
     },
@@ -7195,5 +7220,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-18T17:56:28+00:00"
+  "updated_at": "2026-11-18T18:02:34+00:00"
 }
