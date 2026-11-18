@@ -94,7 +94,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123117463932207409",
+      "last_id": "2123127306067841269",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -178,11 +178,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T02:43:27.000Z",
-          "id": "2122520967373279617",
-          "text": "Don\u2019t stop at Jensen. Let\u2019s replace every Mag7 CEO with a democratically elected government official"
-        },
         {
           "created_at": "2026-11-17T03:31:46.000Z",
           "id": "2122533126136361453",
@@ -295,10 +290,16 @@
           "id": "2123117463932207409",
           "reply_to_id": "2123114159529464276",
           "text": "Gonna be a crazy couple years it\u2019s hilarious that we can\u2019t have capital market cycles where ppl don\u2019t go to jail at the end anymore. 2022 was nutty"
+        },
+        {
+          "created_at": "2026-11-18T18:52:50.000Z",
+          "id": "2123127306067841269",
+          "quoted_text": "Does this sound like a future that's working for young Americans?\n\nKalshi, a $40B company, lets 18 year olds bet on sports. They call it a \"prediction market.\" It's gambling.\n\nKalshi users under 21 have already bet $3.9 billion. Investigate and ban sports prediction markets.",
+          "reply_to_id": "2123117463932207409",
+          "text": "I do wish they would take on \u201cwe believe in genocide\u201d allegedly anthropic but it seems like \u201cgambling for 18 year olds\u201d is an easier one ig https://t.co/T8kVI5wOPS"
         }
       ],
       "reads": {
-        "2122520967373279617": "No call",
         "2122533126136361453": "No call",
         "2122580126445764939": "No call",
         "2122619596276720057": "No call",
@@ -829,7 +830,6 @@
         "2122476685383836014": true,
         "2122477628452192336": false,
         "2122504567489507443": false,
-        "2122520967373279617": false,
         "2122533126136361453": true,
         "2122560948896751951": false,
         "2122580126445764939": false,
@@ -856,7 +856,8 @@
         "2122895895444475977": false,
         "2122939256331268562": false,
         "2123114159529464276": false,
-        "2123117463932207409": true
+        "2123117463932207409": true,
+        "2123127306067841269": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7223,5 +7224,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-18T18:14:31+00:00"
+  "updated_at": "2026-11-18T18:54:17+00:00"
 }
