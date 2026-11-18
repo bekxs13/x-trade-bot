@@ -6443,7 +6443,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122840751264686182",
+      "last_id": "2122842377631260804",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6495,14 +6495,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T17:41:03.000Z",
-          "id": "2122384468224753946",
-          "images": [
-            "https://pbs.twimg.com/media/HXQ5X3zWEAE5cKK.jpg"
-          ],
-          "text": "Citadel Securities risk control room https://t.co/YFH20mZA0y"
-        },
         {
           "created_at": "2026-11-16T18:31:50.000Z",
           "id": "2122397245555224829",
@@ -6621,10 +6613,14 @@
           "created_at": "2026-11-17T23:54:10.000Z",
           "id": "2122840751264686182",
           "text": "Hyperliquid is the only place to trade 24/7 perpetual stock futures with leverage, yet most retail don't even know it exists? \n\nWhat needs to change in order for retail to onboard to Hyperliquid?"
+        },
+        {
+          "created_at": "2026-11-18T00:00:37.000Z",
+          "id": "2122842377631260804",
+          "text": "Probably optimal flow for trading in the far future\n\nDeposit Stablecoins -> Agent\n\nAgent asks what you want to trade, can be idea and then it suggests trades, or can be more abstracted\n\nAgent goes out and finds best pricing on available venues (ideally onchain for us crypto guys)\n\nAgent places trade\n\nBrokerages of convenience but lacking assets seem to really lose here, the only thing that matters is market access (bullish onchain, even if pricing is worse?)"
         }
       ],
       "reads": {
-        "2122384468224753946": "No call",
         "2122397245555224829": "No call",
         "2122406539021439441": "No call",
         "2122408040838414705": "No call",
@@ -6643,7 +6639,8 @@
         "2122838366911713626": "No call",
         "2122839803011981341": "No call",
         "2122840459982606570": "No call",
-        "2122840751264686182": "No call"
+        "2122840751264686182": "No call",
+        "2122842377631260804": "No call"
       },
       "replies": [
         {
@@ -6741,10 +6738,6 @@
         }
       ],
       "threads": {
-        "2121066183143121055": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121076937699279260": {
           "alerted": [],
           "self_replies": 0
@@ -7148,6 +7141,10 @@
         "2122840751264686182": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2122842377631260804": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7159,7 +7156,6 @@
         "2122176211657068925": true,
         "2122176644668436730": true,
         "2122177068783771982": true,
-        "2122384468224753946": false,
         "2122397245555224829": true,
         "2122397767507333376": false,
         "2122406539021439441": true,
@@ -7185,7 +7181,8 @@
         "2122838366911713626": false,
         "2122839803011981341": false,
         "2122840459982606570": false,
-        "2122840751264686182": true
+        "2122840751264686182": true,
+        "2122842377631260804": true
       },
       "user_id": "809191427645181952"
     }
@@ -7208,5 +7205,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-18T00:00:29+00:00"
+  "updated_at": "2026-11-18T00:02:33+00:00"
 }
