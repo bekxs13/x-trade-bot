@@ -2305,7 +2305,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123171076410671537",
+      "last_id": "2123187054507155785",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2325,12 +2325,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-14T03:13:38.000Z",
-          "id": "2121441396607345065",
-          "quoted_text": "this is easily the best model in the world https://t.co/p4Y3XaWd2z",
-          "text": "anyone else have thoughts? what is gemini carbon better than opus at? what is it worse at? https://t.co/nPdcDRccLs"
-        },
         {
           "created_at": "2026-11-14T18:05:02.000Z",
           "id": "2121665724699885572",
@@ -2464,10 +2458,18 @@
             "https://pbs.twimg.com/media/HXcE0sPXYAE8Yjq.jpg"
           ],
           "text": "https://t.co/MkYeqG83Em"
+        },
+        {
+          "created_at": "2026-11-18T22:50:15.000Z",
+          "id": "2123187054507155785",
+          "images": [
+            "https://pbs.twimg.com/media/HXcTV7OWAAE2khy.png"
+          ],
+          "quoted_text": "Ok this is ridiculous https://t.co/aQeOGD5CEE",
+          "text": "anthropic ipo https://t.co/XYRhQwTDDY https://t.co/kCXEzWJG4W"
         }
       ],
       "reads": {
-        "2121441396607345065": "No call",
         "2121665724699885572": "No call",
         "2121822838982353176": "No call",
         "2122171527701401622": "No call",
@@ -2485,15 +2487,10 @@
         "2122841755405975768": "No call",
         "2123165114883072177": "No call",
         "2123166568771367055": "No call",
-        "2123171076410671537": "No call"
+        "2123171076410671537": "No call",
+        "2123187054507155785": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-17T17:47:52.000Z",
-          "id": "2122748571669627060",
-          "reply_to_id": "2122730440763084890",
-          "text": "@AdsoOfBelk NYC can be fun near Christmas if you want a Home Alone 2 vibe"
-        },
         {
           "created_at": "2026-11-17T17:52:59.000Z",
           "id": "2122749857379287422",
@@ -2583,13 +2580,15 @@
           "id": "2123169129997681036",
           "reply_to_id": "2123166905649234293",
           "text": "@exotypal hi"
+        },
+        {
+          "created_at": "2026-11-18T22:49:25.000Z",
+          "id": "2123186845580496903",
+          "reply_to_id": "2123182127273664905",
+          "text": "@AdsoOfBelk ah the dubai playbook"
         }
       ],
       "threads": {
-        "2116419869730029956": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116644929069785446": {
           "alerted": [],
           "self_replies": 0
@@ -2987,10 +2986,13 @@
         "2123171076410671537": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123187054507155785": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121441396607345065": false,
         "2121665724699885572": true,
         "2121822838982353176": false,
         "2122171527701401622": false,
@@ -3004,7 +3006,6 @@
         "2122538055966085520": true,
         "2122717154411683940": false,
         "2122732469585657932": false,
-        "2122748571669627060": false,
         "2122749857379287422": false,
         "2122755617609707808": false,
         "2122774975333740678": false,
@@ -3024,7 +3025,9 @@
         "2123165114883072177": false,
         "2123166568771367055": false,
         "2123169129997681036": false,
-        "2123171076410671537": false
+        "2123171076410671537": false,
+        "2123186845580496903": false,
+        "2123187054507155785": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7231,5 +7234,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-18T22:38:20+00:00"
+  "updated_at": "2026-11-18T22:50:31+00:00"
 }
