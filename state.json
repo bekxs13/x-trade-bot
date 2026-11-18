@@ -1109,7 +1109,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123115509545934939",
+      "last_id": "2123115878988263680",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1209,14 +1209,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T12:14:11.000Z",
-          "id": "2122664593994768649",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2122664371218423809/img/XqqnF2pzpB4pl-g7.jpg"
-          ],
-          "text": "on November 5, i asked @armaniferrante about the infrastructure needed to bring tokenized stocks to retail traders and how new platforms could compete with existing brokerages\n\nhis answer made me think about how much easier it's becoming to build financial applications onchain\n\nfomo is a good example. instead of spending years building wallets, custody, exchanges and fiat infrastructure, the team focused on product experience, distribution and user growth\n\ni think we're going to see a lot more companies take this approach as traditional financial assets become accessible through blockchain APIs\n\nthe barriers to building the next Robinhood could become significantly lower, and that opens up a lot of room for new competitors"
-        },
         {
           "created_at": "2026-11-17T13:41:29.000Z",
           "id": "2122686564786487380",
@@ -1330,10 +1322,15 @@
           "id": "2123115509545934939",
           "quoted_text": "It's time to find out who the best onchain perps traders are!\n\nSince perps launched on the Pumpfun app, daily perps traders have grown over 13x and weekly perps volume has gone from under $10M to over $250m . \n\nTwo weeks ago, we ran a $100,000 perps competition as a test.\u00a0\n\nNow, we're MASSIVELY stepping up the game with a $1,000,000 prize pool.\n\nAfter the 2 week competition, $1,000,000 will be awarded to the Top 10 positive PnL perps traders on the Pumpfun app, with a grand prize of $500,000 for",
           "text": "summoning all plumbers https://t.co/GfRNTt3m6t"
+        },
+        {
+          "created_at": "2026-11-18T18:06:30.000Z",
+          "id": "2123115646473113905",
+          "quoted_text": "how do we feel about pearl bros",
+          "text": "hey i think this one is good bros https://t.co/LbzaMVGHPU"
         }
       ],
       "reads": {
-        "2122664593994768649": "No call",
         "2122686564786487380": "No call",
         "2122689967512285587": "No call",
         "2122694163477192855": "No call",
@@ -1352,15 +1349,10 @@
         "2123112670278844720": "No call: bearish on crypto market (60%, too unsure)",
         "2123114160481337656": "TRADE LONG BTC",
         "2123115327248560334": "No call",
-        "2123115509545934939": "No call"
+        "2123115509545934939": "No call",
+        "2123115646473113905": "No call: bullish on PEARL (65%, too unsure)"
       },
       "replies": [
-        {
-          "created_at": "2026-11-18T02:19:41.000Z",
-          "id": "2122877372617949217",
-          "reply_to_id": "2122863424468296016",
-          "text": "@Saint10Fourteen ive been trying to explain this to ppl they keep yelling at me"
-        },
         {
           "created_at": "2026-11-18T02:21:18.000Z",
           "id": "2122877781646225634",
@@ -1447,13 +1439,15 @@
           "id": "2123115401601003887",
           "reply_to_id": "2123104917980053789",
           "text": "@I4NFTS hehe"
+        },
+        {
+          "created_at": "2026-11-18T18:07:25.000Z",
+          "id": "2123115878988263680",
+          "reply_to_id": "2122797565317984740",
+          "text": "@Saint10Fourteen imagine that!"
         }
       ],
       "threads": {
-        "2121287410516377909": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121306256556409097": {
           "alerted": [],
           "self_replies": 0
@@ -1861,10 +1855,13 @@
         "2123115509545934939": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123115646473113905": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122664593994768649": true,
         "2122686564786487380": false,
         "2122689967512285587": false,
         "2122694163477192855": false,
@@ -1874,7 +1871,6 @@
         "2122753788800839849": true,
         "2122813671814345159": true,
         "2122814152024690958": true,
-        "2122877372617949217": false,
         "2122877781646225634": true,
         "2122878032222282095": true,
         "2122878125625262334": true,
@@ -1898,7 +1894,9 @@
         "2123115079898202430": false,
         "2123115327248560334": false,
         "2123115401601003887": false,
-        "2123115509545934939": true
+        "2123115509545934939": true,
+        "2123115646473113905": false,
+        "2123115878988263680": false
       },
       "user_id": "973261472"
     },
@@ -7224,5 +7222,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-18T18:06:28+00:00"
+  "updated_at": "2026-11-18T18:08:25+00:00"
 }
