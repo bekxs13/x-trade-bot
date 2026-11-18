@@ -6444,7 +6444,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2122935765634068839",
+      "last_id": "2123061270597312960",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6632,12 +6632,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T03:53:31.000Z",
-          "id": "2122176211657068925",
-          "reply_to_id": "2122176054919827762",
-          "text": "@bahubali_usd So tokenized gold that can be frozen at any time where you have no idea if it's backed by the actual gold or not? That's just fiat 2.0 but even worse and more cumbersome."
-        },
-        {
           "created_at": "2026-11-16T03:55:14.000Z",
           "id": "2122176644668436730",
           "reply_to_id": "2122165042250743968",
@@ -6720,6 +6714,12 @@
           "id": "2122935765634068839",
           "reply_to_id": "2122934118283624748",
           "text": "There\u2019s no need, Claude will do it better than any software and keep improving at a rate faster than you can ship.\n\nJust put your EVM address into a mid tier model and ask it to net out all your PNL and it will be very close.\n\nIf you\u2019re talking about the filing, tax optimization and other more granular things that the agent will not do for you then yeah"
+        },
+        {
+          "created_at": "2026-11-18T14:30:26.000Z",
+          "id": "2123061270597312960",
+          "reply_to_id": "2123058672351801783",
+          "text": "@FarzamKarimi @Volhallatility So Arizona, Utah, D.C and international options don\u2019t exist? MSO\u2019s don\u2019t exist?\n\nThink bigger"
         }
       ],
       "threads": {
@@ -7133,7 +7133,6 @@
         }
       },
       "trading": {
-        "2122176211657068925": true,
         "2122176644668436730": true,
         "2122177068783771982": true,
         "2122397767507333376": false,
@@ -7167,7 +7166,8 @@
         "2122928832541851874": false,
         "2122930064639889851": false,
         "2122934965654442133": true,
-        "2122935765634068839": true
+        "2122935765634068839": true,
+        "2123061270597312960": true
       },
       "user_id": "809191427645181952"
     }
@@ -7190,5 +7190,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-18T14:30:26+00:00"
+  "updated_at": "2026-11-18T14:32:20+00:00"
 }
