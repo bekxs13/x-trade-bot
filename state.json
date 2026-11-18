@@ -94,7 +94,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2122810288328376537",
+      "last_id": "2122846063740801250",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -312,12 +312,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T19:54:20.000Z",
-          "id": "2122418007502893500",
-          "reply_to_id": "2122417904499216416",
-          "text": "@Evan_ss6 I passed at 5B guess I\u2019m retarded?"
-        },
-        {
           "created_at": "2026-11-16T20:43:22.000Z",
           "id": "2122430347401113769",
           "reply_to_id": "2122429617084755987",
@@ -403,6 +397,12 @@
           "id": "2122738982299779556",
           "reply_to_id": "2122737894615916920",
           "text": "@DeItaone So true"
+        },
+        {
+          "created_at": "2026-11-18T00:15:16.000Z",
+          "id": "2122846063740801250",
+          "reply_to_id": "2122844484270735784",
+          "text": "@eyezenhour Thank you"
         }
       ],
       "threads": {
@@ -815,7 +815,6 @@
         }
       },
       "trading": {
-        "2122418007502893500": true,
         "2122430347401113769": false,
         "2122457903349235771": true,
         "2122464768078598638": false,
@@ -849,7 +848,8 @@
         "2122738692498538920": true,
         "2122738982299779556": false,
         "2122746051178475852": false,
-        "2122810288328376537": true
+        "2122810288328376537": true,
+        "2122846063740801250": false
       },
       "user_id": "1446541960181858315"
     },
@@ -2275,7 +2275,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2122843077987434817",
+      "last_id": "2122846284445004278",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2450,12 +2450,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T22:49:20.000Z",
-          "id": "2122462047526867268",
-          "reply_to_id": "2122443484254872049",
-          "text": "@TheStalwart this is good but tbh most of the stores you're referring to are \"fake\" japanese groceries with poor prepared food selection. often not ran by japanese folks\n\nmy preferred small japanese store in the city are the dainobus i think"
-        },
-        {
           "created_at": "2026-11-16T23:16:07.000Z",
           "id": "2122468789233373456",
           "reply_to_id": "2122467743433658674",
@@ -2541,6 +2535,12 @@
           "id": "2122843077987434817",
           "reply_to_id": "2122842929559421422",
           "text": "@IDrawCharts \ud83e\udee1\ud83e\udee1\ud83e\udee1"
+        },
+        {
+          "created_at": "2026-11-18T00:16:09.000Z",
+          "id": "2122846284445004278",
+          "reply_to_id": "2122842546347147403",
+          "text": "@swickrotation the bourbon kind"
         }
       ],
       "threads": {
@@ -2959,7 +2959,6 @@
         "2122369305081987326": false,
         "2122449003434348586": true,
         "2122449087371018382": false,
-        "2122462047526867268": false,
         "2122462257087185300": false,
         "2122468789233373456": false,
         "2122480701564145872": true,
@@ -2982,7 +2981,8 @@
         "2122802681677070526": true,
         "2122841755405975768": false,
         "2122842126597910877": false,
-        "2122843077987434817": false
+        "2122843077987434817": false,
+        "2122846284445004278": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7203,5 +7203,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-17",
-  "updated_at": "2026-11-18T00:08:18+00:00"
+  "updated_at": "2026-11-18T00:16:24+00:00"
 }
