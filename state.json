@@ -2305,7 +2305,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123187054507155785",
+      "last_id": "2123187753630433484",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2492,15 +2492,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-17T17:52:59.000Z",
-          "id": "2122749857379287422",
-          "images": [
-            "https://pbs.twimg.com/media/HXWFoezXIAA3m9H.jpg"
-          ],
-          "reply_to_id": "2122743692628775372",
-          "text": "@cremieuxrecueil who the fuck are these people lol\n\nonly recognize 5 (obviously), 8, and 9 https://t.co/GVs9Ebb7E8"
-        },
-        {
           "created_at": "2026-11-17T18:15:52.000Z",
           "id": "2122755617609707808",
           "reply_to_id": "2122753897978872318",
@@ -2586,6 +2577,12 @@
           "id": "2123186845580496903",
           "reply_to_id": "2123182127273664905",
           "text": "@AdsoOfBelk ah the dubai playbook"
+        },
+        {
+          "created_at": "2026-11-18T22:53:02.000Z",
+          "id": "2123187753630433484",
+          "reply_to_id": "2123171844077322579",
+          "text": "@natokast yessir"
         }
       ],
       "threads": {
@@ -3006,7 +3003,6 @@
         "2122538055966085520": true,
         "2122717154411683940": false,
         "2122732469585657932": false,
-        "2122749857379287422": false,
         "2122755617609707808": false,
         "2122774975333740678": false,
         "2122778487283241191": false,
@@ -3027,7 +3023,8 @@
         "2123169129997681036": false,
         "2123171076410671537": false,
         "2123186845580496903": false,
-        "2123187054507155785": true
+        "2123187054507155785": true,
+        "2123187753630433484": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7234,5 +7231,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-18T22:50:31+00:00"
+  "updated_at": "2026-11-18T22:54:23+00:00"
 }
