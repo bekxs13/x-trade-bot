@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123441150287839403",
+      "last_id": "2123441533999624245",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1210,11 +1210,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T22:08:28.000Z",
-          "id": "2122814152024690958",
-          "text": "trading crypto to capture nvda earnings volatility is what i imagine riding the short bus to school felt like"
-        },
         {
           "created_at": "2026-11-18T02:22:18.000Z",
           "id": "2122878032222282095",
@@ -1328,10 +1323,15 @@
           "id": "2123436900660736495",
           "reply_to_id": "2123436783815754171",
           "text": "@iruletrenches you guys are too doomer!"
+        },
+        {
+          "created_at": "2026-11-19T15:41:02.000Z",
+          "id": "2123441425769730458",
+          "reply_to_id": "2123441150287839403",
+          "text": "@iruletrenches also pump's rev quickly shows that this is not true, ppl have kept coming back there for years now"
         }
       ],
       "reads": {
-        "2122814152024690958": "No call",
         "2122878032222282095": "No call",
         "2122878125625262334": "No call: bearish on ai stocks (60%, too unsure)",
         "2122887688596418666": "No call",
@@ -1352,15 +1352,6 @@
         "2123434409248588254": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-19T06:29:55.000Z",
-          "id": "2123302733071479066",
-          "images": [
-            "https://pbs.twimg.com/media/HXd8lSLXUAAmm58.jpg"
-          ],
-          "reply_to_id": "2123280290281910544",
-          "text": "@X https://t.co/eehnD7nQYv"
-        },
         {
           "created_at": "2026-11-19T06:30:08.000Z",
           "id": "2123302788088127844",
@@ -1471,6 +1462,12 @@
           "id": "2123441150287839403",
           "reply_to_id": "2123439133645316113",
           "text": "@iruletrenches yea heavily disagree, imagine we had equity perps social trading from\nbeginning of ai bull run, brother the pnls wouldve been retarded, you are focusing too hard on the multi month cyclicality of memecoins"
+        },
+        {
+          "created_at": "2026-11-19T15:41:27.000Z",
+          "id": "2123441533999624245",
+          "reply_to_id": "2123441271490416797",
+          "text": "@onchaingraverob damn nigga i cant be sick cos i have bread?"
         }
       ],
       "threads": {
@@ -1890,7 +1887,6 @@
         }
       },
       "trading": {
-        "2122814152024690958": true,
         "2122878032222282095": true,
         "2122878125625262334": true,
         "2122887688596418666": false,
@@ -1902,7 +1898,6 @@
         "2123115327248560334": false,
         "2123115509545934939": true,
         "2123115646473113905": false,
-        "2123302733071479066": false,
         "2123302788088127844": false,
         "2123302963427069964": false,
         "2123303101213855756": false,
@@ -1924,7 +1919,9 @@
         "2123436900660736495": false,
         "2123437374223093991": false,
         "2123438447767834909": false,
-        "2123441150287839403": true
+        "2123441150287839403": true,
+        "2123441425769730458": true,
+        "2123441533999624245": false
       },
       "user_id": "973261472"
     },
@@ -7261,5 +7258,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T15:40:21+00:00"
+  "updated_at": "2026-11-19T15:42:21+00:00"
 }
