@@ -109,7 +109,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123551455235998118",
+      "last_id": "2123554146410479983",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -193,14 +193,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-18T01:05:28.000Z",
-          "id": "2122858697257021617",
-          "images": [
-            "https://pbs.twimg.com/media/HXXouQkbEAAA7jb.jpg"
-          ],
-          "text": "\u201cUs\u201d https://t.co/SqWOi67Zjv"
-        },
         {
           "created_at": "2026-11-18T03:33:17.000Z",
           "id": "2122895895444475977",
@@ -327,10 +319,14 @@
           "id": "2123549952916025826",
           "quoted_text": "In-N-Out prices when GTA 5 released and In-N-Out prices when GTA 6 released. https://t.co/T4GlWpux5R",
           "text": "Company flexing that their prices only doubled in 13 years #CPIfakeandgay https://t.co/I6IK9K2LC5"
+        },
+        {
+          "created_at": "2026-11-19T23:08:56.000Z",
+          "id": "2123554146410479983",
+          "text": "#NasdaqNegativeReturnFor10Years #investing"
         }
       ],
       "reads": {
-        "2122858697257021617": "No call",
         "2122895895444475977": "No call",
         "2123114159529464276": "No call",
         "2123117463932207409": "No call",
@@ -347,7 +343,8 @@
         "2123506552170844167": "No call",
         "2123532383064588318": "No call",
         "2123548045090627871": "No call",
-        "2123549952916025826": "No call"
+        "2123549952916025826": "No call",
+        "2123554146410479983": "No call"
       },
       "replies": [
         {
@@ -445,10 +442,6 @@
         }
       ],
       "threads": {
-        "2118796550277357861": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118854785785074145": {
           "alerted": [],
           "self_replies": 0
@@ -850,10 +843,13 @@
         "2123549952916025826": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123554146410479983": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122858697257021617": false,
         "2122895895444475977": false,
         "2123114159529464276": false,
         "2123117463932207409": true,
@@ -887,7 +883,8 @@
         "2123548045090627871": false,
         "2123549952916025826": false,
         "2123550783077851539": false,
-        "2123551455235998118": false
+        "2123551455235998118": false,
+        "2123554146410479983": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7302,5 +7299,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T23:00:24+00:00"
+  "updated_at": "2026-11-19T23:10:24+00:00"
 }
