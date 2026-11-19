@@ -6510,7 +6510,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123436576273219714",
+      "last_id": "2123452260361683355",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6562,16 +6562,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T22:14:58.000Z",
-          "id": "2122815785798094949",
-          "text": "Probably still relatively early to broad scale perpetual swap adoption\n\nStill mega early to widescale AI adoption embedded workflows. Most people bullish AI barely use it. Normies don\u2019t even use it at all."
-        },
-        {
-          "created_at": "2026-11-17T22:16:55.000Z",
-          "id": "2122816280411729972",
-          "text": "You\u2019re not bag working hard enough son"
-        },
         {
           "created_at": "2026-11-17T23:42:39.000Z",
           "id": "2122837855252652117",
@@ -6670,11 +6660,20 @@
             "https://pbs.twimg.com/media/HXf10t1XMAAAQXr.jpg"
           ],
           "text": "Price is being discovered in real time on the only exchange where you can trade preIPO Anthropic.\n\nNearly $400,000,000 volume traded before the market even opens.\n\nIf you're not early, you're late.\n\n@HyperliquidX https://t.co/9Vayid9nHq"
+        },
+        {
+          "created_at": "2026-11-19T16:23:07.000Z",
+          "id": "2123452019344035880",
+          "text": "You could save Coinbase by firing 90% of the staff, wrapping the markets entirely around Hyperliquid and then just focusing on Credit Card/Offramps and trying to capture agentic trading/payments.\n\nInstead, these morons paid $5B for Deribit, $400mm for a launch pad and have nothing but the ETF to show for it."
+        },
+        {
+          "created_at": "2026-11-19T16:24:05.000Z",
+          "id": "2123452260361683355",
+          "reply_to_id": "2123452019344035880",
+          "text": "Coinbase at $30B and sliding lower with the founder ready to jeet his shares makes it a prime acquisition target for someone like IBKR, Schwab, Blackrock etc."
         }
       ],
       "reads": {
-        "2122815785798094949": "No call",
-        "2122816280411729972": "No call",
         "2122837855252652117": "No call",
         "2122838366911713626": "No call",
         "2122839803011981341": "No call",
@@ -6692,7 +6691,9 @@
         "2123205495146078330": "No call",
         "2123262576486470124": "No call",
         "2123430874309890500": "No call",
-        "2123436140711616996": "No call"
+        "2123436140711616996": "No call",
+        "2123452019344035880": "No call: bearish on COIN (60%, too unsure)",
+        "2123452260361683355": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -6787,10 +6788,6 @@
         }
       ],
       "threads": {
-        "2121370392912638212": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121371060213805352": {
           "alerted": [],
           "self_replies": 0
@@ -7194,6 +7191,10 @@
         "2123436140711616996": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123452019344035880": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
@@ -7205,8 +7206,6 @@
         "2122561085966336509": true,
         "2122577969273270527": false,
         "2122814012807430276": true,
-        "2122815785798094949": true,
-        "2122816280411729972": false,
         "2122837855252652117": false,
         "2122838366911713626": false,
         "2122839803011981341": false,
@@ -7231,7 +7230,9 @@
         "2123262576486470124": false,
         "2123430874309890500": true,
         "2123436140711616996": true,
-        "2123436576273219714": true
+        "2123436576273219714": true,
+        "2123452019344035880": true,
+        "2123452260361683355": true
       },
       "user_id": "809191427645181952"
     }
@@ -7254,5 +7255,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T16:22:16+00:00"
+  "updated_at": "2026-11-19T16:24:26+00:00"
 }
