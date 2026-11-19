@@ -109,7 +109,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123460620918124611",
+      "last_id": "2123462124970328213",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -343,12 +343,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T23:51:15.000Z",
-          "id": "2122477628452192336",
-          "reply_to_id": "2122383990979985621",
-          "text": "@jeremyberman Philosophy departments have been training to defend humanity from ideologies like that of Anthropic"
-        },
-        {
           "created_at": "2026-11-17T01:38:17.000Z",
           "id": "2122504567489507443",
           "reply_to_id": "2122504130988314971",
@@ -431,6 +425,12 @@
           "id": "2123363090578505895",
           "reply_to_id": "2123362705893396501",
           "text": "@akhileshutup Seems so"
+        },
+        {
+          "created_at": "2026-11-19T17:03:17.000Z",
+          "id": "2123462124970328213",
+          "reply_to_id": "2123461608026628199",
+          "text": "@wolfofshelby Bank"
         }
       ],
       "threads": {
@@ -842,7 +842,6 @@
         }
       },
       "trading": {
-        "2122477628452192336": false,
         "2122504567489507443": false,
         "2122560948896751951": false,
         "2122624639000338584": false,
@@ -876,7 +875,8 @@
         "2123345107843981639": false,
         "2123362280813535395": true,
         "2123363090578505895": false,
-        "2123460620918124611": true
+        "2123460620918124611": true,
+        "2123462124970328213": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7286,5 +7286,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T16:58:24+00:00"
+  "updated_at": "2026-11-19T17:04:17+00:00"
 }
