@@ -1137,7 +1137,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123496697661964344",
+      "last_id": "2123534980479590620",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1254,14 +1254,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-18T17:36:37.000Z",
-          "id": "2123108125209494009",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2123107882912948225/img/aWnj-Zmdv7WoeTkf.jpg"
-          ],
-          "text": "back in 2024, i had a conversation with @notthreadguy about how leverage should actually be used in trading\n\none of the biggest mistakes i see is people leveraging their entire portfolio instead of using leverage to manage capital more efficiently\n\ni've always viewed leverage as a tool for capital efficiency and risk management rather than a reason to take oversized positions"
-        },
-        {
           "created_at": "2026-11-18T17:54:40.000Z",
           "id": "2123112670278844720",
           "text": "iight bros i fear we are approaching a do or die spot for the coins next few weeks"
@@ -1375,10 +1367,15 @@
           "created_at": "2026-11-19T18:56:06.000Z",
           "id": "2123490518277476441",
           "text": "think u can short hype here at 69 stop like 72 target 55"
+        },
+        {
+          "created_at": "2026-11-19T21:52:47.000Z",
+          "id": "2123534980479590620",
+          "quoted_text": "$NVDA\n\nI'd be surprised if the previously most important company in the world can't find some type of relief off of a major liquidity sweep, into demand, into the 618 fib.\n\nA setup I've literally taken hundreds of times to profit. https://t.co/CsYgMYy8KB",
+          "text": "holy smokestacks https://t.co/oJzbIJMpGS"
         }
       ],
       "reads": {
-        "2123108125209494009": "No call",
         "2123112670278844720": "No call: bearish on crypto market (60%, too unsure)",
         "2123114160481337656": "TRADE LONG BTC",
         "2123115327248560334": "No call",
@@ -1394,18 +1391,10 @@
         "2123444456473215442": "No call",
         "2123445969102537087": "No call",
         "2123487180878397702": "No call",
-        "2123490518277476441": "TRADE SHORT HYPE"
+        "2123490518277476441": "TRADE SHORT HYPE",
+        "2123534980479590620": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-19T17:37:03.000Z",
-          "id": "2123470622713860338",
-          "images": [
-            "https://pbs.twimg.com/media/HXgVRzEXoAAYi3P.jpg"
-          ],
-          "reply_to_id": "2123467708112990448",
-          "text": "@I4NFTS WHAT IF WE ALL JUST LOCKED IN AND BULLPOSTED EVERY DAY LIKE THE GOOD OLE TIMES https://t.co/dswWEdLec4"
-        },
         {
           "created_at": "2026-11-19T17:37:25.000Z",
           "id": "2123470714896634336",
@@ -1495,13 +1484,15 @@
           "id": "2123496697661964344",
           "reply_to_id": "2123492894992724278",
           "text": "@LosLxftsCrypto8 i was long for ~3 months at pico lows flipped short at the top and stayed short for 3 weeks i think that is pretty good im ngl"
+        },
+        {
+          "created_at": "2026-11-19T21:52:13.000Z",
+          "id": "2123534838036594889",
+          "reply_to_id": "2123530692047098230",
+          "text": "@buyerofponzi why is there so many?"
         }
       ],
       "threads": {
-        "2121380787794722877": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121381483319640137": {
           "alerted": [],
           "self_replies": 0
@@ -1913,10 +1904,13 @@
             "trade:HYPE:short"
           ],
           "self_replies": 0
+        },
+        "2123534980479590620": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123108125209494009": true,
         "2123112670278844720": true,
         "2123114160481337656": true,
         "2123115327248560334": false,
@@ -1934,7 +1928,6 @@
         "2123444456473215442": true,
         "2123445969102537087": false,
         "2123455025573695768": false,
-        "2123470622713860338": true,
         "2123470714896634336": false,
         "2123470787562889392": false,
         "2123486473261310308": false,
@@ -1950,7 +1943,9 @@
         "2123492426065338474": false,
         "2123492617937617113": true,
         "2123493842402120155": false,
-        "2123496697661964344": true
+        "2123496697661964344": true,
+        "2123534838036594889": false,
+        "2123534980479590620": true
       },
       "user_id": "973261472"
     },
@@ -7301,5 +7296,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T21:52:18+00:00"
+  "updated_at": "2026-11-19T21:54:25+00:00"
 }
