@@ -4741,7 +4741,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123458140779770329",
+      "last_id": "2123468548404297959",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4793,12 +4793,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T23:25:14.000Z",
-          "id": "2122471085300236356",
-          "reply_to_id": "2122462607747748155",
-          "text": "just landed, nobody said a damn word. it\u2019s probably better that way. these sweet souls don\u2019t need to know, for i can bear their burden."
-        },
         {
           "created_at": "2026-11-16T23:51:22.000Z",
           "id": "2122477661859836251",
@@ -4905,6 +4899,11 @@
           "id": "2123458140779770329",
           "reply_to_id": "2123436707643044177",
           "text": "it's time pu"
+        },
+        {
+          "created_at": "2026-11-19T17:28:48.000Z",
+          "id": "2123468548404297959",
+          "text": "it\u2019s anti american to not have a claude subscription"
         }
       ],
       "reads": {
@@ -4923,7 +4922,8 @@
         "2122773967278838083": "No call",
         "2123436707643044177": "No call",
         "2123449349623480328": "No call",
-        "2123458140779770329": "No call"
+        "2123458140779770329": "No call",
+        "2123468548404297959": "No call"
       },
       "replies": [
         {
@@ -5021,10 +5021,6 @@
         }
       ],
       "threads": {
-        "2117957672087511443": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117961861521932503": {
           "alerted": [],
           "self_replies": 0
@@ -5422,10 +5418,13 @@
         "2123449349623480328": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123468548404297959": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122471085300236356": false,
         "2122477661859836251": false,
         "2122480563198255219": false,
         "2122485503710618047": false,
@@ -5459,7 +5458,8 @@
         "2123436707643044177": true,
         "2123440906133016782": false,
         "2123449349623480328": true,
-        "2123458140779770329": false
+        "2123458140779770329": false,
+        "2123468548404297959": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7289,5 +7289,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T17:24:25+00:00"
+  "updated_at": "2026-11-19T17:30:24+00:00"
 }
