@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123306293226271165",
+      "last_id": "2123428598014967818",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1210,14 +1210,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T13:41:29.000Z",
-          "id": "2122686564786487380",
-          "images": [
-            "https://pbs.twimg.com/media/HXVMLkIX0AA8i1v.jpg"
-          ],
-          "text": "gmihao comrades in war https://t.co/va7QuYEYYQ"
-        },
         {
           "created_at": "2026-11-17T13:55:00.000Z",
           "id": "2122689967512285587",
@@ -1329,10 +1321,14 @@
           "id": "2123115646473113905",
           "quoted_text": "how do we feel about pearl bros",
           "text": "hey i think this one is good bros https://t.co/LbzaMVGHPU"
+        },
+        {
+          "created_at": "2026-11-19T14:50:03.000Z",
+          "id": "2123428598014967818",
+          "text": "santa rally."
         }
       ],
       "reads": {
-        "2122686564786487380": "No call",
         "2122689967512285587": "No call",
         "2122694163477192855": "No call",
         "2122714022869189003": "No call",
@@ -1351,7 +1347,8 @@
         "2123114160481337656": "TRADE LONG BTC",
         "2123115327248560334": "No call",
         "2123115509545934939": "No call",
-        "2123115646473113905": "No call: bullish on PEARL (65%, too unsure)"
+        "2123115646473113905": "No call: bullish on PEARL (65%, too unsure)",
+        "2123428598014967818": "No call: bullish on crypto market (60%, too unsure)"
       },
       "replies": [
         {
@@ -1479,10 +1476,6 @@
         }
       ],
       "threads": {
-        "2121306256556409097": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121317620943364411": {
           "alerted": [],
           "self_replies": 0
@@ -1890,10 +1883,13 @@
         "2123115646473113905": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123428598014967818": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122686564786487380": false,
         "2122689967512285587": false,
         "2122694163477192855": false,
         "2122714022869189003": true,
@@ -1927,7 +1923,8 @@
         "2123303161272349109": false,
         "2123303267258277967": false,
         "2123303827239588064": false,
-        "2123306293226271165": false
+        "2123306293226271165": false,
+        "2123428598014967818": true
       },
       "user_id": "973261472"
     },
@@ -7263,5 +7260,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T14:24:28+00:00"
+  "updated_at": "2026-11-19T14:50:30+00:00"
 }
