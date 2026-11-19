@@ -6510,7 +6510,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123452260361683355",
+      "last_id": "2123452453572276601",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6562,14 +6562,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T23:42:39.000Z",
-          "id": "2122837855252652117",
-          "images": [
-            "https://pbs.twimg.com/media/HXXVxSkXcAA7RD6.jpg"
-          ],
-          "text": "\u201cMachinic desire can seem a little inhuman, as it rips up political cultures, deletes traditions, dissolves subjectivities, and hacks through security apparatuses, tracking a soulless tropism to zero control. This is because what appears to humanity as the history of capitalism is an invasion from the future by an artificial intelligent space that must assemble itself entirely from its enemy's resources.\u201d"
-        },
         {
           "created_at": "2026-11-17T23:44:41.000Z",
           "id": "2122838366911713626",
@@ -6671,10 +6663,18 @@
           "id": "2123452260361683355",
           "reply_to_id": "2123452019344035880",
           "text": "Coinbase at $30B and sliding lower with the founder ready to jeet his shares makes it a prime acquisition target for someone like IBKR, Schwab, Blackrock etc."
+        },
+        {
+          "created_at": "2026-11-19T16:24:51.000Z",
+          "id": "2123452453572276601",
+          "images": [
+            "https://pbs.twimg.com/media/HXgEr9BWcAAHCKQ.jpg"
+          ],
+          "reply_to_id": "2123452019344035880",
+          "text": "This is a sinking ship. I want to see American companies do well but to say Coinbase has been mismanaged is a complete understatement. https://t.co/fFRre5dMd4"
         }
       ],
       "reads": {
-        "2122837855252652117": "No call",
         "2122838366911713626": "No call",
         "2122839803011981341": "No call",
         "2122840459982606570": "No call",
@@ -7206,7 +7206,6 @@
         "2122561085966336509": true,
         "2122577969273270527": false,
         "2122814012807430276": true,
-        "2122837855252652117": false,
         "2122838366911713626": false,
         "2122839803011981341": false,
         "2122840459982606570": false,
@@ -7232,7 +7231,8 @@
         "2123436140711616996": true,
         "2123436576273219714": true,
         "2123452019344035880": true,
-        "2123452260361683355": true
+        "2123452260361683355": true,
+        "2123452453572276601": true
       },
       "user_id": "809191427645181952"
     }
@@ -7255,5 +7255,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T16:24:26+00:00"
+  "updated_at": "2026-11-19T16:26:19+00:00"
 }
