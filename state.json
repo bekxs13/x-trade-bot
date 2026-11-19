@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123443551891513820",
+      "last_id": "2123444456473215442",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1210,11 +1210,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-18T02:22:18.000Z",
-          "id": "2122878032222282095",
-          "text": "no way theyre nuking the nvda earnings pump omg"
-        },
         {
           "created_at": "2026-11-18T02:22:40.000Z",
           "id": "2122878125625262334",
@@ -1329,10 +1324,15 @@
           "id": "2123441425769730458",
           "reply_to_id": "2123441150287839403",
           "text": "@iruletrenches also pump's rev quickly shows that this is not true, ppl have kept coming back there for years now"
+        },
+        {
+          "created_at": "2026-11-19T15:53:04.000Z",
+          "id": "2123444456473215442",
+          "quoted_text": "HUNTERBOOK: WE BELIEVE AMD HAS ALSO ILLEGALLY SOLD CHIPS INTO CHINA \n\noh boy\n\n$AMD -8%",
+          "text": "leo up a mansion https://t.co/3Sg4QUQXJc"
         }
       ],
       "reads": {
-        "2122878032222282095": "No call",
         "2122878125625262334": "No call: bearish on ai stocks (60%, too unsure)",
         "2122887688596418666": "No call",
         "2122888193007894913": "No call",
@@ -1349,7 +1349,8 @@
         "2123430987694842017": "No call",
         "2123431387944603804": "No call",
         "2123433892569096669": "No call",
-        "2123434409248588254": "No call"
+        "2123434409248588254": "No call",
+        "2123444456473215442": "No call"
       },
       "replies": [
         {
@@ -1469,10 +1470,6 @@
         }
       ],
       "threads": {
-        "2121369933418483856": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121371299671138669": {
           "alerted": [],
           "self_replies": 0
@@ -1882,10 +1879,13 @@
         "2123434409248588254": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123444456473215442": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122878032222282095": true,
         "2122878125625262334": true,
         "2122887688596418666": false,
         "2122888193007894913": true,
@@ -1919,7 +1919,8 @@
         "2123441533999624245": false,
         "2123441785179636211": false,
         "2123442477231460600": true,
-        "2123443551891513820": true
+        "2123443551891513820": true,
+        "2123444456473215442": true
       },
       "user_id": "973261472"
     },
@@ -7256,5 +7257,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T15:50:22+00:00"
+  "updated_at": "2026-11-19T15:54:28+00:00"
 }
