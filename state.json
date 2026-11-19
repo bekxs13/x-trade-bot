@@ -2305,7 +2305,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123189008737956163",
+      "last_id": "2123206323399475656",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2493,12 +2493,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-17T18:15:52.000Z",
-          "id": "2122755617609707808",
-          "reply_to_id": "2122753897978872318",
-          "text": "@int_16h i don't disagree fwiw"
-        },
-        {
           "created_at": "2026-11-17T19:32:48.000Z",
           "id": "2122774975333740678",
           "reply_to_id": "2122774688099193232",
@@ -2584,6 +2578,12 @@
           "id": "2123187753630433484",
           "reply_to_id": "2123171844077322579",
           "text": "@natokast yessir"
+        },
+        {
+          "created_at": "2026-11-19T00:06:49.000Z",
+          "id": "2123206323399475656",
+          "reply_to_id": "2123165157681725774",
+          "text": "@enlightenedcoop budapest was probably my favorite city i went through on my danube biking trip where i did munich&gt;vienna&gt;bratislava&gt;budapest with a bunch of smaller towns and cities in between"
         }
       ],
       "threads": {
@@ -3003,7 +3003,6 @@
         "2122538055966085520": true,
         "2122717154411683940": false,
         "2122732469585657932": false,
-        "2122755617609707808": false,
         "2122774975333740678": false,
         "2122778487283241191": false,
         "2122780831403938140": false,
@@ -3025,7 +3024,8 @@
         "2123186845580496903": false,
         "2123187054507155785": true,
         "2123187753630433484": false,
-        "2123189008737956163": false
+        "2123189008737956163": false,
+        "2123206323399475656": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7228,5 +7228,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-19T00:04:21+00:00"
+  "updated_at": "2026-11-19T00:08:22+00:00"
 }
