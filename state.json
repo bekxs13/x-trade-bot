@@ -1131,7 +1131,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123493842402120155",
+      "last_id": "2123496697661964344",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1392,15 +1392,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-19T17:35:42.000Z",
-          "id": "2123470283520807338",
-          "images": [
-            "https://pbs.twimg.com/media/HXgU-ArXIAA974G.jpg"
-          ],
-          "reply_to_id": "2123469129730417032",
-          "text": "@kfc solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump bros we here https://t.co/n8ONGIRiGw"
-        },
-        {
           "created_at": "2026-11-19T17:37:03.000Z",
           "id": "2123470622713860338",
           "images": [
@@ -1492,6 +1483,12 @@
           "id": "2123493842402120155",
           "reply_to_id": "2123492863002436072",
           "text": "@gordontardo you guys tweet about yourselves like you have collectively 1 brain cell"
+        },
+        {
+          "created_at": "2026-11-19T19:20:40.000Z",
+          "id": "2123496697661964344",
+          "reply_to_id": "2123492894992724278",
+          "text": "@LosLxftsCrypto8 i was long for ~3 months at pico lows flipped short at the top and stayed short for 3 weeks i think that is pretty good im ngl"
         }
       ],
       "threads": {
@@ -1931,7 +1928,6 @@
         "2123444456473215442": true,
         "2123445969102537087": false,
         "2123455025573695768": false,
-        "2123470283520807338": true,
         "2123470622713860338": true,
         "2123470714896634336": false,
         "2123470787562889392": false,
@@ -1947,7 +1943,8 @@
         "2123492371253875183": false,
         "2123492426065338474": false,
         "2123492617937617113": true,
-        "2123493842402120155": false
+        "2123493842402120155": false,
+        "2123496697661964344": true
       },
       "user_id": "973261472"
     },
@@ -6539,7 +6536,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123495373830250733",
+      "last_id": "2123496596046573950",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6591,11 +6588,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-18T01:18:15.000Z",
-          "id": "2122861910995652899",
-          "text": "Never been an easier or cheaper time in human history to learn and be productive. \n\nZero excuses."
-        },
         {
           "created_at": "2026-11-18T05:37:58.000Z",
           "id": "2122927271837053066",
@@ -6706,10 +6698,14 @@
           "created_at": "2026-11-19T19:15:24.000Z",
           "id": "2123495373830250733",
           "text": "Asset prices \n\nhttps://t.co/eLd473M8rz"
+        },
+        {
+          "created_at": "2026-11-19T19:20:15.000Z",
+          "id": "2123496596046573950",
+          "text": "Blow your shit smooth off \u203c\ufe0f"
         }
       ],
       "reads": {
-        "2122861910995652899": "No call",
         "2122927271837053066": "No call",
         "2122930064639889851": "No call",
         "2122934965654442133": "No call",
@@ -6727,7 +6723,8 @@
         "2123463995097288708": "No call",
         "2123467163675816329": "No call",
         "2123469176194891948": "No call",
-        "2123495373830250733": "No call"
+        "2123495373830250733": "No call",
+        "2123496596046573950": "No call"
       },
       "replies": [
         {
@@ -6825,10 +6822,6 @@
         }
       ],
       "threads": {
-        "2121618231362486325": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121620960961044497": {
           "alerted": [],
           "self_replies": 0
@@ -7232,6 +7225,10 @@
         "2123495373830250733": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123496596046573950": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7242,7 +7239,6 @@
         "2122814012807430276": true,
         "2122843861990932964": false,
         "2122852278990168201": false,
-        "2122861910995652899": false,
         "2122927271837053066": false,
         "2122927484232695838": false,
         "2122928832541851874": false,
@@ -7269,7 +7265,8 @@
         "2123467163675816329": true,
         "2123469176194891948": true,
         "2123471825153806596": false,
-        "2123495373830250733": true
+        "2123495373830250733": true,
+        "2123496596046573950": false
       },
       "user_id": "809191427645181952"
     }
@@ -7292,5 +7289,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T19:16:26+00:00"
+  "updated_at": "2026-11-19T19:22:32+00:00"
 }
