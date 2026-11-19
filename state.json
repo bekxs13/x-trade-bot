@@ -91,10 +91,25 @@
           "opened": "",
           "partial": false,
           "structure": ""
+        },
+        {
+          "asset": "ANT",
+          "close_price": null,
+          "close_url": "https://x.com/based16z/status/2123460620918124611",
+          "closed": "2026-11-19T16:57:18.000Z",
+          "direction": "",
+          "flipped": false,
+          "market": "stocks",
+          "move": null,
+          "open_price": null,
+          "open_url": "",
+          "opened": "",
+          "partial": false,
+          "structure": ""
         }
       ],
       "handle": "based16z",
-      "last_id": "2123363090578505895",
+      "last_id": "2123460620918124611",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -178,12 +193,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T15:50:00.000Z",
-          "id": "2122718906381111491",
-          "reply_to_id": "2122718758360015031",
-          "text": "Guess I should\u2019ve held too maybe we break td"
-        },
         {
           "created_at": "2026-11-17T15:53:08.000Z",
           "id": "2122719696520978784",
@@ -302,6 +311,14 @@
             "https://pbs.twimg.com/media/HXeyu1YbAAAAPdT.jpg"
           ],
           "text": "$GOOG https://t.co/FVo9RF7Dxe"
+        },
+        {
+          "created_at": "2026-11-19T16:57:18.000Z",
+          "id": "2123460620918124611",
+          "images": [
+            "https://pbs.twimg.com/media/HXgMG3QbgAAeje2.jpg"
+          ],
+          "text": "Aight sold 110 guess I can feel morally ok since I tried not to participate. Capitalism https://t.co/lgPytIwevK"
         }
       ],
       "reads": {
@@ -321,7 +338,8 @@
         "2123260436480946391": "No call",
         "2123313176297275402": "No call",
         "2123343765373088245": "No call",
-        "2123362280813535395": "No call"
+        "2123362280813535395": "No call",
+        "2123460620918124611": "TRADE EXIT ANT"
       },
       "replies": [
         {
@@ -416,10 +434,6 @@
         }
       ],
       "threads": {
-        "2118524975141560543": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118531894052815292": {
           "alerted": [],
           "self_replies": 0
@@ -819,6 +833,12 @@
         "2123362280813535395": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123460620918124611": {
+          "alerted": [
+            "trade:ANT:exit"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -826,7 +846,6 @@
         "2122504567489507443": false,
         "2122560948896751951": false,
         "2122624639000338584": false,
-        "2122718906381111491": true,
         "2122719696520978784": true,
         "2122721959394042035": true,
         "2122724665311559900": false,
@@ -856,7 +875,8 @@
         "2123343765373088245": false,
         "2123345107843981639": false,
         "2123362280813535395": true,
-        "2123363090578505895": false
+        "2123363090578505895": false,
+        "2123460620918124611": true
       },
       "user_id": "1446541960181858315"
     },
@@ -6518,7 +6538,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123454955981832294",
+      "last_id": "2123460741197930822",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6708,12 +6728,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T03:56:55.000Z",
-          "id": "2122177068783771982",
-          "reply_to_id": "2122169369359007920",
-          "text": "Good point except I'm worried about concentration. People in the Fiat system already have so much capital they could theoretically purchase almost every relevant worldly possession and it wouldn't really effect their capital base or rate of compounding. This concentration gets even WORSE with Bitcoin because of how good of an asset it is."
-        },
-        {
           "created_at": "2026-11-16T18:33:54.000Z",
           "id": "2122397767507333376",
           "reply_to_id": "2122397320730018142",
@@ -6796,6 +6810,12 @@
           "id": "2123436576273219714",
           "reply_to_id": "2123436258395357646",
           "text": "@squidy100x @HyperliquidX $100,000,000"
+        },
+        {
+          "created_at": "2026-11-19T16:57:47.000Z",
+          "id": "2123460741197930822",
+          "reply_to_id": "2123460351219908775",
+          "text": "@xulian_hl Hyperliquid"
         }
       ],
       "threads": {
@@ -7209,7 +7229,6 @@
         }
       },
       "trading": {
-        "2122177068783771982": true,
         "2122397767507333376": false,
         "2122422704460492908": true,
         "2122446465822007696": true,
@@ -7243,7 +7262,8 @@
         "2123452260361683355": true,
         "2123452453572276601": true,
         "2123453364474167625": true,
-        "2123454955981832294": false
+        "2123454955981832294": false,
+        "2123460741197930822": true
       },
       "user_id": "809191427645181952"
     }
@@ -7266,5 +7286,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T16:54:31+00:00"
+  "updated_at": "2026-11-19T16:58:24+00:00"
 }
