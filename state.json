@@ -109,7 +109,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123463559443304579",
+      "last_id": "2123481848143831321",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -193,14 +193,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T16:12:53.000Z",
-          "id": "2122724665311559900",
-          "images": [
-            "https://pbs.twimg.com/media/HXVu1Q4bcAEGg4J.jpg"
-          ],
-          "text": "https://t.co/B813UFH1Kv"
-        },
         {
           "created_at": "2026-11-17T16:26:46.000Z",
           "id": "2122728159858819453",
@@ -318,10 +310,18 @@
           "created_at": "2026-11-19T17:08:59.000Z",
           "id": "2123463559443304579",
           "text": "That guy who bought like $200m of spx 7250 dec puts last month cooking craz"
+        },
+        {
+          "created_at": "2026-11-19T18:21:39.000Z",
+          "id": "2123481848143831321",
+          "images": [
+            "https://pbs.twimg.com/media/HXgfe1ybwAAXqVU.jpg"
+          ],
+          "quoted_text": "https://t.co/T0PR7pHQ96",
+          "text": "600 employees dumping 10% of their 9 figs today on the last 10 guys in crypto to donate to terrorists https://t.co/wL8us3qdFc https://t.co/4avNo6SWRa"
         }
       ],
       "reads": {
-        "2122724665311559900": "No call",
         "2122728159858819453": "No call",
         "2122731219381289010": "No call",
         "2122736895176360018": "No call",
@@ -339,7 +339,8 @@
         "2123343765373088245": "No call",
         "2123362280813535395": "No call",
         "2123460620918124611": "TRADE EXIT ANT",
-        "2123463559443304579": "No call"
+        "2123463559443304579": "No call",
+        "2123481848143831321": "No call"
       },
       "replies": [
         {
@@ -434,10 +435,6 @@
         }
       ],
       "threads": {
-        "2118532663120458108": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118540566736851268": {
           "alerted": [],
           "self_replies": 0
@@ -839,13 +836,16 @@
         "2123463559443304579": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123481848143831321": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2122560948896751951": false,
         "2122624639000338584": false,
         "2122721959394042035": true,
-        "2122724665311559900": false,
         "2122726892575068187": false,
         "2122728159858819453": true,
         "2122731219381289010": false,
@@ -876,7 +876,8 @@
         "2123460620918124611": true,
         "2123462124970328213": false,
         "2123463285974638839": true,
-        "2123463559443304579": true
+        "2123463559443304579": true,
+        "2123481848143831321": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7290,5 +7291,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T17:42:22+00:00"
+  "updated_at": "2026-11-19T18:22:39+00:00"
 }
