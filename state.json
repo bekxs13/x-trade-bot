@@ -2335,7 +2335,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123236324182253918",
+      "last_id": "2123317897648878060",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2355,15 +2355,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T03:34:54.000Z",
-          "id": "2122171527701401622",
-          "images": [
-            "https://pbs.twimg.com/media/HXN3s6HXQAAq6Im.jpg"
-          ],
-          "quoted_text": "@pinupvamp Wait? Do you not actually know who I am? You do realize like I make like $600,000 a year. I mean you could say that's a nobody in new york, I guess that's fair",
-          "text": "why would i know 3 million people https://t.co/7HzDoS48lS https://t.co/qhOpOhefPi"
-        },
         {
           "created_at": "2026-11-16T15:30:20.000Z",
           "id": "2122351572076408866",
@@ -2502,10 +2493,18 @@
             "https://pbs.twimg.com/media/HXdALs2XIAA5m0M.jpg"
           ],
           "text": "admit it this is funny as shit https://t.co/3WjI7rCCxW"
+        },
+        {
+          "created_at": "2026-11-19T07:30:10.000Z",
+          "id": "2123317897648878060",
+          "images": [
+            "https://pbs.twimg.com/media/HXeKX2OWUAAh5d8.jpg"
+          ],
+          "quoted_text": "google deepmind releasing a cheap and best in class coding model right as anthropic is about to ipo https://t.co/7APxyIxy4e",
+          "text": "https://t.co/XaketUsjfp https://t.co/Pam2rqGUez"
         }
       ],
       "reads": {
-        "2122171527701401622": "No call",
         "2122351572076408866": "No call",
         "2122369305081987326": "No call",
         "2122449003434348586": "No call",
@@ -2523,7 +2522,8 @@
         "2123171076410671537": "No call",
         "2123187054507155785": "No call",
         "2123189008737956163": "No call",
-        "2123236324182253918": "No call"
+        "2123236324182253918": "No call",
+        "2123317897648878060": "No call"
       },
       "replies": [
         {
@@ -2621,10 +2621,6 @@
         }
       ],
       "threads": {
-        "2116915274268233825": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117237476720824790": {
           "alerted": [],
           "self_replies": 0
@@ -3022,10 +3018,13 @@
         "2123236324182253918": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123317897648878060": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122171527701401622": false,
         "2122351572076408866": false,
         "2122369305081987326": false,
         "2122449003434348586": true,
@@ -3059,7 +3058,8 @@
         "2123206323399475656": false,
         "2123220300707824012": false,
         "2123231350820085792": false,
-        "2123236324182253918": false
+        "2123236324182253918": false,
+        "2123317897648878060": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7262,5 +7262,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-19T07:12:23+00:00"
+  "updated_at": "2026-11-19T07:32:23+00:00"
 }
