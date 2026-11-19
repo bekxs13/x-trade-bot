@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123446729810845873",
+      "last_id": "2123451591223394785",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1355,15 +1355,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-19T06:44:04.000Z",
-          "id": "2123306293226271165",
-          "images": [
-            "https://pbs.twimg.com/media/HXd_0e6X0AAcz-O.jpg"
-          ],
-          "reply_to_id": "2123305681763684780",
-          "text": "@lewnn33 @TheMisterTurtle https://t.co/HsApOZ4omm"
-        },
-        {
           "created_at": "2026-11-19T14:58:56.000Z",
           "id": "2123430832467796332",
           "reply_to_id": "2123416504121037009",
@@ -1465,6 +1456,15 @@
           ],
           "reply_to_id": "2123439312708735346",
           "text": "@iAmNihaoCat @Thelma_onchain https://t.co/2lFn1jlp1b"
+        },
+        {
+          "created_at": "2026-11-19T16:21:25.000Z",
+          "id": "2123451591223394785",
+          "images": [
+            "https://pbs.twimg.com/media/HXgD965XIAAz-eJ.jpg"
+          ],
+          "reply_to_id": "2123450983179080111",
+          "text": "@RAP3MEFR https://t.co/KPm3UTp5KW"
         }
       ],
       "threads": {
@@ -1893,7 +1893,6 @@
         "2123115327248560334": false,
         "2123115509545934939": true,
         "2123115646473113905": false,
-        "2123306293226271165": false,
         "2123428598014967818": true,
         "2123429045623009775": true,
         "2123429285440692319": true,
@@ -1918,7 +1917,8 @@
         "2123445002688761966": false,
         "2123445310445809830": true,
         "2123445969102537087": false,
-        "2123446729810845873": false
+        "2123446729810845873": false,
+        "2123451591223394785": false
       },
       "user_id": "973261472"
     },
@@ -7254,5 +7254,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T16:14:21+00:00"
+  "updated_at": "2026-11-19T16:22:16+00:00"
 }
