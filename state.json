@@ -109,7 +109,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123548045090627871",
+      "last_id": "2123549952916025826",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -193,11 +193,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T21:53:07.000Z",
-          "id": "2122810288328376537",
-          "text": "NVDA bounces to yesterdays close on huge earnings beat \ud83d\ude80"
-        },
         {
           "created_at": "2026-11-18T01:05:28.000Z",
           "id": "2122858697257021617",
@@ -326,10 +321,15 @@
             "https://pbs.twimg.com/media/HXhbsFabIAAa2qx.jpg"
           ],
           "text": "W-2 Lunch #enjoythebearmarket https://t.co/jjxUzRB9vi"
+        },
+        {
+          "created_at": "2026-11-19T22:52:17.000Z",
+          "id": "2123549952916025826",
+          "quoted_text": "In-N-Out prices when GTA 5 released and In-N-Out prices when GTA 6 released. https://t.co/T4GlWpux5R",
+          "text": "Company flexing that their prices only doubled in 13 years #CPIfakeandgay https://t.co/I6IK9K2LC5"
         }
       ],
       "reads": {
-        "2122810288328376537": "No call: bearish on NVDA (same view as before)",
         "2122858697257021617": "No call",
         "2122895895444475977": "No call",
         "2123114159529464276": "No call",
@@ -346,7 +346,8 @@
         "2123503717181980913": "No call",
         "2123506552170844167": "No call",
         "2123532383064588318": "No call",
-        "2123548045090627871": "No call"
+        "2123548045090627871": "No call",
+        "2123549952916025826": "No call"
       },
       "replies": [
         {
@@ -444,10 +445,6 @@
         }
       ],
       "threads": {
-        "2118618111079485921": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2118796550277357861": {
           "alerted": [],
           "self_replies": 0
@@ -849,10 +846,13 @@
         "2123548045090627871": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123549952916025826": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122810288328376537": true,
         "2122846063740801250": false,
         "2122858697257021617": false,
         "2122895895444475977": false,
@@ -886,7 +886,8 @@
         "2123535562162495521": false,
         "2123536103991058921": false,
         "2123544876742803460": true,
-        "2123548045090627871": false
+        "2123548045090627871": false,
+        "2123549952916025826": false
       },
       "user_id": "1446541960181858315"
     },
@@ -4743,7 +4744,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123543227659628924",
+      "last_id": "2123550053642178936",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4933,12 +4934,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-18T15:44:24.000Z",
-          "id": "2123079885795049973",
-          "reply_to_id": "2123079533339549882",
-          "text": "@BaggerWalmart \ud83e\udeea"
-        },
-        {
           "created_at": "2026-11-18T16:56:56.000Z",
           "id": "2123098138592645599",
           "reply_to_id": "2123096998244925518",
@@ -5021,6 +5016,12 @@
           "id": "2123543227659628924",
           "reply_to_id": "2123534866218414589",
           "text": "@zerohedge \ud83d\ude2d\ud83d\ude2d lmao"
+        },
+        {
+          "created_at": "2026-11-19T22:52:41.000Z",
+          "id": "2123550053642178936",
+          "reply_to_id": "2123549952916025826",
+          "text": "@based16z 2% inflation"
         }
       ],
       "threads": {
@@ -5441,7 +5442,6 @@
         "2122773967278838083": true,
         "2122818271603040372": false,
         "2123079022867320922": false,
-        "2123079885795049973": false,
         "2123098138592645599": false,
         "2123111216570617958": false,
         "2123201707207507995": false,
@@ -5462,7 +5462,8 @@
         "2123508676556202373": false,
         "2123518943658709307": false,
         "2123534671464268155": false,
-        "2123543227659628924": false
+        "2123543227659628924": false,
+        "2123550053642178936": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7301,5 +7302,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T22:46:23+00:00"
+  "updated_at": "2026-11-19T22:54:23+00:00"
 }
