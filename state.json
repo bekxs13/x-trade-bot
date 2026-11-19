@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123433892569096669",
+      "last_id": "2123434409248588254",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1210,12 +1210,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T18:08:36.000Z",
-          "id": "2122753788800839849",
-          "quoted_text": "NEW: Users are reporting outages affecting several major services, including Gmail, Marriott, Microsoft Outlook and Microsoft 365. Reports are also surging for Apple Support, the App Store, iCloud and Apple Pay. https://t.co/tcXTRihTqV",
-          "text": "anthropic lowkey gotta be a long thursday no? https://t.co/U4yAHH7D4R"
-        },
         {
           "created_at": "2026-11-17T22:06:33.000Z",
           "id": "2122813671814345159",
@@ -1329,10 +1323,14 @@
           "id": "2123433892569096669",
           "quoted_text": "stupid money's telegram called out the BEST trade possible this month, and it was the only genius money analysis call it made (100% hit rate).\n\nfollowing our telegram and the trade could've made you millions.\n\nwatch this, don't skip. https://t.co/iUqQW49JS1",
           "text": "bink https://t.co/Lb97lZqxQq"
+        },
+        {
+          "created_at": "2026-11-19T15:13:09.000Z",
+          "id": "2123434409248588254",
+          "text": "no market bubble today bros, still recovering  am under the weather"
         }
       ],
       "reads": {
-        "2122753788800839849": "No call: bullish on anthropic (55%, too unsure)",
         "2122813671814345159": "No call",
         "2122814152024690958": "No call",
         "2122878032222282095": "No call",
@@ -1351,7 +1349,8 @@
         "2123429285440692319": "VIEW bullish on btc",
         "2123430987694842017": "No call",
         "2123431387944603804": "No call",
-        "2123433892569096669": "No call"
+        "2123433892569096669": "No call",
+        "2123434409248588254": "No call"
       },
       "replies": [
         {
@@ -1479,10 +1478,6 @@
         }
       ],
       "threads": {
-        "2121366000436154784": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121369933418483856": {
           "alerted": [],
           "self_replies": 0
@@ -1892,10 +1887,13 @@
         "2123433892569096669": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123434409248588254": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122753788800839849": true,
         "2122813671814345159": true,
         "2122814152024690958": true,
         "2122878032222282095": true,
@@ -1929,7 +1927,8 @@
         "2123430987694842017": true,
         "2123431387944603804": true,
         "2123433504486613457": false,
-        "2123433892569096669": true
+        "2123433892569096669": true,
+        "2123434409248588254": false
       },
       "user_id": "973261472"
     },
@@ -7265,5 +7264,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T15:12:27+00:00"
+  "updated_at": "2026-11-19T15:14:23+00:00"
 }
