@@ -6490,7 +6490,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123205495146078330",
+      "last_id": "2123262576486470124",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6542,11 +6542,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T05:07:20.000Z",
-          "id": "2122557174769479809",
-          "text": "Why has nobody nailed an alternative form of trading that doesn't use a conventional orderform?"
-        },
         {
           "created_at": "2026-11-17T15:34:54.000Z",
           "id": "2122715108988379554",
@@ -6648,10 +6643,14 @@
           "created_at": "2026-11-19T00:03:31.000Z",
           "id": "2123205495146078330",
           "text": "Traders will stop thinking about venues and only focus on front end, price/fees and capital efficiency"
+        },
+        {
+          "created_at": "2026-11-19T03:50:21.000Z",
+          "id": "2123262576486470124",
+          "text": "Meow"
         }
       ],
       "reads": {
-        "2122557174769479809": "No call",
         "2122715108988379554": "No call",
         "2122814382849536242": "No call",
         "2122815785798094949": "No call",
@@ -6670,7 +6669,8 @@
         "2122934965654442133": "No call",
         "2123075527531487363": "No call: bullish on crypto market (55%, too unsure)",
         "2123202092705968544": "No call",
-        "2123205495146078330": "No call"
+        "2123205495146078330": "No call",
+        "2123262576486470124": "No call"
       },
       "replies": [
         {
@@ -6765,10 +6765,6 @@
         }
       ],
       "threads": {
-        "2121360211894255959": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121367916608364803": {
           "alerted": [],
           "self_replies": 0
@@ -7172,6 +7168,10 @@
         "2123205495146078330": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123262576486470124": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7181,7 +7181,6 @@
         "2122422704460492908": true,
         "2122446465822007696": true,
         "2122473968712216994": false,
-        "2122557174769479809": true,
         "2122561085966336509": true,
         "2122577969273270527": false,
         "2122715108988379554": true,
@@ -7209,7 +7208,8 @@
         "2123061270597312960": true,
         "2123075527531487363": true,
         "2123202092705968544": true,
-        "2123205495146078330": true
+        "2123205495146078330": true,
+        "2123262576486470124": false
       },
       "user_id": "809191427645181952"
     }
@@ -7232,5 +7232,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-19T03:42:23+00:00"
+  "updated_at": "2026-11-19T03:52:25+00:00"
 }
