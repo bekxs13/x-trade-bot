@@ -2333,7 +2333,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123317897648878060",
+      "last_id": "2123421912571301942",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2353,11 +2353,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T15:30:20.000Z",
-          "id": "2122351572076408866",
-          "text": "good for robert pattinson but this is kinda lame, all the other bonds were \"bond\" whereas im gonna think \"that's robert pattinson\""
-        },
         {
           "created_at": "2026-11-16T16:40:48.000Z",
           "id": "2122369305081987326",
@@ -2500,10 +2495,17 @@
           ],
           "quoted_text": "google deepmind releasing a cheap and best in class coding model right as anthropic is about to ipo https://t.co/7APxyIxy4e",
           "text": "https://t.co/XaketUsjfp https://t.co/Pam2rqGUez"
+        },
+        {
+          "created_at": "2026-11-19T14:23:29.000Z",
+          "id": "2123421912571301942",
+          "images": [
+            "https://pbs.twimg.com/media/HXfoz6wWgAAhHHe.jpg"
+          ],
+          "text": "&gt;jane street \n&gt;traders are jock types\n&gt;sbf's manager admonishes him for not wearing a shirt and tie\n\n?????????????? https://t.co/zFvrLIZ8sK"
         }
       ],
       "reads": {
-        "2122351572076408866": "No call",
         "2122369305081987326": "No call",
         "2122449003434348586": "No call",
         "2122449087371018382": "Read together with the post it replies to",
@@ -2521,7 +2523,8 @@
         "2123187054507155785": "No call",
         "2123189008737956163": "No call",
         "2123236324182253918": "No call",
-        "2123317897648878060": "No call"
+        "2123317897648878060": "No call",
+        "2123421912571301942": "No call"
       },
       "replies": [
         {
@@ -2619,10 +2622,6 @@
         }
       ],
       "threads": {
-        "2117237476720824790": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117250853195174359": {
           "alerted": [],
           "self_replies": 0
@@ -3020,10 +3019,13 @@
         "2123317897648878060": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123421912571301942": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122351572076408866": false,
         "2122369305081987326": false,
         "2122449003434348586": true,
         "2122449087371018382": false,
@@ -3057,7 +3059,8 @@
         "2123220300707824012": false,
         "2123231350820085792": false,
         "2123236324182253918": false,
-        "2123317897648878060": true
+        "2123317897648878060": true,
+        "2123421912571301942": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7260,5 +7263,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T14:02:17+00:00"
+  "updated_at": "2026-11-19T14:24:28+00:00"
 }
