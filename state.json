@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123430987694842017",
+      "last_id": "2123431387944603804",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1210,11 +1210,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T15:58:13.000Z",
-          "id": "2122720974562795913",
-          "text": "every day now on repeat\n\n\"IRAN AND US ATTACKS ESCALATE WITH NO END IN SIGHT\"\n\n\"CRITICAL NATIONAL INFRASTRUCTURE PREVIOUSLY THOUGHT INCREDIBLY SECURE NOW COMPLETELY NON FUNCTIONAL AND WE DONT KNOW WHY\"\n\n\"THE WORLD IS ENDING BUY WATER AND NONPERISHABLES\""
-        },
         {
           "created_at": "2026-11-17T16:01:43.000Z",
           "id": "2122721857011163451",
@@ -1328,10 +1323,15 @@
           "created_at": "2026-11-19T14:59:33.000Z",
           "id": "2123430987694842017",
           "text": "venice also moving very well today"
+        },
+        {
+          "created_at": "2026-11-19T15:01:08.000Z",
+          "id": "2123431387944603804",
+          "quoted_text": "the bull case for crypto is that revenue is moving to the app layer\n\nit is really that simple imo\n\ncombine that with strong stores of value and i find it very hard to imagine a world where this industry doesnt succeed long term https://t.co/fErgf7zvoT",
+          "text": "application supercycle, those that own their users and monetize them well will benefit the most over next few years in world where intelligence is commoditized &amp; blockspace is cheap https://t.co/mHJ6tA8yUi"
         }
       ],
       "reads": {
-        "2122720974562795913": "No call",
         "2122721857011163451": "No call",
         "2122753788800839849": "No call: bullish on anthropic (55%, too unsure)",
         "2122813671814345159": "No call",
@@ -1350,7 +1350,8 @@
         "2123428598014967818": "No call: bullish on crypto market (60%, too unsure)",
         "2123429045623009775": "No call",
         "2123429285440692319": "VIEW bullish on btc",
-        "2123430987694842017": "No call"
+        "2123430987694842017": "No call",
+        "2123431387944603804": "No call"
       },
       "replies": [
         {
@@ -1478,10 +1479,6 @@
         }
       ],
       "threads": {
-        "2121356977364418744": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121362703713288583": {
           "alerted": [],
           "self_replies": 0
@@ -1891,10 +1888,13 @@
         "2123430987694842017": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123431387944603804": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122720974562795913": false,
         "2122721857011163451": false,
         "2122753788800839849": true,
         "2122813671814345159": true,
@@ -1928,7 +1928,8 @@
         "2123429045623009775": true,
         "2123429285440692319": true,
         "2123430832467796332": true,
-        "2123430987694842017": true
+        "2123430987694842017": true,
+        "2123431387944603804": true
       },
       "user_id": "973261472"
     },
@@ -7264,5 +7265,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T15:00:35+00:00"
+  "updated_at": "2026-11-19T15:02:27+00:00"
 }
