@@ -109,7 +109,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123462124970328213",
+      "last_id": "2123463285974638839",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -343,12 +343,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-17T01:38:17.000Z",
-          "id": "2122504567489507443",
-          "reply_to_id": "2122504130988314971",
-          "text": "@tennisball_cap One of these actually hit me irl cause I couldn\u2019t fly the day I wanted to"
-        },
-        {
           "created_at": "2026-11-17T05:22:20.000Z",
           "id": "2122560948896751951",
           "reply_to_id": "1728096226023731633",
@@ -431,6 +425,12 @@
           "id": "2123462124970328213",
           "reply_to_id": "2123461608026628199",
           "text": "@wolfofshelby Bank"
+        },
+        {
+          "created_at": "2026-11-19T17:07:54.000Z",
+          "id": "2123463285974638839",
+          "reply_to_id": "2123462833560265005",
+          "text": "@_OH_71 I was busy this wk someone called me and asked for allo and I said no ty. I guess the ipo is free money so they said here\u2019s some"
         }
       ],
       "threads": {
@@ -842,7 +842,6 @@
         }
       },
       "trading": {
-        "2122504567489507443": false,
         "2122560948896751951": false,
         "2122624639000338584": false,
         "2122719696520978784": true,
@@ -876,7 +875,8 @@
         "2123362280813535395": true,
         "2123363090578505895": false,
         "2123460620918124611": true,
-        "2123462124970328213": false
+        "2123462124970328213": false,
+        "2123463285974638839": true
       },
       "user_id": "1446541960181858315"
     },
@@ -6538,7 +6538,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123460741197930822",
+      "last_id": "2123463255267889350",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6590,12 +6590,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T23:53:00.000Z",
-          "id": "2122840459982606570",
-          "reply_to_id": "2122839803011981341",
-          "text": "Also a nice way for tech oligarchs to reduce the chances of violence by giving rakeback to labor participants in a clear, transparent and easily viewable way.\n\nElon can donate as much as he wants instantly to everyone through their trump accounts and people will receive the shares instantly."
-        },
         {
           "created_at": "2026-11-17T23:54:10.000Z",
           "id": "2122840751264686182",
@@ -6703,10 +6697,14 @@
             "https://pbs.twimg.com/media/HXgHBrNWQAA6i42.png"
           ],
           "text": "! https://t.co/x07hasXREQ"
+        },
+        {
+          "created_at": "2026-11-19T17:07:46.000Z",
+          "id": "2123463255267889350",
+          "text": "People not realizing you can short Anthropic on Hyperliquid will always amuse me. \n\nThere's still tremendous alpha in being unconstrained by using better venues. People stuck on Robinhood, IBKR and other brokers can't do anything but buy lol."
         }
       ],
       "reads": {
-        "2122840459982606570": "No call",
         "2122840751264686182": "No call",
         "2122842377631260804": "No call",
         "2122842932663447614": "No call",
@@ -6724,15 +6722,10 @@
         "2123452019344035880": "No call: bearish on COIN (60%, too unsure)",
         "2123452260361683355": "Read together with the post it replies to",
         "2123453364474167625": "No call",
-        "2123454955981832294": "No call"
+        "2123454955981832294": "No call",
+        "2123463255267889350": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-16T18:33:54.000Z",
-          "id": "2122397767507333376",
-          "reply_to_id": "2122397320730018142",
-          "text": "@YoshlikXBT Dimon is Irish you mongoloid"
-        },
         {
           "created_at": "2026-11-16T20:13:00.000Z",
           "id": "2122422704460492908",
@@ -6816,13 +6809,15 @@
           "id": "2123460741197930822",
           "reply_to_id": "2123460351219908775",
           "text": "@xulian_hl Hyperliquid"
+        },
+        {
+          "created_at": "2026-11-19T17:06:48.000Z",
+          "id": "2123463010849358127",
+          "reply_to_id": "2123461534881857905",
+          "text": "@jukan05 Hyperliquid"
         }
       ],
       "threads": {
-        "2121436423265955951": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121466340129042813": {
           "alerted": [],
           "self_replies": 0
@@ -7226,17 +7221,19 @@
         "2123454955981832294": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123463255267889350": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122397767507333376": false,
         "2122422704460492908": true,
         "2122446465822007696": true,
         "2122473968712216994": false,
         "2122561085966336509": true,
         "2122577969273270527": false,
         "2122814012807430276": true,
-        "2122840459982606570": false,
         "2122840751264686182": true,
         "2122842377631260804": true,
         "2122842932663447614": true,
@@ -7263,7 +7260,9 @@
         "2123452453572276601": true,
         "2123453364474167625": true,
         "2123454955981832294": false,
-        "2123460741197930822": true
+        "2123460741197930822": true,
+        "2123463010849358127": true,
+        "2123463255267889350": true
       },
       "user_id": "809191427645181952"
     }
@@ -7286,5 +7285,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T17:04:17+00:00"
+  "updated_at": "2026-11-19T17:08:34+00:00"
 }
