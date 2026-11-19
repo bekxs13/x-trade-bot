@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123437374223093991",
+      "last_id": "2123438447767834909",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1353,15 +1353,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-19T06:27:28.000Z",
-          "id": "2123302117972783302",
-          "images": [
-            "https://pbs.twimg.com/media/HXd8BgiW4AAxVue.jpg"
-          ],
-          "reply_to_id": "2123232222270701817",
-          "text": "@Chr1sMtl https://t.co/R6VRCoG4Vm"
-        },
-        {
           "created_at": "2026-11-19T06:27:42.000Z",
           "id": "2123302178140172738",
           "images": [
@@ -1474,6 +1465,15 @@
           "id": "2123437374223093991",
           "reply_to_id": "2123436907010855248",
           "text": "@HimothyyDeploys @iruletrenches no where"
+        },
+        {
+          "created_at": "2026-11-19T15:29:12.000Z",
+          "id": "2123438447767834909",
+          "images": [
+            "https://pbs.twimg.com/media/HXf4A6kWQAAp26t.jpg"
+          ],
+          "reply_to_id": "2123437409081712977",
+          "text": "@kfc https://t.co/ExvkLpDEps"
         }
       ],
       "threads": {
@@ -1905,7 +1905,6 @@
         "2123115327248560334": false,
         "2123115509545934939": true,
         "2123115646473113905": false,
-        "2123302117972783302": false,
         "2123302178140172738": false,
         "2123302733071479066": false,
         "2123302788088127844": false,
@@ -1927,7 +1926,8 @@
         "2123435542469882205": true,
         "2123436783815754171": true,
         "2123436900660736495": false,
-        "2123437374223093991": false
+        "2123437374223093991": false,
+        "2123438447767834909": false
       },
       "user_id": "973261472"
     },
@@ -7264,5 +7264,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T15:26:21+00:00"
+  "updated_at": "2026-11-19T15:30:26+00:00"
 }
