@@ -1131,7 +1131,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123486473261310308",
+      "last_id": "2123486606711517440",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1376,15 +1376,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-19T16:21:25.000Z",
-          "id": "2123451591223394785",
-          "images": [
-            "https://pbs.twimg.com/media/HXgD965XIAAz-eJ.jpg"
-          ],
-          "reply_to_id": "2123450983179080111",
-          "text": "@RAP3MEFR https://t.co/KPm3UTp5KW"
-        },
-        {
           "created_at": "2026-11-19T16:26:45.000Z",
           "id": "2123452931970126078",
           "images": [
@@ -1491,6 +1482,15 @@
           "id": "2123486473261310308",
           "reply_to_id": "2123465527402340663",
           "text": "@lucy_guo incredible ragebait post s-tier execution"
+        },
+        {
+          "created_at": "2026-11-19T18:40:34.000Z",
+          "id": "2123486606711517440",
+          "images": [
+            "https://pbs.twimg.com/media/HXgj0FpW0AAk_YG.jpg"
+          ],
+          "reply_to_id": "2123470633862615406",
+          "text": "@CryptoCharles__ ethereum? https://t.co/SlX3n6IhP4"
         }
       ],
       "threads": {
@@ -1929,7 +1929,6 @@
         "2123441425769730458": true,
         "2123444456473215442": true,
         "2123445969102537087": false,
-        "2123451591223394785": false,
         "2123452931970126078": false,
         "2123453831333945703": false,
         "2123454492339519825": false,
@@ -1944,7 +1943,8 @@
         "2123470622713860338": true,
         "2123470714896634336": false,
         "2123470787562889392": false,
-        "2123486473261310308": false
+        "2123486473261310308": false,
+        "2123486606711517440": true
       },
       "user_id": "973261472"
     },
@@ -4738,7 +4738,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123483360517337582",
+      "last_id": "2123487001080934733",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4790,12 +4790,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T00:02:54.000Z",
-          "id": "2122480563198255219",
-          "quoted_text": "Sadly I think it's safe to say that writing a 150 page essay with infographics is no longer a viable way to raise $250m with no track record",
-          "text": "a finance livestream, the final frontier. https://t.co/zBBnb5BzHF"
-        },
         {
           "created_at": "2026-11-17T00:22:32.000Z",
           "id": "2122485503710618047",
@@ -4902,10 +4896,15 @@
           "id": "2123483360517337582",
           "quoted_text": "If you ever feel stupid, just know that I didn\u2019t invest in Anthropic at $183B because I wanted to continue supporting my ex\u2019s lifestyle \n\n(Luckily my seed investment did well and I landed 9 figures of Anthropic stock though)",
           "text": "this made me feel alot better really appreciate you sharing \ud83d\udc4d https://t.co/OEgQ0YoVHR"
+        },
+        {
+          "created_at": "2026-11-19T18:42:08.000Z",
+          "id": "2123487001080934733",
+          "reply_to_id": "2123483360517337582",
+          "text": "hey @lucy_guo why don\u2019t you step in and buy some fucking shares"
         }
       ],
       "reads": {
-        "2122480563198255219": "No call",
         "2122485503710618047": "No call",
         "2122685880171426242": "No call",
         "2122707253296029846": "No call",
@@ -4921,7 +4920,8 @@
         "2123449349623480328": "No call",
         "2123458140779770329": "No call",
         "2123468548404297959": "No call",
-        "2123483360517337582": "No call"
+        "2123483360517337582": "No call",
+        "2123487001080934733": "No call"
       },
       "replies": [
         {
@@ -5419,11 +5419,10 @@
         },
         "2123483360517337582": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2122480563198255219": false,
         "2122485503710618047": false,
         "2122685880171426242": true,
         "2122707253296029846": false,
@@ -5457,7 +5456,8 @@
         "2123449349623480328": true,
         "2123458140779770329": false,
         "2123468548404297959": false,
-        "2123483360517337582": false
+        "2123483360517337582": false,
+        "2123487001080934733": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7289,5 +7289,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T18:40:21+00:00"
+  "updated_at": "2026-11-19T18:42:26+00:00"
 }
