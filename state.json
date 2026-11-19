@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123435542469882205",
+      "last_id": "2123436900660736495",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1210,12 +1210,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T22:06:33.000Z",
-          "id": "2122813671814345159",
-          "quoted_text": "*NVIDIA CHAIRMAN: BOARD DOES NOT INTEND TO REINSTATE JENSEN AS CEO\n\n$NVDA",
-          "text": ":( https://t.co/h5TVDKIoGc"
-        },
         {
           "created_at": "2026-11-17T22:08:28.000Z",
           "id": "2122814152024690958",
@@ -1328,10 +1322,15 @@
           "created_at": "2026-11-19T15:13:09.000Z",
           "id": "2123434409248588254",
           "text": "no market bubble today bros, still recovering  am under the weather"
+        },
+        {
+          "created_at": "2026-11-19T15:23:03.000Z",
+          "id": "2123436900660736495",
+          "reply_to_id": "2123436783815754171",
+          "text": "@iruletrenches you guys are too doomer!"
         }
       ],
       "reads": {
-        "2122813671814345159": "No call",
         "2122814152024690958": "No call",
         "2122878032222282095": "No call",
         "2122878125625262334": "No call: bearish on ai stocks (60%, too unsure)",
@@ -1353,12 +1352,6 @@
         "2123434409248588254": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-19T00:11:15.000Z",
-          "id": "2123207438350315563",
-          "reply_to_id": "2123206638849143283",
-          "text": "@bigballseddy @a1lon9 @Pumpfun nigga does that say 8.4k -&gt; 8.4k \ud83e\udee9"
-        },
         {
           "created_at": "2026-11-19T06:26:24.000Z",
           "id": "2123301850812191101",
@@ -1478,6 +1471,12 @@
           ],
           "reply_to_id": "2123309877972099355",
           "text": "@tkickon solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/JFau1n7VSS"
+        },
+        {
+          "created_at": "2026-11-19T15:22:35.000Z",
+          "id": "2123436783815754171",
+          "reply_to_id": "2123434930893910522",
+          "text": "doubt that social trading peaked when we've seen like one total 1M+ perps pnl, apps are paying users 10M+ a month just to trade, i have likely most real trader followers on pump and i only have 85k, robinhood has 30M users\n\nequity perps will flip spot stock trading volume in < 5 years, pair that with memecoins in the same place and retail wont want to trade anywhere else"
         }
       ],
       "threads": {
@@ -1897,7 +1896,6 @@
         }
       },
       "trading": {
-        "2122813671814345159": true,
         "2122814152024690958": true,
         "2122878032222282095": true,
         "2122878125625262334": true,
@@ -1910,7 +1908,6 @@
         "2123115327248560334": false,
         "2123115509545934939": true,
         "2123115646473113905": false,
-        "2123207438350315563": true,
         "2123301850812191101": false,
         "2123302117972783302": false,
         "2123302178140172738": false,
@@ -1931,7 +1928,9 @@
         "2123433504486613457": false,
         "2123433892569096669": true,
         "2123434409248588254": false,
-        "2123435542469882205": true
+        "2123435542469882205": true,
+        "2123436783815754171": true,
+        "2123436900660736495": false
       },
       "user_id": "973261472"
     },
@@ -4726,7 +4725,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123290530989904214",
+      "last_id": "2123436707643044177",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4778,12 +4777,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T22:11:18.000Z",
-          "id": "2122452476016161164",
-          "reply_to_id": "2122448331142234399",
-          "text": "watch on yt\nhttps://t.co/z6RHVAxsC6"
-        },
         {
           "created_at": "2026-11-16T22:44:03.000Z",
           "id": "2122460720537481379",
@@ -4892,10 +4885,14 @@
           "id": "2123079022867320922",
           "reply_to_id": "2122818271603040372",
           "text": "@BaggerWalmart \ud83e\udeea"
+        },
+        {
+          "created_at": "2026-11-19T15:22:17.000Z",
+          "id": "2123436707643044177",
+          "text": "STOCK MARKET OPEN: Anthropic IPO is TODAY, TomorrowX Summit RECAP, What's NEXT? https://t.co/l41hnxOv1j"
         }
       ],
       "reads": {
-        "2122452476016161164": "No call",
         "2122460720537481379": "No call",
         "2122462607747748155": "No call",
         "2122477661859836251": "No call",
@@ -4910,7 +4907,8 @@
         "2122733483869233444": "No call",
         "2122735530165076157": "No call: bearish on stocks/macro (65%, too unsure)",
         "2122770671084110164": "No call",
-        "2122773967278838083": "No call"
+        "2122773967278838083": "No call",
+        "2123436707643044177": "No call"
       },
       "replies": [
         {
@@ -5008,10 +5006,6 @@
         }
       ],
       "threads": {
-        "2117713161625190745": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117807965851836807": {
           "alerted": [],
           "self_replies": 0
@@ -5409,10 +5403,13 @@
         "2122773967278838083": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123436707643044177": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122452476016161164": false,
         "2122460720537481379": false,
         "2122462607747748155": false,
         "2122471085300236356": false,
@@ -5446,7 +5443,8 @@
         "2123201707207507995": false,
         "2123223768734605680": true,
         "2123251509378830800": false,
-        "2123290530989904214": false
+        "2123290530989904214": false,
+        "2123436707643044177": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7269,5 +7267,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T15:22:19+00:00"
+  "updated_at": "2026-11-19T15:24:28+00:00"
 }
