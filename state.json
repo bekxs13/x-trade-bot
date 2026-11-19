@@ -109,7 +109,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123536103991058921",
+      "last_id": "2123544876742803460",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -347,12 +347,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-17T17:09:46.000Z",
-          "id": "2122738982299779556",
-          "reply_to_id": "2122737894615916920",
-          "text": "@DeItaone So true"
-        },
-        {
           "created_at": "2026-11-18T00:15:16.000Z",
           "id": "2122846063740801250",
           "reply_to_id": "2122844484270735784",
@@ -438,6 +432,12 @@
           "id": "2123536103991058921",
           "reply_to_id": "2123475959173308867",
           "text": "@JonnyMoeTrades It\u2019s still going way better than I thought tbh"
+        },
+        {
+          "created_at": "2026-11-19T22:32:06.000Z",
+          "id": "2123544876742803460",
+          "reply_to_id": "2123496572541644955",
+          "text": "@joeblau They unlocked 10% today and unlock more every day they already good"
         }
       ],
       "threads": {
@@ -849,7 +849,6 @@
         }
       },
       "trading": {
-        "2122738982299779556": false,
         "2122746051178475852": false,
         "2122810288328376537": true,
         "2122846063740801250": false,
@@ -883,7 +882,8 @@
         "2123523717183701442": false,
         "2123532383064588318": false,
         "2123535562162495521": false,
-        "2123536103991058921": false
+        "2123536103991058921": false,
+        "2123544876742803460": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7298,5 +7298,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T22:26:19+00:00"
+  "updated_at": "2026-11-19T22:34:19+00:00"
 }
