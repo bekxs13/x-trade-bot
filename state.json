@@ -1131,7 +1131,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123487180878397702",
+      "last_id": "2123491018834084192",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1180,6 +1180,22 @@
           "since": "2026-10-11T14:21:53.000Z",
           "structure": "spot",
           "url": "https://x.com/blknoiz06/status/2109288381767462951"
+        },
+        "HYPE": {
+          "asset": "HYPE",
+          "chain": "other",
+          "confidence": 0.72,
+          "contract_address": "",
+          "direction": "short",
+          "entry": "69",
+          "horizon": "swing; stop 72, target 55",
+          "market": "crypto",
+          "open_price": 68.675,
+          "post_id": "2123490518277476441",
+          "reason": "Explicitly calls a short setup on HYPE at 69 with a stop at 72 and a target of 55. The phrasing \"think u can\" makes it a called setup rather than a disclosed position.",
+          "since": "2026-11-19T18:56:06.000Z",
+          "structure": "unknown",
+          "url": "https://x.com/blknoiz06/status/2123490518277476441"
         },
         "MIHAO": {
           "asset": "mihao",
@@ -1231,11 +1247,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-18T16:23:23.000Z",
-          "id": "2123089696884408356",
-          "text": "wow"
-        },
         {
           "created_at": "2026-11-18T17:36:37.000Z",
           "id": "2123108125209494009",
@@ -1353,10 +1364,14 @@
           "created_at": "2026-11-19T18:42:51.000Z",
           "id": "2123487180878397702",
           "text": "cannot believe i fumbled that nvda short twice omg"
+        },
+        {
+          "created_at": "2026-11-19T18:56:06.000Z",
+          "id": "2123490518277476441",
+          "text": "think u can short hype here at 69 stop like 72 target 55"
         }
       ],
       "reads": {
-        "2123089696884408356": "No call",
         "2123108125209494009": "No call",
         "2123112670278844720": "No call: bearish on crypto market (60%, too unsure)",
         "2123114160481337656": "TRADE LONG BTC",
@@ -1372,27 +1387,10 @@
         "2123434409248588254": "No call",
         "2123444456473215442": "No call",
         "2123445969102537087": "No call",
-        "2123487180878397702": "No call"
+        "2123487180878397702": "No call",
+        "2123490518277476441": "TRADE SHORT HYPE"
       },
       "replies": [
-        {
-          "created_at": "2026-11-19T16:26:45.000Z",
-          "id": "2123452931970126078",
-          "images": [
-            "https://pbs.twimg.com/media/HXgFMETWkAAYNva.jpg"
-          ],
-          "reply_to_id": "2123450914367512806",
-          "text": "@durki0h https://t.co/MPy6sF4Xzj"
-        },
-        {
-          "created_at": "2026-11-19T16:30:19.000Z",
-          "id": "2123453831333945703",
-          "images": [
-            "https://pbs.twimg.com/media/HXgGAXoWEAAAQXf.jpg"
-          ],
-          "reply_to_id": "2123451846870130809",
-          "text": "@Jaspeeroo https://t.co/YUgGWGdSea"
-        },
         {
           "created_at": "2026-11-19T16:32:57.000Z",
           "id": "2123454492339519825",
@@ -1491,13 +1489,21 @@
           ],
           "reply_to_id": "2123470633862615406",
           "text": "@CryptoCharles__ ethereum? https://t.co/SlX3n6IhP4"
+        },
+        {
+          "created_at": "2026-11-19T18:56:54.000Z",
+          "id": "2123490718203424906",
+          "reply_to_id": "2123490609944306077",
+          "text": "@elchefdesol not particularly"
+        },
+        {
+          "created_at": "2026-11-19T18:58:06.000Z",
+          "id": "2123491018834084192",
+          "reply_to_id": "2123490676864373171",
+          "text": "@dario187x trickier spot"
         }
       ],
       "threads": {
-        "2121376333502779778": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121380787794722877": {
           "alerted": [],
           "self_replies": 0
@@ -1907,10 +1913,15 @@
         "2123487180878397702": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123490518277476441": {
+          "alerted": [
+            "trade:HYPE:short"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123089696884408356": false,
         "2123108125209494009": true,
         "2123112670278844720": true,
         "2123114160481337656": true,
@@ -1928,8 +1939,6 @@
         "2123441425769730458": true,
         "2123444456473215442": true,
         "2123445969102537087": false,
-        "2123452931970126078": false,
-        "2123453831333945703": false,
         "2123454492339519825": false,
         "2123454792496541857": false,
         "2123454965289263278": false,
@@ -1944,7 +1953,10 @@
         "2123470787562889392": false,
         "2123486473261310308": false,
         "2123486606711517440": true,
-        "2123487180878397702": true
+        "2123487180878397702": true,
+        "2123490518277476441": true,
+        "2123490718203424906": false,
+        "2123491018834084192": false
       },
       "user_id": "973261472"
     },
@@ -7289,5 +7301,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T18:54:17+00:00"
+  "updated_at": "2026-11-19T18:58:23+00:00"
 }
