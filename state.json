@@ -6538,7 +6538,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123463255267889350",
+      "last_id": "2123463995097288708",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6590,11 +6590,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T23:54:10.000Z",
-          "id": "2122840751264686182",
-          "text": "Hyperliquid is the only place to trade 24/7 perpetual stock futures with leverage, yet most retail don't even know it exists? \n\nWhat needs to change in order for retail to onboard to Hyperliquid?"
-        },
         {
           "created_at": "2026-11-18T00:00:37.000Z",
           "id": "2122842377631260804",
@@ -6702,10 +6697,14 @@
           "created_at": "2026-11-19T17:07:46.000Z",
           "id": "2123463255267889350",
           "text": "People not realizing you can short Anthropic on Hyperliquid will always amuse me. \n\nThere's still tremendous alpha in being unconstrained by using better venues. People stuck on Robinhood, IBKR and other brokers can't do anything but buy lol."
+        },
+        {
+          "created_at": "2026-11-19T17:10:43.000Z",
+          "id": "2123463995097288708",
+          "text": "This is why finance, capitalism and markets are so incredible.\n\nThink AI is a scam? Go short Anthropic. \nThink digital god is coming? Go long Anthropic.\n\nThere is no opinion needed, or peer revenue or popularity contest. The market will tell you who's right and hand you money."
         }
       ],
       "reads": {
-        "2122840751264686182": "No call",
         "2122842377631260804": "No call",
         "2122842932663447614": "No call",
         "2122861413576106408": "No call",
@@ -6723,7 +6722,8 @@
         "2123452260361683355": "Read together with the post it replies to",
         "2123453364474167625": "No call",
         "2123454955981832294": "No call",
-        "2123463255267889350": "No call"
+        "2123463255267889350": "No call",
+        "2123463995097288708": "No call"
       },
       "replies": [
         {
@@ -6818,10 +6818,6 @@
         }
       ],
       "threads": {
-        "2121466340129042813": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121468277599936750": {
           "alerted": [],
           "self_replies": 0
@@ -7225,6 +7221,10 @@
         "2123463255267889350": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123463995097288708": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7234,7 +7234,6 @@
         "2122561085966336509": true,
         "2122577969273270527": false,
         "2122814012807430276": true,
-        "2122840751264686182": true,
         "2122842377631260804": true,
         "2122842932663447614": true,
         "2122843861990932964": false,
@@ -7262,7 +7261,8 @@
         "2123454955981832294": false,
         "2123460741197930822": true,
         "2123463010849358127": true,
-        "2123463255267889350": true
+        "2123463255267889350": true,
+        "2123463995097288708": true
       },
       "user_id": "809191427645181952"
     }
@@ -7285,5 +7285,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T17:10:35+00:00"
+  "updated_at": "2026-11-19T17:12:19+00:00"
 }
