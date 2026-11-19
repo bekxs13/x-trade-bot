@@ -6525,7 +6525,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123436140711616996",
+      "last_id": "2123436576273219714",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6711,12 +6711,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T03:55:14.000Z",
-          "id": "2122176644668436730",
-          "reply_to_id": "2122165042250743968",
-          "text": "If you're hedging monetary policy and optimistic about capital seizure than yes?\n\nIf you're worried about monetary policy and worried about monetary seizure than no?\n\nI personally have some of my Bitcoin in IBIT for capital efficiency and safety (I have no access to any large funds)."
-        },
-        {
           "created_at": "2026-11-16T03:56:55.000Z",
           "id": "2122177068783771982",
           "reply_to_id": "2122169369359007920",
@@ -6799,6 +6793,12 @@
           "id": "2123061270597312960",
           "reply_to_id": "2123058672351801783",
           "text": "@FarzamKarimi @Volhallatility So Arizona, Utah, D.C and international options don\u2019t exist? MSO\u2019s don\u2019t exist?\n\nThink bigger"
+        },
+        {
+          "created_at": "2026-11-19T15:21:45.000Z",
+          "id": "2123436576273219714",
+          "reply_to_id": "2123436258395357646",
+          "text": "@squidy100x @HyperliquidX $100,000,000"
         }
       ],
       "threads": {
@@ -7212,7 +7212,6 @@
         }
       },
       "trading": {
-        "2122176644668436730": true,
         "2122177068783771982": true,
         "2122397767507333376": false,
         "2122422704460492908": true,
@@ -7246,7 +7245,8 @@
         "2123205495146078330": true,
         "2123262576486470124": false,
         "2123430874309890500": true,
-        "2123436140711616996": true
+        "2123436140711616996": true,
+        "2123436576273219714": true
       },
       "user_id": "809191427645181952"
     }
@@ -7269,5 +7269,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T15:20:27+00:00"
+  "updated_at": "2026-11-19T15:22:19+00:00"
 }
