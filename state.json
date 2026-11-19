@@ -4741,7 +4741,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123468548404297959",
+      "last_id": "2123483360517337582",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4793,11 +4793,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T23:51:22.000Z",
-          "id": "2122477661859836251",
-          "text": "james bond is one of the last monocultural pillars in the west. so is robert pattinson. thank you both"
-        },
         {
           "created_at": "2026-11-17T00:02:54.000Z",
           "id": "2122480563198255219",
@@ -4904,10 +4899,15 @@
           "created_at": "2026-11-19T17:28:48.000Z",
           "id": "2123468548404297959",
           "text": "it\u2019s anti american to not have a claude subscription"
+        },
+        {
+          "created_at": "2026-11-19T18:27:40.000Z",
+          "id": "2123483360517337582",
+          "quoted_text": "If you ever feel stupid, just know that I didn\u2019t invest in Anthropic at $183B because I wanted to continue supporting my ex\u2019s lifestyle \n\n(Luckily my seed investment did well and I landed 9 figures of Anthropic stock though)",
+          "text": "this made me feel alot better really appreciate you sharing \ud83d\udc4d https://t.co/OEgQ0YoVHR"
         }
       ],
       "reads": {
-        "2122477661859836251": "No call",
         "2122480563198255219": "No call",
         "2122485503710618047": "No call",
         "2122685880171426242": "No call",
@@ -4923,7 +4923,8 @@
         "2123436707643044177": "No call",
         "2123449349623480328": "No call",
         "2123458140779770329": "No call",
-        "2123468548404297959": "No call"
+        "2123468548404297959": "No call",
+        "2123483360517337582": "No call"
       },
       "replies": [
         {
@@ -5021,10 +5022,6 @@
         }
       ],
       "threads": {
-        "2117961861521932503": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117962409663246407": {
           "alerted": [],
           "self_replies": 0
@@ -5422,10 +5419,13 @@
         "2123468548404297959": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123483360517337582": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122477661859836251": false,
         "2122480563198255219": false,
         "2122485503710618047": false,
         "2122685880171426242": true,
@@ -5459,7 +5459,8 @@
         "2123440906133016782": false,
         "2123449349623480328": true,
         "2123458140779770329": false,
-        "2123468548404297959": false
+        "2123468548404297959": false,
+        "2123483360517337582": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7291,5 +7292,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T18:22:39+00:00"
+  "updated_at": "2026-11-19T18:28:38+00:00"
 }
