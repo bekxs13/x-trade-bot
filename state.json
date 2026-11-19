@@ -6538,7 +6538,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123467163675816329",
+      "last_id": "2123469176194891948",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6590,12 +6590,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-18T00:02:50.000Z",
-          "id": "2122842932663447614",
-          "reply_to_id": "2122842377631260804",
-          "text": "Should be really bullish HL potentially since there won't be any signup and best pricing onchain is typically there? \n\nBearish brokerages with KYC and lack of market access? (RH... Schwab...)"
-        },
         {
           "created_at": "2026-11-18T01:16:16.000Z",
           "id": "2122861413576106408",
@@ -6706,10 +6700,14 @@
           ],
           "quoted_text": "Price is being discovered in real time on the only exchange where you can trade preIPO Anthropic.\n\nNearly $400,000,000 volume traded before the market even opens.\n\nIf you're not early, you're late.\n\n@HyperliquidX https://t.co/9Vayid9nHq",
           "text": "$1 Billion in volume traded in the last 24 hours, and the only place in the world where you can short Anthropic (with 10x leverage). https://t.co/QXtwMmhIJB https://t.co/zwb83Vi6Y7"
+        },
+        {
+          "created_at": "2026-11-19T17:31:18.000Z",
+          "id": "2123469176194891948",
+          "text": "Send everything"
         }
       ],
       "reads": {
-        "2122842932663447614": "No call",
         "2122861413576106408": "No call",
         "2122861910995652899": "No call",
         "2122927271837053066": "No call",
@@ -6727,7 +6725,8 @@
         "2123454955981832294": "No call",
         "2123463255267889350": "No call",
         "2123463995097288708": "No call",
-        "2123467163675816329": "No call"
+        "2123467163675816329": "No call",
+        "2123469176194891948": "No call"
       },
       "replies": [
         {
@@ -6822,10 +6821,6 @@
         }
       ],
       "threads": {
-        "2121473261041045930": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121486359491719366": {
           "alerted": [],
           "self_replies": 0
@@ -7229,6 +7224,10 @@
         "2123467163675816329": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123469176194891948": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7238,7 +7237,6 @@
         "2122561085966336509": true,
         "2122577969273270527": false,
         "2122814012807430276": true,
-        "2122842932663447614": true,
         "2122843861990932964": false,
         "2122852278990168201": false,
         "2122861413576106408": true,
@@ -7266,7 +7264,8 @@
         "2123463010849358127": true,
         "2123463255267889350": true,
         "2123463995097288708": true,
-        "2123467163675816329": true
+        "2123467163675816329": true,
+        "2123469176194891948": true
       },
       "user_id": "809191427645181952"
     }
@@ -7289,5 +7288,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T17:30:24+00:00"
+  "updated_at": "2026-11-19T17:32:26+00:00"
 }
