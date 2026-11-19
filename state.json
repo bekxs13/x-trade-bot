@@ -94,7 +94,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123345107843981639",
+      "last_id": "2123362280813535395",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -178,12 +178,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T15:49:24.000Z",
-          "id": "2122718758360015031",
-          "reply_to_id": "2122718668878696614",
-          "text": "0dte 2 fun need a hood account again"
-        },
         {
           "created_at": "2026-11-17T15:50:00.000Z",
           "id": "2122718906381111491",
@@ -300,10 +294,17 @@
           "created_at": "2026-11-19T09:12:58.000Z",
           "id": "2123343765373088245",
           "text": "Hating on GTA first 24 hours is crazy like they spent 2 billion dollars making this open world game prolly sucks"
+        },
+        {
+          "created_at": "2026-11-19T10:26:32.000Z",
+          "id": "2123362280813535395",
+          "images": [
+            "https://pbs.twimg.com/media/HXeyu1YbAAAAPdT.jpg"
+          ],
+          "text": "$GOOG https://t.co/FVo9RF7Dxe"
         }
       ],
       "reads": {
-        "2122718758360015031": "Read together with the post it replies to",
         "2122724665311559900": "No call",
         "2122728159858819453": "No call",
         "2122731219381289010": "No call",
@@ -319,7 +320,8 @@
         "2123217356042473895": "No call",
         "2123260436480946391": "No call",
         "2123313176297275402": "No call",
-        "2123343765373088245": "No call"
+        "2123343765373088245": "No call",
+        "2123362280813535395": "No call"
       },
       "replies": [
         {
@@ -414,10 +416,6 @@
         }
       ],
       "threads": {
-        "2118500301363970184": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118524975141560543": {
           "alerted": [],
           "self_replies": 0
@@ -817,6 +815,10 @@
         "2123343765373088245": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123362280813535395": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -825,7 +827,6 @@
         "2122504567489507443": false,
         "2122560948896751951": false,
         "2122624639000338584": false,
-        "2122718758360015031": true,
         "2122718906381111491": true,
         "2122719696520978784": true,
         "2122721959394042035": true,
@@ -854,7 +855,8 @@
         "2123285585335124362": true,
         "2123313176297275402": false,
         "2123343765373088245": false,
-        "2123345107843981639": false
+        "2123345107843981639": false,
+        "2123362280813535395": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7258,5 +7260,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-19T10:22:18+00:00"
+  "updated_at": "2026-11-19T10:28:26+00:00"
 }
