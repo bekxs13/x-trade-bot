@@ -2305,7 +2305,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123231350820085792",
+      "last_id": "2123236324182253918",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2325,11 +2325,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-15T04:29:21.000Z",
-          "id": "2121822838982353176",
-          "text": "didn't realize there were only 5 sears storefronts left in america"
-        },
         {
           "created_at": "2026-11-16T03:34:54.000Z",
           "id": "2122171527701401622",
@@ -2468,10 +2463,18 @@
           "id": "2123189008737956163",
           "quoted_text": "Gemini 4 Neon is live for me in Studio. https://t.co/dPPkB2bGSK",
           "text": "people are still trying to figure out how to use carbon lmao https://t.co/shigOsRvZw"
+        },
+        {
+          "created_at": "2026-11-19T02:06:02.000Z",
+          "id": "2123236324182253918",
+          "images": [
+            "https://pbs.twimg.com/media/HXdALtNXcAAcVOH.jpg",
+            "https://pbs.twimg.com/media/HXdALs2XIAA5m0M.jpg"
+          ],
+          "text": "admit it this is funny as shit https://t.co/3WjI7rCCxW"
         }
       ],
       "reads": {
-        "2121822838982353176": "No call",
         "2122171527701401622": "No call",
         "2122351572076408866": "No call",
         "2122369305081987326": "No call",
@@ -2489,7 +2492,8 @@
         "2123166568771367055": "No call",
         "2123171076410671537": "No call",
         "2123187054507155785": "No call",
-        "2123189008737956163": "No call"
+        "2123189008737956163": "No call",
+        "2123236324182253918": "No call"
       },
       "replies": [
         {
@@ -2587,10 +2591,6 @@
         }
       ],
       "threads": {
-        "2116897377512534380": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2116915274268233825": {
           "alerted": [],
           "self_replies": 0
@@ -2988,10 +2988,13 @@
         "2123189008737956163": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123236324182253918": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2121822838982353176": false,
         "2122171527701401622": false,
         "2122351572076408866": false,
         "2122369305081987326": false,
@@ -3025,7 +3028,8 @@
         "2123189008737956163": false,
         "2123206323399475656": false,
         "2123220300707824012": false,
-        "2123231350820085792": false
+        "2123231350820085792": false,
+        "2123236324182253918": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7228,5 +7232,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-19T01:48:17+00:00"
+  "updated_at": "2026-11-19T02:06:21+00:00"
 }
