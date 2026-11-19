@@ -94,7 +94,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123179663896002745",
+      "last_id": "2123217356042473895",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -178,11 +178,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T06:38:32.000Z",
-          "id": "2122580126445764939",
-          "text": "Yeah so first we have all the models write all the software on then we release a better model and try to break it"
-        },
         {
           "created_at": "2026-11-17T09:15:22.000Z",
           "id": "2122619596276720057",
@@ -301,10 +296,14 @@
             "https://pbs.twimg.com/media/HXcCDYUbMAAhydb.jpg"
           ],
           "text": "2021 crypto paved the way for public markets (release to retail at ridiculous valuation, dump unlocks, charts look like below) https://t.co/YXvbeB2XT6"
+        },
+        {
+          "created_at": "2026-11-19T00:50:39.000Z",
+          "id": "2123217356042473895",
+          "text": "You the type of guy to appreciate a public water fountain"
         }
       ],
       "reads": {
-        "2122580126445764939": "No call",
         "2122619596276720057": "No call",
         "2122716042405548447": "No call",
         "2122718668878696614": "TRADE EXIT SPX",
@@ -320,7 +319,8 @@
         "2122895895444475977": "No call",
         "2123114159529464276": "No call",
         "2123117463932207409": "No call",
-        "2123168137671753814": "No call"
+        "2123168137671753814": "No call",
+        "2123217356042473895": "No call"
       },
       "replies": [
         {
@@ -415,10 +415,6 @@
         }
       ],
       "threads": {
-        "2118483280203002142": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118487955602096436": {
           "alerted": [],
           "self_replies": 1
@@ -821,6 +817,10 @@
         "2123168137671753814": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123217356042473895": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -830,7 +830,6 @@
         "2122477628452192336": false,
         "2122504567489507443": false,
         "2122560948896751951": false,
-        "2122580126445764939": false,
         "2122619596276720057": false,
         "2122624639000338584": false,
         "2122716042405548447": true,
@@ -858,7 +857,8 @@
         "2123127306067841269": false,
         "2123168137671753814": true,
         "2123168744268812722": true,
-        "2123179663896002745": false
+        "2123179663896002745": false,
+        "2123217356042473895": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7228,5 +7228,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-19T00:12:16+00:00"
+  "updated_at": "2026-11-19T00:52:19+00:00"
 }
