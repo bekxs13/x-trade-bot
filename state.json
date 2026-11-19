@@ -109,7 +109,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123523717183701442",
+      "last_id": "2123532383064588318",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -193,11 +193,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T17:03:10.000Z",
-          "id": "2122737320864735434",
-          "text": "Price is not a function of any kind of \u201cfundamentals\u201d or \u201cframework\u201d it\u2019s where buyers and sellers agree. \n\n2026 and people still talking about earnings revenue free cashflow etc stop it.\n\nWe sent memecoins to $50B\n\nYour private company could be worth $2b or $100b on the same #s"
-        },
         {
           "created_at": "2026-11-17T17:37:51.000Z",
           "id": "2122746051178475852",
@@ -320,10 +315,17 @@
           "created_at": "2026-11-19T19:59:49.000Z",
           "id": "2123506552170844167",
           "text": "TheoVon.gif"
+        },
+        {
+          "created_at": "2026-11-19T21:42:28.000Z",
+          "id": "2123532383064588318",
+          "images": [
+            "https://pbs.twimg.com/media/HXhNcr0bsAARDeU.jpg"
+          ],
+          "text": "https://t.co/zhdRMfkAYw"
         }
       ],
       "reads": {
-        "2122737320864735434": "No call",
         "2122746051178475852": "No call",
         "2122810288328376537": "No call: bearish on NVDA (same view as before)",
         "2122858697257021617": "No call",
@@ -340,7 +342,8 @@
         "2123463559443304579": "No call",
         "2123481848143831321": "No call",
         "2123503717181980913": "No call",
-        "2123506552170844167": "No call"
+        "2123506552170844167": "No call",
+        "2123532383064588318": "No call"
       },
       "replies": [
         {
@@ -438,10 +441,6 @@
         }
       ],
       "threads": {
-        "2118591409225880053": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118591697198457223": {
           "alerted": [],
           "self_replies": 1
@@ -843,11 +842,14 @@
         "2123506552170844167": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123532383064588318": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2122726892575068187": false,
-        "2122737320864735434": true,
         "2122738692498538920": true,
         "2122738982299779556": false,
         "2122746051178475852": false,
@@ -880,7 +882,8 @@
         "2123503717181980913": false,
         "2123506552170844167": false,
         "2123518883625828446": false,
-        "2123523717183701442": false
+        "2123523717183701442": false,
+        "2123532383064588318": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7301,5 +7304,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T21:22:31+00:00"
+  "updated_at": "2026-11-19T21:44:24+00:00"
 }
