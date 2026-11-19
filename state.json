@@ -4713,7 +4713,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123440906133016782",
+      "last_id": "2123449349623480328",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4765,12 +4765,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-16T22:44:03.000Z",
-          "id": "2122460720537481379",
-          "quoted_text": "*UNITED AIRLINES SAYS IT HAS A WIDESPREAD SYSTEM OUTAGE: AP\n\nThe outages are getting weird",
-          "text": "so what happens if i\u2019m reading this in the air on a united flight https://t.co/AGKdvIGJEd"
-        },
         {
           "created_at": "2026-11-16T22:51:33.000Z",
           "id": "2122462607747748155",
@@ -4878,10 +4872,14 @@
           "created_at": "2026-11-19T15:22:17.000Z",
           "id": "2123436707643044177",
           "text": "STOCK MARKET OPEN: Anthropic IPO is TODAY, TomorrowX Summit RECAP, What's NEXT? https://t.co/l41hnxOv1j"
+        },
+        {
+          "created_at": "2026-11-19T16:12:31.000Z",
+          "id": "2123449349623480328",
+          "text": "nobody was long spacex on ipo"
         }
       ],
       "reads": {
-        "2122460720537481379": "No call",
         "2122462607747748155": "No call",
         "2122477661859836251": "No call",
         "2122480563198255219": "No call",
@@ -4896,7 +4894,8 @@
         "2122735530165076157": "No call: bearish on stocks/macro (65%, too unsure)",
         "2122770671084110164": "No call",
         "2122773967278838083": "No call",
-        "2123436707643044177": "No call"
+        "2123436707643044177": "No call",
+        "2123449349623480328": "No call"
       },
       "replies": [
         {
@@ -4994,10 +4993,6 @@
         }
       ],
       "threads": {
-        "2117807965851836807": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117957672087511443": {
           "alerted": [],
           "self_replies": 0
@@ -5395,10 +5390,13 @@
         "2123436707643044177": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123449349623480328": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122460720537481379": false,
         "2122462607747748155": false,
         "2122471085300236356": false,
         "2122477661859836251": false,
@@ -5432,7 +5430,8 @@
         "2123251509378830800": false,
         "2123290530989904214": false,
         "2123436707643044177": true,
-        "2123440906133016782": false
+        "2123440906133016782": false,
+        "2123449349623480328": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7255,5 +7254,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T16:04:19+00:00"
+  "updated_at": "2026-11-19T16:14:21+00:00"
 }
