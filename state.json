@@ -6537,7 +6537,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123469176194891948",
+      "last_id": "2123471825153806596",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6729,12 +6729,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T20:13:00.000Z",
-          "id": "2122422704460492908",
-          "reply_to_id": "2122421483255329235",
-          "text": "@Evan_ss6 It's just one sleeve and all the wallets are public anyways"
-        },
-        {
           "created_at": "2026-11-16T21:47:25.000Z",
           "id": "2122446465822007696",
           "reply_to_id": "2122443259658056046",
@@ -6817,6 +6811,15 @@
           "id": "2123463010849358127",
           "reply_to_id": "2123461534881857905",
           "text": "@jukan05 Hyperliquid"
+        },
+        {
+          "created_at": "2026-11-19T17:41:49.000Z",
+          "id": "2123471825153806596",
+          "images": [
+            "https://pbs.twimg.com/media/HXgWXcUXYAAbsbj.png"
+          ],
+          "reply_to_id": "2123469406588277183",
+          "text": "@eippusrevenge Mogged https://t.co/qwp5C8Z2qm"
         }
       ],
       "threads": {
@@ -7230,7 +7233,6 @@
         }
       },
       "trading": {
-        "2122422704460492908": true,
         "2122446465822007696": true,
         "2122473968712216994": false,
         "2122561085966336509": true,
@@ -7264,7 +7266,8 @@
         "2123463255267889350": true,
         "2123463995097288708": true,
         "2123467163675816329": true,
-        "2123469176194891948": true
+        "2123469176194891948": true,
+        "2123471825153806596": false
       },
       "user_id": "809191427645181952"
     }
@@ -7287,5 +7290,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T17:38:18+00:00"
+  "updated_at": "2026-11-19T17:42:22+00:00"
 }
