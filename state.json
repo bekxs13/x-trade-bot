@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123454492339519825",
+      "last_id": "2123455025573695768",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1210,11 +1210,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-18T03:00:40.000Z",
-          "id": "2122887688596418666",
-          "text": "this is nasty man"
-        },
         {
           "created_at": "2026-11-18T03:02:41.000Z",
           "id": "2122888193007894913",
@@ -1331,10 +1326,15 @@
           "id": "2123445969102537087",
           "quoted_text": "@blknoiz06 i gotchu dw twin https://t.co/4eTJizDwyv",
           "text": "lmao https://t.co/EvO2xtq0tl"
+        },
+        {
+          "created_at": "2026-11-19T16:35:04.000Z",
+          "id": "2123455025573695768",
+          "reply_to_id": "2123454996557742344",
+          "text": "@remp0x can you imagine"
         }
       ],
       "reads": {
-        "2122887688596418666": "No call",
         "2122888193007894913": "No call",
         "2123089696884408356": "No call",
         "2123108125209494009": "No call",
@@ -1354,27 +1354,6 @@
         "2123445969102537087": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-19T15:22:35.000Z",
-          "id": "2123436783815754171",
-          "reply_to_id": "2123434930893910522",
-          "text": "doubt that social trading peaked when we've seen like one total 1M+ perps pnl, apps are paying users 10M+ a month just to trade, i have likely most real trader followers on pump and i only have 85k, robinhood has 30M users\n\nequity perps will flip spot stock trading volume in < 5 years, pair that with memecoins in the same place and retail wont want to trade anywhere else"
-        },
-        {
-          "created_at": "2026-11-19T15:24:56.000Z",
-          "id": "2123437374223093991",
-          "reply_to_id": "2123436907010855248",
-          "text": "@HimothyyDeploys @iruletrenches no where"
-        },
-        {
-          "created_at": "2026-11-19T15:29:12.000Z",
-          "id": "2123438447767834909",
-          "images": [
-            "https://pbs.twimg.com/media/HXf4A6kWQAAp26t.jpg"
-          ],
-          "reply_to_id": "2123437409081712977",
-          "text": "@kfc https://t.co/ExvkLpDEps"
-        },
         {
           "created_at": "2026-11-19T15:39:56.000Z",
           "id": "2123441150287839403",
@@ -1471,6 +1450,27 @@
           ],
           "reply_to_id": "2123453132659183841",
           "text": "@DaniWorldwide @durki0h https://t.co/BhWfu0w39P"
+        },
+        {
+          "created_at": "2026-11-19T16:34:09.000Z",
+          "id": "2123454792496541857",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2121591630721683456/img/QLTsyu1W5MJUGLLe.jpg"
+          ],
+          "reply_to_id": "2123452078504997087",
+          "text": "@s11221s timestamped! https://t.co/o5XE9HEaq9"
+        },
+        {
+          "created_at": "2026-11-19T16:34:50.000Z",
+          "id": "2123454965289263278",
+          "reply_to_id": "2123451103941738603",
+          "text": "@SmartNuggetApp @iruletrenches have you tried using the apps yourself or are you just repeating drivel from X"
+        },
+        {
+          "created_at": "2026-11-19T16:34:57.000Z",
+          "id": "2123454996557742344",
+          "reply_to_id": "2123450983636517066",
+          "text": "@remp0x LMFAOOOOOOO"
         }
       ],
       "threads": {
@@ -1890,7 +1890,6 @@
         }
       },
       "trading": {
-        "2122887688596418666": false,
         "2122888193007894913": true,
         "2123089696884408356": false,
         "2123108125209494009": true,
@@ -1906,10 +1905,7 @@
         "2123431387944603804": true,
         "2123433892569096669": true,
         "2123434409248588254": false,
-        "2123436783815754171": true,
         "2123436900660736495": false,
-        "2123437374223093991": false,
-        "2123438447767834909": false,
         "2123441150287839403": true,
         "2123441425769730458": true,
         "2123441533999624245": false,
@@ -1924,7 +1920,11 @@
         "2123451591223394785": false,
         "2123452931970126078": false,
         "2123453831333945703": false,
-        "2123454492339519825": false
+        "2123454492339519825": false,
+        "2123454792496541857": false,
+        "2123454965289263278": false,
+        "2123454996557742344": false,
+        "2123455025573695768": false
       },
       "user_id": "973261472"
     },
@@ -6516,7 +6516,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123453364474167625",
+      "last_id": "2123454955981832294",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6568,11 +6568,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T23:50:24.000Z",
-          "id": "2122839803011981341",
-          "text": "Giving every legal kid in the United States the opportunity to start their compounding journey levels the play field. There will be no excuse for people to say \"we have ideas, but no capital to start\". Step one of investing and saving is making the account.\n\nGoing from 0 to 1 is the hardest part.\n\nTrump accounts are genius, a clever way to back into UBI, and provides alignment and education for everyone legal in the United States."
-        },
         {
           "created_at": "2026-11-17T23:53:00.000Z",
           "id": "2122840459982606570",
@@ -6678,10 +6673,17 @@
           "created_at": "2026-11-19T16:28:28.000Z",
           "id": "2123453364474167625",
           "text": "It's always amazing to me how disconnected and incompetent Robinhood and Coinbase are when it comes to Crypto. There's room for a retail friendly crypto focused trading platform that serves all the new products in a cohesive manner, simple on/off ramps and no KYC."
+        },
+        {
+          "created_at": "2026-11-19T16:34:48.000Z",
+          "id": "2123454955981832294",
+          "images": [
+            "https://pbs.twimg.com/media/HXgHBrNWQAA6i42.png"
+          ],
+          "text": "! https://t.co/x07hasXREQ"
         }
       ],
       "reads": {
-        "2122839803011981341": "No call",
         "2122840459982606570": "No call",
         "2122840751264686182": "No call",
         "2122842377631260804": "No call",
@@ -6699,7 +6701,8 @@
         "2123436140711616996": "No call",
         "2123452019344035880": "No call: bearish on COIN (60%, too unsure)",
         "2123452260361683355": "Read together with the post it replies to",
-        "2123453364474167625": "No call"
+        "2123453364474167625": "No call",
+        "2123454955981832294": "No call"
       },
       "replies": [
         {
@@ -6794,10 +6797,6 @@
         }
       ],
       "threads": {
-        "2121371411273130066": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121436423265955951": {
           "alerted": [],
           "self_replies": 0
@@ -7201,6 +7200,10 @@
         "2123453364474167625": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123454955981832294": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7212,7 +7215,6 @@
         "2122561085966336509": true,
         "2122577969273270527": false,
         "2122814012807430276": true,
-        "2122839803011981341": false,
         "2122840459982606570": false,
         "2122840751264686182": true,
         "2122842377631260804": true,
@@ -7238,7 +7240,8 @@
         "2123452019344035880": true,
         "2123452260361683355": true,
         "2123452453572276601": true,
-        "2123453364474167625": true
+        "2123453364474167625": true,
+        "2123454955981832294": false
       },
       "user_id": "809191427645181952"
     }
@@ -7261,5 +7264,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T16:34:19+00:00"
+  "updated_at": "2026-11-19T16:36:25+00:00"
 }
