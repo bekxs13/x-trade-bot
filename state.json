@@ -1131,7 +1131,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123470787562889392",
+      "last_id": "2123486473261310308",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1376,15 +1376,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-19T16:02:06.000Z",
-          "id": "2123446729810845873",
-          "images": [
-            "https://pbs.twimg.com/media/HXf_jBRXUAAJqPn.jpg"
-          ],
-          "reply_to_id": "2123439312708735346",
-          "text": "@iAmNihaoCat @Thelma_onchain https://t.co/2lFn1jlp1b"
-        },
-        {
           "created_at": "2026-11-19T16:21:25.000Z",
           "id": "2123451591223394785",
           "images": [
@@ -1494,6 +1485,12 @@
           ],
           "reply_to_id": "2123466710657429582",
           "text": "@tanjirocrypto @UhhhHammy https://t.co/JIJGn0McCm"
+        },
+        {
+          "created_at": "2026-11-19T18:40:02.000Z",
+          "id": "2123486473261310308",
+          "reply_to_id": "2123465527402340663",
+          "text": "@lucy_guo incredible ragebait post s-tier execution"
         }
       ],
       "threads": {
@@ -1932,7 +1929,6 @@
         "2123441425769730458": true,
         "2123444456473215442": true,
         "2123445969102537087": false,
-        "2123446729810845873": false,
         "2123451591223394785": false,
         "2123452931970126078": false,
         "2123453831333945703": false,
@@ -1947,7 +1943,8 @@
         "2123470283520807338": true,
         "2123470622713860338": true,
         "2123470714896634336": false,
-        "2123470787562889392": false
+        "2123470787562889392": false,
+        "2123486473261310308": false
       },
       "user_id": "973261472"
     },
@@ -7292,5 +7289,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T18:28:38+00:00"
+  "updated_at": "2026-11-19T18:40:21+00:00"
 }
