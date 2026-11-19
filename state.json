@@ -109,7 +109,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123481848143831321",
+      "last_id": "2123501513624662423",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -193,11 +193,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T16:26:46.000Z",
-          "id": "2122728159858819453",
-          "text": "You are guaranteed a 10% annual return in the stock market"
-        },
         {
           "created_at": "2026-11-17T16:38:55.000Z",
           "id": "2122731219381289010",
@@ -319,10 +314,15 @@
           ],
           "quoted_text": "https://t.co/T0PR7pHQ96",
           "text": "600 employees dumping 10% of their 9 figs today on the last 10 guys in crypto to donate to terrorists https://t.co/wL8us3qdFc https://t.co/4avNo6SWRa"
+        },
+        {
+          "created_at": "2026-11-19T19:39:48.000Z",
+          "id": "2123501513624662423",
+          "reply_to_id": "2123501476870000823",
+          "text": "@laserboat999 PE / activist HF"
         }
       ],
       "reads": {
-        "2122728159858819453": "No call",
         "2122731219381289010": "No call",
         "2122736895176360018": "No call",
         "2122737320864735434": "No call",
@@ -343,12 +343,6 @@
         "2123481848143831321": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-17T05:22:20.000Z",
-          "id": "2122560948896751951",
-          "reply_to_id": "1728096226023731633",
-          "text": "@GavinSBaker So true"
-        },
         {
           "created_at": "2026-11-17T09:35:25.000Z",
           "id": "2122624639000338584",
@@ -432,6 +426,12 @@
           "id": "2123463285974638839",
           "reply_to_id": "2123462833560265005",
           "text": "@_OH_71 I was busy this wk someone called me and asked for allo and I said no ty. I guess the ipo is free money so they said here\u2019s some"
+        },
+        {
+          "created_at": "2026-11-19T19:39:39.000Z",
+          "id": "2123501476870000823",
+          "reply_to_id": "2123498542094594225",
+          "text": "@laserboat999 They do"
         }
       ],
       "threads": {
@@ -843,11 +843,9 @@
         }
       },
       "trading": {
-        "2122560948896751951": false,
         "2122624639000338584": false,
         "2122721959394042035": true,
         "2122726892575068187": false,
-        "2122728159858819453": true,
         "2122731219381289010": false,
         "2122736895176360018": true,
         "2122737320864735434": true,
@@ -877,7 +875,9 @@
         "2123462124970328213": false,
         "2123463285974638839": true,
         "2123463559443304579": true,
-        "2123481848143831321": true
+        "2123481848143831321": true,
+        "2123501476870000823": false,
+        "2123501513624662423": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7292,5 +7292,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T19:24:23+00:00"
+  "updated_at": "2026-11-19T19:40:21+00:00"
 }
