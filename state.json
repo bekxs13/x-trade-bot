@@ -6542,7 +6542,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123510128788078789",
+      "last_id": "2123527295746834808",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6594,12 +6594,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-18T06:08:32.000Z",
-          "id": "2122934965654442133",
-          "quoted_text": "Chris Hohn sold Microsoft at the bottom and is buying literal rocks\n\nLeopold\u2019s fund is down 92% QoQ\n\nDev Kantesaria is FOMOing into semiconductors\n\nTerry Smith is selling basically everything\n\nChuck Akre is also selling basically everything\n\nAnd to top it off Buffett\u2019s last big move before retiring was buying Google right at the top\n\nSeems like super investors are just as confused as we are...",
-          "text": "No it\u2019s just that HFT guys are getting into MFT and it\u2019s making the game harder. \n\nL/S will be dead in a few years probably. https://t.co/uGUwZBoVYC"
-        },
         {
           "created_at": "2026-11-18T15:27:05.000Z",
           "id": "2123075527531487363",
@@ -6713,10 +6707,17 @@
           "id": "2123510128788078789",
           "reply_to_id": "2123506218811433141",
           "text": "MARA + Binance shareholders funding the hack hole + Retial selling for ANT + People worried about encryption/AI risk"
+        },
+        {
+          "created_at": "2026-11-19T21:22:15.000Z",
+          "id": "2123527295746834808",
+          "images": [
+            "https://pbs.twimg.com/media/HXhI0k3WwAAbg7B.jpg"
+          ],
+          "text": "\u201c\u2026I must retvrn\u2026 back to the trenches\u2026\u201d https://t.co/pTfHtWZhU2"
         }
       ],
       "reads": {
-        "2122934965654442133": "No call",
         "2123075527531487363": "No call: bullish on crypto market (55%, too unsure)",
         "2123202092705968544": "No call",
         "2123205495146078330": "No call",
@@ -6734,7 +6735,8 @@
         "2123495373830250733": "No call",
         "2123496596046573950": "No call",
         "2123506218811433141": "No call: bearish on btc (55%, too unsure)",
-        "2123510128788078789": "No call"
+        "2123510128788078789": "No call",
+        "2123527295746834808": "No call"
       },
       "replies": [
         {
@@ -6832,10 +6834,6 @@
         }
       ],
       "threads": {
-        "2121621495793483861": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121623558606725513": {
           "alerted": [],
           "self_replies": 0
@@ -7239,6 +7237,10 @@
         "2123506218811433141": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2123527295746834808": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7251,7 +7253,6 @@
         "2122852278990168201": false,
         "2122927484232695838": false,
         "2122928832541851874": false,
-        "2122934965654442133": true,
         "2122935765634068839": true,
         "2123061270597312960": true,
         "2123075527531487363": true,
@@ -7276,7 +7277,8 @@
         "2123495373830250733": true,
         "2123496596046573950": false,
         "2123506218811433141": true,
-        "2123510128788078789": true
+        "2123510128788078789": true,
+        "2123527295746834808": true
       },
       "user_id": "809191427645181952"
     }
@@ -7299,5 +7301,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T21:08:20+00:00"
+  "updated_at": "2026-11-19T21:22:31+00:00"
 }
