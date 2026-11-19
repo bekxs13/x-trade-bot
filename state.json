@@ -6538,7 +6538,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123527295746834808",
+      "last_id": "2123539441520153037",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6590,11 +6590,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-18T15:27:05.000Z",
-          "id": "2123075527531487363",
-          "text": "Feels like a bull market"
-        },
         {
           "created_at": "2026-11-18T23:50:00.000Z",
           "id": "2123202092705968544",
@@ -6711,10 +6706,15 @@
             "https://pbs.twimg.com/media/HXhI0k3WwAAbg7B.jpg"
           ],
           "text": "\u201c\u2026I must retvrn\u2026 back to the trenches\u2026\u201d https://t.co/pTfHtWZhU2"
+        },
+        {
+          "created_at": "2026-11-19T22:10:30.000Z",
+          "id": "2123539441520153037",
+          "quoted_text": "*CME CEO DUFFY CUTS DIRECT SHARE HOLDING BY 43% TO 35,442 SHARES: SEC FILING\n\n$CME",
+          "text": "Hyperliquid https://t.co/v1EFZTC5z8"
         }
       ],
       "reads": {
-        "2123075527531487363": "No call: bullish on crypto market (55%, too unsure)",
         "2123202092705968544": "No call",
         "2123205495146078330": "No call",
         "2123262576486470124": "No call",
@@ -6732,7 +6732,8 @@
         "2123496596046573950": "No call",
         "2123506218811433141": "No call: bearish on btc (55%, too unsure)",
         "2123510128788078789": "No call",
-        "2123527295746834808": "No call"
+        "2123527295746834808": "No call",
+        "2123539441520153037": "No call"
       },
       "replies": [
         {
@@ -6830,10 +6831,6 @@
         }
       ],
       "threads": {
-        "2121623558606725513": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121626092020883488": {
           "alerted": [],
           "self_replies": 0
@@ -7237,6 +7234,10 @@
         "2123527295746834808": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123539441520153037": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7251,7 +7252,6 @@
         "2122928832541851874": false,
         "2122935765634068839": true,
         "2123061270597312960": true,
-        "2123075527531487363": true,
         "2123202092705968544": true,
         "2123205495146078330": true,
         "2123262576486470124": false,
@@ -7274,7 +7274,8 @@
         "2123496596046573950": false,
         "2123506218811433141": true,
         "2123510128788078789": true,
-        "2123527295746834808": true
+        "2123527295746834808": true,
+        "2123539441520153037": true
       },
       "user_id": "809191427645181952"
     }
@@ -7297,5 +7298,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T22:10:39+00:00"
+  "updated_at": "2026-11-19T22:12:27+00:00"
 }
