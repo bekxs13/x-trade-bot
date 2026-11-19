@@ -94,7 +94,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123313176297275402",
+      "last_id": "2123343765373088245",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -178,15 +178,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T15:49:03.000Z",
-          "id": "2122718668878696614",
-          "images": [
-            "https://pbs.twimg.com/media/HXVpW_caUAAbOBa.jpg",
-            "https://pbs.twimg.com/media/HXVpW_fbQAAIiSx.jpg"
-          ],
-          "text": "Siri derive my hourly rate from that 5min candle https://t.co/wVOCoplVOY"
-        },
         {
           "created_at": "2026-11-17T15:49:24.000Z",
           "id": "2122718758360015031",
@@ -304,10 +295,14 @@
             "https://pbs.twimg.com/media/HXeGFHsbsAANpgs.jpg"
           ],
           "text": "https://t.co/5xQvL3v1Uc"
+        },
+        {
+          "created_at": "2026-11-19T09:12:58.000Z",
+          "id": "2123343765373088245",
+          "text": "Hating on GTA first 24 hours is crazy like they spent 2 billion dollars making this open world game prolly sucks"
         }
       ],
       "reads": {
-        "2122718668878696614": "TRADE EXIT SPX",
         "2122718758360015031": "Read together with the post it replies to",
         "2122724665311559900": "No call",
         "2122728159858819453": "No call",
@@ -323,7 +318,8 @@
         "2123168137671753814": "No call",
         "2123217356042473895": "No call",
         "2123260436480946391": "No call",
-        "2123313176297275402": "No call"
+        "2123313176297275402": "No call",
+        "2123343765373088245": "No call"
       },
       "replies": [
         {
@@ -418,10 +414,6 @@
         }
       ],
       "threads": {
-        "2118491617556598786": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118500301363970184": {
           "alerted": [],
           "self_replies": 0
@@ -821,6 +813,10 @@
         "2123313176297275402": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123343765373088245": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -830,7 +826,6 @@
         "2122504567489507443": false,
         "2122560948896751951": false,
         "2122624639000338584": false,
-        "2122718668878696614": true,
         "2122718758360015031": true,
         "2122718906381111491": true,
         "2122719696520978784": true,
@@ -858,7 +853,8 @@
         "2123217356042473895": false,
         "2123260436480946391": false,
         "2123285585335124362": true,
-        "2123313176297275402": false
+        "2123313176297275402": false,
+        "2123343765373088245": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7262,5 +7258,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-18",
-  "updated_at": "2026-11-19T08:34:17+00:00"
+  "updated_at": "2026-11-19T09:14:20+00:00"
 }
