@@ -6538,7 +6538,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123463995097288708",
+      "last_id": "2123467163675816329",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6590,11 +6590,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-18T00:00:37.000Z",
-          "id": "2122842377631260804",
-          "text": "Probably optimal flow for trading in the far future\n\nDeposit Stablecoins -> Agent\n\nAgent asks what you want to trade, can be idea and then it suggests trades, or can be more abstracted\n\nAgent goes out and finds best pricing on available venues (ideally onchain for us crypto guys)\n\nAgent places trade\n\nBrokerages of convenience but lacking assets seem to really lose here, the only thing that matters is market access (bullish onchain, even if pricing is worse?)"
-        },
         {
           "created_at": "2026-11-18T00:02:50.000Z",
           "id": "2122842932663447614",
@@ -6702,10 +6697,18 @@
           "created_at": "2026-11-19T17:10:43.000Z",
           "id": "2123463995097288708",
           "text": "This is why finance, capitalism and markets are so incredible.\n\nThink AI is a scam? Go short Anthropic. \nThink digital god is coming? Go long Anthropic.\n\nThere is no opinion needed, or peer revenue or popularity contest. The market will tell you who's right and hand you money."
+        },
+        {
+          "created_at": "2026-11-19T17:23:18.000Z",
+          "id": "2123467163675816329",
+          "images": [
+            "https://pbs.twimg.com/media/HXgSCoEWgAEnyPE.jpg"
+          ],
+          "quoted_text": "Price is being discovered in real time on the only exchange where you can trade preIPO Anthropic.\n\nNearly $400,000,000 volume traded before the market even opens.\n\nIf you're not early, you're late.\n\n@HyperliquidX https://t.co/9Vayid9nHq",
+          "text": "$1 Billion in volume traded in the last 24 hours, and the only place in the world where you can short Anthropic (with 10x leverage). https://t.co/QXtwMmhIJB https://t.co/zwb83Vi6Y7"
         }
       ],
       "reads": {
-        "2122842377631260804": "No call",
         "2122842932663447614": "No call",
         "2122861413576106408": "No call",
         "2122861910995652899": "No call",
@@ -6723,7 +6726,8 @@
         "2123453364474167625": "No call",
         "2123454955981832294": "No call",
         "2123463255267889350": "No call",
-        "2123463995097288708": "No call"
+        "2123463995097288708": "No call",
+        "2123467163675816329": "No call"
       },
       "replies": [
         {
@@ -6818,10 +6822,6 @@
         }
       ],
       "threads": {
-        "2121468277599936750": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121473261041045930": {
           "alerted": [],
           "self_replies": 0
@@ -7225,6 +7225,10 @@
         "2123463995097288708": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123467163675816329": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7234,7 +7238,6 @@
         "2122561085966336509": true,
         "2122577969273270527": false,
         "2122814012807430276": true,
-        "2122842377631260804": true,
         "2122842932663447614": true,
         "2122843861990932964": false,
         "2122852278990168201": false,
@@ -7262,7 +7265,8 @@
         "2123460741197930822": true,
         "2123463010849358127": true,
         "2123463255267889350": true,
-        "2123463995097288708": true
+        "2123463995097288708": true,
+        "2123467163675816329": true
       },
       "user_id": "809191427645181952"
     }
@@ -7285,5 +7289,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T17:12:19+00:00"
+  "updated_at": "2026-11-19T17:24:25+00:00"
 }
