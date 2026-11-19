@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123451591223394785",
+      "last_id": "2123453831333945703",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1355,18 +1355,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-19T14:58:56.000Z",
-          "id": "2123430832467796332",
-          "reply_to_id": "2123416504121037009",
-          "text": "@QwQiao pearl seems like venture investment more than a trade"
-        },
-        {
-          "created_at": "2026-11-19T15:09:33.000Z",
-          "id": "2123433504486613457",
-          "reply_to_id": "2123431702500635008",
-          "text": "@JLKHatesYou @LaunchOnPeak what is that"
-        },
-        {
           "created_at": "2026-11-19T15:17:39.000Z",
           "id": "2123435542469882205",
           "images": [
@@ -1465,6 +1453,24 @@
           ],
           "reply_to_id": "2123450983179080111",
           "text": "@RAP3MEFR https://t.co/KPm3UTp5KW"
+        },
+        {
+          "created_at": "2026-11-19T16:26:45.000Z",
+          "id": "2123452931970126078",
+          "images": [
+            "https://pbs.twimg.com/media/HXgFMETWkAAYNva.jpg"
+          ],
+          "reply_to_id": "2123450914367512806",
+          "text": "@durki0h https://t.co/MPy6sF4Xzj"
+        },
+        {
+          "created_at": "2026-11-19T16:30:19.000Z",
+          "id": "2123453831333945703",
+          "images": [
+            "https://pbs.twimg.com/media/HXgGAXoWEAAAQXf.jpg"
+          ],
+          "reply_to_id": "2123451846870130809",
+          "text": "@Jaspeeroo https://t.co/YUgGWGdSea"
         }
       ],
       "threads": {
@@ -1896,10 +1902,8 @@
         "2123428598014967818": true,
         "2123429045623009775": true,
         "2123429285440692319": true,
-        "2123430832467796332": true,
         "2123430987694842017": true,
         "2123431387944603804": true,
-        "2123433504486613457": false,
         "2123433892569096669": true,
         "2123434409248588254": false,
         "2123435542469882205": true,
@@ -1918,7 +1922,9 @@
         "2123445310445809830": true,
         "2123445969102537087": false,
         "2123446729810845873": false,
-        "2123451591223394785": false
+        "2123451591223394785": false,
+        "2123452931970126078": false,
+        "2123453831333945703": false
       },
       "user_id": "973261472"
     },
@@ -6510,7 +6516,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123452453572276601",
+      "last_id": "2123453364474167625",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6562,11 +6568,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T23:44:41.000Z",
-          "id": "2122838366911713626",
-          "text": "Trump accounts will likely be one of the most consequential initiatives of any president, ever."
-        },
         {
           "created_at": "2026-11-17T23:50:24.000Z",
           "id": "2122839803011981341",
@@ -6672,10 +6673,14 @@
           ],
           "reply_to_id": "2123452019344035880",
           "text": "This is a sinking ship. I want to see American companies do well but to say Coinbase has been mismanaged is a complete understatement. https://t.co/fFRre5dMd4"
+        },
+        {
+          "created_at": "2026-11-19T16:28:28.000Z",
+          "id": "2123453364474167625",
+          "text": "It's always amazing to me how disconnected and incompetent Robinhood and Coinbase are when it comes to Crypto. There's room for a retail friendly crypto focused trading platform that serves all the new products in a cohesive manner, simple on/off ramps and no KYC."
         }
       ],
       "reads": {
-        "2122838366911713626": "No call",
         "2122839803011981341": "No call",
         "2122840459982606570": "No call",
         "2122840751264686182": "No call",
@@ -6693,7 +6698,8 @@
         "2123430874309890500": "No call",
         "2123436140711616996": "No call",
         "2123452019344035880": "No call: bearish on COIN (60%, too unsure)",
-        "2123452260361683355": "Read together with the post it replies to"
+        "2123452260361683355": "Read together with the post it replies to",
+        "2123453364474167625": "No call"
       },
       "replies": [
         {
@@ -6788,10 +6794,6 @@
         }
       ],
       "threads": {
-        "2121371060213805352": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121371411273130066": {
           "alerted": [],
           "self_replies": 0
@@ -7195,6 +7197,10 @@
         "2123452019344035880": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2123453364474167625": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7206,7 +7212,6 @@
         "2122561085966336509": true,
         "2122577969273270527": false,
         "2122814012807430276": true,
-        "2122838366911713626": false,
         "2122839803011981341": false,
         "2122840459982606570": false,
         "2122840751264686182": true,
@@ -7232,7 +7237,8 @@
         "2123436576273219714": true,
         "2123452019344035880": true,
         "2123452260361683355": true,
-        "2123452453572276601": true
+        "2123452453572276601": true,
+        "2123453364474167625": true
       },
       "user_id": "809191427645181952"
     }
@@ -7255,5 +7261,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T16:26:19+00:00"
+  "updated_at": "2026-11-19T16:30:34+00:00"
 }
