@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123444456473215442",
+      "last_id": "2123445002688761966",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1354,15 +1354,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-19T06:31:37.000Z",
-          "id": "2123303161272349109",
-          "images": [
-            "https://pbs.twimg.com/media/HXd8-NnXAAAMd2q.jpg"
-          ],
-          "reply_to_id": "2123198505321669092",
-          "text": "@0xWara https://t.co/dcmNsTJOah"
-        },
-        {
           "created_at": "2026-11-19T06:32:02.000Z",
           "id": "2123303267258277967",
           "images": [
@@ -1467,6 +1458,15 @@
           ],
           "reply_to_id": "2123442784275460392",
           "text": "@iruletrenches this is not new information, ppl keep trading them because memecoins have much better variance to the upside than equities or sports betting for those with &lt; $1000\n\nif you have ~1% of making 100x ppl will keep trading them, this isn't complicated https://t.co/UDHfMcJoAY"
+        },
+        {
+          "created_at": "2026-11-19T15:55:14.000Z",
+          "id": "2123445002688761966",
+          "images": [
+            "https://pbs.twimg.com/media/HXf9-iBWEAEFEuV.jpg"
+          ],
+          "reply_to_id": "2123444882551312665",
+          "text": "@defidavee_ https://t.co/yqq4Sfhwnx"
         }
       ],
       "threads": {
@@ -1896,7 +1896,6 @@
         "2123115327248560334": false,
         "2123115509545934939": true,
         "2123115646473113905": false,
-        "2123303161272349109": false,
         "2123303267258277967": false,
         "2123303827239588064": false,
         "2123306293226271165": false,
@@ -1920,7 +1919,8 @@
         "2123441785179636211": false,
         "2123442477231460600": true,
         "2123443551891513820": true,
-        "2123444456473215442": true
+        "2123444456473215442": true,
+        "2123445002688761966": false
       },
       "user_id": "973261472"
     },
@@ -7257,5 +7257,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T15:54:28+00:00"
+  "updated_at": "2026-11-19T15:56:19+00:00"
 }
