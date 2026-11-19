@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123438447767834909",
+      "last_id": "2123441150287839403",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1353,15 +1353,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-19T06:27:42.000Z",
-          "id": "2123302178140172738",
-          "images": [
-            "https://pbs.twimg.com/media/HXd8E8YW4AAkJ75.jpg"
-          ],
-          "reply_to_id": "2123098567254720966",
-          "text": "@0xAvast https://t.co/fmnVHKnLpX"
-        },
-        {
           "created_at": "2026-11-19T06:29:55.000Z",
           "id": "2123302733071479066",
           "images": [
@@ -1474,6 +1465,12 @@
           ],
           "reply_to_id": "2123437409081712977",
           "text": "@kfc https://t.co/ExvkLpDEps"
+        },
+        {
+          "created_at": "2026-11-19T15:39:56.000Z",
+          "id": "2123441150287839403",
+          "reply_to_id": "2123439133645316113",
+          "text": "@iruletrenches yea heavily disagree, imagine we had equity perps social trading from\nbeginning of ai bull run, brother the pnls wouldve been retarded, you are focusing too hard on the multi month cyclicality of memecoins"
         }
       ],
       "threads": {
@@ -1905,7 +1902,6 @@
         "2123115327248560334": false,
         "2123115509545934939": true,
         "2123115646473113905": false,
-        "2123302178140172738": false,
         "2123302733071479066": false,
         "2123302788088127844": false,
         "2123302963427069964": false,
@@ -1927,7 +1923,8 @@
         "2123436783815754171": true,
         "2123436900660736495": false,
         "2123437374223093991": false,
-        "2123438447767834909": false
+        "2123438447767834909": false,
+        "2123441150287839403": true
       },
       "user_id": "973261472"
     },
@@ -4722,7 +4719,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123436707643044177",
+      "last_id": "2123440906133016782",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4909,12 +4906,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-18T00:43:54.000Z",
-          "id": "2122853268267454559",
-          "reply_to_id": "2122838672319906106",
-          "text": "@JamesChristoph cmon man"
-        },
-        {
           "created_at": "2026-11-18T01:05:42.000Z",
           "id": "2122858755339727160",
           "reply_to_id": "2122858697257021617",
@@ -5000,6 +4991,12 @@
           "id": "2123290530989904214",
           "reply_to_id": "2123281858406363261",
           "text": "@OXAliyu @ethos_network who the fuck paid you to do this"
+        },
+        {
+          "created_at": "2026-11-19T15:38:58.000Z",
+          "id": "2123440906133016782",
+          "reply_to_id": "2123429285440692319",
+          "text": "@blknoiz06 cmon bruh"
         }
       ],
       "threads": {
@@ -5425,7 +5422,6 @@
         "2122770671084110164": false,
         "2122773967278838083": true,
         "2122818271603040372": false,
-        "2122853268267454559": false,
         "2122858755339727160": false,
         "2122861495847690629": false,
         "2122864695744831587": false,
@@ -5441,7 +5437,8 @@
         "2123223768734605680": true,
         "2123251509378830800": false,
         "2123290530989904214": false,
-        "2123436707643044177": true
+        "2123436707643044177": true,
+        "2123440906133016782": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7264,5 +7261,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T15:30:26+00:00"
+  "updated_at": "2026-11-19T15:40:21+00:00"
 }
