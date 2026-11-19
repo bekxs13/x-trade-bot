@@ -1110,7 +1110,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123429285440692319",
+      "last_id": "2123430987694842017",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1210,11 +1210,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T15:30:35.000Z",
-          "id": "2122714022869189003",
-          "text": "whats the apr on high yield savings accounts rn?"
-        },
         {
           "created_at": "2026-11-17T15:58:13.000Z",
           "id": "2122720974562795913",
@@ -1328,10 +1323,14 @@
           "created_at": "2026-11-19T14:52:47.000Z",
           "id": "2123429285440692319",
           "text": "first very important sign of bitcoin relative strength:\n\n\u2022 gold breaking down beneath summer lows while $BTC holding above\n\nwatching"
+        },
+        {
+          "created_at": "2026-11-19T14:59:33.000Z",
+          "id": "2123430987694842017",
+          "text": "venice also moving very well today"
         }
       ],
       "reads": {
-        "2122714022869189003": "No call",
         "2122720974562795913": "No call",
         "2122721857011163451": "No call",
         "2122753788800839849": "No call: bullish on anthropic (55%, too unsure)",
@@ -1350,15 +1349,10 @@
         "2123115646473113905": "No call: bullish on PEARL (65%, too unsure)",
         "2123428598014967818": "No call: bullish on crypto market (60%, too unsure)",
         "2123429045623009775": "No call",
-        "2123429285440692319": "VIEW bullish on btc"
+        "2123429285440692319": "VIEW bullish on btc",
+        "2123430987694842017": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-18T18:09:39.000Z",
-          "id": "2123116441335714072",
-          "reply_to_id": "2123115788832014828",
-          "text": "@factorydoge69 \ud83d\ude2d"
-        },
         {
           "created_at": "2026-11-18T18:10:25.000Z",
           "id": "2123116632864371090",
@@ -1475,13 +1469,15 @@
           ],
           "reply_to_id": "2123305681763684780",
           "text": "@lewnn33 @TheMisterTurtle https://t.co/HsApOZ4omm"
+        },
+        {
+          "created_at": "2026-11-19T14:58:56.000Z",
+          "id": "2123430832467796332",
+          "reply_to_id": "2123416504121037009",
+          "text": "@QwQiao pearl seems like venture investment more than a trade"
         }
       ],
       "threads": {
-        "2121354029909299475": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121356977364418744": {
           "alerted": [],
           "self_replies": 0
@@ -1891,10 +1887,13 @@
             "bias:btc:bullish"
           ],
           "self_replies": 0
+        },
+        "2123430987694842017": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122714022869189003": true,
         "2122720974562795913": false,
         "2122721857011163451": false,
         "2122753788800839849": true,
@@ -1911,7 +1910,6 @@
         "2123115327248560334": false,
         "2123115509545934939": true,
         "2123115646473113905": false,
-        "2123116441335714072": false,
         "2123116632864371090": true,
         "2123132797863034922": false,
         "2123207438350315563": true,
@@ -1928,7 +1926,9 @@
         "2123306293226271165": false,
         "2123428598014967818": true,
         "2123429045623009775": true,
-        "2123429285440692319": true
+        "2123429285440692319": true,
+        "2123430832467796332": true,
+        "2123430987694842017": true
       },
       "user_id": "973261472"
     },
@@ -6522,7 +6522,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123262576486470124",
+      "last_id": "2123430874309890500",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6574,11 +6574,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T15:34:54.000Z",
-          "id": "2122715108988379554",
-          "text": "Everybody wants swaps"
-        },
         {
           "created_at": "2026-11-17T22:09:23.000Z",
           "id": "2122814382849536242",
@@ -6680,10 +6675,14 @@
           "created_at": "2026-11-19T03:50:21.000Z",
           "id": "2123262576486470124",
           "text": "Meow"
+        },
+        {
+          "created_at": "2026-11-19T14:59:06.000Z",
+          "id": "2123430874309890500",
+          "text": "I'm a little bit surprised the USGOV isn't bidding the IPO"
         }
       ],
       "reads": {
-        "2122715108988379554": "No call",
         "2122814382849536242": "No call",
         "2122815785798094949": "No call",
         "2122816280411729972": "No call",
@@ -6702,7 +6701,8 @@
         "2123075527531487363": "No call: bullish on crypto market (55%, too unsure)",
         "2123202092705968544": "No call",
         "2123205495146078330": "No call",
-        "2123262576486470124": "No call"
+        "2123262576486470124": "No call",
+        "2123430874309890500": "No call"
       },
       "replies": [
         {
@@ -6797,10 +6797,6 @@
         }
       ],
       "threads": {
-        "2121367916608364803": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121369985150832923": {
           "alerted": [],
           "self_replies": 0
@@ -7204,6 +7200,10 @@
         "2123262576486470124": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123430874309890500": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7215,7 +7215,6 @@
         "2122473968712216994": false,
         "2122561085966336509": true,
         "2122577969273270527": false,
-        "2122715108988379554": true,
         "2122814012807430276": true,
         "2122814382849536242": true,
         "2122815785798094949": true,
@@ -7241,7 +7240,8 @@
         "2123075527531487363": true,
         "2123202092705968544": true,
         "2123205495146078330": true,
-        "2123262576486470124": false
+        "2123262576486470124": false,
+        "2123430874309890500": true
       },
       "user_id": "809191427645181952"
     }
@@ -7264,5 +7264,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T14:54:24+00:00"
+  "updated_at": "2026-11-19T15:00:35+00:00"
 }
