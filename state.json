@@ -6525,7 +6525,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123430874309890500",
+      "last_id": "2123436140711616996",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6577,12 +6577,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T22:09:23.000Z",
-          "id": "2122814382849536242",
-          "quoted_text": "Isn\u2019t the IV on NVDA so high that regardless of the news I\u2019ll get cooked? Or am I missing something",
-          "text": "If you think Onchain trading is anywhere near normie penetration most people are still stuck trading IV raped options with no ability to trade during earnings / after hours.\n\n24/7 liquid perpetual swaps with leverage will be the optimal way to transact value as humans. https://t.co/5K2Cicg7M7"
-        },
         {
           "created_at": "2026-11-17T22:14:58.000Z",
           "id": "2122815785798094949",
@@ -6683,10 +6677,17 @@
           "created_at": "2026-11-19T14:59:06.000Z",
           "id": "2123430874309890500",
           "text": "I'm a little bit surprised the USGOV isn't bidding the IPO"
+        },
+        {
+          "created_at": "2026-11-19T15:20:02.000Z",
+          "id": "2123436140711616996",
+          "images": [
+            "https://pbs.twimg.com/media/HXf10t1XMAAAQXr.jpg"
+          ],
+          "text": "Price is being discovered in real time on the only exchange where you can trade preIPO Anthropic.\n\nNearly $400,000,000 volume traded before the market even opens.\n\nIf you're not early, you're late.\n\n@HyperliquidX https://t.co/9Vayid9nHq"
         }
       ],
       "reads": {
-        "2122814382849536242": "No call",
         "2122815785798094949": "No call",
         "2122816280411729972": "No call",
         "2122837855252652117": "No call",
@@ -6705,7 +6706,8 @@
         "2123202092705968544": "No call",
         "2123205495146078330": "No call",
         "2123262576486470124": "No call",
-        "2123430874309890500": "No call"
+        "2123430874309890500": "No call",
+        "2123436140711616996": "No call"
       },
       "replies": [
         {
@@ -6800,10 +6802,6 @@
         }
       ],
       "threads": {
-        "2121369985150832923": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121370392912638212": {
           "alerted": [],
           "self_replies": 0
@@ -7207,6 +7205,10 @@
         "2123430874309890500": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123436140711616996": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7219,7 +7221,6 @@
         "2122561085966336509": true,
         "2122577969273270527": false,
         "2122814012807430276": true,
-        "2122814382849536242": true,
         "2122815785798094949": true,
         "2122816280411729972": false,
         "2122837855252652117": false,
@@ -7244,7 +7245,8 @@
         "2123202092705968544": true,
         "2123205495146078330": true,
         "2123262576486470124": false,
-        "2123430874309890500": true
+        "2123430874309890500": true,
+        "2123436140711616996": true
       },
       "user_id": "809191427645181952"
     }
@@ -7267,5 +7269,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T15:18:25+00:00"
+  "updated_at": "2026-11-19T15:20:27+00:00"
 }
