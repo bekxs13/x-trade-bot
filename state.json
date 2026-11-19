@@ -109,7 +109,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123503717181980913",
+      "last_id": "2123506552170844167",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -193,11 +193,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T17:01:29.000Z",
-          "id": "2122736895176360018",
-          "text": "The \u201cprice to earnings ratio\u201d is like Greek sirens for absolute retards everywhere"
-        },
         {
           "created_at": "2026-11-17T17:03:10.000Z",
           "id": "2122737320864735434",
@@ -320,10 +315,14 @@
           "created_at": "2026-11-19T19:48:33.000Z",
           "id": "2123503717181980913",
           "text": "GTA go to market team clipping campaign \n\n\u201cPost rage bait about how it\u2019s libbed out\u201d"
+        },
+        {
+          "created_at": "2026-11-19T19:59:49.000Z",
+          "id": "2123506552170844167",
+          "text": "TheoVon.gif"
         }
       ],
       "reads": {
-        "2122736895176360018": "No call",
         "2122737320864735434": "No call",
         "2122746051178475852": "No call",
         "2122810288328376537": "No call: bearish on NVDA (same view as before)",
@@ -340,7 +339,8 @@
         "2123460620918124611": "TRADE EXIT ANT",
         "2123463559443304579": "No call",
         "2123481848143831321": "No call",
-        "2123503717181980913": "No call"
+        "2123503717181980913": "No call",
+        "2123506552170844167": "No call"
       },
       "replies": [
         {
@@ -435,10 +435,6 @@
         }
       ],
       "threads": {
-        "2118587970039226849": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118591409225880053": {
           "alerted": [],
           "self_replies": 0
@@ -840,13 +836,16 @@
         "2123503717181980913": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123506552170844167": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2122624639000338584": false,
         "2122721959394042035": true,
         "2122726892575068187": false,
-        "2122736895176360018": true,
         "2122737320864735434": true,
         "2122738692498538920": true,
         "2122738982299779556": false,
@@ -877,7 +876,8 @@
         "2123481848143831321": true,
         "2123501476870000823": false,
         "2123501513624662423": false,
-        "2123503717181980913": false
+        "2123503717181980913": false,
+        "2123506552170844167": false
       },
       "user_id": "1446541960181858315"
     },
@@ -6539,7 +6539,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123496596046573950",
+      "last_id": "2123506218811433141",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6591,11 +6591,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-18T05:37:58.000Z",
-          "id": "2122927271837053066",
-          "text": "Tax evasion is impossible with the advent of LLMs. Don't believe me? Upload any EVM address into an agent and ask it about all it's trading history, PnL, and current projected tax based on your jurisdiction.\n\nPay your taxes people."
-        },
         {
           "created_at": "2026-11-18T05:49:04.000Z",
           "id": "2122930064639889851",
@@ -6706,10 +6701,17 @@
           "created_at": "2026-11-19T19:20:15.000Z",
           "id": "2123496596046573950",
           "text": "Blow your shit smooth off \u203c\ufe0f"
+        },
+        {
+          "created_at": "2026-11-19T19:58:30.000Z",
+          "id": "2123506218811433141",
+          "images": [
+            "https://pbs.twimg.com/media/HXg1fl1WUAAVyft.jpg"
+          ],
+          "text": "As soon as this absolute RAPIST is done selling his hundreds of thousands of Bitcoins we can bottom https://t.co/Z7hSVXvGEl"
         }
       ],
       "reads": {
-        "2122927271837053066": "No call",
         "2122930064639889851": "No call",
         "2122934965654442133": "No call",
         "2123075527531487363": "No call: bullish on crypto market (55%, too unsure)",
@@ -6727,7 +6729,8 @@
         "2123467163675816329": "No call",
         "2123469176194891948": "No call",
         "2123495373830250733": "No call",
-        "2123496596046573950": "No call"
+        "2123496596046573950": "No call",
+        "2123506218811433141": "No call: bearish on btc (55%, too unsure)"
       },
       "replies": [
         {
@@ -6825,10 +6828,6 @@
         }
       ],
       "threads": {
-        "2121620960961044497": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121621495793483861": {
           "alerted": [],
           "self_replies": 0
@@ -7232,6 +7231,10 @@
         "2123496596046573950": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123506218811433141": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7242,7 +7245,6 @@
         "2122814012807430276": true,
         "2122843861990932964": false,
         "2122852278990168201": false,
-        "2122927271837053066": false,
         "2122927484232695838": false,
         "2122928832541851874": false,
         "2122930064639889851": false,
@@ -7269,7 +7271,8 @@
         "2123469176194891948": true,
         "2123471825153806596": false,
         "2123495373830250733": true,
-        "2123496596046573950": false
+        "2123496596046573950": false,
+        "2123506218811433141": true
       },
       "user_id": "809191427645181952"
     }
@@ -7292,5 +7295,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T19:50:31+00:00"
+  "updated_at": "2026-11-19T20:00:38+00:00"
 }
