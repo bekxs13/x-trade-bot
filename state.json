@@ -118,7 +118,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123616539891167545",
+      "last_id": "2123625802030108921",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -202,14 +202,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T10:26:32.000Z",
-          "id": "2123362280813535395",
-          "images": [
-            "https://pbs.twimg.com/media/HXeyu1YbAAAAPdT.jpg"
-          ],
-          "text": "$GOOG https://t.co/FVo9RF7Dxe"
-        },
         {
           "created_at": "2026-11-19T16:57:18.000Z",
           "id": "2123460620918124611",
@@ -327,10 +319,17 @@
             "https://pbs.twimg.com/media/HXiZDc1aQAEhLUR.jpg"
           ],
           "text": "https://t.co/xjryhfrlx9"
+        },
+        {
+          "created_at": "2026-11-20T03:53:40.000Z",
+          "id": "2123625802030108921",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2123601261412937728/img/DvbOntS9tWgQYU8Y.jpg"
+          ],
+          "text": "Frank Degods Edits Account https://t.co/0ybPyR5jkL"
         }
       ],
       "reads": {
-        "2123362280813535395": "No call",
         "2123460620918124611": "TRADE EXIT ANT",
         "2123463559443304579": "No call",
         "2123481848143831321": "No call",
@@ -348,15 +347,10 @@
         "2123581925713641687": "No call",
         "2123584377884143880": "No call",
         "2123594208934277570": "No call: bearish on semis/ai stocks (same view as before)",
-        "2123615513398136943": "No call"
+        "2123615513398136943": "No call",
+        "2123625802030108921": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-19T22:32:06.000Z",
-          "id": "2123544876742803460",
-          "reply_to_id": "2123496572541644955",
-          "text": "@joeblau They unlocked 10% today and unlock more every day they already good"
-        },
         {
           "created_at": "2026-11-19T22:55:35.000Z",
           "id": "2123550783077851539",
@@ -440,13 +434,15 @@
           "id": "2123616539891167545",
           "reply_to_id": "2123614604664447459",
           "text": "@Wild_Randomness That licks or bids?"
+        },
+        {
+          "created_at": "2026-11-20T03:52:47.000Z",
+          "id": "2123625576519053783",
+          "reply_to_id": "2123463897583599759",
+          "text": "@IterIntellectus They actually explicitly changed the rules to take it from other people via their 401ks quite directly https://t.co/7lwZktunx9"
         }
       ],
       "threads": {
-        "2119328276858728741": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119328458459459755": {
           "alerted": [],
           "self_replies": 0
@@ -850,10 +846,13 @@
         "2123615513398136943": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123625802030108921": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123362280813535395": true,
         "2123460620918124611": true,
         "2123463559443304579": true,
         "2123481848143831321": true,
@@ -861,7 +860,6 @@
         "2123503717181980913": false,
         "2123506552170844167": false,
         "2123532383064588318": false,
-        "2123544876742803460": true,
         "2123548045090627871": false,
         "2123549952916025826": false,
         "2123550783077851539": false,
@@ -887,7 +885,9 @@
         "2123594208934277570": true,
         "2123599564519465109": false,
         "2123615513398136943": false,
-        "2123616539891167545": true
+        "2123616539891167545": true,
+        "2123625576519053783": false,
+        "2123625802030108921": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7302,5 +7302,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-20T03:52:27+00:00"
+  "updated_at": "2026-11-20T03:54:19+00:00"
 }
