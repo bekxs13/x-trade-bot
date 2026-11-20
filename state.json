@@ -2352,7 +2352,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123754917672468716",
+      "last_id": "2123757023548547461",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2372,15 +2372,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T01:52:49.000Z",
-          "id": "2122508222900965692",
-          "images": [
-            "https://pbs.twimg.com/media/HXSp-YwW0AATwgY.jpg"
-          ],
-          "quoted_text": "JUST IN: Google $GOOGL says \"the era of autonomous attacks has arrived.\"",
-          "text": "disaster day for most ai related names EXCEPT this sort of stuff https://t.co/6wV0mw9Ift https://t.co/6Xoinga82x"
-        },
         {
           "created_at": "2026-11-17T03:51:22.000Z",
           "id": "2122538055966085520",
@@ -2520,10 +2511,15 @@
           "created_at": "2026-11-20T12:17:32.000Z",
           "id": "2123752601300930743",
           "text": "nasdaq officially in a bear market as of today, s&amp;p just about to enter correction"
+        },
+        {
+          "created_at": "2026-11-20T12:35:06.000Z",
+          "id": "2123757023548547461",
+          "quoted_text": "remember a year ago when people on here insisted anthropic was doomed? lol. lmao even https://t.co/zfVZXZ1rWt",
+          "text": "year ago? people were saying this as recently as astra release while i was saying anthropic was more than fine and that even the google deepmind tech  was being undervalued by twitter https://t.co/meZoV0V68g"
         }
       ],
       "reads": {
-        "2122508222900965692": "No call: bullish on cybersecurity stocks (65%, too unsure)",
         "2122538055966085520": "No call",
         "2122717154411683940": "No call",
         "2122732469585657932": "No call",
@@ -2542,7 +2538,8 @@
         "2123459574271471923": "Read together with the post it replies to",
         "2123575650027975053": "No call",
         "2123648131300515878": "No call",
-        "2123752601300930743": "No call"
+        "2123752601300930743": "No call",
+        "2123757023548547461": "No call"
       },
       "replies": [
         {
@@ -2640,10 +2637,6 @@
         }
       ],
       "threads": {
-        "2117412046362825178": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117611700094423543": {
           "alerted": [],
           "self_replies": 0
@@ -3041,10 +3034,13 @@
         "2123752601300930743": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123757023548547461": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122508222900965692": true,
         "2122538055966085520": true,
         "2122717154411683940": false,
         "2122732469585657932": false,
@@ -3078,7 +3074,8 @@
         "2123653789173387409": false,
         "2123663886914076777": false,
         "2123752601300930743": true,
-        "2123754917672468716": false
+        "2123754917672468716": false,
+        "2123757023548547461": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7302,5 +7299,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-20T12:28:26+00:00"
+  "updated_at": "2026-11-20T12:36:25+00:00"
 }
