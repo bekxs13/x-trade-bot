@@ -2352,7 +2352,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123663886914076777",
+      "last_id": "2123752601300930743",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2372,12 +2372,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T00:03:27.000Z",
-          "id": "2122480701564145872",
-          "quoted_text": "*SITUATIONAL AWARENESS 13F VALUE PLUNGES 92% TO $1.58B IN Q3 FROM $20.2B IN Q2",
-          "text": "apologize to michael saylor NOW https://t.co/M8XxIrZmm3"
-        },
         {
           "created_at": "2026-11-17T01:52:49.000Z",
           "id": "2122508222900965692",
@@ -2521,10 +2515,14 @@
           "id": "2123648131300515878",
           "quoted_text": "I'd say the most important characteristics for a person to have in the future are a mix of realness and earnestness. A reputation for unabashedly having rejected potential grifterhood will go a long way (and does even now).",
           "text": "how the hell am i supposed to monetize a zeal for not being a grifter https://t.co/ILzs3b30pQ"
+        },
+        {
+          "created_at": "2026-11-20T12:17:32.000Z",
+          "id": "2123752601300930743",
+          "text": "nasdaq officially in a bear market as of today, s&amp;p just about to enter correction"
         }
       ],
       "reads": {
-        "2122480701564145872": "No call",
         "2122508222900965692": "No call: bullish on cybersecurity stocks (65%, too unsure)",
         "2122538055966085520": "No call",
         "2122717154411683940": "No call",
@@ -2543,7 +2541,8 @@
         "2123459429211214154": "No call",
         "2123459574271471923": "Read together with the post it replies to",
         "2123575650027975053": "No call",
-        "2123648131300515878": "No call"
+        "2123648131300515878": "No call",
+        "2123752601300930743": "No call"
       },
       "replies": [
         {
@@ -2641,10 +2640,6 @@
         }
       ],
       "threads": {
-        "2117369008140025953": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117412046362825178": {
           "alerted": [],
           "self_replies": 0
@@ -3042,10 +3037,13 @@
         "2123648131300515878": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123752601300930743": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122480701564145872": true,
         "2122508222900965692": true,
         "2122538055966085520": true,
         "2122717154411683940": false,
@@ -3079,7 +3077,8 @@
         "2123635887028219916": false,
         "2123648131300515878": false,
         "2123653789173387409": false,
-        "2123663886914076777": false
+        "2123663886914076777": false,
+        "2123752601300930743": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7303,5 +7302,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-20T12:16:22+00:00"
+  "updated_at": "2026-11-20T12:18:27+00:00"
 }
