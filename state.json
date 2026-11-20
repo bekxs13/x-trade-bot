@@ -6587,7 +6587,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123875464200818903",
+      "last_id": "2123882568290546109",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6639,11 +6639,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T17:31:18.000Z",
-          "id": "2123469176194891948",
-          "text": "Send everything"
-        },
         {
           "created_at": "2026-11-19T19:15:24.000Z",
           "id": "2123495373830250733",
@@ -6761,10 +6756,17 @@
             "https://pbs.twimg.com/media/HXmFcviWoAAtdbf.jpg"
           ],
           "text": "This looks like one of those binance honeypot tokens https://t.co/sxVJF3ZOxF"
+        },
+        {
+          "created_at": "2026-11-20T20:53:58.000Z",
+          "id": "2123882568290546109",
+          "images": [
+            "https://pbs.twimg.com/media/HXmLpLpWwAAyfcK.jpg"
+          ],
+          "text": "Who got MEV'd? https://t.co/1doE9sbuEi"
         }
       ],
       "reads": {
-        "2123469176194891948": "No call",
         "2123495373830250733": "No call",
         "2123496596046573950": "No call",
         "2123506218811433141": "No call: bearish on btc (55%, too unsure)",
@@ -6783,7 +6785,8 @@
         "2123854668921233473": "No call",
         "2123861341630841066": "No call",
         "2123874079102886338": "VIEW bearish on NDX",
-        "2123875464200818903": "No call: bearish on NVDA (60%, too unsure)"
+        "2123875464200818903": "No call: bearish on NVDA (60%, too unsure)",
+        "2123882568290546109": "No call"
       },
       "replies": [
         {
@@ -6881,12 +6884,6 @@
         }
       ],
       "threads": {
-        "2121708902467416257": {
-          "alerted": [
-            "bias:gold:bearish"
-          ],
-          "self_replies": 0
-        },
         "2121709409428762636": {
           "alerted": [],
           "self_replies": 0
@@ -7294,6 +7291,10 @@
         "2123875464200818903": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123882568290546109": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7311,7 +7312,6 @@
         "2123436576273219714": true,
         "2123460741197930822": true,
         "2123463010849358127": true,
-        "2123469176194891948": true,
         "2123471825153806596": false,
         "2123495373830250733": true,
         "2123496596046573950": false,
@@ -7331,7 +7331,8 @@
         "2123854668921233473": true,
         "2123861341630841066": true,
         "2123874079102886338": true,
-        "2123875464200818903": true
+        "2123875464200818903": true,
+        "2123882568290546109": true
       },
       "user_id": "809191427645181952"
     }
@@ -7354,5 +7355,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T20:48:20+00:00"
+  "updated_at": "2026-11-20T20:54:31+00:00"
 }
