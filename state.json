@@ -4756,7 +4756,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123859424334799336",
+      "last_id": "2123861753809318229",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4808,12 +4808,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T22:24:50.000Z",
-          "id": "2122818271603040372",
-          "reply_to_id": "2122818242703987033",
-          "text": "@BaggerWalmart it wasn\u2019t that bad"
-        },
         {
           "created_at": "2026-11-18T15:40:58.000Z",
           "id": "2123079022867320922",
@@ -4920,6 +4914,11 @@
           "created_at": "2026-11-20T19:22:00.000Z",
           "id": "2123859424334799336",
           "text": "jensen is going to federal prison bitcoin is going to zero anthropic is the only asset left good luck"
+        },
+        {
+          "created_at": "2026-11-20T19:31:16.000Z",
+          "id": "2123861753809318229",
+          "text": "all the sudden trump forgets how to do a press conference when the market is nuking and the sky is falling"
         }
       ],
       "reads": {
@@ -4939,7 +4938,8 @@
         "2123830359657943066": "No call",
         "2123835937125757093": "No call",
         "2123836458637119971": "No call",
-        "2123859424334799336": "No call"
+        "2123859424334799336": "No call",
+        "2123861753809318229": "No call"
       },
       "replies": [
         {
@@ -5034,10 +5034,6 @@
         }
       ],
       "threads": {
-        "2118353320448344198": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118359296937497003": {
           "alerted": [],
           "self_replies": 0
@@ -5435,10 +5431,13 @@
         "2123859424334799336": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123861753809318229": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122818271603040372": false,
         "2123079022867320922": false,
         "2123436707643044177": true,
         "2123449349623480328": true,
@@ -5472,7 +5471,8 @@
         "2123853417860784457": true,
         "2123854931526570160": false,
         "2123857573044527453": false,
-        "2123859424334799336": true
+        "2123859424334799336": true,
+        "2123861753809318229": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7335,5 +7335,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T19:30:28+00:00"
+  "updated_at": "2026-11-20T19:32:21+00:00"
 }
