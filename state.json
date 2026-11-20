@@ -4756,7 +4756,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123853417860784457",
+      "last_id": "2123854931526570160",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4808,12 +4808,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T19:15:41.000Z",
-          "id": "2122770671084110164",
-          "quoted_text": "*APPLE SAYS OUTAGE NOT CAUSED BY CYBER ATTACKS",
-          "text": "definitely not a cyberattack that is definitely not correlated to the 20+ other non cyberattacks in the last couple days. nothing to see here guys https://t.co/dDkTgvzdal"
-        },
         {
           "created_at": "2026-11-17T19:28:47.000Z",
           "id": "2122773967278838083",
@@ -4924,10 +4918,15 @@
           "id": "2123836458637119971",
           "quoted_text": "TRUMP: GETTING CLOSE TO DEAL WITH MEXICO",
           "text": "bro making up deals \ud83d\ude2d mexico? wtf https://t.co/47Uwbpli8t"
+        },
+        {
+          "created_at": "2026-11-20T19:04:09.000Z",
+          "id": "2123854931526570160",
+          "reply_to_id": "2123853417860784457",
+          "text": "@brr_eth no pnl? cool i fucking hate you"
         }
       ],
       "reads": {
-        "2122770671084110164": "No call",
         "2122773967278838083": "No call",
         "2123436707643044177": "No call",
         "2123449349623480328": "No call",
@@ -5443,7 +5442,6 @@
         }
       },
       "trading": {
-        "2122770671084110164": false,
         "2122773967278838083": true,
         "2122818271603040372": false,
         "2123079022867320922": false,
@@ -5477,7 +5475,8 @@
         "2123836458637119971": false,
         "2123836849361711524": false,
         "2123852421831025112": false,
-        "2123853417860784457": true
+        "2123853417860784457": true,
+        "2123854931526570160": false
       },
       "user_id": "1426732252768182281"
     },
@@ -6577,7 +6576,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123834226890113467",
+      "last_id": "2123854668921233473",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6629,14 +6628,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T16:34:48.000Z",
-          "id": "2123454955981832294",
-          "images": [
-            "https://pbs.twimg.com/media/HXgHBrNWQAA6i42.png"
-          ],
-          "text": "! https://t.co/x07hasXREQ"
-        },
         {
           "created_at": "2026-11-19T17:07:46.000Z",
           "id": "2123463255267889350",
@@ -6751,10 +6742,14 @@
           "created_at": "2026-11-20T17:41:53.000Z",
           "id": "2123834226890113467",
           "text": "Probably see a lot of crypto returns just concentrate into HYPE as people sell off, tax loss harvest all their failed altcoin bags."
+        },
+        {
+          "created_at": "2026-11-20T19:03:07.000Z",
+          "id": "2123854668921233473",
+          "text": "Would love to see a breakdown of tether and their balance sheet/valuation @junkbondinvest"
         }
       ],
       "reads": {
-        "2123454955981832294": "No call",
         "2123463255267889350": "No call",
         "2123463995097288708": "No call",
         "2123467163675816329": "No call",
@@ -6773,7 +6768,8 @@
         "2123811016337486177": "No call: bearish on crypto market (65%, too unsure)",
         "2123813418671145376": "No call",
         "2123821480395919588": "VIEW bearish on HOOD",
-        "2123834226890113467": "VIEW bullish on HYPE"
+        "2123834226890113467": "VIEW bullish on HYPE",
+        "2123854668921233473": "No call"
       },
       "replies": [
         {
@@ -6871,10 +6867,6 @@
         }
       ],
       "threads": {
-        "2121692384870445363": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121694189977260112": {
           "alerted": [],
           "self_replies": 0
@@ -7282,6 +7274,10 @@
             "bias:hype:bullish"
           ],
           "self_replies": 0
+        },
+        "2123854668921233473": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7297,7 +7293,6 @@
         "2122935765634068839": true,
         "2123061270597312960": true,
         "2123436576273219714": true,
-        "2123454955981832294": false,
         "2123460741197930822": true,
         "2123463010849358127": true,
         "2123463255267889350": true,
@@ -7319,7 +7314,8 @@
         "2123811016337486177": true,
         "2123813418671145376": true,
         "2123821480395919588": true,
-        "2123834226890113467": true
+        "2123834226890113467": true,
+        "2123854668921233473": true
       },
       "user_id": "809191427645181952"
     }
@@ -7342,5 +7338,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T18:58:29+00:00"
+  "updated_at": "2026-11-20T19:04:25+00:00"
 }
