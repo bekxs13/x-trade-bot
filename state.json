@@ -2372,7 +2372,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123830955240796429",
+      "last_id": "2123834155574395280",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2392,14 +2392,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T21:12:59.000Z",
-          "id": "2122800189513650623",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2122800052636696576/img/yroVKTDCOs3WbhN5.jpg"
-          ],
-          "text": "this guy doesn't know about nvda earnings lmao https://t.co/alNy4v1N26"
-        },
         {
           "created_at": "2026-11-17T21:22:53.000Z",
           "id": "2122802681677070526",
@@ -2541,10 +2533,15 @@
             "https://pbs.twimg.com/media/HXlEfH1W4AAYl_X.jpg"
           ],
           "text": "everything down only market https://t.co/oB0vMAZYTf"
+        },
+        {
+          "created_at": "2026-11-20T17:41:36.000Z",
+          "id": "2123834155574395280",
+          "quoted_text": "*PENTAGON SAYS ANTHROPIC IS A SUPPLY CHAIN RISK TO DEPARTMENT OF WAR",
+          "text": "oh trump has shorts on https://t.co/RN0QcDI4sb"
         }
       ],
       "reads": {
-        "2122800189513650623": "No call",
         "2122802681677070526": "No call",
         "2122841755405975768": "No call",
         "2123165114883072177": "No call",
@@ -2563,7 +2560,8 @@
         "2123757023548547461": "No call",
         "2123790254415221129": "No call",
         "2123801098163277836": "No call",
-        "2123804120062836984": "No call"
+        "2123804120062836984": "No call",
+        "2123834155574395280": "No call"
       },
       "replies": [
         {
@@ -2658,10 +2656,6 @@
         }
       ],
       "threads": {
-        "2117669115120717937": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117725167359066439": {
           "alerted": [],
           "self_replies": 0
@@ -3059,10 +3053,13 @@
         "2123804120062836984": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123834155574395280": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122800189513650623": true,
         "2122802681677070526": true,
         "2122841755405975768": false,
         "2123165114883072177": false,
@@ -3096,7 +3093,8 @@
         "2123830406235431014": false,
         "2123830538217677103": false,
         "2123830638210080825": false,
-        "2123830955240796429": false
+        "2123830955240796429": false,
+        "2123834155574395280": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6531,6 +6529,15 @@
           "stance": "bearish",
           "updated_at": "2026-11-20T16:51:14.000Z"
         },
+        "hype": {
+          "market": "crypto",
+          "post_id": "2123834226890113467",
+          "reason": "Expects crypto returns to concentrate into HYPE while people dump failed altcoin bags for tax loss harvesting; the alts-bearish part matches his recorded view.",
+          "scope": "HYPE",
+          "since": "2026-11-20",
+          "stance": "bullish",
+          "updated_at": "2026-11-20T17:41:53.000Z"
+        },
         "mu": {
           "market": "stocks",
           "post_id": "2111579791379820967",
@@ -6568,7 +6575,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123821480395919588",
+      "last_id": "2123834226890113467",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6620,11 +6627,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T16:28:28.000Z",
-          "id": "2123453364474167625",
-          "text": "It's always amazing to me how disconnected and incompetent Robinhood and Coinbase are when it comes to Crypto. There's room for a retail friendly crypto focused trading platform that serves all the new products in a cohesive manner, simple on/off ramps and no KYC."
-        },
         {
           "created_at": "2026-11-19T16:34:48.000Z",
           "id": "2123454955981832294",
@@ -6742,10 +6744,14 @@
           "id": "2123821480395919588",
           "reply_to_id": "2122410252977283480",
           "text": "No longer interested in Hood in the 50s, SOXL at 34 is a total retail destruction of their AUM, all the biggest retail momo stocks (memory, space stocks, now SPCX and ANT IPOs if they drill) completely erode the userbase. Pair that with unemployment rising due to AI, bad headwinds."
+        },
+        {
+          "created_at": "2026-11-20T17:41:53.000Z",
+          "id": "2123834226890113467",
+          "text": "Probably see a lot of crypto returns just concentrate into HYPE as people sell off, tax loss harvest all their failed altcoin bags."
         }
       ],
       "reads": {
-        "2123453364474167625": "No call",
         "2123454955981832294": "No call",
         "2123463255267889350": "No call",
         "2123463995097288708": "No call",
@@ -6764,7 +6770,8 @@
         "2123807047892541470": "No call",
         "2123811016337486177": "No call: bearish on crypto market (65%, too unsure)",
         "2123813418671145376": "No call",
-        "2123821480395919588": "VIEW bearish on HOOD"
+        "2123821480395919588": "VIEW bearish on HOOD",
+        "2123834226890113467": "VIEW bullish on HYPE"
       },
       "replies": [
         {
@@ -6862,10 +6869,6 @@
         }
       ],
       "threads": {
-        "2121689648393298169": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121692384870445363": {
           "alerted": [],
           "self_replies": 0
@@ -7271,6 +7274,12 @@
         "2123813418671145376": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123834226890113467": {
+          "alerted": [
+            "bias:hype:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7286,7 +7295,6 @@
         "2122935765634068839": true,
         "2123061270597312960": true,
         "2123436576273219714": true,
-        "2123453364474167625": true,
         "2123454955981832294": false,
         "2123460741197930822": true,
         "2123463010849358127": true,
@@ -7308,7 +7316,8 @@
         "2123807047892541470": true,
         "2123811016337486177": true,
         "2123813418671145376": true,
-        "2123821480395919588": true
+        "2123821480395919588": true,
+        "2123834226890113467": true
       },
       "user_id": "809191427645181952"
     }
@@ -7331,5 +7340,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T17:38:38+00:00"
+  "updated_at": "2026-11-20T17:42:33+00:00"
 }
