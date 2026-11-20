@@ -23,12 +23,12 @@
         },
         "semis/ai stocks": {
           "market": "stocks",
-          "post_id": "2118488687982027254",
-          "reason": "Says he's been \"bear posting\" AI stocks for 6 months and will keep doing so, alongside SOXL full-retrace and Micron-overextended posts; this conflicts with the recorded bullish view.",
+          "post_id": "2123594208934277570",
+          "reason": "Calls AI labs and neoclouds 'more nefarious than NFTs' for telling stories about being real businesses, a bearish take on AI stocks matching his recorded view.",
           "scope": "semis/ai stocks",
           "since": "2026-11-05",
           "stance": "bearish",
-          "updated_at": "2026-11-05T23:40:37.000Z"
+          "updated_at": "2026-11-20T01:48:08.000Z"
         },
         "stocks/macro": {
           "market": "stocks",
@@ -118,7 +118,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123586663813394752",
+      "last_id": "2123594208934277570",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -202,14 +202,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T07:11:25.000Z",
-          "id": "2123313176297275402",
-          "images": [
-            "https://pbs.twimg.com/media/HXeGFHsbsAANpgs.jpg"
-          ],
-          "text": "https://t.co/5xQvL3v1Uc"
-        },
         {
           "created_at": "2026-11-19T09:12:58.000Z",
           "id": "2123343765373088245",
@@ -327,10 +319,14 @@
           "created_at": "2026-11-20T01:09:04.000Z",
           "id": "2123584377884143880",
           "text": "Gym trainer next to me asking his client why nvda is going down so much and if he saw the hunterbrook amd report"
+        },
+        {
+          "created_at": "2026-11-20T01:48:08.000Z",
+          "id": "2123594208934277570",
+          "text": "AI Labs neoclouds etc. were more nefarious than  NFTs because they told elaborate stories about being real businesses. \n\nRemember why the stock is called meta"
         }
       ],
       "reads": {
-        "2123313176297275402": "No call",
         "2123343765373088245": "No call",
         "2123362280813535395": "No call",
         "2123460620918124611": "TRADE EXIT ANT",
@@ -348,7 +344,8 @@
         "2123566680282743077": "No call",
         "2123568924906463609": "VIEW bearish on stocks/macro",
         "2123581925713641687": "No call",
-        "2123584377884143880": "No call"
+        "2123584377884143880": "No call",
+        "2123594208934277570": "No call: bearish on semis/ai stocks (same view as before)"
       },
       "replies": [
         {
@@ -443,10 +440,6 @@
         }
       ],
       "threads": {
-        "2119327512484556812": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119327919218778552": {
           "alerted": [],
           "self_replies": 0
@@ -850,10 +843,13 @@
         "2123584377884143880": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123594208934277570": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123313176297275402": false,
         "2123343765373088245": false,
         "2123362280813535395": true,
         "2123460620918124611": true,
@@ -887,7 +883,8 @@
         "2123583109673468195": true,
         "2123584377884143880": true,
         "2123585581250978004": true,
-        "2123586663813394752": true
+        "2123586663813394752": true,
+        "2123594208934277570": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7299,5 +7296,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-20T01:46:22+00:00"
+  "updated_at": "2026-11-20T01:50:27+00:00"
 }
