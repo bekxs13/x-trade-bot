@@ -6556,7 +6556,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123811016337486177",
+      "last_id": "2123813418671145376",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6608,12 +6608,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T16:24:05.000Z",
-          "id": "2123452260361683355",
-          "reply_to_id": "2123452019344035880",
-          "text": "Coinbase at $30B and sliding lower with the founder ready to jeet his shares makes it a prime acquisition target for someone like IBKR, Schwab, Blackrock etc."
-        },
         {
           "created_at": "2026-11-19T16:24:51.000Z",
           "id": "2123452453572276601",
@@ -6734,10 +6728,14 @@
           "created_at": "2026-11-20T16:09:39.000Z",
           "id": "2123811016337486177",
           "text": "I wasn't bearish enough clearly, unbelievable"
+        },
+        {
+          "created_at": "2026-11-20T16:19:12.000Z",
+          "id": "2123813418671145376",
+          "text": "This is not the time to get apathetic and complacent. Don't gamble whatever capital is left because you're desensitized due to realizing large losses."
         }
       ],
       "reads": {
-        "2123452260361683355": "Read together with the post it replies to",
         "2123453364474167625": "No call",
         "2123454955981832294": "No call",
         "2123463255267889350": "No call",
@@ -6755,7 +6753,8 @@
         "2123639054046495080": "No call",
         "2123797042300699037": "No call",
         "2123807047892541470": "No call",
-        "2123811016337486177": "No call: bearish on crypto market (65%, too unsure)"
+        "2123811016337486177": "No call: bearish on crypto market (65%, too unsure)",
+        "2123813418671145376": "No call"
       },
       "replies": [
         {
@@ -6853,10 +6852,6 @@
         }
       ],
       "threads": {
-        "2121689350668788005": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121689648393298169": {
           "alerted": [],
           "self_replies": 0
@@ -7260,6 +7255,10 @@
         "2123811016337486177": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123813418671145376": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7275,7 +7274,6 @@
         "2122935765634068839": true,
         "2123061270597312960": true,
         "2123436576273219714": true,
-        "2123452260361683355": true,
         "2123452453572276601": true,
         "2123453364474167625": true,
         "2123454955981832294": false,
@@ -7297,7 +7295,8 @@
         "2123639054046495080": false,
         "2123797042300699037": true,
         "2123807047892541470": true,
-        "2123811016337486177": true
+        "2123811016337486177": true,
+        "2123813418671145376": true
       },
       "user_id": "809191427645181952"
     }
@@ -7320,5 +7319,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T16:10:30+00:00"
+  "updated_at": "2026-11-20T16:20:25+00:00"
 }
