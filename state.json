@@ -2378,7 +2378,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123906462749434079",
+      "last_id": "2123909638017912843",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2558,12 +2558,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-20T17:11:22.000Z",
-          "id": "2123826547421499806",
-          "reply_to_id": "2123823026659586121",
-          "text": "@bookdepth so i agree this doesn't contribute much to mathematical knowledge, other than settling the veracity of the actual statement. but i think that's a different claim"
-        },
-        {
           "created_at": "2026-11-20T17:26:42.000Z",
           "id": "2123830406235431014",
           "reply_to_id": "2123827706576118226",
@@ -2646,6 +2640,12 @@
           "id": "2123906462749434079",
           "reply_to_id": "2123906233468166144",
           "text": "@Merridew__ @notthreadguy pcloe"
+        },
+        {
+          "created_at": "2026-11-20T22:41:32.000Z",
+          "id": "2123909638017912843",
+          "reply_to_id": "2123908502817009670",
+          "text": "@notthreadguy @Merridew__ \ud83d\ude45 down a lot\n\ud83e\udee1 naturally derisking"
         }
       ],
       "threads": {
@@ -3063,7 +3063,6 @@
         "2123790254415221129": false,
         "2123801098163277836": false,
         "2123804120062836984": true,
-        "2123826547421499806": false,
         "2123830406235431014": false,
         "2123830538217677103": false,
         "2123830638210080825": false,
@@ -3085,7 +3084,8 @@
         "2123896855683854759": false,
         "2123905301120503832": false,
         "2123905990836044093": true,
-        "2123906462749434079": false
+        "2123906462749434079": false,
+        "2123909638017912843": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7340,5 +7340,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T22:38:17+00:00"
+  "updated_at": "2026-11-20T22:42:22+00:00"
 }
