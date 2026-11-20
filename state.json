@@ -4730,7 +4730,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123773738680299763",
+      "last_id": "2123797243082006860",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4782,12 +4782,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T15:10:22.000Z",
-          "id": "2122708933517381708",
-          "quoted_text": "fun game of who wants to hold nvda into the first ever non jensen earnings call",
-          "text": "let\u2019s play again https://t.co/zmNQ4yzJsP"
-        },
         {
           "created_at": "2026-11-17T15:37:51.000Z",
           "id": "2122715852126732605",
@@ -4897,10 +4891,14 @@
           "created_at": "2026-11-20T13:41:31.000Z",
           "id": "2123773738680299763",
           "text": "STOCK MARKET OPEN: Anthropic's WORST IPO EVER?, Markets in TROUBLE, LIGHTS OUT https://t.co/AAe930SC7B"
+        },
+        {
+          "created_at": "2026-11-20T15:14:55.000Z",
+          "id": "2123797243082006860",
+          "text": "aggr is making sounds it's never made before"
         }
       ],
       "reads": {
-        "2122708933517381708": "No call",
         "2122715852126732605": "No call",
         "2122718253877539031": "No call",
         "2122732665547956693": "No call",
@@ -4916,7 +4914,8 @@
         "2123487001080934733": "No call",
         "2123497524967428354": "No call",
         "2123771089297822188": "No call",
-        "2123773738680299763": "No call"
+        "2123773738680299763": "No call",
+        "2123797243082006860": "No call"
       },
       "replies": [
         {
@@ -5011,10 +5010,6 @@
         }
       ],
       "threads": {
-        "2117997781784654091": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2118071627019878734": {
           "alerted": [],
           "self_replies": 0
@@ -5412,10 +5407,13 @@
         "2123773738680299763": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123797243082006860": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122708933517381708": true,
         "2122715852126732605": false,
         "2122718253877539031": true,
         "2122732665547956693": true,
@@ -5449,7 +5447,8 @@
         "2123623649227714767": true,
         "2123751987707810183": false,
         "2123771089297822188": false,
-        "2123773738680299763": true
+        "2123773738680299763": true,
+        "2123797243082006860": true
       },
       "user_id": "1426732252768182281"
     },
@@ -6531,7 +6530,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123639054046495080",
+      "last_id": "2123797042300699037",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6583,11 +6582,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T14:59:06.000Z",
-          "id": "2123430874309890500",
-          "text": "I'm a little bit surprised the USGOV isn't bidding the IPO"
-        },
         {
           "created_at": "2026-11-19T15:20:02.000Z",
           "id": "2123436140711616996",
@@ -6709,10 +6703,14 @@
           "created_at": "2026-11-20T04:46:20.000Z",
           "id": "2123639054046495080",
           "text": "I'm cooking crack in the grokpot"
+        },
+        {
+          "created_at": "2026-11-20T15:14:07.000Z",
+          "id": "2123797042300699037",
+          "text": "Cash is your health bar"
         }
       ],
       "reads": {
-        "2123430874309890500": "No call",
         "2123436140711616996": "No call",
         "2123452019344035880": "No call: bearish on COIN (60%, too unsure)",
         "2123452260361683355": "Read together with the post it replies to",
@@ -6730,7 +6728,8 @@
         "2123539441520153037": "No call",
         "2123593253245370721": "No call: bearish on gold (same view as before)",
         "2123625384080003282": "No call",
-        "2123639054046495080": "No call"
+        "2123639054046495080": "No call",
+        "2123797042300699037": "No call"
       },
       "replies": [
         {
@@ -6828,10 +6827,6 @@
         }
       ],
       "threads": {
-        "2121653483099377741": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121667199337386025": {
           "alerted": [],
           "self_replies": 0
@@ -7235,6 +7230,10 @@
         "2123639054046495080": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123797042300699037": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7249,7 +7248,6 @@
         "2122928832541851874": false,
         "2122935765634068839": true,
         "2123061270597312960": true,
-        "2123430874309890500": true,
         "2123436140711616996": true,
         "2123436576273219714": true,
         "2123452019344035880": true,
@@ -7272,7 +7270,8 @@
         "2123539441520153037": true,
         "2123593253245370721": true,
         "2123625384080003282": true,
-        "2123639054046495080": false
+        "2123639054046495080": false,
+        "2123797042300699037": true
       },
       "user_id": "809191427645181952"
     }
@@ -7295,5 +7294,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T14:52:30+00:00"
+  "updated_at": "2026-11-20T15:16:31+00:00"
 }
