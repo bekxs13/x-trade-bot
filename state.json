@@ -118,7 +118,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123568924906463609",
+      "last_id": "2123580883315855667",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -352,12 +352,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-19T10:29:45.000Z",
-          "id": "2123363090578505895",
-          "reply_to_id": "2123362705893396501",
-          "text": "@akhileshutup Seems so"
-        },
-        {
           "created_at": "2026-11-19T17:03:17.000Z",
           "id": "2123462124970328213",
           "reply_to_id": "2123461608026628199",
@@ -443,6 +437,12 @@
           "id": "2123566360106242370",
           "reply_to_id": "2123552970927227218",
           "text": "@OnodaCapital true I actually can't believe it's still up from that time it's been an insane year"
+        },
+        {
+          "created_at": "2026-11-20T00:55:11.000Z",
+          "id": "2123580883315855667",
+          "reply_to_id": "2123579551317950949",
+          "text": "@PennyyBags Don\u2019t matter I\u2019m a boomer now"
         }
       ],
       "threads": {
@@ -861,7 +861,6 @@
         "2123313176297275402": false,
         "2123343765373088245": false,
         "2123362280813535395": true,
-        "2123363090578505895": false,
         "2123460620918124611": true,
         "2123462124970328213": false,
         "2123463285974638839": true,
@@ -890,7 +889,8 @@
         "2123565985039016160": true,
         "2123566360106242370": true,
         "2123566680282743077": true,
-        "2123568924906463609": true
+        "2123568924906463609": true,
+        "2123580883315855667": false
       },
       "user_id": "1446541960181858315"
     },
@@ -1144,7 +1144,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123565955271758333",
+      "last_id": "2123580750293512514",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1261,12 +1261,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-18T18:05:57.000Z",
-          "id": "2123115509545934939",
-          "quoted_text": "It's time to find out who the best onchain perps traders are!\n\nSince perps launched on the Pumpfun app, daily perps traders have grown over 13x and weekly perps volume has gone from under $10M to over $250m . \n\nTwo weeks ago, we ran a $100,000 perps competition as a test.\u00a0\n\nNow, we're MASSIVELY stepping up the game with a $1,000,000 prize pool.\n\nAfter the 2 week competition, $1,000,000 will be awarded to the Top 10 positive PnL perps traders on the Pumpfun app, with a grand prize of $500,000 for",
-          "text": "summoning all plumbers https://t.co/GfRNTt3m6t"
-        },
-        {
           "created_at": "2026-11-18T18:06:30.000Z",
           "id": "2123115646473113905",
           "quoted_text": "how do we feel about pearl bros",
@@ -1378,10 +1372,14 @@
           "created_at": "2026-11-19T23:39:08.000Z",
           "id": "2123561744119517315",
           "text": "6 weeks ago all indices were at all time highs"
+        },
+        {
+          "created_at": "2026-11-20T00:54:39.000Z",
+          "id": "2123580750293512514",
+          "text": "https://t.co/KwQdBJMiPv"
         }
       ],
       "reads": {
-        "2123115509545934939": "No call",
         "2123115646473113905": "No call: bullish on PEARL (65%, too unsure)",
         "2123428598014967818": "No call: bullish on crypto market (60%, too unsure)",
         "2123429045623009775": "No call",
@@ -1397,7 +1395,8 @@
         "2123534980479590620": "No call",
         "2123538903244398812": "No call",
         "2123539385690046902": "No call",
-        "2123561744119517315": "No call"
+        "2123561744119517315": "No call",
+        "2123580750293512514": "No call"
       },
       "replies": [
         {
@@ -1495,10 +1494,6 @@
         }
       ],
       "threads": {
-        "2121406244917584250": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121419960845213981": {
           "alerted": [],
           "self_replies": 0
@@ -1910,10 +1905,13 @@
         "2123561744119517315": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123580750293512514": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123115509545934939": true,
         "2123115646473113905": false,
         "2123428598014967818": true,
         "2123429045623009775": true,
@@ -1947,7 +1945,8 @@
         "2123539385690046902": false,
         "2123561744119517315": true,
         "2123562172831965332": false,
-        "2123565955271758333": false
+        "2123565955271758333": false,
+        "2123580750293512514": false
       },
       "user_id": "973261472"
     },
@@ -7299,5 +7298,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-20T00:36:19+00:00"
+  "updated_at": "2026-11-20T00:56:38+00:00"
 }
