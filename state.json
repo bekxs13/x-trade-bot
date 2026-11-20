@@ -6572,7 +6572,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123854668921233473",
+      "last_id": "2123861341630841066",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6624,11 +6624,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T17:07:46.000Z",
-          "id": "2123463255267889350",
-          "text": "People not realizing you can short Anthropic on Hyperliquid will always amuse me. \n\nThere's still tremendous alpha in being unconstrained by using better venues. People stuck on Robinhood, IBKR and other brokers can't do anything but buy lol."
-        },
         {
           "created_at": "2026-11-19T17:10:43.000Z",
           "id": "2123463995097288708",
@@ -6743,10 +6738,15 @@
           "created_at": "2026-11-20T19:03:07.000Z",
           "id": "2123854668921233473",
           "text": "Would love to see a breakdown of tether and their balance sheet/valuation @junkbondinvest"
+        },
+        {
+          "created_at": "2026-11-20T19:29:37.000Z",
+          "id": "2123861341630841066",
+          "quoted_text": "They\u2019re not going to bail them out, they\u2019re going to offer them 0% loans as a matter of national security.\n\nThat\u2019s when you back up the truck on BTC and ride off into the sunset.",
+          "text": "Guess we just wait for this https://t.co/1zR5ncMSBk"
         }
       ],
       "reads": {
-        "2123463255267889350": "No call",
         "2123463995097288708": "No call",
         "2123467163675816329": "No call",
         "2123469176194891948": "No call",
@@ -6765,7 +6765,8 @@
         "2123813418671145376": "No call",
         "2123821480395919588": "VIEW bearish on HOOD",
         "2123834226890113467": "VIEW bullish on HYPE",
-        "2123854668921233473": "No call"
+        "2123854668921233473": "No call",
+        "2123861341630841066": "No call"
       },
       "replies": [
         {
@@ -6863,10 +6864,6 @@
         }
       ],
       "threads": {
-        "2121694189977260112": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121700004414808470": {
           "alerted": [],
           "self_replies": 0
@@ -7274,6 +7271,10 @@
         "2123854668921233473": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123861341630841066": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7291,7 +7292,6 @@
         "2123436576273219714": true,
         "2123460741197930822": true,
         "2123463010849358127": true,
-        "2123463255267889350": true,
         "2123463995097288708": true,
         "2123467163675816329": true,
         "2123469176194891948": true,
@@ -7311,7 +7311,8 @@
         "2123813418671145376": true,
         "2123821480395919588": true,
         "2123834226890113467": true,
-        "2123854668921233473": true
+        "2123854668921233473": true,
+        "2123861341630841066": true
       },
       "user_id": "809191427645181952"
     }
@@ -7334,5 +7335,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T19:28:18+00:00"
+  "updated_at": "2026-11-20T19:30:28+00:00"
 }
