@@ -2371,7 +2371,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123865449486270922",
+      "last_id": "2123868975947756012",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2391,15 +2391,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T23:58:09.000Z",
-          "id": "2122841755405975768",
-          "images": [
-            "https://pbs.twimg.com/media/HXXZUjVWYAAMezd.jpg"
-          ],
-          "quoted_text": "should i drink a spiked egg nog today is that allowed",
-          "text": "https://t.co/KjBoFkL2BD https://t.co/GVhm1ayJo2"
-        },
         {
           "created_at": "2026-11-18T21:23:04.000Z",
           "id": "2123165114883072177",
@@ -2542,10 +2533,15 @@
           ],
           "quoted_text": "$NVDA  - SEC INVESTIGATING NVIDIA OVER POTENTIAL ACCOUNTING ISSUES \n\nThe U.S. Securities and Exchange Commission is examining Nvidia's accounting practices, Reuters reports, citing two people familiar with the confidential investigation.\n\nThe probe adds to mounting legal pressure following the company's leadership scandal and ongoing scrutiny of AI chip exports to China.\n\nSeparately, the Justice Department is reviewing Nvidia's $12.9 billion Hugging Face acquisition as part of a broader antitrus",
           "text": "wow https://t.co/evfQ6mxHjy https://t.co/BiJfd6PrIO"
+        },
+        {
+          "created_at": "2026-11-20T19:59:58.000Z",
+          "id": "2123868975947756012",
+          "reply_to_id": "2010186978420203983",
+          "text": "@tolstoybb damn you're pretty good at this"
         }
       ],
       "reads": {
-        "2122841755405975768": "No call",
         "2123165114883072177": "No call",
         "2123166568771367055": "No call",
         "2123171076410671537": "No call",
@@ -3063,7 +3059,6 @@
         }
       },
       "trading": {
-        "2122841755405975768": false,
         "2123165114883072177": false,
         "2123166568771367055": false,
         "2123171076410671537": false,
@@ -3097,7 +3092,8 @@
         "2123857639327351231": false,
         "2123862192973852710": true,
         "2123864174749274325": false,
-        "2123865449486270922": false
+        "2123865449486270922": false,
+        "2123868975947756012": false
       },
       "user_id": "1598545553327067137"
     },
@@ -4759,7 +4755,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123866856016519637",
+      "last_id": "2123868560233570347",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4946,12 +4942,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-19T22:52:41.000Z",
-          "id": "2123550053642178936",
-          "reply_to_id": "2123549952916025826",
-          "text": "@based16z 2% inflation"
-        },
-        {
           "created_at": "2026-11-19T23:25:46.000Z",
           "id": "2123558381063455028",
           "reply_to_id": "2123555040128545191",
@@ -5034,6 +5024,12 @@
           "id": "2123866856016519637",
           "reply_to_id": "2123836876499157214",
           "text": "@based_d0m \ud83d\ude2d\ud83d\ude2d"
+        },
+        {
+          "created_at": "2026-11-20T19:58:18.000Z",
+          "id": "2123868560233570347",
+          "reply_to_id": "2123868092409450756",
+          "text": "@Geiger_Capital what if we die"
         }
       ],
       "threads": {
@@ -5448,7 +5444,6 @@
         "2123483360517337582": false,
         "2123487001080934733": true,
         "2123497524967428354": false,
-        "2123550053642178936": false,
         "2123558381063455028": false,
         "2123584420816793969": false,
         "2123601425993507323": true,
@@ -5475,7 +5470,8 @@
         "2123859424334799336": true,
         "2123861753809318229": true,
         "2123866329526775990": true,
-        "2123866856016519637": false
+        "2123866856016519637": false,
+        "2123868560233570347": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7338,5 +7334,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T19:56:22+00:00"
+  "updated_at": "2026-11-20T20:00:33+00:00"
 }
