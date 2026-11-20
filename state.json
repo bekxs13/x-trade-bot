@@ -912,12 +912,12 @@
       "biases": {
         "ai stocks": {
           "market": "stocks",
-          "post_id": "2122453799935906240",
-          "reason": "Compares AI stocks to the 2022 altcoin bubble, calling it a 'bubble pop' with a fund liquidation, matching his recorded bearish view on AI stocks.",
+          "post_id": "2123817121893450113",
+          "reason": "Says AI ('greatest technology mankind has ever invented') keeps improving while risk assets go through a cyclical downtrend, and calls that a 'generational opportunity' over 9-18 months. That is bullish on AI long term, set against near-term weakness in risk assets, which flips his recorded bearish AI view.",
           "scope": "ai stocks",
-          "since": "2026-10-28",
-          "stance": "bearish",
-          "updated_at": "2026-11-16T22:16:33.000Z"
+          "since": "2026-11-20",
+          "stance": "bullish",
+          "updated_at": "2026-11-20T16:33:55.000Z"
         },
         "alts": {
           "market": "crypto",
@@ -1157,7 +1157,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123814457868533832",
+      "last_id": "2123817121893450113",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1273,11 +1273,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T14:59:33.000Z",
-          "id": "2123430987694842017",
-          "text": "venice also moving very well today"
-        },
         {
           "created_at": "2026-11-19T15:01:08.000Z",
           "id": "2123431387944603804",
@@ -1395,10 +1390,14 @@
           "created_at": "2026-11-20T16:22:34.000Z",
           "id": "2123814265102499934",
           "text": "i cannot believe the fed is going to hike into this in two weeks"
+        },
+        {
+          "created_at": "2026-11-20T16:33:55.000Z",
+          "id": "2123817121893450113",
+          "text": "the greatest technology mankind has ever invented is going to get exponentially better during a cyclical downtrend in risk assets\n\nif this continues you are being gifted a generational opportunity over the next 9-18 months"
         }
       ],
       "reads": {
-        "2123430987694842017": "No call",
         "2123431387944603804": "No call",
         "2123433892569096669": "No call",
         "2123434409248588254": "No call",
@@ -1414,7 +1413,8 @@
         "2123604677149212884": "No call: bearish on crypto market (same view as before)",
         "2123804002345484760": "No call",
         "2123804411705139593": "No call",
-        "2123814265102499934": "No call: bearish on stocks/macro (same view as before)"
+        "2123814265102499934": "No call: bearish on stocks/macro (same view as before)",
+        "2123817121893450113": "VIEW bullish on ai stocks"
       },
       "replies": [
         {
@@ -1509,10 +1509,6 @@
         }
       ],
       "threads": {
-        "2121430169982226821": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121431092829868290": {
           "alerted": [],
           "self_replies": 0
@@ -1924,10 +1920,15 @@
         "2123814265102499934": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123817121893450113": {
+          "alerted": [
+            "bias:ai stocks:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123430987694842017": true,
         "2123431387944603804": true,
         "2123433892569096669": true,
         "2123434409248588254": false,
@@ -1961,7 +1962,8 @@
         "2123804002345484760": false,
         "2123804411705139593": false,
         "2123814265102499934": true,
-        "2123814457868533832": true
+        "2123814457868533832": true,
+        "2123817121893450113": true
       },
       "user_id": "973261472"
     },
@@ -7320,5 +7322,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T16:24:20+00:00"
+  "updated_at": "2026-11-20T16:34:21+00:00"
 }
