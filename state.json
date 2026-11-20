@@ -2372,7 +2372,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123821370802888773",
+      "last_id": "2123826547421499806",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2567,12 +2567,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-18T00:31:12.000Z",
-          "id": "2122850073340268832",
-          "reply_to_id": "2122848534638530720",
-          "text": "@salr_nyc @hopes_revenge nope! I got it my first year out of college on craigslist (knowing it was a replica) and frankly it looks fine and is comfortable. never felt the need to buy a real eames. the naguchi table i have is real"
-        },
-        {
           "created_at": "2026-11-18T02:04:48.000Z",
           "id": "2122873625308967078",
           "reply_to_id": "2122851497281016117",
@@ -2655,6 +2649,12 @@
           "id": "2123821370802888773",
           "reply_to_id": "2123809279572373708",
           "text": "@bookdepth well, a lean proof is a proof"
+        },
+        {
+          "created_at": "2026-11-20T17:11:22.000Z",
+          "id": "2123826547421499806",
+          "reply_to_id": "2123823026659586121",
+          "text": "@bookdepth so i agree this doesn't contribute much to mathematical knowledge, other than settling the veracity of the actual statement. but i think that's a different claim"
         }
       ],
       "threads": {
@@ -3065,7 +3065,6 @@
         "2122800189513650623": true,
         "2122802681677070526": true,
         "2122841755405975768": false,
-        "2122850073340268832": false,
         "2122873625308967078": false,
         "2122893351578227070": false,
         "2123165114883072177": false,
@@ -3096,7 +3095,8 @@
         "2123791223660101800": false,
         "2123801098163277836": false,
         "2123804120062836984": true,
-        "2123821370802888773": false
+        "2123821370802888773": false,
+        "2123826547421499806": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7332,5 +7332,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T17:06:31+00:00"
+  "updated_at": "2026-11-20T17:12:23+00:00"
 }
