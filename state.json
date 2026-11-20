@@ -1038,12 +1038,12 @@
         },
         "stocks/macro": {
           "market": "macro",
-          "post_id": "2121674279913972027",
-          "reason": "\"on point\" endorses a quote calling for risk being obliterated across coins and stocks, with hiking, DXY highs and stocks puking more. That matches his recorded bearish stocks/macro view.",
+          "post_id": "2123814265102499934",
+          "reason": "\"cannot believe the fed is going to hike into this\" signals a hawkish Fed into weakness, consistent with his earlier bearish macro post about Qs breaking down and dollar strength.",
           "scope": "stocks/macro",
           "since": "2026-10-29",
           "stance": "bearish",
-          "updated_at": "2026-11-14T18:39:01.000Z"
+          "updated_at": "2026-11-20T16:22:34.000Z"
         },
         "vvv": {
           "market": "crypto",
@@ -1157,7 +1157,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123804411705139593",
+      "last_id": "2123814457868533832",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1273,11 +1273,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T14:52:47.000Z",
-          "id": "2123429285440692319",
-          "text": "first very important sign of bitcoin relative strength:\n\n\u2022 gold breaking down beneath summer lows while $BTC holding above\n\nwatching"
-        },
         {
           "created_at": "2026-11-19T14:59:33.000Z",
           "id": "2123430987694842017",
@@ -1395,10 +1390,14 @@
             "https://pbs.twimg.com/media/HXlE24ZXIAEqEEO.jpg"
           ],
           "text": "https://t.co/9H2PPCPfsX"
+        },
+        {
+          "created_at": "2026-11-20T16:22:34.000Z",
+          "id": "2123814265102499934",
+          "text": "i cannot believe the fed is going to hike into this in two weeks"
         }
       ],
       "reads": {
-        "2123429285440692319": "VIEW bullish on btc",
         "2123430987694842017": "No call",
         "2123431387944603804": "No call",
         "2123433892569096669": "No call",
@@ -1414,15 +1413,10 @@
         "2123580750293512514": "No call",
         "2123604677149212884": "No call: bearish on crypto market (same view as before)",
         "2123804002345484760": "No call",
-        "2123804411705139593": "No call"
+        "2123804411705139593": "No call",
+        "2123814265102499934": "No call: bearish on stocks/macro (same view as before)"
       },
       "replies": [
-        {
-          "created_at": "2026-11-19T19:00:30.000Z",
-          "id": "2123491623166259610",
-          "reply_to_id": "2123490936852213830",
-          "text": "@gordontardo how could they possibly blow up their account the stop is right there in the tweet the max they could lose is $3 per hype size"
-        },
         {
           "created_at": "2026-11-19T19:02:28.000Z",
           "id": "2123492120979988667",
@@ -1506,13 +1500,15 @@
           "id": "2123623703833411721",
           "reply_to_id": "2123617018087723119",
           "text": "@saintniko hey niko"
+        },
+        {
+          "created_at": "2026-11-20T16:23:19.000Z",
+          "id": "2123814457868533832",
+          "reply_to_id": "2123800575389155391",
+          "text": "@PeterSchiff how long did it take gold to bottom?"
         }
       ],
       "threads": {
-        "2121429990730326484": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121430169982226821": {
           "alerted": [],
           "self_replies": 0
@@ -1924,10 +1920,13 @@
         "2123804411705139593": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123814265102499934": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123429285440692319": true,
         "2123430987694842017": true,
         "2123431387944603804": true,
         "2123433892569096669": true,
@@ -1939,7 +1938,6 @@
         "2123455025573695768": false,
         "2123487180878397702": true,
         "2123490518277476441": true,
-        "2123491623166259610": true,
         "2123492120979988667": false,
         "2123492371253875183": false,
         "2123492426065338474": false,
@@ -1961,7 +1959,9 @@
         "2123617324498333989": false,
         "2123623703833411721": false,
         "2123804002345484760": false,
-        "2123804411705139593": false
+        "2123804411705139593": false,
+        "2123814265102499934": true,
+        "2123814457868533832": true
       },
       "user_id": "973261472"
     },
@@ -7320,5 +7320,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T16:22:23+00:00"
+  "updated_at": "2026-11-20T16:24:20+00:00"
 }
