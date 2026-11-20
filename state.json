@@ -115,10 +115,25 @@
           "opened": "",
           "partial": false,
           "structure": ""
+        },
+        {
+          "asset": "SPX",
+          "close_price": null,
+          "close_url": "https://x.com/based16z/status/2123804247238332514",
+          "closed": "2026-11-20T15:42:45.000Z",
+          "direction": "",
+          "flipped": false,
+          "market": "stocks",
+          "move": null,
+          "open_price": null,
+          "open_url": "",
+          "opened": "",
+          "partial": false,
+          "structure": ""
         }
       ],
       "handle": "based16z",
-      "last_id": "2123791059188855215",
+      "last_id": "2123804247238332514",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -202,12 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T19:39:48.000Z",
-          "id": "2123501513624662423",
-          "reply_to_id": "2123501476870000823",
-          "text": "@laserboat999 PE / activist HF"
-        },
         {
           "created_at": "2026-11-19T19:48:33.000Z",
           "id": "2123503717181980913",
@@ -320,6 +329,15 @@
           "created_at": "2026-11-20T14:50:21.000Z",
           "id": "2123791059188855215",
           "text": "Luckily most of life has nothing to do with prices or language models"
+        },
+        {
+          "created_at": "2026-11-20T15:42:45.000Z",
+          "id": "2123804247238332514",
+          "images": [
+            "https://pbs.twimg.com/media/HXlEspabQAAckUJ.jpg"
+          ],
+          "reply_to_id": "2123568924906463609",
+          "text": "Basically every day ppl will get too optimistic overnight and then get clipped https://t.co/prrItwyWSw"
         }
       ],
       "reads": {
@@ -341,7 +359,8 @@
         "2123625802030108921": "No call",
         "2123683721257820411": "No call",
         "2123725533951516809": "No call",
-        "2123791059188855215": "No call"
+        "2123791059188855215": "No call",
+        "2123804247238332514": "TRADE EXIT SPX"
       },
       "replies": [
         {
@@ -811,9 +830,10 @@
         },
         "2123568924906463609": {
           "alerted": [
-            "bias:stocks/macro:bearish"
+            "bias:stocks/macro:bearish",
+            "trade:SPX:exit"
           ],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2123581925713641687": {
           "alerted": [],
@@ -849,7 +869,6 @@
         }
       },
       "trading": {
-        "2123501513624662423": false,
         "2123503717181980913": false,
         "2123506552170844167": false,
         "2123532383064588318": false,
@@ -883,7 +902,8 @@
         "2123644980136988942": false,
         "2123683721257820411": false,
         "2123725533951516809": false,
-        "2123791059188855215": false
+        "2123791059188855215": false,
+        "2123804247238332514": true
       },
       "user_id": "1446541960181858315"
     },
@@ -1137,7 +1157,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123804002345484760",
+      "last_id": "2123804411705139593",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1254,15 +1274,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-19T14:51:50.000Z",
-          "id": "2123429045623009775",
-          "images": [
-            "https://pbs.twimg.com/media/HXfvOMCWIAAmpDF.jpg"
-          ],
-          "quoted_text": "\u5f88\u591a\u4eba\u8bf4@blknoiz06 \u53c8\u5728\u6536\u94b1\u63a8\u5e7f\u4e00\u4e9b\u4e2d\u56fd\u4eba\u6839\u672c\u4e0d\u7528\u7684meme\uff0c\u90a3\u4e0d\u5982\u7741\u5f00\u773c\u775b\u770b\u770b\u76ee\u524d solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump \u5728\u4e2d\u56fd\u6700\u6709\u540d\u7684\u4e24\u4e2a\u793e\u4ea4\u5a92\u4f53\u5e73\u53f0\u4e0a\u53d6\u5f97\u7684\u6570\u636e\uff1a\n\n1\ufe0f\u20e3\u5c0f\u7ea2\u4e66\uff08little Red Book\uff09\uff1a\u5934\u50cf\u5206\u4eab\u535a\u4e3b\uff0c\u53d1\u5e03\u7684mihao\u7cfb\u5217\u5934\u50cf\u77ed\u77ed\u4e00\u5929\u6536\u83b736k\u70b9\u8d5e\uff0c11k\u6536\u85cf\uff0c\u540e\u7eed\u53d1\u5e03\u7684mihao\u7cfb\u5217\u4e5f\u6536\u83b7\u4e86\u8fdc\u8d85\u4e8e\u5e73\u5747\u6c34\u5e73\u7684\u4e92\u52a8\u6570\u636e\n\n2\ufe0f\u20e3\u6296\u97f3\uff08TikTok \uff09\uff1a\u8fde\u6587\u6848\u90fd\u6ca1\u6709\uff0c\u53ea\u662f\u53d1\u4e86\u4e00\u7cfb\u5217mihao\u7684\u6897\u56fe\u914d\u4e0a\u4e86\u4e00\u9996\u738b\u83f2\u7684\u97f3\u4e50\uff0c58k\u70b9\u8d5e\uff0c41k\u8f6c\u53d1\n\n\u987a\u4fbf\u622a\u53d6\u4e86\u4e00\u4e9b\u8bc4\u8bba\u7ffb\u8bd1\uff0c\u5df2\u7ecf\u6709\u4eba\u6362\u4e0a\u4e86\u5934\u50cf\uff0c\u8fd8\u6709\u66f4\u591a\u4eba\u8868\u8fbe\u4e86\u5bf9\u8fd9\u4e2a\u7cfb\u5217\u5934\u50cf\u7684\u559c\u7231\u548c\u5bf9\u540e\u7eed\u521b\u4f5c\u7684\u671f\u5f85\u3002\n\n\u597d\u7684meme\u6587\u5316\u4ece\u6765\u90fd\u662f\u76f8\u901a\u7684\uff0c\u65e0\u8bba\u56fd\u7c4d\u79cd\u65cf\uff0c\u559c\u6b22\u7684\u4eba\u81ea\u7136\u5fc3\u9886\u795e\u4f1a\u3002mihao\u6380\u8d77\u7684\u8fd9\u80a1\u70ed\u6f6e\uff0c\u624d\u521a\u521a\u5f00\u59cb\uff0c\u6211\u76f8\u4fe1\u3002",
-          "text": "solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump \ud83d\udc02\ud83c\udc04\ufe0f https://t.co/pwVOiBbpIv https://t.co/aYu2t7LS38"
-        },
-        {
           "created_at": "2026-11-19T14:52:47.000Z",
           "id": "2123429285440692319",
           "text": "first very important sign of bitcoin relative strength:\n\n\u2022 gold breaking down beneath summer lows while $BTC holding above\n\nwatching"
@@ -1376,10 +1387,17 @@
           "created_at": "2026-11-20T15:41:47.000Z",
           "id": "2123804002345484760",
           "text": "https://t.co/SCi17e7b4W"
+        },
+        {
+          "created_at": "2026-11-20T15:43:24.000Z",
+          "id": "2123804411705139593",
+          "images": [
+            "https://pbs.twimg.com/media/HXlE24ZXIAEqEEO.jpg"
+          ],
+          "text": "https://t.co/9H2PPCPfsX"
         }
       ],
       "reads": {
-        "2123429045623009775": "No call",
         "2123429285440692319": "VIEW bullish on btc",
         "2123430987694842017": "No call",
         "2123431387944603804": "No call",
@@ -1395,7 +1413,8 @@
         "2123561744119517315": "No call",
         "2123580750293512514": "No call",
         "2123604677149212884": "No call: bearish on crypto market (same view as before)",
-        "2123804002345484760": "No call"
+        "2123804002345484760": "No call",
+        "2123804411705139593": "No call"
       },
       "replies": [
         {
@@ -1490,10 +1509,6 @@
         }
       ],
       "threads": {
-        "2121429712480157924": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121429990730326484": {
           "alerted": [],
           "self_replies": 0
@@ -1905,10 +1920,13 @@
         "2123804002345484760": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123804411705139593": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123429045623009775": true,
         "2123429285440692319": true,
         "2123430987694842017": true,
         "2123431387944603804": true,
@@ -1942,7 +1960,8 @@
         "2123604677149212884": true,
         "2123617324498333989": false,
         "2123623703833411721": false,
-        "2123804002345484760": false
+        "2123804002345484760": false,
+        "2123804411705139593": false
       },
       "user_id": "973261472"
     },
@@ -7301,5 +7320,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T15:42:34+00:00"
+  "updated_at": "2026-11-20T15:44:36+00:00"
 }
