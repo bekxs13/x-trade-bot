@@ -2372,7 +2372,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123862192973852710",
+      "last_id": "2123864174749274325",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2569,12 +2569,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-19T00:06:49.000Z",
-          "id": "2123206323399475656",
-          "reply_to_id": "2123165157681725774",
-          "text": "@enlightenedcoop budapest was probably my favorite city i went through on my danube biking trip where i did munich&gt;vienna&gt;bratislava&gt;budapest with a bunch of smaller towns and cities in between"
-        },
-        {
           "created_at": "2026-11-19T01:02:21.000Z",
           "id": "2123220300707824012",
           "reply_to_id": "2123217710892949807",
@@ -2657,6 +2651,12 @@
           "id": "2123857639327351231",
           "reply_to_id": "2123850177626923457",
           "text": "@lolowhat @bookdepth i mean number of humans who understand the proof seems like a reasonable start\n\nproofs that have 0 humans that understand the proof and are expected to remain that way are obviously unintelligible"
+        },
+        {
+          "created_at": "2026-11-20T19:40:53.000Z",
+          "id": "2123864174749274325",
+          "reply_to_id": "2123844360961974783",
+          "text": "@AdsoOfBelk interesting twist, using it as a vaguepost instead of a reaction image"
         }
       ],
       "threads": {
@@ -3070,7 +3070,6 @@
         "2123171076410671537": false,
         "2123187054507155785": true,
         "2123189008737956163": false,
-        "2123206323399475656": false,
         "2123220300707824012": false,
         "2123231350820085792": false,
         "2123236324182253918": false,
@@ -3098,7 +3097,8 @@
         "2123830955240796429": false,
         "2123834155574395280": true,
         "2123857639327351231": false,
-        "2123862192973852710": true
+        "2123862192973852710": true,
+        "2123864174749274325": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7339,5 +7339,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T19:38:19+00:00"
+  "updated_at": "2026-11-20T19:42:19+00:00"
 }
