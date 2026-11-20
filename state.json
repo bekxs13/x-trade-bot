@@ -4758,7 +4758,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123823800223420838",
+      "last_id": "2123825199221219670",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4810,11 +4810,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T16:44:40.000Z",
-          "id": "2122732665547956693",
-          "text": "druck panel right now i\u2019m geeked"
-        },
         {
           "created_at": "2026-11-17T16:47:55.000Z",
           "id": "2122733483869233444",
@@ -4926,10 +4921,14 @@
           "id": "2123822117523537930",
           "quoted_text": "*DOD TECH CHIEF EMIL MICHAEL: ANTHROPIC STILL A SUPPLY CHAIN RISK TO PENTAGON\n\n$ANT",
           "text": "hey can they fucking get it together https://t.co/c24pjvLCIy"
+        },
+        {
+          "created_at": "2026-11-20T17:05:44.000Z",
+          "id": "2123825128429490387",
+          "text": "some serious bitcoin relative strength at 59,187. noticing"
         }
       ],
       "reads": {
-        "2122732665547956693": "No call",
         "2122733483869233444": "No call",
         "2122735530165076157": "No call: bearish on stocks/macro (65%, too unsure)",
         "2122770671084110164": "No call",
@@ -4945,15 +4944,10 @@
         "2123773738680299763": "No call",
         "2123797243082006860": "No call",
         "2123813855151157432": "No call",
-        "2123822117523537930": "No call"
+        "2123822117523537930": "No call",
+        "2123825128429490387": "No call: bullish on btc (65%, too unsure)"
       },
       "replies": [
-        {
-          "created_at": "2026-11-19T18:43:03.000Z",
-          "id": "2123487231902093363",
-          "reply_to_id": "2123487180878397702",
-          "text": "@blknoiz06 deeply\ntilting"
-        },
         {
           "created_at": "2026-11-19T18:47:00.000Z",
           "id": "2123488226761720023",
@@ -5037,13 +5031,15 @@
           "id": "2123823800223420838",
           "reply_to_id": "2123817121893450113",
           "text": "@blknoiz06 @Rhoneus 18 months \ud83d\ude2d"
+        },
+        {
+          "created_at": "2026-11-20T17:06:00.000Z",
+          "id": "2123825199221219670",
+          "reply_to_id": "2123824937572212775",
+          "text": "@punk9059 wow. really"
         }
       ],
       "threads": {
-        "2118141847952408653": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118158865028227260": {
           "alerted": [],
           "self_replies": 0
@@ -5441,10 +5437,13 @@
         "2123822117523537930": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123825128429490387": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122732665547956693": true,
         "2122733483869233444": true,
         "2122734108799631574": true,
         "2122735530165076157": true,
@@ -5458,7 +5457,6 @@
         "2123468548404297959": false,
         "2123483360517337582": false,
         "2123487001080934733": true,
-        "2123487231902093363": false,
         "2123488226761720023": false,
         "2123489793556246884": false,
         "2123497524967428354": false,
@@ -5478,7 +5476,9 @@
         "2123801946779754833": false,
         "2123813855151157432": false,
         "2123822117523537930": true,
-        "2123823800223420838": false
+        "2123823800223420838": false,
+        "2123825128429490387": true,
+        "2123825199221219670": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7332,5 +7332,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T17:02:19+00:00"
+  "updated_at": "2026-11-20T17:06:31+00:00"
 }
