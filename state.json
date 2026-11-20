@@ -1160,7 +1160,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123865291767922946",
+      "last_id": "2123867650149228862",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1277,12 +1277,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-19T15:01:08.000Z",
-          "id": "2123431387944603804",
-          "quoted_text": "the bull case for crypto is that revenue is moving to the app layer\n\nit is really that simple imo\n\ncombine that with strong stores of value and i find it very hard to imagine a world where this industry doesnt succeed long term https://t.co/fErgf7zvoT",
-          "text": "application supercycle, those that own their users and monetize them well will benefit the most over next few years in world where intelligence is commoditized &amp; blockspace is cheap https://t.co/mHJ6tA8yUi"
-        },
-        {
           "created_at": "2026-11-19T15:11:06.000Z",
           "id": "2123433892569096669",
           "quoted_text": "stupid money's telegram called out the BEST trade possible this month, and it was the only genius money analysis call it made (100% hit rate).\n\nfollowing our telegram and the trade could've made you millions.\n\nwatch this, don't skip. https://t.co/iUqQW49JS1",
@@ -1398,10 +1392,14 @@
           "created_at": "2026-11-20T16:33:55.000Z",
           "id": "2123817121893450113",
           "text": "the greatest technology mankind has ever invented is going to get exponentially better during a cyclical downtrend in risk assets\n\nif this continues you are being gifted a generational opportunity over the next 9-18 months"
+        },
+        {
+          "created_at": "2026-11-20T19:54:42.000Z",
+          "id": "2123867650149228862",
+          "text": "nvidia 128 wow man"
         }
       ],
       "reads": {
-        "2123431387944603804": "No call",
         "2123433892569096669": "No call",
         "2123434409248588254": "No call",
         "2123444456473215442": "No call",
@@ -1417,7 +1415,8 @@
         "2123804002345484760": "No call",
         "2123804411705139593": "No call",
         "2123814265102499934": "No call: bearish on stocks/macro (same view as before)",
-        "2123817121893450113": "VIEW bullish on ai stocks"
+        "2123817121893450113": "VIEW bullish on ai stocks",
+        "2123867650149228862": "No call"
       },
       "replies": [
         {
@@ -1512,10 +1511,6 @@
         }
       ],
       "threads": {
-        "2121431092829868290": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121432509636637028": {
           "alerted": [],
           "self_replies": 0
@@ -1929,10 +1924,13 @@
             "bias:ai stocks:bullish"
           ],
           "self_replies": 0
+        },
+        "2123867650149228862": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123431387944603804": true,
         "2123433892569096669": true,
         "2123434409248588254": false,
         "2123436900660736495": false,
@@ -1966,7 +1964,8 @@
         "2123860808455352346": false,
         "2123863335804506195": false,
         "2123864815810814402": false,
-        "2123865291767922946": false
+        "2123865291767922946": false,
+        "2123867650149228862": true
       },
       "user_id": "973261472"
     },
@@ -7339,5 +7338,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T19:52:20+00:00"
+  "updated_at": "2026-11-20T19:56:22+00:00"
 }
