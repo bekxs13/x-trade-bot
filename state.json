@@ -4756,7 +4756,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123857573044527453",
+      "last_id": "2123859424334799336",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4808,15 +4808,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T19:28:47.000Z",
-          "id": "2122773967278838083",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2122773920369586176/img/6MEKek-GBMW75b30.jpg"
-          ],
-          "quoted_text": "druck just got on stage and said it\u2019s over at the long ai conference. chad",
-          "text": "https://t.co/miQL6KWSA1 https://t.co/NH24k7EA6U"
-        },
         {
           "created_at": "2026-11-17T22:24:50.000Z",
           "id": "2122818271603040372",
@@ -4924,10 +4915,14 @@
           "id": "2123854931526570160",
           "reply_to_id": "2123853417860784457",
           "text": "@brr_eth no pnl? cool i fucking hate you"
+        },
+        {
+          "created_at": "2026-11-20T19:22:00.000Z",
+          "id": "2123859424334799336",
+          "text": "jensen is going to federal prison bitcoin is going to zero anthropic is the only asset left good luck"
         }
       ],
       "reads": {
-        "2122773967278838083": "No call",
         "2123436707643044177": "No call",
         "2123449349623480328": "No call",
         "2123458140779770329": "No call",
@@ -4943,7 +4938,8 @@
         "2123825128429490387": "No call: bullish on btc (65%, too unsure)",
         "2123830359657943066": "No call",
         "2123835937125757093": "No call",
-        "2123836458637119971": "No call"
+        "2123836458637119971": "No call",
+        "2123859424334799336": "No call"
       },
       "replies": [
         {
@@ -5038,10 +5034,6 @@
         }
       ],
       "threads": {
-        "2118337595285356578": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118353320448344198": {
           "alerted": [],
           "self_replies": 0
@@ -5439,10 +5431,13 @@
         "2123836458637119971": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123859424334799336": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122773967278838083": true,
         "2122818271603040372": false,
         "2123079022867320922": false,
         "2123436707643044177": true,
@@ -5476,7 +5471,8 @@
         "2123852421831025112": false,
         "2123853417860784457": true,
         "2123854931526570160": false,
-        "2123857573044527453": false
+        "2123857573044527453": false,
+        "2123859424334799336": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7338,5 +7334,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T19:16:21+00:00"
+  "updated_at": "2026-11-20T19:22:25+00:00"
 }
