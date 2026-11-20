@@ -118,7 +118,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123581426625077408",
+      "last_id": "2123581925713641687",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -202,11 +202,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T00:50:39.000Z",
-          "id": "2123217356042473895",
-          "text": "You the type of guy to appreciate a public water fountain"
-        },
         {
           "created_at": "2026-11-19T03:41:50.000Z",
           "id": "2123260436480946391",
@@ -327,10 +322,14 @@
           "id": "2123568924906463609",
           "quoted_text": "This has been an insane tape. Buying the dip seems like it's been proven to be a fools errand. let's call a spade a spade here!\n\nit's been difficult for EVERYONE, so don't feel as if it's just tough on you! let's dive in and look at what's going on:",
           "text": "Spx 7300 0dte 30x today, there\u2019s always a bull market somewhere https://t.co/Xmx4ytWHJS"
+        },
+        {
+          "created_at": "2026-11-20T00:59:19.000Z",
+          "id": "2123581925713641687",
+          "text": "Stagflation: assets go down but the price of everything goes up"
         }
       ],
       "reads": {
-        "2123217356042473895": "No call",
         "2123260436480946391": "No call",
         "2123313176297275402": "No call",
         "2123343765373088245": "No call",
@@ -348,7 +347,8 @@
         "2123555647832895612": "No call",
         "2123560533312033053": "No call",
         "2123566680282743077": "No call",
-        "2123568924906463609": "VIEW bearish on stocks/macro"
+        "2123568924906463609": "VIEW bearish on stocks/macro",
+        "2123581925713641687": "No call"
       },
       "replies": [
         {
@@ -446,10 +446,6 @@
         }
       ],
       "threads": {
-        "2119202578387083349": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119240434732208240": {
           "alerted": [],
           "self_replies": 0
@@ -853,10 +849,13 @@
             "bias:stocks/macro:bearish"
           ],
           "self_replies": 0
+        },
+        "2123581925713641687": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123217356042473895": false,
         "2123260436480946391": false,
         "2123313176297275402": false,
         "2123343765373088245": false,
@@ -890,7 +889,8 @@
         "2123566680282743077": true,
         "2123568924906463609": true,
         "2123580883315855667": false,
-        "2123581426625077408": false
+        "2123581426625077408": false,
+        "2123581925713641687": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7298,5 +7298,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-20T00:58:18+00:00"
+  "updated_at": "2026-11-20T01:00:25+00:00"
 }
