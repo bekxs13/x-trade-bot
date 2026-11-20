@@ -2378,7 +2378,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123889420264788136",
+      "last_id": "2123895574634381441",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2398,15 +2398,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-18T22:50:15.000Z",
-          "id": "2123187054507155785",
-          "images": [
-            "https://pbs.twimg.com/media/HXcTV7OWAAE2khy.png"
-          ],
-          "quoted_text": "Ok this is ridiculous https://t.co/aQeOGD5CEE",
-          "text": "anthropic ipo https://t.co/XYRhQwTDDY https://t.co/kCXEzWJG4W"
-        },
         {
           "created_at": "2026-11-18T22:58:01.000Z",
           "id": "2123189008737956163",
@@ -2537,10 +2528,14 @@
           "id": "2123886845314634065",
           "reply_to_id": "2123886653223887033",
           "text": "if anything there are professionals doing the exact opposite trade"
+        },
+        {
+          "created_at": "2026-11-20T21:44:58.000Z",
+          "id": "2123895401485160800",
+          "text": "show me in your portfolio where they touched you"
         }
       ],
       "reads": {
-        "2123187054507155785": "No call",
         "2123189008737956163": "No call",
         "2123236324182253918": "No call",
         "2123317897648878060": "No call",
@@ -2558,15 +2553,10 @@
         "2123862192973852710": "No call",
         "2123883657853104385": "No call",
         "2123886653223887033": "No call",
-        "2123886845314634065": "Read together with the post it replies to"
+        "2123886845314634065": "Read together with the post it replies to",
+        "2123895401485160800": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-20T06:25:01.000Z",
-          "id": "2123663886914076777",
-          "reply_to_id": "2123654923338596627",
-          "text": "@KrisAbdelmessih gonna need to find a job then"
-        },
         {
           "created_at": "2026-11-20T12:26:44.000Z",
           "id": "2123754917672468716",
@@ -2650,13 +2640,15 @@
           "id": "2123889420264788136",
           "reply_to_id": "2123887035333111810",
           "text": "@wockjones moronic, there is a classic index rebalance trade to do"
+        },
+        {
+          "created_at": "2026-11-20T21:45:39.000Z",
+          "id": "2123895574634381441",
+          "reply_to_id": "2123885089855840742",
+          "text": "@StevenMandrapa must be nice"
         }
       ],
       "threads": {
-        "2117762594673156375": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117772565447852179": {
           "alerted": [],
           "self_replies": 0
@@ -3052,10 +3044,13 @@
         "2123886653223887033": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2123895401485160800": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123187054507155785": true,
         "2123189008737956163": false,
         "2123236324182253918": false,
         "2123317897648878060": true,
@@ -3064,7 +3059,6 @@
         "2123459574271471923": false,
         "2123575650027975053": false,
         "2123648131300515878": false,
-        "2123663886914076777": false,
         "2123752601300930743": true,
         "2123754917672468716": false,
         "2123757023548547461": false,
@@ -3089,7 +3083,9 @@
         "2123884375771345198": false,
         "2123886653223887033": true,
         "2123886845314634065": true,
-        "2123889420264788136": true
+        "2123889420264788136": true,
+        "2123895401485160800": true,
+        "2123895574634381441": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7344,5 +7340,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T21:32:27+00:00"
+  "updated_at": "2026-11-20T21:46:24+00:00"
 }
