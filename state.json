@@ -109,7 +109,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123566360106242370",
+      "last_id": "2123566680282743077",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -193,13 +193,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-18T18:52:50.000Z",
-          "id": "2123127306067841269",
-          "quoted_text": "Does this sound like a future that's working for young Americans?\n\nKalshi, a $40B company, lets 18 year olds bet on sports. They call it a \"prediction market.\" It's gambling.\n\nKalshi users under 21 have already bet $3.9 billion. Investigate and ban sports prediction markets.",
-          "reply_to_id": "2123117463932207409",
-          "text": "I do wish they would take on \u201cwe believe in genocide\u201d allegedly anthropic but it seems like \u201cgambling for 18 year olds\u201d is an easier one ig https://t.co/T8kVI5wOPS"
-        },
         {
           "created_at": "2026-11-18T21:35:05.000Z",
           "id": "2123168137671753814",
@@ -323,6 +316,11 @@
             "https://pbs.twimg.com/amplify_video_thumb/2123252887207735296/img/wguDtrUyL7P0OH-9.jpg"
           ],
           "text": "https://t.co/s7YVwnK2x0"
+        },
+        {
+          "created_at": "2026-11-19T23:58:45.000Z",
+          "id": "2123566680282743077",
+          "text": "Send the market low enough that people's parents stop paying for their Casa Cipriani memberships"
         }
       ],
       "reads": {
@@ -343,7 +341,8 @@
         "2123554146410479983": "No call",
         "2123554637236314218": "No call",
         "2123555647832895612": "No call",
-        "2123560533312033053": "No call"
+        "2123560533312033053": "No call",
+        "2123566680282743077": "No call"
       },
       "replies": [
         {
@@ -441,10 +440,6 @@
         }
       ],
       "threads": {
-        "2119154697944916054": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119170904253169958": {
           "alerted": [],
           "self_replies": 0
@@ -846,10 +841,13 @@
         "2123560533312033053": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123566680282743077": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123127306067841269": false,
         "2123168137671753814": true,
         "2123217356042473895": false,
         "2123260436480946391": false,
@@ -883,7 +881,8 @@
         "2123561554994241566": false,
         "2123562249331855791": false,
         "2123565985039016160": true,
-        "2123566360106242370": true
+        "2123566360106242370": true,
+        "2123566680282743077": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7292,5 +7291,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-19T23:58:19+00:00"
+  "updated_at": "2026-11-20T00:00:31+00:00"
 }
