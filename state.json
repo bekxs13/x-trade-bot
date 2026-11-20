@@ -4757,7 +4757,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123868560233570347",
+      "last_id": "2123875879034257633",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4809,11 +4809,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T15:22:17.000Z",
-          "id": "2123436707643044177",
-          "text": "STOCK MARKET OPEN: Anthropic IPO is TODAY, TomorrowX Summit RECAP, What's NEXT? https://t.co/l41hnxOv1j"
-        },
         {
           "created_at": "2026-11-19T16:12:31.000Z",
           "id": "2123449349623480328",
@@ -4919,10 +4914,14 @@
           "created_at": "2026-11-20T19:49:27.000Z",
           "id": "2123866329526775990",
           "text": "oh my fucking god now we gotta listen to kevin warsh say some dumbass shit like \u201cinterrogating reality\u201d before hiking 50bps"
+        },
+        {
+          "created_at": "2026-11-20T20:27:23.000Z",
+          "id": "2123875879034257633",
+          "text": "welcome to nvda Collete Kress"
         }
       ],
       "reads": {
-        "2123436707643044177": "No call",
         "2123449349623480328": "No call",
         "2123458140779770329": "No call",
         "2123468548404297959": "No call",
@@ -4940,7 +4939,8 @@
         "2123836458637119971": "No call",
         "2123859424334799336": "No call",
         "2123861753809318229": "No call",
-        "2123866329526775990": "No call"
+        "2123866329526775990": "No call",
+        "2123875879034257633": "No call"
       },
       "replies": [
         {
@@ -5035,10 +5035,6 @@
         }
       ],
       "threads": {
-        "2118360792768598275": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118363176601330012": {
           "alerted": [],
           "self_replies": 0
@@ -5436,10 +5432,13 @@
         "2123866329526775990": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123875879034257633": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123436707643044177": true,
         "2123449349623480328": true,
         "2123458140779770329": false,
         "2123468548404297959": false,
@@ -5473,7 +5472,8 @@
         "2123861753809318229": true,
         "2123866329526775990": true,
         "2123866856016519637": false,
-        "2123868560233570347": false
+        "2123868560233570347": false,
+        "2123875879034257633": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7349,5 +7349,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T20:26:46+00:00"
+  "updated_at": "2026-11-20T20:28:26+00:00"
 }
