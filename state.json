@@ -6556,7 +6556,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123807047892541470",
+      "last_id": "2123811016337486177",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6608,11 +6608,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T16:23:07.000Z",
-          "id": "2123452019344035880",
-          "text": "You could save Coinbase by firing 90% of the staff, wrapping the markets entirely around Hyperliquid and then just focusing on Credit Card/Offramps and trying to capture agentic trading/payments.\n\nInstead, these morons paid $5B for Deribit, $400mm for a launch pad and have nothing but the ETF to show for it."
-        },
         {
           "created_at": "2026-11-19T16:24:05.000Z",
           "id": "2123452260361683355",
@@ -6734,10 +6729,14 @@
             "https://pbs.twimg.com/media/HXlHPT7XgAAmARn.jpg"
           ],
           "text": "Very important level for BTC here https://t.co/ijhwGNzlNO"
+        },
+        {
+          "created_at": "2026-11-20T16:09:39.000Z",
+          "id": "2123811016337486177",
+          "text": "I wasn't bearish enough clearly, unbelievable"
         }
       ],
       "reads": {
-        "2123452019344035880": "No call: bearish on COIN (60%, too unsure)",
         "2123452260361683355": "Read together with the post it replies to",
         "2123453364474167625": "No call",
         "2123454955981832294": "No call",
@@ -6755,7 +6754,8 @@
         "2123625384080003282": "No call",
         "2123639054046495080": "No call",
         "2123797042300699037": "No call",
-        "2123807047892541470": "No call"
+        "2123807047892541470": "No call",
+        "2123811016337486177": "No call: bearish on crypto market (65%, too unsure)"
       },
       "replies": [
         {
@@ -6853,10 +6853,6 @@
         }
       ],
       "threads": {
-        "2121668960127005162": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121689350668788005": {
           "alerted": [],
           "self_replies": 0
@@ -7260,6 +7256,10 @@
         "2123807047892541470": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123811016337486177": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7275,7 +7275,6 @@
         "2122935765634068839": true,
         "2123061270597312960": true,
         "2123436576273219714": true,
-        "2123452019344035880": true,
         "2123452260361683355": true,
         "2123452453572276601": true,
         "2123453364474167625": true,
@@ -7297,7 +7296,8 @@
         "2123625384080003282": true,
         "2123639054046495080": false,
         "2123797042300699037": true,
-        "2123807047892541470": true
+        "2123807047892541470": true,
+        "2123811016337486177": true
       },
       "user_id": "809191427645181952"
     }
@@ -7320,5 +7320,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T15:54:24+00:00"
+  "updated_at": "2026-11-20T16:10:30+00:00"
 }
