@@ -2378,7 +2378,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123909638017912843",
+      "last_id": "2123910200952234237",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2395,18 +2395,25 @@
           "since": "2026-11-03T21:18:18.000Z",
           "structure": "unknown",
           "url": "https://x.com/deepdishenjoyer/status/2117728098250641532"
+        },
+        "FTEC": {
+          "asset": "FTEC",
+          "chain": "",
+          "confidence": 0.75,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "permanent",
+          "market": "stocks",
+          "open_price": null,
+          "post_id": "2123910200952234237",
+          "reason": "\"my ftec permalong\" means they hold the Fidelity tech ETF as a long-term long and are consoling themselves over the drawdown. This looks like an existing holding, not necessarily a new entry.",
+          "since": "2026-11-20T22:43:46.000Z",
+          "structure": "spot",
+          "url": "https://x.com/deepdishenjoyer/status/2123910200952234237"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T02:06:02.000Z",
-          "id": "2123236324182253918",
-          "images": [
-            "https://pbs.twimg.com/media/HXdALtNXcAAcVOH.jpg",
-            "https://pbs.twimg.com/media/HXdALs2XIAA5m0M.jpg"
-          ],
-          "text": "admit it this is funny as shit https://t.co/3WjI7rCCxW"
-        },
         {
           "created_at": "2026-11-19T07:30:10.000Z",
           "id": "2123317897648878060",
@@ -2533,10 +2540,14 @@
           "id": "2123905990836044093",
           "quoted_text": "we are truly in the end times https://t.co/Z8geYioi42 https://t.co/EuVhme9Iyu",
           "text": "holy jump scare at the end \n\nwe are going down another 50% https://t.co/QYrwKcnVn3"
+        },
+        {
+          "created_at": "2026-11-20T22:43:46.000Z",
+          "id": "2123910200952234237",
+          "text": "\"at least i didn't have to go through the holocaust,\" i console myself as i look at my ftec permalong"
         }
       ],
       "reads": {
-        "2123236324182253918": "No call",
         "2123317897648878060": "No call",
         "2123421912571301942": "No call",
         "2123459429211214154": "No call",
@@ -2554,7 +2565,8 @@
         "2123886653223887033": "No call",
         "2123886845314634065": "Read together with the post it replies to",
         "2123895401485160800": "No call",
-        "2123905990836044093": "No call: bearish on stocks/macro (60%, too unsure)"
+        "2123905990836044093": "No call: bearish on stocks/macro (60%, too unsure)",
+        "2123910200952234237": "TRADE LONG FTEC"
       },
       "replies": [
         {
@@ -2649,10 +2661,6 @@
         }
       ],
       "threads": {
-        "2117797779225358480": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117850121392238825": {
           "alerted": [],
           "self_replies": 0
@@ -3048,10 +3056,15 @@
         "2123905990836044093": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123910200952234237": {
+          "alerted": [
+            "trade:FTEC:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123236324182253918": false,
         "2123317897648878060": true,
         "2123421912571301942": false,
         "2123459429211214154": true,
@@ -3085,7 +3098,8 @@
         "2123905301120503832": false,
         "2123905990836044093": true,
         "2123906462749434079": false,
-        "2123909638017912843": true
+        "2123909638017912843": true,
+        "2123910200952234237": true
       },
       "user_id": "1598545553327067137"
     },
@@ -4747,7 +4761,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123908502817009670",
+      "last_id": "2123910154286473671",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4934,12 +4948,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-20T17:06:00.000Z",
-          "id": "2123825199221219670",
-          "reply_to_id": "2123824937572212775",
-          "text": "@punk9059 wow. really"
-        },
-        {
           "created_at": "2026-11-20T17:17:00.000Z",
           "id": "2123827965276340553",
           "reply_to_id": "2123827415873155413",
@@ -5022,6 +5030,12 @@
           "id": "2123908502817009670",
           "reply_to_id": "2123906233468166144",
           "text": "@Merridew__ @DeepDishEnjoyer because i have a lot of it and am down a lot"
+        },
+        {
+          "created_at": "2026-11-20T22:43:35.000Z",
+          "id": "2123910154286473671",
+          "reply_to_id": "2123884153456197827",
+          "text": "@AU2AF LMFAOOOOOOO dog"
         }
       ],
       "threads": {
@@ -5441,7 +5455,6 @@
         "2123813855151157432": false,
         "2123822117523537930": true,
         "2123825128429490387": true,
-        "2123825199221219670": false,
         "2123827965276340553": false,
         "2123830359657943066": true,
         "2123835937125757093": false,
@@ -5463,7 +5476,8 @@
         "2123889246864134303": false,
         "2123889403496104360": false,
         "2123892108201492857": false,
-        "2123908502817009670": true
+        "2123908502817009670": true,
+        "2123910154286473671": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7340,5 +7354,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T22:42:22+00:00"
+  "updated_at": "2026-11-20T22:44:26+00:00"
 }
