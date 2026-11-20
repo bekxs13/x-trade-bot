@@ -1157,7 +1157,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123902024773415369",
+      "last_id": "2123907939966861741",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1273,12 +1273,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T15:53:04.000Z",
-          "id": "2123444456473215442",
-          "quoted_text": "HUNTERBOOK: WE BELIEVE AMD HAS ALSO ILLEGALLY SOLD CHIPS INTO CHINA \n\noh boy\n\n$AMD -8%",
-          "text": "leo up a mansion https://t.co/3Sg4QUQXJc"
-        },
         {
           "created_at": "2026-11-19T15:59:05.000Z",
           "id": "2123445969102537087",
@@ -1396,10 +1390,15 @@
           "created_at": "2026-11-20T20:44:42.000Z",
           "id": "2123880234303062051",
           "text": "equities are trading like there's going to be war escalation this weekend or something its just straight down, ive seen crypto do this a lot but rare that equities are just nonstop like this"
+        },
+        {
+          "created_at": "2026-11-20T22:34:47.000Z",
+          "id": "2123907939966861741",
+          "quoted_text": "Base case is we can't see a V bottom without some form of intervention. We saw it in 2009 (Fed + More), 2012 (Draghi Whatever It Takes Speech), 2018 (Fed), 2020 (Fed), 2025 (Tariff Taco), 2026 (Hints/Speculation of War Taco). 2022 was a grinding difficult bottom and there was no decisive action from the Fed. Instead, the turn in inflation was the decisive driver, which feels comparable to the current juncture. It's unclear to me what kind of intervention we could even get, other than a clear end",
+          "text": "stay patient but remain ready to respond to new information https://t.co/TjGwXdVCD6"
         }
       ],
       "reads": {
-        "2123444456473215442": "No call",
         "2123445969102537087": "No call",
         "2123487180878397702": "No call",
         "2123490518277476441": "TRADE SHORT HYPE",
@@ -1417,7 +1416,8 @@
         "2123875487911141507": "TRADE TRIM HYPE",
         "2123876873843384611": "No call",
         "2123878160626520257": "No call",
-        "2123880234303062051": "No call"
+        "2123880234303062051": "No call",
+        "2123907939966861741": "No call: bearish on stocks/macro (60%, too unsure)"
       },
       "replies": [
         {
@@ -1518,10 +1518,6 @@
         }
       ],
       "threads": {
-        "2121592402234548448": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121601329970000062": {
           "alerted": [],
           "self_replies": 0
@@ -1935,10 +1931,13 @@
         "2123880234303062051": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123907939966861741": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123444456473215442": true,
         "2123445969102537087": false,
         "2123455025573695768": false,
         "2123487180878397702": true,
@@ -1972,7 +1971,8 @@
         "2123880700810269041": false,
         "2123882922478653773": true,
         "2123900900259573880": true,
-        "2123902024773415369": false
+        "2123902024773415369": false,
+        "2123907939966861741": true
       },
       "user_id": "973261472"
     },
@@ -7340,5 +7340,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T22:30:26+00:00"
+  "updated_at": "2026-11-20T22:36:29+00:00"
 }
