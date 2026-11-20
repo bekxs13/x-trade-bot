@@ -118,7 +118,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123599564519465109",
+      "last_id": "2123615513398136943",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -202,11 +202,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T09:12:58.000Z",
-          "id": "2123343765373088245",
-          "text": "Hating on GTA first 24 hours is crazy like they spent 2 billion dollars making this open world game prolly sucks"
-        },
         {
           "created_at": "2026-11-19T10:26:32.000Z",
           "id": "2123362280813535395",
@@ -324,10 +319,17 @@
           "created_at": "2026-11-20T01:48:08.000Z",
           "id": "2123594208934277570",
           "text": "AI Labs neoclouds etc. were more nefarious than  NFTs because they told elaborate stories about being real businesses. \n\nRemember why the stock is called meta"
+        },
+        {
+          "created_at": "2026-11-20T03:12:47.000Z",
+          "id": "2123615513398136943",
+          "images": [
+            "https://pbs.twimg.com/media/HXiZDc1aQAEhLUR.jpg"
+          ],
+          "text": "https://t.co/xjryhfrlx9"
         }
       ],
       "reads": {
-        "2123343765373088245": "No call",
         "2123362280813535395": "No call",
         "2123460620918124611": "TRADE EXIT ANT",
         "2123463559443304579": "No call",
@@ -345,7 +347,8 @@
         "2123568924906463609": "VIEW bearish on stocks/macro",
         "2123581925713641687": "No call",
         "2123584377884143880": "No call",
-        "2123594208934277570": "No call: bearish on semis/ai stocks (same view as before)"
+        "2123594208934277570": "No call: bearish on semis/ai stocks (same view as before)",
+        "2123615513398136943": "No call"
       },
       "replies": [
         {
@@ -440,10 +443,6 @@
         }
       ],
       "threads": {
-        "2119327919218778552": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119328276858728741": {
           "alerted": [],
           "self_replies": 0
@@ -847,10 +846,13 @@
         "2123594208934277570": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123615513398136943": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123343765373088245": false,
         "2123362280813535395": true,
         "2123460620918124611": true,
         "2123463559443304579": true,
@@ -884,7 +886,8 @@
         "2123585581250978004": true,
         "2123586663813394752": true,
         "2123594208934277570": true,
-        "2123599564519465109": false
+        "2123599564519465109": false,
+        "2123615513398136943": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7299,5 +7302,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-20T02:32:23+00:00"
+  "updated_at": "2026-11-20T03:14:31+00:00"
 }
