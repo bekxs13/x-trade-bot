@@ -6556,7 +6556,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123797042300699037",
+      "last_id": "2123807047892541470",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6608,14 +6608,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T15:20:02.000Z",
-          "id": "2123436140711616996",
-          "images": [
-            "https://pbs.twimg.com/media/HXf10t1XMAAAQXr.jpg"
-          ],
-          "text": "Price is being discovered in real time on the only exchange where you can trade preIPO Anthropic.\n\nNearly $400,000,000 volume traded before the market even opens.\n\nIf you're not early, you're late.\n\n@HyperliquidX https://t.co/9Vayid9nHq"
-        },
         {
           "created_at": "2026-11-19T16:23:07.000Z",
           "id": "2123452019344035880",
@@ -6734,10 +6726,17 @@
           "created_at": "2026-11-20T15:14:07.000Z",
           "id": "2123797042300699037",
           "text": "Cash is your health bar"
+        },
+        {
+          "created_at": "2026-11-20T15:53:53.000Z",
+          "id": "2123807047892541470",
+          "images": [
+            "https://pbs.twimg.com/media/HXlHPT7XgAAmARn.jpg"
+          ],
+          "text": "Very important level for BTC here https://t.co/ijhwGNzlNO"
         }
       ],
       "reads": {
-        "2123436140711616996": "No call",
         "2123452019344035880": "No call: bearish on COIN (60%, too unsure)",
         "2123452260361683355": "Read together with the post it replies to",
         "2123453364474167625": "No call",
@@ -6755,7 +6754,8 @@
         "2123593253245370721": "No call: bearish on gold (same view as before)",
         "2123625384080003282": "No call",
         "2123639054046495080": "No call",
-        "2123797042300699037": "No call"
+        "2123797042300699037": "No call",
+        "2123807047892541470": "No call"
       },
       "replies": [
         {
@@ -6853,10 +6853,6 @@
         }
       ],
       "threads": {
-        "2121667199337386025": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121668960127005162": {
           "alerted": [],
           "self_replies": 0
@@ -7260,6 +7256,10 @@
         "2123797042300699037": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123807047892541470": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7274,7 +7274,6 @@
         "2122928832541851874": false,
         "2122935765634068839": true,
         "2123061270597312960": true,
-        "2123436140711616996": true,
         "2123436576273219714": true,
         "2123452019344035880": true,
         "2123452260361683355": true,
@@ -7297,7 +7296,8 @@
         "2123593253245370721": true,
         "2123625384080003282": true,
         "2123639054046495080": false,
-        "2123797042300699037": true
+        "2123797042300699037": true,
+        "2123807047892541470": true
       },
       "user_id": "809191427645181952"
     }
@@ -7320,5 +7320,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T15:44:36+00:00"
+  "updated_at": "2026-11-20T15:54:24+00:00"
 }
