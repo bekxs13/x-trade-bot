@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123838043648033187",
+      "last_id": "2123876649515339997",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,14 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T22:44:42.000Z",
-          "id": "2123548045090627871",
-          "images": [
-            "https://pbs.twimg.com/media/HXhbsFabIAAa2qx.jpg"
-          ],
-          "text": "W-2 Lunch #enjoythebearmarket https://t.co/jjxUzRB9vi"
-        },
         {
           "created_at": "2026-11-19T22:52:17.000Z",
           "id": "2123549952916025826",
@@ -341,10 +333,15 @@
             "https://pbs.twimg.com/media/HXljcKQbUAEigPU.jpg"
           ],
           "text": "https://t.co/H22KT94bS7"
+        },
+        {
+          "created_at": "2026-11-20T20:30:27.000Z",
+          "id": "2123876649515339997",
+          "reply_to_id": "2123804247238332514",
+          "text": "Aight fumble again bt at least we got a win streak goin"
         }
       ],
       "reads": {
-        "2123548045090627871": "No call",
         "2123549952916025826": "No call",
         "2123554146410479983": "No call",
         "2123554637236314218": "No call",
@@ -872,7 +869,6 @@
         }
       },
       "trading": {
-        "2123548045090627871": false,
         "2123549952916025826": false,
         "2123554146410479983": true,
         "2123554637236314218": false,
@@ -906,7 +902,8 @@
         "2123804247238332514": true,
         "2123817224955887883": false,
         "2123833011758346681": false,
-        "2123838043648033187": false
+        "2123838043648033187": false,
+        "2123876649515339997": false
       },
       "user_id": "1446541960181858315"
     },
@@ -1160,7 +1157,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123875487911141507",
+      "last_id": "2123876873843384611",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1277,11 +1274,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-19T15:13:09.000Z",
-          "id": "2123434409248588254",
-          "text": "no market bubble today bros, still recovering  am under the weather"
-        },
-        {
           "created_at": "2026-11-19T15:23:03.000Z",
           "id": "2123436900660736495",
           "reply_to_id": "2123436783815754171",
@@ -1397,10 +1389,17 @@
           "id": "2123875487911141507",
           "quoted_text": "sm users say thank you @blknoiz06\n\ntrading is easy when you know the difference between genius money and stupid money\n\n$HYPE $68.3 -&gt; $59.7 in 24h. https://t.co/8JMd6GsXan",
           "text": "can close half &amp; let rest tp partials from here to 55 imo https://t.co/WMKcp1m6Nl"
+        },
+        {
+          "created_at": "2026-11-20T20:31:21.000Z",
+          "id": "2123876873843384611",
+          "images": [
+            "https://pbs.twimg.com/media/HXmGvvmXgAEa1nw.jpg"
+          ],
+          "text": "just indiscriminate selling https://t.co/pDWu351Qtk"
         }
       ],
       "reads": {
-        "2123434409248588254": "No call",
         "2123444456473215442": "No call",
         "2123445969102537087": "No call",
         "2123487180878397702": "No call",
@@ -1416,7 +1415,8 @@
         "2123814265102499934": "No call: bearish on stocks/macro (same view as before)",
         "2123817121893450113": "VIEW bullish on ai stocks",
         "2123867650149228862": "No call",
-        "2123875487911141507": "TRADE TRIM HYPE"
+        "2123875487911141507": "TRADE TRIM HYPE",
+        "2123876873843384611": "No call"
       },
       "replies": [
         {
@@ -1511,10 +1511,6 @@
         }
       ],
       "threads": {
-        "2121450792087404775": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121457857291751877": {
           "alerted": [],
           "self_replies": 0
@@ -1930,10 +1926,13 @@
             "trade:HYPE:trim"
           ],
           "self_replies": 0
+        },
+        "2123876873843384611": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123434409248588254": false,
         "2123436900660736495": false,
         "2123441425769730458": true,
         "2123444456473215442": true,
@@ -1967,7 +1966,8 @@
         "2123865291767922946": false,
         "2123867650149228862": true,
         "2123870902400299092": false,
-        "2123875487911141507": true
+        "2123875487911141507": true,
+        "2123876873843384611": true
       },
       "user_id": "973261472"
     },
@@ -7349,5 +7349,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T20:28:26+00:00"
+  "updated_at": "2026-11-20T20:32:35+00:00"
 }
