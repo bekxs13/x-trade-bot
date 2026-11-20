@@ -29,6 +29,15 @@
           "since": "2026-11-05",
           "stance": "bearish",
           "updated_at": "2026-11-05T23:40:37.000Z"
+        },
+        "stocks/macro": {
+          "market": "stocks",
+          "post_id": "2123568924906463609",
+          "reason": "Repeated \"#enjoythebearmarket\", \"Send the market low enough...\" and the puts brag show a bearish read on US equities, despite his older QQQ calls on record.",
+          "scope": "stocks/macro",
+          "since": "2026-11-20",
+          "stance": "bearish",
+          "updated_at": "2026-11-20T00:07:40.000Z"
         }
       },
       "closed": [
@@ -109,7 +118,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123566680282743077",
+      "last_id": "2123568924906463609",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -193,15 +202,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-18T21:35:05.000Z",
-          "id": "2123168137671753814",
-          "images": [
-            "https://pbs.twimg.com/media/HXcCDYPaAAEnMSm.jpg",
-            "https://pbs.twimg.com/media/HXcCDYUbMAAhydb.jpg"
-          ],
-          "text": "2021 crypto paved the way for public markets (release to retail at ridiculous valuation, dump unlocks, charts look like below) https://t.co/YXvbeB2XT6"
-        },
         {
           "created_at": "2026-11-19T00:50:39.000Z",
           "id": "2123217356042473895",
@@ -321,10 +321,15 @@
           "created_at": "2026-11-19T23:58:45.000Z",
           "id": "2123566680282743077",
           "text": "Send the market low enough that people's parents stop paying for their Casa Cipriani memberships"
+        },
+        {
+          "created_at": "2026-11-20T00:07:40.000Z",
+          "id": "2123568924906463609",
+          "quoted_text": "This has been an insane tape. Buying the dip seems like it's been proven to be a fools errand. let's call a spade a spade here!\n\nit's been difficult for EVERYONE, so don't feel as if it's just tough on you! let's dive in and look at what's going on:",
+          "text": "Spx 7300 0dte 30x today, there\u2019s always a bull market somewhere https://t.co/Xmx4ytWHJS"
         }
       ],
       "reads": {
-        "2123168137671753814": "No call",
         "2123217356042473895": "No call",
         "2123260436480946391": "No call",
         "2123313176297275402": "No call",
@@ -342,7 +347,8 @@
         "2123554637236314218": "No call",
         "2123555647832895612": "No call",
         "2123560533312033053": "No call",
-        "2123566680282743077": "No call"
+        "2123566680282743077": "No call",
+        "2123568924906463609": "VIEW bearish on stocks/macro"
       },
       "replies": [
         {
@@ -440,10 +446,6 @@
         }
       ],
       "threads": {
-        "2119170904253169958": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119202578387083349": {
           "alerted": [],
           "self_replies": 0
@@ -845,10 +847,15 @@
         "2123566680282743077": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123568924906463609": {
+          "alerted": [
+            "bias:stocks/macro:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123168137671753814": true,
         "2123217356042473895": false,
         "2123260436480946391": false,
         "2123313176297275402": false,
@@ -882,7 +889,8 @@
         "2123562249331855791": false,
         "2123565985039016160": true,
         "2123566360106242370": true,
-        "2123566680282743077": true
+        "2123566680282743077": true,
+        "2123568924906463609": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7291,5 +7299,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-20T00:00:31+00:00"
+  "updated_at": "2026-11-20T00:08:33+00:00"
 }
