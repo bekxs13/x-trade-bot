@@ -2378,7 +2378,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123886845314634065",
+      "last_id": "2123889420264788136",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2562,12 +2562,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-20T05:44:53.000Z",
-          "id": "2123653789173387409",
-          "reply_to_id": "2123652869647925483",
-          "text": "@adropboxspace how is that monetization"
-        },
-        {
           "created_at": "2026-11-20T06:25:01.000Z",
           "id": "2123663886914076777",
           "reply_to_id": "2123654923338596627",
@@ -2650,6 +2644,12 @@
           "id": "2123884375771345198",
           "reply_to_id": "2123884081121259774",
           "text": "@notthreadguy @blknoiz06 this is hunger games now"
+        },
+        {
+          "created_at": "2026-11-20T21:21:12.000Z",
+          "id": "2123889420264788136",
+          "reply_to_id": "2123887035333111810",
+          "text": "@wockjones moronic, there is a classic index rebalance trade to do"
         }
       ],
       "threads": {
@@ -3064,7 +3064,6 @@
         "2123459574271471923": false,
         "2123575650027975053": false,
         "2123648131300515878": false,
-        "2123653789173387409": false,
         "2123663886914076777": false,
         "2123752601300930743": true,
         "2123754917672468716": false,
@@ -3089,7 +3088,8 @@
         "2123883657853104385": true,
         "2123884375771345198": false,
         "2123886653223887033": true,
-        "2123886845314634065": true
+        "2123886845314634065": true,
+        "2123889420264788136": true
       },
       "user_id": "1598545553327067137"
     },
@@ -4751,7 +4751,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123885620426576289",
+      "last_id": "2123889403496104360",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4938,18 +4938,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-20T03:45:07.000Z",
-          "id": "2123623649227714767",
-          "reply_to_id": "2123622620658876609",
-          "text": "@saintniko it\u2019s funnier with the pnl lmao"
-        },
-        {
-          "created_at": "2026-11-20T12:15:05.000Z",
-          "id": "2123751987707810183",
-          "reply_to_id": "2123682781423374418",
-          "text": "@0xAsyraf guy who owns a memecoin launchpad it's all so tiresome"
-        },
-        {
           "created_at": "2026-11-20T15:33:37.000Z",
           "id": "2123801946779754833",
           "reply_to_id": "2123801706698014867",
@@ -5026,6 +5014,18 @@
           "id": "2123885620426576289",
           "reply_to_id": "2123860318770336138",
           "text": "@RookieXBT @Jack_Raines lmfaooooo"
+        },
+        {
+          "created_at": "2026-11-20T21:20:31.000Z",
+          "id": "2123889246864134303",
+          "reply_to_id": "2123889150940049792",
+          "text": "@goodalexander trumps sec\n\noh boy"
+        },
+        {
+          "created_at": "2026-11-20T21:21:08.000Z",
+          "id": "2123889403496104360",
+          "reply_to_id": "2123888147817967856",
+          "text": "@BaggerWalmart hey so ledger is the spurs sponsor \n\ngood luck"
         }
       ],
       "threads": {
@@ -5439,8 +5439,6 @@
         "2123483360517337582": false,
         "2123487001080934733": true,
         "2123497524967428354": false,
-        "2123623649227714767": true,
-        "2123751987707810183": false,
         "2123771089297822188": false,
         "2123773738680299763": true,
         "2123797243082006860": true,
@@ -5467,7 +5465,9 @@
         "2123875879034257633": true,
         "2123880565447254193": true,
         "2123884081121259774": false,
-        "2123885620426576289": false
+        "2123885620426576289": false,
+        "2123889246864134303": false,
+        "2123889403496104360": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7344,5 +7344,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T21:12:32+00:00"
+  "updated_at": "2026-11-20T21:22:27+00:00"
 }
