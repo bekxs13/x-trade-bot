@@ -1157,7 +1157,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123918976489021452",
+      "last_id": "2123922764361023733",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1273,11 +1273,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T18:42:51.000Z",
-          "id": "2123487180878397702",
-          "text": "cannot believe i fumbled that nvda short twice omg"
-        },
         {
           "created_at": "2026-11-19T18:56:06.000Z",
           "id": "2123490518277476441",
@@ -1401,10 +1396,14 @@
             "https://pbs.twimg.com/media/HXmqb2jboAASmab.jpg"
           ],
           "text": "bro dis shit deadass look like a shitcoin chart https://t.co/a8WdONkoFY"
+        },
+        {
+          "created_at": "2026-11-20T23:33:42.000Z",
+          "id": "2123922764361023733",
+          "text": "what we buyin chat"
         }
       ],
       "reads": {
-        "2123487180878397702": "No call",
         "2123490518277476441": "TRADE SHORT HYPE",
         "2123534980479590620": "No call",
         "2123538903244398812": "No call",
@@ -1423,7 +1422,8 @@
         "2123880234303062051": "No call",
         "2123907939966861741": "No call: bearish on stocks/macro (60%, too unsure)",
         "2123916941501022208": "No call",
-        "2123917682906951870": "No call"
+        "2123917682906951870": "No call",
+        "2123922764361023733": "No call"
       },
       "replies": [
         {
@@ -1524,10 +1524,6 @@
         }
       ],
       "threads": {
-        "2121641494545412140": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121646080219897971": {
           "alerted": [],
           "self_replies": 0
@@ -1941,10 +1937,13 @@
         "2123917682906951870": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123922764361023733": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123487180878397702": true,
         "2123490518277476441": true,
         "2123534980479590620": true,
         "2123538903244398812": true,
@@ -1978,7 +1977,8 @@
         "2123917064976953551": true,
         "2123917197190021614": true,
         "2123917682906951870": true,
-        "2123918976489021452": true
+        "2123918976489021452": true,
+        "2123922764361023733": true
       },
       "user_id": "973261472"
     },
@@ -7359,5 +7359,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T23:20:32+00:00"
+  "updated_at": "2026-11-20T23:34:22+00:00"
 }
