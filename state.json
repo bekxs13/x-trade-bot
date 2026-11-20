@@ -1157,7 +1157,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123876873843384611",
+      "last_id": "2123878536939511852",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1273,12 +1273,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T15:23:03.000Z",
-          "id": "2123436900660736495",
-          "reply_to_id": "2123436783815754171",
-          "text": "@iruletrenches you guys are too doomer!"
-        },
         {
           "created_at": "2026-11-19T15:41:02.000Z",
           "id": "2123441425769730458",
@@ -1397,6 +1391,12 @@
             "https://pbs.twimg.com/media/HXmGvvmXgAEa1nw.jpg"
           ],
           "text": "just indiscriminate selling https://t.co/pDWu351Qtk"
+        },
+        {
+          "created_at": "2026-11-20T20:36:27.000Z",
+          "id": "2123878160626520257",
+          "quoted_text": "https://t.co/9H2PPCPfsX",
+          "text": "just dont die https://t.co/QLcgrxjtom"
         }
       ],
       "reads": {
@@ -1416,15 +1416,10 @@
         "2123817121893450113": "VIEW bullish on ai stocks",
         "2123867650149228862": "No call",
         "2123875487911141507": "TRADE TRIM HYPE",
-        "2123876873843384611": "No call"
+        "2123876873843384611": "No call",
+        "2123878160626520257": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-19T23:40:50.000Z",
-          "id": "2123562172831965332",
-          "reply_to_id": "2123538990775308359",
-          "text": "@TopShelfBurkey vibes"
-        },
         {
           "created_at": "2026-11-19T23:55:52.000Z",
           "id": "2123565955271758333",
@@ -1508,13 +1503,18 @@
           "id": "2123870902400299092",
           "reply_to_id": "2123870543648866443",
           "text": "@apedintocrypto what you wanna learn"
+        },
+        {
+          "created_at": "2026-11-20T20:37:57.000Z",
+          "id": "2123878536939511852",
+          "images": [
+            "https://pbs.twimg.com/tweet_video_thumb/HXmIRA4WwAAnbcz.jpg"
+          ],
+          "reply_to_id": "2123878198630907915",
+          "text": "@sirceen https://t.co/1Q4Clccnw8"
         }
       ],
       "threads": {
-        "2121457857291751877": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121590744049983807": {
           "alerted": [
             "bias:hype:bearish"
@@ -1930,10 +1930,13 @@
         "2123876873843384611": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123878160626520257": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123436900660736495": false,
         "2123441425769730458": true,
         "2123444456473215442": true,
         "2123445969102537087": false,
@@ -1944,7 +1947,6 @@
         "2123538903244398812": true,
         "2123539385690046902": false,
         "2123561744119517315": true,
-        "2123562172831965332": false,
         "2123565955271758333": false,
         "2123580750293512514": false,
         "2123602099443515429": true,
@@ -1967,7 +1969,9 @@
         "2123867650149228862": true,
         "2123870902400299092": false,
         "2123875487911141507": true,
-        "2123876873843384611": true
+        "2123876873843384611": true,
+        "2123878160626520257": false,
+        "2123878536939511852": false
       },
       "user_id": "973261472"
     },
@@ -7349,5 +7353,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T20:32:35+00:00"
+  "updated_at": "2026-11-20T20:38:23+00:00"
 }
