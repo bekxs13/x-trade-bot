@@ -6491,12 +6491,12 @@
         },
         "gold": {
           "market": "macro",
-          "post_id": "2121708902467416257",
-          "reason": "With gold at ~3885 in a weekly downtrend, wanting it at 3200 (the marked support line) implies they expect it to fall further before buying.",
+          "post_id": "2123593253245370721",
+          "reason": "Says a whale or nation state seems to be liquidating gold and that price is 'getting closer to 3200', which is lower than the ~3565 on the weekly chart. That matches his recorded bearish gold view.",
           "scope": "gold",
           "since": "2026-11-14",
           "stance": "bearish",
-          "updated_at": "2026-11-14T20:56:36.000Z"
+          "updated_at": "2026-11-20T01:44:20.000Z"
         },
         "mu": {
           "market": "stocks",
@@ -6535,7 +6535,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123539441520153037",
+      "last_id": "2123593253245370721",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6587,11 +6587,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-18T23:50:00.000Z",
-          "id": "2123202092705968544",
-          "text": "Anthropic IPO is my superbowl"
-        },
         {
           "created_at": "2026-11-19T00:03:31.000Z",
           "id": "2123205495146078330",
@@ -6709,10 +6704,18 @@
           "id": "2123539441520153037",
           "quoted_text": "*CME CEO DUFFY CUTS DIRECT SHARE HOLDING BY 43% TO 35,442 SHARES: SEC FILING\n\n$CME",
           "text": "Hyperliquid https://t.co/v1EFZTC5z8"
+        },
+        {
+          "created_at": "2026-11-20T01:44:20.000Z",
+          "id": "2123593253245370721",
+          "images": [
+            "https://pbs.twimg.com/media/HXiExHTXgAAEFNL.jpg"
+          ],
+          "quoted_text": "Love Gold at 3200 https://t.co/O1noMvyNEe",
+          "text": "Feels like some mega whale old money family (Wallenberg, Rothschild etc.) is liquidating their gold position, or a nation state...\n\nGetting closer to 3200 https://t.co/QfXR3GJtSu https://t.co/RCzGIsF4Do"
         }
       ],
       "reads": {
-        "2123202092705968544": "No call",
         "2123205495146078330": "No call",
         "2123262576486470124": "No call",
         "2123430874309890500": "No call",
@@ -6730,7 +6733,8 @@
         "2123506218811433141": "No call: bearish on btc (55%, too unsure)",
         "2123510128788078789": "No call",
         "2123527295746834808": "No call",
-        "2123539441520153037": "No call"
+        "2123539441520153037": "No call",
+        "2123593253245370721": "No call: bearish on gold (same view as before)"
       },
       "replies": [
         {
@@ -6828,10 +6832,6 @@
         }
       ],
       "threads": {
-        "2121626092020883488": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121627603060556243": {
           "alerted": [],
           "self_replies": 0
@@ -7235,6 +7235,10 @@
         "2123539441520153037": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123593253245370721": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7249,7 +7253,6 @@
         "2122928832541851874": false,
         "2122935765634068839": true,
         "2123061270597312960": true,
-        "2123202092705968544": true,
         "2123205495146078330": true,
         "2123262576486470124": false,
         "2123430874309890500": true,
@@ -7272,7 +7275,8 @@
         "2123506218811433141": true,
         "2123510128788078789": true,
         "2123527295746834808": true,
-        "2123539441520153037": true
+        "2123539441520153037": true,
+        "2123593253245370721": true
       },
       "user_id": "809191427645181952"
     }
@@ -7295,5 +7299,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-20T01:20:21+00:00"
+  "updated_at": "2026-11-20T01:46:22+00:00"
 }
