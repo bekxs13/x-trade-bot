@@ -2372,7 +2372,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123857639327351231",
+      "last_id": "2123862192973852710",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2392,11 +2392,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T21:22:53.000Z",
-          "id": "2122802681677070526",
-          "text": "bitcoin surging 30 bps on strong nvda earnings"
-        },
         {
           "created_at": "2026-11-17T23:58:09.000Z",
           "id": "2122841755405975768",
@@ -2539,10 +2534,18 @@
           "id": "2123834155574395280",
           "quoted_text": "*PENTAGON SAYS ANTHROPIC IS A SUPPLY CHAIN RISK TO DEPARTMENT OF WAR",
           "text": "oh trump has shorts on https://t.co/RN0QcDI4sb"
+        },
+        {
+          "created_at": "2026-11-20T19:33:00.000Z",
+          "id": "2123862192973852710",
+          "images": [
+            "https://pbs.twimg.com/media/HXl5aHGWsAAbjyU.jpg"
+          ],
+          "quoted_text": "$NVDA  - SEC INVESTIGATING NVIDIA OVER POTENTIAL ACCOUNTING ISSUES \n\nThe U.S. Securities and Exchange Commission is examining Nvidia's accounting practices, Reuters reports, citing two people familiar with the confidential investigation.\n\nThe probe adds to mounting legal pressure following the company's leadership scandal and ongoing scrutiny of AI chip exports to China.\n\nSeparately, the Justice Department is reviewing Nvidia's $12.9 billion Hugging Face acquisition as part of a broader antitrus",
+          "text": "wow https://t.co/evfQ6mxHjy https://t.co/BiJfd6PrIO"
         }
       ],
       "reads": {
-        "2122802681677070526": "No call",
         "2122841755405975768": "No call",
         "2123165114883072177": "No call",
         "2123166568771367055": "No call",
@@ -2561,7 +2564,8 @@
         "2123790254415221129": "No call",
         "2123801098163277836": "No call",
         "2123804120062836984": "No call",
-        "2123834155574395280": "No call"
+        "2123834155574395280": "No call",
+        "2123862192973852710": "No call"
       },
       "replies": [
         {
@@ -2656,10 +2660,6 @@
         }
       ],
       "threads": {
-        "2117725167359066439": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117728098250641532": {
           "alerted": [
             "trade:AMD:long"
@@ -3057,10 +3057,13 @@
         "2123834155574395280": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123862192973852710": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122802681677070526": true,
         "2122841755405975768": false,
         "2123165114883072177": false,
         "2123166568771367055": false,
@@ -3094,7 +3097,8 @@
         "2123830638210080825": false,
         "2123830955240796429": false,
         "2123834155574395280": true,
-        "2123857639327351231": false
+        "2123857639327351231": false,
+        "2123862192973852710": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7335,5 +7339,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T19:32:21+00:00"
+  "updated_at": "2026-11-20T19:34:22+00:00"
 }
