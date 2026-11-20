@@ -2372,7 +2372,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123804120062836984",
+      "last_id": "2123821370802888773",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2567,15 +2567,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-18T00:18:51.000Z",
-          "id": "2122846964551135710",
-          "images": [
-            "https://pbs.twimg.com/media/HXXeD-fX0AATpPp.png"
-          ],
-          "reply_to_id": "2122843775332729018",
-          "text": "@AdsoOfBelk https://t.co/SvTSG6THlI"
-        },
-        {
           "created_at": "2026-11-18T00:31:12.000Z",
           "id": "2122850073340268832",
           "reply_to_id": "2122848534638530720",
@@ -2658,6 +2649,12 @@
           "id": "2123791223660101800",
           "reply_to_id": "2123769643131383861",
           "text": "@fordoglunk openai doesn't even have a stock that's how bad it is"
+        },
+        {
+          "created_at": "2026-11-20T16:50:48.000Z",
+          "id": "2123821370802888773",
+          "reply_to_id": "2123809279572373708",
+          "text": "@bookdepth well, a lean proof is a proof"
         }
       ],
       "threads": {
@@ -3068,7 +3065,6 @@
         "2122800189513650623": true,
         "2122802681677070526": true,
         "2122841755405975768": false,
-        "2122846964551135710": false,
         "2122850073340268832": false,
         "2122873625308967078": false,
         "2122893351578227070": false,
@@ -3099,7 +3095,8 @@
         "2123790254415221129": false,
         "2123791223660101800": false,
         "2123801098163277836": false,
-        "2123804120062836984": true
+        "2123804120062836984": true,
+        "2123821370802888773": false
       },
       "user_id": "1598545553327067137"
     },
@@ -6525,6 +6522,15 @@
           "stance": "bearish",
           "updated_at": "2026-11-20T01:44:20.000Z"
         },
+        "hood": {
+          "market": "stocks",
+          "post_id": "2123821480395919588",
+          "reason": "'No longer interested in Hood in the 50s' reverses the earlier buy idea. They cite retail momo stocks like SOXL eroding HOOD's userbase and AUM, plus rising unemployment as headwinds.",
+          "scope": "HOOD",
+          "since": "2026-11-20",
+          "stance": "bearish",
+          "updated_at": "2026-11-20T16:51:14.000Z"
+        },
         "mu": {
           "market": "stocks",
           "post_id": "2111579791379820967",
@@ -6562,7 +6568,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123813418671145376",
+      "last_id": "2123821480395919588",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6614,15 +6620,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T16:24:51.000Z",
-          "id": "2123452453572276601",
-          "images": [
-            "https://pbs.twimg.com/media/HXgEr9BWcAAHCKQ.jpg"
-          ],
-          "reply_to_id": "2123452019344035880",
-          "text": "This is a sinking ship. I want to see American companies do well but to say Coinbase has been mismanaged is a complete understatement. https://t.co/fFRre5dMd4"
-        },
         {
           "created_at": "2026-11-19T16:28:28.000Z",
           "id": "2123453364474167625",
@@ -6739,6 +6736,12 @@
           "created_at": "2026-11-20T16:19:12.000Z",
           "id": "2123813418671145376",
           "text": "This is not the time to get apathetic and complacent. Don't gamble whatever capital is left because you're desensitized due to realizing large losses."
+        },
+        {
+          "created_at": "2026-11-20T16:51:14.000Z",
+          "id": "2123821480395919588",
+          "reply_to_id": "2122410252977283480",
+          "text": "No longer interested in Hood in the 50s, SOXL at 34 is a total retail destruction of their AUM, all the biggest retail momo stocks (memory, space stocks, now SPCX and ANT IPOs if they drill) completely erode the userbase. Pair that with unemployment rising due to AI, bad headwinds."
         }
       ],
       "reads": {
@@ -6760,7 +6763,8 @@
         "2123797042300699037": "No call",
         "2123807047892541470": "No call",
         "2123811016337486177": "No call: bearish on crypto market (65%, too unsure)",
-        "2123813418671145376": "No call"
+        "2123813418671145376": "No call",
+        "2123821480395919588": "VIEW bearish on HOOD"
       },
       "replies": [
         {
@@ -7083,8 +7087,10 @@
           "self_replies": 0
         },
         "2122410252977283480": {
-          "alerted": [],
-          "self_replies": 0
+          "alerted": [
+            "bias:hood:bearish"
+          ],
+          "self_replies": 1
         },
         "2122425061152018605": {
           "alerted": [],
@@ -7280,7 +7286,6 @@
         "2122935765634068839": true,
         "2123061270597312960": true,
         "2123436576273219714": true,
-        "2123452453572276601": true,
         "2123453364474167625": true,
         "2123454955981832294": false,
         "2123460741197930822": true,
@@ -7302,7 +7307,8 @@
         "2123797042300699037": true,
         "2123807047892541470": true,
         "2123811016337486177": true,
-        "2123813418671145376": true
+        "2123813418671145376": true,
+        "2123821480395919588": true
       },
       "user_id": "809191427645181952"
     }
@@ -7325,5 +7331,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T16:46:23+00:00"
+  "updated_at": "2026-11-20T16:52:36+00:00"
 }
