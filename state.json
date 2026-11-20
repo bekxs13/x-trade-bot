@@ -2384,7 +2384,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123912040830140613",
+      "last_id": "2123928519906394521",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2420,14 +2420,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T14:23:29.000Z",
-          "id": "2123421912571301942",
-          "images": [
-            "https://pbs.twimg.com/media/HXfoz6wWgAAhHHe.jpg"
-          ],
-          "text": "&gt;jane street \n&gt;traders are jock types\n&gt;sbf's manager admonishes him for not wearing a shirt and tie\n\n?????????????? https://t.co/zFvrLIZ8sK"
-        },
         {
           "created_at": "2026-11-19T16:52:34.000Z",
           "id": "2123459429211214154",
@@ -2550,10 +2542,14 @@
             "https://pbs.twimg.com/media/HXmmRaHXkAAqGnc.jpg"
           ],
           "text": "https://t.co/mwvOS4ohDO"
+        },
+        {
+          "created_at": "2026-11-20T23:56:34.000Z",
+          "id": "2123928519906394521",
+          "text": "a dark, twisted version of borges' library of babel which contains every legible, syntactically correct human thought imaginable"
         }
       ],
       "reads": {
-        "2123421912571301942": "No call",
         "2123459429211214154": "No call",
         "2123459574271471923": "Read together with the post it replies to",
         "2123575650027975053": "No call",
@@ -2571,7 +2567,8 @@
         "2123895401485160800": "No call",
         "2123905990836044093": "No call: bearish on stocks/macro (60%, too unsure)",
         "2123910200952234237": "TRADE LONG FTEC",
-        "2123911555209433425": "No call"
+        "2123911555209433425": "No call",
+        "2123928519906394521": "No call"
       },
       "replies": [
         {
@@ -2666,10 +2663,6 @@
         }
       ],
       "threads": {
-        "2117854033281003754": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117857795932672465": {
           "alerted": [],
           "self_replies": 0
@@ -3067,10 +3060,13 @@
         "2123911555209433425": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123928519906394521": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123421912571301942": false,
         "2123459429211214154": true,
         "2123459574271471923": false,
         "2123575650027975053": false,
@@ -3104,7 +3100,8 @@
         "2123910200952234237": true,
         "2123911555209433425": false,
         "2123911831488188663": false,
-        "2123912040830140613": false
+        "2123912040830140613": false,
+        "2123928519906394521": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7359,5 +7356,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T23:54:30+00:00"
+  "updated_at": "2026-11-20T23:58:23+00:00"
 }
