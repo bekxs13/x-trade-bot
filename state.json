@@ -1157,7 +1157,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123917682906951870",
+      "last_id": "2123918976489021452",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1427,12 +1427,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-20T18:05:59.000Z",
-          "id": "2123840292491280582",
-          "reply_to_id": "2123832278887592301",
-          "text": "@HugoMartingale not a loss until you sell! ansem retires hugo arc incoming \ud83d\ude01"
-        },
-        {
           "created_at": "2026-11-20T19:27:30.000Z",
           "id": "2123860808455352346",
           "reply_to_id": "2123823800223420838",
@@ -1521,6 +1515,12 @@
           "id": "2123917197190021614",
           "reply_to_id": "2123859922622291972",
           "text": "@TrustlessState @CloutedMind tbf the 3rd time shouldnt count bc mr lee market bought 20B worth"
+        },
+        {
+          "created_at": "2026-11-20T23:18:39.000Z",
+          "id": "2123918976489021452",
+          "reply_to_id": "2123909039750852942",
+          "text": "@farokh think all bull cases will be driven by growth metrics on breakout crypto apps, like for ex. if hyperliquid doubled user count &amp; volumes over next 6 months bc of equity perps growth &amp; partnerships w/ existing exchanges as the underlying infra layer it is easily trading $100+"
         }
       ],
       "threads": {
@@ -1956,7 +1956,6 @@
         "2123804411705139593": false,
         "2123814265102499934": true,
         "2123817121893450113": true,
-        "2123840292491280582": true,
         "2123860808455352346": false,
         "2123863335804506195": false,
         "2123864815810814402": false,
@@ -1978,7 +1977,8 @@
         "2123916941501022208": true,
         "2123917064976953551": true,
         "2123917197190021614": true,
-        "2123917682906951870": true
+        "2123917682906951870": true,
+        "2123918976489021452": true
       },
       "user_id": "973261472"
     },
@@ -7359,5 +7359,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T23:16:34+00:00"
+  "updated_at": "2026-11-20T23:20:32+00:00"
 }
