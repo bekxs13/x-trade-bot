@@ -2378,7 +2378,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123884375771345198",
+      "last_id": "2123886845314634065",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2398,23 +2398,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-18T21:28:51.000Z",
-          "id": "2123166568771367055",
-          "images": [
-            "https://pbs.twimg.com/media/HXcAsZ8XwAA-k_n.jpg"
-          ],
-          "reply_to_id": "2123165114883072177",
-          "text": "the water looks like pink lemonade https://t.co/3E0TUGURLu"
-        },
-        {
-          "created_at": "2026-11-18T21:46:45.000Z",
-          "id": "2123171076410671537",
-          "images": [
-            "https://pbs.twimg.com/media/HXcE0sPXYAE8Yjq.jpg"
-          ],
-          "text": "https://t.co/MkYeqG83Em"
-        },
         {
           "created_at": "2026-11-18T22:50:15.000Z",
           "id": "2123187054507155785",
@@ -2542,11 +2525,21 @@
           "created_at": "2026-11-20T20:58:18.000Z",
           "id": "2123883657853104385",
           "text": "QQQ has just entered a bear market officially \ud83d\udea8\ud83d\udea8\ud83d\udea8"
+        },
+        {
+          "created_at": "2026-11-20T21:10:12.000Z",
+          "id": "2123886653223887033",
+          "quoted_text": "is there a reason long QQQ / short ANT doesn\u2019t work on a 6 mo look? even just on the basis of ANT valuation needing to be like\u2026that of a pubco and the early employees/venture dumping",
+          "text": "ANT not in the indices yet! https://t.co/Jsq8z2sJVp"
+        },
+        {
+          "created_at": "2026-11-20T21:10:58.000Z",
+          "id": "2123886845314634065",
+          "reply_to_id": "2123886653223887033",
+          "text": "if anything there are professionals doing the exact opposite trade"
         }
       ],
       "reads": {
-        "2123166568771367055": "No call",
-        "2123171076410671537": "No call",
         "2123187054507155785": "No call",
         "2123189008737956163": "No call",
         "2123236324182253918": "No call",
@@ -2563,7 +2556,9 @@
         "2123804120062836984": "No call",
         "2123834155574395280": "No call",
         "2123862192973852710": "No call",
-        "2123883657853104385": "No call"
+        "2123883657853104385": "No call",
+        "2123886653223887033": "No call",
+        "2123886845314634065": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -2658,10 +2653,6 @@
         }
       ],
       "threads": {
-        "2117756905355710835": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2117762594673156375": {
           "alerted": [],
           "self_replies": 0
@@ -3057,11 +3048,13 @@
         "2123883657853104385": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123886653223887033": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2123166568771367055": false,
-        "2123171076410671537": false,
         "2123187054507155785": true,
         "2123189008737956163": false,
         "2123236324182253918": false,
@@ -3094,7 +3087,9 @@
         "2123868975947756012": false,
         "2123883333432103084": true,
         "2123883657853104385": true,
-        "2123884375771345198": false
+        "2123884375771345198": false,
+        "2123886653223887033": true,
+        "2123886845314634065": true
       },
       "user_id": "1598545553327067137"
     },
@@ -6581,7 +6576,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123883834945011817",
+      "last_id": "2123887084427727147",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6784,12 +6779,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T21:47:25.000Z",
-          "id": "2122446465822007696",
-          "reply_to_id": "2122443259658056046",
-          "text": "@ChairmanSelig @CFTC Hyperliquid USA coming soon"
-        },
-        {
           "created_at": "2026-11-16T23:36:42.000Z",
           "id": "2122473968712216994",
           "reply_to_id": "2122447776302669862",
@@ -6875,6 +6864,12 @@
           ],
           "reply_to_id": "2123469406588277183",
           "text": "@eippusrevenge Mogged https://t.co/qwp5C8Z2qm"
+        },
+        {
+          "created_at": "2026-11-20T21:11:55.000Z",
+          "id": "2123887084427727147",
+          "reply_to_id": "2123885059434500238",
+          "text": "@PaikCapital It's not"
         }
       ],
       "threads": {
@@ -7292,7 +7287,6 @@
         }
       },
       "trading": {
-        "2122446465822007696": true,
         "2122473968712216994": false,
         "2122561085966336509": true,
         "2122577969273270527": false,
@@ -7326,7 +7320,8 @@
         "2123874079102886338": true,
         "2123875464200818903": true,
         "2123882568290546109": true,
-        "2123883834945011817": true
+        "2123883834945011817": true,
+        "2123887084427727147": false
       },
       "user_id": "809191427645181952"
     }
@@ -7349,5 +7344,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T21:06:25+00:00"
+  "updated_at": "2026-11-20T21:12:32+00:00"
 }
