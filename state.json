@@ -118,7 +118,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123644980136988942",
+      "last_id": "2123683721257820411",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -202,14 +202,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T16:57:18.000Z",
-          "id": "2123460620918124611",
-          "images": [
-            "https://pbs.twimg.com/media/HXgMG3QbgAAeje2.jpg"
-          ],
-          "text": "Aight sold 110 guess I can feel morally ok since I tried not to participate. Capitalism https://t.co/lgPytIwevK"
-        },
         {
           "created_at": "2026-11-19T17:08:59.000Z",
           "id": "2123463559443304579",
@@ -327,10 +319,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2123601261412937728/img/DvbOntS9tWgQYU8Y.jpg"
           ],
           "text": "Frank Degods Edits Account https://t.co/0ybPyR5jkL"
+        },
+        {
+          "created_at": "2026-11-20T07:43:49.000Z",
+          "id": "2123683721257820411",
+          "text": "Gen Alpha dudes just solo the middle urinal and it kinda cooks u"
         }
       ],
       "reads": {
-        "2123460620918124611": "TRADE EXIT ANT",
         "2123463559443304579": "No call",
         "2123481848143831321": "No call",
         "2123503717181980913": "No call",
@@ -348,7 +344,8 @@
         "2123584377884143880": "No call",
         "2123594208934277570": "No call: bearish on semis/ai stocks (same view as before)",
         "2123615513398136943": "No call",
-        "2123625802030108921": "No call"
+        "2123625802030108921": "No call",
+        "2123683721257820411": "No call"
       },
       "replies": [
         {
@@ -446,10 +443,6 @@
         }
       ],
       "threads": {
-        "2119328458459459755": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119328844247380153": {
           "alerted": [],
           "self_replies": 0
@@ -853,10 +846,13 @@
         "2123625802030108921": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123683721257820411": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123460620918124611": true,
         "2123463559443304579": true,
         "2123481848143831321": true,
         "2123501513624662423": false,
@@ -890,7 +886,8 @@
         "2123628429807636824": false,
         "2123633790681751688": false,
         "2123638463400669290": false,
-        "2123644980136988942": false
+        "2123644980136988942": false,
+        "2123683721257820411": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7306,5 +7303,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-20T07:26:17+00:00"
+  "updated_at": "2026-11-20T07:44:28+00:00"
 }
