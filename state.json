@@ -6538,7 +6538,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123593253245370721",
+      "last_id": "2123625384080003282",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6590,11 +6590,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T00:03:31.000Z",
-          "id": "2123205495146078330",
-          "text": "Traders will stop thinking about venues and only focus on front end, price/fees and capital efficiency"
-        },
         {
           "created_at": "2026-11-19T03:50:21.000Z",
           "id": "2123262576486470124",
@@ -6716,10 +6711,14 @@
           ],
           "quoted_text": "Love Gold at 3200 https://t.co/O1noMvyNEe",
           "text": "Feels like some mega whale old money family (Wallenberg, Rothschild etc.) is liquidating their gold position, or a nation state...\n\nGetting closer to 3200 https://t.co/QfXR3GJtSu https://t.co/RCzGIsF4Do"
+        },
+        {
+          "created_at": "2026-11-20T03:52:01.000Z",
+          "id": "2123625384080003282",
+          "text": "How many of you use AI in your day to day trading to either automate, backtest or execute trades"
         }
       ],
       "reads": {
-        "2123205495146078330": "No call",
         "2123262576486470124": "No call",
         "2123430874309890500": "No call",
         "2123436140711616996": "No call",
@@ -6737,7 +6736,8 @@
         "2123510128788078789": "No call",
         "2123527295746834808": "No call",
         "2123539441520153037": "No call",
-        "2123593253245370721": "No call: bearish on gold (same view as before)"
+        "2123593253245370721": "No call: bearish on gold (same view as before)",
+        "2123625384080003282": "No call"
       },
       "replies": [
         {
@@ -6835,10 +6835,6 @@
         }
       ],
       "threads": {
-        "2121627603060556243": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121631560336294142": {
           "alerted": [],
           "self_replies": 0
@@ -7242,6 +7238,10 @@
         "2123593253245370721": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123625384080003282": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7256,7 +7256,6 @@
         "2122928832541851874": false,
         "2122935765634068839": true,
         "2123061270597312960": true,
-        "2123205495146078330": true,
         "2123262576486470124": false,
         "2123430874309890500": true,
         "2123436140711616996": true,
@@ -7279,7 +7278,8 @@
         "2123510128788078789": true,
         "2123527295746834808": true,
         "2123539441520153037": true,
-        "2123593253245370721": true
+        "2123593253245370721": true,
+        "2123625384080003282": true
       },
       "user_id": "809191427645181952"
     }
@@ -7302,5 +7302,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-20T03:46:18+00:00"
+  "updated_at": "2026-11-20T03:52:27+00:00"
 }
