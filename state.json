@@ -2372,7 +2372,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123826547421499806",
+      "last_id": "2123830638210080825",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2567,24 +2567,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-18T02:04:48.000Z",
-          "id": "2122873625308967078",
-          "reply_to_id": "2122851497281016117",
-          "text": "@pinkhasov Merry christmas"
-        },
-        {
-          "created_at": "2026-11-18T03:23:11.000Z",
-          "id": "2122893351578227070",
-          "reply_to_id": "2122862105980436932",
-          "text": "@FangYi11101 @Nordakal highest aura is prolly something like TGS"
-        },
-        {
-          "created_at": "2026-11-18T21:39:01.000Z",
-          "id": "2123169129997681036",
-          "reply_to_id": "2123166905649234293",
-          "text": "@exotypal hi"
-        },
-        {
           "created_at": "2026-11-18T22:49:25.000Z",
           "id": "2123186845580496903",
           "reply_to_id": "2123182127273664905",
@@ -2655,6 +2637,24 @@
           "id": "2123826547421499806",
           "reply_to_id": "2123823026659586121",
           "text": "@bookdepth so i agree this doesn't contribute much to mathematical knowledge, other than settling the veracity of the actual statement. but i think that's a different claim"
+        },
+        {
+          "created_at": "2026-11-20T17:26:42.000Z",
+          "id": "2123830406235431014",
+          "reply_to_id": "2123827706576118226",
+          "text": "@ChrisRinvesting @bookdepth that can be verified"
+        },
+        {
+          "created_at": "2026-11-20T17:27:13.000Z",
+          "id": "2123830538217677103",
+          "reply_to_id": "2123827148721107370",
+          "text": "@bookdepth agree to disagree!"
+        },
+        {
+          "created_at": "2026-11-20T17:27:37.000Z",
+          "id": "2123830638210080825",
+          "reply_to_id": "2123830499592548512",
+          "text": "@1thousandfaces_ what's that are any of them fun"
         }
       ],
       "threads": {
@@ -3065,11 +3065,8 @@
         "2122800189513650623": true,
         "2122802681677070526": true,
         "2122841755405975768": false,
-        "2122873625308967078": false,
-        "2122893351578227070": false,
         "2123165114883072177": false,
         "2123166568771367055": false,
-        "2123169129997681036": false,
         "2123171076410671537": false,
         "2123186845580496903": false,
         "2123187054507155785": true,
@@ -3096,7 +3093,10 @@
         "2123801098163277836": false,
         "2123804120062836984": true,
         "2123821370802888773": false,
-        "2123826547421499806": false
+        "2123826547421499806": false,
+        "2123830406235431014": false,
+        "2123830538217677103": false,
+        "2123830638210080825": false
       },
       "user_id": "1598545553327067137"
     },
@@ -4758,7 +4758,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123827965276340553",
+      "last_id": "2123830359657943066",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4810,12 +4810,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T16:47:55.000Z",
-          "id": "2122733483869233444",
-          "reply_to_id": "2122732665547956693",
-          "text": "he said he has legit none of his port from interview 9 months ago lol"
-        },
         {
           "created_at": "2026-11-17T16:50:24.000Z",
           "id": "2122734108799631574",
@@ -4926,10 +4920,14 @@
           "created_at": "2026-11-20T17:05:44.000Z",
           "id": "2123825128429490387",
           "text": "some serious bitcoin relative strength at 59,187. noticing"
+        },
+        {
+          "created_at": "2026-11-20T17:26:31.000Z",
+          "id": "2123830359657943066",
+          "text": "can trump get back in that committing heinously illegal crimes to make the market go up mode"
         }
       ],
       "reads": {
-        "2122733483869233444": "No call",
         "2122735530165076157": "No call: bearish on stocks/macro (65%, too unsure)",
         "2122770671084110164": "No call",
         "2122773967278838083": "No call",
@@ -4945,7 +4943,8 @@
         "2123797243082006860": "No call",
         "2123813855151157432": "No call",
         "2123822117523537930": "No call",
-        "2123825128429490387": "No call: bullish on btc (65%, too unsure)"
+        "2123825128429490387": "No call: bullish on btc (65%, too unsure)",
+        "2123830359657943066": "No call"
       },
       "replies": [
         {
@@ -5040,10 +5039,6 @@
         }
       ],
       "threads": {
-        "2118158865028227260": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118328374984855889": {
           "alerted": [],
           "self_replies": 1
@@ -5441,10 +5436,13 @@
         "2123825128429490387": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123830359657943066": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122733483869233444": true,
         "2122734108799631574": true,
         "2122735530165076157": true,
         "2122770671084110164": false,
@@ -5478,7 +5476,8 @@
         "2123823800223420838": false,
         "2123825128429490387": true,
         "2123825199221219670": false,
-        "2123827965276340553": false
+        "2123827965276340553": false,
+        "2123830359657943066": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7332,5 +7331,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T17:18:29+00:00"
+  "updated_at": "2026-11-20T17:28:32+00:00"
 }
