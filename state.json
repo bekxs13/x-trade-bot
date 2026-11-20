@@ -920,12 +920,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2123114160481337656",
-          "reason": "\"not very optimistic atm, base case rn is bounce into the 70s and then new lows in 2027\" is broader than the bounce trade. It matches the recorded bearish crypto market view, while BTC bias stays explicitly neutral within the 57k-82.5k range.",
+          "post_id": "2123604677149212884",
+          "reason": "Cites the Qs, gold and NVDA breaking down and dollar strength, says it's unwise to bid crypto majors in size, and plans to derisk into any bounce.",
           "scope": "crypto market",
           "since": "2026-11-13",
           "stance": "bearish",
-          "updated_at": "2026-11-18T18:00:36.000Z"
+          "updated_at": "2026-11-20T02:29:44.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -1138,7 +1138,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123602182704652783",
+      "last_id": "2123604677149212884",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1255,12 +1255,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-18T18:06:30.000Z",
-          "id": "2123115646473113905",
-          "quoted_text": "how do we feel about pearl bros",
-          "text": "hey i think this one is good bros https://t.co/LbzaMVGHPU"
-        },
-        {
           "created_at": "2026-11-19T14:50:03.000Z",
           "id": "2123428598014967818",
           "text": "santa rally."
@@ -1371,10 +1365,21 @@
           "created_at": "2026-11-20T00:54:39.000Z",
           "id": "2123580750293512514",
           "text": "https://t.co/KwQdBJMiPv"
+        },
+        {
+          "created_at": "2026-11-20T02:29:44.000Z",
+          "id": "2123604677149212884",
+          "images": [
+            "https://pbs.twimg.com/media/HXiOtusXIAAx4oN.png",
+            "https://pbs.twimg.com/media/HXiOuswXAAAPtQr.png",
+            "https://pbs.twimg.com/media/HXiOvvYXwAAi06K.jpg",
+            "https://pbs.twimg.com/media/HXiOwqPX0AAZkWD.jpg"
+          ],
+          "quoted_text": "we are here again, same level from the summer, 2021 previous all time highs, support level from most of 2024 range\n\nif we are at beginning of bull we should not trade beneath 57k for any extended period of time imo\n\nwill try bidding 58-61k for a bounce before eoy\n\nwill remain neutral on bias until range breaks in either direction, 82.5k+ bull, < 57k bear\n\nwill say that 2027 looks like a much tougher setup than 2026 and crypto already has done very poorly this year, so am not very optimistic atm,",
+          "text": "w/ context of Qs breaking down, gold breaking down, dollar immense strength into likely more fed hikes & nvda continued weakness\n\nseems unwise to bid crypto majors here in size even though we are at range support, going to opt into staying heavy in cash and waiting for better spot\n\nstill think we bounce from here but believe better play is looking to derisk into that bounce rather than being a hero here"
         }
       ],
       "reads": {
-        "2123115646473113905": "No call: bullish on PEARL (65%, too unsure)",
         "2123428598014967818": "No call: bullish on crypto market (60%, too unsure)",
         "2123429045623009775": "No call",
         "2123429285440692319": "VIEW bullish on btc",
@@ -1390,7 +1395,8 @@
         "2123538903244398812": "No call",
         "2123539385690046902": "No call",
         "2123561744119517315": "No call",
-        "2123580750293512514": "No call"
+        "2123580750293512514": "No call",
+        "2123604677149212884": "No call: bearish on crypto market (same view as before)"
       },
       "replies": [
         {
@@ -1485,10 +1491,6 @@
         }
       ],
       "threads": {
-        "2121419960845213981": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121429596503527480": {
           "alerted": [],
           "self_replies": 0
@@ -1900,10 +1902,13 @@
         "2123580750293512514": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123604677149212884": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123115646473113905": false,
         "2123428598014967818": true,
         "2123429045623009775": true,
         "2123429285440692319": true,
@@ -1937,7 +1942,8 @@
         "2123565955271758333": false,
         "2123580750293512514": false,
         "2123602099443515429": true,
-        "2123602182704652783": false
+        "2123602182704652783": false,
+        "2123604677149212884": true
       },
       "user_id": "973261472"
     },
@@ -7293,5 +7299,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-20T02:20:26+00:00"
+  "updated_at": "2026-11-20T02:32:23+00:00"
 }
