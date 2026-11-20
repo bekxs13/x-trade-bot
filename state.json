@@ -118,7 +118,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123638463400669290",
+      "last_id": "2123644980136988942",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -352,12 +352,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-19T23:41:08.000Z",
-          "id": "2123562249331855791",
-          "reply_to_id": "2123523070044356875",
-          "text": "@SteveRattner Awesome!"
-        },
-        {
           "created_at": "2026-11-19T23:55:59.000Z",
           "id": "2123565985039016160",
           "reply_to_id": "2123519266909544540",
@@ -443,6 +437,12 @@
           "id": "2123638463400669290",
           "reply_to_id": "2123637938470678536",
           "text": "@tkisrage It\u2019s a matchmaking service"
+        },
+        {
+          "created_at": "2026-11-20T05:09:53.000Z",
+          "id": "2123644980136988942",
+          "reply_to_id": "2123640167592611923",
+          "text": "@BingusCapitalnc @tkisrage yeah I guess at this point I wouldn't match with anyone who chose to do an mba but back in 21 that felt like the vibe Wharton girls were bad"
         }
       ],
       "threads": {
@@ -869,7 +869,6 @@
         "2123554637236314218": false,
         "2123555647832895612": false,
         "2123560533312033053": false,
-        "2123562249331855791": false,
         "2123565985039016160": true,
         "2123566360106242370": true,
         "2123566680282743077": true,
@@ -890,7 +889,8 @@
         "2123625802030108921": false,
         "2123628429807636824": false,
         "2123633790681751688": false,
-        "2123638463400669290": false
+        "2123638463400669290": false,
+        "2123644980136988942": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7305,5 +7305,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-20T04:48:23+00:00"
+  "updated_at": "2026-11-20T05:10:26+00:00"
 }
