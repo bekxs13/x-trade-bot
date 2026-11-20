@@ -6543,6 +6543,15 @@
           "stance": "bearish",
           "updated_at": "2026-10-17T22:07:08.000Z"
         },
+        "ndx": {
+          "market": "stocks",
+          "post_id": "2123874079102886338",
+          "reason": "Weekly chart shows NDX down ~10% this week at 25,237. Naming 22500-20000 as the level he likes implies he expects a further drop before buying.",
+          "scope": "NDX",
+          "since": "2026-11-20",
+          "stance": "bearish",
+          "updated_at": "2026-11-20T20:20:14.000Z"
+        },
         "stocks/macro": {
           "market": "stocks",
           "post_id": "2122163006679212421",
@@ -6571,7 +6580,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123861341630841066",
+      "last_id": "2123874079102886338",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6623,11 +6632,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T17:10:43.000Z",
-          "id": "2123463995097288708",
-          "text": "This is why finance, capitalism and markets are so incredible.\n\nThink AI is a scam? Go short Anthropic. \nThink digital god is coming? Go long Anthropic.\n\nThere is no opinion needed, or peer revenue or popularity contest. The market will tell you who's right and hand you money."
-        },
         {
           "created_at": "2026-11-19T17:23:18.000Z",
           "id": "2123467163675816329",
@@ -6743,10 +6747,17 @@
           "id": "2123861341630841066",
           "quoted_text": "They\u2019re not going to bail them out, they\u2019re going to offer them 0% loans as a matter of national security.\n\nThat\u2019s when you back up the truck on BTC and ride off into the sunset.",
           "text": "Guess we just wait for this https://t.co/1zR5ncMSBk"
+        },
+        {
+          "created_at": "2026-11-20T20:20:14.000Z",
+          "id": "2123874079102886338",
+          "images": [
+            "https://pbs.twimg.com/media/HXmEKUkW4AA0OWA.jpg"
+          ],
+          "text": "I like NDX at 22500 - 20000 https://t.co/QYodxNSJkz"
         }
       ],
       "reads": {
-        "2123463995097288708": "No call",
         "2123467163675816329": "No call",
         "2123469176194891948": "No call",
         "2123495373830250733": "No call",
@@ -6765,7 +6776,8 @@
         "2123821480395919588": "VIEW bearish on HOOD",
         "2123834226890113467": "VIEW bullish on HYPE",
         "2123854668921233473": "No call",
-        "2123861341630841066": "No call"
+        "2123861341630841066": "No call",
+        "2123874079102886338": "VIEW bearish on NDX"
       },
       "replies": [
         {
@@ -6863,10 +6875,6 @@
         }
       ],
       "threads": {
-        "2121700004414808470": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121708653812257266": {
           "alerted": [],
           "self_replies": 0
@@ -7274,6 +7282,12 @@
         "2123861341630841066": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123874079102886338": {
+          "alerted": [
+            "bias:ndx:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7291,7 +7305,6 @@
         "2123436576273219714": true,
         "2123460741197930822": true,
         "2123463010849358127": true,
-        "2123463995097288708": true,
         "2123467163675816329": true,
         "2123469176194891948": true,
         "2123471825153806596": false,
@@ -7311,7 +7324,8 @@
         "2123821480395919588": true,
         "2123834226890113467": true,
         "2123854668921233473": true,
-        "2123861341630841066": true
+        "2123861341630841066": true,
+        "2123874079102886338": true
       },
       "user_id": "809191427645181952"
     }
@@ -7334,5 +7348,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T20:08:20+00:00"
+  "updated_at": "2026-11-20T20:22:32+00:00"
 }
