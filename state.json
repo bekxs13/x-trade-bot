@@ -2372,7 +2372,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2123834155574395280",
+      "last_id": "2123857639327351231",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2565,12 +2565,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-18T22:53:02.000Z",
-          "id": "2123187753630433484",
-          "reply_to_id": "2123171844077322579",
-          "text": "@natokast yessir"
-        },
-        {
           "created_at": "2026-11-19T00:06:49.000Z",
           "id": "2123206323399475656",
           "reply_to_id": "2123165157681725774",
@@ -2653,6 +2647,12 @@
           "id": "2123830955240796429",
           "reply_to_id": "2123830785065243034",
           "text": "@1thousandfaces_ does that pay well"
+        },
+        {
+          "created_at": "2026-11-20T19:14:55.000Z",
+          "id": "2123857639327351231",
+          "reply_to_id": "2123850177626923457",
+          "text": "@lolowhat @bookdepth i mean number of humans who understand the proof seems like a reasonable start\n\nproofs that have 0 humans that understand the proof and are expected to remain that way are obviously unintelligible"
         }
       ],
       "threads": {
@@ -3066,7 +3066,6 @@
         "2123166568771367055": false,
         "2123171076410671537": false,
         "2123187054507155785": true,
-        "2123187753630433484": false,
         "2123189008737956163": false,
         "2123206323399475656": false,
         "2123220300707824012": false,
@@ -3094,7 +3093,8 @@
         "2123830538217677103": false,
         "2123830638210080825": false,
         "2123830955240796429": false,
-        "2123834155574395280": true
+        "2123834155574395280": true,
+        "2123857639327351231": false
       },
       "user_id": "1598545553327067137"
     },
@@ -4756,7 +4756,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123854931526570160",
+      "last_id": "2123857573044527453",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4947,12 +4947,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-19T21:51:33.000Z",
-          "id": "2123534671464268155",
-          "reply_to_id": "2123532746941182163",
-          "text": "@krewe_x \ud83e\udeea"
-        },
-        {
           "created_at": "2026-11-19T22:25:33.000Z",
           "id": "2123543227659628924",
           "reply_to_id": "2123534866218414589",
@@ -5035,6 +5029,12 @@
           "id": "2123853417860784457",
           "reply_to_id": "2123852919070167436",
           "text": "@brr_eth show pnl so i can congratulate you"
+        },
+        {
+          "created_at": "2026-11-20T19:14:39.000Z",
+          "id": "2123857573044527453",
+          "reply_to_id": "2123856507267699150",
+          "text": "@negligible_cap jesus fuck wow"
         }
       ],
       "threads": {
@@ -5452,7 +5452,6 @@
         "2123483360517337582": false,
         "2123487001080934733": true,
         "2123497524967428354": false,
-        "2123534671464268155": false,
         "2123543227659628924": false,
         "2123550053642178936": false,
         "2123558381063455028": false,
@@ -5476,7 +5475,8 @@
         "2123836849361711524": false,
         "2123852421831025112": false,
         "2123853417860784457": true,
-        "2123854931526570160": false
+        "2123854931526570160": false,
+        "2123857573044527453": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7338,5 +7338,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T19:04:25+00:00"
+  "updated_at": "2026-11-20T19:16:21+00:00"
 }
