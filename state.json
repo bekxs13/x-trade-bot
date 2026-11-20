@@ -118,7 +118,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2123625802030108921",
+      "last_id": "2123628429807636824",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -352,12 +352,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-19T22:55:35.000Z",
-          "id": "2123550783077851539",
-          "reply_to_id": "2123550292163940399",
-          "text": "@BigTrout300 Incredible"
-        },
-        {
           "created_at": "2026-11-19T22:58:15.000Z",
           "id": "2123551455235998118",
           "reply_to_id": "2123550577426608613",
@@ -440,6 +434,15 @@
           "id": "2123625576519053783",
           "reply_to_id": "2123463897583599759",
           "text": "@IterIntellectus They actually explicitly changed the rules to take it from other people via their 401ks quite directly https://t.co/7lwZktunx9"
+        },
+        {
+          "created_at": "2026-11-20T04:04:07.000Z",
+          "id": "2123628429807636824",
+          "images": [
+            "https://pbs.twimg.com/media/HXikzR_boAAG-E6.png"
+          ],
+          "reply_to_id": "2123550735254098423",
+          "text": "@husafell_stone https://t.co/76n4C9YbJe"
         }
       ],
       "threads": {
@@ -862,7 +865,6 @@
         "2123532383064588318": false,
         "2123548045090627871": false,
         "2123549952916025826": false,
-        "2123550783077851539": false,
         "2123551455235998118": false,
         "2123554146410479983": true,
         "2123554637236314218": false,
@@ -887,7 +889,8 @@
         "2123615513398136943": false,
         "2123616539891167545": true,
         "2123625576519053783": false,
-        "2123625802030108921": false
+        "2123625802030108921": false,
+        "2123628429807636824": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7302,5 +7305,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-19",
-  "updated_at": "2026-11-20T03:54:19+00:00"
+  "updated_at": "2026-11-20T04:06:23+00:00"
 }
