@@ -4758,7 +4758,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2123813855151157432",
+      "last_id": "2123822117523537930",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4810,11 +4810,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-17T15:47:24.000Z",
-          "id": "2122718253877539031",
-          "text": "something bad happens in the world that has absolutely nothing to do with crypto? short bitcoin"
-        },
         {
           "created_at": "2026-11-17T16:44:40.000Z",
           "id": "2122732665547956693",
@@ -4925,10 +4920,15 @@
           "id": "2123813855151157432",
           "quoted_text": "figure out the answer to the most important question of our generation: what were you doing when programmable money changed the world https://t.co/v8SxyKn5jH",
           "text": "endure everything https://t.co/MMX0OtNI1C"
+        },
+        {
+          "created_at": "2026-11-20T16:53:46.000Z",
+          "id": "2123822117523537930",
+          "quoted_text": "*DOD TECH CHIEF EMIL MICHAEL: ANTHROPIC STILL A SUPPLY CHAIN RISK TO PENTAGON\n\n$ANT",
+          "text": "hey can they fucking get it together https://t.co/c24pjvLCIy"
         }
       ],
       "reads": {
-        "2122718253877539031": "No call",
         "2122732665547956693": "No call",
         "2122733483869233444": "No call",
         "2122735530165076157": "No call: bearish on stocks/macro (65%, too unsure)",
@@ -4944,7 +4944,8 @@
         "2123771089297822188": "No call",
         "2123773738680299763": "No call",
         "2123797243082006860": "No call",
-        "2123813855151157432": "No call"
+        "2123813855151157432": "No call",
+        "2123822117523537930": "No call"
       },
       "replies": [
         {
@@ -5039,10 +5040,6 @@
         }
       ],
       "threads": {
-        "2118110003403915731": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2118141847952408653": {
           "alerted": [],
           "self_replies": 0
@@ -5440,10 +5437,13 @@
         "2123813855151157432": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123822117523537930": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2122718253877539031": true,
         "2122732665547956693": true,
         "2122733483869233444": true,
         "2122734108799631574": true,
@@ -5477,7 +5477,8 @@
         "2123773738680299763": true,
         "2123797243082006860": true,
         "2123801946779754833": false,
-        "2123813855151157432": false
+        "2123813855151157432": false,
+        "2123822117523537930": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7331,5 +7332,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-20T16:52:36+00:00"
+  "updated_at": "2026-11-20T16:54:32+00:00"
 }
