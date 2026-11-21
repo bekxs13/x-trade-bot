@@ -1157,7 +1157,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123948849697804358",
+      "last_id": "2123952475648495883",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1427,15 +1427,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-20T20:37:57.000Z",
-          "id": "2123878536939511852",
-          "images": [
-            "https://pbs.twimg.com/tweet_video_thumb/HXmIRA4WwAAnbcz.jpg"
-          ],
-          "reply_to_id": "2123878198630907915",
-          "text": "@sirceen https://t.co/1Q4Clccnw8"
-        },
-        {
           "created_at": "2026-11-20T20:42:04.000Z",
           "id": "2123879571825320349",
           "images": [
@@ -1524,6 +1515,12 @@
           ],
           "reply_to_id": "2123937262912352519",
           "text": "@frizzaud @farokh https://t.co/9ds8cUf5NV"
+        },
+        {
+          "created_at": "2026-11-21T01:31:45.000Z",
+          "id": "2123952475648495883",
+          "reply_to_id": "2123950343486931253",
+          "text": "@zeroxkyle maybe hood fractal on anthropic chart q4 2027 / q1 2028"
         }
       ],
       "threads": {
@@ -1961,7 +1958,6 @@
         "2123875487911141507": true,
         "2123876873843384611": true,
         "2123878160626520257": false,
-        "2123878536939511852": false,
         "2123879571825320349": false,
         "2123880234303062051": true,
         "2123880526797009196": false,
@@ -1981,7 +1977,8 @@
         "2123935671886753921": true,
         "2123935760428478942": true,
         "2123936712028193161": true,
-        "2123948849697804358": false
+        "2123948849697804358": false,
+        "2123952475648495883": true
       },
       "user_id": "973261472"
     },
@@ -7363,5 +7360,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-21T01:18:24+00:00"
+  "updated_at": "2026-11-21T01:32:19+00:00"
 }
