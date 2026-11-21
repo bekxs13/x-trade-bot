@@ -1157,7 +1157,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123980155068588139",
+      "last_id": "2123988281285284217",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1274,16 +1274,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-20T16:22:34.000Z",
-          "id": "2123814265102499934",
-          "text": "i cannot believe the fed is going to hike into this in two weeks"
-        },
-        {
-          "created_at": "2026-11-20T16:33:55.000Z",
-          "id": "2123817121893450113",
-          "text": "the greatest technology mankind has ever invented is going to get exponentially better during a cyclical downtrend in risk assets\n\nif this continues you are being gifted a generational opportunity over the next 9-18 months"
-        },
-        {
           "created_at": "2026-11-20T19:54:42.000Z",
           "id": "2123867650149228862",
           "text": "nvidia 128 wow man"
@@ -1395,11 +1385,20 @@
           "created_at": "2026-11-21T02:46:37.000Z",
           "id": "2123971314104905753",
           "text": "whats everyone drinking on this fine friday evening"
+        },
+        {
+          "created_at": "2026-11-21T03:51:46.000Z",
+          "id": "2123987708272164934",
+          "text": ":("
+        },
+        {
+          "created_at": "2026-11-21T03:54:02.000Z",
+          "id": "2123988281285284217",
+          "reply_to_id": "2123988145041797133",
+          "text": "@fomocapdao i wonder if anthropic is a long on war escalation"
         }
       ],
       "reads": {
-        "2123814265102499934": "No call: bearish on stocks/macro (same view as before)",
-        "2123817121893450113": "VIEW bullish on ai stocks",
         "2123867650149228862": "No call",
         "2123875487911141507": "TRADE TRIM HYPE",
         "2123876873843384611": "No call",
@@ -1415,15 +1414,10 @@
         "2123971046764126410": "No call",
         "2123971181086945294": "No call",
         "2123971230059380776": "No call",
-        "2123971314104905753": "No call"
+        "2123971314104905753": "No call",
+        "2123987708272164934": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-21T00:12:54.000Z",
-          "id": "2123932629284299103",
-          "reply_to_id": "2123927005863563713",
-          "text": "@cz_binance hey bro can you follow me back"
-        },
         {
           "created_at": "2026-11-21T00:24:59.000Z",
           "id": "2123935671886753921",
@@ -1510,13 +1504,15 @@
           "id": "2123980155068588139",
           "reply_to_id": "2123979504716783948",
           "text": "@MINHxDYNASTY hey minh"
+        },
+        {
+          "created_at": "2026-11-21T03:53:30.000Z",
+          "id": "2123988145041797133",
+          "reply_to_id": "2123984532051521781",
+          "text": "@fomocapdao past three weeks in crypto &amp; equities have to be frontrunning something"
         }
       ],
       "threads": {
-        "2121721569257095633": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121734010774732976": {
           "alerted": [],
           "self_replies": 0
@@ -1930,11 +1926,13 @@
         "2123971314104905753": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123987708272164934": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123814265102499934": true,
-        "2123817121893450113": true,
         "2123867650149228862": true,
         "2123875487911141507": true,
         "2123876873843384611": true,
@@ -1944,7 +1942,6 @@
         "2123916941501022208": true,
         "2123917682906951870": true,
         "2123922764361023733": true,
-        "2123932629284299103": false,
         "2123935671886753921": true,
         "2123935760428478942": true,
         "2123936712028193161": true,
@@ -1967,7 +1964,10 @@
         "2123972984096633101": false,
         "2123973384581308682": true,
         "2123976844391174643": false,
-        "2123980155068588139": false
+        "2123980155068588139": false,
+        "2123987708272164934": false,
+        "2123988145041797133": true,
+        "2123988281285284217": true
       },
       "user_id": "973261472"
     },
@@ -7349,5 +7349,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-21T03:22:21+00:00"
+  "updated_at": "2026-11-21T03:54:23+00:00"
 }
