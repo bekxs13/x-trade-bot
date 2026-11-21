@@ -1172,7 +1172,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124272421314113667",
+      "last_id": "2124277696842936482",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1369,11 +1369,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-21T03:51:46.000Z",
-          "id": "2123987708272164934",
-          "text": ":("
-        },
-        {
           "created_at": "2026-11-21T03:54:02.000Z",
           "id": "2123988281285284217",
           "reply_to_id": "2123988145041797133",
@@ -1494,10 +1489,15 @@
           "created_at": "2026-11-21T22:43:06.000Z",
           "id": "2124272421314113667",
           "text": "https://t.co/0PcrroCra6"
+        },
+        {
+          "created_at": "2026-11-21T23:02:34.000Z",
+          "id": "2124277317782450670",
+          "quoted_text": "It can fundamentally be true that both ASI is coming and this is the largest technical innovation since the internet but also that the business models of many of the companies in the AI value chain are fundamentally unsustainable on medium time horizons so without access to irrationally cheap and easy financing many of them will go bankrupt/need to be acquired/have large valuation resets. \n\nThese things are not incongruous, despite the seeming lack of nuance across the timeline.",
+          "text": "long superintelligence\nlong open source models\nlong open financial networks https://t.co/SsA144Z7e2"
         }
       ],
       "reads": {
-        "2123987708272164934": "No call",
         "2124084365143732550": "No call",
         "2124199708671217979": "No call: bullish on crypto market (60%, too unsure)",
         "2124201919153307945": "TRADE LONG DRV, VVV, ZEC, HYPE, PUMP, BTC, PEARL",
@@ -1514,15 +1514,10 @@
         "2124257937887826364": "No call",
         "2124267820049674564": "No call",
         "2124269396155682940": "No call",
-        "2124272421314113667": "No call"
+        "2124272421314113667": "No call",
+        "2124277317782450670": "No call: bullish on ai coins (55%, too unsure)"
       },
       "replies": [
-        {
-          "created_at": "2026-11-21T20:25:32.000Z",
-          "id": "2124237801105522793",
-          "reply_to_id": "2124237200309268789",
-          "text": "@DjGriffith see you in the arena brotha"
-        },
         {
           "created_at": "2026-11-21T20:25:51.000Z",
           "id": "2124237879241294233",
@@ -1609,13 +1604,15 @@
           "id": "2124271209202245893",
           "reply_to_id": "2124270705772552353",
           "text": "@trunoest give me a list ill boost the best"
+        },
+        {
+          "created_at": "2026-11-21T23:04:04.000Z",
+          "id": "2124277696842936482",
+          "reply_to_id": "2124268988116902351",
+          "text": "@notwashed you dont need to be doxxed for the social trading thesis to hold tho"
         }
       ],
       "threads": {
-        "2121948297845686312": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122046665632911597": {
           "alerted": [],
           "self_replies": 0
@@ -2027,10 +2024,13 @@
         "2124272421314113667": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124277317782450670": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123987708272164934": false,
         "2123988281285284217": true,
         "2124084365143732550": true,
         "2124199708671217979": true,
@@ -2043,7 +2043,6 @@
         "2124218317808222407": true,
         "2124231947857846634": true,
         "2124232350347538787": true,
-        "2124237801105522793": false,
         "2124237879241294233": false,
         "2124239439484289439": false,
         "2124243880082063636": false,
@@ -2064,7 +2063,9 @@
         "2124269396155682940": true,
         "2124271154336522555": false,
         "2124271209202245893": false,
-        "2124272421314113667": false
+        "2124272421314113667": false,
+        "2124277317782450670": true,
+        "2124277696842936482": true
       },
       "user_id": "973261472"
     },
@@ -7444,5 +7445,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-21T22:44:25+00:00"
+  "updated_at": "2026-11-21T23:04:26+00:00"
 }
