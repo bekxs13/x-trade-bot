@@ -1157,7 +1157,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124006481578111081",
+      "last_id": "2124084365143732550",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1273,11 +1273,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T19:54:42.000Z",
-          "id": "2123867650149228862",
-          "text": "nvidia 128 wow man"
-        },
         {
           "created_at": "2026-11-20T20:25:50.000Z",
           "id": "2123875487911141507",
@@ -1396,10 +1391,17 @@
           "id": "2123988281285284217",
           "reply_to_id": "2123988145041797133",
           "text": "@fomocapdao i wonder if anthropic is a long on war escalation"
+        },
+        {
+          "created_at": "2026-11-21T10:15:50.000Z",
+          "id": "2124084365143732550",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2124084031314939904/img/FWUp4wGG4FLLOJ-b.jpg"
+          ],
+          "text": "back in 2024, i talked about one of the biggest mistakes i made during the previous cycle\n\ni lost money in 2022 partly because i was spending hours every day staring at charts, completely consumed by crypto and neglecting my life outside the market\n\none thing i've learned is how important it is to maintain relationships and routines that have nothing to do with trading\n\nyou can spend years building wealth in crypto, but you also need to build a life you can return to when it's time to step away from the screens"
         }
       ],
       "reads": {
-        "2123867650149228862": "No call",
         "2123875487911141507": "TRADE TRIM HYPE",
         "2123876873843384611": "No call",
         "2123878160626520257": "No call",
@@ -1415,7 +1417,8 @@
         "2123971181086945294": "No call",
         "2123971230059380776": "No call",
         "2123971314104905753": "No call",
-        "2123987708272164934": "No call"
+        "2123987708272164934": "No call",
+        "2124084365143732550": "No call"
       },
       "replies": [
         {
@@ -1513,10 +1516,6 @@
         }
       ],
       "threads": {
-        "2121734010774732976": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121748051890979000": {
           "alerted": [],
           "self_replies": 0
@@ -1930,10 +1929,13 @@
         "2123987708272164934": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124084365143732550": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123867650149228862": true,
         "2123875487911141507": true,
         "2123876873843384611": true,
         "2123878160626520257": false,
@@ -1967,7 +1969,8 @@
         "2124001780271026556": false,
         "2124002263844925928": false,
         "2124002539624382946": false,
-        "2124006481578111081": false
+        "2124006481578111081": false,
+        "2124084365143732550": true
       },
       "user_id": "973261472"
     },
@@ -7347,5 +7350,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-21T09:30:20+00:00"
+  "updated_at": "2026-11-21T10:16:26+00:00"
 }
