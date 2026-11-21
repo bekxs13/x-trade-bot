@@ -1171,7 +1171,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124231297157533972",
+      "last_id": "2124232350347538787",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1368,18 +1368,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-21T00:25:20.000Z",
-          "id": "2123935760428478942",
-          "reply_to_id": "2123935671886753921",
-          "text": "@farokh v hard to be bullish btc with gold + equities nuking &amp; dollar ripping imo"
-        },
-        {
-          "created_at": "2026-11-21T02:27:47.000Z",
-          "id": "2123966574969094176",
-          "reply_to_id": "2114907458938278139",
-          "text": "@imperooterxbt closer now \ud83d\udc4d\ud83c\udffe"
-        },
-        {
           "created_at": "2026-11-21T02:41:53.000Z",
           "id": "2123970124898275829",
           "text": "zcash nuking is a leading indicator for the israel-iran conflict"
@@ -1485,6 +1473,23 @@
           "created_at": "2026-11-21T19:08:07.000Z",
           "id": "2124218317808222407",
           "text": "pretty crazy @papertrade_xyz has paid out $71M in $PAPER staker rewards in the first month"
+        },
+        {
+          "created_at": "2026-11-21T20:02:17.000Z",
+          "id": "2124231947857846634",
+          "images": [
+            "https://pbs.twimg.com/media/HXrJsp3XAAAJwxF.jpg",
+            "https://pbs.twimg.com/media/HXrJsqAWIAAgBDg.jpg",
+            "https://pbs.twimg.com/media/HXrJspzXkAAWEW0.jpg"
+          ],
+          "quoted_text": "60k 1500 60",
+          "text": "not too shabby if i do say so myself\n\n55k / 1538 / 64 https://t.co/VEuXv1C4zm https://t.co/A2n7cY2YiE"
+        },
+        {
+          "created_at": "2026-11-21T20:03:53.000Z",
+          "id": "2124232350347538787",
+          "quoted_text": "damn y'all are dumping anthropic and bidding onchain chatgpt? https://t.co/lHLWrpEPia",
+          "text": "correct https://t.co/N6OaZT9Ois"
         }
       ],
       "reads": {
@@ -1503,15 +1508,11 @@
         "2124206090443428006": "No call",
         "2124206230809767938": "No call",
         "2124207827178676262": "No call",
-        "2124218317808222407": "No call: bullish on PAPER (65%, too unsure)"
+        "2124218317808222407": "No call: bullish on PAPER (65%, too unsure)",
+        "2124231947857846634": "No call",
+        "2124232350347538787": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-21T18:09:38.000Z",
-          "id": "2124203600457220394",
-          "reply_to_id": "2124126150356300040",
-          "text": "@PeterSchiff how the fuck do you make this post and not mention zcash is beyond me"
-        },
         {
           "created_at": "2026-11-21T18:20:25.000Z",
           "id": "2124206314889093613",
@@ -1598,17 +1599,15 @@
           "id": "2124231297157533972",
           "reply_to_id": "2124230473744323025",
           "text": "@nacipty why"
+        },
+        {
+          "created_at": "2026-11-21T20:03:03.000Z",
+          "id": "2124232139864440841",
+          "reply_to_id": "2124207373669781967",
+          "text": "@Saint10Fourteen god damn my legs are long"
         }
       ],
       "threads": {
-        "2121925527246139854": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2121929768023310813": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121931459783201053": {
           "alerted": [
             "trade:BTC:exit"
@@ -2018,11 +2017,17 @@
         "2124218317808222407": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124231947857846634": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2124232350347538787": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123935760428478942": true,
-        "2123966574969094176": false,
         "2123970124898275829": true,
         "2123970241549959423": true,
         "2123970436090491063": true,
@@ -2035,7 +2040,6 @@
         "2124084365143732550": true,
         "2124199708671217979": true,
         "2124201919153307945": true,
-        "2124203600457220394": true,
         "2124206046436618586": false,
         "2124206090443428006": true,
         "2124206230809767938": true,
@@ -2055,7 +2059,10 @@
         "2124230893359497704": false,
         "2124231022984179965": false,
         "2124231081712812499": true,
-        "2124231297157533972": false
+        "2124231297157533972": false,
+        "2124231947857846634": true,
+        "2124232139864440841": false,
+        "2124232350347538787": true
       },
       "user_id": "973261472"
     },
@@ -7435,5 +7442,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-21T20:00:29+00:00"
+  "updated_at": "2026-11-21T20:04:31+00:00"
 }
