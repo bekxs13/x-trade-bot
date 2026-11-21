@@ -1173,7 +1173,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124249452995027006",
+      "last_id": "2124250643762176027",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1517,12 +1517,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-21T19:09:46.000Z",
-          "id": "2124218730402165009",
-          "reply_to_id": "2124181047139004558",
-          "text": "@ColdBloodShill what do you think about space x"
-        },
-        {
           "created_at": "2026-11-21T19:27:47.000Z",
           "id": "2124223264239309261",
           "reply_to_id": "2124133819238244725",
@@ -1608,6 +1602,12 @@
           "id": "2124243880082063636",
           "reply_to_id": "2124163647757005025",
           "text": "@Aatishfishann ?"
+        },
+        {
+          "created_at": "2026-11-21T21:16:34.000Z",
+          "id": "2124250643762176027",
+          "reply_to_id": "2124250234457063616",
+          "text": "@Pumpfun can you guys make it so i can open multiple different isolated positions on the same asset, via HL sub accounts or smth"
         }
       ],
       "threads": {
@@ -2045,7 +2045,6 @@
         "2124206667206455711": false,
         "2124207827178676262": false,
         "2124218317808222407": true,
-        "2124218730402165009": true,
         "2124223264239309261": false,
         "2124227055541690499": true,
         "2124228767409229958": false,
@@ -2063,7 +2062,8 @@
         "2124237879241294233": false,
         "2124239439484289439": false,
         "2124243880082063636": false,
-        "2124249452995027006": true
+        "2124249452995027006": true,
+        "2124250643762176027": true
       },
       "user_id": "973261472"
     },
@@ -7443,5 +7443,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-21T21:12:29+00:00"
+  "updated_at": "2026-11-21T21:18:21+00:00"
 }
