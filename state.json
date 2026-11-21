@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2124265239940333784",
+      "last_id": "2124272089486270490",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,12 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T00:07:40.000Z",
-          "id": "2123568924906463609",
-          "quoted_text": "This has been an insane tape. Buying the dip seems like it's been proven to be a fools errand. let's call a spade a spade here!\n\nit's been difficult for EVERYONE, so don't feel as if it's just tough on you! let's dive in and look at what's going on:",
-          "text": "Spx 7300 0dte 30x today, there\u2019s always a bull market somewhere https://t.co/Xmx4ytWHJS"
-        },
         {
           "created_at": "2026-11-20T00:59:19.000Z",
           "id": "2123581925713641687",
@@ -340,10 +334,14 @@
           "created_at": "2026-11-21T22:14:34.000Z",
           "id": "2124265239940333784",
           "text": "GTA 6 gave me an uncontrollable urge to climb on top of my crib and start fixing the roof IRL"
+        },
+        {
+          "created_at": "2026-11-21T22:41:47.000Z",
+          "id": "2124272089486270490",
+          "text": "https://t.co/Ck9Fdx272g"
         }
       ],
       "reads": {
-        "2123568924906463609": "VIEW bearish on stocks/macro",
         "2123581925713641687": "No call",
         "2123584377884143880": "No call",
         "2123594208934277570": "No call: bearish on semis/ai stocks (same view as before)",
@@ -361,7 +359,8 @@
         "2124223559061115205": "No call",
         "2124239896202321990": "No call",
         "2124242182525845613": "No call",
-        "2124265239940333784": "No call"
+        "2124265239940333784": "No call",
+        "2124272089486270490": "No call"
       },
       "replies": [
         {
@@ -459,10 +458,6 @@
         }
       ],
       "threads": {
-        "2120432883064266933": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120626662312460541": {
           "alerted": [],
           "self_replies": 0
@@ -867,11 +862,14 @@
         "2124265239940333784": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124272089486270490": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2123566360106242370": true,
-        "2123568924906463609": true,
         "2123580883315855667": false,
         "2123581426625077408": false,
         "2123581925713641687": true,
@@ -904,7 +902,8 @@
         "2124227864476434748": false,
         "2124239896202321990": false,
         "2124242182525845613": false,
-        "2124265239940333784": false
+        "2124265239940333784": false,
+        "2124272089486270490": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7445,5 +7444,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-21T22:40:28+00:00"
+  "updated_at": "2026-11-21T22:42:21+00:00"
 }
