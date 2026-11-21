@@ -2373,7 +2373,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2124016123586740573",
+      "last_id": "2124019541462413797",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2409,12 +2409,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T14:47:09.000Z",
-          "id": "2123790254415221129",
-          "quoted_text": "@__alpoge__   ftw ? https://t.co/dXa31MWbvT",
-          "text": "what https://t.co/E2y53XudgQ"
-        },
         {
           "created_at": "2026-11-20T15:30:14.000Z",
           "id": "2123801098163277836",
@@ -2541,10 +2535,15 @@
           ],
           "reply_to_id": "2124000938121683246",
           "text": "https://t.co/mXfyLA6MOB"
+        },
+        {
+          "created_at": "2026-11-21T05:58:15.000Z",
+          "id": "2124019541462413797",
+          "quoted_text": "@hopes_revenge i'm trying to time my san francisco visit to the absolute stock market peak",
+          "text": "FUCK ME visited labor day weekend 2026 and totally forgot about this https://t.co/wcJoOrV9en"
         }
       ],
       "reads": {
-        "2123790254415221129": "No call",
         "2123801098163277836": "No call",
         "2123804120062836984": "No call",
         "2123834155574395280": "No call",
@@ -2562,7 +2561,8 @@
         "2124000938121683246": "No call",
         "2124001290762047674": "No call",
         "2124008458756432215": "No call",
-        "2124009076883370159": "No call"
+        "2124009076883370159": "No call",
+        "2124019541462413797": "No call"
       },
       "replies": [
         {
@@ -2657,10 +2657,6 @@
         }
       ],
       "threads": {
-        "2118304708884574447": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2118353125497295162": {
           "alerted": [],
           "self_replies": 1
@@ -3058,10 +3054,13 @@
         "2124008458756432215": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124019541462413797": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123790254415221129": false,
         "2123801098163277836": false,
         "2123804120062836984": true,
         "2123834155574395280": true,
@@ -3095,7 +3094,8 @@
         "2124010501357154563": false,
         "2124010564058009779": false,
         "2124012100788031507": false,
-        "2124016123586740573": false
+        "2124016123586740573": false,
+        "2124019541462413797": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7347,5 +7347,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-21T05:46:28+00:00"
+  "updated_at": "2026-11-21T06:00:34+00:00"
 }
