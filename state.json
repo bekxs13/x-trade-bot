@@ -939,12 +939,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2123604677149212884",
-          "reason": "Cites the Qs, gold and NVDA breaking down and dollar strength, says it's unwise to bid crypto majors in size, and plans to derisk into any bounce.",
+          "post_id": "2124201919153307945",
+          "reason": "\"still lean bearish with preference for having more cash\" while saying the easy part of the downtrend is over. He is only playing a bounce, so the broader bearish view on crypto stands.",
           "scope": "crypto market",
           "since": "2026-11-13",
           "stance": "bearish",
-          "updated_at": "2026-11-20T02:29:44.000Z"
+          "updated_at": "2026-11-21T18:02:57.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -1154,10 +1154,25 @@
           "opened": "",
           "partial": false,
           "structure": ""
+        },
+        {
+          "asset": "HYPE",
+          "close_price": 60.75,
+          "close_url": "https://x.com/blknoiz06/status/2124201919153307945",
+          "closed": "2026-11-21T18:02:57.000Z",
+          "direction": "short",
+          "flipped": true,
+          "market": "crypto",
+          "move": 11.5,
+          "open_price": 68.675,
+          "open_url": "https://x.com/blknoiz06/status/2123490518277476441",
+          "opened": "2026-11-19T18:56:06.000Z",
+          "partial": false,
+          "structure": "unknown"
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124199708671217979",
+      "last_id": "2124201919153307945",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1181,15 +1196,31 @@
           "confidence": 0.75,
           "contract_address": "",
           "direction": "long",
-          "entry": "58-61k",
-          "horizon": "bounce before eoy",
+          "entry": "",
+          "horizon": "bounce into end of year",
           "market": "crypto",
           "open_price": 63042.23,
-          "post_id": "2123114160481337656",
-          "reason": "\"will try bidding 58-61k for a bounce before eoy\" on the BTC daily chart is a planned long entry with limit bids, not yet filled.",
+          "post_id": "2124201919153307945",
+          "reason": "\"gonna try to bid for a bounce this week\" followed by a basket list of DRV, VVV, ZEC, HYPE, PUMP, BTC and PEARL. It is stated intent to buy the basket for a bounce, which also flips the recorded HYPE short.",
           "since": "2026-11-18T18:00:36.000Z",
-          "structure": "unknown",
-          "url": "https://x.com/blknoiz06/status/2123114160481337656"
+          "structure": "spot",
+          "url": "https://x.com/blknoiz06/status/2124201919153307945"
+        },
+        "DRV": {
+          "asset": "DRV",
+          "chain": "",
+          "confidence": 0.75,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "bounce into end of year",
+          "market": "crypto",
+          "open_price": null,
+          "post_id": "2124201919153307945",
+          "reason": "\"gonna try to bid for a bounce this week\" followed by a basket list of DRV, VVV, ZEC, HYPE, PUMP, BTC and PEARL. It is stated intent to buy the basket for a bounce, which also flips the recorded HYPE short.",
+          "since": "2026-11-21T18:02:57.000Z",
+          "structure": "spot",
+          "url": "https://x.com/blknoiz06/status/2124201919153307945"
         },
         "GRASS": {
           "asset": "GRASS",
@@ -1209,19 +1240,19 @@
         },
         "HYPE": {
           "asset": "HYPE",
-          "chain": "other",
-          "confidence": 0.72,
+          "chain": "",
+          "confidence": 0.75,
           "contract_address": "",
-          "direction": "short",
-          "entry": "69",
-          "horizon": "swing; stop 72, target 55",
+          "direction": "long",
+          "entry": "",
+          "horizon": "bounce into end of year",
           "market": "crypto",
-          "open_price": 68.675,
-          "post_id": "2123490518277476441",
-          "reason": "Explicitly calls a short setup on HYPE at 69 with a stop at 72 and a target of 55. The phrasing \"think u can\" makes it a called setup rather than a disclosed position.",
-          "since": "2026-11-19T18:56:06.000Z",
-          "structure": "unknown",
-          "url": "https://x.com/blknoiz06/status/2123490518277476441"
+          "open_price": 60.75,
+          "post_id": "2124201919153307945",
+          "reason": "\"gonna try to bid for a bounce this week\" followed by a basket list of DRV, VVV, ZEC, HYPE, PUMP, BTC and PEARL. It is stated intent to buy the basket for a bounce, which also flips the recorded HYPE short.",
+          "since": "2026-11-21T18:02:57.000Z",
+          "structure": "spot",
+          "url": "https://x.com/blknoiz06/status/2124201919153307945"
         },
         "MIHAO": {
           "asset": "mihao",
@@ -1255,6 +1286,54 @@
           "structure": "unknown",
           "url": "https://x.com/blknoiz06/status/2120967022272008380"
         },
+        "PEARL": {
+          "asset": "PEARL",
+          "chain": "",
+          "confidence": 0.75,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "bounce into end of year",
+          "market": "crypto",
+          "open_price": null,
+          "post_id": "2124201919153307945",
+          "reason": "\"gonna try to bid for a bounce this week\" followed by a basket list of DRV, VVV, ZEC, HYPE, PUMP, BTC and PEARL. It is stated intent to buy the basket for a bounce, which also flips the recorded HYPE short.",
+          "since": "2026-11-21T18:02:57.000Z",
+          "structure": "spot",
+          "url": "https://x.com/blknoiz06/status/2124201919153307945"
+        },
+        "PUMP": {
+          "asset": "PUMP",
+          "chain": "",
+          "confidence": 0.75,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "bounce into end of year",
+          "market": "crypto",
+          "open_price": null,
+          "post_id": "2124201919153307945",
+          "reason": "\"gonna try to bid for a bounce this week\" followed by a basket list of DRV, VVV, ZEC, HYPE, PUMP, BTC and PEARL. It is stated intent to buy the basket for a bounce, which also flips the recorded HYPE short.",
+          "since": "2026-11-21T18:02:57.000Z",
+          "structure": "spot",
+          "url": "https://x.com/blknoiz06/status/2124201919153307945"
+        },
+        "VVV": {
+          "asset": "VVV",
+          "chain": "",
+          "confidence": 0.75,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "bounce into end of year",
+          "market": "crypto",
+          "open_price": null,
+          "post_id": "2124201919153307945",
+          "reason": "\"gonna try to bid for a bounce this week\" followed by a basket list of DRV, VVV, ZEC, HYPE, PUMP, BTC and PEARL. It is stated intent to buy the basket for a bounce, which also flips the recorded HYPE short.",
+          "since": "2026-11-21T18:02:57.000Z",
+          "structure": "spot",
+          "url": "https://x.com/blknoiz06/status/2124201919153307945"
+        },
         "XAU": {
           "asset": "XAU",
           "chain": "",
@@ -1270,17 +1349,25 @@
           "since": "2026-11-06T17:34:36.000Z",
           "structure": "spot",
           "url": "https://x.com/blknoiz06/status/2118758965177880768"
+        },
+        "ZEC": {
+          "asset": "ZEC",
+          "chain": "",
+          "confidence": 0.75,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "bounce into end of year",
+          "market": "crypto",
+          "open_price": null,
+          "post_id": "2124201919153307945",
+          "reason": "\"gonna try to bid for a bounce this week\" followed by a basket list of DRV, VVV, ZEC, HYPE, PUMP, BTC and PEARL. It is stated intent to buy the basket for a bounce, which also flips the recorded HYPE short.",
+          "since": "2026-11-21T18:02:57.000Z",
+          "structure": "spot",
+          "url": "https://x.com/blknoiz06/status/2124201919153307945"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T20:31:21.000Z",
-          "id": "2123876873843384611",
-          "images": [
-            "https://pbs.twimg.com/media/HXmGvvmXgAEa1nw.jpg"
-          ],
-          "text": "just indiscriminate selling https://t.co/pDWu351Qtk"
-        },
         {
           "created_at": "2026-11-20T20:36:27.000Z",
           "id": "2123878160626520257",
@@ -1398,10 +1485,14 @@
           "created_at": "2026-11-21T17:54:10.000Z",
           "id": "2124199708671217979",
           "text": "feels like a bottom"
+        },
+        {
+          "created_at": "2026-11-21T18:02:57.000Z",
+          "id": "2124201919153307945",
+          "text": "gonna try to bid for a bounce this week\n\n$DRV - options onchain picking up momentum with revenue inflecting up\n\n$VVV - ai breakout consumer app + privacy narrative with attention on anthropic ipo at 1/1000th price\n\n$ZEC - retested key weekly support 700-750 & prior all time high, leader of this bull in crypto & most likely to get bid as risk beta\n\n$HYPE - equity perps supercycle + range lows retest\n\n$PUMP - crushing mobile app distro & now have perps + pred markets functionality, cash heavy balance sheet for marketing & callout rewards should be strong incentive for new traders\n\n$BTC - respect the king\n\n$PEARL - ai bitcoin\n\nbeen mostly short past month but think easy part of downtrend is over now, dunno if local low or longterm low but still lean bearish with preference for having more cash & will play for bounce into end of year to re evaluate"
         }
       ],
       "reads": {
-        "2123876873843384611": "No call",
         "2123878160626520257": "No call",
         "2123880234303062051": "No call",
         "2123907939966861741": "No call: bearish on stocks/macro (60%, too unsure)",
@@ -1417,7 +1508,8 @@
         "2123971314104905753": "No call",
         "2123987708272164934": "No call",
         "2124084365143732550": "No call",
-        "2124199708671217979": "No call: bullish on crypto market (60%, too unsure)"
+        "2124199708671217979": "No call: bullish on crypto market (60%, too unsure)",
+        "2124201919153307945": "TRADE LONG DRV, VVV, ZEC, HYPE, PUMP, BTC, PEARL"
       },
       "replies": [
         {
@@ -1515,10 +1607,6 @@
         }
       ],
       "threads": {
-        "2121748157814231115": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121750150615814641": {
           "alerted": [],
           "self_replies": 0
@@ -1932,10 +2020,15 @@
         "2124199708671217979": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124201919153307945": {
+          "alerted": [
+            "trade:DRV, VVV, ZEC, HYPE, PUMP, BTC, PEARL:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123876873843384611": true,
         "2123878160626520257": false,
         "2123880234303062051": true,
         "2123907939966861741": true,
@@ -1969,7 +2062,8 @@
         "2124002539624382946": false,
         "2124006481578111081": false,
         "2124084365143732550": true,
-        "2124199708671217979": true
+        "2124199708671217979": true,
+        "2124201919153307945": true
       },
       "user_id": "973261472"
     },
@@ -7349,5 +7443,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-21T17:56:24+00:00"
+  "updated_at": "2026-11-21T18:04:31+00:00"
 }
