@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2124242182525845613",
+      "last_id": "2124265239940333784",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,11 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T23:58:45.000Z",
-          "id": "2123566680282743077",
-          "text": "Send the market low enough that people's parents stop paying for their Casa Cipriani memberships"
-        },
         {
           "created_at": "2026-11-20T00:07:40.000Z",
           "id": "2123568924906463609",
@@ -340,10 +335,14 @@
             "https://pbs.twimg.com/media/HXrTAEabcAAqcC1.jpg"
           ],
           "text": "https://t.co/PtM2zTxzVE"
+        },
+        {
+          "created_at": "2026-11-21T22:14:34.000Z",
+          "id": "2124265239940333784",
+          "text": "GTA 6 gave me an uncontrollable urge to climb on top of my crib and start fixing the roof IRL"
         }
       ],
       "reads": {
-        "2123566680282743077": "No call",
         "2123568924906463609": "VIEW bearish on stocks/macro",
         "2123581925713641687": "No call",
         "2123584377884143880": "No call",
@@ -361,7 +360,8 @@
         "2124223063755829526": "No call",
         "2124223559061115205": "No call",
         "2124239896202321990": "No call",
-        "2124242182525845613": "No call"
+        "2124242182525845613": "No call",
+        "2124265239940333784": "No call"
       },
       "replies": [
         {
@@ -459,10 +459,6 @@
         }
       ],
       "threads": {
-        "2120348380975251808": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120432883064266933": {
           "alerted": [],
           "self_replies": 0
@@ -867,11 +863,14 @@
         "2124242182525845613": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124265239940333784": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2123566360106242370": true,
-        "2123566680282743077": true,
         "2123568924906463609": true,
         "2123580883315855667": false,
         "2123581426625077408": false,
@@ -904,7 +903,8 @@
         "2124223559061115205": true,
         "2124227864476434748": false,
         "2124239896202321990": false,
-        "2124242182525845613": false
+        "2124242182525845613": false,
+        "2124265239940333784": false
       },
       "user_id": "1446541960181858315"
     },
@@ -1173,7 +1173,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124263526181351603",
+      "last_id": "2124265412997042554",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1520,12 +1520,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-21T19:58:36.000Z",
-          "id": "2124231022984179965",
-          "reply_to_id": "2124205169013674433",
-          "text": "@inye3000 @axienfts dunno if this is a serious post but what exactly is a \"real holder\" are there phantom holders or something what is the alternative"
-        },
-        {
           "created_at": "2026-11-21T19:58:50.000Z",
           "id": "2124231081712812499",
           "reply_to_id": "2124212626297434388",
@@ -1611,6 +1605,12 @@
           ],
           "reply_to_id": "2124212840936726607",
           "text": "@alexxxx prepare yourself https://t.co/hH3fIOTeit"
+        },
+        {
+          "created_at": "2026-11-21T22:15:16.000Z",
+          "id": "2124265412997042554",
+          "reply_to_id": "2124261233218179168",
+          "text": "@RoaringKitty \ud83d\udc4d\ud83c\udffe"
         }
       ],
       "threads": {
@@ -2046,7 +2046,6 @@
         "2124206667206455711": false,
         "2124207827178676262": false,
         "2124218317808222407": true,
-        "2124231022984179965": false,
         "2124231081712812499": true,
         "2124231297157533972": false,
         "2124231947857846634": true,
@@ -2066,7 +2065,8 @@
         "2124259163547238693": true,
         "2124259591353749724": false,
         "2124260532848865650": false,
-        "2124263526181351603": false
+        "2124263526181351603": false,
+        "2124265412997042554": false
       },
       "user_id": "973261472"
     },
@@ -7446,5 +7446,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-21T22:08:33+00:00"
+  "updated_at": "2026-11-21T22:16:27+00:00"
 }
