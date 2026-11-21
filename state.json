@@ -1172,7 +1172,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124207406129324134",
+      "last_id": "2124207827178676262",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1369,14 +1369,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-20T23:13:30.000Z",
-          "id": "2123917682906951870",
-          "images": [
-            "https://pbs.twimg.com/media/HXmqb2jboAASmab.jpg"
-          ],
-          "text": "bro dis shit deadass look like a shitcoin chart https://t.co/a8WdONkoFY"
-        },
-        {
           "created_at": "2026-11-20T23:33:42.000Z",
           "id": "2123922764361023733",
           "text": "what we buyin chat"
@@ -1485,10 +1477,18 @@
           "id": "2124206667206455711",
           "reply_to_id": "2124002263844925928",
           "text": "@Icebergy whatever you did thanks iceman"
+        },
+        {
+          "created_at": "2026-11-21T18:26:26.000Z",
+          "id": "2124207827178676262",
+          "images": [
+            "https://pbs.twimg.com/media/HXqzwvlXgAAEEgW.jpg"
+          ],
+          "reply_to_id": "2124206046436618586",
+          "text": "https://t.co/rSgKpMyImJ"
         }
       ],
       "reads": {
-        "2123917682906951870": "No call",
         "2123922764361023733": "No call",
         "2123970124898275829": "No call",
         "2123970241549959423": "No call",
@@ -1503,7 +1503,8 @@
         "2124201919153307945": "TRADE LONG DRV, VVV, ZEC, HYPE, PUMP, BTC, PEARL",
         "2124206046436618586": "No call",
         "2124206090443428006": "No call",
-        "2124206230809767938": "No call"
+        "2124206230809767938": "No call",
+        "2124207827178676262": "No call"
       },
       "replies": [
         {
@@ -2014,7 +2015,7 @@
         },
         "2124206046436618586": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2124206090443428006": {
           "alerted": [],
@@ -2026,7 +2027,6 @@
         }
       },
       "trading": {
-        "2123917682906951870": true,
         "2123922764361023733": true,
         "2123935760428478942": true,
         "2123966574969094176": false,
@@ -2060,7 +2060,8 @@
         "2124206230809767938": true,
         "2124206314889093613": false,
         "2124206667206455711": false,
-        "2124207406129324134": false
+        "2124207406129324134": false,
+        "2124207827178676262": false
       },
       "user_id": "973261472"
     },
@@ -7440,5 +7441,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-21T18:26:19+00:00"
+  "updated_at": "2026-11-21T18:28:20+00:00"
 }
