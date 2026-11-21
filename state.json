@@ -1157,7 +1157,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123971181086945294",
+      "last_id": "2123971314104905753",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1274,19 +1274,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-20T15:41:47.000Z",
-          "id": "2123804002345484760",
-          "text": "https://t.co/SCi17e7b4W"
-        },
-        {
-          "created_at": "2026-11-20T15:43:24.000Z",
-          "id": "2123804411705139593",
-          "images": [
-            "https://pbs.twimg.com/media/HXlE24ZXIAEqEEO.jpg"
-          ],
-          "text": "https://t.co/9H2PPCPfsX"
-        },
-        {
           "created_at": "2026-11-20T16:22:34.000Z",
           "id": "2123814265102499934",
           "text": "i cannot believe the fed is going to hike into this in two weeks"
@@ -1395,11 +1382,22 @@
           "created_at": "2026-11-21T02:46:05.000Z",
           "id": "2123971181086945294",
           "text": "nobody is even posting trades anymore its just silence on here"
+        },
+        {
+          "created_at": "2026-11-21T02:46:17.000Z",
+          "id": "2123971230059380776",
+          "images": [
+            "https://pbs.twimg.com/media/HXnck_3W0AAaXc8.jpg"
+          ],
+          "text": "testing https://t.co/0lqAM7Dml1"
+        },
+        {
+          "created_at": "2026-11-21T02:46:37.000Z",
+          "id": "2123971314104905753",
+          "text": "whats everyone drinking on this fine friday evening"
         }
       ],
       "reads": {
-        "2123804002345484760": "No call",
-        "2123804411705139593": "No call",
         "2123814265102499934": "No call: bearish on stocks/macro (same view as before)",
         "2123817121893450113": "VIEW bullish on ai stocks",
         "2123867650149228862": "No call",
@@ -1415,7 +1413,9 @@
         "2123970241549959423": "No call",
         "2123970436090491063": "No call",
         "2123971046764126410": "No call",
-        "2123971181086945294": "No call"
+        "2123971181086945294": "No call",
+        "2123971230059380776": "No call",
+        "2123971314104905753": "No call"
       },
       "replies": [
         {
@@ -1513,14 +1513,6 @@
         }
       ],
       "threads": {
-        "2121674279913972027": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2121719173319659586": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121721569257095633": {
           "alerted": [],
           "self_replies": 0
@@ -1930,11 +1922,17 @@
         "2123971181086945294": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123971230059380776": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2123971314104905753": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123804002345484760": false,
-        "2123804411705139593": false,
         "2123814265102499934": true,
         "2123817121893450113": true,
         "2123867650149228862": true,
@@ -1967,7 +1965,9 @@
         "2123970436090491063": true,
         "2123970618785722465": false,
         "2123971046764126410": true,
-        "2123971181086945294": true
+        "2123971181086945294": true,
+        "2123971230059380776": false,
+        "2123971314104905753": false
       },
       "user_id": "973261472"
     },
@@ -7349,5 +7349,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-21T02:46:29+00:00"
+  "updated_at": "2026-11-21T02:48:30+00:00"
 }
