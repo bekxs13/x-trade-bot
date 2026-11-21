@@ -1172,7 +1172,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124206230809767938",
+      "last_id": "2124206667206455711",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1369,15 +1369,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-20T23:10:33.000Z",
-          "id": "2123916941501022208",
-          "images": [
-            "https://pbs.twimg.com/media/HXmrM7iWAAAdgMs.jpg"
-          ],
-          "quoted_text": "gmihao\n\nif this doesnt work im genuinely pulling up on ansem irl and blowing my brains out in minecraft https://t.co/lzWHgIRjoZ",
-          "text": "gmihao brother we will weather the storm together https://t.co/lsFcKFPIA3 https://t.co/eiz2mafjSB"
-        },
-        {
           "created_at": "2026-11-20T23:13:30.000Z",
           "id": "2123917682906951870",
           "images": [
@@ -1488,10 +1479,15 @@
           "created_at": "2026-11-21T18:20:05.000Z",
           "id": "2124206230809767938",
           "text": "shill me your favorite memecoins"
+        },
+        {
+          "created_at": "2026-11-21T18:21:49.000Z",
+          "id": "2124206667206455711",
+          "reply_to_id": "2124002263844925928",
+          "text": "@Icebergy whatever you did thanks iceman"
         }
       ],
       "reads": {
-        "2123916941501022208": "No call",
         "2123917682906951870": "No call",
         "2123922764361023733": "No call",
         "2123970124898275829": "No call",
@@ -1510,12 +1506,6 @@
         "2124206230809767938": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-21T02:50:14.000Z",
-          "id": "2123972224495591699",
-          "reply_to_id": "2123615821473722754",
-          "text": "@AtlasTradez forty cents?! jesus christ man i thought i was bullish"
-        },
         {
           "created_at": "2026-11-21T02:51:10.000Z",
           "id": "2123972460794057052",
@@ -1605,6 +1595,12 @@
           "id": "2124203600457220394",
           "reply_to_id": "2124126150356300040",
           "text": "@PeterSchiff how the fuck do you make this post and not mention zcash is beyond me"
+        },
+        {
+          "created_at": "2026-11-21T18:20:25.000Z",
+          "id": "2124206314889093613",
+          "reply_to_id": "2124119760476557681",
+          "text": "@Saint10Fourteen yes."
         }
       ],
       "threads": {
@@ -2030,7 +2026,6 @@
         }
       },
       "trading": {
-        "2123916941501022208": true,
         "2123917682906951870": true,
         "2123922764361023733": true,
         "2123935760428478942": true,
@@ -2042,7 +2037,6 @@
         "2123971181086945294": true,
         "2123971230059380776": false,
         "2123971314104905753": false,
-        "2123972224495591699": true,
         "2123972460794057052": false,
         "2123972984096633101": false,
         "2123973384581308682": true,
@@ -2064,7 +2058,9 @@
         "2124203600457220394": true,
         "2124206046436618586": false,
         "2124206090443428006": true,
-        "2124206230809767938": true
+        "2124206230809767938": true,
+        "2124206314889093613": false,
+        "2124206667206455711": false
       },
       "user_id": "973261472"
     },
@@ -7444,5 +7440,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-21T18:20:37+00:00"
+  "updated_at": "2026-11-21T18:22:18+00:00"
 }
