@@ -1171,7 +1171,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124237879241294233",
+      "last_id": "2124239439484289439",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1368,11 +1368,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-21T02:41:53.000Z",
-          "id": "2123970124898275829",
-          "text": "zcash nuking is a leading indicator for the israel-iran conflict"
-        },
-        {
           "created_at": "2026-11-21T02:42:21.000Z",
           "id": "2123970241549959423",
           "quoted_text": "zcash nuking is a leading indicator for the israel-iran conflict",
@@ -1490,10 +1485,15 @@
           "id": "2124232350347538787",
           "quoted_text": "damn y'all are dumping anthropic and bidding onchain chatgpt? https://t.co/lHLWrpEPia",
           "text": "correct https://t.co/N6OaZT9Ois"
+        },
+        {
+          "created_at": "2026-11-21T20:32:03.000Z",
+          "id": "2124239439484289439",
+          "quoted_text": "thank you Z https://t.co/qr53Ql5PvI https://t.co/8Ua2RwqXEL",
+          "text": "bink https://t.co/H8Hl0tnuMa"
         }
       ],
       "reads": {
-        "2123970124898275829": "No call",
         "2123970241549959423": "No call",
         "2123970436090491063": "No call",
         "2123971046764126410": "No call",
@@ -1510,7 +1510,8 @@
         "2124207827178676262": "No call",
         "2124218317808222407": "No call: bullish on PAPER (65%, too unsure)",
         "2124231947857846634": "No call",
-        "2124232350347538787": "No call"
+        "2124232350347538787": "No call",
+        "2124239439484289439": "No call"
       },
       "replies": [
         {
@@ -1608,12 +1609,6 @@
         }
       ],
       "threads": {
-        "2121931459783201053": {
-          "alerted": [
-            "trade:BTC:exit"
-          ],
-          "self_replies": 0
-        },
         "2121934664642216434": {
           "alerted": [],
           "self_replies": 0
@@ -2025,10 +2020,13 @@
         "2124232350347538787": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124239439484289439": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123970124898275829": true,
         "2123970241549959423": true,
         "2123970436090491063": true,
         "2123971046764126410": true,
@@ -2062,7 +2060,8 @@
         "2124232350347538787": true,
         "2124232653389914115": false,
         "2124237801105522793": false,
-        "2124237879241294233": false
+        "2124237879241294233": false,
+        "2124239439484289439": false
       },
       "user_id": "973261472"
     },
@@ -7442,5 +7441,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-21T20:26:17+00:00"
+  "updated_at": "2026-11-21T20:32:37+00:00"
 }
