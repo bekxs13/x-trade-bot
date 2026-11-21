@@ -1157,7 +1157,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123970124898275829",
+      "last_id": "2123970618785722465",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1274,17 +1274,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-19T22:10:17.000Z",
-          "id": "2123539385690046902",
-          "quoted_text": "oh \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/vf3LyBeCp3 https://t.co/dwpm0NWWd3",
-          "text": "bro smoked me but i didnt lie https://t.co/XEghNcFndN"
-        },
-        {
-          "created_at": "2026-11-19T23:39:08.000Z",
-          "id": "2123561744119517315",
-          "text": "6 weeks ago all indices were at all time highs"
-        },
-        {
           "created_at": "2026-11-20T00:54:39.000Z",
           "id": "2123580750293512514",
           "text": "https://t.co/KwQdBJMiPv"
@@ -1398,11 +1387,20 @@
           "created_at": "2026-11-21T02:41:53.000Z",
           "id": "2123970124898275829",
           "text": "zcash nuking is a leading indicator for the israel-iran conflict"
+        },
+        {
+          "created_at": "2026-11-21T02:42:21.000Z",
+          "id": "2123970241549959423",
+          "quoted_text": "zcash nuking is a leading indicator for the israel-iran conflict",
+          "text": "geopolitics with ansem https://t.co/AEDdnTuXPJ"
+        },
+        {
+          "created_at": "2026-11-21T02:43:08.000Z",
+          "id": "2123970436090491063",
+          "text": "i mean how does this thing go from strongest asset in the whole space to limpdick wet toilet paper jeez louise"
         }
       ],
       "reads": {
-        "2123539385690046902": "No call",
-        "2123561744119517315": "No call",
         "2123580750293512514": "No call",
         "2123604677149212884": "No call: bearish on crypto market (same view as before)",
         "2123804002345484760": "No call",
@@ -1418,15 +1416,11 @@
         "2123916941501022208": "No call",
         "2123917682906951870": "No call",
         "2123922764361023733": "No call",
-        "2123970124898275829": "No call"
+        "2123970124898275829": "No call",
+        "2123970241549959423": "No call",
+        "2123970436090491063": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-20T20:46:33.000Z",
-          "id": "2123880700810269041",
-          "reply_to_id": "2123880565447254193",
-          "text": "@notthreadguy kinda just sitting here in silence watching tbh"
-        },
         {
           "created_at": "2026-11-20T20:55:23.000Z",
           "id": "2123882922478653773",
@@ -1513,17 +1507,15 @@
           "id": "2123967432851325272",
           "reply_to_id": "2123774218445684995",
           "text": "@udiWertheimer in V-recovery scenario what do you think bounces fastest"
+        },
+        {
+          "created_at": "2026-11-21T02:43:51.000Z",
+          "id": "2123970618785722465",
+          "reply_to_id": "2123968980150866060",
+          "text": "@udiWertheimer no google?"
         }
       ],
       "threads": {
-        "2121646170367758767": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2121647061778997539": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121648812066238964": {
           "alerted": [],
           "self_replies": 0
@@ -1933,11 +1925,17 @@
         "2123970124898275829": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123970241549959423": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2123970436090491063": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123539385690046902": false,
-        "2123561744119517315": true,
         "2123580750293512514": false,
         "2123604677149212884": true,
         "2123804002345484760": false,
@@ -1949,7 +1947,6 @@
         "2123876873843384611": true,
         "2123878160626520257": false,
         "2123880234303062051": true,
-        "2123880700810269041": false,
         "2123882922478653773": true,
         "2123900900259573880": true,
         "2123902024773415369": false,
@@ -1970,7 +1967,10 @@
         "2123955721322545434": false,
         "2123966574969094176": false,
         "2123967432851325272": true,
-        "2123970124898275829": true
+        "2123970124898275829": true,
+        "2123970241549959423": true,
+        "2123970436090491063": true,
+        "2123970618785722465": false
       },
       "user_id": "973261472"
     },
@@ -7352,5 +7352,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-21T02:42:24+00:00"
+  "updated_at": "2026-11-21T02:44:25+00:00"
 }
