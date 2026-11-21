@@ -1157,7 +1157,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2123988369076363658",
+      "last_id": "2124001780271026556",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1419,12 +1419,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-21T00:29:07.000Z",
-          "id": "2123936712028193161",
-          "reply_to_id": "2123936369873699295",
-          "text": "@frizzaud @farokh i mean theyre not reliant on btc at all look at hype/btc chart"
-        },
-        {
           "created_at": "2026-11-21T01:17:21.000Z",
           "id": "2123948849697804358",
           "images": [
@@ -1510,6 +1504,15 @@
           "id": "2123988369076363658",
           "reply_to_id": "2123987911578370499",
           "text": "@elchefdesol soon bro"
+        },
+        {
+          "created_at": "2026-11-21T04:47:41.000Z",
+          "id": "2124001780271026556",
+          "images": [
+            "https://pbs.twimg.com/media/HXn4XJyWQAAs1A-.jpg"
+          ],
+          "reply_to_id": "2123996120804393258",
+          "text": "@Tradermayne https://t.co/Mg7fKc4wAb"
         }
       ],
       "threads": {
@@ -1943,7 +1946,6 @@
         "2123917682906951870": true,
         "2123922764361023733": true,
         "2123935760428478942": true,
-        "2123936712028193161": true,
         "2123948849697804358": false,
         "2123952475648495883": true,
         "2123955721322545434": false,
@@ -1967,7 +1969,8 @@
         "2123987708272164934": false,
         "2123988145041797133": true,
         "2123988281285284217": true,
-        "2123988369076363658": false
+        "2123988369076363658": false,
+        "2124001780271026556": false
       },
       "user_id": "973261472"
     },
@@ -7344,5 +7347,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-21T04:46:30+00:00"
+  "updated_at": "2026-11-21T04:48:21+00:00"
 }
