@@ -1173,7 +1173,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124254615105315265",
+      "last_id": "2124255325687849020",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1520,12 +1520,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-21T19:27:47.000Z",
-          "id": "2124223264239309261",
-          "reply_to_id": "2124133819238244725",
-          "text": "@Fiskantes i think we're pretty entertaining"
-        },
-        {
           "created_at": "2026-11-21T19:42:50.000Z",
           "id": "2124227055541690499",
           "reply_to_id": "2123867936737939587",
@@ -1611,6 +1605,12 @@
           "id": "2124250643762176027",
           "reply_to_id": "2124250234457063616",
           "text": "@Pumpfun can you guys make it so i can open multiple different isolated positions on the same asset, via HL sub accounts or smth"
+        },
+        {
+          "created_at": "2026-11-21T21:35:11.000Z",
+          "id": "2124255325687849020",
+          "reply_to_id": "2124255044174553438",
+          "text": "@Mighty_Miwok cooking"
         }
       ],
       "threads": {
@@ -2047,7 +2047,6 @@
         "2124206667206455711": false,
         "2124207827178676262": false,
         "2124218317808222407": true,
-        "2124223264239309261": false,
         "2124227055541690499": true,
         "2124228767409229958": false,
         "2124229143101374533": true,
@@ -2066,7 +2065,8 @@
         "2124243880082063636": false,
         "2124249452995027006": true,
         "2124250643762176027": true,
-        "2124254615105315265": true
+        "2124254615105315265": true,
+        "2124255325687849020": false
       },
       "user_id": "973261472"
     },
@@ -7446,5 +7446,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-21T21:34:20+00:00"
+  "updated_at": "2026-11-21T21:38:22+00:00"
 }
