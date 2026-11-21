@@ -1173,7 +1173,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124255325687849020",
+      "last_id": "2124257570697175461",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1520,12 +1520,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-21T19:42:50.000Z",
-          "id": "2124227055541690499",
-          "reply_to_id": "2123867936737939587",
-          "text": "@ForecastFDN how is there no liquidations"
-        },
-        {
           "created_at": "2026-11-21T19:49:39.000Z",
           "id": "2124228767409229958",
           "reply_to_id": "2124214727337464119",
@@ -1611,6 +1605,12 @@
           "id": "2124255325687849020",
           "reply_to_id": "2124255044174553438",
           "text": "@Mighty_Miwok cooking"
+        },
+        {
+          "created_at": "2026-11-21T21:44:06.000Z",
+          "id": "2124257570697175461",
+          "reply_to_id": "2124256839567098050",
+          "text": "@polarster X will ban your account if you post anything from an app where you made money &amp; dont include the tag, doesnt matter if it wasnt a paid tweet or not if people report it as otherwise &amp; they can see the app paid you $$$"
         }
       ],
       "threads": {
@@ -2047,7 +2047,6 @@
         "2124206667206455711": false,
         "2124207827178676262": false,
         "2124218317808222407": true,
-        "2124227055541690499": true,
         "2124228767409229958": false,
         "2124229143101374533": true,
         "2124230723414761696": true,
@@ -2066,7 +2065,8 @@
         "2124249452995027006": true,
         "2124250643762176027": true,
         "2124254615105315265": true,
-        "2124255325687849020": false
+        "2124255325687849020": false,
+        "2124257570697175461": false
       },
       "user_id": "973261472"
     },
@@ -7446,5 +7446,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-21T21:38:22+00:00"
+  "updated_at": "2026-11-21T21:44:20+00:00"
 }
