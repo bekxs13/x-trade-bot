@@ -1173,7 +1173,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124265412997042554",
+      "last_id": "2124267820049674564",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1370,11 +1370,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-21T02:46:05.000Z",
-          "id": "2123971181086945294",
-          "text": "nobody is even posting trades anymore its just silence on here"
-        },
-        {
           "created_at": "2026-11-21T02:46:17.000Z",
           "id": "2123971230059380776",
           "images": [
@@ -1496,10 +1491,15 @@
           ],
           "quoted_text": "paid +$18k today for callouts on higher market cap tokens im already holding & winning perps trades, no new pairs or microcaps, bagworkers anonymous flywheel \n\nat this rate will be making ~$5M+/year from posting trades on pump, & this is at the bottom of the bear market\n\nstill working out kinks but high confidence social trading is the beginning of a supertrend for mobile apps, there is usually no real incentive for traders to share information, this makes it objectively +EV to do so",
           "text": "ex. $100k $BTC short on 10x leverage paid ~$7.8k &amp; profit from trade was ~$135k realized PNL\n\n$50k $SOL short on 20x leverage paid ~$6.4k &amp; profit from trade was ~$190k https://t.co/V3OQa1eNlI https://t.co/fNNKAtSMSB"
+        },
+        {
+          "created_at": "2026-11-21T22:24:49.000Z",
+          "id": "2124267820049674564",
+          "quoted_text": "we are in the first decade of an entirely new asset class that has onboarded approximately .01% of the population onchain &amp; you're getting liquidated trading the 5 minute chart because you're trying to make it in one month, focus",
+          "text": "one of my best posts tbh https://t.co/4qWQgfeqJb"
         }
       ],
       "reads": {
-        "2123971181086945294": "No call",
         "2123971230059380776": "No call",
         "2123971314104905753": "No call",
         "2123987708272164934": "No call",
@@ -1516,7 +1516,8 @@
         "2124239439484289439": "No call",
         "2124249452995027006": "No call",
         "2124254615105315265": "No call",
-        "2124257937887826364": "No call"
+        "2124257937887826364": "No call",
+        "2124267820049674564": "No call"
       },
       "replies": [
         {
@@ -1614,10 +1615,6 @@
         }
       ],
       "threads": {
-        "2121941806682341868": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121942589666451714": {
           "alerted": [],
           "self_replies": 0
@@ -2029,10 +2026,13 @@
         "2124257937887826364": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124267820049674564": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123971181086945294": true,
         "2123971230059380776": false,
         "2123971314104905753": false,
         "2123987708272164934": false,
@@ -2066,7 +2066,8 @@
         "2124259591353749724": false,
         "2124260532848865650": false,
         "2124263526181351603": false,
-        "2124265412997042554": false
+        "2124265412997042554": false,
+        "2124267820049674564": true
       },
       "user_id": "973261472"
     },
@@ -7446,5 +7447,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-21T22:16:27+00:00"
+  "updated_at": "2026-11-21T22:26:22+00:00"
 }
