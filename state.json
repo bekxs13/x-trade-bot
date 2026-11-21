@@ -1171,7 +1171,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124223264239309261",
+      "last_id": "2124227055541690499",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1507,12 +1507,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-21T03:53:30.000Z",
-          "id": "2123988145041797133",
-          "reply_to_id": "2123984532051521781",
-          "text": "@fomocapdao past three weeks in crypto &amp; equities have to be frontrunning something"
-        },
-        {
           "created_at": "2026-11-21T03:54:23.000Z",
           "id": "2123988369076363658",
           "reply_to_id": "2123987911578370499",
@@ -1601,6 +1595,12 @@
           "id": "2124223264239309261",
           "reply_to_id": "2124133819238244725",
           "text": "@Fiskantes i think we're pretty entertaining"
+        },
+        {
+          "created_at": "2026-11-21T19:42:50.000Z",
+          "id": "2124227055541690499",
+          "reply_to_id": "2123867936737939587",
+          "text": "@ForecastFDN how is there no liquidations"
         }
       ],
       "threads": {
@@ -2034,7 +2034,6 @@
         "2123971230059380776": false,
         "2123971314104905753": false,
         "2123987708272164934": false,
-        "2123988145041797133": true,
         "2123988281285284217": true,
         "2123988369076363658": false,
         "2124001780271026556": false,
@@ -2058,7 +2057,8 @@
         "2124216988398719219": true,
         "2124218317808222407": true,
         "2124218730402165009": true,
-        "2124223264239309261": false
+        "2124223264239309261": false,
+        "2124227055541690499": true
       },
       "user_id": "973261472"
     },
@@ -7438,5 +7438,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-21T19:30:25+00:00"
+  "updated_at": "2026-11-21T19:44:21+00:00"
 }
