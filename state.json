@@ -6580,7 +6580,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2123992554240938341",
+      "last_id": "2123995791224426979",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6632,14 +6632,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T19:58:30.000Z",
-          "id": "2123506218811433141",
-          "images": [
-            "https://pbs.twimg.com/media/HXg1fl1WUAAVyft.jpg"
-          ],
-          "text": "As soon as this absolute RAPIST is done selling his hundreds of thousands of Bitcoins we can bottom https://t.co/Z7hSVXvGEl"
-        },
         {
           "created_at": "2026-11-19T20:14:02.000Z",
           "id": "2123510128788078789",
@@ -6757,10 +6749,14 @@
           "created_at": "2026-11-21T04:11:01.000Z",
           "id": "2123992554240938341",
           "text": "The only way out is to print so all this price action is irrelevant, just try not to get liquidated"
+        },
+        {
+          "created_at": "2026-11-21T04:23:53.000Z",
+          "id": "2123995791224426979",
+          "text": "Who can intro me to the @openmarket_xyz founder"
         }
       ],
       "reads": {
-        "2123506218811433141": "No call: bearish on btc (55%, too unsure)",
         "2123510128788078789": "No call",
         "2123527295746834808": "No call",
         "2123539441520153037": "No call",
@@ -6779,7 +6775,8 @@
         "2123875464200818903": "No call: bearish on NVDA (60%, too unsure)",
         "2123882568290546109": "No call",
         "2123883834945011817": "No call",
-        "2123992554240938341": "No call"
+        "2123992554240938341": "No call",
+        "2123995791224426979": "No call"
       },
       "replies": [
         {
@@ -6877,10 +6874,6 @@
         }
       ],
       "threads": {
-        "2121714139894526394": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121714839186010514": {
           "alerted": [],
           "self_replies": 0
@@ -7288,6 +7281,10 @@
         "2123992554240938341": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2123995791224426979": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7305,7 +7302,6 @@
         "2123460741197930822": true,
         "2123463010849358127": true,
         "2123471825153806596": false,
-        "2123506218811433141": true,
         "2123510128788078789": true,
         "2123527295746834808": true,
         "2123539441520153037": true,
@@ -7325,7 +7321,8 @@
         "2123882568290546109": true,
         "2123883834945011817": true,
         "2123887084427727147": false,
-        "2123992554240938341": true
+        "2123992554240938341": true,
+        "2123995791224426979": false
       },
       "user_id": "809191427645181952"
     }
@@ -7348,5 +7345,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-20",
-  "updated_at": "2026-11-21T04:12:22+00:00"
+  "updated_at": "2026-11-21T04:24:24+00:00"
 }
