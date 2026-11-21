@@ -1157,7 +1157,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124084365143732550",
+      "last_id": "2124199708671217979",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1273,12 +1273,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T20:25:50.000Z",
-          "id": "2123875487911141507",
-          "quoted_text": "sm users say thank you @blknoiz06\n\ntrading is easy when you know the difference between genius money and stupid money\n\n$HYPE $68.3 -&gt; $59.7 in 24h. https://t.co/8JMd6GsXan",
-          "text": "can close half &amp; let rest tp partials from here to 55 imo https://t.co/WMKcp1m6Nl"
-        },
         {
           "created_at": "2026-11-20T20:31:21.000Z",
           "id": "2123876873843384611",
@@ -1399,10 +1393,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2124084031314939904/img/FWUp4wGG4FLLOJ-b.jpg"
           ],
           "text": "back in 2024, i talked about one of the biggest mistakes i made during the previous cycle\n\ni lost money in 2022 partly because i was spending hours every day staring at charts, completely consumed by crypto and neglecting my life outside the market\n\none thing i've learned is how important it is to maintain relationships and routines that have nothing to do with trading\n\nyou can spend years building wealth in crypto, but you also need to build a life you can return to when it's time to step away from the screens"
+        },
+        {
+          "created_at": "2026-11-21T17:54:10.000Z",
+          "id": "2124199708671217979",
+          "text": "feels like a bottom"
         }
       ],
       "reads": {
-        "2123875487911141507": "TRADE TRIM HYPE",
         "2123876873843384611": "No call",
         "2123878160626520257": "No call",
         "2123880234303062051": "No call",
@@ -1418,7 +1416,8 @@
         "2123971230059380776": "No call",
         "2123971314104905753": "No call",
         "2123987708272164934": "No call",
-        "2124084365143732550": "No call"
+        "2124084365143732550": "No call",
+        "2124199708671217979": "No call: bullish on crypto market (60%, too unsure)"
       },
       "replies": [
         {
@@ -1516,10 +1515,6 @@
         }
       ],
       "threads": {
-        "2121748051890979000": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121748157814231115": {
           "alerted": [],
           "self_replies": 0
@@ -1933,10 +1928,13 @@
         "2124084365143732550": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124199708671217979": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123875487911141507": true,
         "2123876873843384611": true,
         "2123878160626520257": false,
         "2123880234303062051": true,
@@ -1970,7 +1968,8 @@
         "2124002263844925928": false,
         "2124002539624382946": false,
         "2124006481578111081": false,
-        "2124084365143732550": true
+        "2124084365143732550": true,
+        "2124199708671217979": true
       },
       "user_id": "973261472"
     },
@@ -7350,5 +7349,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-21T17:04:21+00:00"
+  "updated_at": "2026-11-21T17:56:24+00:00"
 }
