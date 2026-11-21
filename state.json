@@ -1173,7 +1173,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124260532848865650",
+      "last_id": "2124263526181351603",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1520,12 +1520,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-21T19:58:05.000Z",
-          "id": "2124230893359497704",
-          "reply_to_id": "2124212774075318585",
-          "text": "@UnlessArt @axienfts just a guy with a twitter account"
-        },
-        {
           "created_at": "2026-11-21T19:58:36.000Z",
           "id": "2124231022984179965",
           "reply_to_id": "2124205169013674433",
@@ -1608,6 +1602,15 @@
           "id": "2124260532848865650",
           "reply_to_id": "2124260216426360962",
           "text": "@grok @Kingsedex01 @polarster thank you grok"
+        },
+        {
+          "created_at": "2026-11-21T22:07:46.000Z",
+          "id": "2124263526181351603",
+          "images": [
+            "https://pbs.twimg.com/media/HXrmaihXQAA-BIc.jpg"
+          ],
+          "reply_to_id": "2124212840936726607",
+          "text": "@alexxxx prepare yourself https://t.co/hH3fIOTeit"
         }
       ],
       "threads": {
@@ -2043,7 +2046,6 @@
         "2124206667206455711": false,
         "2124207827178676262": false,
         "2124218317808222407": true,
-        "2124230893359497704": false,
         "2124231022984179965": false,
         "2124231081712812499": true,
         "2124231297157533972": false,
@@ -2063,7 +2065,8 @@
         "2124257937887826364": true,
         "2124259163547238693": true,
         "2124259591353749724": false,
-        "2124260532848865650": false
+        "2124260532848865650": false,
+        "2124263526181351603": false
       },
       "user_id": "973261472"
     },
@@ -7443,5 +7446,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-21T21:56:17+00:00"
+  "updated_at": "2026-11-21T22:08:33+00:00"
 }
