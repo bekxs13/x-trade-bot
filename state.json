@@ -1175,7 +1175,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124499191766598074",
+      "last_id": "2124500054706634908",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1372,12 +1372,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-21T18:21:49.000Z",
-          "id": "2124206667206455711",
-          "reply_to_id": "2124002263844925928",
-          "text": "@Icebergy whatever you did thanks iceman"
-        },
-        {
           "created_at": "2026-11-21T18:26:26.000Z",
           "id": "2124207827178676262",
           "images": [
@@ -1510,6 +1504,14 @@
           "created_at": "2026-11-22T13:42:18.000Z",
           "id": "2124498709144797661",
           "text": "&amp; if majors stop nuking -5% a day maybe we can have fun onchain again"
+        },
+        {
+          "created_at": "2026-11-22T13:47:39.000Z",
+          "id": "2124500054706634908",
+          "images": [
+            "https://pbs.twimg.com/media/HXu9gMGWMAEJzZw.jpg"
+          ],
+          "text": "we gonna have to put up 81 to save this market https://t.co/VvznQsMD5W"
         }
       ],
       "reads": {
@@ -1531,7 +1533,8 @@
         "2124495693930721430": "No call",
         "2124497063773872582": "VIEW bullish on crypto market",
         "2124498504143823025": "No call",
-        "2124498709144797661": "No call"
+        "2124498709144797661": "No call",
+        "2124500054706634908": "No call"
       },
       "replies": [
         {
@@ -1626,10 +1629,6 @@
         }
       ],
       "threads": {
-        "2122351570415141333": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122352345610903599": {
           "alerted": [],
           "self_replies": 0
@@ -2041,10 +2040,13 @@
         "2124498709144797661": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124500054706634908": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124206667206455711": false,
         "2124207827178676262": false,
         "2124218317808222407": true,
         "2124231947857846634": true,
@@ -2078,7 +2080,8 @@
         "2124498621358059968": true,
         "2124498709144797661": true,
         "2124499140147134537": true,
-        "2124499191766598074": false
+        "2124499191766598074": false,
+        "2124500054706634908": true
       },
       "user_id": "973261472"
     },
@@ -7458,5 +7461,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-22T13:46:17+00:00"
+  "updated_at": "2026-11-22T13:48:33+00:00"
 }
