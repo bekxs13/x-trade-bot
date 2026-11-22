@@ -2495,7 +2495,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2124539904994824298",
+      "last_id": "2124540084464570817",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2531,14 +2531,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T15:42:15.000Z",
-          "id": "2123804120062836984",
-          "images": [
-            "https://pbs.twimg.com/media/HXlEfH1W4AAYl_X.jpg"
-          ],
-          "text": "everything down only market https://t.co/oB0vMAZYTf"
-        },
         {
           "created_at": "2026-11-20T17:41:36.000Z",
           "id": "2123834155574395280",
@@ -2659,10 +2651,15 @@
           "id": "2124539904994824298",
           "quoted_text": "The XYZ 100 (a token that tracks the NASDAQ 100 on Hyperliquid) is up 2.4% since Fridays' close. Going to be interesting to see how closely this aligns with the cash market. The $NVDA token is up 5.9%.",
           "text": "worth saying that qqq stock traded until friday at 8pm and was up 1.26% post close even then, so this doesn't seem all that crazy https://t.co/M2F9pKrl6m"
+        },
+        {
+          "created_at": "2026-11-22T16:26:42.000Z",
+          "id": "2124540084464570817",
+          "reply_to_id": "2124539904994824298",
+          "text": "likewise NVDA was already up 3.35%"
         }
       ],
       "reads": {
-        "2123804120062836984": "No call",
         "2123834155574395280": "No call",
         "2123862192973852710": "No call",
         "2123883657853104385": "No call",
@@ -2680,7 +2677,8 @@
         "2124008458756432215": "No call",
         "2124009076883370159": "No call",
         "2124019541462413797": "No call",
-        "2124539904994824298": "No call"
+        "2124539904994824298": "No call",
+        "2124540084464570817": "No call"
       },
       "replies": [
         {
@@ -3175,11 +3173,10 @@
         },
         "2124539904994824298": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2123804120062836984": true,
         "2123834155574395280": true,
         "2123862192973852710": true,
         "2123868975947756012": false,
@@ -3213,7 +3210,8 @@
         "2124186808195952744": false,
         "2124229116165796196": false,
         "2124294855543370230": false,
-        "2124539904994824298": true
+        "2124539904994824298": true,
+        "2124540084464570817": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7465,5 +7463,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-22T16:26:22+00:00"
+  "updated_at": "2026-11-22T16:28:25+00:00"
 }
