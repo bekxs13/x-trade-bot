@@ -1175,7 +1175,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124348634745753726",
+      "last_id": "2124349196689969299",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1522,18 +1522,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-22T00:14:06.000Z",
-          "id": "2124295320276554091",
-          "reply_to_id": "2124003086599627163",
-          "text": "@G_free9 why did they have a \"prime\" whats the difference now"
-        },
-        {
-          "created_at": "2026-11-22T00:25:12.000Z",
-          "id": "2124298114232168649",
-          "reply_to_id": "2124191919995781370",
-          "text": "@deredleritt3r what does it mean"
-        },
-        {
           "created_at": "2026-11-22T01:39:50.000Z",
           "id": "2124316894463398389",
           "images": [
@@ -1613,6 +1601,18 @@
           "id": "2124348634745753726",
           "reply_to_id": "2124328522059854312",
           "text": "@Chris_Insights i wanna buy Monday/Tuesday"
+        },
+        {
+          "created_at": "2026-11-22T03:47:06.000Z",
+          "id": "2124348925473927249",
+          "reply_to_id": "2124335528065577365",
+          "text": "@onetrickponzi @AstrologyCrypto https://t.co/uKUFtB0BbG https://t.co/6bEvE3ix27"
+        },
+        {
+          "created_at": "2026-11-22T03:48:11.000Z",
+          "id": "2124349196689969299",
+          "reply_to_id": "2124334148433354774",
+          "text": "@Goobswrld bottoms usually get a retest"
         }
       ],
       "threads": {
@@ -2053,8 +2053,6 @@
         "2124269396155682940": true,
         "2124272421314113667": false,
         "2124277317782450670": true,
-        "2124295320276554091": false,
-        "2124298114232168649": false,
         "2124316894463398389": true,
         "2124343870645260476": false,
         "2124344505432477952": true,
@@ -2068,7 +2066,9 @@
         "2124348144381247640": true,
         "2124348355392209299": false,
         "2124348454449082531": false,
-        "2124348634745753726": true
+        "2124348634745753726": true,
+        "2124348925473927249": false,
+        "2124349196689969299": true
       },
       "user_id": "973261472"
     },
@@ -6684,7 +6684,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2124346253504893118",
+      "last_id": "2124349093480685973",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6736,12 +6736,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T22:10:30.000Z",
-          "id": "2123539441520153037",
-          "quoted_text": "*CME CEO DUFFY CUTS DIRECT SHARE HOLDING BY 43% TO 35,442 SHARES: SEC FILING\n\n$CME",
-          "text": "Hyperliquid https://t.co/v1EFZTC5z8"
-        },
         {
           "created_at": "2026-11-20T01:44:20.000Z",
           "id": "2123593253245370721",
@@ -6855,10 +6849,17 @@
           "created_at": "2026-11-22T03:36:29.000Z",
           "id": "2124346253504893118",
           "text": "Soskaesque"
+        },
+        {
+          "created_at": "2026-11-22T03:47:47.000Z",
+          "id": "2124349093480685973",
+          "images": [
+            "https://pbs.twimg.com/media/HXs0DzuWwAE4Hf1.jpg"
+          ],
+          "text": "Crypto has trained itself to sniff out inflationary tokens.\n\nHere's a look at equity market issuance...\n\nCrypto traders have a good understanding of these dynamics. https://t.co/EJj0eeoHnD"
         }
       ],
       "reads": {
-        "2123539441520153037": "No call",
         "2123593253245370721": "No call: bearish on gold (same view as before)",
         "2123625384080003282": "No call",
         "2123639054046495080": "No call",
@@ -6877,7 +6878,8 @@
         "2123992554240938341": "No call",
         "2123995791224426979": "No call",
         "2124134470131327287": "No call",
-        "2124346253504893118": "No call"
+        "2124346253504893118": "No call",
+        "2124349093480685973": "No call: bearish on stocks/macro (65%, too unsure)"
       },
       "replies": [
         {
@@ -6975,10 +6977,6 @@
         }
       ],
       "threads": {
-        "2121719931095974394": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121724698899665065": {
           "alerted": [],
           "self_replies": 0
@@ -7386,6 +7384,10 @@
         "2124346253504893118": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124349093480685973": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7403,7 +7405,6 @@
         "2123460741197930822": true,
         "2123463010849358127": true,
         "2123471825153806596": false,
-        "2123539441520153037": true,
         "2123593253245370721": true,
         "2123625384080003282": true,
         "2123639054046495080": false,
@@ -7423,7 +7424,8 @@
         "2123992554240938341": true,
         "2123995791224426979": false,
         "2124134470131327287": false,
-        "2124346253504893118": false
+        "2124346253504893118": false,
+        "2124349093480685973": true
       },
       "user_id": "809191427645181952"
     }
@@ -7446,5 +7448,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-22T03:46:23+00:00"
+  "updated_at": "2026-11-22T03:48:25+00:00"
 }
