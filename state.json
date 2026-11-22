@@ -4861,7 +4861,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2124284973310161288",
+      "last_id": "2124321691887395060",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4913,11 +4913,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T16:12:31.000Z",
-          "id": "2123449349623480328",
-          "text": "nobody was long spacex on ipo"
-        },
         {
           "created_at": "2026-11-19T16:47:27.000Z",
           "id": "2123458140779770329",
@@ -5023,10 +5018,15 @@
           "created_at": "2026-11-20T20:27:23.000Z",
           "id": "2123875879034257633",
           "text": "welcome to nvda Collete Kress"
+        },
+        {
+          "created_at": "2026-11-22T01:58:53.000Z",
+          "id": "2124321691887395060",
+          "quoted_text": "\"The reason you can make so much money in trading is because the game is fucking hard\" https://t.co/6QusIe3tFC",
+          "text": "if you\u2019re willing to do it long enough, the market rewards you https://t.co/P75qRlc54S"
         }
       ],
       "reads": {
-        "2123449349623480328": "No call",
         "2123458140779770329": "No call",
         "2123468548404297959": "No call",
         "2123483360517337582": "No call",
@@ -5044,7 +5044,8 @@
         "2123859424334799336": "No call",
         "2123861753809318229": "No call",
         "2123866329526775990": "No call",
-        "2123875879034257633": "No call"
+        "2123875879034257633": "No call",
+        "2124321691887395060": "No call"
       },
       "replies": [
         {
@@ -5139,10 +5140,6 @@
         }
       ],
       "threads": {
-        "2118363176601330012": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118374667962417403": {
           "alerted": [],
           "self_replies": 0
@@ -5540,10 +5537,13 @@
         "2123875879034257633": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124321691887395060": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123449349623480328": true,
         "2123458140779770329": false,
         "2123468548404297959": false,
         "2123483360517337582": false,
@@ -5577,7 +5577,8 @@
         "2124236863808688244": false,
         "2124236983920709802": false,
         "2124251957669896416": false,
-        "2124284973310161288": false
+        "2124284973310161288": false,
+        "2124321691887395060": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7451,5 +7452,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-22T01:40:23+00:00"
+  "updated_at": "2026-11-22T02:00:27+00:00"
 }
