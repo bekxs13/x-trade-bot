@@ -2495,7 +2495,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2124294855543370230",
+      "last_id": "2124539904994824298",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2531,16 +2531,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T15:30:14.000Z",
-          "id": "2123801098163277836",
-          "images": [
-            "https://pbs.twimg.com/media/HXlB1OkWcAAjFCX.jpg",
-            "https://pbs.twimg.com/media/HXlB1OiWsAA4t2_.jpg",
-            "https://pbs.twimg.com/media/HXlB1OrWsAAKGxK.jpg"
-          ],
-          "text": "today's news: anthropic model solves riemman hypothesis https://t.co/Bjsch6TUnG"
-        },
         {
           "created_at": "2026-11-20T15:42:15.000Z",
           "id": "2123804120062836984",
@@ -2663,10 +2653,15 @@
           "id": "2124019541462413797",
           "quoted_text": "@hopes_revenge i'm trying to time my san francisco visit to the absolute stock market peak",
           "text": "FUCK ME visited labor day weekend 2026 and totally forgot about this https://t.co/wcJoOrV9en"
+        },
+        {
+          "created_at": "2026-11-22T16:26:00.000Z",
+          "id": "2124539904994824298",
+          "quoted_text": "The XYZ 100 (a token that tracks the NASDAQ 100 on Hyperliquid) is up 2.4% since Fridays' close. Going to be interesting to see how closely this aligns with the cash market. The $NVDA token is up 5.9%.",
+          "text": "worth saying that qqq stock traded until friday at 8pm and was up 1.26% post close even then, so this doesn't seem all that crazy https://t.co/M2F9pKrl6m"
         }
       ],
       "reads": {
-        "2123801098163277836": "No call",
         "2123804120062836984": "No call",
         "2123834155574395280": "No call",
         "2123862192973852710": "No call",
@@ -2684,7 +2679,8 @@
         "2124001290762047674": "No call",
         "2124008458756432215": "No call",
         "2124009076883370159": "No call",
-        "2124019541462413797": "No call"
+        "2124019541462413797": "No call",
+        "2124539904994824298": "No call"
       },
       "replies": [
         {
@@ -2779,10 +2775,6 @@
         }
       ],
       "threads": {
-        "2118353125497295162": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2118362882605805903": {
           "alerted": [],
           "self_replies": 0
@@ -3180,10 +3172,13 @@
         "2124019541462413797": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124539904994824298": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123801098163277836": false,
         "2123804120062836984": true,
         "2123834155574395280": true,
         "2123862192973852710": true,
@@ -3217,7 +3212,8 @@
         "2124122359627985077": false,
         "2124186808195952744": false,
         "2124229116165796196": false,
-        "2124294855543370230": false
+        "2124294855543370230": false,
+        "2124539904994824298": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7469,5 +7465,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-22T15:54:20+00:00"
+  "updated_at": "2026-11-22T16:26:22+00:00"
 }
