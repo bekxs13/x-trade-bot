@@ -1003,6 +1003,15 @@
           "stance": "bullish",
           "updated_at": "2026-11-05T23:38:00.000Z"
         },
+        "orcl": {
+          "market": "stocks",
+          "post_id": "2124521968317727086",
+          "reason": "Posts the ORCL weekly chart down 19% and says equities charts are 'just destruction' and it 'looks like a 100k topper', which reads as bearish on ORCL.",
+          "scope": "ORCL",
+          "since": "2026-11-22",
+          "stance": "bearish",
+          "updated_at": "2026-11-22T15:14:43.000Z"
+        },
         "paper": {
           "market": "crypto",
           "post_id": "2121079432320340262",
@@ -1175,7 +1184,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124520707274997835",
+      "last_id": "2124522230268744075",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1372,23 +1381,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-21T20:02:17.000Z",
-          "id": "2124231947857846634",
-          "images": [
-            "https://pbs.twimg.com/media/HXrJsp3XAAAJwxF.jpg",
-            "https://pbs.twimg.com/media/HXrJsqAWIAAgBDg.jpg",
-            "https://pbs.twimg.com/media/HXrJspzXkAAWEW0.jpg"
-          ],
-          "quoted_text": "60k 1500 60",
-          "text": "not too shabby if i do say so myself\n\n55k / 1538 / 64 https://t.co/VEuXv1C4zm https://t.co/A2n7cY2YiE"
-        },
-        {
-          "created_at": "2026-11-21T20:03:53.000Z",
-          "id": "2124232350347538787",
-          "quoted_text": "damn y'all are dumping anthropic and bidding onchain chatgpt? https://t.co/lHLWrpEPia",
-          "text": "correct https://t.co/N6OaZT9Ois"
-        },
-        {
           "created_at": "2026-11-21T20:32:03.000Z",
           "id": "2124239439484289439",
           "quoted_text": "thank you Z https://t.co/qr53Ql5PvI https://t.co/8Ua2RwqXEL",
@@ -1515,11 +1507,22 @@
           "id": "2124519879294267771",
           "quoted_text": "fully out here we prob bounce and chop from here and i really have no interest in longing right now https://t.co/ypHLyYF4z7 https://t.co/7Le92h59oZ",
           "text": "bros been on a heater https://t.co/u9znV4faSy"
+        },
+        {
+          "created_at": "2026-11-22T15:14:43.000Z",
+          "id": "2124521968317727086",
+          "images": [
+            "https://pbs.twimg.com/media/HXvRZL_WcAAIV2h.jpg"
+          ],
+          "text": "some of these equities charts are just destruction man this deadass looks like a 100k topper https://t.co/ivhVoMdqzh"
+        },
+        {
+          "created_at": "2026-11-22T15:15:46.000Z",
+          "id": "2124522230268744075",
+          "text": "how often do you use chatgpt/claude/venice"
         }
       ],
       "reads": {
-        "2124231947857846634": "No call",
-        "2124232350347538787": "No call",
         "2124239439484289439": "No call",
         "2124249452995027006": "No call",
         "2124254615105315265": "No call",
@@ -1537,7 +1540,9 @@
         "2124498709144797661": "No call",
         "2124500054706634908": "No call",
         "2124513622273495336": "VIEW bearish on btc",
-        "2124519879294267771": "No call"
+        "2124519879294267771": "No call",
+        "2124521968317727086": "VIEW bearish on ORCL",
+        "2124522230268744075": "No call"
       },
       "replies": [
         {
@@ -1632,16 +1637,6 @@
         }
       ],
       "threads": {
-        "2122363832878202934": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2122365079773716637": {
-          "alerted": [
-            "bias:memory stocks:neutral"
-          ],
-          "self_replies": 0
-        },
         "2122379281971995072": {
           "alerted": [],
           "self_replies": 0
@@ -2049,11 +2044,19 @@
         "2124519879294267771": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124521968317727086": {
+          "alerted": [
+            "bias:orcl:bearish"
+          ],
+          "self_replies": 0
+        },
+        "2124522230268744075": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124231947857846634": true,
-        "2124232350347538787": true,
         "2124239439484289439": false,
         "2124249452995027006": true,
         "2124254615105315265": true,
@@ -2086,7 +2089,9 @@
         "2124516334151077925": false,
         "2124519879294267771": true,
         "2124520237949505834": false,
-        "2124520707274997835": false
+        "2124520707274997835": false,
+        "2124521968317727086": true,
+        "2124522230268744075": false
       },
       "user_id": "973261472"
     },
@@ -7466,5 +7471,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-22T15:10:23+00:00"
+  "updated_at": "2026-11-22T15:16:35+00:00"
 }
