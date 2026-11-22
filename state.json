@@ -1175,7 +1175,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124298114232168649",
+      "last_id": "2124316894463398389",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1522,12 +1522,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-21T22:26:45.000Z",
-          "id": "2124268306030895303",
-          "reply_to_id": "2124267475982303425",
-          "text": "@jua21893 @RoaringKitty if you post bad callouts eventually people will stop tailing you and you will no longer make money from callouts, the system is inherently designed for people to see who is making good calls and who isnt, all of the data is public\n\nit is self regulating"
-        },
-        {
           "created_at": "2026-11-21T22:26:52.000Z",
           "id": "2124268334388801901",
           "reply_to_id": "2124262617615351830",
@@ -1613,6 +1607,15 @@
           "id": "2124298114232168649",
           "reply_to_id": "2124191919995781370",
           "text": "@deredleritt3r what does it mean"
+        },
+        {
+          "created_at": "2026-11-22T01:39:50.000Z",
+          "id": "2124316894463398389",
+          "images": [
+            "https://pbs.twimg.com/media/HXsW9RYXwAA-dAU.jpg"
+          ],
+          "reply_to_id": "2124307950227648939",
+          "text": "@Chairman_DN @Igetjeeted333 solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/BfrfbZIJDJ"
         }
       ],
       "threads": {
@@ -2051,7 +2054,6 @@
         "2124254615105315265": true,
         "2124257937887826364": true,
         "2124267820049674564": true,
-        "2124268306030895303": true,
         "2124268334388801901": false,
         "2124269396155682940": true,
         "2124271154336522555": false,
@@ -2068,7 +2070,8 @@
         "2124290500081435116": true,
         "2124293365738918276": false,
         "2124295320276554091": false,
-        "2124298114232168649": false
+        "2124298114232168649": false,
+        "2124316894463398389": true
       },
       "user_id": "973261472"
     },
@@ -7448,5 +7451,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-22T01:04:33+00:00"
+  "updated_at": "2026-11-22T01:40:23+00:00"
 }
