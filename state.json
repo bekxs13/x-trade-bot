@@ -1175,7 +1175,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124497063773872582",
+      "last_id": "2124498621358059968",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1372,11 +1372,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-21T18:19:32.000Z",
-          "id": "2124206090443428006",
-          "text": "shill me your favorite altcoin perp longs"
-        },
-        {
           "created_at": "2026-11-21T18:20:05.000Z",
           "id": "2124206230809767938",
           "text": "shill me your favorite memecoins"
@@ -1509,10 +1504,15 @@
           ],
           "quoted_text": "think these 3 [ $DRV, $VVV, $PEARL ] will be the least correlated to the broader market &amp; each have their own unique individual bull cases https://t.co/RdEnXhULiV https://t.co/gURmz92jZv",
           "text": "$ZEC $HYPE $PUMP - [ZEHYPERPUMP] \n\nall 3 also at high probability bounce spots, likely bottom Monday/Tuesday &amp; set the lows for November monthly into a green week\n\nsanta relief rally otw https://t.co/LHLBNFeSVv https://t.co/n5y6XwssWe"
+        },
+        {
+          "created_at": "2026-11-22T13:41:29.000Z",
+          "id": "2124498504143823025",
+          "quoted_text": "cold hard cryptocurrencies https://t.co/mG9jLuIfHE",
+          "text": "hello https://t.co/dHwdmCojY5"
         }
       ],
       "reads": {
-        "2124206090443428006": "No call",
         "2124206230809767938": "No call",
         "2124207827178676262": "No call",
         "2124218317808222407": "No call: bullish on PAPER (65%, too unsure)",
@@ -1530,15 +1530,10 @@
         "2124368701407269112": "No call",
         "2124368899877884252": "No call",
         "2124495693930721430": "No call",
-        "2124497063773872582": "VIEW bullish on crypto market"
+        "2124497063773872582": "VIEW bullish on crypto market",
+        "2124498504143823025": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-22T03:43:24.000Z",
-          "id": "2124347993881210893",
-          "reply_to_id": "2124340093750247605",
-          "text": "@UsualStu trading fees"
-        },
         {
           "created_at": "2026-11-22T03:44:00.000Z",
           "id": "2124348144381247640",
@@ -1622,15 +1617,15 @@
           "id": "2124375293502603702",
           "reply_to_id": "2124316940109808071",
           "text": "@riskmaxxing should i just hardswitch &amp; start posting hardcore technical content"
+        },
+        {
+          "created_at": "2026-11-22T13:41:57.000Z",
+          "id": "2124498621358059968",
+          "reply_to_id": "2124498443775377779",
+          "text": "@bahubali_usd i never sold!"
         }
       ],
       "threads": {
-        "2122284970949718155": {
-          "alerted": [
-            "bias:zec:bullish"
-          ],
-          "self_replies": 0
-        },
         "2122351506925953404": {
           "alerted": [],
           "self_replies": 0
@@ -2042,10 +2037,13 @@
             "bias:crypto market:bullish"
           ],
           "self_replies": 0
+        },
+        "2124498504143823025": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124206090443428006": true,
         "2124206230809767938": true,
         "2124206667206455711": false,
         "2124207827178676262": false,
@@ -2061,7 +2059,6 @@
         "2124272421314113667": false,
         "2124277317782450670": true,
         "2124343870645260476": false,
-        "2124347993881210893": true,
         "2124348144381247640": true,
         "2124348355392209299": false,
         "2124348454449082531": false,
@@ -2079,7 +2076,9 @@
         "2124371025882153035": false,
         "2124375293502603702": false,
         "2124495693930721430": true,
-        "2124497063773872582": true
+        "2124497063773872582": true,
+        "2124498504143823025": false,
+        "2124498621358059968": true
       },
       "user_id": "973261472"
     },
@@ -7459,5 +7458,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-22T13:38:24+00:00"
+  "updated_at": "2026-11-22T13:42:28+00:00"
 }
