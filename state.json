@@ -6701,7 +6701,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2124349093480685973",
+      "last_id": "2124578113258762749",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6753,15 +6753,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T01:44:20.000Z",
-          "id": "2123593253245370721",
-          "images": [
-            "https://pbs.twimg.com/media/HXiExHTXgAAEFNL.jpg"
-          ],
-          "quoted_text": "Love Gold at 3200 https://t.co/O1noMvyNEe",
-          "text": "Feels like some mega whale old money family (Wallenberg, Rothschild etc.) is liquidating their gold position, or a nation state...\n\nGetting closer to 3200 https://t.co/QfXR3GJtSu https://t.co/RCzGIsF4Do"
-        },
         {
           "created_at": "2026-11-20T03:52:01.000Z",
           "id": "2123625384080003282",
@@ -6874,10 +6865,14 @@
             "https://pbs.twimg.com/media/HXs0DzuWwAE4Hf1.jpg"
           ],
           "text": "Crypto has trained itself to sniff out inflationary tokens.\n\nHere's a look at equity market issuance...\n\nCrypto traders have a good understanding of these dynamics. https://t.co/EJj0eeoHnD"
+        },
+        {
+          "created_at": "2026-11-22T18:57:49.000Z",
+          "id": "2124578113258762749",
+          "text": "Who are the biggest supporters of Hyperliquid?"
         }
       ],
       "reads": {
-        "2123593253245370721": "No call: bearish on gold (same view as before)",
         "2123625384080003282": "No call",
         "2123639054046495080": "No call",
         "2123797042300699037": "No call",
@@ -6896,7 +6891,8 @@
         "2123995791224426979": "No call",
         "2124134470131327287": "No call",
         "2124346253504893118": "No call",
-        "2124349093480685973": "No call: bearish on stocks/macro (65%, too unsure)"
+        "2124349093480685973": "No call: bearish on stocks/macro (65%, too unsure)",
+        "2124578113258762749": "No call"
       },
       "replies": [
         {
@@ -6994,10 +6990,6 @@
         }
       ],
       "threads": {
-        "2121724698899665065": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121731261480026203": {
           "alerted": [],
           "self_replies": 0
@@ -7405,6 +7397,10 @@
         "2124349093480685973": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124578113258762749": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7422,7 +7418,6 @@
         "2123460741197930822": true,
         "2123463010849358127": true,
         "2123471825153806596": false,
-        "2123593253245370721": true,
         "2123625384080003282": true,
         "2123639054046495080": false,
         "2123797042300699037": true,
@@ -7442,7 +7437,8 @@
         "2123995791224426979": false,
         "2124134470131327287": false,
         "2124346253504893118": false,
-        "2124349093480685973": true
+        "2124349093480685973": true,
+        "2124578113258762749": true
       },
       "user_id": "809191427645181952"
     }
@@ -7465,5 +7461,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-22T18:56:22+00:00"
+  "updated_at": "2026-11-22T18:58:28+00:00"
 }
