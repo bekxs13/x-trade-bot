@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2124629493843411340",
+      "last_id": "2124641527624573321",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,23 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T15:42:45.000Z",
-          "id": "2123804247238332514",
-          "images": [
-            "https://pbs.twimg.com/media/HXlEspabQAAckUJ.jpg"
-          ],
-          "reply_to_id": "2123568924906463609",
-          "text": "Basically every day ppl will get too optimistic overnight and then get clipped https://t.co/prrItwyWSw"
-        },
-        {
-          "created_at": "2026-11-20T16:34:19.000Z",
-          "id": "2123817224955887883",
-          "images": [
-            "https://pbs.twimg.com/media/HXlQgp8bYAATXX3.jpg"
-          ],
-          "text": "https://t.co/v1uLkIPn9e"
-        },
         {
           "created_at": "2026-11-20T17:37:03.000Z",
           "id": "2123833011758346681",
@@ -353,11 +336,23 @@
             "https://pbs.twimg.com/media/HXwyNrobAAAL__d.jpg"
           ],
           "text": "2026 https://t.co/rJR3lD5bf9"
+        },
+        {
+          "created_at": "2026-11-22T23:09:18.000Z",
+          "id": "2124641400553943292",
+          "images": [
+            "https://pbs.twimg.com/media/HXw-E6hbAAAquxr.jpg"
+          ],
+          "text": "Weekly highs in? https://t.co/vFCmPFxxhG"
+        },
+        {
+          "created_at": "2026-11-22T23:09:48.000Z",
+          "id": "2124641527624573321",
+          "reply_to_id": "2124641400553943292",
+          "text": "Scott Bessent went on TV and XYZ gamblers are bullish. 15% straight up"
         }
       ],
       "reads": {
-        "2123804247238332514": "TRADE EXIT SPX",
-        "2123817224955887883": "No call",
         "2123833011758346681": "No call",
         "2123838043648033187": "No call: bearish on stocks/macro (60%, too unsure)",
         "2124216545085956580": "No call",
@@ -374,7 +369,9 @@
         "2124588359259771102": "No call",
         "2124589307377938570": "No call",
         "2124592982645178419": "No call",
-        "2124628337956147356": "No call"
+        "2124628337956147356": "No call",
+        "2124641400553943292": "No call: bearish on stocks/macro (65%, too unsure)",
+        "2124641527624573321": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -472,10 +469,6 @@
         }
       ],
       "threads": {
-        "2120952028822376540": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121089865026884078": {
           "alerted": [],
           "self_replies": 0
@@ -880,6 +873,10 @@
         "2124628337956147356": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124641400553943292": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
@@ -892,8 +889,6 @@
         "2123633790681751688": false,
         "2123638463400669290": false,
         "2123644980136988942": false,
-        "2123804247238332514": true,
-        "2123817224955887883": false,
         "2123833011758346681": false,
         "2123838043648033187": false,
         "2123876649515339997": false,
@@ -917,7 +912,9 @@
         "2124592982645178419": false,
         "2124596039239995718": false,
         "2124628337956147356": false,
-        "2124629493843411340": false
+        "2124629493843411340": false,
+        "2124641400553943292": true,
+        "2124641527624573321": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7469,5 +7466,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-22T22:26:22+00:00"
+  "updated_at": "2026-11-22T23:10:27+00:00"
 }
