@@ -1184,7 +1184,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124547895562997988",
+      "last_id": "2124548131949871443",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1381,14 +1381,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-21T21:32:21.000Z",
-          "id": "2124254615105315265",
-          "images": [
-            "https://pbs.twimg.com/media/HXreUFoWMAAunRS.jpg"
-          ],
-          "text": "paid +$18k today for callouts on higher market cap tokens im already holding & winning perps trades, no new pairs or microcaps, bagworkers anonymous flywheel \n\nat this rate will be making ~$5M+/year from posting trades on pump, & this is at the bottom of the bear market\n\nstill working out kinks but high confidence social trading is the beginning of a supertrend for mobile apps, there is usually no real incentive for traders to share information, this makes it objectively +EV to do so"
-        },
-        {
           "created_at": "2026-11-21T21:45:33.000Z",
           "id": "2124257937887826364",
           "images": [
@@ -1518,10 +1510,17 @@
           "created_at": "2026-11-22T15:19:58.000Z",
           "id": "2124523290228064457",
           "text": "can someone point me to tradfi land so i can follow the stocks guys i need to see how they are responding to this"
+        },
+        {
+          "created_at": "2026-11-22T16:58:06.000Z",
+          "id": "2124547985568907606",
+          "images": [
+            "https://pbs.twimg.com/amplify_video_thumb/2124547281512980480/img/DTdbIJV0_tOZSwq3.jpg"
+          ],
+          "text": "on September 24, i discussed with @rasmr_eth why university matters more in the age of AI\n\nas AI makes intelligence widely accessible, social skills and emotional intelligence become increasingly valuable\n\nthe ability to communicate, build relationships and connect with people in person will matter more than ever"
         }
       ],
       "reads": {
-        "2124254615105315265": "No call",
         "2124257937887826364": "No call",
         "2124267820049674564": "No call",
         "2124269396155682940": "No call",
@@ -1540,15 +1539,10 @@
         "2124521968317727086": "VIEW bearish on ORCL",
         "2124522230268744075": "No call",
         "2124522587875066344": "No call",
-        "2124523290228064457": "No call"
+        "2124523290228064457": "No call",
+        "2124547985568907606": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-22T13:44:13.000Z",
-          "id": "2124499191766598074",
-          "reply_to_id": "2124498925654597643",
-          "text": "@badattrading_ yes sir"
-        },
         {
           "created_at": "2026-11-22T13:48:56.000Z",
           "id": "2124500380826677496",
@@ -1632,13 +1626,15 @@
           "id": "2124547895562997988",
           "reply_to_id": "2124410972735488042",
           "text": "@rasmr_eth rasmr"
+        },
+        {
+          "created_at": "2026-11-22T16:58:41.000Z",
+          "id": "2124548131949871443",
+          "reply_to_id": "2124478428732870870",
+          "text": "@au_xbt godspeed au"
         }
       ],
       "threads": {
-        "2122406507040116962": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122432887618507025": {
           "alerted": [],
           "self_replies": 0
@@ -2052,10 +2048,13 @@
         "2124523290228064457": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124547985568907606": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124254615105315265": true,
         "2124257937887826364": true,
         "2124267820049674564": true,
         "2124269396155682940": true,
@@ -2068,7 +2067,6 @@
         "2124497063773872582": true,
         "2124498504143823025": false,
         "2124498709144797661": true,
-        "2124499191766598074": false,
         "2124500054706634908": true,
         "2124500380826677496": false,
         "2124500555200385415": false,
@@ -2089,7 +2087,9 @@
         "2124523290228064457": true,
         "2124529723334328462": false,
         "2124531871618904314": false,
-        "2124547895562997988": false
+        "2124547895562997988": false,
+        "2124547985568907606": false,
+        "2124548131949871443": false
       },
       "user_id": "973261472"
     },
@@ -7463,5 +7463,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-22T16:58:17+00:00"
+  "updated_at": "2026-11-22T17:00:33+00:00"
 }
