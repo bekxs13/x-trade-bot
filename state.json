@@ -1184,7 +1184,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124522587875066344",
+      "last_id": "2124523290228064457",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1381,12 +1381,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-21T21:11:50.000Z",
-          "id": "2124249452995027006",
-          "quoted_text": "Not too shabby if I do say so myself.\n\n@blknoiz06 wasn't too far off with his market read.\n\nImagine how much money traders could've made if they had followed Ansem's bearish thesis.\n\nOver $400K in profits from his shorts across all three.\n\nThere's a reason people pay attention when Dev speaks.\n\nNever underestimate the man behind $ANSEM \ud83d\udc02\ud83c\udc04",
-          "text": "thank you sir \ud83d\ude4f\ud83c\udffe https://t.co/RBxID6P3gm"
-        },
-        {
           "created_at": "2026-11-21T21:32:21.000Z",
           "id": "2124254615105315265",
           "images": [
@@ -1519,10 +1513,14 @@
           "created_at": "2026-11-22T15:17:11.000Z",
           "id": "2124522587875066344",
           "text": "how much has ai improved your life over past 5 years on a scale from 1 to 10"
+        },
+        {
+          "created_at": "2026-11-22T15:19:58.000Z",
+          "id": "2124523290228064457",
+          "text": "can someone point me to tradfi land so i can follow the stocks guys i need to see how they are responding to this"
         }
       ],
       "reads": {
-        "2124249452995027006": "No call",
         "2124254615105315265": "No call",
         "2124257937887826364": "No call",
         "2124267820049674564": "No call",
@@ -1541,7 +1539,8 @@
         "2124519879294267771": "No call",
         "2124521968317727086": "VIEW bearish on ORCL",
         "2124522230268744075": "No call",
-        "2124522587875066344": "No call"
+        "2124522587875066344": "No call",
+        "2124523290228064457": "No call"
       },
       "replies": [
         {
@@ -1636,10 +1635,6 @@
         }
       ],
       "threads": {
-        "2122388140942119199": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122406507040116962": {
           "alerted": [],
           "self_replies": 0
@@ -2053,10 +2048,13 @@
         "2124522587875066344": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124523290228064457": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124249452995027006": true,
         "2124254615105315265": true,
         "2124257937887826364": true,
         "2124267820049674564": true,
@@ -2090,7 +2088,8 @@
         "2124520707274997835": false,
         "2124521968317727086": true,
         "2124522230268744075": false,
-        "2124522587875066344": false
+        "2124522587875066344": false,
+        "2124523290228064457": true
       },
       "user_id": "973261472"
     },
@@ -7470,5 +7469,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-22T15:18:22+00:00"
+  "updated_at": "2026-11-22T15:20:22+00:00"
 }
