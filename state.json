@@ -1175,7 +1175,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124344505432477952",
+      "last_id": "2124344823692005827",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1522,12 +1522,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-21T22:38:04.000Z",
-          "id": "2124271154336522555",
-          "reply_to_id": "2124269716235534796",
-          "text": "@RAP3MEFR he's good!"
-        },
-        {
           "created_at": "2026-11-21T22:38:17.000Z",
           "id": "2124271209202245893",
           "reply_to_id": "2124270705772552353",
@@ -1616,6 +1610,12 @@
           "id": "2124344505432477952",
           "reply_to_id": "2124324054995746936",
           "text": "@wirelyss @boxbox_32 @AstrologyCrypto i always wondered why most axiom badges are so anti pump"
+        },
+        {
+          "created_at": "2026-11-22T03:30:49.000Z",
+          "id": "2124344823692005827",
+          "reply_to_id": "2124305304435511531",
+          "text": "@boxbox_32 @AstrologyCrypto its dependent on how much trading volume you bring the app, a call with no extra volume obv isnt going to get u paid bc the app doesnt make any extra money from your call"
         }
       ],
       "threads": {
@@ -2054,7 +2054,6 @@
         "2124257937887826364": true,
         "2124267820049674564": true,
         "2124269396155682940": true,
-        "2124271154336522555": false,
         "2124271209202245893": false,
         "2124272421314113667": false,
         "2124277317782450670": true,
@@ -2071,7 +2070,8 @@
         "2124298114232168649": false,
         "2124316894463398389": true,
         "2124343870645260476": false,
-        "2124344505432477952": true
+        "2124344505432477952": true,
+        "2124344823692005827": true
       },
       "user_id": "973261472"
     },
@@ -7452,5 +7452,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-22T03:30:22+00:00"
+  "updated_at": "2026-11-22T03:32:27+00:00"
 }
