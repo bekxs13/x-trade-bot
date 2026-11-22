@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2124587570374004997",
+      "last_id": "2124588359259771102",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,14 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T03:53:40.000Z",
-          "id": "2123625802030108921",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2123601261412937728/img/DvbOntS9tWgQYU8Y.jpg"
-          ],
-          "text": "Frank Degods Edits Account https://t.co/0ybPyR5jkL"
-        },
         {
           "created_at": "2026-11-20T07:43:49.000Z",
           "id": "2123683721257820411",
@@ -345,10 +337,17 @@
             "https://pbs.twimg.com/media/HXwNIZlbcAA_Dt5.png"
           ],
           "text": "https://t.co/WmuDQrV2FH"
+        },
+        {
+          "created_at": "2026-11-22T19:38:32.000Z",
+          "id": "2124588359259771102",
+          "images": [
+            "https://pbs.twimg.com/media/HXwNwDBbYAAiyLH.jpg"
+          ],
+          "text": "Books feeling like this rn in trad at least. everyone max emotional + vol up + short gamma, wait n murk ppl https://t.co/lqNkYSIyF6"
         }
       ],
       "reads": {
-        "2123625802030108921": "No call",
         "2123683721257820411": "No call",
         "2123725533951516809": "No call",
         "2123791059188855215": "No call",
@@ -366,7 +365,8 @@
         "2124283008194887982": "No call",
         "2124307746162090256": "No call",
         "2124568636593737896": "No call",
-        "2124587570374004997": "No call"
+        "2124587570374004997": "No call",
+        "2124588359259771102": "No call"
       },
       "replies": [
         {
@@ -464,10 +464,6 @@
         }
       ],
       "threads": {
-        "2120684253185016306": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2120704243783094781": {
           "alerted": [],
           "self_replies": 0
@@ -872,6 +868,10 @@
         "2124587570374004997": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124588359259771102": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -882,7 +882,6 @@
         "2123599564519465109": false,
         "2123616539891167545": true,
         "2123625576519053783": false,
-        "2123625802030108921": false,
         "2123628429807636824": false,
         "2123633790681751688": false,
         "2123638463400669290": false,
@@ -909,7 +908,8 @@
         "2124307746162090256": false,
         "2124434297054711953": false,
         "2124568636593737896": false,
-        "2124587570374004997": false
+        "2124587570374004997": false,
+        "2124588359259771102": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7461,5 +7461,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-22T19:36:22+00:00"
+  "updated_at": "2026-11-22T19:40:36+00:00"
 }
