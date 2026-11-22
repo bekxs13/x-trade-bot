@@ -4861,7 +4861,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2124321691887395060",
+      "last_id": "2124326664821772376",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -5049,12 +5049,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-20T20:46:01.000Z",
-          "id": "2123880565447254193",
-          "reply_to_id": "2123880234303062051",
-          "text": "@blknoiz06 always thought it\u2019d be fun to watch the tradfi pigs be slaughtered but nothing about this is fun"
-        },
-        {
           "created_at": "2026-11-20T20:59:59.000Z",
           "id": "2123884081121259774",
           "reply_to_id": "2123883333432103084",
@@ -5137,6 +5131,12 @@
           "id": "2124284973310161288",
           "reply_to_id": "2124284201277218955",
           "text": "@seyong protecting those mentions in this market"
+        },
+        {
+          "created_at": "2026-11-22T02:18:39.000Z",
+          "id": "2124326664821772376",
+          "reply_to_id": "2124325746793382011",
+          "text": "@nikbeeneyy \ud83e\udee1"
         }
       ],
       "threads": {
@@ -5563,7 +5563,6 @@
         "2123861753809318229": true,
         "2123866329526775990": true,
         "2123875879034257633": true,
-        "2123880565447254193": true,
         "2123884081121259774": false,
         "2123885620426576289": false,
         "2123889246864134303": false,
@@ -5578,7 +5577,8 @@
         "2124236983920709802": false,
         "2124251957669896416": false,
         "2124284973310161288": false,
-        "2124321691887395060": true
+        "2124321691887395060": true,
+        "2124326664821772376": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7452,5 +7452,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-21",
-  "updated_at": "2026-11-22T02:00:27+00:00"
+  "updated_at": "2026-11-22T02:20:24+00:00"
 }
