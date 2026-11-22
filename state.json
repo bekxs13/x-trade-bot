@@ -942,12 +942,12 @@
         },
         "crypto market": {
           "market": "crypto",
-          "post_id": "2124201919153307945",
-          "reason": "\"still lean bearish with preference for having more cash\" while saying the easy part of the downtrend is over. He is only playing a bounce, so the broader bearish view on crypto stands.",
+          "post_id": "2124497063773872582",
+          "reason": "\"likely bottom Monday/Tuesday... into a green week\" and \"santa relief rally otw\" is a broader bullish market call, flipping the recorded bearish crypto market view.",
           "scope": "crypto market",
-          "since": "2026-11-13",
-          "stance": "bearish",
-          "updated_at": "2026-11-21T18:02:57.000Z"
+          "since": "2026-11-22",
+          "stance": "bullish",
+          "updated_at": "2026-11-22T13:35:45.000Z"
         },
         "eth": {
           "market": "crypto",
@@ -1175,7 +1175,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124495693930721430",
+      "last_id": "2124497063773872582",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1372,11 +1372,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-21T18:19:21.000Z",
-          "id": "2124206046436618586",
-          "text": "watch this"
-        },
-        {
           "created_at": "2026-11-21T18:19:32.000Z",
           "id": "2124206090443428006",
           "text": "shill me your favorite altcoin perp longs"
@@ -1503,10 +1498,20 @@
           ],
           "quoted_text": "gonna try to bid for a bounce this week\n\n$DRV - options onchain picking up momentum with revenue inflecting up\n\n$VVV - ai breakout consumer app + privacy narrative with attention on anthropic ipo at 1/1000th price\n\n$ZEC - retested key weekly support 700-750 & prior all time high, leader of this bull in crypto & most likely to get bid as risk beta\n\n$HYPE - equity perps supercycle + range lows retest\n\n$PUMP - crushing mobile app distro & now have perps + pred markets functionality, cash heavy bala",
           "text": "think these 3 [ $DRV, $VVV, $PEARL ] will be the least correlated to the broader market &amp; each have their own unique individual bull cases https://t.co/RdEnXhULiV https://t.co/gURmz92jZv"
+        },
+        {
+          "created_at": "2026-11-22T13:35:45.000Z",
+          "id": "2124497063773872582",
+          "images": [
+            "https://pbs.twimg.com/media/HXu6X-hWcAAPd6t.jpg",
+            "https://pbs.twimg.com/media/HXu6ZZKXYAA2ZAu.jpg",
+            "https://pbs.twimg.com/media/HXu6bW-WUAA-NYZ.jpg"
+          ],
+          "quoted_text": "think these 3 [ $DRV, $VVV, $PEARL ] will be the least correlated to the broader market &amp; each have their own unique individual bull cases https://t.co/RdEnXhULiV https://t.co/gURmz92jZv",
+          "text": "$ZEC $HYPE $PUMP - [ZEHYPERPUMP] \n\nall 3 also at high probability bounce spots, likely bottom Monday/Tuesday &amp; set the lows for November monthly into a green week\n\nsanta relief rally otw https://t.co/LHLBNFeSVv https://t.co/n5y6XwssWe"
         }
       ],
       "reads": {
-        "2124206046436618586": "No call",
         "2124206090443428006": "No call",
         "2124206230809767938": "No call",
         "2124207827178676262": "No call",
@@ -1524,7 +1529,8 @@
         "2124343870645260476": "No call",
         "2124368701407269112": "No call",
         "2124368899877884252": "No call",
-        "2124495693930721430": "No call"
+        "2124495693930721430": "No call",
+        "2124497063773872582": "VIEW bullish on crypto market"
       },
       "replies": [
         {
@@ -1619,10 +1625,6 @@
         }
       ],
       "threads": {
-        "2122138338710724829": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122284970949718155": {
           "alerted": [
             "bias:zec:bullish"
@@ -2034,10 +2036,15 @@
         "2124495693930721430": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124497063773872582": {
+          "alerted": [
+            "bias:crypto market:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124206046436618586": false,
         "2124206090443428006": true,
         "2124206230809767938": true,
         "2124206667206455711": false,
@@ -2071,7 +2078,8 @@
         "2124368899877884252": false,
         "2124371025882153035": false,
         "2124375293502603702": false,
-        "2124495693930721430": true
+        "2124495693930721430": true,
+        "2124497063773872582": true
       },
       "user_id": "973261472"
     },
@@ -7451,5 +7459,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-22T13:32:27+00:00"
+  "updated_at": "2026-11-22T13:38:24+00:00"
 }
