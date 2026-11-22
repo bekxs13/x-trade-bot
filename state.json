@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2124588359259771102",
+      "last_id": "2124589307377938570",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,11 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T07:43:49.000Z",
-          "id": "2123683721257820411",
-          "text": "Gen Alpha dudes just solo the middle urinal and it kinda cooks u"
-        },
         {
           "created_at": "2026-11-20T10:29:58.000Z",
           "id": "2123725533951516809",
@@ -345,10 +340,14 @@
             "https://pbs.twimg.com/media/HXwNwDBbYAAiyLH.jpg"
           ],
           "text": "Books feeling like this rn in trad at least. everyone max emotional + vol up + short gamma, wait n murk ppl https://t.co/lqNkYSIyF6"
+        },
+        {
+          "created_at": "2026-11-22T19:42:18.000Z",
+          "id": "2124589307377938570",
+          "text": "https://t.co/s2ILlI2siN"
         }
       ],
       "reads": {
-        "2123683721257820411": "No call",
         "2123725533951516809": "No call",
         "2123791059188855215": "No call",
         "2123804247238332514": "TRADE EXIT SPX",
@@ -366,7 +365,8 @@
         "2124307746162090256": "No call",
         "2124568636593737896": "No call",
         "2124587570374004997": "No call",
-        "2124588359259771102": "No call"
+        "2124588359259771102": "No call",
+        "2124589307377938570": "No call"
       },
       "replies": [
         {
@@ -464,10 +464,6 @@
         }
       ],
       "threads": {
-        "2120704243783094781": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120737326645338509": {
           "alerted": [],
           "self_replies": 0
@@ -872,6 +868,10 @@
         "2124588359259771102": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124589307377938570": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -886,7 +886,6 @@
         "2123633790681751688": false,
         "2123638463400669290": false,
         "2123644980136988942": false,
-        "2123683721257820411": false,
         "2123725533951516809": false,
         "2123791059188855215": false,
         "2123804247238332514": true,
@@ -909,7 +908,8 @@
         "2124434297054711953": false,
         "2124568636593737896": false,
         "2124587570374004997": false,
-        "2124588359259771102": true
+        "2124588359259771102": true,
+        "2124589307377938570": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7461,5 +7461,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-22T19:40:36+00:00"
+  "updated_at": "2026-11-22T19:44:23+00:00"
 }
