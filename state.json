@@ -1175,7 +1175,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124515726270587121",
+      "last_id": "2124516334151077925",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1540,12 +1540,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-22T03:58:04.000Z",
-          "id": "2124351685300572365",
-          "reply_to_id": "2124346282906898494",
-          "text": "@Saint10Fourteen same lol"
-        },
-        {
           "created_at": "2026-11-22T03:58:46.000Z",
           "id": "2124351860064587874",
           "reply_to_id": "2124350941268996138",
@@ -1628,6 +1622,12 @@
           "id": "2124515726270587121",
           "reply_to_id": "2124509973568799084",
           "text": "@ika_xbt oh i guess i am retarded i dont even think i signed up with a ref link"
+        },
+        {
+          "created_at": "2026-11-22T14:52:20.000Z",
+          "id": "2124516334151077925",
+          "reply_to_id": "2124515975051563175",
+          "text": "@hako99x @tontheneko what is problematic about that if he's transparent with how he trades?"
         }
       ],
       "threads": {
@@ -2063,7 +2063,6 @@
         "2124272421314113667": false,
         "2124277317782450670": true,
         "2124343870645260476": false,
-        "2124351685300572365": false,
         "2124351860064587874": false,
         "2124368701407269112": false,
         "2124368899877884252": false,
@@ -2085,7 +2084,8 @@
         "2124513667584811490": false,
         "2124515469424197983": false,
         "2124515536361205921": false,
-        "2124515726270587121": false
+        "2124515726270587121": false,
+        "2124516334151077925": false
       },
       "user_id": "973261472"
     },
@@ -7465,5 +7465,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-22T14:50:32+00:00"
+  "updated_at": "2026-11-22T14:54:19+00:00"
 }
