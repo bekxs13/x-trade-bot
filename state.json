@@ -1175,7 +1175,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124516334151077925",
+      "last_id": "2124520237949505834",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1372,11 +1372,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-21T19:08:07.000Z",
-          "id": "2124218317808222407",
-          "text": "pretty crazy @papertrade_xyz has paid out $71M in $PAPER staker rewards in the first month"
-        },
-        {
           "created_at": "2026-11-21T20:02:17.000Z",
           "id": "2124231947857846634",
           "images": [
@@ -1514,10 +1509,15 @@
             "https://pbs.twimg.com/media/HXvJKfvX0AAiX4g.jpg"
           ],
           "text": "bitcoin:native \n\n- need mid 50ks to hold, bearish bias until 82.5k+ reclaimed, expecting chop until end of year and decisive move in H1 of 2027\n- if i had to guess on squiggly id say 56k->70k->56k next few months with muted volatility\n- HTF closes sub 56k & think we retest low-mid 40ks"
+        },
+        {
+          "created_at": "2026-11-22T15:06:25.000Z",
+          "id": "2124519879294267771",
+          "quoted_text": "fully out here we prob bounce and chop from here and i really have no interest in longing right now https://t.co/ypHLyYF4z7 https://t.co/7Le92h59oZ",
+          "text": "bros been on a heater https://t.co/u9znV4faSy"
         }
       ],
       "reads": {
-        "2124218317808222407": "No call: bullish on PAPER (65%, too unsure)",
         "2124231947857846634": "No call",
         "2124232350347538787": "No call",
         "2124239439484289439": "No call",
@@ -1536,15 +1536,10 @@
         "2124498504143823025": "No call",
         "2124498709144797661": "No call",
         "2124500054706634908": "No call",
-        "2124513622273495336": "VIEW bearish on btc"
+        "2124513622273495336": "VIEW bearish on btc",
+        "2124519879294267771": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-22T03:58:46.000Z",
-          "id": "2124351860064587874",
-          "reply_to_id": "2124350941268996138",
-          "text": "@Goobswrld lolllll"
-        },
         {
           "created_at": "2026-11-22T05:14:56.000Z",
           "id": "2124371025882153035",
@@ -1628,13 +1623,15 @@
           "id": "2124516334151077925",
           "reply_to_id": "2124515975051563175",
           "text": "@hako99x @tontheneko what is problematic about that if he's transparent with how he trades?"
+        },
+        {
+          "created_at": "2026-11-22T15:07:51.000Z",
+          "id": "2124520237949505834",
+          "reply_to_id": "2124378823302971728",
+          "text": "@riskmaxxing gonna start making ppl read whitepapers again"
         }
       ],
       "threads": {
-        "2122358956609749430": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122363832878202934": {
           "alerted": [],
           "self_replies": 0
@@ -2048,10 +2045,13 @@
             "bias:btc:bearish"
           ],
           "self_replies": 0
+        },
+        "2124519879294267771": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124218317808222407": true,
         "2124231947857846634": true,
         "2124232350347538787": true,
         "2124239439484289439": false,
@@ -2063,7 +2063,6 @@
         "2124272421314113667": false,
         "2124277317782450670": true,
         "2124343870645260476": false,
-        "2124351860064587874": false,
         "2124368701407269112": false,
         "2124368899877884252": false,
         "2124371025882153035": false,
@@ -2085,7 +2084,9 @@
         "2124515469424197983": false,
         "2124515536361205921": false,
         "2124515726270587121": false,
-        "2124516334151077925": false
+        "2124516334151077925": false,
+        "2124519879294267771": true,
+        "2124520237949505834": false
       },
       "user_id": "973261472"
     },
@@ -7465,5 +7466,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-22T14:54:19+00:00"
+  "updated_at": "2026-11-22T15:08:23+00:00"
 }
