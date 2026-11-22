@@ -933,12 +933,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2123429285440692319",
-          "reason": "Calls 'first very important sign of bitcoin relative strength' with BTC holding while gold breaks down, which is bullish and differs from his recorded neutral btc view.",
+          "post_id": "2124513622273495336",
+          "reason": "States 'bearish bias until 82.5k+ reclaimed', expects chop 56k-70k and a retest of low-mid 40ks if 56k is lost; recorded view was bullish.",
           "scope": "btc",
-          "since": "2026-11-19",
-          "stance": "bullish",
-          "updated_at": "2026-11-19T14:52:47.000Z"
+          "since": "2026-11-22",
+          "stance": "bearish",
+          "updated_at": "2026-11-22T14:41:33.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -1175,7 +1175,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124501710894710964",
+      "last_id": "2124513667584811490",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1372,15 +1372,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-21T18:26:26.000Z",
-          "id": "2124207827178676262",
-          "images": [
-            "https://pbs.twimg.com/media/HXqzwvlXgAAEEgW.jpg"
-          ],
-          "reply_to_id": "2124206046436618586",
-          "text": "https://t.co/rSgKpMyImJ"
-        },
-        {
           "created_at": "2026-11-21T19:08:07.000Z",
           "id": "2124218317808222407",
           "text": "pretty crazy @papertrade_xyz has paid out $71M in $PAPER staker rewards in the first month"
@@ -1512,10 +1503,20 @@
             "https://pbs.twimg.com/media/HXu9gMGWMAEJzZw.jpg"
           ],
           "text": "we gonna have to put up 81 to save this market https://t.co/VvznQsMD5W"
+        },
+        {
+          "created_at": "2026-11-22T14:41:33.000Z",
+          "id": "2124513622273495336",
+          "images": [
+            "https://pbs.twimg.com/media/HXvJEvwWgAA6dqP.jpg",
+            "https://pbs.twimg.com/media/HXvJHgJWYAEGPvx.jpg",
+            "https://pbs.twimg.com/media/HXvJI_6WkAA0AEp.jpg",
+            "https://pbs.twimg.com/media/HXvJKfvX0AAiX4g.jpg"
+          ],
+          "text": "bitcoin:native \n\n- need mid 50ks to hold, bearish bias until 82.5k+ reclaimed, expecting chop until end of year and decisive move in H1 of 2027\n- if i had to guess on squiggly id say 56k->70k->56k next few months with muted volatility\n- HTF closes sub 56k & think we retest low-mid 40ks"
         }
       ],
       "reads": {
-        "2124207827178676262": "No call",
         "2124218317808222407": "No call: bullish on PAPER (65%, too unsure)",
         "2124231947857846634": "No call",
         "2124232350347538787": "No call",
@@ -1534,15 +1535,10 @@
         "2124497063773872582": "VIEW bullish on crypto market",
         "2124498504143823025": "No call",
         "2124498709144797661": "No call",
-        "2124500054706634908": "No call"
+        "2124500054706634908": "No call",
+        "2124513622273495336": "VIEW bearish on btc"
       },
       "replies": [
-        {
-          "created_at": "2026-11-22T03:48:48.000Z",
-          "id": "2124349349870116880",
-          "reply_to_id": "2124333208489873725",
-          "text": "@insomniac988 @notwashed i agree the side walleting + callouts is very homoerotic but i dont do that!"
-        },
         {
           "created_at": "2026-11-22T03:51:50.000Z",
           "id": "2124350114227470526",
@@ -1626,13 +1622,15 @@
           "id": "2124501710894710964",
           "reply_to_id": "2124457859593142674",
           "text": "@Nasdaq_Teej @riskmaxxing \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d"
+        },
+        {
+          "created_at": "2026-11-22T14:41:44.000Z",
+          "id": "2124513667584811490",
+          "reply_to_id": "2124511078679785830",
+          "text": "@0xAbit you horny bastard"
         }
       ],
       "threads": {
-        "2122352345610903599": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122358956609749430": {
           "alerted": [],
           "self_replies": 0
@@ -2044,10 +2042,15 @@
         "2124500054706634908": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124513622273495336": {
+          "alerted": [
+            "bias:btc:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124207827178676262": false,
         "2124218317808222407": true,
         "2124231947857846634": true,
         "2124232350347538787": true,
@@ -2060,7 +2063,6 @@
         "2124272421314113667": false,
         "2124277317782450670": true,
         "2124343870645260476": false,
-        "2124349349870116880": false,
         "2124350114227470526": false,
         "2124350582488199675": false,
         "2124351649594650999": true,
@@ -2081,7 +2083,9 @@
         "2124500380826677496": false,
         "2124500555200385415": false,
         "2124501456719847749": false,
-        "2124501710894710964": false
+        "2124501710894710964": false,
+        "2124513622273495336": true,
+        "2124513667584811490": false
       },
       "user_id": "973261472"
     },
@@ -7461,5 +7465,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-22T13:56:17+00:00"
+  "updated_at": "2026-11-22T14:42:23+00:00"
 }
