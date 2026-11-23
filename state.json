@@ -941,7 +941,7 @@
       },
       "closed": [],
       "handle": "bigtrout300",
-      "last_id": "2125004601573454219",
+      "last_id": "2125007905531494831",
       "positions": {
         "SPX": {
           "asset": "SPX",
@@ -1049,6 +1049,14 @@
           "created_at": "2026-11-23T23:04:18.000Z",
           "id": "2125002529285328993",
           "text": "Wonder what Zane Tackett is up to"
+        },
+        {
+          "created_at": "2026-11-23T23:25:40.000Z",
+          "id": "2125007905531494831",
+          "images": [
+            "https://pbs.twimg.com/media/HX2LZK6boAAAoNM.jpg"
+          ],
+          "text": "Was looking at TPO for the daily close, &amp; oh my god lmao https://t.co/BMoxAqB8cy"
         }
       ],
       "reads": {
@@ -1062,7 +1070,8 @@
         "2124956977818435750": "No call: neutral on btc (60%, too unsure)",
         "2124969442811809864": "No call",
         "2124970791897063710": "VIEW bullish on SPX",
-        "2125002529285328993": "No call"
+        "2125002529285328993": "No call",
+        "2125007905531494831": "No call"
       },
       "replies": [
         {
@@ -1207,6 +1216,10 @@
         "2125002529285328993": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125007905531494831": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1237,7 +1250,8 @@
         "2124988248611229944": false,
         "2124995611858808835": true,
         "2125002529285328993": false,
-        "2125004601573454219": false
+        "2125004601573454219": false,
+        "2125007905531494831": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7783,5 +7797,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T23:14:23+00:00"
+  "updated_at": "2026-11-23T23:26:23+00:00"
 }
