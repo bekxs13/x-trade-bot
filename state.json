@@ -2504,7 +2504,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2124671044996956212",
+      "last_id": "2124678376451412245",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2691,12 +2691,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-21T04:58:04.000Z",
-          "id": "2124004396371763215",
-          "reply_to_id": "2124004048336810341",
-          "text": "@stableshaman i like the material"
-        },
-        {
           "created_at": "2026-11-21T05:22:20.000Z",
           "id": "2124010501357154563",
           "reply_to_id": "2124009881745109000",
@@ -2779,6 +2773,12 @@
           "id": "2124671044996956212",
           "reply_to_id": "2124663710207639729",
           "text": "@steve2bacon something sure tore a hole but it wasn't a needle"
+        },
+        {
+          "created_at": "2026-11-23T01:36:14.000Z",
+          "id": "2124678376451412245",
+          "reply_to_id": "2124669678836654575",
+          "text": "@RachelZader peanut butter\ndefinitely more eggs you can pre-prepared hard boiled eggs and keep them in the fridge\npeas/beans \ntinned fish"
         }
       ],
       "threads": {
@@ -3200,7 +3200,6 @@
         "2123989072234328175": true,
         "2124000938121683246": true,
         "2124001290762047674": false,
-        "2124004396371763215": false,
         "2124008458756432215": false,
         "2124009076883370159": false,
         "2124010501357154563": false,
@@ -3220,7 +3219,8 @@
         "2124654098792476871": true,
         "2124661145864986901": false,
         "2124661533859012696": true,
-        "2124671044996956212": false
+        "2124671044996956212": false,
+        "2124678376451412245": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7469,5 +7469,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-23T01:08:30+00:00"
+  "updated_at": "2026-11-23T01:38:17+00:00"
 }
