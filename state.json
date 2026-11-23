@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2124929043619631518",
+      "last_id": "2124930775095386440",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -374,12 +374,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-20T01:13:51.000Z",
-          "id": "2123585581250978004",
-          "reply_to_id": "2123585333690511712",
-          "text": "@Evan_ss6 Basically, bro pvpd me on caravana for no reason in DMs after we met irl. Luckily that did make me log in 9am the next day and hit the Bessent btc walkoff"
-        },
-        {
           "created_at": "2026-11-20T01:18:09.000Z",
           "id": "2123586663813394752",
           "reply_to_id": "2123580574606770681",
@@ -465,6 +459,12 @@
           "id": "2124629493843411340",
           "reply_to_id": "2124629188238041363",
           "text": "@tolstoybb And here we are on X"
+        },
+        {
+          "created_at": "2026-11-23T18:19:10.000Z",
+          "id": "2124930775095386440",
+          "reply_to_id": "2124929447497249174",
+          "text": "@wolfofshelby Less than QQQ"
         }
       ],
       "threads": {
@@ -879,7 +879,6 @@
         }
       },
       "trading": {
-        "2123585581250978004": true,
         "2123586663813394752": true,
         "2123599564519465109": false,
         "2123616539891167545": true,
@@ -913,7 +912,8 @@
         "2124708444221661460": false,
         "2124710071146090770": false,
         "2124711448832327765": true,
-        "2124929043619631518": true
+        "2124929043619631518": true,
+        "2124930775095386440": true
       },
       "user_id": "1446541960181858315"
     },
@@ -1191,7 +1191,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124930195794886870",
+      "last_id": "2124930955806900440",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1388,12 +1388,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-22T13:41:29.000Z",
-          "id": "2124498504143823025",
-          "quoted_text": "cold hard cryptocurrencies https://t.co/mG9jLuIfHE",
-          "text": "hello https://t.co/dHwdmCojY5"
-        },
-        {
           "created_at": "2026-11-22T13:42:18.000Z",
           "id": "2124498709144797661",
           "text": "&amp; if majors stop nuking -5% a day maybe we can have fun onchain again"
@@ -1514,10 +1508,15 @@
           "created_at": "2026-11-23T16:26:28.000Z",
           "id": "2124902413303964079",
           "text": "hello"
+        },
+        {
+          "created_at": "2026-11-23T18:19:17.000Z",
+          "id": "2124930802056335438",
+          "quoted_text": "This reckless decision to bring back Jensen Huang does not change the fact that Huang and NVIDIA still owe Congress answers. \n\nThe Trump Administration needs to explain what \"input\" was given and by which senior officials to support Huang\u2019s reinstatement. \n\nHuang\u2019s return only increases the urgency to pass bipartisan export control bills and make sure NVIDIA does not lobby to kill that legislation and put our national security at risk.",
+          "text": "really hope we dont end up with ai being a political issue because the blue ppl and the red ppl dont like each other\n\nwe will 100% lose to china if not aligned https://t.co/EJNc3WStYL"
         }
       ],
       "reads": {
-        "2124498504143823025": "No call",
         "2124498709144797661": "No call",
         "2124500054706634908": "No call",
         "2124513622273495336": "VIEW bearish on btc",
@@ -1536,15 +1535,10 @@
         "2124890680996585836": "No call",
         "2124891110757863512": "No call",
         "2124900054104432791": "No call",
-        "2124902413303964079": "No call"
+        "2124902413303964079": "No call",
+        "2124930802056335438": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-23T00:00:01.000Z",
-          "id": "2124654162453389343",
-          "reply_to_id": "2124649475020873894",
-          "text": "@0xcyp \ud83e\udee9"
-        },
         {
           "created_at": "2026-11-23T00:00:53.000Z",
           "id": "2124654384034525596",
@@ -1628,13 +1622,15 @@
           "id": "2124930195794886870",
           "reply_to_id": "2124741083699855479",
           "text": "@flipski77 600 sol or 600k"
+        },
+        {
+          "created_at": "2026-11-23T18:19:53.000Z",
+          "id": "2124930955806900440",
+          "reply_to_id": "2124900189110690046",
+          "text": "@0xkgc no \ud83e\udee9"
         }
       ],
       "threads": {
-        "2122686564786487380": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122689967512285587": {
           "alerted": [],
           "self_replies": 0
@@ -2048,10 +2044,13 @@
         "2124902413303964079": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124930802056335438": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124498504143823025": false,
         "2124498709144797661": true,
         "2124500054706634908": true,
         "2124513622273495336": true,
@@ -2063,7 +2062,6 @@
         "2124547985568907606": false,
         "2124577163949334667": false,
         "2124581113540526316": false,
-        "2124654162453389343": false,
         "2124654384034525596": false,
         "2124655771061543268": false,
         "2124655915680895186": false,
@@ -2085,7 +2083,9 @@
         "2124902413303964079": false,
         "2124902445839188473": false,
         "2124927502758150491": true,
-        "2124930195794886870": true
+        "2124930195794886870": true,
+        "2124930802056335438": false,
+        "2124930955806900440": false
       },
       "user_id": "973261472"
     },
@@ -7468,5 +7468,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T18:18:21+00:00"
+  "updated_at": "2026-11-23T18:20:25+00:00"
 }
