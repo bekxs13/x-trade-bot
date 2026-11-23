@@ -1191,7 +1191,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124949453585182904",
+      "last_id": "2124949785924997418",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1388,14 +1388,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-22T15:14:43.000Z",
-          "id": "2124521968317727086",
-          "images": [
-            "https://pbs.twimg.com/media/HXvRZL_WcAAIV2h.jpg"
-          ],
-          "text": "some of these equities charts are just destruction man this deadass looks like a 100k topper https://t.co/ivhVoMdqzh"
-        },
-        {
           "created_at": "2026-11-22T15:15:46.000Z",
           "id": "2124522230268744075",
           "text": "how often do you use chatgpt/claude/venice"
@@ -1511,10 +1503,14 @@
           "id": "2124948514895454221",
           "quoted_text": "My statement on the egregious decision by NVIDIA to reinstate Jensen Huang as CEO. https://t.co/bf12B6r1z2",
           "text": "is this not crazy that theyre going back and forth like this? https://t.co/ZlSRssm90n"
+        },
+        {
+          "created_at": "2026-11-23T19:34:43.000Z",
+          "id": "2124949785924997418",
+          "text": "ok nvda +30% pearl +20% and every other coin full retraced the pump\n\nwe have some theorycrafting to do"
         }
       ],
       "reads": {
-        "2124521968317727086": "VIEW bearish on ORCL",
         "2124522230268744075": "No call",
         "2124522587875066344": "No call",
         "2124523290228064457": "No call",
@@ -1533,7 +1529,8 @@
         "2124932996654629321": "No call",
         "2124933153492013290": "No call",
         "2124933191286808766": "No call",
-        "2124948514895454221": "No call"
+        "2124948514895454221": "No call",
+        "2124949785924997418": "No call"
       },
       "replies": [
         {
@@ -1628,10 +1625,6 @@
         }
       ],
       "threads": {
-        "2122721857011163451": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122753788800839849": {
           "alerted": [],
           "self_replies": 0
@@ -2045,10 +2038,13 @@
         "2124948514895454221": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124949785924997418": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124521968317727086": true,
         "2124522230268744075": false,
         "2124522587875066344": false,
         "2124523290228064457": true,
@@ -2082,7 +2078,8 @@
         "2124948514895454221": false,
         "2124948714464919684": false,
         "2124949206137819200": false,
-        "2124949453585182904": false
+        "2124949453585182904": false,
+        "2124949785924997418": true
       },
       "user_id": "973261472"
     },
@@ -7465,5 +7462,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T19:34:30+00:00"
+  "updated_at": "2026-11-23T19:36:22+00:00"
 }
