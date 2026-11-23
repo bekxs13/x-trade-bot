@@ -6715,7 +6715,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2124867155498061929",
+      "last_id": "2124894119050825779",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6767,17 +6767,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T19:03:07.000Z",
-          "id": "2123854668921233473",
-          "text": "Would love to see a breakdown of tether and their balance sheet/valuation @junkbondinvest"
-        },
-        {
-          "created_at": "2026-11-20T19:29:37.000Z",
-          "id": "2123861341630841066",
-          "quoted_text": "They\u2019re not going to bail them out, they\u2019re going to offer them 0% loans as a matter of national security.\n\nThat\u2019s when you back up the truck on BTC and ride off into the sunset.",
-          "text": "Guess we just wait for this https://t.co/1zR5ncMSBk"
-        },
         {
           "created_at": "2026-11-20T20:20:14.000Z",
           "id": "2123874079102886338",
@@ -6891,11 +6880,21 @@
           "created_at": "2026-11-23T14:06:22.000Z",
           "id": "2124867155498061929",
           "text": "Most important trading day of the year"
+        },
+        {
+          "created_at": "2026-11-23T15:53:31.000Z",
+          "id": "2124894118660673733",
+          "quoted_text": "Holy fuck, this clip is insane  https://t.co/mkn1ntH2p1",
+          "text": "Restricting your ability to trade is restricting your ability to make money. Trading is about optionality, and being able to execute faster than your competition.\n\nTogi unfortunately had the right idea, but because he wasn't using a 24/7 platform like Hyperliquid he lost money and flipped."
+        },
+        {
+          "created_at": "2026-11-23T15:53:31.000Z",
+          "id": "2124894119050825779",
+          "quoted_text": "Holy fuck, this clip is insane  https://t.co/mkn1ntH2p1",
+          "text": "Restricting your ability to trade is restricting your ability to make money. Trading is about optionality, and being able to execute faster than your competition.\n\nTogi unfortunately had the right idea, but because he wasn't using a 24/7 platform like Hyperliquid he lost money and flipped."
         }
       ],
       "reads": {
-        "2123854668921233473": "No call",
-        "2123861341630841066": "No call",
         "2123874079102886338": "VIEW bearish on NDX",
         "2123875464200818903": "No call: bearish on NVDA (60%, too unsure)",
         "2123882568290546109": "No call",
@@ -6913,7 +6912,9 @@
         "2124695451903438950": "No call",
         "2124696942781313440": "No call",
         "2124709060742390013": "No call",
-        "2124867155498061929": "No call"
+        "2124867155498061929": "No call",
+        "2124894118660673733": "No call",
+        "2124894119050825779": "No call"
       },
       "replies": [
         {
@@ -7011,16 +7012,6 @@
         }
       ],
       "threads": {
-        "2121774572206977409": {
-          "alerted": [
-            "bias:btc:bearish"
-          ],
-          "self_replies": 1
-        },
-        "2121776966848397415": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121794197321867525": {
           "alerted": [
             "bias:btc:bullish"
@@ -7422,6 +7413,14 @@
         "2124867155498061929": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124894118660673733": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2124894119050825779": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7438,8 +7437,6 @@
         "2123460741197930822": true,
         "2123463010849358127": true,
         "2123471825153806596": false,
-        "2123854668921233473": true,
-        "2123861341630841066": true,
         "2123874079102886338": true,
         "2123875464200818903": true,
         "2123882568290546109": true,
@@ -7459,7 +7456,9 @@
         "2124695451903438950": false,
         "2124696942781313440": true,
         "2124709060742390013": true,
-        "2124867155498061929": true
+        "2124867155498061929": true,
+        "2124894118660673733": true,
+        "2124894119050825779": true
       },
       "user_id": "809191427645181952"
     }
@@ -7482,5 +7481,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T15:42:28+00:00"
+  "updated_at": "2026-11-23T15:54:27+00:00"
 }
