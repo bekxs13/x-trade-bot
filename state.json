@@ -1192,7 +1192,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124667891270488198",
+      "last_id": "2124698767656116514",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1389,11 +1389,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-21T22:43:06.000Z",
-          "id": "2124272421314113667",
-          "text": "https://t.co/0PcrroCra6"
-        },
-        {
           "created_at": "2026-11-21T23:02:34.000Z",
           "id": "2124277317782450670",
           "quoted_text": "It can fundamentally be true that both ASI is coming and this is the largest technical innovation since the internet but also that the business models of many of the companies in the AI value chain are fundamentally unsustainable on medium time horizons so without access to irrationally cheap and easy financing many of them will go bankrupt/need to be acquired/have large valuation resets. \n\nThese things are not incongruous, despite the seeming lack of nuance across the timeline.",
@@ -1524,10 +1519,17 @@
           "created_at": "2026-11-23T00:06:59.000Z",
           "id": "2124655915680895186",
           "text": "how we feeling lads"
+        },
+        {
+          "created_at": "2026-11-23T02:57:15.000Z",
+          "id": "2124698767656116514",
+          "images": [
+            "https://pbs.twimg.com/media/HXxyQp7WkAE2Gtr.jpg"
+          ],
+          "text": "man https://t.co/SQs5X878gU"
         }
       ],
       "reads": {
-        "2124272421314113667": "No call",
         "2124277317782450670": "No call: bullish on ai coins (55%, too unsure)",
         "2124343870645260476": "No call",
         "2124368701407269112": "No call",
@@ -1546,7 +1548,8 @@
         "2124547985568907606": "No call",
         "2124577163949334667": "No call",
         "2124581113540526316": "No call",
-        "2124655915680895186": "No call"
+        "2124655915680895186": "No call",
+        "2124698767656116514": "No call"
       },
       "replies": [
         {
@@ -1644,10 +1647,6 @@
         }
       ],
       "threads": {
-        "2122453799935906240": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122460677499482376": {
           "alerted": [],
           "self_replies": 0
@@ -2061,10 +2060,13 @@
         "2124655915680895186": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124698767656116514": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124272421314113667": false,
         "2124277317782450670": true,
         "2124343870645260476": false,
         "2124368701407269112": false,
@@ -2098,7 +2100,8 @@
         "2124655915680895186": false,
         "2124665293469614551": false,
         "2124666332763529276": false,
-        "2124667891270488198": false
+        "2124667891270488198": false,
+        "2124698767656116514": false
       },
       "user_id": "973261472"
     },
@@ -7470,5 +7473,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-23T02:54:30+00:00"
+  "updated_at": "2026-11-23T02:58:33+00:00"
 }
