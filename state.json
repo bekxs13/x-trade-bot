@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2124711448832327765",
+      "last_id": "2124929043619631518",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,11 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-21T19:26:59.000Z",
-          "id": "2124223063755829526",
-          "text": "So called free thinkers enjoying iced vanilla lattes n shit after that black coffee clip went viral"
-        },
         {
           "created_at": "2026-11-21T19:28:57.000Z",
           "id": "2124223559061115205",
@@ -349,10 +344,14 @@
             "https://pbs.twimg.com/media/HXx9zLzaQAA4Rn1.jpg"
           ],
           "text": "\u201cMr. Trump. The market is heavily short gamma we\u2019re gonna need to deploy all the pump headlines Sunday night to engineer forced hedging into a Monday gap up\u201d\n\n\u201cCopy Scott. Let\u2019s roll\u201d https://t.co/xVhqjVquwM"
+        },
+        {
+          "created_at": "2026-11-23T18:12:17.000Z",
+          "id": "2124929043619631518",
+          "text": "Are they gonna moon googl on neon or we don\u2019t care about model memes anymore"
         }
       ],
       "reads": {
-        "2124223063755829526": "No call",
         "2124223559061115205": "No call",
         "2124239896202321990": "No call",
         "2124242182525845613": "No call",
@@ -370,7 +369,8 @@
         "2124641527624573321": "Read together with the post it replies to",
         "2124708444221661460": "No call",
         "2124710071146090770": "No call",
-        "2124711448832327765": "No call"
+        "2124711448832327765": "No call",
+        "2124929043619631518": "No call"
       },
       "replies": [
         {
@@ -468,10 +468,6 @@
         }
       ],
       "threads": {
-        "2121175103572734418": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2121182305591128178": {
           "alerted": [],
           "self_replies": 0
@@ -876,6 +872,10 @@
         "2124711448832327765": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124929043619631518": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -888,7 +888,6 @@
         "2123633790681751688": false,
         "2123638463400669290": false,
         "2123644980136988942": false,
-        "2124223063755829526": false,
         "2124223559061115205": true,
         "2124227864476434748": false,
         "2124239896202321990": false,
@@ -913,7 +912,8 @@
         "2124641798064902465": true,
         "2124708444221661460": false,
         "2124710071146090770": false,
-        "2124711448832327765": true
+        "2124711448832327765": true,
+        "2124929043619631518": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7471,5 +7471,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T18:08:28+00:00"
+  "updated_at": "2026-11-23T18:14:23+00:00"
 }
