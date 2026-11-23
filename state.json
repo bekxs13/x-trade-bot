@@ -2508,7 +2508,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2124871663351406905",
+      "last_id": "2124877316501225858",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2544,12 +2544,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T21:10:58.000Z",
-          "id": "2123886845314634065",
-          "reply_to_id": "2123886653223887033",
-          "text": "if anything there are professionals doing the exact opposite trade"
-        },
         {
           "created_at": "2026-11-20T21:44:58.000Z",
           "id": "2123895401485160800",
@@ -2670,10 +2664,15 @@
           "created_at": "2026-11-23T14:24:17.000Z",
           "id": "2124871663351406905",
           "text": "jensen reinstated -&gt; first day of anthropic options trading -&gt; retail euphoria -&gt; must be nice to be an options market maker"
+        },
+        {
+          "created_at": "2026-11-23T14:46:45.000Z",
+          "id": "2124877316501225858",
+          "quoted_text": "no streams this week see you next monday. good luck out there",
+          "text": "lol https://t.co/3qG7bYtBMY"
         }
       ],
       "reads": {
-        "2123886845314634065": "Read together with the post it replies to",
         "2123895401485160800": "No call",
         "2123905990836044093": "No call: bearish on stocks/macro (60%, too unsure)",
         "2123910200952234237": "TRADE LONG FTEC",
@@ -2691,7 +2690,8 @@
         "2124679947050426577": "No call",
         "2124866456940954082": "No call",
         "2124867684399505774": "No call",
-        "2124871663351406905": "No call"
+        "2124871663351406905": "No call",
+        "2124877316501225858": "No call"
       },
       "replies": [
         {
@@ -2786,10 +2786,6 @@
         }
       ],
       "threads": {
-        "2118566848593543529": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118715158197625062": {
           "alerted": [],
           "self_replies": 0
@@ -3187,10 +3183,13 @@
         "2124871663351406905": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124877316501225858": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123886845314634065": true,
         "2123895401485160800": true,
         "2123905990836044093": true,
         "2123910200952234237": true,
@@ -3224,7 +3223,8 @@
         "2124714948630593794": false,
         "2124866456940954082": true,
         "2124867684399505774": true,
-        "2124871663351406905": true
+        "2124871663351406905": true,
+        "2124877316501225858": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7487,5 +7487,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T14:26:32+00:00"
+  "updated_at": "2026-11-23T14:48:26+00:00"
 }
