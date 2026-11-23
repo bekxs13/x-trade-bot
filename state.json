@@ -1191,7 +1191,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124824130851889594",
+      "last_id": "2124889222146375710",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1388,11 +1388,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-22T03:27:01.000Z",
-          "id": "2124343870645260476",
-          "text": "wyd"
-        },
-        {
           "created_at": "2026-11-22T05:05:41.000Z",
           "id": "2124368701407269112",
           "text": "merry christmas"
@@ -1528,10 +1523,14 @@
             "https://pbs.twimg.com/amplify_video_thumb/2124823548019769344/img/fZUPXVpOs1wliOMg.jpg"
           ],
           "text": "back in July, i talked with @notthreadguy about why i enjoy making market calls publicly https://t.co/9XzwYjpErB"
+        },
+        {
+          "created_at": "2026-11-23T15:34:03.000Z",
+          "id": "2124889222146375710",
+          "text": "jesus christ"
         }
       ],
       "reads": {
-        "2124343870645260476": "No call",
         "2124368701407269112": "No call",
         "2124368899877884252": "No call",
         "2124495693930721430": "No call",
@@ -1550,7 +1549,8 @@
         "2124581113540526316": "No call",
         "2124655915680895186": "No call",
         "2124698767656116514": "No call",
-        "2124824130851889594": "No call"
+        "2124824130851889594": "No call",
+        "2124889222146375710": "No call"
       },
       "replies": [
         {
@@ -1648,10 +1648,6 @@
         }
       ],
       "threads": {
-        "2122466008292090214": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122475215489753104": {
           "alerted": [],
           "self_replies": 0
@@ -2065,10 +2061,13 @@
         "2124824130851889594": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124889222146375710": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124343870645260476": false,
         "2124368701407269112": false,
         "2124368899877884252": false,
         "2124495693930721430": true,
@@ -2102,7 +2101,8 @@
         "2124698767656116514": false,
         "2124724847385170245": false,
         "2124732971949137971": false,
-        "2124824130851889594": true
+        "2124824130851889594": true,
+        "2124889222146375710": false
       },
       "user_id": "973261472"
     },
@@ -7484,5 +7484,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T15:32:24+00:00"
+  "updated_at": "2026-11-23T15:36:32+00:00"
 }
