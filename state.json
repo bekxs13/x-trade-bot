@@ -940,12 +940,12 @@
         },
         "btc": {
           "market": "crypto",
-          "post_id": "2124513622273495336",
-          "reason": "States 'bearish bias until 82.5k+ reclaimed', expects chop 56k-70k and a retest of low-mid 40ks if 56k is lost; recorded view was bullish.",
+          "post_id": "2124953388668408046",
+          "reason": "\"in disbelief at how weak bitcoin is\" is a bearish read on BTC, matching his recorded bearish btc view.",
           "scope": "btc",
           "since": "2026-11-22",
           "stance": "bearish",
-          "updated_at": "2026-11-22T14:41:33.000Z"
+          "updated_at": "2026-11-23T19:49:02.000Z"
         },
         "crypto market": {
           "market": "crypto",
@@ -1191,7 +1191,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124950312997839314",
+      "last_id": "2124953618067370013",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1388,11 +1388,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-22T15:17:11.000Z",
-          "id": "2124522587875066344",
-          "text": "how much has ai improved your life over past 5 years on a scale from 1 to 10"
-        },
-        {
           "created_at": "2026-11-22T15:19:58.000Z",
           "id": "2124523290228064457",
           "text": "can someone point me to tradfi land so i can follow the stocks guys i need to see how they are responding to this"
@@ -1508,10 +1503,14 @@
           "created_at": "2026-11-23T19:36:48.000Z",
           "id": "2124950312997839314",
           "text": "if togi wouldve been 10x long his $600k on hyperliquid $NVDA perps on @tradexyz instead of yolo'ing options after market close he would've make like $2M"
+        },
+        {
+          "created_at": "2026-11-23T19:49:02.000Z",
+          "id": "2124953388668408046",
+          "text": "actually in disbelief at how weak bitcoin is"
         }
       ],
       "reads": {
-        "2124522587875066344": "No call",
         "2124523290228064457": "No call",
         "2124547985568907606": "No call",
         "2124577163949334667": "No call",
@@ -1530,15 +1529,10 @@
         "2124933191286808766": "No call",
         "2124948514895454221": "No call",
         "2124949785924997418": "No call",
-        "2124950312997839314": "No call"
+        "2124950312997839314": "No call",
+        "2124953388668408046": "No call: bearish on btc (same view as before)"
       },
       "replies": [
-        {
-          "created_at": "2026-11-23T16:23:21.000Z",
-          "id": "2124901628780372011",
-          "reply_to_id": "2124884249719496802",
-          "text": "@maybe_cmeister i wish"
-        },
         {
           "created_at": "2026-11-23T16:26:10.000Z",
           "id": "2124902336057253892",
@@ -1622,13 +1616,15 @@
           "id": "2124949453585182904",
           "reply_to_id": "2124939814978167293",
           "text": "@insomniacxbt what the FUCK man"
+        },
+        {
+          "created_at": "2026-11-23T19:49:56.000Z",
+          "id": "2124953618067370013",
+          "reply_to_id": "2124953449762869729",
+          "text": "@poopypee6741 z** p****"
         }
       ],
       "threads": {
-        "2122813671814345159": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122814152024690958": {
           "alerted": [],
           "self_replies": 0
@@ -2042,10 +2038,13 @@
         "2124950312997839314": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124953388668408046": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124522587875066344": false,
         "2124523290228064457": true,
         "2124547985568907606": false,
         "2124577163949334667": false,
@@ -2057,7 +2056,6 @@
         "2124890680996585836": false,
         "2124891110757863512": true,
         "2124900054104432791": true,
-        "2124901628780372011": false,
         "2124902336057253892": false,
         "2124902413303964079": false,
         "2124902445839188473": false,
@@ -2079,7 +2077,9 @@
         "2124949206137819200": false,
         "2124949453585182904": false,
         "2124949785924997418": true,
-        "2124950312997839314": true
+        "2124950312997839314": true,
+        "2124953388668408046": true,
+        "2124953618067370013": false
       },
       "user_id": "973261472"
     },
@@ -7462,5 +7462,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T19:48:23+00:00"
+  "updated_at": "2026-11-23T19:50:34+00:00"
 }
