@@ -1191,7 +1191,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124943509849358618",
+      "last_id": "2124945332052050297",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1537,12 +1537,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-23T00:54:34.000Z",
-          "id": "2124667891270488198",
-          "reply_to_id": "2124666839259099274",
-          "text": "@udiWertheimer a swim?"
-        },
-        {
           "created_at": "2026-11-23T04:40:53.000Z",
           "id": "2124724847385170245",
           "reply_to_id": "2124685742513566070",
@@ -1625,6 +1619,12 @@
           "id": "2124943509849358618",
           "reply_to_id": "2124942766551818596",
           "text": "@ACXtrades in what ways?"
+        },
+        {
+          "created_at": "2026-11-23T19:17:01.000Z",
+          "id": "2124945332052050297",
+          "reply_to_id": "2124870259861594461",
+          "text": "am still coming to final conclusions on this but it is increasingly seeming likely that btc/eth/sol are becoming the laggard assets for risk-on, & when they are pumping hard it is the tail end of risk cycle, kinda like when dino coins would pump at the end of altcoin rallies to signal the end\n\nif this is true, then it would make sense why crypto as the underperforming asset class topped first, & also why this last pump was a countertrend rally before widespread weakness in risk assets instead of beginning of the bull\n\nwould be a very unfortunate reality for us if this is true"
         }
       ],
       "threads": {
@@ -2057,7 +2057,6 @@
         "2124577163949334667": false,
         "2124581113540526316": false,
         "2124655915680895186": false,
-        "2124667891270488198": false,
         "2124698767656116514": false,
         "2124724847385170245": false,
         "2124732971949137971": false,
@@ -2082,7 +2081,8 @@
         "2124934243747070243": false,
         "2124936982996701517": false,
         "2124942586859434310": false,
-        "2124943509849358618": false
+        "2124943509849358618": false,
+        "2124945332052050297": true
       },
       "user_id": "973261472"
     },
@@ -7465,5 +7465,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T19:10:22+00:00"
+  "updated_at": "2026-11-23T19:18:21+00:00"
 }
