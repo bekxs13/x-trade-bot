@@ -2504,7 +2504,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2124679947050426577",
+      "last_id": "2124682865522692195",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2688,12 +2688,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-21T05:22:20.000Z",
-          "id": "2124010501357154563",
-          "reply_to_id": "2124009881745109000",
-          "text": "@Huboid69 yea"
-        },
-        {
           "created_at": "2026-11-21T05:22:35.000Z",
           "id": "2124010564058009779",
           "reply_to_id": "2124009871787889013",
@@ -2776,6 +2770,12 @@
           "id": "2124678376451412245",
           "reply_to_id": "2124669678836654575",
           "text": "@RachelZader peanut butter\ndefinitely more eggs you can pre-prepared hard boiled eggs and keep them in the fridge\npeas/beans \ntinned fish"
+        },
+        {
+          "created_at": "2026-11-23T01:54:04.000Z",
+          "id": "2124682865522692195",
+          "reply_to_id": "2124681105777524865",
+          "text": "@YahwehOrBust @RachelZader It's tasty, has salt, and requires no cooking. Yes it has bad macros but I don't think that's what Rachel is trying to optimize here. May be too much saturated fat if she's really worried about cholesterol tho idk"
         }
       ],
       "threads": {
@@ -3198,7 +3198,6 @@
         "2124001290762047674": false,
         "2124008458756432215": false,
         "2124009076883370159": false,
-        "2124010501357154563": false,
         "2124010564058009779": false,
         "2124012100788031507": false,
         "2124016123586740573": false,
@@ -3217,7 +3216,8 @@
         "2124661533859012696": true,
         "2124671044996956212": false,
         "2124678376451412245": false,
-        "2124679947050426577": true
+        "2124679947050426577": true,
+        "2124682865522692195": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7466,5 +7466,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-23T01:44:28+00:00"
+  "updated_at": "2026-11-23T01:54:21+00:00"
 }
