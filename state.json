@@ -2485,7 +2485,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2124911843168899296",
+      "last_id": "2124960475687588173",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2521,19 +2521,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T22:49:09.000Z",
-          "id": "2123911555209433425",
-          "images": [
-            "https://pbs.twimg.com/media/HXmmRaHXkAAqGnc.jpg"
-          ],
-          "text": "https://t.co/mwvOS4ohDO"
-        },
-        {
-          "created_at": "2026-11-20T23:56:34.000Z",
-          "id": "2123928519906394521",
-          "text": "a dark, twisted version of borges' library of babel which contains every legible, syntactically correct human thought imaginable"
-        },
         {
           "created_at": "2026-11-21T00:04:05.000Z",
           "id": "2123930412317802923",
@@ -2649,11 +2636,20 @@
           "id": "2124911843168899296",
           "quoted_text": "It would be great if we at least visit one of the two $JHEQX strikes over the next two months.  If not people are gonna get frustrated AF https://t.co/qV2H7cO7v8",
           "text": "there is a second foundation that controls world news and makes the market pin one of these strikes https://t.co/okmkvYKWy6"
+        },
+        {
+          "created_at": "2026-11-23T20:16:35.000Z",
+          "id": "2124960322943414764",
+          "text": "every quant trader i've ever met that reads this account thinks its their own personal guilty pleasure, but no, there are quite literally thousands of you, with seniority ranging from new hires to partners at the absolute best firms"
+        },
+        {
+          "created_at": "2026-11-23T20:17:11.000Z",
+          "id": "2124960475687588173",
+          "reply_to_id": "2124960322943414764",
+          "text": "we are all the same we are all addicted to twitter it is what it is"
         }
       ],
       "reads": {
-        "2123911555209433425": "No call",
-        "2123928519906394521": "No call",
         "2123930412317802923": "No call",
         "2123989072234328175": "No call",
         "2124000938121683246": "No call",
@@ -2670,7 +2666,9 @@
         "2124877316501225858": "No call",
         "2124910769099677828": "No call: bullish on NVDA (60%, too unsure)",
         "2124910805518893416": "Read together with the post it replies to",
-        "2124911843168899296": "No call"
+        "2124911843168899296": "No call",
+        "2124960322943414764": "No call",
+        "2124960475687588173": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -2765,10 +2763,6 @@
         }
       ],
       "threads": {
-        "2118874492202033161": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118885721016504634": {
           "alerted": [],
           "self_replies": 0
@@ -3166,11 +3160,13 @@
         "2124911843168899296": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124960322943414764": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2123911555209433425": false,
-        "2123928519906394521": false,
         "2123930412317802923": true,
         "2123989072234328175": true,
         "2124000938121683246": true,
@@ -3203,7 +3199,9 @@
         "2124910428673482834": false,
         "2124910769099677828": true,
         "2124910805518893416": false,
-        "2124911843168899296": true
+        "2124911843168899296": true,
+        "2124960322943414764": false,
+        "2124960475687588173": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7462,5 +7460,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T20:16:19+00:00"
+  "updated_at": "2026-11-23T20:18:37+00:00"
 }
