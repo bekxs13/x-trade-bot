@@ -1191,7 +1191,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124902336057253892",
+      "last_id": "2124902445839188473",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1388,17 +1388,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-22T13:35:45.000Z",
-          "id": "2124497063773872582",
-          "images": [
-            "https://pbs.twimg.com/media/HXu6X-hWcAAPd6t.jpg",
-            "https://pbs.twimg.com/media/HXu6ZZKXYAA2ZAu.jpg",
-            "https://pbs.twimg.com/media/HXu6bW-WUAA-NYZ.jpg"
-          ],
-          "quoted_text": "think these 3 [ $DRV, $VVV, $PEARL ] will be the least correlated to the broader market &amp; each have their own unique individual bull cases https://t.co/RdEnXhULiV https://t.co/gURmz92jZv",
-          "text": "$ZEC $HYPE $PUMP - [ZEHYPERPUMP] \n\nall 3 also at high probability bounce spots, likely bottom Monday/Tuesday &amp; set the lows for November monthly into a green week\n\nsanta relief rally otw https://t.co/LHLBNFeSVv https://t.co/n5y6XwssWe"
-        },
-        {
           "created_at": "2026-11-22T13:41:29.000Z",
           "id": "2124498504143823025",
           "quoted_text": "cold hard cryptocurrencies https://t.co/mG9jLuIfHE",
@@ -1520,10 +1509,14 @@
           "created_at": "2026-11-23T16:17:06.000Z",
           "id": "2124900054104432791",
           "text": "was right on this week being green and somehow made zero dollars today, absolutely incredible"
+        },
+        {
+          "created_at": "2026-11-23T16:26:28.000Z",
+          "id": "2124902413303964079",
+          "text": "hello"
         }
       ],
       "reads": {
-        "2124497063773872582": "VIEW bullish on crypto market",
         "2124498504143823025": "No call",
         "2124498709144797661": "No call",
         "2124500054706634908": "No call",
@@ -1542,15 +1535,10 @@
         "2124889222146375710": "No call",
         "2124890680996585836": "No call",
         "2124891110757863512": "No call",
-        "2124900054104432791": "No call"
+        "2124900054104432791": "No call",
+        "2124902413303964079": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-22T21:58:20.000Z",
-          "id": "2124623539277828520",
-          "reply_to_id": "2124564593007862206",
-          "text": "@jaxksaw \ud83e\udee9"
-        },
         {
           "created_at": "2026-11-22T22:04:54.000Z",
           "id": "2124625194987983099",
@@ -1637,13 +1625,15 @@
           "id": "2124902336057253892",
           "reply_to_id": "2124901200814563501",
           "text": "@realtraderjoe1 so true"
+        },
+        {
+          "created_at": "2026-11-23T16:26:36.000Z",
+          "id": "2124902445839188473",
+          "reply_to_id": "2124901143033659540",
+          "text": "@Timo_MatteoCEO i did yes"
         }
       ],
       "threads": {
-        "2122664593994768649": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122686564786487380": {
           "alerted": [],
           "self_replies": 0
@@ -2057,10 +2047,13 @@
         "2124900054104432791": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124902413303964079": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124497063773872582": true,
         "2124498504143823025": false,
         "2124498709144797661": true,
         "2124500054706634908": true,
@@ -2073,7 +2066,6 @@
         "2124547985568907606": false,
         "2124577163949334667": false,
         "2124581113540526316": false,
-        "2124623539277828520": false,
         "2124625194987983099": false,
         "2124643707496419582": false,
         "2124654162453389343": false,
@@ -2094,7 +2086,9 @@
         "2124899377592332755": true,
         "2124900054104432791": true,
         "2124901628780372011": false,
-        "2124902336057253892": false
+        "2124902336057253892": false,
+        "2124902413303964079": false,
+        "2124902445839188473": false
       },
       "user_id": "973261472"
     },
@@ -7475,5 +7469,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T16:26:30+00:00"
+  "updated_at": "2026-11-23T16:28:31+00:00"
 }
