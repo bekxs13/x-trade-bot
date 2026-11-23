@@ -6705,7 +6705,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2124696942781313440",
+      "last_id": "2124709060742390013",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6757,12 +6757,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T16:51:14.000Z",
-          "id": "2123821480395919588",
-          "reply_to_id": "2122410252977283480",
-          "text": "No longer interested in Hood in the 50s, SOXL at 34 is a total retail destruction of their AUM, all the biggest retail momo stocks (memory, space stocks, now SPCX and ANT IPOs if they drill) completely erode the userbase. Pair that with unemployment rising due to AI, bad headwinds."
-        },
         {
           "created_at": "2026-11-20T17:41:53.000Z",
           "id": "2123834226890113467",
@@ -6879,10 +6873,17 @@
           "created_at": "2026-11-23T02:50:00.000Z",
           "id": "2124696942781313440",
           "text": "Everyone's long? What could go wrong?"
+        },
+        {
+          "created_at": "2026-11-23T03:38:09.000Z",
+          "id": "2124709060742390013",
+          "images": [
+            "https://pbs.twimg.com/media/HXx7m9-WAAAmk3S.jpg"
+          ],
+          "text": "Okay plunge protection crew is here now https://t.co/YxjBZ3C9pg"
         }
       ],
       "reads": {
-        "2123821480395919588": "VIEW bearish on HOOD",
         "2123834226890113467": "VIEW bullish on HYPE",
         "2123854668921233473": "No call",
         "2123861341630841066": "No call",
@@ -6901,7 +6902,8 @@
         "2124668806052372991": "No call",
         "2124695277185507703": "No call",
         "2124695451903438950": "No call",
-        "2124696942781313440": "No call"
+        "2124696942781313440": "No call",
+        "2124709060742390013": "No call"
       },
       "replies": [
         {
@@ -6999,10 +7001,6 @@
         }
       ],
       "threads": {
-        "2121746316707656089": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121751494244397231": {
           "alerted": [],
           "self_replies": 0
@@ -7410,6 +7408,10 @@
         "2124696942781313440": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124709060742390013": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7426,7 +7428,6 @@
         "2123460741197930822": true,
         "2123463010849358127": true,
         "2123471825153806596": false,
-        "2123821480395919588": true,
         "2123834226890113467": true,
         "2123854668921233473": true,
         "2123861341630841066": true,
@@ -7447,7 +7448,8 @@
         "2124668806052372991": false,
         "2124695277185507703": true,
         "2124695451903438950": false,
-        "2124696942781313440": true
+        "2124696942781313440": true,
+        "2124709060742390013": true
       },
       "user_id": "809191427645181952"
     }
@@ -7470,5 +7472,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-23T03:36:24+00:00"
+  "updated_at": "2026-11-23T03:38:30+00:00"
 }
