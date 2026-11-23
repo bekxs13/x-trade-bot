@@ -1190,7 +1190,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124959361709789582",
+      "last_id": "2124959970135601291",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1534,12 +1534,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-23T16:26:36.000Z",
-          "id": "2124902445839188473",
-          "reply_to_id": "2124901143033659540",
-          "text": "@Timo_MatteoCEO i did yes"
-        },
-        {
           "created_at": "2026-11-23T18:06:10.000Z",
           "id": "2124927502758150491",
           "reply_to_id": "2124906512183353529",
@@ -1622,6 +1616,12 @@
           "id": "2124959361709789582",
           "reply_to_id": "2124946465118388227",
           "text": "@kale_abe @TraderMercury i dont think ive ever agreed with anything you've ever replied to me"
+        },
+        {
+          "created_at": "2026-11-23T20:15:11.000Z",
+          "id": "2124959970135601291",
+          "reply_to_id": "2124946933995253947",
+          "text": "i dont know what you are referring to so cant really comment but generally i think that macro risk factors mean more than an arbitrary timeline for when to buy and when to sell, crypto 4y cycles have usually aligned w risk-on cycles for other assets as well which is why they've worked so well, not because you are just supposed to buy every 4 years and make money"
         }
       ],
       "threads": {
@@ -2056,7 +2056,6 @@
         "2124891110757863512": true,
         "2124900054104432791": true,
         "2124902413303964079": false,
-        "2124902445839188473": false,
         "2124927502758150491": true,
         "2124930195794886870": true,
         "2124930802056335438": false,
@@ -2079,7 +2078,8 @@
         "2124953388668408046": true,
         "2124953618067370013": false,
         "2124955207574667393": true,
-        "2124959361709789582": false
+        "2124959361709789582": false,
+        "2124959970135601291": true
       },
       "user_id": "973261472"
     },
@@ -7462,5 +7462,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T20:14:24+00:00"
+  "updated_at": "2026-11-23T20:16:19+00:00"
 }
