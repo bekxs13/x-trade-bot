@@ -2508,7 +2508,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2124866456940954082",
+      "last_id": "2124867684399505774",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2544,11 +2544,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T20:58:18.000Z",
-          "id": "2123883657853104385",
-          "text": "QQQ has just entered a bear market officially \ud83d\udea8\ud83d\udea8\ud83d\udea8"
-        },
         {
           "created_at": "2026-11-20T21:10:12.000Z",
           "id": "2123886653223887033",
@@ -2670,10 +2665,15 @@
             "https://pbs.twimg.com/media/HX0KxuFWkAESCIp.jpg"
           ],
           "text": "missed a generational buying opportunity on friday time to kill myself https://t.co/mVTaN8gTtQ"
+        },
+        {
+          "created_at": "2026-11-23T14:08:28.000Z",
+          "id": "2124867684399505774",
+          "quoted_text": "I don\u2019t care fuck. I\u2019m buying right now.",
+          "text": "what did he fucking know https://t.co/ssXZMwy3Gy"
         }
       ],
       "reads": {
-        "2123883657853104385": "No call",
         "2123886653223887033": "No call",
         "2123886845314634065": "Read together with the post it replies to",
         "2123895401485160800": "No call",
@@ -2691,7 +2691,8 @@
         "2124539904994824298": "No call",
         "2124540084464570817": "No call",
         "2124679947050426577": "No call",
-        "2124866456940954082": "No call"
+        "2124866456940954082": "No call",
+        "2124867684399505774": "No call"
       },
       "replies": [
         {
@@ -2786,10 +2787,6 @@
         }
       ],
       "threads": {
-        "2118400995751264387": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118434408227090738": {
           "alerted": [],
           "self_replies": 0
@@ -3187,10 +3184,13 @@
         "2124866456940954082": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124867684399505774": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123883657853104385": true,
         "2123886653223887033": true,
         "2123886845314634065": true,
         "2123895401485160800": true,
@@ -3224,7 +3224,8 @@
         "2124707696876097637": false,
         "2124707954754564525": false,
         "2124714948630593794": false,
-        "2124866456940954082": true
+        "2124866456940954082": true,
+        "2124867684399505774": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7487,5 +7488,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T14:08:20+00:00"
+  "updated_at": "2026-11-23T14:10:26+00:00"
 }
