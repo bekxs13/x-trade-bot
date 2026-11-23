@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2124991905490747800",
+      "last_id": "2125011472287994086",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,11 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-21T23:25:11.000Z",
-          "id": "2124283008194887982",
-          "text": "Played like 30 mins was whatever but then got back in my car irl and felt trippy kinda uncanny valley"
-        },
         {
           "created_at": "2026-11-22T01:03:29.000Z",
           "id": "2124307746162090256",
@@ -349,10 +344,17 @@
           "id": "2124991905490747800",
           "quoted_text": "H3h3 losing his own company for dry humping some chick at his company in a 30 year marriage while my boy over at nvidia gets a promotion and a raise and his job back for donkey f*cking a few treeshes in his company. The real is back. Jensen Huang a real nigga",
           "text": "#investing https://t.co/v9VJKbZfVL"
+        },
+        {
+          "created_at": "2026-11-23T23:39:50.000Z",
+          "id": "2125011472287994086",
+          "images": [
+            "https://pbs.twimg.com/media/HX2Oq1VaEAAt_om.jpg"
+          ],
+          "text": "1 week too early :/ https://t.co/cxuMPVSV7m"
         }
       ],
       "reads": {
-        "2124283008194887982": "No call",
         "2124307746162090256": "No call",
         "2124568636593737896": "No call",
         "2124587570374004997": "No call",
@@ -370,7 +372,8 @@
         "2124952193866571812": "No call",
         "2124956646116065390": "No call",
         "2124959592379793500": "No call",
-        "2124991905490747800": "No call"
+        "2124991905490747800": "No call",
+        "2125011472287994086": "No call"
       },
       "replies": [
         {
@@ -468,10 +471,6 @@
         }
       ],
       "threads": {
-        "2121389071947960700": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121393490244551021": {
           "alerted": [],
           "self_replies": 1
@@ -876,6 +875,10 @@
         "2124991905490747800": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125011472287994086": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -885,7 +888,6 @@
         "2123638463400669290": false,
         "2123644980136988942": false,
         "2124227864476434748": false,
-        "2124283008194887982": false,
         "2124291665359999351": false,
         "2124292318295687479": false,
         "2124307746162090256": false,
@@ -913,7 +915,8 @@
         "2124956646116065390": false,
         "2124959592379793500": false,
         "2124982044556181935": false,
-        "2124991905490747800": false
+        "2124991905490747800": false,
+        "2125011472287994086": true
       },
       "user_id": "1446541960181858315"
     },
@@ -941,7 +944,7 @@
       },
       "closed": [],
       "handle": "bigtrout300",
-      "last_id": "2125008758548103377",
+      "last_id": "2125011111938507067",
       "positions": {
         "SPX": {
           "asset": "SPX",
@@ -1075,12 +1078,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-23T19:47:23.000Z",
-          "id": "2124952976532054256",
-          "reply_to_id": "2124952306546323668",
-          "text": "@Grains_BTC &lt;3"
-        },
-        {
           "created_at": "2026-11-23T20:06:34.000Z",
           "id": "2124957800594063667",
           "reply_to_id": "2124957732239454714",
@@ -1166,6 +1163,12 @@
           "id": "2125008758548103377",
           "reply_to_id": "2125008695516107071",
           "text": "@BuzLite1 like legit the funniest outcome"
+        },
+        {
+          "created_at": "2026-11-23T23:38:24.000Z",
+          "id": "2125011111938507067",
+          "reply_to_id": "2125010836015976855",
+          "text": "@ThisIsNuse 100k December type candle"
         }
       ],
       "threads": {
@@ -1230,7 +1233,6 @@
         "2124938080687972641": false,
         "2124940743664079028": false,
         "2124943710312079439": true,
-        "2124952976532054256": false,
         "2124956977818435750": true,
         "2124957800594063667": false,
         "2124958291637973286": false,
@@ -1251,7 +1253,8 @@
         "2125004601573454219": false,
         "2125007905531494831": true,
         "2125008064877363684": false,
-        "2125008758548103377": false
+        "2125008758548103377": false,
+        "2125011111938507067": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7797,5 +7800,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T23:34:23+00:00"
+  "updated_at": "2026-11-23T23:40:28+00:00"
 }
