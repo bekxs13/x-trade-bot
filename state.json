@@ -2494,7 +2494,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2124895231388852475",
+      "last_id": "2124910805518893416",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2530,17 +2530,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T21:44:58.000Z",
-          "id": "2123895401485160800",
-          "text": "show me in your portfolio where they touched you"
-        },
-        {
-          "created_at": "2026-11-20T22:27:03.000Z",
-          "id": "2123905990836044093",
-          "quoted_text": "we are truly in the end times https://t.co/Z8geYioi42 https://t.co/EuVhme9Iyu",
-          "text": "holy jump scare at the end \n\nwe are going down another 50% https://t.co/QYrwKcnVn3"
-        },
         {
           "created_at": "2026-11-20T22:43:46.000Z",
           "id": "2123910200952234237",
@@ -2656,11 +2645,21 @@
           "id": "2124877316501225858",
           "quoted_text": "no streams this week see you next monday. good luck out there",
           "text": "lol https://t.co/3qG7bYtBMY"
+        },
+        {
+          "created_at": "2026-11-23T16:59:40.000Z",
+          "id": "2124910769099677828",
+          "quoted_text": "JUST IN: Jim Cramer turns bearish on Nvidia",
+          "text": "unbelievable https://t.co/Gk0aD2M7ik"
+        },
+        {
+          "created_at": "2026-11-23T16:59:49.000Z",
+          "id": "2124910805518893416",
+          "reply_to_id": "2124910769099677828",
+          "text": "i am in awe"
         }
       ],
       "reads": {
-        "2123895401485160800": "No call",
-        "2123905990836044093": "No call: bearish on stocks/macro (60%, too unsure)",
         "2123910200952234237": "TRADE LONG FTEC",
         "2123911555209433425": "No call",
         "2123928519906394521": "No call",
@@ -2677,15 +2676,11 @@
         "2124866456940954082": "No call",
         "2124867684399505774": "No call",
         "2124871663351406905": "No call",
-        "2124877316501225858": "No call"
+        "2124877316501225858": "No call",
+        "2124910769099677828": "No call: bullish on NVDA (60%, too unsure)",
+        "2124910805518893416": "Read together with the post it replies to"
       },
       "replies": [
-        {
-          "created_at": "2026-11-21T19:51:02.000Z",
-          "id": "2124229116165796196",
-          "reply_to_id": "2124229026869100988",
-          "text": "@shauseth no"
-        },
         {
           "created_at": "2026-11-22T00:12:15.000Z",
           "id": "2124294855543370230",
@@ -2769,13 +2764,15 @@
           "id": "2124895231388852475",
           "reply_to_id": "2124887807915114616",
           "text": "@fordoglunk sad!"
+        },
+        {
+          "created_at": "2026-11-23T16:58:19.000Z",
+          "id": "2124910428673482834",
+          "reply_to_id": "2123817320481014082",
+          "text": "@eva_roytburg lol"
         }
       ],
       "threads": {
-        "2118715158197625062": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118726291905999055": {
           "alerted": [],
           "self_replies": 0
@@ -3173,11 +3170,13 @@
         "2124877316501225858": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124910769099677828": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2123895401485160800": true,
-        "2123905990836044093": true,
         "2123910200952234237": true,
         "2123911555209433425": false,
         "2123928519906394521": false,
@@ -3188,7 +3187,6 @@
         "2124008458756432215": false,
         "2124009076883370159": false,
         "2124019541462413797": false,
-        "2124229116165796196": false,
         "2124294855543370230": false,
         "2124539904994824298": true,
         "2124540084464570817": true,
@@ -3210,7 +3208,10 @@
         "2124867684399505774": true,
         "2124871663351406905": true,
         "2124877316501225858": false,
-        "2124895231388852475": false
+        "2124895231388852475": false,
+        "2124910428673482834": false,
+        "2124910769099677828": true,
+        "2124910805518893416": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7469,5 +7470,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T16:28:31+00:00"
+  "updated_at": "2026-11-23T17:00:45+00:00"
 }
