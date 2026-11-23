@@ -2504,7 +2504,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2124678376451412245",
+      "last_id": "2124679947050426577",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2540,15 +2540,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T19:33:00.000Z",
-          "id": "2123862192973852710",
-          "images": [
-            "https://pbs.twimg.com/media/HXl5aHGWsAAbjyU.jpg"
-          ],
-          "quoted_text": "$NVDA  - SEC INVESTIGATING NVIDIA OVER POTENTIAL ACCOUNTING ISSUES \n\nThe U.S. Securities and Exchange Commission is examining Nvidia's accounting practices, Reuters reports, citing two people familiar with the confidential investigation.\n\nThe probe adds to mounting legal pressure following the company's leadership scandal and ongoing scrutiny of AI chip exports to China.\n\nSeparately, the Justice Department is reviewing Nvidia's $12.9 billion Hugging Face acquisition as part of a broader antitrus",
-          "text": "wow https://t.co/evfQ6mxHjy https://t.co/BiJfd6PrIO"
-        },
         {
           "created_at": "2026-11-20T19:59:58.000Z",
           "id": "2123868975947756012",
@@ -2667,10 +2658,15 @@
           "quoted_text": "So have I got this right?  Hyperliquid degens have bid up the SPX 130 handles?",
           "reply_to_id": "2124653554795192661",
           "text": "@liquiditygoblin not to pick on andy here (lord knows he has been more right than i have recently), but this was a common sentiment i saw on the timeline pre-open:\n\nhttps://t.co/U02Jg22xgA"
+        },
+        {
+          "created_at": "2026-11-23T01:42:28.000Z",
+          "id": "2124679947050426577",
+          "quoted_text": "I don\u2019t care fuck. I\u2019m buying right now.",
+          "text": "\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7 https://t.co/ssXZMwy3Gy"
         }
       ],
       "reads": {
-        "2123862192973852710": "No call",
         "2123883657853104385": "No call",
         "2123886653223887033": "No call",
         "2123886845314634065": "Read together with the post it replies to",
@@ -2687,7 +2683,8 @@
         "2124009076883370159": "No call",
         "2124019541462413797": "No call",
         "2124539904994824298": "No call",
-        "2124540084464570817": "No call"
+        "2124540084464570817": "No call",
+        "2124679947050426577": "No call"
       },
       "replies": [
         {
@@ -2782,10 +2779,6 @@
         }
       ],
       "threads": {
-        "2118362882605805903": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118369396943200472": {
           "alerted": [],
           "self_replies": 0
@@ -3183,10 +3176,13 @@
         "2124539904994824298": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2124679947050426577": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123862192973852710": true,
         "2123868975947756012": false,
         "2123883657853104385": true,
         "2123886653223887033": true,
@@ -3220,7 +3216,8 @@
         "2124661145864986901": false,
         "2124661533859012696": true,
         "2124671044996956212": false,
-        "2124678376451412245": false
+        "2124678376451412245": false,
+        "2124679947050426577": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7469,5 +7466,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-23T01:38:17+00:00"
+  "updated_at": "2026-11-23T01:44:28+00:00"
 }
