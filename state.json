@@ -2504,7 +2504,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2124654098792476871",
+      "last_id": "2124661145864986901",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2691,12 +2691,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-21T04:41:34.000Z",
-          "id": "2124000242974535917",
-          "reply_to_id": "2123970646984331655",
-          "text": "@Xenoimpulse don't forget who tried to push sora"
-        },
-        {
           "created_at": "2026-11-21T04:51:38.000Z",
           "id": "2124002776481255801",
           "reply_to_id": "2124002559790858409",
@@ -2779,6 +2773,12 @@
           "id": "2124653554795192661",
           "reply_to_id": "2124636106771816616",
           "text": "@liquiditygoblin that may be true, i was just saying the moves this particular weekend didn't seem unbelievable to me, especially given btc moves. some people were commenting that they were egregious and i think at least on the index futures side were proven wrong"
+        },
+        {
+          "created_at": "2026-11-23T00:27:46.000Z",
+          "id": "2124661145864986901",
+          "reply_to_id": "2124660684667625754",
+          "text": "@yuzu_4ever maybe so but you can still make love happen"
         }
       ],
       "threads": {
@@ -3198,7 +3198,6 @@
         "2123928519906394521": false,
         "2123930412317802923": true,
         "2123989072234328175": true,
-        "2124000242974535917": false,
         "2124000938121683246": true,
         "2124001290762047674": false,
         "2124002776481255801": false,
@@ -3220,7 +3219,8 @@
         "2124540084464570817": true,
         "2124652363311190364": false,
         "2124653554795192661": true,
-        "2124654098792476871": true
+        "2124654098792476871": true,
+        "2124661145864986901": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7468,5 +7468,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-23T00:12:22+00:00"
+  "updated_at": "2026-11-23T00:28:23+00:00"
 }
