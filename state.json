@@ -1191,7 +1191,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124949785924997418",
+      "last_id": "2124950312997839314",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1388,11 +1388,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-22T15:15:46.000Z",
-          "id": "2124522230268744075",
-          "text": "how often do you use chatgpt/claude/venice"
-        },
-        {
           "created_at": "2026-11-22T15:17:11.000Z",
           "id": "2124522587875066344",
           "text": "how much has ai improved your life over past 5 years on a scale from 1 to 10"
@@ -1508,10 +1503,14 @@
           "created_at": "2026-11-23T19:34:43.000Z",
           "id": "2124949785924997418",
           "text": "ok nvda +30% pearl +20% and every other coin full retraced the pump\n\nwe have some theorycrafting to do"
+        },
+        {
+          "created_at": "2026-11-23T19:36:48.000Z",
+          "id": "2124950312997839314",
+          "text": "if togi wouldve been 10x long his $600k on hyperliquid $NVDA perps on @tradexyz instead of yolo'ing options after market close he would've make like $2M"
         }
       ],
       "reads": {
-        "2124522230268744075": "No call",
         "2124522587875066344": "No call",
         "2124523290228064457": "No call",
         "2124547985568907606": "No call",
@@ -1530,7 +1529,8 @@
         "2124933153492013290": "No call",
         "2124933191286808766": "No call",
         "2124948514895454221": "No call",
-        "2124949785924997418": "No call"
+        "2124949785924997418": "No call",
+        "2124950312997839314": "No call"
       },
       "replies": [
         {
@@ -1625,10 +1625,6 @@
         }
       ],
       "threads": {
-        "2122753788800839849": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122813671814345159": {
           "alerted": [],
           "self_replies": 0
@@ -2042,10 +2038,13 @@
         "2124949785924997418": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124950312997839314": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124522230268744075": false,
         "2124522587875066344": false,
         "2124523290228064457": true,
         "2124547985568907606": false,
@@ -2079,7 +2078,8 @@
         "2124948714464919684": false,
         "2124949206137819200": false,
         "2124949453585182904": false,
-        "2124949785924997418": true
+        "2124949785924997418": true,
+        "2124950312997839314": true
       },
       "user_id": "973261472"
     },
@@ -7462,5 +7462,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T19:36:22+00:00"
+  "updated_at": "2026-11-23T19:38:31+00:00"
 }
