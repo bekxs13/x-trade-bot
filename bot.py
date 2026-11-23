@@ -671,6 +671,7 @@ def record_position(positions, t, post, url, prices=None):
             "entry": t["entry"] if len(assets) <= 1 else "", "horizon": t["horizon"], "chain": t["chain"],
             "contract_address": ca, "confidence": t["confidence"], "reason": t["reason"],
             "since": post.get("created_at", ""), "post_id": post["id"], "url": url,
+            "last_seen": post.get("created_at", ""),  # last time they posted about it (the board fades old ones)
             "open_price": asset_price(asset, t["chain"], ca, prices) if live and not held else None,
         }
         if held:  # adding to a trade they're already in: keep when they first got in, and at what price
@@ -1212,7 +1213,13 @@ def process_feedback(x, state, dry_run=False):
             fb = json.loads(line)
         except json.JSONDecodeError:
             continue
-        if not fb.get("id") or fb["id"] in done or not str(fb.get("text", "")).strip():
+        if not fb.get("id") or fb["id"] in done:
+            continue
+        if fb.get("close"):
+            if not dry_run:
+                done[fb["id"]] = close_by_hand(state, fb)
+            continue
+        if not str(fb.get("text", "")).strip():
             continue
         m = STATUS_RE.search(fb.get("url") or "")
         handle = (m.group(1) if m else fb.get("handle") or "").lstrip("@")
@@ -1246,6 +1253,28 @@ def process_feedback(x, state, dry_run=False):
                           "done_at": datetime.now(timezone.utc).isoformat(timespec="seconds")}
     state["feedback"] = dict(sorted(done.items(), key=lambda kv: kv[1].get("done_at", ""))[-200:])
     return errors
+
+
+def close_by_hand(state, fb):
+    """"They're out" on the dashboard: close an open trade the account never posted an exit for. No ping."""
+    handle = (fb.get("handle") or "").lstrip("@")
+    acct = state["accounts"].get(handle.lower()) or {}
+    key = str(fb["close"]).upper()
+    was = (acct.get("positions") or {}).pop(key, None)
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    if was:
+        priced = was.get("market", "crypto") == "crypto" and was.get("open_price")
+        price = asset_price(was.get("asset") or key, was.get("chain", ""), was.get("contract_address", "")) if priced else None
+        add_closed(acct, [{
+            "asset": was.get("asset") or key, "direction": was.get("direction", ""), "market": was.get("market", ""),
+            "structure": was.get("structure", ""), "opened": was.get("since", ""), "open_url": was.get("url", ""),
+            "open_price": was.get("open_price"), "closed": now, "close_url": "", "close_price": price,
+            "move": move_pct(was.get("direction"), was.get("open_price"), price), "partial": False, "flipped": False,
+            "by_hand": True,
+        }])
+    outcome = f"Closed {key} by hand" if was else f"{key} was already closed"
+    print(f"@{handle}: {outcome}")
+    return {"lesson": "", "file": "", "handle": handle, "close": key, "outcome": outcome, "done_at": now}
 
 
 TOPIC_SCHEMA = {

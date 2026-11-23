@@ -714,6 +714,32 @@ class PushTest(Base):
         self.assertEqual([d["name"] for d in bot.push_devices("trade")], ["iPhone"])
 
 
+class CloseByHandTest(Base):
+    """'They're out' on the dashboard closes a trade the account never posted an exit for."""
+
+    def test_close_moves_it_to_recently_closed_without_a_ping(self):
+        self.set_state()
+        state = json.loads((self.tmp / "state.json").read_text())
+        state["accounts"]["based16z"]["positions"] = {"SOL": {
+            "asset": "SOL", "direction": "long", "market": "crypto", "since": "2026-10-01T00:00:00Z",
+            "url": "https://x.com/based16z/status/5", "open_price": 100.0}}
+        (self.tmp / "feedback.jsonl").write_text(json.dumps(
+            {"id": "c1", "at": "2026-11-23T00:00:00Z", "handle": "based16z", "close": "SOL", "text": ""}) + "\n")
+        with mock.patch.object(bot, "asset_price", lambda *a, **k: 110.0):
+            self.assertEqual(bot.process_feedback(None, state), 0)
+        acct = state["accounts"]["based16z"]
+        self.assertEqual(acct["positions"], {})
+        self.assertEqual(len(acct["closed"]), 1)
+        c = acct["closed"][0]
+        self.assertTrue(c["by_hand"])
+        self.assertEqual((c["asset"], c["move"], c["open_url"]), ("SOL", 10.0, "https://x.com/based16z/status/5"))
+        self.assertEqual(state["feedback"]["c1"]["close"], "SOL")
+        self.assertEqual(self.sent, [], "closing by hand sends no ping")
+        # Running again does nothing more.
+        self.assertEqual(bot.process_feedback(None, state), 0)
+        self.assertEqual(len(acct["closed"]), 1)
+
+
 class UnitTest(unittest.TestCase):
     def test_tradingview_links(self):
         tv = lambda **p: bot.tradingview_url(p).removeprefix("https://www.tradingview.com/chart/?symbol=")

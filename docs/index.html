@@ -156,6 +156,14 @@ a.item-row:active { background: var(--surface-2); }
 .list > .group-label + * { border-top: 0; }
 .line2.wrap { white-space: normal; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
 
+/* ---- old calls ---- */
+.item-row.old { opacity: .6; }
+.trade-row .row-link { color: inherit; }
+.more-row { display: flex; align-items: baseline; gap: 6px; flex-wrap: wrap; width: 100%; border: 0; background: none; padding: 12px 14px;
+  text-align: left; font-size: 13.5px; font-weight: 650; color: var(--accent); cursor: pointer; }
+.more-row span { color: var(--faint); font-weight: 500; }
+.pending-out { font-size: 12px; color: var(--faint); white-space: nowrap; }
+
 /* ---- charts and pings ---- */
 .chart-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
 .chart-slot { height: 340px; margin-top: 10px; border-radius: 12px; overflow: hidden; background: var(--surface-2); border: 1px solid var(--line); }
@@ -431,7 +439,7 @@ const profileNotesLoading = new Set();
 let pushCfg = {}, lastSig = "";  // push.json: phones getting the app's notifications, and the ntfy switch
 const VAPID_PUBLIC = "BBiefNcPiXHPIYpWMLYqBmUvYML4NYmmY9XxIcgRhDbR9jFB5m99hZFNR7zJmVNxKyS6Qg-srKgIzQNmdlIOI-I";  // the bot signs pings with the matching private key (a GitHub secret)
 const pingedPost = new URLSearchParams(location.search).get("post");  // opened from a ping about this post
-let pingScrolled = false;
+let pingScrolled = false, showOldTrades = false;
 const openCharts = new Set();  // call cards with their chart open
 const lessons = {};  // lessons file name -> its text
 const notes = {};          // handle(lower) -> text, or null when there's no notes file yet
@@ -574,8 +582,19 @@ const inMarket = (x, m = market) => m === "all" || marketOf(x) === m;
 const marketTag = (x, always = false) => (always || market === "all") && marketOf(x) !== "crypto" ? `<span class="mkt">${marketOf(x)}</span>` : "";
 
 const acctState = handle => (state.accounts || {})[low(handle)] || {};
-const positionsOf = (handle, m = market) => Object.values(acctState(handle).positions || {}).filter(p => inMarket(p, m));
-const viewsOf = (handle, m = market) => Object.values(acctState(handle).biases || {}).filter(v => inMarket(v, m))
+// Old calls: a view or trade nobody has mentioned in 3 weeks drops out of the mood, the leans and the board's
+// open trades. Profiles still list them, faded. Traders rarely post exits, so this keeps the board current.
+const OLD_DAYS = 21;
+const postTime = id => { try { return new Date(Number((BigInt(id) >> 22n) + 1288834974657n)).toISOString(); } catch { return ""; } };
+const lastSeen = x => x.last_seen || x.updated_at || (x.post_id ? postTime(x.post_id) : "") || x.since || "";
+const isOld = x => { const t = Date.parse(lastSeen(x)); return !isNaN(t) && Date.now() - t > OLD_DAYS * 86400000; };
+// "They're out" sent from this page, waiting for the bot's next check.
+const closing = (handle, key) => feedback.some(f => f.close && f.close === key && low(f.handle) === low(handle) && !(state.feedback || {})[f.id]);
+// all=true also returns old ones (and trades waiting to be closed), for the profile.
+const positionsOf = (handle, m = market, all = false) => Object.entries(acctState(handle).positions || {})
+  .map(([key, p]) => ({...p, key})).filter(p => inMarket(p, m) && (all || (!isOld(p) && !closing(handle, p.key))));
+const viewsOf = (handle, m = market, all = false) => Object.values(acctState(handle).biases || {})
+  .filter(v => inMarket(v, m) && (all || !isOld(v)))
   .sort((x, y) => (y.updated_at || y.since || "").localeCompare(x.updated_at || x.since || ""));
 const closedOf = (handle, m = market) => (acctState(handle).closed || []).filter(c => inMarket(c, m));
 const notHere = s => !s || ["spot", "unknown"].includes(s);
@@ -603,9 +622,10 @@ function renderStatus() {
 
 // ---- rows and cards, shared by the tabs and the profile page ----
 function tradeRow(p, showWho = true) {
-  const detail = [notHere(p.structure) ? "" : p.structure, p.entry ? `entry ${p.entry}` : "", p.horizon].filter(Boolean).join(" · ");
+  const detail = [notHere(p.structure) ? "" : p.structure, p.entry ? `entry ${p.entry}` : "", p.horizon,
+    isOld(p) ? `last mentioned ${ago(lastSeen(p))}` : ""].filter(Boolean).join(" · ");
   const sub = [showWho ? `@${p.handle}` : "", detail].filter(Boolean).join(" · ");
-  return `<a class="item-row" href="${esc(p.url)}" target="_blank" rel="noopener">
+  return `<a class="item-row${isOld(p) ? " old" : ""}" href="${esc(p.url)}" target="_blank" rel="noopener">
     ${showWho ? avatar(p.handle) : ""}
     <div class="grow">
       <div class="line1"><span class="badge ${esc(p.direction)}">${esc(p.direction)}</span><span class="asset">${esc(p.asset || p.contract_address || "?")}</span></div>
@@ -614,11 +634,24 @@ function tradeRow(p, showWho = true) {
     <div class="right">${ago(p.since)}</div>${CHEV}
   </a>`;
 }
+function profileTradeRow(p) {
+  const detail = [notHere(p.structure) ? "" : p.structure, p.entry ? `entry ${p.entry}` : "",
+    isOld(p) ? `last mentioned ${ago(lastSeen(p))}` : `in since ${ago(p.since)}`].filter(Boolean).join(" · ");
+  return `<div class="item-row trade-row${isOld(p) ? " old" : ""}">
+    <a class="grow row-link" href="${esc(p.url)}" target="_blank" rel="noopener">
+      <div class="line1"><span class="badge ${esc(p.direction)}">${esc(p.direction)}</span><span class="asset">${esc(p.asset || p.contract_address || "?")}</span></div>
+      <div class="line2">${marketTag(p, true)}${esc(detail)}</div>
+    </a>
+    ${closing(p.handle, p.key) ? `<span class="pending-out">Closing on next check</span>`
+      : `<button class="btn small" data-out="${esc(p.key)}" data-out-who="${esc(p.handle)}" title="Close this trade: they never posted an exit">They're out</button>`}
+  </div>`;
+}
 function closedRow(c, showWho = true) {
   const held = c.opened ? heldFor(c.opened, c.closed) : "";
-  const detail = [showWho ? `@${c.handle}` : "", c.flipped ? "flipped" : "", held ? `held ${held}` : c.opened ? "" : "entry not seen"].filter(Boolean);
+  const detail = [showWho ? `@${c.handle}` : "", c.by_hand ? "marked out by you" : "", c.flipped ? "flipped" : "",
+    held ? `held ${held}` : c.opened ? "" : "entry not seen"].filter(Boolean);
   const move = c.move == null ? "" : `<span class="${c.move >= 0 ? "move-up" : "move-down"}" title="How far price moved in their favour while they were in">${c.move > 0 ? "+" : ""}${c.move}%</span><br>`;
-  return `<a class="item-row" href="${esc(c.close_url)}" target="_blank" rel="noopener">
+  return `<a class="item-row" href="${esc(c.close_url || c.open_url)}" target="_blank" rel="noopener">
     ${showWho ? avatar(c.handle) : ""}
     <div class="grow">
       <div class="line1"><span class="badge exit">closed</span>${c.direction ? `<span class="badge ${esc(c.direction)}">${esc(c.direction)}</span>` : ""}<span class="asset">${esc(c.asset)}</span></div>
@@ -764,7 +797,7 @@ function renderBoard() {
   accounts.forEach(h => viewsOf(h).forEach(v => v.stance === "bullish" ? up++ : v.stance === "bearish" ? down++ : flat++));
   const total = up + down + flat;
   const mood = !total ? ["No views yet", ""] : up > down ? ["Leaning bullish", "up"] : down > up ? ["Leaning bearish", "down"] : ["Split", ""];
-  $("mood").innerHTML = `<div class="hero-label">${market === "all" ? "Mood" : `${MARKETS[market]} mood`} across the accounts you watch</div>
+  $("mood").innerHTML = `<div class="hero-label">${market === "all" ? "Mood" : `${MARKETS[market]} mood`} across the accounts you watch, last 3 weeks</div>
     <div class="hero-mood ${mood[1]}">${mood[0]}</div>
     <div class="meter">${[["m-up", up], ["m-flat", flat], ["m-down", down]].filter(([, n]) => n).map(([c, n]) => `<i class="${c}" style="flex-grow:${n}"></i>`).join("")}</div>
     <div class="meter-legend num">
@@ -773,14 +806,17 @@ function renderBoard() {
       <span><span class="sw" style="background:var(--down)"></span><b>${down}</b> bearish</span>
     </div>`;
 
-  const trades = accounts.flatMap(h => positionsOf(h).map(p => ({...p, handle: h})))
+  const allTrades = accounts.flatMap(h => positionsOf(h, market, true).filter(p => !closing(h, p.key)).map(p => ({...p, handle: h})))
     .sort((x, y) => (y.since || "").localeCompare(x.since || ""));
+  const trades = allTrades.filter(p => !isOld(p)), oldTrades = allTrades.filter(isOld);
   $("s-trades").textContent = trades.length;
   $("s-calls").textContent = alerts.filter(a => inMarket(a) && Date.now() - new Date(a.sent_at) < 86400000).length;
   $("s-accts").textContent = accounts.length;
   $("trades-sub").textContent = trades.length ? `${new Set(trades.map(t => low(t.handle))).size} of ${accounts.length} accounts` : "";
-  $("trades").innerHTML = trades.map(p => tradeRow(p)).join("")
-    || `<div class="empty"><span class="em">🪑</span>Nobody's in a${market === "all" ? "" : ` ${low(MARKETS[market])}`} trade right now.<br>Positions show up here when someone posts an entry, and leave when they post an exit.</div>`;
+  const older = oldTrades.length ? `<button class="more-row" id="old-trades">${showOldTrades ? "Hide" : "Show"} ${oldTrades.length} older trade${oldTrades.length > 1 ? "s" : ""}<span>not mentioned in 3 weeks</span></button>`
+    + (showOldTrades ? oldTrades.map(p => tradeRow(p)).join("") : "") : "";
+  $("trades").innerHTML = (trades.map(p => tradeRow(p)).join("")
+    || `<div class="empty"><span class="em">🪑</span>Nobody's in a${market === "all" ? "" : ` ${low(MARKETS[market])}`} trade right now.<br>Positions show up here when someone posts an entry, and leave when they post an exit${oldTrades.length ? " or go 3 weeks without mentioning it" : ""}.</div>`) + older;
 
   const closed = accounts.flatMap(h => closedOf(h).map(c => ({...c, handle: h})))
     .filter(c => Date.now() - Date.parse(c.closed) < 14 * 86400000)
@@ -848,7 +884,9 @@ function renderProfile() {
   const h = accounts.find(x => low(x) === low(profile)) || profile;
   const a = acctState(h), key = low(h);
   const watched = accounts.some(x => low(x) === key);
-  const views = viewsOf(h, "all"), trades = positionsOf(h, "all").map(p => ({...p, handle: h}));
+  const views = viewsOf(h, "all", true);
+  const trades = positionsOf(h, "all", true).map(p => ({...p, handle: h})).sort((x, y) => isOld(x) - isOld(y) || (y.since || "").localeCompare(x.since || ""));
+  const openNow = trades.filter(p => !isOld(p) && !closing(h, p.key)).length;
   const closed = closedOf(h, "all").slice().sort((x, y) => (y.closed || "").localeCompare(x.closed || "")).slice(0, 8).map(c => ({...c, handle: h}));
   const calls = alerts.filter(x => low(x.handle) === key).slice(0, 15);
   const week = alerts.filter(x => low(x.handle) === key && Date.now() - new Date(x.sent_at) < 7 * 86400000).length;
@@ -856,7 +894,9 @@ function renderProfile() {
   const posts = savedPosts(h, profileReplies);
   const shownPosts = (profileAllPosts ? posts : posts.filter(p => isTrading(p, byPost))).sort(newestFirst).slice(0, 40);
   const markets = Object.keys(MARKETS).filter(m => views.some(v => marketOf(v) === m) || trades.some(p => marketOf(p) === m));
-  const leans = markets.length > 1 ? markets.map(m => { const [l, label] = leanOf(h, m); return `<span class="badge ${l}">${MARKETS[m]} · ${label}</span>`; }).join("") : "";
+  // A lean per market only where they have a current (not old) view in more than one market.
+  const current = Object.keys(MARKETS).filter(m => viewsOf(h, m).length);
+  const leans = current.length > 1 ? current.map(m => { const [l, label] = leanOf(h, m); return `<span class="badge ${l}">${MARKETS[m]} · ${label}</span>`; }).join("") : "";
   const plural = (n, word) => `${n === 1 ? word : word + "s"}`;
   const [lean, leanLabel] = leanOf(h, "all");
   const last = calls[0];
@@ -871,10 +911,10 @@ function renderProfile() {
     if (!vs.length) return "";
     return `<div class="group-label">${MARKETS[m]}</div>` + vs.map(v => {
       const url = v.post_id ? `https://x.com/${h}/status/${v.post_id}` : `https://x.com/${h}`;
-      return `<a class="item-row" href="${esc(url)}" target="_blank" rel="noopener">
+      return `<a class="item-row${isOld(v) ? " old" : ""}" href="${esc(url)}" target="_blank" rel="noopener">
         <span class="badge ${esc(v.stance)}">${esc(v.stance)}</span>
         <div class="grow"><div class="line1"><span class="asset">${esc(v.scope)}</span></div>
-          <div class="line2 wrap">since ${esc(v.since || "?")}${v.reason ? ` · ${esc(v.reason)}` : ""}</div></div>${CHEV}
+          <div class="line2 wrap">${isOld(v) ? `old · last mentioned ${esc(ago(lastSeen(v)))} · ` : ""}since ${esc(v.since || "?")}${v.reason ? ` · ${esc(v.reason)}` : ""}</div></div>${CHEV}
       </a>`;
     }).join("");
   }).join("");
@@ -884,7 +924,7 @@ function renderProfile() {
     <div class="card pad profile-card lean-${lean}">
       <div class="profile-head">${avatar(h, "lg", "all")}
         <div class="grow"><h2>@${esc(h)}</h2><div class="line2">${esc(sub)}</div></div>
-        ${leans ? "" : `<span class="badge ${lean}">${markets.length ? `${MARKETS[markets[0]]} · ` : ""}${leanLabel}</span>`}
+        ${leans ? "" : `<span class="badge ${lean}">${current.length ? `${MARKETS[current[0]]} · ` : ""}${leanLabel}</span>`}
       </div>
       ${leans ? `<div class="lean-chips">${leans}</div>` : ""}
       <div class="profile-actions">
@@ -894,12 +934,12 @@ function renderProfile() {
       </div>
     </div>
     <div class="stats">
-      <div class="card stat"><b class="num">${trades.length}</b><span>open ${plural(trades.length, "trade")}</span></div>
+      <div class="card stat"><b class="num">${openNow}</b><span>open ${plural(openNow, "trade")}</span></div>
       <div class="card stat"><b class="num">${week}</b><span>${plural(week, "call")}, last 7 days</span></div>
       <div class="card stat"><b class="num">${closedOf(h, "all").length}</b><span>closed ${plural(closedOf(h, "all").length, "trade")}</span></div>
     </div>
     ${section("What they think", "", `<div class="card list">${groups || `<div class="empty">No current views on record.</div>`}</div>`)}
-    ${section("In a trade", "", `<div class="card list">${trades.map(p => tradeRow(p, false)).join("") || `<div class="empty">No open trades on record.</div>`}</div>`)}
+    ${section("In a trade", trades.some(isOld) ? "faded: not mentioned in 3 weeks" : "", `<div class="card list">${trades.map(profileTradeRow).join("") || `<div class="empty">No open trades on record.</div>`}</div>`)}
     ${closed.length ? section("Recently closed", "", `<div class="card list">${closed.map(c => closedRow(c, false)).join("")}</div>`) : ""}
     ${section("Calls", calls.length ? `latest ${calls.length}` : "", calls.map(callCard).join("") || `<div class="card empty">No calls yet. Every ping for @${esc(h)} shows up here.</div>`)}
     <div class="section-title"><h2>Posts</h2>
@@ -924,8 +964,8 @@ function renderProfile() {
 // ---- what the bot has learned ----
 function renderLearned() {
   const done = state.feedback || {};
-  const pending = feedback.filter(f => f.id && !done[f.id]);
-  const learned = Object.entries(done).sort((x, y) => (y[1].done_at || "").localeCompare(x[1].done_at || ""));
+  const pending = feedback.filter(f => f.id && !done[f.id] && !f.close);
+  const learned = Object.entries(done).filter(([, f]) => !f.close).sort((x, y) => (y[1].done_at || "").localeCompare(x[1].done_at || ""));
   const rows = pending.reverse().map(f => `<div class="learned">
       <div class="lesson">${esc(f.text)}</div>
       <div class="meta">Waiting for the bot's next check${f.handle ? ` · @${esc(f.handle)}` : ""}</div></div>`);
@@ -1239,8 +1279,29 @@ document.addEventListener("click", e => {
   e.preventDefault();
   openProfile(h);
 });
+$("trades").addEventListener("click", e => {
+  if (!e.target.closest("#old-trades")) return;
+  showOldTrades = !showOldTrades;
+  renderBoard();
+});
+async function markOut(h, key, b) {
+  if (!getToken()) { showTab("accounts"); toast("Add a token first (bottom of this tab)"); return; }
+  const p = (acctState(h).positions || {})[key] || {};
+  const what = `${p.asset || key}${p.direction ? ` ${p.direction}` : ""}`;
+  if (!confirm(`Mark @${h} as out of their ${what}?\n\nIt moves to Recently closed on the bot's next check. No ping is sent.`)) return;
+  b.disabled = true;
+  const entry = {id: `${Date.now().toString(36)}${Math.random().toString(36).slice(2, 6)}`, at: new Date().toISOString(), handle: h, close: key, text: ""};
+  try {
+    await editFile("feedback.jsonl", cur => (cur || "") + JSON.stringify(entry) + "\n", `Mark @${h} out of ${what}`);
+    feedback.push(entry);
+    toast("Done. It moves to Recently closed on the bot's next check");
+    render();
+  } catch (err) { toast(err.message, 5000); b.disabled = false; }
+}
 $("tab-profile").onclick = e => {
   if (e.target.closest("#profile-back")) return closeProfile();
+  const out = e.target.closest("[data-out]");
+  if (out) return markOut(out.dataset.outWho, out.dataset.out, out);
   const seg = e.target.closest("#profile-posts-seg button");
   if (seg) { profileAllPosts = seg.dataset.only === "0"; return renderProfile(); }
   if (e.target.closest("#profile-notes")) {
