@@ -1191,7 +1191,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124953618067370013",
+      "last_id": "2124955207574667393",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1388,11 +1388,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-22T15:19:58.000Z",
-          "id": "2124523290228064457",
-          "text": "can someone point me to tradfi land so i can follow the stocks guys i need to see how they are responding to this"
-        },
-        {
           "created_at": "2026-11-22T16:58:06.000Z",
           "id": "2124547985568907606",
           "images": [
@@ -1508,10 +1503,15 @@
           "created_at": "2026-11-23T19:49:02.000Z",
           "id": "2124953388668408046",
           "text": "actually in disbelief at how weak bitcoin is"
+        },
+        {
+          "created_at": "2026-11-23T19:56:15.000Z",
+          "id": "2124955207574667393",
+          "quoted_text": "People get mad when a trader flips bias like a pilot is a fraud for changing altitude. Changing your mind at the right time isn't a flaw in the job. It is the job.\n\nConsistency of opinion is for pundits. Traders get paid for being right, not for being the same.",
+          "text": "Changing your mind at the right time isn't a flaw in the job. It is the job. https://t.co/RggLwXNfRt"
         }
       ],
       "reads": {
-        "2124523290228064457": "No call",
         "2124547985568907606": "No call",
         "2124577163949334667": "No call",
         "2124581113540526316": "No call",
@@ -1530,7 +1530,8 @@
         "2124948514895454221": "No call",
         "2124949785924997418": "No call",
         "2124950312997839314": "No call",
-        "2124953388668408046": "No call: bearish on btc (same view as before)"
+        "2124953388668408046": "No call: bearish on btc (same view as before)",
+        "2124955207574667393": "No call"
       },
       "replies": [
         {
@@ -1625,10 +1626,6 @@
         }
       ],
       "threads": {
-        "2122814152024690958": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122878032222282095": {
           "alerted": [],
           "self_replies": 0
@@ -2042,10 +2039,13 @@
         "2124953388668408046": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124955207574667393": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124523290228064457": true,
         "2124547985568907606": false,
         "2124577163949334667": false,
         "2124581113540526316": false,
@@ -2079,7 +2079,8 @@
         "2124949785924997418": true,
         "2124950312997839314": true,
         "2124953388668408046": true,
-        "2124953618067370013": false
+        "2124953618067370013": false,
+        "2124955207574667393": true
       },
       "user_id": "973261472"
     },
@@ -7462,5 +7463,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T19:50:34+00:00"
+  "updated_at": "2026-11-23T19:58:30+00:00"
 }
