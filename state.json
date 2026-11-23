@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2124710071146090770",
+      "last_id": "2124711448832327765",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,12 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-21T19:01:05.000Z",
-          "id": "2124216545085956580",
-          "quoted_text": "Flashback to June 14, 2024.\n\nAt the time, frontier AI models have zero fluid intelligence. They score around 5% on ARC 1. They can't reliably add two numbers. They make laughable logic errors every other prompt. Reasoning models don't exist. Coding agents don't exist. Claude Code doesn't exist. \"Code gen\" is a complete joke. Scaling up next-token prediction based on web text data is hitting a wall.\n\nWhat if a time traveler told you that, by November 2026...\n\n\u2022 AI models would have human-like flu",
-          "text": "Flashback to January 1, 2026\n\nYou believe AI is a huge trend \n\nYou go all in the semiconductors ETF\n\nYour portfolio is now up 22% YTD, great job https://t.co/xx4UMz2VLs"
-        },
         {
           "created_at": "2026-11-21T19:26:59.000Z",
           "id": "2124223063755829526",
@@ -347,10 +341,17 @@
           "created_at": "2026-11-23T03:42:10.000Z",
           "id": "2124710071146090770",
           "text": "Cal Poly SLO, the Princeton of Central California"
+        },
+        {
+          "created_at": "2026-11-23T03:47:39.000Z",
+          "id": "2124711448832327765",
+          "images": [
+            "https://pbs.twimg.com/media/HXx9zLzaQAA4Rn1.jpg"
+          ],
+          "text": "\u201cMr. Trump. The market is heavily short gamma we\u2019re gonna need to deploy all the pump headlines Sunday night to engineer forced hedging into a Monday gap up\u201d\n\n\u201cCopy Scott. Let\u2019s roll\u201d https://t.co/xVhqjVquwM"
         }
       ],
       "reads": {
-        "2124216545085956580": "No call",
         "2124223063755829526": "No call",
         "2124223559061115205": "No call",
         "2124239896202321990": "No call",
@@ -368,7 +369,8 @@
         "2124641400553943292": "No call: bearish on stocks/macro (65%, too unsure)",
         "2124641527624573321": "Read together with the post it replies to",
         "2124708444221661460": "No call",
-        "2124710071146090770": "No call"
+        "2124710071146090770": "No call",
+        "2124711448832327765": "No call"
       },
       "replies": [
         {
@@ -466,10 +468,6 @@
         }
       ],
       "threads": {
-        "2121161477247893921": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121175103572734418": {
           "alerted": [],
           "self_replies": 1
@@ -874,6 +872,10 @@
         "2124710071146090770": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124711448832327765": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -886,7 +888,6 @@
         "2123633790681751688": false,
         "2123638463400669290": false,
         "2123644980136988942": false,
-        "2124216545085956580": true,
         "2124223063755829526": false,
         "2124223559061115205": true,
         "2124227864476434748": false,
@@ -911,7 +912,8 @@
         "2124641527624573321": true,
         "2124641798064902465": true,
         "2124708444221661460": false,
-        "2124710071146090770": false
+        "2124710071146090770": false,
+        "2124711448832327765": true
       },
       "user_id": "1446541960181858315"
     },
@@ -4879,7 +4881,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2124711043574505550",
+      "last_id": "2124711403600613657",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4931,11 +4933,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T17:28:48.000Z",
-          "id": "2123468548404297959",
-          "text": "it\u2019s anti american to not have a claude subscription"
-        },
         {
           "created_at": "2026-11-19T18:27:40.000Z",
           "id": "2123483360517337582",
@@ -5041,10 +5038,15 @@
           "created_at": "2026-11-23T03:44:35.000Z",
           "id": "2124710680003747844",
           "text": "no streams this week see you next monday. good luck out there"
+        },
+        {
+          "created_at": "2026-11-23T03:46:17.000Z",
+          "id": "2124711104610021768",
+          "reply_to_id": "2124710680003747844",
+          "text": "whole team has the week off for thanksgiving i will miss you"
         }
       ],
       "reads": {
-        "2123468548404297959": "No call",
         "2123483360517337582": "No call",
         "2123487001080934733": "No call",
         "2123497524967428354": "No call",
@@ -5062,21 +5064,10 @@
         "2123866329526775990": "No call",
         "2123875879034257633": "No call",
         "2124321691887395060": "No call",
-        "2124710680003747844": "No call"
+        "2124710680003747844": "No call",
+        "2124711104610021768": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-20T22:37:02.000Z",
-          "id": "2123908502817009670",
-          "reply_to_id": "2123906233468166144",
-          "text": "@Merridew__ @DeepDishEnjoyer because i have a lot of it and am down a lot"
-        },
-        {
-          "created_at": "2026-11-20T22:43:35.000Z",
-          "id": "2123910154286473671",
-          "reply_to_id": "2123884153456197827",
-          "text": "@AU2AF LMFAOOOOOOO dog"
-        },
         {
           "created_at": "2026-11-20T22:51:33.000Z",
           "id": "2123912157758984217",
@@ -5154,6 +5145,18 @@
           "id": "2124711043574505550",
           "reply_to_id": "2124710807577760050",
           "text": "@BigTrout300 family for thanksgiving  &lt;3"
+        },
+        {
+          "created_at": "2026-11-23T03:46:37.000Z",
+          "id": "2124711188210868633",
+          "reply_to_id": "2124711090336739405",
+          "text": "@rasmr_eth should be a more chill week. i was here for perpetual death"
+        },
+        {
+          "created_at": "2026-11-23T03:47:28.000Z",
+          "id": "2124711403600613657",
+          "reply_to_id": "2124711169621627366",
+          "text": "@BigTrout300 come on the show next week and speak our fate"
         }
       ],
       "threads": {
@@ -5557,11 +5560,10 @@
         },
         "2124710680003747844": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2123468548404297959": false,
         "2123483360517337582": false,
         "2123487001080934733": true,
         "2123497524967428354": false,
@@ -5579,8 +5581,6 @@
         "2123861753809318229": true,
         "2123866329526775990": true,
         "2123875879034257633": true,
-        "2123908502817009670": true,
-        "2123910154286473671": false,
         "2123912157758984217": true,
         "2123938598697545943": false,
         "2124026316085215463": false,
@@ -5595,7 +5595,10 @@
         "2124642137585410495": false,
         "2124642895861092500": false,
         "2124710680003747844": false,
-        "2124711043574505550": false
+        "2124711043574505550": false,
+        "2124711104610021768": false,
+        "2124711188210868633": false,
+        "2124711403600613657": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7471,5 +7474,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-23T03:46:24+00:00"
+  "updated_at": "2026-11-23T03:48:28+00:00"
 }
