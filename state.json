@@ -6705,7 +6705,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2124668806052372991",
+      "last_id": "2124695451903438950",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6757,19 +6757,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T15:53:53.000Z",
-          "id": "2123807047892541470",
-          "images": [
-            "https://pbs.twimg.com/media/HXlHPT7XgAAmARn.jpg"
-          ],
-          "text": "Very important level for BTC here https://t.co/ijhwGNzlNO"
-        },
-        {
-          "created_at": "2026-11-20T16:09:39.000Z",
-          "id": "2123811016337486177",
-          "text": "I wasn't bearish enough clearly, unbelievable"
-        },
         {
           "created_at": "2026-11-20T16:19:12.000Z",
           "id": "2123813418671145376",
@@ -6875,11 +6862,26 @@
           "id": "2124668806052372991",
           "reply_to_id": "2124667974007116153",
           "text": "Feels like I got struck by lightning"
+        },
+        {
+          "created_at": "2026-11-23T02:43:23.000Z",
+          "id": "2124695277185507703",
+          "images": [
+            "https://pbs.twimg.com/media/HXxvFzfW0AEkn6U.jpg"
+          ],
+          "quoted_text": "I\u2019m in. This is fucking retarded. I need spy to go up 6% tomorrow https://t.co/Oj6uR7kExz",
+          "text": "https://t.co/ual017lDpq https://t.co/6Pdfu1St96"
+        },
+        {
+          "created_at": "2026-11-23T02:44:05.000Z",
+          "id": "2124695451903438950",
+          "images": [
+            "https://pbs.twimg.com/media/HXxvNvaWQAA3Fhu.jpg"
+          ],
+          "text": "This is still the craziest part of the PBC structure that Anthropic has https://t.co/8qRwrqLmxt"
         }
       ],
       "reads": {
-        "2123807047892541470": "No call",
-        "2123811016337486177": "No call: bearish on crypto market (65%, too unsure)",
         "2123813418671145376": "No call",
         "2123821480395919588": "VIEW bearish on HOOD",
         "2123834226890113467": "VIEW bullish on HYPE",
@@ -6897,7 +6899,9 @@
         "2124578113258762749": "No call",
         "2124579997008400431": "No call",
         "2124667974007116153": "No call",
-        "2124668806052372991": "No call"
+        "2124668806052372991": "No call",
+        "2124695277185507703": "No call",
+        "2124695451903438950": "No call"
       },
       "replies": [
         {
@@ -6995,14 +6999,6 @@
         }
       ],
       "threads": {
-        "2121742692124434799": {
-          "alerted": [],
-          "self_replies": 0
-        },
-        "2121744155307016192": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121745920358334881": {
           "alerted": [],
           "self_replies": 0
@@ -7406,6 +7402,14 @@
         "2124667974007116153": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2124695277185507703": {
+          "alerted": [],
+          "self_replies": 0
+        },
+        "2124695451903438950": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7422,8 +7426,6 @@
         "2123460741197930822": true,
         "2123463010849358127": true,
         "2123471825153806596": false,
-        "2123807047892541470": true,
-        "2123811016337486177": true,
         "2123813418671145376": true,
         "2123821480395919588": true,
         "2123834226890113467": true,
@@ -7443,7 +7445,9 @@
         "2124579997008400431": true,
         "2124656971571982573": true,
         "2124667974007116153": false,
-        "2124668806052372991": false
+        "2124668806052372991": false,
+        "2124695277185507703": true,
+        "2124695451903438950": false
       },
       "user_id": "809191427645181952"
     }
@@ -7466,5 +7470,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-23T01:56:21+00:00"
+  "updated_at": "2026-11-23T02:44:31+00:00"
 }
