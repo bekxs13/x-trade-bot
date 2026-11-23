@@ -6720,7 +6720,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2124709060742390013",
+      "last_id": "2124867155498061929",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6772,11 +6772,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T17:41:53.000Z",
-          "id": "2123834226890113467",
-          "text": "Probably see a lot of crypto returns just concentrate into HYPE as people sell off, tax loss harvest all their failed altcoin bags."
-        },
         {
           "created_at": "2026-11-20T19:03:07.000Z",
           "id": "2123854668921233473",
@@ -6896,10 +6891,14 @@
             "https://pbs.twimg.com/media/HXx7m9-WAAAmk3S.jpg"
           ],
           "text": "Okay plunge protection crew is here now https://t.co/YxjBZ3C9pg"
+        },
+        {
+          "created_at": "2026-11-23T14:06:22.000Z",
+          "id": "2124867155498061929",
+          "text": "Most important trading day of the year"
         }
       ],
       "reads": {
-        "2123834226890113467": "VIEW bullish on HYPE",
         "2123854668921233473": "No call",
         "2123861341630841066": "No call",
         "2123874079102886338": "VIEW bearish on NDX",
@@ -6918,7 +6917,8 @@
         "2124695277185507703": "No call",
         "2124695451903438950": "No call",
         "2124696942781313440": "No call",
-        "2124709060742390013": "No call"
+        "2124709060742390013": "No call",
+        "2124867155498061929": "No call"
       },
       "replies": [
         {
@@ -7016,10 +7016,6 @@
         }
       ],
       "threads": {
-        "2121751494244397231": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121774572206977409": {
           "alerted": [
             "bias:btc:bearish"
@@ -7427,6 +7423,10 @@
         "2124709060742390013": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124867155498061929": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7443,7 +7443,6 @@
         "2123460741197930822": true,
         "2123463010849358127": true,
         "2123471825153806596": false,
-        "2123834226890113467": true,
         "2123854668921233473": true,
         "2123861341630841066": true,
         "2123874079102886338": true,
@@ -7464,7 +7463,8 @@
         "2124695277185507703": true,
         "2124695451903438950": false,
         "2124696942781313440": true,
-        "2124709060742390013": true
+        "2124709060742390013": true,
+        "2124867155498061929": true
       },
       "user_id": "809191427645181952"
     }
@@ -7487,5 +7487,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T14:04:23+00:00"
+  "updated_at": "2026-11-23T14:08:20+00:00"
 }
