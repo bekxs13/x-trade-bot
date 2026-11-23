@@ -2504,7 +2504,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2124661533859012696",
+      "last_id": "2124671044996956212",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2691,12 +2691,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-21T04:53:44.000Z",
-          "id": "2124003305055826252",
-          "reply_to_id": "2124002983528538531",
-          "text": "@KateMossadAgent sorry if it helps most people are having a bad time"
-        },
-        {
           "created_at": "2026-11-21T04:58:04.000Z",
           "id": "2124004396371763215",
           "reply_to_id": "2124004048336810341",
@@ -2779,6 +2773,12 @@
           "id": "2124661533859012696",
           "reply_to_id": "2124656390853841370",
           "text": "@dampedspring @liquiditygoblin i mean i think the implication of tweets like this and similiar is that the hyperliquid move solely reflected the opinion of some crypto degens and would not at all be reflected in tradfi instruments, but index futures ended up decently in line with hyperliquid moves \ud83e\udd37"
+        },
+        {
+          "created_at": "2026-11-23T01:07:06.000Z",
+          "id": "2124671044996956212",
+          "reply_to_id": "2124663710207639729",
+          "text": "@steve2bacon something sure tore a hole but it wasn't a needle"
         }
       ],
       "threads": {
@@ -3200,7 +3200,6 @@
         "2123989072234328175": true,
         "2124000938121683246": true,
         "2124001290762047674": false,
-        "2124003305055826252": false,
         "2124004396371763215": false,
         "2124008458756432215": false,
         "2124009076883370159": false,
@@ -3220,7 +3219,8 @@
         "2124653554795192661": true,
         "2124654098792476871": true,
         "2124661145864986901": false,
-        "2124661533859012696": true
+        "2124661533859012696": true,
+        "2124671044996956212": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7469,5 +7469,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-23T01:00:26+00:00"
+  "updated_at": "2026-11-23T01:08:30+00:00"
 }
