@@ -1493,7 +1493,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124966308575859168",
+      "last_id": "2124974939728199879",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1690,14 +1690,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-22T16:58:06.000Z",
-          "id": "2124547985568907606",
-          "images": [
-            "https://pbs.twimg.com/amplify_video_thumb/2124547281512980480/img/DTdbIJV0_tOZSwq3.jpg"
-          ],
-          "text": "on September 24, i discussed with @rasmr_eth why university matters more in the age of AI\n\nas AI makes intelligence widely accessible, social skills and emotional intelligence become increasingly valuable\n\nthe ability to communicate, build relationships and connect with people in person will matter more than ever"
-        },
-        {
           "created_at": "2026-11-22T18:54:03.000Z",
           "id": "2124577163949334667",
           "images": [
@@ -1811,10 +1803,15 @@
           "id": "2124955207574667393",
           "quoted_text": "People get mad when a trader flips bias like a pilot is a fraud for changing altitude. Changing your mind at the right time isn't a flaw in the job. It is the job.\n\nConsistency of opinion is for pundits. Traders get paid for being right, not for being the same.",
           "text": "Changing your mind at the right time isn't a flaw in the job. It is the job. https://t.co/RggLwXNfRt"
+        },
+        {
+          "created_at": "2026-11-23T21:14:40.000Z",
+          "id": "2124974939728199879",
+          "quoted_text": "https://t.co/cPUrBryGFI",
+          "text": "X going hard on video https://t.co/F9XDAdAteY"
         }
       ],
       "reads": {
-        "2124547985568907606": "No call",
         "2124577163949334667": "No call",
         "2124581113540526316": "No call",
         "2124655915680895186": "No call",
@@ -1833,7 +1830,8 @@
         "2124949785924997418": "No call",
         "2124950312997839314": "No call",
         "2124953388668408046": "No call: bearish on btc (same view as before)",
-        "2124955207574667393": "No call"
+        "2124955207574667393": "No call",
+        "2124974939728199879": "No call"
       },
       "replies": [
         {
@@ -1928,10 +1926,6 @@
         }
       ],
       "threads": {
-        "2122878032222282095": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122878125625262334": {
           "alerted": [],
           "self_replies": 0
@@ -2345,10 +2339,13 @@
         "2124955207574667393": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124974939728199879": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124547985568907606": false,
         "2124577163949334667": false,
         "2124581113540526316": false,
         "2124655915680895186": false,
@@ -2382,7 +2379,8 @@
         "2124959361709789582": false,
         "2124959970135601291": true,
         "2124962042079760592": true,
-        "2124966308575859168": false
+        "2124966308575859168": false,
+        "2124974939728199879": false
       },
       "user_id": "973261472"
     },
@@ -7763,5 +7761,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T21:00:39+00:00"
+  "updated_at": "2026-11-23T21:16:22+00:00"
 }
