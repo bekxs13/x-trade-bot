@@ -6708,7 +6708,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2124579997008400431",
+      "last_id": "2124656971571982573",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6903,12 +6903,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-16T23:36:42.000Z",
-          "id": "2122473968712216994",
-          "reply_to_id": "2122447776302669862",
-          "text": "@onchainrapist you found me"
-        },
-        {
           "created_at": "2026-11-17T05:22:52.000Z",
           "id": "2122561085966336509",
           "reply_to_id": "2122558302932303975",
@@ -6994,6 +6988,12 @@
           "id": "2123887084427727147",
           "reply_to_id": "2123885059434500238",
           "text": "@PaikCapital It's not"
+        },
+        {
+          "created_at": "2026-11-23T00:11:10.000Z",
+          "id": "2124656971571982573",
+          "reply_to_id": "2124656319512662246",
+          "text": "@ShaneStoffer Just use Hyperliquid. Imagine limiting your profits by \u201cnot being allowed to trade\u201d.\n\nCuck behavior."
         }
       ],
       "threads": {
@@ -7411,7 +7411,6 @@
         }
       },
       "trading": {
-        "2122473968712216994": false,
         "2122561085966336509": true,
         "2122577969273270527": false,
         "2122814012807430276": true,
@@ -7445,7 +7444,8 @@
         "2124346253504893118": false,
         "2124349093480685973": true,
         "2124578113258762749": true,
-        "2124579997008400431": true
+        "2124579997008400431": true,
+        "2124656971571982573": true
       },
       "user_id": "809191427645181952"
     }
@@ -7468,5 +7468,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-23T00:08:20+00:00"
+  "updated_at": "2026-11-23T00:12:22+00:00"
 }
