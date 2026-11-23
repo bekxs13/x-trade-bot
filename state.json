@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2124982044556181935",
+      "last_id": "2124991905490747800",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,11 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-21T22:41:47.000Z",
-          "id": "2124272089486270490",
-          "text": "https://t.co/Ck9Fdx272g"
-        },
         {
           "created_at": "2026-11-21T23:25:11.000Z",
           "id": "2124283008194887982",
@@ -348,10 +343,15 @@
           "created_at": "2026-11-23T20:13:41.000Z",
           "id": "2124959592379793500",
           "text": "My girl just applied for a job at Nvidia?"
+        },
+        {
+          "created_at": "2026-11-23T22:22:05.000Z",
+          "id": "2124991905490747800",
+          "quoted_text": "H3h3 losing his own company for dry humping some chick at his company in a 30 year marriage while my boy over at nvidia gets a promotion and a raise and his job back for donkey f*cking a few treeshes in his company. The real is back. Jensen Huang a real nigga",
+          "text": "#investing https://t.co/v9VJKbZfVL"
         }
       ],
       "reads": {
-        "2124272089486270490": "No call",
         "2124283008194887982": "No call",
         "2124307746162090256": "No call",
         "2124568636593737896": "No call",
@@ -369,7 +369,8 @@
         "2124951314027405642": "No call",
         "2124952193866571812": "No call",
         "2124956646116065390": "No call",
-        "2124959592379793500": "No call"
+        "2124959592379793500": "No call",
+        "2124991905490747800": "No call"
       },
       "replies": [
         {
@@ -467,10 +468,6 @@
         }
       ],
       "threads": {
-        "2121343134785544351": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121389071947960700": {
           "alerted": [],
           "self_replies": 0
@@ -875,6 +872,10 @@
         "2124959592379793500": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124991905490747800": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -884,7 +885,6 @@
         "2123638463400669290": false,
         "2123644980136988942": false,
         "2124227864476434748": false,
-        "2124272089486270490": false,
         "2124283008194887982": false,
         "2124291665359999351": false,
         "2124292318295687479": false,
@@ -912,7 +912,8 @@
         "2124953135487881284": false,
         "2124956646116065390": false,
         "2124959592379793500": false,
-        "2124982044556181935": false
+        "2124982044556181935": false,
+        "2124991905490747800": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7764,5 +7765,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T22:08:33+00:00"
+  "updated_at": "2026-11-23T22:22:20+00:00"
 }
