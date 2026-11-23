@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2124641798064902465",
+      "last_id": "2124708444221661460",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,14 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T17:57:03.000Z",
-          "id": "2123838043648033187",
-          "images": [
-            "https://pbs.twimg.com/media/HXljcKQbUAEigPU.jpg"
-          ],
-          "text": "https://t.co/H22KT94bS7"
-        },
         {
           "created_at": "2026-11-20T20:30:27.000Z",
           "id": "2123876649515339997",
@@ -351,10 +343,14 @@
           "id": "2124641798064902465",
           "reply_to_id": "2124641527624573321",
           "text": "is interesting to see gold and btc strong open vs nasdaq idk lessee"
+        },
+        {
+          "created_at": "2026-11-23T03:35:42.000Z",
+          "id": "2124708444221661460",
+          "text": "I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A. Based16z"
         }
       ],
       "reads": {
-        "2123838043648033187": "No call: bearish on stocks/macro (60%, too unsure)",
         "2124216545085956580": "No call",
         "2124223063755829526": "No call",
         "2124223559061115205": "No call",
@@ -371,7 +367,8 @@
         "2124592982645178419": "No call",
         "2124628337956147356": "No call",
         "2124641400553943292": "No call: bearish on stocks/macro (65%, too unsure)",
-        "2124641527624573321": "Read together with the post it replies to"
+        "2124641527624573321": "Read together with the post it replies to",
+        "2124708444221661460": "No call"
       },
       "replies": [
         {
@@ -469,10 +466,6 @@
         }
       ],
       "threads": {
-        "2121089865026884078": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121099379306307895": {
           "alerted": [],
           "self_replies": 1
@@ -877,6 +870,10 @@
         "2124641400553943292": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2124708444221661460": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -889,7 +886,6 @@
         "2123633790681751688": false,
         "2123638463400669290": false,
         "2123644980136988942": false,
-        "2123838043648033187": false,
         "2123876649515339997": false,
         "2124216545085956580": true,
         "2124223063755829526": false,
@@ -914,7 +910,8 @@
         "2124629493843411340": false,
         "2124641400553943292": true,
         "2124641527624573321": true,
-        "2124641798064902465": true
+        "2124641798064902465": true,
+        "2124708444221661460": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7473,5 +7470,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-23T03:34:20+00:00"
+  "updated_at": "2026-11-23T03:36:24+00:00"
 }
