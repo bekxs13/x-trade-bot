@@ -29,6 +29,10 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v5
+        with:
+          # The latest commit, not the one from when this run was queued: a run that waited for the previous
+          # one would otherwise start from old state.json and fail to save (merge conflict).
+          ref: main
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
