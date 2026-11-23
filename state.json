@@ -930,17 +930,17 @@
         },
         "spx": {
           "market": "stocks",
-          "post_id": "2124910758517669963",
-          "reason": "\"would not be super hopium filled to the upside until this position lifts at 7250\" and the earlier \"Bear Market Rally\" post read as cautious to bearish after the bounce. The 7250 level points to an SPX options or gamma wall.",
+          "post_id": "2124970791897063710",
+          "reason": "Says 'neutral - bull bias still' citing bullish holiday weeks and VIX vol crush, which differs from the recorded bearish SPX view despite holding puts.",
           "scope": "SPX",
           "since": "2026-11-23",
-          "stance": "bearish",
-          "updated_at": "2026-11-23T16:59:38.000Z"
+          "stance": "bullish",
+          "updated_at": "2026-11-23T20:58:11.000Z"
         }
       },
       "closed": [],
       "handle": "bigtrout300",
-      "last_id": "2124969442811809864",
+      "last_id": "2124970791897063710",
       "positions": {
         "SPX": {
           "asset": "SPX",
@@ -1029,6 +1029,11 @@
           "created_at": "2026-11-23T20:52:49.000Z",
           "id": "2124969442811809864",
           "text": "Simply more sellers than buyers, not what you wanna see really\n\n400 point move today, MOC was sell sided. So much pressure on the big index rn"
+        },
+        {
+          "created_at": "2026-11-23T20:58:11.000Z",
+          "id": "2124970791897063710",
+          "text": "Lot's of week left to trade. I have a neutral - bull bias still as I believe in Holiday trading weeks are bullish / VIX vol crush! \n\nI'm off to get a cheese burger, check in lataaaa!"
         }
       ],
       "reads": {
@@ -1040,7 +1045,8 @@
         "2124940743664079028": "No call: bearish on btc (same view as before)",
         "2124943710312079439": "Read together with the post it replies to",
         "2124956977818435750": "No call: neutral on btc (60%, too unsure)",
-        "2124969442811809864": "No call"
+        "2124969442811809864": "No call",
+        "2124970791897063710": "VIEW bullish on SPX"
       },
       "replies": [
         {
@@ -1175,6 +1181,12 @@
         "2124969442811809864": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124970791897063710": {
+          "alerted": [
+            "bias:spx:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1202,7 +1214,8 @@
         "2124965823186108638": false,
         "2124966076106850649": false,
         "2124966523400016157": true,
-        "2124969442811809864": true
+        "2124969442811809864": true,
+        "2124970791897063710": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7750,5 +7763,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T20:59:03+00:00"
+  "updated_at": "2026-11-23T21:00:39+00:00"
 }
