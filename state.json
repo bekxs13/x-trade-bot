@@ -1192,7 +1192,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124666332763529276",
+      "last_id": "2124667891270488198",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1550,12 +1550,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-22T15:54:04.000Z",
-          "id": "2124531871618904314",
-          "reply_to_id": "2124435014758617359",
-          "text": "@badattrading_ bad actors often use anger of the crowd to deflect from their own wrongdoings, align with the general populace against a seemingly common enemy to appear like a good guy and earn back reputation points that way then scam ppl afterwards"
-        },
-        {
           "created_at": "2026-11-22T16:57:45.000Z",
           "id": "2124547895562997988",
           "reply_to_id": "2124410972735488042",
@@ -1641,6 +1635,12 @@
           "id": "2124666332763529276",
           "reply_to_id": "2124483729674695120",
           "text": "@Sokio8D yes it does, they stop posting"
+        },
+        {
+          "created_at": "2026-11-23T00:54:34.000Z",
+          "id": "2124667891270488198",
+          "reply_to_id": "2124666839259099274",
+          "text": "@udiWertheimer a swim?"
         }
       ],
       "threads": {
@@ -2080,7 +2080,6 @@
         "2124522230268744075": false,
         "2124522587875066344": false,
         "2124523290228064457": true,
-        "2124531871618904314": false,
         "2124547895562997988": false,
         "2124547985568907606": false,
         "2124548131949871443": false,
@@ -2098,7 +2097,8 @@
         "2124655771061543268": false,
         "2124655915680895186": false,
         "2124665293469614551": false,
-        "2124666332763529276": false
+        "2124666332763529276": false,
+        "2124667891270488198": false
       },
       "user_id": "973261472"
     },
@@ -6708,7 +6708,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2124656971571982573",
+      "last_id": "2124667974007116153",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -6760,11 +6760,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T04:46:20.000Z",
-          "id": "2123639054046495080",
-          "text": "I'm cooking crack in the grokpot"
-        },
         {
           "created_at": "2026-11-20T15:14:07.000Z",
           "id": "2123797042300699037",
@@ -6877,10 +6872,14 @@
           "created_at": "2026-11-22T19:05:18.000Z",
           "id": "2124579997008400431",
           "text": "Grokbot is probably the optimal retail set up for agent use and will start growing like a weed"
+        },
+        {
+          "created_at": "2026-11-23T00:54:54.000Z",
+          "id": "2124667974007116153",
+          "text": "What\u2019s the point of doing all of this if you\u2019re not going to have children and build a better life for them?"
         }
       ],
       "reads": {
-        "2123639054046495080": "No call",
         "2123797042300699037": "No call",
         "2123807047892541470": "No call",
         "2123811016337486177": "No call: bearish on crypto market (65%, too unsure)",
@@ -6899,7 +6898,8 @@
         "2124346253504893118": "No call",
         "2124349093480685973": "No call: bearish on stocks/macro (65%, too unsure)",
         "2124578113258762749": "No call",
-        "2124579997008400431": "No call"
+        "2124579997008400431": "No call",
+        "2124667974007116153": "No call"
       },
       "replies": [
         {
@@ -6997,10 +6997,6 @@
         }
       ],
       "threads": {
-        "2121740936854008160": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121742692124434799": {
           "alerted": [],
           "self_replies": 0
@@ -7408,6 +7404,10 @@
         "2124579997008400431": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124667974007116153": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7424,7 +7424,6 @@
         "2123460741197930822": true,
         "2123463010849358127": true,
         "2123471825153806596": false,
-        "2123639054046495080": false,
         "2123797042300699037": true,
         "2123807047892541470": true,
         "2123811016337486177": true,
@@ -7445,7 +7444,8 @@
         "2124349093480685973": true,
         "2124578113258762749": true,
         "2124579997008400431": true,
-        "2124656971571982573": true
+        "2124656971571982573": true,
+        "2124667974007116153": false
       },
       "user_id": "809191427645181952"
     }
@@ -7468,5 +7468,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-23T00:50:27+00:00"
+  "updated_at": "2026-11-23T00:56:40+00:00"
 }
