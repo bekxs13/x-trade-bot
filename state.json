@@ -2494,7 +2494,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2124910805518893416",
+      "last_id": "2124911843168899296",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2530,11 +2530,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T22:43:46.000Z",
-          "id": "2123910200952234237",
-          "text": "\"at least i didn't have to go through the holocaust,\" i console myself as i look at my ftec permalong"
-        },
         {
           "created_at": "2026-11-20T22:49:09.000Z",
           "id": "2123911555209433425",
@@ -2657,10 +2652,15 @@
           "id": "2124910805518893416",
           "reply_to_id": "2124910769099677828",
           "text": "i am in awe"
+        },
+        {
+          "created_at": "2026-11-23T17:03:57.000Z",
+          "id": "2124911843168899296",
+          "quoted_text": "It would be great if we at least visit one of the two $JHEQX strikes over the next two months.  If not people are gonna get frustrated AF https://t.co/qV2H7cO7v8",
+          "text": "there is a second foundation that controls world news and makes the market pin one of these strikes https://t.co/okmkvYKWy6"
         }
       ],
       "reads": {
-        "2123910200952234237": "TRADE LONG FTEC",
         "2123911555209433425": "No call",
         "2123928519906394521": "No call",
         "2123930412317802923": "No call",
@@ -2678,7 +2678,8 @@
         "2124871663351406905": "No call",
         "2124877316501225858": "No call",
         "2124910769099677828": "No call: bullish on NVDA (60%, too unsure)",
-        "2124910805518893416": "Read together with the post it replies to"
+        "2124910805518893416": "Read together with the post it replies to",
+        "2124911843168899296": "No call"
       },
       "replies": [
         {
@@ -2773,10 +2774,6 @@
         }
       ],
       "threads": {
-        "2118726291905999055": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118874492202033161": {
           "alerted": [],
           "self_replies": 0
@@ -3174,10 +3171,13 @@
         "2124910769099677828": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2124911843168899296": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123910200952234237": true,
         "2123911555209433425": false,
         "2123928519906394521": false,
         "2123930412317802923": true,
@@ -3211,7 +3211,8 @@
         "2124895231388852475": false,
         "2124910428673482834": false,
         "2124910769099677828": true,
-        "2124910805518893416": false
+        "2124910805518893416": false,
+        "2124911843168899296": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7470,5 +7471,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-23T17:00:45+00:00"
+  "updated_at": "2026-11-23T17:04:24+00:00"
 }
