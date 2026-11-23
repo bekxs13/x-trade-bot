@@ -4879,7 +4879,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2124642895861092500",
+      "last_id": "2124711043574505550",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4931,12 +4931,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T16:47:27.000Z",
-          "id": "2123458140779770329",
-          "reply_to_id": "2123436707643044177",
-          "text": "it's time pu"
-        },
         {
           "created_at": "2026-11-19T17:28:48.000Z",
           "id": "2123468548404297959",
@@ -5042,10 +5036,14 @@
           "id": "2124321691887395060",
           "quoted_text": "\"The reason you can make so much money in trading is because the game is fucking hard\" https://t.co/6QusIe3tFC",
           "text": "if you\u2019re willing to do it long enough, the market rewards you https://t.co/P75qRlc54S"
+        },
+        {
+          "created_at": "2026-11-23T03:44:35.000Z",
+          "id": "2124710680003747844",
+          "text": "no streams this week see you next monday. good luck out there"
         }
       ],
       "reads": {
-        "2123458140779770329": "No call",
         "2123468548404297959": "No call",
         "2123483360517337582": "No call",
         "2123487001080934733": "No call",
@@ -5063,15 +5061,10 @@
         "2123861753809318229": "No call",
         "2123866329526775990": "No call",
         "2123875879034257633": "No call",
-        "2124321691887395060": "No call"
+        "2124321691887395060": "No call",
+        "2124710680003747844": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-20T21:31:53.000Z",
-          "id": "2123892108201492857",
-          "reply_to_id": "2123889746925564261",
-          "text": "@BaggerWalmart their only revenue is wemby jersey sales"
-        },
         {
           "created_at": "2026-11-20T22:37:02.000Z",
           "id": "2123908502817009670",
@@ -5155,13 +5148,15 @@
           "id": "2124642895861092500",
           "reply_to_id": "2124642853280157869",
           "text": "@ezcontra lmao"
+        },
+        {
+          "created_at": "2026-11-23T03:46:02.000Z",
+          "id": "2124711043574505550",
+          "reply_to_id": "2124710807577760050",
+          "text": "@BigTrout300 family for thanksgiving  &lt;3"
         }
       ],
       "threads": {
-        "2118374667962417403": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118437719731011787": {
           "alerted": [],
           "self_replies": 1
@@ -5559,10 +5554,13 @@
         "2124321691887395060": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124710680003747844": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123458140779770329": false,
         "2123468548404297959": false,
         "2123483360517337582": false,
         "2123487001080934733": true,
@@ -5581,7 +5579,6 @@
         "2123861753809318229": true,
         "2123866329526775990": true,
         "2123875879034257633": true,
-        "2123892108201492857": false,
         "2123908502817009670": true,
         "2123910154286473671": false,
         "2123912157758984217": true,
@@ -5596,7 +5593,9 @@
         "2124562513106751538": false,
         "2124630486559359050": false,
         "2124642137585410495": false,
-        "2124642895861092500": false
+        "2124642895861092500": false,
+        "2124710680003747844": false,
+        "2124711043574505550": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7472,5 +7471,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-23T03:44:19+00:00"
+  "updated_at": "2026-11-23T03:46:24+00:00"
 }
