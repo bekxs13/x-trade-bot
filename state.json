@@ -1192,7 +1192,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124654384034525596",
+      "last_id": "2124655915680895186",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1389,12 +1389,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-21T22:31:05.000Z",
-          "id": "2124269396155682940",
-          "quoted_text": "nowadays i feel like the only thing i heard people say are:\n\n\u201cmarket sucks, there\u2019s no opportunities anymore\u201d or \u201cit\u2019s all insider\u201d\n\nthat\u2019s not true. either you\u2019re overtrading or you need to hone your skill because there are still opportunities, they just might be fewer than you\u2019re used to\n\ntop blasted $RINGS at $1.7m\n\ntoo blasted $BANDANA at $250k\n\ntop blasted $HUSS at $200k\n\nyes if you\u2019re a tracked wallet like Cupsey or you\u2019re getting into coins at $10k it\u2019s easier to make money\n\nbut don\u2019t let",
-          "text": "think schoen is one of the best trenchers on this app, always very early to plays and one of the most active traders who is always sharing wins &amp; losses https://t.co/dftjk9n2hP"
-        },
-        {
           "created_at": "2026-11-21T22:43:06.000Z",
           "id": "2124272421314113667",
           "text": "https://t.co/0PcrroCra6"
@@ -1525,10 +1519,14 @@
           "id": "2124581113540526316",
           "quoted_text": "i think Bryan Johnson is the best example of what people will do in a post-AGI, superabundance world\n\nhe made enough money to last a lifetime\n\nstarted obsessing over his health\n\nstarted a cult\n\ntripped balls on mushrooms\n\nfound love\n\nand now spends his days trying to dunk a basketball and shitposting on the internet\n\ni think we\u2019re going to be OK",
           "text": "the end state of every man is to hoop &amp; post https://t.co/QEEJPrGAVr"
+        },
+        {
+          "created_at": "2026-11-23T00:06:59.000Z",
+          "id": "2124655915680895186",
+          "text": "how we feeling lads"
         }
       ],
       "reads": {
-        "2124269396155682940": "No call",
         "2124272421314113667": "No call",
         "2124277317782450670": "No call: bullish on ai coins (55%, too unsure)",
         "2124343870645260476": "No call",
@@ -1547,15 +1545,10 @@
         "2124523290228064457": "No call",
         "2124547985568907606": "No call",
         "2124577163949334667": "No call",
-        "2124581113540526316": "No call"
+        "2124581113540526316": "No call",
+        "2124655915680895186": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-22T15:07:51.000Z",
-          "id": "2124520237949505834",
-          "reply_to_id": "2124378823302971728",
-          "text": "@riskmaxxing gonna start making ppl read whitepapers again"
-        },
         {
           "created_at": "2026-11-22T15:09:42.000Z",
           "id": "2124520707274997835",
@@ -1642,13 +1635,15 @@
           "id": "2124654384034525596",
           "reply_to_id": "2124643791294587097",
           "text": "@CryptoParadyme @cobie @buyerofponzi \ud83e\udee9"
+        },
+        {
+          "created_at": "2026-11-23T00:06:24.000Z",
+          "id": "2124655771061543268",
+          "reply_to_id": "2124654336781197317",
+          "text": "@0xKNL__ knlae u gotta stop with the no ticker man u already on priv wit 8 accounts and its twenty twenty six!!"
         }
       ],
       "threads": {
-        "2122453707266666992": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122453799935906240": {
           "alerted": [],
           "self_replies": 0
@@ -2062,10 +2057,13 @@
         "2124581113540526316": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2124655915680895186": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124269396155682940": true,
         "2124272421314113667": false,
         "2124277317782450670": true,
         "2124343870645260476": false,
@@ -2078,7 +2076,6 @@
         "2124500054706634908": true,
         "2124513622273495336": true,
         "2124519879294267771": true,
-        "2124520237949505834": false,
         "2124520707274997835": false,
         "2124521968317727086": true,
         "2124522230268744075": false,
@@ -2099,7 +2096,9 @@
         "2124625194987983099": false,
         "2124643707496419582": false,
         "2124654162453389343": false,
-        "2124654384034525596": false
+        "2124654384034525596": false,
+        "2124655771061543268": false,
+        "2124655915680895186": false
       },
       "user_id": "973261472"
     },
@@ -7469,5 +7468,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-23T00:02:24+00:00"
+  "updated_at": "2026-11-23T00:08:20+00:00"
 }
