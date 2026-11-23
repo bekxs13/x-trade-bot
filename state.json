@@ -1192,7 +1192,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2124643707496419582",
+      "last_id": "2124654162453389343",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1551,12 +1551,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-22T14:49:55.000Z",
-          "id": "2124515726270587121",
-          "reply_to_id": "2124509973568799084",
-          "text": "@ika_xbt oh i guess i am retarded i dont even think i signed up with a ref link"
-        },
-        {
           "created_at": "2026-11-22T14:52:20.000Z",
           "id": "2124516334151077925",
           "reply_to_id": "2124515975051563175",
@@ -1642,6 +1636,12 @@
           ],
           "reply_to_id": "2124640101812801822",
           "text": "@artsch00lreject https://t.co/LdWEdeh0f6"
+        },
+        {
+          "created_at": "2026-11-23T00:00:01.000Z",
+          "id": "2124654162453389343",
+          "reply_to_id": "2124649475020873894",
+          "text": "@0xcyp \ud83e\udee9"
         }
       ],
       "threads": {
@@ -2077,7 +2077,6 @@
         "2124498709144797661": true,
         "2124500054706634908": true,
         "2124513622273495336": true,
-        "2124515726270587121": false,
         "2124516334151077925": false,
         "2124519879294267771": true,
         "2124520237949505834": false,
@@ -2099,7 +2098,8 @@
         "2124622772093730970": false,
         "2124623539277828520": false,
         "2124625194987983099": false,
-        "2124643707496419582": false
+        "2124643707496419582": false,
+        "2124654162453389343": false
       },
       "user_id": "973261472"
     },
@@ -2505,7 +2505,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2124653554795192661",
+      "last_id": "2124654098792476871",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2541,12 +2541,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T17:41:36.000Z",
-          "id": "2123834155574395280",
-          "quoted_text": "*PENTAGON SAYS ANTHROPIC IS A SUPPLY CHAIN RISK TO DEPARTMENT OF WAR",
-          "text": "oh trump has shorts on https://t.co/RN0QcDI4sb"
-        },
         {
           "created_at": "2026-11-20T19:33:00.000Z",
           "id": "2123862192973852710",
@@ -2667,10 +2661,16 @@
           "id": "2124540084464570817",
           "reply_to_id": "2124539904994824298",
           "text": "likewise NVDA was already up 3.35%"
+        },
+        {
+          "created_at": "2026-11-22T23:59:45.000Z",
+          "id": "2124654098792476871",
+          "quoted_text": "So have I got this right?  Hyperliquid degens have bid up the SPX 130 handles?",
+          "reply_to_id": "2124653554795192661",
+          "text": "@liquiditygoblin not to pick on andy here (lord knows he has been more right than i have recently), but this was a common sentiment i saw on the timeline pre-open:\n\nhttps://t.co/U02Jg22xgA"
         }
       ],
       "reads": {
-        "2123834155574395280": "No call",
         "2123862192973852710": "No call",
         "2123883657853104385": "No call",
         "2123886653223887033": "No call",
@@ -3187,7 +3187,6 @@
         }
       },
       "trading": {
-        "2123834155574395280": true,
         "2123862192973852710": true,
         "2123868975947756012": false,
         "2123883657853104385": true,
@@ -3221,7 +3220,8 @@
         "2124539904994824298": true,
         "2124540084464570817": true,
         "2124652363311190364": false,
-        "2124653554795192661": true
+        "2124653554795192661": true,
+        "2124654098792476871": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7469,5 +7469,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-22T23:58:22+00:00"
+  "updated_at": "2026-11-23T00:00:35+00:00"
 }
