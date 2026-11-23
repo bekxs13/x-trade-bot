@@ -4881,7 +4881,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2124725398273413629",
+      "last_id": "2124731057832415492",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -4933,12 +4933,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-19T18:27:40.000Z",
-          "id": "2123483360517337582",
-          "quoted_text": "If you ever feel stupid, just know that I didn\u2019t invest in Anthropic at $183B because I wanted to continue supporting my ex\u2019s lifestyle \n\n(Luckily my seed investment did well and I landed 9 figures of Anthropic stock though)",
-          "text": "this made me feel alot better really appreciate you sharing \ud83d\udc4d https://t.co/OEgQ0YoVHR"
-        },
         {
           "created_at": "2026-11-19T18:42:08.000Z",
           "id": "2123487001080934733",
@@ -5044,10 +5038,18 @@
           "id": "2124711104610021768",
           "reply_to_id": "2124710680003747844",
           "text": "whole team has the week off for thanksgiving i will miss you"
+        },
+        {
+          "created_at": "2026-11-23T05:05:34.000Z",
+          "id": "2124731057832415492",
+          "images": [
+            "https://pbs.twimg.com/media/HXyPorcWMAA9FN8.jpg"
+          ],
+          "reply_to_id": "2124711104610021768",
+          "text": "https://t.co/YjlcgARqmv"
         }
       ],
       "reads": {
-        "2123483360517337582": "No call",
         "2123487001080934733": "No call",
         "2123497524967428354": "No call",
         "2123771089297822188": "No call",
@@ -5570,7 +5572,6 @@
         }
       },
       "trading": {
-        "2123483360517337582": false,
         "2123487001080934733": true,
         "2123497524967428354": false,
         "2123771089297822188": false,
@@ -5604,7 +5605,8 @@
         "2124711403600613657": false,
         "2124720536160973300": false,
         "2124722441427587419": false,
-        "2124725398273413629": false
+        "2124725398273413629": false,
+        "2124731057832415492": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7480,5 +7482,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-22",
-  "updated_at": "2026-11-23T04:44:28+00:00"
+  "updated_at": "2026-11-23T05:06:23+00:00"
 }
