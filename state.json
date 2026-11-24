@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125133379452747982",
+      "last_id": "2125263174828179613",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,16 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-22T19:56:54.000Z",
-          "id": "2124592982645178419",
-          "images": [
-            "https://pbs.twimg.com/media/HXwR7LGbMAATtT3.jpg",
-            "https://pbs.twimg.com/media/HXwR7nAawAAvd2v.jpg",
-            "https://pbs.twimg.com/media/HXwR90Ka0AAWKsu.jpg"
-          ],
-          "text": "Pepe Silvia https://t.co/uoHLFTNai2"
-        },
         {
           "created_at": "2026-11-22T22:17:24.000Z",
           "id": "2124628337956147356",
@@ -348,10 +338,14 @@
           "quoted_text": "Price action tells all, up 30% and can\u2019t even retake the 21 ema, barely at 163 when it was 179 when the news first broke. Funniest scenario is Jensen returns and $nvda still underperforms. https://t.co/zuvlRicFdU",
           "reply_to_id": "2125133230609453338",
           "text": "https://t.co/Q9iMyw1cFa"
+        },
+        {
+          "created_at": "2026-11-24T16:20:01.000Z",
+          "id": "2125263174828179613",
+          "text": "https://t.co/awRsto1Xv2"
         }
       ],
       "reads": {
-        "2124592982645178419": "No call",
         "2124628337956147356": "No call",
         "2124641400553943292": "No call: bearish on stocks/macro (65%, too unsure)",
         "2124641527624573321": "Read together with the post it replies to",
@@ -369,7 +363,8 @@
         "2125065886814073214": "No call",
         "2125122791938929113": "No call",
         "2125133230609453338": "No call",
-        "2125133379452747982": "No call"
+        "2125133379452747982": "No call",
+        "2125263174828179613": "No call"
       },
       "replies": [
         {
@@ -464,10 +459,6 @@
         }
       ],
       "threads": {
-        "2121434427574345894": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121468644966465813": {
           "alerted": [],
           "self_replies": 0
@@ -872,6 +863,10 @@
         "2125133230609453338": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2125263174828179613": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -882,7 +877,6 @@
         "2124291665359999351": false,
         "2124292318295687479": false,
         "2124434297054711953": false,
-        "2124592982645178419": false,
         "2124596039239995718": false,
         "2124628337956147356": false,
         "2124629493843411340": false,
@@ -909,7 +903,8 @@
         "2125115691942703570": false,
         "2125122791938929113": false,
         "2125133230609453338": true,
-        "2125133379452747982": true
+        "2125133379452747982": true,
+        "2125263174828179613": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7890,5 +7885,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T16:18:30+00:00"
+  "updated_at": "2026-11-24T16:20:35+00:00"
 }
