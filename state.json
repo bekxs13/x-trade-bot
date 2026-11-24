@@ -2908,7 +2908,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2125298990791209043",
+      "last_id": "2125299937751581162",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3098,12 +3098,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-23T00:27:46.000Z",
-          "id": "2124661145864986901",
-          "reply_to_id": "2124660684667625754",
-          "text": "@yuzu_4ever maybe so but you can still make love happen"
-        },
-        {
           "created_at": "2026-11-23T00:29:18.000Z",
           "id": "2124661533859012696",
           "reply_to_id": "2124656390853841370",
@@ -3192,6 +3186,12 @@
           ],
           "reply_to_id": "2125260312114876617",
           "text": "@Franny8 https://t.co/Dqi0TrXjFX"
+        },
+        {
+          "created_at": "2026-11-24T18:46:05.000Z",
+          "id": "2125299937751581162",
+          "reply_to_id": "2125299279044714745",
+          "text": "@icyponds no it's not"
         }
       ],
       "threads": {
@@ -3603,7 +3603,6 @@
         "2124539904994824298": true,
         "2124540084464570817": true,
         "2124654098792476871": true,
-        "2124661145864986901": false,
         "2124661533859012696": true,
         "2124671044996956212": false,
         "2124678376451412245": false,
@@ -3633,7 +3632,8 @@
         "2125261408405426623": false,
         "2125293107508044118": true,
         "2125293253347950899": false,
-        "2125298990791209043": false
+        "2125298990791209043": false,
+        "2125299937751581162": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7126,7 +7126,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2125282942431682880",
+      "last_id": "2125299675498533194",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -7178,14 +7178,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T20:25:45.000Z",
-          "id": "2123875464200818903",
-          "images": [
-            "https://pbs.twimg.com/media/HXmFcviWoAAtdbf.jpg"
-          ],
-          "text": "This looks like one of those binance honeypot tokens https://t.co/sxVJF3ZOxF"
-        },
         {
           "created_at": "2026-11-20T20:53:58.000Z",
           "id": "2123882568290546109",
@@ -7301,10 +7293,17 @@
           "id": "2125282942431682880",
           "quoted_text": "SOXS is now live. 10x leverage, 24/7, 365. https://t.co/joOUumOtWM",
           "text": "No better way to bet against the AI trade. Perpetual swaps typically give you linear delta exposure, SOXS through a prolonged downtrend gives you maximum constant leverage exposure.\n\nNote, please research the actual underlying leveraged ETFs and understand the product. https://t.co/Tsiu0KDZXr"
+        },
+        {
+          "created_at": "2026-11-24T18:45:03.000Z",
+          "id": "2125299675498533194",
+          "images": [
+            "https://pbs.twimg.com/media/HX6UyhwWwAA_iJq.jpg"
+          ],
+          "text": "Just diabolical https://t.co/ENJVKfanLp"
         }
       ],
       "reads": {
-        "2123875464200818903": "No call: bearish on NVDA (60%, too unsure)",
         "2123882568290546109": "No call",
         "2123883834945011817": "No call",
         "2123992554240938341": "No call",
@@ -7323,7 +7322,8 @@
         "2124867155498061929": "No call",
         "2124894118660673733": "No call",
         "2124894119050825779": "No call",
-        "2125282942431682880": "No call: bearish on semiconductors/AI stocks (55%, too unsure)"
+        "2125282942431682880": "No call: bearish on semiconductors/AI stocks (55%, too unsure)",
+        "2125299675498533194": "No call"
       },
       "replies": [
         {
@@ -7421,10 +7421,6 @@
         }
       ],
       "threads": {
-        "2121837781508915257": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2121840174187327834": {
           "alerted": [],
           "self_replies": 0
@@ -7828,6 +7824,10 @@
         "2125282942431682880": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125299675498533194": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7844,7 +7844,6 @@
         "2123460741197930822": true,
         "2123463010849358127": true,
         "2123471825153806596": false,
-        "2123875464200818903": true,
         "2123882568290546109": true,
         "2123883834945011817": true,
         "2123887084427727147": false,
@@ -7865,7 +7864,8 @@
         "2124867155498061929": true,
         "2124894118660673733": true,
         "2124894119050825779": true,
-        "2125282942431682880": true
+        "2125282942431682880": true,
+        "2125299675498533194": false
       },
       "user_id": "809191427645181952"
     }
@@ -7888,5 +7888,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T18:44:23+00:00"
+  "updated_at": "2026-11-24T18:46:27+00:00"
 }
