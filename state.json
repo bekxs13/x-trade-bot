@@ -927,34 +927,45 @@
           "updated_at": "2026-11-23T20:58:11.000Z"
         }
       },
-      "closed": [],
+      "closed": [
+        {
+          "asset": "SPX",
+          "close_price": null,
+          "close_url": "https://x.com/bigtrout300/status/2125300694702076218",
+          "closed": "2026-11-24T18:49:06.000Z",
+          "direction": "short",
+          "flipped": true,
+          "market": "stocks",
+          "move": null,
+          "open_price": null,
+          "open_url": "https://x.com/bigtrout300/status/2124920569980493957",
+          "opened": "2026-11-23T17:38:37.000Z",
+          "partial": false,
+          "structure": "long puts"
+        }
+      ],
       "handle": "bigtrout300",
-      "last_id": "2125292764049084626",
+      "last_id": "2125300694702076218",
       "positions": {
         "SPX": {
           "asset": "SPX",
           "chain": "",
-          "confidence": 0.82,
+          "confidence": 0.75,
           "contract_address": "",
-          "direction": "short",
+          "direction": "long",
           "entry": "",
-          "horizon": "Q1 (Jan-Mar expiries)",
+          "horizon": "0DTE (intraday)",
+          "last_seen": "2026-11-24T18:49:06.000Z",
           "market": "stocks",
           "open_price": null,
-          "post_id": "2124920569980493957",
-          "reason": "Says he'll scale into long puts / put spreads for Q1 and still owns Jan-Mar; he also monetized nearly all December strikes. Underlying not named but his recent posts and recorded view point to SPX.",
-          "since": "2026-11-23T17:38:37.000Z",
-          "structure": "long puts",
-          "url": "https://x.com/bigtrout300/status/2124920569980493957"
+          "post_id": "2125300694702076218",
+          "reason": "He writes \"I am going to punt some 0DTE Calls\". The underlying isn't named, but his options talk and recent posts center on SPX (the \"Red Flag SPX\" profile), so SPX is the likely underlying.",
+          "since": "2026-11-24T18:49:06.000Z",
+          "structure": "long calls",
+          "url": "https://x.com/bigtrout300/status/2125300694702076218"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-23T20:35:14.000Z",
-          "id": "2124965017372201307",
-          "reply_to_id": "2124964826946703550",
-          "text": "@AnabolicsAnonym lowkey if the AI buildout dies or is done.. I am more bearish Silver lol \n\nGold tho pretty bullish IE rate cuts/DXY devaluation \n\nNot sure how it all plays, will wait and see"
-        },
         {
           "created_at": "2026-11-23T20:52:49.000Z",
           "id": "2124969442811809864",
@@ -1092,6 +1103,11 @@
           "created_at": "2026-11-24T17:25:08.000Z",
           "id": "2125279564758929898",
           "text": "\"Market Coordination\" is going to hunt some shorts over the next 10 days\n\n\ud83d\udc1f\u2728"
+        },
+        {
+          "created_at": "2026-11-24T18:49:06.000Z",
+          "id": "2125300694702076218",
+          "text": "Yk I don't trade 0DTE often, I like 3DTE - Weeklies.. \n\nbut I am going to punt some 0DTE Calls \ud83e\udd2d"
         }
       ],
       "reads": {
@@ -1110,7 +1126,8 @@
         "2125262673302680054": "No call",
         "2125274593191776757": "No call",
         "2125275227026514176": "No call: neutral on btc (55%, too unsure)",
-        "2125279564758929898": "No call: bullish on btc (65%, too unsure)"
+        "2125279564758929898": "No call: bullish on btc (65%, too unsure)",
+        "2125300694702076218": "TRADE LONG SPX"
       },
       "replies": [
         {
@@ -1305,10 +1322,15 @@
         "2125279564758929898": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125300694702076218": {
+          "alerted": [
+            "trade:SPX:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124965017372201307": true,
         "2124969442811809864": true,
         "2124970791897063710": true,
         "2124995611858808835": true,
@@ -1342,7 +1364,8 @@
         "2125279564758929898": true,
         "2125289861058003130": false,
         "2125291513328611391": false,
-        "2125292764049084626": true
+        "2125292764049084626": true,
+        "2125300694702076218": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7887,5 +7910,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T18:48:24+00:00"
+  "updated_at": "2026-11-24T18:50:32+00:00"
 }
