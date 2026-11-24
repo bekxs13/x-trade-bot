@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125133230609453338",
+      "last_id": "2125133379452747982",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,11 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-22T19:42:18.000Z",
-          "id": "2124589307377938570",
-          "text": "https://t.co/s2ILlI2siN"
-        },
         {
           "created_at": "2026-11-22T19:56:54.000Z",
           "id": "2124592982645178419",
@@ -346,10 +341,16 @@
           "created_at": "2026-11-24T07:43:39.000Z",
           "id": "2125133230609453338",
           "text": "some of this stuff is down way more than I thought dram 20% day and didn't clear the high from 5 days ago lol"
+        },
+        {
+          "created_at": "2026-11-24T07:44:15.000Z",
+          "id": "2125133379452747982",
+          "quoted_text": "Price action tells all, up 30% and can\u2019t even retake the 21 ema, barely at 163 when it was 179 when the news first broke. Funniest scenario is Jensen returns and $nvda still underperforms. https://t.co/zuvlRicFdU",
+          "reply_to_id": "2125133230609453338",
+          "text": "https://t.co/Q9iMyw1cFa"
         }
       ],
       "reads": {
-        "2124589307377938570": "No call",
         "2124592982645178419": "No call",
         "2124628337956147356": "No call",
         "2124641400553943292": "No call: bearish on stocks/macro (65%, too unsure)",
@@ -367,7 +368,8 @@
         "2125058913389412443": "No call",
         "2125065886814073214": "No call",
         "2125122791938929113": "No call",
-        "2125133230609453338": "No call"
+        "2125133230609453338": "No call",
+        "2125133379452747982": "No call"
       },
       "replies": [
         {
@@ -869,7 +871,7 @@
         },
         "2125133230609453338": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
@@ -880,7 +882,6 @@
         "2124291665359999351": false,
         "2124292318295687479": false,
         "2124434297054711953": false,
-        "2124589307377938570": false,
         "2124592982645178419": false,
         "2124596039239995718": false,
         "2124628337956147356": false,
@@ -907,7 +908,8 @@
         "2125089032757780779": false,
         "2125115691942703570": false,
         "2125122791938929113": false,
-        "2125133230609453338": true
+        "2125133230609453338": true,
+        "2125133379452747982": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7836,5 +7838,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-24T07:44:24+00:00"
+  "updated_at": "2026-11-24T07:46:23+00:00"
 }
