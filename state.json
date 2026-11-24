@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125065886814073214",
+      "last_id": "2125089032757780779",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -374,12 +374,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-20T03:52:47.000Z",
-          "id": "2123625576519053783",
-          "reply_to_id": "2123463897583599759",
-          "text": "@IterIntellectus They actually explicitly changed the rules to take it from other people via their 401ks quite directly https://t.co/7lwZktunx9"
-        },
-        {
           "created_at": "2026-11-20T04:04:07.000Z",
           "id": "2123628429807636824",
           "images": [
@@ -465,6 +459,12 @@
           "id": "2124982044556181935",
           "reply_to_id": "2124981712295788564",
           "text": "@0xKNL__ Ye. still gonna do it tho"
+        },
+        {
+          "created_at": "2026-11-24T04:48:02.000Z",
+          "id": "2125089032757780779",
+          "reply_to_id": "2125082775535456424",
+          "text": "@youngjazzeth Good vibes Ty @buyerofponzi"
         }
       ],
       "threads": {
@@ -879,7 +879,6 @@
         }
       },
       "trading": {
-        "2123625576519053783": false,
         "2123628429807636824": false,
         "2123633790681751688": false,
         "2123638463400669290": false,
@@ -913,7 +912,8 @@
         "2124991905490747800": false,
         "2125011472287994086": true,
         "2125058913389412443": false,
-        "2125065886814073214": true
+        "2125065886814073214": true,
+        "2125089032757780779": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7842,5 +7842,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-24T04:20:27+00:00"
+  "updated_at": "2026-11-24T04:48:21+00:00"
 }
