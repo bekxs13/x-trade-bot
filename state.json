@@ -937,7 +937,7 @@
       },
       "closed": [],
       "handle": "bigtrout300",
-      "last_id": "2125237849255784531",
+      "last_id": "2125238069070876750",
       "positions": {
         "SPX": {
           "asset": "SPX",
@@ -1120,12 +1120,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-24T00:55:19.000Z",
-          "id": "2125030469322645707",
-          "reply_to_id": "2125030292440191362",
-          "text": "@nvidia @JensenHuang Me when I say a prayer to my OTM call just to get nuked in 3 weeks"
-        },
-        {
           "created_at": "2026-11-24T00:57:10.000Z",
           "id": "2125030934558982653",
           "reply_to_id": "2124995739814408211",
@@ -1208,6 +1202,12 @@
           "id": "2125237849255784531",
           "reply_to_id": "2125237679013106144",
           "text": "@wolfofshelby Labour market slows, inflation creeps , need to print to bail shit out \n\nLabour market is my focus. Economy has been strong under the surface, but if AI capex slows / grinds lower = bad"
+        },
+        {
+          "created_at": "2026-11-24T14:40:15.000Z",
+          "id": "2125238069070876750",
+          "reply_to_id": "2125173604153532754",
+          "text": "@DimitriDotEth THAT CANT  BE REAL"
         }
       ],
       "threads": {
@@ -1301,7 +1301,6 @@
         "2125002529285328993": false,
         "2125007905531494831": true,
         "2125018080862773288": true,
-        "2125030469322645707": true,
         "2125030934558982653": false,
         "2125031627642511794": true,
         "2125033525598703742": true,
@@ -1321,7 +1320,8 @@
         "2125233578342810019": false,
         "2125234169492148305": false,
         "2125237686005121244": false,
-        "2125237849255784531": true
+        "2125237849255784531": true,
+        "2125238069070876750": false
       },
       "user_id": "1841011241877168128"
     },
@@ -7862,5 +7862,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T14:40:26+00:00"
+  "updated_at": "2026-11-24T14:42:20+00:00"
 }
