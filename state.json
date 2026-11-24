@@ -945,7 +945,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125308318818463796",
+      "last_id": "2125309040351986042",
       "positions": {
         "SPX": {
           "asset": "SPX",
@@ -1132,15 +1132,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-24T16:39:05.000Z",
-          "id": "2125267975108444308",
-          "images": [
-            "https://pbs.twimg.com/tweet_video_thumb/HX539UqaQAEt8xR.jpg"
-          ],
-          "reply_to_id": "2125267809328677181",
-          "text": "@burntmoments https://t.co/XyGdqL7GOB"
-        },
-        {
           "created_at": "2026-11-24T16:45:26.000Z",
           "id": "2125269571636707759",
           "reply_to_id": "2125269426094358760",
@@ -1226,6 +1217,15 @@
           "id": "2125308318818463796",
           "reply_to_id": "2125308249398243613",
           "text": "@cosmos42333 Who needs help!?"
+        },
+        {
+          "created_at": "2026-11-24T19:22:16.000Z",
+          "id": "2125309040351986042",
+          "images": [
+            "https://pbs.twimg.com/media/HX6dTxMa0AE18l9.jpg"
+          ],
+          "reply_to_id": "2125308834768195844",
+          "text": "@0xcryptus @koolkrypto223 https://t.co/BYoZFevtUX"
         }
       ],
       "threads": {
@@ -1359,7 +1359,6 @@
         "2125249935289532866": false,
         "2125251155152515095": true,
         "2125262673302680054": true,
-        "2125267975108444308": false,
         "2125269571636707759": false,
         "2125274593191776757": true,
         "2125274654831169565": false,
@@ -1379,7 +1378,8 @@
         "2125305195592917465": false,
         "2125305743532499435": false,
         "2125306106008539520": false,
-        "2125308318818463796": false
+        "2125308318818463796": false,
+        "2125309040351986042": false
       },
       "user_id": "1841011241877168128"
     },
@@ -2945,7 +2945,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2125307787378823472",
+      "last_id": "2125309294593605837",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3137,18 +3137,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-23T03:32:44.000Z",
-          "id": "2124707696876097637",
-          "reply_to_id": "2124686113919115411",
-          "text": "@somewheresy is it caffeine tastings or mocktails that you're after?"
-        },
-        {
-          "created_at": "2026-11-23T03:33:46.000Z",
-          "id": "2124707954754564525",
-          "reply_to_id": "2124699835919945737",
-          "text": "@Kairoscene of course"
-        },
-        {
           "created_at": "2026-11-23T04:01:33.000Z",
           "id": "2124714948630593794",
           "reply_to_id": "2124714348040061269",
@@ -3231,6 +3219,18 @@
           "id": "2125307787378823472",
           "reply_to_id": "2125307706945028312",
           "text": "@lucidshapes well it's going to make it worse"
+        },
+        {
+          "created_at": "2026-11-24T19:22:08.000Z",
+          "id": "2125309006168158647",
+          "reply_to_id": "2125302531760726407",
+          "text": "@goodalexander short pltr?"
+        },
+        {
+          "created_at": "2026-11-24T19:23:16.000Z",
+          "id": "2125309294593605837",
+          "reply_to_id": "2125305910947872991",
+          "text": "@goodalexander actually he was hacked when he wrote his bio and created the token - it is what it is"
         }
       ],
       "threads": {
@@ -3641,8 +3641,6 @@
         "2124540084464570817": true,
         "2124654098792476871": true,
         "2124679947050426577": true,
-        "2124707696876097637": false,
-        "2124707954754564525": false,
         "2124714948630593794": false,
         "2124866456940954082": true,
         "2124867684399505774": true,
@@ -3672,7 +3670,9 @@
         "2125306622826189031": false,
         "2125306858294669438": false,
         "2125307125396324598": false,
-        "2125307787378823472": false
+        "2125307787378823472": false,
+        "2125309006168158647": true,
+        "2125309294593605837": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7919,5 +7919,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T19:20:29+00:00"
+  "updated_at": "2026-11-24T19:24:21+00:00"
 }
