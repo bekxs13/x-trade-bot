@@ -5318,7 +5318,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2125301421373571338",
+      "last_id": "2125301750483575034",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -5370,11 +5370,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T17:05:44.000Z",
-          "id": "2123825128429490387",
-          "text": "some serious bitcoin relative strength at 59,187. noticing"
-        },
         {
           "created_at": "2026-11-20T17:26:31.000Z",
           "id": "2123830359657943066",
@@ -5480,10 +5475,15 @@
           "id": "2125301421373571338",
           "reply_to_id": "2125300092240289998",
           "text": "genuinely hilarious the market moves on 2.5% cpi vs 2.6 expected when the actual number is like 10 \n\nnone of these numbers are real"
+        },
+        {
+          "created_at": "2026-11-24T18:52:58.000Z",
+          "id": "2125301667784695822",
+          "reply_to_id": "2125301421373571338",
+          "text": "worth noting this was paid for in store. no doordash fees no electric bike fee"
         }
       ],
       "reads": {
-        "2123825128429490387": "No call: bullish on btc (65%, too unsure)",
         "2123830359657943066": "No call",
         "2123835937125757093": "No call",
         "2123836458637119971": "No call",
@@ -5503,21 +5503,6 @@
         "2125301421373571338": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-23T04:31:20.000Z",
-          "id": "2124722441427587419",
-          "images": [
-            "https://pbs.twimg.com/media/HXyHzKNXIAA1Tne.jpg"
-          ],
-          "reply_to_id": "2124722092922855446",
-          "text": "@seyong good luck out there https://t.co/hSFwcxtPGj"
-        },
-        {
-          "created_at": "2026-11-23T04:43:05.000Z",
-          "id": "2124725398273413629",
-          "reply_to_id": "2124723848646205497",
-          "text": "@KrutzkyTrades i got us soon"
-        },
         {
           "created_at": "2026-11-23T15:17:57.000Z",
           "id": "2124885171136786802",
@@ -5595,6 +5580,18 @@
           "id": "2125301304503505107",
           "reply_to_id": "2125301201570766907",
           "text": "@BittexXBT 2 zec for chipotle? free"
+        },
+        {
+          "created_at": "2026-11-24T18:52:36.000Z",
+          "id": "2125301577137176932",
+          "reply_to_id": "2125301458849419739",
+          "text": "@reaIityobserver no paid for in restaurant"
+        },
+        {
+          "created_at": "2026-11-24T18:53:18.000Z",
+          "id": "2125301750483575034",
+          "reply_to_id": "2125301685719273824",
+          "text": "@reaIityobserver double brisket though ngl. gas"
         }
       ],
       "threads": {
@@ -6002,7 +5999,6 @@
         }
       },
       "trading": {
-        "2123825128429490387": true,
         "2123830359657943066": true,
         "2123835937125757093": false,
         "2123836458637119971": false,
@@ -6014,8 +6010,6 @@
         "2124321691887395060": true,
         "2124710680003747844": false,
         "2124711104610021768": false,
-        "2124722441427587419": false,
-        "2124725398273413629": false,
         "2124731057832415492": false,
         "2124884692159836315": false,
         "2124885171136786802": false,
@@ -6036,7 +6030,10 @@
         "2125300092240289998": false,
         "2125301209242517616": false,
         "2125301304503505107": false,
-        "2125301421373571338": true
+        "2125301421373571338": true,
+        "2125301577137176932": false,
+        "2125301667784695822": false,
+        "2125301750483575034": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7907,5 +7904,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T18:52:23+00:00"
+  "updated_at": "2026-11-24T18:54:20+00:00"
 }
