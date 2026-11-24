@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125307441823048028",
+      "last_id": "2125326823970263338",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,14 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-22T23:09:18.000Z",
-          "id": "2124641400553943292",
-          "images": [
-            "https://pbs.twimg.com/media/HXw-E6hbAAAquxr.jpg"
-          ],
-          "text": "Weekly highs in? https://t.co/vFCmPFxxhG"
-        },
         {
           "created_at": "2026-11-22T23:09:48.000Z",
           "id": "2124641527624573321",
@@ -340,10 +332,15 @@
           "created_at": "2026-11-24T17:13:23.000Z",
           "id": "2125276608261202062",
           "text": "NBA champion Tristan Thompson says his friend Orangie, a former Fortnite player, has made multiple billions of dollars trading coins"
+        },
+        {
+          "created_at": "2026-11-24T20:32:56.000Z",
+          "id": "2125326823970263338",
+          "quoted_text": "Reminder $ANT isn\u2019t falling because of Ai fears. Anthropic is falling because as they personally disclosed they don\u2019t expect to become profitable in the foreseeable future and made a provision to allow every executive and employee to sell 10% day one to jump off a burning ship. They exercised and continue to exercise that right. $76",
+          "text": "sentiment https://t.co/FtAieFGhxW"
         }
       ],
       "reads": {
-        "2124641400553943292": "No call: bearish on stocks/macro (65%, too unsure)",
         "2124641527624573321": "Read together with the post it replies to",
         "2124708444221661460": "No call",
         "2124710071146090770": "No call",
@@ -361,7 +358,8 @@
         "2125133230609453338": "No call",
         "2125133379452747982": "No call",
         "2125263174828179613": "No call",
-        "2125276608261202062": "No call"
+        "2125276608261202062": "No call",
+        "2125326823970263338": "No call"
       },
       "replies": [
         {
@@ -456,10 +454,6 @@
         }
       ],
       "threads": {
-        "2121500270656114978": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121702478425337871": {
           "alerted": [],
           "self_replies": 0
@@ -864,6 +858,10 @@
         "2125276608261202062": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125326823970263338": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -875,7 +873,6 @@
         "2124434297054711953": false,
         "2124596039239995718": false,
         "2124629493843411340": false,
-        "2124641400553943292": true,
         "2124641527624573321": true,
         "2124641798064902465": true,
         "2124708444221661460": false,
@@ -901,7 +898,8 @@
         "2125133379452747982": true,
         "2125263174828179613": false,
         "2125276608261202062": true,
-        "2125307441823048028": true
+        "2125307441823048028": true,
+        "2125326823970263338": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7920,5 +7918,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T20:32:19+00:00"
+  "updated_at": "2026-11-24T20:34:27+00:00"
 }
