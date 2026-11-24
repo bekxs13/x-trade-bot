@@ -2908,7 +2908,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2125293253347950899",
+      "last_id": "2125298990791209043",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2944,15 +2944,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-21T05:16:40.000Z",
-          "id": "2124009076883370159",
-          "images": [
-            "https://pbs.twimg.com/media/HXn-_rYXAAEOPSk.jpg"
-          ],
-          "reply_to_id": "2124000938121683246",
-          "text": "https://t.co/mXfyLA6MOB"
-        },
         {
           "created_at": "2026-11-21T05:58:15.000Z",
           "id": "2124019541462413797",
@@ -3076,10 +3067,15 @@
           "quoted_text": "unbelievable https://t.co/Gk0aD2M7ik",
           "reply_to_id": "2125293107508044118",
           "text": "like what is this\nhttps://t.co/SpytFbeBns"
+        },
+        {
+          "created_at": "2026-11-24T18:42:20.000Z",
+          "id": "2125298990791209043",
+          "quoted_text": "SCOOP: Internal, unreleased AI models at OpenAI and Anthropic are becoming so powerful that many employees believe they can no longer be safely released, according to more than two dozen sources familiar with the internal debates.\n\nThis could significantly slow the AI boom, as the gap between what the most advanced AI systems can do and humans' ability to control them continues to widen.\n\nRecent advances have sparked debate at the highest levels of both companies and within the broader AI resear",
+          "text": "stop recursive self improvement you suicide cultists https://t.co/g3340oHULw"
         }
       ],
       "reads": {
-        "2124009076883370159": "No call",
         "2124019541462413797": "No call",
         "2124539904994824298": "No call",
         "2124540084464570817": "No call",
@@ -3097,7 +3093,8 @@
         "2125259572407374148": "No call",
         "2125260359594357094": "No call",
         "2125293107508044118": "No call",
-        "2125293253347950899": "Read together with the post it replies to"
+        "2125293253347950899": "Read together with the post it replies to",
+        "2125298990791209043": "No call"
       },
       "replies": [
         {
@@ -3198,10 +3195,6 @@
         }
       ],
       "threads": {
-        "2119525570203775190": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119531917574025572": {
           "alerted": [],
           "self_replies": 0
@@ -3599,10 +3592,13 @@
         "2125293107508044118": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2125298990791209043": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124009076883370159": false,
         "2124019541462413797": false,
         "2124539904994824298": true,
         "2124540084464570817": true,
@@ -3636,7 +3632,8 @@
         "2125260954795716969": false,
         "2125261408405426623": false,
         "2125293107508044118": true,
-        "2125293253347950899": false
+        "2125293253347950899": false,
+        "2125298990791209043": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7891,5 +7888,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T18:20:27+00:00"
+  "updated_at": "2026-11-24T18:44:23+00:00"
 }
