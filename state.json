@@ -2908,7 +2908,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2125261408405426623",
+      "last_id": "2125293253347950899",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2944,16 +2944,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-21T04:45:44.000Z",
-          "id": "2124001290762047674",
-          "text": "it is    what  it  is    and what    It  is      is        Complete Ass"
-        },
-        {
-          "created_at": "2026-11-21T05:14:13.000Z",
-          "id": "2124008458756432215",
-          "text": "in a few weeks-months this account is going private for a long, long, time, so get your follows in now"
-        },
         {
           "created_at": "2026-11-21T05:16:40.000Z",
           "id": "2124009076883370159",
@@ -3073,11 +3063,22 @@
           ],
           "quoted_text": "wrong. during the four year duration of this administration we will experience artificially heightened volatility specifically engineered to create short-term trading opportunities for insiders https://t.co/WmgvhGGpqu",
           "text": "https://t.co/eF0E4QJgp0 https://t.co/SFUUY0j49y"
+        },
+        {
+          "created_at": "2026-11-24T18:18:57.000Z",
+          "id": "2125293107508044118",
+          "quoted_text": "JUST IN: Jim Cramer turns bullish on Nvidia",
+          "text": "this isn't real. right? this is the most insane sharpe https://t.co/HzVncXJxgn"
+        },
+        {
+          "created_at": "2026-11-24T18:19:32.000Z",
+          "id": "2125293253347950899",
+          "quoted_text": "unbelievable https://t.co/Gk0aD2M7ik",
+          "reply_to_id": "2125293107508044118",
+          "text": "like what is this\nhttps://t.co/SpytFbeBns"
         }
       ],
       "reads": {
-        "2124001290762047674": "No call",
-        "2124008458756432215": "No call",
         "2124009076883370159": "No call",
         "2124019541462413797": "No call",
         "2124539904994824298": "No call",
@@ -3094,7 +3095,9 @@
         "2124960475687588173": "Read together with the post it replies to",
         "2125017997425176826": "No call",
         "2125259572407374148": "No call",
-        "2125260359594357094": "No call"
+        "2125260359594357094": "No call",
+        "2125293107508044118": "No call",
+        "2125293253347950899": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -3195,10 +3198,6 @@
         }
       ],
       "threads": {
-        "2119465859194523687": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119525570203775190": {
           "alerted": [],
           "self_replies": 0
@@ -3596,11 +3595,13 @@
         "2125260359594357094": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125293107508044118": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2124001290762047674": false,
-        "2124008458756432215": false,
         "2124009076883370159": false,
         "2124019541462413797": false,
         "2124539904994824298": true,
@@ -3633,7 +3634,9 @@
         "2125259572407374148": true,
         "2125260359594357094": true,
         "2125260954795716969": false,
-        "2125261408405426623": false
+        "2125261408405426623": false,
+        "2125293107508044118": true,
+        "2125293253347950899": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7888,5 +7891,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T18:18:22+00:00"
+  "updated_at": "2026-11-24T18:20:27+00:00"
 }
