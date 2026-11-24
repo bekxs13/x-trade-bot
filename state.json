@@ -945,32 +945,27 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125301295620010418",
+      "last_id": "2125302395421049302",
       "positions": {
         "SPX": {
           "asset": "SPX",
           "chain": "",
-          "confidence": 0.75,
+          "confidence": 0.8,
           "contract_address": "",
           "direction": "long",
           "entry": "",
           "horizon": "0DTE (intraday)",
-          "last_seen": "2026-11-24T18:49:06.000Z",
+          "last_seen": "2026-11-24T18:55:51.000Z",
           "market": "stocks",
           "open_price": null,
-          "post_id": "2125300694702076218",
-          "reason": "He writes \"I am going to punt some 0DTE Calls\". The underlying isn't named, but his options talk and recent posts center on SPX (the \"Red Flag SPX\" profile), so SPX is the likely underlying.",
+          "post_id": "2125302395421049302",
+          "reason": "\"going to punt some 0DTE Calls\" with \"7180-85 key spot to watch SPX\" is a new short-dated SPX call trade, separate from the existing weekly-style calls. It is a repost of the 18:49 post with the level added.",
           "since": "2026-11-24T18:49:06.000Z",
           "structure": "long calls",
-          "url": "https://x.com/bigtrout300/status/2125300694702076218"
+          "url": "https://x.com/bigtrout300/status/2125302395421049302"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-23T20:52:49.000Z",
-          "id": "2124969442811809864",
-          "text": "Simply more sellers than buyers, not what you wanna see really\n\n400 point move today, MOC was sell sided. So much pressure on the big index rn"
-        },
         {
           "created_at": "2026-11-23T20:58:11.000Z",
           "id": "2124970791897063710",
@@ -1108,10 +1103,14 @@
           "created_at": "2026-11-24T18:49:06.000Z",
           "id": "2125300694702076218",
           "text": "Yk I don't trade 0DTE often, I like 3DTE - Weeklies.. \n\nbut I am going to punt some 0DTE Calls \ud83e\udd2d"
+        },
+        {
+          "created_at": "2026-11-24T18:55:51.000Z",
+          "id": "2125302395421049302",
+          "text": "Yk I don't trade 0DTE often, I like 3DTE - Weeklies.. \n\nbut I am going to punt some 0DTE Calls \ud83e\udd2d\n\n7180-85 key spot to watch SPX"
         }
       ],
       "reads": {
-        "2124969442811809864": "No call",
         "2124970791897063710": "VIEW bullish on SPX",
         "2125002529285328993": "No call",
         "2125007905531494831": "No call",
@@ -1127,15 +1126,10 @@
         "2125274593191776757": "No call",
         "2125275227026514176": "No call: neutral on btc (55%, too unsure)",
         "2125279564758929898": "No call: bullish on btc (65%, too unsure)",
-        "2125300694702076218": "TRADE LONG SPX"
+        "2125300694702076218": "TRADE LONG SPX",
+        "2125302395421049302": "TRADE LONG SPX"
       },
       "replies": [
-        {
-          "created_at": "2026-11-24T15:38:05.000Z",
-          "id": "2125252622374563904",
-          "reply_to_id": "2125251912723231014",
-          "text": "@CryptoPoseidonn Max capitulation, liquidation marks bottoms \n\nnot bleed/passive sell \n\n\ud83e\udd1d"
-        },
         {
           "created_at": "2026-11-24T15:56:16.000Z",
           "id": "2125257201728262160",
@@ -1222,6 +1216,12 @@
           "id": "2125301295620010418",
           "reply_to_id": "2125301173729259942",
           "text": "@iratepengu I would love to return to NYC : )"
+        },
+        {
+          "created_at": "2026-11-24T18:54:37.000Z",
+          "id": "2125302083423535585",
+          "reply_to_id": "2125301826677555469",
+          "text": "@Fomology_ @derivisionxyz IBKR, Derive, WS!"
         }
       ],
       "threads": {
@@ -1328,10 +1328,15 @@
             "trade:SPX:long"
           ],
           "self_replies": 0
+        },
+        "2125302395421049302": {
+          "alerted": [
+            "trade:SPX:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124969442811809864": true,
         "2124970791897063710": true,
         "2124995611858808835": true,
         "2125002529285328993": false,
@@ -1346,7 +1351,6 @@
         "2125244949499392236": true,
         "2125249935289532866": false,
         "2125251155152515095": true,
-        "2125252622374563904": true,
         "2125257201728262160": false,
         "2125262238592455047": false,
         "2125262673302680054": true,
@@ -1365,7 +1369,9 @@
         "2125291513328611391": false,
         "2125292764049084626": true,
         "2125300694702076218": true,
-        "2125301295620010418": false
+        "2125301295620010418": false,
+        "2125302083423535585": false,
+        "2125302395421049302": true
       },
       "user_id": "1841011241877168128"
     },
@@ -5318,7 +5324,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2125301750483575034",
+      "last_id": "2125302483878621434",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -5370,17 +5376,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T17:26:31.000Z",
-          "id": "2123830359657943066",
-          "text": "can trump get back in that committing heinously illegal crimes to make the market go up mode"
-        },
-        {
-          "created_at": "2026-11-20T17:48:41.000Z",
-          "id": "2123835937125757093",
-          "reply_to_id": "2123797243082006860",
-          "text": "@drews888 my fault unc"
-        },
         {
           "created_at": "2026-11-20T17:50:45.000Z",
           "id": "2123836458637119971",
@@ -5481,11 +5476,21 @@
           "id": "2125301667784695822",
           "reply_to_id": "2125301421373571338",
           "text": "worth noting this was paid for in store. no doordash fees no electric bike fee"
+        },
+        {
+          "created_at": "2026-11-24T18:54:40.000Z",
+          "id": "2125302096907866131",
+          "reply_to_id": "2125301667784695822",
+          "text": "in rural virginia too. make it worse"
+        },
+        {
+          "created_at": "2026-11-24T18:56:13.000Z",
+          "id": "2125302483878621434",
+          "reply_to_id": "2125302096907866131",
+          "text": "i started checking receipts again after losing 100k on an anthropic long"
         }
       ],
       "reads": {
-        "2123830359657943066": "No call",
-        "2123835937125757093": "No call",
         "2123836458637119971": "No call",
         "2123859424334799336": "No call",
         "2123861753809318229": "No call",
@@ -5999,8 +6004,6 @@
         }
       },
       "trading": {
-        "2123830359657943066": true,
-        "2123835937125757093": false,
         "2123836458637119971": false,
         "2123854931526570160": false,
         "2123859424334799336": true,
@@ -6033,7 +6036,9 @@
         "2125301421373571338": true,
         "2125301577137176932": false,
         "2125301667784695822": false,
-        "2125301750483575034": false
+        "2125301750483575034": false,
+        "2125302096907866131": false,
+        "2125302483878621434": true
       },
       "user_id": "1426732252768182281"
     },
@@ -7904,5 +7909,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T18:54:20+00:00"
+  "updated_at": "2026-11-24T18:56:30+00:00"
 }
