@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125326823970263338",
+      "last_id": "2125330258333413809",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,12 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-22T23:09:48.000Z",
-          "id": "2124641527624573321",
-          "reply_to_id": "2124641400553943292",
-          "text": "Scott Bessent went on TV and XYZ gamblers are bullish. 15% straight up"
-        },
         {
           "created_at": "2026-11-22T23:10:53.000Z",
           "id": "2124641798064902465",
@@ -338,10 +332,15 @@
           "id": "2125326823970263338",
           "quoted_text": "Reminder $ANT isn\u2019t falling because of Ai fears. Anthropic is falling because as they personally disclosed they don\u2019t expect to become profitable in the foreseeable future and made a provision to allow every executive and employee to sell 10% day one to jump off a burning ship. They exercised and continue to exercise that right. $76",
           "text": "sentiment https://t.co/FtAieFGhxW"
+        },
+        {
+          "created_at": "2026-11-24T20:46:34.000Z",
+          "id": "2125330258333413809",
+          "reply_to_id": "2125326823970263338",
+          "text": "as much as I do hate ant shorting week 1 sub ipo price is maybe ambitious"
         }
       ],
       "reads": {
-        "2124641527624573321": "Read together with the post it replies to",
         "2124708444221661460": "No call",
         "2124710071146090770": "No call",
         "2124711448832327765": "No call",
@@ -359,7 +358,8 @@
         "2125133379452747982": "No call",
         "2125263174828179613": "No call",
         "2125276608261202062": "No call",
-        "2125326823970263338": "No call"
+        "2125326823970263338": "No call",
+        "2125330258333413809": "No call"
       },
       "replies": [
         {
@@ -861,7 +861,7 @@
         },
         "2125326823970263338": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
@@ -873,7 +873,6 @@
         "2124434297054711953": false,
         "2124596039239995718": false,
         "2124629493843411340": false,
-        "2124641527624573321": true,
         "2124641798064902465": true,
         "2124708444221661460": false,
         "2124710071146090770": false,
@@ -899,7 +898,8 @@
         "2125263174828179613": false,
         "2125276608261202062": true,
         "2125307441823048028": true,
-        "2125326823970263338": true
+        "2125326823970263338": true,
+        "2125330258333413809": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7918,5 +7918,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T20:34:27+00:00"
+  "updated_at": "2026-11-24T20:48:26+00:00"
 }
