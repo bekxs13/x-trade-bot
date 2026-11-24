@@ -925,12 +925,12 @@
       "biases": {
         "btc": {
           "market": "crypto",
-          "post_id": "2124940743664079028",
-          "reason": "Shares Bitfinex view that losing 60k makes 55k 'inevitable', with images pointing to a $53.2k realised-price test, matching his recorded bearish BTC view.",
+          "post_id": "2125062490262507735",
+          "reason": "Says \"No idea what happens here (LTF)\" and \"no bias for me really here,\" shifting from the recorded bearish BTC view to neutral.",
           "scope": "btc",
-          "since": "2026-11-23",
-          "stance": "bearish",
-          "updated_at": "2026-11-23T18:58:47.000Z"
+          "since": "2026-11-24",
+          "stance": "neutral",
+          "updated_at": "2026-11-24T03:02:34.000Z"
         },
         "spx": {
           "market": "stocks",
@@ -944,7 +944,7 @@
       },
       "closed": [],
       "handle": "bigtrout300",
-      "last_id": "2125060616209785117",
+      "last_id": "2125062490262507735",
       "positions": {
         "SPX": {
           "asset": "SPX",
@@ -1079,6 +1079,16 @@
           ],
           "reply_to_id": "2124938080687972641",
           "text": "asks are gone. \n\nreally nothing passive bid atm, wonder if the 17% pump we got is it.. still not convinced we make \"new\" lows yet https://t.co/fnsdAiTnGb"
+        },
+        {
+          "created_at": "2026-11-24T03:02:34.000Z",
+          "id": "2125062490262507735",
+          "images": [
+            "https://pbs.twimg.com/media/HX28ZoXbwAA7raU.jpg",
+            "https://pbs.twimg.com/media/HX28b5raIAA_ep3.jpg",
+            "https://pbs.twimg.com/media/HX28fZva8AAXpXF.jpg"
+          ],
+          "text": "$BTC \n\nImbalances I was expecting to get filled, are going for it. \n\nNo idea what happens here (LTF). Tomorrows SPX profile kind of looks like a Red Flag. We did pump 17% off the BTC lows which is near my 20% target (66k, we hit 64 half.) \n\nClearly a failed breakout attempt, but we stopped out 4.9k in BTC Shorts. (A lot.) \n\nOI is rising to the downside as CB dumps.. no bias for me really here."
         }
       ],
       "reads": {
@@ -1095,7 +1105,8 @@
         "2125002529285328993": "No call",
         "2125007905531494831": "No call",
         "2125018080862773288": "No call: bearish on btc (65%, too unsure)",
-        "2125038606146560239": "No call"
+        "2125038606146560239": "No call",
+        "2125062490262507735": "VIEW neutral on btc"
       },
       "replies": [
         {
@@ -1249,6 +1260,12 @@
         "2125038606146560239": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125062490262507735": {
+          "alerted": [
+            "bias:btc:neutral"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1283,7 +1300,8 @@
         "2125031627642511794": true,
         "2125033525598703742": true,
         "2125038606146560239": true,
-        "2125060616209785117": true
+        "2125060616209785117": true,
+        "2125062490262507735": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7826,5 +7844,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-24T02:56:18+00:00"
+  "updated_at": "2026-11-24T03:04:24+00:00"
 }
