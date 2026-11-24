@@ -937,7 +937,7 @@
       },
       "closed": [],
       "handle": "bigtrout300",
-      "last_id": "2125070813271670956",
+      "last_id": "2125228692796481620",
       "positions": {
         "SPX": {
           "asset": "SPX",
@@ -1082,6 +1082,15 @@
             "https://pbs.twimg.com/media/HX28fZva8AAXpXF.jpg"
           ],
           "text": "$BTC \n\nImbalances I was expecting to get filled, are going for it. \n\nNo idea what happens here (LTF). Tomorrows SPX profile kind of looks like a Red Flag. We did pump 17% off the BTC lows which is near my 20% target (66k, we hit 64 half.) \n\nClearly a failed breakout attempt, but we stopped out 4.9k in BTC Shorts. (A lot.) \n\nOI is rising to the downside as CB dumps.. no bias for me really here."
+        },
+        {
+          "created_at": "2026-11-24T14:02:59.000Z",
+          "id": "2125228692796481620",
+          "images": [
+            "https://pbs.twimg.com/media/HX5UO9JagAAcm3k.jpg"
+          ],
+          "quoted_text": "Simulation Theory Continued:\n\nMarket stays somewhat elevated till the 3rd Carrier arrives\n\nChina Trade War ramps up\n\nOil rises into Dec-Jan\n\nJD Vance leaves before G.E. \n\nIPOs cause a cluster fuck\n\n2027 has a heavy rally with rate cuts, but meets a \"spook\" in July-October (Mb 2028 Feb - Mar too?) time frame similar to Covid \"The anomaly year\" but for different reasons.",
+          "text": "Umm\u2026 https://t.co/2GDZR2L5n5 https://t.co/yqiPpZcG85"
         }
       ],
       "reads": {
@@ -1099,7 +1108,8 @@
         "2125007905531494831": "No call",
         "2125018080862773288": "No call: bearish on btc (65%, too unsure)",
         "2125038606146560239": "No call",
-        "2125062490262507735": "VIEW neutral on btc"
+        "2125062490262507735": "VIEW neutral on btc",
+        "2125228692796481620": "No call"
       },
       "replies": [
         {
@@ -1259,6 +1269,10 @@
             "bias:btc:neutral"
           ],
           "self_replies": 0
+        },
+        "2125228692796481620": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1294,7 +1308,8 @@
         "2125038606146560239": true,
         "2125060616209785117": true,
         "2125062490262507735": true,
-        "2125070813271670956": true
+        "2125070813271670956": true,
+        "2125228692796481620": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7835,5 +7850,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T13:46:21+00:00"
+  "updated_at": "2026-11-24T14:04:23+00:00"
 }
