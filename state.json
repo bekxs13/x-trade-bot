@@ -5298,7 +5298,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2125259044084425036",
+      "last_id": "2125283243188797719",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -5485,12 +5485,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-23T03:46:37.000Z",
-          "id": "2124711188210868633",
-          "reply_to_id": "2124711090336739405",
-          "text": "@rasmr_eth should be a more chill week. i was here for perpetual death"
-        },
-        {
           "created_at": "2026-11-23T03:47:28.000Z",
           "id": "2124711403600613657",
           "reply_to_id": "2124711169621627366",
@@ -5579,6 +5573,12 @@
           "id": "2125259044084425036",
           "reply_to_id": "2125258505712013375",
           "text": "@frankdegods @mclansol praying on his downfall deadass"
+        },
+        {
+          "created_at": "2026-11-24T17:39:45.000Z",
+          "id": "2125283243188797719",
+          "reply_to_id": "2125282583705456668",
+          "text": "@Evan_ss6 @fejau_inc coded ?"
         }
       ],
       "threads": {
@@ -6000,7 +6000,6 @@
         "2124321691887395060": true,
         "2124710680003747844": false,
         "2124711104610021768": false,
-        "2124711188210868633": false,
         "2124711403600613657": false,
         "2124720536160973300": false,
         "2124722441427587419": false,
@@ -6020,7 +6019,8 @@
         "2125255999540146226": false,
         "2125257606780379165": true,
         "2125258124504240323": false,
-        "2125259044084425036": false
+        "2125259044084425036": false,
+        "2125283243188797719": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7129,7 +7129,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2124894119050825779",
+      "last_id": "2125282942431682880",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -7181,14 +7181,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T20:20:14.000Z",
-          "id": "2123874079102886338",
-          "images": [
-            "https://pbs.twimg.com/media/HXmEKUkW4AA0OWA.jpg"
-          ],
-          "text": "I like NDX at 22500 - 20000 https://t.co/QYodxNSJkz"
-        },
         {
           "created_at": "2026-11-20T20:25:45.000Z",
           "id": "2123875464200818903",
@@ -7306,10 +7298,15 @@
           "id": "2124894119050825779",
           "quoted_text": "Holy fuck, this clip is insane  https://t.co/mkn1ntH2p1",
           "text": "Restricting your ability to trade is restricting your ability to make money. Trading is about optionality, and being able to execute faster than your competition.\n\nTogi unfortunately had the right idea, but because he wasn't using a 24/7 platform like Hyperliquid he lost money and flipped."
+        },
+        {
+          "created_at": "2026-11-24T17:38:33.000Z",
+          "id": "2125282942431682880",
+          "quoted_text": "SOXS is now live. 10x leverage, 24/7, 365. https://t.co/joOUumOtWM",
+          "text": "No better way to bet against the AI trade. Perpetual swaps typically give you linear delta exposure, SOXS through a prolonged downtrend gives you maximum constant leverage exposure.\n\nNote, please research the actual underlying leveraged ETFs and understand the product. https://t.co/Tsiu0KDZXr"
         }
       ],
       "reads": {
-        "2123874079102886338": "VIEW bearish on NDX",
         "2123875464200818903": "No call: bearish on NVDA (60%, too unsure)",
         "2123882568290546109": "No call",
         "2123883834945011817": "No call",
@@ -7328,7 +7325,8 @@
         "2124709060742390013": "No call",
         "2124867155498061929": "No call",
         "2124894118660673733": "No call",
-        "2124894119050825779": "No call"
+        "2124894119050825779": "No call",
+        "2125282942431682880": "No call: bearish on semiconductors/AI stocks (55%, too unsure)"
       },
       "replies": [
         {
@@ -7426,12 +7424,6 @@
         }
       ],
       "threads": {
-        "2121794197321867525": {
-          "alerted": [
-            "bias:btc:bullish"
-          ],
-          "self_replies": 0
-        },
         "2121837781508915257": {
           "alerted": [],
           "self_replies": 1
@@ -7835,6 +7827,10 @@
         "2124894119050825779": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125282942431682880": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7851,7 +7847,6 @@
         "2123460741197930822": true,
         "2123463010849358127": true,
         "2123471825153806596": false,
-        "2123874079102886338": true,
         "2123875464200818903": true,
         "2123882568290546109": true,
         "2123883834945011817": true,
@@ -7872,7 +7867,8 @@
         "2124709060742390013": true,
         "2124867155498061929": true,
         "2124894118660673733": true,
-        "2124894119050825779": true
+        "2124894119050825779": true,
+        "2125282942431682880": true
       },
       "user_id": "809191427645181952"
     }
@@ -7895,5 +7891,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T17:28:23+00:00"
+  "updated_at": "2026-11-24T17:40:42+00:00"
 }
