@@ -398,9 +398,11 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 13px; } ol.steps li { 
 
   <section id="tab-journal" class="hidden">
     <div class="card pad" id="j-editor"></div>
-    <div class="section-title"><h2>Past days</h2><span id="j-sub"></span></div>
-    <div class="card list" id="j-list"></div>
-    <button class="btn small" id="j-older" style="margin-top:10px">Load older</button>
+    <div id="j-past">
+      <div class="section-title"><h2>Past days</h2><span id="j-sub"></span></div>
+      <div class="card list" id="j-list"></div>
+      <button class="btn small" id="j-older" style="margin-top:10px">Load older</button>
+    </div>
   </section>
 
   <section id="tab-posts" class="hidden">
@@ -1109,13 +1111,15 @@ async function loadNotes(key) {
 }
 
 // ---- writing through the GitHub API ----
-const b64encode = s => btoa(String.fromCharCode(...new TextEncoder().encode(s)));
+const bytesB64 = u8 => { let s = ""; for (let i = 0; i < u8.length; i += 0x8000) s += String.fromCharCode(...u8.subarray(i, i + 0x8000)); return btoa(s); };
+const b64Bytes = s => Uint8Array.from(atob(s.replace(/\n/g, "")), c => c.charCodeAt(0));
+const b64encode = s => bytesB64(new TextEncoder().encode(s));
 const b64decode = s => new TextDecoder().decode(Uint8Array.from(atob(s.replace(/\n/g, "")), c => c.charCodeAt(0)));
 const READ_ONLY_HELP = "This token can read the repo but not edit it. On GitHub open Settings → Developer settings → "
   + "Fine-grained tokens and click this token. Under Permissions, make sure Contents is listed (+ Add permissions → "
   + "Contents) with access set to Read and write, then save. The token itself stays the same, so just try again.";
 
-// change(text or null) returns the new text, or null to delete the file.
+// change(text or null) returns (or resolves to) the new text, or null to delete the file.
 async function editFile(path, change, message) {
   const headers = {Authorization: `Bearer ${getToken()}`, Accept: "application/vnd.github+json"};
   for (let attempt = 0; attempt < 2; attempt++) {
@@ -1123,7 +1127,7 @@ async function editFile(path, change, message) {
     if (cur.status === 401) throw new Error("GitHub refused the token. It may have expired; remove it and add a new one.");
     if (!cur.ok && cur.status !== 404) throw new Error(`Couldn't read ${path} (HTTP ${cur.status})`);
     const file = cur.ok ? await cur.json() : null;
-    const next = change(file ? b64decode(file.content) : null);
+    const next = await change(file ? b64decode(file.content) : null);
     if (next === null && !file) return null;
     const body = {message, branch: BRANCH, committer: {name: "x-trade-bot", email: "x-trade-bot@users.noreply.github.com"}};
     if (file) body.sha = file.sha;
@@ -1571,7 +1575,10 @@ matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => { ap
 applyTheme(themeNow());
 
 // ---- journal: your own read of the market each day ----
-// One markdown file per month in journal/ (journal/2026-11.md), newest day first. Only this page writes them.
+// One file per month in journal/ (journal/2026-11.locked), newest day first. Only this page writes them.
+// Locked: the repo is public, so each month's markdown is encrypted in the browser (AES-256-GCM) before it's saved.
+// The key comes from your password (PBKDF2, salt and a check value in journal/lock.json). Without the password
+// nobody can read the entries, and nobody can recover them either.
 // Unsaved typing is kept on this device right away and sent to GitHub after a pause, on Save, or when you leave the tab.
 const J_MARKETS = ["stocks", "crypto", "macro"];
 const J_LEANS = {bullish: "Bull", neutral: "Flat", bearish: "Bear"};
@@ -1585,6 +1592,65 @@ const dayName = (day, opts = {weekday: "short", month: "short", day: "numeric"},
 const jEmpty = e => !e || (!String(e.text || "").trim() && !e.watch.some(w => w.t) && !J_MARKETS.some(m => e.lean[m]));
 const jAll = () => Object.assign({}, ...Object.values(journal));
 const jDraftKey = day => `xtb-journal-draft-${day}`;
+const J_PASS_KEY = `xtb-journal-pass-${OWNER}-${REPO}`, J_CHECK = "x-trade-bot journal";
+let jLock, jKey = null;  // jLock: undefined until read, null when no password is set yet
+const getJPass = () => { try { return localStorage.getItem(J_PASS_KEY) || ""; } catch { return ""; } };
+const setJPass = p => { try { p ? localStorage.setItem(J_PASS_KEY, p) : localStorage.removeItem(J_PASS_KEY); } catch {} };
+async function journalKey(pass, lock) {
+  const base = await crypto.subtle.importKey("raw", new TextEncoder().encode(pass), "PBKDF2", false, ["deriveKey"]);
+  return crypto.subtle.deriveKey({name: "PBKDF2", salt: b64Bytes(lock.salt), iterations: lock.iterations, hash: "SHA-256"},
+    base, {name: "AES-GCM", length: 256}, false, ["encrypt", "decrypt"]);
+}
+async function encryptText(key, text) {
+  const iv = crypto.getRandomValues(new Uint8Array(12));
+  const data = new Uint8Array(await crypto.subtle.encrypt({name: "AES-GCM", iv}, key, new TextEncoder().encode(text)));
+  return {iv: bytesB64(iv), data: bytesB64(data)};
+}
+const decryptText = async (key, box) => new TextDecoder().decode(await crypto.subtle.decrypt({name: "AES-GCM", iv: b64Bytes(box.iv)}, key, b64Bytes(box.data)));
+async function unlockJournal(pass) {
+  try {
+    const key = await journalKey(pass, jLock);
+    if (await decryptText(key, jLock.check) !== J_CHECK) return false;
+    jKey = key; setJPass(pass);
+    return true;
+  } catch { return false; }  // a wrong key fails to decrypt
+}
+async function lockJournal(pass) {
+  const lock = {v: 1, about: "Journal entries are encrypted in the browser (AES-256-GCM) with a key made from the owner's password (PBKDF2-SHA256). Without the password they can't be read.",
+    kdf: "PBKDF2-SHA256", iterations: 600000, salt: bytesB64(crypto.getRandomValues(new Uint8Array(16)))};
+  const key = await journalKey(pass, lock);
+  lock.check = await encryptText(key, J_CHECK);
+  await editFile("journal/lock.json", cur => {
+    if (cur) throw new Error("This journal already has a password. Reload the page and enter it.");
+    return JSON.stringify(lock, null, 2) + "\n";
+  }, "Lock the journal");
+  jLock = lock; jKey = key; setJPass(pass);
+}
+async function forgetJournal() {
+  if (!confirm("Forget the journal password on this device? You'll type it again to read or write here.")) return;
+  await saveJournal();
+  setJPass(""); jKey = null; jDraft = null; jDirty = false; jDate = "";
+  Object.keys(journal).forEach(k => delete journal[k]);
+  try { Object.keys(localStorage).filter(k => k.startsWith("xtb-journal-draft-")).forEach(k => localStorage.removeItem(k)); } catch {}
+  renderJournal();
+}
+function renderJLock() {
+  $("j-past").classList.add("hidden");
+  const token = !!getToken();
+  $("j-editor").innerHTML = jError ? `<div class="msg err" style="margin:0">${esc(jError)}</div>`
+    : jLock === undefined ? `<div class="empty">Loading your journal…</div>`
+    : jLock ? `<div class="j-date">Journal locked</div>
+      <p class="hint">Enter your journal password. This device remembers it, so it's once per phone or browser.</p>
+      <div class="field" style="margin-top:12px"><input type="password" id="j-pass" placeholder="Password" autocomplete="current-password"><button class="btn primary" id="j-unlock">Unlock</button></div>
+      <div class="msg" id="j-lock-msg"></div>`
+    : `<div class="j-date">Set a journal password</div>
+      <p class="hint">Your journal is saved in the bot's GitHub repo, which anyone can open. With a password, each entry is scrambled on your device before it's saved, so the repo only ever holds unreadable text.</p>
+      <span class="j-label">Password</span><input type="password" id="j-pass" placeholder="at least 8 characters" autocomplete="new-password">
+      <span class="j-label">Same password again</span><input type="password" id="j-pass2" autocomplete="new-password">
+      <p class="hint"><b>If you forget it, nobody can open your entries, me included.</b> Save it in your password manager.</p>
+      <div class="msg err" id="j-lock-msg">${token ? "" : "Add a GitHub token in Accounts first, so this page can save."}</div>
+      <div class="row-end" style="margin-top:12px"><span></span><button class="btn primary" id="j-lock"${token ? "" : " disabled"}>Lock and start writing</button></div>`;
+}
 
 function parseJournal(text) {
   const entries = {}, parts = (text || "").split(/^## (\d{4}-\d{2}-\d{2})\b.*$/m);
@@ -1625,13 +1691,21 @@ const cleanEntry = e => ({date: e.date, lean: {...e.lean}, watch: e.watch.map(w 
   text: e.text.replace(/\s+$/, "").replace(/^## (?=\d{4}-\d{2}-\d{2})/gm, "# ")});
 
 async function loadJournal(force = false) {
+  if (!jKey) {
+    if (jLock === undefined || force) {
+      try { const t = await getFile("journal/lock.json"); jLock = t ? JSON.parse(t) : null; jError = ""; }
+      catch (e) { jError = `Couldn't load your journal (${e.message}).`; }
+    }
+    if (!jLock || !getJPass() || !(await unlockJournal(getJPass()))) { renderJLock(); return; }
+  }
   const need = Array.from({length: jMonths}, (_, i) => monthBack(i)).filter(m => force || !(m in journal));
   if (need.length) {
     jLoading = true;
     if (!jDraft) renderJournal();
     try {
-      const texts = await Promise.all(need.map(m => getFile(`journal/${m}.md`)));
-      need.forEach((m, i) => { journal[m] = parseJournal(texts[i]); });
+      const texts = await Promise.all(need.map(m => getFile(`journal/${m}.locked`)));
+      const mds = await Promise.all(texts.map(t => t ? decryptText(jKey, JSON.parse(t)) : ""));
+      need.forEach((m, i) => { journal[m] = parseJournal(mds[i]); });
       jError = "";
     } catch (e) { jError = `Couldn't load your journal (${e.message}).`; }
     jLoading = false;
@@ -1667,16 +1741,17 @@ function jTouched() {
 }
 async function saveJournal() {
   clearTimeout(jTimer);
-  if (!jDirty || jSaving || !jDraft) return;
+  if (!jDirty || jSaving || !jDraft || !jKey) return;
   if (!getToken()) { renderJState(); return; }
   const entry = cleanEntry(jDraft), day = entry.date, month = day.slice(0, 7), sent = JSON.stringify(jDraft);
   jSaving = true; jError = ""; renderJState();
   try {
-    await editFile(`journal/${month}.md`, cur => {
-      const entries = parseJournal(cur);
+    await editFile(`journal/${month}.locked`, async cur => {
+      const entries = cur ? parseJournal(await decryptText(jKey, JSON.parse(cur))) : {};
       if (jEmpty(entry)) delete entries[day]; else entries[day] = entry;
       journal[month] = entries;
-      return monthMd(month, entries);
+      const md = monthMd(month, entries);
+      return md === null ? null : JSON.stringify({v: 1, ...(await encryptText(jKey, md))}) + "\n";
     }, `Journal ${day}`);
     jSavedAt = new Date().toISOString();
     // Typed more while it was saving? Then that's still unsaved.
@@ -1702,6 +1777,8 @@ function crowdLine(m) {
   return up || down ? `accounts: ${up} bull · ${down} bear` : "";
 }
 function renderJournal() {
+  if (!jKey) { renderJLock(); return; }
+  $("j-past").classList.remove("hidden");
   const today = localDay(), d = jDraft;
   if (!d) { $("j-editor").innerHTML = `<div class="empty">${jLoading ? "Loading your journal…" : ""}</div>`; renderJList(); return; }
   const isToday = d.date === today;
@@ -1738,7 +1815,7 @@ function renderJState() {
   const save = $("j-save");
   if (save) save.disabled = jSaving || !jDirty;
   const where = $("j-where");
-  if (where) where.innerHTML = `Kept in <a href="https://github.com/${OWNER}/${REPO}/tree/${BRANCH}/journal" target="_blank" rel="noopener">journal/</a> in your repo`;
+  if (where) where.innerHTML = `Locked with your password · <button class="linkish" id="j-forget" style="display:inline">forget it on this device</button>`;
 }
 function renderJList() {
   const days = Object.values(jAll()).filter(e => e.date !== jDate && !jEmpty(e)).sort((x, y) => y.date.localeCompare(x.date));
@@ -1767,7 +1844,22 @@ $("j-editor").addEventListener("input", e => {
   }
   jTouched();
 });
+$("j-editor").addEventListener("click", async e => {
+  const b = e.target.closest("#j-lock, #j-unlock");
+  if (!b) return;
+  const pass = $("j-pass").value, msg = $("j-lock-msg");
+  if (b.id === "j-lock" && pass.length < 8) return showMsg(msg, "Use at least 8 characters.", "err");
+  if (b.id === "j-lock" && pass !== $("j-pass2").value) return showMsg(msg, "The two passwords don't match.", "err");
+  b.disabled = true;
+  showMsg(msg, b.id === "j-lock" ? "Locking…" : "Unlocking…", "");
+  try {
+    if (b.id === "j-lock") await lockJournal(pass);
+    else if (!(await unlockJournal(pass))) { showMsg(msg, "That's not the password.", "err"); b.disabled = false; return; }
+  } catch (err) { showMsg(msg, err.message, "err"); b.disabled = false; return; }
+  loadJournal(true);
+});
 $("j-editor").addEventListener("keydown", e => {
+  if (e.key === "Enter" && ["j-pass", "j-pass2"].includes(e.target.id)) { e.preventDefault(); ($("j-lock") || $("j-unlock")).click(); return; }
   // Enter in a ticker or note jumps to a new row, like a list.
   if (e.key !== "Enter" || !e.target.closest(".j-row")) return;
   e.preventDefault();
@@ -1778,6 +1870,7 @@ $("j-editor").addEventListener("click", e => {
   const b = e.target.closest("button");
   if (!b || !jDraft) return;
   if (b.id === "j-save") { saveJournal(); return; }
+  if (b.id === "j-forget") { forgetJournal(); return; }
   if (b.id === "j-today") { saveJournal(); openDay(localDay()); return; }
   if (b.id === "j-add") {
     jDraft.watch.push({t: "", note: ""});
