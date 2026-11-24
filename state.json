@@ -1576,7 +1576,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2125075928992612437",
+      "last_id": "2125081599280582807",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1773,11 +1773,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-23T00:06:59.000Z",
-          "id": "2124655915680895186",
-          "text": "how we feeling lads"
-        },
-        {
           "created_at": "2026-11-23T02:57:15.000Z",
           "id": "2124698767656116514",
           "images": [
@@ -1889,10 +1884,15 @@
           "created_at": "2026-11-24T01:53:17.000Z",
           "id": "2125045055803290032",
           "text": "bros i am frightened to bid this"
+        },
+        {
+          "created_at": "2026-11-24T04:18:30.000Z",
+          "id": "2125081599280582807",
+          "quoted_text": "BREAKING: Trump says if Nvidia CEO Jensen Huang had not been reinstated at Nvidia, China's Xi Jinping might have personally called and asked him to become the leader in China's entire AI industry.\n\nHe says Jensen has Chinese \"blood in him.\" \n\nTrump says \"If Jensen was angry enough, if he was treated badly, maybe he could do that.\"\n\n\"Jensen could take the next plane to China, and I guarantee you they would give him whatever he wanted,\" Trump says.\n\n\"If I were President Xi, I'd say, 'Hey, let's ge",
+          "text": "lmfao https://t.co/BotoJK0g0U"
         }
       ],
       "reads": {
-        "2124655915680895186": "No call",
         "2124698767656116514": "No call",
         "2124824130851889594": "No call",
         "2124889222146375710": "No call",
@@ -1911,7 +1911,8 @@
         "2124955207574667393": "No call",
         "2124974939728199879": "No call",
         "2125044944658423857": "No call",
-        "2125045055803290032": "No call"
+        "2125045055803290032": "No call",
+        "2125081599280582807": "No call"
       },
       "replies": [
         {
@@ -2006,10 +2007,6 @@
         }
       ],
       "threads": {
-        "2122888193007894913": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2123089696884408356": {
           "alerted": [],
           "self_replies": 0
@@ -2423,10 +2420,13 @@
         "2125045055803290032": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125081599280582807": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124655915680895186": false,
         "2124698767656116514": false,
         "2124824130851889594": true,
         "2124889222146375710": false,
@@ -2460,7 +2460,8 @@
         "2125045055803290032": true,
         "2125045866319028723": false,
         "2125045902519713820": false,
-        "2125075928992612437": true
+        "2125075928992612437": true,
+        "2125081599280582807": false
       },
       "user_id": "973261472"
     },
@@ -7841,5 +7842,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-24T03:56:23+00:00"
+  "updated_at": "2026-11-24T04:20:27+00:00"
 }
