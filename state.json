@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125330258333413809",
+      "last_id": "2125332550973620357",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -363,12 +363,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-20T04:43:59.000Z",
-          "id": "2123638463400669290",
-          "reply_to_id": "2123637938470678536",
-          "text": "@tkisrage It\u2019s a matchmaking service"
-        },
-        {
           "created_at": "2026-11-20T05:09:53.000Z",
           "id": "2123644980136988942",
           "reply_to_id": "2123640167592611923",
@@ -451,6 +445,12 @@
           "id": "2125307441823048028",
           "reply_to_id": "2125297493097550316",
           "text": "@blondesnmoney SOXS as well tho\u2026"
+        },
+        {
+          "created_at": "2026-11-24T20:55:41.000Z",
+          "id": "2125332550973620357",
+          "reply_to_id": "2125332164564963336",
+          "text": "@hardinmallow low float meme coin, sentiment maxed out terrible, probably goes up, in my experience"
         }
       ],
       "threads": {
@@ -865,7 +865,6 @@
         }
       },
       "trading": {
-        "2123638463400669290": false,
         "2123644980136988942": false,
         "2124227864476434748": false,
         "2124291665359999351": false,
@@ -899,7 +898,8 @@
         "2125276608261202062": true,
         "2125307441823048028": true,
         "2125326823970263338": true,
-        "2125330258333413809": true
+        "2125330258333413809": true,
+        "2125332550973620357": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7918,5 +7918,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T20:48:26+00:00"
+  "updated_at": "2026-11-24T20:56:23+00:00"
 }
