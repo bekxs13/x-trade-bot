@@ -942,39 +942,27 @@
           "opened": "2026-11-23T17:38:37.000Z",
           "partial": false,
           "structure": "long puts"
+        },
+        {
+          "asset": "SPX",
+          "close_price": null,
+          "close_url": "https://x.com/bigtrout300/status/2125317415961772406",
+          "closed": "2026-11-24T19:55:33.000Z",
+          "direction": "long",
+          "flipped": false,
+          "market": "stocks",
+          "move": null,
+          "open_price": null,
+          "open_url": "https://x.com/bigtrout300/status/2125302395421049302",
+          "opened": "2026-11-24T18:49:06.000Z",
+          "partial": false,
+          "structure": "long calls"
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125315655629193510",
-      "positions": {
-        "SPX": {
-          "asset": "SPX",
-          "chain": "",
-          "confidence": 0.8,
-          "contract_address": "",
-          "direction": "long",
-          "entry": "",
-          "horizon": "0DTE (intraday)",
-          "last_seen": "2026-11-24T18:55:51.000Z",
-          "market": "stocks",
-          "open_price": null,
-          "post_id": "2125302395421049302",
-          "reason": "\"going to punt some 0DTE Calls\" with \"7180-85 key spot to watch SPX\" is a new short-dated SPX call trade, separate from the existing weekly-style calls. It is a repost of the 18:49 post with the level added.",
-          "since": "2026-11-24T18:49:06.000Z",
-          "structure": "long calls",
-          "url": "https://x.com/bigtrout300/status/2125302395421049302"
-        }
-      },
+      "last_id": "2125317415961772406",
+      "positions": {},
       "posts": [
-        {
-          "created_at": "2026-11-23T22:36:49.000Z",
-          "id": "2124995611858808835",
-          "images": [
-            "https://pbs.twimg.com/media/HX2AP2BagAA46Zg.png"
-          ],
-          "reply_to_id": "2124938080687972641",
-          "text": "some change. looks like 1 lifted below &amp; above https://t.co/HHWLG3pMsR"
-        },
         {
           "created_at": "2026-11-23T23:04:18.000Z",
           "id": "2125002529285328993",
@@ -1109,6 +1097,12 @@
           "id": "2125303465744417239",
           "quoted_text": "He called the top on SPX and Bitcoin.\n\nTomorrow @BigTrout300 joins us LIVE to break down what he sees next \n\n \ud83d\uddd3\ufe0fTomorrow, 12:00pm Est\n \ud83d\udcfa\ud83d\udd17  https://t.co/g8oANj3ZcI\n\nBring your questions. Turn on the reminder so you don't miss it\ud83d\udd14 https://t.co/Fz9hsPessH",
           "text": "Should be fun! Excited! \n\n:D https://t.co/qNA5OviLiA"
+        },
+        {
+          "created_at": "2026-11-24T19:55:33.000Z",
+          "id": "2125317415961772406",
+          "quoted_text": "Yk I don't trade 0DTE often, I like 3DTE - Weeklies.. \n\nbut I am going to punt some 0DTE Calls \ud83e\udd2d\n\n7180-85 key spot to watch SPX",
+          "text": "Rinsed, bounce really good when I called it, but just no fuckin bid lmao.\n\nunlucky! https://t.co/x31uvMDmAN"
         }
       ],
       "reads": {
@@ -1128,7 +1122,8 @@
         "2125279564758929898": "No call: bullish on btc (65%, too unsure)",
         "2125300694702076218": "TRADE LONG SPX",
         "2125302395421049302": "TRADE LONG SPX",
-        "2125303465744417239": "No call"
+        "2125303465744417239": "No call",
+        "2125317415961772406": "TRADE EXIT SPX"
       },
       "replies": [
         {
@@ -1342,10 +1337,15 @@
         "2125303465744417239": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125317415961772406": {
+          "alerted": [
+            "trade:SPX:exit"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124995611858808835": true,
         "2125002529285328993": false,
         "2125007905531494831": true,
         "2125018080862773288": true,
@@ -1379,7 +1379,8 @@
         "2125306106008539520": false,
         "2125308318818463796": false,
         "2125309040351986042": false,
-        "2125315655629193510": false
+        "2125315655629193510": false,
+        "2125317415961772406": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7919,5 +7920,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T19:50:28+00:00"
+  "updated_at": "2026-11-24T19:56:25+00:00"
 }
