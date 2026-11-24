@@ -937,7 +937,7 @@
       },
       "closed": [],
       "handle": "bigtrout300",
-      "last_id": "2125257201728262160",
+      "last_id": "2125262673302680054",
       "positions": {
         "SPX": {
           "asset": "SPX",
@@ -957,17 +957,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-23T18:48:12.000Z",
-          "id": "2124938080687972641",
-          "images": [
-            "https://pbs.twimg.com/media/HX1LxVNaEAAdlGZ.png",
-            "https://pbs.twimg.com/media/HX1Ly-ibcAAPGqa.png",
-            "https://pbs.twimg.com/media/HX1L0cSbsAANWfE.png",
-            "https://pbs.twimg.com/media/HX1L7EQa4AESdjU.png"
-          ],
-          "text": "\"The Boys\" holding it down atm https://t.co/YyHkB2Wm63"
-        },
         {
           "created_at": "2026-11-23T18:58:47.000Z",
           "id": "2124940743664079028",
@@ -1107,10 +1096,15 @@
             "https://pbs.twimg.com/media/HX5oc1OaYAAnJSF.jpg"
           ],
           "text": "It is too early to make a directional bias.. $BTC\n\nBut not a \"full breakdown\" as bad as it seems yet. \n\nI'm still briefly neutral-bullish short term. Kinda just figuring out value imho. \n\ncMonth VWAP coming to 66k gets interesting (as per other tweet targets) https://t.co/mhnTSQCI96"
+        },
+        {
+          "created_at": "2026-11-24T16:18:01.000Z",
+          "id": "2125262673302680054",
+          "quoted_text": "\ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \ud83d\udea8  296,000,000 $USDT (295,850,520 USD) transferred from #Bitfinex to Tether Treasury\n\nhttps://t.co/uBBFEz1LkR",
+          "text": "Decent move comin up \n\nifykyk https://t.co/Al83YQVGTh"
         }
       ],
       "reads": {
-        "2124938080687972641": "VIEW bearish on btc",
         "2124940743664079028": "No call: bearish on btc (same view as before)",
         "2124943710312079439": "Read together with the post it replies to",
         "2124956977818435750": "No call: neutral on btc (60%, too unsure)",
@@ -1125,15 +1119,10 @@
         "2125233104419996156": "No call",
         "2125244949499392236": "No call",
         "2125249935289532866": "No call",
-        "2125251155152515095": "No call: bullish on btc (60%, too unsure)"
+        "2125251155152515095": "No call: bullish on btc (60%, too unsure)",
+        "2125262673302680054": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-24T14:16:38.000Z",
-          "id": "2125232126966861835",
-          "reply_to_id": "2125169324809932985",
-          "text": "@stoicsavage Hey Sto, wheee did the WIF Sphere Funds go..? \ud83e\udd2d"
-        },
         {
           "created_at": "2026-11-24T14:18:24.000Z",
           "id": "2125232570044645560",
@@ -1220,6 +1209,12 @@
           "id": "2125257201728262160",
           "reply_to_id": "2125252767753125927",
           "text": "@CryptoPoseidonn My pinned"
+        },
+        {
+          "created_at": "2026-11-24T16:16:17.000Z",
+          "id": "2125262238592455047",
+          "reply_to_id": "2125260445988905356",
+          "text": "@BartTradesX YouTube recent video explains it :\"D"
         }
       ],
       "threads": {
@@ -1304,10 +1299,13 @@
         "2125251155152515095": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125262673302680054": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124938080687972641": false,
         "2124940743664079028": false,
         "2124943710312079439": true,
         "2124956977818435750": true,
@@ -1322,7 +1320,6 @@
         "2125060616209785117": true,
         "2125062490262507735": true,
         "2125228692796481620": true,
-        "2125232126966861835": true,
         "2125232570044645560": true,
         "2125233104419996156": true,
         "2125233243566022852": false,
@@ -1341,7 +1338,9 @@
         "2125251155152515095": true,
         "2125251759941799947": true,
         "2125252622374563904": true,
-        "2125257201728262160": false
+        "2125257201728262160": false,
+        "2125262238592455047": false,
+        "2125262673302680054": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7891,5 +7890,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T16:14:23+00:00"
+  "updated_at": "2026-11-24T16:18:30+00:00"
 }
