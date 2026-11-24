@@ -3,299 +3,354 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#f5f6f8" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#0b0d12" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#f4ecd8" id="theme-color">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="Trade Bot">
 <title>X Trade Bot</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%236d6aff'/%3E%3Cstop offset='1' stop-color='%2322c1a4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='16' fill='url(%23g)'/%3E%3Cpath d='M12 42l12-12 9 8 18-19' fill='none' stroke='white' stroke-width='6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='6' fill='%23f4ecd8'/%3E%3Crect x='3' y='3' width='58' height='58' rx='4' fill='none' stroke='%231c1a15' stroke-width='3'/%3E%3Cpath d='M15 19l14 15-14 15' fill='none' stroke='%231c1a15' stroke-width='6' stroke-linecap='square'/%3E%3Cpath d='M33 47h17' stroke='%231c1a15' stroke-width='6'/%3E%3C/svg%3E">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<script>try { document.documentElement.dataset.theme = localStorage.getItem("xtb-theme") || "paper"; } catch { document.documentElement.dataset.theme = "paper"; }</script>
 <style>
+/* Paper: cream stock, ink type, hairline rules. Colors are tokens so Night only swaps them. */
 :root {
-  --bg: #f5f6f8; --surface: #ffffff; --surface-2: #f0f2f5; --line: #e4e7ec; --text: #0f1419; --muted: #5d6673; --faint: #8a929e;
-  --accent: #5b57f5; --accent-soft: #ecebff;
-  --up: #0e9f6e; --up-soft: #e3f6ee; --down: #e5484d; --down-soft: #fdecec; --exit: #c27803; --exit-soft: #fdf3dc;
-  --flat: #6b7280; --flat-soft: #eef0f3;
-  --shadow: 0 1px 2px rgba(16, 24, 40, .04), 0 4px 16px rgba(16, 24, 40, .06);
-  --radius: 18px;
+  --bg: #f4ecd8; --surface: #faf5e7; --surface-2: #ede3c8; --line: #d8c9a5; --rule: #1c1a15;
+  --text: #1c1a15; --muted: #6b614c; --faint: #998c70;
+  --accent: #1c1a15; --accent-soft: #e6dabb;
+  --up: #22773b; --up-soft: #dde3bf; --down: #b8352a; --down-soft: #f1d3bd; --exit: #9a6100; --exit-soft: #f0dcae;
+  --flat: #7a6f58; --flat-soft: #e6dcc3;
+  --radius: 3px;
+  --mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  color-scheme: light;
+}
+:root[data-theme="night"] {
+  --bg: #14120e; --surface: #1b1914; --surface-2: #24211a; --line: #3a3429; --rule: #efe6d2;
+  --text: #efe6d2; --muted: #a99e86; --faint: #7b715e;
+  --accent: #efe6d2; --accent-soft: #2f2a20;
+  --up: #63c27e; --up-soft: #1c2c1e; --down: #ea7462; --down-soft: #3a1d18; --exit: #e2a845; --exit-soft: #352914;
+  --flat: #a1967f; --flat-soft: #29261e;
+  color-scheme: dark;
 }
 @media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #0b0d12; --surface: #13161d; --surface-2: #1a1e27; --line: #242935; --text: #e9ecf1; --muted: #9aa3b2; --faint: #6c7483;
-    --accent: #8b88ff; --accent-soft: #23224a;
-    --up: #3dd68c; --up-soft: #12301f; --down: #ff6b70; --down-soft: #3a171a; --exit: #f5b041; --exit-soft: #352a10;
-    --flat: #a3abb8; --flat-soft: #232833;
-    --shadow: 0 1px 0 rgba(255, 255, 255, .03) inset, 0 8px 24px rgba(0, 0, 0, .35);
+  :root[data-theme="auto"] {
+    --bg: #14120e; --surface: #1b1914; --surface-2: #24211a; --line: #3a3429; --rule: #efe6d2;
+    --text: #efe6d2; --muted: #a99e86; --faint: #7b715e;
+    --accent: #efe6d2; --accent-soft: #2f2a20;
+    --up: #63c27e; --up-soft: #1c2c1e; --down: #ea7462; --down-soft: #3a1d18; --exit: #e2a845; --exit-soft: #352914;
+    --flat: #a1967f; --flat-soft: #29261e;
+    color-scheme: dark;
   }
 }
 * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
 html { background: var(--bg); }
-body { margin: 0; background: var(--bg); color: var(--text);
-  font: 15px/1.45 Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  font-feature-settings: "cv11", "ss01"; -webkit-font-smoothing: antialiased; }
-a { color: var(--accent); text-decoration: none; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 14px/1.5 var(--mono); -webkit-font-smoothing: antialiased; }
+a { color: var(--text); text-decoration: underline; text-decoration-color: var(--faint); text-underline-offset: 3px; }
+a:hover { text-decoration-color: var(--text); }
 button { font: inherit; color: inherit; }
 .num { font-variant-numeric: tabular-nums; }
 .hidden { display: none !important; }
+::selection { background: var(--text); color: var(--bg); }
 
 /* ---- header ---- */
-.top { position: sticky; top: 0; z-index: 5; background: color-mix(in srgb, var(--bg) 82%, transparent);
-  backdrop-filter: saturate(160%) blur(14px); -webkit-backdrop-filter: saturate(160%) blur(14px);
-  padding: calc(env(safe-area-inset-top) + 12px) 16px 12px; }
-.top-inner { max-width: 720px; margin: 0 auto; display: flex; align-items: center; gap: 12px; }
-.logo { width: 40px; height: 40px; border-radius: 12px; flex: none; display: grid; place-items: center;
-  background: linear-gradient(135deg, #6d6aff, #22c1a4); box-shadow: 0 6px 16px rgba(91, 87, 245, .35); }
+.top { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--rule);
+  padding: calc(env(safe-area-inset-top) + 10px) 16px 10px; }
+.top-inner { max-width: 688px; margin: 0 auto; display: flex; align-items: center; gap: 8px; }
 .brand { flex: 1; min-width: 0; }
-.brand h1 { font-size: 18px; font-weight: 800; letter-spacing: -.02em; margin: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.status { display: flex; align-items: center; gap: 6px; font-size: 12.5px; color: var(--muted); margin-top: 1px; min-width: 0; }
+.brand h1 { font-size: 17px; font-weight: 700; margin: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.cursor { animation: blink 1.1s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+.status { display: flex; align-items: center; gap: 6px; font-size: 11.5px; color: var(--muted); min-width: 0; }
 #status { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.dot { width: 7px; height: 7px; border-radius: 50%; background: var(--faint); flex: none; }
-.dot.live { background: var(--up); box-shadow: 0 0 0 0 color-mix(in srgb, var(--up) 60%, transparent); animation: pulse 2s infinite; }
+.dot { width: 7px; height: 7px; background: var(--faint); flex: none; }
+.dot.live { background: var(--up); animation: blink 2s steps(1) infinite; }
 .dot.stale { background: var(--exit); }
-@keyframes pulse { 70% { box-shadow: 0 0 0 7px transparent; } 100% { box-shadow: 0 0 0 0 transparent; } }
-.icon-btn { width: 38px; height: 38px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface);
-  display: grid; place-items: center; cursor: pointer; color: var(--muted); }
+.icon-btn { width: 36px; height: 36px; border-radius: var(--radius); border: 1px solid var(--line); background: transparent;
+  display: grid; place-items: center; cursor: pointer; color: var(--text); flex: none; }
+.icon-btn:active, .check-btn:active { background: var(--surface-2); }
 .icon-btn.spin svg { animation: spin .8s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
 
 /* ---- layout ---- */
-main { max-width: 720px; margin: 0 auto; padding: 4px 16px calc(env(safe-area-inset-bottom) + 112px); }
-.section-title { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 4px 12px; margin: 22px 4px 10px; }
-.section-title h2 { font-size: 13px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 0; }
-.section-title span { font-size: 12.5px; color: var(--faint); }
-.card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); }
+main { max-width: 720px; margin: 0 auto; padding: 6px 16px calc(env(safe-area-inset-bottom) + 96px); }
+.section-title { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 4px 12px; margin: 26px 0 8px; }
+.section-title h2 { flex: 1; display: flex; align-items: center; gap: 10px; font-size: 11.5px; font-weight: 600; letter-spacing: .1em;
+  text-transform: uppercase; color: var(--text); margin: 0; white-space: nowrap; }
+.section-title h2::after { content: ""; flex: 1; min-width: 16px; border-top: 1px dashed var(--line); }
+.section-title span { font-size: 11.5px; color: var(--faint); }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
 .pad { padding: 16px; }
 
 /* ---- board ---- */
-.hero { padding: 18px 18px 16px; position: relative; overflow: hidden; }
-.hero::after { content: ""; position: absolute; inset: auto -40px -60px auto; width: 180px; height: 180px; border-radius: 50%;
-  background: radial-gradient(closest-side, color-mix(in srgb, var(--accent) 18%, transparent), transparent); pointer-events: none; }
-.hero-label { font-size: 12.5px; color: var(--muted); font-weight: 600; }
-.hero-mood { font-size: 28px; font-weight: 800; letter-spacing: -.03em; margin: 2px 0 12px; }
+.hero { padding: 16px; }
+.hero-label { font-size: 11.5px; color: var(--muted); text-transform: uppercase; letter-spacing: .08em; }
+.hero-mood { font-size: 26px; font-weight: 700; margin: 4px 0 12px; }
 .hero-mood.up { color: var(--up); } .hero-mood.down { color: var(--down); }
-.meter { display: flex; height: 10px; border-radius: 99px; overflow: hidden; background: var(--surface-2); gap: 3px; }
-.meter i { display: block; height: 100%; border-radius: 99px; transition: flex-grow .4s; }
-.meter .m-up { background: var(--up); } .meter .m-down { background: var(--down); } .meter .m-flat { background: var(--flat); opacity: .5; }
-.meter-legend { display: flex; gap: 14px; margin-top: 10px; font-size: 13px; color: var(--muted); flex-wrap: wrap; }
+.meter { display: flex; height: 10px; background: var(--surface-2); gap: 2px; }
+.meter i { display: block; height: 100%; transition: flex-grow .4s; }
+.meter .m-up { background: var(--up); } .meter .m-down { background: var(--down); }
+.meter .m-flat { background: repeating-linear-gradient(135deg, var(--flat) 0 2px, transparent 2px 5px); }
+.meter-legend { display: flex; gap: 16px; margin-top: 10px; font-size: 12px; color: var(--muted); flex-wrap: wrap; }
 .meter-legend b { color: var(--text); }
-.sw { display: inline-block; width: 8px; height: 8px; border-radius: 3px; margin-right: 6px; vertical-align: 1px; }
-.stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 10px; }
+.sw { display: inline-block; width: 8px; height: 8px; margin-right: 6px; vertical-align: 0; }
+.stats { display: grid; grid-template-columns: repeat(3, 1fr); margin-top: 10px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
+.stats .card { border: 0; border-radius: 0; background: none; }
+.stats .card + .card { border-left: 1px solid var(--line); }
 .stat { padding: 12px 14px; }
-.stat b { display: block; font-size: 22px; font-weight: 800; letter-spacing: -.02em; }
-.stat span { font-size: 12px; color: var(--muted); font-weight: 500; }
+.stat b { display: block; font-size: 22px; font-weight: 700; }
+.stat span { font-size: 10.5px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
 
 .list > * + * { border-top: 1px solid var(--line); }
-.item-row { display: flex; align-items: center; gap: 12px; padding: 12px 14px; color: inherit; }
+.item-row { display: flex; align-items: center; gap: 12px; padding: 12px 14px; color: inherit; text-decoration: none; }
 a.item-row:active { background: var(--surface-2); }
 .grow { flex: 1; min-width: 0; }
 .line1 { display: flex; align-items: center; gap: 8px; min-width: 0; }
-.asset { font-weight: 700; font-size: 15.5px; letter-spacing: -.01em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.line2 { font-size: 12.5px; color: var(--muted); margin-top: 1px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.right { text-align: right; font-size: 12px; color: var(--faint); white-space: nowrap; }
+.asset { font-weight: 700; font-size: 14.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.line2 { font-size: 12px; color: var(--muted); margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.right { text-align: right; font-size: 11.5px; color: var(--faint); white-space: nowrap; }
 .chev { color: var(--faint); flex: none; }
 
-.badge { display: inline-flex; align-items: center; gap: 4px; font-size: 11px; font-weight: 800; letter-spacing: .04em;
-  padding: 3px 8px; border-radius: 8px; white-space: nowrap; text-transform: uppercase; }
+.badge { display: inline-flex; align-items: center; gap: 4px; font-size: 10.5px; font-weight: 600; letter-spacing: .06em;
+  padding: 2px 6px; border-radius: 2px; white-space: nowrap; text-transform: uppercase; border: 1px solid currentColor; }
 .long, .bullish { color: var(--up); background: var(--up-soft); }
 .short, .bearish { color: var(--down); background: var(--down-soft); }
 .exit, .trim { color: var(--exit); background: var(--exit-soft); }
-.move-up { color: var(--up); font-weight: 700; } .move-down { color: var(--down); font-weight: 700; }
-.ended { margin-top: 8px; font-size: 13px; line-height: 1.5; color: var(--muted); }
-.check-btn { height: 38px; padding: 0 12px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface);
-  color: var(--text); font: inherit; font-size: 13px; font-weight: 700; display: inline-flex; align-items: center; gap: 6px; cursor: pointer; flex: none; }
-.check-btn:disabled { color: var(--muted); cursor: default; }
+.move-up { color: var(--up); font-weight: 600; } .move-down { color: var(--down); font-weight: 600; }
+.ended { margin-top: 8px; font-size: 12.5px; line-height: 1.55; color: var(--muted); }
+.check-btn { height: 36px; padding: 0 12px; border-radius: var(--radius); border: 1px solid var(--rule); background: var(--text);
+  color: var(--bg); font: inherit; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: .06em;
+  display: inline-flex; align-items: center; gap: 6px; cursor: pointer; flex: none; }
+.check-btn:active { background: var(--muted); }
+.check-btn:disabled { opacity: .55; cursor: default; }
 .check-btn.busy svg { animation: spin .8s linear infinite; }
 /* On phones the button is just the bolt, so the name and status line keep their room. */
-@media (max-width: 480px) { .check-btn { width: 38px; padding: 0; justify-content: center; } .check-btn span { display: none; } }
-.toggle { display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--muted); margin: 10px 4px 0; cursor: pointer; }
-.toggle input { width: 16px; height: 16px; accent-color: var(--accent); }
+@media (max-width: 480px) { .check-btn { width: 36px; padding: 0; justify-content: center; } .check-btn span { display: none; } }
+.toggle { display: flex; align-items: center; gap: 8px; font-size: 12.5px; color: var(--muted); margin: 10px 0 0; cursor: pointer; }
+.toggle input { width: 15px; height: 15px; accent-color: var(--text); }
 .neutral, .mixed, .none { color: var(--flat); background: var(--flat-soft); }
 
 .av { width: 40px; height: 40px; border-radius: 50%; flex: none; position: relative; overflow: hidden;
-  display: grid; place-items: center; font-weight: 800; font-size: 15px; color: var(--muted); background: var(--surface-2); }
-.av img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  display: grid; place-items: center; font-weight: 700; font-size: 15px; color: var(--muted); background: var(--surface-2); }
+.av img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; filter: saturate(.85); }
 .av.sm { width: 32px; height: 32px; font-size: 13px; }
 .av.lg { width: 56px; height: 56px; font-size: 21px; }
 /* Lean ring: green bullish, red bearish, split for mixed, grey for neutral or no current view. */
-.ring { --ring: var(--flat); display: inline-grid; flex: none; padding: 3px; border-radius: 50%; background: var(--ring); }
+.ring { --ring: var(--flat); display: inline-grid; flex: none; padding: 2px; border-radius: 50%; background: var(--ring); }
 .ring .av { box-shadow: 0 0 0 2px var(--surface); }
 .ring-bullish { --ring: var(--up); } .ring-bearish { --ring: var(--down); }
 .ring-mixed { background: conic-gradient(var(--up) 0 50%, var(--down) 0 100%); }
-.ring-neutral, .ring-none { --ring: color-mix(in srgb, var(--flat) 55%, transparent); }
+.ring-neutral, .ring-none { --ring: var(--line); }
 
-.who { padding: 14px 14px 14px 18px; position: relative; }
-.who::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: var(--flat); opacity: .5; }
-.who.lean-bullish { background: linear-gradient(90deg, color-mix(in srgb, var(--up) 13%, transparent), transparent 75%); }
-.who.lean-bullish::before { background: var(--up); opacity: 1; }
-.who.lean-bearish { background: linear-gradient(90deg, color-mix(in srgb, var(--down) 13%, transparent), transparent 75%); }
-.who.lean-bearish::before { background: var(--down); opacity: 1; }
-.who.lean-mixed::before { background: linear-gradient(var(--up) 50%, var(--down) 50%); opacity: 1; }
+.who { padding: 14px 14px 14px 17px; position: relative; }
+.who::before, .profile-card::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: var(--line); }
+.lean-bullish::before { background: var(--up) !important; }
+.lean-bearish::before { background: var(--down) !important; }
+.lean-mixed::before { background: linear-gradient(var(--up) 50%, var(--down) 50%) !important; }
 #views { overflow: hidden; }
-.legend { display: flex; gap: 12px; font-size: 12px; color: var(--faint); }
+.legend { display: flex; gap: 12px; font-size: 11px; color: var(--faint); }
 .who-head { display: flex; align-items: center; gap: 12px; }
-.who-head .handle { font-weight: 700; color: var(--text); }
+.who-head .handle { font-weight: 600; color: var(--text); }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
-.chip { display: inline-flex; align-items: center; gap: 6px; padding: 6px 10px; border-radius: 10px; font-size: 13px; font-weight: 600; }
-.chip small { font-weight: 500; opacity: .75; }
+.chip { display: inline-flex; align-items: center; gap: 6px; padding: 4px 8px; border-radius: 2px; font-size: 12px; font-weight: 600; }
+.chip small { font-weight: 400; opacity: .8; }
 .who + .who { border-top: 1px solid var(--line); }
 .who[data-profile], [data-profile] { cursor: pointer; }
-.who-more { padding: 12px 18px; font-size: 12.5px; color: var(--faint); border-top: 1px solid var(--line); }
+.who-more { padding: 12px 17px; font-size: 12px; color: var(--faint); border-top: 1px solid var(--line); }
 /* Small market label on stock and macro calls (crypto is the usual case, so it goes unlabelled). */
-.mkt { flex: none; font-size: 10px; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; padding: 2px 6px; border-radius: 6px;
-  color: var(--accent); background: var(--accent-soft); }
-.line2 .mkt { display: inline-block; margin-right: 6px; vertical-align: 1px; padding: 1px 5px; }
+.mkt { flex: none; font-size: 9.5px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; padding: 1px 5px; border-radius: 2px;
+  color: var(--muted); border: 1px solid var(--line); }
+.line2 .mkt { display: inline-block; margin-right: 6px; vertical-align: 1px; padding: 0 4px; }
 .mkt-seg { display: flex; width: 100%; margin-top: 10px; }
 .mkt-seg button { flex: 1; }
-.small-seg button { padding: 5px 11px; font-size: 12.5px; }
-.group-label { font-size: 11px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--faint); padding: 12px 14px 2px; }
+.small-seg button { padding: 4px 10px; font-size: 11.5px; }
+.group-label { font-size: 10.5px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--faint); padding: 12px 14px 2px; }
 .list > .group-label + * { border-top: 0; }
 .line2.wrap { white-space: normal; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
 
 /* ---- old calls ---- */
-.item-row.old { opacity: .6; }
-.trade-row .row-link { color: inherit; }
-.more-row { display: flex; align-items: baseline; gap: 6px; flex-wrap: wrap; width: 100%; border: 0; background: none; padding: 12px 14px;
-  text-align: left; font-size: 13.5px; font-weight: 650; color: var(--accent); cursor: pointer; }
-.more-row span { color: var(--faint); font-weight: 500; }
-.pending-out { font-size: 12px; color: var(--faint); white-space: nowrap; }
+.item-row.old { opacity: .55; }
+.trade-row .row-link { color: inherit; text-decoration: none; }
+.more-row { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; width: 100%; border: 0; background: none; padding: 12px 14px;
+  text-align: left; font-size: 12.5px; font-weight: 600; color: var(--text); cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+.more-row span { color: var(--faint); font-weight: 400; text-decoration: none; }
+.pending-out { font-size: 11.5px; color: var(--faint); white-space: nowrap; }
 
 /* ---- charts and pings ---- */
 .chart-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
-.chart-slot { height: 340px; margin-top: 10px; border-radius: 12px; overflow: hidden; background: var(--surface-2); border: 1px solid var(--line); }
+.chart-slot { height: 340px; margin-top: 10px; overflow: hidden; background: var(--surface-2); border: 1px solid var(--line); }
 .chart-slot:empty { display: none; }
 .chart-slot iframe { width: 100%; height: 100%; border: 0; display: block; }
 .chart-slot .tradingview-widget-container, .chart-slot .tradingview-widget-container__widget { height: 100%; width: 100%; }
-.call.pinged { box-shadow: 0 0 0 2px var(--accent), var(--shadow); }
+.call.pinged { outline: 2px solid var(--rule); outline-offset: -1px; }
 .call { scroll-margin-top: 84px; }  /* clear the sticky header when a ping scrolls to its call */
 .push-row { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
-.push-on { font-weight: 650; display: flex; align-items: center; gap: 8px; }
+.push-on { font-weight: 600; display: flex; align-items: center; gap: 8px; }
 
 /* ---- profile ---- */
-.back-btn { border: 0; background: none; color: var(--accent); font-weight: 650; font-size: 15px; display: inline-flex; align-items: center;
-  gap: 2px; padding: 8px 4px 8px 0; margin: 2px 0 6px; cursor: pointer; }
-.profile-card { position: relative; overflow: hidden; padding: 16px 16px 16px 20px; }
+.back-btn { border: 0; background: none; color: var(--text); font-weight: 600; font-size: 13px; display: inline-flex; align-items: center;
+  gap: 2px; padding: 10px 4px 8px 0; margin: 2px 0 4px; cursor: pointer; text-transform: uppercase; letter-spacing: .06em; }
+.profile-card { position: relative; overflow: hidden; padding: 16px 16px 16px 19px; }
 .profile-head { display: flex; align-items: center; gap: 14px; }
-.profile-head h2 { margin: 0; font-size: 21px; font-weight: 800; letter-spacing: -.02em; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.profile-head h2 { margin: 0; font-size: 19px; font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .lean-chips, .profile-actions { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
 .profile-actions { gap: 8px; margin-top: 14px; }
-.empty { padding: 22px 16px; text-align: center; color: var(--muted); font-size: 14px; }
-.empty .em { font-size: 26px; display: block; margin-bottom: 6px; }
+.empty { padding: 22px 16px; text-align: center; color: var(--muted); font-size: 13px; }
 
 /* ---- feed ---- */
-.filters { display: flex; gap: 8px; align-items: center; margin: 14px 0 4px; flex-wrap: wrap; }
-.seg { display: inline-flex; background: var(--surface-2); border-radius: 12px; padding: 3px; border: 1px solid var(--line); }
-.seg button { border: 0; background: transparent; padding: 7px 13px; border-radius: 9px; font-size: 13px; font-weight: 600; color: var(--muted); cursor: pointer; }
-.seg button.on { background: var(--surface); color: var(--text); box-shadow: 0 1px 3px rgba(0, 0, 0, .12); }
-select { appearance: none; -webkit-appearance: none; border: 1px solid var(--line); background: var(--surface) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%238a929e' stroke-width='3'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E") no-repeat right 10px center;
-  color: var(--text); border-radius: 12px; padding: 8px 30px 8px 12px; font: inherit; font-size: 13px; font-weight: 600; cursor: pointer; }
-.day { font-size: 12.5px; font-weight: 700; color: var(--muted); margin: 18px 4px 8px; }
+.filters { display: flex; gap: 8px; align-items: center; margin: 12px 0 4px; flex-wrap: wrap; }
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: var(--radius); overflow: hidden; background: var(--surface); }
+.seg button { border: 0; background: transparent; padding: 7px 12px; font-size: 12px; font-weight: 600; color: var(--muted); cursor: pointer;
+  text-transform: uppercase; letter-spacing: .05em; }
+.seg button + button { border-left: 1px solid var(--line); }
+.seg button.on { background: var(--text); color: var(--bg); }
+select { appearance: none; -webkit-appearance: none; border: 1px solid var(--rule); background: var(--surface) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23998c70' stroke-width='3'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E") no-repeat right 10px center;
+  color: var(--text); border-radius: var(--radius); padding: 7px 30px 7px 10px; font: inherit; font-size: 12.5px; font-weight: 600; cursor: pointer; }
+.day { font-size: 11.5px; font-weight: 600; color: var(--muted); margin: 22px 0 8px; text-transform: uppercase; letter-spacing: .08em; }
 .call { padding: 14px; margin-bottom: 10px; }
-.call-head { display: flex; align-items: center; gap: 10px; font-size: 13px; color: var(--muted); }
-.call-head .handle { color: var(--text); font-weight: 700; }
-.kind { font-size: 10.5px; font-weight: 800; letter-spacing: .08em; padding: 2px 7px; border-radius: 6px; border: 1px solid var(--line); color: var(--muted); }
+.call-head { display: flex; align-items: center; gap: 10px; font-size: 12.5px; color: var(--muted); }
+.call-head .handle { color: var(--text); font-weight: 600; }
+.kind { font-size: 10px; font-weight: 600; letter-spacing: .08em; padding: 1px 6px; border-radius: 2px; border: 1px solid var(--line); color: var(--muted); }
 .call-title { display: flex; align-items: center; gap: 8px; margin: 10px 0 4px; flex-wrap: wrap; }
-.call-title .what { font-size: 18px; font-weight: 800; letter-spacing: -.02em; }
+.call-title .what { font-size: 17px; font-weight: 700; }
 .reason { margin: 4px 0 10px; color: var(--text); }
-.quote { position: relative; font-size: 13.5px; color: var(--muted); white-space: pre-wrap; word-break: break-word; background: var(--surface-2);
-  border-radius: 12px; padding: 10px 12px; max-height: 6.4em; overflow: hidden; cursor: pointer; }
+.quote { position: relative; font-size: 12.5px; color: var(--muted); white-space: pre-wrap; word-break: break-word; background: var(--surface-2);
+  border-left: 2px solid var(--line); padding: 10px 12px; max-height: 6.6em; overflow: hidden; cursor: pointer; }
 .quote.clamped::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 2.2em;
   background: linear-gradient(transparent, var(--surface-2)); }
 .quote.open { max-height: none; }
-.facts { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-top: 10px; font-size: 12.5px; color: var(--muted); align-items: center; }
+.facts { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-top: 10px; font-size: 12px; color: var(--muted); align-items: center; }
 .conf { display: inline-flex; align-items: center; gap: 6px; }
-.conf i { display: inline-block; width: 44px; height: 5px; border-radius: 99px; background: var(--surface-2); overflow: hidden; }
-.conf i b { display: block; height: 100%; background: var(--accent); border-radius: 99px; }
-.ca { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 11.5px; word-break: break-all; color: var(--muted); margin-top: 8px; }
-.open-x { display: inline-flex; align-items: center; gap: 6px; margin-top: 12px; font-size: 13px; font-weight: 600; }
+.conf i { display: inline-block; width: 44px; height: 6px; background: var(--surface-2); border: 1px solid var(--line); overflow: hidden; }
+.conf i b { display: block; height: 100%; background: var(--text); }
+.ca { font-size: 11px; word-break: break-all; color: var(--muted); margin-top: 8px; }
+.open-x { display: inline-flex; align-items: center; gap: 6px; margin-top: 12px; font-size: 12.5px; font-weight: 600; }
 
 /* ---- accounts ---- */
 .field { display: flex; gap: 8px; }
-input[type=text], input[type=password], textarea { width: 100%; padding: 11px 13px; border-radius: 12px; border: 1px solid var(--line);
-  background: var(--surface-2); color: var(--text); font: inherit; outline: none; transition: border-color .15s, box-shadow .15s; }
-input:focus, textarea:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
-textarea { min-height: 110px; resize: vertical; line-height: 1.5; }
-.btn { padding: 10px 16px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface); font-weight: 650; font-size: 14px;
-  cursor: pointer; white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; }
-.btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
-.btn.ghost { background: transparent; }
-.btn.danger { color: var(--down); }
-.btn.small { padding: 7px 12px; font-size: 13px; border-radius: 10px; }
-.btn:disabled { opacity: .5; cursor: default; }
+input[type=text], input[type=password], textarea { width: 100%; padding: 10px 12px; border-radius: var(--radius); border: 1px solid var(--line);
+  background: var(--bg); color: var(--text); font: inherit; outline: none; transition: border-color .15s; }
+input::placeholder, textarea::placeholder { color: var(--faint); }
+input:focus, textarea:focus { border-color: var(--rule); }
+textarea { min-height: 110px; resize: vertical; line-height: 1.55; }
+.btn { padding: 9px 14px; border-radius: var(--radius); border: 1px solid var(--rule); background: transparent; font-weight: 600; font-size: 12.5px;
+  cursor: pointer; white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; text-transform: uppercase; letter-spacing: .05em;
+  color: var(--text); text-decoration: none; }
+.btn:active { background: var(--surface-2); }
+.btn.primary { background: var(--text); border-color: var(--text); color: var(--bg); }
+.btn.primary:active { background: var(--muted); }
+.btn.ghost { border-color: transparent; }
+.btn.danger { color: var(--down); border-color: var(--down); }
+.btn.small { padding: 6px 10px; font-size: 11.5px; }
+.btn:disabled { opacity: .45; cursor: default; }
 .acct { padding: 14px; }
 .acct + .acct { border-top: 1px solid var(--line); }
 .acct-head { display: flex; align-items: center; gap: 12px; }
 .acct-actions { display: flex; gap: 6px; }
 .notes-box { margin-top: 12px; }
-.notes-preview { margin-top: 10px; font-size: 13.5px; color: var(--muted); background: var(--surface-2); border-radius: 12px; padding: 10px 12px;
-  white-space: pre-wrap; word-break: break-word; }
+.notes-preview { margin-top: 10px; font-size: 12.5px; color: var(--muted); background: var(--surface-2); padding: 10px 12px;
+  white-space: pre-wrap; word-break: break-word; border-left: 2px solid var(--line); }
 .notes-preview.none { font-style: italic; }
 .row-end { display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-top: 8px; flex-wrap: wrap; }
-.hint { font-size: 12.5px; color: var(--muted); margin: 8px 2px 0; }
-.msg { font-size: 13px; margin-top: 8px; }
+.hint { font-size: 12px; color: var(--muted); margin: 8px 0 0; }
+.msg { font-size: 12.5px; margin-top: 8px; }
 .msg.err { color: var(--down); } .msg.ok { color: var(--up); }
-ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { margin: 4px 0; }
+ol.steps { padding-left: 20px; margin: 10px 0; font-size: 13px; } ol.steps li { margin: 4px 0; }
 
 /* ---- posts ---- */
 .post-card { padding: 14px; margin-bottom: 10px; }
-.post-text { margin: 10px 0 0; white-space: pre-wrap; word-break: break-word; max-height: 9.5em; overflow: hidden; position: relative; cursor: pointer; }
+.post-text { margin: 10px 0 0; white-space: pre-wrap; word-break: break-word; max-height: 9.8em; overflow: hidden; position: relative; cursor: pointer; font-size: 13px; }
 .post-text.clamped::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 2.4em; background: linear-gradient(transparent, var(--surface)); }
 .post-text.open { max-height: none; }
-.post-quote { margin-top: 8px; font-size: 13px; color: var(--muted); border: 1px solid var(--line); border-radius: 12px; padding: 8px 10px; white-space: pre-wrap; word-break: break-word; }
+.post-quote { margin-top: 8px; font-size: 12px; color: var(--muted); border: 1px solid var(--line); padding: 8px 10px; white-space: pre-wrap; word-break: break-word; }
 .thumbs { display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 6px; margin-top: 10px; }
-.thumbs img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 10px; background: var(--surface-2); }
-.verdict { display: inline-flex; align-items: center; gap: 6px; margin-top: 10px; font-size: 12.5px; font-weight: 600; padding: 5px 10px; border-radius: 10px; }
-.verdict.call-trade { color: var(--accent); background: var(--accent-soft); }
+.thumbs img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border: 1px solid var(--line); background: var(--surface-2); }
+.verdict { display: inline-flex; align-items: center; gap: 6px; margin-top: 10px; font-size: 11.5px; font-weight: 600; padding: 4px 8px; border-radius: 2px; }
+.verdict.call-trade { color: var(--bg); background: var(--text); }
 .verdict.call-view { color: var(--text); background: var(--surface-2); }
 .verdict.no-call { color: var(--faint); background: transparent; border: 1px dashed var(--line); }
 .verdict.fixed { color: var(--exit); background: var(--exit-soft); }
 .post-foot { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-top: 10px; flex-wrap: wrap; }
-.linkish { border: 0; background: none; padding: 0; color: var(--muted); font-size: 13px; font-weight: 600; cursor: pointer; display: inline-flex; align-items: center; gap: 5px; }
-.linkish:hover { color: var(--accent); }
-.reply-tag { font-size: 11.5px; color: var(--faint); }
+.linkish { border: 0; background: none; padding: 0; color: var(--muted); font-size: 12px; font-weight: 600; cursor: pointer; display: inline-flex; align-items: center; gap: 5px; }
+.linkish:hover { color: var(--text); }
+.reply-tag { font-size: 11px; color: var(--faint); }
 
 /* ---- teach sheet ---- */
-.scrim { position: fixed; inset: 0; background: rgba(0, 0, 0, .45); z-index: 9; opacity: 0; pointer-events: none; transition: opacity .2s; }
+.scrim { position: fixed; inset: 0; background: rgba(20, 18, 14, .5); z-index: 9; opacity: 0; pointer-events: none; transition: opacity .2s; }
 .scrim.show { opacity: 1; pointer-events: auto; }
 .sheet { position: fixed; left: 50%; bottom: 0; width: min(560px, 100%); transform: translate(-50%, 100%); z-index: 10;
-  background: var(--surface); border-radius: 22px 22px 0 0; border: 1px solid var(--line); box-shadow: 0 -10px 40px rgba(0, 0, 0, .3);
+  background: var(--bg); border-top: 1px solid var(--rule); border-left: 1px solid var(--line); border-right: 1px solid var(--line);
   padding: 10px 18px calc(env(safe-area-inset-bottom) + 18px); transition: transform .25s ease; max-height: 92vh; overflow: auto; }
 .sheet.show { transform: translate(-50%, 0); visibility: visible; }
 .sheet:not(.show) { visibility: hidden; transition: transform .25s ease, visibility 0s .25s; }
-.grab { width: 40px; height: 5px; border-radius: 9px; background: var(--line); margin: 0 auto 12px; }
-.sheet h3 { margin: 0 0 4px; font-size: 18px; letter-spacing: -.02em; }
-.sheet label { display: block; font-size: 12.5px; font-weight: 700; color: var(--muted); margin: 14px 2px 6px; }
+.grab { width: 36px; height: 3px; background: var(--line); margin: 0 auto 14px; }
+.sheet h3 { margin: 0 0 4px; font-size: 16px; }
+.sheet label { display: block; font-size: 11px; font-weight: 600; color: var(--muted); margin: 14px 0 6px; text-transform: uppercase; letter-spacing: .08em; }
 .sheet select { width: 100%; }
 .learned { padding: 12px 14px; }
 .learned + .learned { border-top: 1px solid var(--line); }
 .learned .lesson { font-weight: 600; }
-.learned .meta { font-size: 12.5px; color: var(--muted); margin-top: 3px; }
+.learned .meta { font-size: 12px; color: var(--muted); margin-top: 3px; }
 
-/* ---- tab bar ---- */
-.tabbar { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(env(safe-area-inset-bottom) + 14px); z-index: 6;
-  display: flex; gap: 4px; padding: 6px; border-radius: 22px; background: color-mix(in srgb, var(--surface) 88%, transparent);
-  backdrop-filter: saturate(160%) blur(16px); -webkit-backdrop-filter: saturate(160%) blur(16px);
-  border: 1px solid var(--line); box-shadow: 0 10px 30px rgba(0, 0, 0, .18); }
-.tabbar button { border: 0; background: transparent; display: flex; flex-direction: column; align-items: center; gap: 2px;
-  padding: 8px 10px; border-radius: 16px; font-size: 11.5px; font-weight: 650; color: var(--faint); cursor: pointer; min-width: 72px; }
-.tabbar button.on { color: var(--accent); background: var(--accent-soft); }
-.toast { position: fixed; left: 50%; bottom: calc(env(safe-area-inset-bottom) + 92px); transform: translate(-50%, 20px); opacity: 0;
-  background: var(--text); color: var(--bg); padding: 10px 16px; border-radius: 12px; font-size: 13.5px; font-weight: 600;
-  transition: all .25s; pointer-events: none; z-index: 7; max-width: calc(100% - 32px); }
+/* ---- journal ---- */
+.j-head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+.j-date { font-size: 18px; font-weight: 700; }
+.j-state { font-size: 11.5px; color: var(--faint); }
+.j-state.dirty { color: var(--exit); }
+.j-label { display: block; font-size: 11px; font-weight: 600; color: var(--muted); margin: 18px 0 8px; text-transform: uppercase; letter-spacing: .08em; }
+.j-leans { display: grid; gap: 8px; }
+.j-lean { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.j-lean > b { width: 56px; font-size: 12.5px; font-weight: 600; }
+.j-lean .seg button { padding: 6px 10px; font-size: 11px; }
+.j-lean .seg button.on[data-v="bullish"] { background: var(--up); color: var(--bg); }
+.j-lean .seg button.on[data-v="bearish"] { background: var(--down); color: var(--bg); }
+.j-lean .seg button.on[data-v="neutral"] { background: var(--flat); color: var(--bg); }
+.j-crowd { font-size: 11.5px; color: var(--faint); }
+.j-watch { border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg); }
+.j-row { display: flex; align-items: center; gap: 4px; padding: 5px; }
+.j-row + .j-row, .j-row + .chart-slot + .j-row { border-top: 1px solid var(--line); }
+.j-row input[type=text] { border-color: transparent; background: transparent; padding: 7px 8px; }
+.j-row input[type=text]:focus { border-color: var(--rule); background: var(--surface); }
+.j-row .j-t { width: 76px; flex: none; font-weight: 700; text-transform: uppercase; }
+.j-row .icon-btn { width: 32px; height: 32px; }
+.j-row .j-n { flex: 1; min-width: 0; }
+.j-watch .chart-slot { margin: 0 6px 6px; }
+.j-add { width: 100%; border: 0; border-top: 1px dashed var(--line); background: none; padding: 9px; font-size: 12px; font-weight: 600; color: var(--muted);
+  cursor: pointer; text-transform: uppercase; letter-spacing: .05em; }
+.j-watch:not(:has(.j-row)) .j-add { border-top: 0; }
+.j-text { min-height: 190px; }
+.j-entry { padding: 14px; }
+.j-entry + .j-entry { border-top: 1px solid var(--line); }
+.j-entry-head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.j-entry-head .j-day { font-weight: 700; margin-right: auto; }
+.j-badges { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.j-tickers { display: flex; flex-wrap: wrap; gap: 4px 12px; margin-top: 8px; font-size: 12px; color: var(--muted); }
+.j-tickers b { color: var(--text); }
+.j-body { margin-top: 8px; font-size: 13px; white-space: pre-wrap; word-break: break-word; max-height: 4.6em; overflow: hidden; cursor: pointer; position: relative; }
+.j-body.clamped::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 1.6em; background: linear-gradient(transparent, var(--surface)); }
+.j-body.open { max-height: none; }
+
+/* ---- tab bar: docked, like a terminal's status line ---- */
+.tabbar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 6; display: flex; justify-content: center;
+  padding: 0 max(8px, env(safe-area-inset-left)) env(safe-area-inset-bottom); background: var(--bg); border-top: 1px solid var(--rule); }
+.tabbar button { flex: 1; max-width: 140px; border: 0; background: transparent; display: flex; flex-direction: column; align-items: center; gap: 3px;
+  padding: 9px 2px 8px; font-size: 10.5px; font-weight: 600; color: var(--faint); cursor: pointer; text-transform: uppercase; letter-spacing: .06em;
+  box-shadow: inset 0 2px 0 transparent; }
+.tabbar button.on { color: var(--text); box-shadow: inset 0 3px 0 var(--text); }
+.toast { position: fixed; left: 50%; bottom: calc(env(safe-area-inset-bottom) + 76px); transform: translate(-50%, 16px); opacity: 0;
+  background: var(--text); color: var(--bg); padding: 10px 14px; border-radius: var(--radius); font-size: 12.5px; font-weight: 600;
+  transition: all .2s; pointer-events: none; z-index: 7; max-width: calc(100% - 32px); }
 .toast.show { opacity: 1; transform: translate(-50%, 0); }
-@media (min-width: 640px) { .hero-mood { font-size: 32px; } }
+@media (min-width: 640px) { .hero-mood { font-size: 30px; } }
 </style>
 </head>
 <body>
 <header class="top">
   <div class="top-inner">
-    <div class="logo"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 16l6-6 4 4 8-8"/><path d="M15 6h6v6"/></svg></div>
     <div class="brand">
-      <h1>X Trade Bot</h1>
+      <h1>x-trade-bot<span class="cursor">_</span></h1>
       <div class="status"><span id="dot" class="dot"></span><span id="status">Loading…</span></div>
     </div>
     <button id="check-btn" class="check-btn" aria-label="Check now" title="Check now: run the bot instead of waiting for its next check"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L4 14h7l-1 8 9-12h-7z"/></svg><span>Check now</span></button>
@@ -341,6 +396,13 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
     <div id="feed"></div>
   </section>
 
+  <section id="tab-journal" class="hidden">
+    <div class="card pad" id="j-editor"></div>
+    <div class="section-title"><h2>Past days</h2><span id="j-sub"></span></div>
+    <div class="card list" id="j-list"></div>
+    <button class="btn small" id="j-older" style="margin-top:10px">Load older</button>
+  </section>
+
   <section id="tab-posts" class="hidden">
     <div class="filters">
       <div class="seg" id="posts-seg">
@@ -359,6 +421,12 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
   <section id="tab-accounts" class="hidden">
     <div class="section-title"><h2>Notifications</h2></div>
     <div class="card pad" id="push-card"></div>
+
+    <div class="section-title"><h2>Look</h2></div>
+    <div class="card pad">
+      <div class="seg mkt-seg" id="theme-seg" style="margin:0"><button data-theme="paper">Paper</button><button data-theme="night">Night</button><button data-theme="auto">Match phone</button></div>
+      <p class="hint">Paper is the cream look. Match phone switches to Night when your phone is in dark mode. Saved on this device.</p>
+    </div>
 
     <div class="section-title"><h2>Add an account</h2></div>
     <div class="card pad">
@@ -402,6 +470,7 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 14px; } ol.steps li { 
 <nav class="tabbar">
   <button data-tab="board" class="on"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="9" rx="2"/><rect x="14" y="3" width="7" height="5" rx="2"/><rect x="14" y="12" width="7" height="9" rx="2"/><rect x="3" y="16" width="7" height="5" rx="2"/></svg>Board</button>
   <button data-tab="feed"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Calls</button>
+  <button data-tab="journal"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square"><path d="M5 3h12l2 2v16H5z"/><path d="M9 8h6M9 12h6M9 16h3"/></svg>Journal</button>
   <button data-tab="posts"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>Posts</button>
   <button data-tab="accounts"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="4"/><path d="M2 21c0-3.9 3.1-7 7-7s7 3.1 7 7"/><path d="M17 4a4 4 0 0 1 0 8M22 21c0-3-1.8-5.6-4.5-6.6"/></svg>Accounts</button>
 </nav>
@@ -609,6 +678,7 @@ function render() {
   renderLearned();
   if (profile) renderProfile();
   restoreCharts();
+  renderJCrowd();
 }
 function renderStatus() {
   const updated = state.updated_at;
@@ -718,14 +788,13 @@ function chartOf(a) {
 // equivalent for web apps, so it gets the website.
 const appLink = url => !/Android/.test(navigator.userAgent) ? url
   : `intent://${url.replace(/^https:\/\//, "")}#Intent;scheme=https;package=com.tradingview.tradingviewapp;S.browser_fallback_url=${encodeURIComponent(url)};end`;
-function fillChart(slot, a) {
-  const chart = chartOf(a);
+function fillChart(slot, a, chart = chartOf(a)) {
   if (!chart || slot.childElementCount) return;
-  const theme = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  const theme = isNight() ? "dark" : "light";
   if (chart.ca) {
     const f = document.createElement("iframe");
     f.src = `https://dexscreener.com/${chart.chain}/${chart.ca}?embed=1&loadChartSettings=0&trades=0&tabs=0&info=0&chartLeftToolbar=0&chartTheme=${theme}&theme=${theme}&chartStyle=1&chartType=usd&interval=15`;
-    f.title = `${a.asset || "Token"} chart`;
+    f.title = `${a?.asset || "Token"} chart`;
     slot.append(f);
     return;
   }
@@ -735,7 +804,8 @@ function fillChart(slot, a) {
   sc.src = "https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js";
   sc.async = true;
   sc.textContent = JSON.stringify({symbol: chart.symbol, interval: "60", theme, style: "1", locale: "en", autosize: true,
-    hide_side_toolbar: true, allow_symbol_change: false, save_image: false, calendar: false, support_host: "https://www.tradingview.com"});
+    hide_side_toolbar: true, allow_symbol_change: false, save_image: false, calendar: false, support_host: "https://www.tradingview.com",
+    backgroundColor: cssVar("--surface"), gridColor: cssVar("--surface-2")});
   box.append(inner, sc);
   slot.append(box);
 }
@@ -816,7 +886,7 @@ function renderBoard() {
   const older = oldTrades.length ? `<button class="more-row" id="old-trades">${showOldTrades ? "Hide" : "Show"} ${oldTrades.length} older trade${oldTrades.length > 1 ? "s" : ""}<span>not mentioned in 3 weeks</span></button>`
     + (showOldTrades ? oldTrades.map(p => tradeRow(p)).join("") : "") : "";
   $("trades").innerHTML = (trades.map(p => tradeRow(p)).join("")
-    || `<div class="empty"><span class="em">🪑</span>Nobody's in a${market === "all" ? "" : ` ${low(MARKETS[market])}`} trade right now.<br>Positions show up here when someone posts an entry, and leave when they post an exit${oldTrades.length ? " or go 3 weeks without mentioning it" : ""}.</div>`) + older;
+    || `<div class="empty">Nobody's in a${market === "all" ? "" : ` ${low(MARKETS[market])}`} trade right now.<br>Positions show up here when someone posts an entry, and leave when they post an exit${oldTrades.length ? " or go 3 weeks without mentioning it" : ""}.</div>`) + older;
 
   const closed = accounts.flatMap(h => closedOf(h).map(c => ({...c, handle: h})))
     .filter(c => Date.now() - Date.parse(c.closed) < 14 * 86400000)
@@ -857,7 +927,7 @@ function renderFeed() {
     const header = day !== lastDay ? `<div class="day">${esc(day)}</div>` : "";
     lastDay = day;
     return header + callCard(a);
-  }).join("") || `<div class="card empty" style="margin-top:12px"><span class="em">📭</span>${alerts.length ? "Nothing matches this filter." : "No calls yet. Every ping the bot sends shows up here."}</div>`;
+  }).join("") || `<div class="card empty" style="margin-top:12px">${alerts.length ? "Nothing matches this filter." : "No calls yet. Every ping the bot sends shows up here."}</div>`;
   clampLong("#feed .quote");
   restoreCharts();
 }
@@ -875,7 +945,7 @@ function renderPosts() {
     ? `Posts about trading or markets: ${kept.length} shown, ${all.length - kept.length} others hidden. Already read by the bot, so this costs nothing extra.`
     : "Their latest posts the bot has already read, with what it made of each. Loading this costs nothing extra.";
   $("posts").innerHTML = items.map(p => postCard(p, byPost)).join("")
-    || `<div class="card empty"><span class="em">🗒️</span>${all.length ? "No trading posts here yet. Tap All to see everything." : "No posts saved yet. They show up after the bot's first check of each account."}</div>`;
+    || `<div class="card empty">${all.length ? "No trading posts here yet. Tap All to see everything." : "No posts saved yet. They show up after the bot's first check of each account."}</div>`;
   clampLong("#posts .post-text");
 }
 
@@ -1207,9 +1277,10 @@ $("learned").onclick = async e => {
 };
 
 // ---- tabs, filters, refresh ----
-const TABS = ["board", "feed", "posts", "accounts"];
+const TABS = ["board", "feed", "journal", "posts", "accounts"];
 function showTab(tab) {
   if (!TABS.includes(tab)) tab = "board";
+  if (currentTab === "journal" && tab !== "journal") saveJournal();
   currentTab = tab;
   if (profile) { history.replaceState(null, "", location.pathname + location.search); profile = ""; profileFromApp = false; $("tab-profile").classList.add("hidden"); }
   document.querySelectorAll(".tabbar button").forEach(b => b.classList.toggle("on", b.dataset.tab === tab));
@@ -1218,6 +1289,7 @@ function showTab(tab) {
   window.scrollTo({top: 0});
   if (tab === "feed") renderFeed();  // measure post clamps once visible (and fill open charts)
   if (tab === "posts") renderPosts();
+  if (tab === "journal") loadJournal(true);
 }
 document.querySelector(".tabbar").onclick = e => { const b = e.target.closest("button"); if (b) showTab(b.dataset.tab); };
 $("kind-seg").onclick = e => {
@@ -1472,6 +1544,284 @@ if (pushSupported()) {
   // A ping tapped while the app is already open: go where it points.
   navigator.serviceWorker.addEventListener("message", e => { if (e.data?.type === "open" && e.data.url) location.href = e.data.url; });
 }
+
+// ---- look: Paper (default), Night, or follow the phone ----
+const THEMES = ["paper", "night", "auto"];
+const themeNow = () => document.documentElement.dataset.theme || "paper";
+const isNight = () => themeNow() === "night" || (themeNow() === "auto" && matchMedia("(prefers-color-scheme: dark)").matches);
+const cssVar = name => getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+function applyTheme(t) {
+  document.documentElement.dataset.theme = THEMES.includes(t) ? t : "paper";
+  $("theme-color").content = cssVar("--bg") || "#f4ecd8";
+  document.querySelectorAll("#theme-seg button").forEach(b => b.classList.toggle("on", b.dataset.theme === themeNow()));
+}
+function redrawCharts() {
+  document.querySelectorAll(".chart-slot").forEach(s => s.replaceChildren());
+  restoreCharts();
+  document.querySelectorAll(".j-watch .chart-slot[data-sym]").forEach(s => fillChart(s, null, journalChart(s.dataset.sym)));
+}
+$("theme-seg").onclick = e => {
+  const b = e.target.closest("button");
+  if (!b) return;
+  try { localStorage.setItem("xtb-theme", b.dataset.theme); } catch {}
+  applyTheme(b.dataset.theme);
+  redrawCharts();
+};
+matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => { applyTheme(themeNow()); if (themeNow() === "auto") redrawCharts(); });
+applyTheme(themeNow());
+
+// ---- journal: your own read of the market each day ----
+// One markdown file per month in journal/ (journal/2026-11.md), newest day first. Only this page writes them.
+// Unsaved typing is kept on this device right away and sent to GitHub after a pause, on Save, or when you leave the tab.
+const J_MARKETS = ["stocks", "crypto", "macro"];
+const J_LEANS = {bullish: "Bull", neutral: "Flat", bearish: "Bear"};
+const journal = {};            // "2026-11" -> {date: entry}, entry = {date, lean: {stocks, ...}, watch: [{t, note}], text}
+let jMonths = 2, jLoading = false, jDate = "", jDraft = null, jDirty = false, jSaving = false, jSavedAt = "", jError = "", jTimer = 0;
+const jOpenCharts = new Set();  // watchlist rows with their chart open
+const pad2 = n => String(n).padStart(2, "0");
+const localDay = (d = new Date()) => `${d.getFullYear()}-${pad2(d.getMonth() + 1)}-${pad2(d.getDate())}`;
+const monthBack = n => { const d = new Date(); d.setDate(1); d.setMonth(d.getMonth() - n); return localDay(d).slice(0, 7); };
+const dayName = (day, opts = {weekday: "short", month: "short", day: "numeric"}, loc) => new Date(`${day}T12:00:00`).toLocaleDateString(loc, opts);
+const jEmpty = e => !e || (!String(e.text || "").trim() && !e.watch.some(w => w.t) && !J_MARKETS.some(m => e.lean[m]));
+const jAll = () => Object.assign({}, ...Object.values(journal));
+const jDraftKey = day => `xtb-journal-draft-${day}`;
+
+function parseJournal(text) {
+  const entries = {}, parts = (text || "").split(/^## (\d{4}-\d{2}-\d{2})\b.*$/m);
+  for (let i = 1; i < parts.length; i += 2) {
+    const e = {date: parts[i], lean: {}, watch: [], text: ""}, lines = parts[i + 1].replace(/^\n+/, "").split("\n");
+    if (/^(Stocks|Crypto|Macro): (bullish|neutral|bearish)\b/.test(lines[0] || "")) {
+      lines.shift().split(" | ").forEach(p => { const m = p.trim().match(/^(Stocks|Crypto|Macro): (bullish|neutral|bearish)$/); if (m) e.lean[low(m[1])] = m[2]; });
+    }
+    while (lines.length && !lines[0].trim()) lines.shift();
+    if ((lines[0] || "").trim() === "Watching:") {
+      lines.shift();
+      while (lines.length && lines[0].startsWith("- ")) {
+        const [t, ...note] = lines.shift().slice(2).split(": ");
+        e.watch.push({t: t.trim(), note: note.join(": ").trim()});
+      }
+    }
+    e.text = lines.join("\n").trim();
+    entries[e.date] = e;
+  }
+  return entries;
+}
+function entryMd(e) {
+  const out = [`## ${e.date} ${dayName(e.date, {weekday: "short"}, "en-US")}`, ""];
+  const leans = J_MARKETS.filter(m => e.lean[m]).map(m => `${MARKETS[m]}: ${e.lean[m]}`);
+  if (leans.length) out.push(leans.join(" | "), "");
+  const watch = e.watch.filter(w => w.t);
+  if (watch.length) out.push("Watching:", ...watch.map(w => `- ${w.t}${w.note ? `: ${w.note}` : ""}`), "");
+  if (e.text.trim()) out.push(e.text.trim(), "");
+  return out.join("\n");
+}
+function monthMd(month, entries) {
+  const days = Object.keys(entries).sort().reverse();
+  if (!days.length) return null;  // nothing left: delete the file
+  const title = new Date(`${month}-15T12:00:00`).toLocaleDateString("en-US", {month: "long", year: "numeric"});
+  return `# Journal, ${title}\n\n${days.map(d => entryMd(entries[d])).join("\n")}`;
+}
+const cleanEntry = e => ({date: e.date, lean: {...e.lean}, watch: e.watch.map(w => ({t: w.t.trim().toUpperCase(), note: w.note.trim()})).filter(w => w.t),
+  text: e.text.replace(/\s+$/, "").replace(/^## (?=\d{4}-\d{2}-\d{2})/gm, "# ")});
+
+async function loadJournal(force = false) {
+  const need = Array.from({length: jMonths}, (_, i) => monthBack(i)).filter(m => force || !(m in journal));
+  if (need.length) {
+    jLoading = true;
+    if (!jDraft) renderJournal();
+    try {
+      const texts = await Promise.all(need.map(m => getFile(`journal/${m}.md`)));
+      need.forEach((m, i) => { journal[m] = parseJournal(texts[i]); });
+      jError = "";
+    } catch (e) { jError = `Couldn't load your journal (${e.message}).`; }
+    jLoading = false;
+  }
+  // Keep what you're typing; otherwise show the saved version.
+  const typing = document.activeElement && document.activeElement.closest("#j-editor");
+  if (!jDraft || (!jDirty && !typing)) openDay(jDate || localDay(), false);
+  else renderJList();
+}
+function openDay(day, scroll = true) {
+  jDate = day;
+  let draft = null;
+  try { draft = JSON.parse(localStorage.getItem(jDraftKey(day)) || "null"); } catch {}
+  const saved = jAll()[day];
+  jDirty = !!draft;
+  if (draft) jDraft = draft;
+  else if (saved) jDraft = JSON.parse(JSON.stringify(saved));
+  else {
+    // A new day starts with the tickers from your last entry, so the morning chart run is one tap each.
+    const prev = Object.values(jAll()).filter(e => e.date < day && e.watch.length).sort((x, y) => y.date.localeCompare(x.date))[0];
+    jDraft = {date: day, lean: {}, watch: prev ? prev.watch.map(w => ({t: w.t, note: ""})) : [], text: ""};
+  }
+  jOpenCharts.clear();
+  renderJournal();
+  if (scroll) window.scrollTo({top: 0});
+}
+function jTouched() {
+  jDirty = true;
+  try { localStorage.setItem(jDraftKey(jDate), JSON.stringify(jDraft)); } catch {}
+  clearTimeout(jTimer);
+  if (getToken()) jTimer = setTimeout(saveJournal, 12000);
+  renderJState();
+}
+async function saveJournal() {
+  clearTimeout(jTimer);
+  if (!jDirty || jSaving || !jDraft) return;
+  if (!getToken()) { renderJState(); return; }
+  const entry = cleanEntry(jDraft), day = entry.date, month = day.slice(0, 7), sent = JSON.stringify(jDraft);
+  jSaving = true; jError = ""; renderJState();
+  try {
+    await editFile(`journal/${month}.md`, cur => {
+      const entries = parseJournal(cur);
+      if (jEmpty(entry)) delete entries[day]; else entries[day] = entry;
+      journal[month] = entries;
+      return monthMd(month, entries);
+    }, `Journal ${day}`);
+    jSavedAt = new Date().toISOString();
+    // Typed more while it was saving? Then that's still unsaved.
+    if (JSON.stringify(jDraft) === sent || jDraft.date !== day) {
+      try { localStorage.removeItem(jDraftKey(day)); } catch {}
+      if (jDraft.date === day) jDirty = false;
+    } else jTimer = setTimeout(saveJournal, 4000);
+  } catch (e) { jError = e.message; }
+  jSaving = false;
+  renderJState();
+  renderJList();
+}
+
+function journalChart(t) {
+  const symbol = TV_MACRO[low(t)] || String(t).toUpperCase().replace(/^\$/, "");
+  const url = `https://www.tradingview.com/chart/?symbol=${encodeURIComponent(symbol).replace("%3A", ":")}`;
+  return {name: "TradingView", url, open: appLink(url), symbol};
+}
+function crowdLine(m) {
+  if (!loaded) return "";
+  let up = 0, down = 0;
+  accounts.forEach(h => { const l = leanOf(h, m)[0]; if (l === "bullish") up++; if (l === "bearish") down++; });
+  return up || down ? `accounts: ${up} bull · ${down} bear` : "";
+}
+function renderJournal() {
+  const today = localDay(), d = jDraft;
+  if (!d) { $("j-editor").innerHTML = `<div class="empty">${jLoading ? "Loading your journal…" : ""}</div>`; renderJList(); return; }
+  const isToday = d.date === today;
+  const lean = m => `<div class="j-lean"><b>${MARKETS[m]}</b><div class="seg" data-jlean="${m}">${Object.entries(J_LEANS).map(([v, label]) =>
+    `<button data-v="${v}" class="${d.lean[m] === v ? "on" : ""}">${label}</button>`).join("")}</div><span class="j-crowd">${esc(crowdLine(m))}</span></div>`;
+  const rows = d.watch.map((w, i) => `<div class="j-row" data-i="${i}">
+      <input type="text" class="j-t" value="${esc(w.t)}" placeholder="TICKER" autocapitalize="characters" autocomplete="off" spellcheck="false" aria-label="Ticker">
+      <input type="text" class="j-n" value="${esc(w.note)}" placeholder="what you see" autocomplete="off" aria-label="Note">
+      <button class="icon-btn" data-jchart="${i}" title="Chart" aria-label="Chart"${w.t ? "" : " disabled"}><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 3v18h18"/><path d="M7 15l4-4 3 3 6-7"/></svg></button>
+      <button class="icon-btn" data-jdel="${i}" title="Remove" aria-label="Remove"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    </div>${jOpenCharts.has(i) && w.t ? `<div class="chart-slot" data-sym="${esc(w.t)}"></div><div class="row-end" style="margin:0 6px 8px"><span class="hint" style="margin:0">${esc(journalChart(w.t).symbol)} on TradingView</span><a class="btn small" href="${esc(journalChart(w.t).open)}" target="_blank" rel="noopener">Open in TradingView</a></div>` : ""}`).join("");
+  $("j-editor").innerHTML = `
+    <div class="j-head"><span class="j-date">${isToday ? "Today" : "Editing"} · ${esc(dayName(d.date, {weekday: "short", month: "short", day: "numeric"}))}</span>
+      ${isToday ? "" : `<button class="btn small" id="j-today">Back to today</button>`}</div>
+    <div class="j-state" id="j-state"></div>
+    <span class="j-label">My read</span>
+    <div class="j-leans">${J_MARKETS.map(lean).join("")}</div>
+    <span class="j-label">Watchlist</span>
+    <div class="j-watch">${rows}<button class="j-add" id="j-add">+ Add ticker</button></div>
+    <span class="j-label">Thoughts</span>
+    <textarea class="j-text" id="j-text" placeholder="What are the charts saying today? Levels, setups, what would change your mind…">${esc(d.text)}</textarea>
+    <div class="row-end" style="margin-top:12px"><span class="hint" style="margin:0" id="j-where"></span><button class="btn primary" id="j-save">Save</button></div>`;
+  document.querySelectorAll("#j-editor .chart-slot[data-sym]").forEach(s => fillChart(s, null, journalChart(s.dataset.sym)));
+  renderJState();
+  renderJList();
+}
+function renderJState() {
+  const el = $("j-state");
+  if (!el) return;
+  const token = !!getToken();
+  el.className = `j-state${jError || (jDirty && !jSaving) ? " dirty" : ""}`;
+  el.textContent = jError ? jError : jSaving ? "Saving…" : jDirty ? (token ? "Not saved yet · saves by itself when you pause" : "Kept on this device only · add a token in Accounts to save it")
+    : jAll()[jDate] ? `Saved${jSavedAt ? ` ${ago(jSavedAt)}` : ""}` : jLoading ? "Loading…" : "Nothing written yet";
+  const save = $("j-save");
+  if (save) save.disabled = jSaving || !jDirty;
+  const where = $("j-where");
+  if (where) where.innerHTML = `Kept in <a href="https://github.com/${OWNER}/${REPO}/tree/${BRANCH}/journal" target="_blank" rel="noopener">journal/</a> in your repo`;
+}
+function renderJList() {
+  const days = Object.values(jAll()).filter(e => e.date !== jDate && !jEmpty(e)).sort((x, y) => y.date.localeCompare(x.date));
+  $("j-sub").textContent = days.length ? `${days.length} day${days.length > 1 ? "s" : ""}` : "";
+  $("j-list").innerHTML = days.map(e => {
+    const leans = J_MARKETS.filter(m => e.lean[m]).map(m => `<span class="badge ${e.lean[m]}">${MARKETS[m]} ${J_LEANS[e.lean[m]]}</span>`).join("");
+    const watch = e.watch.length ? `<div class="j-tickers">${e.watch.map(w => `<span><b>${esc(w.t)}</b>${w.note ? ` ${esc(w.note)}` : ""}</span>`).join("")}</div>` : "";
+    return `<div class="j-entry">
+      <div class="j-entry-head"><span class="j-day">${esc(dayName(e.date, {weekday: "short", month: "short", day: "numeric", year: e.date.slice(0, 4) === String(new Date().getFullYear()) ? undefined : "numeric"}))}</span>
+        <button class="btn small" data-jedit="${e.date}">Edit</button></div>
+      ${leans ? `<div class="j-badges">${leans}</div>` : ""}${watch}${e.text ? `<div class="j-body">${esc(e.text)}</div>` : ""}
+    </div>`;
+  }).join("") || `<div class="empty">${jLoading ? "Loading…" : "Past days show up here. Write a few lines each morning and you'll have a record of what you thought and when."}</div>`;
+  $("j-list").querySelectorAll(".j-body").forEach(b => b.classList.toggle("clamped", b.scrollHeight > b.clientHeight + 2));
+  $("j-older").textContent = `Load ${new Date(`${monthBack(jMonths)}-15T12:00:00`).toLocaleDateString(undefined, {month: "long"})} and earlier`;
+}
+
+$("j-editor").addEventListener("input", e => {
+  if (!jDraft) return;
+  const row = e.target.closest(".j-row");
+  if (e.target.id === "j-text") jDraft.text = e.target.value;
+  else if (row) {
+    const w = jDraft.watch[+row.dataset.i], key = e.target.classList.contains("j-t") ? "t" : "note";
+    if (key === "t") { e.target.value = e.target.value.replace(/\s+/g, ""); row.querySelector("[data-jchart]").disabled = !e.target.value; }
+    w[key] = e.target.value;
+  }
+  jTouched();
+});
+$("j-editor").addEventListener("keydown", e => {
+  // Enter in a ticker or note jumps to a new row, like a list.
+  if (e.key !== "Enter" || !e.target.closest(".j-row")) return;
+  e.preventDefault();
+  if (e.target.classList.contains("j-t")) { e.target.nextElementSibling.focus(); return; }
+  $("j-add").click();
+});
+$("j-editor").addEventListener("click", e => {
+  const b = e.target.closest("button");
+  if (!b || !jDraft) return;
+  if (b.id === "j-save") { saveJournal(); return; }
+  if (b.id === "j-today") { saveJournal(); openDay(localDay()); return; }
+  if (b.id === "j-add") {
+    jDraft.watch.push({t: "", note: ""});
+    jTouched();
+    renderJournal();
+    const rows = document.querySelectorAll("#j-editor .j-row");
+    rows[rows.length - 1]?.querySelector(".j-t").focus();
+    return;
+  }
+  if (b.dataset.jdel != null) {
+    const i = +b.dataset.jdel;
+    jDraft.watch.splice(i, 1);
+    const open = [...jOpenCharts].filter(x => x !== i).map(x => x > i ? x - 1 : x);
+    jOpenCharts.clear(); open.forEach(x => jOpenCharts.add(x));
+    jTouched();
+    renderJournal();
+    return;
+  }
+  if (b.dataset.jchart != null) {
+    const i = +b.dataset.jchart;
+    jOpenCharts.has(i) ? jOpenCharts.delete(i) : jOpenCharts.add(i);
+    renderJournal();
+    return;
+  }
+  const seg = b.closest("[data-jlean]");
+  if (seg) {
+    const m = seg.dataset.jlean;
+    jDraft.lean[m] = jDraft.lean[m] === b.dataset.v ? undefined : b.dataset.v;  // tap again to clear
+    if (!jDraft.lean[m]) delete jDraft.lean[m];
+    seg.querySelectorAll("button").forEach(x => x.classList.toggle("on", x.dataset.v === jDraft.lean[m]));
+    jTouched();
+  }
+});
+$("j-list").addEventListener("click", e => {
+  const edit = e.target.closest("[data-jedit]");
+  if (edit) { saveJournal(); openDay(edit.dataset.jedit); return; }
+  const body = e.target.closest(".j-body");
+  if (body) { body.classList.toggle("open"); body.classList.remove("clamped"); }
+});
+$("j-older").onclick = () => { jMonths += 3; loadJournal(); };
+document.addEventListener("visibilitychange", () => { if (document.hidden) saveJournal(); });
+window.addEventListener("pagehide", () => saveJournal());
+// The accounts' lean next to yours, once the bot's data is in.
+function renderJCrowd() { document.querySelectorAll("[data-jlean]").forEach(seg => { seg.nextElementSibling.textContent = crowdLine(seg.dataset.jlean); }); }
 
 try { const saved = localStorage.getItem("xtb-tab"); if (saved) showTab(saved); } catch {}
 if (profileFromHash()) applyRoute();
