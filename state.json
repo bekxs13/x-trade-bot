@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125276608261202062",
+      "last_id": "2125307441823048028",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -365,12 +365,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-20T04:25:25.000Z",
-          "id": "2123633790681751688",
-          "reply_to_id": "2123612386389107193",
-          "text": "@BonesawMD Gotta lean into it I think when I was a smaller account most ppl would just take the tweets no credit but it actually amplified the influence of the idea"
-        },
-        {
           "created_at": "2026-11-20T04:43:59.000Z",
           "id": "2123638463400669290",
           "reply_to_id": "2123637938470678536",
@@ -453,6 +447,12 @@
           "id": "2125115691942703570",
           "reply_to_id": "2125113401492025569",
           "text": "@stoicsavage Fax"
+        },
+        {
+          "created_at": "2026-11-24T19:15:55.000Z",
+          "id": "2125307441823048028",
+          "reply_to_id": "2125297493097550316",
+          "text": "@blondesnmoney SOXS as well tho\u2026"
         }
       ],
       "threads": {
@@ -867,7 +867,6 @@
         }
       },
       "trading": {
-        "2123633790681751688": false,
         "2123638463400669290": false,
         "2123644980136988942": false,
         "2124227864476434748": false,
@@ -901,7 +900,8 @@
         "2125133230609453338": true,
         "2125133379452747982": true,
         "2125263174828179613": false,
-        "2125276608261202062": true
+        "2125276608261202062": true,
+        "2125307441823048028": true
       },
       "user_id": "1446541960181858315"
     },
@@ -2945,7 +2945,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2125306858294669438",
+      "last_id": "2125307125396324598",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3137,12 +3137,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-23T01:54:16.000Z",
-          "id": "2124682913950453878",
-          "reply_to_id": "2124680609134174611",
-          "text": "@Duderichy @RachelZader https://t.co/w6wGa8Y5fH"
-        },
-        {
           "created_at": "2026-11-23T02:52:29.000Z",
           "id": "2124697565241434175",
           "reply_to_id": "2124695371481801202",
@@ -3231,6 +3225,12 @@
           "id": "2125306858294669438",
           "reply_to_id": "2125306764656509346",
           "text": "@0xchigurh wow. nothing gets past this guy"
+        },
+        {
+          "created_at": "2026-11-24T19:14:39.000Z",
+          "id": "2125307125396324598",
+          "reply_to_id": "2125306832067448901",
+          "text": "@lucidshapes https://t.co/Jyz6kdbigz"
         }
       ],
       "threads": {
@@ -3641,7 +3641,6 @@
         "2124540084464570817": true,
         "2124654098792476871": true,
         "2124679947050426577": true,
-        "2124682913950453878": false,
         "2124697565241434175": true,
         "2124707696876097637": false,
         "2124707954754564525": false,
@@ -3672,7 +3671,8 @@
         "2125305284272832752": false,
         "2125306083744813482": false,
         "2125306622826189031": false,
-        "2125306858294669438": false
+        "2125306858294669438": false,
+        "2125307125396324598": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7919,5 +7919,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T19:14:31+00:00"
+  "updated_at": "2026-11-24T19:16:21+00:00"
 }
