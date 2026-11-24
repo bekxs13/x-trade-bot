@@ -18,16 +18,22 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  # Packing and publishing are separate jobs (GitHub's own layout): publishing right after the upload in the same job
+  # sometimes ran before GitHub had registered the upload and failed with "No artifacts named github-pages".
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
   deploy:
+    needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: docs
       - id: deployment
         uses: actions/deploy-pages@v4
