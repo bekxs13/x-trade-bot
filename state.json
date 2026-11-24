@@ -937,7 +937,7 @@
       },
       "closed": [],
       "handle": "bigtrout300",
-      "last_id": "2125251759941799947",
+      "last_id": "2125252622374563904",
       "positions": {
         "SPX": {
           "asset": "SPX",
@@ -1129,12 +1129,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-24T14:13:50.000Z",
-          "id": "2125231422789362070",
-          "reply_to_id": "2125188309727224245",
-          "text": "@au_xbt 50-80% correction before bid imho"
-        },
-        {
           "created_at": "2026-11-24T14:14:19.000Z",
           "id": "2125231544801599612",
           "reply_to_id": "2125231325066015229",
@@ -1220,6 +1214,12 @@
           "id": "2125251759941799947",
           "reply_to_id": "2125251148697456945",
           "text": "@ika_xbt it does pumps like this every cycle when BTC is about to nuke"
+        },
+        {
+          "created_at": "2026-11-24T15:38:05.000Z",
+          "id": "2125252622374563904",
+          "reply_to_id": "2125251912723231014",
+          "text": "@CryptoPoseidonn Max capitulation, liquidation marks bottoms \n\nnot bleed/passive sell \n\n\ud83e\udd1d"
         }
       ],
       "threads": {
@@ -1322,7 +1322,6 @@
         "2125060616209785117": true,
         "2125062490262507735": true,
         "2125228692796481620": true,
-        "2125231422789362070": true,
         "2125231544801599612": false,
         "2125232126966861835": true,
         "2125232570044645560": true,
@@ -1341,7 +1340,8 @@
         "2125247149357269218": false,
         "2125249935289532866": false,
         "2125251155152515095": true,
-        "2125251759941799947": true
+        "2125251759941799947": true,
+        "2125252622374563904": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7882,5 +7882,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T15:36:19+00:00"
+  "updated_at": "2026-11-24T15:38:21+00:00"
 }
