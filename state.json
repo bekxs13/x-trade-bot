@@ -937,7 +937,7 @@
       },
       "closed": [],
       "handle": "bigtrout300",
-      "last_id": "2125247149357269218",
+      "last_id": "2125249935289532866",
       "positions": {
         "SPX": {
           "asset": "SPX",
@@ -957,11 +957,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-23T16:59:38.000Z",
-          "id": "2124910758517669963",
-          "text": "Cannot express this enough \n\nNot an easy market to navigate atm, would not be super hopium filled to the upside until this position lifts at 7250.. its increasing. \n\nHave to be super sharp, head on a tack. We played the bounce, we got it. \n\nNot financial advice."
-        },
         {
           "created_at": "2026-11-23T17:38:37.000Z",
           "id": "2124920569980493957",
@@ -1098,10 +1093,18 @@
             "https://pbs.twimg.com/tweet_video_thumb/HX5jA_BbEAExrC7.jpg"
           ],
           "text": "The most hilarious thing to me is the Pump wallet Ansem used has a BTC short open still &amp; USDC sitting there https://t.co/4c7K9LTxU7"
+        },
+        {
+          "created_at": "2026-11-24T15:27:24.000Z",
+          "id": "2125249935289532866",
+          "images": [
+            "https://pbs.twimg.com/media/HX5nftaaEAAHpTM.jpg"
+          ],
+          "reply_to_id": "2125244949499392236",
+          "text": "\"But EVM!\" \n\nGuys if it was a fucking seed, like touch grass lmao https://t.co/QKBhstSeDK"
         }
       ],
       "reads": {
-        "2124910758517669963": "VIEW bearish on SPX",
         "2124920569980493957": "TRADE SHORT SPX",
         "2124938080687972641": "VIEW bearish on btc",
         "2124940743664079028": "No call: bearish on btc (same view as before)",
@@ -1116,7 +1119,8 @@
         "2125062490262507735": "VIEW neutral on btc",
         "2125228692796481620": "No call",
         "2125233104419996156": "No call",
-        "2125244949499392236": "No call"
+        "2125244949499392236": "No call",
+        "2125249935289532866": "No call"
       },
       "replies": [
         {
@@ -1290,11 +1294,10 @@
         },
         "2125244949499392236": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2124910758517669963": true,
         "2124920569980493957": true,
         "2124938080687972641": false,
         "2124940743664079028": false,
@@ -1328,7 +1331,8 @@
         "2125244949499392236": true,
         "2125245650195652769": false,
         "2125246393602498869": false,
-        "2125247149357269218": false
+        "2125247149357269218": false,
+        "2125249935289532866": false
       },
       "user_id": "1841011241877168128"
     },
@@ -7869,5 +7873,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T15:16:56+00:00"
+  "updated_at": "2026-11-24T15:28:23+00:00"
 }
