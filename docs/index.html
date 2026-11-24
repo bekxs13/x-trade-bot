@@ -321,6 +321,8 @@ ol.steps { padding-left: 20px; margin: 10px 0; font-size: 13px; } ol.steps li { 
   cursor: pointer; text-transform: uppercase; letter-spacing: .05em; }
 .j-watch:not(:has(.j-row)) .j-add { border-top: 0; }
 .j-text { min-height: 190px; }
+input.j-code { width: 150px; font-size: 22px; font-weight: 700; letter-spacing: .5em; text-align: center; padding: 8px 0 8px .5em; }
+.field input.j-code { flex: none; }
 .j-entry { padding: 14px; }
 .j-entry + .j-entry { border-top: 1px solid var(--line); }
 .j-entry-head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
@@ -1577,7 +1579,7 @@ applyTheme(themeNow());
 // ---- journal: your own read of the market each day ----
 // One file per month in journal/ (journal/2026-11.locked), newest day first. Only this page writes them.
 // Locked: the repo is public, so each month's markdown is encrypted in the browser (AES-256-GCM) before it's saved.
-// The key comes from your password (PBKDF2, salt and a check value in journal/lock.json). Without the password
+// The key comes from your 4-character passcode (PBKDF2, salt and a check value in journal/lock.json). Without it
 // nobody can read the entries, and nobody can recover them either.
 // Unsaved typing is kept on this device right away and sent to GitHub after a pause, on Save, or when you leave the tab.
 const J_MARKETS = ["stocks", "crypto", "macro"];
@@ -1596,8 +1598,10 @@ const J_PASS_KEY = `xtb-journal-pass-${OWNER}-${REPO}`, J_CHECK = "x-trade-bot j
 let jLock, jKey = null;  // jLock: undefined until read, null when no password is set yet
 const getJPass = () => { try { return localStorage.getItem(J_PASS_KEY) || ""; } catch { return ""; } };
 const setJPass = p => { try { p ? localStorage.setItem(J_PASS_KEY, p) : localStorage.removeItem(J_PASS_KEY); } catch {} };
+// Passcodes (lock.code) ignore upper/lower case, so a phone keyboard's auto-capital can't lock you out.
+const isCode = s => /^[a-z0-9]{4}$/i.test(s);
 async function journalKey(pass, lock) {
-  const base = await crypto.subtle.importKey("raw", new TextEncoder().encode(pass), "PBKDF2", false, ["deriveKey"]);
+  const base = await crypto.subtle.importKey("raw", new TextEncoder().encode(lock.code ? pass.toLowerCase() : pass), "PBKDF2", false, ["deriveKey"]);
   return crypto.subtle.deriveKey({name: "PBKDF2", salt: b64Bytes(lock.salt), iterations: lock.iterations, hash: "SHA-256"},
     base, {name: "AES-GCM", length: 256}, false, ["encrypt", "decrypt"]);
 }
@@ -1616,18 +1620,18 @@ async function unlockJournal(pass) {
   } catch { return false; }  // a wrong key fails to decrypt
 }
 async function lockJournal(pass) {
-  const lock = {v: 1, about: "Journal entries are encrypted in the browser (AES-256-GCM) with a key made from the owner's password (PBKDF2-SHA256). Without the password they can't be read.",
-    kdf: "PBKDF2-SHA256", iterations: 600000, salt: bytesB64(crypto.getRandomValues(new Uint8Array(16)))};
+  const lock = {v: 1, about: "Journal entries are encrypted in the browser (AES-256-GCM) with a key made from the owner's passcode (PBKDF2-SHA256). Without it they can't be read.",
+    kdf: "PBKDF2-SHA256", iterations: 600000, code: 4, salt: bytesB64(crypto.getRandomValues(new Uint8Array(16)))};
   const key = await journalKey(pass, lock);
   lock.check = await encryptText(key, J_CHECK);
   await editFile("journal/lock.json", cur => {
-    if (cur) throw new Error("This journal already has a password. Reload the page and enter it.");
+    if (cur) throw new Error("This journal already has a passcode. Reload the page and enter it.");
     return JSON.stringify(lock, null, 2) + "\n";
   }, "Lock the journal");
   jLock = lock; jKey = key; setJPass(pass);
 }
 async function forgetJournal() {
-  if (!confirm("Forget the journal password on this device? You'll type it again to read or write here.")) return;
+  if (!confirm("Forget the journal passcode on this device? You'll type it again to read or write here.")) return;
   await saveJournal();
   setJPass(""); jKey = null; jDraft = null; jDirty = false; jDate = "";
   Object.keys(journal).forEach(k => delete journal[k]);
@@ -1640,14 +1644,14 @@ function renderJLock() {
   $("j-editor").innerHTML = jError ? `<div class="msg err" style="margin:0">${esc(jError)}</div>`
     : jLock === undefined ? `<div class="empty">Loading your journal…</div>`
     : jLock ? `<div class="j-date">Journal locked</div>
-      <p class="hint">Enter your journal password. This device remembers it, so it's once per phone or browser.</p>
-      <div class="field" style="margin-top:12px"><input type="password" id="j-pass" placeholder="Password" autocomplete="current-password"><button class="btn primary" id="j-unlock">Unlock</button></div>
+      <p class="hint">Enter your ${jLock.code ? "4-character passcode" : "journal password"}. This device remembers it, so it's once per phone or browser.</p>
+      <div class="field" style="margin-top:12px"><input type="password" id="j-pass" ${jLock.code ? `class="j-code" maxlength="4" autocomplete="off" autocapitalize="none" autocorrect="off" spellcheck="false" placeholder="····"` : `placeholder="Password" autocomplete="current-password"`}><button class="btn primary" id="j-unlock">Unlock</button></div>
       <div class="msg" id="j-lock-msg"></div>`
-    : `<div class="j-date">Set a journal password</div>
-      <p class="hint">Your journal is saved in the bot's GitHub repo, which anyone can open. With a password, each entry is scrambled on your device before it's saved, so the repo only ever holds unreadable text.</p>
-      <span class="j-label">Password</span><input type="password" id="j-pass" placeholder="at least 8 characters" autocomplete="new-password">
-      <span class="j-label">Same password again</span><input type="password" id="j-pass2" autocomplete="new-password">
-      <p class="hint"><b>If you forget it, nobody can open your entries, me included.</b> Save it in your password manager.</p>
+    : `<div class="j-date">Set a journal passcode</div>
+      <p class="hint">Your journal is saved in the bot's GitHub repo, which anyone can open. With a passcode, each entry is scrambled on your device before it's saved, so the repo only holds unreadable text.</p>
+      <span class="j-label">Passcode: 4 letters or numbers</span><input type="password" id="j-pass" class="j-code" maxlength="4" autocomplete="off" autocapitalize="none" autocorrect="off" spellcheck="false" placeholder="····">
+      <span class="j-label">Same passcode again</span><input type="password" id="j-pass2" class="j-code" maxlength="4" autocomplete="off" autocapitalize="none" autocorrect="off" spellcheck="false" placeholder="····">
+      <p class="hint"><b>If you forget it, nobody can open your entries, me included.</b> Each new phone or computer asks for it once.</p>
       <div class="msg err" id="j-lock-msg">${token ? "" : "Add a GitHub token in Accounts first, so this page can save."}</div>
       <div class="row-end" style="margin-top:12px"><span></span><button class="btn primary" id="j-lock"${token ? "" : " disabled"}>Lock and start writing</button></div>`;
 }
@@ -1815,7 +1819,7 @@ function renderJState() {
   const save = $("j-save");
   if (save) save.disabled = jSaving || !jDirty;
   const where = $("j-where");
-  if (where) where.innerHTML = `Locked with your password · <button class="linkish" id="j-forget" style="display:inline">forget it on this device</button>`;
+  if (where) where.innerHTML = `Locked with your ${jLock?.code ? "passcode" : "password"} · <button class="linkish" id="j-forget" style="display:inline">forget it on this device</button>`;
 }
 function renderJList() {
   const days = Object.values(jAll()).filter(e => e.date !== jDate && !jEmpty(e)).sort((x, y) => y.date.localeCompare(x.date));
@@ -1834,6 +1838,7 @@ function renderJList() {
 }
 
 $("j-editor").addEventListener("input", e => {
+  if (e.target.id === "j-pass" && $("j-unlock") && jLock?.code && isCode(e.target.value)) { $("j-unlock").click(); return; }
   if (!jDraft) return;
   const row = e.target.closest(".j-row");
   if (e.target.id === "j-text") jDraft.text = e.target.value;
@@ -1848,13 +1853,13 @@ $("j-editor").addEventListener("click", async e => {
   const b = e.target.closest("#j-lock, #j-unlock");
   if (!b) return;
   const pass = $("j-pass").value, msg = $("j-lock-msg");
-  if (b.id === "j-lock" && pass.length < 8) return showMsg(msg, "Use at least 8 characters.", "err");
-  if (b.id === "j-lock" && pass !== $("j-pass2").value) return showMsg(msg, "The two passwords don't match.", "err");
+  if (b.id === "j-lock" && !isCode(pass)) return showMsg(msg, "Use exactly 4 letters or numbers.", "err");
+  if (b.id === "j-lock" && low(pass) !== low($("j-pass2").value)) return showMsg(msg, "The two passcodes don't match.", "err");
   b.disabled = true;
   showMsg(msg, b.id === "j-lock" ? "Locking…" : "Unlocking…", "");
   try {
     if (b.id === "j-lock") await lockJournal(pass);
-    else if (!(await unlockJournal(pass))) { showMsg(msg, "That's not the password.", "err"); b.disabled = false; return; }
+    else if (!(await unlockJournal(pass))) { showMsg(msg, `That's not the ${jLock.code ? "passcode" : "password"}.`, "err"); b.disabled = false; $("j-pass").select(); return; }
   } catch (err) { showMsg(msg, err.message, "err"); b.disabled = false; return; }
   loadJournal(true);
 });
