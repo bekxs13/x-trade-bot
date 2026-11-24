@@ -7158,7 +7158,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2125299675498533194",
+      "last_id": "2125326362080629148",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -7359,12 +7359,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-17T05:22:52.000Z",
-          "id": "2122561085966336509",
-          "reply_to_id": "2122558302932303975",
-          "text": "@_ErenNevin Annoying to input, click and it doesn't reach well (for example i'm trying to get out of millions of dollars of something illiquid at mid and I don't want to flash full size)"
-        },
-        {
           "created_at": "2026-11-17T06:29:58.000Z",
           "id": "2122577969273270527",
           "reply_to_id": "2122573480747032579",
@@ -7450,6 +7444,12 @@
           "id": "2124656971571982573",
           "reply_to_id": "2124656319512662246",
           "text": "@ShaneStoffer Just use Hyperliquid. Imagine limiting your profits by \u201cnot being allowed to trade\u201d.\n\nCuck behavior."
+        },
+        {
+          "created_at": "2026-11-24T20:31:06.000Z",
+          "id": "2125326362080629148",
+          "reply_to_id": "2125289758569922708",
+          "text": "@swansonbenson0 The goal is not to make money, the goal is to be nice"
         }
       ],
       "threads": {
@@ -7863,7 +7863,6 @@
         }
       },
       "trading": {
-        "2122561085966336509": true,
         "2122577969273270527": false,
         "2122814012807430276": true,
         "2122843861990932964": false,
@@ -7897,7 +7896,8 @@
         "2124894118660673733": true,
         "2124894119050825779": true,
         "2125282942431682880": true,
-        "2125299675498533194": false
+        "2125299675498533194": false,
+        "2125326362080629148": false
       },
       "user_id": "809191427645181952"
     }
@@ -7920,5 +7920,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T20:28:20+00:00"
+  "updated_at": "2026-11-24T20:32:19+00:00"
 }
