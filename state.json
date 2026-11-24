@@ -1572,7 +1572,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2125223352776208422",
+      "last_id": "2125224433141059663",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1909,12 +1909,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-23T19:49:56.000Z",
-          "id": "2124953618067370013",
-          "reply_to_id": "2124953449762869729",
-          "text": "@poopypee6741 z** p****"
-        },
-        {
           "created_at": "2026-11-23T20:12:46.000Z",
           "id": "2124959361709789582",
           "reply_to_id": "2124946465118388227",
@@ -1997,6 +1991,12 @@
           "id": "2125223352776208422",
           "reply_to_id": "2125163096754847775",
           "text": "i dont know what the attack vector was, if it was through bullpen then would make sense they have access to other wallets on that account as well, i dont think they have access to the evm pump wallets because those positions are still open and nothing has been moved there\n\nit is not me, would appreciate you not spreading misinformation currently doing security audit"
+        },
+        {
+          "created_at": "2026-11-24T13:46:04.000Z",
+          "id": "2125224433141059663",
+          "reply_to_id": "2125224081788199232",
+          "text": "@NewsyJohnson dont think its pumpfun or the other evm wallets would also be drained, its only the solana wallet"
         }
       ],
       "threads": {
@@ -2434,7 +2434,6 @@
         "2124949785924997418": true,
         "2124950312997839314": true,
         "2124953388668408046": true,
-        "2124953618067370013": false,
         "2124955207574667393": true,
         "2124959361709789582": false,
         "2124959970135601291": true,
@@ -2454,7 +2453,8 @@
         "2125081599280582807": false,
         "2125182437063790806": true,
         "2125188048296296585": false,
-        "2125223352776208422": true
+        "2125223352776208422": true,
+        "2125224433141059663": false
       },
       "user_id": "973261472"
     },
@@ -7835,5 +7835,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T13:42:22+00:00"
+  "updated_at": "2026-11-24T13:46:21+00:00"
 }
