@@ -937,7 +937,7 @@
       },
       "closed": [],
       "handle": "bigtrout300",
-      "last_id": "2125233452199108770",
+      "last_id": "2125233578342810019",
       "positions": {
         "SPX": {
           "asset": "SPX",
@@ -957,11 +957,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-23T14:33:50.000Z",
-          "id": "2124874068197593471",
-          "text": "Congrats to anyone who tailed upside.\n\nWe are all BigTrout. \ud83d\ude04"
-        },
         {
           "created_at": "2026-11-23T15:46:18.000Z",
           "id": "2124892303605317905",
@@ -1097,10 +1092,15 @@
           "id": "2125233104419996156",
           "quoted_text": "... https://t.co/nY6Tk64HjI",
           "text": "Where did the WIF Sphere Funds go? https://t.co/6gWDOKESdk"
+        },
+        {
+          "created_at": "2026-11-24T14:22:24.000Z",
+          "id": "2125233578342810019",
+          "reply_to_id": "2125233532339695845",
+          "text": "@diamondxbt (He\u2019s no hacked)"
         }
       ],
       "reads": {
-        "2124874068197593471": "No call",
         "2124892303605317905": "No call: bearish on stocks/macro (55%, too unsure)",
         "2124910758517669963": "VIEW bearish on SPX",
         "2124920569980493957": "TRADE SHORT SPX",
@@ -1119,12 +1119,6 @@
         "2125233104419996156": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-24T00:34:03.000Z",
-          "id": "2125025116786733254",
-          "reply_to_id": "2125024993201524747",
-          "text": "@chamathsintern ur last 2 tweets have me rolling"
-        },
         {
           "created_at": "2026-11-24T00:41:26.000Z",
           "id": "2125026974158713111",
@@ -1208,6 +1202,12 @@
           "id": "2125233452199108770",
           "reply_to_id": "2125172780010230073",
           "text": "@game_for_one BigTrout the industry plant is here dw"
+        },
+        {
+          "created_at": "2026-11-24T14:22:13.000Z",
+          "id": "2125233532339695845",
+          "reply_to_id": "2125233466707001838",
+          "text": "@diamondxbt Yeah anyone believing that shit is nuts"
         }
       ],
       "threads": {
@@ -1287,7 +1287,6 @@
         }
       },
       "trading": {
-        "2124874068197593471": true,
         "2124892303605317905": true,
         "2124910758517669963": true,
         "2124920569980493957": true,
@@ -1302,7 +1301,6 @@
         "2125002529285328993": false,
         "2125007905531494831": true,
         "2125018080862773288": true,
-        "2125025116786733254": false,
         "2125026974158713111": false,
         "2125027866450772129": false,
         "2125028401207795952": false,
@@ -1321,7 +1319,9 @@
         "2125232570044645560": true,
         "2125233104419996156": true,
         "2125233243566022852": false,
-        "2125233452199108770": false
+        "2125233452199108770": false,
+        "2125233532339695845": false,
+        "2125233578342810019": false
       },
       "user_id": "1841011241877168128"
     },
@@ -7862,5 +7862,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T14:22:26+00:00"
+  "updated_at": "2026-11-24T14:24:20+00:00"
 }
