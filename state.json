@@ -2945,7 +2945,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2125309294593605837",
+      "last_id": "2125309661540663547",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3137,12 +3137,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-23T04:01:33.000Z",
-          "id": "2124714948630593794",
-          "reply_to_id": "2124714348040061269",
-          "text": "@yuzu_4ever @ElderTyrannus you should scare yourself less and love more"
-        },
-        {
           "created_at": "2026-11-23T15:57:56.000Z",
           "id": "2124895231388852475",
           "reply_to_id": "2124887807915114616",
@@ -3231,6 +3225,12 @@
           "id": "2125309294593605837",
           "reply_to_id": "2125305910947872991",
           "text": "@goodalexander actually he was hacked when he wrote his bio and created the token - it is what it is"
+        },
+        {
+          "created_at": "2026-11-24T19:24:44.000Z",
+          "id": "2125309661540663547",
+          "reply_to_id": "2125309458641502707",
+          "text": "@goodalexander i think i'd like to meet a nice girl someday"
         }
       ],
       "threads": {
@@ -3641,7 +3641,6 @@
         "2124540084464570817": true,
         "2124654098792476871": true,
         "2124679947050426577": true,
-        "2124714948630593794": false,
         "2124866456940954082": true,
         "2124867684399505774": true,
         "2124871663351406905": true,
@@ -3672,7 +3671,8 @@
         "2125307125396324598": false,
         "2125307787378823472": false,
         "2125309006168158647": true,
-        "2125309294593605837": true
+        "2125309294593605837": true,
+        "2125309661540663547": false
       },
       "user_id": "1598545553327067137"
     },
@@ -5334,7 +5334,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2125306932252545052",
+      "last_id": "2125309507580366987",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -5386,12 +5386,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T17:50:45.000Z",
-          "id": "2123836458637119971",
-          "quoted_text": "TRUMP: GETTING CLOSE TO DEAL WITH MEXICO",
-          "text": "bro making up deals \ud83d\ude2d mexico? wtf https://t.co/47Uwbpli8t"
-        },
         {
           "created_at": "2026-11-20T19:04:09.000Z",
           "id": "2123854931526570160",
@@ -5498,10 +5492,15 @@
           "id": "2125302483878621434",
           "reply_to_id": "2125302096907866131",
           "text": "i started checking receipts again after losing 100k on an anthropic long"
+        },
+        {
+          "created_at": "2026-11-24T19:24:07.000Z",
+          "id": "2125309507580366987",
+          "quoted_text": "$NVDA  - JENSEN HUANG APOLOGIZES TO STAFF, REVEALS HE IS IN THERAPY\n\nNvidia CEO Jensen Huang apologized to employees during an all-hands meeting at the company's California headquarters and disclosed that he is currently undergoing therapy, shortly after his reinstatement as CEO.",
+          "text": "they lobotomized the goat. wizards michael jordan. it can never be the same https://t.co/t2frtogC8f"
         }
       ],
       "reads": {
-        "2123836458637119971": "No call",
         "2123859424334799336": "No call",
         "2123861753809318229": "No call",
         "2123866329526775990": "No call",
@@ -5515,7 +5514,8 @@
         "2124888242617253911": "No call",
         "2125257606780379165": "No call",
         "2125300092240289998": "No call",
-        "2125301421373571338": "No call"
+        "2125301421373571338": "No call",
+        "2125309507580366987": "No call"
       },
       "replies": [
         {
@@ -5610,10 +5610,6 @@
         }
       ],
       "threads": {
-        "2118695853712179456": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2118700188055265780": {
           "alerted": [],
           "self_replies": 0
@@ -6011,10 +6007,13 @@
         "2125300092240289998": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2125309507580366987": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2123836458637119971": false,
         "2123854931526570160": false,
         "2123859424334799336": true,
         "2123861753809318229": true,
@@ -6048,7 +6047,8 @@
         "2125302659565441295": false,
         "2125303220696474102": false,
         "2125306213558886736": false,
-        "2125306932252545052": false
+        "2125306932252545052": false,
+        "2125309507580366987": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7919,5 +7919,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T19:24:21+00:00"
+  "updated_at": "2026-11-24T19:26:38+00:00"
 }
