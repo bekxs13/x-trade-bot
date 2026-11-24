@@ -2907,7 +2907,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2125259572407374148",
+      "last_id": "2125260359594357094",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2943,15 +2943,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-21T04:44:20.000Z",
-          "id": "2124000938121683246",
-          "images": [
-            "https://pbs.twimg.com/media/HXn3lgCWYAEnytV.jpg"
-          ],
-          "quoted_text": "what if bitcoin never goes up ever again",
-          "text": "what did he know https://t.co/ayhxjRWN2x https://t.co/VtkUWxZAJ4"
-        },
         {
           "created_at": "2026-11-21T04:45:44.000Z",
           "id": "2124001290762047674",
@@ -3072,10 +3063,18 @@
             "https://pbs.twimg.com/media/HX5wUAdWYAAo3TR.png"
           ],
           "text": "devs sold at 83 and you're crying???? https://t.co/Qu4y9A1a7z"
+        },
+        {
+          "created_at": "2026-11-24T16:08:49.000Z",
+          "id": "2125260359594357094",
+          "images": [
+            "https://pbs.twimg.com/media/HX5xB3MWwAEFgnc.png"
+          ],
+          "quoted_text": "wrong. during the four year duration of this administration we will experience artificially heightened volatility specifically engineered to create short-term trading opportunities for insiders https://t.co/WmgvhGGpqu",
+          "text": "https://t.co/eF0E4QJgp0 https://t.co/SFUUY0j49y"
         }
       ],
       "reads": {
-        "2124000938121683246": "No call",
         "2124001290762047674": "No call",
         "2124008458756432215": "No call",
         "2124009076883370159": "No call",
@@ -3093,7 +3092,8 @@
         "2124960322943414764": "No call",
         "2124960475687588173": "Read together with the post it replies to",
         "2125017997425176826": "No call",
-        "2125259572407374148": "No call"
+        "2125259572407374148": "No call",
+        "2125260359594357094": "No call"
       },
       "replies": [
         {
@@ -3188,10 +3188,6 @@
         }
       ],
       "threads": {
-        "2119218111068991627": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119465859194523687": {
           "alerted": [],
           "self_replies": 0
@@ -3589,10 +3585,13 @@
         "2125259572407374148": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125260359594357094": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124000938121683246": true,
         "2124001290762047674": false,
         "2124008458756432215": false,
         "2124009076883370159": false,
@@ -3626,7 +3625,8 @@
         "2124960475687588173": false,
         "2125017997425176826": false,
         "2125023834956775467": false,
-        "2125259572407374148": true
+        "2125259572407374148": true,
+        "2125260359594357094": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7885,5 +7885,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T16:06:23+00:00"
+  "updated_at": "2026-11-24T16:10:25+00:00"
 }
