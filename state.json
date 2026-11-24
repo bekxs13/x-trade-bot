@@ -932,7 +932,7 @@
       },
       "closed": [],
       "handle": "bigtrout300",
-      "last_id": "2125274654831169565",
+      "last_id": "2125275227026514176",
       "positions": {
         "SPX": {
           "asset": "SPX",
@@ -952,16 +952,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-23T19:10:34.000Z",
-          "id": "2124943710312079439",
-          "images": [
-            "https://pbs.twimg.com/media/HX1QrEyasAAziCZ.jpg",
-            "https://pbs.twimg.com/media/HX1QtGgbAAAurBa.png"
-          ],
-          "reply_to_id": "2124938080687972641",
-          "text": "So you can see how the imbalance fill was super like.. on point to the upside (pink is sellers, blue is buyers)\n\nThe problem I have, we haven't tested the poor low.. which comes later on obviously. And the big big buyers imbalances were front ran, before being slammed down at sellers imbalance. \n\nAt some point whether this retests the high, goes higher, or reverts lower, its going to be a volatile move break imho. Downside of 50k is important, but when we drop below 55k its like a direct path lower, and we wipeout a lottt of underwater supply at 55k and below + perps. I do not think it' just stops at 50k."
-        },
         {
           "created_at": "2026-11-23T20:03:17.000Z",
           "id": "2124956977818435750",
@@ -1096,10 +1086,18 @@
           ],
           "quoted_text": "So you can see how the imbalance fill was super like.. on point to the upside (pink is sellers, blue is buyers)\n\nThe problem I have, we haven't tested the poor low.. which comes later on obviously. And the big big buyers imbalances were front ran, before being slammed down at sellers imbalance. \n\nAt some point whether this retests the high, goes higher, or reverts lower, its going to be a volatile move break imho. Downside of 50k is important, but when we drop below 55k its like a direct path lo",
           "text": "Clearly the Red Flag SPX thing I flagged played out. \n\nThis is what I am watching. (Reference to the front running of the imbalance.) https://t.co/sVhC2mTu2I https://t.co/1ogNGOESsH"
+        },
+        {
+          "created_at": "2026-11-24T17:07:54.000Z",
+          "id": "2125275227026514176",
+          "images": [
+            "https://pbs.twimg.com/media/HX598fnbIAA6YCp.png"
+          ],
+          "quoted_text": "So you can see how the imbalance fill was super like.. on point to the upside (pink is sellers, blue is buyers)\n\nThe problem I have, we haven't tested the poor low.. which comes later on obviously. And the big big buyers imbalances were front ran, before being slammed down at sellers imbalance. \n\nAt some point whether this retests the high, goes higher, or reverts lower, its going to be a volatile move break imho. Downside of 50k is important, but when we drop below 55k its like a direct path lo",
+          "text": "Clearly the Red Flag SPX thing I flagged played out. \n\nThis is what I am watching. (Reference to the front running of the imbalance.)\n\nThe bullcase is to NOT revisit at all , or revisit & bounce with strong buyers."
         }
       ],
       "reads": {
-        "2124943710312079439": "Read together with the post it replies to",
         "2124956977818435750": "No call: neutral on btc (60%, too unsure)",
         "2124969442811809864": "No call",
         "2124970791897063710": "VIEW bullish on SPX",
@@ -1114,7 +1112,8 @@
         "2125249935289532866": "No call",
         "2125251155152515095": "No call: bullish on btc (60%, too unsure)",
         "2125262673302680054": "No call",
-        "2125274593191776757": "No call"
+        "2125274593191776757": "No call",
+        "2125275227026514176": "No call: neutral on btc (55%, too unsure)"
       },
       "replies": [
         {
@@ -1304,10 +1303,13 @@
         "2125274593191776757": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125275227026514176": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124943710312079439": true,
         "2124956977818435750": true,
         "2124965017372201307": true,
         "2124969442811809864": true,
@@ -1341,7 +1343,8 @@
         "2125267975108444308": false,
         "2125269571636707759": false,
         "2125274593191776757": true,
-        "2125274654831169565": false
+        "2125274654831169565": false,
+        "2125275227026514176": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7891,5 +7894,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T17:06:30+00:00"
+  "updated_at": "2026-11-24T17:08:27+00:00"
 }
