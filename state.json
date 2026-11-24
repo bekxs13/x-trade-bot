@@ -932,7 +932,7 @@
       },
       "closed": [],
       "handle": "bigtrout300",
-      "last_id": "2125269571636707759",
+      "last_id": "2125274654831169565",
       "positions": {
         "SPX": {
           "asset": "SPX",
@@ -952,16 +952,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-23T18:58:47.000Z",
-          "id": "2124940743664079028",
-          "images": [
-            "https://pbs.twimg.com/media/HX1NlPoa4AAtBRW.png",
-            "https://pbs.twimg.com/media/HX1N0QVbYAABZm-.png",
-            "https://pbs.twimg.com/media/HX1OMFkasAAXzeD.png"
-          ],
-          "text": "https://t.co/DS3yk9TXe9 https://t.co/bTIVfajKFi"
-        },
         {
           "created_at": "2026-11-23T19:10:34.000Z",
           "id": "2124943710312079439",
@@ -1097,10 +1087,18 @@
           "id": "2125262673302680054",
           "quoted_text": "\ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \ud83d\udea8  296,000,000 $USDT (295,850,520 USD) transferred from #Bitfinex to Tether Treasury\n\nhttps://t.co/uBBFEz1LkR",
           "text": "Decent move comin up \n\nifykyk https://t.co/Al83YQVGTh"
+        },
+        {
+          "created_at": "2026-11-24T17:05:23.000Z",
+          "id": "2125274593191776757",
+          "images": [
+            "https://pbs.twimg.com/media/HX598fnbIAA6YCp.png"
+          ],
+          "quoted_text": "So you can see how the imbalance fill was super like.. on point to the upside (pink is sellers, blue is buyers)\n\nThe problem I have, we haven't tested the poor low.. which comes later on obviously. And the big big buyers imbalances were front ran, before being slammed down at sellers imbalance. \n\nAt some point whether this retests the high, goes higher, or reverts lower, its going to be a volatile move break imho. Downside of 50k is important, but when we drop below 55k its like a direct path lo",
+          "text": "Clearly the Red Flag SPX thing I flagged played out. \n\nThis is what I am watching. (Reference to the front running of the imbalance.) https://t.co/sVhC2mTu2I https://t.co/1ogNGOESsH"
         }
       ],
       "reads": {
-        "2124940743664079028": "No call: bearish on btc (same view as before)",
         "2124943710312079439": "Read together with the post it replies to",
         "2124956977818435750": "No call: neutral on btc (60%, too unsure)",
         "2124969442811809864": "No call",
@@ -1115,15 +1113,10 @@
         "2125244949499392236": "No call",
         "2125249935289532866": "No call",
         "2125251155152515095": "No call: bullish on btc (60%, too unsure)",
-        "2125262673302680054": "No call"
+        "2125262673302680054": "No call",
+        "2125274593191776757": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-24T14:24:45.000Z",
-          "id": "2125234169492148305",
-          "reply_to_id": "2125233908220662112",
-          "text": "@sp1200x You call em a f*ggot and move on in the memecoin space"
-        },
         {
           "created_at": "2026-11-24T14:38:44.000Z",
           "id": "2125237686005121244",
@@ -1213,6 +1206,12 @@
           "id": "2125269571636707759",
           "reply_to_id": "2125269426094358760",
           "text": "@lukecannon727 that can't be real"
+        },
+        {
+          "created_at": "2026-11-24T17:05:38.000Z",
+          "id": "2125274654831169565",
+          "reply_to_id": "2125274451747262574",
+          "text": "@Xbt886 : )"
         }
       ],
       "threads": {
@@ -1301,10 +1300,13 @@
         "2125262673302680054": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125274593191776757": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124940743664079028": false,
         "2124943710312079439": true,
         "2124956977818435750": true,
         "2124965017372201307": true,
@@ -1320,7 +1322,6 @@
         "2125228692796481620": true,
         "2125233104419996156": true,
         "2125233578342810019": false,
-        "2125234169492148305": false,
         "2125237686005121244": false,
         "2125237849255784531": true,
         "2125238069070876750": false,
@@ -1338,7 +1339,9 @@
         "2125264623993844007": false,
         "2125265631633359023": true,
         "2125267975108444308": false,
-        "2125269571636707759": false
+        "2125269571636707759": false,
+        "2125274593191776757": true,
+        "2125274654831169565": false
       },
       "user_id": "1841011241877168128"
     },
@@ -7888,5 +7891,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T16:46:32+00:00"
+  "updated_at": "2026-11-24T17:06:30+00:00"
 }
