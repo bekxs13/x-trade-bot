@@ -2942,7 +2942,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2125299937751581162",
+      "last_id": "2125304969301537135",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -2978,18 +2978,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-21T05:58:15.000Z",
-          "id": "2124019541462413797",
-          "quoted_text": "@hopes_revenge i'm trying to time my san francisco visit to the absolute stock market peak",
-          "text": "FUCK ME visited labor day weekend 2026 and totally forgot about this https://t.co/wcJoOrV9en"
-        },
-        {
-          "created_at": "2026-11-22T16:26:00.000Z",
-          "id": "2124539904994824298",
-          "quoted_text": "The XYZ 100 (a token that tracks the NASDAQ 100 on Hyperliquid) is up 2.4% since Fridays' close. Going to be interesting to see how closely this aligns with the cash market. The $NVDA token is up 5.9%.",
-          "text": "worth saying that qqq stock traded until friday at 8pm and was up 1.26% post close even then, so this doesn't seem all that crazy https://t.co/M2F9pKrl6m"
-        },
         {
           "created_at": "2026-11-22T16:26:42.000Z",
           "id": "2124540084464570817",
@@ -3107,11 +3095,23 @@
           "id": "2125298990791209043",
           "quoted_text": "SCOOP: Internal, unreleased AI models at OpenAI and Anthropic are becoming so powerful that many employees believe they can no longer be safely released, according to more than two dozen sources familiar with the internal debates.\n\nThis could significantly slow the AI boom, as the gap between what the most advanced AI systems can do and humans' ability to control them continues to widen.\n\nRecent advances have sparked debate at the highest levels of both companies and within the broader AI resear",
           "text": "stop recursive self improvement you suicide cultists https://t.co/g3340oHULw"
+        },
+        {
+          "created_at": "2026-11-24T19:05:16.000Z",
+          "id": "2125304763990643107",
+          "images": [
+            "https://pbs.twimg.com/media/HX6Yfx-WIAAD93K.jpg"
+          ],
+          "text": "whether greg survives winter depends on whether he can fatten up in time. his primary food source is the scraps he is fed by humans, who in turn only bring food when they are financially able and have recreation time. his existence is controlled by forces he is not even aware of https://t.co/gtN241k4ZW"
+        },
+        {
+          "created_at": "2026-11-24T19:06:05.000Z",
+          "id": "2125304969301537135",
+          "reply_to_id": "2125304763990643107",
+          "text": "do you think that greg knows what an unemployment number or what interest rates are. what about bull or bear market. anyway have fun in an ai controlled economy"
         }
       ],
       "reads": {
-        "2124019541462413797": "No call",
-        "2124539904994824298": "No call",
         "2124540084464570817": "No call",
         "2124679947050426577": "No call",
         "2124866456940954082": "No call",
@@ -3128,7 +3128,9 @@
         "2125260359594357094": "No call",
         "2125293107508044118": "No call",
         "2125293253347950899": "Read together with the post it replies to",
-        "2125298990791209043": "No call"
+        "2125298990791209043": "No call",
+        "2125304763990643107": "No call",
+        "2125304969301537135": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -3229,10 +3231,6 @@
         }
       ],
       "threads": {
-        "2119531917574025572": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2119800243932016773": {
           "alerted": [],
           "self_replies": 0
@@ -3630,11 +3628,13 @@
         "2125298990791209043": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125304763990643107": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2124019541462413797": false,
-        "2124539904994824298": true,
         "2124540084464570817": true,
         "2124654098792476871": true,
         "2124661533859012696": true,
@@ -3667,7 +3667,9 @@
         "2125293107508044118": true,
         "2125293253347950899": false,
         "2125298990791209043": false,
-        "2125299937751581162": false
+        "2125299937751581162": false,
+        "2125304763990643107": false,
+        "2125304969301537135": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7914,5 +7916,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T19:00:42+00:00"
+  "updated_at": "2026-11-24T19:06:36+00:00"
 }
