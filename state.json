@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125122791938929113",
+      "last_id": "2125133230609453338",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,14 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-22T19:38:32.000Z",
-          "id": "2124588359259771102",
-          "images": [
-            "https://pbs.twimg.com/media/HXwNwDBbYAAiyLH.jpg"
-          ],
-          "text": "Books feeling like this rn in trad at least. everyone max emotional + vol up + short gamma, wait n murk ppl https://t.co/lqNkYSIyF6"
-        },
         {
           "created_at": "2026-11-22T19:42:18.000Z",
           "id": "2124589307377938570",
@@ -349,10 +341,14 @@
             "https://pbs.twimg.com/media/HX3z6DwbEAEV2w1.jpg"
           ],
           "text": "https://t.co/c3gWwXixJr"
+        },
+        {
+          "created_at": "2026-11-24T07:43:39.000Z",
+          "id": "2125133230609453338",
+          "text": "some of this stuff is down way more than I thought dram 20% day and didn't clear the high from 5 days ago lol"
         }
       ],
       "reads": {
-        "2124588359259771102": "No call",
         "2124589307377938570": "No call",
         "2124592982645178419": "No call",
         "2124628337956147356": "No call",
@@ -370,7 +366,8 @@
         "2125011472287994086": "No call",
         "2125058913389412443": "No call",
         "2125065886814073214": "No call",
-        "2125122791938929113": "No call"
+        "2125122791938929113": "No call",
+        "2125133230609453338": "No call"
       },
       "replies": [
         {
@@ -465,10 +462,6 @@
         }
       ],
       "threads": {
-        "2121416658376089722": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121434427574345894": {
           "alerted": [],
           "self_replies": 0
@@ -873,6 +866,10 @@
         "2125122791938929113": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125133230609453338": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -883,7 +880,6 @@
         "2124291665359999351": false,
         "2124292318295687479": false,
         "2124434297054711953": false,
-        "2124588359259771102": true,
         "2124589307377938570": false,
         "2124592982645178419": false,
         "2124596039239995718": false,
@@ -910,7 +906,8 @@
         "2125065886814073214": true,
         "2125089032757780779": false,
         "2125115691942703570": false,
-        "2125122791938929113": false
+        "2125122791938929113": false,
+        "2125133230609453338": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7839,5 +7836,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-24T07:04:23+00:00"
+  "updated_at": "2026-11-24T07:44:24+00:00"
 }
