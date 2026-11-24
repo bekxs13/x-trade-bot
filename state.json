@@ -937,7 +937,7 @@
       },
       "closed": [],
       "handle": "bigtrout300",
-      "last_id": "2125249935289532866",
+      "last_id": "2125251155152515095",
       "positions": {
         "SPX": {
           "asset": "SPX",
@@ -957,11 +957,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-23T17:38:37.000Z",
-          "id": "2124920569980493957",
-          "text": "A SnapBack rally creates a lot of false confidence especially when other parts are still weak.\n\nBitcoin, DXY, still kinda give the impression liquidity is tighter & the woods aren\u2019t clear. \n\nI think scaling in Long Puts / Put Spreads for Q1 is what I\u2019ll add. I still own Jan-Mar\n\nDecember, I own almost nothing now. I monetized every last December strike besides 2 contracts today. \n\nI like pointing towards Nov 27 - Dec 4 as a stall out"
-        },
         {
           "created_at": "2026-11-23T18:48:12.000Z",
           "id": "2124938080687972641",
@@ -1102,10 +1097,19 @@
           ],
           "reply_to_id": "2125244949499392236",
           "text": "\"But EVM!\" \n\nGuys if it was a fucking seed, like touch grass lmao https://t.co/QKBhstSeDK"
+        },
+        {
+          "created_at": "2026-11-24T15:32:15.000Z",
+          "id": "2125251155152515095",
+          "images": [
+            "https://pbs.twimg.com/media/HX5oRk6bwAAP7sE.jpg",
+            "https://pbs.twimg.com/media/HX5oVaJakAAlAwg.jpg",
+            "https://pbs.twimg.com/media/HX5oc1OaYAAnJSF.jpg"
+          ],
+          "text": "It is too early to make a directional bias.. $BTC\n\nBut not a \"full breakdown\" as bad as it seems yet. \n\nI'm still briefly neutral-bullish short term. Kinda just figuring out value imho. \n\ncMonth VWAP coming to 66k gets interesting (as per other tweet targets) https://t.co/mhnTSQCI96"
         }
       ],
       "reads": {
-        "2124920569980493957": "TRADE SHORT SPX",
         "2124938080687972641": "VIEW bearish on btc",
         "2124940743664079028": "No call: bearish on btc (same view as before)",
         "2124943710312079439": "Read together with the post it replies to",
@@ -1120,7 +1124,8 @@
         "2125228692796481620": "No call",
         "2125233104419996156": "No call",
         "2125244949499392236": "No call",
-        "2125249935289532866": "No call"
+        "2125249935289532866": "No call",
+        "2125251155152515095": "No call: bullish on btc (60%, too unsure)"
       },
       "replies": [
         {
@@ -1295,10 +1300,13 @@
         "2125244949499392236": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2125251155152515095": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124920569980493957": true,
         "2124938080687972641": false,
         "2124940743664079028": false,
         "2124943710312079439": true,
@@ -1332,7 +1340,8 @@
         "2125245650195652769": false,
         "2125246393602498869": false,
         "2125247149357269218": false,
-        "2125249935289532866": false
+        "2125249935289532866": false,
+        "2125251155152515095": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7873,5 +7882,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T15:28:23+00:00"
+  "updated_at": "2026-11-24T15:34:28+00:00"
 }
