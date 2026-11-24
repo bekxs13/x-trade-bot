@@ -2945,7 +2945,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2125306083744813482",
+      "last_id": "2125306858294669438",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3137,18 +3137,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-23T01:36:14.000Z",
-          "id": "2124678376451412245",
-          "reply_to_id": "2124669678836654575",
-          "text": "@RachelZader peanut butter\ndefinitely more eggs you can pre-prepared hard boiled eggs and keep them in the fridge\npeas/beans \ntinned fish"
-        },
-        {
-          "created_at": "2026-11-23T01:54:04.000Z",
-          "id": "2124682865522692195",
-          "reply_to_id": "2124681105777524865",
-          "text": "@YahwehOrBust @RachelZader It's tasty, has salt, and requires no cooking. Yes it has bad macros but I don't think that's what Rachel is trying to optimize here. May be too much saturated fat if she's really worried about cholesterol tho idk"
-        },
-        {
           "created_at": "2026-11-23T01:54:16.000Z",
           "id": "2124682913950453878",
           "reply_to_id": "2124680609134174611",
@@ -3231,6 +3219,18 @@
           "id": "2125306083744813482",
           "reply_to_id": "2125305879126012258",
           "text": "@snuff_twink that's an even sadder state. the poor animal is domesticated and trusts its masters completely"
+        },
+        {
+          "created_at": "2026-11-24T19:12:39.000Z",
+          "id": "2125306622826189031",
+          "reply_to_id": "2125306217283133656",
+          "text": "@inerati peanut is fucking dead and why? because of \"regulations\" that some bureaucracy cooked up that not a single human can justify in isolation. layers of unfathomability"
+        },
+        {
+          "created_at": "2026-11-24T19:13:35.000Z",
+          "id": "2125306858294669438",
+          "reply_to_id": "2125306764656509346",
+          "text": "@0xchigurh wow. nothing gets past this guy"
         }
       ],
       "threads": {
@@ -3640,9 +3640,7 @@
       "trading": {
         "2124540084464570817": true,
         "2124654098792476871": true,
-        "2124678376451412245": false,
         "2124679947050426577": true,
-        "2124682865522692195": false,
         "2124682913950453878": false,
         "2124697565241434175": true,
         "2124707696876097637": false,
@@ -3672,7 +3670,9 @@
         "2125304763990643107": false,
         "2125304969301537135": false,
         "2125305284272832752": false,
-        "2125306083744813482": false
+        "2125306083744813482": false,
+        "2125306622826189031": false,
+        "2125306858294669438": false
       },
       "user_id": "1598545553327067137"
     },
@@ -5334,7 +5334,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2125306213558886736",
+      "last_id": "2125306932252545052",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -5519,12 +5519,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-23T15:55:43.000Z",
-          "id": "2124894672531169336",
-          "reply_to_id": "2124889659905904887",
-          "text": "@Oxxyy13 lol"
-        },
-        {
           "created_at": "2026-11-23T17:29:40.000Z",
           "id": "2124918314954637584",
           "reply_to_id": "2124917955784044866",
@@ -5607,6 +5601,12 @@
           "id": "2125306213558886736",
           "reply_to_id": "2125304960564748765",
           "text": "@taobanker los angeles california would like a word"
+        },
+        {
+          "created_at": "2026-11-24T19:13:53.000Z",
+          "id": "2125306932252545052",
+          "reply_to_id": "2125305120997183622",
+          "text": "@goodalexander lmao"
         }
       ],
       "threads": {
@@ -6028,7 +6028,6 @@
         "2124885272089313485": false,
         "2124887559234892077": false,
         "2124888242617253911": false,
-        "2124894672531169336": false,
         "2124918314954637584": false,
         "2124992287524454406": false,
         "2125091798012002479": false,
@@ -6048,7 +6047,8 @@
         "2125302483878621434": true,
         "2125302659565441295": false,
         "2125303220696474102": false,
-        "2125306213558886736": false
+        "2125306213558886736": false,
+        "2125306932252545052": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7919,5 +7919,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-24T19:12:23+00:00"
+  "updated_at": "2026-11-24T19:14:31+00:00"
 }
