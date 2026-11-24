@@ -1572,7 +1572,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2125182437063790806",
+      "last_id": "2125188048296296585",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1909,12 +1909,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-23T19:32:25.000Z",
-          "id": "2124949206137819200",
-          "reply_to_id": "2124667059959406895",
-          "text": "@moonpay lmao"
-        },
-        {
           "created_at": "2026-11-23T19:33:24.000Z",
           "id": "2124949453585182904",
           "reply_to_id": "2124939814978167293",
@@ -1997,6 +1991,12 @@
           "id": "2125075928992612437",
           "reply_to_id": "2124951144388530315",
           "text": "@BittexXBT whats a liq pin"
+        },
+        {
+          "created_at": "2026-11-24T11:21:29.000Z",
+          "id": "2125188048296296585",
+          "reply_to_id": "2125187649052852448",
+          "text": "@Moasthigh i dont think they have access to any of the evm wallets, only the solana one, which is why i said i think its the bullpen profile thats the only place the sol priv key was imported"
         }
       ],
       "threads": {
@@ -2431,7 +2431,6 @@
         "2124933153492013290": false,
         "2124933191286808766": true,
         "2124948514895454221": false,
-        "2124949206137819200": false,
         "2124949453585182904": false,
         "2124949785924997418": true,
         "2124950312997839314": true,
@@ -2454,7 +2453,8 @@
         "2125045902519713820": false,
         "2125075928992612437": true,
         "2125081599280582807": false,
-        "2125182437063790806": true
+        "2125182437063790806": true,
+        "2125188048296296585": false
       },
       "user_id": "973261472"
     },
@@ -7835,5 +7835,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-24T11:00:33+00:00"
+  "updated_at": "2026-11-24T11:22:25+00:00"
 }
