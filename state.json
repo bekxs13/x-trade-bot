@@ -944,7 +944,7 @@
       },
       "closed": [],
       "handle": "bigtrout300",
-      "last_id": "2125033525598703742",
+      "last_id": "2125038606146560239",
       "positions": {
         "SPX": {
           "asset": "SPX",
@@ -1065,6 +1065,11 @@
           "created_at": "2026-11-24T00:06:06.000Z",
           "id": "2125018080862773288",
           "text": "BitMex trading closed &amp; Bitcoin topped\n\nInsane \n\nWhat does the MSTR delisting bring, guy is diluting right before it lmaoo"
+        },
+        {
+          "created_at": "2026-11-24T01:27:39.000Z",
+          "id": "2125038606146560239",
+          "text": "Someone should make a model with Short Term Holder Supply, vs Long Term Holder Supply\n\nAnd reply with images of what results you get : )"
         }
       ],
       "reads": {
@@ -1080,7 +1085,8 @@
         "2124970791897063710": "VIEW bullish on SPX",
         "2125002529285328993": "No call",
         "2125007905531494831": "No call",
-        "2125018080862773288": "No call: bearish on btc (65%, too unsure)"
+        "2125018080862773288": "No call: bearish on btc (65%, too unsure)",
+        "2125038606146560239": "No call"
       },
       "replies": [
         {
@@ -1230,6 +1236,10 @@
         "2125018080862773288": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125038606146560239": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -1262,7 +1272,8 @@
         "2125030469322645707": true,
         "2125030934558982653": false,
         "2125031627642511794": true,
-        "2125033525598703742": true
+        "2125033525598703742": true,
+        "2125038606146560239": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7808,5 +7819,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-23",
-  "updated_at": "2026-11-24T01:08:18+00:00"
+  "updated_at": "2026-11-24T01:28:29+00:00"
 }
