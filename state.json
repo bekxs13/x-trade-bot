@@ -958,7 +958,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125392941284049062",
+      "last_id": "2125393203558052047",
       "positions": {},
       "posts": [
         {
@@ -1140,15 +1140,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-24T19:09:10.000Z",
-          "id": "2125305743532499435",
-          "images": [
-            "https://pbs.twimg.com/tweet_video_thumb/HX6aTsEaoAADGwz.jpg"
-          ],
-          "reply_to_id": "2125305324424868122",
-          "text": "@Prometheus_The1 https://t.co/5uejWG5Usl"
-        },
-        {
           "created_at": "2026-11-24T19:10:36.000Z",
           "id": "2125306106008539520",
           "reply_to_id": "2125306029189554471",
@@ -1234,6 +1225,12 @@
           "id": "2125391144406442372",
           "reply_to_id": "2125390850620567738",
           "text": "@based16z https://t.co/GpPHCAIIpu"
+        },
+        {
+          "created_at": "2026-11-25T00:56:42.000Z",
+          "id": "2125393203558052047",
+          "reply_to_id": "2125393068430184673",
+          "text": "@BuzLite1 1st time I've actually been \"confused\" ina short term trend for quite sometime"
         }
       ],
       "threads": {
@@ -1384,7 +1381,6 @@
         "2125300694702076218": true,
         "2125302395421049302": true,
         "2125303465744417239": true,
-        "2125305743532499435": false,
         "2125306106008539520": false,
         "2125308318818463796": false,
         "2125309040351986042": false,
@@ -1403,7 +1399,8 @@
         "2125390223710495145": false,
         "2125390615399841961": false,
         "2125391144406442372": false,
-        "2125392941284049062": true
+        "2125392941284049062": true,
+        "2125393203558052047": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7940,5 +7937,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-25T00:56:22+00:00"
+  "updated_at": "2026-11-25T00:58:21+00:00"
 }
