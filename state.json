@@ -956,7 +956,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125612332189704251",
+      "last_id": "2125612770624463349",
       "positions": {},
       "posts": [
         {
@@ -1125,12 +1125,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-25T02:08:28.000Z",
-          "id": "2125411263341900201",
-          "reply_to_id": "2125411135579115866",
-          "text": "@DeriveXYZ sweett"
-        },
-        {
           "created_at": "2026-11-25T02:11:52.000Z",
           "id": "2125412120313610330",
           "reply_to_id": "2125412029951525323",
@@ -1213,6 +1207,12 @@
           "id": "2125612332189704251",
           "reply_to_id": "2125612071488495674",
           "text": "@YoloMoonLambo Ye agree \n\nIf it\u2019s a year end hedge tho idk if it lifts \n\nBig position who\u2019s holding it fr. \n\nA big spread buyer of puts lifted this AM"
+        },
+        {
+          "created_at": "2026-11-25T15:29:11.000Z",
+          "id": "2125612770624463349",
+          "reply_to_id": "2125612529212956774",
+          "text": "@0xopaque Something like that"
         }
       ],
       "threads": {
@@ -1393,7 +1393,6 @@
         "2125388177645130011": true,
         "2125392941284049062": true,
         "2125399171012460751": true,
-        "2125411263341900201": false,
         "2125412120313610330": false,
         "2125412569938854164": true,
         "2125412885006516589": true,
@@ -1414,7 +1413,8 @@
         "2125609682341617863": false,
         "2125611269218865233": false,
         "2125611677941174719": false,
-        "2125612332189704251": true
+        "2125612332189704251": true,
+        "2125612770624463349": false
       },
       "user_id": "1841011241877168128"
     },
@@ -7949,5 +7949,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T15:28:20+00:00"
+  "updated_at": "2026-11-25T15:30:26+00:00"
 }
