@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125428175740297363",
+      "last_id": "2125429784629133823",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,14 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-24T02:48:21.000Z",
-          "id": "2125058913389412443",
-          "images": [
-            "https://pbs.twimg.com/media/HX250bKbYAAqjK3.jpg"
-          ],
-          "text": "Journalists this week https://t.co/O6HozMoDla"
-        },
         {
           "created_at": "2026-11-24T03:16:03.000Z",
           "id": "2125065886814073214",
@@ -335,10 +327,14 @@
           "created_at": "2026-11-25T03:15:40.000Z",
           "id": "2125428175740297363",
           "text": "Ain\u2019t spoke in a few weeks she hit me asking if I want Kalshi allocation"
+        },
+        {
+          "created_at": "2026-11-25T03:22:03.000Z",
+          "id": "2125429784629133823",
+          "text": "I'm still geeked up without pills I got forgot my number rich"
         }
       ],
       "reads": {
-        "2125058913389412443": "No call",
         "2125065886814073214": "No call",
         "2125122791938929113": "No call",
         "2125133230609453338": "No call",
@@ -353,7 +349,8 @@
         "2125416609594675471": "Read together with the post it replies to",
         "2125424065922150780": "No call: bearish on stocks/macro (50%, too unsure)",
         "2125424307279142958": "Read together with the post it replies to",
-        "2125428175740297363": "No call"
+        "2125428175740297363": "No call",
+        "2125429784629133823": "No call"
       },
       "replies": [
         {
@@ -448,10 +445,6 @@
         }
       ],
       "threads": {
-        "2121980844340617464": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122139084567261554": {
           "alerted": [],
           "self_replies": 0
@@ -856,12 +849,15 @@
         "2125428175740297363": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125429784629133823": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2124953135487881284": false,
         "2124982044556181935": false,
-        "2125058913389412443": false,
         "2125065886814073214": true,
         "2125089032757780779": false,
         "2125115691942703570": false,
@@ -893,7 +889,8 @@
         "2125427481247416689": true,
         "2125427624608698369": true,
         "2125427735321608648": true,
-        "2125428175740297363": false
+        "2125428175740297363": false,
+        "2125429784629133823": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7947,5 +7944,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-25T03:16:28+00:00"
+  "updated_at": "2026-11-25T03:22:22+00:00"
 }
