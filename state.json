@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125424813481370035",
+      "last_id": "2125427735321608648",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,17 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-23T20:13:41.000Z",
-          "id": "2124959592379793500",
-          "text": "My girl just applied for a job at Nvidia?"
-        },
-        {
-          "created_at": "2026-11-23T22:22:05.000Z",
-          "id": "2124991905490747800",
-          "quoted_text": "H3h3 losing his own company for dry humping some chick at his company in a 30 year marriage while my boy over at nvidia gets a promotion and a raise and his job back for donkey f*cking a few treeshes in his company. The real is back. Jensen Huang a real nigga",
-          "text": "#investing https://t.co/v9VJKbZfVL"
-        },
         {
           "created_at": "2026-11-23T23:39:50.000Z",
           "id": "2125011472287994086",
@@ -337,11 +326,21 @@
           "id": "2125424307279142958",
           "reply_to_id": "2125424065922150780",
           "text": "Green Day tmw looks tough tho"
+        },
+        {
+          "created_at": "2026-11-25T03:13:28.000Z",
+          "id": "2125427624608698369",
+          "reply_to_id": "2125427481247416689",
+          "text": "@DeepDishEnjoyer (soxl etc included)"
+        },
+        {
+          "created_at": "2026-11-25T03:13:55.000Z",
+          "id": "2125427735321608648",
+          "reply_to_id": "2125427624608698369",
+          "text": "@DeepDishEnjoyer tho there's ofc the 0dte / perp / option spread payer crowd but seems like given the magnitude just a tax on passive makes sense"
         }
       ],
       "reads": {
-        "2124959592379793500": "No call",
-        "2124991905490747800": "No call",
         "2125011472287994086": "No call",
         "2125058913389412443": "No call",
         "2125065886814073214": "No call",
@@ -360,12 +359,6 @@
         "2125424307279142958": "Read together with the post it replies to"
       },
       "replies": [
-        {
-          "created_at": "2026-11-23T18:47:26.000Z",
-          "id": "2124937886172917950",
-          "reply_to_id": "2124937544500650043",
-          "text": "@fute_nukem Yeah think that regime may be done"
-        },
         {
           "created_at": "2026-11-23T19:48:01.000Z",
           "id": "2124953135487881284",
@@ -449,6 +442,12 @@
           "id": "2125424813481370035",
           "reply_to_id": "2125424491102933329",
           "text": "@Neurotic0x spx"
+        },
+        {
+          "created_at": "2026-11-25T03:12:54.000Z",
+          "id": "2125427481247416689",
+          "reply_to_id": "2125426861698351420",
+          "text": "@DeepDishEnjoyer aren't all these guys basically just robbing passive / ETF investors in diff ways"
         }
       ],
       "threads": {
@@ -863,11 +862,8 @@
         }
       },
       "trading": {
-        "2124937886172917950": true,
         "2124953135487881284": false,
-        "2124959592379793500": false,
         "2124982044556181935": false,
-        "2124991905490747800": false,
         "2125011472287994086": true,
         "2125058913389412443": false,
         "2125065886814073214": true,
@@ -897,7 +893,10 @@
         "2125422728673100012": true,
         "2125424065922150780": true,
         "2125424307279142958": true,
-        "2125424813481370035": true
+        "2125424813481370035": true,
+        "2125427481247416689": true,
+        "2125427624608698369": true,
+        "2125427735321608648": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7951,5 +7950,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-25T03:12:29+00:00"
+  "updated_at": "2026-11-25T03:14:30+00:00"
 }
