@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125390850620567738",
+      "last_id": "2125408058566488239",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,11 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-23T03:35:42.000Z",
-          "id": "2124708444221661460",
-          "text": "I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A. Based16z"
-        },
         {
           "created_at": "2026-11-23T03:42:10.000Z",
           "id": "2124710071146090770",
@@ -337,10 +332,15 @@
           "created_at": "2026-11-25T00:46:04.000Z",
           "id": "2125390527193547260",
           "text": "https://t.co/yZj95wpum4"
+        },
+        {
+          "created_at": "2026-11-25T01:54:56.000Z",
+          "id": "2125407857885794568",
+          "reply_to_id": "2125407760250798296",
+          "text": "@stoicsavage Private cap table goes kinda retarded"
         }
       ],
       "reads": {
-        "2124708444221661460": "No call",
         "2124710071146090770": "No call",
         "2124711448832327765": "No call",
         "2124929043619631518": "No call",
@@ -362,18 +362,6 @@
         "2125390527193547260": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-21T19:46:03.000Z",
-          "id": "2124227864476434748",
-          "reply_to_id": "2124216196241477829",
-          "text": "@taobanker Real Gs been into wasians for a decade #investing"
-        },
-        {
-          "created_at": "2026-11-21T23:59:35.000Z",
-          "id": "2124291665359999351",
-          "reply_to_id": "2124291243115250091",
-          "text": "@Evan_ss6 Yeah so uhh we got O(N^(10^10^10^10)) but trust me this is much faster"
-        },
         {
           "created_at": "2026-11-22T00:02:10.000Z",
           "id": "2124292318295687479",
@@ -451,6 +439,18 @@
           "id": "2125390850620567738",
           "reply_to_id": "2125390615399841961",
           "text": "@BigTrout300 Beat rlly triumphant"
+        },
+        {
+          "created_at": "2026-11-25T01:54:32.000Z",
+          "id": "2125407760250798296",
+          "reply_to_id": "2125405885879169473",
+          "text": "@stoicsavage It\u2019s actually quite a nice ponzi concept and cabal in my view unfortunate the group that got enthused by it"
+        },
+        {
+          "created_at": "2026-11-25T01:55:43.000Z",
+          "id": "2125408058566488239",
+          "reply_to_id": "2125405698901344676",
+          "text": "@tolstoybb They do have an insurance fraud sub plot"
         }
       ],
       "threads": {
@@ -865,13 +865,10 @@
         }
       },
       "trading": {
-        "2124227864476434748": false,
-        "2124291665359999351": false,
         "2124292318295687479": false,
         "2124434297054711953": false,
         "2124596039239995718": false,
         "2124629493843411340": false,
-        "2124708444221661460": false,
         "2124710071146090770": false,
         "2124711448832327765": true,
         "2124929043619631518": true,
@@ -899,7 +896,10 @@
         "2125330258333413809": true,
         "2125332550973620357": true,
         "2125390527193547260": false,
-        "2125390850620567738": false
+        "2125390850620567738": false,
+        "2125407760250798296": true,
+        "2125407857885794568": true,
+        "2125408058566488239": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7953,5 +7953,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-25T01:52:19+00:00"
+  "updated_at": "2026-11-25T01:56:23+00:00"
 }
