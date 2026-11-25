@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125408058566488239",
+      "last_id": "2125409155704086541",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -363,12 +363,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-22T00:02:10.000Z",
-          "id": "2124292318295687479",
-          "reply_to_id": "2124281481241694216",
-          "text": "@itsnickford Yeah"
-        },
-        {
           "created_at": "2026-11-22T09:26:21.000Z",
           "id": "2124434297054711953",
           "reply_to_id": "2124327619265282278",
@@ -451,6 +445,12 @@
           "id": "2125408058566488239",
           "reply_to_id": "2125405698901344676",
           "text": "@tolstoybb They do have an insurance fraud sub plot"
+        },
+        {
+          "created_at": "2026-11-25T02:00:05.000Z",
+          "id": "2125409155704086541",
+          "reply_to_id": "2125408319640891862",
+          "text": "@frizzaud @stoicsavage I was never involved in the zec wave, the real PRL trade was probly a zec short lmao since they tried to vamp the narrative. Unfortunate the only ppl left tweeting coins make it borderline embarrassing to buy stuff given how it\u2019s presented"
         }
       ],
       "threads": {
@@ -865,7 +865,6 @@
         }
       },
       "trading": {
-        "2124292318295687479": false,
         "2124434297054711953": false,
         "2124596039239995718": false,
         "2124629493843411340": false,
@@ -899,7 +898,8 @@
         "2125390850620567738": false,
         "2125407760250798296": true,
         "2125407857885794568": true,
-        "2125408058566488239": false
+        "2125408058566488239": false,
+        "2125409155704086541": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7953,5 +7953,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-25T01:58:19+00:00"
+  "updated_at": "2026-11-25T02:00:34+00:00"
 }
