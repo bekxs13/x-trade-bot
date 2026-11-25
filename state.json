@@ -7178,7 +7178,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2125389455351595022",
+      "last_id": "2125395797475037683",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -7230,11 +7230,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T20:59:00.000Z",
-          "id": "2123883834945011817",
-          "text": "Bears on a crazy killstreak rn"
-        },
         {
           "created_at": "2026-11-21T04:11:01.000Z",
           "id": "2123992554240938341",
@@ -7353,10 +7348,14 @@
             "https://pbs.twimg.com/media/HX7mLz3WMAALEnI.jpg"
           ],
           "text": "Pretty crazy to think that most people using builder codes (the dumbest cohort of traders) would actually be profitable if they were more mindful of their execution and using Hyperliquid's front end instead.\n\nPricing PnL: +$60.56M\nPnL net of fees and impact: \u2212$47.78M https://t.co/7Y6abHcccg"
+        },
+        {
+          "created_at": "2026-11-25T01:07:00.000Z",
+          "id": "2125395797475037683",
+          "text": "Feels like we're entering despair mode for crypto... Equities I'm not sure we're there yet."
         }
       ],
       "reads": {
-        "2123883834945011817": "No call",
         "2123992554240938341": "No call",
         "2123995791224426979": "No call",
         "2124134470131327287": "No call",
@@ -7375,7 +7374,8 @@
         "2124894119050825779": "No call",
         "2125282942431682880": "No call: bearish on semiconductors/AI stocks (55%, too unsure)",
         "2125299675498533194": "No call",
-        "2125389455351595022": "No call"
+        "2125389455351595022": "No call",
+        "2125395797475037683": "No call: bullish on crypto market (60%, too unsure)"
       },
       "replies": [
         {
@@ -7473,10 +7473,6 @@
         }
       ],
       "threads": {
-        "2122029209241452870": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122039738165293102": {
           "alerted": [],
           "self_replies": 0
@@ -7880,6 +7876,10 @@
         "2125389455351595022": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125395797475037683": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7894,7 +7894,6 @@
         "2123460741197930822": true,
         "2123463010849358127": true,
         "2123471825153806596": false,
-        "2123883834945011817": true,
         "2123887084427727147": false,
         "2123992554240938341": true,
         "2123995791224426979": false,
@@ -7917,7 +7916,8 @@
         "2125299675498533194": false,
         "2125326362080629148": false,
         "2125335931414569009": true,
-        "2125389455351595022": true
+        "2125389455351595022": true,
+        "2125395797475037683": true
       },
       "user_id": "809191427645181952"
     }
@@ -7940,5 +7940,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-25T01:04:23+00:00"
+  "updated_at": "2026-11-25T01:08:32+00:00"
 }
