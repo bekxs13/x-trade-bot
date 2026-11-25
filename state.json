@@ -954,14 +954,9 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125657270713487723",
+      "last_id": "2125657689862840411",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-11-24T17:25:08.000Z",
-          "id": "2125279564758929898",
-          "text": "\"Market Coordination\" is going to hunt some shorts over the next 10 days\n\n\ud83d\udc1f\u2728"
-        },
         {
           "created_at": "2026-11-24T18:49:06.000Z",
           "id": "2125300694702076218",
@@ -1100,10 +1095,14 @@
             "https://pbs.twimg.com/media/HX_FQiOa0AAhMsG.png"
           ],
           "text": "You vs the guy she tells you not to worry about https://t.co/En1GosycFI"
+        },
+        {
+          "created_at": "2026-11-25T18:27:40.000Z",
+          "id": "2125657689862840411",
+          "text": "@trading_axe teach the kiddos about FTX &amp; Abraxas"
         }
       ],
       "reads": {
-        "2125279564758929898": "No call: bullish on btc (65%, too unsure)",
         "2125300694702076218": "TRADE LONG SPX",
         "2125302395421049302": "TRADE LONG SPX",
         "2125303465744417239": "No call",
@@ -1121,7 +1120,8 @@
         "2125609199275254037": "No call",
         "2125620990822826294": "No call",
         "2125624504068259897": "No call",
-        "2125634461387948512": "No call: bearish on btc (same view as before)"
+        "2125634461387948512": "No call: bearish on btc (same view as before)",
+        "2125657689862840411": "No call"
       },
       "replies": [
         {
@@ -1385,10 +1385,13 @@
         "2125634461387948512": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125657689862840411": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125279564758929898": true,
         "2125300694702076218": true,
         "2125302395421049302": true,
         "2125303465744417239": true,
@@ -1422,7 +1425,8 @@
         "2125634811788456154": false,
         "2125636865533661225": true,
         "2125656836665934064": true,
-        "2125657270713487723": false
+        "2125657270713487723": false,
+        "2125657689862840411": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7957,5 +7961,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T18:26:30+00:00"
+  "updated_at": "2026-11-25T18:28:27+00:00"
 }
