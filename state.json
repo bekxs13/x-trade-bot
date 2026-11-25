@@ -954,7 +954,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125696745460081099",
+      "last_id": "2125697246075453440",
       "positions": {},
       "posts": [
         {
@@ -1127,12 +1127,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-25T17:04:55.000Z",
-          "id": "2125636865533661225",
-          "reply_to_id": "2125636619911000290",
-          "text": "@tradeslop lol\n\nif we can drop from 126k below 60k 3 times (below previous ATHs as BTC hasnt..) why does this have to be different if the volatility is the same"
-        },
-        {
           "created_at": "2026-11-25T18:24:17.000Z",
           "id": "2125656836665934064",
           "reply_to_id": "2125653406878761111",
@@ -1221,6 +1215,12 @@
           "id": "2125696745460081099",
           "reply_to_id": "2125696578287804816",
           "text": "@stonksuppp Divorce your wife. steal from your parents. Its time to go in on 80x leverage."
+        },
+        {
+          "created_at": "2026-11-25T21:04:51.000Z",
+          "id": "2125697246075453440",
+          "reply_to_id": "2125697104584827068",
+          "text": "@sheikhswampert ill have a coming out party"
         }
       ],
       "threads": {
@@ -1424,7 +1424,6 @@
         "2125620990822826294": false,
         "2125624504068259897": false,
         "2125634461387948512": false,
-        "2125636865533661225": true,
         "2125656836665934064": true,
         "2125657270713487723": false,
         "2125657689862840411": true,
@@ -1442,7 +1441,8 @@
         "2125665257872130180": false,
         "2125696001986142317": false,
         "2125696386490577213": true,
-        "2125696745460081099": true
+        "2125696745460081099": true,
+        "2125697246075453440": false
       },
       "user_id": "1841011241877168128"
     },
@@ -7978,5 +7978,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T21:04:26+00:00"
+  "updated_at": "2026-11-25T21:06:22+00:00"
 }
