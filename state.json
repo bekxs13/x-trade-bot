@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125427735321608648",
+      "last_id": "2125428175740297363",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,14 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-23T23:39:50.000Z",
-          "id": "2125011472287994086",
-          "images": [
-            "https://pbs.twimg.com/media/HX2Oq1VaEAAt_om.jpg"
-          ],
-          "text": "1 week too early :/ https://t.co/cxuMPVSV7m"
-        },
         {
           "created_at": "2026-11-24T02:48:21.000Z",
           "id": "2125058913389412443",
@@ -338,10 +330,14 @@
           "id": "2125427735321608648",
           "reply_to_id": "2125427624608698369",
           "text": "@DeepDishEnjoyer tho there's ofc the 0dte / perp / option spread payer crowd but seems like given the magnitude just a tax on passive makes sense"
+        },
+        {
+          "created_at": "2026-11-25T03:15:40.000Z",
+          "id": "2125428175740297363",
+          "text": "Ain\u2019t spoke in a few weeks she hit me asking if I want Kalshi allocation"
         }
       ],
       "reads": {
-        "2125011472287994086": "No call",
         "2125058913389412443": "No call",
         "2125065886814073214": "No call",
         "2125122791938929113": "No call",
@@ -356,7 +352,8 @@
         "2125416479122510015": "No call",
         "2125416609594675471": "Read together with the post it replies to",
         "2125424065922150780": "No call: bearish on stocks/macro (50%, too unsure)",
-        "2125424307279142958": "Read together with the post it replies to"
+        "2125424307279142958": "Read together with the post it replies to",
+        "2125428175740297363": "No call"
       },
       "replies": [
         {
@@ -451,10 +448,6 @@
         }
       ],
       "threads": {
-        "2121833884384194656": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2121980844340617464": {
           "alerted": [],
           "self_replies": 0
@@ -859,12 +852,15 @@
         "2125424065922150780": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2125428175740297363": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2124953135487881284": false,
         "2124982044556181935": false,
-        "2125011472287994086": true,
         "2125058913389412443": false,
         "2125065886814073214": true,
         "2125089032757780779": false,
@@ -896,7 +892,8 @@
         "2125424813481370035": true,
         "2125427481247416689": true,
         "2125427624608698369": true,
-        "2125427735321608648": true
+        "2125427735321608648": true,
+        "2125428175740297363": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7950,5 +7947,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-25T03:14:30+00:00"
+  "updated_at": "2026-11-25T03:16:28+00:00"
 }
