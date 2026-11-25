@@ -2986,7 +2986,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2125635275175198803",
+      "last_id": "2125641785334792417",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3177,12 +3177,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-24T23:24:55.000Z",
-          "id": "2125370105349788112",
-          "reply_to_id": "2125326094354329671",
-          "text": "@VolaDuck i mean who the hell cares. it's the weakest quarter in a rolling year window? there's variance to this stuff"
-        },
-        {
           "created_at": "2026-11-25T01:03:50.000Z",
           "id": "2125394998073978895",
           "images": [
@@ -3269,6 +3263,12 @@
           "id": "2125629655197638969",
           "reply_to_id": "2125618891803983954",
           "text": "@dampedspring brave"
+        },
+        {
+          "created_at": "2026-11-25T17:24:28.000Z",
+          "id": "2125641785334792417",
+          "reply_to_id": "2125636346312343830",
+          "text": "@RenenAntonacci depends what you mean by a \"lot\", the total pie is pretty small compared to tradfi"
         }
       ],
       "threads": {
@@ -3691,7 +3691,6 @@
         "2125298990791209043": false,
         "2125304763990643107": false,
         "2125304969301537135": false,
-        "2125370105349788112": true,
         "2125394998073978895": false,
         "2125397734521995398": false,
         "2125397797675618770": false,
@@ -3710,7 +3709,8 @@
         "2125601070646984835": false,
         "2125611144647725095": true,
         "2125629655197638969": false,
-        "2125635275175198803": true
+        "2125635275175198803": true,
+        "2125641785334792417": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7957,5 +7957,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T17:08:23+00:00"
+  "updated_at": "2026-11-25T17:26:16+00:00"
 }
