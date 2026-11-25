@@ -956,7 +956,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125602873400816108",
+      "last_id": "2125603685468389475",
       "positions": {},
       "posts": [
         {
@@ -1134,12 +1134,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-25T01:03:07.000Z",
-          "id": "2125394819346542938",
-          "reply_to_id": "2125394565616005229",
-          "text": "@NostalgicCat123 yeah thats partially it \n\nthere isn't enough capitulation, bottoms after stock market not before, bottoms after Gold not before\n\nsomething just isn't right still. I suck LTF shit cuz I dont trade LTF\n\nI always trade HTF and find Volatility up or down, but something is odd"
-        },
-        {
           "created_at": "2026-11-25T01:23:46.000Z",
           "id": "2125400014075900363",
           "reply_to_id": "2125395546634637424",
@@ -1222,6 +1216,12 @@
           "id": "2125447562819944607",
           "reply_to_id": "2125434436447764640",
           "text": "@CryptoParadyme what"
+        },
+        {
+          "created_at": "2026-11-25T14:53:05.000Z",
+          "id": "2125603685468389475",
+          "reply_to_id": "2125603550785065196",
+          "text": "@CoinerHermes Lmaooo \n\nIdk even im kinda stunned ngl"
         }
       ],
       "threads": {
@@ -1395,7 +1395,6 @@
         "2125388174033891438": true,
         "2125388177645130011": true,
         "2125392941284049062": true,
-        "2125394819346542938": true,
         "2125399171012460751": true,
         "2125400014075900363": false,
         "2125401219275600140": true,
@@ -1415,7 +1414,8 @@
         "2125447562819944607": false,
         "2125595979479163001": true,
         "2125600357153976484": true,
-        "2125602873400816108": true
+        "2125602873400816108": true,
+        "2125603685468389475": false
       },
       "user_id": "1841011241877168128"
     },
@@ -7188,7 +7188,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2125602083231670687",
+      "last_id": "2125603913273311555",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -7240,11 +7240,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-21T04:23:53.000Z",
-          "id": "2123995791224426979",
-          "text": "Who can intro me to the @openmarket_xyz founder"
-        },
         {
           "created_at": "2026-11-21T13:34:56.000Z",
           "id": "2124134470131327287",
@@ -7363,10 +7358,14 @@
           "created_at": "2026-11-25T01:20:14.000Z",
           "id": "2125399125030285736",
           "text": "Anthropic and Bitcoin roughly the same valuation"
+        },
+        {
+          "created_at": "2026-11-25T14:53:59.000Z",
+          "id": "2125603913273311555",
+          "text": "The market is not fucking around"
         }
       ],
       "reads": {
-        "2123995791224426979": "No call",
         "2124134470131327287": "No call",
         "2124346253504893118": "No call",
         "2124349093480685973": "No call: bearish on stocks/macro (65%, too unsure)",
@@ -7385,7 +7384,8 @@
         "2125299675498533194": "No call",
         "2125389455351595022": "No call",
         "2125395797475037683": "No call: bullish on crypto market (60%, too unsure)",
-        "2125399125030285736": "No call"
+        "2125399125030285736": "No call",
+        "2125603913273311555": "No call"
       },
       "replies": [
         {
@@ -7483,10 +7483,6 @@
         }
       ],
       "threads": {
-        "2122043132149706894": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122048595168047499": {
           "alerted": [],
           "self_replies": 0
@@ -7890,6 +7886,10 @@
         "2125399125030285736": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125603913273311555": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7904,7 +7904,6 @@
         "2123463010849358127": true,
         "2123471825153806596": false,
         "2123887084427727147": false,
-        "2123995791224426979": false,
         "2124134470131327287": false,
         "2124346253504893118": false,
         "2124349093480685973": true,
@@ -7927,7 +7926,8 @@
         "2125389455351595022": true,
         "2125395797475037683": true,
         "2125399125030285736": true,
-        "2125602083231670687": true
+        "2125602083231670687": true,
+        "2125603913273311555": true
       },
       "user_id": "809191427645181952"
     }
@@ -7950,5 +7950,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T14:50:34+00:00"
+  "updated_at": "2026-11-25T14:54:31+00:00"
 }
