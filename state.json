@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125642856300003422",
+      "last_id": "2125672668016124410",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,11 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-24T17:13:23.000Z",
-          "id": "2125276608261202062",
-          "text": "NBA champion Tristan Thompson says his friend Orangie, a former Fortnite player, has made multiple billions of dollars trading coins"
-        },
         {
           "created_at": "2026-11-24T20:32:56.000Z",
           "id": "2125326823970263338",
@@ -331,10 +326,14 @@
           "created_at": "2026-11-25T17:27:16.000Z",
           "id": "2125642486861475987",
           "text": "Purplerainpurplerainpurplerainpurple"
+        },
+        {
+          "created_at": "2026-11-25T19:27:11.000Z",
+          "id": "2125672668016124410",
+          "text": "Anthropic up 5% on news that Dario will let you keep free will"
         }
       ],
       "reads": {
-        "2125276608261202062": "No call",
         "2125326823970263338": "No call",
         "2125330258333413809": "No call",
         "2125390527193547260": "No call",
@@ -348,7 +347,8 @@
         "2125483186268590517": "No call",
         "2125487682981916804": "No call",
         "2125490256132952515": "No call",
-        "2125642486861475987": "No call"
+        "2125642486861475987": "No call",
+        "2125672668016124410": "No call"
       },
       "replies": [
         {
@@ -443,10 +443,6 @@
         }
       ],
       "threads": {
-        "2122389160099197380": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122417320698237391": {
           "alerted": [],
           "self_replies": 0
@@ -849,10 +845,13 @@
         "2125642486861475987": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125672668016124410": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125276608261202062": true,
         "2125307441823048028": true,
         "2125326823970263338": true,
         "2125330258333413809": true,
@@ -886,7 +885,8 @@
         "2125495718052016234": false,
         "2125637638946492619": true,
         "2125642486861475987": false,
-        "2125642856300003422": true
+        "2125642856300003422": true,
+        "2125672668016124410": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7974,5 +7974,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T19:26:21+00:00"
+  "updated_at": "2026-11-25T19:28:21+00:00"
 }
