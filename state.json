@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125672668016124410",
+      "last_id": "2125673591396237434",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -352,12 +352,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-24T19:15:55.000Z",
-          "id": "2125307441823048028",
-          "reply_to_id": "2125297493097550316",
-          "text": "@blondesnmoney SOXS as well tho\u2026"
-        },
-        {
           "created_at": "2026-11-24T20:55:41.000Z",
           "id": "2125332550973620357",
           "reply_to_id": "2125332164564963336",
@@ -440,6 +434,12 @@
           "id": "2125642856300003422",
           "reply_to_id": "2125640414484959472",
           "text": "@mahasr199 I flipped some calls from yday for BE here I think it will work but rather not take too big swings in this env"
+        },
+        {
+          "created_at": "2026-11-25T19:30:51.000Z",
+          "id": "2125673591396237434",
+          "reply_to_id": "2125673396260532689",
+          "text": "@Franny8 As expected see u 130 / took off be whoops https://t.co/Q0kGWbyggX"
         }
       ],
       "threads": {
@@ -852,7 +852,6 @@
         }
       },
       "trading": {
-        "2125307441823048028": true,
         "2125326823970263338": true,
         "2125330258333413809": true,
         "2125332550973620357": true,
@@ -886,7 +885,8 @@
         "2125637638946492619": true,
         "2125642486861475987": false,
         "2125642856300003422": true,
-        "2125672668016124410": false
+        "2125672668016124410": false,
+        "2125673591396237434": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7974,5 +7974,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T19:30:20+00:00"
+  "updated_at": "2026-11-25T19:32:33+00:00"
 }
