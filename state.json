@@ -1682,7 +1682,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2125437574965539054",
+      "last_id": "2125443821437882440",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -1879,11 +1879,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-23T15:34:03.000Z",
-          "id": "2124889222146375710",
-          "text": "jesus christ"
-        },
-        {
           "created_at": "2026-11-23T15:39:51.000Z",
           "id": "2124890680996585836",
           "quoted_text": "Holy fuck, this clip is insane  https://t.co/mkn1ntH2p1",
@@ -1990,10 +1985,15 @@
           "created_at": "2026-11-25T03:53:01.000Z",
           "id": "2125437574965539054",
           "text": "been on the phone w/ legal, devs & coordinating with law enforcement all day\n\nattempted to get funds frozen while still in usdc but needed court order to do so\n\ni cannot confidently say funds on @BullpenFi are safe, so until i can confidently say so would withdraw your funds there\n\nthe 49% of the $ANSEM supply held in a multisig with @BitGo is safe and unmoved, only my solana wallet that i imported from pump to bullpen & the solana wallet that was already on bullpen was compromised\n\ni was asleep when this happened & woke up to mad ppl calling me & the police outside my door as someone called a wellness check on me thinking i was getting robbed when i didnt respond immediately\n\ni have the most hardware security precautions on all of my accounts & the prod bullpen 2fa login was bypassed because of a lack of security issue with old legacy accounts that have a staging version, which is same issue all of the 19 accounts that were also compromised had"
+        },
+        {
+          "created_at": "2026-11-25T04:17:50.000Z",
+          "id": "2125443821437882440",
+          "quoted_text": "JUST IN: \ud83c\uddfa\ud83c\uddf8 US Treasury suffers cyberattack.\n\nThe US Treasury's financial crimes agency, FinCEN, is investigating a cybersecurity breach and has taken some systems offline as a precaution.",
+          "text": "next year is gonna be weird man https://t.co/czphv4WrQq"
         }
       ],
       "reads": {
-        "2124889222146375710": "No call",
         "2124890680996585836": "No call",
         "2124891110757863512": "No call",
         "2124900054104432791": "No call",
@@ -2012,7 +2012,8 @@
         "2125045055803290032": "No call",
         "2125081599280582807": "No call",
         "2125182437063790806": "No call",
-        "2125437574965539054": "No call"
+        "2125437574965539054": "No call",
+        "2125443821437882440": "No call"
       },
       "replies": [
         {
@@ -2107,10 +2108,6 @@
         }
       ],
       "threads": {
-        "2123112670278844720": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2123114160481337656": {
           "alerted": [
             "trade:BTC:long"
@@ -2524,10 +2521,13 @@
         "2125437574965539054": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125443821437882440": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124889222146375710": false,
         "2124890680996585836": false,
         "2124891110757863512": true,
         "2124900054104432791": true,
@@ -2561,7 +2561,8 @@
         "2125188048296296585": false,
         "2125223352776208422": true,
         "2125224433141059663": false,
-        "2125437574965539054": true
+        "2125437574965539054": true,
+        "2125443821437882440": false
       },
       "user_id": "973261472"
     },
@@ -7941,5 +7942,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-25T04:10:26+00:00"
+  "updated_at": "2026-11-25T04:18:21+00:00"
 }
