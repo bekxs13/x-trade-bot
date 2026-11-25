@@ -954,20 +954,9 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125702279248638180",
+      "last_id": "2125704790995054617",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-11-25T00:36:42.000Z",
-          "id": "2125388171244605670",
-          "images": [
-            "https://pbs.twimg.com/media/HX7hdFJbYAA5EW9.jpg",
-            "https://pbs.twimg.com/media/HX7hgcMbUAAvyUu.jpg",
-            "https://pbs.twimg.com/media/HX7hi2sa4AIvZVP.jpg",
-            "https://pbs.twimg.com/media/HX7hvkwbkAATSek.jpg"
-          ],
-          "text": "Wednesday tells a lot.. current low is in for now or it's not imo $BTC\n\nIt really does look like a liquidity sweep to the upside as we knocked out 4k in BTC shorts \n\nbut like.. who is the bid is the question now. Do we just base..? Retest the lows? Sellers wait for higher? https://t.co/0HuPg7Q36Q"
-        },
         {
           "created_at": "2026-11-25T00:36:43.000Z",
           "id": "2125388174033891438",
@@ -1101,10 +1090,21 @@
           "created_at": "2026-11-25T21:24:11.000Z",
           "id": "2125702110935449653",
           "text": "I hate when doomer bears are on the same side of me for bearish market views\n\nIf you think for a minute some AI , Quantum hack for BTC is going to happen, are you aware the NSA, CIA &amp; others would also be under threat? And how illegal these operations would be? \ud83d\ude02\ud83d\ude02"
+        },
+        {
+          "created_at": "2026-11-25T21:34:40.000Z",
+          "id": "2125704749454692528",
+          "images": [
+            "https://pbs.twimg.com/media/HYAEjdAaYAEeJlA.png",
+            "https://pbs.twimg.com/media/HYAExLhbQAAWpty.png",
+            "https://pbs.twimg.com/media/HYAE3miasAEd0ux.png",
+            "https://pbs.twimg.com/media/HYAFG8WaoAAULh2.jpg"
+          ],
+          "quoted_text": "@BigTrout300 You still short-term bullish into 66k-ish?",
+          "text": "My BTC views rn\n\nCaught between 17% ish was it, 20-25% could be extended . \n\nLow got defended pretty well at all imbalances. It's short covering tho, no real spot bid.. but asks are thin above. Idk! 200D MA says all imho https://t.co/zMZ5RQ3Q1G https://t.co/DQLPiPusAU"
         }
       ],
       "reads": {
-        "2125388171244605670": "No call",
         "2125388174033891438": "Read together with the post it replies to",
         "2125392941284049062": "VIEW bearish on btc",
         "2125399171012460751": "VIEW bearish on memory stocks",
@@ -1122,15 +1122,10 @@
         "2125659601995698369": "No call: bearish on HYPE (60%, too unsure)",
         "2125665257872130180": "No call",
         "2125696386490577213": "No call: bearish on btc (same view as before)",
-        "2125702110935449653": "No call: bearish on btc (same view as before)"
+        "2125702110935449653": "No call: bearish on btc (same view as before)",
+        "2125704749454692528": "No call: bearish on btc (65%, too unsure)"
       },
       "replies": [
-        {
-          "created_at": "2026-11-25T18:36:02.000Z",
-          "id": "2125659793713139716",
-          "reply_to_id": "2125659649223594479",
-          "text": "@OnchainLens @binance @Bybit_Official idg why you'd sell this late in the cycle lmfao"
-        },
         {
           "created_at": "2026-11-25T18:38:52.000Z",
           "id": "2125660506090610812",
@@ -1224,6 +1219,12 @@
           "id": "2125702279248638180",
           "reply_to_id": "2125701790545174891",
           "text": "@sheikhswampert I am so sorry"
+        },
+        {
+          "created_at": "2026-11-25T21:34:50.000Z",
+          "id": "2125704790995054617",
+          "reply_to_id": "2125703846576164902",
+          "text": "@BluntedBeats ^^^^^^^^^^"
         }
       ],
       "threads": {
@@ -1412,10 +1413,13 @@
         "2125702110935449653": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125704749454692528": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125388171244605670": true,
         "2125388174033891438": true,
         "2125388177645130011": true,
         "2125392941284049062": true,
@@ -1432,7 +1436,6 @@
         "2125634461387948512": false,
         "2125657689862840411": true,
         "2125659601995698369": true,
-        "2125659793713139716": true,
         "2125660506090610812": true,
         "2125660970408403184": false,
         "2125661174528414091": false,
@@ -1449,7 +1452,9 @@
         "2125699247542788579": true,
         "2125701541197983895": false,
         "2125702110935449653": true,
-        "2125702279248638180": false
+        "2125702279248638180": false,
+        "2125704749454692528": true,
+        "2125704790995054617": false
       },
       "user_id": "1841011241877168128"
     },
@@ -7991,5 +7996,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T21:30:22+00:00"
+  "updated_at": "2026-11-25T21:36:26+00:00"
 }
