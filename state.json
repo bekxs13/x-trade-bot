@@ -958,7 +958,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125388249422270592",
+      "last_id": "2125389492165165495",
       "positions": {},
       "posts": [
         {
@@ -1140,12 +1140,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-24T18:17:35.000Z",
-          "id": "2125292764049084626",
-          "reply_to_id": "2125292273516622250",
-          "text": "@testdumbass not bearish atm"
-        },
-        {
           "created_at": "2026-11-24T18:51:29.000Z",
           "id": "2125301295620010418",
           "reply_to_id": "2125301173729259942",
@@ -1234,6 +1228,12 @@
           "id": "2125388249422270592",
           "reply_to_id": "2125387277979267548",
           "text": "@onelastjobpod HELLLLLLLL YEA"
+        },
+        {
+          "created_at": "2026-11-25T00:41:57.000Z",
+          "id": "2125389492165165495",
+          "reply_to_id": "2125389320387227662",
+          "text": "@leftcurvemaxing does \"it\" curve left too?"
         }
       ],
       "threads": {
@@ -1376,7 +1376,6 @@
         "2125274593191776757": true,
         "2125275227026514176": true,
         "2125279564758929898": true,
-        "2125292764049084626": true,
         "2125300694702076218": true,
         "2125301295620010418": false,
         "2125302083423535585": false,
@@ -1397,7 +1396,8 @@
         "2125388171244605670": true,
         "2125388174033891438": true,
         "2125388177645130011": true,
-        "2125388249422270592": false
+        "2125388249422270592": false,
+        "2125389492165165495": false
       },
       "user_id": "1841011241877168128"
     },
@@ -7172,7 +7172,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2125335931414569009",
+      "last_id": "2125389455351595022",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -7224,14 +7224,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-20T20:53:58.000Z",
-          "id": "2123882568290546109",
-          "images": [
-            "https://pbs.twimg.com/media/HXmLpLpWwAAyfcK.jpg"
-          ],
-          "text": "Who got MEV'd? https://t.co/1doE9sbuEi"
-        },
         {
           "created_at": "2026-11-20T20:59:00.000Z",
           "id": "2123883834945011817",
@@ -7347,10 +7339,17 @@
             "https://pbs.twimg.com/media/HX6UyhwWwAA_iJq.jpg"
           ],
           "text": "Just diabolical https://t.co/ENJVKfanLp"
+        },
+        {
+          "created_at": "2026-11-25T00:41:48.000Z",
+          "id": "2125389455351595022",
+          "images": [
+            "https://pbs.twimg.com/media/HX7mLz3WMAALEnI.jpg"
+          ],
+          "text": "Pretty crazy to think that most people using builder codes (the dumbest cohort of traders) would actually be profitable if they were more mindful of their execution and using Hyperliquid's front end instead.\n\nPricing PnL: +$60.56M\nPnL net of fees and impact: \u2212$47.78M https://t.co/7Y6abHcccg"
         }
       ],
       "reads": {
-        "2123882568290546109": "No call",
         "2123883834945011817": "No call",
         "2123992554240938341": "No call",
         "2123995791224426979": "No call",
@@ -7369,7 +7368,8 @@
         "2124894118660673733": "No call",
         "2124894119050825779": "No call",
         "2125282942431682880": "No call: bearish on semiconductors/AI stocks (55%, too unsure)",
-        "2125299675498533194": "No call"
+        "2125299675498533194": "No call",
+        "2125389455351595022": "No call"
       },
       "replies": [
         {
@@ -7467,10 +7467,6 @@
         }
       ],
       "threads": {
-        "2121840174187327834": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122029209241452870": {
           "alerted": [],
           "self_replies": 0
@@ -7874,6 +7870,10 @@
         "2125299675498533194": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125389455351595022": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7888,7 +7888,6 @@
         "2123460741197930822": true,
         "2123463010849358127": true,
         "2123471825153806596": false,
-        "2123882568290546109": true,
         "2123883834945011817": true,
         "2123887084427727147": false,
         "2123992554240938341": true,
@@ -7911,7 +7910,8 @@
         "2125282942431682880": true,
         "2125299675498533194": false,
         "2125326362080629148": false,
-        "2125335931414569009": true
+        "2125335931414569009": true,
+        "2125389455351595022": true
       },
       "user_id": "809191427645181952"
     }
@@ -7934,5 +7934,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-25T00:38:21+00:00"
+  "updated_at": "2026-11-25T00:42:26+00:00"
 }
