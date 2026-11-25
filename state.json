@@ -954,7 +954,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125696386490577213",
+      "last_id": "2125696745460081099",
       "positions": {},
       "posts": [
         {
@@ -1127,12 +1127,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-25T16:56:46.000Z",
-          "id": "2125634811788456154",
-          "reply_to_id": "2125634737679077632",
-          "text": "@y5p2p then why the fuck are you asking me if I have tried this dog shit LMAOOOOOOOOOOOO"
-        },
-        {
           "created_at": "2026-11-25T17:04:55.000Z",
           "id": "2125636865533661225",
           "reply_to_id": "2125636619911000290",
@@ -1221,6 +1215,12 @@
           "id": "2125696001986142317",
           "reply_to_id": "2125695729142501744",
           "text": "@leftcurvemaxing Thank you for having me good sir!"
+        },
+        {
+          "created_at": "2026-11-25T21:02:52.000Z",
+          "id": "2125696745460081099",
+          "reply_to_id": "2125696578287804816",
+          "text": "@stonksuppp Divorce your wife. steal from your parents. Its time to go in on 80x leverage."
         }
       ],
       "threads": {
@@ -1424,7 +1424,6 @@
         "2125620990822826294": false,
         "2125624504068259897": false,
         "2125634461387948512": false,
-        "2125634811788456154": false,
         "2125636865533661225": true,
         "2125656836665934064": true,
         "2125657270713487723": false,
@@ -1442,7 +1441,8 @@
         "2125663000342536242": false,
         "2125665257872130180": false,
         "2125696001986142317": false,
-        "2125696386490577213": true
+        "2125696386490577213": true,
+        "2125696745460081099": true
       },
       "user_id": "1841011241877168128"
     },
@@ -3006,7 +3006,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2125641785334792417",
+      "last_id": "2125696640325448126",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3042,11 +3042,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-23T14:24:17.000Z",
-          "id": "2124871663351406905",
-          "text": "jensen reinstated -&gt; first day of anthropic options trading -&gt; retail euphoria -&gt; must be nice to be an options market maker"
-        },
         {
           "created_at": "2026-11-23T14:46:45.000Z",
           "id": "2124877316501225858",
@@ -3173,10 +3168,15 @@
           "id": "2125635275175198803",
           "quoted_text": "Super misleading paid shill post. \n\nVirtually the entire Kalshi leaderboard this month is individual traders. And a big share of those profits were against institutional sports MM'ers who waded into political combos. https://t.co/BtBWyqiEyj https://t.co/lFkYBKJoXd",
           "text": "Super misleading paid shill post.\n\nThe institutional market makers don't have public profiles and the professional individual traders here 1) are a  tiny minority of kalshi customers and 2) ultimately also make their money from uninformed rubes https://t.co/Op1XVZu5zU"
+        },
+        {
+          "created_at": "2026-11-25T21:02:27.000Z",
+          "id": "2125696640325448126",
+          "quoted_text": "https://t.co/SwXdEZKY17",
+          "text": "unbelievably close honestly https://t.co/JluXEgA7aj"
         }
       ],
       "reads": {
-        "2124871663351406905": "No call",
         "2124877316501225858": "No call",
         "2124910769099677828": "No call: bullish on NVDA (60%, too unsure)",
         "2124910805518893416": "Read together with the post it replies to",
@@ -3193,7 +3193,8 @@
         "2125304969301537135": "Read together with the post it replies to",
         "2125426861698351420": "No call",
         "2125444300452622421": "No call",
-        "2125635275175198803": "No call"
+        "2125635275175198803": "No call",
+        "2125696640325448126": "No call"
       },
       "replies": [
         {
@@ -3292,10 +3293,6 @@
         }
       ],
       "threads": {
-        "2120001734634586299": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120191505281286449": {
           "alerted": [],
           "self_replies": 1
@@ -3693,10 +3690,13 @@
         "2125635275175198803": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125696640325448126": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124871663351406905": true,
         "2124877316501225858": false,
         "2124910769099677828": true,
         "2124910805518893416": false,
@@ -3730,7 +3730,8 @@
         "2125611144647725095": true,
         "2125629655197638969": false,
         "2125635275175198803": true,
-        "2125641785334792417": true
+        "2125641785334792417": true,
+        "2125696640325448126": false
       },
       "user_id": "1598545553327067137"
     },
@@ -7977,5 +7978,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T21:02:22+00:00"
+  "updated_at": "2026-11-25T21:04:26+00:00"
 }
