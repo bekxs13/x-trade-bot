@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125429784629133823",
+      "last_id": "2125429847405253061",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -354,12 +354,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-23T19:48:01.000Z",
-          "id": "2124953135487881284",
-          "reply_to_id": "2124952333725622560",
-          "text": "@gghostbo4 https://t.co/57EjYonVtT"
-        },
-        {
           "created_at": "2026-11-23T21:42:54.000Z",
           "id": "2124982044556181935",
           "reply_to_id": "2124981712295788564",
@@ -442,6 +436,12 @@
           "id": "2125427481247416689",
           "reply_to_id": "2125426861698351420",
           "text": "@DeepDishEnjoyer aren't all these guys basically just robbing passive / ETF investors in diff ways"
+        },
+        {
+          "created_at": "2026-11-25T03:22:18.000Z",
+          "id": "2125429847405253061",
+          "reply_to_id": "2125429299348181101",
+          "text": "@NostalgicCat123 @DeepDishEnjoyer forsure"
         }
       ],
       "threads": {
@@ -856,7 +856,6 @@
         }
       },
       "trading": {
-        "2124953135487881284": false,
         "2124982044556181935": false,
         "2125065886814073214": true,
         "2125089032757780779": false,
@@ -890,7 +889,8 @@
         "2125427624608698369": true,
         "2125427735321608648": true,
         "2125428175740297363": false,
-        "2125429784629133823": false
+        "2125429784629133823": false,
+        "2125429847405253061": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7944,5 +7944,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-25T03:22:22+00:00"
+  "updated_at": "2026-11-25T03:24:20+00:00"
 }
