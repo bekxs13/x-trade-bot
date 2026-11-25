@@ -2988,7 +2988,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2125629655197638969",
+      "last_id": "2125635275175198803",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3024,12 +3024,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-23T14:08:28.000Z",
-          "id": "2124867684399505774",
-          "quoted_text": "I don\u2019t care fuck. I\u2019m buying right now.",
-          "text": "what did he fucking know https://t.co/ssXZMwy3Gy"
-        },
         {
           "created_at": "2026-11-23T14:24:17.000Z",
           "id": "2124871663351406905",
@@ -3155,10 +3149,15 @@
           "id": "2125601070646984835",
           "reply_to_id": "2125600980956016780",
           "text": "@teodorio you've actually offended them by doing that"
+        },
+        {
+          "created_at": "2026-11-25T16:58:36.000Z",
+          "id": "2125635275175198803",
+          "quoted_text": "Super misleading paid shill post. \n\nVirtually the entire Kalshi leaderboard this month is individual traders. And a big share of those profits were against institutional sports MM'ers who waded into political combos. https://t.co/BtBWyqiEyj https://t.co/lFkYBKJoXd",
+          "text": "Super misleading paid shill post.\n\nThe institutional market makers don't have public profiles and the professional individual traders here 1) are a  tiny minority of kalshi customers and 2) ultimately also make their money from uninformed rubes https://t.co/Op1XVZu5zU"
         }
       ],
       "reads": {
-        "2124867684399505774": "No call",
         "2124871663351406905": "No call",
         "2124877316501225858": "No call",
         "2124910769099677828": "No call: bullish on NVDA (60%, too unsure)",
@@ -3175,7 +3174,8 @@
         "2125304763990643107": "No call",
         "2125304969301537135": "Read together with the post it replies to",
         "2125426861698351420": "No call",
-        "2125444300452622421": "No call"
+        "2125444300452622421": "No call",
+        "2125635275175198803": "No call"
       },
       "replies": [
         {
@@ -3274,10 +3274,6 @@
         }
       ],
       "threads": {
-        "2119907408986198387": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120001734634586299": {
           "alerted": [],
           "self_replies": 0
@@ -3675,10 +3671,13 @@
         "2125444300452622421": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125635275175198803": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124867684399505774": true,
         "2124871663351406905": true,
         "2124877316501225858": false,
         "2124910769099677828": true,
@@ -3712,7 +3711,8 @@
         "2125600980956016780": false,
         "2125601070646984835": false,
         "2125611144647725095": true,
-        "2125629655197638969": false
+        "2125629655197638969": false,
+        "2125635275175198803": true
       },
       "user_id": "1598545553327067137"
     },
@@ -7959,5 +7959,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T16:58:20+00:00"
+  "updated_at": "2026-11-25T17:00:35+00:00"
 }
