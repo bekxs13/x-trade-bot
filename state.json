@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125490256132952515",
+      "last_id": "2125495718052016234",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -354,12 +354,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-24T04:48:02.000Z",
-          "id": "2125089032757780779",
-          "reply_to_id": "2125082775535456424",
-          "text": "@youngjazzeth Good vibes Ty @buyerofponzi"
-        },
-        {
           "created_at": "2026-11-24T06:33:58.000Z",
           "id": "2125115691942703570",
           "reply_to_id": "2125113401492025569",
@@ -442,6 +436,12 @@
           "id": "2125439809883898134",
           "reply_to_id": "2125396726936944849",
           "text": "You do have to buy near IPO for most Americans due to new force index inclusion rules"
+        },
+        {
+          "created_at": "2026-11-25T07:44:03.000Z",
+          "id": "2125495718052016234",
+          "reply_to_id": "2125494846945456453",
+          "text": "@awakndcockroach Turns Miami vice &gt; collateral &gt; heat (controversial)"
         }
       ],
       "threads": {
@@ -854,7 +854,6 @@
         }
       },
       "trading": {
-        "2125089032757780779": false,
         "2125115691942703570": false,
         "2125133379452747982": true,
         "2125263174828179613": false,
@@ -888,7 +887,8 @@
         "2125439809883898134": true,
         "2125483186268590517": false,
         "2125487682981916804": false,
-        "2125490256132952515": false
+        "2125490256132952515": false,
+        "2125495718052016234": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7940,5 +7940,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-25T07:24:32+00:00"
+  "updated_at": "2026-11-25T07:44:31+00:00"
 }
