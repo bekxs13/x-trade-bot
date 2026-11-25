@@ -915,12 +915,12 @@
         },
         "spx": {
           "market": "stocks",
-          "post_id": "2124970791897063710",
-          "reason": "Says 'neutral - bull bias still' citing bullish holiday weeks and VIX vol crush, which differs from the recorded bearish SPX view despite holding puts.",
+          "post_id": "2125595979479163001",
+          "reason": "\"Even as bearish as I am\" plus record short gamma and \"wen taco\" (waiting for a Trump rescue) signal a bearish lean on SPX. That flips the bullish SPX view recorded on 11-23.",
           "scope": "SPX",
-          "since": "2026-11-23",
-          "stance": "bullish",
-          "updated_at": "2026-11-23T20:58:11.000Z"
+          "since": "2026-11-25",
+          "stance": "bearish",
+          "updated_at": "2026-11-25T14:22:27.000Z"
         }
       },
       "closed": [
@@ -956,15 +956,9 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125447562819944607",
+      "last_id": "2125595979479163001",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-11-24T14:20:31.000Z",
-          "id": "2125233104419996156",
-          "quoted_text": "... https://t.co/nY6Tk64HjI",
-          "text": "Where did the WIF Sphere Funds go? https://t.co/6gWDOKESdk"
-        },
         {
           "created_at": "2026-11-24T14:22:24.000Z",
           "id": "2125233578342810019",
@@ -1111,10 +1105,14 @@
           ],
           "reply_to_id": "2125412885006516589",
           "text": "Bottom left CVD is actually kinda buying, while shorts (Long / Short bottom right) has 3k+ in BTC shorts into these lows https://t.co/uGe5Itiotf"
+        },
+        {
+          "created_at": "2026-11-25T14:22:27.000Z",
+          "id": "2125595979479163001",
+          "text": "Record short gamma\n\nGold down 200 points in 2 days\n\nEven as bearish as I am I am stunned there hasn\u2019t been more relief or sideways \n\nSee what gap above SPX holds for us over next few sessions, wen taco"
         }
       ],
       "reads": {
-        "2125233104419996156": "No call",
         "2125244949499392236": "No call",
         "2125249935289532866": "No call",
         "2125251155152515095": "No call: bullish on btc (60%, too unsure)",
@@ -1131,7 +1129,8 @@
         "2125392941284049062": "VIEW bearish on btc",
         "2125399171012460751": "VIEW bearish on memory stocks",
         "2125412885006516589": "No call: bullish on btc (65%, too unsure)",
-        "2125427277379072228": "No call"
+        "2125427277379072228": "No call",
+        "2125595979479163001": "VIEW bearish on SPX"
       },
       "replies": [
         {
@@ -1365,10 +1364,15 @@
         "2125412885006516589": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2125595979479163001": {
+          "alerted": [
+            "bias:spx:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125233104419996156": true,
         "2125233578342810019": false,
         "2125244949499392236": true,
         "2125249935289532866": false,
@@ -1402,7 +1406,8 @@
         "2125421000460492863": true,
         "2125422135137226922": false,
         "2125427277379072228": true,
-        "2125447562819944607": false
+        "2125447562819944607": false,
+        "2125595979479163001": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7940,5 +7945,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T14:00:29+00:00"
+  "updated_at": "2026-11-25T14:24:27+00:00"
 }
