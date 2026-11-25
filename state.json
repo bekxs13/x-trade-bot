@@ -897,12 +897,12 @@
       "biases": {
         "btc": {
           "market": "crypto",
-          "post_id": "2125392941284049062",
-          "reason": "Says it is 'mathematically impossible for the Bitcoin low to be in' and expects the low in Dec-Q1, implying more downside, a shift from the neutral 'low is in or it's not' view.",
+          "post_id": "2125634461387948512",
+          "reason": "The meme sets his own 'mathematically impossible for the Bitcoin low to be in' post against nick's 'bottom is in', so he is restating that BTC hasn't bottomed.",
           "scope": "btc",
           "since": "2026-11-25",
           "stance": "bearish",
-          "updated_at": "2026-11-25T00:55:39.000Z"
+          "updated_at": "2026-11-25T16:55:22.000Z"
         },
         "memory stocks": {
           "market": "stocks",
@@ -956,18 +956,9 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125633991856488707",
+      "last_id": "2125634461387948512",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-11-24T17:07:54.000Z",
-          "id": "2125275227026514176",
-          "images": [
-            "https://pbs.twimg.com/media/HX598fnbIAA6YCp.png"
-          ],
-          "quoted_text": "So you can see how the imbalance fill was super like.. on point to the upside (pink is sellers, blue is buyers)\n\nThe problem I have, we haven't tested the poor low.. which comes later on obviously. And the big big buyers imbalances were front ran, before being slammed down at sellers imbalance. \n\nAt some point whether this retests the high, goes higher, or reverts lower, its going to be a volatile move break imho. Downside of 50k is important, but when we drop below 55k its like a direct path lo",
-          "text": "Clearly the Red Flag SPX thing I flagged played out. \n\nThis is what I am watching. (Reference to the front running of the imbalance.)\n\nThe bullcase is to NOT revisit at all , or revisit & bounce with strong buyers."
-        },
         {
           "created_at": "2026-11-24T17:25:08.000Z",
           "id": "2125279564758929898",
@@ -1102,10 +1093,18 @@
           ],
           "reply_to_id": "2125620990822826294",
           "text": "HMMMMMMMMMMMM https://t.co/Rpihm9x5Ys"
+        },
+        {
+          "created_at": "2026-11-25T16:55:22.000Z",
+          "id": "2125634461387948512",
+          "images": [
+            "https://pbs.twimg.com/media/HX_FPaZbwAExjGe.png",
+            "https://pbs.twimg.com/media/HX_FQiOa0AAhMsG.png"
+          ],
+          "text": "You vs the guy she tells you not to worry about https://t.co/En1GosycFI"
         }
       ],
       "reads": {
-        "2125275227026514176": "No call: neutral on btc (55%, too unsure)",
         "2125279564758929898": "No call: bullish on btc (65%, too unsure)",
         "2125300694702076218": "TRADE LONG SPX",
         "2125302395421049302": "TRADE LONG SPX",
@@ -1123,7 +1122,8 @@
         "2125605899016486956": "No call",
         "2125609199275254037": "No call",
         "2125620990822826294": "No call",
-        "2125624504068259897": "No call"
+        "2125624504068259897": "No call",
+        "2125634461387948512": "No call: bearish on btc (same view as before)"
       },
       "replies": [
         {
@@ -1383,10 +1383,13 @@
         "2125620990822826294": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2125634461387948512": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125275227026514176": true,
         "2125279564758929898": true,
         "2125300694702076218": true,
         "2125302395421049302": true,
@@ -1420,7 +1423,8 @@
         "2125625245881311530": false,
         "2125626285368164391": false,
         "2125632764687036590": false,
-        "2125633991856488707": false
+        "2125633991856488707": false,
+        "2125634461387948512": false
       },
       "user_id": "1841011241877168128"
     },
@@ -7955,5 +7959,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T16:54:21+00:00"
+  "updated_at": "2026-11-25T16:56:25+00:00"
 }
