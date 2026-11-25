@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125495718052016234",
+      "last_id": "2125637638946492619",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,13 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-24T07:44:15.000Z",
-          "id": "2125133379452747982",
-          "quoted_text": "Price action tells all, up 30% and can\u2019t even retake the 21 ema, barely at 163 when it was 179 when the news first broke. Funniest scenario is Jensen returns and $nvda still underperforms. https://t.co/zuvlRicFdU",
-          "reply_to_id": "2125133230609453338",
-          "text": "https://t.co/Q9iMyw1cFa"
-        },
         {
           "created_at": "2026-11-24T16:20:01.000Z",
           "id": "2125263174828179613",
@@ -332,10 +325,15 @@
             "https://pbs.twimg.com/media/HX9CHucasAA71KP.jpg"
           ],
           "text": "Watching every Michael Mann movie in honor of GTA https://t.co/xgMRJ5CFzp"
+        },
+        {
+          "created_at": "2026-11-25T17:08:00.000Z",
+          "id": "2125637638946492619",
+          "reply_to_id": "2125330258333413809",
+          "text": "Green on nuke day?"
         }
       ],
       "reads": {
-        "2125133379452747982": "No call",
         "2125263174828179613": "No call",
         "2125276608261202062": "No call",
         "2125326823970263338": "No call",
@@ -855,7 +853,6 @@
       },
       "trading": {
         "2125115691942703570": false,
-        "2125133379452747982": true,
         "2125263174828179613": false,
         "2125276608261202062": true,
         "2125307441823048028": true,
@@ -888,7 +885,8 @@
         "2125483186268590517": false,
         "2125487682981916804": false,
         "2125490256132952515": false,
-        "2125495718052016234": false
+        "2125495718052016234": false,
+        "2125637638946492619": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7959,5 +7957,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T17:06:20+00:00"
+  "updated_at": "2026-11-25T17:08:23+00:00"
 }
