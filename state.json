@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125429847405253061",
+      "last_id": "2125439809883898134",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -354,12 +354,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-23T21:42:54.000Z",
-          "id": "2124982044556181935",
-          "reply_to_id": "2124981712295788564",
-          "text": "@0xKNL__ Ye. still gonna do it tho"
-        },
-        {
           "created_at": "2026-11-24T04:48:02.000Z",
           "id": "2125089032757780779",
           "reply_to_id": "2125082775535456424",
@@ -442,6 +436,12 @@
           "id": "2125429847405253061",
           "reply_to_id": "2125429299348181101",
           "text": "@NostalgicCat123 @DeepDishEnjoyer forsure"
+        },
+        {
+          "created_at": "2026-11-25T04:01:54.000Z",
+          "id": "2125439809883898134",
+          "reply_to_id": "2125396726936944849",
+          "text": "You do have to buy near IPO for most Americans due to new force index inclusion rules"
         }
       ],
       "threads": {
@@ -856,7 +856,6 @@
         }
       },
       "trading": {
-        "2124982044556181935": false,
         "2125065886814073214": true,
         "2125089032757780779": false,
         "2125115691942703570": false,
@@ -890,7 +889,8 @@
         "2125427735321608648": true,
         "2125428175740297363": false,
         "2125429784629133823": false,
-        "2125429847405253061": false
+        "2125429847405253061": false,
+        "2125439809883898134": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7941,5 +7941,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-25T03:56:21+00:00"
+  "updated_at": "2026-11-25T04:02:20+00:00"
 }
