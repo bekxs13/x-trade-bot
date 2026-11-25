@@ -5389,7 +5389,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2125671954178822537",
+      "last_id": "2125673153699655767",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -5574,12 +5574,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-24T18:52:36.000Z",
-          "id": "2125301577137176932",
-          "reply_to_id": "2125301458849419739",
-          "text": "@reaIityobserver no paid for in restaurant"
-        },
-        {
           "created_at": "2026-11-24T18:53:18.000Z",
           "id": "2125301750483575034",
           "reply_to_id": "2125301685719273824",
@@ -5662,6 +5656,12 @@
           "id": "2125671954178822537",
           "reply_to_id": "2125669194100547691",
           "text": "@DeeZe get the little one ready for some emergency non sunday games. we need matthew golden touchdowns"
+        },
+        {
+          "created_at": "2026-11-25T19:29:07.000Z",
+          "id": "2125673153699655767",
+          "reply_to_id": "2125672963693531351",
+          "text": "@DeeZe likely more worried about drinking tonight -&gt; more kyren carries -&gt; i win -&gt; good luck"
         }
       ],
       "threads": {
@@ -6085,7 +6085,6 @@
         "2125257606780379165": true,
         "2125300092240289998": false,
         "2125301421373571338": true,
-        "2125301577137176932": false,
         "2125301667784695822": false,
         "2125301750483575034": false,
         "2125302096907866131": false,
@@ -6103,7 +6102,8 @@
         "2125397783368839316": true,
         "2125623745830395978": false,
         "2125669118225633490": false,
-        "2125671954178822537": false
+        "2125671954178822537": false,
+        "2125673153699655767": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7974,5 +7974,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T19:28:21+00:00"
+  "updated_at": "2026-11-25T19:30:20+00:00"
 }
