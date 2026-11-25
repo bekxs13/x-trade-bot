@@ -6599,7 +6599,7 @@
       "biases": {},
       "closed": [],
       "handle": "thecryptonexus",
-      "last_id": "2125280218109616386",
+      "last_id": "2125569405983866929",
       "positions": {
         "FREN PET (FP)": {
           "asset": "Fren Pet (FP)",
@@ -6649,12 +6649,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-10-18T04:29:30.000Z",
-          "id": "2111676018692133080",
-          "reply_to_id": "2111676013172166960",
-          "text": "I don\u2019t even have strong opinions on immigration, and wouldn\u2019t argue that the rapid influx has been without issues, it\u2019s honestly just disappointing seeing the room temperature-IQ vitriol from such a large portion of CT nowadays"
-        },
         {
           "created_at": "2026-10-18T09:41:00.000Z",
           "id": "2111754410867269780",
@@ -6778,10 +6772,15 @@
           "created_at": "2026-11-11T19:03:40.000Z",
           "id": "2120593319323643929",
           "text": "Let\u2019s say SWIM wanted to start some sort of decentralized bounty protocol for destroying speed cameras, how would SWIM do so while limiting their liability\n\nPurely hypothetically ofc"
+        },
+        {
+          "created_at": "2026-11-25T12:36:52.000Z",
+          "id": "2125569405983866929",
+          "reply_to_id": "2117577227105660974",
+          "text": "Fully loaded up now, would\u2019ve been great to have held off a bit longer before starting but oh well"
         }
       ],
       "reads": {
-        "2111676018692133080": "Read together with the post it replies to",
         "2111754410867269780": "No call",
         "2112118266839629840": "No call",
         "2112163311584231850": "No call",
@@ -6799,7 +6798,8 @@
         "2119604813579067554": "No call",
         "2119605868241314034": "No call",
         "2119610855981748562": "No call",
-        "2120593319323643929": "No call"
+        "2120593319323643929": "No call",
+        "2125569405983866929": "No call: long XAGUSD (silver) (already called)"
       },
       "replies": [
         {
@@ -7004,7 +7004,7 @@
           "alerted": [
             "trade:XAGUSD (SILVER):long"
           ],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2117606680758517847": {
           "alerted": [],
@@ -7028,7 +7028,6 @@
         }
       },
       "trading": {
-        "2111676018692133080": false,
         "2111754410867269780": false,
         "2112118266839629840": true,
         "2112163311584231850": false,
@@ -7062,7 +7061,8 @@
         "2120593319323643929": false,
         "2122683688865366509": false,
         "2122791299468185779": false,
-        "2125280218109616386": false
+        "2125280218109616386": false,
+        "2125569405983866929": true
       },
       "user_id": "1392152416854765571"
     },
@@ -7940,5 +7940,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-25T11:48:16+00:00"
+  "updated_at": "2026-11-25T12:38:21+00:00"
 }
