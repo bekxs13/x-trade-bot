@@ -954,14 +954,9 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125658537087082839",
+      "last_id": "2125659793713139716",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-11-24T18:49:06.000Z",
-          "id": "2125300694702076218",
-          "text": "Yk I don't trade 0DTE often, I like 3DTE - Weeklies.. \n\nbut I am going to punt some 0DTE Calls \ud83e\udd2d"
-        },
         {
           "created_at": "2026-11-24T18:55:51.000Z",
           "id": "2125302395421049302",
@@ -1100,10 +1095,15 @@
           "created_at": "2026-11-25T18:27:40.000Z",
           "id": "2125657689862840411",
           "text": "@trading_axe teach the kiddos about FTX &amp; Abraxas"
+        },
+        {
+          "created_at": "2026-11-25T18:35:16.000Z",
+          "id": "2125659601995698369",
+          "quoted_text": "@BigTrout300 @trading_axe so is hype getting graped or what",
+          "text": "Binance is hunting Hype\n\nNFA https://t.co/tAZ4NTSrk3"
         }
       ],
       "reads": {
-        "2125300694702076218": "TRADE LONG SPX",
         "2125302395421049302": "TRADE LONG SPX",
         "2125303465744417239": "No call",
         "2125317415961772406": "TRADE EXIT SPX",
@@ -1121,15 +1121,10 @@
         "2125620990822826294": "No call",
         "2125624504068259897": "No call",
         "2125634461387948512": "No call: bearish on btc (same view as before)",
-        "2125657689862840411": "No call"
+        "2125657689862840411": "No call",
+        "2125659601995698369": "No call: bearish on HYPE (60%, too unsure)"
       },
       "replies": [
-        {
-          "created_at": "2026-11-25T15:24:50.000Z",
-          "id": "2125611677941174719",
-          "reply_to_id": "2125611515441213700",
-          "text": "@YoloMoonLambo Not that guy"
-        },
         {
           "created_at": "2026-11-25T15:27:26.000Z",
           "id": "2125612332189704251",
@@ -1216,6 +1211,12 @@
           "id": "2125658537087082839",
           "reply_to_id": "2125658350423597438",
           "text": "@Evan_ss6 Believe me, IM AWARE."
+        },
+        {
+          "created_at": "2026-11-25T18:36:02.000Z",
+          "id": "2125659793713139716",
+          "reply_to_id": "2125659649223594479",
+          "text": "@OnchainLens @binance @Bybit_Official idg why you'd sell this late in the cycle lmfao"
         }
       ],
       "threads": {
@@ -1392,10 +1393,13 @@
         "2125657689862840411": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125659601995698369": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125300694702076218": true,
         "2125302395421049302": true,
         "2125303465744417239": true,
         "2125317415961772406": true,
@@ -1411,7 +1415,6 @@
         "2125602873400816108": true,
         "2125605899016486956": true,
         "2125609199275254037": false,
-        "2125611677941174719": false,
         "2125612332189704251": true,
         "2125612770624463349": false,
         "2125620990822826294": false,
@@ -1429,7 +1432,9 @@
         "2125657689862840411": true,
         "2125658043455349212": false,
         "2125658468023681135": false,
-        "2125658537087082839": false
+        "2125658537087082839": false,
+        "2125659601995698369": true,
+        "2125659793713139716": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7964,5 +7969,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T18:32:21+00:00"
+  "updated_at": "2026-11-25T18:36:29+00:00"
 }
