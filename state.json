@@ -895,12 +895,12 @@
       "biases": {
         "btc": {
           "market": "crypto",
-          "post_id": "2125696386490577213",
-          "reason": "Argues the cycle bottom isn't in because Bitfinex longs haven't peaked, Realized Price hasn't been revisited and SOPR hasn't capitulated, which matches the recorded bearish BTC view.",
+          "post_id": "2125702110935449653",
+          "reason": "He says he holds 'bearish market views' but dismisses the quantum/AI hack fear as a reason for them. This matches his recorded bearish btc view.",
           "scope": "btc",
           "since": "2026-11-25",
           "stance": "bearish",
-          "updated_at": "2026-11-25T21:01:26.000Z"
+          "updated_at": "2026-11-25T21:24:11.000Z"
         },
         "memory stocks": {
           "market": "stocks",
@@ -954,15 +954,9 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125701541197983895",
+      "last_id": "2125702279248638180",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-11-24T19:55:33.000Z",
-          "id": "2125317415961772406",
-          "quoted_text": "Yk I don't trade 0DTE often, I like 3DTE - Weeklies.. \n\nbut I am going to punt some 0DTE Calls \ud83e\udd2d\n\n7180-85 key spot to watch SPX",
-          "text": "Rinsed, bounce really good when I called it, but just no fuckin bid lmao.\n\nunlucky! https://t.co/x31uvMDmAN"
-        },
         {
           "created_at": "2026-11-25T00:36:42.000Z",
           "id": "2125388171244605670",
@@ -1102,10 +1096,14 @@
           "created_at": "2026-11-25T21:01:26.000Z",
           "id": "2125696386490577213",
           "text": "Everyone's having sex. I am just trying to visualize why the Bitfinex longrate hasn't gone to a new ATH, Realized Price hasn't been revisited, SOPR isn't below -1 &amp; people are calling the cycle bottom\n\nBig Trout Mode"
+        },
+        {
+          "created_at": "2026-11-25T21:24:11.000Z",
+          "id": "2125702110935449653",
+          "text": "I hate when doomer bears are on the same side of me for bearish market views\n\nIf you think for a minute some AI , Quantum hack for BTC is going to happen, are you aware the NSA, CIA &amp; others would also be under threat? And how illegal these operations would be? \ud83d\ude02\ud83d\ude02"
         }
       ],
       "reads": {
-        "2125317415961772406": "TRADE EXIT SPX",
         "2125388171244605670": "No call",
         "2125388174033891438": "Read together with the post it replies to",
         "2125392941284049062": "VIEW bearish on btc",
@@ -1123,15 +1121,10 @@
         "2125657689862840411": "No call",
         "2125659601995698369": "No call: bearish on HYPE (60%, too unsure)",
         "2125665257872130180": "No call",
-        "2125696386490577213": "No call: bearish on btc (same view as before)"
+        "2125696386490577213": "No call: bearish on btc (same view as before)",
+        "2125702110935449653": "No call: bearish on btc (same view as before)"
       },
       "replies": [
-        {
-          "created_at": "2026-11-25T18:31:02.000Z",
-          "id": "2125658537087082839",
-          "reply_to_id": "2125658350423597438",
-          "text": "@Evan_ss6 Believe me, IM AWARE."
-        },
         {
           "created_at": "2026-11-25T18:36:02.000Z",
           "id": "2125659793713139716",
@@ -1225,6 +1218,12 @@
           ],
           "reply_to_id": "2125701344069648548",
           "text": "@0xKG7K https://t.co/pPulhbx7Om"
+        },
+        {
+          "created_at": "2026-11-25T21:24:51.000Z",
+          "id": "2125702279248638180",
+          "reply_to_id": "2125701790545174891",
+          "text": "@sheikhswampert I am so sorry"
         }
       ],
       "threads": {
@@ -1409,10 +1408,13 @@
         "2125696386490577213": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125702110935449653": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125317415961772406": true,
         "2125388171244605670": true,
         "2125388174033891438": true,
         "2125388177645130011": true,
@@ -1429,7 +1431,6 @@
         "2125624504068259897": false,
         "2125634461387948512": false,
         "2125657689862840411": true,
-        "2125658537087082839": false,
         "2125659601995698369": true,
         "2125659793713139716": true,
         "2125660506090610812": true,
@@ -1446,7 +1447,9 @@
         "2125698380722749597": false,
         "2125699047667507204": false,
         "2125699247542788579": true,
-        "2125701541197983895": false
+        "2125701541197983895": false,
+        "2125702110935449653": true,
+        "2125702279248638180": false
       },
       "user_id": "1841011241877168128"
     },
@@ -5397,7 +5400,7 @@
       },
       "closed": [],
       "handle": "notthreadguy",
-      "last_id": "2125700838110740545",
+      "last_id": "2125702229751652521",
       "positions": {
         "ALTS": {
           "asset": "alts",
@@ -5582,12 +5585,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-24T18:59:08.000Z",
-          "id": "2125303220696474102",
-          "reply_to_id": "2125303183300088301",
-          "text": "@encryptbit just on one"
-        },
-        {
           "created_at": "2026-11-24T19:11:02.000Z",
           "id": "2125306213558886736",
           "reply_to_id": "2125304960564748765",
@@ -5670,6 +5667,15 @@
           "id": "2125700838110740545",
           "reply_to_id": "2125700333427118479",
           "text": "@fejau_inc lmao bro"
+        },
+        {
+          "created_at": "2026-11-25T21:24:39.000Z",
+          "id": "2125702229751652521",
+          "images": [
+            "https://pbs.twimg.com/media/HYAC6UUXwAAz9Ic.jpg"
+          ],
+          "reply_to_id": "2125701061432504385",
+          "text": "@fejau_inc https://t.co/73qZTq9E5y"
         }
       ],
       "threads": {
@@ -6096,7 +6102,6 @@
         "2125301667784695822": false,
         "2125302096907866131": false,
         "2125302483878621434": true,
-        "2125303220696474102": false,
         "2125306213558886736": false,
         "2125306932252545052": false,
         "2125309507580366987": false,
@@ -6111,7 +6116,8 @@
         "2125671954178822537": false,
         "2125673153699655767": false,
         "2125685367697195148": false,
-        "2125700838110740545": false
+        "2125700838110740545": false,
+        "2125702229751652521": false
       },
       "user_id": "1426732252768182281"
     },
@@ -7985,5 +7991,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T21:22:22+00:00"
+  "updated_at": "2026-11-25T21:26:36+00:00"
 }
