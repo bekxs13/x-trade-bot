@@ -908,12 +908,12 @@
       "biases": {
         "btc": {
           "market": "crypto",
-          "post_id": "2125062490262507735",
-          "reason": "Says \"No idea what happens here (LTF)\" and \"no bias for me really here,\" shifting from the recorded bearish BTC view to neutral.",
+          "post_id": "2125392941284049062",
+          "reason": "Says it is 'mathematically impossible for the Bitcoin low to be in' and expects the low in Dec-Q1, implying more downside, a shift from the neutral 'low is in or it's not' view.",
           "scope": "btc",
-          "since": "2026-11-24",
-          "stance": "neutral",
-          "updated_at": "2026-11-24T03:02:34.000Z"
+          "since": "2026-11-25",
+          "stance": "bearish",
+          "updated_at": "2026-11-25T00:55:39.000Z"
         },
         "spx": {
           "market": "stocks",
@@ -958,14 +958,9 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125391144406442372",
+      "last_id": "2125392941284049062",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-11-24T01:27:39.000Z",
-          "id": "2125038606146560239",
-          "text": "Someone should make a model with Short Term Holder Supply, vs Long Term Holder Supply\n\nAnd reply with images of what results you get : )"
-        },
         {
           "created_at": "2026-11-24T02:55:07.000Z",
           "id": "2125060616209785117",
@@ -1117,10 +1112,14 @@
           ],
           "reply_to_id": "2125388174033891438",
           "text": "It's like.. the market kinda says it wants to make a new low first but it can't, and price is trying to stabilize but no one will hit sell, but no one will hit a STRONG buy.. I'm beyond confused tbh. \n\nThe 5% theory was right & we had a down day today following.\n\nBut if we go higher it's selling AGAIN.. so again it's like a fake snapback rally until key reclaim\n\nGAHHHHHHHHHHHHHHHH"
+        },
+        {
+          "created_at": "2026-11-25T00:55:39.000Z",
+          "id": "2125392941284049062",
+          "text": "It is mathematically impossible for the Bitcoin low to be in, and cannot be for sometime still.  Mapping out the next cycle has been.. a process to say the least. \n\n(IE 15 day minimum. Still focused on Dec-Q1)"
         }
       ],
       "reads": {
-        "2125038606146560239": "No call",
         "2125062490262507735": "VIEW neutral on btc",
         "2125228692796481620": "No call",
         "2125233104419996156": "No call",
@@ -1136,7 +1135,8 @@
         "2125303465744417239": "No call",
         "2125317415961772406": "TRADE EXIT SPX",
         "2125388171244605670": "No call",
-        "2125388174033891438": "Read together with the post it replies to"
+        "2125388174033891438": "Read together with the post it replies to",
+        "2125392941284049062": "VIEW bearish on btc"
       },
       "replies": [
         {
@@ -1360,10 +1360,15 @@
         "2125388171244605670": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2125392941284049062": {
+          "alerted": [
+            "bias:btc:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125038606146560239": true,
         "2125060616209785117": true,
         "2125062490262507735": true,
         "2125228692796481620": true,
@@ -1397,7 +1402,8 @@
         "2125389492165165495": false,
         "2125390223710495145": false,
         "2125390615399841961": false,
-        "2125391144406442372": false
+        "2125391144406442372": false,
+        "2125392941284049062": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7934,5 +7940,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-25T00:50:24+00:00"
+  "updated_at": "2026-11-25T00:56:22+00:00"
 }
