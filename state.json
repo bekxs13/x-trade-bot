@@ -954,7 +954,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125699247542788579",
+      "last_id": "2125701541197983895",
       "positions": {},
       "posts": [
         {
@@ -1127,12 +1127,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-25T18:30:46.000Z",
-          "id": "2125658468023681135",
-          "reply_to_id": "2125658318966345953",
-          "text": "@paoloardoino @tether buddy i LOVEYOU"
-        },
-        {
           "created_at": "2026-11-25T18:31:02.000Z",
           "id": "2125658537087082839",
           "reply_to_id": "2125658350423597438",
@@ -1222,6 +1216,15 @@
           ],
           "reply_to_id": "2125698856621056336",
           "text": "@CryptoParadyme *why is bigtrout scalping long if he is bearish!* https://t.co/VoUJqsdV06"
+        },
+        {
+          "created_at": "2026-11-25T21:21:55.000Z",
+          "id": "2125701541197983895",
+          "images": [
+            "https://pbs.twimg.com/media/HYACSMwWEAANQvx.png"
+          ],
+          "reply_to_id": "2125701344069648548",
+          "text": "@0xKG7K https://t.co/pPulhbx7Om"
         }
       ],
       "threads": {
@@ -1426,7 +1429,6 @@
         "2125624504068259897": false,
         "2125634461387948512": false,
         "2125657689862840411": true,
-        "2125658468023681135": false,
         "2125658537087082839": false,
         "2125659601995698369": true,
         "2125659793713139716": true,
@@ -1443,7 +1445,8 @@
         "2125697246075453440": false,
         "2125698380722749597": false,
         "2125699047667507204": false,
-        "2125699247542788579": true
+        "2125699247542788579": true,
+        "2125701541197983895": false
       },
       "user_id": "1841011241877168128"
     },
@@ -7217,7 +7220,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2125603913273311555",
+      "last_id": "2125701305192665359",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -7418,12 +7421,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-18T00:06:31.000Z",
-          "id": "2122843861990932964",
-          "reply_to_id": "2122843549423239653",
-          "text": "@TORROCRYPTO Dawg"
-        },
-        {
           "created_at": "2026-11-18T00:39:58.000Z",
           "id": "2122852278990168201",
           "reply_to_id": "2122848126067523853",
@@ -7509,6 +7506,15 @@
           "id": "2125602083231670687",
           "reply_to_id": "2125600962874404898",
           "text": "@ShaneStoffer You must stop trading options and trade perpetual swaps. Your issue is the spreads, fees and IV rape.\n\n@HyperliquidX"
+        },
+        {
+          "created_at": "2026-11-25T21:20:59.000Z",
+          "id": "2125701305192665359",
+          "images": [
+            "https://pbs.twimg.com/media/HYACDkLWEAAJTQY.jpg"
+          ],
+          "reply_to_id": "2125641095900172384",
+          "text": "@solo_levelingx @IBKR Life comes at you fast https://t.co/HlGLyLmgD2"
         }
       ],
       "threads": {
@@ -7922,7 +7928,6 @@
         }
       },
       "trading": {
-        "2122843861990932964": false,
         "2122852278990168201": false,
         "2122927484232695838": false,
         "2122928832541851874": false,
@@ -7956,7 +7961,8 @@
         "2125395797475037683": true,
         "2125399125030285736": true,
         "2125602083231670687": true,
-        "2125603913273311555": true
+        "2125603913273311555": true,
+        "2125701305192665359": false
       },
       "user_id": "809191427645181952"
     }
@@ -7979,5 +7985,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T21:20:19+00:00"
+  "updated_at": "2026-11-25T21:22:22+00:00"
 }
