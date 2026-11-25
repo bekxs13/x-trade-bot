@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125487682981916804",
+      "last_id": "2125490256132952515",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,11 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-24T07:43:39.000Z",
-          "id": "2125133230609453338",
-          "text": "some of this stuff is down way more than I thought dram 20% day and didn't clear the high from 5 days ago lol"
-        },
         {
           "created_at": "2026-11-24T07:44:15.000Z",
           "id": "2125133379452747982",
@@ -329,10 +324,17 @@
           "created_at": "2026-11-25T07:12:07.000Z",
           "id": "2125487682981916804",
           "text": "It\u2019s always better to browse a streaming service where you have to rent the movies cause they\u2019re incentivized for you to checkout instead of incentivized on your engagement"
+        },
+        {
+          "created_at": "2026-11-25T07:22:21.000Z",
+          "id": "2125490256132952515",
+          "images": [
+            "https://pbs.twimg.com/media/HX9CHucasAA71KP.jpg"
+          ],
+          "text": "Watching every Michael Mann movie in honor of GTA https://t.co/xgMRJ5CFzp"
         }
       ],
       "reads": {
-        "2125133230609453338": "No call",
         "2125133379452747982": "No call",
         "2125263174828179613": "No call",
         "2125276608261202062": "No call",
@@ -347,7 +349,8 @@
         "2125428175740297363": "No call",
         "2125429784629133823": "No call",
         "2125483186268590517": "No call",
-        "2125487682981916804": "No call"
+        "2125487682981916804": "No call",
+        "2125490256132952515": "No call"
       },
       "replies": [
         {
@@ -442,10 +445,6 @@
         }
       ],
       "threads": {
-        "2122372973076373854": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122375589470646621": {
           "alerted": [],
           "self_replies": 0
@@ -848,12 +847,15 @@
         "2125487682981916804": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125490256132952515": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
         "2125089032757780779": false,
         "2125115691942703570": false,
-        "2125133230609453338": true,
         "2125133379452747982": true,
         "2125263174828179613": false,
         "2125276608261202062": true,
@@ -885,7 +887,8 @@
         "2125429847405253061": false,
         "2125439809883898134": true,
         "2125483186268590517": false,
-        "2125487682981916804": false
+        "2125487682981916804": false,
+        "2125490256132952515": false
       },
       "user_id": "1446541960181858315"
     },
@@ -7937,5 +7940,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-25T07:12:23+00:00"
+  "updated_at": "2026-11-25T07:24:32+00:00"
 }
