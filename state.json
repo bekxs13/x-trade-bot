@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2125416609594675471",
+      "last_id": "2125418109704245653",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -363,12 +363,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-22T20:09:03.000Z",
-          "id": "2124596039239995718",
-          "reply_to_id": "2124593842124951867",
-          "text": "@swansonbenson0 ?"
-        },
-        {
           "created_at": "2026-11-22T22:21:59.000Z",
           "id": "2124629493843411340",
           "reply_to_id": "2124629188238041363",
@@ -451,6 +445,12 @@
           "id": "2125409988269203853",
           "reply_to_id": "2125409312621383936",
           "text": "@stoicsavage Ye"
+        },
+        {
+          "created_at": "2026-11-25T02:35:40.000Z",
+          "id": "2125418109704245653",
+          "reply_to_id": "2125402868245274813",
+          "text": "@Samirkaji The reason it was hot was because it was viewed as easy to dump on retail. Now it\u2019s been successfully dumped on retail and will continue that process. Everyone is aware of both states and there\u2019s no incongruence"
         }
       ],
       "threads": {
@@ -865,7 +865,6 @@
         }
       },
       "trading": {
-        "2124596039239995718": false,
         "2124629493843411340": false,
         "2124930775095386440": true,
         "2124937886172917950": true,
@@ -899,7 +898,8 @@
         "2125409988269203853": false,
         "2125410086055248010": false,
         "2125416479122510015": false,
-        "2125416609594675471": false
+        "2125416609594675471": false,
+        "2125418109704245653": true
       },
       "user_id": "1446541960181858315"
     },
@@ -7952,5 +7952,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-24",
-  "updated_at": "2026-11-25T02:30:31+00:00"
+  "updated_at": "2026-11-25T02:36:17+00:00"
 }
