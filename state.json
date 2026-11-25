@@ -956,15 +956,9 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125595979479163001",
+      "last_id": "2125600357153976484",
       "positions": {},
       "posts": [
-        {
-          "created_at": "2026-11-24T14:22:24.000Z",
-          "id": "2125233578342810019",
-          "reply_to_id": "2125233532339695845",
-          "text": "@diamondxbt (He\u2019s no hacked)"
-        },
         {
           "created_at": "2026-11-24T15:07:35.000Z",
           "id": "2125244949499392236",
@@ -1110,6 +1104,14 @@
           "created_at": "2026-11-25T14:22:27.000Z",
           "id": "2125595979479163001",
           "text": "Record short gamma\n\nGold down 200 points in 2 days\n\nEven as bearish as I am I am stunned there hasn\u2019t been more relief or sideways \n\nSee what gap above SPX holds for us over next few sessions, wen taco"
+        },
+        {
+          "created_at": "2026-11-25T14:39:51.000Z",
+          "id": "2125600357153976484",
+          "images": [
+            "https://pbs.twimg.com/tweet_video_thumb/HX-mQfQbQAEV4oc.jpg"
+          ],
+          "text": "Bear posting is more engaging\n\nTO HELL!! BURN!! https://t.co/NQmatw6e5l"
         }
       ],
       "reads": {
@@ -1130,7 +1132,8 @@
         "2125399171012460751": "VIEW bearish on memory stocks",
         "2125412885006516589": "No call: bullish on btc (65%, too unsure)",
         "2125427277379072228": "No call",
-        "2125595979479163001": "VIEW bearish on SPX"
+        "2125595979479163001": "VIEW bearish on SPX",
+        "2125600357153976484": "No call"
       },
       "replies": [
         {
@@ -1370,10 +1373,13 @@
             "bias:spx:bearish"
           ],
           "self_replies": 0
+        },
+        "2125600357153976484": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125233578342810019": false,
         "2125244949499392236": true,
         "2125249935289532866": false,
         "2125251155152515095": true,
@@ -1407,7 +1413,8 @@
         "2125422135137226922": false,
         "2125427277379072228": true,
         "2125447562819944607": false,
-        "2125595979479163001": true
+        "2125595979479163001": true,
+        "2125600357153976484": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7945,5 +7952,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T14:26:21+00:00"
+  "updated_at": "2026-11-25T14:40:35+00:00"
 }
