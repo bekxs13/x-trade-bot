@@ -970,7 +970,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125793432023265542",
+      "last_id": "2125795106834006142",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -991,11 +991,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T15:01:52.000Z",
-          "id": "2125605899016486956",
-          "text": "Interesting, some Puts lifted for Dec"
-        },
         {
           "created_at": "2026-11-25T15:14:59.000Z",
           "id": "2125609199275254037",
@@ -1131,10 +1126,16 @@
           "id": "2125790746611777907",
           "reply_to_id": "2125783085363208443",
           "text": "500k+ estimated $10-15m https://t.co/ucoNfRjBEn"
+        },
+        {
+          "created_at": "2026-11-26T03:33:43.000Z",
+          "id": "2125795106834006142",
+          "quoted_text": "@KTibow cooked https://t.co/kIpVTDCY0L",
+          "reply_to_id": "2125780149153194135",
+          "text": "Doesn't get better than that https://t.co/MlWQyO1AwY"
         }
       ],
       "reads": {
-        "2125605899016486956": "No call",
         "2125609199275254037": "No call",
         "2125620990822826294": "No call",
         "2125624504068259897": "No call",
@@ -1151,7 +1152,8 @@
         "2125780149153194135": "No call: bearish on VVV (65%, too unsure)",
         "2125783085363208443": "VIEW bearish on VVV",
         "2125786928037740576": "No call",
-        "2125788286182731959": "No call: bearish on VVV (same view as before)"
+        "2125788286182731959": "No call: bearish on VVV (same view as before)",
+        "2125795106834006142": "No call"
       },
       "replies": [
         {
@@ -1451,7 +1453,7 @@
         },
         "2125780149153194135": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         },
         "2125783085363208443": {
           "alerted": [
@@ -1465,7 +1467,6 @@
         }
       },
       "trading": {
-        "2125605899016486956": true,
         "2125609199275254037": false,
         "2125620990822826294": false,
         "2125624504068259897": false,
@@ -1499,7 +1500,8 @@
         "2125791248380497930": false,
         "2125792806996521449": false,
         "2125792975641104835": false,
-        "2125793432023265542": false
+        "2125793432023265542": false,
+        "2125795106834006142": false
       },
       "user_id": "1841011241877168128"
     },
@@ -8040,5 +8042,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-26T03:28:25+00:00"
+  "updated_at": "2026-11-26T03:34:21+00:00"
 }
