@@ -978,7 +978,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126089835878416626",
+      "last_id": "2126091232132939843",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -999,18 +999,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T21:34:40.000Z",
-          "id": "2125704749454692528",
-          "images": [
-            "https://pbs.twimg.com/media/HYAEjdAaYAEeJlA.png",
-            "https://pbs.twimg.com/media/HYAExLhbQAAWpty.png",
-            "https://pbs.twimg.com/media/HYAE3miasAEd0ux.png",
-            "https://pbs.twimg.com/media/HYAFG8WaoAAULh2.jpg"
-          ],
-          "quoted_text": "@BigTrout300 You still short-term bullish into 66k-ish?",
-          "text": "My BTC views rn\n\nCaught between 17% ish was it, 20-25% could be extended . \n\nLow got defended pretty well at all imbalances. It's short covering tho, no real spot bid.. but asks are thin above. Idk! 200D MA says all imho https://t.co/zMZ5RQ3Q1G https://t.co/DQLPiPusAU"
-        },
         {
           "created_at": "2026-11-26T00:09:57.000Z",
           "id": "2125743826463850607",
@@ -1136,10 +1124,15 @@
           "id": "2126089835878416626",
           "quoted_text": "There's a belief in CT that crypto natives can't use options cause they're too stupid. The people who say this are really projecting their own inability to learn something complex. \n\nOptions &gt; perps.",
           "text": "If you are a small account trying to turn $1000 &gt; $10,000, Options 100%. Hell even sub $100,000 accounts.\n\n1 Volatile move up or down on a decent 60-90 day Option, can return you soo much $.\n\nIf you bought a 70k Dec PUT at 80-87k BTC, contract woulda gone 10-25k ish depending. https://t.co/8vmHQkCfSL"
+        },
+        {
+          "created_at": "2026-11-26T23:10:25.000Z",
+          "id": "2126091232132939843",
+          "reply_to_id": "2126089835878416626",
+          "text": "the 70k put was literally 800-1300 depending when you loaded it btw *"
         }
       ],
       "reads": {
-        "2125704749454692528": "No call: bearish on btc (65%, too unsure)",
         "2125743826463850607": "TRADE LONG NVDA",
         "2125778113863069708": "No call",
         "2125778196553765304": "Read together with the post it replies to",
@@ -1156,7 +1149,8 @@
         "2126027607724659086": "No call",
         "2126033835385405748": "No call",
         "2126064209180168695": "No call: bearish on btc (60%, too unsure)",
-        "2126089835878416626": "No call"
+        "2126089835878416626": "No call",
+        "2126091232132939843": "No call"
       },
       "replies": [
         {
@@ -1500,11 +1494,10 @@
         },
         "2126089835878416626": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2125704749454692528": true,
         "2125743826463850607": true,
         "2125778113863069708": false,
         "2125778196553765304": false,
@@ -1538,7 +1531,8 @@
         "2126077051681833216": false,
         "2126077209895223319": true,
         "2126078201139183683": true,
-        "2126089835878416626": true
+        "2126089835878416626": true,
+        "2126091232132939843": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8079,5 +8073,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-26",
-  "updated_at": "2026-11-26T23:06:25+00:00"
+  "updated_at": "2026-11-26T23:12:20+00:00"
 }
