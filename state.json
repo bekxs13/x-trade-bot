@@ -970,7 +970,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125786928037740576",
+      "last_id": "2125787290840764542",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -991,11 +991,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T14:22:27.000Z",
-          "id": "2125595979479163001",
-          "text": "Record short gamma\n\nGold down 200 points in 2 days\n\nEven as bearish as I am I am stunned there hasn\u2019t been more relief or sideways \n\nSee what gap above SPX holds for us over next few sessions, wen taco"
-        },
         {
           "created_at": "2026-11-25T14:39:51.000Z",
           "id": "2125600357153976484",
@@ -1122,10 +1117,19 @@
           ],
           "reply_to_id": "2125783085363208443",
           "text": "https://t.co/1xsITexWT6 https://t.co/FcDUa3TQYm"
+        },
+        {
+          "created_at": "2026-11-26T03:02:40.000Z",
+          "id": "2125787290840764542",
+          "images": [
+            "https://pbs.twimg.com/media/HYBQM-naEAELEek.png",
+            "https://pbs.twimg.com/media/HYBQO-ZaEAA345Q.png"
+          ],
+          "reply_to_id": "2125783085363208443",
+          "text": "everytime they insta dump, look at the timestamps &amp; when the chart nukes lmaoooo https://t.co/SvFNcW9Zyl"
         }
       ],
       "reads": {
-        "2125595979479163001": "VIEW bearish on SPX",
         "2125600357153976484": "No call",
         "2125602873400816108": "No call",
         "2125605899016486956": "No call",
@@ -1454,7 +1458,6 @@
         }
       },
       "trading": {
-        "2125595979479163001": true,
         "2125600357153976484": true,
         "2125602873400816108": true,
         "2125605899016486956": true,
@@ -1488,7 +1491,8 @@
         "2125783085363208443": true,
         "2125784074090594354": false,
         "2125784412822683734": false,
-        "2125786928037740576": false
+        "2125786928037740576": false,
+        "2125787290840764542": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8029,5 +8033,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-26T03:02:22+00:00"
+  "updated_at": "2026-11-26T03:04:29+00:00"
 }
