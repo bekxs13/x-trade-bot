@@ -3032,7 +3032,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2125750206310527231",
+      "last_id": "2125764268490645509",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3222,12 +3222,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-25T01:33:21.000Z",
-          "id": "2125402429042880571",
-          "reply_to_id": "2125400870833868864",
-          "text": "@joseph_h_garvin the cyber risk is real and obviously panned out?"
-        },
-        {
           "created_at": "2026-11-25T01:57:24.000Z",
           "id": "2125408478772764939",
           "reply_to_id": "2125404791740518786",
@@ -3314,6 +3308,12 @@
           "id": "2125750206310527231",
           "reply_to_id": "2125744764041539731",
           "text": "@Merridew__ it tells us that he didn't run it up aug/sep otherwise no new info"
+        },
+        {
+          "created_at": "2026-11-26T01:31:11.000Z",
+          "id": "2125764268490645509",
+          "reply_to_id": "2125720198204493902",
+          "text": "@mattyglesias you moving to the city?"
         }
       ],
       "threads": {
@@ -3733,7 +3733,6 @@
         "2125304763990643107": false,
         "2125304969301537135": false,
         "2125397797675618770": false,
-        "2125402429042880571": false,
         "2125408478772764939": false,
         "2125426861698351420": true,
         "2125427101746503776": true,
@@ -3755,7 +3754,8 @@
         "2125745253487399294": false,
         "2125745507758993753": true,
         "2125746537829478653": true,
-        "2125750206310527231": true
+        "2125750206310527231": true,
+        "2125764268490645509": false
       },
       "user_id": "1598545553327067137"
     },
@@ -8008,5 +8008,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-26T00:54:20+00:00"
+  "updated_at": "2026-11-26T01:32:28+00:00"
 }
