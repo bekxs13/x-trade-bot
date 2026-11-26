@@ -970,7 +970,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125784412822683734",
+      "last_id": "2125786928037740576",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -991,15 +991,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T03:12:06.000Z",
-          "id": "2125427277379072228",
-          "images": [
-            "https://pbs.twimg.com/media/HX8IwijaoAAoWXv.png"
-          ],
-          "reply_to_id": "2125412885006516589",
-          "text": "Bottom left CVD is actually kinda buying, while shorts (Long / Short bottom right) has 3k+ in BTC shorts into these lows https://t.co/uGe5Itiotf"
-        },
         {
           "created_at": "2026-11-25T14:22:27.000Z",
           "id": "2125595979479163001",
@@ -1122,10 +1113,18 @@
           "created_at": "2026-11-26T02:45:57.000Z",
           "id": "2125783085363208443",
           "text": "$VVV someone is unstaking $5m+ lol\n\nNov 29th, 200k tokens estimated (if my reading is right). Last time they dumped to Coinbase. \n\nHilarious as this thing gets exposed AGAIN. (Not to mention what the Dev's dumped on launch.) GL Retail!  \n\nhttps://t.co/7NhO8tlDbb"
+        },
+        {
+          "created_at": "2026-11-26T03:01:13.000Z",
+          "id": "2125786928037740576",
+          "images": [
+            "https://pbs.twimg.com/media/HYBP7WiaAAAZKna.png"
+          ],
+          "reply_to_id": "2125783085363208443",
+          "text": "https://t.co/1xsITexWT6 https://t.co/FcDUa3TQYm"
         }
       ],
       "reads": {
-        "2125427277379072228": "No call",
         "2125595979479163001": "VIEW bearish on SPX",
         "2125600357153976484": "No call",
         "2125602873400816108": "No call",
@@ -1144,7 +1143,8 @@
         "2125778113863069708": "No call",
         "2125778196553765304": "Read together with the post it replies to",
         "2125780149153194135": "No call: bearish on VVV (65%, too unsure)",
-        "2125783085363208443": "VIEW bearish on VVV"
+        "2125783085363208443": "VIEW bearish on VVV",
+        "2125786928037740576": "No call"
       },
       "replies": [
         {
@@ -1450,11 +1450,10 @@
           "alerted": [
             "bias:vvv:bearish"
           ],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2125427277379072228": true,
         "2125595979479163001": true,
         "2125600357153976484": true,
         "2125602873400816108": true,
@@ -1488,7 +1487,8 @@
         "2125780643233808805": false,
         "2125783085363208443": true,
         "2125784074090594354": false,
-        "2125784412822683734": false
+        "2125784412822683734": false,
+        "2125786928037740576": false
       },
       "user_id": "1841011241877168128"
     },
@@ -8029,5 +8029,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-26T03:00:30+00:00"
+  "updated_at": "2026-11-26T03:02:22+00:00"
 }
