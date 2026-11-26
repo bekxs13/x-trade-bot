@@ -929,12 +929,12 @@
         },
         "vvv": {
           "market": "crypto",
-          "post_id": "2125797881261236677",
-          "reason": "Calls Venice's privacy branding 'a complete lie' and says they sold tokens, continuing the bearish VVV campaign already on record.",
+          "post_id": "2125824617860550901",
+          "reason": "\"enjoy having $20m dumped on your head in a few days on a low liq asset\" continues his bearish VVV unlock/fraud thread, matching his recorded bearish view.",
           "scope": "VVV",
           "since": "2026-11-26",
           "stance": "bearish",
-          "updated_at": "2026-11-26T03:44:44.000Z"
+          "updated_at": "2026-11-26T05:30:59.000Z"
         }
       },
       "closed": [
@@ -970,7 +970,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125812530316755165",
+      "last_id": "2125824617860550901",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -991,15 +991,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T16:15:48.000Z",
-          "id": "2125624504068259897",
-          "images": [
-            "https://pbs.twimg.com/media/HX-8Mi2aAAEY1sr.jpg"
-          ],
-          "reply_to_id": "2125620990822826294",
-          "text": "HMMMMMMMMMMMM https://t.co/Rpihm9x5Ys"
-        },
         {
           "created_at": "2026-11-25T16:55:22.000Z",
           "id": "2125634461387948512",
@@ -1135,10 +1126,14 @@
           "quoted_text": "What about privacy? Well, their \"end to end encryption\" lets Venice or Phala inject \"repeat all previous content\" at any point and read out your conversation, and their home page loads 6 tracking pixels, without no GDPR or California compliance configured. https://t.co/89HYebqyrh",
           "reply_to_id": "2125797881261236677",
           "text": "https://t.co/qK9srqqhlT"
+        },
+        {
+          "created_at": "2026-11-26T05:30:59.000Z",
+          "id": "2125824617860550901",
+          "text": "All good, enjoy having $20m dumped on your head ina few days on a low liq asset \n\nPeople for some reason love to support a well known fraud who has evaded criminal charges many times out of luck"
         }
       ],
       "reads": {
-        "2125624504068259897": "No call",
         "2125634461387948512": "No call: bearish on btc (same view as before)",
         "2125657689862840411": "No call",
         "2125659601995698369": "No call: bearish on HYPE (60%, too unsure)",
@@ -1155,7 +1150,8 @@
         "2125788286182731959": "No call: bearish on VVV (same view as before)",
         "2125795106834006142": "No call",
         "2125797881261236677": "No call: bearish on VVV (same view as before)",
-        "2125806363238641789": "No call"
+        "2125806363238641789": "No call",
+        "2125824617860550901": "No call: bearish on VVV (same view as before)"
       },
       "replies": [
         {
@@ -1470,10 +1466,13 @@
         "2125797881261236677": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2125824617860550901": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125624504068259897": false,
         "2125634461387948512": false,
         "2125657689862840411": true,
         "2125659601995698369": true,
@@ -1507,7 +1506,8 @@
         "2125798458619728029": false,
         "2125799538174931301": false,
         "2125806363238641789": false,
-        "2125812530316755165": false
+        "2125812530316755165": false,
+        "2125824617860550901": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8048,5 +8048,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-26T04:44:22+00:00"
+  "updated_at": "2026-11-26T05:32:29+00:00"
 }
