@@ -926,6 +926,15 @@
           "since": "2026-11-25",
           "stance": "bearish",
           "updated_at": "2026-11-25T14:22:27.000Z"
+        },
+        "vvv": {
+          "market": "crypto",
+          "post_id": "2125783085363208443",
+          "reason": "Flags a $5m+ unstake hitting Nov 29 that was dumped to Coinbase last time, says the token 'gets exposed AGAIN' and signs off 'GL Retail!'.",
+          "scope": "VVV",
+          "since": "2026-11-26",
+          "stance": "bearish",
+          "updated_at": "2026-11-26T02:45:57.000Z"
         }
       },
       "closed": [
@@ -961,7 +970,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125780643233808805",
+      "last_id": "2125783085363208443",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -982,11 +991,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T02:14:54.000Z",
-          "id": "2125412885006516589",
-          "text": "My bullish line in the sand short term view on Bitcoin is 58,600"
-        },
         {
           "created_at": "2026-11-25T03:12:06.000Z",
           "id": "2125427277379072228",
@@ -1113,10 +1117,14 @@
           "id": "2125780149153194135",
           "quoted_text": "Meet Venice, a billion dollar company who sold 113B ZDR tokens to OpenRouter yesterday. Most went to Baseten, Deepinfra, Fireworks, and Parasail \ud83e\uddf5",
           "text": "Erik Voorhees deceiving people again with $VVV lmaoooooo \n\nNice one privacy tards https://t.co/oqIW8S3fhE"
+        },
+        {
+          "created_at": "2026-11-26T02:45:57.000Z",
+          "id": "2125783085363208443",
+          "text": "$VVV someone is unstaking $5m+ lol\n\nNov 29th, 200k tokens estimated (if my reading is right). Last time they dumped to Coinbase. \n\nHilarious as this thing gets exposed AGAIN. (Not to mention what the Dev's dumped on launch.) GL Retail!  \n\nhttps://t.co/7NhO8tlDbb"
         }
       ],
       "reads": {
-        "2125412885006516589": "No call: bullish on btc (65%, too unsure)",
         "2125427277379072228": "No call",
         "2125595979479163001": "VIEW bearish on SPX",
         "2125600357153976484": "No call",
@@ -1135,7 +1143,8 @@
         "2125743826463850607": "TRADE LONG NVDA",
         "2125778113863069708": "No call",
         "2125778196553765304": "Read together with the post it replies to",
-        "2125780149153194135": "No call: bearish on VVV (65%, too unsure)"
+        "2125780149153194135": "No call: bearish on VVV (65%, too unsure)",
+        "2125783085363208443": "VIEW bearish on VVV"
       },
       "replies": [
         {
@@ -1433,10 +1442,15 @@
         "2125780149153194135": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125783085363208443": {
+          "alerted": [
+            "bias:vvv:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125412885006516589": true,
         "2125427277379072228": true,
         "2125595979479163001": true,
         "2125600357153976484": true,
@@ -1470,7 +1484,8 @@
         "2125778113863069708": false,
         "2125778196553765304": false,
         "2125780149153194135": true,
-        "2125780643233808805": false
+        "2125780643233808805": false,
+        "2125783085363208443": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8009,5 +8024,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-26T02:38:23+00:00"
+  "updated_at": "2026-11-26T02:46:26+00:00"
 }
