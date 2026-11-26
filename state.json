@@ -3079,7 +3079,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2125786568468107777",
+      "last_id": "2126004131999736059",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3271,12 +3271,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-25T01:57:24.000Z",
-          "id": "2125408478772764939",
-          "reply_to_id": "2125404791740518786",
-          "text": "@yifever it's more of a white ppl thing"
-        },
-        {
           "created_at": "2026-11-25T03:11:24.000Z",
           "id": "2125427101746503776",
           "quoted_text": "Hudson River Trading pulled in $3.6 billion of trading revenue in the third quarter and has already generated 74% more through the first nine months of 2026 than it did all of last year. https://t.co/GSxi2AcGIO",
@@ -3363,6 +3357,12 @@
           "id": "2125764268490645509",
           "reply_to_id": "2125720198204493902",
           "text": "@mattyglesias you moving to the city?"
+        },
+        {
+          "created_at": "2026-11-26T17:24:18.000Z",
+          "id": "2126004131999736059",
+          "reply_to_id": "2125863798586364094",
+          "text": "@therobotjames it's not the non understanding we're dunking on, it's the overconfidence and argumentative nature of said person"
         }
       ],
       "threads": {
@@ -3781,7 +3781,6 @@
         "2125304763990643107": false,
         "2125304969301537135": false,
         "2125397797675618770": false,
-        "2125408478772764939": false,
         "2125426861698351420": true,
         "2125427101746503776": true,
         "2125437021606842815": true,
@@ -3804,7 +3803,8 @@
         "2125746537829478653": true,
         "2125750206310527231": true,
         "2125764268490645509": false,
-        "2125786568468107777": true
+        "2125786568468107777": true,
+        "2126004131999736059": false
       },
       "user_id": "1598545553327067137"
     },
@@ -8056,5 +8056,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-26",
-  "updated_at": "2026-11-26T17:00:27+00:00"
+  "updated_at": "2026-11-26T17:26:21+00:00"
 }
