@@ -3052,7 +3052,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2125764268490645509",
+      "last_id": "2125786568468107777",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3088,12 +3088,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-23T17:03:57.000Z",
-          "id": "2124911843168899296",
-          "quoted_text": "It would be great if we at least visit one of the two $JHEQX strikes over the next two months.  If not people are gonna get frustrated AF https://t.co/qV2H7cO7v8",
-          "text": "there is a second foundation that controls world news and makes the market pin one of these strikes https://t.co/okmkvYKWy6"
-        },
         {
           "created_at": "2026-11-23T20:16:35.000Z",
           "id": "2124960322943414764",
@@ -3219,10 +3213,17 @@
           "id": "2125746537829478653",
           "reply_to_id": "2125745507758993753",
           "text": "Notably this is roughly unch'd from where it was at the end of july? so surely lower now"
+        },
+        {
+          "created_at": "2026-11-26T02:59:47.000Z",
+          "id": "2125786568468107777",
+          "images": [
+            "https://pbs.twimg.com/media/HYBPfT6XkAIhFV1.jpg"
+          ],
+          "text": "&gt;GC futures\n&gt;continous[sic] contract\n\nextraordinary https://t.co/otE5Xo4gz0"
         }
       ],
       "reads": {
-        "2124911843168899296": "No call",
         "2124960322943414764": "No call",
         "2124960475687588173": "Read together with the post it replies to",
         "2125017997425176826": "No call",
@@ -3238,7 +3239,8 @@
         "2125635275175198803": "No call",
         "2125696640325448126": "No call",
         "2125745253487399294": "No call",
-        "2125745507758993753": "No call"
+        "2125745507758993753": "No call",
+        "2125786568468107777": "No call"
       },
       "replies": [
         {
@@ -3337,10 +3339,6 @@
         }
       ],
       "threads": {
-        "2120227232211951822": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120229705919889835": {
           "alerted": [],
           "self_replies": 0
@@ -3738,10 +3736,13 @@
         "2125745253487399294": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2125786568468107777": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124911843168899296": true,
         "2124960322943414764": false,
         "2124960475687588173": false,
         "2125017997425176826": false,
@@ -3775,7 +3776,8 @@
         "2125745507758993753": true,
         "2125746537829478653": true,
         "2125750206310527231": true,
-        "2125764268490645509": false
+        "2125764268490645509": false,
+        "2125786568468107777": true
       },
       "user_id": "1598545553327067137"
     },
@@ -8027,5 +8029,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-26T02:52:21+00:00"
+  "updated_at": "2026-11-26T03:00:30+00:00"
 }
