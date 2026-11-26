@@ -952,21 +952,27 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125739463762723302",
-      "positions": {},
+      "last_id": "2125743826463850607",
+      "positions": {
+        "NVDA": {
+          "asset": "NVDA",
+          "chain": "",
+          "confidence": 0.9,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "",
+          "last_seen": "2026-11-26T00:09:57.000Z",
+          "market": "stocks",
+          "open_price": null,
+          "post_id": "2125743826463850607",
+          "reason": "Author says \"I am purchasing NVDA calls\", which is a stated long calls position on NVDA stock.",
+          "since": "2026-11-26T00:09:57.000Z",
+          "structure": "long calls",
+          "url": "https://x.com/bigtrout300/status/2125743826463850607"
+        }
+      },
       "posts": [
-        {
-          "created_at": "2026-11-25T00:36:43.000Z",
-          "id": "2125388174033891438",
-          "images": [
-            "https://pbs.twimg.com/media/HX7i6rZbAAAc2Ig.png",
-            "https://pbs.twimg.com/media/HX7jDUZbkAAZHXG.png",
-            "https://pbs.twimg.com/media/HX7jJNhaAAA4khI.png",
-            "https://pbs.twimg.com/media/HX7jcxaaUAAbgzZ.png"
-          ],
-          "reply_to_id": "2125388171244605670",
-          "text": "Something I can't get over.. The 7250 put buyer in the SPX must chill or buyers must step up.. CTAs or VOL Control Funds must bid for higher.. https://t.co/b5hUy8rmtL"
-        },
         {
           "created_at": "2026-11-25T00:36:44.000Z",
           "id": "2125388177645130011",
@@ -1100,10 +1106,14 @@
           ],
           "quoted_text": "@BigTrout300 You still short-term bullish into 66k-ish?",
           "text": "My BTC views rn\n\nCaught between 17% ish was it, 20-25% could be extended . \n\nLow got defended pretty well at all imbalances. It's short covering tho, no real spot bid.. but asks are thin above. Idk! 200D MA says all imho https://t.co/zMZ5RQ3Q1G https://t.co/DQLPiPusAU"
+        },
+        {
+          "created_at": "2026-11-26T00:09:57.000Z",
+          "id": "2125743826463850607",
+          "text": "I am purchasing NVDA calls\n\nNFA"
         }
       ],
       "reads": {
-        "2125388174033891438": "Read together with the post it replies to",
         "2125392941284049062": "VIEW bearish on btc",
         "2125399171012460751": "VIEW bearish on memory stocks",
         "2125412885006516589": "No call: bullish on btc (65%, too unsure)",
@@ -1121,7 +1131,8 @@
         "2125665257872130180": "No call",
         "2125696386490577213": "No call: bearish on btc (same view as before)",
         "2125702110935449653": "No call: bearish on btc (same view as before)",
-        "2125704749454692528": "No call: bearish on btc (65%, too unsure)"
+        "2125704749454692528": "No call: bearish on btc (65%, too unsure)",
+        "2125743826463850607": "TRADE LONG NVDA"
       },
       "replies": [
         {
@@ -1411,10 +1422,15 @@
         "2125704749454692528": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125743826463850607": {
+          "alerted": [
+            "trade:NVDA:long"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125388174033891438": true,
         "2125388177645130011": true,
         "2125392941284049062": true,
         "2125399171012460751": true,
@@ -1448,7 +1464,8 @@
         "2125730269789659647": false,
         "2125738680795152594": false,
         "2125738928879923683": false,
-        "2125739463762723302": false
+        "2125739463762723302": false,
+        "2125743826463850607": true
       },
       "user_id": "1841011241877168128"
     },
@@ -7990,5 +8007,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-25T23:54:25+00:00"
+  "updated_at": "2026-11-26T00:10:24+00:00"
 }
