@@ -978,7 +978,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126078201139183683",
+      "last_id": "2126089835878416626",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -999,11 +999,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T21:24:11.000Z",
-          "id": "2125702110935449653",
-          "text": "I hate when doomer bears are on the same side of me for bearish market views\n\nIf you think for a minute some AI , Quantum hack for BTC is going to happen, are you aware the NSA, CIA &amp; others would also be under threat? And how illegal these operations would be? \ud83d\ude02\ud83d\ude02"
-        },
         {
           "created_at": "2026-11-25T21:34:40.000Z",
           "id": "2125704749454692528",
@@ -1135,10 +1130,15 @@
             "https://pbs.twimg.com/media/HYFMH3zbYAAwIK3.jpg"
           ],
           "text": "Gettin bored of Tearout mode, put me In A Trance \n\nwe just have to get thru Dec-Mar https://t.co/fRLb8RCTbP"
+        },
+        {
+          "created_at": "2026-11-26T23:04:52.000Z",
+          "id": "2126089835878416626",
+          "quoted_text": "There's a belief in CT that crypto natives can't use options cause they're too stupid. The people who say this are really projecting their own inability to learn something complex. \n\nOptions &gt; perps.",
+          "text": "If you are a small account trying to turn $1000 &gt; $10,000, Options 100%. Hell even sub $100,000 accounts.\n\n1 Volatile move up or down on a decent 60-90 day Option, can return you soo much $.\n\nIf you bought a 70k Dec PUT at 80-87k BTC, contract woulda gone 10-25k ish depending. https://t.co/8vmHQkCfSL"
         }
       ],
       "reads": {
-        "2125702110935449653": "No call: bearish on btc (same view as before)",
         "2125704749454692528": "No call: bearish on btc (65%, too unsure)",
         "2125743826463850607": "TRADE LONG NVDA",
         "2125778113863069708": "No call",
@@ -1155,7 +1155,8 @@
         "2125963907462574255": "No call",
         "2126027607724659086": "No call",
         "2126033835385405748": "No call",
-        "2126064209180168695": "No call: bearish on btc (60%, too unsure)"
+        "2126064209180168695": "No call: bearish on btc (60%, too unsure)",
+        "2126089835878416626": "No call"
       },
       "replies": [
         {
@@ -1496,10 +1497,13 @@
         "2126064209180168695": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126089835878416626": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125702110935449653": true,
         "2125704749454692528": true,
         "2125743826463850607": true,
         "2125778113863069708": false,
@@ -1533,7 +1537,8 @@
         "2126070249175109845": false,
         "2126077051681833216": false,
         "2126077209895223319": true,
-        "2126078201139183683": true
+        "2126078201139183683": true,
+        "2126089835878416626": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8074,5 +8079,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-26",
-  "updated_at": "2026-11-26T22:28:21+00:00"
+  "updated_at": "2026-11-26T23:06:25+00:00"
 }
