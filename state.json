@@ -929,12 +929,12 @@
         },
         "vvv": {
           "market": "crypto",
-          "post_id": "2125783085363208443",
-          "reason": "Flags a $5m+ unstake hitting Nov 29 that was dumped to Coinbase last time, says the token 'gets exposed AGAIN' and signs off 'GL Retail!'.",
+          "post_id": "2125788286182731959",
+          "reason": "He calls VVV a 'known fraud' that 'always unstakes, sends to Coinbase to dump' with a '$5m+ unlock coming up', which repeats his recorded bearish view.",
           "scope": "VVV",
           "since": "2026-11-26",
           "stance": "bearish",
-          "updated_at": "2026-11-26T02:45:57.000Z"
+          "updated_at": "2026-11-26T03:06:37.000Z"
         }
       },
       "closed": [
@@ -970,7 +970,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125787290840764542",
+      "last_id": "2125788430647099680",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -991,14 +991,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T14:39:51.000Z",
-          "id": "2125600357153976484",
-          "images": [
-            "https://pbs.twimg.com/tweet_video_thumb/HX-mQfQbQAEV4oc.jpg"
-          ],
-          "text": "Bear posting is more engaging\n\nTO HELL!! BURN!! https://t.co/NQmatw6e5l"
-        },
         {
           "created_at": "2026-11-25T14:49:51.000Z",
           "id": "2125602873400816108",
@@ -1127,10 +1119,20 @@
           ],
           "reply_to_id": "2125783085363208443",
           "text": "everytime they insta dump, look at the timestamps &amp; when the chart nukes lmaoooo https://t.co/SvFNcW9Zyl"
+        },
+        {
+          "created_at": "2026-11-26T03:06:37.000Z",
+          "id": "2125788286182731959",
+          "images": [
+            "https://pbs.twimg.com/media/HYBQ8mkbcAApDqM.png",
+            "https://pbs.twimg.com/media/HYBRAmzbAAAC9Pg.png",
+            "https://pbs.twimg.com/media/HYBRBX-a8AAutJN.png"
+          ],
+          "quoted_text": "Stake 100 VVV for free ongoing Venice Pro subscription https://t.co/NTEKk38wtT",
+          "text": "Very \"coincidental\" timing. $VVV \n\nDon't be scammed by this known fraud, Retail. Always unstakes, sends to Coinbase to dump. $5m+ unlock coming up. https://t.co/EdtzfS9xKL https://t.co/cCGGANY1ql"
         }
       ],
       "reads": {
-        "2125600357153976484": "No call",
         "2125602873400816108": "No call",
         "2125605899016486956": "No call",
         "2125609199275254037": "No call",
@@ -1148,15 +1150,10 @@
         "2125778196553765304": "Read together with the post it replies to",
         "2125780149153194135": "No call: bearish on VVV (65%, too unsure)",
         "2125783085363208443": "VIEW bearish on VVV",
-        "2125786928037740576": "No call"
+        "2125786928037740576": "No call",
+        "2125788286182731959": "No call: bearish on VVV (same view as before)"
       },
       "replies": [
-        {
-          "created_at": "2026-11-25T22:50:26.000Z",
-          "id": "2125723816798392825",
-          "reply_to_id": "2125723569598734418",
-          "text": "@riskmaxxing Memecoin trader tells people to avoid real financial market margin trading because it is risky\n\n*Lives life off dumping / bundling on others in unregulated markets*"
-        },
         {
           "created_at": "2026-11-25T23:16:05.000Z",
           "id": "2125730269789659647",
@@ -1243,6 +1240,12 @@
           "id": "2125784412822683734",
           "reply_to_id": "2125784311110701148",
           "text": "@0xjaqs @smol_intern @medonchain What did I do"
+        },
+        {
+          "created_at": "2026-11-26T03:07:11.000Z",
+          "id": "2125788430647099680",
+          "reply_to_id": "2125788267903864977",
+          "text": "@btc__gabriel @veH0rny verify?"
         }
       ],
       "threads": {
@@ -1455,10 +1458,13 @@
             "bias:vvv:bearish"
           ],
           "self_replies": 1
+        },
+        "2125788286182731959": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125600357153976484": true,
         "2125602873400816108": true,
         "2125605899016486956": true,
         "2125609199275254037": false,
@@ -1471,7 +1477,6 @@
         "2125696386490577213": true,
         "2125702110935449653": true,
         "2125704749454692528": true,
-        "2125723816798392825": true,
         "2125730269789659647": false,
         "2125738680795152594": false,
         "2125738928879923683": false,
@@ -1492,7 +1497,9 @@
         "2125784074090594354": false,
         "2125784412822683734": false,
         "2125786928037740576": false,
-        "2125787290840764542": true
+        "2125787290840764542": true,
+        "2125788286182731959": true,
+        "2125788430647099680": false
       },
       "user_id": "1841011241877168128"
     },
@@ -8033,5 +8040,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-26T03:04:29+00:00"
+  "updated_at": "2026-11-26T03:08:26+00:00"
 }
