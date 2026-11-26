@@ -3029,7 +3029,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2125745253487399294",
+      "last_id": "2125745507758993753",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3065,12 +3065,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-23T16:59:40.000Z",
-          "id": "2124910769099677828",
-          "quoted_text": "JUST IN: Jim Cramer turns bearish on Nvidia",
-          "text": "unbelievable https://t.co/Gk0aD2M7ik"
-        },
         {
           "created_at": "2026-11-23T16:59:49.000Z",
           "id": "2124910805518893416",
@@ -3196,10 +3190,15 @@
           "created_at": "2026-11-26T00:15:37.000Z",
           "id": "2125745253487399294",
           "text": "https://t.co/tlJC9QAixh\n\nwe've all been there"
+        },
+        {
+          "created_at": "2026-11-26T00:16:38.000Z",
+          "id": "2125745507758993753",
+          "reply_to_id": "2125745253487399294",
+          "text": "&gt;The fund is up 88.5% after fees for the year through September, Aschenbrenner said in an investor letter seen by The Wall Street Journal, telling clients that investing opportunities today \u201care the highest potential return we have seen in the lifetime of the fund.\u201d"
         }
       ],
       "reads": {
-        "2124910769099677828": "No call: bullish on NVDA (60%, too unsure)",
         "2124910805518893416": "Read together with the post it replies to",
         "2124911843168899296": "No call",
         "2124960322943414764": "No call",
@@ -3216,7 +3215,8 @@
         "2125444300452622421": "No call",
         "2125635275175198803": "No call",
         "2125696640325448126": "No call",
-        "2125745253487399294": "No call"
+        "2125745253487399294": "No call",
+        "2125745507758993753": "No call"
       },
       "replies": [
         {
@@ -3715,11 +3715,10 @@
         },
         "2125745253487399294": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2124910769099677828": true,
         "2124910805518893416": false,
         "2124911843168899296": true,
         "2124960322943414764": false,
@@ -3753,7 +3752,8 @@
         "2125641785334792417": true,
         "2125696640325448126": false,
         "2125744338340622533": false,
-        "2125745253487399294": false
+        "2125745253487399294": false,
+        "2125745507758993753": true
       },
       "user_id": "1598545553327067137"
     },
@@ -8006,5 +8006,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-26T00:16:20+00:00"
+  "updated_at": "2026-11-26T00:18:20+00:00"
 }
