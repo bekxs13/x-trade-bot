@@ -929,12 +929,12 @@
         },
         "vvv": {
           "market": "crypto",
-          "post_id": "2125788286182731959",
-          "reason": "He calls VVV a 'known fraud' that 'always unstakes, sends to Coinbase to dump' with a '$5m+ unlock coming up', which repeats his recorded bearish view.",
+          "post_id": "2125797881261236677",
+          "reason": "Calls Venice's privacy branding 'a complete lie' and says they sold tokens, continuing the bearish VVV campaign already on record.",
           "scope": "VVV",
           "since": "2026-11-26",
           "stance": "bearish",
-          "updated_at": "2026-11-26T03:06:37.000Z"
+          "updated_at": "2026-11-26T03:44:44.000Z"
         }
       },
       "closed": [
@@ -970,7 +970,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125797476766781534",
+      "last_id": "2125797881261236677",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -991,11 +991,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T15:14:59.000Z",
-          "id": "2125609199275254037",
-          "text": "Financial markets are so crazy\n\nI have memecoiners, racists, schizos on one side of my Twitter, then actual financial, market makers, true nerds on the other \n\nIt\u2019s like pineapple on pizza really"
-        },
         {
           "created_at": "2026-11-25T16:01:50.000Z",
           "id": "2125620990822826294",
@@ -1133,10 +1128,17 @@
           "quoted_text": "@KTibow cooked https://t.co/kIpVTDCY0L",
           "reply_to_id": "2125780149153194135",
           "text": "Doesn't get better than that https://t.co/MlWQyO1AwY"
+        },
+        {
+          "created_at": "2026-11-26T03:44:44.000Z",
+          "id": "2125797881261236677",
+          "images": [
+            "https://pbs.twimg.com/media/HYBZr4EbQAAy6Ts.jpg"
+          ],
+          "text": "$VVV so like anyone who did any \"weird\" shit , probs a good time to get a USBKiller for your PC &amp; sink it in a lake\n\nThis actually cannot be more funny. They branded a complete lie about privacy, and sold tokens to other providers https://t.co/bZGqBv9OZl"
         }
       ],
       "reads": {
-        "2125609199275254037": "No call",
         "2125620990822826294": "No call",
         "2125624504068259897": "No call",
         "2125634461387948512": "No call: bearish on btc (same view as before)",
@@ -1153,7 +1155,8 @@
         "2125783085363208443": "VIEW bearish on VVV",
         "2125786928037740576": "No call",
         "2125788286182731959": "No call: bearish on VVV (same view as before)",
-        "2125795106834006142": "No call"
+        "2125795106834006142": "No call",
+        "2125797881261236677": "No call: bearish on VVV (same view as before)"
       },
       "replies": [
         {
@@ -1464,10 +1467,13 @@
         "2125788286182731959": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125797881261236677": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125609199275254037": false,
         "2125620990822826294": false,
         "2125624504068259897": false,
         "2125634461387948512": false,
@@ -1501,7 +1507,8 @@
         "2125792975641104835": false,
         "2125793432023265542": false,
         "2125795106834006142": false,
-        "2125797476766781534": false
+        "2125797476766781534": false,
+        "2125797881261236677": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8042,5 +8049,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-26T03:44:25+00:00"
+  "updated_at": "2026-11-26T03:46:32+00:00"
 }
