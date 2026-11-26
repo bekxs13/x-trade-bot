@@ -7181,12 +7181,12 @@
       "biases": {
         "alts": {
           "market": "crypto",
-          "post_id": "2109723930533466580",
-          "reason": "Calls Wormhole a 'Jump rape coin' and Starknet a 'dead coin' and questions anyone being bullish. This fits his recent cautious posts ('speculation feels easiest when most dangerous').",
+          "post_id": "2125961588922290309",
+          "reason": "Says anyone still holding other altcoins is 'fundamentally unserious' and to sell all altcoins for HYPE, which is broader than the existing HYPE long.",
           "scope": "alts",
           "since": "2026-10-12",
           "stance": "bearish",
-          "updated_at": "2026-10-12T19:12:36.000Z"
+          "updated_at": "2026-11-26T14:35:15.000Z"
         },
         "btc": {
           "market": "crypto",
@@ -7288,7 +7288,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2125765595245207593",
+      "last_id": "2125961588922290309",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -7340,11 +7340,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-22T03:36:29.000Z",
-          "id": "2124346253504893118",
-          "text": "Soskaesque"
-        },
         {
           "created_at": "2026-11-22T03:47:47.000Z",
           "id": "2124349093480685973",
@@ -7462,10 +7457,14 @@
           "created_at": "2026-11-26T01:36:27.000Z",
           "id": "2125765595245207593",
           "text": "Why don\u2019t we lower the funding rate according to real short term interest rates? \n\nWhy is funding pegged to 13% annualized when STIR are 3.75%?\n\nPerps market structure improves considerably in its viability for long timeframe longs."
+        },
+        {
+          "created_at": "2026-11-26T14:35:15.000Z",
+          "id": "2125961588922290309",
+          "text": "Hyperliquid launched it's token 2 years ago, the airdrop was a life changing event for many, myself included. It was the vindication of a thesis @SoskaKyle and I had had for a long time. Perpetual swaps are going to be the dominant retail product in finance for the next decade.\n\nPerformance wise, the market has continued to reward this thesis. Every other attempt at utilizing blockchain technology to create something of value has been a spectacular failure. \n\nIf you're in crypto and you do not use Hyperliquid, I question why you spend time in this industry at all. If you're still holding any other altcoins, you're a fundamentally unserious investor. Crypto traders have a very hard to thinking about actual fundamentals, because crypto has had an absence of it for so long. \n\nCrypto traders cannot mentally model compounding, most people are geared towards momentum, look at memecoins. A lot of people feel like they're too late because Hype is now trading a $60 and that they \"won't make it\". They then go to own more speculative, lower quality alternatives while they miss out on the steady compounding that a fundamentally strong asset provides. \n\nCrypto traders consistently miss an obvious fact, if Hype going from $60 to some much higher price is likely, but you feel that it does not make a material difference to your portfolio then leverage is always at your disposal. You're getting a strictly worse risk/reward by attempting to long \"beta\" plays in lesser quality assets. Just own more of the market leader.\n\nThe best time to sell all your altcoins for Hype was Thanksgiving 2024. The second best time is today.\n\nIf you care about crypto, you must use the products."
         }
       ],
       "reads": {
-        "2124346253504893118": "No call",
         "2124349093480685973": "No call: bearish on stocks/macro (65%, too unsure)",
         "2124578113258762749": "No call",
         "2124579997008400431": "No call",
@@ -7484,7 +7483,8 @@
         "2125395797475037683": "No call: bullish on crypto market (60%, too unsure)",
         "2125399125030285736": "No call",
         "2125603913273311555": "No call",
-        "2125765595245207593": "No call"
+        "2125765595245207593": "No call",
+        "2125961588922290309": "No call: bearish on alts (same view as before)"
       },
       "replies": [
         {
@@ -7585,10 +7585,6 @@
         }
       ],
       "threads": {
-        "2122054445278105885": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122075550990655969": {
           "alerted": [],
           "self_replies": 0
@@ -7992,6 +7988,10 @@
         "2125765595245207593": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125961588922290309": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -8004,7 +8004,6 @@
         "2123463010849358127": true,
         "2123471825153806596": false,
         "2123887084427727147": false,
-        "2124346253504893118": false,
         "2124349093480685973": true,
         "2124578113258762749": true,
         "2124579997008400431": true,
@@ -8029,7 +8028,8 @@
         "2125603913273311555": true,
         "2125701305192665359": false,
         "2125703309961187374": false,
-        "2125765595245207593": true
+        "2125765595245207593": true,
+        "2125961588922290309": true
       },
       "user_id": "809191427645181952"
     }
@@ -8052,5 +8052,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-26",
-  "updated_at": "2026-11-26T14:00:32+00:00"
+  "updated_at": "2026-11-26T14:36:35+00:00"
 }
