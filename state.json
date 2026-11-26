@@ -975,7 +975,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125856563089063947",
+      "last_id": "2125963907462574255",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -996,11 +996,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T18:27:40.000Z",
-          "id": "2125657689862840411",
-          "text": "@trading_axe teach the kiddos about FTX &amp; Abraxas"
-        },
         {
           "created_at": "2026-11-25T18:35:16.000Z",
           "id": "2125659601995698369",
@@ -1132,10 +1127,14 @@
           "created_at": "2026-11-26T07:11:23.000Z",
           "id": "2125849884272284108",
           "text": "Dude there is 0 saving some of these sub tier 1 alt coin, memecoin, nft, defi failed project believers.\n\nLike actually 0 saving these people. They are psyoped into believing their life is gonna be changed I stg\n\nLearn to trade real fuckin markets man lmao"
+        },
+        {
+          "created_at": "2026-11-26T14:44:28.000Z",
+          "id": "2125963907462574255",
+          "text": "Happy Thanksgiving to the US bros \n\nMay you stuff your wife like a turkey !!"
         }
       ],
       "reads": {
-        "2125657689862840411": "No call",
         "2125659601995698369": "No call: bearish on HYPE (60%, too unsure)",
         "2125665257872130180": "No call",
         "2125696386490577213": "No call: bearish on btc (same view as before)",
@@ -1152,7 +1151,8 @@
         "2125797881261236677": "No call: bearish on VVV (same view as before)",
         "2125806363238641789": "No call",
         "2125824617860550901": "No call: bearish on VVV (same view as before)",
-        "2125849884272284108": "VIEW bearish on alts"
+        "2125849884272284108": "VIEW bearish on alts",
+        "2125963907462574255": "No call"
       },
       "replies": [
         {
@@ -1474,10 +1474,13 @@
             "bias:alts:bearish"
           ],
           "self_replies": 0
+        },
+        "2125963907462574255": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125657689862840411": true,
         "2125659601995698369": true,
         "2125665257872130180": false,
         "2125696386490577213": true,
@@ -1511,7 +1514,8 @@
         "2125824617860550901": true,
         "2125849884272284108": true,
         "2125855920139960827": true,
-        "2125856563089063947": false
+        "2125856563089063947": false,
+        "2125963907462574255": false
       },
       "user_id": "1841011241877168128"
     },
@@ -8052,5 +8056,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-26",
-  "updated_at": "2026-11-26T14:36:35+00:00"
+  "updated_at": "2026-11-26T14:46:24+00:00"
 }
