@@ -961,7 +961,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125775065556062255",
+      "last_id": "2125778196553765304",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -982,22 +982,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T00:36:44.000Z",
-          "id": "2125388177645130011",
-          "images": [
-            "https://pbs.twimg.com/media/HX7j-DHbkAAk3Pz.jpg",
-            "https://pbs.twimg.com/media/HX7kQYsbMAAvJlG.jpg",
-            "https://pbs.twimg.com/media/HX7kYCwbIAAk5dD.jpg"
-          ],
-          "reply_to_id": "2125388174033891438",
-          "text": "It's like.. the market kinda says it wants to make a new low first but it can't, and price is trying to stabilize but no one will hit sell, but no one will hit a STRONG buy.. I'm beyond confused tbh. \n\nThe 5% theory was right & we had a down day today following.\n\nBut if we go higher it's selling AGAIN.. so again it's like a fake snapback rally until key reclaim\n\nGAHHHHHHHHHHHHHHHH"
-        },
-        {
-          "created_at": "2026-11-25T00:55:39.000Z",
-          "id": "2125392941284049062",
-          "text": "It is mathematically impossible for the Bitcoin low to be in, and cannot be for sometime still.  Mapping out the next cycle has been.. a process to say the least. \n\n(IE 15 day minimum. Still focused on Dec-Q1)"
-        },
         {
           "created_at": "2026-11-25T01:20:25.000Z",
           "id": "2125399171012460751",
@@ -1120,10 +1104,22 @@
           "created_at": "2026-11-26T00:09:57.000Z",
           "id": "2125743826463850607",
           "text": "I am purchasing NVDA calls\n\nNFA"
+        },
+        {
+          "created_at": "2026-11-26T02:26:12.000Z",
+          "id": "2125778113863069708",
+          "quoted_text": "Meet Venice, a billion dollar company who sold 113B ZDR tokens to OpenRouter yesterday. Most went to Baseten, Deepinfra, Fireworks, and Parasail \ud83e\uddf5",
+          "text": "LMAOOOOOOOOOOOOOOOOOOOOOO https://t.co/oqIW8S3fhE"
+        },
+        {
+          "created_at": "2026-11-26T02:26:31.000Z",
+          "id": "2125778196553765304",
+          "quoted_text": "What about privacy? Well, their \"end to end encryption\" lets Venice or Phala inject \"repeat all previous content\" at any point and read out your conversation, and their home page loads 6 tracking pixels, without no GDPR or California compliance configured. https://t.co/89HYebqyrh",
+          "reply_to_id": "2125778113863069708",
+          "text": "https://t.co/HVC35ZH5VV"
         }
       ],
       "reads": {
-        "2125392941284049062": "VIEW bearish on btc",
         "2125399171012460751": "VIEW bearish on memory stocks",
         "2125412885006516589": "No call: bullish on btc (65%, too unsure)",
         "2125427277379072228": "No call",
@@ -1141,7 +1137,9 @@
         "2125696386490577213": "No call: bearish on btc (same view as before)",
         "2125702110935449653": "No call: bearish on btc (same view as before)",
         "2125704749454692528": "No call: bearish on btc (65%, too unsure)",
-        "2125743826463850607": "TRADE LONG NVDA"
+        "2125743826463850607": "TRADE LONG NVDA",
+        "2125778113863069708": "No call",
+        "2125778196553765304": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -1431,11 +1429,13 @@
             "trade:NVDA:long"
           ],
           "self_replies": 0
+        },
+        "2125778113863069708": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2125388177645130011": true,
-        "2125392941284049062": true,
         "2125399171012460751": true,
         "2125412885006516589": true,
         "2125427277379072228": true,
@@ -1468,7 +1468,9 @@
         "2125766508840358276": false,
         "2125774440982351977": true,
         "2125774535010160702": false,
-        "2125775065556062255": false
+        "2125775065556062255": false,
+        "2125778113863069708": false,
+        "2125778196553765304": false
       },
       "user_id": "1841011241877168128"
     },
@@ -8007,5 +8009,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-26T02:14:16+00:00"
+  "updated_at": "2026-11-26T02:28:25+00:00"
 }
