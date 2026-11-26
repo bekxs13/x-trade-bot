@@ -7243,7 +7243,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2125703309961187374",
+      "last_id": "2125765595245207593",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -7295,12 +7295,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-21T13:34:56.000Z",
-          "id": "2124134470131327287",
-          "reply_to_id": "2123995791224426979",
-          "text": "Done ty"
-        },
         {
           "created_at": "2026-11-22T03:36:29.000Z",
           "id": "2124346253504893118",
@@ -7418,10 +7412,14 @@
           "created_at": "2026-11-25T14:53:59.000Z",
           "id": "2125603913273311555",
           "text": "The market is not fucking around"
+        },
+        {
+          "created_at": "2026-11-26T01:36:27.000Z",
+          "id": "2125765595245207593",
+          "text": "Why don\u2019t we lower the funding rate according to real short term interest rates? \n\nWhy is funding pegged to 13% annualized when STIR are 3.75%?\n\nPerps market structure improves considerably in its viability for long timeframe longs."
         }
       ],
       "reads": {
-        "2124134470131327287": "No call",
         "2124346253504893118": "No call",
         "2124349093480685973": "No call: bearish on stocks/macro (65%, too unsure)",
         "2124578113258762749": "No call",
@@ -7440,7 +7438,8 @@
         "2125389455351595022": "No call",
         "2125395797475037683": "No call: bullish on crypto market (60%, too unsure)",
         "2125399125030285736": "No call",
-        "2125603913273311555": "No call"
+        "2125603913273311555": "No call",
+        "2125765595245207593": "No call"
       },
       "replies": [
         {
@@ -7541,10 +7540,6 @@
         }
       ],
       "threads": {
-        "2122048595168047499": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122054445278105885": {
           "alerted": [],
           "self_replies": 0
@@ -7948,6 +7943,10 @@
         "2125603913273311555": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2125765595245207593": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -7960,7 +7959,6 @@
         "2123463010849358127": true,
         "2123471825153806596": false,
         "2123887084427727147": false,
-        "2124134470131327287": false,
         "2124346253504893118": false,
         "2124349093480685973": true,
         "2124578113258762749": true,
@@ -7985,7 +7983,8 @@
         "2125602083231670687": true,
         "2125603913273311555": true,
         "2125701305192665359": false,
-        "2125703309961187374": false
+        "2125703309961187374": false,
+        "2125765595245207593": true
       },
       "user_id": "809191427645181952"
     }
@@ -8008,5 +8007,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-25",
-  "updated_at": "2026-11-26T01:34:27+00:00"
+  "updated_at": "2026-11-26T01:38:24+00:00"
 }
