@@ -978,7 +978,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126061535135248738",
+      "last_id": "2126064209180168695",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -999,11 +999,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T21:01:26.000Z",
-          "id": "2125696386490577213",
-          "text": "Everyone's having sex. I am just trying to visualize why the Bitfinex longrate hasn't gone to a new ATH, Realized Price hasn't been revisited, SOPR isn't below -1 &amp; people are calling the cycle bottom\n\nBig Trout Mode"
-        },
         {
           "created_at": "2026-11-25T21:24:11.000Z",
           "id": "2125702110935449653",
@@ -1132,10 +1127,17 @@
           "created_at": "2026-11-26T19:22:20.000Z",
           "id": "2126033835385405748",
           "text": "@GraceRemiTV get me on the show plz \ud83e\ude77"
+        },
+        {
+          "created_at": "2026-11-26T21:23:02.000Z",
+          "id": "2126064209180168695",
+          "images": [
+            "https://pbs.twimg.com/media/HYFMH3zbYAAwIK3.jpg"
+          ],
+          "text": "Gettin bored of Tearout mode, put me In A Trance \n\nwe just have to get thru Dec-Mar https://t.co/fRLb8RCTbP"
         }
       ],
       "reads": {
-        "2125696386490577213": "No call: bearish on btc (same view as before)",
         "2125702110935449653": "No call: bearish on btc (same view as before)",
         "2125704749454692528": "No call: bearish on btc (65%, too unsure)",
         "2125743826463850607": "TRADE LONG NVDA",
@@ -1152,7 +1154,8 @@
         "2125849884272284108": "VIEW bearish on alts",
         "2125963907462574255": "No call",
         "2126027607724659086": "No call",
-        "2126033835385405748": "No call"
+        "2126033835385405748": "No call",
+        "2126064209180168695": "No call: bearish on btc (60%, too unsure)"
       },
       "replies": [
         {
@@ -1486,10 +1489,13 @@
         "2126033835385405748": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126064209180168695": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125696386490577213": true,
         "2125702110935449653": true,
         "2125704749454692528": true,
         "2125743826463850607": true,
@@ -1523,7 +1529,8 @@
         "2126054647484006651": false,
         "2126059079558975708": false,
         "2126059937709309966": false,
-        "2126061535135248738": false
+        "2126061535135248738": false,
+        "2126064209180168695": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8064,5 +8071,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-26",
-  "updated_at": "2026-11-26T21:14:22+00:00"
+  "updated_at": "2026-11-26T21:24:26+00:00"
 }
