@@ -975,7 +975,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2125966764618187029",
+      "last_id": "2126027607724659086",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -996,12 +996,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T18:35:16.000Z",
-          "id": "2125659601995698369",
-          "quoted_text": "@BigTrout300 @trading_axe so is hype getting graped or what",
-          "text": "Binance is hunting Hype\n\nNFA https://t.co/tAZ4NTSrk3"
-        },
         {
           "created_at": "2026-11-25T18:57:45.000Z",
           "id": "2125665257872130180",
@@ -1132,10 +1126,14 @@
           "created_at": "2026-11-26T14:44:28.000Z",
           "id": "2125963907462574255",
           "text": "Happy Thanksgiving to the US bros \n\nMay you stuff your wife like a turkey !!"
+        },
+        {
+          "created_at": "2026-11-26T18:57:36.000Z",
+          "id": "2126027607724659086",
+          "text": "Remember my Justin Sun tweet?\n\nHTX (Huobi) OI looks interesting \n\nUSDT Tron decreasing significantly \n\nSomething to watch"
         }
       ],
       "reads": {
-        "2125659601995698369": "No call: bearish on HYPE (60%, too unsure)",
         "2125665257872130180": "No call",
         "2125696386490577213": "No call: bearish on btc (same view as before)",
         "2125702110935449653": "No call: bearish on btc (same view as before)",
@@ -1152,7 +1150,8 @@
         "2125806363238641789": "No call",
         "2125824617860550901": "No call: bearish on VVV (same view as before)",
         "2125849884272284108": "VIEW bearish on alts",
-        "2125963907462574255": "No call"
+        "2125963907462574255": "No call",
+        "2126027607724659086": "No call"
       },
       "replies": [
         {
@@ -1478,10 +1477,13 @@
         "2125963907462574255": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126027607724659086": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125659601995698369": true,
         "2125665257872130180": false,
         "2125696386490577213": true,
         "2125702110935449653": true,
@@ -1515,7 +1517,8 @@
         "2125855920139960827": true,
         "2125856563089063947": false,
         "2125963907462574255": false,
-        "2125966764618187029": false
+        "2125966764618187029": false,
+        "2126027607724659086": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8056,5 +8059,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-26",
-  "updated_at": "2026-11-26T17:58:24+00:00"
+  "updated_at": "2026-11-26T18:58:28+00:00"
 }
