@@ -996,7 +996,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126389434446938434",
+      "last_id": "2126392436822102089",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -1034,14 +1034,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T03:44:44.000Z",
-          "id": "2125797881261236677",
-          "images": [
-            "https://pbs.twimg.com/media/HYBZr4EbQAAy6Ts.jpg"
-          ],
-          "text": "$VVV so like anyone who did any \"weird\" shit , probs a good time to get a USBKiller for your PC &amp; sink it in a lake\n\nThis actually cannot be more funny. They branded a complete lie about privacy, and sold tokens to other providers https://t.co/bZGqBv9OZl"
-        },
         {
           "created_at": "2026-11-26T04:18:27.000Z",
           "id": "2125806363238641789",
@@ -1175,10 +1167,14 @@
           ],
           "quoted_text": "@cryptopsychdoc so 7300 by the end of week basically",
           "text": "Very cool awesome data thanks to @VolSignals as always\n\nIt's all in the mechanics \u2728\ud83d\udc1f https://t.co/uFR4fCUwEa https://t.co/xYwKwn6RF4"
+        },
+        {
+          "created_at": "2026-11-27T19:06:25.000Z",
+          "id": "2126392216159699140",
+          "text": "Enjoy the weekend fellas, Corona's or what are we drinkin!?"
         }
       ],
       "reads": {
-        "2125797881261236677": "No call: bearish on VVV (same view as before)",
         "2125806363238641789": "No call",
         "2125824617860550901": "No call: bearish on VVV (same view as before)",
         "2125849884272284108": "VIEW bearish on alts",
@@ -1197,15 +1193,10 @@
         "2126338499624468982": "No call",
         "2126372728605434128": "No call",
         "2126376953095811346": "No call",
-        "2126384435826438580": "TRADE LONG SPY \u00b7 VIEW bullish on SPX"
+        "2126384435826438580": "TRADE LONG SPY \u00b7 VIEW bullish on SPX",
+        "2126392216159699140": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-27T06:54:27.000Z",
-          "id": "2126208011651997820",
-          "reply_to_id": "2126207749520240907",
-          "text": "@ApedLongs 10-15% off lows is my estimate"
-        },
         {
           "created_at": "2026-11-27T14:49:33.000Z",
           "id": "2126327575777788243",
@@ -1295,6 +1286,12 @@
           "id": "2126389434446938434",
           "reply_to_id": "2126389398510162047",
           "text": "@Sniffdegoat Going back up lol"
+        },
+        {
+          "created_at": "2026-11-27T19:07:18.000Z",
+          "id": "2126392436822102089",
+          "reply_to_id": "2126392357818097722",
+          "text": "@SoftServedGummy the who?"
         }
       ],
       "threads": {
@@ -1580,10 +1577,13 @@
             "bias:spx:bullish"
           ],
           "self_replies": 0
+        },
+        "2126392216159699140": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125797881261236677": true,
         "2125806363238641789": false,
         "2125824617860550901": true,
         "2125849884272284108": true,
@@ -1597,7 +1597,6 @@
         "2126154257628012801": true,
         "2126187289483296932": true,
         "2126190093249675719": true,
-        "2126208011651997820": true,
         "2126325378084135214": true,
         "2126327575777788243": true,
         "2126328943993311340": true,
@@ -1617,7 +1616,9 @@
         "2126385680700035154": false,
         "2126386815389290753": false,
         "2126389330872873338": true,
-        "2126389434446938434": true
+        "2126389434446938434": true,
+        "2126392216159699140": false,
+        "2126392436822102089": false
       },
       "user_id": "1841011241877168128"
     },
@@ -8154,5 +8155,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-27T18:56:19+00:00"
+  "updated_at": "2026-11-27T19:08:23+00:00"
 }
