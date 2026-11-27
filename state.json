@@ -3178,7 +3178,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2126223096797646944",
+      "last_id": "2126419769758740564",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3214,15 +3214,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-24T00:05:46.000Z",
-          "id": "2125017997425176826",
-          "images": [
-            "https://pbs.twimg.com/media/HX2UmzVWcAAWXub.jpg"
-          ],
-          "quoted_text": "@DeepDishEnjoyer at least you're not cathie wood",
-          "text": "id rather be cathie wood to be honest https://t.co/bfW9lpr9fk https://t.co/q0fUnjlp8e"
-        },
         {
           "created_at": "2026-11-24T16:05:42.000Z",
           "id": "2125259572407374148",
@@ -3348,10 +3339,15 @@
           "id": "2126151301025157563",
           "reply_to_id": "2126151179751071890",
           "text": "@minhnguyen @ethanrkho @detroitcoder no strong opinion on actual timeline but directionally i basically agree with the thesis"
+        },
+        {
+          "created_at": "2026-11-27T20:55:54.000Z",
+          "id": "2126419769758740564",
+          "quoted_text": "New Aaronson: https://t.co/evY1qQ6Ug4 https://t.co/KQ9HczWa0Y",
+          "text": "interesting https://t.co/uZiVY6pszy"
         }
       ],
       "reads": {
-        "2125017997425176826": "No call",
         "2125259572407374148": "No call",
         "2125260359594357094": "No call",
         "2125293107508044118": "No call",
@@ -3366,7 +3362,8 @@
         "2125745253487399294": "No call",
         "2125745507758993753": "No call",
         "2125786568468107777": "No call",
-        "2126147810848305285": "No call"
+        "2126147810848305285": "No call",
+        "2126419769758740564": "No call"
       },
       "replies": [
         {
@@ -3464,10 +3461,6 @@
         }
       ],
       "threads": {
-        "2120231159879622899": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120266037585461421": {
           "alerted": [],
           "self_replies": 0
@@ -3865,10 +3858,13 @@
         "2126147810848305285": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126419769758740564": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125017997425176826": false,
         "2125259572407374148": true,
         "2125260359594357094": true,
         "2125293107508044118": true,
@@ -3902,7 +3898,8 @@
         "2126191041325965655": false,
         "2126218298002190608": false,
         "2126221682733916321": false,
-        "2126223096797646944": false
+        "2126223096797646944": false,
+        "2126419769758740564": false
       },
       "user_id": "1598545553327067137"
     },
@@ -8154,5 +8151,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-27T20:20:20+00:00"
+  "updated_at": "2026-11-27T20:56:23+00:00"
 }
