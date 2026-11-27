@@ -7352,7 +7352,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2126357478820761654",
+      "last_id": "2126371757355647454",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -7552,12 +7552,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-18T05:44:10.000Z",
-          "id": "2122928832541851874",
-          "reply_to_id": "2122927988299968642",
-          "text": "We inhoused all our accounting, I am potentially buying part of a law firm with my GC that will help with trusts, estate planning and potentially tax at small scale for derivative traders.\n\nTax optimization and asset protection will only go up in expected value as the US turns bluer and bluer. Better get started on it now."
-        },
-        {
           "created_at": "2026-11-18T06:11:43.000Z",
           "id": "2122935765634068839",
           "reply_to_id": "2122934118283624748",
@@ -7646,6 +7640,12 @@
           "id": "2126357478820761654",
           "reply_to_id": "2126269759377547493",
           "text": "@0xPasteke Just by the way you\u2019re talking about trading I can tell you will lose everything if you keep trading. Proceed with caution and just manage your spot portfolio. Take a few weeks off and travel, don\u2019t let money remain meaningless to you."
+        },
+        {
+          "created_at": "2026-11-27T17:45:07.000Z",
+          "id": "2126371757355647454",
+          "reply_to_id": "2126363847590395953",
+          "text": "@ShaneStoffer Yes you're getting it. They're fundamentally different tools for different trades. Don't use any other front end other than the Hyperliquid front end or else you'll pay a ton in extra fees which will eat into your profit big time."
         }
       ],
       "threads": {
@@ -8059,7 +8059,6 @@
         }
       },
       "trading": {
-        "2122928832541851874": false,
         "2122935765634068839": true,
         "2123061270597312960": true,
         "2123436576273219714": true,
@@ -8093,7 +8092,8 @@
         "2125765595245207593": true,
         "2125961588922290309": true,
         "2126012279900811739": true,
-        "2126357478820761654": true
+        "2126357478820761654": true,
+        "2126371757355647454": true
       },
       "user_id": "809191427645181952"
     }
@@ -8116,5 +8116,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-27T17:12:18+00:00"
+  "updated_at": "2026-11-27T17:46:20+00:00"
 }
