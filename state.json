@@ -996,7 +996,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126433202218897839",
+      "last_id": "2126433767590138255",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -1034,11 +1034,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T05:30:59.000Z",
-          "id": "2125824617860550901",
-          "text": "All good, enjoy having $20m dumped on your head ina few days on a low liq asset \n\nPeople for some reason love to support a well known fraud who has evaded criminal charges many times out of luck"
-        },
         {
           "created_at": "2026-11-26T07:11:23.000Z",
           "id": "2125849884272284108",
@@ -1171,10 +1166,14 @@
           "id": "2126421147453706348",
           "quoted_text": "INTEL: TRUMP-LINKED WORLD LIBERTY WALLET SELLS NEARLY 10,000 ETH FOR $16.6 MILLION https://t.co/Do2iFRGLQc",
           "text": "The Crypto President! https://t.co/oVfmKZXm7z"
+        },
+        {
+          "created_at": "2026-11-27T21:51:32.000Z",
+          "id": "2126433767590138255",
+          "text": "And I cannot express this enough\n\nThere is 0 threat to Bitcoin with Quantum or AI shit\n\nSo much doomer fear algo lately"
         }
       ],
       "reads": {
-        "2125824617860550901": "No call: bearish on VVV (same view as before)",
         "2125849884272284108": "VIEW bearish on alts",
         "2125963907462574255": "No call",
         "2126027607724659086": "No call",
@@ -1193,7 +1192,8 @@
         "2126376953095811346": "No call",
         "2126384435826438580": "TRADE LONG SPY \u00b7 VIEW bullish on SPX",
         "2126392216159699140": "No call",
-        "2126421147453706348": "No call"
+        "2126421147453706348": "No call",
+        "2126433767590138255": "No call"
       },
       "replies": [
         {
@@ -1578,10 +1578,13 @@
         "2126421147453706348": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126433767590138255": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125824617860550901": true,
         "2125849884272284108": true,
         "2125963907462574255": false,
         "2126027607724659086": true,
@@ -1615,7 +1618,8 @@
         "2126424020971389272": true,
         "2126424381010387102": false,
         "2126424548140818579": true,
-        "2126433202218897839": false
+        "2126433202218897839": false,
+        "2126433767590138255": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8149,5 +8153,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-27T21:50:22+00:00"
+  "updated_at": "2026-11-27T21:52:25+00:00"
 }
