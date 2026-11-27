@@ -3093,7 +3093,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2126147810848305285",
+      "last_id": "2126151301025157563",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3129,12 +3129,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-23T20:17:11.000Z",
-          "id": "2124960475687588173",
-          "reply_to_id": "2124960322943414764",
-          "text": "we are all the same we are all addicted to twitter it is what it is"
-        },
         {
           "created_at": "2026-11-24T00:05:46.000Z",
           "id": "2125017997425176826",
@@ -3263,10 +3257,15 @@
           "id": "2126147810848305285",
           "quoted_text": "Texas resumes data centre permitting before Democrats take over https://t.co/5OMnPSLxPO",
           "text": "shocker /s https://t.co/RbUF0UtnkY"
+        },
+        {
+          "created_at": "2026-11-27T03:09:06.000Z",
+          "id": "2126151301025157563",
+          "reply_to_id": "2126151179751071890",
+          "text": "@minhnguyen @ethanrkho @detroitcoder no strong opinion on actual timeline but directionally i basically agree with the thesis"
         }
       ],
       "reads": {
-        "2124960475687588173": "Read together with the post it replies to",
         "2125017997425176826": "No call",
         "2125259572407374148": "No call",
         "2125260359594357094": "No call",
@@ -3285,13 +3284,6 @@
         "2126147810848305285": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-25T03:11:24.000Z",
-          "id": "2125427101746503776",
-          "quoted_text": "Hudson River Trading pulled in $3.6 billion of trading revenue in the third quarter and has already generated 74% more through the first nine months of 2026 than it did all of last year. https://t.co/GSxi2AcGIO",
-          "reply_to_id": "2125372915965411465",
-          "text": "@VolaDuck https://t.co/at3W5434TZ\n\nHRT's Q3 was down from last year's"
-        },
         {
           "created_at": "2026-11-25T03:50:49.000Z",
           "id": "2125437021606842815",
@@ -3378,6 +3370,12 @@
           "id": "2126004131999736059",
           "reply_to_id": "2125863798586364094",
           "text": "@therobotjames it's not the non understanding we're dunking on, it's the overconfidence and argumentative nature of said person"
+        },
+        {
+          "created_at": "2026-11-27T03:08:37.000Z",
+          "id": "2126151179751071890",
+          "reply_to_id": "2126124951711490446",
+          "text": "@minhnguyen @ethanrkho @detroitcoder counterpoint, this is the jane and to some extent hrt thesis. it doesn't matter if \"traditional\" finance people are slow adopters if there are well capitalized adopters eating their lunch"
         }
       ],
       "threads": {
@@ -3785,7 +3783,6 @@
         }
       },
       "trading": {
-        "2124960475687588173": false,
         "2125017997425176826": false,
         "2125259572407374148": true,
         "2125260359594357094": true,
@@ -3796,7 +3793,6 @@
         "2125304969301537135": false,
         "2125397797675618770": false,
         "2125426861698351420": true,
-        "2125427101746503776": true,
         "2125437021606842815": true,
         "2125441695269691783": true,
         "2125444300452622421": false,
@@ -3819,7 +3815,9 @@
         "2125764268490645509": false,
         "2125786568468107777": true,
         "2126004131999736059": false,
-        "2126147810848305285": false
+        "2126147810848305285": false,
+        "2126151179751071890": false,
+        "2126151301025157563": false
       },
       "user_id": "1598545553327067137"
     },
@@ -8071,5 +8069,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-26",
-  "updated_at": "2026-11-27T02:56:28+00:00"
+  "updated_at": "2026-11-27T03:10:22+00:00"
 }
