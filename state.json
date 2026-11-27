@@ -946,12 +946,12 @@
         },
         "spx": {
           "market": "stocks",
-          "post_id": "2125595979479163001",
-          "reason": "\"Even as bearish as I am\" plus record short gamma and \"wen taco\" (waiting for a Trump rescue) signal a bearish lean on SPX. That flips the bullish SPX view recorded on 11-23.",
+          "post_id": "2126384435826438580",
+          "reason": "Quotes '7300 by the end of week', says 'it's all in the mechanics', and posts an SPX chart bouncing off lows with oscillators turning up. That flips his recorded bearish SPX view.",
           "scope": "SPX",
-          "since": "2026-11-25",
-          "stance": "bearish",
-          "updated_at": "2026-11-25T14:22:27.000Z"
+          "since": "2026-11-27",
+          "stance": "bullish",
+          "updated_at": "2026-11-27T18:35:30.000Z"
         },
         "vvv": {
           "market": "crypto",
@@ -996,7 +996,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126379534295740610",
+      "last_id": "2126384435826438580",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -1014,16 +1014,26 @@
           "since": "2026-11-26T00:09:57.000Z",
           "structure": "long calls",
           "url": "https://x.com/bigtrout300/status/2125743826463850607"
+        },
+        "SPY": {
+          "asset": "SPY",
+          "chain": "",
+          "confidence": 0.88,
+          "contract_address": "",
+          "direction": "long",
+          "entry": "",
+          "horizon": "Dec OPEX",
+          "last_seen": "2026-11-27T18:35:30.000Z",
+          "market": "stocks",
+          "open_price": null,
+          "post_id": "2126384435826438580",
+          "reason": "Attached screenshot from his Telegram: 'Bought 710-730 spy call spreads on the thesis of gambling for Dec OPEX'.",
+          "since": "2026-11-27T18:35:30.000Z",
+          "structure": "long calls (710-730 call spread)",
+          "url": "https://x.com/bigtrout300/status/2126384435826438580"
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T03:33:43.000Z",
-          "id": "2125795106834006142",
-          "quoted_text": "@KTibow cooked https://t.co/kIpVTDCY0L",
-          "reply_to_id": "2125780149153194135",
-          "text": "Doesn't get better than that https://t.co/MlWQyO1AwY"
-        },
         {
           "created_at": "2026-11-26T03:44:44.000Z",
           "id": "2125797881261236677",
@@ -1155,10 +1165,19 @@
           ],
           "reply_to_id": "2126372728605434128",
           "text": "https://t.co/n7LsZvaI6m"
+        },
+        {
+          "created_at": "2026-11-27T18:35:30.000Z",
+          "id": "2126384435826438580",
+          "images": [
+            "https://pbs.twimg.com/media/HYJvKCZaUAA_UHq.png",
+            "https://pbs.twimg.com/media/HYJvRknbYAAHXJq.png"
+          ],
+          "quoted_text": "@cryptopsychdoc so 7300 by the end of week basically",
+          "text": "Very cool awesome data thanks to @VolSignals as always\n\nIt's all in the mechanics \u2728\ud83d\udc1f https://t.co/uFR4fCUwEa https://t.co/xYwKwn6RF4"
         }
       ],
       "reads": {
-        "2125795106834006142": "No call",
         "2125797881261236677": "No call: bearish on VVV (same view as before)",
         "2125806363238641789": "No call",
         "2125824617860550901": "No call: bearish on VVV (same view as before)",
@@ -1177,7 +1196,8 @@
         "2126328943993311340": "No call: bearish on VVV (same view as before)",
         "2126338499624468982": "No call",
         "2126372728605434128": "No call",
-        "2126376953095811346": "No call"
+        "2126376953095811346": "No call",
+        "2126384435826438580": "TRADE LONG SPY \u00b7 VIEW bullish on SPX"
       },
       "replies": [
         {
@@ -1550,10 +1570,16 @@
         "2126372728605434128": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2126384435826438580": {
+          "alerted": [
+            "trade:SPY:long",
+            "bias:spx:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125795106834006142": false,
         "2125797881261236677": true,
         "2125806363238641789": false,
         "2125824617860550901": true,
@@ -1587,7 +1613,8 @@
         "2126373085427433873": false,
         "2126376953095811346": false,
         "2126378155766431778": false,
-        "2126379534295740610": false
+        "2126379534295740610": false,
+        "2126384435826438580": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8124,5 +8151,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-27T18:16:20+00:00"
+  "updated_at": "2026-11-27T18:36:29+00:00"
 }
