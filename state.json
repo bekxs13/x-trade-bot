@@ -1810,7 +1810,7 @@
         }
       ],
       "handle": "blknoiz06",
-      "last_id": "2125443821437882440",
+      "last_id": "2126126899516854617",
       "positions": {
         "BONDS": {
           "asset": "bonds",
@@ -2007,12 +2007,6 @@
       },
       "posts": [
         {
-          "created_at": "2026-11-23T15:39:51.000Z",
-          "id": "2124890680996585836",
-          "quoted_text": "Holy fuck, this clip is insane  https://t.co/mkn1ntH2p1",
-          "text": "lmao https://t.co/3689mbiyTg"
-        },
-        {
           "created_at": "2026-11-23T15:41:34.000Z",
           "id": "2124891110757863512",
           "text": "$BTC &amp; $ETH: +3%\n\n$NVDA: +34%"
@@ -2119,10 +2113,14 @@
           "id": "2125443821437882440",
           "quoted_text": "JUST IN: \ud83c\uddfa\ud83c\uddf8 US Treasury suffers cyberattack.\n\nThe US Treasury's financial crimes agency, FinCEN, is investigating a cybersecurity breach and has taken some systems offline as a precaution.",
           "text": "next year is gonna be weird man https://t.co/czphv4WrQq"
+        },
+        {
+          "created_at": "2026-11-27T01:32:09.000Z",
+          "id": "2126126899516854617",
+          "text": "go birds"
         }
       ],
       "reads": {
-        "2124890680996585836": "No call",
         "2124891110757863512": "No call",
         "2124900054104432791": "No call",
         "2124902413303964079": "No call",
@@ -2141,7 +2139,8 @@
         "2125081599280582807": "No call",
         "2125182437063790806": "No call",
         "2125437574965539054": "No call",
-        "2125443821437882440": "No call"
+        "2125443821437882440": "No call",
+        "2126126899516854617": "No call"
       },
       "replies": [
         {
@@ -2236,12 +2235,6 @@
         }
       ],
       "threads": {
-        "2123114160481337656": {
-          "alerted": [
-            "trade:BTC:long"
-          ],
-          "self_replies": 0
-        },
         "2123115327248560334": {
           "alerted": [],
           "self_replies": 0
@@ -2653,10 +2646,13 @@
         "2125443821437882440": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126126899516854617": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2124890680996585836": false,
         "2124891110757863512": true,
         "2124900054104432791": true,
         "2124902413303964079": false,
@@ -2690,7 +2686,8 @@
         "2125223352776208422": true,
         "2125224433141059663": false,
         "2125437574965539054": true,
-        "2125443821437882440": false
+        "2125443821437882440": false,
+        "2126126899516854617": false
       },
       "user_id": "973261472"
     },
@@ -8073,5 +8070,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-26",
-  "updated_at": "2026-11-27T00:56:18+00:00"
+  "updated_at": "2026-11-27T01:34:23+00:00"
 }
