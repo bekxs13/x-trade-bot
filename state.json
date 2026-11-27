@@ -926,6 +926,15 @@
           "stance": "bearish",
           "updated_at": "2026-11-25T01:20:25.000Z"
         },
+        "metals": {
+          "market": "macro",
+          "post_id": "2126187289483296932",
+          "reason": "Says metal bros who think they nailed the bottom get a 'tough reality check going into January-Feb', implying metals fall further.",
+          "scope": "metals",
+          "since": "2026-11-27",
+          "stance": "bearish",
+          "updated_at": "2026-11-27T05:32:07.000Z"
+        },
         "spx": {
           "market": "stocks",
           "post_id": "2125595979479163001",
@@ -978,7 +987,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126186947878236407",
+      "last_id": "2126187289483296932",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -999,13 +1008,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T02:26:31.000Z",
-          "id": "2125778196553765304",
-          "quoted_text": "What about privacy? Well, their \"end to end encryption\" lets Venice or Phala inject \"repeat all previous content\" at any point and read out your conversation, and their home page loads 6 tracking pixels, without no GDPR or California compliance configured. https://t.co/89HYebqyrh",
-          "reply_to_id": "2125778113863069708",
-          "text": "https://t.co/HVC35ZH5VV"
-        },
         {
           "created_at": "2026-11-26T02:34:17.000Z",
           "id": "2125780149153194135",
@@ -1140,10 +1142,14 @@
           ],
           "reply_to_id": "2126152785469338061",
           "text": "This VAH in this massive D profile composite we r buildin on Daily is important. \n\nRelevant to the 8w VAL from Q2-Q3 as well as a reclaim https://t.co/FXA6CMAMz5"
+        },
+        {
+          "created_at": "2026-11-27T05:32:07.000Z",
+          "id": "2126187289483296932",
+          "text": "Metal bros got a really tough reality check going into January-Feb thinking they nailed the bottom \ud83d\udc1f\u2728\n\nBut I am just a silly T.r.o.u.t."
         }
       ],
       "reads": {
-        "2125778196553765304": "Read together with the post it replies to",
         "2125780149153194135": "No call: bearish on VVV (65%, too unsure)",
         "2125783085363208443": "VIEW bearish on VVV",
         "2125786928037740576": "No call",
@@ -1160,7 +1166,8 @@
         "2126089835878416626": "No call",
         "2126091232132939843": "No call",
         "2126152785469338061": "No call",
-        "2126154257628012801": "No call"
+        "2126154257628012801": "No call",
+        "2126187289483296932": "VIEW bearish on metals"
       },
       "replies": [
         {
@@ -1506,10 +1513,15 @@
         "2126152785469338061": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2126187289483296932": {
+          "alerted": [
+            "bias:metals:bearish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125778196553765304": false,
         "2125780149153194135": true,
         "2125783085363208443": true,
         "2125786928037740576": false,
@@ -1543,7 +1555,8 @@
         "2126169058227913188": false,
         "2126175015351849368": false,
         "2126186864877130024": true,
-        "2126186947878236407": true
+        "2126186947878236407": true,
+        "2126187289483296932": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8080,5 +8093,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-26",
-  "updated_at": "2026-11-27T05:32:16+00:00"
+  "updated_at": "2026-11-27T05:34:22+00:00"
 }
