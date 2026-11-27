@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2126047164279533857",
+      "last_id": "2126399924166434991",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,12 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T03:13:55.000Z",
-          "id": "2125427735321608648",
-          "reply_to_id": "2125427624608698369",
-          "text": "@DeepDishEnjoyer tho there's ofc the 0dte / perp / option spread payer crowd but seems like given the magnitude just a tax on passive makes sense"
-        },
         {
           "created_at": "2026-11-25T03:15:40.000Z",
           "id": "2125428175740297363",
@@ -334,6 +328,11 @@
             "https://pbs.twimg.com/media/HYE8n9aa4AEb9lo.jpg"
           ],
           "text": "https://t.co/Zed32c8Ecs"
+        },
+        {
+          "created_at": "2026-11-27T19:37:03.000Z",
+          "id": "2126399924166434991",
+          "text": "Crypto secular decline bubble of the past rewardless risk versus inability to stay sub 60 and green dorito, I guess is the state of things?"
         }
       ],
       "reads": {
@@ -354,7 +353,8 @@
         "2125835327084568593": "No call",
         "2125884473984376855": "No call",
         "2126030298022662337": "No call",
-        "2126047164279533857": "No call"
+        "2126047164279533857": "No call",
+        "2126399924166434991": "No call"
       },
       "replies": [
         {
@@ -449,10 +449,6 @@
         }
       ],
       "threads": {
-        "2122580126445764939": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122619596276720057": {
           "alerted": [],
           "self_replies": 0
@@ -855,6 +851,10 @@
         "2126047164279533857": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126399924166434991": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -867,7 +867,6 @@
         "2125422728673100012": true,
         "2125424813481370035": true,
         "2125427481247416689": true,
-        "2125427735321608648": true,
         "2125428175740297363": false,
         "2125429784629133823": false,
         "2125429847405253061": false,
@@ -892,7 +891,8 @@
         "2125842045755613365": false,
         "2125884473984376855": false,
         "2126030298022662337": false,
-        "2126047164279533857": false
+        "2126047164279533857": false,
+        "2126399924166434991": true
       },
       "user_id": "1446541960181858315"
     },
@@ -8154,5 +8154,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-27T19:26:22+00:00"
+  "updated_at": "2026-11-27T19:38:20+00:00"
 }
