@@ -996,7 +996,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126208011651997820",
+      "last_id": "2126325378084135214",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -1017,11 +1017,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T02:45:57.000Z",
-          "id": "2125783085363208443",
-          "text": "$VVV someone is unstaking $5m+ lol\n\nNov 29th, 200k tokens estimated (if my reading is right). Last time they dumped to Coinbase. \n\nHilarious as this thing gets exposed AGAIN. (Not to mention what the Dev's dumped on launch.) GL Retail!  \n\nhttps://t.co/7NhO8tlDbb"
-        },
         {
           "created_at": "2026-11-26T03:01:13.000Z",
           "id": "2125786928037740576",
@@ -1159,10 +1154,15 @@
           ],
           "quoted_text": "@BigTrout300 You thinking DXY isn\u2019t done cooking? Was layup to long in 90s during that drill, less sure now but no hard read on my side atm for it tbh.",
           "text": "I don't think DXY stops till 106, maybe even 115 range. \n\nI still believe a second Strait will close, Oil is going to rip higher, Gold will suffer more. China trade war. (Idk how far back my tweets deleted but I had been callin for this.) \n\nOur relief rally has some days to weeks to go still across risk assets. Eyes on Dec 2-4 & Dec 15-21 \n\nHeavy attention to Jan 7-12, Feb 12-27"
+        },
+        {
+          "created_at": "2026-11-27T14:40:50.000Z",
+          "id": "2126325378084135214",
+          "quoted_text": "the battle for 7250 roars on",
+          "text": "This position that has been sitting there will haunt lives for years to come lol https://t.co/1FERFGIJE1"
         }
       ],
       "reads": {
-        "2125783085363208443": "VIEW bearish on VVV",
         "2125786928037740576": "No call",
         "2125788286182731959": "No call: bearish on VVV (same view as before)",
         "2125795106834006142": "No call",
@@ -1179,7 +1179,8 @@
         "2126152785469338061": "No call",
         "2126154257628012801": "No call",
         "2126187289483296932": "VIEW bearish on metals",
-        "2126190093249675719": "VIEW bullish on DXY"
+        "2126190093249675719": "VIEW bullish on DXY",
+        "2126325378084135214": "No call"
       },
       "replies": [
         {
@@ -1537,10 +1538,13 @@
             "bias:dxy:bullish"
           ],
           "self_replies": 0
+        },
+        "2126325378084135214": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125783085363208443": true,
         "2125786928037740576": false,
         "2125787290840764542": true,
         "2125788286182731959": true,
@@ -1574,7 +1578,8 @@
         "2126191181071827065": false,
         "2126192778317353407": false,
         "2126199424250699822": false,
-        "2126208011651997820": true
+        "2126208011651997820": true,
+        "2126325378084135214": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8111,5 +8116,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-27T14:02:19+00:00"
+  "updated_at": "2026-11-27T14:42:24+00:00"
 }
