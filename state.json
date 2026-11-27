@@ -7352,7 +7352,7 @@
         }
       ],
       "handle": "thinkingusd",
-      "last_id": "2126012279900811739",
+      "last_id": "2126357478820761654",
       "positions": {
         "BTC": {
           "asset": "BTC",
@@ -7552,12 +7552,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-18T05:38:48.000Z",
-          "id": "2122927484232695838",
-          "reply_to_id": "2122925042400895056",
-          "text": "@elonmusk Grokbot is actually incredible and you guys cracked it. The model of spawning multiple agents that are siloed and do specific tasks is close to optimal UI."
-        },
-        {
           "created_at": "2026-11-18T05:44:10.000Z",
           "id": "2122928832541851874",
           "reply_to_id": "2122927988299968642",
@@ -7646,6 +7640,12 @@
           "id": "2125703309961187374",
           "reply_to_id": "2125690393261953508",
           "text": "@MichaelDell You get it, you have to be nicemaxxing"
+        },
+        {
+          "created_at": "2026-11-27T16:48:23.000Z",
+          "id": "2126357478820761654",
+          "reply_to_id": "2126269759377547493",
+          "text": "@0xPasteke Just by the way you\u2019re talking about trading I can tell you will lose everything if you keep trading. Proceed with caution and just manage your spot portfolio. Take a few weeks off and travel, don\u2019t let money remain meaningless to you."
         }
       ],
       "threads": {
@@ -8059,7 +8059,6 @@
         }
       },
       "trading": {
-        "2122927484232695838": false,
         "2122928832541851874": false,
         "2122935765634068839": true,
         "2123061270597312960": true,
@@ -8093,7 +8092,8 @@
         "2125703309961187374": false,
         "2125765595245207593": true,
         "2125961588922290309": true,
-        "2126012279900811739": true
+        "2126012279900811739": true,
+        "2126357478820761654": true
       },
       "user_id": "809191427645181952"
     }
@@ -8116,5 +8116,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-27T15:48:20+00:00"
+  "updated_at": "2026-11-27T16:50:20+00:00"
 }
