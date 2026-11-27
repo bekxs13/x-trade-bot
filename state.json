@@ -996,7 +996,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126333223068475874",
+      "last_id": "2126338499624468982",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -1017,16 +1017,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T03:02:40.000Z",
-          "id": "2125787290840764542",
-          "images": [
-            "https://pbs.twimg.com/media/HYBQM-naEAELEek.png",
-            "https://pbs.twimg.com/media/HYBQO-ZaEAA345Q.png"
-          ],
-          "reply_to_id": "2125783085363208443",
-          "text": "everytime they insta dump, look at the timestamps &amp; when the chart nukes lmaoooo https://t.co/SvFNcW9Zyl"
-        },
         {
           "created_at": "2026-11-26T03:06:37.000Z",
           "id": "2125788286182731959",
@@ -1156,6 +1146,15 @@
           "created_at": "2026-11-27T14:55:00.000Z",
           "id": "2126328943993311340",
           "text": "Friendly reminder:\n\n500k $VVV tokens unlock between now &amp; 30th\n\nAbout $20m+  \n\nDon\u2019t support a known fraud/scammer, prepare to be exit liquidity"
+        },
+        {
+          "created_at": "2026-11-27T15:32:58.000Z",
+          "id": "2126338499624468982",
+          "images": [
+            "https://pbs.twimg.com/media/HYJFmONa4AEBO2I.jpg"
+          ],
+          "reply_to_id": "2126328943993311340",
+          "text": "https://t.co/RP0KJbzWsu"
         }
       ],
       "reads": {
@@ -1176,7 +1175,8 @@
         "2126187289483296932": "VIEW bearish on metals",
         "2126190093249675719": "VIEW bullish on DXY",
         "2126325378084135214": "No call",
-        "2126328943993311340": "No call: bearish on VVV (same view as before)"
+        "2126328943993311340": "No call: bearish on VVV (same view as before)",
+        "2126338499624468982": "No call"
       },
       "replies": [
         {
@@ -1541,11 +1541,10 @@
         },
         "2126328943993311340": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2125787290840764542": true,
         "2125788286182731959": true,
         "2125790746611777907": true,
         "2125795106834006142": false,
@@ -1579,7 +1578,8 @@
         "2126328943993311340": true,
         "2126330932546437183": false,
         "2126332378977276298": false,
-        "2126333223068475874": true
+        "2126333223068475874": true,
+        "2126338499624468982": false
       },
       "user_id": "1841011241877168128"
     },
@@ -8116,5 +8116,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-27T15:12:20+00:00"
+  "updated_at": "2026-11-27T15:34:20+00:00"
 }
