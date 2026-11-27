@@ -996,7 +996,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126410299779776789",
+      "last_id": "2126421147453706348",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -1034,13 +1034,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T04:18:27.000Z",
-          "id": "2125806363238641789",
-          "quoted_text": "What about privacy? Well, their \"end to end encryption\" lets Venice or Phala inject \"repeat all previous content\" at any point and read out your conversation, and their home page loads 6 tracking pixels, without no GDPR or California compliance configured. https://t.co/89HYebqyrh",
-          "reply_to_id": "2125797881261236677",
-          "text": "https://t.co/qK9srqqhlT"
-        },
         {
           "created_at": "2026-11-26T05:30:59.000Z",
           "id": "2125824617860550901",
@@ -1172,10 +1165,15 @@
           "created_at": "2026-11-27T19:06:25.000Z",
           "id": "2126392216159699140",
           "text": "Enjoy the weekend fellas, Corona's or what are we drinkin!?"
+        },
+        {
+          "created_at": "2026-11-27T21:01:23.000Z",
+          "id": "2126421147453706348",
+          "quoted_text": "INTEL: TRUMP-LINKED WORLD LIBERTY WALLET SELLS NEARLY 10,000 ETH FOR $16.6 MILLION https://t.co/Do2iFRGLQc",
+          "text": "The Crypto President! https://t.co/oVfmKZXm7z"
         }
       ],
       "reads": {
-        "2125806363238641789": "No call",
         "2125824617860550901": "No call: bearish on VVV (same view as before)",
         "2125849884272284108": "VIEW bearish on alts",
         "2125963907462574255": "No call",
@@ -1194,15 +1192,10 @@
         "2126372728605434128": "No call",
         "2126376953095811346": "No call",
         "2126384435826438580": "TRADE LONG SPY \u00b7 VIEW bullish on SPX",
-        "2126392216159699140": "No call"
+        "2126392216159699140": "No call",
+        "2126421147453706348": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-27T19:14:10.000Z",
-          "id": "2126394167450583143",
-          "reply_to_id": "2126394100731797606",
-          "text": "@clafoutirigole haha nice one boss."
-        },
         {
           "created_at": "2026-11-27T19:14:36.000Z",
           "id": "2126394277106458761",
@@ -1291,6 +1284,12 @@
           "id": "2126410299779776789",
           "reply_to_id": "2126410137103446262",
           "text": "@Whale_Humper Whenever I get on @BitcoinMagazine"
+        },
+        {
+          "created_at": "2026-11-27T21:00:24.000Z",
+          "id": "2126420901348700370",
+          "reply_to_id": "2126420027310240127",
+          "text": "@EXExgle \ud83d\ude02\ud83d\ude02"
         }
       ],
       "threads": {
@@ -1580,10 +1579,13 @@
         "2126392216159699140": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126421147453706348": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125806363238641789": false,
         "2125824617860550901": true,
         "2125849884272284108": true,
         "2125963907462574255": false,
@@ -1603,7 +1605,6 @@
         "2126376953095811346": false,
         "2126384435826438580": true,
         "2126392216159699140": false,
-        "2126394167450583143": false,
         "2126394277106458761": false,
         "2126394317875122674": false,
         "2126394353337942244": false,
@@ -1617,7 +1618,9 @@
         "2126401906969133319": true,
         "2126405003023962119": false,
         "2126408472296403138": true,
-        "2126410299779776789": false
+        "2126410299779776789": false,
+        "2126420901348700370": false,
+        "2126421147453706348": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8151,5 +8154,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-27T20:56:23+00:00"
+  "updated_at": "2026-11-27T21:02:22+00:00"
 }
