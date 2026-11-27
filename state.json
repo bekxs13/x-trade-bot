@@ -996,7 +996,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126373085427433873",
+      "last_id": "2126376953095811346",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -1017,12 +1017,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T03:16:23.000Z",
-          "id": "2125790746611777907",
-          "reply_to_id": "2125783085363208443",
-          "text": "500k+ estimated $10-15m https://t.co/ucoNfRjBEn"
-        },
         {
           "created_at": "2026-11-26T03:33:43.000Z",
           "id": "2125795106834006142",
@@ -1152,6 +1146,15 @@
             "https://pbs.twimg.com/media/HYJksJLasAAvhzx.jpg"
           ],
           "text": "This has a chance to get really funny https://t.co/B3qFP4Sbz2"
+        },
+        {
+          "created_at": "2026-11-27T18:05:46.000Z",
+          "id": "2126376953095811346",
+          "images": [
+            "https://pbs.twimg.com/media/HYJokcJbMAAN0DC.jpg"
+          ],
+          "reply_to_id": "2126372728605434128",
+          "text": "https://t.co/n7LsZvaI6m"
         }
       ],
       "reads": {
@@ -1173,7 +1176,8 @@
         "2126325378084135214": "No call",
         "2126328943993311340": "No call: bearish on VVV (same view as before)",
         "2126338499624468982": "No call",
-        "2126372728605434128": "No call"
+        "2126372728605434128": "No call",
+        "2126376953095811346": "No call"
       },
       "replies": [
         {
@@ -1545,11 +1549,10 @@
         },
         "2126372728605434128": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2125790746611777907": true,
         "2125795106834006142": false,
         "2125797881261236677": true,
         "2125806363238641789": false,
@@ -1583,7 +1586,8 @@
         "2126363060906660308": true,
         "2126372728605434128": false,
         "2126372933337842155": false,
-        "2126373085427433873": false
+        "2126373085427433873": false,
+        "2126376953095811346": false
       },
       "user_id": "1841011241877168128"
     },
@@ -8120,5 +8124,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-27T17:52:17+00:00"
+  "updated_at": "2026-11-27T18:06:24+00:00"
 }
