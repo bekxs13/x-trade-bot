@@ -978,7 +978,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126152785469338061",
+      "last_id": "2126154257628012801",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -999,12 +999,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T02:26:12.000Z",
-          "id": "2125778113863069708",
-          "quoted_text": "Meet Venice, a billion dollar company who sold 113B ZDR tokens to OpenRouter yesterday. Most went to Baseten, Deepinfra, Fireworks, and Parasail \ud83e\uddf5",
-          "text": "LMAOOOOOOOOOOOOOOOOOOOOOO https://t.co/oqIW8S3fhE"
-        },
         {
           "created_at": "2026-11-26T02:26:31.000Z",
           "id": "2125778196553765304",
@@ -1137,10 +1131,18 @@
           ],
           "quoted_text": "Gettin bored of Tearout mode, put me In A Trance \n\nwe just have to get thru Dec-Mar https://t.co/fRLb8RCTbP",
           "text": "It's a Friday, don't blow up your account.\n\nGood luck kiddos #BVIV #VIX #BTC #SPX https://t.co/wQojCIbnLI https://t.co/Os6FVoZYdq"
+        },
+        {
+          "created_at": "2026-11-27T03:20:51.000Z",
+          "id": "2126154257628012801",
+          "images": [
+            "https://pbs.twimg.com/media/HYGd7U_agAADEgX.jpg"
+          ],
+          "reply_to_id": "2126152785469338061",
+          "text": "This VAH in this massive D profile composite we r buildin on Daily is important. \n\nRelevant to the 8w VAL from Q2-Q3 as well as a reclaim https://t.co/FXA6CMAMz5"
         }
       ],
       "reads": {
-        "2125778113863069708": "No call",
         "2125778196553765304": "Read together with the post it replies to",
         "2125780149153194135": "No call: bearish on VVV (65%, too unsure)",
         "2125783085363208443": "VIEW bearish on VVV",
@@ -1157,7 +1159,8 @@
         "2126064209180168695": "No call: bearish on btc (60%, too unsure)",
         "2126089835878416626": "No call",
         "2126091232132939843": "No call",
-        "2126152785469338061": "No call"
+        "2126152785469338061": "No call",
+        "2126154257628012801": "No call"
       },
       "replies": [
         {
@@ -1505,11 +1508,10 @@
         },
         "2126152785469338061": {
           "alerted": [],
-          "self_replies": 0
+          "self_replies": 1
         }
       },
       "trading": {
-        "2125778113863069708": false,
         "2125778196553765304": false,
         "2125780149153194135": true,
         "2125783085363208443": true,
@@ -1543,7 +1545,8 @@
         "2126101806795383105": true,
         "2126133633207664863": true,
         "2126141113912471585": true,
-        "2126152785469338061": true
+        "2126152785469338061": true,
+        "2126154257628012801": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8080,5 +8083,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-26",
-  "updated_at": "2026-11-27T03:16:23+00:00"
+  "updated_at": "2026-11-27T03:22:25+00:00"
 }
