@@ -917,6 +917,15 @@
           "stance": "bearish",
           "updated_at": "2026-11-25T21:24:11.000Z"
         },
+        "dxy": {
+          "market": "macro",
+          "post_id": "2126190093249675719",
+          "reason": "Says DXY doesn't stop till 106, maybe 115; also oil rips higher and gold suffers (metals bearish restated), with a relief rally in risk assets lasting days to weeks.",
+          "scope": "DXY",
+          "since": "2026-11-27",
+          "stance": "bullish",
+          "updated_at": "2026-11-27T05:43:15.000Z"
+        },
         "memory stocks": {
           "market": "stocks",
           "post_id": "2125399171012460751",
@@ -987,7 +996,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126187289483296932",
+      "last_id": "2126190093249675719",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -1008,12 +1017,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T02:34:17.000Z",
-          "id": "2125780149153194135",
-          "quoted_text": "Meet Venice, a billion dollar company who sold 113B ZDR tokens to OpenRouter yesterday. Most went to Baseten, Deepinfra, Fireworks, and Parasail \ud83e\uddf5",
-          "text": "Erik Voorhees deceiving people again with $VVV lmaoooooo \n\nNice one privacy tards https://t.co/oqIW8S3fhE"
-        },
         {
           "created_at": "2026-11-26T02:45:57.000Z",
           "id": "2125783085363208443",
@@ -1147,10 +1150,18 @@
           "created_at": "2026-11-27T05:32:07.000Z",
           "id": "2126187289483296932",
           "text": "Metal bros got a really tough reality check going into January-Feb thinking they nailed the bottom \ud83d\udc1f\u2728\n\nBut I am just a silly T.r.o.u.t."
+        },
+        {
+          "created_at": "2026-11-27T05:43:15.000Z",
+          "id": "2126190093249675719",
+          "images": [
+            "https://pbs.twimg.com/media/HYG-G5aaUAAQLOQ.png"
+          ],
+          "quoted_text": "@BigTrout300 You thinking DXY isn\u2019t done cooking? Was layup to long in 90s during that drill, less sure now but no hard read on my side atm for it tbh.",
+          "text": "I don't think DXY stops till 106, maybe even 115 range. \n\nI still believe a second Strait will close, Oil is going to rip higher, Gold will suffer more. China trade war. (Idk how far back my tweets deleted but I had been callin for this.) \n\nOur relief rally has some days to weeks to go still across risk assets. Eyes on Dec 2-4 & Dec 15-21 \n\nHeavy attention to Jan 7-12, Feb 12-27"
         }
       ],
       "reads": {
-        "2125780149153194135": "No call: bearish on VVV (65%, too unsure)",
         "2125783085363208443": "VIEW bearish on VVV",
         "2125786928037740576": "No call",
         "2125788286182731959": "No call: bearish on VVV (same view as before)",
@@ -1167,7 +1178,8 @@
         "2126091232132939843": "No call",
         "2126152785469338061": "No call",
         "2126154257628012801": "No call",
-        "2126187289483296932": "VIEW bearish on metals"
+        "2126187289483296932": "VIEW bearish on metals",
+        "2126190093249675719": "VIEW bullish on DXY"
       },
       "replies": [
         {
@@ -1519,10 +1531,15 @@
             "bias:metals:bearish"
           ],
           "self_replies": 0
+        },
+        "2126190093249675719": {
+          "alerted": [
+            "bias:dxy:bullish"
+          ],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125780149153194135": true,
         "2125783085363208443": true,
         "2125786928037740576": false,
         "2125787290840764542": true,
@@ -1556,7 +1573,8 @@
         "2126175015351849368": false,
         "2126186864877130024": true,
         "2126186947878236407": true,
-        "2126187289483296932": true
+        "2126187289483296932": true,
+        "2126190093249675719": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8093,5 +8111,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-26",
-  "updated_at": "2026-11-27T05:34:22+00:00"
+  "updated_at": "2026-11-27T05:44:27+00:00"
 }
