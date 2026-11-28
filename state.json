@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2126610427287343433",
+      "last_id": "2126611532322869690",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,11 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T05:43:59.000Z",
-          "id": "2125827890260709468",
-          "text": "Sent from Twitter Mobile App"
-        },
         {
           "created_at": "2026-11-26T06:09:52.000Z",
           "id": "2125834403356328261",
@@ -336,10 +331,17 @@
             "https://pbs.twimg.com/media/HYM85xdagAA73X3.jpg"
           ],
           "text": "I think I\u2019m just going to post fake news quote tweets holiday pictures and 8 day old trades until this account descends to a happy medium https://t.co/ggeYYzrgXG"
+        },
+        {
+          "created_at": "2026-11-28T09:37:54.000Z",
+          "id": "2126611532322869690",
+          "images": [
+            "https://pbs.twimg.com/media/HYM96iiakAA5qdg.jpg"
+          ],
+          "text": "do u have fun  on the internet.  still? https://t.co/OajnZyU3nn"
         }
       ],
       "reads": {
-        "2125827890260709468": "No call",
         "2125834403356328261": "No call",
         "2125835327084568593": "No call",
         "2125884473984376855": "No call",
@@ -358,7 +360,8 @@
         "2126534443469099250": "No call",
         "2126563121032790364": "No call",
         "2126563747837939727": "No call",
-        "2126610427287343433": "No call"
+        "2126610427287343433": "No call",
+        "2126611532322869690": "No call"
       },
       "replies": [
         {
@@ -453,10 +456,6 @@
         }
       ],
       "threads": {
-        "2122895895444475977": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2123114159529464276": {
           "alerted": [],
           "self_replies": 1
@@ -857,6 +856,10 @@
         "2126610427287343433": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126611532322869690": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -867,7 +870,6 @@
         "2125495718052016234": false,
         "2125642856300003422": true,
         "2125673591396237434": true,
-        "2125827890260709468": false,
         "2125834403356328261": false,
         "2125835327084568593": false,
         "2125842045755613365": false,
@@ -894,7 +896,8 @@
         "2126543211825115242": false,
         "2126563121032790364": false,
         "2126563747837939727": false,
-        "2126610427287343433": false
+        "2126610427287343433": false,
+        "2126611532322869690": false
       },
       "user_id": "1446541960181858315"
     },
@@ -8177,5 +8180,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-28T09:34:24+00:00"
+  "updated_at": "2026-11-28T09:38:26+00:00"
 }
