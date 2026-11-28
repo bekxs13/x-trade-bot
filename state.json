@@ -3232,7 +3232,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2126738972822962574",
+      "last_id": "2126740396848083437",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3268,12 +3268,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-24T19:06:05.000Z",
-          "id": "2125304969301537135",
-          "reply_to_id": "2125304763990643107",
-          "text": "do you think that greg knows what an unemployment number or what interest rates are. what about bull or bear market. anyway have fun in an ai controlled economy"
-        },
         {
           "created_at": "2026-11-25T01:14:57.000Z",
           "id": "2125397797675618770",
@@ -3388,10 +3382,15 @@
           "created_at": "2026-11-28T16:22:11.000Z",
           "id": "2126713273064292798",
           "text": "SALP investor letter basically reads like Citrini's bear scenario in an AI is real world from early in the year"
+        },
+        {
+          "created_at": "2026-11-28T18:08:52.000Z",
+          "id": "2126740122808824234",
+          "quoted_text": "tummy horts",
+          "text": "when tummy horts all i want to eat is bread. that's also true when tummy fine but still https://t.co/KJyRctHLWi"
         }
       ],
       "reads": {
-        "2125304969301537135": "Read together with the post it replies to",
         "2125426861698351420": "No call",
         "2125444300452622421": "No call",
         "2125635275175198803": "No call",
@@ -3405,15 +3404,10 @@
         "2126553099242439140": "No call",
         "2126553457733587051": "No call",
         "2126562194766823639": "No call",
-        "2126713273064292798": "No call"
+        "2126713273064292798": "No call",
+        "2126740122808824234": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-26T17:24:18.000Z",
-          "id": "2126004131999736059",
-          "reply_to_id": "2125863798586364094",
-          "text": "@therobotjames it's not the non understanding we're dunking on, it's the overconfidence and argumentative nature of said person"
-        },
         {
           "created_at": "2026-11-27T03:08:37.000Z",
           "id": "2126151179751071890",
@@ -3497,13 +3491,15 @@
           "id": "2126738972822962574",
           "reply_to_id": "2126729321121538178",
           "text": "@minhnguyen disagree, the logical conclusion of his letter is that you should load up on long dated 10-year swaption calls\n\nThere are ASI paths where too many S&amp;P companies go extinct for S&amp;P to be up a lot"
+        },
+        {
+          "created_at": "2026-11-28T18:09:58.000Z",
+          "id": "2126740396848083437",
+          "reply_to_id": "2126740144145494519",
+          "text": "@minhnguyen if you have 10 mil you can get a private banking account at somewhere like goldman and trade with their rates desk"
         }
       ],
       "threads": {
-        "2120467968064643336": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120534964332875883": {
           "alerted": [],
           "self_replies": 0
@@ -3901,10 +3897,13 @@
         "2126713273064292798": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126740122808824234": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125304969301537135": false,
         "2125397797675618770": false,
         "2125426861698351420": true,
         "2125444300452622421": false,
@@ -3915,7 +3914,6 @@
         "2125745507758993753": true,
         "2125746537829478653": true,
         "2125786568468107777": true,
-        "2126004131999736059": false,
         "2126147810848305285": false,
         "2126151179751071890": false,
         "2126151301025157563": false,
@@ -3938,7 +3936,9 @@
         "2126562194766823639": false,
         "2126713273064292798": true,
         "2126715994001551657": false,
-        "2126738972822962574": true
+        "2126738972822962574": true,
+        "2126740122808824234": false,
+        "2126740396848083437": true
       },
       "user_id": "1598545553327067137"
     },
@@ -8190,5 +8190,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-28",
-  "updated_at": "2026-11-28T18:08:18+00:00"
+  "updated_at": "2026-11-28T18:10:28+00:00"
 }
