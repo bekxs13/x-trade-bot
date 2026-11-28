@@ -3235,7 +3235,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2126747336374440332",
+      "last_id": "2126748472946598051",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3412,12 +3412,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-28T01:02:27.000Z",
-          "id": "2126481816454676760",
-          "reply_to_id": "2126480891501572320",
-          "text": "@cremieuxrecueil i don't think this data contradicts my statement\n\nit's also something you'd expect from first principles\n\ntrade deficits correlate positively with economic investment\n\nand economic investment correlates positively with GDP (and therefore spending) growth"
-        },
-        {
           "created_at": "2026-11-28T01:19:48.000Z",
           "id": "2126486179386384761",
           "reply_to_id": "2126481890781892772",
@@ -3500,6 +3494,12 @@
           "id": "2126747336374440332",
           "reply_to_id": "2126729792581980638",
           "text": "@alcherblack you say that, but how much does your org actually spend per person? 100k and 1mm are an order of magnitude apart and i bet it's much closer to the former"
+        },
+        {
+          "created_at": "2026-11-28T18:42:03.000Z",
+          "id": "2126748472946598051",
+          "reply_to_id": "2126746566992310756",
+          "text": "@thsgolfnut @minhnguyen im just talking about the core thesis of the letter, not advocating for the thesis"
         }
       ],
       "threads": {
@@ -3921,7 +3921,6 @@
         "2126151301025157563": false,
         "2126419769758740564": false,
         "2126465515925188887": false,
-        "2126481816454676760": false,
         "2126486179386384761": false,
         "2126553099242439140": true,
         "2126553457733587051": false,
@@ -3941,7 +3940,8 @@
         "2126742567966458284": false,
         "2126746325362344341": true,
         "2126746672575230202": false,
-        "2126747336374440332": false
+        "2126747336374440332": false,
+        "2126748472946598051": false
       },
       "user_id": "1598545553327067137"
     },
@@ -8193,5 +8193,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-28",
-  "updated_at": "2026-11-28T18:38:19+00:00"
+  "updated_at": "2026-11-28T18:42:20+00:00"
 }
