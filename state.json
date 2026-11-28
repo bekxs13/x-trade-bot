@@ -3201,7 +3201,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2126478921256304871",
+      "last_id": "2126481816454676760",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3387,12 +3387,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-25T14:42:20.000Z",
-          "id": "2125600980956016780",
-          "reply_to_id": "2125550164051935538",
-          "text": "@teodorio &gt;tipped\n&gt;japan\n\ndude no lol what are you doing"
-        },
-        {
           "created_at": "2026-11-25T15:22:43.000Z",
           "id": "2125611144647725095",
           "reply_to_id": "2125602732098601242",
@@ -3478,6 +3472,12 @@
           "id": "2126478921256304871",
           "reply_to_id": "2126475687267573956",
           "text": "@mahood1ab2 right"
+        },
+        {
+          "created_at": "2026-11-28T01:02:27.000Z",
+          "id": "2126481816454676760",
+          "reply_to_id": "2126480891501572320",
+          "text": "@cremieuxrecueil i don't think this data contradicts my statement\n\nit's also something you'd expect from first principles\n\ntrade deficits correlate positively with economic investment\n\nand economic investment correlates positively with GDP (and therefore spending) growth"
         }
       ],
       "threads": {
@@ -3894,7 +3894,6 @@
         "2125397797675618770": false,
         "2125426861698351420": true,
         "2125444300452622421": false,
-        "2125600980956016780": false,
         "2125601070646984835": false,
         "2125611144647725095": true,
         "2125629655197638969": false,
@@ -3919,7 +3918,8 @@
         "2126419769758740564": false,
         "2126465515925188887": false,
         "2126475303564230755": true,
-        "2126478921256304871": false
+        "2126478921256304871": false,
+        "2126481816454676760": false
       },
       "user_id": "1598545553327067137"
     },
@@ -8171,5 +8171,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-28T00:58:19+00:00"
+  "updated_at": "2026-11-28T01:04:17+00:00"
 }
