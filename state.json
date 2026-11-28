@@ -1001,7 +1001,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126478090750840934",
+      "last_id": "2126478525398237208",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -1208,12 +1208,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-27T22:32:04.000Z",
-          "id": "2126443969571959187",
-          "reply_to_id": "2126443690508034200",
-          "text": "@kennyistyping Levels to this shit"
-        },
-        {
           "created_at": "2026-11-27T22:34:23.000Z",
           "id": "2126444551695147089",
           "reply_to_id": "2126444331049394554",
@@ -1302,6 +1296,12 @@
           "id": "2126478090750840934",
           "reply_to_id": "2126476242522165307",
           "text": "@STABLEUSDT_ hey dipass, if you are clearly in a range building a composite but price isn't doing much other than trying to accept higher off the lows, what the fuck would you do here?"
+        },
+        {
+          "created_at": "2026-11-28T00:49:23.000Z",
+          "id": "2126478525398237208",
+          "reply_to_id": "2126478415696212184",
+          "text": "@michaelishiding @STABLEUSDT_ lets go hunt some shorts"
         }
       ],
       "threads": {
@@ -1625,7 +1625,6 @@
         "2126392216159699140": false,
         "2126421147453706348": true,
         "2126433767590138255": true,
-        "2126443969571959187": false,
         "2126444551695147089": true,
         "2126446000533643468": false,
         "2126451112882713018": false,
@@ -1640,7 +1639,8 @@
         "2126475394421542949": false,
         "2126476000590700677": true,
         "2126477142854865187": false,
-        "2126478090750840934": true
+        "2126478090750840934": true,
+        "2126478525398237208": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8171,5 +8171,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-28T00:48:25+00:00"
+  "updated_at": "2026-11-28T00:50:31+00:00"
 }
