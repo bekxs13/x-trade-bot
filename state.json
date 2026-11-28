@@ -3235,7 +3235,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2126748472946598051",
+      "last_id": "2126750065452847169",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3412,12 +3412,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-28T01:19:48.000Z",
-          "id": "2126486179386384761",
-          "reply_to_id": "2126481890781892772",
-          "text": "@jukan05 when was this letter written lol"
-        },
-        {
           "created_at": "2026-11-28T06:03:08.000Z",
           "id": "2126557486098317814",
           "reply_to_id": "2126556726560161901",
@@ -3500,6 +3494,12 @@
           "id": "2126748472946598051",
           "reply_to_id": "2126746566992310756",
           "text": "@thsgolfnut @minhnguyen im just talking about the core thesis of the letter, not advocating for the thesis"
+        },
+        {
+          "created_at": "2026-11-28T18:48:23.000Z",
+          "id": "2126750065452847169",
+          "reply_to_id": "2126749438442123731",
+          "text": "@avi_eisen @minhnguyen not sure what you're asking here in terms of:\n\n1) edge - do you mean what the bid/ask spread of a wingy payer swaption is\n2) 100bps of what? in terms of premium  outlayed?"
         }
       ],
       "threads": {
@@ -3921,7 +3921,6 @@
         "2126151301025157563": false,
         "2126419769758740564": false,
         "2126465515925188887": false,
-        "2126486179386384761": false,
         "2126553099242439140": true,
         "2126553457733587051": false,
         "2126553682997309466": false,
@@ -3941,7 +3940,8 @@
         "2126746325362344341": true,
         "2126746672575230202": false,
         "2126747336374440332": false,
-        "2126748472946598051": false
+        "2126748472946598051": false,
+        "2126750065452847169": true
       },
       "user_id": "1598545553327067137"
     },
@@ -8193,5 +8193,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-28",
-  "updated_at": "2026-11-28T18:42:20+00:00"
+  "updated_at": "2026-11-28T18:50:20+00:00"
 }
