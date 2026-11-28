@@ -1011,7 +1011,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126765156034343038",
+      "last_id": "2126766069218247113",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -1049,27 +1049,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-27T03:15:00.000Z",
-          "id": "2126152785469338061",
-          "images": [
-            "https://pbs.twimg.com/media/HYGcCWxaQAATObd.jpg",
-            "https://pbs.twimg.com/media/HYGcH2ma4AAJWc-.png",
-            "https://pbs.twimg.com/media/HYGcRyFbEAAew-X.jpg",
-            "https://pbs.twimg.com/media/HYGcbkwaIAAUniQ.jpg"
-          ],
-          "quoted_text": "Gettin bored of Tearout mode, put me In A Trance \n\nwe just have to get thru Dec-Mar https://t.co/fRLb8RCTbP",
-          "text": "It's a Friday, don't blow up your account.\n\nGood luck kiddos #BVIV #VIX #BTC #SPX https://t.co/wQojCIbnLI https://t.co/Os6FVoZYdq"
-        },
-        {
-          "created_at": "2026-11-27T03:20:51.000Z",
-          "id": "2126154257628012801",
-          "images": [
-            "https://pbs.twimg.com/media/HYGd7U_agAADEgX.jpg"
-          ],
-          "reply_to_id": "2126152785469338061",
-          "text": "This VAH in this massive D profile composite we r buildin on Daily is important. \n\nRelevant to the 8w VAL from Q2-Q3 as well as a reclaim https://t.co/FXA6CMAMz5"
-        },
         {
           "created_at": "2026-11-27T05:32:07.000Z",
           "id": "2126187289483296932",
@@ -1195,11 +1174,28 @@
           "created_at": "2026-11-28T18:32:16.000Z",
           "id": "2126746008063472058",
           "text": "If Trump party is short BTC (insiders) over the weekend; the funniest outcome would be a short squeeze to say fuck you one last time lmao"
+        },
+        {
+          "created_at": "2026-11-28T19:51:11.000Z",
+          "id": "2126765871767200090",
+          "images": [
+            "https://pbs.twimg.com/media/HYPKKX6boAA_aaf.jpg",
+            "https://pbs.twimg.com/media/HYPKLvcaMAECQ5g.jpg",
+            "https://pbs.twimg.com/media/HYPKSSWbsAAJqnh.jpg"
+          ],
+          "text": "Would you short this? $BTC https://t.co/BtZZ9jZP05"
+        },
+        {
+          "created_at": "2026-11-28T19:51:58.000Z",
+          "id": "2126766069218247113",
+          "images": [
+            "https://pbs.twimg.com/media/HYPKdn1bYAADtaG.jpg"
+          ],
+          "reply_to_id": "2126765871767200090",
+          "text": "lel https://t.co/mW3kfHQ7G6"
         }
       ],
       "reads": {
-        "2126152785469338061": "No call",
-        "2126154257628012801": "No call",
         "2126187289483296932": "VIEW bearish on metals",
         "2126190093249675719": "VIEW bullish on DXY",
         "2126325378084135214": "No call",
@@ -1217,7 +1213,9 @@
         "2126573167347224984": "No call",
         "2126586385805259244": "No call",
         "2126732701512376640": "No call",
-        "2126746008063472058": "No call"
+        "2126746008063472058": "No call",
+        "2126765871767200090": "No call",
+        "2126766069218247113": "Read together with the post it replies to"
       },
       "replies": [
         {
@@ -1634,11 +1632,13 @@
         "2126746008063472058": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126765871767200090": {
+          "alerted": [],
+          "self_replies": 1
         }
       },
       "trading": {
-        "2126152785469338061": true,
-        "2126154257628012801": true,
         "2126187289483296932": true,
         "2126190093249675719": true,
         "2126325378084135214": true,
@@ -1671,7 +1671,9 @@
         "2126762688466616449": false,
         "2126764496635179375": true,
         "2126764647613350333": false,
-        "2126765156034343038": true
+        "2126765156034343038": true,
+        "2126765871767200090": true,
+        "2126766069218247113": false
       },
       "user_id": "1841011241877168128"
     },
@@ -8190,5 +8192,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-28",
-  "updated_at": "2026-11-28T19:50:22+00:00"
+  "updated_at": "2026-11-28T19:52:23+00:00"
 }
