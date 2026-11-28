@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2126685911496950049",
+      "last_id": "2126732864238788656",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -375,12 +375,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-25T03:12:54.000Z",
-          "id": "2125427481247416689",
-          "reply_to_id": "2125426861698351420",
-          "text": "@DeepDishEnjoyer aren't all these guys basically just robbing passive / ETF investors in diff ways"
-        },
-        {
           "created_at": "2026-11-25T03:22:18.000Z",
           "id": "2125429847405253061",
           "reply_to_id": "2125429299348181101",
@@ -463,6 +457,12 @@
           "id": "2126613435287052785",
           "reply_to_id": "2126613234837082424",
           "text": "@Sleepysolcap Appreciate ur talents u made me a lot of money. And good vids etc. world weird"
+        },
+        {
+          "created_at": "2026-11-28T17:40:02.000Z",
+          "id": "2126732864238788656",
+          "reply_to_id": "2126730640154620298",
+          "text": "@tolstoybb At lax gnarly lol"
         }
       ],
       "threads": {
@@ -873,7 +873,6 @@
         }
       },
       "trading": {
-        "2125427481247416689": true,
         "2125429847405253061": false,
         "2125439809883898134": true,
         "2125495718052016234": false,
@@ -907,7 +906,8 @@
         "2126612471159124335": false,
         "2126613435287052785": false,
         "2126685436236255374": false,
-        "2126685911496950049": false
+        "2126685911496950049": false,
+        "2126732864238788656": false
       },
       "user_id": "1446541960181858315"
     },
@@ -1011,7 +1011,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126588905113936232",
+      "last_id": "2126732701512376640",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -1049,12 +1049,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T23:04:52.000Z",
-          "id": "2126089835878416626",
-          "quoted_text": "There's a belief in CT that crypto natives can't use options cause they're too stupid. The people who say this are really projecting their own inability to learn something complex. \n\nOptions &gt; perps.",
-          "text": "If you are a small account trying to turn $1000 &gt; $10,000, Options 100%. Hell even sub $100,000 accounts.\n\n1 Volatile move up or down on a decent 60-90 day Option, can return you soo much $.\n\nIf you bought a 70k Dec PUT at 80-87k BTC, contract woulda gone 10-25k ish depending. https://t.co/8vmHQkCfSL"
-        },
         {
           "created_at": "2026-11-26T23:10:25.000Z",
           "id": "2126091232132939843",
@@ -1194,10 +1188,17 @@
           "id": "2126586385805259244",
           "quoted_text": "@bull_genius lol https://t.co/dVMauPh4MR",
           "text": "Discuss https://t.co/sh1Tli4AEs"
+        },
+        {
+          "created_at": "2026-11-28T17:39:23.000Z",
+          "id": "2126732701512376640",
+          "images": [
+            "https://pbs.twimg.com/tweet_video_thumb/HYOsHlfbMAEcOfg.jpg"
+          ],
+          "text": "Crypto space is sure entertaining https://t.co/x9r7JdBVx8"
         }
       ],
       "reads": {
-        "2126089835878416626": "No call",
         "2126091232132939843": "No call",
         "2126152785469338061": "No call",
         "2126154257628012801": "No call",
@@ -1216,7 +1217,8 @@
         "2126561181561466987": "No call",
         "2126566957478490347": "No call",
         "2126573167347224984": "No call",
-        "2126586385805259244": "No call"
+        "2126586385805259244": "No call",
+        "2126732701512376640": "No call"
       },
       "replies": [
         {
@@ -1631,10 +1633,13 @@
         "2126586385805259244": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126732701512376640": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2126089835878416626": true,
         "2126091232132939843": true,
         "2126152785469338061": true,
         "2126154257628012801": true,
@@ -1668,7 +1673,8 @@
         "2126581320373658087": false,
         "2126586385805259244": false,
         "2126587530384678959": false,
-        "2126588905113936232": false
+        "2126588905113936232": false,
+        "2126732701512376640": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8187,5 +8193,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-28",
-  "updated_at": "2026-11-28T16:44:17+00:00"
+  "updated_at": "2026-11-28T17:40:34+00:00"
 }
