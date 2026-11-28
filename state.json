@@ -998,7 +998,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126581320373658087",
+      "last_id": "2126586385805259244",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -1036,14 +1036,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T21:23:02.000Z",
-          "id": "2126064209180168695",
-          "images": [
-            "https://pbs.twimg.com/media/HYFMH3zbYAAwIK3.jpg"
-          ],
-          "text": "Gettin bored of Tearout mode, put me In A Trance \n\nwe just have to get thru Dec-Mar https://t.co/fRLb8RCTbP"
-        },
         {
           "created_at": "2026-11-26T23:04:52.000Z",
           "id": "2126089835878416626",
@@ -1183,10 +1175,15 @@
             "https://pbs.twimg.com/media/HYMbBOhaoAARzof.jpg"
           ],
           "text": "Right before the WLFI shit, this guy moved https://t.co/7XiiLrq2q7"
+        },
+        {
+          "created_at": "2026-11-28T07:57:59.000Z",
+          "id": "2126586385805259244",
+          "quoted_text": "@bull_genius lol https://t.co/dVMauPh4MR",
+          "text": "Discuss https://t.co/sh1Tli4AEs"
         }
       ],
       "reads": {
-        "2126064209180168695": "No call: bearish on btc (60%, too unsure)",
         "2126089835878416626": "No call",
         "2126091232132939843": "No call",
         "2126152785469338061": "No call",
@@ -1205,7 +1202,8 @@
         "2126476000590700677": "No call",
         "2126561181561466987": "No call",
         "2126566957478490347": "No call",
-        "2126573167347224984": "No call"
+        "2126573167347224984": "No call",
+        "2126586385805259244": "No call"
       },
       "replies": [
         {
@@ -1616,10 +1614,13 @@
         "2126573167347224984": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126586385805259244": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2126064209180168695": true,
         "2126089835878416626": true,
         "2126091232132939843": true,
         "2126152785469338061": true,
@@ -1653,7 +1654,8 @@
         "2126573167347224984": true,
         "2126574475592515601": false,
         "2126578547875791060": false,
-        "2126581320373658087": false
+        "2126581320373658087": false,
+        "2126586385805259244": false
       },
       "user_id": "1841011241877168128"
     },
@@ -8175,5 +8177,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-28T07:38:18+00:00"
+  "updated_at": "2026-11-28T07:58:18+00:00"
 }
