@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2126563121032790364",
+      "last_id": "2126563747837939727",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,14 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T01:40:13.000Z",
-          "id": "2125766545028849759",
-          "images": [
-            "https://pbs.twimg.com/media/HYA9XW_aUAE_l2s.jpg"
-          ],
-          "text": "2026 rng retarded honestly https://t.co/Yr8RDVqZFG"
-        },
         {
           "created_at": "2026-11-26T01:45:29.000Z",
           "id": "2125767869359423785",
@@ -339,10 +331,14 @@
             "https://pbs.twimg.com/media/HYMRrHkbgAAdki7.jpg"
           ],
           "text": "donthaveinstagramsohereugo.jpg https://t.co/T9kCKRdyKe"
+        },
+        {
+          "created_at": "2026-11-28T06:28:01.000Z",
+          "id": "2126563747837939727",
+          "text": "Cipriani is truly the Mcdonalds of taking 5 girls out"
         }
       ],
       "reads": {
-        "2125766545028849759": "No call",
         "2125767869359423785": "No call",
         "2125827890260709468": "No call",
         "2125834403356328261": "No call",
@@ -361,7 +357,8 @@
         "2126526273669435668": "No call",
         "2126527317350695016": "No call",
         "2126534443469099250": "No call",
-        "2126563121032790364": "No call"
+        "2126563121032790364": "No call",
+        "2126563747837939727": "No call"
       },
       "replies": [
         {
@@ -456,10 +453,6 @@
         }
       ],
       "threads": {
-        "2122810288328376537": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122858697257021617": {
           "alerted": [],
           "self_replies": 0
@@ -860,6 +853,10 @@
         "2126563121032790364": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126563747837939727": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -870,7 +867,6 @@
         "2125495718052016234": false,
         "2125642856300003422": true,
         "2125673591396237434": true,
-        "2125766545028849759": false,
         "2125767869359423785": false,
         "2125827890260709468": false,
         "2125834403356328261": false,
@@ -897,7 +893,8 @@
         "2126534443469099250": false,
         "2126540845176525220": false,
         "2126543211825115242": false,
-        "2126563121032790364": false
+        "2126563121032790364": false,
+        "2126563747837939727": false
       },
       "user_id": "1446541960181858315"
     },
@@ -8166,5 +8163,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-28T06:26:23+00:00"
+  "updated_at": "2026-11-28T06:28:25+00:00"
 }
