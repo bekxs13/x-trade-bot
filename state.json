@@ -3235,7 +3235,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2126746325362344341",
+      "last_id": "2126746672575230202",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3412,12 +3412,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-28T00:36:35.000Z",
-          "id": "2126475303564230755",
-          "reply_to_id": "2126473979711950871",
-          "text": "@cremieuxrecueil i don't think there is any empirical relationship between trade deficit and prevailing price levels/inflation, especially in a hyperdeveloped economy like that of the united states - there are both inflationary and deflationary effects"
-        },
-        {
           "created_at": "2026-11-28T00:50:57.000Z",
           "id": "2126478921256304871",
           "reply_to_id": "2126475687267573956",
@@ -3500,6 +3494,12 @@
           "id": "2126746325362344341",
           "reply_to_id": "2126743791000555868",
           "text": "@pen_rotator @minhnguyen yes, i know payers/receiver nomenclature (having traded these before), but figured this would be easier to understand for minh"
+        },
+        {
+          "created_at": "2026-11-28T18:34:54.000Z",
+          "id": "2126746672575230202",
+          "reply_to_id": "2126738917743575059",
+          "text": "@nntaleb why are you so mean to me"
         }
       ],
       "threads": {
@@ -3921,7 +3921,6 @@
         "2126151301025157563": false,
         "2126419769758740564": false,
         "2126465515925188887": false,
-        "2126475303564230755": true,
         "2126478921256304871": false,
         "2126481816454676760": false,
         "2126486179386384761": false,
@@ -3941,7 +3940,8 @@
         "2126741077143245283": false,
         "2126741993976140042": false,
         "2126742567966458284": false,
-        "2126746325362344341": true
+        "2126746325362344341": true,
+        "2126746672575230202": false
       },
       "user_id": "1598545553327067137"
     },
@@ -8193,5 +8193,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-28",
-  "updated_at": "2026-11-28T18:34:25+00:00"
+  "updated_at": "2026-11-28T18:36:20+00:00"
 }
