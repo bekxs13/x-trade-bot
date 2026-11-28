@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2126525785150468510",
+      "last_id": "2126526273669435668",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,11 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T19:27:11.000Z",
-          "id": "2125672668016124410",
-          "text": "Anthropic up 5% on news that Dario will let you keep free will"
-        },
         {
           "created_at": "2026-11-25T21:51:37.000Z",
           "id": "2125709014621434004",
@@ -338,10 +333,15 @@
           "id": "2126525785150468510",
           "reply_to_id": "2126525616929509596",
           "text": "The suburbs 2: electric"
+        },
+        {
+          "created_at": "2026-11-28T03:59:07.000Z",
+          "id": "2126526273669435668",
+          "quoted_text": "Gavin Baker Bullish on AI Infrastructure",
+          "text": "Situational Awareness Bullish on AI Labs https://t.co/zaaOwvPVDp"
         }
       ],
       "reads": {
-        "2125672668016124410": "No call",
         "2125709014621434004": "No call",
         "2125717559647612944": "No call",
         "2125754717376754060": "No call",
@@ -360,7 +360,8 @@
         "2126506023326474418": "No call",
         "2126508328817975427": "No call",
         "2126525616929509596": "No call",
-        "2126525785150468510": "Read together with the post it replies to"
+        "2126525785150468510": "Read together with the post it replies to",
+        "2126526273669435668": "No call"
       },
       "replies": [
         {
@@ -455,10 +456,6 @@
         }
       ],
       "threads": {
-        "2122731219381289010": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122736895176360018": {
           "alerted": [],
           "self_replies": 0
@@ -859,6 +856,10 @@
         "2126525616929509596": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2126526273669435668": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -872,7 +873,6 @@
         "2125439809883898134": true,
         "2125495718052016234": false,
         "2125642856300003422": true,
-        "2125672668016124410": false,
         "2125673591396237434": true,
         "2125709014621434004": false,
         "2125717559647612944": false,
@@ -896,7 +896,8 @@
         "2126508328817975427": false,
         "2126524082267300126": false,
         "2126525616929509596": false,
-        "2126525785150468510": false
+        "2126525785150468510": false,
+        "2126526273669435668": true
       },
       "user_id": "1446541960181858315"
     },
@@ -8170,5 +8171,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-28T03:58:27+00:00"
+  "updated_at": "2026-11-28T04:00:29+00:00"
 }
