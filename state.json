@@ -1001,7 +1001,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126475082327547945",
+      "last_id": "2126475394421542949",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -1202,12 +1202,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-27T22:18:32.000Z",
-          "id": "2126440563667030232",
-          "reply_to_id": "2126440204202336363",
-          "text": "@sniperxbt For which?"
-        },
-        {
           "created_at": "2026-11-27T22:25:30.000Z",
           "id": "2126442315409662232",
           "reply_to_id": "2126441976870637637",
@@ -1293,6 +1287,12 @@
           "id": "2126475082327547945",
           "reply_to_id": "2126474677065494794",
           "text": "@NAFOMO94 I am not sure what this means here"
+        },
+        {
+          "created_at": "2026-11-28T00:36:56.000Z",
+          "id": "2126475394421542949",
+          "reply_to_id": "2126475203437867340",
+          "text": "@VolSignals my Dad would love this"
         }
       ],
       "threads": {
@@ -1613,7 +1613,6 @@
         "2126392216159699140": false,
         "2126421147453706348": true,
         "2126433767590138255": true,
-        "2126440563667030232": false,
         "2126442315409662232": false,
         "2126443147769380884": true,
         "2126443969571959187": false,
@@ -1627,7 +1626,8 @@
         "2126467704899121535": false,
         "2126469718928461927": false,
         "2126474547503538463": false,
-        "2126475082327547945": false
+        "2126475082327547945": false,
+        "2126475394421542949": false
       },
       "user_id": "1841011241877168128"
     },
@@ -3188,7 +3188,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2126465515925188887",
+      "last_id": "2126475303564230755",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3374,12 +3374,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-25T05:22:51.000Z",
-          "id": "2125460184235647450",
-          "reply_to_id": "2125457153540661271",
-          "text": "@Nexuist LOL @kyliebytes"
-        },
-        {
           "created_at": "2026-11-25T14:25:18.000Z",
           "id": "2125596695492993513",
           "reply_to_id": "2125497967943750080",
@@ -3465,6 +3459,12 @@
           "id": "2126223096797646944",
           "reply_to_id": "2126222275469009250",
           "text": "@brksbrksbrks @zephyr_z9 ? where does that blog suggest anything of the sort"
+        },
+        {
+          "created_at": "2026-11-28T00:36:35.000Z",
+          "id": "2126475303564230755",
+          "reply_to_id": "2126473979711950871",
+          "text": "@cremieuxrecueil i don't think there is any empirical relationship between trade deficit and prevailing price levels/inflation, especially in a hyperdeveloped economy like that of the united states - there are both inflationary and deflationary effects"
         }
       ],
       "threads": {
@@ -3881,7 +3881,6 @@
         "2125397797675618770": false,
         "2125426861698351420": true,
         "2125444300452622421": false,
-        "2125460184235647450": false,
         "2125596695492993513": false,
         "2125600980956016780": false,
         "2125601070646984835": false,
@@ -3906,7 +3905,8 @@
         "2126221682733916321": false,
         "2126223096797646944": false,
         "2126419769758740564": false,
-        "2126465515925188887": false
+        "2126465515925188887": false,
+        "2126475303564230755": true
       },
       "user_id": "1598545553327067137"
     },
@@ -8158,5 +8158,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-28T00:36:20+00:00"
+  "updated_at": "2026-11-28T00:38:19+00:00"
 }
