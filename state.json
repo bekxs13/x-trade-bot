@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2126531743901680060",
+      "last_id": "2126534443469099250",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,11 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T22:25:34.000Z",
-          "id": "2125717559647612944",
-          "text": "Modern Farmhouse epidemic got bigger than crack"
-        },
         {
           "created_at": "2026-11-26T00:53:13.000Z",
           "id": "2125754717376754060",
@@ -339,10 +334,14 @@
           "created_at": "2026-11-28T04:03:16.000Z",
           "id": "2126527317350695016",
           "text": "Some of these anonymous https://t.co/wbs8TQcx0L accounts, all they do is hate. As for me, all I do is love"
+        },
+        {
+          "created_at": "2026-11-28T04:31:35.000Z",
+          "id": "2126534443469099250",
+          "text": "Could not find driver \nDriver too far away\nDriver not getting closer\nWrong pickup location"
         }
       ],
       "reads": {
-        "2125717559647612944": "No call",
         "2125754717376754060": "No call",
         "2125766545028849759": "No call",
         "2125767869359423785": "No call",
@@ -361,7 +360,8 @@
         "2126525616929509596": "No call",
         "2126525785150468510": "Read together with the post it replies to",
         "2126526273669435668": "No call",
-        "2126527317350695016": "No call"
+        "2126527317350695016": "No call",
+        "2126534443469099250": "No call"
       },
       "replies": [
         {
@@ -456,10 +456,6 @@
         }
       ],
       "threads": {
-        "2122737320864735434": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2122746051178475852": {
           "alerted": [],
           "self_replies": 0
@@ -860,6 +856,10 @@
         "2126527317350695016": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126534443469099250": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -872,7 +872,6 @@
         "2125495718052016234": false,
         "2125642856300003422": true,
         "2125673591396237434": true,
-        "2125717559647612944": false,
         "2125754717376754060": false,
         "2125766545028849759": false,
         "2125767869359423785": false,
@@ -897,7 +896,8 @@
         "2126526273669435668": true,
         "2126527317350695016": false,
         "2126530971168395593": false,
-        "2126531743901680060": false
+        "2126531743901680060": false,
+        "2126534443469099250": false
       },
       "user_id": "1446541960181858315"
     },
@@ -8171,5 +8171,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-28T04:22:23+00:00"
+  "updated_at": "2026-11-28T04:32:29+00:00"
 }
