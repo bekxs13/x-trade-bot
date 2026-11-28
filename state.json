@@ -3201,7 +3201,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2126486179386384761",
+      "last_id": "2126553099242439140",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3237,15 +3237,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-24T16:08:49.000Z",
-          "id": "2125260359594357094",
-          "images": [
-            "https://pbs.twimg.com/media/HX5xB3MWwAEFgnc.png"
-          ],
-          "quoted_text": "wrong. during the four year duration of this administration we will experience artificially heightened volatility specifically engineered to create short-term trading opportunities for insiders https://t.co/WmgvhGGpqu",
-          "text": "https://t.co/eF0E4QJgp0 https://t.co/SFUUY0j49y"
-        },
         {
           "created_at": "2026-11-24T18:18:57.000Z",
           "id": "2125293107508044118",
@@ -3365,10 +3356,15 @@
           "created_at": "2026-11-27T23:57:41.000Z",
           "id": "2126465515925188887",
           "text": "palantir is going to start offering large sums of money for raw training data from ukranian drone operators aren't they"
+        },
+        {
+          "created_at": "2026-11-28T05:45:42.000Z",
+          "id": "2126553099242439140",
+          "quoted_text": "bruh leopold's fund spends $50K a day on claude ($20M a year).\n\nwow https://t.co/26Y4Fxi0ec",
+          "text": "while this is not a crazy high claude spend for a 10 billion fund usually, i think for them it's uniquely bad because they don't have many positions and their main source of alpha is informational edge that they acquire via social position? https://t.co/5ixQ5xGzuF"
         }
       ],
       "reads": {
-        "2125260359594357094": "No call",
         "2125293107508044118": "No call",
         "2125293253347950899": "Read together with the post it replies to",
         "2125298990791209043": "No call",
@@ -3383,7 +3379,8 @@
         "2125786568468107777": "No call",
         "2126147810848305285": "No call",
         "2126419769758740564": "No call",
-        "2126465515925188887": "No call"
+        "2126465515925188887": "No call",
+        "2126553099242439140": "No call"
       },
       "replies": [
         {
@@ -3481,10 +3478,6 @@
         }
       ],
       "threads": {
-        "2120294077296156748": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120313070702747817": {
           "alerted": [],
           "self_replies": 1
@@ -3882,10 +3875,13 @@
         "2126465515925188887": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126553099242439140": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125260359594357094": true,
         "2125293107508044118": true,
         "2125293253347950899": false,
         "2125298990791209043": false,
@@ -3919,7 +3915,8 @@
         "2126475303564230755": true,
         "2126478921256304871": false,
         "2126481816454676760": false,
-        "2126486179386384761": false
+        "2126486179386384761": false,
+        "2126553099242439140": true
       },
       "user_id": "1598545553327067137"
     },
@@ -8171,5 +8168,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-28T05:08:20+00:00"
+  "updated_at": "2026-11-28T05:46:22+00:00"
 }
