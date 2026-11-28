@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2126613435287052785",
+      "last_id": "2126685436236255374",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,11 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T06:13:32.000Z",
-          "id": "2125835327084568593",
-          "text": "In America 2026 blackout Wednesday is actually bigger than thanksgiving"
-        },
         {
           "created_at": "2026-11-26T09:28:50.000Z",
           "id": "2125884473984376855",
@@ -342,10 +337,17 @@
             "https://pbs.twimg.com/media/HYM-xH0awAEscLt.jpg"
           ],
           "text": "do u have fun  on the internet.  still? https://t.co/FeHDC13jBk"
+        },
+        {
+          "created_at": "2026-11-28T14:31:34.000Z",
+          "id": "2126685436236255374",
+          "images": [
+            "https://pbs.twimg.com/media/HYOBIUEbAAAb1Ku.jpg"
+          ],
+          "text": "https://t.co/XCx6ExV17w"
         }
       ],
       "reads": {
-        "2125835327084568593": "No call",
         "2125884473984376855": "No call",
         "2126030298022662337": "No call",
         "2126047164279533857": "No call",
@@ -364,7 +366,8 @@
         "2126563747837939727": "No call",
         "2126610427287343433": "No call",
         "2126611532322869690": "No call",
-        "2126612471159124335": "No call"
+        "2126612471159124335": "No call",
+        "2126685436236255374": "No call"
       },
       "replies": [
         {
@@ -459,10 +462,6 @@
         }
       ],
       "threads": {
-        "2123168137671753814": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2123217356042473895": {
           "alerted": [],
           "self_replies": 0
@@ -863,6 +862,10 @@
         "2126612471159124335": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126685436236255374": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -872,7 +875,6 @@
         "2125495718052016234": false,
         "2125642856300003422": true,
         "2125673591396237434": true,
-        "2125835327084568593": false,
         "2125842045755613365": false,
         "2125884473984376855": false,
         "2126030298022662337": false,
@@ -900,7 +902,8 @@
         "2126610427287343433": false,
         "2126611532322869690": false,
         "2126612471159124335": false,
-        "2126613435287052785": false
+        "2126613435287052785": false,
+        "2126685436236255374": false
       },
       "user_id": "1446541960181858315"
     },
@@ -8183,5 +8186,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-28",
-  "updated_at": "2026-11-28T14:00:25+00:00"
+  "updated_at": "2026-11-28T14:32:28+00:00"
 }
