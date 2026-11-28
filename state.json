@@ -3235,7 +3235,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2126746672575230202",
+      "last_id": "2126747336374440332",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3412,12 +3412,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-28T00:50:57.000Z",
-          "id": "2126478921256304871",
-          "reply_to_id": "2126475687267573956",
-          "text": "@mahood1ab2 right"
-        },
-        {
           "created_at": "2026-11-28T01:02:27.000Z",
           "id": "2126481816454676760",
           "reply_to_id": "2126480891501572320",
@@ -3500,6 +3494,12 @@
           "id": "2126746672575230202",
           "reply_to_id": "2126738917743575059",
           "text": "@nntaleb why are you so mean to me"
+        },
+        {
+          "created_at": "2026-11-28T18:37:32.000Z",
+          "id": "2126747336374440332",
+          "reply_to_id": "2126729792581980638",
+          "text": "@alcherblack you say that, but how much does your org actually spend per person? 100k and 1mm are an order of magnitude apart and i bet it's much closer to the former"
         }
       ],
       "threads": {
@@ -3921,7 +3921,6 @@
         "2126151301025157563": false,
         "2126419769758740564": false,
         "2126465515925188887": false,
-        "2126478921256304871": false,
         "2126481816454676760": false,
         "2126486179386384761": false,
         "2126553099242439140": true,
@@ -3941,7 +3940,8 @@
         "2126741993976140042": false,
         "2126742567966458284": false,
         "2126746325362344341": true,
-        "2126746672575230202": false
+        "2126746672575230202": false,
+        "2126747336374440332": false
       },
       "user_id": "1598545553327067137"
     },
@@ -8193,5 +8193,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-28",
-  "updated_at": "2026-11-28T18:36:20+00:00"
+  "updated_at": "2026-11-28T18:38:19+00:00"
 }
