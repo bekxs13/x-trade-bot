@@ -1011,7 +1011,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126771430369226988",
+      "last_id": "2126773477520576806",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -1049,11 +1049,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-27T05:32:07.000Z",
-          "id": "2126187289483296932",
-          "text": "Metal bros got a really tough reality check going into January-Feb thinking they nailed the bottom \ud83d\udc1f\u2728\n\nBut I am just a silly T.r.o.u.t."
-        },
         {
           "created_at": "2026-11-27T05:43:15.000Z",
           "id": "2126190093249675719",
@@ -1193,10 +1188,17 @@
           ],
           "reply_to_id": "2126765871767200090",
           "text": "lel https://t.co/mW3kfHQ7G6"
+        },
+        {
+          "created_at": "2026-11-28T20:21:25.000Z",
+          "id": "2126773477520576806",
+          "images": [
+            "https://pbs.twimg.com/media/HYPRLhpb0AAk_Dn.png"
+          ],
+          "text": "State of things currently https://t.co/aGe07q2T6l"
         }
       ],
       "reads": {
-        "2126187289483296932": "VIEW bearish on metals",
         "2126190093249675719": "VIEW bullish on DXY",
         "2126325378084135214": "No call",
         "2126328943993311340": "No call: bearish on VVV (same view as before)",
@@ -1215,15 +1217,10 @@
         "2126732701512376640": "No call",
         "2126746008063472058": "No call",
         "2126765871767200090": "No call",
-        "2126766069218247113": "Read together with the post it replies to"
+        "2126766069218247113": "Read together with the post it replies to",
+        "2126773477520576806": "No call"
       },
       "replies": [
-        {
-          "created_at": "2026-11-28T18:56:06.000Z",
-          "id": "2126752008002822469",
-          "reply_to_id": "2126750638721679533",
-          "text": "@PlutonicXBT Exactly \n\nI also think if this news was soooo bad we wouldn\u2019t be above 59k lmao"
-        },
         {
           "created_at": "2026-11-28T18:56:59.000Z",
           "id": "2126752228786819209",
@@ -1307,6 +1304,12 @@
           "id": "2126771430369226988",
           "reply_to_id": "2126638576548958363",
           "text": "@0xG00gly great tweet"
+        },
+        {
+          "created_at": "2026-11-28T20:20:54.000Z",
+          "id": "2126773347954373072",
+          "reply_to_id": "2126773096572940582",
+          "text": "@cornd0gman comment"
         }
       ],
       "threads": {
@@ -1636,10 +1639,13 @@
         "2126765871767200090": {
           "alerted": [],
           "self_replies": 1
+        },
+        "2126773477520576806": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2126187289483296932": true,
         "2126190093249675719": true,
         "2126325378084135214": true,
         "2126328943993311340": true,
@@ -1657,7 +1663,6 @@
         "2126586385805259244": false,
         "2126732701512376640": true,
         "2126746008063472058": true,
-        "2126752008002822469": true,
         "2126752228786819209": false,
         "2126753912669827344": true,
         "2126761860729069838": false,
@@ -1673,7 +1678,9 @@
         "2126768546881708416": true,
         "2126768563361140819": false,
         "2126769883329524053": false,
-        "2126771430369226988": false
+        "2126771430369226988": false,
+        "2126773347954373072": false,
+        "2126773477520576806": true
       },
       "user_id": "1841011241877168128"
     },
@@ -8196,5 +8203,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-28",
-  "updated_at": "2026-11-28T20:14:25+00:00"
+  "updated_at": "2026-11-28T20:22:23+00:00"
 }
