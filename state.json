@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2126527317350695016",
+      "last_id": "2126530971168395593",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -365,12 +365,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-25T02:00:05.000Z",
-          "id": "2125409155704086541",
-          "reply_to_id": "2125408319640891862",
-          "text": "@frizzaud @stoicsavage I was never involved in the zec wave, the real PRL trade was probly a zec short lmao since they tried to vamp the narrative. Unfortunate the only ppl left tweeting coins make it borderline embarrassing to buy stuff given how it\u2019s presented"
-        },
-        {
           "created_at": "2026-11-25T02:03:24.000Z",
           "id": "2125409988269203853",
           "reply_to_id": "2125409312621383936",
@@ -453,6 +447,12 @@
           "id": "2126524082267300126",
           "reply_to_id": "2126523530145829342",
           "text": "@bbcappital I\u2019m from\nUr city"
+        },
+        {
+          "created_at": "2026-11-28T04:17:47.000Z",
+          "id": "2126530971168395593",
+          "reply_to_id": "2126530448159658120",
+          "text": "@buyerofponzi LA yes. M\u00cdA maybe Basel u there?"
         }
       ],
       "threads": {
@@ -863,7 +863,6 @@
         }
       },
       "trading": {
-        "2125409155704086541": true,
         "2125409988269203853": false,
         "2125418109704245653": true,
         "2125422728673100012": true,
@@ -897,7 +896,8 @@
         "2126525616929509596": false,
         "2126525785150468510": false,
         "2126526273669435668": true,
-        "2126527317350695016": false
+        "2126527317350695016": false,
+        "2126530971168395593": false
       },
       "user_id": "1446541960181858315"
     },
@@ -8171,5 +8171,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-28T04:04:20+00:00"
+  "updated_at": "2026-11-28T04:18:17+00:00"
 }
