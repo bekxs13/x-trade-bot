@@ -3234,7 +3234,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2126750888605720899",
+      "last_id": "2126770810769879433",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3270,12 +3270,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-25T01:14:57.000Z",
-          "id": "2125397797675618770",
-          "reply_to_id": "2125397734521995398",
-          "text": "@joseph_h_garvin anyway courtesy like or else"
-        },
         {
           "created_at": "2026-11-25T03:10:27.000Z",
           "id": "2125426861698351420",
@@ -3390,6 +3384,15 @@
           "id": "2126740122808824234",
           "quoted_text": "tummy horts",
           "text": "when tummy horts all i want to eat is bread. that's also true when tummy fine but still https://t.co/KJyRctHLWi"
+        },
+        {
+          "created_at": "2026-11-28T20:10:49.000Z",
+          "id": "2126770810769879433",
+          "images": [
+            "https://pbs.twimg.com/media/HYPOxUiWEAAmhDt.jpg"
+          ],
+          "quoted_text": "when tummy horts all i want to eat is bread. that's also true when tummy fine but still https://t.co/KJyRctHLWi",
+          "text": "when ur an adult u can do anything https://t.co/nAjpx02qQK https://t.co/Hr6yJlvbjE"
         }
       ],
       "reads": {
@@ -3407,7 +3410,8 @@
         "2126553457733587051": "No call",
         "2126562194766823639": "No call",
         "2126713273064292798": "No call",
-        "2126740122808824234": "No call"
+        "2126740122808824234": "No call",
+        "2126770810769879433": "No call"
       },
       "replies": [
         {
@@ -3502,10 +3506,6 @@
         }
       ],
       "threads": {
-        "2120534964332875883": {
-          "alerted": [],
-          "self_replies": 0
-        },
         "2120537214329245873": {
           "alerted": [],
           "self_replies": 1
@@ -3903,10 +3903,13 @@
         "2126740122808824234": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126770810769879433": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2125397797675618770": false,
         "2125426861698351420": true,
         "2125444300452622421": false,
         "2125601070646984835": false,
@@ -3940,7 +3943,8 @@
         "2126747336374440332": false,
         "2126748472946598051": false,
         "2126750065452847169": true,
-        "2126750888605720899": true
+        "2126750888605720899": true,
+        "2126770810769879433": false
       },
       "user_id": "1598545553327067137"
     },
@@ -8192,5 +8196,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-28",
-  "updated_at": "2026-11-28T20:08:17+00:00"
+  "updated_at": "2026-11-28T20:12:21+00:00"
 }
