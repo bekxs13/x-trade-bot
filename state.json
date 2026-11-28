@@ -3232,7 +3232,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2126740396848083437",
+      "last_id": "2126740577194492241",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3409,12 +3409,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-27T03:08:37.000Z",
-          "id": "2126151179751071890",
-          "reply_to_id": "2126124951711490446",
-          "text": "@minhnguyen @ethanrkho @detroitcoder counterpoint, this is the jane and to some extent hrt thesis. it doesn't matter if \"traditional\" finance people are slow adopters if there are well capitalized adopters eating their lunch"
-        },
-        {
           "created_at": "2026-11-27T05:47:01.000Z",
           "id": "2126191041325965655",
           "reply_to_id": "2126169729526079594",
@@ -3497,6 +3491,12 @@
           "id": "2126740396848083437",
           "reply_to_id": "2126740144145494519",
           "text": "@minhnguyen if you have 10 mil you can get a private banking account at somewhere like goldman and trade with their rates desk"
+        },
+        {
+          "created_at": "2026-11-28T18:10:41.000Z",
+          "id": "2126740577194492241",
+          "reply_to_id": "2126740401453515158",
+          "text": "@HughLouisDewey might change it up and go to collete"
         }
       ],
       "threads": {
@@ -3915,7 +3915,6 @@
         "2125746537829478653": true,
         "2125786568468107777": true,
         "2126147810848305285": false,
-        "2126151179751071890": false,
         "2126151301025157563": false,
         "2126191041325965655": false,
         "2126218298002190608": false,
@@ -3938,7 +3937,8 @@
         "2126715994001551657": false,
         "2126738972822962574": true,
         "2126740122808824234": false,
-        "2126740396848083437": true
+        "2126740396848083437": true,
+        "2126740577194492241": false
       },
       "user_id": "1598545553327067137"
     },
@@ -8190,5 +8190,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-28",
-  "updated_at": "2026-11-28T18:10:28+00:00"
+  "updated_at": "2026-11-28T18:12:18+00:00"
 }
