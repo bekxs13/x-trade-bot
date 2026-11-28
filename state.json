@@ -1011,7 +1011,7 @@
         }
       ],
       "handle": "bigtrout300",
-      "last_id": "2126739817384083947",
+      "last_id": "2126746008063472058",
       "positions": {
         "NVDA": {
           "asset": "NVDA",
@@ -1049,12 +1049,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T23:10:25.000Z",
-          "id": "2126091232132939843",
-          "reply_to_id": "2126089835878416626",
-          "text": "the 70k put was literally 800-1300 depending when you loaded it btw *"
-        },
         {
           "created_at": "2026-11-27T03:15:00.000Z",
           "id": "2126152785469338061",
@@ -1196,10 +1190,14 @@
             "https://pbs.twimg.com/tweet_video_thumb/HYOsHlfbMAEcOfg.jpg"
           ],
           "text": "Crypto space is sure entertaining https://t.co/x9r7JdBVx8"
+        },
+        {
+          "created_at": "2026-11-28T18:32:16.000Z",
+          "id": "2126746008063472058",
+          "text": "If Trump party is short BTC (insiders) over the weekend; the funniest outcome would be a short squeeze to say fuck you one last time lmao"
         }
       ],
       "reads": {
-        "2126091232132939843": "No call",
         "2126152785469338061": "No call",
         "2126154257628012801": "No call",
         "2126187289483296932": "VIEW bearish on metals",
@@ -1218,7 +1216,8 @@
         "2126566957478490347": "No call",
         "2126573167347224984": "No call",
         "2126586385805259244": "No call",
-        "2126732701512376640": "No call"
+        "2126732701512376640": "No call",
+        "2126746008063472058": "No call"
       },
       "replies": [
         {
@@ -1634,10 +1633,13 @@
         "2126732701512376640": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126746008063472058": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
-        "2126091232132939843": true,
         "2126152785469338061": true,
         "2126154257628012801": true,
         "2126187289483296932": true,
@@ -1671,7 +1673,8 @@
         "2126732959374004711": false,
         "2126734649133257107": false,
         "2126734903769493649": true,
-        "2126739817384083947": true
+        "2126739817384083947": true,
+        "2126746008063472058": true
       },
       "user_id": "1841011241877168128"
     },
@@ -3232,7 +3235,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2126742567966458284",
+      "last_id": "2126746325362344341",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3409,12 +3412,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-27T07:54:24.000Z",
-          "id": "2126223096797646944",
-          "reply_to_id": "2126222275469009250",
-          "text": "@brksbrksbrks @zephyr_z9 ? where does that blog suggest anything of the sort"
-        },
-        {
           "created_at": "2026-11-28T00:36:35.000Z",
           "id": "2126475303564230755",
           "reply_to_id": "2126473979711950871",
@@ -3497,6 +3494,12 @@
           "id": "2126742567966458284",
           "reply_to_id": "2126721146531835910",
           "text": "@RealPeterTeal it's nothing new for me, if you've only been tangentially thinking about AI probably helpful to digest the themes that ai pilled people are pontificating about"
+        },
+        {
+          "created_at": "2026-11-28T18:33:31.000Z",
+          "id": "2126746325362344341",
+          "reply_to_id": "2126743791000555868",
+          "text": "@pen_rotator @minhnguyen yes, i know payers/receiver nomenclature (having traded these before), but figured this would be easier to understand for minh"
         }
       ],
       "threads": {
@@ -3916,7 +3919,6 @@
         "2125786568468107777": true,
         "2126147810848305285": false,
         "2126151301025157563": false,
-        "2126223096797646944": false,
         "2126419769758740564": false,
         "2126465515925188887": false,
         "2126475303564230755": true,
@@ -3938,7 +3940,8 @@
         "2126740577194492241": false,
         "2126741077143245283": false,
         "2126741993976140042": false,
-        "2126742567966458284": false
+        "2126742567966458284": false,
+        "2126746325362344341": true
       },
       "user_id": "1598545553327067137"
     },
@@ -8190,5 +8193,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-28",
-  "updated_at": "2026-11-28T18:20:20+00:00"
+  "updated_at": "2026-11-28T18:34:25+00:00"
 }
