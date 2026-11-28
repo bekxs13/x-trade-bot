@@ -133,7 +133,7 @@
         }
       ],
       "handle": "based16z",
-      "last_id": "2126611532322869690",
+      "last_id": "2126612471159124335",
       "positions": {
         "BSP": {
           "asset": "BSP",
@@ -217,11 +217,6 @@
         }
       },
       "posts": [
-        {
-          "created_at": "2026-11-26T06:09:52.000Z",
-          "id": "2125834403356328261",
-          "text": "Yoo how u been since high school btw do u have a blow plug?"
-        },
         {
           "created_at": "2026-11-26T06:13:32.000Z",
           "id": "2125835327084568593",
@@ -339,10 +334,17 @@
             "https://pbs.twimg.com/media/HYM96iiakAA5qdg.jpg"
           ],
           "text": "do u have fun  on the internet.  still? https://t.co/OajnZyU3nn"
+        },
+        {
+          "created_at": "2026-11-28T09:41:38.000Z",
+          "id": "2126612471159124335",
+          "images": [
+            "https://pbs.twimg.com/media/HYM-xH0awAEscLt.jpg"
+          ],
+          "text": "do u have fun  on the internet.  still? https://t.co/FeHDC13jBk"
         }
       ],
       "reads": {
-        "2125834403356328261": "No call",
         "2125835327084568593": "No call",
         "2125884473984376855": "No call",
         "2126030298022662337": "No call",
@@ -361,7 +363,8 @@
         "2126563121032790364": "No call",
         "2126563747837939727": "No call",
         "2126610427287343433": "No call",
-        "2126611532322869690": "No call"
+        "2126611532322869690": "No call",
+        "2126612471159124335": "No call"
       },
       "replies": [
         {
@@ -456,10 +459,6 @@
         }
       ],
       "threads": {
-        "2123114159529464276": {
-          "alerted": [],
-          "self_replies": 1
-        },
         "2123168137671753814": {
           "alerted": [],
           "self_replies": 0
@@ -860,6 +859,10 @@
         "2126611532322869690": {
           "alerted": [],
           "self_replies": 0
+        },
+        "2126612471159124335": {
+          "alerted": [],
+          "self_replies": 0
         }
       },
       "trading": {
@@ -870,7 +873,6 @@
         "2125495718052016234": false,
         "2125642856300003422": true,
         "2125673591396237434": true,
-        "2125834403356328261": false,
         "2125835327084568593": false,
         "2125842045755613365": false,
         "2125884473984376855": false,
@@ -897,7 +899,8 @@
         "2126563121032790364": false,
         "2126563747837939727": false,
         "2126610427287343433": false,
-        "2126611532322869690": false
+        "2126611532322869690": false,
+        "2126612471159124335": false
       },
       "user_id": "1446541960181858315"
     },
@@ -8180,5 +8183,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-27",
-  "updated_at": "2026-11-28T09:38:26+00:00"
+  "updated_at": "2026-11-28T09:42:24+00:00"
 }
