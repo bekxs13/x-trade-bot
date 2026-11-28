@@ -3232,7 +3232,7 @@
       },
       "closed": [],
       "handle": "deepdishenjoyer",
-      "last_id": "2126715994001551657",
+      "last_id": "2126738972822962574",
       "positions": {
         "AMD": {
           "asset": "AMD",
@@ -3409,12 +3409,6 @@
       },
       "replies": [
         {
-          "created_at": "2026-11-26T01:31:11.000Z",
-          "id": "2125764268490645509",
-          "reply_to_id": "2125720198204493902",
-          "text": "@mattyglesias you moving to the city?"
-        },
-        {
           "created_at": "2026-11-26T17:24:18.000Z",
           "id": "2126004131999736059",
           "reply_to_id": "2125863798586364094",
@@ -3497,6 +3491,12 @@
           "id": "2126715994001551657",
           "reply_to_id": "2126607937577644341",
           "text": "@bizfactory_ceo no it's no update on AI in trading lol"
+        },
+        {
+          "created_at": "2026-11-28T18:04:18.000Z",
+          "id": "2126738972822962574",
+          "reply_to_id": "2126729321121538178",
+          "text": "@minhnguyen disagree, the logical conclusion of his letter is that you should load up on long dated 10-year swaption calls\n\nThere are ASI paths where too many S&amp;P companies go extinct for S&amp;P to be up a lot"
         }
       ],
       "threads": {
@@ -3914,7 +3914,6 @@
         "2125745253487399294": false,
         "2125745507758993753": true,
         "2125746537829478653": true,
-        "2125764268490645509": false,
         "2125786568468107777": true,
         "2126004131999736059": false,
         "2126147810848305285": false,
@@ -3938,7 +3937,8 @@
         "2126558517779898486": false,
         "2126562194766823639": false,
         "2126713273064292798": true,
-        "2126715994001551657": false
+        "2126715994001551657": false,
+        "2126738972822962574": true
       },
       "user_id": "1598545553327067137"
     },
@@ -8190,5 +8190,5 @@
   },
   "markets_labeled": true,
   "summary_date": "2026-11-28",
-  "updated_at": "2026-11-28T17:48:23+00:00"
+  "updated_at": "2026-11-28T18:06:19+00:00"
 }
